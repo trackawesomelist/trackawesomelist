@@ -2,9 +2,15 @@
 
 A list of awesome ESLint plugins, configs, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dustinspecker/awesome-eslint/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) · ⭐ 3.2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dustinspecker/awesome-eslint/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) · ⭐ 3.3K · 🏷️ Programming Languages
 
 [ [Daily](/content/dustinspecker/awesome-eslint/README.md) / Weekly / [Overview](/content/dustinspecker/awesome-eslint/readme/README.md) ]
+
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Developing for ESLint / Testing Tools
+
+*   [eslint-doc-generator (⭐59)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 

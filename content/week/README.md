@@ -2,7 +2,7 @@
 
 We track over 500 awesome list updates, and you can also subscribe to daily or weekly updates via RSS or News Letter. Visit it [Online](https://www.trackawesomelist.com).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Github](https://github.com/trackawesomelist/trackawesomelist/) · [🌐 Website](https://www.trackawesomelist.com) · 📝 10/29 · ✅ 10/29
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Github](https://github.com/trackawesomelist/trackawesomelist/) · [🌐 Website](https://www.trackawesomelist.com) · 📝 10/30 · ✅ 10/30
 
 ## Table of Contents
 
@@ -373,13 +373,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/)
 
-#### [24. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-##### Java / Sistemas Operativos
-
-*   [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
-
-#### [25. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+#### [24. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ##### APIs and SDKs
 
@@ -391,7 +385,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Esri/pyprt-examples (⭐16)](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
 
-#### [26. Awesome V](/content/vlang/awesome-v/README.md)
+#### [25. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Applications / Command-line
 
@@ -401,7 +395,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [stas (⭐10)](https://github.com/l1mey112/stas) - A stack based compiled programming language. Takes inspiration from Forth with a modern syntax.
 
-#### [27. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+#### [26. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ##### Programming / JavaScript
 
@@ -411,19 +405,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
-#### [28. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+#### [27. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ##### Security Audits / Wallets
 
 *   [algorand-ecosystem-audits (⭐2)](https://github.com/blockshake-io/algorand-ecosystem-audits) - A growing collection of audit reports in the Algorand ecosystem maintained by [blockshake-io](https://blockshake.io).
 
-#### [29. Amas](/content/sindresorhus/amas/README.md)
+#### [28. Amas](/content/sindresorhus/amas/README.md)
 
 ##### Ask these people anything!
 
 *   [Frances Coronel](https://francescoronel.com/ama) - Open source enthusiast, senior software engineer at Byteboard, Corgi mom.
 
-#### [30. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+#### [29. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ##### Strategy
 
@@ -478,13 +472,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 | ------: | -------: | ---: |
 |   2 - 4 |        8 | 120m |
 
-#### [31. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [30. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-#### [32. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+#### [31. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ##### Demo
 
@@ -494,293 +488,43 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
-#### [33. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [32. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Feature Flags
 
 *   [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform.
 
-#### [34. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
-### [Advanced GitHub Notifier (⭐73)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
-
-Installs: 166 | Stars: 73 | Last update: 4 Jun 2022
-### [Autoviewed (⭐6)](https://github.com/Luismahou/autoviewed) <a href="https://chrome.google.com/webstore/detail/autoviewed/occcjmolphcfebdeichmoflmfgeefjef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Removes clutter from your pull request by automatically marking as viewed files that aren't worth reviewing.
-
-Installs: 40 | Stars: 6 | Last update: 14 Feb 2022
-### [CodeWing (⭐44)](https://github.com/codewing-dev/codewing) <a href="https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Next level code navigation for GitHub.
-
-Installs: 629 | Stars: 44 | Last update: 20 Jul 2022
-### [Codeflower (⭐12)](https://github.com/code-flower/chrome) <a href="https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/codeflower/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.
-
-Installs: 184 | Stars: 12 | Last update: 26 Apr 2022
-### [CoderStats link for GitHub (⭐18)](https://github.com/coderstats/cxt_coderstats) <a href="https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/coderstats/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-The CoderStats link for GitHub Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on GitHub.
-
-Installs: 776 | Stars: 18 | Last update: 20 Nov 2020
-### [Contributors on GitHub (⭐436)](https://github.com/hzoo/contributors-on-github) <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
-
-Installs: 355 | Stars: 436 | Last update: 1 Mar 2021
-### [Enhanced GitHub (⭐1.7k)](https://github.com/softvar/enhanced-github) <a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/enhanced-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
-
-Displays size of each file, download link and an option of copying file contents directly to clipboard
-
-Installs: 40684 | Stars: 1684 | Last update: 25 Dec 2021
-### [GIFs for GitHub (⭐126)](https://github.com/N1ck/gifs-for-github) <a href="https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gifs-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Easily search GIPHY to add a GIF into any GitHub comment box.
-
-Installs: 6411 | Stars: 126 | Last update: 17 Mar 2022
-### [Git History (⭐13k)](https://github.com/pomber/git-history) <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-history/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Quickly browse the history of a file from any git repository.
-
-Installs: 7297 | Stars: 13118 | Last update: 6 May 2020
-### [GitHub Code Folding (⭐281)](https://github.com/noam3127/github-code-folding) <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
-
-Installs: 3157 | Stars: 282 | Last update: 14 Jul 2022
-### [GitHub Custom Tab Size (⭐65)](https://github.com/lukechilds/github-custom-tab-size) <a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Set custom tab size for code view on GitHub.com
-
-Installs: 620 | Stars: 65 | Last update: 6 May 2019
-### [GitHub Diff Navigator (⭐19)](https://github.com/daattali/github-diff-navigator-extension) <a href="https://chrome.google.com/webstore/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/addon/diff-navigator-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Easily navigate through the changes in a file that has been edited on GitHub.
-
-Installs: 217 | Stars: 19 | Last update: 24 Jun 2020
-### [GitHub File Icon (⭐1.1k)](https://github.com/homerchen19/github-file-icons) <a href="https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-A browser extension which gives different filetypes different icons on GitHub.
-
-Installs: 10000 | Stars: 1153 | Last update: 30 Jun 2022
-### [GitHub Hovercard (⭐1.7k)](https://github.com/Justineo/github-hovercard) <a href="https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> <a href="https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
-
-Neat hovercards for GitHub.
-
-Installs: 24923 | Stars: 1714 | Last update: 12 May 2021
-### [GitHub Issue Link Status (⭐291)](https://github.com/fregante/github-issue-link-status) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Colorize issue and PR links to see their status (open, closed, merged).
-
-Installs: 1015 | Stars: 291 | Last update: 4 Nov 2021
-### [GitHub Npm Stats (⭐54)](https://github.com/katranci/github-npm-stats) <a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Displays npm package stats on GitHub
-
-Installs: 593 | Stars: 54 | Last update: 31 May 2020
-### [GitHub Red Issues (⭐37)](https://github.com/KatsuteDev/GitHub-Red-Issues) <a href="https://chrome.google.com/webstore/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-red-issues"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Revert closed GitHub issues from purple back to red
-
-Installs: 22 | Stars: 37 | Last update: 13 Oct 2022
-### [GitHub Repo Size (⭐1.1k)](https://github.com/harshjv/github-repo-size) <a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Automatically adds repository size to GitHub's repository summary.
-
-Installs: 10000 | Stars: 1085 | Last update: 26 Jun 2020
-### [GitHub Story Points (⭐60)](https://github.com/banyan/github-story-points) <a href="https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-story-points/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Chrome extension to see story points in GitHub projects.
-
-Installs: 748 | Stars: 60 | Last update: 17 Aug 2020
-### [GitHub User Languages (⭐41)](https://github.com/freyamade/github-user-languages) <a href="https://chrome.google.com/webstore/detail/github-user-languages/kikdmnikeponomghepmfipgiijlmfhfl"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-user-languages/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.
-
-Installs: 995 | Stars: 41 | Last update: 16 Jun 2022
-### [GitHub Writer (⭐300)](https://github.com/ckeditor/github-writer) <a href="https://chrome.google.com/webstore/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-writer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.
-
-Installs: 1125 | Stars: 301 | Last update: 13 Aug 2022
-### [GitHub vscode-icons (⭐229)](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Show [vscode-icons (⭐3.7k)](https://github.com/vscode-icons/vscode-icons) in the repository browser.
-
-Installs: 2000 | Stars: 230 | Last update: 30 Sep 2021
-### [GitZip for github (⭐23)](https://github.com/GitZip/chrome-extension) <a href="https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gitzip/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-It can make the sub-directories and files of github repository as zip and download it
-
-Installs: 93049 | Stars: 23 | Last update: 19 Jul 2022
-### [Github Saved Filters](https://www.producthunt.com/posts/github-saved-filters) <a href="https://chrome.google.com/webstore/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list.
-
-Installs: 395 | Stars: n/a | Last update: 22 Aug 2022
-### [GithubOriginalStreak (⭐214)](https://github.com/Naramsim/GithubOriginalStreak) <a href="https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/it/extensions/details/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
-
-Extension to get back current and longest streak.
-
-Installs: 699 | Stars: 214 | Last update: 30 Jun 2021
-### [Hide files on GitHub (⭐306)](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/hide-files-on-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/hide-files-on-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
-
-Hide dotfiles from the GitHub file browser.
-
-Installs: 655 | Stars: 306 | Last update: 17 Sep 2021
-### [Like On GitHub (⭐229)](https://github.com/Idnan/like-on-github) <a href="https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.
-
-Installs: 61 | Stars: 229 | Last update: 26 May 2018
-### [Lovely forks (⭐473)](https://github.com/musically-ut/lovely-forks) <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/musically-ut/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
-
-See forks with the most stars under the names of repositories.
-
-Installs: 1299 | Stars: 472 | Last update: 1 Sep 2021
-### [Material Icons for Github (⭐243)](https://github.com/Claudiohbsantos/github-material-icons-extension) <a href="https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/material-icons-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/material-icons-for-github/khckkdgomkcjjnpgjmdmbceiddlmiolb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
-
-Show Material icons for files/folders in repository file viewer. Display the same icons from vscode-material-icon-theme VSCode extension.
-
-Installs: 6385 | Stars: 244 | Last update: 9 Oct 2022
-### [My Git Repo News (⭐14)](https://github.com/greybax/github-extension-my-repo-news) <a href="https://chrome.google.com/webstore/detail/my-git-repo-news/bpijgihicffjpcnjndpcdicohomlfbhp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Chrome extension which helps you not to miss important changes in your news thread related to your repo
-
-Installs: 24 | Stars: 14 | Last update: 1 Oct 2018
-### [Notifications Preview for GitHub (⭐138)](https://github.com/tanmayrajani/notifications-preview-github) <a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
-
-Installs: 483 | Stars: 137 | Last update: 9 May 2022
-### [Notifier for GitHub (⭐1.6k)](https://github.com/sindresorhus/notifier-for-github) <a href="https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifier-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/notifier-for-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
-
-Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
-
-Installs: 10536 | Stars: 1593 | Last update: 2 Mar 2022
-### [OctoLenses (⭐119)](https://github.com/rgehan/octolenses) <a href="https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-octolenses/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Filter your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.
-
-Installs: 114 | Stars: 118 | Last update: 5 Mar 2020
-### [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/OctoLinker) <a href="https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/octolinker/id1549308269"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
-
-OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.
-
-Installs: 31984 | Stars: 5056 | Last update: 15 Jul 2022
-### [OctoPermalinker (⭐18)](https://github.com/josephfrazier/octopermalinker) <a href="https://chrome.google.com/webstore/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-OctoPermalinker is a browser extension that searches GitHub comments/files for links to files on branches, and adds a link to where the branch pointed when the comment/file was made/updated. This helps you avoid following a link that was broken after being posted. For context, here's some discussion about broken GitHub links: [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
-
-For example, suppose you're looking at a gist that links to a file on the master branch of a repo. At the time the gist was made, the link worked, but if the file gets removed, the link is broken. OctoPermalinker uses the gist creation date to add a permalink that still works.
-
-Installs: 173 | Stars: 18 | Last update: 20 May 2017
-### [Octotree (⭐22k)](https://github.com/ovity/octotree) <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/ovity/octotree#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
-
-Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
-
-Installs: 438161 | Stars: 22229 | Last update: 20 Oct 2022
-### [PR Monitor (⭐98)](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.
-
-Installs: 723 | Stars: 100 | Last update: 16 Oct 2022
-### [Potential changes for GitHub (⭐96)](https://github.com/dzhavat/potential-changes-for-github) <a href="https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/potential-changes-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Browser extension that shows which pull requests contain changes related to a file.
-
-Installs: 52 | Stars: 96 | Last update: 15 Oct 2020
-### [Refined GitHub (⭐19k)](https://github.com/refined-github/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
-
-Extension that simplifies the GitHub interface and adds useful features.
-
-Installs: 67571 | Stars: 19170 | Last update: 26 Oct 2022
-### [Render Whitespace on GitHub (⭐71)](https://github.com/glebm/render-whitespace-on-github) <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.
-
-Installs: 606 | Stars: 71 | Last update: 25 Aug 2018
-### [Sourcegraph (⭐7k)](https://github.com/sourcegraph/sourcegraph/tree/main/client/browser) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/sourcegraph-for-firefox/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
-
-The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
-
-1.  Go to definition
-2.  Find references
-3.  Powerful code search with regexp matching, diff searches, and other filters
-4.  Hover tooltips
-5.  File tree navigation
-
-Installs: 101277 | Stars: 7055 | Last update: 18 Oct 2022
-### [What's New on GitHub (⭐25)](https://github.com/flawyte/whats-new-github) <a href="https://chrome.google.com/webstore/detail/whats-new-on-github/ldleapnlgbkpkabhbkkeangmnfpikahe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/fr/firefox/addon/whats-new-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-Helps you see easily which activities happened since you last visited GitHub.
-
-Installs: 198 | Stars: 25 | Last update: n/a
-### [WorkerB for Pull Requests](https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/main/README.md/undefined) <a href="https://chrome.google.com/webstore/detail/workerb-for-pull-requests/cagholjopklnloocclidppnkmpnkghja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Generate a magic link for your PR and post it on shared Slack channel, to entice reviewers to pick up your PR faster!
-
-Installs: 961 | Stars: n/a | Last update: 26 Aug 2022
-### [eesel: The new tab for GitHub](https://www.eesel.app/) <a href="https://chrome.google.com/webstore/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/eesel/reviews/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-All your issues, PRs, repos and other work documents right in your new tab
-
-Installs: 7099 | Stars: n/a | Last update: 19 Oct 2022
-### [gitako - github file tree (⭐2k)](https://github.com/enixcoda/gitako) <a href="https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
-
-file tree for github, and more than that.
-
-Installs: 10793 | Stars: n/a | Last update: 29 Aug 2022
-### [gitpod - dev environments in a browser tab (⭐104)](https://github.com/gitpod-io/browser-extension) <a href="https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitpod/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
-
-gitpod streamlines developer workflows by providing ready-to-code development environments in your browser - powered by vs code.
-
-Installs: 63019 | Stars: 106 | Last update: 24 Oct 2022
-### [npmhub (⭐654)](https://github.com/npmhub/npmhub) <a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/npm-hub/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/npmhub/id1542090429"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
-
-When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
-
-Installs: 2107 | Stars: 654 | Last update: 12 Apr 2022
-### [xhub (⭐69)](https://github.com/nschloe/xhub) <a href="https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
-
-Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
-
-Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
-
-#### [35. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+#### [33. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ##### Libraries / Chrome Extensions
 
 *   :octocat: [castore (⭐32)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
 
-#### [36. Awesome Yew](/content/jetli/awesome-yew/README.md)
+#### [34. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ##### Projects
 
 *   [viz.rs (⭐1)](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
 
-#### [37. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [35. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### Websites / Godot version unknown
 
 *   [The Godot Report](https://www.thegodotreport.com/) - A newsletter with news, tutorials, game and demo releases and more.
 
-#### [38. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+#### [36. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ##### Tools and session management
 
 *   [tmux-powerline (⭐2.9k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 
-#### [39. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+#### [37. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ##### For Electron / Other
 
 *   [pluggable-electron (⭐44)](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 
-#### [40. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [38. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### Database
 
@@ -799,7 +543,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [TestContainers dotnet (⭐23)](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
 
-#### [41. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [39. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Books / Visualization Tools
 
@@ -809,13 +553,13 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
 
-#### [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [singularityenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-singularityenv) - Provides a `singularityenv_prompt_info` function which returns the current singularity environment name
 
-#### [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Plugin Manager
 
@@ -838,7 +582,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 *   [zbirenbaum/neodim (⭐90)](https://github.com/zbirenbaum/neodim) - Dimming the highlights of unused functions, variables, parameters, and more.
 *   [bfredl/nvim-miniyank (⭐217)](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
 
-#### [44. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+#### [42. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ##### Changeset Tools / Web Services
 
@@ -853,23 +597,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code (⭐11)](https://github.com/johanmorganti/osm-datadog))
 
-#### [45. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
-
-##### Projects Related to eBPF / Testing in Virtual Environments
-
-*   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
-
-#### [46. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
-
-##### Menubar / Text
-
-*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar is a MacOS applicatoin that shows - Battery, Disk, Memory, Cpu, Network Bandwidth, Wifi on menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-
-##### Utilities / Text
-
-*   [Keka (⭐3.3k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-
-#### [47. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [43. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Docs / Official Docs
 
@@ -909,7 +637,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 
-#### [48. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [44. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -919,7 +647,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [static-web-server (⭐446)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 
-#### [49. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Links / Courses
 
@@ -1252,19 +980,399 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 *   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang)
 *   [msink/kotlin-libui (⭐602)](https://github.com/msink/kotlin-libui)
 
+#### [46. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+##### 1 - Agnósticos / Inteligencia Artificial
+
+*   [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+
+##### Ensamblador / Sistemas Operativos
+
+*   [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
+
+##### Java / Sistemas Operativos
+
+*   [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
+
+#### [47. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+### [Advanced GitHub Notifier (⭐73)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
+
+Installs: 169 | Stars: 73 | Last update: 4 Jun 2022
+### [Autoviewed (⭐6)](https://github.com/Luismahou/autoviewed) <a href="https://chrome.google.com/webstore/detail/autoviewed/occcjmolphcfebdeichmoflmfgeefjef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Removes clutter from your pull request by automatically marking as viewed files that aren't worth reviewing.
+
+Installs: 38 | Stars: 6 | Last update: 14 Feb 2022
+### [CodeWing (⭐44)](https://github.com/codewing-dev/codewing) <a href="https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Next level code navigation for GitHub.
+
+Installs: 614 | Stars: 44 | Last update: 20 Jul 2022
+### [Codeflower (⭐12)](https://github.com/code-flower/chrome) <a href="https://chrome.google.com/webstore/detail/codeflower/mnlengnbfpfgcfdgfpkjekoaeophmmeh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/codeflower/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Visualize GitHub repos as d3 force-directed graphs. The extension gives you a quick overview of the size and composition of any repo.
+
+Installs: 182 | Stars: 12 | Last update: 26 Apr 2022
+### [CoderStats link for GitHub (⭐18)](https://github.com/coderstats/cxt_coderstats) <a href="https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/coderstats/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+The CoderStats link for GitHub Chrome extension displays a link to the CoderStats page for the currently displayed user or organization profile page on GitHub.
+
+Installs: 777 | Stars: 18 | Last update: 20 Nov 2020
+### [Contributors on GitHub (⭐436)](https://github.com/hzoo/contributors-on-github) <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/contributor-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
+
+Installs: 354 | Stars: 436 | Last update: 1 Mar 2021
+### [Enhanced GitHub (⭐1.7k)](https://github.com/softvar/enhanced-github) <a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/enhanced-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/enhanced-github/eibibhailjcnbpjmemmcaakcookdleon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+
+Displays size of each file, download link and an option of copying file contents directly to clipboard
+
+Installs: 40692 | Stars: 1684 | Last update: 25 Dec 2021
+### [GIFs for GitHub (⭐126)](https://github.com/N1ck/gifs-for-github) <a href="https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gifs-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Easily search GIPHY to add a GIF into any GitHub comment box.
+
+Installs: 6420 | Stars: 126 | Last update: 17 Mar 2022
+### [Git History (⭐13k)](https://github.com/pomber/git-history) <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-history/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Quickly browse the history of a file from any git repository.
+
+Installs: 7303 | Stars: 13120 | Last update: 6 May 2020
+### [GitHub Code Folding (⭐281)](https://github.com/noam3127/github-code-folding) <a href="https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-code-folding"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
+
+Installs: 3159 | Stars: 282 | Last update: 14 Jul 2022
+### [GitHub Custom Tab Size (⭐65)](https://github.com/lukechilds/github-custom-tab-size) <a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Set custom tab size for code view on GitHub.com
+
+Installs: 616 | Stars: 65 | Last update: 6 May 2019
+### [GitHub Diff Navigator (⭐19)](https://github.com/daattali/github-diff-navigator-extension) <a href="https://chrome.google.com/webstore/detail/diff-navigator-for-github/aoojogkiedabnddmokieplfnmjehlneo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/addon/diff-navigator-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Easily navigate through the changes in a file that has been edited on GitHub.
+
+Installs: 214 | Stars: 19 | Last update: 24 Jun 2020
+### [GitHub File Icon (⭐1.1k)](https://github.com/homerchen19/github-file-icons) <a href="https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+A browser extension which gives different filetypes different icons on GitHub.
+
+Installs: 10000 | Stars: 1154 | Last update: 30 Jun 2022
+### [GitHub Hovercard (⭐1.7k)](https://github.com/Justineo/github-hovercard) <a href="https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> <a href="https://github.com/Justineo/github-hovercard/tree/master/extensions/edge"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+
+Neat hovercards for GitHub.
+
+Installs: 24927 | Stars: 1714 | Last update: 12 May 2021
+### [GitHub Issue Link Status (⭐291)](https://github.com/fregante/github-issue-link-status) <a href="https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-issue-link-status/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Colorize issue and PR links to see their status (open, closed, merged).
+
+Installs: 1003 | Stars: 291 | Last update: 4 Nov 2021
+### [GitHub Npm Stats (⭐54)](https://github.com/katranci/github-npm-stats) <a href="https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Displays npm package stats on GitHub
+
+Installs: 603 | Stars: 54 | Last update: 31 May 2020
+### [GitHub Red Issues (⭐37)](https://github.com/KatsuteDev/GitHub-Red-Issues) <a href="https://chrome.google.com/webstore/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-red-issues"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Revert closed GitHub issues from purple back to red
+
+Installs: 23 | Stars: 37 | Last update: 13 Oct 2022
+### [GitHub Repo Size (⭐1.1k)](https://github.com/harshjv/github-repo-size) <a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Automatically adds repository size to GitHub's repository summary.
+
+Installs: 10000 | Stars: 1085 | Last update: 26 Jun 2020
+### [GitHub Story Points (⭐60)](https://github.com/banyan/github-story-points) <a href="https://chrome.google.com/webstore/detail/github-story-points/fdhfdpafombnahpjjjcfopmehfofbdko"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-story-points/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Chrome extension to see story points in GitHub projects.
+
+Installs: 754 | Stars: 60 | Last update: 17 Aug 2020
+### [GitHub User Languages (⭐41)](https://github.com/freyamade/github-user-languages) <a href="https://chrome.google.com/webstore/detail/github-user-languages/kikdmnikeponomghepmfipgiijlmfhfl"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-user-languages/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Generates a pie chart on user profile pages displaying a breakdown of what languages they have used in their repositories.
+
+Installs: 998 | Stars: 41 | Last update: 16 Jun 2022
+### [GitHub Writer (⭐300)](https://github.com/ckeditor/github-writer) <a href="https://chrome.google.com/webstore/detail/github-writer/diilnnhpcdjhhkjcbdljaonhmhapadap"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-writer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+This extension adds the simplicity of WYSIWYG editing to issues, comments, pull requests, wikis and discussions in GitHub. It accepts Markdown input and offers productive writing, starting with tables.
+
+Installs: 1126 | Stars: 301 | Last update: 13 Aug 2022
+### [GitHub vscode-icons (⭐229)](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-vscode-icons/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Show [vscode-icons (⭐3.7k)](https://github.com/vscode-icons/vscode-icons) in the repository browser.
+
+Installs: 2000 | Stars: 230 | Last update: 30 Sep 2021
+### [GitZip for github (⭐23)](https://github.com/GitZip/chrome-extension) <a href="https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/gitzip/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+It can make the sub-directories and files of github repository as zip and download it
+
+Installs: 93086 | Stars: 23 | Last update: 19 Jul 2022
+### [Github Saved Filters](https://www.producthunt.com/posts/github-saved-filters) <a href="https://chrome.google.com/webstore/detail/github-saved-filters/pmkbippobcmchabghaeonfbbcncjhmjm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Create, save, edit, pin, search and delete filters that you commonly use on the Github Issues and Pull Requests pages. You are able to scope filters to be shown globally (on each repo) or only have them show up on the repo you create them on. Pinning filters is also a feature that this extension allows you to do. So if you have several filters you use daily - you have a way to quickly access them, at the top of your list.
+
+Installs: 390 | Stars: n/a | Last update: 22 Aug 2022
+### [GithubOriginalStreak (⭐214)](https://github.com/Naramsim/GithubOriginalStreak) <a href="https://chrome.google.com/webstore/detail/github-original-streak/jgfeifpakohnblfnjdpigclinhbkocja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/it/extensions/details/github-original-streak/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+
+Extension to get back current and longest streak.
+
+Installs: 707 | Stars: 214 | Last update: 30 Jun 2021
+### [Hide files on GitHub (⭐306)](https://github.com/sindresorhus/hide-files-on-github) <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/hide-files-on-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/hide-files-on-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+
+Hide dotfiles from the GitHub file browser.
+
+Installs: 644 | Stars: 306 | Last update: 17 Sep 2021
+### [Like On GitHub (⭐229)](https://github.com/Idnan/like-on-github) <a href="https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Chrome extension that adds a button in browser and links this button to a GitHub repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.
+
+Installs: 60 | Stars: 229 | Last update: 26 May 2018
+### [Lovely forks (⭐473)](https://github.com/musically-ut/lovely-forks) <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/musically-ut/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+
+See forks with the most stars under the names of repositories.
+
+Installs: 1300 | Stars: 473 | Last update: 1 Sep 2021
+### [Material Icons for Github (⭐243)](https://github.com/Claudiohbsantos/github-material-icons-extension) <a href="https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/material-icons-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/material-icons-for-github/khckkdgomkcjjnpgjmdmbceiddlmiolb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+
+Show Material icons for files/folders in repository file viewer. Display the same icons from vscode-material-icon-theme VSCode extension.
+
+Installs: 6392 | Stars: 244 | Last update: 9 Oct 2022
+### [My Git Repo News (⭐14)](https://github.com/greybax/github-extension-my-repo-news) <a href="https://chrome.google.com/webstore/detail/my-git-repo-news/bpijgihicffjpcnjndpcdicohomlfbhp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Chrome extension which helps you not to miss important changes in your news thread related to your repo
+
+Installs: 20 | Stars: 14 | Last update: 1 Oct 2018
+### [Notifications Preview for GitHub (⭐138)](https://github.com/tanmayrajani/notifications-preview-github) <a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
+
+Installs: 479 | Stars: 137 | Last update: 9 May 2022
+### [Notifier for GitHub (⭐1.6k)](https://github.com/sindresorhus/notifier-for-github) <a href="https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/notifier-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/sindresorhus/notifier-for-github#install"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+
+Displays your GitHub notifications unread count. Supports GitHub Enterprise and an option to only show unread count for issues you're participating in. You can click the icon to quickly see your unread notifications.
+
+Installs: 10547 | Stars: 1593 | Last update: 2 Mar 2022
+### [OctoLenses (⭐119)](https://github.com/rgehan/octolenses) <a href="https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/github-octolenses/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Filter your pull requests/issues in different categories giving you a big boost in productivity. Also suggests new trending repositories.
+
+Installs: 113 | Stars: 118 | Last update: 5 Mar 2020
+### [OctoLinker (⭐5.1k)](https://github.com/OctoLinker/OctoLinker) <a href="https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/octolinker/id1549308269"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+
+OctoLinker is the easiest and best way to navigate between files and projects on GitHub. It supports languages such as JavaScript, Ruby, Go, PHP, JAVA and more. It works with package.json as well as with Gemfiles.
+
+Installs: 31996 | Stars: 5056 | Last update: 15 Jul 2022
+### [OctoPermalinker (⭐18)](https://github.com/josephfrazier/octopermalinker) <a href="https://chrome.google.com/webstore/detail/octopermalinker/bcnkgcoohaaaclieohdlkphgfinkgbfm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+OctoPermalinker is a browser extension that searches GitHub comments/files for links to files on branches, and adds a link to where the branch pointed when the comment/file was made/updated. This helps you avoid following a link that was broken after being posted. For context, here's some discussion about broken GitHub links: [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
+
+For example, suppose you're looking at a gist that links to a file on the master branch of a repo. At the time the gist was made, the link worked, but if the file gets removed, the link is broken. OctoPermalinker uses the gist creation date to add a permalink that still works.
+
+Installs: 170 | Stars: 18 | Last update: 20 May 2017
+### [Octotree (⭐22k)](https://github.com/ovity/octotree) <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://github.com/ovity/octotree#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a> <a href="https://addons.opera.com/extensions/details/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
+
+Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.
+
+Installs: 438336 | Stars: 22230 | Last update: 20 Oct 2022
+### [PR Monitor (⭐98)](https://github.com/fwouts/prmonitor) <a href="https://chrome.google.com/webstore/detail/pr-monitor/pneldbfhblmldbhmkolclpkijgnjcmng"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/pr-monitor/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Helps you keep track of incoming and outgoing PRs, and notifies you when you receive a pull request on GitHub.
+
+Installs: 717 | Stars: 100 | Last update: 16 Oct 2022
+### [Potential changes for GitHub (⭐96)](https://github.com/dzhavat/potential-changes-for-github) <a href="https://chrome.google.com/webstore/detail/potential-changes-for-git/neehipoljbecacjcgcceflmlikiadkob"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/potential-changes-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Browser extension that shows which pull requests contain changes related to a file.
+
+Installs: 52 | Stars: 96 | Last update: 15 Oct 2020
+### [Refined GitHub (⭐19k)](https://github.com/refined-github/refined-github) <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/refined-github-/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/id1519867270"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+
+Extension that simplifies the GitHub interface and adds useful features.
+
+Installs: 67680 | Stars: 19176 | Last update: 26 Oct 2022
+### [Render Whitespace on GitHub (⭐71)](https://github.com/glebm/render-whitespace-on-github) <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Are they tabs? Are they spaces? How many? Never wonder again! Renders spaces as `·` and tabs as `→` in all the code on GitHub.
+
+Installs: 610 | Stars: 71 | Last update: 25 Aug 2018
+### [Sourcegraph (⭐7k)](https://github.com/sourcegraph/sourcegraph/tree/main/client/browser) <a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/sourcegraph-for-firefox/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/us/app/sourcegraph-for-safari/id1543262193"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+
+The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:
+
+1.  Go to definition
+2.  Find references
+3.  Powerful code search with regexp matching, diff searches, and other filters
+4.  Hover tooltips
+5.  File tree navigation
+
+Installs: 101305 | Stars: 7058 | Last update: 18 Oct 2022
+### [What's New on GitHub (⭐25)](https://github.com/flawyte/whats-new-github) <a href="https://chrome.google.com/webstore/detail/whats-new-on-github/ldleapnlgbkpkabhbkkeangmnfpikahe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/fr/firefox/addon/whats-new-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Helps you see easily which activities happened since you last visited GitHub.
+
+Installs: 192 | Stars: 25 | Last update: n/a
+### [WorkerB for Pull Requests](https://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/main/README.md/undefined) <a href="https://chrome.google.com/webstore/detail/workerb-for-pull-requests/cagholjopklnloocclidppnkmpnkghja"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Generate a magic link for your PR and post it on shared Slack channel, to entice reviewers to pick up your PR faster!
+
+Installs: 961 | Stars: n/a | Last update: 26 Aug 2022
+### [eesel: The new tab for GitHub](https://www.eesel.app/) <a href="https://chrome.google.com/webstore/detail/eesel-the-new-tab-for-wor/jffaiidojfhflballoapgofphkadiono"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/eesel/reviews/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+All your issues, PRs, repos and other work documents right in your new tab
+
+Installs: 7101 | Stars: n/a | Last update: 19 Oct 2022
+### [gitako - github file tree (⭐2k)](https://github.com/enixcoda/gitako) <a href="https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitako-github-file-tree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://microsoftedge.microsoft.com/addons/detail/gitako-github-file-tree/alpoloddcggjhakjemghahlkofjekbca"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" width="24" /></a>
+
+file tree for github, and more than that.
+
+Installs: 10807 | Stars: n/a | Last update: 29 Aug 2022
+### [gitpod - dev environments in a browser tab (⭐104)](https://github.com/gitpod-io/browser-extension) <a href="https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/gitpod/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+gitpod streamlines developer workflows by providing ready-to-code development environments in your browser - powered by vs code.
+
+Installs: 63064 | Stars: 106 | Last update: 24 Oct 2022
+### [npmhub (⭐654)](https://github.com/npmhub/npmhub) <a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/npm-hub/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a> <a href="https://apps.apple.com/app/npmhub/id1542090429"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
+
+When viewing a repository on github.com that has a package.json file, this extension will introspect the dependencies in package.json and display links and description for each dependency, just below the repo's README.
+
+Installs: 2108 | Stars: 654 | Last update: 12 Apr 2022
+### [xhub (⭐69)](https://github.com/nschloe/xhub) <a href="https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+
+Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
+
+Installs: 474 | Stars: 69 | Last update: 18 Sep 2022
+
+#### [48. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+
+##### Projects Related to eBPF / Testing in Virtual Environments
+
+*   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
+
+#### [49. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+
+##### Languages
+
+*   ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") - C language.
+*   ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") - C++ language.
+*   ![c\_sharp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/csharp-16.png "C# Language") - C# language.
+*   ![clojure\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/clojure-16.png "Clojure Language") - Clojure language.
+*   ![coffee\_script\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/coffeescript-16.png "CoffeeScript language.") - CoffeeScript language.
+*   ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.") - CSS language.
+*   ![go\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/golang-16.png "Go language.") - Go language.
+*   ![elm\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/elm-16.png "Elm Language") - Elm language.
+*   ![haskell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/haskell-16.png "Haskell language.") - Haskell language.
+*   ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") - JavaScript language.
+*   ![lua\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/Lua-16.png "Lua language.") - Lua language.
+*   ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.") - Objective-C language.
+*   ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") - Python language.
+*   ![ruby\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/ruby-16.png "Ruby language.") - Ruby language.
+*   ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.") - Rust language.
+*   ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") - Shell language.
+*   ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") - Swift language.
+*   ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") - TypeScript language.
+
+##### Audio
+
+*   [Aural Player (⭐441)](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Database
+
+*   [Bdash (⭐1.4k)](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+##### Productivity / Text
+
+*   [sqlectron (⭐4.1k)](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+
+##### IDE / Text
+
+*   [Brackets (⭐722)](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [CodeEdit (⭐15k)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Development / Git
+
+*   [GitAhead (⭐1.6k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+
+##### Development / iOS / macOS
+
+*   [AppBox (⭐553)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+
+##### Editors / Markdown
+
+*   [Obsidian plugins & themes (⭐3.3k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+##### Editors / Text
+
+*   [AuroraEditor (⭐132)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Utilities / Text
+
+*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+*   [Betaflight Configurator (⭐1.7k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [far2l (⭐1.4k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2 ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Balena Etcher (⭐24k)](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [Keka (⭐3.3k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [NVM (⭐62k)](https://github.com/nvm-sh/nvm) - Node Version Manager.  ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.")
+*   [Nmap (⭐7k)](https://github.com/nmap/nmap) - Nmap - the Network Mapper.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Nmap (⭐4.9k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [OpenRocket (⭐733)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
+*   [nix-package-manager (⭐6.9k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages. !\[c++\_icon] ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[nix\_icon]
+
+##### Games / Text
+
+*   [Widelands (⭐1.7k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") ![lua\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/Lua-16.png "Lua language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+##### Graphics / Text
+
+*   [Blender](https://git.blender.org/gitweb/gitweb.cgi/blender.git) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
+
+##### Images / Text
+
+*   [Flameshot (⭐19k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+
+##### Menubar / Text
+
+*   [Market Bar (⭐15)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. ![Swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Notes / Text
+
+*   [Boostnote (⭐17k)](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Standard Notes (⭐3.8k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
+*   [Tusk (⭐3.1k)](https://github.com/klaudiosinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
+
+##### Other / Text
+
+*   [ChipMunk (⭐370)](https://github.com/esrlabs/chipmunk) - Log analysis tool.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+
+##### Security / Text
+
+*   [VeraCrypt (⭐4.4k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.  ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+
+##### System / Text
+
+*   [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") !\[c++\_icon]
+
+#### [50. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+
+##### Developing for ESLint / Testing Tools
+
+*   [eslint-doc-generator (⭐59)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
+
 ---
 
 - Next: [Oct 17 - Oct 23, 2022](&#x2F;content&#x2F;2022&#x2F;42&#x2F;README.md)
 
 ## Top 50 Awesome List
 
-1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 253K 📝 10&#x2F;28 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
+1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 253K 📝 10&#x2F;30 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 2. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 145K 📝 10&#x2F;23 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 90K 📝 10&#x2F;25 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 4. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 106K 📝 10&#x2F;21 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 54K 📝 10&#x2F;27 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 61K 📝 10&#x2F;24 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-7. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 33K 📝 10&#x2F;29 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+7. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 33K 📝 10&#x2F;30 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 8. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K 📝 10&#x2F;22 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 30K 📝 10&#x2F;29 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 10. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 33K 📝 10&#x2F;28 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
@@ -1294,20 +1402,20 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 34. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 3.8K 📝 10&#x2F;29 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
 35. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.2K 📝 10&#x2F;23 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 36. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 3.8K 📝 10&#x2F;29 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
-37. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 15K 📝 10&#x2F;13 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
-38. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 10&#x2F;21 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-39. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 3.3K 📝 10&#x2F;29 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-40. [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source ⭐ 17K 📝 10&#x2F;12 ](https://github.com/jtoy/awesome-tensorflow)) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
-41. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 13K 📝 10&#x2F;14 ](https://github.com/dariubs/GoBooks)) - List of Golang books
-42. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 2.6K 📝 10&#x2F;29 ](https://github.com/zoidbergwill/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
-43. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 6.2K 📝 10&#x2F;20 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
-44. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3K 📝 10&#x2F;26 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
-45. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 9.7K 📝 10&#x2F;13 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
-46. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 45K 📝 09&#x2F;26 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
-47. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 10K 📝 10&#x2F;10 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-48. [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 2.5K 📝 10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
-49. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.1K 📝 10&#x2F;22 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
-50. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 3.7K 📝 10&#x2F;20 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+37. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 3.3K 📝 10&#x2F;30 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
+38. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 15K 📝 10&#x2F;13 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
+39. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 10&#x2F;21 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+40. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 3.3K 📝 10&#x2F;29 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+41. [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source ⭐ 17K 📝 10&#x2F;12 ](https://github.com/jtoy/awesome-tensorflow)) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+42. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 13K 📝 10&#x2F;14 ](https://github.com/dariubs/GoBooks)) - List of Golang books
+43. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 2.6K 📝 10&#x2F;29 ](https://github.com/zoidbergwill/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
+44. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 6.2K 📝 10&#x2F;20 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
+45. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3K 📝 10&#x2F;26 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
+46. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 9.7K 📝 10&#x2F;13 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
+47. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 45K 📝 09&#x2F;26 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
+48. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 10K 📝 10&#x2F;10 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+49. [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 2.5K 📝 10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
+50. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.1K 📝 10&#x2F;22 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
 
 ## All Tracked List
 
@@ -1358,7 +1466,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 - [Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md) - ([Source ⭐ 282, 📝 19&#x2F;12&#x2F;06 ](https://github.com/TalAter/awesome-book-authoring)) - :books: A collection of awesome resources for technical book authors
 - [Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md) - ([Source ⭐ 163, 📝 10&#x2F;25 ](https://github.com/bystritskiy/awesome-ios-books)) - 📚 Directory of iOS books
 - [ElixirBooks](/content/sger/ElixirBooks/README.md) - ([Source ⭐ 1.2K, 📝 08&#x2F;14 ](https://github.com/sger/ElixirBooks)) - List of Elixir books
-- [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 253K, 📝 10&#x2F;28 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
+- [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 253K, 📝 10&#x2F;30 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 - [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 13K, 📝 10&#x2F;14 ](https://github.com/dariubs/GoBooks)) - List of Golang books
 - [Rbooks](/content/RomanTsegelskyi/rbooks/README.md) - ([Source ⭐ 190, 📝 17&#x2F;10&#x2F;11 ](https://github.com/RomanTsegelskyi/rbooks)) - A curated list of #rstats books
 
@@ -1801,7 +1909,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 - [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 2.6K, 📝 08&#x2F;01 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
 - [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.3K, 📝 09&#x2F;27 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
 - [Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md) - ([Source ⭐ 2.1K, 📝 19&#x2F;06&#x2F;25 ](https://github.com/nicolesaidy/awesome-web-design)) - 🎨 A curated list of awesome resources for digital designers.
-- [Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md) - ([Source ⭐ 232, 📝 09&#x2F;28 ](https://github.com/thomasbnt/awesome-web-monetization)) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
+- [Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md) - ([Source ⭐ 234, 📝 09&#x2F;28 ](https://github.com/thomasbnt/awesome-web-monetization)) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 - [Awesome Webxr](/content/msub2/awesome-webxr/README.md) - ([Source ⭐ 99, 📝 10&#x2F;07 ](https://github.com/msub2/awesome-webxr)) - All things WebXR.
 - [Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md) - ([Source ⭐ 1.2K, 📝 16&#x2F;01&#x2F;24 ](https://github.com/therebelrobot/awesome-workshopper)) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
 - [Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md) - ([Source ⭐ 157, 📝 20&#x2F;09&#x2F;16 ](https://github.com/schlessera/awesome-wp-cli)) - A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
@@ -1881,7 +1989,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 - [Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md) - ([Source ⭐ 964, 📝 07&#x2F;13 ](https://github.com/fregante/Awesome-WebExtensions)) - A curated list of awesome resources for WebExtensions development.
 - [Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md) - ([Source ⭐ 1.8K, 📝 21&#x2F;11&#x2F;28 ](https://github.com/XamSome/awesome-xamarin)) - A collection of interesting libraries/tools for Xamarin mobile projects 
 - [Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md) - ([Source ⭐ 36K, 📝 16&#x2F;08&#x2F;02 ](https://github.com/dypsilon/frontend-dev-bookmarks)) - Manually curated collection of resources for frontend web developers.
-- [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 33K, 📝 10&#x2F;29 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 33K, 📝 10&#x2F;30 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ### Programming Languages
 
@@ -1910,7 +2018,7 @@ Installs: 469 | Stars: 69 | Last update: 18 Sep 2022
 - [Awesome Elm](/content/sporto/awesome-elm/README.md) - ([Source ⭐ 3.5K, 📝 10&#x2F;16 ](https://github.com/sporto/awesome-elm)) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 - [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 3.7K, 📝 10&#x2F;20 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [Awesome Erlang](/content/drobakowski/awesome-erlang/README.md) - ([Source ⭐ 1.4K, 📝 18&#x2F;11&#x2F;02 ](https://github.com/drobakowski/awesome-erlang)) - A curated list of awesome Erlang libraries, resources and shiny things.
-- [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 3.2K, 📝 10&#x2F;17 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
+- [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 3.3K, 📝 10&#x2F;30 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
 - [Awesome Eta](/content/sfischer13/awesome-eta/README.md) - ([Source ⭐ 59, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-eta)) - :star: Useful resources for the Eta programming language
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.7K, 📝 10&#x2F;14 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js

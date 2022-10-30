@@ -6,11 +6,113 @@
 
 [ Daily / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 
+## [Oct 30, 2022](/content/2022/10/30/README.md)
+
+### Languages
+
+*   ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") - C language.
+*   ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") - C++ language.
+*   ![c\_sharp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/csharp-16.png "C# Language") - C# language.
+*   ![clojure\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/clojure-16.png "Clojure Language") - Clojure language.
+*   ![coffee\_script\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/coffeescript-16.png "CoffeeScript language.") - CoffeeScript language.
+*   ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.") - CSS language.
+*   ![go\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/golang-16.png "Go language.") - Go language.
+*   ![elm\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/elm-16.png "Elm Language") - Elm language.
+*   ![haskell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/haskell-16.png "Haskell language.") - Haskell language.
+*   ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") - JavaScript language.
+*   ![lua\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/Lua-16.png "Lua language.") - Lua language.
+*   ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.") - Objective-C language.
+*   ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") - Python language.
+*   ![ruby\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/ruby-16.png "Ruby language.") - Ruby language.
+*   ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.") - Rust language.
+*   ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") - Shell language.
+*   ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") - Swift language.
+*   ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") - TypeScript language.
+
+### Audio
+
+*   [Aural Player (⭐441)](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+### Database
+
+*   [Bdash (⭐1.4k)](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+### Productivity / Text
+
+*   [sqlectron (⭐4.1k)](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+
+### IDE / Text
+
+*   [Brackets (⭐722)](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [CodeEdit (⭐15k)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+### Development / Git
+
+*   [GitAhead (⭐1.6k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+
+### Development / iOS / macOS
+
+*   [AppBox (⭐553)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+
+### Editors / Markdown
+
+*   [Obsidian plugins & themes (⭐3.3k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+### Editors / Text
+
+*   [AuroraEditor (⭐132)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+### Utilities / Text
+
+*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+*   [Betaflight Configurator (⭐1.7k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [far2l (⭐1.4k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2 ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Balena Etcher (⭐24k)](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [NVM (⭐62k)](https://github.com/nvm-sh/nvm) - Node Version Manager.  ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.")
+*   [Nmap (⭐7k)](https://github.com/nmap/nmap) - Nmap - the Network Mapper.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Nmap (⭐4.9k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [OpenRocket (⭐733)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
+*   [nix-package-manager (⭐6.9k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages. !\[c++\_icon] ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[nix\_icon]
+
+### Games / Text
+
+*   [Widelands (⭐1.7k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") ![lua\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/Lua-16.png "Lua language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+### Graphics / Text
+
+*   [Blender](https://git.blender.org/gitweb/gitweb.cgi/blender.git) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
+
+### Images / Text
+
+*   [Flameshot (⭐19k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+
+### Menubar / Text
+
+*   [Market Bar (⭐15)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+### Notes / Text
+
+*   [Boostnote (⭐17k)](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Standard Notes (⭐3.8k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
+*   [Tusk (⭐3.1k)](https://github.com/klaudiosinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
+
+### Other / Text
+
+*   [ChipMunk (⭐370)](https://github.com/esrlabs/chipmunk) - Log analysis tool.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+
+### Security / Text
+
+*   [VeraCrypt (⭐4.4k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.  ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+
+### System / Text
+
+*   [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") !\[c++\_icon]
+
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
 ### Menubar / Text
 
-*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar is a MacOS applicatoin that shows - Battery, Disk, Memory, Cpu, Network Bandwidth, Wifi on menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. ![Swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Utilities / Text
 
@@ -50,7 +152,7 @@
 *   [Spotter (⭐689)](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Super Productivity (⭐5.8k)](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 *   [Bitwarden (⭐3.6k)](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
-*   [Bitwarden Menu (⭐47)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Passwort Manager in your menu bar ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Bitwarden Menu (⭐47)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Rugby (⭐468)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Development / Web Development
@@ -71,7 +173,6 @@
 
 ### Graphics / Text
 
-*   [Blender](https://git.blender.org/blender.git) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
 *   [FreeCAD (⭐12k)](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
 
 ### Images / Text
@@ -235,11 +336,10 @@
 *   [ThenGenerator (⭐15)](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Stats (⭐13k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [baRSS – Menu Bar RSS Reader (⭐55)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [PercentCalculator (⭐22)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [PercentCalculator (⭐22)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Menubar / Text
 
-*   [Market Bar (⭐15)](https://github.com/manindaniil/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [SwiftBar (⭐1.8k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ## [Dec 30, 2020](/content/2020/12/30/README.md)
@@ -302,7 +402,6 @@
 
 *   [AUHost (⭐103)](https://github.com/vgorloff/AUHost) - Application which hosts AudioUnits v3 using AVFoundation API.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Audacity (⭐8.3k)](https://github.com/audacity/audacity) - Free, open source, cross-platform audio software ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
-*   [Aural Player (⭐436)](https://github.com/maculateConception/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [AutoMute (⭐182)](https://github.com/yonilevy/automute) - Automatically mute the sound when headphones disconnect / Mac awake from sleep. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 *   [Background Music (⭐12k)](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
 *   [BlackHole (⭐9.7k)](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
@@ -458,7 +557,7 @@
 
 *   [Plash (⭐2.3k)](https://github.com/sindresorhus/Plash) - Make any website your desktop wallpaper. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [500-mac-wallpaper (⭐20)](https://github.com/markcheeky/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [ArtWall (⭐22)](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from [artwork.rss](https://www.artstation.com/community/channels).  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+*   [ArtWall (⭐22)](https://github.com/JustinFincher/ASWP-for-macOS) - ArtStation set as wallpapers from artwork.rss ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 *   [Artify (⭐155)](https://github.com/NghiaTranUIT/artify-macos) - A macOS application for bringing dedicatedly 18th century Arts to everyone  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [BingPaper (⭐146)](https://github.com/pengsrc/BingPaper) - Use Bing daily photo as your wallpaper on macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Desktop Wallpaper Switcher (⭐8)](https://github.com/VioletGiraffe/desktop-wallpaper-switcher) - Win / Linux / macOS tool for managing and cycling desktop wallpapers.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
@@ -582,7 +681,6 @@
 ### Development / iOS / macOS
 
 *   [AVXCAssets Generator (⭐337)](https://github.com/angelvasa/AVXCAssets-Generator) - Takes path for your assets images and creates appiconset and imageset for you in just one click.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-*   [AppBox (⭐552)](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 *   [AppIcons (⭐232)](https://github.com/kuyawa/AppIcons) - Tool for generating icons in all sizes as required by macOS and iOS apps.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [AppStoreReviewTimes (⭐13)](https://github.com/arbel03/AppStoreReviewTimes) - Gives you indication about the average iOS / macOS app stores review times.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [AppleTrace (⭐738)](https://github.com/everettjf/AppleTrace) - Trace tool for iOS/macOS.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
@@ -761,15 +859,12 @@
 
 ### Notes / Text
 
-*   [Boostnote (⭐17k)](https://github.com/BoostIO/Boostnote) - Note-taking application made for programmers just like you.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 *   [FSNotes (⭐5.2k)](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [FromScratch (⭐676)](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
 *   [Jupyter Notebook Viewer (⭐638)](https://github.com/tuxu/nbviewer-app) - Notebook viewer for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [NoteTaker (⭐166)](https://github.com/insidegui/NoteTaker) - Simple note taking app for macOS and iOS which uses Realm and CloudKit for syncing.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Notes (⭐16)](https://github.com/SauvageP/Notes) - Notes is a macOS application built to create notes, using text amongst other formats: images, videos, contacts, and etc.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Simplenote (⭐1.2k)](https://github.com/Automattic/simplenote-macos) - Simplest way to keep notes.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [Standard Notes (⭐3.8k)](https://github.com/standardnotes/web) - Safe place for your notes, thoughts, and life's work. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
-*   [Tusk (⭐3.1k)](https://github.com/klaussinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
 *   [joplin (⭐33k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 *   [notable (⭐178)](https://github.com/jmcfarlane/notable) - Simple note taking application.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 *   [tmpNote (⭐85)](https://github.com/buddax2/tmpNote) - Very simple macOS app to make temporary notes.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")

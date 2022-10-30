@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
 
+## [Oct 30, 2022](/content/2022/10/30/README.md)
+
+### 1 - Agnósticos / Inteligencia Artificial
+
+*   [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+
+### Ensamblador / Sistemas Operativos
+
+*   [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
+
 ## [Oct 28, 2022](/content/2022/10/28/README.md)
 
 ### Java / Sistemas Operativos

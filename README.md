@@ -2,7 +2,7 @@
 
 We track over 500 awesome list updates, and you can also subscribe to daily or weekly updates via RSS or News Letter. Visit it [Online](https://www.trackawesomelist.com).
 
-[📅 Weekly](/week/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Github](https://github.com/trackawesomelist/trackawesomelist/) · [🌐 Website](https://www.trackawesomelist.com) · 📝 10/29 · ✅ 10/29
+[📅 Weekly](/week/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Github](https://github.com/trackawesomelist/trackawesomelist/) · [🌐 Website](https://www.trackawesomelist.com) · 📝 10/30 · ✅ 10/30
 
 ## Table of Contents
 
@@ -13,6 +13,128 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Contribution](#contribution)
 
 ## Recently Updated
+
+### [Oct 30, 2022](/content/2022/10/30/README.md)
+
+
+
+#### [1. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+##### 1 - Agnósticos / Inteligencia Artificial
+
+*   [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+
+##### Ensamblador / Sistemas Operativos
+
+*   [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
+
+#### [2. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+
+##### Languages
+
+*   ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") - C language.
+*   ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") - C++ language.
+*   ![c\_sharp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/csharp-16.png "C# Language") - C# language.
+*   ![clojure\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/clojure-16.png "Clojure Language") - Clojure language.
+*   ![coffee\_script\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/coffeescript-16.png "CoffeeScript language.") - CoffeeScript language.
+*   ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.") - CSS language.
+*   ![go\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/golang-16.png "Go language.") - Go language.
+*   ![elm\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/elm-16.png "Elm Language") - Elm language.
+*   ![haskell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/haskell-16.png "Haskell language.") - Haskell language.
+*   ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") - JavaScript language.
+*   ![lua\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/Lua-16.png "Lua language.") - Lua language.
+*   ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.") - Objective-C language.
+*   ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") - Python language.
+*   ![ruby\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/ruby-16.png "Ruby language.") - Ruby language.
+*   ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.") - Rust language.
+*   ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") - Shell language.
+*   ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") - Swift language.
+*   ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") - TypeScript language.
+
+##### Audio
+
+*   [Aural Player (⭐441)](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Database
+
+*   [Bdash (⭐1.4k)](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+##### Productivity / Text
+
+*   [sqlectron (⭐4.1k)](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop/terminal with cross database and platform support. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+
+##### IDE / Text
+
+*   [Brackets (⭐722)](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [CodeEdit (⭐15k)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Development / Git
+
+*   [GitAhead (⭐1.6k)](https://github.com/gitahead/gitahead/) - A graphical Git client designed to help you understand and manage your source code history. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+
+##### Development / iOS / macOS
+
+*   [AppBox (⭐553)](https://github.com/getappbox/AppBox-iOSAppsWirelessInstallation) - Tool for iOS developers to build and deploy Development, Ad-Hoc and In-house (Enterprise) applications directly to the devices from your Dropbox account.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+
+##### Editors / Markdown
+
+*   [Obsidian plugins & themes (⭐3.3k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+##### Editors / Text
+
+*   [AuroraEditor (⭐132)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Utilities / Text
+
+*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - zoxide is a smarter cd command for your terminal. ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+*   [Betaflight Configurator (⭐1.7k)](https://github.com/betaflight/betaflight-configurator) - Cross platform configuration tool for the Betaflight firmware. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [far2l (⭐1.4k)](https://github.com/elfmz/far2l) - Linux/Mac fork of FAR Manager v2 ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Balena Etcher (⭐24k)](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
+*   [NVM (⭐62k)](https://github.com/nvm-sh/nvm) - Node Version Manager.  ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.")
+*   [Nmap (⭐7k)](https://github.com/nmap/nmap) - Nmap - the Network Mapper.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [Nmap (⭐4.9k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+*   [OpenRocket (⭐733)](https://github.com/openrocket/openrocket) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics. ![java\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/java-16.png "Java language.")
+*   [nix-package-manager (⭐6.9k)](https://github.com/NixOS/nix) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages. !\[c++\_icon] ![shell\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/shell-16.png "Shell language.") !\[nix\_icon]
+
+##### Games / Text
+
+*   [Widelands (⭐1.7k)](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.") ![lua\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/Lua-16.png "Lua language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
+##### Graphics / Text
+
+*   [Blender](https://git.blender.org/gitweb/gitweb.cgi/blender.git) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
+
+##### Images / Text
+
+*   [Flameshot (⭐19k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+
+##### Menubar / Text
+
+*   [Market Bar (⭐15)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Notes / Text
+
+*   [Boostnote (⭐17k)](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [Standard Notes (⭐3.8k)](https://github.com/standardnotes/app) - Safe place for your notes, thoughts, and life's work. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
+*   [Tusk (⭐3.1k)](https://github.com/klaudiosinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![css\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/css-16.png "CSS language.")
+
+##### Other / Text
+
+*   [ChipMunk (⭐370)](https://github.com/esrlabs/chipmunk) - Log analysis tool.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![rust\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/rust-16.png "Rust language.")
+
+##### Security / Text
+
+*   [VeraCrypt (⭐4.4k)](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.  ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
+
+##### System / Text
+
+*   [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") !\[c++\_icon]
+
+#### [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+
+##### Developing for ESLint / Testing Tools
+
+*   [eslint-doc-generator (⭐59)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
 
 ### [Oct 29, 2022](/content/2022/10/29/README.md)
 
@@ -92,23 +214,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 
-#### [12. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
-
-##### Projects Related to eBPF / Testing in Virtual Environments
-
-*   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
-
-#### [13. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
-
-##### Menubar / Text
-
-*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar is a MacOS applicatoin that shows - Battery, Disk, Memory, Cpu, Network Bandwidth, Wifi on menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-
-##### Utilities / Text
-
-*   [Keka (⭐3.3k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-
-#### [14. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Docs / Official Docs
 
@@ -144,7 +250,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 
-#### [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -154,7 +260,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [static-web-server (⭐446)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 
-#### [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [14. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Database
 
@@ -224,6 +330,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Miha-x64/Lychee (⭐113)](https://github.com/Miha-x64/Lychee) - Data binding and persistence infrastructure for building Android and JavaFX UIs and binding them with data
 
+#### [15. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+
+##### Projects Related to eBPF / Testing in Virtual Environments
+
+*   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
+
+#### [16. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+
+##### Menubar / Text
+
+*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. ![Swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Utilities / Text
+
+*   [Keka (⭐3.3k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
 ### [Oct 28, 2022](/content/2022/10/28/README.md)
 
 
@@ -234,13 +356,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/)
 
-#### [2. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-##### Java / Sistemas Operativos
-
-*   [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
-
-#### [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+#### [2. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ##### APIs and SDKs
 
@@ -252,7 +368,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Esri/pyprt-examples (⭐16)](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
 
-#### [4. Awesome V](/content/vlang/awesome-v/README.md)
+#### [3. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Applications / Command-line
 
@@ -262,7 +378,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [stas (⭐10)](https://github.com/l1mey112/stas) - A stack based compiled programming language. Takes inspiration from Forth with a modern syntax.
 
-#### [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+#### [4. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ##### Programming / JavaScript
 
@@ -272,25 +388,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
-#### [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+#### [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ##### Security Audits / Wallets
 
 *   [algorand-ecosystem-audits (⭐2)](https://github.com/blockshake-io/algorand-ecosystem-audits) - A growing collection of audit reports in the Algorand ecosystem maintained by [blockshake-io](https://blockshake.io).
 
-#### [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### Database
 
 *   [RocksDB (⭐78)](https://github.com/curiosity-ai/rocksdb-sharp) - C# binding for Facebook's RocksDB Key-Value store + native builds for Windows, macOS and Linux
 
-#### [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [singularityenv (⭐0)](https://github.com/saravanabalagi/zsh-plugin-singularityenv) - Provides a `singularityenv_prompt_info` function which returns the current singularity environment name
 
-#### [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Plugin Manager
 
@@ -305,7 +421,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [zbirenbaum/neodim (⭐90)](https://github.com/zbirenbaum/neodim) - Dimming the highlights of unused functions, variables, parameters, and more.
 *   [bfredl/nvim-miniyank (⭐217)](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
 
-#### [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Misc
 
@@ -481,89 +597,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang)
 *   [msink/kotlin-libui (⭐602)](https://github.com/msink/kotlin-libui)
 
-### [Oct 27, 2022](/content/2022/10/27/README.md)
+#### [10. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
+##### Java / Sistemas Operativos
 
-
-#### [1. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
-
-##### In French
-
-*   [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
-
-#### [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Communication / Collaboration and Team Tools
-
-*   [Ferdium](https://ferdium.org/) - Desktop app that helps you organize how you use your favourite apps by combining them into one application. It is based on Franz with the difference that Ferdium gives you many additional features and doesn't restrict its usage. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ferdium/ferdium-app)
-
-##### Proxy and VPN Tools / File Sharing
-
-*   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Cash Bitcoin, Monero and more.
-
-#### [3. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
-
-##### Other plugins
-
-*   [Dynamsoft Camera Preview (⭐2)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
-
-#### [4. Amas](/content/sindresorhus/amas/README.md)
-
-##### Ask these people anything!
-
-*   [Frances Coronel](https://francescoronel.com/ama) - Open source enthusiast, senior software engineer at Byteboard, Corgi mom.
-
-#### [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
-
-##### Strategy
-
-### [Talisman](https://boardgamegeek.com/boardgame/714/talisman)
-
-> Talisman takes you on a journey through magical lands, as you endeavor to reclaim the Crown of Command.
-> Each turn will see your hero advancing, battling, gaining knowledge and power necessary to defeat the guardians lurking between the Portal of Power and the Valley of Fire.
-
-![Talisman](https://cf.geekdo-images.com/GfXN7KP7ny2YU7A-zrZObA__itemrep/img/qTes0WV8umHK5pLuKl5tZFpGYrU=/fit-in/246x300/filters:strip_icc\(\)/pic818904.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|    2 -6 |        9 | 90-240m |
-
-#### [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
-
-##### CakePHP Tutorials
-
-*   :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
-
-#### [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
-
-##### Emulators
-
-*   [Blzhawk (⭐1.6k)](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
-*   [Ryujinx (⭐13k)](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-
-##### Image Processing
-
-*   [MagicScaler (⭐393)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
-
-#### [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-##### Libraries/Frameworks / Database
-
-*   [Litote/kmongo (⭐693)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
+*   [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
 
 ---
 
-- Next: [Oct 26, 2022](&#x2F;content&#x2F;2022&#x2F;10&#x2F;26&#x2F;README.md)
+- Next: [Oct 27, 2022](&#x2F;content&#x2F;2022&#x2F;10&#x2F;27&#x2F;README.md)
 
 ## Top 50 Awesome List
 
-1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 253K 📝 10&#x2F;28 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
+1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 253K 📝 10&#x2F;30 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 2. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 145K 📝 10&#x2F;23 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 90K 📝 10&#x2F;25 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 4. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 106K 📝 10&#x2F;21 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 54K 📝 10&#x2F;27 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 61K 📝 10&#x2F;24 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-7. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 33K 📝 10&#x2F;29 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+7. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 33K 📝 10&#x2F;30 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 8. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K 📝 10&#x2F;22 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 30K 📝 10&#x2F;29 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 10. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 33K 📝 10&#x2F;28 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
@@ -593,20 +645,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 34. [Awesome Deno](/content/denolib/awesome-deno/README.md) - ([Source ⭐ 3.8K 📝 10&#x2F;29 ](https://github.com/denolib/awesome-deno)) - Curated list of awesome things related to Deno
 35. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.2K 📝 10&#x2F;23 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 36. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 3.8K 📝 10&#x2F;29 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
-37. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 15K 📝 10&#x2F;13 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
-38. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 10&#x2F;21 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-39. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 3.3K 📝 10&#x2F;29 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-40. [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source ⭐ 17K 📝 10&#x2F;12 ](https://github.com/jtoy/awesome-tensorflow)) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
-41. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 13K 📝 10&#x2F;14 ](https://github.com/dariubs/GoBooks)) - List of Golang books
-42. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 2.6K 📝 10&#x2F;29 ](https://github.com/zoidbergwill/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
-43. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 6.2K 📝 10&#x2F;20 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
-44. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3K 📝 10&#x2F;26 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
-45. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 9.7K 📝 10&#x2F;13 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
-46. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 45K 📝 09&#x2F;26 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
-47. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 10K 📝 10&#x2F;10 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-48. [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 2.5K 📝 10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
-49. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.1K 📝 10&#x2F;22 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
-50. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 3.7K 📝 10&#x2F;20 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+37. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 3.3K 📝 10&#x2F;30 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
+38. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 15K 📝 10&#x2F;13 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
+39. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 10&#x2F;21 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+40. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 3.3K 📝 10&#x2F;29 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+41. [Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md) - ([Source ⭐ 17K 📝 10&#x2F;12 ](https://github.com/jtoy/awesome-tensorflow)) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
+42. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 13K 📝 10&#x2F;14 ](https://github.com/dariubs/GoBooks)) - List of Golang books
+43. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 2.6K 📝 10&#x2F;29 ](https://github.com/zoidbergwill/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
+44. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 6.2K 📝 10&#x2F;20 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
+45. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 3K 📝 10&#x2F;26 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
+46. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 9.7K 📝 10&#x2F;13 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
+47. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 45K 📝 09&#x2F;26 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
+48. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 10K 📝 10&#x2F;10 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+49. [Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md) - ([Source ⭐ 2.5K 📝 10&#x2F;24 ](https://github.com/stefanbuck/awesome-browser-extensions-for-github)) - A collection of awesome browser extensions for GitHub.
+50. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.1K 📝 10&#x2F;22 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
 
 ## All Tracked List
 
@@ -657,7 +709,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md) - ([Source ⭐ 282, 📝 19&#x2F;12&#x2F;06 ](https://github.com/TalAter/awesome-book-authoring)) - :books: A collection of awesome resources for technical book authors
 - [Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md) - ([Source ⭐ 163, 📝 10&#x2F;25 ](https://github.com/bystritskiy/awesome-ios-books)) - 📚 Directory of iOS books
 - [ElixirBooks](/content/sger/ElixirBooks/README.md) - ([Source ⭐ 1.2K, 📝 08&#x2F;14 ](https://github.com/sger/ElixirBooks)) - List of Elixir books
-- [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 253K, 📝 10&#x2F;28 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
+- [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 253K, 📝 10&#x2F;30 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 - [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 13K, 📝 10&#x2F;14 ](https://github.com/dariubs/GoBooks)) - List of Golang books
 - [Rbooks](/content/RomanTsegelskyi/rbooks/README.md) - ([Source ⭐ 190, 📝 17&#x2F;10&#x2F;11 ](https://github.com/RomanTsegelskyi/rbooks)) - A curated list of #rstats books
 
@@ -1100,7 +1152,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 2.6K, 📝 08&#x2F;01 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
 - [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 1.3K, 📝 09&#x2F;27 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
 - [Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md) - ([Source ⭐ 2.1K, 📝 19&#x2F;06&#x2F;25 ](https://github.com/nicolesaidy/awesome-web-design)) - 🎨 A curated list of awesome resources for digital designers.
-- [Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md) - ([Source ⭐ 232, 📝 09&#x2F;28 ](https://github.com/thomasbnt/awesome-web-monetization)) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
+- [Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md) - ([Source ⭐ 234, 📝 09&#x2F;28 ](https://github.com/thomasbnt/awesome-web-monetization)) - 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 - [Awesome Webxr](/content/msub2/awesome-webxr/README.md) - ([Source ⭐ 99, 📝 10&#x2F;07 ](https://github.com/msub2/awesome-webxr)) - All things WebXR.
 - [Awesome Workshopper](/content/therebelrobot/awesome-workshopper/README.md) - ([Source ⭐ 1.2K, 📝 16&#x2F;01&#x2F;24 ](https://github.com/therebelrobot/awesome-workshopper)) - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
 - [Awesome Wp Cli](/content/schlessera/awesome-wp-cli/README.md) - ([Source ⭐ 157, 📝 20&#x2F;09&#x2F;16 ](https://github.com/schlessera/awesome-wp-cli)) - A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
@@ -1180,7 +1232,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md) - ([Source ⭐ 964, 📝 07&#x2F;13 ](https://github.com/fregante/Awesome-WebExtensions)) - A curated list of awesome resources for WebExtensions development.
 - [Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md) - ([Source ⭐ 1.8K, 📝 21&#x2F;11&#x2F;28 ](https://github.com/XamSome/awesome-xamarin)) - A collection of interesting libraries/tools for Xamarin mobile projects 
 - [Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md) - ([Source ⭐ 36K, 📝 16&#x2F;08&#x2F;02 ](https://github.com/dypsilon/frontend-dev-bookmarks)) - Manually curated collection of resources for frontend web developers.
-- [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 33K, 📝 10&#x2F;29 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 33K, 📝 10&#x2F;30 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ### Programming Languages
 
@@ -1209,7 +1261,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Elm](/content/sporto/awesome-elm/README.md) - ([Source ⭐ 3.5K, 📝 10&#x2F;16 ](https://github.com/sporto/awesome-elm)) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 - [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 3.7K, 📝 10&#x2F;20 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 - [Awesome Erlang](/content/drobakowski/awesome-erlang/README.md) - ([Source ⭐ 1.4K, 📝 18&#x2F;11&#x2F;02 ](https://github.com/drobakowski/awesome-erlang)) - A curated list of awesome Erlang libraries, resources and shiny things.
-- [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 3.2K, 📝 10&#x2F;17 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
+- [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 3.3K, 📝 10&#x2F;30 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
 - [Awesome Eta](/content/sfischer13/awesome-eta/README.md) - ([Source ⭐ 59, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-eta)) - :star: Useful resources for the Eta programming language
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 5.7K, 📝 10&#x2F;14 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js

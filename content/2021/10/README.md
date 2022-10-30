@@ -220,7 +220,7 @@
 *   [ThenGenerator (⭐15)](https://github.com/87kangsw/ThenGenerator) - Xcode Source Editor Extension for 'Then' ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Stats (⭐13k)](https://github.com/exelban/stats) - macOS system monitor in your menu bar ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [baRSS – Menu Bar RSS Reader (⭐55)](https://github.com/relikd/barss) - RSS & Atom feed reader that lives in the system status bar. ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
-*   [PercentCalculator (⭐22)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates parcents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [PercentCalculator (⭐22)](https://github.com/cemolcay/PercentCalculator) - A menu bar application that calculates percents.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Keyboard / Text
 
@@ -228,7 +228,6 @@
 
 ### Menubar / Text
 
-*   [Market Bar (⭐15)](https://github.com/manindaniil/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [SwiftBar (⭐1.8k)](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [xbar (⭐16k)](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar.  ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 

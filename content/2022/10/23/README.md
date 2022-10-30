@@ -12,22 +12,22 @@
 
 GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page.
 
-Installs: 18 | Stars: 2 | Last update: 18 Apr 2021
+Installs: 19 | Stars: 2 | Last update: 18 Apr 2021
 ### [Module Linker (⭐244)](https://github.com/fiatjaf/module-linker) <a href="https://addons.mozilla.org/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
 
-Installs: 60 | Stars: 246 | Last update: 27 Nov 2019
+Installs: 61 | Stars: 247 | Last update: 27 Nov 2019
 ### [Old School GitHub (⭐212)](https://github.com/daattali/oldschool-github-extension) <a href="https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/addon/old-school-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
 
-Installs: 327 | Stars: 212 | Last update: 8 Aug 2021
+Installs: 325 | Stars: 212 | Last update: 8 Aug 2021
 ### [Open GitHub file links in IDE (⭐50)](https://github.com/lmichelin/open-github-links-in-ide) <a href="https://chrome.google.com/webstore/detail/open-github-in-ide/bmifnnfmccmleigpaolofacllndmfned"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/open-github-in-ide/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.
 
-Installs: 771 | Stars: 50 | Last update: 19 Aug 2022
+Installs: 777 | Stars: 50 | Last update: 19 Aug 2022
 ### [Semantic Code Reviews](https://reviewpad.com) <a href="https://chrome.google.com/webstore/detail/semantic-code-reviews/dclabbgfnbmjodobfdhindnleidefmda"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.

@@ -8,6 +8,14 @@
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
+### 1 - Agnósticos / Inteligencia Artificial
+
+*   [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+
+### Ensamblador / Sistemas Operativos
+
+*   [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
+
 ### Java / Sistemas Operativos
 
 *   [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina

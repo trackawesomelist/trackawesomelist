@@ -2,7 +2,7 @@
 
 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/thomasbnt/awesome-web-monetization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) · ⭐ 232 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/thomasbnt/awesome-web-monetization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) · ⭐ 234 · 🏷️ Miscellaneous
 
 [ [Daily](/content/thomasbnt/awesome-web-monetization/README.md) / [Weekly](/content/thomasbnt/awesome-web-monetization/week/README.md) / Overview ]
 
@@ -142,6 +142,13 @@ if (document.monetization) {
 ### Tools
 
 *   [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
+
+    > ```bash
+    > npm install is-web-monetized -g
+    > monetized example.com 
+    > ```
+    >
+    > You can also test your website [with the dependency](https://github.com/jkga/is-web-monetized#usage).
 
 *   [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place.
 

@@ -86,7 +86,7 @@
 *   [Spotter (⭐689)](https://github.com/spotter-application/spotter) - Productivity tool, the main function is to search and launch external application actions and applications themselves, so you can stay focused on your current task. Kind of spotlight or alfred alternative. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Super Productivity (⭐5.8k)](https://github.com/johannesjo/super-productivity) - Free to do list & time tracker for programmers & designers with Jira integration. ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
 *   [Bitwarden (⭐3.6k)](https://github.com/bitwarden/desktop) - Cross-platform password management solutions for individuals, teams, and business organizations.  ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
-*   [Bitwarden Menu (⭐47)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Passwort Manager in your menu bar ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Bitwarden Menu (⭐47)](https://github.com/jnsdrtlf/bitwarden-menubar) - Bitwarden Password Manager in your menu bar ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.") ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [Rugby (⭐468)](https://github.com/swiftyfinch/Rugby) - 🏈 Cache CocoaPods for faster rebuild and indexing Xcode project. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Development / Web Development
@@ -107,7 +107,6 @@
 
 ### Graphics / Text
 
-*   [Blender](https://git.blender.org/blender.git) - Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.") ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
 *   [FreeCAD (⭐12k)](https://github.com/FreeCAD/FreeCAD) - FreeCAD is an open-source 3D parametric modeler !\[c++\_icon] ![python\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/python-16.png "Python language.")
 
 ### Images / Text

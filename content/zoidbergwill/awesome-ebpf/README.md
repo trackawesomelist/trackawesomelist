@@ -10,7 +10,7 @@ A curated list of awesome projects related to eBPF.
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
-*   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
+*   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 
 ## [Jul 04, 2022](/content/2022/07/04/README.md)
 

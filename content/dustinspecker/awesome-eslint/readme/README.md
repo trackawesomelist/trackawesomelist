@@ -2,7 +2,7 @@
 
 A list of awesome ESLint plugins, configs, etc.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dustinspecker/awesome-eslint/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) · ⭐ 3.2K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dustinspecker/awesome-eslint/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) · ⭐ 3.3K · 🏷️ Programming Languages
 
 [ [Daily](/content/dustinspecker/awesome-eslint/README.md) / [Weekly](/content/dustinspecker/awesome-eslint/week/README.md) / Overview ]
 
@@ -328,6 +328,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## Developing for ESLint
 
+*   [eslint-doc-generator](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
 *   [eslint-docs](https://github.com/j-f1/eslint-docs) - Keep your rule descriptions up-to-date across the repository.
 
 ## Tutorials

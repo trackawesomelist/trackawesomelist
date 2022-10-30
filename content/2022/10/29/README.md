@@ -56,7 +56,7 @@
 
 ### Menubar / Text
 
-*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar is a MacOS applicatoin that shows - Battery, Disk, Memory, Cpu, Network Bandwidth, Wifi on menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. ![Swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Utilities / Text
 
@@ -66,7 +66,7 @@
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
-*   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
+*   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 
 ## [5. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
@@ -214,4 +214,5 @@
 
 ---
 
+- Prev: [Oct 30, 2022](/content/2022/10/30/README.md)
 - Next: [Oct 28, 2022](/content/2022/10/28/README.md)

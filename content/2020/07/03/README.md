@@ -63,6 +63,13 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [Is web monetized (⭐4)](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
 
+    > ```bash
+    > npm install is-web-monetized -g
+    > monetized example.com 
+    > ```
+    >
+    > You can also test your website [with the dependency (⭐4)](https://github.com/jkga/is-web-monetized#usage).
+
 ## [4. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development

@@ -381,7 +381,7 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 *   [merbridge](https://github.com/merbridge/merbridge/) - Use eBPF to speed up your Service Mesh. Merbridge replaces iptables rules with eBPF to intercept traffic. It also combines msg\_redirect to reduce latency with a shortened datapath between sidecars and services.
 
-*   [parca-agent](https://github.com/parca-dev/parca-agent) eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
+*   [parca-agent](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 
 # eBPF in Security
 
