@@ -1,30 +1,63 @@
 # Awesome List Updates on Oct 30, 2022
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [1. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+
+### Web Frameworks
+
+*   [Quart (⭐1.4k)](https://github.com/pallets/quart) - An asyncio web microframework with the same API as Flask.
+
+### Database Drivers
+
+*   [Prisma Client Python (⭐838)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
+
+### Networking
+
+*   [aioping (⭐67)](https://github.com/stellarbit/aioping) - Fast asyncio implementation of ICMP (ping) protocol.
+
+### GraphQL
+
+*   [Strawberry](https://strawberry.rocks) - Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support.
+
+### Misc
+
+*   [kubernetes\_asyncio (⭐241)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
+*   [aiomisc (⭐279)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
+
+### Alternatives to asyncio
+
+*   [AnyIO (⭐1.1k)](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio.
+
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Motion / Diagnostics
+
+*   [woosaaahh/sj.nvim (⭐63)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
+
+## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Metascience / Science of Science
 
 *   [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152\&hl=en\&as_sdt=0,5)].
 
-## [2. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+## [4. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 
 ### Apps / Productivity
 
 *   [Dino (⭐1.9k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
 
-## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Developing for ESLint / Testing Tools
 
 *   [eslint-doc-generator (⭐59)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
 
-## [4. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [6. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Languages
 
@@ -51,9 +84,14 @@
 
 *   [Aural Player (⭐441)](https://github.com/kartik-venugopal/aural-player) - Aural Player is a audio player application for the macOS platform. Inspired by the classic Winamp player for Windows, it is designed to be to-the-point and easy to use.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
+### Chat
+
+*   [Adium (⭐194)](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.")
+
 ### Database
 
 *   [Bdash (⭐1.4k)](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [DbGate (⭐1.9k)](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.") ![typescript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/typescript-16.png "TypeScript language.")
 
 ### Productivity / Text
 
@@ -62,6 +100,7 @@
 ### IDE / Text
 
 *   [Brackets (⭐722)](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+*   [AuroraEditor (⭐132)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 *   [CodeEdit (⭐15k)](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Development / Git
@@ -75,10 +114,6 @@
 ### Editors / Markdown
 
 *   [Obsidian plugins & themes (⭐3.3k)](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
-
-### Editors / Text
-
-*   [AuroraEditor (⭐132)](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### Utilities / Text
 

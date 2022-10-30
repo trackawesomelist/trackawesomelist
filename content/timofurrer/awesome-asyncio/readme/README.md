@@ -18,14 +18,6 @@ Asyncio is not really a brand-new technology however it appears to be very trend
 Thus, it's pretty hard to keep yourself up-to-date with the most awesome packages out there.
 Find some of those *awesome* packages here and if you are missing one we count on you to [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) with your suggestion.
 
-## ⚠️ Looking for help to maintain this
-
-Since quite some time I'm unable to give this repository the love it deserves.
-Therefore, I'm looking for someone knowledgable of the Python ecosystem and community to help me maintain this repository.
-This would include to review PRs and in general bring this repository up to date again.
-
-If you are interested, please drop me a quick email at [tuxtimo@gmail.com](https://github.com/timofurrer/awesome-asyncio/blob/master/README.md/mailto:tuxtimo@gmail.com) and tell me your motiviation :)
-
 ## Contents
 
 *   [Web Frameworks](#web-frameworks)
@@ -46,18 +38,15 @@ If you are interested, please drop me a quick email at [tuxtimo@gmail.com](https
 
 *Libraries to build web applications.*
 
+*   [FastAPI](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
+*   [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 *   [aiohttp](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
 *   [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
-*   [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
-*   [Vibora](https://github.com/vibora-io/vibora) - Performant web framework inspired by Flask.
-*   [cirrina](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
+*   [Quart](https://github.com/pallets/quart) - An asyncio web microframework with the same API as Flask.
 *   [autobahn](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 *   [websockets](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 *   [Tornado](http://www.tornadoweb.org/en/stable/) - Performant web framework and asynchronous networking library.
-*   [Japronto!](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
-*   [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 *   [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
-*   [FastAPI](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
 
 ## Message Queues
 
@@ -89,13 +78,15 @@ If you are interested, please drop me a quick email at [tuxtimo@gmail.com](https
 *   [GINO](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg](https://github.com/MagicStack/asyncpg) dialect.
 *   [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 *   [Databases](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
+*   [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
 
 ## Networking
 
 *Libraries to communicate in your network.*
 
 *   [AsyncSSH](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
-*   [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
+*   [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
+*   [aioping](https://github.com/stellarbit/aioping) - Fast asyncio implementation of ICMP (ping) protocol.
 *   [httpx](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) compatible API.
 
 ## GraphQL
@@ -104,6 +95,7 @@ If you are interested, please drop me a quick email at [tuxtimo@gmail.com](https
 
 *   [Ariadne](https://ariadnegraphql.org) - Schema-first Python library for implementing GraphQL servers.
 *   [Tartiflette](https://tartiflette.io/) - Schema-first Python 3.6+ GraphQL engine built on top of `libgraphqlparser`.
+*   [Strawberry](https://strawberry.rocks) - Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support.
 
 ## Testing
 
@@ -112,7 +104,7 @@ If you are interested, please drop me a quick email at [tuxtimo@gmail.com](https
 *   [aiomock](https://github.com/nhumrich/aiomock/) - A python mock library that supports async methods.
 *   [asynctest](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
 *   [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
-*   [aresponses](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses](https://github.com/getsentry/responses) library used for [requests](https://github.com/requests/requests)
+*   [aresponses](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses](https://github.com/getsentry/responses) library used for [requests](https://github.com/requests/requests).
 *   [aioresponses](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
 
 ## Alternative Loops
@@ -133,6 +125,8 @@ If you are interested, please drop me a quick email at [tuxtimo@gmail.com](https
 *   [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 *   [asgiref](https://github.com/django/asgiref) - Backend utils for ASGI to WSGI integration, includes sync\_to\_async and async\_to\_sync function wrappers.
 *   [ruia](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
+*   [kubernetes\_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
+*   [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 
 ## Writings
 
@@ -163,7 +157,8 @@ If you are interested, please drop me a quick email at [tuxtimo@gmail.com](https
 *Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all.*
 
 *   [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library.
-    *   [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge
+    *   [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge.
 *   [trio](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
-    *   [trio-asyncio](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio
+    *   [trio-asyncio](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio.
+*   [AnyIO](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio.
 

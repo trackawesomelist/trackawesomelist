@@ -6,6 +6,33 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 [ [Daily](/content/timofurrer/awesome-asyncio/README.md) / Weekly / [Overview](/content/timofurrer/awesome-asyncio/readme/README.md) ]
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Web Frameworks
+
+*   [Quart (⭐1.4k)](https://github.com/pallets/quart) - An asyncio web microframework with the same API as Flask.
+
+### Database Drivers
+
+*   [Prisma Client Python (⭐838)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
+
+### Networking
+
+*   [aioping (⭐67)](https://github.com/stellarbit/aioping) - Fast asyncio implementation of ICMP (ping) protocol.
+
+### GraphQL
+
+*   [Strawberry](https://strawberry.rocks) - Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support.
+
+### Misc
+
+*   [kubernetes\_asyncio (⭐241)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
+*   [aiomisc (⭐279)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
+
+### Alternatives to asyncio
+
+*   [AnyIO (⭐1.1k)](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio.
+
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
 ### Talks
@@ -61,9 +88,9 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 ### Alternatives to asyncio
 
 *   [curio (⭐3.9k)](https://github.com/dabeaz/curio) - The coroutine concurrency library.
-    *   [Curio-Asyncio Bridge (⭐3.9k)](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge
+    *   [Curio-Asyncio Bridge (⭐3.9k)](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge.
 *   [trio (⭐4.9k)](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
-    *   [trio-asyncio (⭐163)](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio
+    *   [trio-asyncio (⭐163)](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio.
 
 ## [Feb 18 - Feb 24, 2019](/content/2019/7/README.md)
 
@@ -98,7 +125,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Testing
 
-*   [aresponses (⭐93)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.7k)](https://github.com/getsentry/responses) library used for [requests (⭐48k)](https://github.com/requests/requests)
+*   [aresponses (⭐93)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.7k)](https://github.com/getsentry/responses) library used for [requests (⭐48k)](https://github.com/requests/requests).
 *   [aioresponses (⭐385)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
 
 ## [Oct 29 - Nov 04, 2018](/content/2018/44/README.md)
@@ -121,7 +148,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Networking
 
-*   [aiodns (⭐465)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
+*   [aiodns (⭐465)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
 
 ## [Sep 24 - Sep 30, 2018](/content/2018/39/README.md)
 
@@ -142,13 +169,6 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 *   [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (David Beazley).
 *   [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](http://pgbovine.net/python-async-io-walkthrough.htm) - 8-part code walkthrough (Philip Guo).
-
-## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
-
-### Web Frameworks
-
-*   [Vibora (⭐5.7k)](https://github.com/vibora-io/vibora) - Performant web framework inspired by Flask.
-*   [Japronto! (⭐8.6k)](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
@@ -181,10 +201,6 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 *   [aioredis (⭐2.2k)](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156).
 
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
-
-### Web Frameworks
-
-*   [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
 
 ### Writings
 
@@ -245,7 +261,6 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 *   [aiohttp (⭐13k)](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
 *   [sanic (⭐17k)](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
-*   [cirrina (⭐32)](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
 *   [autobahn (⭐2.4k)](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 
 ### Message Queues

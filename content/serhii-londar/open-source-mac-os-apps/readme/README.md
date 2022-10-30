@@ -170,6 +170,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Chat
 
+*   [Adium](https://github.com/adium/adium) - Instant messaging application that can connect to XMPP (Jabber), IRC and more. ![c\_icon][c_icon]
 *   [Beagle IM](https://github.com/tigase/beagle-im) - Powerful XMPP client with support for file transfer, VoIP and end-to-end encryption. ![swift\_icon][swift_icon]
 *   [ChitChat](https://github.com/stonesam92/ChitChat) - Native Mac app wrapper for WhatsApp Web.  ![objective\_c\_icon][objective_c_icon]
 *   [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) - Better WeChat on macOS and Linux.  ![javascript\_icon][javascript_icon]
@@ -204,6 +205,7 @@ You can see in which language an app is written. Currently there are following l
 *   [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift. ![javascript\_icon][javascript_icon]
 *   [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite database management GUI.  ![cpp\_icon][cpp_icon]
 *   [DBeaver](https://github.com/dbeaver/dbeaver) - Universal database tool and SQL client.  ![java\_icon][java_icon]
+*   [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application. ![javascript\_icon][javascript_icon] ![typescript\_icon][typescript_icon]
 *   [Medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis. ![javascript\_icon][javascript_icon]
 *   [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Add another lightweight Mac Native MongoDB client. ![objective\_c\_icon][objective_c_icon] ![c\_icon][c_icon]
 *   [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS.  ![javascript\_icon][javascript_icon]
@@ -340,6 +342,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### Editors
 
+*   [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon][swift_icon]
 *   [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift\_icon][swift_icon]
 
 #### CSV
@@ -446,6 +449,7 @@ You can see in which language an app is written. Currently there are following l
 
 *   [Apache Netbeans](https://github.com/apache/netbeans) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more. ![java\_icon][java_icon]
 *   [Atom](https://github.com/atom/atom) - The hackable text editor.  ![javascript\_icon][javascript_icon]
+*   [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Lightweight Code Editor (IDE) for macOS.  ![swift\_icon][swift_icon]
 *   [Brackets](https://github.com/brackets-cont/brackets) - Modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript. ![javascript\_icon][javascript_icon]
 *   [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ![swift\_icon][swift_icon]
 *   [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software ![java\_icon][java_icon]
