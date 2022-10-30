@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2022
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -192,7 +192,21 @@
 
 *   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 
-## [18. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [18. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Data Science
+
+*   [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)
+
+### Information Retrieval
+
+*   [Information Retrieval: Implementing and Evaluating Search Engines](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) - Stefan Böttcher, Charles L. A. Clarke, Gordon V. Cormack (PDF)
+
+### Mathematics For Computer Science
+
+*   [Isomorphism -- Mathematics of Programming (⭐2.5k)](https://github.com/liuxinyu95/unplugged) - Larry LIU Xinyu
+
+## [19. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Ruby / Angular
 

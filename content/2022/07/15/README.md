@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 15, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -126,19 +126,25 @@
 
 *   [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - Blog post about the difference between l10n and I18n from Crowdin.
 
-## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Computer Vision
+
+*   [DALLE-E 2 prompt book](http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson(PDF)
+
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Abduction / Rationalization
 
 *   [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
-## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Go / Git
 
 *   [kyber (⭐502)](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Official Resources
 

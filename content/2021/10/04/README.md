@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2021
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -442,7 +442,26 @@
 
 
 
-## [19. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [19. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Algorithms & Data Structures
+
+*   [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
+
+### Artificial Intelligence
+
+*   [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF)
+*   [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF)
+
+### Networking
+
+*   [Kafka gentle introduction](https://www.gentlydownthe.stream) - Mitch Seymour
+
+### Security
+
+*   [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) (:construction: *in process*)
+
+## [20. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 

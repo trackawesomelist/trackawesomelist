@@ -85,6 +85,7 @@ A curated list of resources for Vala - A programming language using modern high 
 
 *   [Badger](https://github.com/elfenware/badger) - Remind yourself to not sit and stare at the screen for too long.
 *   [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
+*   [Dino](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
 *   [Flowtime](https://github.com/Diego-Ivan/Flowtime) - GTK4 Libadwaita Pomodoro Timer.
 *   [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
 *   [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.

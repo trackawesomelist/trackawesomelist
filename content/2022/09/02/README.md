@@ -37,27 +37,109 @@
 
 *   [betterglobekey (⭐5)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [6. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### 1 - Agnósticos / Base de Datos
+### Algorithms & Data Structures
 
-*   [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - María José Aramburu Cabo, Ismael Sanz Blasco (PDF)
+*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, et al. (PDF)
+*   [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos (PDF)
+*   [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
+*   [Foundations of Computer Science](http://infolab.stanford.edu/\~ullman/focs.html) - Al Aho, Jeff Ullman
 
-### Ensamblador / Sistemas Operativos
+### Blockchain
 
-*   [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A. Carter, `trl.:` Leonardo Rodríguez Mújica (PDF)
+*   [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
+*   [Learning Bitcoin from the Command Line (⭐2.4k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
 
-### Go / Sistemas Operativos
+### Computer Science
 
-*   [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/go.pdf), [EPUB](https://raulexposito.com/assets/epub/go.epub))
+*   [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
 
-### Matemáticas / React
+### Graphics Programming
 
-*   [Sage para Estudiantes de Pregrado](http://www.sage-para-estudiantes.com) - Gregory Bard, `trl.:` Diego Sejas Viscarra
+*   [Learn OpenGL RS (⭐808)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
+*   [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations
+*   [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
-### NoSQL / Redis
+### Graphical User Interfaces
 
-*   [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, PDF, EPUB)
+*   [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch, Sarah Horton
+
+### Machine Learning
+
+*   [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, Zhong (PDF)
+*   [An Introduction to Statistical Learning](https://web.stanford.edu/\~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
+*   [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
+*   [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong
+*   [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr, Jeremy Howard
+*   [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews, Omair Aasim
+
+### Mathematics
+
+*   [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer, J Strother Moore (PDF)
+*   [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
+*   [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller, William T. Trotter
+*   [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr, Kenneth Levasseur
+*   [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden, Alan Weinstein
+*   [CLP-1 Differential Calculus](https://www.math.ubc.ca/\~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-2 Integral Calculus](https://www.math.ubc.ca/\~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/\~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-4 Vector Calculus](https://www.math.ubc.ca/\~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [Convex Optimization](https://web.stanford.edu/\~boyd/cvxbook) - Stephen Boyd, Lieven Vandenberghe
+*   [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine, Henry Dallas Thompson (PDF)
+*   [Discrete Mathematics: First and Second Course](https://cseweb.ucsd.edu/\~gill/BWLectSite/) - Edward A. Bender, S. Gill Williamson
+*   [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/\~ebender/CombText/) - Edward A. Bender, S. Gill Williamson
+*   [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
+*   [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/isrs/) - Julie Vu, David Harrington
+*   [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello, Paolo Toth
+*   [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde) - Evans M. Harrell II, James V. Herod
+*   [Mathematical Discovery](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) - Andrew M. Bruckner, Brian S. Thomson, Judith B. Bruckner
+*   [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) - Susan Holmes, Wolfgang Huber
+*   [Multivariable Calculus](https://people.math.gatech.edu/\~cain/notes/calculus.html) - George Cain, James Herod
+*   [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth, David Eugene Smith (PDF)
+*   [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth, David Eugene Smith (PDF)
+*   [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
+*   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong, David I. Spivak (PDF)
+
+### Misc
+
+*   [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers
+*   [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/\~sdemey/) - Serge Demeyer, Stéphane Ducasse, Oscar Nierstrasz
+
+### Networking
+
+*   [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson, Bruce Davie (HTML, epub, mobi, PDF)
+
+### Operating Systems
+
+*   [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al. (HTML, [PDF, downloads...](https://www.linuxfromscratch.org/lfs/downloads/stable/))
+*   [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
+
+### Parallel Programming
+
+*   [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance, Kevin Dowd (PDF, ePUB)
+
+### Partial Evaluation
+
+*   [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
+
+### Professional Development
+
+*   [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
+
+### Quantum Computing
+
+*   [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
+
+### Software Architecture
+
+*   [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
+*   [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse, O. Nierstrasz
+*   [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
+
+### Theoretical Computer Science
+
+*   [Introduction to Theory of Computation](http://cglab.ca/\~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
 
 ## [7. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 

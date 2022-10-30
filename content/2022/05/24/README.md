@@ -1,6 +1,6 @@
 # Awesome List Updates on May 24, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,19 +18,26 @@
 
 *   [Multitenancy with FastAPI, SQLAlchemy and PostgreSQL](https://mergeboard.com/blog/6-multitenancy-fastapi-sqlalchemy-postgresql/) - Learn how to make FastAPI applications multi-tenant ready.
 
-## [3. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Graphical User Interfaces
+
+*   [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/) - Aaron Erhardt
+*   [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
+
+## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Developer
 
 *   [JetBrains (⭐535)](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' products.
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Keyboard / Barcode
 
 *   [ISEmojiView (⭐447)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -41,19 +48,19 @@
 *   [Mastering Blazor - Part 1: DOM Integration](https://dev.to/florianrappl/mastering-blazor-part-1-dom-integration-5591) - March 31, 2022 - Mastering Blazor - Part 1: DOM Integration.
 *   [Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-1-382d) - March 18, 2022 - Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory. [Part 2](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-2-1ppd).
 
-## [6. Awesome Plone](/content/collective/awesome-plone/README.md)
+## [7. Awesome Plone](/content/collective/awesome-plone/README.md)
 
 ### Content and utilities for content
 
 *   [dexterity.membrane (⭐2)](https://github.com/collective/dexterity.membrane) - Enables content to be used as users and groups in Plone sites.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Data / Scripts
 
 *   [QuickTable](https://quicktable.io) - Empowers everyone to access, clean, analyze, transform, and model data with no code.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -61,7 +68,7 @@
 *   [Eurybia (⭐162)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
 *   [Colossal-AI (⭐5.2k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
-## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [10. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### SCALE Codec
 
@@ -72,7 +79,7 @@
     *   [scale-ts (⭐8)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
     *   [soramitsu/scale-codec-js-library (⭐1)](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### General Search
 
@@ -93,19 +100,19 @@
 
 *   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
 
-## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### Plugin
 
 *   [tdengine\_hivemq (⭐0)](https://github.com/379547990/tdengine_hivemq) - HiveMQ to TDengine.
 
-## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [13. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Electron
 
@@ -125,7 +132,7 @@
 
 *   [vite-plugin-progress (⭐88)](https://github.com/jeddygong/vite-plugin-progress) - Display with progress bar when building.
 
-## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Scheduling
 

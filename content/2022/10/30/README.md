@@ -1,18 +1,30 @@
 # Awesome List Updates on Oct 30, 2022
 
-3 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Metascience / Science of Science
+
+*   [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152\&hl=en\&as_sdt=0,5)].
+
+## [2. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+
+### Apps / Productivity
+
+*   [Dino (⭐1.9k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
+
+## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Developing for ESLint / Testing Tools
 
 *   [eslint-doc-generator (⭐59)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
 
-## [2. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [4. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Languages
 
@@ -114,15 +126,23 @@
 
 *   [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") !\[c++\_icon]
 
-## [3. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### 1 - Agnósticos / Inteligencia Artificial
+### Data Science
 
-*   [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+*   [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/Book-WM-20210422.pdf) - John Wright, Yi Ma (PDF)
 
-### Ensamblador / Sistemas Operativos
+### Machine Learning
 
-*   [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
+*   [Machine Learning Simplified](https://themlsbook.com/read) - Andrew Wolf
+
+### Mathematics For Computer Science
+
+*   [Combinatorial Problems And Exercises (1979)](https://archive.org/details/in.ernet.dli.2015.141538/) - L. Lovasz *(:card\_file\_box: archived)*
+
+### Quantum Computing
+
+*   [The Functional Analysis of Quantum Information Theory](https://arxiv.org/abs/1410.7188) - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder (PDF)
 
 ---
 

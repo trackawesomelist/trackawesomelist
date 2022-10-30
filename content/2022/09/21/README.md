@@ -168,18 +168,15 @@
 *   [How to render a YouTube vlog with Rust Yew fetch API (⭐0)](https://github.com/steadylearner/blog/blob/master/posts/Rust/How%20to%20render%20a%20YouTube%20vlog%20with%20%20Rust%20Yew%20fetch%20API.md)
 *   [How to render blog posts with Rust Yew mounted API (⭐0)](https://github.com/steadylearner/blog/tree/master/posts/Rust/How%20to%20render%20blog%20posts%20with%20Rust%20Yew%20mounted%20API.md)
 
-## [16. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Git / Sistemas Operativos
+### Version Control Systems
 
-*   [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish) - Jim Weirich, `trl.:` Espartaco Palma
-*   [Git. La guía simple](https://rogerdudler.github.io/git-guide/index.es.html) - Roger Dudler, `trl.:` Luis Barragan, `trl.:` Adrian Matellanes (HTML)
-*   [Gitmagic](http://www-cs-students.stanford.edu/\~blynn/gitmagic/intl/es) - Ben Lynn, `trl.:` Rodrigo Toledo, `trl.:` Ariset Llerena Tapia (HTML, PDF)
-*   [Pro Git](http://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
-
-### Subversion / Ruby on Rails
-
-*   [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML)
+*   [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Roger Dudler (HTML)
+*   [Git Immersion](http://gitimmersion.com) - Jim Weirich (HTML)
+*   [Git Magic](http://www-cs-students.stanford.edu/\~blynn/gitmagic/) - Ben Lynn, et al. (HTML, PDF, EPUB)
+*   [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) - The GitHub team *(:card\_file\_box: archived)*
+*   [Pro Git](http://git-scm.com/book/en/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, Kindle)
 
 ---
 

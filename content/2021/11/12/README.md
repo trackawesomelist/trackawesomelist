@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 12, 2021
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
 
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Machine Learning
+
+*   [Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) - Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)
+
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -29,31 +35,31 @@
 *   [Smaller & Faster Blazor WebAssembly apps with Runtime Relinking in .NET 6](https://www.youtube.com/watch?v=Jte_VwsSazs) - ![duration](https://img.shields.io/badge/Duration:%20-2%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - The new support for runtime relinking has made Blazor WebAssembly apps smaller and faster to download. In this demo, Daniel Roth will show how runtime relinking works while making the smallest WebAssembly app possible.
 *   [Blazor WebAssembly AOT on Azure Static Web Apps in .NET 6](https://www.youtube.com/watch?v=9RNWAF9SKO0) - ![duration](https://img.shields.io/badge/Duration:%20-3%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - Host your Blazor WebAssembly applications on Azure Static Web Apps. Anthony Chu will demo how to automatically build and deploy your app, utilize [.NET 6](https://get.dot.net/6), and improve your runtime performance with ahead-of-time compilation on Azure Static Web Apps.
 
-## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Paginator
 
 *   [react-steps (⭐13)](https://github.com/tkwant/react-steps) - [Demo](https://stepper.tkwant.de/) - Responsive React Stepper.
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Interactive Experiences
 
 *   [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
 
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Tools / Community Chat Rooms
 
 *   [ferros (⭐59)](https://github.com/auxoncorp/ferros) A Rust-based userland which also adds compile-time assurances to seL4 development.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [yole/kxdate (⭐243)](https://github.com/yole/kxdate) - Kotlin extensions for Java 8 java.time API
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -69,7 +75,7 @@
 
 
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -95,55 +101,55 @@
 
 *   [WackoWiki](https://wackowiki.org/) - WackoWiki is a light and easy to install multilingual Wiki-engine. ([Source Code (⭐30)](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [catppuccin/nvim (⭐1.5k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! with support for native LSP, Tree-sitter, and more 🍨!
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Blog Posts
 
 *   [VueJS Admin Template](https://themeselection.com/vuejs-admin-template/) - Collection of awesome opens source and premium VueJS Admin Templates.
 
-## [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Web History and Website Capture / Telegram
 
 *   [stored.website](https://stored.website)
 
-## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [14. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Miscellaneous
 
 *   [Gc\_\_ListOffers (⭐3)](https://github.com/krunch3r76/gc__listoffers) - List offers by providers on the Golem Network with a GUI.
 
-## [14. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [15. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Resources / Books
 
 *   [Hydras & Co. (⭐36)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
 
-## [15. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / JSON
 
 *   [JSONMapper (⭐148)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 
-## [16. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [17. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Piped](https://piped.kavin.rocks) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
-## [17. Awesome Math](/content/rossant/awesome-math/README.md)
+## [18. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Tools
 
 *   [Unit Converter](https://unitconverters.net)
 
-## [18. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [19. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Storage / Flash
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,13 +99,7 @@
 
 *   [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 
-## [12. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### 1 - Agnósticos / Algoritmos y Estructuras de Datos
-
-*   [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-
-## [13. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Cloud Storage & File Sharing
 

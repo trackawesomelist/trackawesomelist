@@ -96,11 +96,11 @@
 *   [Terser (⭐7.4k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 *   [Uglify (⭐12k)](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
 
-## [11. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Java / Sistemas Operativos
+### Cloud Computing
 
-*   [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
+*   [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
 
 ---
 

@@ -6,6 +6,12 @@ A curated list of Vala libraries
 
 [ [Daily](/content/desiderantes/awesome-vala/README.md) / Weekly / [Overview](/content/desiderantes/awesome-vala/readme/README.md) ]
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Apps / Productivity
+
+*   [Dino (⭐1.9k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
+
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
 ### Apps / Cryptography & Security

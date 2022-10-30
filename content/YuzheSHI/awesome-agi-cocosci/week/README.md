@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Metascience / Science of Science
+
+*   [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152\&hl=en\&as_sdt=0,5)].
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Concepts / Human Concept Representation

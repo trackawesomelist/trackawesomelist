@@ -181,36 +181,36 @@
 *   [radix (⭐180)](https://github.com/yourbasic/radix) - Fast string sorting algorithm.
 *   [TySug (⭐14)](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
 
-## [6. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### Python / Symfony
-
-*   [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF)
-
-## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Vite-Boot (⭐50)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse  Template.
 
-## [8. Awesome Slim](/content/nekofar/awesome-slim/README.md)
+## [7. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
 ### Miscellaneous
 
 *   [IntelliJ Slim](https://plugins.jetbrains.com/plugin/18751-slim) - Provides boilerplate codes for easier new project creation using skeleton.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gerry (⭐0)](https://github.com/GerryLarios/gerry-prompt) - Based on [bureau (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/wiki/themes#bureau), includes decorations for `git` status, current time, username, hostname and current directory.
 *   [temeraf (⭐1)](https://github.com/filiptoma/temeraf-zsh) - Minimalist theme with decorations for `git` status, timestamps and last exit status.
 
-## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Platforms
 
 *   [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
+
+## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Misc
+
+*   [Encyclopedia of Human Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 
 ## [11. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

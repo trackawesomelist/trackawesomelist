@@ -1,6 +1,6 @@
 # Awesome List Updates on May 23 - May 29, 2022
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -213,13 +213,20 @@
 
 *   [Multitenancy with FastAPI, SQLAlchemy and PostgreSQL](https://mergeboard.com/blog/6-multitenancy-fastapi-sqlalchemy-postgresql/) - Learn how to make FastAPI applications multi-tenant ready.
 
-## [26. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [26. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Graphical User Interfaces
+
+*   [GUI development with Relm4](https://aaronerhardt.github.io/relm4-book/book/) - Aaron Erhardt
+*   [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
+
+## [27. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
 *   [JetBrains (⭐535)](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' products.
 
-## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -233,7 +240,7 @@
 
 *   [TabBar (⭐135)](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
 
-## [28. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -255,13 +262,13 @@
 *   [David Ortinau on .NET MAUI](https://herdingcode.com/herding-code-246-david-ortinau-on-net-maui/) - May 27, 2022 - Jon Galloway talks to David Ortinau about [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui). Duration: 41 minutes. [YouTube video](https://www.youtube.com/watch?v=OyqzWAivI7I).
 *   [The Unhandled Exception Podcast: Microsoft Build 2022](https://unhandledexceptionpodcast.com/posts/0037-build/) - May 25, 2022 - Microsoft have just had their annual Build conference - which comes with a whole host of exciting announcements and discussions about hot programming topics in the Microsoft developer space. And each year, I long for a podcast episode to come out straight after Build, overviewing them! Well, this year - this podcast aims to do just that! In this episode, I was joined by both Scott Hunter and Gaurav Seth to chat about various topics. Check out the links below for a guide to what we discussed. Duration: 71 minutes.
 
-## [29. Awesome Plone](/content/collective/awesome-plone/week/README.md)
+## [30. Awesome Plone](/content/collective/awesome-plone/week/README.md)
 
 ### Content and utilities for content
 
 *   [dexterity.membrane (⭐2)](https://github.com/collective/dexterity.membrane) - Enables content to be used as users and groups in Plone sites.
 
-## [30. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
@@ -271,7 +278,7 @@
 
 *   [QuickTable](https://quicktable.io) - Empowers everyone to access, clean, analyze, transform, and model data with no code.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -279,7 +286,7 @@
 *   [Eurybia (⭐162)](https://github.com/MAIF/eurybia): Eurybia monitors data and model drift over time and securizes model deployment with data validation.
 *   [Colossal-AI (⭐5.2k)](https://github.com/hpcaitech/ColossalAI): An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 
-## [32. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [33. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### SCALE Codec
 
@@ -290,7 +297,7 @@
     *   [scale-ts (⭐8)](https://github.com/unstoppablejs/unstoppablejs/tree/main/packages/scale-ts#scale-ts) - Maintained by Josep M Sobrepere.
     *   [soramitsu/scale-codec-js-library (⭐1)](https://github.com/soramitsu/scale-codec-js-library) - Maintained by Soramitsu.
 
-## [33. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [34. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -311,13 +318,13 @@
 
 *   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
 
-## [34. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [35. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### Plugin
 
 *   [tdengine\_hivemq (⭐0)](https://github.com/379547990/tdengine_hivemq) - HiveMQ to TDengine.
 
-## [35. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [36. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :free: Free Courses / Chrome Extensions
 
@@ -328,7 +335,7 @@
 *   [List of paid online courses about Typescript](https://skillcombo.com/topic/typescript/)
 *   [Converting your vanilla JavaScript app to TypeScript](https://www.useanvil.com/blog/engineering/converting-vanilla-javascript-to-typescript)
 
-## [36. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [37. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Electron
 
@@ -356,7 +363,7 @@
 
 *   [vavite (⭐191)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
@@ -376,7 +383,7 @@
 *   [CraftPix](https://craftpix.net) — Free/Paid assets like 2D, 3D, Audio, GUI, backgrounds, icons, tile sets, game kits.
 *   [ArtStation](https://www.artstation.com/) - MarketPlace for Free/Paid 2D, 3D assets & audios, icons, tile sets, game kits,..., Also, It can be used for showcasing your art portfolio.
 
-## [38. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [39. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
@@ -387,7 +394,7 @@
 *   [Getting started with Ansible](https://steampunk.si/blog/getting-started-with-ansible/) - Introduces Ansible, provides installation instructions and gives an interactive walkthrough of Ansible's basic functionalities, like running Ansible playbooks and installing Ansible content.
 *   [Taking Ansible apart](https://steampunk.si/blog/taking-ansible-apart/) - Describes and shows how most commonly used Ansible components work.
 
-## [39. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [40. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Elixir Examples / React
 
@@ -397,13 +404,13 @@
 
 *   [Undocumented: keeping parts of your GraphQL schema hidden from introspection](https://www.useanvil.com/blog/engineering/undocumented-directive/)
 
-## [40. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [41. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### App Examples
 
 *   [Live Wind Streaming](https://plot.ly/dash/gallery/live-wind-data/) - Continually queries a SQL database and displays live charts of wind speed and wind direction. [Source Code. (⭐2.6k)](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-wind-streaming)
 
-## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -413,7 +420,7 @@
 *   [headline (⭐99)](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
 *   [majemoji (⭐1)](https://github.com/metalogica/majemoji) - Adds a random emoji to each session's prompt. Includes `git` status decorations.
 
-## [42. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [43. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -463,19 +470,19 @@ A curated list of resources to secure Electron.js-based applications.
 
 Repository with Clojure examples of OWASP top 10 vulnerabilities.
 
-## [43. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [44. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Free Beginner Blue Team Path / Level 1 - Tools
 
 *   [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
 
-## [44. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [45. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Visual Effects
 
 *   [gdx-graph (⭐11)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
 
-## [45. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [46. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### 2FA
 
@@ -491,7 +498,7 @@ Repository with Clojure examples of OWASP top 10 vulnerabilities.
 
 *   [librengine (⭐32)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
-## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### PDF
 

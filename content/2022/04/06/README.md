@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 06, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -75,40 +75,19 @@
 
 *   [vite-plugin-electron (⭐170)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
 
-## [10. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### 0 - Meta-Listas
-
-*   [Universidad Nacional Autónoma de México - Plan (2016)](http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php)
-
-### 1 - Agnósticos / Algoritmos y Estructuras de Datos
-
-*   [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Dr. Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
-*   [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-
-### 1 - Agnósticos / Ciencia Computacional
-
-*   [Breves Notas sobre Autómatas y Lenguajes](https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-*   [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-*   [Breves Notas sobre Teoría de la Computación](https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-
-### Java / Sistemas Operativos
-
-*   [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-
-## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Editable data grid / spreadsheet
 
 *   [fortune-sheet (⭐1.5k)](https://github.com/ruilisi/fortune-sheet) - An online spreedsheet component that provides out-of-the-box features just like Excel.
 
-## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Databases
 
 *   [Sequel Ace (⭐5k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -108,19 +108,13 @@
 
 *   [ASCII-Hangman (⭐6)](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 
-## [7. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### HTML and CSS / Sistemas Operativos
-
-*   [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
-
-## [8. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [CycloneDX-PHP-Composer (⭐21)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 
-## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Cloud Services / SaaS / Tutorials & Demo
 
@@ -138,31 +132,31 @@
 
 *   [Flood.io Blog](https://www.flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
 
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 
 *   [Vulkan Guide](https://vkguide.dev). \[MIT]
 
-## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Proxies / Miscellaneous
 
 *   [exporter\_proxy (⭐4)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
 
-## [12. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Programs
 
 *   [fractals (⭐7)](https://github.com/Rusty-Bike/fractals) - A self-similar fractal generator with basic animation support.
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Individual components / Date & time
 
 *   [FlatpickrBlazor (⭐7)](https://github.com/mathisloge/FlatpickrBlazor) - ![last commit](https://img.shields.io/github/last-commit/mathisloge/FlatpickrBlazor?style=flat-square\&cacheSeconds=86400) Flatpickr Blazor interop.[Demo](https://mathisloge.github.io/FlatpickrBlazorExample/).
 
-## [14. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
@@ -200,7 +194,7 @@
 
 *   [cl-pslib](https://notabug.org/cage/cl-pslib) - a (thin) wrapper around the [pslib](http://pslib.sourceforge.net/) library for generating PostScript files. Also [cl-pslib-barcode](https://notabug.org/cage/cl-pslib-barcode). [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Graphical User Interface / Other / unknown licence
 
@@ -210,13 +204,13 @@
 
 *   [radalib (⭐9)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 
-## [16. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [15. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 
 *   [How To Keep Your Mental Health In Check When You Work From Home](https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home) - By WeWorkRemotely.
 
-## [17. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -260,7 +254,7 @@
 
 
 
-## [18. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [17. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 

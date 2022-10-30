@@ -81,15 +81,52 @@
 
 *   [fork-handles/tuples4k (⭐133)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
 
-## [7. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
 
-### Android / Sistemas Operativos
+### Algorithms & Data Structures
 
-*   [Curso Android](https://www.develou.com/android/) (HTML)
+*   [Algorithmic Graph Theory](http://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
+*   [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/\~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
+*   [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo (PDF)
+*   [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/\~mehlhorn/LEDAbook.html) - K. Mehlhorn, et al. (HTML)
+*   [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
+*   [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
+*   [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) (HTML)
+*   [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
+*   [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)
+*   [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
 
-### PHP / Symfony
+### Machine Learning
 
-*   [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
+*   [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen, Christopher K.I. Williams
+*   [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/) - David J.C. MacKay
+*   [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
+*   [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/\~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
+
+### Mathematics
+
+*   [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com) - Ani Adhikari, John DeNero, David Wagner
+*   [Linear Algebra](https://www.math.ucdavis.edu/\~linear/linear-guest.pdf) - David Cherney et al. (PDF)
+
+### Misc
+
+*   [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/) - Andy Oram, John King (HTML)
+*   [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/) - John King, Roger Magoulas (HTML)
+*   [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
+*   [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](http://www.wisdom.weizmann.ac.il/\~playbook/) - David Harel, Rami Marelly
+*   [Culture & Empire: Digital Revolution](http://hintjens.com/books) - Pieter Hintjens (PDF)
+*   [Digital Signal Processing For Communications](http://www.sp4comm.org) - Paolo Prandoni, Martin Vetterli
+*   [Digital Signal Processing For Engineers and Scientists](http://www.dspguide.com) - Steven W. Smith
+*   [How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob%20_How_to_Become_a%20_Programmer_1.0.pdf) - Rob Walling (PDF)
+*   [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
+*   [Modeling Reactive Systems with Statecharts](http://www.wisdom.weizmann.ac.il/\~harel/reactive_systems.html) - D. Harel, M. Politi
+*   [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) - David Easley, Jon Kleinberg
+*   [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/) - Greg Roelofs
+*   [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) - Nick Parlante (PDF)
+
+### Networking
+
+*   [Networking! ACK!](https://wizardzines.com/zines/networking/) - Julia Evans (PDF)
 
 ## [8. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

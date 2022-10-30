@@ -1,68 +1,74 @@
 # Awesome List Updates on Oct 01, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Misc
+
+*   [Programming Fundamentals](https://press.rebus.community/programmingfundamentals/) - Kenneth Leroy Busbee, Dave Braunschweig
+
+## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   💼 [clb (⭐70)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
 *   [Blazorise (⭐2.5k)](https://github.com/Megabit/Blazorise) - ![GitHub stars](https://img.shields.io/github/stars/Megabit/Blazorise?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Megabit/Blazorise?style=flat-square\&cacheSeconds=86400) Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. ([Bootstrap Demo](https://bootstrapdemo.blazorise.com/)), ([Bulma Demo](https://bulmademo.blazorise.com/)), ([AntDesign Demo](https://antdesigndemo.blazorise.com/)), ([Material Demo](https://materialdemo.blazorise.com/)).
 
-## [3. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md)
+## [4. Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md)
 
 ### Introduction
 
 *   [AI/ML YouTube Courses (⭐8.6k)](https://github.com/dair-ai/ML-YouTube-Courses)
 
-## [4. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Web frameworks
 
 *   [Lad (⭐2.2k)](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
 *   [syagent.com](https://syagent.com/) — Non commercial free server monitoring service, alerts and metrics.
 
-## [6. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [7. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Tools
 
 *   [Packer Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 *   [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
 *   [vitespa (⭐35)](https://github.com/ctholho/vitespa) - Vitesse-based SPA without SSG.
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
 *   [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 
-## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Time-Series Databases
 
 *   [InfluxDB](https://www.influxdata.com/) - a time series database with optimised IO and queries, supports pgsql and influx wire protocols.
 *   [QuestDB](https://questdb.io/) - high-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability.
 
-## [10. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Entertainment / Books
 
@@ -124,13 +130,13 @@
 *   [cli-mandelbrot (⭐76)](https://github.com/danyshaanan/cli-mandelbrot) - Traverse the Mandelbrot fractal.
 *   [lowcharts (⭐108)](https://github.com/juan-leon/lowcharts) - Draw low-resolution graphs.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Commercial Products
 
 *   [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anime
 
@@ -160,13 +166,13 @@
 
 
 
-## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / GUI
 
 *   [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 
-## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [15. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -203,7 +209,7 @@
 | ------: | -------: | ---: |
 |  3 - 12 |      10+ |  30m |
 
-## [15. Magictools](/content/ellisonleao/magictools/README.md)
+## [16. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 

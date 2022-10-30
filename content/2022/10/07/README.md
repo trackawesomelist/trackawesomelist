@@ -46,17 +46,27 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 
-## [6. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### Python / Symfony
-
-*   [Aprendiendo a Programar en Python con mi Computador](https://openlibra.com/en/book/download/aprendiendo-a-programar-en-python-con-mi-computador) (PDF)
-
-## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Developer Tools
 
 *   [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive and cross-platform web IDE with your OCaml code interpreted and running in your browser!
+
+## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Mathematics
+
+*   [Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1) - Edwin Herman, Gilbert Strang (PDF)
+*   [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) - Edwin Herman, Gilbert Strang (PDF)
+*   [Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3) - Edwin Herman, Gilbert Strang (PDF)
+
+### Networking
+
+*   [Mininet Walkthrough](https://mininet.org/walkthrough/)
+
+### Software Architecture
+
+*   [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 
 ## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

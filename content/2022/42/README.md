@@ -766,11 +766,50 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [lqg (⭐10)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
 
-## [55. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [55. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### PHP / Redis
+### Data Science
 
-*   [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
+*   [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (HTML)
+*   [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)
+*   [Probability and Statistics with Examples using R](https://www.isibang.ac.in/\~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) (:construction: *in process*)
+
+### Database
+
+*   [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/) - Adrienne Watt, Nelson Eng @ BCcampus Open Pressbooks (HTML, PDF, EPUB, Kindle)
+*   [Database Design Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/database-design-succinctly) - Joseph D. Booth (HTML, PDF, EPUB, MOBI)
+*   [Database Explorations](http://www.dcs.warwick.ac.uk/\~hugh/TTM/Database-Explorations-revision-2.pdf) - C.J. Date, Hugh Darwen (PDF)
+*   [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) - Neeraj Sharma et al. (PDF)
+*   [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/\~hugh/TTM/DTATRM.pdf) - C.J. Date, Hugh Darwen (PDF)
+*   [Foundations of Databases](http://webdam.inria.fr/Alice/)
+*   [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
+*   [Temporal Database Management](http://people.cs.aau.dk/\~csj/Thesis/) - Christian S. Jensen
+*   [The Theory of Relational Databases](http://web.cecs.pdx.edu/\~maier/TheoryBook/TRD.html)
+
+### Information Retrieval
+
+*   [Information Retrieval: Implementing and Evaluating Search Engines](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) - Stefan Böttcher, Charles L. A. Clarke, Gordon V. Cormack (PDF)
+
+### Machine Learning
+
+*   [Machine Learning for Beginners (⭐43k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
+*   [Probabilistic Machine Learning - An Introduction (⭐3.6k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
+
+### Mathematics For Computer Science
+
+*   [Isomorphism -- Mathematics of Programming (⭐2.5k)](https://github.com/liuxinyu95/unplugged) - Larry LIU Xinyu
+
+### Misc
+
+*   [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
+
+### Open Source Ecosystem
+
+*   [Contributing to opensource: the right way (⭐88)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
+
+### Search Engines
+
+*   [Elasticsearch Certified Engineer notes ](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
 
 ---
 

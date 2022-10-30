@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 12, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,25 +39,36 @@
 
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Misc
+
+*   [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien *(Leanpub account or valid email requested)*
+*   [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap *(Leanpub account or valid email requested)*
+
+### Software Architecture
+
+*   [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett *(Leanpub account or valid email requested)*
+
+## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Protocols
 
 *   [CoAP](http://coap.technology/) - The Constrained Application Protocol (CoAP) is a specialized Internet application protocol for constrained devices, as defined in RFC 7252.
 
-## [7. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Global Connectivity Indexes
 
 *   ITU Global Connectivity Report - ([2022](https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2022/)) - a detailed assessment of the current state of connectivity.
 
-## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-confluent (⭐51)](https://github.com/confluentinc/terraform-provider-confluent) - Provider for Confluent.
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
@@ -67,7 +78,7 @@
 
 *   [oxidecomputer/propolis (⭐99)](https://github.com/oxidecomputer/propolis) - Rust-based userspace program for illumos bhyve kernel modules
 
-## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [11. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
@@ -87,20 +98,20 @@
 
 *   [Annals of Mathematics and Artificial Intelligence](http://www.springer.com/journal/10472)
 
-## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+## [12. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ### Papers / 2018
 
 *   [Distill-and-Compare: Auditing Black-Box Models Using Transparent Model Distillation](https://arxiv.org/abs/1710.06169) - (AIES) *Treats black box models as teachers, training transparent student models to mimic the risk scores assigned by black-box models.*
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 
 *   [deno-validation (⭐1)](https://github.com/ethandunford/deno-validation) - A general purpose validation library for Deno.
 *   [PLS (⭐6)](https://github.com/roj1512/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
 
-## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Others / Commonsense Knowledgebase
 

@@ -985,17 +985,7 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 
 *   [MAYO: Practical Post-Quantum Signatures from Oil-and-Vinegar Maps](https://eprint.iacr.org/2021/1144.pdf) - The Oil and Vinegar signature scheme, proposed in 1997 by Patarin, is one of the oldest and best-understood multivariate quadratic signature schemes. It has excellent performance and signature sizes. This paper is about enhancing this algorithm in usage in the post-quantum era. [Official website](https://pqmayo.org/).
 
-## [55. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
-
-### JavaScript / Node.js
-
-*   [El Libro para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html) -  Manuel Kiessling, Herman A. Junge (HTML)
-
-### Python / Symfony
-
-*   [Aprendiendo a Programar en Python con mi Computador](https://openlibra.com/en/book/download/aprendiendo-a-programar-en-python-con-mi-computador) (PDF)
-
-## [56. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [55. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -1016,6 +1006,39 @@ Installs: 4000 | Stars: 950 | Last update: 4 Feb 2022
 *   [ParoaPe (⭐0)](https://github.com/ParoaPe/ParoaPe-zsh-theme) - Based on [lpha3cho (⭐31)](https://github.com/sdcampbell/lpha3cho-Oh-My-Zsh-theme-for-pentesters)
 *   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
 *   [themeraf (⭐0)](https://github.com/oliver-svrcek/Themeraf) - Has decorators for username, last two directories in working directory path, git status, timestamp, last exit status and also name of active virtual environment.
+
+## [56. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### 0 - Meta-Lists
+
+*   [Microsoft Technologies 3, DevOps for ASP.NET Core Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) - Cam Soper, Scott Addie, Colin Dembovsky (PDF)
+
+### Compiler Design
+
+*   [EXPL NITC: Build your own Compiler](https://silcnitc.github.io) - Murali Krishnan K., students in the Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
+
+### Mathematics
+
+*   [Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1) - Edwin Herman, Gilbert Strang (PDF)
+*   [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) - Edwin Herman, Gilbert Strang (PDF)
+*   [Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3) - Edwin Herman, Gilbert Strang (PDF)
+*   [Introduction to Modern Statistics](https://openintro-ims.netlify.app) - Mine Çetinkaya-Rundel, Johanna Hardin (HTML, PDF) (email address required for PDF)
+
+### Networking
+
+*   [Mininet Walkthrough](https://mininet.org/walkthrough/)
+
+### Security
+
+*   [Information Security Management](https://www.infosecuritybook.com) - Marcos Sêmola (PDF)
+
+### Software Architecture
+
+*   [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+
+### Theoretical Computer Science
+
+*   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 
 ## [57. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 

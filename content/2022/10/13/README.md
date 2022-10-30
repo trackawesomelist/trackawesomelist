@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,6 +88,16 @@
 ### P2P
 
 *   [Berty](https://berty.tech/) - The privacy-first messaging app that works with or without internet access, cellular data or trust in the network.
+
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Algorithms & Data Structures
+
+*   [Essential Algorithms](https://www.programming-books.io/essential/algorithms) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
+
+### Artificial Intelligence
+
+*   [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 
 ---
 

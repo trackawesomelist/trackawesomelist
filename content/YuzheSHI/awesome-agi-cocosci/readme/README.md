@@ -1303,6 +1303,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
 
+*   [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152\&hl=en\&as_sdt=0,5)].
+
 \*[Back to Top](#c)
 
 #### Literature Mining

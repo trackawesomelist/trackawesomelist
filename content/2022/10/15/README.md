@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,17 @@
 
 *   [ostralyan/scribe.nvim (⭐8)](https://github.com/ostralyan/scribe.nvim) - Take notes, easily.
 
-## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [2. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Security
+
+*   [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) (:construction: *in process*)
+
+### Software Architecture
+
+*   [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
+
+## [3. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Tutorials
 
@@ -242,7 +252,7 @@
 
 *   [Awesome Music Production (⭐541)](https://github.com/ad-si/awesome-music-production)
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -250,13 +260,13 @@
 *   [plenv (⭐0)](https://github.com/TwoPizza9621536/zsh-plenv) - Plugin for the perl [plenv (⭐482)](https://github.com/tokuhirom/plenv) version manager based on jenv.
 *   [pyenv (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-pyenv) - Based on the oh-my-zsh [pyenv (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/pyenv) plugin with modifications from the rbenv and jenv plugins.
 
-## [4. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [5. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### [Capawesome plugins](https://capawesome.io/)
 
 *   [Managed configuration (⭐3)](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 
-## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [6. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Board
 
@@ -274,19 +284,19 @@
 
 *   [Sorting Puzzle](https://www.dong.digital/sortingpuzzle/) - [Android](https://play.google.com/store/apps/details?id=digital.dong.sortingpuzzle), [iOS](https://apps.apple.com/app/sorting-puzzle/id1641001729) - Color sorting game reinvented: move and combine to solve puzzles. By [Dong Digital](https://www.dong.digital "Dong Digital").
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [nickhristov/krakdown (⭐12)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
 
-## [7. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [8. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   CtrlAlt.cc - <https://ctrlalt.cc/>
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 

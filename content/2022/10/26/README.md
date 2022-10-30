@@ -1,30 +1,36 @@
 # Awesome List Updates on Oct 26, 2022
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Data Science
+
+*   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
+
+## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Language Support
 
 *   [playwright-go (⭐992)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 
-## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [3. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Frameworks
 
 *   [JSX-email](https://jsx-mail.org/) - Jsx Mail is an email framework that uses React to create email templates. :fire:
 
-## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [ankitwasankar/mftool-java (⭐6)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
 
-## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [5. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Modeladmin
 
@@ -34,13 +40,13 @@
 
 *   [cookiecutter-wagtail-package (⭐10)](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
 
-## [5. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
+## [6. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
 ### Administration
 
 *   [TablerBundle (⭐13)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -96,7 +102,7 @@
 
 *   [perses-games/kudens (⭐30)](https://github.com/perses-games/kudens) - Develop browser games in Kotlin
 
-## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [8. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 
@@ -132,7 +138,7 @@
 | ------: | -------: | ---: |
 |  2 - 12 |       10 |  30m |
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Ruby / Angular
 
