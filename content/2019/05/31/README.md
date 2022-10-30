@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31, 2019
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -101,26 +101,36 @@
 
 *   [GLM (⭐6.9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
-## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Decorators / Components
+
+*   [segal-decorators (⭐45)](https://github.com/danrevah/segal-decorators) Bunch of useful decorators for the web!
+
+### Pipes / Components
+
+*   [ngx-pipes (⭐1.5k)](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular and beyond!
+
+## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Applications and Platforms / Wealth
 
 *   [Actual](https://actualbudget.com/) - Personal home budget software.
 
-## [13. Awesome Dart](/content/yissachar/awesome-dart/README.md)
+## [14. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Tutorials
 
 *   [Dart for beginner](https://www.myfreax.com/tag/dart/) - Dart Chinese tutorial for beginner.
 
-## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [BadgeHub (⭐739)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 *   [LoadingShimmer (⭐1.4k)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 
-## [15. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [16. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Basic linear algebra
 
@@ -134,13 +144,13 @@
 *   [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
     (C++, LGPL 2.1, [GitHub (⭐1k)](https://github.com/idaholab/moose))
 
-## [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Chinese
 
 *   [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
 
-## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [18. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Component Collections / Material Design
 

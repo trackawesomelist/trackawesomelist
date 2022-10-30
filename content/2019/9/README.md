@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 04 - Mar 10, 2019
 
-67 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1511,7 +1511,17 @@
 
 *   [Customized Streetart](https://www.literalstreetart.com) - Customizable maps with optional pen plotter output.
 
-## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [49. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Documentation tools / Components
+
+*   [ng-app-counter (⭐91)](https://github.com/Jamaks/ng-app-counter) : Count the number of Modules, Lazy Modules, Pipes, Providers, Directives, Components used in an Angular application.
+
+### Developer tools / Components
+
+*   [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
+
+## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -1525,13 +1535,13 @@
 
 *   [cl-aws-runtime-test (⭐31)](https://github.com/y2q-actionman/cl-aws-custom-runtime-test) - An example of using Common Lisp (SBCL) as a custom runtime on AWS lambda. WTFPL.
 
-## [50. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [51. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mod Loaders / Archives
 
 *   [RopeMC (⭐5)](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
-## [51. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [52. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Internet & Networking
 
@@ -1571,7 +1581,7 @@
 
 *   [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations 📌.
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Bot
 
@@ -1593,13 +1603,13 @@
 
 *   [JWT Simple Server (⭐190)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
 
-## [53. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [54. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Tarpits
 
 *   [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
 
-## [54. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [55. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Code Editors
 
@@ -1617,7 +1627,7 @@
 
 *   [HockeyApp (⭐2)](https://github.com/airext/hockeyapp) - ANE for the Hockeyapp testing & distribute platform.
 
-## [55. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
+## [56. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/week/README.md)
 
 ### Text - Metadata/Text
 
@@ -1627,7 +1637,7 @@
 
 *   **Artists Recommendation** - Recommend an artist based on given location and genre. [Download (⭐18)](https://github.com/agnosticdev/Blog-Examples/blob/master/UsingCoreMLtoCreateASongRecommendationEngine/Artist.mlmodel) | [Demo](https://github.com/likedan/Awesome-CoreML-Models/blob/master/README.md/) | [Reference](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
 
-## [56. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [57. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -1669,19 +1679,19 @@
 *   [Scientific Computing (⭐884)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
 *   [Amazon Sellers (⭐192)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
-## [57. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [58. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Browsers / File Sharing
 
 *   [Vivaldi](https://vivaldi.com) - The browser that puts you in control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://vivaldi.com/source) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [58. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [59. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Container Service
 
 *   [Stelligent/mu :fire::fire::fire: (⭐971)](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
 
-## [59. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [60. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Private Trackers
 
@@ -1692,14 +1702,14 @@
 
 *   [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
 
-## [60. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [61. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Climate
 
 *   [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *(1880-2015 vs. 1901-2000 Average)*
 *   [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true\&begbaseyear=1901\&endbaseyear=2000) *(1880-2015 (vs. 1901-2000 Average)*
 
-## [61. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [62. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Workflow / Extensions
 
@@ -1707,7 +1717,7 @@
     *   [guard-livereload (⭐2.1k)](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
     *   [simplehttp (⭐51)](https://github.com/snwfdhmp/simplehttp) Fastest and simplest way to start serving a local directory over http.
 
-## [62. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [63. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
@@ -1721,7 +1731,7 @@
 
 *   [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
 
-## [63. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [64. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -1786,13 +1796,13 @@
 
 *   [discordrb (⭐6)](https://github.com/meew0/discordrb) - An implementation of the Discord API.
 
-## [64. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [65. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Clients
 
 *   [mqtt-stats (⭐6)](https://github.com/gambitcomminc/mqtt-stats) - Subscriber client to monitor MQTT Topic Statistics
 
-## [65. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [66. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
@@ -1800,13 +1810,13 @@
 *   [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) - Wide range of recommendations for making Web content more accessible.
 *   [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - An interesting paper about websites' power consumption.
 
-## [66. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [67. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [Create React App + Ant Design (⭐579)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 
-## [67. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [68. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 

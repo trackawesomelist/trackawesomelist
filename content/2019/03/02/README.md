@@ -1,18 +1,24 @@
 # Awesome List Updates on Mar 02, 2019
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Documentation tools / Components
+
+*   [ng-app-counter (⭐91)](https://github.com/Jamaks/ng-app-counter) : Count the number of Modules, Lazy Modules, Pipes, Providers, Directives, Components used in an Angular application.
+
+## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Network / Barcode
 
 *   [Connectivity (⭐1.5k)](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 
-## [2. Awesome Python](/content/vinta/awesome-python/README.md)
+## [3. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Audio
 
@@ -46,7 +52,7 @@
 *   [flask-assets (⭐430)](https://github.com/miracle2k/flask-assets) - Helps you integrate webassets into your Flask app.
 *   [webassets (⭐910)](https://github.com/miracle2k/webassets) - Bundles, optimizes, and manages unique cache-busting URLs for static resources.
 
-## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [4. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Demonstrations
 
@@ -195,19 +201,19 @@
 *   [Introducting the Robot Security Framework (RSF), A standardized methodology to perform security assessments in robotics](https://arxiv.org/pdf/1806.04042.pdf)
 *   [Towards an open standard for assessing the severity of robot security vulnerabilities, The Robot Vulnerability Scoring System (RVSS)](https://arxiv.org/pdf/1807.10357.pdf)
 
-## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Game Frameworks / XML
 
 *   [PolyplexEngine (⭐37)](https://github.com/PolyplexEngine/libpp) - libpp is an XNA like framework written in D.
 
-## [5. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [6. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Libraries and Frameworks / .NET
 
 *   [Dolittle](https://dolittle.com) - Build better applications with Dolittle. An Event Sourced, Microservice platform oriented around DDD with developer productivity and simplicity front and center.
 
-## [6. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Utilities / Terminal Sharing Utilities
 

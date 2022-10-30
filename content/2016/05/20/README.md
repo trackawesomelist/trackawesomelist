@@ -1,6 +1,6 @@
 # Awesome List Updates on May 20, 2016
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,7 +38,14 @@
 
 *   [electron-quick-start (⭐10k)](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 
-## [4. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Angular CLI / Components
+
+*   [Official web page](https://cli.angular.io/)
+*   [Official repository (⭐26k)](https://github.com/angular/angular-cli)
+
+## [5. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### List of Lists
 

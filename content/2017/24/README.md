@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 12 - Jun 18, 2017
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -340,14 +340,20 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [Linear MQTT Dashboard (⭐52)](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client.
 
-## [31. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Pipes / Components
+
+*   [ngx-order-pipe (⭐241)](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
+
+## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
 *   [M A I L M A N](http://mailman.acervo.io/) Interactive music video by Bruno Imbrizi for a song called Mailman by Soundgarden.
 
-## [32. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [33. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Frameworks / MVC Frameworks
 
@@ -446,7 +452,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [WinDebug](http://www.henke37.cjb.net/windebug/) - Windows ANE to control applications, windows, memory, breakpoints, metadata, registry, etc.
 
-## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -465,13 +471,13 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [Vue-Semantic-Modal (⭐46)](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
 
-## [34. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools
 
 *   [Topol](https://topol.io/) - Create stunning responsive HTML e-mails in a minute.
 
-## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [36. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -482,7 +488,7 @@ Webpage: <http://4sq.com/1dQaY6h>
 *   [electron-store (⭐3.8k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 *   [got (⭐12k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 
-## [36. Amas](/content/sindresorhus/amas/week/README.md)
+## [37. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -492,19 +498,19 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [IIIT Vadodara (⭐17)](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 
-## [37. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [38. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Node.js / Single Topics
 
 *   [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.
 
-## [38. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [39. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [BEM by example](https://seesparkbox.com/foundry/bem_by_example)
 
-## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Mobile Development
 
@@ -514,13 +520,13 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [Iodine (⭐801)](https://github.com/boazsegev/iodine) - An non-blocking HTTP and Websocket web server optimized for Linux/BDS/macOS and Ruby MRI.
 
-## [40. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [41. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Audio / Podcasts
 
 *   [Internet History Podcast](http://www.internethistorypodcast.com/) ([subscribe](https://itunes.apple.com/us/podcast/internet-history-podcast/id829119009))
 
-## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -541,19 +547,19 @@ Webpage: <http://4sq.com/1dQaY6h>
 
 *   [Availability Calculator: Calculate how much downtime should be permitted in your SLA](https://dastergon.github.io/availability-calculator/)
 
-## [42. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [43. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Patterns & Best Practices
 
 *   [Linux tuning for better CouchDB performance (⭐34)](https://github.com/assafmo/couchdb-linux-performance)
 
-## [43. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [44. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [Pokemon-Terminal (⭐4k)](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
 
-## [44. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [45. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
@@ -564,13 +570,13 @@ Webpage: <http://4sq.com/1dQaY6h>
 *   [C# Style Guide](https://stackoverflow.com/questions/4678178/style-guide-for-c) - StackOverflow Q & A on style guides
 *   [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) - Official MSDN C# code conventions
 
-## [45. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Java VM / Java
 
 *   [Ja-micro (⭐621)](https://github.com/Sixt/ja-micro) - Lightweight Java framework for building microservices (compatible with go-micro).
 
-## [46. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [47. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Exploits
 

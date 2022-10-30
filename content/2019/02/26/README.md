@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2019
 
-24 awesome lists updated today.
+25 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -379,19 +379,25 @@
 
 *   [Customized Streetart](https://www.literalstreetart.com) - Customizable maps with optional pen plotter output.
 
-## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Developer tools / Components
+
+*   [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
+
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Miscellaneous
 
 *   [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT](https://opensource.org/licenses/MIT).
 
-## [13. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [14. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Mod Loaders / Archives
 
 *   [RopeMC (⭐5)](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
-## [14. Awesome Kde](/content/francoism90/awesome-kde/README.md)
+## [15. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
 ### Internet & Networking
 
@@ -431,7 +437,7 @@
 
 *   [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations 📌.
 
-## [15. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [16. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Resources / Custom Dialog
 
@@ -441,7 +447,7 @@
 
 *   [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [17. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Bot
 
@@ -463,13 +469,13 @@
 
 *   [JWT Simple Server (⭐190)](https://github.com/Xabaril/JWTSimpleServer) - A lightweight, dynamic jwt server for ASP.NET Core.
 
-## [17. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [18. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Host-based tools / Tarpits
 
 *   [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - POSIX-compliant Bash script that scans a host for various signs of malware.
 
-## [18. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [19. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Development Tools / Code Editors
 
@@ -483,7 +489,7 @@
 
 *   [AS3Commons Collections (⭐106)](https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3.
 
-## [19. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
+## [20. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
 
 ### Text - Metadata/Text
 
@@ -493,7 +499,7 @@
 
 *   **Artists Recommendation** - Recommend an artist based on given location and genre. [Download (⭐18)](https://github.com/agnosticdev/Blog-Examples/blob/master/UsingCoreMLtoCreateASongRecommendationEngine/Artist.mlmodel) | [Demo](https://github.com/likedan/Awesome-CoreML-Models/blob/master/README.md/) | [Reference](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
 
-## [20. Awesome List](/content/sindresorhus/awesome/README.md)
+## [21. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
@@ -515,26 +521,26 @@
 
 *   [Board Games (⭐196)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 
-## [21. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
+## [22. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 
 ### Articles and Documentation
 
 *   [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) - Wide range of recommendations for making Web content more accessible.
 *   [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - An interesting paper about websites' power consumption.
 
-## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Browsers / File Sharing
 
 *   [Vivaldi](https://vivaldi.com) - The browser that puts you in control. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://vivaldi.com/source) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [23. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [24. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Elastic Container Service
 
 *   [Stelligent/mu :fire::fire::fire: (⭐971)](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
 
-## [24. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [25. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Trackers / Private Trackers
 

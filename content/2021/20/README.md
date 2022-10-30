@@ -1,6 +1,6 @@
 # Awesome List Updates on May 17 - May 23, 2021
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -874,7 +874,13 @@
 
 *   [READMINE (⭐31)](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 
-## [43. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Test / Components
+
+*   [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
+
+## [44. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Policy enforcement
 
@@ -886,19 +892,19 @@
 *   [Helm GPG (GnuPG) Plugin (⭐23)](https://github.com/technosophos/helm-gpg) - Chart signing and verification with GnuPG for Helm.
 *   [Notary (⭐2.9k)](https://github.com/theupdateframework/notary) - Aims to make the internet more secure by making it easy for people to publish and verify content.
 
-## [44. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [45. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
 *   [Inertia.js (⭐183)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 
-## [45. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [46. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Misc
 
 *   [IT Pro Community](https://www.electric.ai/it-pro-slack) - Connect and network with IT practitioners and decision-makers
 
-## [46. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [47. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Examples
 
@@ -911,7 +917,7 @@
 
 *   [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 
-## [47. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [48. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
@@ -921,7 +927,7 @@
 
 *   [keplergl](https://docs.kepler.gl/docs/keplergl-jupyter) - Jupyter extension for visual exploration of large-scale geolocation data sets.
 
-## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -997,7 +1003,7 @@
 
 *   [shohi/neva (⭐11)](https://github.com/shohi/neva) - A Neovim version manager written in Lua.
 
-## [49. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [50. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### External Resources / Books
 
@@ -1046,13 +1052,13 @@
 *   [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
 *   [Behind The Scenes: Rails UJS](https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html)
 
-## [50. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [51. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
 *   [Yomi](https://yomi.yoroi.company) - Free MultiSandbox managed and hosted by Yoroi.
 
-## [51. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [52. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Videos
 
@@ -1068,7 +1074,7 @@
 
 *   [v8-perf (⭐2.1k)](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
 
-## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 

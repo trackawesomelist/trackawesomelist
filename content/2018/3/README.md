@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15 - Jan 21, 2018
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -163,7 +163,15 @@
 
 *   [ScreenShot PSD](http://txtlabs.com/) - Capture the screen as a layered PSD for easy editing. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/screenshot-psd/id489880259)
 
-## [18. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [18. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Official Resources
+
+*   [Site](https://angular.io)
+*   [Blog](https://blog.angular.io)
+*   [Documentation](https://angular.io/docs)
+
+## [19. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -220,7 +228,7 @@
 
 *   [Technically Wrong: Sexist Apps, Biased Algorithms, And Other Threats Of Toxic Tech](http://www.sarawb.com/technically-wrong/) - An unflinching look at the values, processes, and assumptions that lead to oversights, biases, and ethical nightmares.
 
-## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [20. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
@@ -230,13 +238,13 @@
 
 *   [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 
-## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Date / Runner
 
 *   [date-fns (⭐30k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
-## [21. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [22. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -292,14 +300,14 @@
 *   [d3-snippets-for-sublime-text-2 (⭐13)](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - Snippets for Sublime
 *   [d3Snippets (⭐3)](https://github.com/Ledragon/d3Snippets) - Snippets for VS Code
 
-## [22. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [23. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Related lists
 
 *   [Awesome Music Listening (⭐86)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
 *   [Awesome sheet music (⭐520)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Newsletter
 
@@ -317,13 +325,13 @@
 
 *   [AZCollectionViewController (⭐95)](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
 
-## [24. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [25. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Image Processing
 
 *   [ruby-vips (⭐746)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
-## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [26. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Documentation
 
@@ -343,20 +351,20 @@
 
 *   [puppet-mongodb (⭐92)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
 
-## [26. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [27. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [Mixer (⭐45)](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins.
 *   [Oven (⭐138)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
-## [27. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [28. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Cross-Platform
 
 *   [mdlt (⭐146)](https://github.com/metadelta/mdlt) - Command-line utility for quick math.
 
-## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Perl SDK
 
@@ -367,13 +375,13 @@
 
 *   [ttlequals0/autovpn :fire::fire::fire::fire: (⭐2k)](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
 
-## [29. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [30. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Threat Detection and Hunting (⭐2.4k)](https://github.com/0x4D31/awesome-threat-detection) - A curated list of awesome threat detection and hunting resources.
 
-## [30. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### To third parties
 
@@ -398,7 +406,7 @@
 
 *   [lake (⭐84)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
-## [31. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [32. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Messaging
 
@@ -497,14 +505,14 @@
 *   [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 *   [wlan slovenija](http://dev.wlan-si.net/) is developing technologies for easy deployment of community wireless mesh networks. The main idea is that power is in numbers so deployment should be so easy that anybody can do it, that anybody can start a new wireless mesh network and create a new community.
 
-## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [33. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
 *   [Robotics](https://www.edx.org/micromasters/pennx-robotics) **edx** :dollar:
 *   [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) **edx**
 
-## [33. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [34. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Machine Learning and Statistical Learning
 
@@ -514,14 +522,14 @@
 
 *   [Computer Vision Basics with Python Keras and OpenCV (⭐416)](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Security and PKI
 
 *   [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
 *   [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
 
-## [35. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [36. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
@@ -535,7 +543,7 @@
 
 *   [Ecwid](https://www.ecwid.com/) - Embeddable shopping cart.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -545,7 +553,7 @@
 
 *   [magnum (⭐4.2k)](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. \[MIT] [website](http://magnum.graphics)
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Search
 
@@ -559,7 +567,7 @@
 
 *   [nanoid (⭐180)](https://github.com/railsmechanic/nanoid) - Elixir port of NanoID, a secure and URL-friendly unique ID generator.
 
-## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Books
 
@@ -572,7 +580,7 @@
 *   [vuejs-datepicker (⭐2.6k)](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
 *   [v2-datepicker (⭐90)](https://github.com/dwqs/v2-datepicker) - A simple datepicker component based Vue 2.x.
 
-## [39. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [40. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Packages and Libraries supporting salesforce
 

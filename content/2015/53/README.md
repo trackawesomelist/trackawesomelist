@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 04 - Jan 10, 2016
 
-24 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -141,7 +141,13 @@
 *   [purescript-aff (⭐271)](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
 *   [purescript-affjax (⭐271)](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
 
-## [14. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Raúl Jiménez](https://twitter.com/elecash/)
+
+## [15. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Open-source host-it-yourself:
 
@@ -156,7 +162,7 @@
 
 *   [Day of Action (⭐8)](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
 
-## [15. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -166,31 +172,31 @@
 
 *   [elixir\_exif (⭐12)](https://github.com/sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
 
-## [16. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
+## [17. Creative Commons Media](/content/shime/creative-commons-media/week/README.md)
 
 ### Graphics
 
 *   [GameIcons](http://game-icons.net/) - SVG icons for board and video games.
 
-## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### SEO
 
 *   [Seo plugin (⭐7)](https://github.com/orgasmicnightmare/cakephp-seo) - Auto-creates and manages your SEO tags.
 
-## [18. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
 
-## [20. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
@@ -200,7 +206,7 @@
 
 *   [Laravel Shift](https://laravelshift.com/) - Automated upgrade tool for Laravel projects
 
-## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -210,7 +216,7 @@
 
 *   [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. \[MIT]
 
-## [22. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [23. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Honeypots
 
@@ -266,7 +272,7 @@
 
 *   [BroYara (⭐32)](https://github.com/hempnall/broyara) - Use Yara rules from Bro.
 
-## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [24. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / P individuals
 
@@ -276,7 +282,7 @@
 
 *   Robin Wilson <http://blog.rtwilson.com/>
 
-## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [25. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Fuzz Testing
 

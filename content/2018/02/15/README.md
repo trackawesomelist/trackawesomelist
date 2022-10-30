@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,19 +44,34 @@
 *   [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
 *   [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Manfred Steyer](https://twitter.com/manfredsteyer)
+*   [Juri Strumpflohner](https://twitter.com/juristr)
+
+### Books / Components
+
+*   [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
+
+### On-Site Training / Components
+
+*   [Angular.Schule (in Germany)](https://angular.schule/)
+
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
 *   [replxx (⭐592)](https://github.com/AmokHuginnsson/replxx) - A readline and libedit replacement that supports UTF-8, syntax highlighting, hints, works on Unix and Windows. \[BSD]
 
-## [7. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [8. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Video Courses
 
 *   [Framer Studio for Beginners: A Comprehensive Guide](https://www.youtube.com/playlist?list=PLIZVb6Yuw91yGUNbSNEHvWWHkdol6SJUW) - Series of videos that walk you through designing and coding in Framer using hands-on projects by [Cordova Putra](https://twitter.com/cordova)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Functional Programming
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03, 2017
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,7 +73,14 @@
 
 *   [Badger](https://open.dgraph.io/post/badger/) - a fast, simple, efficient, and persistent key-value store written natively in Go.
 
-## [3. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Ionic 2 General Resources / Components
+
+*   [Ionic 2 Repository (GitHub)](https://github.com//ionic-team/ionic)
+*   [Ionic 2 Awesome (⭐827)](https://github.com/candelibas/awesome-ionic)
+
+## [4. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
 ### Tutorials / Basics
 
@@ -89,7 +96,7 @@
 
 *   [Tips for animating 2D games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
 
-## [4. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
+## [5. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
 ### Documentation
 

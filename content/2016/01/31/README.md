@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 31, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -93,6 +93,12 @@ git config --global help.autocorrect 1
 ### Contents / Language bindings
 
 *   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
+
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Books / Components
+
+*   [Practical Angular 2](https://leanpub.com/practical-angular-2) `Leanpub`
 
 ---
 

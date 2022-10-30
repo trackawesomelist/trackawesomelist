@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 28 - Sep 03, 2017
 
-36 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -387,7 +387,13 @@
 
 *   [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
 
-## [34. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Reboard](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
+
+## [35. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Official resources
 
@@ -397,13 +403,13 @@
 
 *   [Identification of LG TV models 2011-2017](http://en.tab-tv.com/?page_id=7111) - How to get screen size, matrix type, year of development, series and ohter parameters from LG TV model name.
 
-## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Videos
 
 *   [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs\&t)
 
-## [36. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [37. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Interactive / Other
 

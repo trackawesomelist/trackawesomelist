@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31 - Jun 06, 2021
 
-77 awesome lists updated this week.
+78 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -787,7 +787,21 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Repo with Samples :fire::fire::fire::fire: (⭐1k)](https://github.com/awslabs/aws-sdk-ios-samples)
 
-## [66. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [66. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Community
+
+*   \[Top rated Angular stackoverflow questions Dashboard] (<https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/>)
+
+### Tables / Components
+
+*   [ignite-ui-angular's grid](https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid) - The data grid, tree grid, hierarchical grid in [Ignite UI for Angular (⭐535)](https://github.com/IgniteUI/igniteui-angular) provide excel-style filtering, live-data, sorting, draggable row and other toolbar.
+
+### Misc Components / Components
+
+*   [@ngneat/transloco (⭐1.6k)](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
+
+## [67. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Canvas
 
@@ -806,7 +820,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [react-intersection-observer (⭐3.7k)](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API.
 
-## [67. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [68. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Sequence Processing
 
@@ -826,7 +840,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   **[Prokka (⭐598)](https://github.com/tseemann/prokka)** - Prokka: rapid prokaryotic genome annotation. Prokka is one of the most cited annotation command line tools for microbial genome annotations.
 *   **[Bakta (⭐225)](https://github.com/oschwengers/bakta)** - Bakta is a tool for the rapid & standardized annotation of bacterial genomes & plasmids. It provides dbxref-rich and sORF-including annotations in machine-readable JSON & bioinformatics standard file formats for automatic downstream analysis.
 
-## [68. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [69. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -852,7 +866,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Rhino](https://www.rhino3d.com/) - This is a commercial 3D computer graphics and computer-aided design application software. Rhino has had multiple plug-ins built on top of it including Grasshopper and the Urban Network Analysis toolbox to enable complex modeling and analysis.
 
-## [69. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [70. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -863,7 +877,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [vue-fullscreen (⭐402)](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
-## [70. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [71. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Specialty Search Engines
 
@@ -1001,7 +1015,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [OSINT Belarus](https://t.me/s/osintby)
 *   [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 
-## [71. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [72. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -1012,7 +1026,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Noise in Creative Coding](https://varun.ca/noise/) - In-depth blog post about noise as an indispensable tool for creative coding.
 
-## [72. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [73. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Transformations - General DSP
 
@@ -1022,7 +1036,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [ReTiSAR (⭐47)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) [:octocat: (⭐47)](https://github.com/AppliedAcousticsChalmers/ReTiSAR) - Binarual rendering of streamed or IR-based high-order spherical microphone array signals.
 
-## [73. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [74. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Websites
 
@@ -1053,7 +1067,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   [cmichel](https://cmichel.io/categories/EOS) - Christoph Michel blog, EOSIO developer related publications.
 *   [Blockgenic](https://medium.com/@blockgenic) - Blockgenic blog, firm focused on Enterprise adoption of blockchain technology. Learning resources.
 
-## [74. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [75. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
@@ -1067,19 +1081,19 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 *   [Networking Interview Questions](https://www.interviewbit.com/networking-interview-questions/)
 
-## [75. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [76. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Extensions
 
 *   [Eventbus Service (⭐5)](https://github.com/wowselim/eventbus-service) - Code generator for type-safe event bus communication via simple Kotlin interfaces.
 
-## [76. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [77. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [buckets (⭐21)](https://github.com/jacoborus/deno-buckets) - Bundle assets and scripts in a single executable file.
 
-## [77. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [78. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 

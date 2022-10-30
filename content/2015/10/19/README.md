@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19, 2015
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,25 +62,38 @@
 
 *   [Typus](https://github.com/typus/typus) - Typus is a control panel for Ruby on Rails applications to allow trusted users edit structured content.
 
-## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Experts on Twitter
+
+*   [@pkozlowski\_os](https://twitter.com/pkozlowski_os)
+*   [@teropa](https://twitter.com/teropa)
+*   [@eggheadio](https://twitter.com/eggheadio)
+*   [@cedric\_exbrayat](https://twitter.com/cedric_exbrayat)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
+
+## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Applications / Directory Navigation
 
 *   [iponmap (⭐283)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Latest KPIs and Stats / Conferences
 
 *   2 million new EBS volumes created per day.<sup>[4](https://www.youtube.com/watch?v=OuyUbvtgfDk)</sup>
 
-## [8. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
+## [9. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
 ### REST API / Other
 
 *   [store-utils (⭐91)](https://github.com/jexp/store-utils) - Utilities to compact, copy, fix, analyse Neo4j stores.
 
-## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [10. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Tutorials
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -192,13 +192,19 @@
 *   MacUpdate：<https://www.macupdate.com/>
 *   Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
 
-## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Angular Team on twitter
+
+*   [Minko Gechev](https://twitter.com/mgechev)
+
+## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Miscellaneous
 
 *   [FF4J (⭐1.1k)](https://github.com/ff4j/ff4j) - Feature Flags for Java.
 
-## [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Personalization
 

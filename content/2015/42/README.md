@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 19 - Oct 25, 2015
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,28 @@
 
 *   [Update on Ubuntu Phone security issue](https://insights.ubuntu.com/2015/10/15/update-on-ubuntu-phone-security-issue/)
 
-## [4. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Jack Franklin](https://twitter.com/jack_franklin)
+*   [Thierry Chatel](https://twitter.com/ThierryChatel)
+*   [Uri Shaked](https://twitter.com/urishaked)
+*   [Gonzalo Ruiz de Villa Suárez](https://twitter.com/gruizdevilla)
+*   [Sharon DiOrio](https://twitter.com/sharondio)
+*   [John Papa](https://twitter.com/John_Papa)
+*   [Dan Wahlin](https://twitter.com/danwahlin)
+*   [Christian Weyer](https://twitter.com/christianweyer)
+*   [Todd Motto](https://twitter.com/toddmotto)
+*   [Tim Ruffles](https://twitter.com/timruffles)
+*   [Wassim Chegham](https://twitter.com/manekinekko)
+*   [Aaron Frost](https://twitter.com/js_dev)
+*   [Wilson Mendes](https://twitter.com/willmendesneto)
+*   [Jared Williams](https://twitter.com/jaredwilli)
+*   [Gerard Sans](https://twitter.com/gerardsans)
+*   [Pascal Precht](https://twitter.com/PascalPrecht)
+
+## [5. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Search Engine Framework
 
@@ -34,25 +55,25 @@
 
 *   [Hadoop360](http://www.hadoop360.com/)
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [data-science-ipython-notebooks (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 
-## [6. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Extensions / POSIX implementations
 
 *   [grep (⭐12)](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command.
 
-## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Search engine and framework
 
 *   [Sphinx Search Server](http://sphinxsearch.com/) - fulltext search engine.
 
-## [8. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Coding Style / Omniauth
 
@@ -62,7 +83,7 @@
 
 *   [VCR (⭐5.4k)](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 
-## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Books / Videos
 
@@ -87,31 +108,31 @@
 *   [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
 *   [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) by Daniel Schmitz and Daniel Pedrinha Georgii
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Email
 
 *   [emailjs (⭐2.1k)](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 
-## [11. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [12. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Data serialization / JSON
 
 *   [fast.json (⭐109)](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 
-## [12. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [13. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Projects to keep an eye on (ie projects in development)
 
 *   [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code (⭐12)](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
 
-## [13. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [14. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [d3.sketchy (⭐241)](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 
-## [14. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [15. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### Standalone Code Points
 
@@ -212,19 +233,19 @@
 *   [Domino tiles](https://codepoints.net/domino_tiles)
 *   [Mahjong tiles](https://codepoints.net/mahjong_tiles)
 
-## [15. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [16. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / How To Read a Paper
 
 *   [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 
-## [16. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Spreaker Studio](https://www.spreaker.com/download) - Audio recording and broadcasting.
 
-## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Videos and Lectures
 
@@ -235,13 +256,13 @@
 *   [Face recognition with Google's FaceNet deep neural network. (⭐15k)](https://github.com/cmusatyalab/openface)
 *   [Basic digit recognition neural network (⭐96)](https://github.com/joeledenberg/DigitRecognition)
 
-## [18. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [19. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Module Loaders / Brunch Plugins
 
 *   [Babel Module Loader (⭐4.7k)](https://github.com/babel/babel-loader)
 
-## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / V companies
 
@@ -255,7 +276,7 @@
 
 *   Undocumented Matlab <http://undocumentedmatlab.com/>
 
-## [20. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [21. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -266,7 +287,7 @@
     *   It covers how to measure and understand performance and scalability of parallel programs.
     *   It covers tools and methods to find bugs in concurrent programs.
 
-## [21. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [22. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Resources for those already familiar with GitHub
 
@@ -282,7 +303,7 @@
 *   [Open Source Society University (⭐126k)](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 *   [Clef's Handbook (⭐2.7k)](https://github.com/clef/handbook) - An employee handbook built for inclusion.
 
-## [22. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [23. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Node.js / Scala
 
@@ -299,7 +320,7 @@
 *   [RFC7643](https://tools.ietf.org/html/rfc7643) - SCIM: Core Schema, provides a platform-neutral schema and extension model for representing users and groups.
 *   [RFC7644](https://tools.ietf.org/html/rfc7644) - SCIM: Protocol, an application-level, REST protocol for provisioning and managing identity data on the web.
 
-## [23. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [24. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Plugins / Paid Books
 
@@ -311,7 +332,7 @@
     *   [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
     *   [symfony-collection (⭐450)](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
 
-## [24. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [25. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Miscellaneous
 
@@ -332,7 +353,7 @@
 *   [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 450 members driving development of innovative, reliable and easy-to-use ZigBee standards.
 *   [Z-Wave Alliance](http://z-wavealliance.org/) - Established in 2005, the Z-Wave Alliance is comprised of industry leaders throughout the globe that are dedicated to the development and extension of Z-Wave as the key enabling technology for 'smart' home and business applications.
 
-## [25. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [26. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Shell / Extensions
 
@@ -342,45 +363,45 @@
 
 *   [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) - a tool for monitoring the progress of data through a pipeline
 
-## [26. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [27. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Development Tools
 
 *   [Vert.x Hot (⭐48)](https://github.com/dazraf/vertx-hot) - A Maven plugin for the hot-deploy of Maven Vert.x projects.
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Markdown Processors
 
 *   [CommonMark.NET (⭐983)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
 
-## [28. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [29. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [AndroTotal](https://andrototal.org/) - Free online analysis of APKs
     against multiple mobile antivirus apps.
 
-## [29. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
+## [30. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
 ### Python
 
 *   [Django Starter Template (⭐144)](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
 
-## [30. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [31. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
 *   [airpaste (⭐794)](https://github.com/mafintosh/airpaste) – 1-1 network pipe that auto discovers other peers using mdns.
 *   [blecat (⭐94)](https://github.com/mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
 
-## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Third-party APIs
 
 *   [google-api-ads-ruby (⭐288)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 
-## [32. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [33. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -401,19 +422,19 @@
 
 *   [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
 
-## [33. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [34. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [React-flexbox (⭐162)](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.
 
-## [34. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [35. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### HTML Widgets
 
 *   [scatterD3 (⭐152)](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### The Fiery Meter of AWSome
 
@@ -861,7 +882,7 @@
 
 *   [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - Entertaining and educational, a community contribution.
 
-## [36. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [37. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / Java
 
@@ -893,7 +914,7 @@
 
 *   [Quiet](https://www.youtube.com/watch?v=AzlCIS072_Y) By Susan Cain
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -911,13 +932,13 @@
 
 *   [Elixir Fountain](https://soundcloud.com/elixirfountain) - A weekly podcast with news & interviews from around the Elixir community hosted by [Johnny Winn](https://twitter.com/johnny_rugger).
 
-## [38. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [39. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Web Development
 
 *   [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** \[53:40]
 
-## [39. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [40. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Sliders / Runner
 
@@ -928,7 +949,7 @@
 *   [jTable (⭐1.1k)](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 *   [floatThead (⭐1.2k)](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
 
-## [40. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [41. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Queueing / NoSQL Databases
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 17, 2021
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,13 @@
 
 *   [YggTorrent](https://yggtorrent.li/) French tracker and search engine (have a download/upload ratio limitation)
 
-## [2. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Angular CLI / Components
+
+*   [ng-cli-hooks (⭐6)](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build
+
+## [3. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### CI / Tools & Plugins
 
@@ -39,31 +45,31 @@
 
 *   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
 
-## [3. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [4. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Tutorials
 
 *   [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) - Kubernetes monitoring with Prometheus, the ultimate guide by Mateo Burillo.
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Reflection
 
 *   [Refureku (⭐176)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
 
-## [5. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [6. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [AngouriMath](https://www.patreon.com/AngouriMath) - Computer/symbolic algebra library for .NET.
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Navigation / Image Picker
 
 *   [Beamer (⭐460)](https://github.com/slovnicki/beamer) <!--stargazers:slovnicki/beamer--> - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -73,13 +79,13 @@
 
 *   [Trooveo (⭐9)](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (Audio Only), No YouTube Api.
 
-## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [KeyPress (⭐6)](https://github.com/rayylee/keypress) - A Rust WebAssembly Website example for practising english for chinese.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -89,13 +95,13 @@
 
 *   [vite-plugin-html (⭐313)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
 *   [WooriDB (⭐115)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
 
-## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -178,7 +184,7 @@
 
 *   <sup>[53![Podcast](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png)](https://t.me/s/aboutrss/53), [129](https://t.me/s/aboutrss/129), [773![Podcast](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png)](https://t.me/s/aboutrss/773), [916](https://t.me/s/aboutrss/916), [941](https://t.me/s/aboutrss/941)</sup>
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tutorials
 
@@ -190,27 +196,27 @@
 *   [Blazor Component Testing](https://edcharbeneau.com/Blazor-Component-Testing/) - February 16, 2021 - Blazor Component Testing, by Ed Charbeneau.
 *   [.NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...](https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx) - February 3, 2021 - .NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...
 
-## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [14. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) - Jan 23, 2020.
 *   [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad) - A curated atlas of Wardley mapping examples. Mar 6, 2019 - Present.
 
-## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Learning
 
 *   🔧 [Web2Tailwind](https://web2tailwind.com) - How to build web components with Tailwind CSS with AlpineJS.
 
-## [15. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
+## [16. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/README.md)
 
 ### Commercial integrations
 
 *   [Bill.do](https://bill.do) - Free DigitalOcean billing monitoring and insights tool
 *   [SnapShooter](https://snapshooter.io/digitalocean) - Tool for taking Daily to Hourly backups of Droplets and Volumes
 
-## [16. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [17. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Helix
 

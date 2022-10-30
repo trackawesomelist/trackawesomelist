@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 03 - Apr 09, 2017
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -406,7 +406,18 @@ $ git config --global merge.tool meld
 
     $ git mergetool
 
-## [34. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Experts on Twitter
+
+*   [@victorsavkin](https://twitter.com/victorsavkin)
+*   [@jeffbcross](https://twitter.com/jeffbcross)
+
+### Material Design
+
+*   [Material Light (⭐40)](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
+
+## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
@@ -420,13 +431,13 @@ $ git config --global merge.tool meld
 
 *   [mnemonix (⭐35)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐611)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
-## [36. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [37. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Programming / Python
 
@@ -450,13 +461,13 @@ $ git config --global merge.tool meld
 
 *   [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 
-## [37. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [CNN visualization using Tensorflow (⭐776)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
 
-## [38. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
+## [39. Awesome Sdn](/content/sdnds-tw/awesome-sdn/week/README.md)
 
 ### Books
 
@@ -464,13 +475,13 @@ $ git config --global merge.tool meld
 *   [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
 *   [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 
-## [39. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [40. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Utilities
 
 *   [Audion (⭐304)](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
-## [40. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [41. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -480,7 +491,7 @@ $ git config --global merge.tool meld
 
 *   [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js (⭐15k)](https://github.com/plotly/plotly.js)
 
-## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Caching
 
@@ -494,14 +505,14 @@ $ git config --global merge.tool meld
 
 *   [NSpec (⭐249)](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 
-## [42. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [43. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Language
 
 *   [CrossPascal (⭐40)](https://github.com/BeRo1985/crosspascal). `[Delphi]` Aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
     // *Quite interesting project though seems abandoned*
 
-## [43. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [44. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
@@ -524,7 +535,7 @@ $ git config --global merge.tool meld
 
 *   [Swift Windows Switcher (⭐318)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
-## [44. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [45. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 

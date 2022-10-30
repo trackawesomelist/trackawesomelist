@@ -1,6 +1,6 @@
 # Awesome List Updates on May 01 - May 07, 2017
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -599,19 +599,28 @@
 *   [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 *   [Kattis](https://open.kattis.com/)- Online judge and problem archive
 
-## [30. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Webpack / Components
+
+*   [Angular Nightly Webpack Starter (⭐896)](https://github.com/qdouble/angular-webpack2-starter)
+*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐490)](https://github.com/damienbod/AngularWebpackVisualStudio)
+*   [Angular Typescript Webpack from schempy (⭐68)](https://github.com/schempy/angular2-typescript-webpack)
+*   [Angular Webpack + rxjs + modules (⭐5)](https://github.com/jorgeas80/angular2-webpack-toh)
+
+## [31. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Community / Blogs
 
 *   [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 
-## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [32. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow](http://tensorflowbook.com) by Nishant Shukla, computer vision researcher at UCLA and author of Haskell Data Analysis Cookbook. This book makes the math-heavy topic of ML approachable and practicle to a newcomer.
 
-## [32. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [33. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Drawing / Others
 
@@ -640,13 +649,13 @@
 *   [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 *   [WhatTheFont](http://www.myfonts.com/WhatTheFont/) - Determine font name from an image.
 
-## [33. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [34. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Symfony-Flex (⭐3.9k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐846)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
-## [34. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [35. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Build And Release System
 
@@ -656,19 +665,19 @@
 
 *   [mesosphere-dc/os](https://github.com/cicdops/awesome-ciandcd/blob/master/README.md/mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.
 
-## [35. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [36. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
 *   [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 
-## [36. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [37. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Autoencoders and anomaly detection with machine learning in fraud analytics ](https://shiring.github.io/machine_learning/2017/05/01/fraud) May 1, 2017
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -683,14 +692,14 @@
 
 *   [Dependency Injection in .NET Core, 2nd edition](https://www.manning.com/books/dependency-injection-in-dot-net-second-edition)
 
-## [38. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [39. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Lebanon](http://www.paperswelovelb.club)
 *   [Winnipeg](http://pwlwpg.ca/)
 
-## [39. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [40. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
@@ -705,7 +714,7 @@
 *   [adminMongo (⭐3.8k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs
 *   [Rockmongo (⭐1k)](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
-## [40. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [41. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Blog Series
 
@@ -748,7 +757,7 @@
 
 *   [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
-## [41. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [42. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### API Gateways / Edge Services / Scala
 

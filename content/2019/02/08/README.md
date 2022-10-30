@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2019
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,13 +77,19 @@
 
 *   [Mixkit](https://mixkit.co/) - A gallery of high-quality videos and animation
 
-## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Jeff Delaney](https://twitter.com/jeffdelaney23)
+
+## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Package Management
 

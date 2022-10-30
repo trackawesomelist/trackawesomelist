@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01 - Jan 07, 2018
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -446,7 +446,13 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
     *   [OverFeat (⭐593)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
     *   [wav2letter (⭐6.1k)](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [39. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Documentation tools / Components
+
+*   [Storybook (⭐75k)](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
+
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -463,7 +469,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 *   [vue-seamless-scroll (⭐1.5k)](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
 
-## [40. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [41. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Mobile Apps
 
@@ -492,7 +498,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 *   [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
 
-## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Document
 

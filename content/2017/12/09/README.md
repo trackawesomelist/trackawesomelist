@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 09, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,7 +23,34 @@
 
 *   [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Community
+
+*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [**{{** add\_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+
+### Webpack / Components
+
+*   [Official web page](https://webpack.js.org)
+*   [Angular Webpack Starter from PatrickJS (⭐10k)](https://github.com/gdi2290/angular-starter)
+
+### Books / Components
+
+*   [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
+
+### TypeScript Seed Projects / Components
+
+*   [**{{** add\_your\_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+
+### Security / Components
+
+*   [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
+
+## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Chart
 
@@ -37,13 +64,13 @@
 
 *   [L10n-swift (⭐278)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 
-## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Articles / Other
 
 *   [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.
 
-## [5. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [6. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 

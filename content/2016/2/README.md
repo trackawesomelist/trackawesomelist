@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2016
 
-43 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -539,7 +539,13 @@ git commit --amend --reset-author --no-edit
 
 *   [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
 
-## [37. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 reconnecting websockets quickstart (⭐8)](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
+
+## [38. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### High level
 
@@ -552,7 +558,7 @@ git commit --amend --reset-author --no-edit
 
 *   [bonjour (⭐584)](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 
-## [38. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [39. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Mobile Development
 
@@ -566,7 +572,7 @@ git commit --amend --reset-author --no-edit
 
 *   [file-type-cli (⭐66)](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 
-## [39. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [40. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
@@ -578,7 +584,7 @@ git commit --amend --reset-author --no-edit
 *   [Reddit](https://www.reddit.com/r/node)
 *   [Twitter](https://twitter.com/nodejs)
 
-## [40. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [41. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -744,7 +750,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 | ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
 | ✔    | ✔     | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00 |
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -762,7 +768,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
 
-## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [43. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -772,7 +778,7 @@ Webpage: <http://www.perfectcupchicago.com/>
 
 *   [Beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [43. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [44. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Network
 

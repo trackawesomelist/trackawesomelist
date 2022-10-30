@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 16, 2017
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,7 +29,13 @@
 
 *   [Explore-Github (⭐53)](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Official Resources
+
+*   [Cheatsheet](https://angular.io/guide/cheatsheet)
+
+## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Official Documentation Translations
 

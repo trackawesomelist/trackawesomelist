@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21 - Dec 27, 2015
 
-34 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -412,20 +412,26 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [Rest for Haskell (⭐388)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [28. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Babel Seed Projects / Components
+
+*   [angular2-fullstack-starter (⭐32)](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
+
+## [29. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [rxjava-extras (⭐273)](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 *   [RxActions (⭐33)](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 
-## [29. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 
-## [30. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [31. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Polyfills
 
@@ -447,7 +453,7 @@ git update-index --no-assume-unchanged <file_name>
 *   Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier)
 *   Nicolas [@necolas](https://twitter.com/necolas)
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -457,7 +463,7 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [exfavicon (⭐7)](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 
-## [32. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [33. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
@@ -481,13 +487,13 @@ git update-index --no-assume-unchanged <file_name>
 *   full privileges -> isolate on kernel level
 *   absolute privileges -> run it in separate vm
 
-## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [D3.compose (⭐699)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 

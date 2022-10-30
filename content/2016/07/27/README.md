@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -83,13 +83,19 @@
 *   Dart
     *   [Vert.x Dart SockJS (⭐0)](https://github.com/wem/vertx-dart-sockjs) - [Dart](https://www.dartlang.org/) integration for [Vert.x SockJS bridge](http://vertx.io/docs/vertx-web/java/#_sockjs_event_bus_bridge) and plain SockJS with use of dart:js.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### NgRx / Components
+
+*   [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)
+
+## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Scientific Computing
 
 *   [Trilinos (⭐819)](https://github.com/trilinos/Trilinos) - High performance PDE solvers. \[BSD]
 
-## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

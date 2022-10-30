@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25 - May 01, 2022
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -655,7 +655,13 @@
 *   [Sentinel Console (⭐0)](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDengine.
 *   [Davinci (⭐4.5k)](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform.
 
-## [48. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [48. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Eoapi (⭐657)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
+
+## [49. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Learning / Community Tutorials
 
@@ -669,7 +675,7 @@
 
 *   [Proposal (⭐64)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
-## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -679,7 +685,7 @@
 
 *   [Fleet (⭐2.2k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
-## [50. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [51. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Link Shorteners
 
@@ -690,7 +696,7 @@
 
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
 
-## [51. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [52. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -698,7 +704,7 @@
 *   [vue-hbs-admin (⭐83)](https://github.com/developer-plus/vue-hbs-admin) - Admin starter template based on `Vite` + `Vue3` + `TypeScript` + `Vue-Router4` + `Pinia` + `Unocss` + `Ant-design-vue` + `Auto imports`.
 *   [vite-vue-proste (⭐9)](https://github.com/xyhxx/vite-vue-proste) - Pinia + Typescript + Vue-Router4 + Vitest + Vue-Test-Utils + Vue-Query + Sass + ESLint + Stylelint + Prettier + `project presets`.
 
-## [52. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Inter-process communication
 
@@ -708,7 +714,7 @@
 
 *   [fccf (⭐310)](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. \[MIT]
 
-## [53. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [54. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 

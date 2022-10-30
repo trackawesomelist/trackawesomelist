@@ -493,7 +493,18 @@
 
 *   [Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016](https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf)
 
-## [16. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Generators / Components
+
+*   Scaffold
+    *   [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
+
+### Test / Components
+
+*   [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
+
+## [17. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
@@ -503,19 +514,19 @@
 
 *   [Valetudo (⭐3.6k)](https://github.com/Hypfer/Valetudo) - Xiaomi (Roborock) Vacuum Robots Firmware with MQTT and Webinterface.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - SiteSucker is a Macintosh application that automatically downloads websites from the Internet. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12)
 
-## [18. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [19. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
 *   [KFR](https://www.kfrlib.com/) - Fast, modern C++ DSP framework, DFT/FFT, Audio resampling, FIR/IIR, Biquad, EBU R 128.
 
-## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
@@ -528,13 +539,13 @@
     *   [Migrating to Vulkan with the New PowerVR Graphics Framework](https://www.imgtec.com/webinar/migrating-to-vulkan-with-the-powervr-framework/)
     *   [Migrating from OpenGLES to Vulkan](https://www.imgtec.com/downloads/download-info/migrating-from-opengl-es-to-vulkan/)
 
-## [20. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [21. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Non-JavaScript Libraries / Themes
 
 *   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
-## [21. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [22. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Finite Elements
 
@@ -550,25 +561,25 @@
 
 *   [Wolfgang Bangerth's video class](https://www.math.colostate.edu/\~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
 
-## [22. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [23. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 
-## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [24. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Articles
 
 *   [Being helpful isn’t the same as being clear](https://medium.com/product-narrative/sharing-lessons-learned-in-okr-f802aff4c251): A useful note to understand the local culture when implementing OKR.
 
-## [24. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [25. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Libraries / Integrations
 
 *   [remount (⭐610)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
-## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [26. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Mathematics / SpriteKit
 
@@ -628,12 +639,6 @@
 
 *   [Rubik's Cube (⭐17)](https://github.com/codelynx/CoreRubiksCube) - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁
 *   [SwiftChain](https://github.com/gg2001/SwiftChain) - Simple Cryptocurrency in a Swift Playground.
-
-## [26. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
-
-### Other
-
-*   [ScaffoldHub.io](https://scaffoldhub.io) — Generate full Angular Material applications with an online modeling tool!
 
 ## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 

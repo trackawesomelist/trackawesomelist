@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 15, 2015
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -79,26 +79,32 @@
 
 *   [Rest for Haskell (⭐388)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [6. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Babel Seed Projects / Components
+
+*   [angular2-fullstack-starter (⭐32)](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
+
+## [7. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Utilities
 
 *   [rxjava-extras (⭐273)](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 *   [RxActions (⭐33)](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Images
 
 *   [exfavicon (⭐7)](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 
-## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Who to Follow / Slides and Notes
 

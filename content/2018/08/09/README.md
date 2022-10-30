@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,7 +53,13 @@
 
 *   [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) - Materials about how to use Chemoinformatics strategies to improve drug discovery results.
 
-## [8. Awesome Opengl](/content/eug/awesome-opengl/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Cheatsheet
+
+*   [List of 100 Angular Interview questions and answers (⭐2.8k)](https://github.com/sudheerj/angular-interview-questions)
+
+## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 
 ### Debug
 

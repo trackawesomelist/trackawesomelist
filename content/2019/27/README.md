@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 08 - Jul 14, 2019
 
-42 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -659,31 +659,37 @@
 *   [Google SRE Twitter Account](https://twitter.com/googlesre) - Google's SRE Twitter Account.
 *   [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
 
-## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Material Design
+
+*   [MDBootstrap (⭐1.1k)](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) Built with Angular 7, Bootstrap 4 and TypeScript powerful UI KIT providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
+
+## [28. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### C / Git
 
 *   [milagro-crypto-c (⭐29)](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
 
-## [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
 *   [Rapidbay (⭐398)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
-## [29. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [the-elements-of-statistical-learning (⭐362)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
-## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
 *   [thetool (⭐199)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 
-## [31. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [32. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
@@ -694,7 +700,7 @@
 *   [Open Watcom V2 (⭐690)](https://github.com/open-watcom/open-watcom-v2) - GitHub fork which is actively maintained and is
     ported to 64-bit Windows and Linux.
 
-## [32. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [33. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -708,7 +714,7 @@
 | ------: | -------: | -----: |
 |   4 - 8 |        7 | 30-90m |
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
@@ -722,7 +728,7 @@
 
 *   Meetup [Tokyo Flutter Developers](https://www.meetup.com/Tokyo-Flutter/)
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Command Line
 
@@ -756,13 +762,13 @@
 
 *   [ValidatedPropertyKit (⭐857)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
-## [35. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [36. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Shell
 
 *   [gulp-execa (⭐52)](https://github.com/ehmicky/gulp-execa) - Cross-platform command execution in Gulp.js.
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
@@ -772,7 +778,7 @@
 
 *   [BinarySerializer (⭐248)](https://github.com/jefffhaynes/BinarySerializer) - Serialization for custom packet and protocol formats, supports bit-twiddling.
 
-## [37. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [38. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tutorials / React Performance
 
@@ -782,13 +788,13 @@
 
 *   [react-extras (⭐690)](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 
-## [38. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [39. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [zDog (⭐9.4k)](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 
-## [39. Amas](/content/sindresorhus/amas/week/README.md)
+## [40. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -796,7 +802,7 @@
 *   [Jim Lesperance (⭐1)](https://github.com/cooljl31/ama) - Passionate full-stack developer, dog ❤️ and likes to travel.
 *   [Greg Edelston (⭐1)](https://github.com/gredelston/ama) - Software engineer at Google. Zen Buddhist and improv lover.
 
-## [40. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [41. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
@@ -807,13 +813,13 @@
 
 *   [CryptOSS (⭐8)](https://github.com/rvantonder/CryptOSS) - Mine GitHub activity and market cap data for cryptocurrency projects.
 
-## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### PDF
 
 *   [Open HTML to PDF (⭐1.5k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 

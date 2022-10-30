@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 15 - Feb 21, 2021
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -229,7 +229,13 @@
 
 *   [YggTorrent](https://yggtorrent.li/) French tracker and search engine (have a download/upload ratio limitation)
 
-## [24. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Angular CLI / Components
+
+*   [ng-cli-hooks (⭐6)](https://github.com/smartin85/ng-cli-hooks) - Hooks for the Angular CLI to customize the build
+
+## [25. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### CI / Tools & Plugins
 
@@ -256,13 +262,13 @@
 
 *   [Awesome Software Quality (⭐2.1k)](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
 
-## [25. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [26. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Tutorials
 
 *   [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) - Kubernetes monitoring with Prometheus, the ultimate guide by Mateo Burillo.
 
-## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CSV
 
@@ -272,19 +278,19 @@
 
 *   [Refureku (⭐176)](https://github.com/jsoysouvanh/Refureku) - A C++17 runtime reflection and code generation library. \[MIT]
 
-## [27. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [28. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [AngouriMath](https://www.patreon.com/AngouriMath) - Computer/symbolic algebra library for .NET.
 
-## [28. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [29. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Navigation / Image Picker
 
 *   [Beamer (⭐460)](https://github.com/slovnicki/beamer) <!--stargazers:slovnicki/beamer--> - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by [Sandro Lovnički](https://github.com/slovnicki)
 
-## [29. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [30. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
@@ -298,7 +304,7 @@
 
 *   [yew-feather (⭐7)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 
-## [30. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -308,7 +314,7 @@
 
 *   [vite-plugin-html (⭐313)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
-## [31. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [32. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -391,7 +397,7 @@
 
 *   <sup>[53![Podcast](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png)](https://t.me/s/aboutrss/53), [129](https://t.me/s/aboutrss/129), [773![Podcast](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-sound-surround-16.png)](https://t.me/s/aboutrss/773), [916](https://t.me/s/aboutrss/916), [941](https://t.me/s/aboutrss/941)</sup>
 
-## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [33. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
@@ -410,46 +416,46 @@
 *   [Blazor Component Testing](https://edcharbeneau.com/Blazor-Component-Testing/) - February 16, 2021 - Blazor Component Testing, by Ed Charbeneau.
 *   [.NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...](https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx) - February 3, 2021 - .NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...
 
-## [33. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [34. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) - Jan 23, 2020.
 *   [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad) - A curated atlas of Wardley mapping examples. Mar 6, 2019 - Present.
 
-## [34. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [35. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Learning
 
 *   🔧 [Web2Tailwind](https://web2tailwind.com) - How to build web components with Tailwind CSS with AlpineJS.
 
-## [35. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
+## [36. Awesome Digitalocean](/content/jonleibowitz/awesome-digitalocean/week/README.md)
 
 ### Commercial integrations
 
 *   [Bill.do](https://bill.do) - Free DigitalOcean billing monitoring and insights tool
 *   [SnapShooter](https://snapshooter.io/digitalocean) - Tool for taking Daily to Hourly backups of Droplets and Volumes
 
-## [36. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
 *   [typetype (⭐326)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 
-## [37. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Jamstack Sites Showcase
 
 *   [HandleDroid](https://handledroid.com/) - Built with Next.js, MongoDB, Auth0, AWS CloudWatch, SendGrid, Stripe and hosted on Netlify.
 
-## [38. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [39. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
 *   [RustScan (⭐7.4k)](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
-## [39. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [40. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous / Lazy Load
 
@@ -467,7 +473,7 @@
 
 *   [redux-first-history (⭐355)](https://github.com/salvoravida/redux-first-history) - Redux First History - Redux history binding support react-router - @reach/router - wouter
 
-## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Configuration
 
@@ -491,7 +497,7 @@
 
 *   [bitcoinex (⭐34)](https://github.com/RiverFinancial/bitcoinex) - Bitcoin utilities in Elixir.
 
-## [41. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [42. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Internet & Networking
 
@@ -506,7 +512,7 @@
 
 *   [KWinFT](https://gitlab.com/kwinft/kwinft) - Wayland compositor and X11 window manager.
 
-## [42. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [43. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
@@ -516,7 +522,7 @@
 
 *   [WooriDB (⭐115)](https://github.com/naomijub/wooridb) - General purpose time serial database inspired by Crux and Datomic.
 
-## [43. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [44. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -526,7 +532,7 @@
 
 *   [Mozilla Stumbler](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location db.
 
-## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [45. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Business
 
@@ -556,7 +562,7 @@
 
 
 
-## [45. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [46. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
@@ -566,13 +572,13 @@
 
 *   [OpenAeroStruct (⭐130)](https://github.com/mdolab/OpenAeroStruct) -  A lightweight tool that performs aerostructural optimization using OpenMDAO.
 
-## [46. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [47. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Linux commands
 
 *   **Iptraf-ng**: is an interactive and colorful IP Lan monitor.  It shows individual connections and the amount of data flowing between the hosts. A maintained fork of the defunct iptraf. [Screenshot](https://wiki.ipfire.org/addons/iptraf-ng/iptraf-ng_monitor.png)
 
-## [47. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [48. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Demos / Godot 3.2+
 
@@ -591,7 +597,7 @@
 
 *   [Godex (⭐733)](https://github.com/GodotECS/godex) - An entity component system library.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -624,19 +630,19 @@
 
 *   [vuse-rx (⭐51)](https://github.com/Raiondesu/vuse-rx) - Complete first-class rxjs support for Vue 3
 
-## [49. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [50. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Boilerplates
 
 *   [vue-web-extension (⭐1.5k)](https://github.com/Kocal/vue-web-extension) - A Vue CLI 3+ preset for quickly starting a web extension with Vue, Babel, ESLint and more!
 
-## [50. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [51. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-checkly (⭐37)](https://github.com/checkly/terraform-provider-checkly) - Manage [Checkly](https://www.checklyhq.com) resources for API & E2E monitoring.
 
-## [51. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [52. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Routing
 
@@ -655,7 +661,7 @@
 
 *   [react-native-react-bridge (⭐109)](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 
-## [52. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [53. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### JAMstack
 

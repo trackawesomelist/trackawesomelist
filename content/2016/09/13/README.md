@@ -1,18 +1,24 @@
 # Awesome List Updates on Sep 13, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [ng2-boiler (⭐0)](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
+
+## [2. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Build Tools
 
 *   [Construct (⭐263)](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Artificial Intelligence
 
@@ -34,25 +40,25 @@
 
 *   [faker\_elixir (⭐149)](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
 
-## [3. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [4. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Backups
 
 *   [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 
-## [4. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### NoSQL
 
 *   [Monga plugin (⭐18)](https://github.com/lewestopher/cakephp-monga) - Provides access to MongoDB datasource using [`thephpleague/monga`](https://github.com/thephpleague/monga).
 
-## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Java / Symfony2
 
 *   [Vertx-Web (⭐991)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
-## [6. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
+## [7. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 
 ### Must Reads
 
@@ -62,19 +68,19 @@
 
 *   [Designing Offline-First Web Apps](http://alistapart.com/article/offline-first) - A fascinating look at design and UX considerations for dealing with various states of connectivity.
 
-## [7. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [8. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Videos
 
 *   [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) - Using the Hubot PowerShell Desired State Configuration (DSC) resource to install Hubot on Windows.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
 *   [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) \[pt-BR\]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 
-## [9. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
+## [10. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 
 ### Automation
 

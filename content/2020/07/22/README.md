@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 22, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,7 +62,35 @@
 
 *   [Animal Crossing New Horizons NookPlaza Catalog](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Video Tutorials / Components
+
+*   [List of over 140 Angular Courses (free and paid) at Classpert](https://classpert.com/angularjs)
+
+### On-Site Training / Components
+
+*   [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
+
+### Integrations / Components
+
+*   [ng-sapphiredb (⭐44)](https://github.com/SapphireDb/ng-sapphiredb) - Client implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
+
+### Site Templates / Components
+
+*   [HowToKeepAngularDeploymentSizeSmall (⭐14)](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
+
+### Developer tools / Components
+
+*   [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
+
+### NgRx / Components
+
+*   [Adding Redux With NgRx/store and Angular2 - Part 1](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular-2-part-1/)
+*   [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing
+    Reducers)](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
+
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Weather
 
@@ -78,19 +106,19 @@
 
 
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Blazm.Bluetooth (⭐67)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
 
-## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Websites
 
 *   [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
 
-## [11. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Application layer
 
@@ -105,7 +133,7 @@
 
 *   [ros2\_ouster\_drivers (⭐89)](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2\_ouster\_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 
-## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [13. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Reading
 
@@ -115,19 +143,19 @@
     *   [Spanish Translation](http://joapen.com/mapasdewardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 
-## [13. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [14. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
 *   [next-deploy (⭐46)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 
-## [14. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [15. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
 *   [torch-points3d (⭐103)](https://github.com/nicolas-chaulet/torch-points3d) - Pytorch framework for doing deep learning on point clouds.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [16. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Font
 

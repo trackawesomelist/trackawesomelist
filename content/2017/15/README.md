@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 10 - Apr 16, 2017
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -393,43 +393,49 @@
 
 *   [Scientific Simulation](http://hackage.haskell.org/packages/#cat:Scientific%20Simulation) - a collaborative Hackage list.
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [15. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Angular2 D3v4 Seed (⭐14)](https://github.com/gp187/angular2-d3v4-graph) - Angular2 D3v4 implementation of charts, graphs, area and view porting seed project
+
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
 *   [TensorFlow (⭐278)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
-## [16. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / JavaScript
 
 *   [Node API Boilerplate (⭐3k)](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 
-## [17. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Logger / Field Validation
 
 *   [Bugfender (⭐37)](https://github.com/bugfender/BugfenderSDK-android-sample) - Upload your logs and check them online, specially made for mobile
 
-## [18. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [19. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Questions
 
 *   [tensorflow-ocaml (⭐278)](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 
-## [19. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [20. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Miscellaneous
 
 *   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 
-## [20. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [21. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Resources / Papers
 
 *   [Spark SQL: Relational Data Processing in Spark](https://amplab.cs.berkeley.edu/wp-content/uploads/2015/03/SparkSQLSigmod2015.pdf) - Paper introducing relational underpinnings, code generation and Catalyst optimizer.
 
-## [21. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Graphics
 
@@ -448,7 +454,7 @@
 *   [iWB2 Learner](https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/) - by jethrow -  iWB2 Learner is a tool for gathering information about Internet Explorer webpages. Forum thread: [link](https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)
 *   [AHK-EXE-Swapper](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6310) - by evilC - Swap AHK version quickly! Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6310).
 
-## [22. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [23. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
@@ -463,14 +469,14 @@
 *   [golja-influxdb (⭐19)](https://github.com/dgolja/golja-influxdb) - Puppet module for InfluxDB
 *   [puppet-telegraf](https://forge.puppet.com/datacentred/telegraf/readme) - Puppet module for Telegraf
 
-## [23. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [24. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Forums
 
 *   [/r/dataengineering](https://www.reddit.com/r/dataengineering/) News, tips and background on Data Engineering
 *   [/r/etl](https://www.reddit.com/r/ETL/) Subreddit focused on ETL
 
-## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Graphics
 
@@ -485,7 +491,7 @@
 
 *   [dotNetify (⭐1.1k)](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
 
-## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [26. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -516,25 +522,25 @@
 
 *   [Ardour](https://ardour.org/) - Cross-platform audio software for multi-track recording and editing. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Ardour/ardour)
 
-## [26. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [27. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript) – Use four new features of ES6 – iterables, generators, fat arrows, and for-of – in conjunction with higher-order functions, function composition, and lazy evaluation, to write cleaner and more modular JavaScript.
 
-## [27. Computer Science](/content/ossu/computer-science/week/README.md)
+## [28. Computer Science](/content/ossu/computer-science/week/README.md)
 
 ### Congratulations / Which programming languages should I use?
 
 *   Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
 
-## [28. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [29. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Articles
 
 *   [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
 
-## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Python SDK
 
@@ -553,7 +559,7 @@
 *   [Lumoslabs/aleph (⭐77)](https://github.com/lumoslabs/aleph) - A full featured web application for writing and running Redshift
     queries. Supports revision tracking of queries and has basic visualization support.
 
-## [30. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [31. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Articles / Miscellaneous
 
@@ -563,7 +569,7 @@
 
 *   [scss-lint (⭐3.6k)](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS. [(deprecated) (⭐3.6k)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
 
-## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [32. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### For Developers / Directory Navigation
 
@@ -573,7 +579,7 @@
 
 *   [A guide to learn bash (⭐11k)](https://github.com/Idnan/bash-guide)
 
-## [32. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [33. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -583,7 +589,7 @@
 
 *   [Sonnet (⭐9.4k)](https://github.com/deepmind/sonnet) - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 
-## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -595,20 +601,20 @@
 
 *   [vue-js-modal (⭐4.1k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
-## [34. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [35. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Frameworks
 
 *   [Intervention Engine FHIR Server (⭐97)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
 *   [Swift-SMART (⭐119)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
-## [35. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [36. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
 *   [Suzy (⭐7)](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
 
-## [36. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [37. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Miscellaneous
 
@@ -618,13 +624,13 @@
 
 *   [phalcon-demo (⭐42)](https://github.com/Codeception/phalcon-demo) - A modified Phalcon INVO Application to demonstrate basics of Codeception testing.
 
-## [37. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [38. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Fact Checking / Telegram
 
 *   [Check](https://meedan.com/check)
 
-## [38. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [39. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Convolutional Neural Network Models
 
@@ -641,7 +647,7 @@
 
 *   Region-based convolutional networks for accurate object detection and segmentation (2016), R. Girshick et al.
 
-## [39. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [40. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Programming / Python
 
@@ -653,13 +659,13 @@
 
 *   [The Neurocritic](http://neurocritic.blogspot.in/) - Often critical takes on the most sensationalistic recent findings in Human Brain Imaging, Cognitive Neuroscience, and Psychopharmacology.
 
-## [40. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [41. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Browser extensions
 
 *   [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - Blocks any content that is not an ad.
 
-## [41. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [42. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Lexical Processing / Lexical Statistics: Counting Types and Tokens
 
@@ -738,7 +744,7 @@
 *   [summarize (⭐205)](https://github.com/ssoper/summarize) -
     Ruby native wrapper for [Open Text Summarizer (⭐220)](https://github.com/neopunisher/Open-Text-Summarizer).
 
-## [42. Jstips](/content/loverajoel/jstips/week/README.md)
+## [43. Jstips](/content/loverajoel/jstips/week/README.md)
 
 ### Support the community / Let’s keep in touch
 
@@ -814,13 +820,13 @@
 *   01 - [AngularJS: `$digest` vs `$apply`](http://www.jstips.co/en/angular/angularjs-digest-vs-apply/)
 *   00 - [Insert item inside an Array](http://www.jstips.co/en/javascript/insert-item-inside-an-array/)
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 
 *   [crz (⭐84)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
 
-## [44. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [45. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Projection Mapping • VJing
 
@@ -849,13 +855,13 @@
 
 *   [Machine Learning (⭐938)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
-## [45. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [vulkan (⭐366)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
 
-## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 

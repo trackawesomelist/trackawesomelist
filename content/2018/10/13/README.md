@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,19 +24,25 @@
 
 *   [Introduction to Web Application Security](https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018) - Written by [@itsC0rg1](https://twitter.com/itsC0rg1), [@jmkeads](https://twitter.com/jmkeads) and [@matir](https://twitter.com/matir).
 
-## [4. Amas](/content/sindresorhus/amas/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Cheatsheet
+
+*   [Angular References](https://ngrefs.com)
+
+## [5. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Addy Osmani](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c) - Engineering manager on the Chrome team at Google leading up Web Performance.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Misc
 
 *   [Guard (⭐655)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
-## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Lenses
 
@@ -46,13 +52,13 @@
 
 *   [Koka](https://www.microsoft.com/en-us/research/project/koka/) – Koka is a function-oriented programming language that seperates pure values from side-effecting computations with a familiar JavaScript like syntax.
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CSV / Third-party APIs
 
 *   [cl-decimals (⭐18)](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
@@ -62,7 +68,7 @@
 
 *   [Cacher](https://www.cacher.io) - Cloud-based, team-enabled code snippet manager with Gist sync.
 
-## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Password Vaults
 
@@ -125,7 +131,7 @@
 
 *   [Letterboxd](https://letterboxd.com/) Your life in film
 
-## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
@@ -152,13 +158,13 @@
 
 *   [node-casbin (⭐2k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
 *   [CleanArchitectureRxSwift (⭐3.5k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
 
-## [12. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [13. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Security
 

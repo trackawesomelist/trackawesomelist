@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28 - Oct 04, 2015
 
-32 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -540,7 +540,89 @@
 
 *   [sweet\_xml (⭐328)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
-## [26. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
+## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Community
+
+*   `#angular2` channel on Freenode IRC Server
+*   [Gitter Channel](https://gitter.im/angular/angular)
+*   [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
+*   [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
+
+### Cheatsheet
+
+*   [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
+
+### Video Tutorials / Components
+
+*   [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+
+### On-Site Training / Components
+
+*   [ng-book](https://www.ng-book.com/2/)
+
+### Integrations / Components
+
+*   [nativescript-angular (⭐1.2k)](https://github.com/NativeScript/nativescript-angular)
+*   [react-native-renderer (⭐793)](https://github.com/angular/react-native-renderer)
+
+### Universal General Resources / Components
+
+*   [Universal Angular 2 Repository (GitHub) (⭐3.9k)](https://github.com/angular/universal)
+
+### TypeScript General Resources / Components
+
+*   [TypeScript Repository (GitHub) (⭐85k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 Samples (⭐1k)](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
+
+### Dart General Resources / Components
+
+*   [Dart](https://www.dartlang.org/) Official Website for Dart
+*   [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
+*   [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
+*   [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
+*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
+*   [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
+
+### Dart Seed Projects / Components
+
+*   [Angular 2 Dart Quickstart (⭐7)](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
+
+### Dart Demo, Samples, and Examples / Components
+
+*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+*   [Router Demo (⭐1)](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
+
+### Traceur General Resources / Components
+
+*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+
+### Babel General Resources / Components
+
+*   [Babel](https://babeljs.io/) Official Website for Babel
+*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
+*   [Babel Repository (GitHub) (⭐42k)](https://github.com/babel/babel) Official GitHub Repo for Babel
+
+### NativeScript General Resources / Components
+
+*   [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
+
+### NativeScript Seed Projects / Components
+
+*   [sample-Angular2 (⭐49)](https://github.com/NativeScript/sample-Angular2)
+
+### React Native General Resources / Components
+
+*   [React Native](https://facebook.github.io/react-native/) Official Website for React Native
+
+### React Native Projects / Components
+
+*   [Angular 2 React Native Renderer (GitHub) (⭐793)](https://github.com/angular/react-native-renderer)
+
+## [27. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
 ### Beginner Books
 
@@ -555,7 +637,7 @@ Very massive, hugely successful and popular text presenting an extensive and com
 
 Drawing on his unsurpassed experience teaching new users, professional data scientist Jared P. Lander has written the perfect tutorial for anyone new to statistical programming and modeling. Organized to make learning easy and intuitive, this guide focuses on the 20 percent of R functionality you’ll need to accomplish 80 percent of modern data tasks. Book's self-contained chapters start with the absolute basics, offering extensive hands-on practice and sample code. You’ll download and install R; navigate and use the R environment; master basic program control, data import, and manipulation; and walk through several essential tests. Then, building on this foundation, you’ll construct several complete models, both linear and nonlinear, and use some data mining techniques.
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
@@ -569,7 +651,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 *   [Pretzel (⭐595)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
-## [28. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [29. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -602,7 +684,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 *   [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 *   [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 
-## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key Map Data Model
 
@@ -610,7 +692,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 *   [Apache Cassandra](http://cassandra.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 *   [Apache HBase](http://hbase.apache.org/) - column-oriented distributed datastore, inspired by BigTable.
 
-## [30. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [31. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -707,13 +789,13 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 *   [Alaska (⭐54)](https://github.com/mavenlink/alaska) - ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.
 
-## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [32. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shell Script Development / Directory Navigation
 
 *   [bashmanager (⭐85)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 
-## [32. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
+## [33. Awesome Promises](/content/wbinnssmith/awesome-promises/week/README.md)
 
 ### Resources, Blogs, and Books / For beginners
 

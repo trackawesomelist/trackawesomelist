@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 20 - Nov 26, 2017
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -439,7 +439,32 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 *   [Draft.js AST Importer (⭐13)](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 
-## [44. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [44. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Community
+
+*   [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
+
+### Server-Side Rendering
+
+*   [Angular Universal Repository (GitHub) (⭐3.9k)](https://github.com/angular/universal)
+
+### Material Design
+
+*   [Official Angular Material Design (GitHub) (⭐23k)](https://github.com/angular/material2)
+*   [Blox Material (⭐150)](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
+
+### Cheatsheet
+
+*   [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
+*   [Angular Dart cheatsheet (⭐11)](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+
+### Books / Components
+
+*   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
+*   [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
+
+## [45. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Localization
 
@@ -450,7 +475,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 *   [The Extension Lab](https://github.com/theextensionlab/)
 *   [FireBear Studio](https://firebearstudio.com/)
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -460,19 +485,19 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 *   [MediaInfoLib (⭐472)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
-## [46. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [47. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / How to report Security issues
 
 *   [Android Reports and Resources (⭐1.1k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
-## [47. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [48. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Art
 
 *   [Every Shirt Is Political](https://everyshirtispolitical.com/) - Shirts that are ethically made, hand-printed, and pay what you can priced.
 
-## [48. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [49. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Resources / Organizations
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -141,19 +141,37 @@
 
 *   [Octo (⭐554)](http://github.com/johnearnest/Octo/) - A high-level assembler for CHIP-8, Super-CHIP and XO-CHIP, complete with an environment for testing programs, and tools for sharing your creations.
 
-## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Video Tutorials / Components
+
+*   [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
+
+### Approach and Explanation / Components
+
+*   Hristo Georgiev
+
+    *   [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
+
+### Generators / Components
+
+*   Dart
+    *   Stagehand
+        *   [dart-lang/stagehand (⭐669)](https://github.com/dart-lang/stagehand)
+
+## [14. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Web
 
 *   🔧 [Remote Styles with Remote Config (⭐64)](https://github.com/firebaseextended/remote-styles/) - Dynamic/Conditional loading of CSS stored in Remote Config. ([Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 
-## [14. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [15. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Feature management
 
 *   [Unleash (⭐6.5k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
-## [15. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [16. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Scripts / GitHub
 

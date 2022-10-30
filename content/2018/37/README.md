@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10 - Sep 16, 2018
 
-42 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -352,13 +352,24 @@
 
 *   [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum\&utm_medium=twitter\&utm_campaign=sentiment-analysis)
 
-## [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [William Grasel](https://twitter.com/willgmbr)
+*   [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)
+
+### TypeScript Seed Projects / Components
+
+*   [angular-app-example (⭐60)](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
+
+## [27. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [CoRecursive Interviews](https://corecursive.com/) - In-Depth interviews with software development experts.  Focusing on functional programming and languages like scala / haskell / F# / erlang / idris / kotlin.
 
-## [27. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [28. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -368,13 +379,13 @@
 
 *   [Awesome jq (⭐545)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 
-## [28. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [29. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Papers / ROSCon 2015
 
 *   [Towards a distributed and real-time framework for robots: Evaluation of ROS 2.0 communications for real-time robotic applications](https://arxiv.org/pdf/1809.02595.pdf)
 
-## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Builder
 
@@ -384,7 +395,7 @@
 
 *   [did\_you\_mean (⭐1.8k)](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
 
-## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [31. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Android SDK
 
@@ -398,13 +409,13 @@
 
 *   [service-discovery-ecs-consul :fire: (⭐109)](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
 
-## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [32. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
 *   [Physical Computing With Rust](https://rahul-thakoor.github.io/physical-computing-rust/) A (WIP) guide to physical computing with Rust on the Raspberry Pi.
 
-## [32. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Examples
 
@@ -414,25 +425,25 @@
 
 *   [vue-log-worker](https://gitlab.com/schoolmouv-open-source/vue-log-worker) - A Vue.js plugin to log error and vuex mutations to your backend through a web worker
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
 *   [PyCM (⭐1.3k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 
-## [34. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [35. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Routing
 
 *   [Preact Route Async (⭐35)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 
-## [35. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [36. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Clients
 
 *   [npm (⭐6.5k)](https://github.com/npm/cli) - The official client.
 
-## [36. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [37. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
@@ -461,26 +472,26 @@
 
 *   [Raspberry Pi Beginners](https://medium.com/@anshul.ahu/how-to-setup-raspberry-pi-for-beginners-aeedc2cb994a) - Guide to setup the Raspberry Pi for beginners.
 
-## [37. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [38. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [samsung-remote-models-2014-and-newer (⭐48)](https://github.com/tdudek/samsung-remote-models-2014-and-newer) - Encrypted communication with the internal web service of Samsung TV models 2014+.
 *   [SmartCrypto (⭐8)](https://github.com/sectroyer/SmartCrypto) - SmartView2 encrypted handshake API implementation in C/Python.
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [CoreWiki (⭐374)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
 
-## [39. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [40. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Components / Themes
 
 *   [antd-table-infinity (⭐277)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 
-## [40. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
@@ -494,13 +505,13 @@
 
 *   [sublime-tmux (⭐8)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 
-## [41. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [42. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### SaaS Tools / Symfony2
 
 *   [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 

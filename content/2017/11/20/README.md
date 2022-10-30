@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 20, 2017
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -81,31 +81,56 @@
 
 *   [Draft.js AST Importer (⭐13)](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 
-## [11. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Community
+
+*   [Angular StackOverflow](https://stackoverflow.com/questions/tagged/angular)
+
+### Server-Side Rendering
+
+*   [Angular Universal Repository (GitHub) (⭐3.9k)](https://github.com/angular/universal)
+
+### Material Design
+
+*   [Official Angular Material Design (GitHub) (⭐23k)](https://github.com/angular/material2)
+*   [Blox Material (⭐150)](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
+
+### Cheatsheet
+
+*   [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
+*   [Angular Dart cheatsheet (⭐11)](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+
+### Books / Components
+
+*   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
+*   [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
+
+## [12. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
 *   [FireBear Studio](https://firebearstudio.com/)
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
 *   [OpenBLAS (⭐4.8k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
-## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [14. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / How to report Security issues
 
 *   [Android Reports and Resources (⭐1.1k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
-## [14. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [15. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Art
 
 *   [Every Shirt Is Political](https://everyshirtispolitical.com/) - Shirts that are ethically made, hand-printed, and pay what you can priced.
 
-## [15. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [16. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Resources / Organizations
 

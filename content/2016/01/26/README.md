@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26, 2016
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,7 +76,17 @@
 
 *   [whereami (⭐151)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [ng2-start (⭐34)](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
+
+### Traceur Seed Projects / Components
+
+*   [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
+
+## [10. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Tracking / ORM
 
@@ -90,20 +100,20 @@
 
 *   [AboutLibraries (⭐3.1k)](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 
-## [10. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
+## [11. Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md)
 
 ### Articles
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [12. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Tools / Slides and Notes
 
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [12. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [13. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Projects
 

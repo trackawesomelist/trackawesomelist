@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 02, 2021
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [AwesomeTechStack](https://awesometechstack.com/) - Website awesomeness monitoring Tool.
 
-## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 😍 A complete Angular 10, NgRx, Angular CLI & Angular Material starter project
+
+## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### Web Frameworks
 
@@ -78,14 +84,14 @@ Language: English
 Notable Channels: `#vapor`, `#leaf`, `#fluent`, `#auth`, `#async`, `#security`, `#meetups`, `#showcase`, `#today-i-learned`, `#apple-events`, `#deployment`, `#red`, `#cloud`, `#aws`, `swift`, **[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#so-much-more)** \
 Language: English, čeština, español, русский, Deutsch, 中文频道, Nederlands, 日本語, français, italiano, українська, 한국어
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Task scheduling
 
 *   [delay-timer (⭐250)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
     [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -111,44 +117,44 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 *   [windwp/nvim-autopairs (⭐1.4k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs for Neovim written by Lua.
 *   [monaqa/dial.nvim (⭐357)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
-## [7. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Shopping
 
 *   [Yumniastic Food Shop App (⭐18)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 
-## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Frontend / UI / Scala
 
 *   [Electrode](https://github.com/electrode-io) - Universal React/Node.js application platform.
 *   [MiniApp White Paper](https://w3c.github.io/miniapp/white-paper/) - MiniApp standardization white paper.
 
-## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [10. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Documentation / Symfony2
 
 *   [Optic (⭐1k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
-## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Business Intelligence
 
 *   [Count](https://count.co) - notebook-based anlytics and visualisation platform using SQL or drag-and-drop.
 
-## [11. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
+## [12. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
 ### General analytics
 
 *   [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
-## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🌍 [Updrafts.app](https://updrafts.app/) - Advanced online no-code drag and drop editor for Tailwind CSS.
 
-## [13. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [14. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### 3D
 
@@ -158,19 +164,19 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 *   [input (⭐2)](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 
-## [14. Awesome React](/content/enaqx/awesome-react/README.md)
+## [15. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Native Sample Apps / Charts
 
 *   [Bus Timetable (⭐67)](https://github.com/EarlGeorge/timetable)
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [vite-svg-loader (⭐255)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
-## [16. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [17. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Miscellaneous
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25, 2015
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -82,7 +82,13 @@
 *   [Reborn (⭐894)](https://github.com/reborndb/reborn) - Distributed database fully compatible with redis protocol.
 *   [Tachyon](http://tachyon-project.org/) - Memory-centric distributed storage system, enabling reliable data sharing at memory-speed across cluster frameworks.
 
-## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Community
+
+*   [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
+
+## [6. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
 ### REST API / Python
 
@@ -96,7 +102,7 @@
 
 *   [Neo4j's Idea board](https://trello.com/b/2zFtvDnV/public-idea-board)
 
-## [6. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Frameworks
 
@@ -110,7 +116,7 @@
 
 *   [LoopDrop App (⭐814)](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
-## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [8. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### User / Authentication
 
@@ -120,7 +126,7 @@
 
 *   [brakeman (⭐6.5k)](https://github.com/presidentbeef/brakeman) - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 
-## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Editors / Paid Books
 

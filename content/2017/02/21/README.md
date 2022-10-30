@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 21, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,7 +50,22 @@
 
 *   [normalizr (⭐21k)](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
 
-## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Material Design
+
+*   [ng2-materialize (⭐319)](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
+
+### Cheatsheet
+
+*   [Angular Performance Checklist (⭐3.9k)](https://github.com/mgechev/angular-performance-checklist)
+
+### TypeScript Seed Projects / Components
+
+*   [Angular Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular apps
+*   [Angular NPM Module Seed (⭐52)](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
+
+## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Tools
 
@@ -64,25 +79,25 @@
 
 *   [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) - 2016 Report: Campaign Monitor 2016 Year in Review
 
-## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / CLI
 
 *   [wallix/awless :fire::fire::fire::fire::fire: (⭐4.9k)](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
 
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Blogs
 
 *   [Serverless Guy](http://www.serverlessguy.com/) - Blog about a "life without servers".
 
-## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [8. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 
 *   [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
 
-## [8. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
+## [9. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
 ### Audio
 
@@ -103,13 +118,13 @@
 *   [FFmpeg](https://metacpan.org/pod/FFmpeg) - Interface to FFmpeg, a video converter written in C
 *   [Video::Info](https://metacpan.org/pod/Video::Info) - Retrieve video properties such as: height width codec fps
 
-## [9. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
+## [10. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
 ### Components / Themes
 
 *   [react-lz-editor (⭐935)](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 
-## [10. Tips](/content/git-tips/tips/README.md)
+## [11. Tips](/content/git-tips/tips/README.md)
 
 ## Saving current state with message
 
@@ -134,7 +149,7 @@ git log -<n>
 git log -n <n>
 ```
 
-## [11. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [12. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / Unsupervised / Generative Models
 
@@ -144,7 +159,7 @@ git log -n <n>
 
 *   Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [\[web\] (⭐15k)](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
-## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / SDKs
 

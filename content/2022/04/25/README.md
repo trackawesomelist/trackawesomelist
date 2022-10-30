@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 25, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -105,7 +105,13 @@
 *   [Sentinel Console (⭐0)](https://github.com/wenhao/sentinel-dashboard-tdengine) - Sentinel-Dashboard with TDengine.
 *   [Davinci (⭐4.5k)](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform.
 
-## [5. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Eoapi (⭐657)](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
+
+## [6. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ### Learning / Community Tutorials
 
@@ -119,7 +125,7 @@
 
 *   [Proposal (⭐64)](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -129,25 +135,25 @@
 
 *   [Fleet (⭐2.2k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
-## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [8. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Twitter
 
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
 *   [ViTauri (⭐22)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
 *   [iceoryx (⭐952)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 

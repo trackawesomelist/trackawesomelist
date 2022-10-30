@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11, 2019
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -123,7 +123,13 @@
 *   [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium sized business and non-profits (a fork of Drupal).
 *   [Grav (⭐14k)](https://github.com/getgrav/grav) - A modern flat-file CMS.
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Server-Side Rendering
+
+*   [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
+
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Typescript Project Starters
 
@@ -137,7 +143,7 @@
 
 *   [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft involved with the Typescript project
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / SNS
 

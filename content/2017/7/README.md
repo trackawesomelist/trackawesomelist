@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13 - Feb 19, 2017
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -606,7 +606,21 @@ Webpage: <http://www.denizlihs.org/>
 *   WildML [\[Web\]](http://www.wildml.com/)
 *   FastML [\[web\]](http://www.fastml.com/)
 
-## [42. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [42. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Community
+
+*   [@Angular on Twitter](https://twitter.com/angular)
+
+### Pipes / Components
+
+*   [angular2-camelcase (⭐2)](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
+
+### Cordova Seed Projects / Components
+
+*   [Angular 2 Seed CLI Admin (Template) (⭐66)](https://github.com/jvitor83/angular-pwa-seed) Multi-platform Angular 2 project (Web/PWA, Mobile and Desktop) with Ionic 2 (and optionally Bootstrap).
+
+## [43. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -634,7 +648,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [Awesome livecoding (⭐1.9k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
-## [43. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [44. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Android
 
@@ -674,13 +688,13 @@ Webpage: <http://www.denizlihs.org/>
 *   [cmprss (⭐4)](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
 *   [lolcat (⭐5.2k)](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 
-## [44. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [45. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Typography
 
 *   [Typewolf](https://www.typewolf.com/): Comprehensive web typography info, suggestions for font alternatives, and links to usage in the wild.
 
-## [45. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [46. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Books
 
@@ -690,13 +704,13 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [Norway](https://www.meetup.com/dddnorway/)
 
-## [46. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [47. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Related Lists / Provided by the Host
 
 *   [Awesome Static Hosting (⭐244)](https://github.com/b-long/awesome-static-hosting)
 
-## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -772,13 +786,13 @@ Webpage: <http://www.denizlihs.org/>
 *   [enlighten-deep (⭐20)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
 *   [dm-flow (⭐55)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.
 
-## [48. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [49. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Containers / Docker
 
 *   [zalando/zalenium (⭐2.4k)](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 
-## [49. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [50. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
@@ -794,7 +808,7 @@ Webpage: <http://www.denizlihs.org/>
 *   [awesome-fish (⭐3.1k)](https://github.com/jorgebucaran/awsm.fish)
 *   [awesome-zsh (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins)
 
-## [50. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [51. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Standalone Editors Built on Draft.js
 
@@ -810,7 +824,7 @@ Webpage: <http://www.denizlihs.org/>
 *   [Draft Convert (⭐472)](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 *   [HTML to DraftJS (⭐150)](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
 
-## [51. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [52. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Research Papers
 

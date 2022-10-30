@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2015
 
-27 awesome lists updated today.
+28 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -799,6 +799,16 @@
 ### Libraries / Geospatial
 
 *   [Georust](https://github.com/georust) — geospatial tools and libraries written in Rust
+
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript General Resources / Components
+
+*   [DefinitelyTyped Repository (GitHub) (⭐41k)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+
+### TypeScript Seed Projects / Components
+
+*   [Spring Boot and Angular2 tutorial (⭐143)](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
 
 ---
 

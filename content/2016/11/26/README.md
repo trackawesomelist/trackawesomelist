@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 26, 2016
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,7 +28,14 @@
 
 *   [Eevee (⭐174)](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 
-## [4. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Ahead-of-Time Compilation / Components
+
+*   [Code Example with Webpack (⭐317)](https://github.com/blacksonic/angular2-aot-webpack)
+*   [Code Example with Rollup (⭐81)](https://github.com/mgechev/angular2-ngc-rollup-build)
+
+## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Denmark 🇩🇰 / Copenhagen
 
@@ -54,7 +61,7 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 | ---- | ----- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
 | ✔    | ✔     | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD) | Mon-Thu 08:00-00:00, Fri 08:03:00, Sat 09:00-03:00, Sun 09:00-00:00 |
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
@@ -68,13 +75,13 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 
 *   [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - Microservice mostly known antipatterns and pitfalls.
 
-## [6. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Aurelia Tutorials / Aurelia Videos
 
 *   03.08.2016 [Discover Aurelia with CEO Rob Eisenberg](https://www.youtube.com/watch?v=fi33aDFKvxE)
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / FFI
 

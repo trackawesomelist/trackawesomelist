@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30 - Dec 06, 2015
 
-32 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -405,7 +405,17 @@
 
 *   [NexusData (⭐72)](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 
-## [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Universal Seed Projects / Components
+
+*   [universal-starter (⭐2k)](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 Goldilocks seed (⭐40)](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
+
+## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 

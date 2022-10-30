@@ -1,6 +1,6 @@
 # Awesome List Updates on May 18, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -93,7 +93,13 @@
 
 *   [sunjon/Shade.nvim (⭐352)](https://github.com/sunjon/Shade.nvim) - Shade is a Neovim plugin that dims your inactive windows, making it easier to see the active window at a glance.
 
-## [10. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Test / Components
+
+*   [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com)
+
+## [11. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Supply chain security
 

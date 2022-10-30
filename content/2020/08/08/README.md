@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08, 2020
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,6 +45,16 @@
 ### Software / Feed Readers
 
 *   [reader (⭐246)](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`
+
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Scala Seed Projects / Components
+
+*   [**{{** add\_your\_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
+
+### Scala General Resources / Components
+
+*   [**{{** help\_add\_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
 
 ---
 

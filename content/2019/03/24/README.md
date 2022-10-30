@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 24, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -32,19 +32,25 @@
 *   [GBCartFlasher firmware (⭐22)](https://github.com/Tauwasser/GBCartFlasher)
 *   [VerilogBoy (⭐383)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
-## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Test / Components
+
+*   [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
+
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Template Engines
 
 *   [KorTE Template Engine (⭐71)](https://github.com/korlibs/korte) - Kotlin Template Engine similar to Twig/Django/Liquid supporting calling Kotlin suspend methods.
 
-## [6. Amas](/content/sindresorhus/amas/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Kevin Jalbert (⭐1)](https://github.com/kevinjalbert/ama) - Developer Lead at [Shopify](https://www.shopify.ca/about), primarily using Rails and React.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Database
 
@@ -54,7 +60,7 @@
 
 *   [NYoutubeDL](https://gitlab.com/BrianAllred/NYoutubeDL) - A simple youtube-dl library for C#/.NET.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -70,13 +76,13 @@
 
 
 
-## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### File Hosting/Sharing / Others
 
 *   [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
 
-## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [11. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Plex Requests / Third Party Hosts
 

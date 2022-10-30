@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 01 - Mar 07, 2021
 
-72 awesome lists updated this week.
+73 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -612,20 +612,26 @@
 *   [Deterministic ADVI in JAX by Martin Ingram](https://martiningram.github.io/deterministic-advi/) - Walk through of implementing automatic differentiation variational inference (ADVI) easily and cleanly with JAX.
 *   [Evolved channel selection by Mat Kelcey](http://matpalm.com/blog/evolved_channel_selection/) - Trains a classification model robust to different combinations of input channels at different resolutions, then uses a genetic algorithm to decide the best combination for a particular loss.
 
-## [52. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [52. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### State Management / Components
+
+*   [ngx-liquid-cache (⭐84)](https://github.com/luckyseven/ngx-liquid-cache) - A powerful, automatic and optimized Angular 2 cache system that fits everywhere!
+
+## [53. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Videos / Editors
 
 *   [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - By xavki :fr:.
 
-## [53. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
+## [54. Awesome Xai](/content/altamiracorp/awesome-xai/week/README.md)
 
 ### Repositories / Critiques
 
 *   [EthicalML/xai (⭐859)](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
 *   [PAIR-code/what-if-tool (⭐753)](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
 
-## [54. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [55. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -635,7 +641,7 @@
 
 *   [gym-pybullet-drones (⭐583)](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
 
-## [55. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [56. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -645,19 +651,19 @@
 
 *   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐100)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
 
-## [56. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [57. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Standards / \-   [XMPP](https://en.wikipedia.org/wiki/XMPP)   (IETF)
 
 *   [W3C WoT](https://www.w3.org/WoT/) - The W3C Working Group for the Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. By providing standardized metadata and other re-usable technological building blocks, W3C WoT enables easy integration across IoT platforms and application domains.
 
-## [57. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [58. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Micro services & Distributed Systems
 
 *   [martinfowler](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Patterns of Distributed Systems.
 
-## [58. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [59. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Data Structures and Algorithms
 
@@ -667,25 +673,25 @@
 
 *   [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_\(computer_science\)) - Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore.
 
-## [59. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [60. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [regula (⭐790)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
-## [60. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [61. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [X.509 user certificate authentication with Red Hat’s single sign-on technology](https://developers.redhat.com/blog/2021/02/19/x-509-user-certificate-authentication-with-red-hats-single-sign-on-technology)
 
-## [61. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [62. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [Quantum Computing Foundations](https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/) - Microsoft Learn learning path covering Azure Quantum and elements of quantum computing.
 
-## [62. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [63. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -695,14 +701,14 @@
 
 *   🌍🔧💼 [Twind (⭐2.9k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
-## [63. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [64. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
     (Python, GPL 3, [GitHub (⭐263)](https://github.com/DedalusProject/dedalus))
 
-## [64. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [65. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Editor Plugins
 
@@ -711,7 +717,7 @@
 *   Emacs
     *   [crystal-mode](https://melpa.org/#/crystal-mode) - Crystal language support for Emacs ([crystal-lang-tools/emacs-crystal-mode (⭐38)](https://github.com/crystal-lang-tools/emacs-crystal-mode))
 
-## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [66. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -757,13 +763,13 @@
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
 
-## [66. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [67. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Articles and Presentations / Generic eBPF Presentations and Articles
 
 *   [eBPF - From a Programmer's Perspective](https://www.researchgate.net/publication/349173667_eBPF_-_From_a_Programmer's_Perspective) - A short paper describing the fundamentals of eBPF and how to get started with writing eBPF programs.
 
-## [67. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [68. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -774,19 +780,19 @@
 *   [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
 *   [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
 
-## [68. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [69. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Application layer
 
 *   [darknet\_ros (⭐1.7k)](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS2 wrapper for deploying Darknet's YOLO Computer Vision model.
 
-## [69. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [70. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-flv-player (⭐12)](https://github.com/wangdaodao/vue-flv-player) - An HTML5 Flash Video (FLV) Player component for Vue 2.x, based on flv.js.
 
-## [70. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [71. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -820,7 +826,7 @@
 
 *   [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
 
-## [71. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [72. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CSV
 
@@ -834,7 +840,7 @@
 
 *   [OTP-Java (⭐97)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 
-## [72. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [73. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Frameworks
 

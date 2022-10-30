@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -46,7 +46,16 @@
 
 *   [Determined (⭐1.9k)](https://github.com/determined-ai/determined) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.
 
-## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Schematics / Components
+
+*   [Cypress (⭐162)](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
+*   [Jest (⭐296)](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
+*   [Prettier (⭐142)](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
+*   [Tailwind CSS (⭐599)](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
+
+## [6. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Analytics
 
@@ -68,32 +77,32 @@
 
 *   [Stripe Payments](https://stripe.com/payments) - Accept payments and move money globally with APIs.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [v-aspect-ratio (⭐26)](https://github.com/andrewvasilchuk/v-aspect-ratio) - Vue.js directive for setting an aspect ratio.
 
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 
 *   [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
 *   [Open Doodles](https://www.opendoodles.com) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Compression
 
 *   [polylines.cr (⭐9)](https://github.com/BuonOmo/polylines.cr) — compression of series of coordinates
 
-## [9. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / Forms
 
 *   [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
 
-## [10. Awesome Python](/content/vinta/awesome-python/README.md)
+## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Code Analysis
 
@@ -102,13 +111,13 @@
     *   [pyannotate (⭐1.3k)](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations.
     *   [pytype (⭐3.9k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
-## [11. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
 *   [Cecilia (⭐146)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
 
-## [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Links / Official Links
 
@@ -123,7 +132,7 @@
 *   [LinkedIn: Kotlin Developers (Join!)](https://www.linkedin.com/groups/7417237/profile)
 *   [Kotlin Cheat Sheet](https://speakerdeck.com/agiuliani/kotlin-cheat-sheet)
 
-## [13. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Web Feed Specifications
 

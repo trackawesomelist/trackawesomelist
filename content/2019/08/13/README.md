@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 13, 2019
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -192,6 +192,16 @@
 ### Contents / Travel
 
 *   [Flight search (⭐779)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
+
+## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Universal Seed Projects / Components
+
+*   [angular-universal (⭐152)](https://github.com/enten/angular-universal) - Fast, Unopinionated, Minimalist starter kit for Angular Universal 100% powered by Angular CLI
+
+### TypeScript Seed Projects / Components
+
+*   [NG-MATERO (⭐882)](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
 
 ---
 

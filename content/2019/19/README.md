@@ -1,6 +1,6 @@
 # Awesome List Updates on May 13 - May 19, 2019
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,43 +84,49 @@
 
 *   [crystal-hunspell (⭐6)](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
 
-## [11. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Server-Side Rendering
+
+*   [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
+
+## [12. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / SNS
 
 *   [aws-php-sns-message-validator :fire: (⭐194)](https://github.com/aws/aws-php-sns-message-validator) - Message validation for PHP.
 
-## [12. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Research and Analysis / Wealth
 
 *   [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### R / General-Purpose Machine Learning
 
 *   [spectralGraphTopology](https://cran.r-project.org/web/packages/spectralGraphTopology/index.html) - spectralGraphTopology: Learning Graphs from Data via Spectral Constraints.
 
-## [14. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [15. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Articles / Display Manager
 
 *   [Kai Uwe's Blog](https://blog.broulik.de/) - Stories of a Plasma developer.
 
-## [15. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [16. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Animation / Redux / ELM / Dependency Injection
 
 *   [Simple Animations (⭐848)](https://github.com/felixblaschke/simple_animations) - Create awesome custom animations easily by [Felix Blaschke](https://github.com/felixblaschke)
 
-## [16. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [17. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
 *   [SencropAPI-JavaScript-Client (⭐3)](https://github.com/sencrop/sencrop-js-api-client) - Sencrop API Javascript client implementation. Read and manage Sencrop weather stations.
 
-## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [18. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
@@ -152,37 +158,37 @@
 
 *   [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft involved with the Typescript project
 
-## [18. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [19. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [Feather](https://feathericons.com/) - A collection of simply beautiful open source icons.
 
-## [19. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [20. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Client Web App Frameworks
 
 *   [Flutter](https://flutter.dev/) - Flutter is a framework to build high-performance,  cross-platform mobile apps, allowing applications to be written for Android, iOS and Web Apps.
 
-## [20. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [21. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [Once (⭐45)](https://github.com/luoxiu/Once) - Minimalist library to manage one-off operations.
 
-## [21. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Physics
 
 *   [Quantum++ (⭐390)](https://github.com/vsoftco/qpp) - A modern C++11 quantum computing library. \[MIT]
 
-## [22. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [23. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Softwares / Storyboard
 
 *   [ProtoPie](https://www.protopie.io) - ProtoPie is the easiest prototyping tool to build advanced, highly interactive prototypes.
 
-## [23. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [24. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### CSS
 
@@ -193,7 +199,7 @@
 
 *   [retina-spacer-gif (⭐13)](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays.
 
-## [24. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [25. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Tools
 
@@ -203,7 +209,7 @@
 *   [DesigniteJava (⭐138)](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java.
 *   [Puppeteer (⭐38)](https://github.com/tushartushar/Puppeteer) - Detect configuration smells in Puppet code.
 
-## [25. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [26. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -219,13 +225,13 @@
 *   [Prisma (⭐486)](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 *   [Software Architecture (⭐1.6k)](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
-## [26. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [27. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Identity Management / Tools and web interfaces
 
 *   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
 
-## [27. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Package Management
 
@@ -234,7 +240,7 @@
     *   [RubyGems](https://rubygems.org) - Community's gem hosting service.
     *   [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Rubygems (and many others).
 
-## [28. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
+## [29. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/week/README.md)
 
 ### Podcasts / Hylomorphisms in the Wild
 
@@ -248,13 +254,13 @@
 *   [andyscott/droste (⭐351)](https://github.com/andyscott/droste) for Scala using Cats -
     Generalized folds, unfolds, and traversals for fixed point data structures.
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Avoiding Burnout for SREs](https://blog.zenduty.com/blog/2019/05/02/Avoiding-SRE-Burnout)
 
-## [30. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [31. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Composer Repositories
 
@@ -368,25 +374,25 @@
 
 *   [Scaling PHP Applications](https://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 
-## [31. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [32. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### E-Commerce / Provided by the Host
 
 *   [Commerce Layer](https://commercelayer.io/) - Add enterprise ecommerce to your JAMstack.
 
-## [32. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
+## [33. Awesome Lumen](/content/unicodeveloper/awesome-lumen/week/README.md)
 
 ### Made With Lumen
 
 *   [Lumen Microservices Skeleton (⭐218)](https://github.com/FabrizioCafolla/microservice-lumen) - Skeleton structure for Microservices with Docker and Lumen
 
-## [33. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [34. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Miscellaneous
 
 *   [potemkin (⭐529)](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
 
-## [34. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [35. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
@@ -422,19 +428,19 @@
 *   [awesome-zsh-plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 *   [awesome-nodejs clis (⭐47k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
 
-## [35. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [36. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Vulnerability Scanners / Wireless Network Tools
 
 *   [celerystalk (⭐375)](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
 
-## [36. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [37. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Tutorials/Articles/Workshops
 
 *   [Advanced React Hooks Workshop (⭐1.8k)](https://github.com/kentcdodds/advanced-react-hooks) - Kent C. Dodds.
 
-## [37. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [38. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Platforms
 
@@ -448,7 +454,7 @@
 *   [luamqtt (⭐119)](https://github.com/xHasKx/luamqtt/) - Pure-lua MQTT v3.1.1 and v5.0 client.
 *   [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - Simulate up to 100,000 MQTT clients per server for development/testing/deployment of IoT applications.
 
-## [38. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [39. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Gists
 
@@ -469,7 +475,7 @@
 *   [Ember Data | Nested save](https://gist.github.com/runspired/bc93f1c525837420f7b14d8cdcb2d36a)
 *   [Ember Data | Cascade Delete](https://gist.github.com/runspired/e9ee98ccc89fad2a07d9c86f2541a763)
 
-## [39. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [40. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -503,13 +509,13 @@
 
 *   [JSON Guard](https://json-guard.thephpleague.com) - A validator for JSON Schema Draft 4.
 
-## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [41. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
 *   [Flurl (⭐3.3k)](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET <https://flurl.dev>.
 
-## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -519,19 +525,19 @@
 
 *   [job (⭐122)](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/liujianping/job) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [42. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [43. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Editors
 
 *   [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
 
-## [43. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [44. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Examples and Exercises
 
 *   [Holdem Evaluator](https://github.com/laberin/holdem-eval) - Yet another Holdem Evaluator with Ramda functional style
 
-## [44. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [45. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -545,7 +551,7 @@
 
 *   [*iOS Animations by Tutorials* by Marin Todorov](https://store.raywenderlich.com/products/ios-animations-by-tutorials)
 
-## [45. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [46. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Crime
 
@@ -553,7 +559,7 @@
     *   [Chicago (historical data since 2001)](https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD)
     *   [Los Angeles (historical data since 2010)](https://data.lacity.org/api/views/y8tr-7khq/rows.json?accessType=DOWNLOAD)
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [47. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -607,7 +613,7 @@
 
 *   [Pepperminty Wiki (⭐132)](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`
 
-## [47. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [48. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### API
 
@@ -707,13 +713,13 @@
 *   [UCI](https://archive.ics.uci.edu/) - Datasets.
 *   [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) - Datasets.
 
-## [48. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [49. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Algebra / Abstract Algebra
 
 *   [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) - D. S. Malik, John N. Mordeson, M.K. Sen (Creighton University)
 
-## [49. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [50. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -726,7 +732,7 @@
 *   [PageObject Pattern Framework (⭐175)](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
 *   [Parallel Framework Java-Client (⭐866)](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
 
-## [50. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [51. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -746,7 +752,7 @@
 *   [Deprecated Keycloak Helm Chart (⭐504)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *   [codecentric Keycloak Helm Chart (⭐504)](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 
-## [51. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [52. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 

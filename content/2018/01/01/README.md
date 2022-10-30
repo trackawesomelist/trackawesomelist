@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 01, 2018
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,14 +44,20 @@
     *   [OverFeat (⭐593)](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor. **\[Deprecated]**
     *   [wav2letter (⭐6.1k)](https://github.com/facebookresearch/wav2letter) - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Documentation tools / Components
+
+*   [Storybook (⭐75k)](https://github.com/storybooks/storybook) : "The UI development environment you'll love to use"
+
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [fd-vue (⭐63)](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
 *   [wildfire (⭐178)](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
 
-## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
+## [4. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
 ### Resources / Groups
 
@@ -62,7 +68,7 @@
 
 *   [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
 
-## [4. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 

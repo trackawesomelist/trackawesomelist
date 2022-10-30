@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 16 - Jan 22, 2017
 
-34 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -329,7 +329,17 @@
 *   [Afrotechmods](https://www.youtube.com/user/afrotechmods) - Tutorials on electronics projects, often suitable for beginners as well.
 *   [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) - Very in depth teardowns, repairs and reviews of lab equipment and prototyping products.
 
-## [27. Tips](/content/git-tips/tips/week/README.md)
+## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Books / Components
+
+*   [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) `Ninja Squad`
+
+### Meteor Seed Projects / Components
+
+*   [Angular2 Meteor Seed (⭐5)](https://github.com/KyneSilverhide/angular2-meteor-seed)
+
+## [28. Tips](/content/git-tips/tips/week/README.md)
 
 ## logs between date range
 
@@ -343,13 +353,13 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ```
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Web Frameworks
 
 *   [Camping (⭐747)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
-## [29. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [30. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -361,13 +371,13 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
     *   This module aims to teach students how to use the features of modern typed functional programming languages (e.g. OCaml, Haskell) to design and implement libraries and DSLs. It aims to demonstrate how such techniques can improve both correctness and efficiency. Students wishing to take the module should have some experience of a typed functional programming language and an understanding of type inference.
     *   This particular session was taught by a prominent OCaml programmer, open Source contributor & author of real world OCaml - Dr Anil Madhavapeddy.
 
-## [30. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [31. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Theming
 
 *   [Best practice when adding FontAwesome to an ionic2 app](http://luiscabrera.site/tech/2017/01/09/fontawesome-in-ionic2.html)
 
-## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [32. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -377,7 +387,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 *   [elemon (⭐71)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 
-## [32. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [33. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Works with AVA
 
@@ -387,7 +397,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 *   [delay (⭐516)](https://github.com/sindresorhus/delay) - Add delays to your tests. [(Example) (⭐2.3k)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)
 *   [get-stream (⭐291)](https://github.com/sindresorhus/get-stream) - Test the output of streams. [(Example) (⭐8k)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35)
 
-## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [34. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -426,7 +436,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 *   [Awesome audio visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
 *   [Awesome computer vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
-## [34. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 

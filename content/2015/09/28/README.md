@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 28, 2015
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,20 +45,34 @@
 
 *   [cloc (⭐15k)](https://github.com/AlDanial/cloc) - Count Lines of Code
 
-## [4. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Babel Plugins / Components
+
+*   [babel-plugin-type-assertion (⭐0)](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts\_assert
+
+### Haxe Seed Projects / Components
+
+*   [angular2haxe (⭐28)](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
+
+### Scala Seed Projects / Components
+
+*   [play-angular2 (⭐9)](https://github.com/gdi2290/play-angular2)
+
+## [5. Awesome Neo4j](/content/neueda/awesome-neo4j/README.md)
 
 ### REST API / Other
 
 *   [Debian Packages](http://debian.neo4j.org/)
 *   [blueprints (⭐1.3k)](https://github.com/tinkerpop/blueprints) - Blueprints is a collection of interfaces, implementations, ouplementations, and test suites for the property graph data model. Blueprints is analogous to the JDBC, but for graph databases.
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Image
 
 *   [jimp (⭐12k)](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 
-## [6. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
+## [7. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
 ### Active Record / Omniauth
 
@@ -73,7 +87,7 @@
     *   [page-object (⭐646)](https://github.com/cheezy/page-object) - Page-object is a simple gem that assists in creating flexible page objects for testing browser based applications.
 *   [factory\_factory\_girl (⭐46)](https://github.com/st0012/factory_factory_girl) - FactoryFactoryGirl lets you generate factory files more efficiently with naming rules.
 
-## [7. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Libraries
 
@@ -83,7 +97,7 @@
 
 *   [Web Audio Basics (⭐111)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 
-## [8. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
+## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
 ### Subjects / Computer Science
 

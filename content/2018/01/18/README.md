@@ -1,12 +1,20 @@
 # Awesome List Updates on Jan 18, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Official Resources
+
+*   [Site](https://angular.io)
+*   [Blog](https://blog.angular.io)
+*   [Documentation](https://angular.io/docs)
+
+## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
@@ -62,19 +70,19 @@
 
 *   [Technically Wrong: Sexist Apps, Biased Algorithms, And Other Threats Of Toxic Tech](http://www.sarawb.com/technically-wrong/) - An unflinching look at the values, processes, and assumptions that lead to oversights, biases, and ethical nightmares.
 
-## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
 *   [Next Blog Firestore (⭐253)](https://github.com/suevalov/next-blog-firestore) - Blog with simple CMS built with Next.js, Firebase Firestore, styled-components and mobx-state-tree.
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Date / Runner
 
 *   [date-fns (⭐30k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
@@ -83,7 +91,7 @@
     low-level interface to libcurses via CFFI, and a more higher-level
     lispier interface. [MIT](https://opensource.org/licenses/MIT).
 
-## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Charts
 
@@ -118,21 +126,21 @@
 *   [d3-snippets-for-sublime-text-2 (⭐13)](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - Snippets for Sublime
 *   [d3Snippets (⭐3)](https://github.com/Ledragon/d3Snippets) - Snippets for VS Code
 
-## [6. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [7. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Related lists
 
 *   [Awesome Music Listening (⭐86)](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
 *   [Awesome sheet music (⭐520)](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 
-## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Perl SDK
 
 *   [Repo :fire: (⭐160)](https://github.com/pplu/aws-sdk-perl)
 *   [Repo with Samples :fire: (⭐160)](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Newsletter
 

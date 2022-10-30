@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 04 - Dec 10, 2017
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,7 +77,34 @@
 
 *   [NGINX Conference 2017 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXeT-z_rcZ9yF0kV5SENZ-yt)
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Community
+
+*   [`#angular`](https://twitter.com/hashtag/angular) hashtag on Twitter
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [**{{** add\_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+
+### Webpack / Components
+
+*   [Official web page](https://webpack.js.org)
+*   [Angular Webpack Starter from PatrickJS (⭐10k)](https://github.com/gdi2290/angular-starter)
+
+### Books / Components
+
+*   [ng-book 2](https://www.ng-book.com/2/) `fullstack.io`
+
+### TypeScript Seed Projects / Components
+
+*   [**{{** add\_your\_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+
+### Security / Components
+
+*   [Angular.io Security Guide](https://angular.io/guide/security) - brief security guidance including Preventing cross-site scripting (XSS), Sanitization and Content security policy.
+
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
@@ -91,43 +118,43 @@
 
 *   [L10n-swift (⭐278)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 
-## [8. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [9. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Athens](https://www.meetup.com/Papers-We-Love-Athens)
 
-## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Ruby
 
 *   [Frequently Asked Ruby Interview Questions](https://www.javatpoint.com/ruby-interview-questions)
 
-## [10. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [11. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Music Information Retrieval
 
 *   [msaf](http://pythonhosted.org/msaf/) [:octocat: (⭐368)](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 
-## [11. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [12. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [Rythm.js](https://okazari.github.io/Rythm.js/) - A javascript library that makes your page dance.
 
-## [12. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [13. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Forms
 
 *   [Don't Use Entities in Symfony Forms. Use Custom Data Objects Instead](https://blog.martinhujer.cz/symfony-forms-with-request-objects/) \[2017]
 
-## [13. Awesome Tinkerpop](/content/mohataher/awesome-tinkerpop/week/README.md)
+## [14. Awesome Tinkerpop](/content/mohataher/awesome-tinkerpop/week/README.md)
 
 ### Tutorials and Resources
 
 *   [Graph (⭐736)](https://github.com/krlawrence/graph) - Graph Databases, Gremlin and TinkerPop - A Tutorial.
 
-## [14. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [15. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
@@ -143,7 +170,7 @@
 
 *   [When to use-Docker alternatives rkt and LXD](http://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD)
 
-## [15. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [16. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Code Editors
 
@@ -154,7 +181,7 @@
 *   [Apache Flex®](https://flex.apache.org/) - The Apache Flex® SDK is the evolution of the popular Adobe Flex SDK. The Apache Flex® SDK is an application development framework for easily building Flash-based applications for mobile devices, web browsers, and desktop platforms.
 *   [Apache Royale®](http://royale.apache.org/) - The Apache Royale® project is developing a next-generation of the Apache Flex® SDK. Royale has the goal of allowing applications developed in MXML and ActionScript to not only run in the Flash/AIR runtimes, but also to run natively in the browser without Flash, on mobile devices as a PhoneGap/Cordova application, and in embedded JS environments such as Chromium Embedded Framework. Royale has the potential to allow your MXML and ActionScript code to run in even more places than Flash currently does.
 
-## [16. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [17. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Android
 
@@ -166,7 +193,7 @@
 
 
 
-## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
@@ -176,20 +203,20 @@
 
 *   [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - A 5-part series about the journey of making and publishing an Electron app to the Mac App Store.
 
-## [18. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [19. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
 *   [OpenEvents](https://openevents.io) - A specification for describing event data in a common way.
 
-## [19. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
+## [20. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
 ### Principles within bigger Design Systems
 
 *   [Firefox Photon Design System Principles](http://design.firefox.com/photon/introduction/principles.html)
 *   [Nachos - Trello's Design System Principles](https://design.trello.com/principles)
 
-## [20. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Documentation
 
@@ -205,7 +232,7 @@
 *   [Heinz Kabutz](https://twitter.com/heinzkabutz) - Author of 250+ Java Specialists' Newsletters.
 *   [Jake Wharton](https://twitter.com/JakeWharton) - Square, Google, open source hacker.
 
-## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Email
 
@@ -216,19 +243,19 @@
 
 *   [auto\_html (⭐785)](https://github.com/dejan/auto_html) - Rails extension for transforming URLs to appropriate resource (image, link, YouTube, Vimeo video...).
 
-## [22. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [23. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
 *   [Neo4j](https://neo4j.com/) - graph database written entirely in Java.
 
-## [23. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [24. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Misc
 
 *   [aiozipkin (⭐177)](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 
-## [24. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [25. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -240,38 +267,38 @@
 
 *   [Lambda World](http://www.lambda.world/) - Lambda World is a functional programming conference with an ideology of empowering underrepresented minorities in tech. In this mindset, we have a few actions we follow such as creating grants to cover tickets and accommodation, hosting inclusive workshops, and making conferences more accessible to individuals finding it hard to be away from their families, by providing tourist activities, and necessities like cribs and strollers.
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community / Interfaces to other package managers
 
 *   [antik](https://www.common-lisp.net/project/antik/) -  a foundation for scientific and engineering computation in Common Lisp. GPL. Also [mgl-mat (⭐57)](https://github.com/melisgl/mgl-mat) and [LLA (⭐87)](https://github.com/tpapp/lla).
 
-## [26. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [27. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Similar Sites Search
 
 *   [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
 *   [SitesLike](http://www.siteslike.com) - Find similar websites by category
 
-## [27. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [28. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Ruby
 
 *   [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
 *   [AspectCore Framework (⭐1.5k)](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
 
-## [29. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
+## [30. Awesome Beacon](/content/rabschi/awesome-beacon/week/README.md)
 
 ### Physical Web
 
 *   [Exploring the Physical Web (Without Buying Beacons)](https://medium.com/@urish/exploring-the-physical-web-without-buying-beacons-efae51e36c2e)
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -281,7 +308,7 @@
 
 *   [v-unicode (⭐14)](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -291,13 +318,13 @@
 
 *   [real world example app (⭐870)](https://github.com/gothinkster/elixir-phoenix-realworld-example-app) - Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone.
 
-## [32. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Articles / iOS
 
 *   [Raspberry Pi A to Z List (⭐922)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
-## [33. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [34. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Conferences
 
@@ -313,19 +340,19 @@
 *   [ICCV - International Conference on Computer Vision](http://iccv2017.thecvf.com)
 *   [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 
-## [34. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [35. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Imaging
 
 *   [Papaya (⭐462)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
 
-## [35. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [36. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / JavaScript Profile
 
 *   [Bump (⭐75)](https://github.com/yavorsky/Bump) — plugin to keep package.json dependencies fresh. Shows latest npm/yarn dependency version in the neat tooltip on package hover.
 
-## [36. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -335,7 +362,7 @@
 
 *   [BookingSync](https://www.bookingsync.com/en/jobs) - Vacation Rental Software for professionals. Fully distributed team, we work remotely and try to make a company retreat each year. Proud Ember.js official sponsor, Ruby / Rails
 
-## [37. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [38. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Websites / Misc
 
@@ -344,13 +371,13 @@
 *   [The Open News](https://source.opennews.org/articles/) blog -  Open news has some good dataviz related articles from time to time
 *   [The Pudding](https://pudding.cool/)
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [letsencrypt-win-simple (⭐4.6k)](https://github.com/Lone-Coder/letsencrypt-win-simple) - A Simple ACME Client for Windows.
 
-## [39. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [40. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Articles
 
@@ -364,13 +391,13 @@
 
 *   [time-stamp (⭐110)](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
 
-## [40. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [41. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 
 *   [synp (⭐669)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
 
-## [41. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [42. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Cartridges / Custom cartridges
 
@@ -382,19 +409,19 @@
 *   [GBVisualizer (⭐24)](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
 *   [gbcpu (⭐9)](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Game Boy instruction set and functionality.
 
-## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### ORM/ODM Extensions
 
 *   [clear (⭐265)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
 
-## [43. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [44. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Tutorials
 
 *   [The Dlang Tour](https://tour.dlang.org/) - An interactive tutorial for D, inspired by Golang Tour.
 
-## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 29, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -256,7 +256,13 @@
 
 *   [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware.
 
-## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
+## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Misc Components / Components
+
+*   [scully (⭐2.5k)](https://github.com/scullyio/scully) - Scully is a static site generator for Angular projects looking to embrace the Jamstack.
+
+## [16. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)
 
 ### Tools / PGFPlots
 

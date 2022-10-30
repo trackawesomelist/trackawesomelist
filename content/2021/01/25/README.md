@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2021
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -166,6 +166,12 @@
 ### WSGI Servers
 
 *   [gunicorn (⭐8.6k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
+
+## [20. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Animations / Components
+
+*   [ng-particles (⭐4.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/angular) - A component to easily add Particles animations to your Angular application
 
 ---
 

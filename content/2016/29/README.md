@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18 - Jul 24, 2016
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -171,14 +171,26 @@
 
 *   [How to monitor Hadoop metrics](https://www.datadoghq.com/blog/monitor-hadoop-metrics/)
 
-## [14. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 webpack (⭐3)](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
+
+### Security / Components
+
+*   [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
+*   [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl (⭐195)](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
+*   [Angular 2 authentication sample from auth0-blog (⭐978)](https://github.com/auth0-blog/angular2-authentication-sample)
+
+## [15. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Mobile Applications
 
 *   **Bindings**:
     *   [Cordova plugins (⭐25)](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
 
-## [15. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [16. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
@@ -188,7 +200,7 @@
 
 *   [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
 
-## [16. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Tutorials
 
@@ -202,20 +214,20 @@
 
 *   [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
 
-## [17. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [18. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### General
 
 *   [Forum](http://forum.serverless.com) - Official Serverless forum.
 
-## [18. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [19. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
 *   [ABSFreePic](http://absfreepic.com/) - A high-resolution and absolutely free photos stock site.
 *   [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 
-## [19. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -225,7 +237,7 @@
 
 *   [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
 
-## [20. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [21. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Slack
 
@@ -270,7 +282,7 @@
 
 *   [Chatterbot](https://muffinista.github.io/chatterbot/) (Ruby)
 
-## [21. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [22. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
@@ -279,13 +291,13 @@
 *   [pokered (⭐3.2k)](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
 *   [pokemon-reverse-engineering-tools (⭐293)](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 
-## [22. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [23. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Plugins / Hooks
 
 *   [jenkinsci/influxdb-plugin (⭐49)](https://github.com/jenkinsci/influxdb-plugin) - [Jenkins](https://jenkins.io/index.html) plugin to send build metrics into InfluxDB
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Network / Barcode
 
@@ -295,7 +307,7 @@
 
 *   [WSTagsField (⭐1.2k)](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 
-## [24. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [25. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Hardware Support
 
@@ -305,7 +317,7 @@
 
 *   [Vulkan Quake port based on QuakeSpasm (⭐1.4k)](https://github.com/Novum/vkQuake).
 
-## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 
@@ -357,25 +369,25 @@
 
 *   [MaximAbramchuck/awesome-interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-## [26. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
 *   [μMongo (⭐422)](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
-## [27. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [28. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Production / Security
 
 *   [Mina (⭐4.3k)](https://github.com/mina-deploy/mina) - fast deployer and server automation tool.
 
-## [28. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [29. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Guides / General screencasts
 
 *   [A Guide to Sketch](https://readymag.com/u91593485/guidetosketch/)
 
-## [29. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Keyboard
 
@@ -400,7 +412,7 @@
 *   [libextobjc (⭐4.5k)](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
 *   [YAML.framework (⭐236)](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -440,19 +452,19 @@
 
 *   [erlang-history (⭐496)](https://github.com/ferd/erlang-history) - Hacks to add shell history to Erlang's shell.
 
-## [31. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [32. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Articles
 
 *   [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
 
-## [32. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [33. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Caching
 
 *   [cache (⭐134)](https://github.com/fogfish/cache) - In-memory Segmented Cache
 
-## [33. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [34. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Learning Resources
 
@@ -467,25 +479,25 @@
 
 *   [Can I Use - Push API](http://caniuse.com/#feat=push-api) - Up-to-date browser support table of Push API.
 
-## [34. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [35. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [日本語 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 
-## [35. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [36. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Date and Time
 
 *   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 
-## [36. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [37. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Video tutorials
 
 *   [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 
-## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [38. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / A companies
 
@@ -503,19 +515,19 @@
 
 *   Chen Hui Jing <https://www.chenhuijing.com/blog/>
 
-## [38. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [39. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### RESTful API
 
 *   [Friboo (⭐117)](https://github.com/zalando/friboo)
 
-## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Vuedo (⭐2.3k)](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 
-## [40. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [41. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / String
 
@@ -535,7 +547,7 @@
 
 *   [minimist](https://github.com/substack/minimist) - Parse argument options.
 
-## [41. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [42. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Go / Erlang
 
@@ -548,14 +560,14 @@
 
 *   [Servant (⭐1.7k)](https://github.com/haskell-servant/servant) - Type-level web DSL.
 
-## [42. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [43. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Tools
 
 *   [imqtt (⭐21)](https://github.com/shafreeck/imqtt) - Interactive MQTT packet manipulation shell based on IPython.
 *   [Python MQTT Client Shell (⭐44)](https://github.com/bapowell/python-mqtt-client-shell) - a text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
 
-## [43. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [44. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Rich text editor extensions
 
@@ -582,19 +594,19 @@
 
 *   [Contributed apps and website code (⭐13k)](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.
 
-## [44. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [45. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Text Manipulation
 
 *   [hl (⭐92)](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
 
-## [45. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [46. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐41k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
-## [46. Typography](/content/deanhume/typography/week/README.md)
+## [47. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -612,7 +624,7 @@
 
 *   This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
-## [47. Bots](/content/hackerkid/bots/week/README.md)
+## [48. Bots](/content/hackerkid/bots/week/README.md)
 
 ### General
 

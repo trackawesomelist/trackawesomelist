@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19 - Dec 25, 2016
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -588,7 +588,23 @@ git format-patch -M upstream..topic
 *   warmer
 *   more sustain and longer decay
 
-## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Documentation tools / Components
+
+*   [Compodoc (⭐3.7k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
+
+### TypeScript Seed Projects / Components
+
+*   [famn (⭐27)](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
+
+### Haxe General Resources / Components
+
+*   [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - community
+*   [Haxe and Node.js](https://github.com/PatrickJS/awesome-angular/blob/gh-pages/README.md/matthijskamstra.github.io/haxenode/)
+*   [News And Information For Haxe Developers](https://haxe.io/)
+
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -606,19 +622,19 @@ git format-patch -M upstream..topic
 
 *   [Blackhole (⭐190)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
-## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [docfx (⭐3.2k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
 
-## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
 *   [Fundamental Ruby (⭐432)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
-## [37. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -630,7 +646,7 @@ git format-patch -M upstream..topic
     *   Uses the [Pyret](https://www.pyret.org/) programming language & [PAPL](http://papl.cs.brown.edu/2014/) book to understand the fundamentals of programming languages.
     *   [Labs](https://www.cs.swarthmore.edu/\~jpolitz/cs91/s15/s_labs.html)
 
-## [38. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
+## [39. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
 ### Books
 
@@ -680,7 +696,7 @@ git format-patch -M upstream..topic
 
 *   [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare\&utm_medium=referral\&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) \[Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering and influential subculture].
 
-## [39. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [40. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Spatial
 
@@ -706,13 +722,13 @@ git format-patch -M upstream..topic
 
 *   [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) - Learning R as a programming language from basics to advanced topics.
 
-## [40. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [41. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Integrated Development Environment / Web
 
 *   [Sublime 4 AutoHotkey](https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (discontinued)
 
-## [41. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [42. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Design
 

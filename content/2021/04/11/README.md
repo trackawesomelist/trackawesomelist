@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11, 2021
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,13 +33,19 @@
 *   [playwright-cr (⭐17)](https://github.com/naqvis/playwright-cr) - Playwright port for Crystal.
 *   [playwright-rust (⭐110)](https://github.com/octaltree/playwright-rust) - Playwright port for Rust.
 
-## [5. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Decorators / Components
+
+*   [ng-lock](https://www.npmjs.com/package/ng-lock) Angular decorator for lock a function and user interface while a task running.
+
+## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### JavaScript / Svelte
 
 *   [Svelte News Weekly](https://svelte.news/weekly). A curated newsletter for Svelte enthusiasts with a weekly dose of handpicked news.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Documents & Productivity
 
@@ -55,13 +61,13 @@
 
 
 
-## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
 *   [aws-tmux (⭐22)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 
-## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Cloud platform security / Distributed monitoring
 

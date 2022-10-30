@@ -1,30 +1,36 @@
 # Awesome List Updates on Apr 15, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Nishu Goel](https://twitter.com/TheNishuGoel)
+
+## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### IDE Extensions
 
 *   [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - Highlight utilities extension for Visual Studio Code.
 
-## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Algorithms, Containers and Protocols / Other / unknown licence
 
 *   [chests (⭐3)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
 
-## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Fediverse / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Misskey](https://misskey-hub.net/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/misskey-dev/misskey) - A forever evolving, sophisticated microblogging platform.
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Podcasts
 
@@ -39,13 +45,13 @@
 *   [Meteor + Vue](https://www.youtube.com/playlist?list=PLmJs3lfUmCdS8W27OoWj3uGDP6g4ypNyw) Youtube playlist by Axel Martínez
 *   [Introduction to Vue (Spanish)](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
 *   [dam5s/aspen (⭐33)](https://github.com/dam5s/aspen) - Aspen is an RSpec and Spek inspired test runner for Kotlin.
 
-## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [7. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
@@ -70,20 +76,20 @@
 
 *   [Telegram-FOSS (⭐1.9k)](https://github.com/Telegram-FOSS-Team/Telegram-FOSS): Unofficial, FOSS-friendly fork of the original Telegram client for Android
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
 *   [vite-ant-design-pro (⭐38)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
 *   [vite-react-proste (⭐6)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
-## [8. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Web Development
 
 *   [Frontend development roadmap (⭐2.3k)](https://github.com/sadanandpai/frontend-learning-kit/blob/main/2022_FE_roadmap.pdf) - Frontend development interview checklist & roadmap [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/kamranahmedse/developer-roadmap/blob/main/2022_FE_roadmap.pdf).
 
-## [9. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [10. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Documentation
 
@@ -131,7 +137,7 @@
 *   [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
 *   [TrID](https://mark0.net/soft-trid-e.html) - Utility for identifying file types from their binary signatures.
 
-## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Twitter
 
@@ -141,19 +147,19 @@
 *   [Mastodon](https://joinmastodon.org/) 🧩 - Free, federated microblogging social network built on open protocols.
     *   [Mastodon Apps](https://joinmastodon.org/apps) - List of Mastodon apps for Android, iOS, Web and Desktop.
 
-## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Component Libraries
 
 *   [tailyew (⭐9)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
-## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [13. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Web Hosting
 
 *   [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) \[FREE] - Standard Web Hosting Package for Free for the first year for students.
 
-## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+## [14. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
 ### Connector
 

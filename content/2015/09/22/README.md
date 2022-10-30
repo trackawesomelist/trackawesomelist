@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 22, 2015
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -173,7 +173,70 @@
 
 *   [sweet\_xml (⭐328)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
-## [11. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Community
+
+*   `#angular2` channel on Freenode IRC Server
+*   [Gitter Channel](https://gitter.im/angular/angular)
+*   [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
+
+### Cheatsheet
+
+*   [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
+
+### Video Tutorials / Components
+
+*   [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+
+### On-Site Training / Components
+
+*   [ng-book](https://www.ng-book.com/2/)
+
+### Integrations / Components
+
+*   [nativescript-angular (⭐1.2k)](https://github.com/NativeScript/nativescript-angular)
+*   [react-native-renderer (⭐793)](https://github.com/angular/react-native-renderer)
+
+### Universal General Resources / Components
+
+*   [Universal Angular 2 Repository (GitHub) (⭐3.9k)](https://github.com/angular/universal)
+
+### Dart General Resources / Components
+
+*   [Dart](https://www.dartlang.org/) Official Website for Dart
+*   [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
+*   [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
+*   [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
+*   [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
+
+### Dart Seed Projects / Components
+
+*   [Angular 2 Dart Quickstart (⭐7)](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
+
+### Dart Demo, Samples, and Examples / Components
+
+*   [Hackernews App (⭐11)](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+*   [Router Demo (⭐1)](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
+
+### Babel General Resources / Components
+
+*   [Babel](https://babeljs.io/) Official Website for Babel
+*   [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
+
+### NativeScript General Resources / Components
+
+*   [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
+
+### NativeScript Seed Projects / Components
+
+*   [sample-Angular2 (⭐49)](https://github.com/NativeScript/sample-Angular2)
+
+### React Native General Resources / Components
+
+*   [React Native](https://facebook.github.io/react-native/) Official Website for React Native
+
+## [12. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 
 ### Beginner Books
 

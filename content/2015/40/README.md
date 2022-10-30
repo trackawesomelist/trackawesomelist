@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05 - Oct 11, 2015
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -415,7 +415,21 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [cloc (⭐15k)](https://github.com/AlDanial/cloc) - Count Lines of Code
 
-## [31. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Babel Plugins / Components
+
+*   [babel-plugin-type-assertion (⭐0)](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts\_assert
+
+### Haxe Seed Projects / Components
+
+*   [angular2haxe (⭐28)](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
+
+### Scala Seed Projects / Components
+
+*   [play-angular2 (⭐9)](https://github.com/gdi2290/play-angular2)
+
+## [32. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Java
 
@@ -451,7 +465,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Neo4j Koans (⭐322)](https://github.com/jimwebber/neo4j-tutorial) - A koan-style tutorial in Java for Neo4j.
 
-## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Image
 
@@ -461,7 +475,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
 
-## [33. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [34. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### User / Authentication
 
@@ -481,7 +495,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
     *   [page-object (⭐646)](https://github.com/cheezy/page-object) - Page-object is a simple gem that assists in creating flexible page objects for testing browser based applications.
 *   [factory\_factory\_girl (⭐46)](https://github.com/st0012/factory_factory_girl) - FactoryFactoryGirl lets you generate factory files more efficiently with naming rules.
 
-## [34. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [35. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
@@ -492,7 +506,7 @@ git update-index --assume-unchanged Changelog; git commit -a; git update-index -
 
 *   [Web Audio Basics (⭐111)](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 
-## [35. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [36. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Subjects / Computer Science
 

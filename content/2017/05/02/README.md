@@ -1,6 +1,6 @@
 # Awesome List Updates on May 02, 2017
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,43 +27,52 @@
 *   [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 *   [Kattis](https://open.kattis.com/)- Online judge and problem archive
 
-## [3. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Webpack / Components
+
+*   [Angular Nightly Webpack Starter (⭐896)](https://github.com/qdouble/angular-webpack2-starter)
+*   [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden (⭐490)](https://github.com/damienbod/AngularWebpackVisualStudio)
+*   [Angular Typescript Webpack from schempy (⭐68)](https://github.com/schempy/angular2-typescript-webpack)
+*   [Angular Webpack + rxjs + modules (⭐5)](https://github.com/jorgeas80/angular2-webpack-toh)
+
+## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Community / Blogs
 
 *   [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 
-## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Books
 
 *   [Machine Learning with TensorFlow](http://tensorflowbook.com) by Nishant Shukla, computer vision researcher at UCLA and author of Haskell Data Analysis Cookbook. This book makes the math-heavy topic of ML approachable and practicle to a newcomer.
 
-## [5. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### File Hosting/Sharing / Others
 
 *   [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 
-## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [Symfony-Flex (⭐3.9k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐846)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
-## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
+## [8. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
 ### Build And Release System
 
 *   [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.
 
-## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [9. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### General
 
 *   [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 
-## [9. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [10. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Blog Posts & Tutorials
 

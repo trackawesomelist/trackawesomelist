@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 06 - Aug 12, 2018
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -226,19 +226,25 @@ Free
 
 *   [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) - Materials about how to use Chemoinformatics strategies to improve drug discovery results.
 
-## [22. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
+## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Cheatsheet
+
+*   [List of 100 Angular Interview questions and answers (⭐2.8k)](https://github.com/sudheerj/angular-interview-questions)
+
+## [23. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
 ### Debug
 
 *   [RenderDoc (⭐6.8k)](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 
-## [23. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [24. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Other lists / Hash functions
 
 *   [Awesome HE (⭐654)](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
 
-## [24. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [25. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### 7\. Details
 
@@ -398,13 +404,13 @@ Free
 *   GitHub® and [githublogo](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png) are a registered trademarks of GitHub, Inc. [\*](https://help.github.com/articles/github-terms-of-service/)
 *   Oracle and Oracle Linux are trademarks or registered tracemarks of Oracle, Inc. [\*](https://www.oracle.com/legal/trademarks.html)
 
-## [25. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [26. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Automating Complex Gestures with the W3C Actions API](https://appiumpro.com/editions/29)
 
-## [26. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [27. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Monetization / Preferences
 
@@ -418,7 +424,7 @@ Free
 
 *   [Trace (⭐944)](https://github.com/trentpiercy/trace) <!--stargazers:trentpiercy/trace--> - Modern and powerful crypto portfolio & market explorer by [Trent Piercy](https://github.com/trentpiercy)
 
-## [27. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [28. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
@@ -430,19 +436,19 @@ Free
 *   [metrics-influxdb (⭐264)](https://github.com/davidB/metrics-influxdb) - A reporter for [dropwizard](https://www.dropwizard.io/0.9.1/docs/) metrics which announces measurements to an InfluxDB server
 *   [sidekiq-influxdb (⭐18)](https://github.com/vassilevsky/sidekiq-influxdb) - A [Sidekiq](https://sidekiq.org/) middleware to send job execution metrics to InfluxDB
 
-## [28. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
 *   [totem (⭐59)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
 
-## [29. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [30. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [midi2pico (⭐52)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
 
-## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -456,14 +462,14 @@ Free
 
 *   [MJMaterialSwitch (⭐64)](https://github.com/JaleelNazir/MJMaterialSwitch) - A Customizable Switch UI for iOS, Inspired from Google's Material Design.
 
-## [31. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [32. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Applications
 
 *   [CityU Minerals](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals) - A mobile virtual museum [(iOS)](https://itunes.apple.com/hk/app/cityu-minerals/id1164394395) [(Android)](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals).
 *   [CityU Mobile](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals) - City University of Hong Kong official portal app [(iOS)](https://itunes.apple.com/us/app/cityu-mobile/id750718911) [(Android)](https://play.google.com/store/apps/details?id=hk.edu.cityu.mobile).
 
-## [32. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [33. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
@@ -553,20 +559,20 @@ Free
 *   [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 *   [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) - Tutorial to help install and manage JupyterHub.
 
-## [33. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [34. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Configuration
 
 *   [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON (⭐5.8k)](https://github.com/lightbend/config#features-of-hocon) config format
 *   [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
-## [34. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [35. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Articles / Miscellaneous
 
 *   [Advanced Use of Sass Maps](https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a)
 
-## [35. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [36. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Web
 
@@ -578,7 +584,7 @@ Free
 *   <https://wzrd.in/standalone/object-assign>
 *   <https://wzrd.in/standalone/object-assign@4.0.0>
 
-## [36. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [37. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Producers / JavaScript
 
@@ -586,13 +592,13 @@ Free
 *   [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 *   [mos (⭐109)](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 
-## [37. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [38. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Videos
 
 *   [Introducing the Observable](https://egghead.io/lessons/javascript-introducing-the-observable) - Egghead.io lesson.
 
-## [38. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [39. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -603,7 +609,7 @@ Free
 *   [electron-boilerplate (⭐1.6k)](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
 *   [electron-boilerplate (⭐3.1k)](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers - by [szwacz](https://github.com/szwacz).
 
-## [39. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [40. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra Architecture / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -625,19 +631,19 @@ Free
 *   [Garbage Collection Tuning for Cassandra](http://thelastpickle.com/blog/2018/04/11/gc-tuning.html) - Optimizing garbage collection for better performance.
 *   [TWCS part 1 - how does it work and when should you use it?](http://thelastpickle.com/blog/2016/12/08/TWCS-part1.html) - Best suited for time series data that expires, Time Window Compaction Strategy comes with some caveats.
 
-## [40. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [41. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### Native
 
 *   [ffmpeg-gl-transition (⭐487)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
 
-## [41. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [42. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Services / Presentations
 
 *   [Dimer](https://dimerapp.com/) - Dimer generates a clean and beautiful documentation website from Markdown. ![Globe](https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png "Globe")
 
-## [42. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [43. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Presentations / 2018
 
@@ -648,13 +654,13 @@ Free
 *   [Robot Operating System 2 - The need for a holistic security approach to robotic architectures](http://journals.sagepub.com/doi/pdf/10.1177/1729881418770011) - Ubuntu 16.04, ROS 2 Beta 2/3, and RTI 5.3 DDS with
     DDS Security.
 
-## [43. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [44. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
 *   [A framework for ambitious Chrome Extensions](https://envoy.engineering/a-framework-for-ambitious-chrome-extensions-b08d1f4b944d)
 
-## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -669,26 +675,26 @@ Free
 
 *   [Wuwei (⭐75)](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT](https://opensource.org/licenses/MIT).
 
-## [45. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [46. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### macOS
 
 *   [macports](https://www.macports.org/) - Package manager that simplifies the installation of software on the macOS and Darwin operating systems.
 
-## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [v-scroll-lock (⭐182)](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
 
-## [47. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [48. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
 *   [Orion (⭐120)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 
-## [48. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [49. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Host-based tools / Tarpits
 
@@ -733,13 +739,13 @@ Free
 *   [Sticky Keys Slayer (⭐303)](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
 *   [Windows Secure Host Baseline (⭐1.4k)](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
 
-## [49. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [50. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
 *   [passwordless\_auth (⭐48)](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
 
-## [50. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [51. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses
 
@@ -752,19 +758,19 @@ Free
 *   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
 *   [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
 
-## [51. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [52. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Networking
 
 *   [LibreMesh](https://libremesh.org/) includes the development of several tools used for deploying libre/free mesh networks. The firmware (the main piece) allows simple deployment of auto-configurable, yet versatile, multi-radio mesh networks.
 
-## [52. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [53. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Utils / Third Party
 
 *   [d3-hsluv (⭐6)](https://github.com/petulla/d3-hsluv) - Human-friendly HSL (Hue, Saturation, Lightness) color space.
 
-## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 

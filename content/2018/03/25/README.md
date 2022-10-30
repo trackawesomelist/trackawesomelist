@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -172,19 +172,25 @@
 *   [Coaster CMS (⭐393)](https://github.com/web-feet/coastercms)
 *   [Laralum (⭐298)](https://github.com/Laralum/Laralum)
 
-## [3. Amas](/content/sindresorhus/amas/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Community
+
+*   [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
+
+## [4. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Md Eftakhairul Islam (⭐0)](https://github.com/eftakhairul/ama) - Software engineer, hacker, open source enthusiast and tech blogger at [eftakhairul.com](https://eftakhairul.com).
 
-## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Tutorials
 
 *   [TensorFlow Tutorial 3 (⭐9.1k)](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Official Resources
 

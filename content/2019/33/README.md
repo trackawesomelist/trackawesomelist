@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 19 - Aug 25, 2019
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -510,13 +510,23 @@
 
 *   [Flight search (⭐779)](https://github.com/MarcinusX/flutter_ui_challenge_flight_search) - Flight search app by [Marcin Szałek](https://github.com/MarcinusX).
 
-## [37. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Universal Seed Projects / Components
+
+*   [angular-universal (⭐152)](https://github.com/enten/angular-universal) - Fast, Unopinionated, Minimalist starter kit for Angular Universal 100% powered by Angular CLI
+
+### TypeScript Seed Projects / Components
+
+*   [NG-MATERO (⭐882)](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
+
+## [38. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Testing / Scala
 
 *   [Pact](https://docs.pact.io) - Contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -534,13 +544,13 @@
 
 *   [serverlessDotNetStarter (⭐45)](https://github.com/pharindoko/serverlessDotNetStarter) starter kit for development and deployment of lambda functions in the AWS cloud based on serverless framework.
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Analytics, Events and Statistics
 
 *   [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) — Unlimited free analytics
 
-## [40. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [41. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Objective-C
 
@@ -550,7 +560,7 @@
 
 *   [*SwiftUI by Example* by Paul Hudson](https://www.hackingwithswift.com/quick-start/swiftui)
 
-## [41. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [42. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Quick Start / update
 
@@ -560,7 +570,7 @@
 *   Open your new file and paste the code from the hook you chose out of this repo (eg: [verify-name-and-email.hook (⭐806)](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
 *   Save file. Done! Now the git hook will be triggered automatically.
 
-## [42. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [43. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -579,13 +589,13 @@
 *   [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
 
-## [43. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-session (⭐281)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
-## [44. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [45. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Adapters
 
@@ -655,13 +665,13 @@
 
 *   [glimmer-hn-pwa (⭐28)](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js.
 
-## [45. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [46. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Tools / Web, JavaScript
 
 *   [gremlins.js (⭐8.9k)](https://github.com/marmelab/gremlins.js) - gremlins.js is a monkey testing library written in JavaScript.
 
-## [46. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [47. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -671,13 +681,13 @@
 
 *   [HealthyPi (⭐164)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
 
-## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [48. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Managers
 
 *   [fff (⭐3.7k)](https://github.com/dylanaraps/fff) - Fast, simple file manager.
 
-## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [49. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### REST / ORM
 

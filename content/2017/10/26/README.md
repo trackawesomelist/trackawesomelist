@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2017
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,13 +53,19 @@
 
 *   [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
 
-## [8. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Integrations / Components
+
+*   [GraphQL + Angular (⭐1.4k)](https://github.com/apollographql/apollo-angular)
+
+## [9. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 
 ### CCU Addons
 
 *   [homematic\_check\_mk (⭐20)](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check\_mk\_agent.
 
-## [9. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md)
+## [10. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/README.md)
 
 ### Official Resources
 
@@ -74,19 +80,19 @@
 
 *   [Sample Application for inspectIT (⭐7)](https://github.com/inspectit-labs/spring-petclinic-microservices) - Sample application for demonstration purposes, based on the Spring Petclinic.
 
-## [10. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
+## [11. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
 ### ☤ Windows GUI Apps / Physical Coin Wallets
 
 *   [MinerGate](https://minergate.com) - Mine the most profitable cryptocurrency.
 
-## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [12. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / Z companies
 
 *   Zapier <https://zapier.com/engineering/>
 
-## [12. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [13. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -101,7 +107,7 @@
 
 
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

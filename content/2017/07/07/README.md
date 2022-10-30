@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -86,7 +86,33 @@
 
 *   [@TensorFlow on Twitter](https://twitter.com/tensorflow)
 
-## [10. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Series / Components
+
+*   [letsboot.com](https://medium.com/letsboot)
+    *   Test Driven Development
+        *   [Part 1 Angular TDD, Karma, Jasmine, PhantomJS, Gitlab-CI](https://medium.com/letsboot/angular-4-and-testing-angular-cli-gitlab-ci-ng-test-phantomjs-tdd-afc20f50b928)
+    *   Angular and Firebase
+        *   [Part 1 Let’s learn how to install and setup AngularFire2 4.0](https://medium.com/letsboot/lets-learn-how-to-install-and-setup-angularfire2-4-0-135d72bb0a41)
+
+### Video Tutorials / Components
+
+*   [Angular Fullstack JavaScript Channel](https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw)
+
+### Generators / Components
+
+*   Node.js
+    *   Slush
+        *   [TheVelourFog/slush-angular2 (⭐45)](https://github.com/RyanMetin/slush-angular2)
+    *   Yeoman
+        *   [swirlycheetah/generator-angular2 (⭐256)](https://github.com/chrisdwheatley/generator-angular2)
+    *   ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
+        *   [ngx-rocket/generator-ngx-rocket (⭐1.5k)](https://github.com/ngx-rocket/generator-ngx-rocket)
+        *   [ngx-rocket/cli (⭐13)](https://github.com/ngx-rocket/cli)
+        *   [ngx-rocket/core (⭐8)](https://github.com/ngx-rocket/core)
+
+## [11. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Resources / Communities
 

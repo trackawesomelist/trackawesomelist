@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,13 +40,19 @@
 
 *   [Chromeless (⭐13k)](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Video Tutorials / Components
+
+*   [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
+
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Screencasts
 
 *   [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 
-## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### File Carving / Other Resources
 

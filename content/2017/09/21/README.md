@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 21, 2017
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -13,13 +13,19 @@
 *   [Preact Side Effect (⭐9)](https://github.com/ooade/preact-side-effect) - Create components whose nested prop changes map to a global side effect.
 *   [Preact Tiny Atom (⭐2)](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom (⭐119)](https://github.com/qubitproducts/tiny-atom).
 
-## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [ngx-admin (⭐24k)](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
+
+## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Emulators
 
 *   [BlueStacks](https://www.bluestacks.com)
 
-## [3. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [4. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / Static Analysis Tools
 
@@ -135,7 +141,7 @@
 *   [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 *   [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Books / Workflow
 

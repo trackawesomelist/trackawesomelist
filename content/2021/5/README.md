@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01 - Feb 07, 2021
 
-69 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -394,7 +394,13 @@
 
 *   [AwesomeTechStack](https://awesometechstack.com/) - Website awesomeness monitoring Tool.
 
-## [43. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 😍 A complete Angular 10, NgRx, Angular CLI & Angular Material starter project
+
+## [44. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Engineering
 
@@ -1006,14 +1012,14 @@ Language: English, español, português, français, Deutsch, русский \ <b
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
 Language: English \ <br>
 
-## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [45. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Task scheduling
 
 *   [delay-timer (⭐250)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
     [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
-## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -1039,13 +1045,13 @@ Language: English \ <br>
 *   [windwp/nvim-autopairs (⭐1.4k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs for Neovim written by Lua.
 *   [monaqa/dial.nvim (⭐357)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
-## [46. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [47. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Shopping
 
 *   [Yumniastic Food Shop App (⭐18)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 
-## [47. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [48. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Rust / Scala
 
@@ -1064,13 +1070,13 @@ Language: English \ <br>
 
 *   [Bond (⭐2.5k)](https://github.com/microsoft/bond/) - Cross-platform framework for working with schematized data, broadly used at Microsoft in high scale services.
 
-## [48. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [49. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Documentation / Symfony2
 
 *   [Optic (⭐1k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
-## [49. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [50. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Business Intelligence
 
@@ -1080,13 +1086,13 @@ Language: English \ <br>
 
 *   [Google Bigtable (⭐37)](https://github.com/zrosenbauer/awesome-bigtable).
 
-## [50. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [51. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
 *   [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
-## [51. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [52. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
@@ -1096,7 +1102,7 @@ Language: English \ <br>
 
 *   [input (⭐2)](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 
-## [52. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [53. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Development Tools
 
@@ -1106,7 +1112,7 @@ Language: English \ <br>
 
 *   [Bus Timetable (⭐67)](https://github.com/EarlGeorge/timetable)
 
-## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [54. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
@@ -1120,25 +1126,25 @@ Language: English \ <br>
 
 *   [iSSR (⭐88)](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
 
-## [54. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [55. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 
-## [55. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [56. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### CI / Tools & Plugins
 
 *   [JMeter Gradle Plugin (⭐50)](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
 
-## [56. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [57. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Websites
 
 *   [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
 
-## [57. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [58. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
@@ -1148,7 +1154,7 @@ Language: English \ <br>
 
 *   [Athena Spec (⭐2)](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
 
-## [58. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [59. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -1164,7 +1170,7 @@ Language: English \ <br>
 *   🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 *   🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 
-## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [60. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Red Team Infrastructure Deployment / Development
 
@@ -1174,7 +1180,7 @@ Language: English \ <br>
 
 *   [Trivy (⭐14k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
 
-## [60. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [61. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Security
 
@@ -1184,7 +1190,7 @@ Language: English \ <br>
 
 *   [aws-bootstrap-kit (⭐87)](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
 
-## [61. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [62. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -1202,13 +1208,13 @@ Language: English \ <br>
 
 *   [MindBell](https://dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/udamken/mindbell) - Mindfulness bell and meditation timer for Android.
 
-## [62. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [63. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Examples / Hardware Offload
 
 *   [ebpf-kill-example (⭐15)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 
-## [63. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [64. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
@@ -1218,7 +1224,7 @@ Language: English \ <br>
 
 *   [Symfony 5: The Fast Track](https://symfony.com/book) - Book written by Symfony's creator, free online.
 
-## [64. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [65. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 
@@ -1226,7 +1232,7 @@ Language: English \ <br>
 *   [G2 (⭐11k)](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 *   [G2Plot (⭐2.3k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 
-## [65. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [66. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Training
 
@@ -1238,7 +1244,7 @@ Language: English \ <br>
 *   [DevSkim (⭐748)](https://github.com/microsoft/DevSkim) - *Microsoft* - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
 *   [SonarLint](https://www.sonarlint.org/) - *SonarSource* - An IDE plugin that highlights potential security security issues, code quality issues and bugs.
 
-## [66. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [67. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -1252,19 +1258,19 @@ Language: English \ <br>
 
 *   [vite-svg-loader (⭐255)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
-## [67. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [68. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### App Examples
 
 *   [GutenSearch](https://gutensearch.com/) - Look inside the books of Project Gutenberg. [Source Code. (⭐6)](https://github.com/cordb/gutensearch)
 
-## [68. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [69. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Build Tools to set up performance budget
 
 *   [Lighthouse](https://web.dev/use-lighthouse-for-performance-budgets/) - How to set up a performance budget using [lighthouse](https://developers.google.com/web/tools/lighthouse) and automate using [Lighthouse bot](https://web.dev/using-lighthouse-bot-to-set-a-performance-budget/).
 
-## [69. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [70. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 24, 2020
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,31 +61,38 @@
 *   [ckeditor4-react (⭐78)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
 *   [ckeditor5-react (⭐348)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
-## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Integrations / Components
+
+*   [ckeditor5-angular (⭐180)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
+*   [ckeditor4-angular (⭐43)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
+
+## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Articles & Papers / Scala
 
 *   [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/) - Introduction to Uber Engineering generalized approach to microservice architectures, named “Domain-Oriented Microservice Architecture” (DOMA).
 
-## [7. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [8. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Learning and online courses
 
 *   [Official Corda Training Platform](https://training.corda.net/) - Free training platform maintained by R3 (Corda + SDKs). Self-paced with optional support.
 
-## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [How to Introduce Wardley Mapping to Different Strata of the Organization](https://learnwardleymapping.com/2020/07/22/how-to-introduce-wardley-mapping-to-different-strata-of-the-organization/) - What is the best way to introduce Wardley Mapping to different groups? Jul 22, 2020.
 
-## [9. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Image Processing
 
 *   [anonymizer (⭐238)](https://github.com/understand-ai/anonymizer) - An anonymizer to obfuscate faces and license plates.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
@@ -95,7 +102,7 @@
 
 *   [Linq-in-Rust (⭐85)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
-## [11. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [12. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / Databases
 
@@ -110,13 +117,13 @@
 
 *   [cdk-time-bomb (⭐34)](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
 
-## [12. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Web Frameworks
 
 *   [Cloudopt Next (⭐301)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
 
-## [13. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [14. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### FReMP: Flask ReactJS MongoDB Python   [↗](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python) / Resources
 
@@ -131,7 +138,7 @@
 *   [Github](https://github.com/FReMP)
 *   [Boilerplate (⭐13)](https://github.com/FReMP/fremp)
 
-## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 

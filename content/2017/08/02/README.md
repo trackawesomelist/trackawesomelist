@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,38 +20,44 @@
 *   [How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) - TED Talk from the author of "Blockchain Revolution" book on what is blockchain and its applications.
 *   [Non Financial Uses of Blockchain Technology](https://www.youtube.com/watch?v=GGCHaphRjoM) - Presentation of non-financial uses of blockchain at Fintech Week 2016.
 
-## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Official Resources
+
+*   [Getting Started Guide](https://angular.io/guide/quickstart)
+
+## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Command Line / XML
 
 *   [argsd (⭐12)](https://github.com/burner/argsd) - A command line and config file parser for DLang
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UI / Barcode
 
 *   [ShadowView (⭐402)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 
-## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
+## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
 ### Utils / Third Party
 
 *   [d3-loom (⭐91)](https://github.com/nbremer/d3-loom) - Plugin to create a "loom" visualization
 *   [d3-sparql (⭐107)](https://github.com/zazuko/d3-sparql) - Utility for accessing data from SPARQL Endpoints
 
-## [6. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [7. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Platforms
 
 *   \[Paqmind.com] – Guides and challenges to learn and improve in programming. All content is CS and FP oriented.
 
-## [7. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
+## [8. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
 ### :sparkles: Tutorials
 
 *   [Unsupervised learning using k-means clustering in Ruby](https://www.practicalai.io/unsupervised-learning-using-k-means-clustering-in-ruby/) <sup>\[[code (⭐0)](https://github.com/daugaard/example-kmeans-clustering)]</sup>
 
-## [8. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
+## [9. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 
 ### Integrations / Transactions
 
@@ -72,13 +78,13 @@
 *   [h-rider (⭐133)](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase.
 *   [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 
-## [9. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
+## [10. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
 ### Code
 
 *   [Ripplectron (⭐52)](https://github.com/devjin0617/ripplectron): Desktop client for Electron
 
-## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tools
 

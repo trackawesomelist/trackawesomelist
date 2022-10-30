@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 27 - Aug 02, 2020
 
-68 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -463,7 +463,37 @@
 
 *   [Animal Crossing New Horizons NookPlaza Catalog](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
 
-## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [40. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Video Tutorials / Components
+
+*   [List of over 140 Angular Courses (free and paid) at Classpert](https://classpert.com/angularjs)
+
+### On-Site Training / Components
+
+*   [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
+
+### Integrations / Components
+
+*   [ng-sapphiredb (⭐44)](https://github.com/SapphireDb/ng-sapphiredb) - Client implementation of SapphireDb, a framework for easy development of applications with realtime data synchronization and a self hosted alternative to firebase realtime database/firestore for asp.net core and ef core. Check out the documentation for more details: [Documentation](https://sapphire-db.com)
+*   [ckeditor5-angular (⭐180)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
+*   [ckeditor4-angular (⭐43)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
+
+### Site Templates / Components
+
+*   [HowToKeepAngularDeploymentSizeSmall (⭐14)](https://github.com/younos1986/HowToKeepAngularDeploymentSizeSmall) - A sample included Homepage and Dashboard for Angular 7 and a demonestration of How To Keep Angular Deployment Size Small
+
+### Developer tools / Components
+
+*   [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
+
+### NgRx / Components
+
+*   [Adding Redux With NgRx/store and Angular2 - Part 1](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular-2-part-1/)
+*   [Adding Redux with NgRx/store to Angular2 – Part 2 (Testing
+    Reducers)](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
+
+## [41. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Geocoding
 
@@ -493,7 +523,7 @@
 
 
 
-## [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [42. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Datagrids / tables
 
@@ -503,7 +533,7 @@
 
 *   [Blazm.Bluetooth (⭐67)](https://github.com/EngstromJimmy/Blazm.Bluetooth) - ![last commit](https://img.shields.io/github/last-commit/EngstromJimmy/Blazm.Bluetooth?style=flat-square\&cacheSeconds=86400) A Blazor library for connecting to devices using Bluetooth.
 
-## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Videos and Lectures
 
@@ -513,7 +543,7 @@
 
 *   [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
 
-## [43. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [44. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Application layer
 
@@ -528,25 +558,25 @@
 
 *   [ros2\_ouster\_drivers (⭐89)](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2\_ouster\_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 
-## [44. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-deploy (⭐46)](https://github.com/lone-cloud/next-deploy) - 🚀 Effortless deployment to AWS and GitHub Pages.
 
-## [45. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [46. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Applications
 
 *   [Serverless Permission Policy Generator (⭐40)](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
 
-## [46. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [47. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Tutorials
 
 *   [Prometheus-Basics (⭐1.6k)](https://github.com/yolossn/Prometheus-Basics) - Beginner friendly introduction to Prometheus by [yolossn](https://github.com/yolossn).
 
-## [47. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [48. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Deep Learning / PyTorch
 
@@ -562,7 +592,7 @@
 *   [datapane](https://datapane.com/) - A collection of APIs to turn scripts and notebooks into interactive reports.
 *   [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
 
-## [48. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/week/README.md)
+## [49. Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/week/README.md)
 
 ### Canvas
 
@@ -572,13 +602,13 @@
 
 *   [React tsParticles (⭐4.3k)](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) - ReactJS wrapper for *tsParticles*
 
-## [49. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [50. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tools
 
 *   [WebStation SYSMON (⭐176)](https://github.com/t0xic0der/sysmon) - An intuitive remotely-accessible system performance monitoring and task management tool for servers  and headless Raspberry Pi setups.
 
-## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -596,13 +626,13 @@
 
 *   [GeocodeAPI](https://geocodeapi.io) - Geocode API: Address to Coordinate Conversion & Geoparsing based on Pelias. Batch geocoding via CSV. 350000 free requests/month.
 
-## [51. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [52. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Automotive
 
 *   [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
 
-## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -616,7 +646,7 @@
 *   [vue-paycard (⭐92)](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
 *   [vue-list-picker (⭐14)](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
 
-## [53. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [54. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Papers
 
@@ -638,7 +668,7 @@
 
 *   [The-Economist (⭐3.1k)](https://github.com/nailperry-zd/The-Economist) - The Economist.
 
-## [54. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [55. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -659,7 +689,7 @@
 *   [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
     *   [GitHub repository :octocat: (⭐957)](https://github.com/osrf/gazebo)
 
-## [55. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [56. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Canvas
 
@@ -672,13 +702,13 @@
 *   [ckeditor4-react (⭐78)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
 *   [ckeditor5-react (⭐348)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
-## [56. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+## [57. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
 
 ### Image Optimizers / Meetups
 
 *   [Tapnesh-CLI (⭐17)](https://github.com/JafarAkhondali/Tapnesh) - Tapnesh is a CLI tool that will optimize all your images in parallel easily and efficiently!
 
-## [57. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [58. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Version Control
 
@@ -688,7 +718,7 @@
 
 *   [Rectangle](https://rectangleapp.com) - Window management app based on Spectacle, written in Swift. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rxhanson/Rectangle) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [58. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
+## [59. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
 ### Community
 
@@ -698,14 +728,14 @@
 
 *   [chip8-test-rom (⭐180)](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
 
-## [59. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [60. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
 *   [Chicago Crystal Podcast](https://podcast.chicagocrystal.org)
 *   [Chicago Crystal YouTube](https://www.youtube.com/channel/UCI1RvHPG6S9mw4eRoJfH2kA)
 
-## [60. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [61. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Other Testing
 
@@ -715,7 +745,7 @@
 
 *   [Streamoji (⭐241)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
-## [61. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [62. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
@@ -730,20 +760,20 @@
 *   [How to Introduce Wardley Mapping to Different Strata of the Organization](https://learnwardleymapping.com/2020/07/22/how-to-introduce-wardley-mapping-to-different-strata-of-the-organization/) - What is the best way to introduce Wardley Mapping to different groups? Jul 22, 2020.
 *   [Thoughts on 'value' in the Value Chain](https://www.abusedbits.com/2020/07/thoughts-on-value-in-value-chain.html) - It is important to understand the need and outcome. It is vital to understand the value desired. Jul 17, 2020.
 
-## [62. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [63. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Additional Resources
 
 *   [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.
 *   [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
 
-## [63. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [64. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Continuous Integration & Continuous Deployment
 
 *   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.3k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
-## [64. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [65. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Communication and Coordination
 
@@ -766,7 +796,7 @@
 
 *   [ansible-role-nfs (⭐183)](https://github.com/geerlingguy/ansible-role-nfs) - Installs NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 
-## [65. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [66. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Frontend
 
@@ -784,21 +814,21 @@
 
 *   [tl;dr sec](https://tldrsec.com/). A weekly distillation of the best security tools, blog posts, and conference talks, covering AppSec, cloud and container security, DevSecOps, and more.
 
-## [66. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [67. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Element (formerly Riot)](https://element.io): Collaboration client for the web. Chat, VOIP video, file transfer, end-to-end crypto.
 *   [reep.io ☠️](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 
-## [67. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [68. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### XML
 
 *   [elixir-map-to-xml (⭐2)](https://github.com/gunnar2k/elixir-map-to-xml) - Converts an Elixir map to an XML document.
 *   [elixir-xml-to-map (⭐42)](https://github.com/homanchou/elixir-xml-to-map) - Creates an Elixir Map data structure from an XML string.
 
-## [68. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [69. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / APIs
 

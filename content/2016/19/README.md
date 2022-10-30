@@ -1,6 +1,6 @@
 # Awesome List Updates on May 09 - May 15, 2016
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -360,7 +360,13 @@ git log --first-parent
 
 *   [picturefill (⭐10k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
 
-## [31. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Babel Plugins / Components
+
+*   [babel-preset-angular2 (⭐14)](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
+
+## [32. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Meteor
 
@@ -372,7 +378,7 @@ git log --first-parent
 
 
 
-## [32. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [33. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
 
@@ -434,7 +440,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ------------------ |
 | ask  | ✔     | ✔      | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00 |
 
-## [33. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [34. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
@@ -471,7 +477,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 *   [FPJS-Class (⭐96)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 *   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
-## [34. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [35. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Downloads
 
@@ -483,13 +489,13 @@ Webpage: <http://www.pushcartcoffee.com/>
 *   [Happy Monday](http://makiopolis.com/everyday/026/) - Musical experiment using THREE.MeshLine by David Ronai.
 *   [D159](http://www.simppa.fi/demo/d159/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
 
-## [35. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [36. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / S companies
 
 *   Segment <https://segment.com/blog/categories/engineering/>
 
-## [36. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Testing
 
@@ -501,7 +507,7 @@ Webpage: <http://www.pushcartcoffee.com/>
     *   [sixpack (⭐1.7k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
     *   [splinter (⭐2.6k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 
-## [37. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [38. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -520,14 +526,14 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 *   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 
-## [38. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [39. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
 *   [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 *   [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 
-## [39. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
+## [40. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
 
 ### Community
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 07, 2018
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,7 +99,13 @@
 
 *   [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Universal Seed Projects / Components
+
+*   [angular-universal-heroku-starter (⭐23)](https://github.com/Alex61NN5/angular-universal-heroku-starter) - Angular 7 Universal Starter Kit with Server-Side Rendering (SSR) and easy deployment to Heroku
+
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 

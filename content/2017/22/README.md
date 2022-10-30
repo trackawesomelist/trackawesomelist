@@ -1,6 +1,6 @@
 # Awesome List Updates on May 29 - Jun 04, 2017
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -113,7 +113,14 @@
 
 *   [Badger](https://open.dgraph.io/post/badger/) - a fast, simple, efficient, and persistent key-value store written natively in Go.
 
-## [10. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Ionic 2 General Resources / Components
+
+*   [Ionic 2 Repository (GitHub)](https://github.com//ionic-team/ionic)
+*   [Ionic 2 Awesome (⭐827)](https://github.com/candelibas/awesome-ionic)
+
+## [11. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tutorials / Basics
 
@@ -129,7 +136,7 @@
 
 *   [Tips for animating 2D games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
 
-## [11. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [12. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Documentation
 
@@ -139,45 +146,45 @@
 
 *   [FHEM](https://fhem.de/)
 
-## [12. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [13. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Videos / Firefox Specific Tools/Debugger
 
 *   [WebGL 2.0 is Here: What You Need To Know](https://www.youtube.com/watch?v=Xf65duJ_QFs) - Khronos Webinar April 2017.
     *   [Slides](https://www.khronos.org/assets/uploads/developers/library/2017-webgl-webinar/Khronos-Webinar-WebGL-20-is-here_What-you-need-to-know_Apr17.pdf)
 
-## [13. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [14. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Music
 
 *   [Learning Music](https://learningmusic.ableton.com) - Explore the fundamentals of music via Ableton's interactive website.
 
-## [14. Awesome Framer](/content/podo/awesome-framer/week/README.md)
+## [15. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 
 ### Modules
 
 *   [Loading Placeholder (⭐16)](https://github.com/zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style.
 *   [ControlPanelLayer (⭐34)](https://github.com/bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype.
 
-## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [16. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Command Line / XML
 
 *   [tilix (⭐4.9k)](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
 
-## [16. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [17. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Customer experience
 
 *   [Wagtail Personalisation (⭐112)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 
-## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Template Engine
 
 *   [crinja (⭐105)](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
 
-## [18. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / J companies
 
@@ -191,7 +198,7 @@
 
 *   Nicolai Parlog (CodeFX) <http://codefx.org>
 
-## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [20. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -200,19 +207,19 @@
 *   [inchoo](http://inchoo.net/category/magento-2/)
 *   [integer\_net blog](https://www.integer-net.com/blog/)
 
-## [20. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [21. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
 *   [BlogMVC (⭐7)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐214)](https://github.com/Grafikart/BlogMVC).
 
-## [21. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [22. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Clones
 
 *   [LIKO-12 (⭐999)](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
 
-## [22. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [23. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Learning Swift
 
@@ -382,20 +389,20 @@
 *   [SwiftFiles (⭐39)](https://github.com/sketchytech/SwiftFiles) - Save, Load and Delete files easily from within a Swift playground. ⏳
 *   [Earth photos (⭐6)](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
 *   [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
 
-## [24. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [25. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Frameworks
 
 *   [Fungus (⭐1.2k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 
-## [25. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [26. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Other
 
@@ -407,13 +414,13 @@
 
 
 
-## [26. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [27. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
 *   [Datsys (⭐225)](https://github.com/metasoarous/datsys)
 
-## [27. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [28. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Blogs / Eagle
 
@@ -421,19 +428,19 @@
 *   [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
 *   [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
 
-## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
-## [29. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [30. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Web Framework & Template
 
 *   [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.
 
-## [30. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [31. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Ionic Fundamentals
 
@@ -521,7 +528,7 @@
 *   [Ionic Reddit Reader (⭐128)](https://github.com/smartapant/ionic2-reddit-reader)
 *   [Ionic Advanced Components (⭐1.7k)](https://github.com/yannbf/ionic2-components)
 
-## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Style Guides
 
@@ -1113,7 +1120,7 @@
 *   [Player (⭐2k)](https://github.com/piemonte/Player) - iOS video player, simple drop in component for playing and streaming media.
 *   [SwiftVideoBackground (⭐331)](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
 
-## [32. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [33. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
@@ -1128,26 +1135,26 @@
 
 *   [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 
-## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Javascript / Data Analysis / Data Visualization
 
 *   [D3.js](https://d3js.org/)
 *   [Learn JS Data](http://learnjsdata.com/)
 
-## [34. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [35. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Teresina](https://www.meetup.com/pt-BR/Papers-We-Love-Teresina/)
 
-## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / GUI
 
 *   [Avalonia (⭐16k)](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 
-## [36. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [37. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Document Editors / Others
 
@@ -1165,13 +1172,13 @@
 
 *   [TypingWeb](https://www.typing.com/student/start) - Master touch-typing with ease.
 
-## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [38. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### RSS
 
 *   [feedparser (⭐160)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 
-## [38. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [39. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -1252,7 +1259,7 @@
 *   [OsintStalker (⭐522)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
-## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -1267,7 +1274,7 @@
 *   [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
 *   [A collection of postmortem templates (⭐971)](https://github.com/dastergon/postmortem-templates)
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
@@ -1277,7 +1284,7 @@
 
 *   [Common Lisp Recipes](http://weitz.de/cl-recipes/) - **Common Lisp Recipes** is a collection of solutions to problems and answers to questions you are likely to encounter when writing real-world applications in Common Lisp. Published in 2015.
 
-## [41. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [42. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -1287,7 +1294,7 @@
 
 
 
-## [42. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [43. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -1310,13 +1317,13 @@
 
 *   [Kirk Pepperdine](https://twitter.com/javaperftuning) - Working in high performance and distributed computing for nearly 20 years.
 
-## [43. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [44. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Python
 
 *   [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 
-## [44. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [45. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Frameworks
 

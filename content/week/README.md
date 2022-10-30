@@ -1626,7 +1626,7 @@ Installs: 474 | Stars: 69 | Last update: 18 Sep 2022
 
 ### Front-End Development
 
-- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 8.5K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 8.5K, 📝 08&#x2F;22 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 2.9K, 📝 05&#x2F;07 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
@@ -1698,7 +1698,6 @@ Installs: 474 | Stars: 69 | Last update: 18 Sep 2022
 - [Inspire](/content/noahbuscher/inspire/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;06 ](https://github.com/noahbuscher/inspire)) - Collection of frontend dev and web design links :bulb:
 - [Jquery Tips Everyone Should Know](/content/AllThingsSmitty/jquery-tips-everyone-should-know/README.md) - ([Source ⭐ 4.2K, 📝 19&#x2F;08&#x2F;28 ](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)) - A collection of tips to help up your jQuery game 🎮
 - [Motion Ui Design](/content/fliptheweb/motion-ui-design/README.md) - ([Source ⭐ 749, 📝 20&#x2F;10&#x2F;12 ](https://github.com/fliptheweb/motion-ui-design)) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
-- [Must Watch Css](/content/AllThingsSmitty/must-watch-css/README.md) - ([Source ⭐ 4.2K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/AllThingsSmitty/must-watch-css)) - 🔥 CSS talks you have to see ⚡️ covering CSS Grid, flexbox, custom variables, performance, frameworks, Sass, tools, and more! 🚀
 - [Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md) - ([Source ⭐ 89, 📝 05&#x2F;05 ](https://github.com/jbmoelker/progressive-enhancement-resources)) - Resources on Progressive Enhancement. From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.
 - [Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;12&#x2F;03 ](https://github.com/davidtheclark/scalable-css-reading-list)) - Collected dispatches from The Quest for Scalable CSS
 - [Tools](/content/lvwzhen/tools/README.md) - ([Source ⭐ 820, 📝 21&#x2F;12&#x2F;13 ](https://github.com/lvwzhen/tools)) - Tools Online

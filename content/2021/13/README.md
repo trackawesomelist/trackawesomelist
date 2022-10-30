@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 29 - Apr 04, 2021
 
-68 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -779,6 +779,20 @@
 ### Applications and Platforms / Diet
 
 *   [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
+
+## [69. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Decorators / Components
+
+*   [ng-portal (⭐10)](https://github.com/nigrosimone/ng-portal) Component property connection in Angular application.
+
+### Pipes / Components
+
+*   [ng-generic-pipe (⭐7)](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
+
+### State Management / Components
+
+*   [ng-http-caching (⭐21)](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
 
 ---
 

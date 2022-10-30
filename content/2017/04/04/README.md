@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,7 +84,18 @@ $ git config --global merge.tool meld
 
     $ git mergetool
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Experts on Twitter
+
+*   [@victorsavkin](https://twitter.com/victorsavkin)
+*   [@jeffbcross](https://twitter.com/jeffbcross)
+
+### Material Design
+
+*   [Material Light (⭐40)](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
+
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
@@ -98,13 +109,13 @@ $ git config --global merge.tool meld
 
 *   [mnemonix (⭐35)](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 
-## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [5. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / DynamoDB
 
 *   [sebdah/dynamic-dynamodb :fire::fire::fire: (⭐611)](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
-## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [6. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
@@ -120,13 +131,13 @@ $ git config --global merge.tool meld
 
 *   [On The Brain](http://neuro.hms.harvard.edu/harvard-mahoney-neuroscience-institute/hmni-newsletter) - Harvard Mahoney Neuroscience Institute's quarterly e-newsletter.
 
-## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
 *   [CNN visualization using Tensorflow (⭐776)](https://github.com/InFoCusp/tf_cnnvis) - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/\~fergus/papers/zeilerECCV2014.pdf)
 
-## [7. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
+## [8. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
 ### Books
 
@@ -134,7 +145,7 @@ $ git config --global merge.tool meld
 *   [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
 *   [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
 
-## [8. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ### Packages / Utilities
 

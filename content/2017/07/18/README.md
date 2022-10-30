@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2017
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -143,20 +143,59 @@
 
 *   [django-wordpress (⭐332)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
-## [5. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Ahead-of-Time Compilation / Components
+
+*   [Official Documentation](https://angular.io/guide/aot-compiler)
+
+### Series / Components
+
+*   thoughtram
+    *   Angular Template Syntax Demystified
+        *   [Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+
+### On-Site Training / Components
+
+*   [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
+
+### Approach and Explanation / Components
+
+*   thoughtram
+
+    *   [Developing a tabs component in Angular 2](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
+    *   [Developing a zippy component in Angular 2](https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
+    *   [Resolving Service Dependencies in Angular 2](https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
+    *   [Forward references in Angular 2](https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
+    *   [Host and Visibility in Angular 2's Dependency Injection](https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
+    *   [Dependency Injection in Angular 2](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
+    *   [Routing in Angular 2 **Deprecated**](https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
+    *   [Routing in Angular 2 Revisited](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
+    *   [Angular 2 Template Syntax Demystified - Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+    *   [View Encapsulation in Angular 2](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
+    *   [Styling Angular 2 components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
+    *   [Even better ES5 code for Angular 2](https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
+    *   [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
+    *   [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
+
+### TypeScript Seed Projects / Components
+
+*   [Todo app with Firebase, OAuth, and Immutable (⭐508)](https://github.com/r-park/todo-angular-firebase)
+
+## [6. Awesome Computer History](/content/watson/awesome-computer-history/README.md)
 
 ### Websites / Announcements and Memos
 
 *   [First website ever made](http://info.cern.ch/) (1990) - CERN (European Organization for Nuclear Research Organisation) website
 *   [The Amazing FishCam](http://fishcam.com/) (1994) - The Fishcam was the second live camera on the web and is the oldest camera site still in existence
 
-## [6. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [7. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 
-## [7. Awesome Design](/content/gztchan/awesome-design/README.md)
+## [8. Awesome Design](/content/gztchan/awesome-design/README.md)
 
 ### Stock
 
@@ -188,13 +227,13 @@
 
 *   [SemiPermanent](https://www.semipermanent.com)
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
 *   [gifu (⭐2.8k)](https://github.com/kaishin/gifu) - Highly performant animated GIF support for iOS.
 
-## [9. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [10. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Databases
 
@@ -224,7 +263,7 @@
 *   [JSON-populate (⭐142)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 *   [CircularJSON (⭐598)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
-## [10. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [11. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Development Tools / Code Editors
 
@@ -703,38 +742,38 @@
 *   [Localytics (⭐10)](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 *   [Testflight (⭐26)](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 
-## [11. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
 *   [AspNet.Security.OpenIdConnect.Server (⭐561)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 
-## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [13. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
 *   [Chaos Engineering: Building Confidence in System Behavior through Experiment](http://www.oreilly.com/webops-perf/free/chaos-engineering.csp)
 *   [Post-Incident Reviews: Learning from Failure for Improved Incident Responses](https://victorops.com/oreilly-post-incident-review/)
 
-## [13. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [14. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [14. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Individuals/Group Contributors / T individuals
 
 *   Todd Motto <https://toddmotto.com/>
 
-## [15. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
+## [16. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
 ### Competitions
 
 *   [VEX Robotics Competition](https://www.vexrobotics.com/)
 
-## [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Integrations
 
@@ -744,13 +783,13 @@
 
 *   [Custom Keycloak Docker Image of Computer Science House of RIT (⭐7)](https://github.com/ComputerScienceHouse/keycloak-docker)
 
-## [17. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [18. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Reverse Engineering / Reverse Engineering Tools
 
 *   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
 
-## [18. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
@@ -773,7 +812,7 @@
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 

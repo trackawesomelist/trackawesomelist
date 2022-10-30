@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,7 +24,13 @@
 
 *   [picturefill (⭐10k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
 
-## [4. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Babel Plugins / Components
+
+*   [babel-preset-angular2 (⭐14)](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
+
+## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Meteor
 
@@ -36,7 +42,7 @@
 
 
 
-## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / Virginia   <a id="virginia">  </a>
 
@@ -50,7 +56,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 | ---------------------- | ----- | ------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | open, password on Wall | ✔     | ✔      | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
 
-## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [7. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Experiments
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 08 - Aug 14, 2016
 
-37 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -360,13 +360,19 @@ git rev-list --count <branch-name>
 *   [moderngpu (⭐1.4k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
 *   [NCCL (⭐1.9k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
-## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 Dashboard Starter (⭐98)](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
+
+## [21. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
 *   [filehound (⭐208)](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
-## [21. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [22. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Profilers
 
@@ -381,7 +387,7 @@ git rev-list --count <branch-name>
 *   [Why JNI is slow?](https://www.youtube.com/watch?v=LoyBTqkSkZk) - Cliff Click
 *   [JVM Language Summit 2016](https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_) - JVM Language Summit 2016.
 
-## [22. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Security
 
@@ -391,13 +397,13 @@ git rev-list --count <branch-name>
 
 *   [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
-## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [24. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   [NIST Handbook of Statistical Methods](http://itl.nist.gov/div898/handbook/index.htm) - Resource on practical statistics directed towards scientists and engineers.
 
-## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [25. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
@@ -405,7 +411,7 @@ git rev-list --count <branch-name>
     [online decompilation service](https://retdec.com/decompilation/) and
     [API](https://retdec.com/api/) that you can use in your tools.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Game
 
@@ -419,7 +425,7 @@ git rev-list --count <branch-name>
 
 *   [Netling (⭐1.3k)](https://github.com/hallatore/Netling) - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
 
-## [26. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
+## [27. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
 
 ### Git-Flow
 
@@ -589,13 +595,13 @@ git flow init -d
 </p>
 <hr>
 
-## [27. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [28. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Blog posts
 
 *   [TensorFlow - Not Just For Deep Learning](http://terrytangyuan.github.io/2016/08/06/tensorflow-not-just-deep-learning/)
 
-## [28. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [29. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Official resources
 
@@ -646,20 +652,20 @@ git flow init -d
 *   [dataface (⭐43)](https://github.com/timwis/dataface) - Desktop application to manage databases.
 *   [BlankUp (⭐38)](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
 
-## [29. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [30. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [pokemongo-genymotion (⭐19)](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device.
 
-## [30. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [31. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Similar lists / Videos
 
 *   [Awesome Open (⭐57)](https://github.com/paulhendricks/awesome-open):
     A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
-## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -728,13 +734,13 @@ git flow init -d
 
 *   [Hashrocket Today I Learned - Elixir](https://til.hashrocket.com/elixir) - Small posts about Elixir from the team at Hashrocket.
 
-## [32. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [33. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Plugins / Nice-to-have :thumbsup:
 
 *   [Sketch Runner](http://sketchrunner.com)
 
-## [33. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [34. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Visualization methods
 
@@ -746,7 +752,7 @@ git flow init -d
 *   [FlameGraph (⭐14k)](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
 *   [node-stackvis (⭐341)](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
@@ -765,19 +771,19 @@ git flow init -d
 
 *   [Gitter](https://gitter.im/crystal-lang/crystal)
 
-## [35. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [36. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Developer
 
 *   [mdi (⭐41)](https://github.com/importre/alfred-mdi) - Find [Material Design Icons (⭐47k)](https://github.com/google/material-design-icons).
 
-## [36. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [37. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
 *   [Vulkan-hpp (⭐2.4k)](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 
-## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### General
 

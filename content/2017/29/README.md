@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 17 - Jul 23, 2017
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -416,20 +416,59 @@
 
 *   [django-wordpress (⭐332)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
-## [34. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Ahead-of-Time Compilation / Components
+
+*   [Official Documentation](https://angular.io/guide/aot-compiler)
+
+### Series / Components
+
+*   thoughtram
+    *   Angular Template Syntax Demystified
+        *   [Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+
+### On-Site Training / Components
+
+*   [Letsboot.com](https://www.letsboot.com/angular-2-in-house-training-support)
+
+### Approach and Explanation / Components
+
+*   thoughtram
+
+    *   [Developing a tabs component in Angular 2](https://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
+    *   [Developing a zippy component in Angular 2](https://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
+    *   [Resolving Service Dependencies in Angular 2](https://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
+    *   [Forward references in Angular 2](https://blog.thoughtram.io/angular/2015/09/03/forward-references-in-angular-2.html)
+    *   [Host and Visibility in Angular 2's Dependency Injection](https://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
+    *   [Dependency Injection in Angular 2](https://blog.thoughtram.io/angular/2015/05/18/dependency-injection-in-angular-2.html)
+    *   [Routing in Angular 2 **Deprecated**](https://blog.thoughtram.io/angular/2015/06/16/routing-in-angular-2.html)
+    *   [Routing in Angular 2 Revisited](https://blog.thoughtram.io/angular/2016/06/14/routing-in-angular-2-revisited.html)
+    *   [Angular 2 Template Syntax Demystified - Part 1](https://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
+    *   [View Encapsulation in Angular 2](https://blog.thoughtram.io/angular/2015/06/29/shadow-dom-strategies-in-angular2.html)
+    *   [Styling Angular 2 components](https://blog.thoughtram.io/angular/2015/06/25/styling-angular-2-components.html)
+    *   [Even better ES5 code for Angular 2](https://blog.thoughtram.io/angular/2015/07/06/even-better-es5-code-for-angular-2.html)
+    *   [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
+    *   [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
+
+### TypeScript Seed Projects / Components
+
+*   [Todo app with Firebase, OAuth, and Immutable (⭐508)](https://github.com/r-park/todo-angular-firebase)
+
+## [35. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Websites / Announcements and Memos
 
 *   [First website ever made](http://info.cern.ch/) (1990) - CERN (European Organization for Nuclear Research Organisation) website
 *   [The Amazing FishCam](http://fishcam.com/) (1994) - The Fishcam was the second live camera on the web and is the oldest camera site still in existence
 
-## [35. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [36. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Supplement: Learning Pandas well / Some communities to know about!
 
 *   Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 
-## [36. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [37. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -461,7 +500,7 @@
 
 *   [SemiPermanent](https://www.semipermanent.com)
 
-## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [38. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -488,7 +527,7 @@
 
 *   [SwipeCellKit (⭐5.9k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 
-## [38. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [39. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -518,7 +557,7 @@
 *   [JSON-populate (⭐142)](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 *   [CircularJSON (⭐598)](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
-## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [40. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
@@ -529,13 +568,13 @@
 
 *   [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go)
 
-## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Antvel (⭐645)](https://github.com/ant-vel/App) - Ecommerce platform
 
-## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / S individuals
 
@@ -545,13 +584,13 @@
 
 *   Todd Motto <https://toddmotto.com/>
 
-## [42. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [43. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [VEX Robotics Competition](https://www.vexrobotics.com/)
 
-## [43. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Documentation
 
@@ -578,7 +617,7 @@
 
 *   [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol\&oq=inurl%3A\&client=ubuntu\&sourceid=chrome\&ie=UTF-8)
 
-## [44. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [45. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 
@@ -588,7 +627,7 @@
 
 *   [PyREBox (⭐1.6k)](https://github.com/Cisco-Talos/pyrebox) - Python scriptable Reverse Engineering sandbox by Cisco-Talos.
 
-## [45. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [46. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -617,14 +656,14 @@
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
 
-## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
 *   [libdill (⭐1.6k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
 *   [libmill (⭐2.6k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
-## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -641,7 +680,7 @@
 *   [vue-deepset (⭐93)](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
 *   [jsx-v-model (⭐154)](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 
-## [48. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [49. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
@@ -655,13 +694,13 @@
 
 *   [Restforce (⭐737)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
-## [49. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [50. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Videos / Other
 
 *   [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
 
-## [50. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
+## [51. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/week/README.md)
 
 ### Development Tools / Code Editors
 
@@ -1167,13 +1206,13 @@
 *   [Localytics (⭐10)](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
 *   [Testflight (⭐26)](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 
-## [51. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [52. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tutorials / IRC
 
 *   [PHP Dependency Management with Composer](https://www.sitepoint.com/re-introducing-composer/)
 
-## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [53. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Templates
 
@@ -1183,7 +1222,7 @@
 
 *   [AspNet.Security.OpenIdConnect.Server (⭐561)](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
 
-## [53. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [54. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26 - Mar 04, 2018
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -385,7 +385,27 @@
 *   [mirakui/ec2ssh :fire::fire: (⭐247)](https://github.com/mirakui/ec2ssh) - SSH config manager.
 *   [openebs/openebs :fire::fire::fire::fire::fire: (⭐7.8k)](https://github.com/openebs/openebs) - Containerized block storage QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.
 
-## [28. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Webpack / Components
+
+*   [Angular Webpack Tour of Heroes from michaelbazos (⭐3)](https://github.com/michaelbazos/angular-starter) - Tour of Heroes official typescript tutorial built with webpack
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 full code coverage (⭐17)](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit
+    and full code coverage
+
+### Bit Resources / Components
+
+*   [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components.
+
+### Security / Components
+
+*   So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017
+    ##### Authentication
+
+## [29. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Fonts
 
@@ -399,25 +419,25 @@
 
 *   [TruFont (⭐426)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
-## [29. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [30. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Configuration
 
 *   [Envyable (⭐76)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
 
-## [30. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [31. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Blogs • Websites / Other
 
 *   [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [neonrvm (⭐33)](https://github.com/siavashserver/neonrvm) - neonrvm is an open source machine learning library based on RVM technique. It's written in C programming language and comes with Python programming language bindings.
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -427,7 +447,7 @@
 
 *   [SolarNetwork (⭐101)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
-## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Utility / ORM
 
@@ -441,19 +461,19 @@
 
 *   [Capacitor (⭐8.1k)](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the web. Very promising Cordova alternative.
 
-## [34. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [35. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Miscellaneous
 
 *   [Shrugapillar.js (⭐14)](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars.
 
-## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Backend / Navigation Demos
 
 *   [reactivesearch-native ★1218 (⭐4.7k)](https://github.com/appbaseio/reactivesearch/tree/dev/packages/native) - appbase.io and Elasticsearch UI components for React Native.
 
-## [36. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [37. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Directly On Top Of A RMDB
 
@@ -471,12 +491,12 @@
 
 *   [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 
-## [37. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [38. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@Krzysztof-Cieslak](https://github.com/Krzysztof-Cieslak), [Ionide](https://github.com/ionide)
     *   "OSS and Community: The Story" ([post](http://kcieslak.io/OSS-The-Story))
 
-## [38. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [39. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / C#
 
@@ -520,7 +540,7 @@
 
 *   [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
 
-## [39. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [40. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Authentication and Authorization
 
@@ -538,7 +558,7 @@
 
 *   [Croogo 3.x](http://demo.croogo.org/3.0) - Croogo 3.x demo
 
-## [40. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [41. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### React Native
 
@@ -567,19 +587,19 @@
 
 
 
-## [41. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [42. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Animation, Graphics & Video Playout
 
 *   [Open Playout Automation (⭐141)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
-## [42. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [43. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization / Graph Based approach
 
 *   Public Datasets [awesome-public-datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets).
 
-## [43. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [44. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### Articles & Tutorials / Overall Topics
 
@@ -591,7 +611,7 @@
 
 *   [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/) - Everything you need to know about the debugging tools built into Google Chrome.
 
-## [44. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [45. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### OSINT
 

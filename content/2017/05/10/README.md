@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2017
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,13 +99,28 @@
 
 *   [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Approach and Explanation / Components
+
+*   Burak Tasci (fulls1z3)
+    *   [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
+
+### Universal Seed Projects / Components
+
+*   [ng-seed/universal (⭐707)](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+
+### TypeScript Seed Projects / Components
+
+*   [ng-seed/spa (⭐26)](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### For Developers / Directory Navigation
 
 *   [tag (⭐584)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 
-## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [11. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Utility / Collection View Layout
 

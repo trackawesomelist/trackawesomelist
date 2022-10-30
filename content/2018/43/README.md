@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 22 - Oct 28, 2018
 
-73 awesome lists updated this week.
+74 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -737,7 +737,13 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 
-## [57. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [57. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
+
+## [58. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
@@ -747,19 +753,19 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [securitybuilder (⭐44)](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
 
-## [58. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [59. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Troubleshooting and queries / Technical Blogs
 
 *   [The Wizard News](https://thewizardnews.com/) - The Wizard News is a central location for blogs, video, and podcasts created by Brian Kwong – aka Salesforce Wizard.
 
-## [59. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [60. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / S3
 
 *   [spring-projects/aws-maven :fire::fire: (⭐216)](https://github.com/spring-projects/aws-maven) -  Maven Wagon for S3.
 
-## [60. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [61. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -777,13 +783,13 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐139)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python`
 
-## [61. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [62. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Application Hosting / Third-party Service Integration
 
 *   [RunCloud](https://runcloud.io/)
 
-## [62. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [63. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -820,7 +826,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [OnboardKit (⭐461)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
-## [63. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [64. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
@@ -859,7 +865,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [MongoModel (⭐40)](https://github.com/spohlenz/mongomodel) - Ruby ODM for interfacing with MongoDB databases.
 
-## [64. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [65. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 
@@ -891,7 +897,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [VR Mental Health Startup: Idea To Reality - AnxietyTech 2018](https://www.youtube.com/watch?v=6fmT_MBcoTY) - By Jonathan Sockell.
 *   [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) - By Solome Tibebu.
 
-## [65. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [66. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Game Boy Color / Opcodes
 
@@ -902,13 +908,13 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [Dan Docs](https://shonumi.github.io/dandocs.html) - Obscure Game Boy hardware documentation.
 *   [DMG-07 Technical Documentation](https://raw.githubusercontent.com/shonumi/gbe-plus/master/src/docs/technical/DMG_07.txt)
 
-## [66. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [67. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Books
 
 *   [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
 
-## [67. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [68. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Self-hosted VPNs
 
@@ -1052,19 +1058,19 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
 
-## [68. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [69. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Miscellaneous
 
 *   [Lorem Ipsum (⭐39)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
 
-## [69. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [70. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Bytecode Manipulation
 
 *   [Mixin (⭐1k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
-## [70. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [71. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -1079,7 +1085,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [pgbadger (⭐2.8k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 *   [sqlcheck (⭐2.2k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 
-## [71. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [72. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### XSS - Cross-Site Scripting
 
@@ -1134,7 +1140,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [nano (⭐414)](https://github.com/s0md3v/nano) - Family of code golfed PHP shells by [@s0md3v](https://github.com/s0md3v).
 
-## [72. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [73. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### Scripting Tools
 
@@ -1142,7 +1148,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [GradleMavenPush (⭐21)](https://github.com/Vorlonsoft/GradleMavenPush) - Gradle script plugin to upload Gradle Artifacts to Maven repositories
 *   [sshoogr (⭐347)](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
-## [73. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [74. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 

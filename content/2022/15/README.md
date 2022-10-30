@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 11 - Apr 17, 2022
 
-46 awesome lists updated this week.
+47 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -50,31 +50,37 @@
 
 *   [Probabilistic Programming and Bayesian Methods for Hackers (⭐25k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabalistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
 
-## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Nishu Goel](https://twitter.com/TheNishuGoel)
+
+## [7. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### IDE Extensions
 
 *   [Tailwind CSS Highlight](https://marketplace.visualstudio.com/items?itemName=ellreka.tailwindcss-highlight) - Highlight utilities extension for Visual Studio Code.
 
-## [7. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [8. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Algorithms, Containers and Protocols / Other / unknown licence
 
 *   [chests (⭐3)](https://github.com/JeremyGrosser/chests) - Chests are bounded containers.
 
-## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [9. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Fediverse / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Misskey](https://misskey-hub.net/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/misskey-dev/misskey) - A forever evolving, sophisticated microblogging platform.
 
-## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [10. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Web Development
 
 *   [Frontend development roadmap (⭐2.3k)](https://github.com/sadanandpai/frontend-learning-kit/blob/main/2022_FE_roadmap.pdf) - Frontend development interview checklist & roadmap [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/kamranahmedse/developer-roadmap/blob/main/2022_FE_roadmap.pdf).
 
-## [10. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
+## [11. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/week/README.md)
 
 ### :books: Literature / Documentation
 
@@ -122,25 +128,25 @@
 *   [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
 *   [TrID](https://mark0.net/soft-trid-e.html) - Utility for identifying file types from their binary signatures.
 
-## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### Web Hosting
 
 *   [InterServer](https://www.interserver.net/webhosting/student-webhosting.html/) \[FREE] - Standard Web Hosting Package for Free for the first year for students.
 
-## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### Connector
 
 *   [node2tdengine (⭐1)](https://github.com/machine-w/node2tdengine)
 
-## [13. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [14. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [darkweak/souin (⭐339)](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -150,7 +156,7 @@
 
 *   [nkakouros-original/numbers.nvim (⭐16)](https://github.com/nkakouros-original/numbers.nvim) - Toggle relativenumber whenever it makes sense.
 
-## [15. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [16. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -158,7 +164,7 @@
 *   [Load Testing Your API with Swagger/OpenAPI and k6](https://k6.io/blog/load-testing-your-api-with-swagger-openapi-and-k6) - Generate k6 load test scripts from OpenAPI specifications.
 *   [Load Testing Your API with Postman](https://k6.io/blog/load-testing-with-postman-collections/) - How to use Postman collections to load test your API.
 
-## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Reinforcement Learning
 
@@ -168,7 +174,7 @@
 
 *   [milvus](https://milvus.io) – Milvus is [open source (⭐14k)](https://github.com/milvus-io/milvus) vector database for production AI, written in Go and C++, scalable and blazing fast for billions of embedding vectors.
 
-## [17. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [18. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -188,7 +194,7 @@
 
 *   [https://github.com/slince/composer-registry-manager (⭐494)](https://github.com/slince/composer-registry-manager) - The plugin helps you to switch between different composer repositories.
 
-## [18. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [19. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines
 
@@ -1017,13 +1023,13 @@
     *   📚 [Retro3DGraphicsCollection (⭐762)](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro style 3D graphic assets (think PS1).
     *   💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
 
-## [19. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [20. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
 *   [wal-e (⭐3.4k)](https://github.com/wal-e/wal-e) (obsolete) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
 
-## [20. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [21. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
@@ -1053,7 +1059,7 @@
 *   [12ft.io / 12ft Ladder](https://12ft.io): 12ft Ladder is a free service for reading news articles. Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article. It is similar to Outline.com which is not available anymore.
     *   Note: The source code of 12ft Ladder is not available under a free/open-source license.
 
-## [21. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
@@ -1075,7 +1081,7 @@
 
 *   [AlDente](https://apphousekitchen.com/) - Charge limiter app for MacBooks to keep your battery healthy even longer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/davidwernhart/AlDente)
 
-## [22. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [23. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -1094,7 +1100,7 @@
 
 *   [osm-livechanges](http://live.openstreetmap.fr/) - Near-real-time display of edits in the OpenStreetMap database. ([Source Code (⭐28)](https://github.com/cstenac/osm-livechanges))
 
-## [23. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [24. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Resources & Others / Communities
 
@@ -1106,13 +1112,13 @@
 *   [Pokémon GO Calender](https://pokemoncalendar.com/) - Pokémon GO calender events with Google Calendar and timezones support.
 *   [Poke Genie](http://www.pokegenie.net/) - A free raid hosting and joining app for [iOS](https://apps.apple.com/us/app/poke-genie-remote-raid-iv-pvp/id1143920524) & [Android](https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard) with PVP functionalities.
 
-## [24. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [25. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
 *   [UAC (⭐265)](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 
-## [25. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [26. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Official
 
@@ -1122,7 +1128,7 @@
 
 *   [AlgoWorld-Contracts (⭐29)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
 
-## [26. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [27. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Communication
 
@@ -1144,7 +1150,7 @@
 
 *   [PacMax](https://pacmax.org/) – Pacmax was assembled as a way for Alfred lovers to find and share their favorite workflows, snippets, and themes.
 
-## [27. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Proprietary (non-standard) vendor APIs
 
@@ -1162,13 +1168,13 @@
 
 *   [Cal-ITP Operational Data Standard (ODS)](https://docs.calitp.org/operational-data-standard/) -  Intended to address the lack of a standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations.
 
-## [28. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [29. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Vaults & Vows](https://docs.google.com/document/d/1hBwpWN1hXWFUXF_I5nBVpNL4YuCh2q0HS3H40UXJx2U/edit) - Classic fantasy roleplaying supplement
 
-## [29. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [30. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Learning / Books
 
@@ -1176,7 +1182,7 @@
 *   [The H.264 Advanced Video Compression Standard](https://www.amazon.de/-/en/Iain-Richardson/dp/0470516925)  - 2010-04-23. Richardson, Iain.
 *   [Video Demystified: A Handbook for the Digital Engineer](https://www.amazon.com/Video-Demystified-Handbook-Digital-Engineer/dp/0750683953)  - 2007-05-14. Jack, Keith.
 
-## [30. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [31. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Blogs
 
@@ -1202,13 +1208,13 @@
 *   [java-opengl-labs/learn-OpenGL (⭐37)](https://github.com/java-opengl-labs/learn-OpenGL) - port of <https://learnopengl.com/> tutorial (lwjgl)
 *   [kotlin-graphics/bullet (⭐38)](https://github.com/kotlin-graphics/bullet) - bullet port
 
-## [31. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [32. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration
 
 *   [PHP SDK (⭐20)](https://github.com/alantiller/directus-php-sdk) - PHP SDK to provide easy access to the Directus API.
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -1230,19 +1236,19 @@
 
 *   [Cronhooks](https://cronhooks.io/) - Schedule on time or recurring webhooks. Free plan allows 5 ad-hoc schedules.
 
-## [33. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [34. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Enterprise & Verticals / Scala
 
 *   [Medusa](https://medusajs.com/) - Headless open source commerce platform.
 
-## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [35. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Reports Generation
 
 *   [PDFBlade](https://pdfblade.com/) - HTML to PDF API usage based pricing.
 
-## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Oh-My-Zsh
 
@@ -1260,7 +1266,7 @@
 *   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 *   [ortiz (andres-ortizl) (⭐3)](https://github.com/andres-ortizl/ortiz-zsh-theme) - Fork of [eriner (⭐13)](https://github.com/zimfw/eriner) with decorations for the interval between commands and k8s context.
 
-## [36. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [37. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
@@ -1277,7 +1283,7 @@
 *   [Appwrite](https://appwrite.io/) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
 *   [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
 
-## [37. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -1289,7 +1295,7 @@
 
 *   [electron-vite (⭐284)](https://github.com/alex8088/electron-vite) - An Electron CLI integrated with Vite.
 
-## [38. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [39. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Desktop
 
@@ -1310,7 +1316,7 @@
 *   [WebCord (⭐655)](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord API-less client made with the Electron.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Aliucord (⭐1.8k)](https://github.com/Aliucord/Aliucord) - A modification for the Android Discord app that fully [disables the Discord Tracking (⭐1.8k)](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java).
 
-## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -1357,7 +1363,7 @@
 *   [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code (⭐149)](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl`
 *   [Roundup Issue Tracker](https://www.roundup-tracker.org/) - A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ([Source Code](https://www.roundup-tracker.org/code.html)) `MIT/ZPL-2.0` `Python`
 
-## [40. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [41. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Code Search
 
@@ -1371,7 +1377,7 @@
 
 *   [Sub3 Suite (⭐305)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
-## [41. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [42. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
@@ -1381,7 +1387,7 @@
 
 *   [bullmq (⭐2.9k)](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -1404,13 +1410,13 @@
 
 *   [vue-drawing-grid (⭐2)](https://github.com/MLongz/VueDrawingGrid) - A simple drawing grid lets you create pixel arts using HTML5 canvas.
 
-## [43. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [44. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Media
 
 *   [Movies App (⭐110)](https://github.com/vellt/Movies-App-Flutter) - A user-friendly interface using themoviedb API by [vellt](https://github.com/vellt).
 
-## [44. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [45. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Generative Model
 
@@ -1444,7 +1450,7 @@
 *   [Metacontrol for Adaptive Imagination-Based Optimization](https://openreview.net/forum?id=Bk8BvDqex) - ***ICLR'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=16728474512617398730\&hl=en\&as_sdt=0,5)].
 *   [On Effective Scheduling of Model-based Reinforcement Learning](https://proceedings.neurips.cc/paper/2021/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html) - ***NIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11128521607771619105\&hl=en\&as_sdt=0,5)].
 
-## [45. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [46. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -1459,7 +1465,7 @@
 
 *   [tailyew (⭐9)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
-## [46. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [47. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 

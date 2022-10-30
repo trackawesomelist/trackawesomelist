@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25, 2019
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -134,6 +134,12 @@
 ### URL Manipulation
 
 *   [webargs (⭐1.3k)](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
+
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Experts on Twitter
+
+*   [@PatrickJS\_\_](https://twitter.com/PatrickJS__)
 
 ---
 

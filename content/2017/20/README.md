@@ -1,6 +1,6 @@
 # Awesome List Updates on May 15 - May 21, 2017
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,13 +80,38 @@
 
 *   [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
-## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Webpack / Components
+
+*   [Angular Webpack from preboot (⭐1.3k)](https://github.com/preboot/angular-webpack)
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 Starter (⭐527)](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
+*   [Angular 2 Leaflet Starter (⭐212)](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
+*   [Angular 2 MapboxGL Starter (⭐50)](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
+
+### Babel Demo, Samples, and Examples / Components
+
+*   [ng1-ng2-webpack-lazy-uirouter (⭐57)](https://github.com/swimlane/ng1-ng4-webpack-lazy-uirouter) Hybrid lazy-loading Angular1 + Angular2 using UI-Router, Webpack2 and Babel.
+
+### Haxe General Resources / Components
+
+*   [Haxe Playground ](https://try.haxe.org/)
+
+### Bit Resources / Components
+
+*   [Bit (⭐16k)](https://github.com/teambit/bit)
+*   [Bit-Javascript (⭐39)](https://github.com/teambit/bit-javascript)
+
+## [11. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Books
 
 *   [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 
-## [11. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [12. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Github Libraries / Randomized Algorithms
 
@@ -95,13 +120,13 @@
     *   [by @aalhour (⭐5.1k)](https://github.com/aalhour/C-Sharp-Algorithms)
     *   [by @justcoding121 (⭐972)](https://github.com/justcoding121/Advanced-Algorithms)
 
-## [12. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [13. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
 *   [Preact CLI (⭐4.6k)](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
 
-## [13. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [14. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / GitHub
 
@@ -134,25 +159,25 @@
 *   [GitHub toggle wiki sidebar (⭐1.4k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
 *   [Gist to dabblet (⭐1.4k)](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 
-## [14. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [15. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Vector Graphics / Unspecified License
 
 *   [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 
-## [15. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [16. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Videos
 
 *   [ChatOps with PowerShell and Errbot](https://www.youtube.com/watch?v=XIMOFnfdOx0) - A talk from PowerShell Conference Europe 2017 about how get started with Errbot on Windows with PowerShell.
 
-## [16. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [17. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Registry
 
 *   [verdaccio (⭐14k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 
-## [17. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
@@ -163,38 +188,38 @@
 
 *   [Naïve Bayes (⭐3)](https://github.com/titsuki/p6-Algorithm-NaiveBayes)
 
-## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [19. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Media
 
 *   [Analyzing and Debugging the Java HotSpot VM at the OS Level](https://www.youtube.com/watch?v=k7IX_diKCEo) - Volker Simonis.
 
-## [19. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [20. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Python / Scala
 
 *   [Zappa (⭐12k)](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
 
-## [20. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [21. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Localization
 
 *   [sl\_SI (⭐10)](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
 
-## [21. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Community / Other
 
 *   [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
 
-## [22. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [23. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Related awesome lists
 
 *   [Awesome Robotics (⭐628)](https://github.com/ahundt/awesome-robotics)
 *   [Awesome Robotics Libraries (⭐1.6k)](https://github.com/jslee02/awesome-robotics-libraries)
 
-## [23. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [24. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Videos
 
@@ -212,13 +237,13 @@
 *   [Layout](https://www.webcomponents.org/collection/PolymerElements/layout-elements) A collection of layout related elements.
 *   [\[Obsolete\] Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
 
-## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Machine learning • Computer Vision • Ai / Other
 
 *   [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
 
-## [25. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [26. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / Blogs
 
@@ -231,7 +256,7 @@
 *   [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) - Provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 *   [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - Explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 
@@ -241,7 +266,7 @@
 
 *   [claudiajs/claudia :fire::fire::fire::fire::fire: (⭐3.8k)](https://github.com/claudiajs/claudia) - Deploy Node.js projects to Lambda and API Gateway easily.
 
-## [27. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [28. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Operating System / Firmwares for ESP based Devices
 
@@ -264,7 +289,7 @@
 *   [haiku2mqtt (⭐9)](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT.
 *   [wlan-thermo-mqtt-addon](https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/) - Addon for a popular DIY barbecue thermometer.
 
-## [28. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
+## [29. Awesome Tikz](/content/xiaohanyu/awesome-tikz/week/README.md)
 
 ### Videos / PGFPlots
 
@@ -279,13 +304,13 @@
 *   [StackExchange](https://tex.stackexchange.com/questions/tagged/tikz-pgf)
 *   [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/) - A friendly and relatively active mailing list.
 
-## [29. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [30. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EMPI
 
 *   [MEDIC Client Registry RI (⭐13)](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
 
-## [30. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [31. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Module Bundlers / Playground
 
@@ -296,7 +321,7 @@
 
 *   [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
 
-## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [32. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Programming languages
 
@@ -306,7 +331,7 @@
 
 *   [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua ! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powerful, yet memory efficient, embedded web applications.
 
-## [32. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [33. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI / Animations
 
@@ -341,7 +366,7 @@
 *   [Kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
 *   [Android Kotlin Samples (⭐297)](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples written in Kotlin.
 
-## [33. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [34. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Multipurpose Engines / On-line APIs
 
@@ -361,19 +386,19 @@
     *   *Ruby one-liners* by [Benoit Hamelin](https://twitter.com/benoithamelin) <sup>\[[post](http://benoithamelin.tumblr.com/ruby1line)]</sup>
     *   *Clustering in Ruby* by [Colin Drake](https://twitter.com/colinfdrake) <sup>\[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)/)]</sup>
 
-## [34. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
+## [35. Awesome Codepoints](/content/Codepoints/awesome-codepoints/week/README.md)
 
 ### For Funsies / Breaking and Gluing other characters
 
 *   [U+2800](https://codepoints.net/U+2800) BRAILLE PATTERN BLANK - A Braille pattern that has zero of its six or eight dots filled in. According to the standard: “\* while this character is imaged as a fixed-width blank in many fonts, it does not act as a space” Essentially it is rendered as white-space, but since it is designated as *not* white-space it isn't matched by white-space-validating regular expressions. This can be used to bypass all kinds of validation that disallows or trims white-space.
 
-## [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
 
-## [36. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [37. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Cross-platform Utilities
 
@@ -390,7 +415,7 @@
 
 *   [shx (⭐1.4k)](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
@@ -401,7 +426,7 @@
 *   [accent (⭐33)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
 *   [versionary (⭐38)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
-## [38. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [39. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Machine Learning Libraries / Frameworks
 
@@ -451,7 +476,7 @@
 *   [liblinear-ruby (⭐84)](https://github.com/kei500/liblinear-ruby) -
     Ruby interface to LIBLINEAR using SWIG.
 
-## [39. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [40. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### New to Laravel
 
@@ -575,26 +600,26 @@
 
 *   [Laravel Interview Questions and Answers](http://www.laravelinterviewquestions.com/)
 
-## [40. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [41. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [vulkantoy (⭐29)](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. \[MIT]
 
-## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [42. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Database
 
 *   [SimDB (⭐444)](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - High performance, shared memory, lock free, cross platform, single file, minimal dependencies, C++11 key-value store \[Apache2]
 
-## [42. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [43. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
 *   [DremelFuge](http://www.thingiverse.com/thing:1483) - A biology centrifuge that takes the form of a dremel attachment.
 *   [MinION](https://nanoporetech.com/products/minion) - An affordable, portable DNA/RNA sequencer.
 
-## [43. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [44. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Podcasts / Other
 
@@ -602,7 +627,7 @@
 
     "To share the lessons we learn by doing, and learn from the things that others are doing, to help us all get ahead as we bootstrap our businesses online." Since 2013 by [Brian Casel](https://twitter.com/CasJam) and [Jordan Gal](https://twitter.com/JordanGal).
 
-## [44. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [45. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Username Check / Telegram
 
@@ -612,13 +637,13 @@
 
 *   [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
 
-## [45. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [46. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
 *   [clim (⭐116)](https://github.com/at-grandpa/clim) - Slim command line interface builder
 
-## [46. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [47. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Privacy, Security and Cryptography / Others
 
@@ -637,7 +662,7 @@
 
 *   [IFTTT](https://ifttt.com/) `[Account]` - Create a connection between your favourite online services. For example, if one needs to tweet their instagrams as native photos on twitter then IFTTT can come in handy.
 
-## [47. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [48. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### X Desktop Environments / Other Desktop Environments
 
@@ -658,7 +683,7 @@
 
 *   [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -675,7 +700,7 @@
 *   [jsx-vue-functional (⭐66)](https://github.com/nickmessing/babel-plugin-jsx-vue-functional) - A Babel plugin that brings syntactic sugar for Vue functional components.
 *   [jsx-event-modifiers (⭐45)](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
 
-## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 

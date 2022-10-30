@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 15 - Aug 21, 2022
 
-43 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -340,7 +340,13 @@
 
 *   [pinia-persistedstate-2 (⭐55)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [38. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Material Design
+
+*   [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...)
+
+## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -350,7 +356,7 @@
 
 *   [ofirgall/goto-breakpoints.nvim (⭐7)](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints for nvim-dap.
 
-## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Formatters
 
@@ -361,7 +367,7 @@
 
 *   [becheran/grid (⭐42)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] —  Provide a two dimensional data structure for rust that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
 
-## [40. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [41. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Articles by   [Yayocode](https://www.yayocode.com "Yayocode")
 
@@ -377,7 +383,7 @@
 
 *   [New Super Jumper (⭐40)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "Yayocode").
 
-## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
@@ -395,7 +401,7 @@
 
 *   [Adapty.io](https://adapty.io/) – One-stop solution with open-source SDK for mobile in-app subscriptions integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
 
-## [42. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [43. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
@@ -403,7 +409,7 @@
     *   [Paper :newspaper:](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=DM8jWfi69zM)
 
-## [43. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [44. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

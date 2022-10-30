@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2015
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,13 +18,35 @@
 *   [Mihini](https://wiki.eclipse.org/Mihini) - The main goal of Mihini is to deliver an embedded runtime running on top of Linux, that exposes high-level API for building M2M applications. Mihini aims at enabling easy and portable development, by facilitating access to the I/Os of an M2M system, providing a communication layer, etc.
 *   [OpenHAB](http://www.openhab.org/) - The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.
 
-## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript General Resources / Components
+
+*   [TypeScript Repository (GitHub) (⭐85k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+
+### Dart General Resources / Components
+
+*   [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
+
+### Traceur General Resources / Components
+
+*   [Traceur Repository (GitHub) (⭐8.2k)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+
+### Babel General Resources / Components
+
+*   [Babel Repository (GitHub) (⭐42k)](https://github.com/babel/babel) Official GitHub Repo for Babel
+
+### React Native Projects / Components
+
+*   [Angular 2 React Native Renderer (GitHub) (⭐793)](https://github.com/angular/react-native-renderer)
+
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Javascript / General-Purpose Machine Learning
 
 *   [ml.js (⭐2.3k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 
-## [3. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
+## [4. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/README.md)
 
 ### Subjects / Computer Science
 

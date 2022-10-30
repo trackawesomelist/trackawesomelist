@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08 - Jan 14, 2018
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -676,13 +676,19 @@ Webpage: apadariaportuguesa.pt
 
 Wifi pw: `portuguesa`
 
-## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [38. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### NgRx / Components
+
+*   [Making chained API Calls using @ngrx/Effects](https://gist.github.com/peterbsmith2/ce94c0a5ddceb99bab24a761731d1f07)
+
+## [39. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
 
-## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 

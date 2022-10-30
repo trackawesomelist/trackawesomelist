@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -85,13 +85,19 @@
 
 *   [Serverless without containers](https://blog.cloudflare.com/cloud-computing-without-containers/) - How Cloudflare utilizes the v8 engine to isolate and run Cloudflare Workers written in Node.js.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### On-Site Training / Components
+
+*   [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
+
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Concurrency
 
 *   [libdispatch (⭐2.2k)](https://github.com/apple/swift-corelibs-libdispatch) - Grand Central Dispatch (GCD), developed by Apple Inc., is a task parallelism technology based on the thread pool pattern. libdispatch is a library that provides the implementation of GCD's services. \[Apache-2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
 
-## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Broccoli read
 
@@ -105,13 +111,13 @@
 
 *   [Ember San Francisco Meetup at Square, October 2018](https://www.youtube.com/watch?v=ulWhjL0Aj5s)
 
-## [8. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [9. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Essays / CSV <-> JSON
 
 *   [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
 
-## [9. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [10. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Articles
 
@@ -121,7 +127,7 @@
 
 *   [The Surprising History of Copyright and The Promise of a Post-Copyright World](https://questioncopyright.org/promise)
 
-## [10. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [11. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Hardware / Hardware Resources
 

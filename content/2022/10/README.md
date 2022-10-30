@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07 - Mar 13, 2022
 
-56 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -634,26 +634,46 @@
 
 *   [photo\_manager (⭐503)](https://github.com/fluttercandies/flutter_photo_manager) <!--stargazers:fluttercandies/flutter_photo_manager--> - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by [CaiJingLong](https://github.com/CaiJingLong) and [Alex Li](https://github.com/AlexV525).
 
-## [43. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Siddharth Ajmera](https://twitter.com/SiddAjmera)
+
+### Developer tools / Components
+
+*   [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
+
+### State Management / Components
+
+*   [ng-simple-state (⭐28)](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
+
+### Misc Components / Components
+
+*   [@tolgee/ngx (⭐166)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+*   [ng-let (⭐25)](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
+*   [ng-for-track-by-property (⭐13)](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
+
+## [44. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [AdminAdmin Podcast](https://adminadminpodcast.co.uk) - A podcast about system administration and (increasingly) DevOps and Cloud operations.
 *   [Hacker Public Radio](https://hackerpublicradio.org/) - Hacker Public Radio (HPR) is an Internet Radio show (podcast) that releases shows every weekday Monday through Friday. HPR is driven entirely by the content provided by it's community - on any subject, at any length, in any quality, as long as it's of "Interest to hackers" (basically anyone with any interest in technology). It is constantly actively looking for content and submissions.
 
-## [44. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [45. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
 *   [SocialGrep](https://socialgrep.com) - a Reddit search engine/analysis tool, "signals out of the social web of noise."
 
-## [45. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [46. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated) 🛍
 
 *   [SocialGrep](https://socialgrep.com/datasets) - a collection of open Reddit datasets.
 
-## [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Oh-My-Zsh
 
@@ -675,13 +695,13 @@
 
 *   [kalsowerus (⭐2)](https://github.com/kalsowerus/kalsowerus.zsh-theme) - Colorful powerline-inspired multi-line theme, includes decorations for `git` status, directory, last command exit status and `nvm` information.
 
-## [47. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [48. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Tools / Docker
 
 *   [Algorand Sandbox Dev (⭐9)](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage.
 
-## [48. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [49. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Mario Kart
 
@@ -701,13 +721,13 @@
 *   [Imgin](https://git.voidnet.tech/kev/imgin) - A minimalist, tor-friendly, read-only Imgur proxy insipired by software like Invidious, Nitter, and Bibliogram.
 *   [rimgo](https://codeberg.org/video-prize-ranch/rimgo#instances) - An alternative frontend for Imgur. Read-only, no-js, Based on rimgu and rewritten in Go.
 
-## [49. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [50. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Threat Intelligence / Forensics
 
 *   [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 
-## [50. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [51. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
@@ -717,13 +737,13 @@
 
 *   [evoasm/kasm (⭐40)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
 
-## [51. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [52. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Print (⭐1)](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 
-## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -735,19 +755,19 @@
 *   [vue-mathjax-next (⭐8)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 *   [vue-preview-imgs (⭐2)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 
-## [53. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [54. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Sync/Sharing
 
 *   [portal (⭐233)](https://github.com/ZinoKader/portal) - Send files between computers.
 
-## [54. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [55. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
 *   [HeadSpin](https://www.headspin.io/) - Test your website for cross browser compatibility on thousands of real device running real browsers. Get instant access to multiple desktop and mobile browsers on the cloud. Get Free Trial.
 
-## [55. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [56. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
@@ -757,7 +777,7 @@
 
 *   [Sworn by Ghostlight](https://yuigaron.itch.io/sworn-by-ghostlight) - Hunt a serial killer in a haunted Victorian era London-like city
 
-## [56. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [57. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 

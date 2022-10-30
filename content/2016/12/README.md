@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 21 - Mar 27, 2016
 
-30 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -528,13 +528,25 @@
 
 *   [d3.chart.sankey (⭐105)](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 
-## [17. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [17. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Experts on Twitter
+
+*   [@amcdnl](https://twitter.com/amcdnl)
+
+### Video Tutorials / Components
+
+*   [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
+*   [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
+*   [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
+
+## [18. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Presentations / Videos
 
 *   [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews\&utm_medium=email\&utm_source=CSS_Layout_News_34)
 
-## [18. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [19. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Array
 
@@ -553,19 +565,19 @@
 
 *   [is-generator (⭐15)](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
 
-## [19. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [20. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [Before Dawn (⭐160)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
-## [20. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [21. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
 *   [reagent-forms (⭐337)](https://github.com/reagent-project/reagent-forms/) – Bootstrap form components for Reagent.
 
-## [21. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / M companies
 
@@ -579,31 +591,31 @@
 
 *   Hypriot <http://blog.hypriot.com/>
 
-## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [23. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Remote Management / Metric & Metric Collection
 
 *   [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [24. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Infrastructure
 
 *   [php-pm (⭐6.4k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
 
-## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Administration
 
 *   [mongodb-tools (⭐290)](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Permissions / Barcode
 
 *   [Permission (⭐2.9k)](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 
-## [26. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
+## [27. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/week/README.md)
 
 ### Contracts
 
@@ -613,7 +625,7 @@
 
 *   [No Starch Press](https://www.nostarch.com/writeforus.htm)
 
-## [27. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [28. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Bindings
 
@@ -631,19 +643,19 @@
 *   [`ReactiveX/RxJava` on Gitter](https://gitter.im/ReactiveX/RxJava)
 *   [GitHub Issues (⭐47k)](https://github.com/ReactiveX/RxJava/issues)
 
-## [28. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Graph Data Model
 
 *   [DGraph (⭐19k)](https://github.com/dgraph-io/dgraph) - A scalable, distributed, low latency, high throughput graph database aimed at providing Google production level scale and throughput, with low enough latency to be serving real time user queries, over terabytes of structured data.
 
-## [29. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [30. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
 *   [Wavesurfer.js (⭐6.5k)](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Files and Directories
 

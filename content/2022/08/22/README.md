@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22, 2022
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -35,20 +35,38 @@
 
 *   [terraform-provider-iterative (⭐257)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
-## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Experts on Twitter
+
+*   [@codewith\_ahsan](https://twitter.com/codewith_ahsan)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan)
+
+### Books / Components
+
+*   [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `Packt Publishing`
+
+### Keyboard Mouse / Components
+
+*   [ngx-focus-control (⭐0)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
+
+## [6. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Contributors
 
 *   [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
 *   [Big Mountain Studio](https://github.com/bigmountainstudio)
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [saschpe/log4k (⭐11)](https://github.com/saschpe/log4k) - Lightweight logging library for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
@@ -59,7 +77,7 @@
 *   [Imgbot](https://github.com/marketplace/imgbot) — Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
 *   [resmush.it](https://resmush.it) — reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as Wordpress, Drupal or Magento. reSmush.it is the most used image optimization API with more than 7 billions images already treated, and is still Free of charge.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Coding platforms
 
@@ -74,7 +92,7 @@
 
 *   [Resolve (⭐28)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
 
-## [9. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [10. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Apps / Media
 
@@ -89,7 +107,7 @@
 *   [Wagtail Secret Sharing (⭐4)](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 *   [Wagtail Cache Invalidator (⭐3)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 

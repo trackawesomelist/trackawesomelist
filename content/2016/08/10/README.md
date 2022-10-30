@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,13 @@ git push --force-with-lease <remote-name> <branch-name>
 *   [moderngpu (⭐1.4k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
 *   [NCCL (⭐1.9k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
-## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 Dashboard Starter (⭐98)](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
+
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### BSON
 
@@ -50,7 +56,7 @@ git push --force-with-lease <remote-name> <branch-name>
 
 *   [distillery (⭐2.9k)](https://github.com/bitwalker/distillery) - A pure Elixir implementation of release packaging functionality for the Erlang VM.
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Project Generators
 
@@ -61,7 +67,7 @@ git push --force-with-lease <remote-name> <branch-name>
 *   [Kilt (⭐144)](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
 *   [Slang (⭐224)](https://github.com/jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### ORM
 
@@ -71,7 +77,7 @@ git push --force-with-lease <remote-name> <branch-name>
 
 *   [Netling (⭐1.3k)](https://github.com/hallatore/Netling) - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
 
-## [6. Awesome Choo](/content/choojs/awesome-choo/README.md)
+## [7. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
 ### Contents / Plugins and addons
 

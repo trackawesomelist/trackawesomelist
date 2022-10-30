@@ -1,6 +1,6 @@
 # Awesome List Updates on May 08 - May 14, 2017
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -366,19 +366,38 @@
 
 *   [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
 
-## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Approach and Explanation / Components
+
+*   Burak Tasci (fulls1z3)
+    *   [Angular 4 with server side rendering (aka Angular Universal)](https://medium.com/burak-tasci/angular-4-with-server-side-rendering-aka-angular-universal-f6c228ded8b0)
+
+### Universal Seed Projects / Components
+
+*   [ng-seed/universal (⭐707)](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+
+### TypeScript Seed Projects / Components
+
+*   [ng-seed/spa (⭐26)](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+
+### Babel Seed Projects / Components
+
+*   [angular-babel-seed (⭐19)](https://github.com/rbnlffl/angular-babel-seed) The super simple Angular quickstarter with ES6
+
+## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### For Developers / Directory Navigation
 
 *   [tag (⭐584)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 
-## [27. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [App-Update-Tracker (⭐24)](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
 
-## [28. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [29. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Books
 
@@ -403,25 +422,25 @@
 
 *   [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556v6.pdf) - Interesting idea of stacking multiple 3x3 conv+ReLU before pooling for a bigger filter size with just a few parameters. There is also a nice table for "ConvNet Configuration".
 
-## [29. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [30. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Templates / TikZ
 
 *   [Ultimate Beamer Theme List (⭐894)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
-## [30. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [31. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [k6 (⭐18k)](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
 
-## [31. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [32. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
 *   [fontkit (⭐1.1k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 
-## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [33. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
@@ -430,7 +449,7 @@
 *   [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
 *   [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
 
-## [33. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [34. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -441,7 +460,7 @@
 
 *   [Orchid (⭐3.3k)](https://github.com/TheOrchid/Platform)
 
-## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Distributed Computing
 
@@ -459,26 +478,26 @@
 
 *   [Dapper (⭐15k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 
-## [35. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [36. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Theory
 
 *   [Whole Earth Catalog](http://www.wholeearth.com/index.php) - A site that contains the remnants of a famous late 1960s and early 1970s maker/ecology magazine.
 
-## [36. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [37. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Colors / Social Sciences
 
 *   [ColorBrewer](http://colorbrewer2.org)
 *   [Paletton](http://paletton.com)
 
-## [37. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [38. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Books
 
 *   [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
-## [38. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
@@ -513,7 +532,7 @@
 
 *   [cake (⭐64)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
-## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
@@ -523,13 +542,13 @@
 
 *   [Trello](https://trello.com/) - Lean project boards.
 
-## [40. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [41. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Optimization / Training Techniques
 
 *   **Training very deep networks** (2015), R. Srivastava et al. [\[pdf\]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
-## [41. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [42. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
@@ -537,7 +556,7 @@
 *   [Mido](https://mido.readthedocs.io/en/latest/) [:octocat: (⭐1k)](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
 *   [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat: (⭐624)](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 
-## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -576,7 +595,7 @@
 
 *   [serum (⭐289)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
-## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Beginner
 
@@ -599,7 +618,7 @@
 
 *   [ANSI Common Lisp](http://www.paulgraham.com/acl.html) - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats](http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html).
 
-## [44. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [45. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Singapore 🇸🇬 / Outram Park
 
@@ -613,7 +632,7 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------- |
 | ✔    | ✔     | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM |
 
-## [45. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [46. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Communication
 
@@ -635,25 +654,25 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 
 *   [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 
-## [46. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 
-## [47. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [48. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Community
 
 *   [Slack](https://symfony.com/slack-invite) - Symfony on Slack, platform for team communication.
 
-## [48. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [49. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Glossaries
 
 *   [Lua 5.3 Glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) - A glossary of some essential Lua terms.
 
-## [49. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [50. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Build tools
 

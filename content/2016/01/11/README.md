@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,7 +61,13 @@
 
 *   [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) - Walk through some features and concepts of Elixir by José Valim.
 
-## [3. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### TypeScript Seed Projects / Components
+
+*   [Angular 2 reconnecting websockets quickstart (⭐8)](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
+
+## [4. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 
 ### High level
 
@@ -74,13 +80,13 @@
 
 *   [bonjour (⭐584)](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 
-## [4. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [5. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Mobile Development
 
 *   [mobisplash-cli (⭐65)](https://github.com/SamVerschueren/mobisplash-cli) - Mobile app splash screen generator.
 
-## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
@@ -91,7 +97,7 @@
 *   [Reddit](https://www.reddit.com/r/node)
 *   [Twitter](https://twitter.com/nodejs)
 
-## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### France 🇫🇷 / Paris
 
@@ -118,7 +124,7 @@ Webpage: <http://www.anticafe.eu/beaubourg>
 
 ![](http://www.speedtest.net/result/4987963541.png)
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -136,13 +142,13 @@ Webpage: <http://www.anticafe.eu/beaubourg>
 
 *   [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
 *   [Beets (⭐11k)](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 
-## [9. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [10. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Network
 

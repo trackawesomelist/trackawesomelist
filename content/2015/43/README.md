@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26 - Nov 01, 2015
 
-34 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -421,13 +421,26 @@ Beginning with taking you through essential data mining and management tasks suc
 
 *   [bundle-audit (⭐2.5k)](https://github.com/rubysec/bundler-audit) - bundler-audit is a patch-level verification tool for Bundler which checks for vulnerable versions of gems and insecure gem sources.
 
-## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Experts on Twitter
+
+*   [@pkozlowski\_os](https://twitter.com/pkozlowski_os)
+*   [@teropa](https://twitter.com/teropa)
+*   [@eggheadio](https://twitter.com/eggheadio)
+*   [@cedric\_exbrayat](https://twitter.com/cedric_exbrayat)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
+
+## [32. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
 *   [iponmap (⭐283)](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 
-## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Social / Twitter Influencers
 
@@ -445,13 +458,13 @@ Beginning with taking you through essential data mining and management tasks suc
 
 *   2 million new EBS volumes created per day.<sup>[4](https://www.youtube.com/watch?v=OuyUbvtgfDk)</sup>
 
-## [33. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [34. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [store-utils (⭐91)](https://github.com/jexp/store-utils) - Utilities to compact, copy, fix, analyse Neo4j stores.
 
-## [34. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [35. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Tutorials
 

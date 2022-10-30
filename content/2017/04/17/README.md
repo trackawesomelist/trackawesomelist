@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17, 2017
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -35,7 +35,13 @@
 
 *   .Net/.Net Core: [Npgsql (⭐2.7k)](https://github.com/npgsql/npgsql)
 
-## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Ahead-of-Time Compilation / Components
+
+*   [Multiple solutions for Angular Ahead of Time (AOT) Compilation](https://blog.craftlab.hu/multiple-solutions-for-angular-ahead-of-time-aot-compilation-c474d9a0d508)
+
+## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -47,7 +53,7 @@
 
 *   [imgp (⭐901)](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
@@ -63,13 +69,13 @@
 
 *   [StrTk](http://www.partow.net/programming/strtk/index.html) - A C++ library consisting of high performance string processing routines. \[MIT]
 
-## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Localization
 
 *   [Linguist (⭐189)](https://github.com/keevitaja/linguist) - i18n localization support for Laravel
 
-## [8. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 

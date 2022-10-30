@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2022
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -470,7 +470,25 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [terraform-provider-iterative (⭐257)](https://github.com/iterative/terraform-provider-iterative) - Terraform plugin built with machine learning in mind.
 
-## [44. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [44. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Experts on Twitter
+
+*   [@codewith\_ahsan](https://twitter.com/codewith_ahsan)
+
+### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan)
+
+### Books / Components
+
+*   [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `Packt Publishing`
+
+### Keyboard Mouse / Components
+
+*   [ngx-focus-control (⭐0)](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
+
+## [45. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Interview
 
@@ -481,7 +499,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [Bogdan Bystritskiy](https://www.linkedin.com/in/maxim-eremenko/)
 *   [Big Mountain Studio](https://github.com/bigmountainstudio)
 
-## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [46. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -504,7 +522,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [dkandalov/pomodoro-tm (⭐126)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
 *   [emedinaa/kotlin-mvvm (⭐453)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -539,7 +557,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [kvstore.io](https://www.kvstore.io/) — Key-value storage service. Free tier allows 100 keys, 1KB/key, 100 calls/hour
 *   [resmush.it](https://resmush.it) — reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as Wordpress, Drupal or Magento. reSmush.it is the most used image optimization API with more than 7 billions images already treated, and is still Free of charge.
 
-## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Coding platforms
 
@@ -554,7 +572,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 
 *   [Resolve (⭐28)](https://github.com/GrammaTech/resolve) - A software for AST-based diff calculation, display, and automated resolution. Written in C++ and CL, you'll find Lisp utilities.
 
-## [48. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [49. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
@@ -569,7 +587,7 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 *   [Wagtail Secret Sharing (⭐4)](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 *   [Wagtail Cache Invalidator (⭐3)](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 
-## [49. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [50. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Bundlers
 

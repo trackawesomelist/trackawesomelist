@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,7 +71,13 @@
 
 *   :strawberry: [Upgrade app (extended) (⭐20)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 2.x=>3.x, between 3.x and some 4.x snippets.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Schematics / Components
+
+*   [Threejs (⭐206)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
+
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 19, 2016
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -52,7 +52,23 @@
 *   warmer
 *   more sustain and longer decay
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Documentation tools / Components
+
+*   [Compodoc (⭐3.7k)](https://github.com/compodoc/compodoc) : "The missing documentation tool for your Angular 2 application", integrate well with npm scripts
+
+### TypeScript Seed Projects / Components
+
+*   [famn (⭐27)](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
+
+### Haxe General Resources / Components
+
+*   [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - community
+*   [Haxe and Node.js](https://github.com/PatrickJS/awesome-angular/blob/gh-pages/README.md/matthijskamstra.github.io/haxenode/)
+*   [News And Information For Haxe Developers](https://haxe.io/)
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
@@ -62,19 +78,19 @@
 
 *   [Blackhole (⭐190)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
 
-## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [docfx (⭐3.2k)](https://github.com/dotnet/docfx) - Tools for building and publishing API documentation for .NET projects <http://dotnet.github.io/docfx>
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Coding Style Guides
 
 *   [Fundamental Ruby (⭐432)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
-## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [9. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Programming Languages / Compilers
 
@@ -86,7 +102,7 @@
     *   Uses the [Pyret](https://www.pyret.org/) programming language & [PAPL](http://papl.cs.brown.edu/2014/) book to understand the fundamentals of programming languages.
     *   [Labs](https://www.cs.swarthmore.edu/\~jpolitz/cs91/s15/s_labs.html)
 
-## [9. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/README.md)
+## [10. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/README.md)
 
 ### Books
 
@@ -135,7 +151,7 @@
 
 *   [The case for anonymity online](https://www.ted.com/talks/christopher_m00t_poole_the_case_for_anonymity_online?utm_source=tedcomshare\&utm_medium=referral\&utm_campaign=tedspread) - Christopher "moot" Poole" (Ted Talks) \[Christopher "moot" Poole is founder of 4chan, an online imageboard whose anonymous denizens have spawned the web's most bewildering and influential subculture].
 
-## [10. Awesome R](/content/qinwf/awesome-R/README.md)
+## [11. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Spatial
 
@@ -156,13 +172,13 @@
 
 *   [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) - Learning R as a programming language from basics to advanced topics.
 
-## [11. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [12. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Integrated Development Environment / Web
 
 *   [Sublime 4 AutoHotkey](https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (discontinued)
 
-## [12. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [13. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Software Design
 
