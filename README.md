@@ -18,7 +18,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [1. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+#### [1. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+
+##### Developing for ESLint / Testing Tools
+
+*   [eslint-doc-generator (⭐59)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
+
+#### [2. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+
+##### Apps / Productivity
+
+*   [Dino (⭐1.9k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
+
+#### [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Metascience / Science of Science
+
+*   [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152\&hl=en\&as_sdt=0,5)].
+
+#### [4. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ##### Languages
 
@@ -102,6 +120,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Market Bar (⭐15)](https://github.com/mnndnl/market-bar) - Tiny stocks watcher for the menu bar. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
+##### Music / Text
+
+*   [spicetify-cli (⭐13k)](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
+
 ##### Notes / Text
 
 *   [Boostnote (⭐17k)](https://github.com/BoostIO/BoostNote-Legacy) - Note-taking application made for programmers just like you.  ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
@@ -119,24 +141,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### System / Text
 
 *   [Wireshark](https://gitlab.com/wireshark/wireshark/-/tree/master) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions. ![c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/c-16.png "C language.") !\[c++\_icon]
-
-#### [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
-
-##### Developing for ESLint / Testing Tools
-
-*   [eslint-doc-generator (⭐59)](https://github.com/bmish/eslint-doc-generator) - Generate documentation for your ESLint plugin including a rules table for your readme and header for your rule docs.
-
-#### [3. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
-
-##### Apps / Productivity
-
-*   [Dino (⭐1.9k)](https://github.com/dino/dino) - A modern Jabber/XMPP Client using GTK+/Vala.
-
-#### [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Metascience / Science of Science
-
-*   [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152\&hl=en\&as_sdt=0,5)].
 
 ### [Oct 29, 2022](/content/2022/10/29/README.md)
 
@@ -268,17 +272,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 
-#### [15. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
-
-##### Menubar / Text
-
-*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. ![Swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-
-##### Utilities / Text
-
-*   [Keka (⭐3.3k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-
-#### [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Database
 
@@ -347,6 +341,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Android / Frameworks
 
 *   [Miha-x64/Lychee (⭐113)](https://github.com/Miha-x64/Lychee) - Data binding and persistence infrastructure for building Android and JavaFX UIs and binding them with data
+
+#### [16. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+
+##### Menubar / Text
+
+*   [Monitor Bar (⭐13)](https://github.com/tidiemme/monitorbar) - Monitor Bar app supports three modes, compact, normal, extra. It monitors battery, Disk, Memory, CPU, Network bandwidth, Wi-Fi. ![Swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
+
+##### Utilities / Text
+
+*   [Keka (⭐3.3k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
 ### [Oct 28, 2022](/content/2022/10/28/README.md)
 

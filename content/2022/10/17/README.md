@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -135,24 +135,6 @@
 ### Models and Projects / NumPyro
 
 *   [lqg (⭐10)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
-
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Machine Learning
-
-*   [Probabilistic Machine Learning - An Introduction (⭐3.6k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
-
-### Misc
-
-*   [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
-
-### Open Source Ecosystem
-
-*   [Contributing to opensource: the right way (⭐88)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
-
-### Search Engines
-
-*   [Elasticsearch Certified Engineer notes ](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
 
 ---
 

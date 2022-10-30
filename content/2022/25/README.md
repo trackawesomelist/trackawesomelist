@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 20 - Jun 26, 2022
 
-54 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -340,31 +340,25 @@
 *   [ribbon (⭐0)](https://github.com/pyjamafish/ribbon-prompt) - Reminiscent of powerline. Includes Python `virtualenv` decorator.
 *   [snazzy (⭐0)](https://github.com/Gary-Ash/SnazzyPrompt) - A powerline-style prompt. Includes segments for current working directory, error status of the last command, `git` status information, hostname and username. Requires `libgit2`.
 
-## [36. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Mathematics
-
-*   [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/dl/infdesc.pdf) - Clive Newstead (PDF)
-
-## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [DASH](https://jogabilida.de/category/podcasts/podcast-games/dash/) - Podcast sobre games em que cada episódio explora um game, tema, franquia ou desenvolvedor a fundo, servindo até como um mini-doc em áudio.
 
-## [38. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [37. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 
-## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [38. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Jetpack-Compose
 
 *   [Canopas/Intro-showcase-view (⭐206)](https://github.com/Canopas/Intro-showcase-view) - An android library to highlight different features of the app built using Jetpack Compose.
 
-## [40. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [39. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Business
 
@@ -379,13 +373,13 @@
 *   [Falsehoods about Plain Text](https://jeremyhussell.blogspot.com/2017/11/falsehoods-programmers-believe-about.html#main) - Plain text can't cut it, which makes Unicode even more incredible for its ability to just work well.
 *   [Falsehoods about text](https://wiesmann.codiferes.net/wordpress/archives/30296) - A subset of the falsehoods from above, illustrated with some examples.
 
-## [41. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [40. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Custom Integrations / Alternative Dashboards
 
 *   [The Watchman (⭐149)](https://github.com/dummylabs/thewatchman) - Keep track of missing entities and services in your config files.
 
-## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### RPC
 
@@ -396,7 +390,7 @@
 
 *   [F# Data](https://fsprojects.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
-## [43. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [42. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript / React
 
@@ -405,19 +399,19 @@
 *   [React Native Newsletter](https://reactnativenewsletter.com/). Free occasional summary of React Native news, articles, issues & pull requests, libraries and apps.
 *   [React Native Now](https://reactnativenow.com/). Hand picking the best React Native news, tutorials, libraries, articles, and videos.
 
-## [44. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [43. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS-Bridge / Outline Processor Markup Language
 
 *   [Public Hosts](https://rss-bridge.github.io/rss-bridge/General/Public_Hosts.html) <sup>[576](https://t.me/s/aboutrss/576)</sup>
 
-## [45. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [44. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Follow / Community
 
 *   📹 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - A YouTube channel by Jeff Delaney, a Google Firebase expert and creator of the famous "X in 100 Seconds" videos.
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -435,7 +429,7 @@
 
 *   [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](https://demo.bludit.com/), [Source Code (⭐1k)](https://github.com/bludit/bludit)) `MIT` `PHP`
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### CMS
 
@@ -457,7 +451,7 @@
 
 *   [Poly Pizza](https://poly.pizza/) - Free low poly 3D assets
 
-## [48. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [47. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -473,7 +467,7 @@
 *   [SponsorBlock](https://sponsor.ajay.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ajayyy/SponsorBlock) - Browser extension that allows you to skip YouTube video sponsors.
 *   [Quetre](https://quetre.herokuapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/zyachel/quetre/) - A libre front-end for Quora.
 
-## [49. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [48. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
@@ -487,7 +481,7 @@
 
 *   [Algorand Node UI (⭐22)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
 
-## [50. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -519,7 +513,7 @@
 
 *   [bytecodealliance/wasmtime (⭐10k)](https://github.com/bytecodealliance/wasmtime) — A standalone runtime for WebAssembly [![Build Status](https://github.com/bytecodealliance/wasmtime/workflows/CI/badge.svg)](https://github.com/bytecodealliance/wasmtime/actions?query=workflow%3ACI)
 
-## [51. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [50. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / MaaS
 
@@ -527,7 +521,7 @@
 *   [Huawei Cloud Distributed Message Service for Kafka](https://www.huaweicloud.com/intl/en-us/product/dmskafka.html) - Managed Apache Kafka service.
 *   [Oracle Cloud Streaming](https://www.oracle.com/cloud/cloud-native/streaming/) - A real-time, serverless, Apache Kafka-compatible event streaming platform.
 
-## [52. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [51. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Modal, Toast & Notifications
 
@@ -547,14 +541,14 @@
 
 *   [Umbraco Heartcore and Blazor with Poornima Nayar](https://dotnetcore.show/episode-93-umbraco-heartcore-and-blazor-with-poornima-nayar/) - May 4, 2022 - In this episode we talked with Poornima Nayar about Umbraco Heartcore and where you might use it, Blazor, a little on GraphQL and how it fits very well with mobile apps which communicate with remote APIs. Duration: 59 minutes.
 
-## [53. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [52. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Software / Publishing , Collaboration and Organization
 
 *   [eu-citizen.science](https://eu-citizen.science/) - links to 200 projects
 *   [Zooniverse](https://github.com/zooniverse) - website for zoo & universe projects
 
-## [54. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [53. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 

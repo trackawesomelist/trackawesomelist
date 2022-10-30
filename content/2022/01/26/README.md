@@ -69,7 +69,7 @@
 
 *   [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for unlimited duration.
 *   [scaleway](https://www.scaleway.com/en/object-storage/) — S3-Compatible Object Storage. Free 75 GB storage and external outgoing traffic.
-*   [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 3 Projects, 50 GB storage per project/month , 50 GB bandwidth per project/month.
+*   [Storj](https://storj.io/) — Decentralised Private Cloud Storage for Apps and Developers. Free plan provides 1 Project, 150 GB storage, 150 GB bandwidth per month.
 
 ### Dev Blogging Sites
 

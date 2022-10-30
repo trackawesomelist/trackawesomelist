@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2022
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -158,36 +158,13 @@
 
 *   [Auditing: Active Learning with Outcome-Dependent Query Costs](https://www.cs.bgu.ac.il/\~sabatos/papers/SabatoSarwate13.pdf) - (NIPS) *Learns from a binary classifier paying only for negative labels.*
 
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Blockchain
-
-*   [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar
-
-### Machine Learning
-
-*   [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
-
-### Mathematics
-
-*   [Category Theory for the Sciences](https://math.mit.edu/\~dspivak/CT4S.pdf) - David I. Spivak (PDF)
-*   [Introduction to Probability](https://math.dartmouth.edu/\~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
-
-### Parallel Programming
-
-*   [High Performance Computing Training](https://hpc.llnl.gov/documentation/tutorials) (LLNL materials)
-
-### Security
-
-*   [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
-
-## [16. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [15. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Software as a service:
 
 *   [CiviWiki](https://civi.wiki/) - An open-source, non-profit community, working to develop a democratic engagement web system.
 
-## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
@@ -197,13 +174,13 @@
 
 *   [Yew-Template (⭐14)](https://github.com/INSAgenda/yew-template) - A crate for separating HTML and Rust code when using Yew.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Clipboard Tools
 
 *   [Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1611378436)
 
-## [19. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [18. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 

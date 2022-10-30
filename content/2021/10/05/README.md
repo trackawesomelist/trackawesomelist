@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 05, 2021
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -223,13 +223,7 @@
 
 *   [Context Note (⭐567)](https://github.com/betterRunner/context-note) - A note-taking chrome extension built by Vue3 & Vite.
 
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Compiler Design
-
-*   [Introduction to Compilers and Language Design](https://www3.nd.edu/\~dthain/compilerbook/compilerbook.pdf) - Douglas Thain (PDF)
-
-## [16. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 

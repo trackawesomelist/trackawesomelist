@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18 - Jul 24, 2022
 
-51 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -466,51 +466,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
     *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 *   [Playlist (⭐12)](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 
-## [38. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Misc
-
-*   [Front-End Developer Handbook 2016](https://frontendmasters.com/guides/front-end-handbook/2016/) - Cody Lindley (HTML)
-*   [Front-End Developer Handbook 2017](https://frontendmasters.com/guides/front-end-handbook/2017/) - Cody Lindley (HTML)
-*   [Front-End Developer Handbook 2018](https://frontendmasters.com/guides/front-end-handbook/2018/) - Cody Lindley (HTML)
-*   [Front-End Developer Handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/) - Cody Lindley (HTML)
-
-### Security
-
-*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐4.9k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
-
-### Version Control Systems
-
-*   [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
-*   [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
-*   [Conversational Git](http://blog.anvard.org/conversational-git/) - Alan Hohn
-*   [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
-*   [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/) - Tommi Virtanen
-*   [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
-*   [Git In The Trenches](http://cbx33.github.io/gitt/index.html) - Peter Savage
-*   [Git internals (⭐2.4k)](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
-*   [Git Notes for Professionals](http://goalkicker.com/GitBook) - Compiled from StackOverflow Documentation (PDF)
-*   [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
-*   [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address *requested*, not required)
-*   [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
-*   [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
-*   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
-*   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
-*   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐366)](https://github.com/eonist/How-to-collaborate-on-github) - André J
-*   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-*   [Introduction to Git and Github - Tutorial](http://cse.unl.edu/\~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
-*   [Introduction to Git and GitHub eBook (⭐411)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
-*   [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
-*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
-*   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
-*   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
-*   [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson *(:card\_file\_box: archived)*
-*   [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
-*   [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net) - Sam Livingston-Gray
-*   [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
-
-## [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [38. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -531,19 +487,19 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [Steve Sanderson - Blazor, WASI and optimizing tomatoes](https://www.youtube.com/watch?v=1r3FwkUEte0) - July 17, 2022 - At NDC London we sat down with Steve Sanderson and talked about the origin story of Blazor, some of the upcoming things in .NET 7, and what Steve is working on right now. Duration: 35 minutes.
 *   [WASM Everywhere with Steve Sanderson](https://www.dotnetrocks.com/default.aspx?ShowNum=1801) - July 7, 2022 - WebAssembly is awesome - what else can you do with it? While at NDC London, Carl and Richard talked to Steve Sanderson about his work with WebAssembly, including Blazor. Steve talks about how WebAssembly continues to evolve adding WebAssembly System Integration. This opens the door to the idea that code in the WebAssembly can be run anywhere - any operating system, any language, using whatever compute is available. That gives an option to run code on the client, the server, and anywhere in between. Duration: 55 minutes.
 
-## [40. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [39. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab-tensorboard-pro (⭐22)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
 
-## [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [40. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [vendelieu/telegram-bot (⭐58)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 
-## [42. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [41. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Major Cloud Providers
 
@@ -572,7 +528,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
 
-## [43. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [42. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
@@ -582,7 +538,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [nl\_NL (⭐6)](https://github.com/magento-l10n/language-nl_NL) 🇳🇱 - Dutch Language Package.
 
-## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -605,7 +561,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching for Neovim specific plugins and guides for building plugins in Lua.
 
-## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Changing the syntax
 
@@ -616,7 +572,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Portal (⭐22)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [46. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -715,7 +671,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Lstu (⭐182)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl`
 
-## [47. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [46. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Courses & Books & Blogs
 
@@ -725,13 +681,13 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [KLineChart (⭐1.2k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
 
-## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [47. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Computerarchiv Muenchen](http://computerarchiv-muenchen.de/) - South German Museum for History of Digital Development.
 
-## [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Reading
 
@@ -1207,7 +1163,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [Towards Open World Recognition](https://ieeexplore.ieee.org/document/7298799) - ***CVPR'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=856704237994181529\&hl=en\&as_sdt=0,5)]. The first paper introducing the problem of open-world recognition.
 *   [In the Wild: From ML Models to Pragmatic ML Systems](https://arxiv.org/pdf/2007.02519.pdf) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15243890330014986346\&hl=en\&as_sdt=0,5)]. A comprehensive review on incremental machine learning.
 
-## [50. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [49. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
@@ -1217,7 +1173,7 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 
 *   [Yew HTTP Starter (⭐2)](https://github.com/LeTurt333/yew_http_starter) - Yew template with a simple HTTP message & useful helper comments.
 
-## [51. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 

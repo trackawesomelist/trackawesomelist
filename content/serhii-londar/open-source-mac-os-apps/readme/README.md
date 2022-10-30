@@ -558,6 +558,7 @@ You can see in which language an app is written. Currently there are following l
 *   [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com.  ![swift\_icon][swift_icon]
 *   [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs) - macOS app to visualise your iTunes library as graphs.  ![swift\_icon][swift_icon]
 *   [lyricsify](https://github.com/mamal72/lyricsify-mac) - Simple Spotify lyrics viewer menu bar app for macOS in Swift.  ![swift\_icon][swift_icon]
+*   [spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux. ![javascript\_icon][javascript_icon]
 
 ### News
 

@@ -875,6 +875,7 @@ Free (Open Source)
 
 ### APIs, Data and ML
 
+*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
 *   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.
 
 ### Web Hosting
@@ -974,119 +975,6 @@ Free (Open Source)
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
 ## [74. Public Apis](/content/public-apis/public-apis/week/README.md)
-
-### Development
-
-- API: [Mocky](https://designer.mocky.io/)
-
-  Description: Mock user defined test JSON for REST API endpoints
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [API Grátis](https://apigratis.com.br/)
-
-  Description: Multiples services and public APIs
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Blynk-Cloud](https://blynkapi.docs.apiary.io/#)
-
-  Description: Control IoT Devices from Blynk IoT Cloud
-
-  Auth: `apiKey`
-
-  HTTPS: No
-
-  CORS: Unknown
-
-
-- API: [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html)
-
-  Description: Service to manage your databricks account,clusters, notebooks, jobs and workspaces
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)
-
-  Description: Interact with Docker Hub
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Ghost](https://ghost.org/)
-
-  Description: Get Published content into your Website, App or other embedded media
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Google Docs](https://developers.google.com/docs/api/reference/rest)
-
-  Description: API to read, write, and format Google Docs documents
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
-
-  Description: Online Lua 5.1 Decompiler
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Open Page Rank](https://www.domcop.com/openpagerank/)
-
-  Description: API for calculating and comparing metrics of different websites using Page Rank algorithm
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
-
-  Description: Integrate custom and unique looking QR codes into your system or workflow
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 
 ### Anime
 
@@ -1337,6 +1225,108 @@ Free (Open Source)
 - API: [Economia.Awesome](https://docs.awesomeapi.com.br/api-de-moedas)
 
   Description: Portuguese free currency prices and conversion with no rate limits
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Development
+
+- API: [API Grátis](https://apigratis.com.br/)
+
+  Description: Multiples services and public APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Blynk-Cloud](https://blynkapi.docs.apiary.io/#)
+
+  Description: Control IoT Devices from Blynk IoT Cloud
+
+  Auth: `apiKey`
+
+  HTTPS: No
+
+  CORS: Unknown
+
+
+- API: [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html)
+
+  Description: Service to manage your databricks account,clusters, notebooks, jobs and workspaces
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)
+
+  Description: Interact with Docker Hub
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Ghost](https://ghost.org/)
+
+  Description: Get Published content into your Website, App or other embedded media
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Google Docs](https://developers.google.com/docs/api/reference/rest)
+
+  Description: API to read, write, and format Google Docs documents
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
+
+  Description: Online Lua 5.1 Decompiler
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Open Page Rank](https://www.domcop.com/openpagerank/)
+
+  Description: API for calculating and comparing metrics of different websites using Page Rank algorithm
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
+
+  Description: Integrate custom and unique looking QR codes into your system or workflow
 
   Auth: No
 

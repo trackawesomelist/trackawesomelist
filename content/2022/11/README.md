@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14 - Mar 20, 2022
 
-56 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1187,21 +1187,7 @@
 *   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐6.9k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 *   [yuyuko (⭐0)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐10)](https://github.com/hylwxqwq/yuyuko.vim).
 
-## [49. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Misc
-
-*   [Encyclopedia of Human Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
-
-### Networking
-
-*   [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
-
-### Quantum Computing
-
-*   [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
-
-## [50. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [49. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -1215,7 +1201,7 @@
 
 *   [MONAI (⭐3.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 
-## [51. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [50. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -1229,7 +1215,7 @@
 
 *   [Hathora (⭐475)](https://github.com/hathora/hathora) - Multiplayer game framework.
 
-## [52. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [51. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Introductory / Lecture Videos Playlists
 
@@ -1265,7 +1251,7 @@
 
 *   [Lipton & Regan](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) - A list of theory blogs for computer science.
 
-## [53. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [52. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Official Resources
 
@@ -1284,7 +1270,7 @@
 
 *   [terraform-compliance (⭐1.2k)](https://github.com/terraform-compliance/cli) - BDD Testing for Terraform Files.
 
-## [54. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [53. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### More ways to "Dive into Machine Learning" / Aside: Bayesian Statistics and Machine Learning
 
@@ -1296,7 +1282,7 @@
 *   [Machine Learning for Software Engineers, by Nam Vu (⭐26k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it. It can answer many questions and connect you with great resources.
 *   [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 
-## [55. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [54. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Writing
 
@@ -1334,7 +1320,7 @@
 
 *   [Anca Dragan](https://people.eecs.berkeley.edu/\~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
 
-## [56. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [55. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 

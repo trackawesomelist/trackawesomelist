@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01 - Aug 07, 2022
 
-53 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -325,26 +325,20 @@
 
 *   [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
 
-## [27. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Software Architecture
-
-*   [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
-
-## [28. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
+## [27. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
 ### Libraries / Signals
 
 *   [human-signals (⭐253)](https://github.com/ehmicky/human-signals) - Human-friendly process signals.
 
-## [29. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [28. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Pinkysworn](https://www.drivethrurpg.com/product/405015/Pinkysworn) - Ironcampers swear pinky promises in a summercamp-themed abbreviation of the Ironsworn rules
 *   [Summer Camp Mystery](https://www.drivethrurpg.com/product/404832/Summer-Camp-Mystery) - Family summercamp investigation with simplified rules
 
-## [30. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -354,7 +348,7 @@
 
 *   [bufferapp/android-clean-architecture-mvi-boilerplate (⭐967)](https://github.com/bufferapp/android-clean-architecture-mvi-boilerplate) - A clean architecture boilerplate using android written in Kotlin and using the Model-View-Intent pattern
 
-## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Continuous Integration
 
@@ -384,19 +378,19 @@
 
 *   [sake (⭐562)](https://github.com/alajmo/sake) - sake is a command runner for local and remote hosts.
 
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Code Analysis
 
 *   [excellent\_migrations (⭐86)](https://github.com/Artur-Sulej/excellent_migrations) - Detecting potentially dangerous operations in database migrations.
 
-## [33. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [32. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Network Reconnaissance Tools
 
 *   [ScanCannon (⭐326)](https://github.com/johnnyxmas/ScanCannon) - POSIX-compliant BASH script to quickly enumerate large networks by calling `masscan` to quickly identify open ports and then `nmap` to gain details on the systems/services on those ports.
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 
@@ -408,13 +402,13 @@
 
 *   [DevUtils.app](https://devutils.com/) - All-in-one Toolbox for Developers. Format/Validate JSON, encode/decode Base64, convert timestamps, debug JWT… with just one click! Native macOS app and works offline. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/DevUtilsApp/DevUtils-app) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/devutils-app/id1533756032)
 
-## [35. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Misc
 
 *   [Interval](https://interval.com/) - SDK to build internal tools and scripts for your product.
 
-## [36. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [35. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Username Check / Telegram
 
@@ -424,13 +418,13 @@
 
 *   [Sentence Stack](https://sentencestack.com/) - Sentence search engine with grammar check, translation, and idiom detection.
 
-## [37. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [36. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Google Colaboratory](https://colab.research.google.com) - Cloud-based Jupyter environment aimed at machine learning education and research.  <!--lint disable double-link-->
 
-## [38. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [37. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
@@ -444,31 +438,31 @@
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
-## [39. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [38. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### editors & viewers
 
 *   [img2geojson](https://caseymm.github.io/img2geojson/): digitize images by overlaying on a web map and drawing
 
-## [40. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [39. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
 *   [MathRelay](https://www.mathrelay.com/)
 
-## [41. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [40. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Container Composition
 
 *   [ctk (⭐217)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
-## [42. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [41. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### GUI
 
 *   [capy-ui/capy (⭐528)](https://github.com/capy-ui/capy) - Cross-platform library for making true native GUIs.
 
-## [43. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [42. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -486,7 +480,7 @@
 
 *   [vite-plugin-build (⭐13)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
 
-## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [43. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Third-party APIs
 
@@ -501,13 +495,13 @@
 
 *   [cl-git (⭐51)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
-## [45. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [44. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### ORM
 
 *   [ZORM](https://gitee.com/chunanyong/zorm) - ORM support TDenging by Go.
 
-## [46. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [45. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -528,7 +522,7 @@
 *   [danielparks (⭐0)](https://github.com/danielparks/danielparks-zsh-theme) - Works well on dark backgrounds. Includes decorators for `git` status, user\@host when in an `ssh` session, success/failure of last command, working directory, python virtualenv, execution time of last command and whether running as `root`.
 *   [odra (⭐2)](https://github.com/ErikBenavides/odra.zsh-theme) - Colorful, works well on dark backgrounds. Includes decorators for `git` status, current directory, username and exit status of the last command.
 
-## [47. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [46. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Docker Images for Penetration Testing & Security
 
@@ -538,7 +532,7 @@
 
 *   [Falco](https://falco.org/) - The cloud-native runtime security project and de facto Kubernetes threat detection engine now part of the CNCF.
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -556,13 +550,13 @@
 
 *   [Cronit](https://cronit.app) - Online cronjobs service. Free plan includes 100 job execution per month
 
-## [49. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [D++ (DPP) (⭐514)](https://github.com/brainboxdotcc/DPP) - A lightweight, high performance and scalable C++ library for creating Discord Bots. \[Apache2] [website](https://dpp.dev)
 
-## [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -665,7 +659,7 @@
 
 *   [Instiki](https://golem.ph.utexas.edu/wiki/instiki/show/HomePage) - Instiki is a wiki clone so pretty and easy to set up, you'll wonder if it’s really a wiki. Runs on Rails and focuses on portability and stability. ([Source Code (⭐478)](https://github.com/parasew/instiki)) `Ruby` `Ruby`
 
-## [51. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [50. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Papers
 
@@ -673,7 +667,7 @@
     *   Direct link to the [paper](https://www.cg.tuwien.ac.at/research/publications/2022/unterguggenberger-2022-vulkan/unterguggenberger-2022-vulkan-paper.pdf).
     *   Pre-recorded presentation on [YouTube](https://youtu.be/ZG0ct4V6c0k).
 
-## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [51. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Methodologies for Experiments / Quantitative Analysis
 
@@ -687,7 +681,7 @@
 
 *   [Concepts in a Probabilistic Language of Thought](http://cbmm-dev.mit.edu/sites/default/files/publications/CBMM-Memo-010.pdf) - ***Center for Brains, Minds, and Machines MEMO No.010***, 2014. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14593712389828476130)].
 
-## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 

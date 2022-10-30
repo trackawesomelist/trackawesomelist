@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 18, 2022
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,68 +29,31 @@
     *   [MlKit Language (⭐2)](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 
-## [4. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Security
-
-*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐4.9k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
-
-### Version Control Systems
-
-*   [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
-*   [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
-*   [Conversational Git](http://blog.anvard.org/conversational-git/) - Alan Hohn
-*   [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
-*   [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/) - Tommi Virtanen
-*   [Git From The Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - J. Wiegley
-*   [Git In The Trenches](http://cbx33.github.io/gitt/index.html) - Peter Savage
-*   [Git internals (⭐2.4k)](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
-*   [Git Notes for Professionals](http://goalkicker.com/GitBook) - Compiled from StackOverflow Documentation (PDF)
-*   [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
-*   [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address *requested*, not required)
-*   [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
-*   [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
-*   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
-*   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
-*   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐366)](https://github.com/eonist/How-to-collaborate-on-github) - André J
-*   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-*   [Introduction to Git and Github - Tutorial](http://cse.unl.edu/\~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
-*   [Introduction to Git and GitHub eBook (⭐411)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
-*   [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
-*   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
-*   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
-*   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
-*   [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson *(:card\_file\_box: archived)*
-*   [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
-*   [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net) - Sam Livingston-Gray
-*   [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
-
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
 *   [Securing SPAs and Blazor Applications using the BFF Pattern](https://www.youtube.com/watch?v=xzRhabmlc8M) - ![duration](https://img.shields.io/badge/Duration:%20-57%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 29, 2022 - Securing SPAs and Blazor Applications using the BFF (Backend for Frontend) Pattern at the NDC Porto, by Dominick Baier.
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### JupyterLab Extensions
 
 *   [jupyterlab-tensorboard-pro (⭐22)](https://github.com/HFAiLab/jupyterlab_tensorboard_pro) - TensorBoard support for JupyterLab.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [vendelieu/telegram-bot (⭐58)](https://github.com/vendelieu/telegram-bot) - A lightweight, feature-rich wrapper for the Telegram Bot API
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IaaS
 
 *   [Idrive e2](https://www.idrive.com/e2/) - S3 compatibility object storage. 10 GB free storage and 10 GB download bandwidth per month.
 
-## [9. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [8. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Tools
 
@@ -100,13 +63,13 @@
 
 *   [nl\_NL (⭐6)](https://github.com/magento-l10n/language-nl_NL) 🇳🇱 - Dutch Language Package.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [meliora-theme/neovim (⭐31)](https://github.com/meliora-theme/neovim) - Warm and cozy theme for Neovim.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Changing the syntax
 
@@ -117,7 +80,7 @@
 
 *   [Portal (⭐22)](https://github.com/charJe/portal) - Portable websockets for Common Lisp, using usocket. [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -214,7 +177,7 @@
 
 *   [Lstu (⭐182)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl`
 
-## [13. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [12. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### Courses & Books & Blogs
 
@@ -224,26 +187,26 @@
 
 *   [KLineChart (⭐1.2k)](https://github.com/liihuu/KLineChart) - Highly customizable professional lightweight financial charts
 
-## [14. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [13. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [Computerarchiv Muenchen](http://computerarchiv-muenchen.de/) - South German Museum for History of Digital Development.
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Knowledge Management
 
 *   [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
 *   [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336\&hl=en\&as_sdt=0,5)].
 
-## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Templates
 
 *   [Yew HTTP Starter (⭐2)](https://github.com/LeTurt333/yew_http_starter) - Yew template with a simple HTTP message & useful helper comments.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Audio and Video Tools / File Sharing
 

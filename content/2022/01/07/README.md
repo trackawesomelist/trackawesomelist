@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07, 2022
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -82,13 +82,7 @@
 
 *   [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
 
-## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Software Architecture
-
-*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
-
-## [9. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Angular UI libraries:
 
@@ -98,31 +92,31 @@
 
 
 
-## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [9. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Books
 
 *   [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/) \[Sample chapter titled [CPUs](http://ptgmedia.pearsoncmg.com/images/9780133390094/samplepages/0133390098.pdf)
 
-## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [10. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [consoleau/kassava (⭐102)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
 
-## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [11. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Overlays / Webinterface
 
 *   [nixpkgs-firefox-darwin (⭐5)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
-## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Community / Projects
 
 *   [Algocurator](https://www.algocurator.com/home) - The Biggest Unofficial One-Stop Hub for Algorand.
 
-## [14. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
+## [13. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
 ### Projects
 
@@ -184,7 +178,7 @@
 *   [Awesome Open Electronics (⭐370)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐57)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
 
-## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards
 
@@ -201,7 +195,7 @@
 *   [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
 *   [Working Nomads](https://www.workingnomads.co/jobs)
 
-## [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [15. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 

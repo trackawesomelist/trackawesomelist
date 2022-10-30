@@ -23,13 +23,7 @@
 
 *   [Game Boy home of Flavor](https://web.archive.org/web/20210427064949/www.personal.triticom.com/\~erm/GameBoy/) - Some full games and sources.
 
-## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Networking
-
-*   [Securing Wireless Networks for the Home User Guide](https://mohamedation.github.io/securing-wifi/index-en.html) - Mohamed Adel (HTML)
-
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Audio Streaming
 
@@ -43,7 +37,7 @@
 
 *   [DeepfakeHTTP (⭐432)](https://github.com/xnbox/DeepfakeHTTP) - A web server that uses HTTP dumps as a source for responses. `MIT` `Java`
 
-## [5. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
@@ -53,11 +47,17 @@
 
 *   [NeuroElectro](https://neuroelectro.org/) - Searchable database of neurons and their electrophysiological properties (extracted from literature)
 
-## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [5. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Installation
 
 *   [Running locally](https://nodered.org/docs/getting-started/local)
+
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data and ML
+
+*   [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. Free tier of 1000 API calls.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -79,31 +79,6 @@
 *   [TaskoMask (⭐448)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
-
-### Development
-
-- API: [ZenRows](https://www.zenrows.com/)
-
-  Description: Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Blague.xyz](https://blague.xyz/)
-
-  Description: La plus grande API de Blagues FR/The biggest FR jokes API
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
 
 ### Art & Design
 
@@ -213,6 +188,20 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+
+
+### Development
+
+- API: [Blague.xyz](https://blague.xyz/)
+
+  Description: La plus grande API de Blagues FR/The biggest FR jokes API
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 

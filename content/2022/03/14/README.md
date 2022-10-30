@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2022
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -206,13 +206,7 @@
 
 *   [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Misc
-
-*   [Encyclopedia of Human Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
-
-## [11. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [10. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / EHR
 
@@ -226,13 +220,13 @@
 
 *   [MONAI (⭐3.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
 *   [vite-boot (⭐50)](https://github.com/kirklin/vite-boot) - Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + VueUse Template.
 
-## [13. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [12. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Introductory / Lecture Videos Playlists
 
@@ -242,7 +236,7 @@
 
 *   [Lipton & Regan](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) - A list of theory blogs for computer science.
 
-## [14. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [13. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Official Resources
 
@@ -261,7 +255,7 @@
 
 *   [terraform-compliance (⭐1.2k)](https://github.com/terraform-compliance/cli) - BDD Testing for Terraform Files.
 
-## [15. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [14. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### More ways to "Dive into Machine Learning" / Aside: Bayesian Statistics and Machine Learning
 
@@ -273,13 +267,13 @@
 *   [Machine Learning for Software Engineers, by Nam Vu (⭐26k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it. It can answer many questions and connect you with great resources.
 *   [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 
-## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Methodologies for Experiments / Human-Machine Comparison
 
 *   [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***Nature Neuroscience***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593\&hl=en\&as_sdt=0,5)].
 
-## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
