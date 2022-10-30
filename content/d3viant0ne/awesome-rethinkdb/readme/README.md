@@ -2,7 +2,7 @@
 
 A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/d3viant0ne/awesome-rethinkdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 d3viant0ne/awesome-rethinkdb](https://github.com/d3viant0ne/awesome-rethinkdb) · ⭐ 108 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/d3viant0ne/awesome-rethinkdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 d3viant0ne/awesome-rethinkdb](https://github.com/d3viant0ne/awesome-rethinkdb) · ⭐ 109 · 🏷️ Databases
 
 [ [Daily](/content/d3viant0ne/awesome-rethinkdb/README.md) / [Weekly](/content/d3viant0ne/awesome-rethinkdb/week/README.md) / Overview ]
 

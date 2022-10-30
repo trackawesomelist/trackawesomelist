@@ -6,13 +6,19 @@
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [1. Awesome Security](/content/sbilly/awesome-security/README.md)
+
+### Endpoint / Configuration Management
+
+*   [Fleet device management (⭐953)](https://github.com/fleetdm/fleet) - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Causality / Literature Visualization
 
 *   [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***Journal of Experimental Psychology***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939\&hl=en\&as_sdt=0,5)]. Experimental evidences for distincting causality and association.
 
-## [2. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Middlewares
 
@@ -22,17 +28,11 @@
 
 *   [MQTT X](https://mqttx.app/) - MQTT X is a cross-platform MQTT 5.0 client tool open sourced by EMQ, which supports macOS, Linux, and Windows.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [vector.express](https://vector.express) — Convert your AI, CDR, DWG, DXF, EPS, HPGL, PDF, PLT, PS and SVG vector fast and easily.
-
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
-
-### DevOps Tools / Libraries for creating HTTP middlewares
-
-*   [Fleet device management (⭐953)](https://github.com/fleetdm/fleet) - Lightweight, programmable telemetry for servers and workstations.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

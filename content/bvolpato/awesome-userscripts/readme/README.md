@@ -2,7 +2,7 @@
 
 📖  A curated list of Awesome Userscripts.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) · ⭐ 945 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bvolpato/awesome-userscripts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bvolpato/awesome-userscripts](https://github.com/bvolpato/awesome-userscripts) · ⭐ 950 · 🏷️ Miscellaneous
 
 [ [Daily](/content/bvolpato/awesome-userscripts/README.md) / [Weekly](/content/bvolpato/awesome-userscripts/week/README.md) / Overview ]
 

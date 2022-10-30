@@ -2,7 +2,7 @@
 
 A list of web-based interactive biological data visualizations.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/keller-mark/awesome-biological-visualizations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 keller-mark/awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations) · ⭐ 97 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/keller-mark/awesome-biological-visualizations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 keller-mark/awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations) · ⭐ 99 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/keller-mark/awesome-biological-visualizations/week/README.md) / [Overview](/content/keller-mark/awesome-biological-visualizations/readme/README.md) ]
 

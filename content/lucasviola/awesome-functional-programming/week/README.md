@@ -2,7 +2,7 @@
 
 :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 821 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 825 · 🏷️ Computer Science
 
 [ [Daily](/content/lucasviola/awesome-functional-programming/README.md) / Weekly / [Overview](/content/lucasviola/awesome-functional-programming/readme/README.md) ]
 

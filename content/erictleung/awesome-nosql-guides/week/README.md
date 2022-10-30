@@ -2,7 +2,7 @@
 
 :computer: Curated list of awesome resources and links about using NoSQL databases
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/erictleung/awesome-nosql-guides/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 erictleung/awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides) · ⭐ 183 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/erictleung/awesome-nosql-guides/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 erictleung/awesome-nosql-guides](https://github.com/erictleung/awesome-nosql-guides) · ⭐ 184 · 🏷️ Databases
 
 [ [Daily](/content/erictleung/awesome-nosql-guides/README.md) / Weekly / [Overview](/content/erictleung/awesome-nosql-guides/readme/README.md) ]
 

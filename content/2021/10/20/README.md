@@ -28,7 +28,7 @@
 
 ### validation
 
-*   [check-geojson](https://github.com/placemark/check-geojson): alternative to geojsonhint
+*   [check-geojson (⭐40)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

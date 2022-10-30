@@ -102,11 +102,11 @@
 
 *   [Aim](https://aimstack.io) - Aim is an open source experiment tracking tool.
 
-## [9. Awesome React](/content/enaqx/awesome-react/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### React Tools / React Awesome Components
+### Components & Libraries / UI Components
 
-*   [swiper (⭐33k)](https://github.com/nolimits4web/swiper) - modern mobile touch slider
+*   [swiper (⭐33k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Esri/awesome-arcgis-developers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Esri/awesome-arcgis-developers](https://github.com/Esri/awesome-arcgis-developers) · ⭐ 99 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Esri/awesome-arcgis-developers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Esri/awesome-arcgis-developers](https://github.com/Esri/awesome-arcgis-developers) · ⭐ 101 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/Esri/awesome-arcgis-developers/week/README.md) / [Overview](/content/Esri/awesome-arcgis-developers/readme/README.md) ]
 
@@ -10,8 +10,8 @@ A curated list of resources to help you with ArcGIS development, APIs, SDKs, too
 
 ### APIs and SDKs
 
-*   [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
-*   [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
+*   [ArcGIS CityEngine SDKs (C++) (⭐181)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation and examples for the Procedural Runtime (PRT).
+*   [ArcGIS CityEngine SDKs (Python) (⭐46)](https://github.com/Esri/pyprt) - Python bindings for the "Procedural Runtime" (PRT) of CityEngine.
 *   [MapLibre GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with MapLibre and ArcGIS location services.
 
 ### Code samples and snippets

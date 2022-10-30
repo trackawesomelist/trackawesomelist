@@ -2,7 +2,7 @@
 
 A curated list of packages and resources for WP-CLI, the command-line interface for WordPress.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/schlessera/awesome-wp-cli/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) · ⭐ 157 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/schlessera/awesome-wp-cli/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 schlessera/awesome-wp-cli](https://github.com/schlessera/awesome-wp-cli) · ⭐ 159 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/schlessera/awesome-wp-cli/week/README.md) / [Overview](/content/schlessera/awesome-wp-cli/readme/README.md) ]
 

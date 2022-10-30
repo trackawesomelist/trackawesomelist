@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20 - Jul 26, 2020
 
-61 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -448,25 +448,19 @@ git switch -c <branch-name>
 
 *   [terraformer (⭐8.8k)](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
 
-## [32. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
-
-### Network Tools / Intentionally Vulnerable Systems as Docker Containers
-
-*   [Tsunami (⭐7.7k)](https://github.com/google/tsunami-security-scanner) - General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-
-## [33. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [32. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Publishing and Doing Research / Other
 
 *   [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis) - An online tool for gaining access to scientific articles that are normally beyond paywalls.
 
-## [34. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
 *   [Top 30 Core Java Interview Questions](https://www.janbasktraining.com/blog/core-java-interview-questions-answers/)
 
-## [35. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [34. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Papers
 
@@ -575,13 +569,13 @@ git switch -c <branch-name>
 
 *   [awesome-quant (⭐11k)](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
 
-## [36. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [35. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Frameworks :art: / Editor's Draft :black_nib:
 
 *   [Numl](https://numl.design) - An HTML-based language and design system that lets you create responsive and accessible high-quality web interfaces with any look.
 
-## [37. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [36. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
@@ -592,13 +586,13 @@ git switch -c <branch-name>
 *   [django-csp (⭐440)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
 *   [django-feature-policy (⭐73)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 
-## [38. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
+## [37. Awesome Network Js](/content/Kikobeats/awesome-network-js/week/README.md)
 
 ### Modules
 
 *   [mutex-server (⭐22)](https://github.com/samchon/mutex-server) - Critical section controllers, like mutex and semaphore, in the network level.
 
-## [39. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Back-end API / Playground
 
@@ -611,7 +605,7 @@ git switch -c <branch-name>
     *   :octocat: [TGrid (⭐91)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
     *   :octocat: [Mutex-Server (⭐22)](https://github.com/samchon/mutex-server) - Critical sections controller, like mutex and semaphore, in the network level.
 
-## [40. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [39. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Operating systems / Build system (ROS2)
 
@@ -619,13 +613,13 @@ git switch -c <branch-name>
 *   [Ubuntu Server](https://ubuntu.com/server)
 *   [Zephyr](https://www.zephyrproject.org/) - Linux Foundation Projects RTOS aiming at beeing secure and safe.
 
-## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Seeds / Navigation Demos
 
 *   [RNStarter (⭐30)](https://github.com/i-mighty/RNStarter) - ✨ A React Native Starter with 10+ commonly used libraries ✨
 
-## [42. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [41. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs and training materials / Community Chat Rooms
 
@@ -649,7 +643,7 @@ git switch -c <branch-name>
 *   [intermezzOS](http://intermezzos.github.io) A small teaching operating system in Rust. A book with some explanations is also included.
 *   [Fearless concurrency](http://blog.japaric.io/fearless-concurrency/) by @japaric — How to easily develop Rust programs for pretty much any ARM Cortex-M microcontroller with memory-safe concurrency.
 
-## [43. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [42. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
@@ -664,13 +658,13 @@ git switch -c <branch-name>
 *   [mo (⭐31)](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter and also for delightful reading experience.
 *   [summary-chart (⭐7)](https://github.com/davidjbradshaw/eslint-formatter-summary-chart) - Format ESLint output into a bar chart.
 
-## [44. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [43. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Logging
 
 *   [structlog](https://www.structlog.org/en/stable/) - Structured logging made easy.
 
-## [45. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [44. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Trackers / Public Trackers
 
@@ -680,7 +674,7 @@ git switch -c <branch-name>
 
 *   [How to use eMule in 2018](https://archive.is/j1T6o) An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 
-## [46. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [45. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -690,7 +684,7 @@ git switch -c <branch-name>
 
 *   [Heroku Playwright Example (⭐18)](https://github.com/mxschmitt/heroku-playwright-example) - Example using Playwright on Heroku.
 
-## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community / Interfaces to other package managers
 
@@ -706,7 +700,7 @@ git switch -c <branch-name>
 *   ⭐ [log4cl (⭐61)](https://github.com/sharplispers/log4cl/) - Logging framework modelled after Log4J. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0). Advanced integration with Slime.
     *   [log4cl-json (⭐2)](https://github.com/40ants/log4cl-json) - JSON appender extension. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [48. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [47. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Real World / Component Libraries
 
@@ -720,19 +714,19 @@ git switch -c <branch-name>
 
 *   [reactify-wc (⭐147)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
 
-## [49. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [48. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Competitions
 
 *   [First Lego League](https://www.firstlegoleague.org/)
 
-## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 
 *   [version\_tools (⭐8)](https://github.com/anicholson/crystal-version-tools) - Version-dependent behaviour, specified at compile-time
 
-## [51. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [50. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Molecular Descriptors
 
@@ -742,7 +736,7 @@ git switch -c <branch-name>
 
 *   [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 
-## [52. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [51. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Haskell SDK
 
@@ -764,7 +758,12 @@ git switch -c <branch-name>
 
 *   [Analyzing Big Data](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html)
 
-## [53. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [52. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+
+### Security monitoring / Network Security Monitoring (NSM)
+
+*   [Tsunami (⭐7.7k)](https://github.com/google/tsunami-security-scanner) - General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
+*   [Respounder (⭐289)](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
 
 ### Cloud platform security / Security Orchestration, Automation, and Response (SOAR)
 
@@ -777,11 +776,7 @@ git switch -c <branch-name>
 *   [Vault](https://www.vaultproject.io/) - Tool for securely accessing secrets such as API keys, passwords, or certificates through a unified interface.
 *   [git-crypt](https://www.agwa.name/projects/git-crypt/) - Transparent file encryption in git; files which you choose to protect are encrypted when committed, and decrypted when checked out.
 
-### Security monitoring / Network Security Monitoring (NSM)
-
-*   [Respounder (⭐289)](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
-
-## [54. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [53. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Mac
 
@@ -791,7 +786,7 @@ git switch -c <branch-name>
 
 *   [Parsify Desktop](https://parsify.app) - Extendable calculator for the 21st Century.
 
-## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -807,25 +802,25 @@ git switch -c <branch-name>
 
 *   [vue-ics (⭐15)](https://github.com/evildvl/vue-ics) - Vue.js plugin for generating ICalendar (.ics) files.
 
-## [56. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [55. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
 
-## [57. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [56. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
 *   [Ploomber (⭐2.7k)](https://github.com/ploomber/ploomber) - Run a collection of notebooks and scripts in a reproducible manner using a `pipeline.yaml` file.
 
-## [58. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [57. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
 *   [gleek.io](https://www.gleek.io) — Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyword.
 
-## [59. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [58. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Cloud
 
@@ -843,7 +838,7 @@ git switch -c <branch-name>
 
 *   [EventHorizon Blazor TypeScript Interop Generator (⭐104)](https://github.com/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator) - ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.TypeScript.Interop.Generator?style=flat-square\&cacheSeconds=86400) This project takes in a TypeScript type definition file and creates a .NET Core project that will work with the provided Interop abstraction project.
 
-## [60. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [59. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -882,7 +877,7 @@ git switch -c <branch-name>
 
 *   [waymo-open-dataset (⭐2k)](https://github.com/waymo-research/waymo-open-dataset) - The Waymo Open Dataset is comprised of high-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.
 
-## [61. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [60. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Casual
 

@@ -2,7 +2,7 @@
 
 A curated list of tech internships resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lodthe/awesome-internships/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lodthe/awesome-internships](https://github.com/lodthe/awesome-internships) · ⭐ 220 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lodthe/awesome-internships/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lodthe/awesome-internships](https://github.com/lodthe/awesome-internships) · ⭐ 227 · 🏷️ Work
 
 [ [Daily](/content/lodthe/awesome-internships/README.md) / [Weekly](/content/lodthe/awesome-internships/week/README.md) / Overview ]
 

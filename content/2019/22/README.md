@@ -227,11 +227,6 @@
 
 ## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Tools / React Awesome Components
-
-*   [react-i18next (⭐7.8k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
-*   [Awesome React Components list (⭐33k)](https://github.com/brillout/awesome-react-components)
-
 ### React General Resources
 
 *   [React Official Website](https://reactjs.org/)
@@ -275,6 +270,10 @@
 *   [Reconciliation](https://reactjs.org/docs/reconciliation.html)
 *   [React Fiber Architecture (⭐9.7k)](https://github.com/acdlite/react-fiber-architecture)
 *   [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
+
+### React Tools / React Awesome Components
+
+*   [Awesome React Components list (⭐33k)](https://github.com/brillout/awesome-react-components)
 
 ### React Tools / React Testing
 
@@ -639,6 +638,12 @@
 *   [Repo for C :fire::fire::fire: (⭐856)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 
 ## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### i18n / Mouse Events
+
+*   [react-i18next (⭐7.8k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
+*   [react-intl (⭐13k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
+*   [react-translate-maker (⭐34)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 
 ### Editable data grid / spreadsheet
 
@@ -1082,11 +1087,6 @@
 *   [react-media (⭐2.4k)](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
 *   [react-middle-ellipsis (⭐49)](https://github.com/bluepeter/react-middle-ellipsis) - [demo](https://bluepeter.github.io/react-middle-ellipsis/) - Truncate long strings in the middle instead of the end.
 *   [react-translate-component (⭐324)](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
-
-### i18n / Mouse Events
-
-*   [react-intl (⭐13k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
-*   [react-translate-maker (⭐34)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 
 ### Framework bindings / integrations / Mouse Events
 

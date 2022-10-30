@@ -57,45 +57,40 @@
 
 ### Cloud platform security / Kubernetes
 
+*   [kube-hunter](https://kube-hunter.aquasec.com/) - Open-source tool that runs a set of tests ("hunters") for security issues in Kubernetes clusters from either outside ("attacker's view") or inside a cluster.
 *   [KubeSec](https://kubesec.io/) - Static analyzer of Kubernetes manifests that can be run locally, as a Kuberenetes admission controller, or as its own cloud service.
 *   [Managed Kubernetes Inspection Tool (MKIT) (⭐389)](https://github.com/darkbitio/mkit) - Query and validate several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.
 *   [Polaris](https://polaris.docs.fairwinds.com/) - Validates Kubernetes best practices by running tests against code commits, a Kubernetes admission request, or live resources already running in a cluster.
 
-## [7. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+### Threat intelligence / Threat hunting
 
-### Network Vulnerability Scanners / Wireless Network Tools
+*   [Open Source Vulnerabilities (OSV)](https://osv.dev/) - Vulnerability database and triage infrastructure for open source projects aimed at helping both open source maintainers and consumers of open source.
 
-*   [kube-hunter](https://kube-hunter.aquasec.com/) - Open-source tool that runs a set of tests ("hunters") for security issues in Kubernetes clusters from either outside ("attacker's view") or inside a cluster.
-
-### Vulnerability Databases / Social Engineering Tools
-
-*   [Open Source Vulnerabilities (OSV)](https://osv.dev/) - Database of vulnerabilities affecting open source software, queryable by project, Git commit, or version.
-
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Lidar and Point Cloud Processing
 
 *   [cuda-pcl (⭐257)](https://github.com/NVIDIA-AI-IOT/cuda-pcl) - Accelerating Lidar for Robotics with NVIDIA CUDA-based PCL.
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Misc
 
 *   [Pinecone](https://www.pinecone.io/) - Vector database for applications that require real-time, scalable vector embedding and similarity search.
 
-## [10. Tools](/content/lvwzhen/tools/week/README.md)
+## [9. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### CheetSheet
 
 *   [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [10. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
 *   [decense (⭐6)](https://github.com/vinliao/decense) - Generate a license with one `deno run` command.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Tools & Utilities / Others
 
@@ -105,26 +100,26 @@
 
 *   [Blazor Power Hour: FAQ show #1](https://www.twitch.tv/videos/899338170) - ![duration](https://img.shields.io/badge/Duration:%20-53%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=twitch) February 3, 2021 - Blazor Power Hour: FAQ show 1, with ed Charbeneau.
 
-## [13. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [12. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Table
 
 *   [svelte-simple-datatables (⭐208)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 
-## [14. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [13. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### cm Cameroon / Misc
 
 *   Twitter [Flutter Cameroon](https://twitter.com/fluttercm)
 *   Telegram [Flutter & Dart Community CM](https://t.me/fluttercameroon)
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Tools / Collection View Layout
 
 *   [Xcodes.app (⭐4.2k)](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode.
 
-## [16. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [15. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Awesome Lists
 
@@ -137,13 +132,13 @@
 *   [Awesome ImageHarmonization (⭐14)](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
 *   [Awsome GAN Training (⭐12)](https://github.com/subeeshvasu/Awsome-GAN-Training)
 
-## [17. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Swift / Angular
 
 *   [Indie iOS Focus Weekly](https://indieiosfocus.com). Best iOS development, marketing, Swift, design, and Xcode links.
 
-## [18. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [17. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulator Development / Misc
 
@@ -153,7 +148,7 @@
 
 *   [GBVideoPlayer2 (⭐68)](https://github.com/LIJI32/GBVideoPlayer2) - The second iteration of the above demo, which increases the resolution, adds *stereo- PCM audio, and introduces video compression*.
 
-## [19. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [18. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
@@ -163,13 +158,13 @@
 
 *   [Autocode](https://autocode.com) - New user notifications. Purchase alerts. Scheduled jobs. SQL queries.
 
-## [20. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [19. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Strategy
 
 *   "There are two ways to make money. You can bundle, or you can unbundle." - [Jim Barksdale](https://hbr.org/podcast/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money.html#transcript-section).
 
-## [21. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [20. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Data formats / Mesh tools
 
@@ -189,19 +184,19 @@
 *   [pyGAM](https://pygam.readthedocs.io/en/latest/) - Generalized Additive Models in Python.
     (Python, Apache 2.0, [GitHub (⭐731)](https://github.com/dswah/pyGAM))
 
-## [22. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [21. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Task Queues
 
 *   [dramatiq (⭐3.3k)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 
-## [23. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
+## [22. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
 ### Emulators/interpreters / Testing
 
 *   [LowResNX](https://lowresnx.inutilis.com/topic.php?id=1648) - CHIP-8 interpreter and debugger programmed in BASIC inside another retro fantasy console.
 
-## [24. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [23. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### No longer maintained / Talks
 
@@ -209,7 +204,7 @@
 *   [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
 *   [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves. ([Wayback Machine archive](http://web.archive.org/web/20190111233537/http://artnotads.org/))
 
-## [25. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [24. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Austria
 
@@ -235,19 +230,19 @@
 *   [arCHeco](https://www.archeco.info/) - Index of economic collections in archives of Switzerland and Liechtenstein.
 *   [Kartenportal](http://www.kartenportal.ch/) - Search engine for maps.
 
-## [26. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [25. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
 *   [django-related-admin (⭐59)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
 
-## [27. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Testing / Official resources
 
 *   [stb-tester (⭐165)](https://github.com/stb-tester/stb-tester) - Automated User Interface Testing for Set-Top Boxes & Smart TVs (python).
 
-## [28. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [27. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
@@ -261,7 +256,7 @@
 
 *   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐280)](https://github.com/kachkaev/njt), thanks to Now integration.
 
-## [29. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [28. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
@@ -283,13 +278,13 @@
 *   [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-plugin)
 *   [`@GatlingTool` on Twitter](https://twitter.com/gatlingtool)
 
-## [30. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [29. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Evaluation
 
 *   [GEM](https://gem-benchmark.com/) - a benchmark environment for NLG with a focus on its Evaluation, both through human annotations and automated Metrics.
 
-## [31. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [30. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 
@@ -297,13 +292,13 @@
 *   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐229)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
 *   [Evolving Neural Networks in JAX by Robert Tjarko Lange](https://roberttlange.github.io/posts/2021/02/cma-es-jax/) - Explores how JAX can power the next generation of scalable neuroevolution algorithms.
 
-## [32. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [31. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated) 🛍
 
 *   [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 
-## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### [znap](https://github.com/marlonrichert/zsh-snap)
 
@@ -316,7 +311,7 @@
 *   330+ git aliases
 *   2.8k line README.md
 
-## [34. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [33. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
@@ -331,7 +326,7 @@
 *   [HTML (⭐76)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 *   [TOML (⭐10)](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
 
-## [35. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [34. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
@@ -346,25 +341,25 @@
 
 *   [RetroPie Godot Game Engine "Emulator" (⭐68)](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 
-## [36. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [35. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [PICO-8 font](https://www.lexaloffle.com/bbs/?tid=3760) - by [RhythmLynx](https://www.lexaloffle.com/bbs/?uid=11704).
 
-## [37. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [36. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Utilities
 
 *   [Contextual logging (⭐17)](https://github.com/reactiverse/reactiverse-contextual-logging) - Mapped Diagnostic Context (MDC) that works with the Vert.x event-loop model.
 
-## [38. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
+## [37. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
 
 ### Tools & Services / Keywords
 
 *   [SEOwl](https://www.seowl.co) - Track your keyword rankings overtime and monitor your backlinks
 
-## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -375,32 +370,32 @@
 *   [ImageStore (⭐620)](https://github.com/gregordr/ImageStore) - Self-hosted Google Photos alternative, with a very similar UI. ([Demo](https://gregordr.github.io/ImageStore/)) `Apache-2.0` `Nodejs/Docker`
 *   [LibrePhotos (⭐4.7k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
-## [40. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [39. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Data structures / Windows
 
 *   [What is Data Structure? | Top 40 Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
-## [41. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [40. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
 *   [Cirrus dataset](https://developer.volvocars.com/open-datasets/cirrus/) A public datatset from non-uniform distribution of LIDAR scanning patterns with emphasis on long range. In this dataset Luminar Hydra LIDAR is used. The dataset is available at the Volvo Cars Innovation Portal.
     *   [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 
-## [42. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
+## [41. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
 
 ### Concepts / Lab Data (Synthetic Measurements)
 
 *   [AwesomeTechStack](https://awesometechstack.com/) - Website awesomeness monitoring Tool.
 
-## [43. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [42. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### TypeScript Seed Projects / Components
 
 *   [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 😍 A complete Angular 10, NgRx, Angular CLI & Angular Material starter project
 
-## [44. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [43. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Engineering
 
@@ -1012,14 +1007,14 @@ Language: English, español, português, français, Deutsch, русский \ <b
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba` \
 Language: English \ <br>
 
-## [45. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Task scheduling
 
 *   [delay-timer (⭐250)](https://github.com/BinChengZhao/delay-timer) — Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible.
     [![Build](https://github.com/BinChengZhao/delay-timer/actions/workflows/rust.yml/badge.svg)](https://github.com/BinChengZhao/delay-timer/actions)
 
-## [46. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [45. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -1045,13 +1040,13 @@ Language: English \ <br>
 *   [windwp/nvim-autopairs (⭐1.4k)](https://github.com/windwp/nvim-autopairs) - A minimalist autopairs for Neovim written by Lua.
 *   [monaqa/dial.nvim (⭐357)](https://github.com/monaqa/dial.nvim) - Extended increment/decrement.
 
-## [47. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [46. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Shopping
 
 *   [Yumniastic Food Shop App (⭐18)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 
-## [48. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [47. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Rust / Scala
 
@@ -1070,13 +1065,13 @@ Language: English \ <br>
 
 *   [Bond (⭐2.5k)](https://github.com/microsoft/bond/) - Cross-platform framework for working with schematized data, broadly used at Microsoft in high scale services.
 
-## [49. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [48. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Documentation / Symfony2
 
 *   [Optic (⭐1k)](https://github.com/opticdev/optic) - Maintain an accurate API specification without writing OpenAPI/Swagger. Works with any Stack
 
-## [50. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [49. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Business Intelligence
 
@@ -1086,13 +1081,13 @@ Language: English \ <br>
 
 *   [Google Bigtable (⭐37)](https://github.com/zrosenbauer/awesome-bigtable).
 
-## [51. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [50. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
 *   [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
-## [52. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [51. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### 3D
 
@@ -1102,17 +1097,13 @@ Language: English \ <br>
 
 *   [input (⭐2)](https://github.com/xiejiangzhi/input) -  Simple and powerful input library. support check operation time, sequence.
 
-## [53. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Tools / React Development Tools
-
-*   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
+## [52. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Native Sample Apps / Charts
 
 *   [Bus Timetable (⭐67)](https://github.com/EarlGeorge/timetable)
 
-## [54. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
@@ -1126,11 +1117,17 @@ Language: English \ <br>
 
 *   [iSSR (⭐88)](https://github.com/AlexSergey/issr) - The easiest way to move your React application to Server-Side Rendering. Handles Side Effects and synchronizes State.
 
-## [55. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [54. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+
+## [55. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+
+### No-Code Platforms
+
+*   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
 
 ## [56. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 

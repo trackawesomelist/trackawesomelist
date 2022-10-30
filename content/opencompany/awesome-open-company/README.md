@@ -2,7 +2,7 @@
 
 A community-curated list of awesome open companies.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/opencompany/awesome-open-company/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) · ⭐ 710 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/opencompany/awesome-open-company/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 opencompany/awesome-open-company](https://github.com/opencompany/awesome-open-company) · ⭐ 713 · 🏷️ Business
 
 [ Daily / [Weekly](/content/opencompany/awesome-open-company/week/README.md) / [Overview](/content/opencompany/awesome-open-company/readme/README.md) ]
 

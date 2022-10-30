@@ -2,7 +2,7 @@
 
 A curated list of awesome Dash (plotly) resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ucg8j/awesome-dash/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ucg8j/awesome-dash](https://github.com/ucg8j/awesome-dash) · ⭐ 1.6K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ucg8j/awesome-dash/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ucg8j/awesome-dash](https://github.com/ucg8j/awesome-dash) · ⭐ 1.7K · 🏷️ Back-End Development
 
 [ [Daily](/content/ucg8j/awesome-dash/README.md) / Weekly / [Overview](/content/ucg8j/awesome-dash/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/iJackUA/awesome-vagrant/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) · ⭐ 561 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/iJackUA/awesome-vagrant/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 iJackUA/awesome-vagrant](https://github.com/iJackUA/awesome-vagrant) · ⭐ 563 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/iJackUA/awesome-vagrant/week/README.md) / [Overview](/content/iJackUA/awesome-vagrant/readme/README.md) ]
 

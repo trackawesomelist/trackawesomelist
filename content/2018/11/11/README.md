@@ -34,7 +34,7 @@
 
 ### Testing
 
-*   [aresponses (⭐93)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.7k)](https://github.com/getsentry/responses) library used for [requests (⭐48k)](https://github.com/requests/requests)
+*   [aresponses (⭐93)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.7k)](https://github.com/getsentry/responses) library used for [requests (⭐48k)](https://github.com/requests/requests).
 *   [aioresponses (⭐385)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)

@@ -2,7 +2,7 @@
 
 A curated list of awesome plugins for Knockout
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dnbard/awesome-knockout/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dnbard/awesome-knockout](https://github.com/dnbard/awesome-knockout) · ⭐ 90 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dnbard/awesome-knockout/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dnbard/awesome-knockout](https://github.com/dnbard/awesome-knockout) · ⭐ 91 · 🏷️ Front-End Development
 
 [ [Daily](/content/dnbard/awesome-knockout/README.md) / [Weekly](/content/dnbard/awesome-knockout/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 growing list of digital tools for activism things
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/drewrwilson/toolsforactivism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) · ⭐ 889 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/drewrwilson/toolsforactivism/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism) · ⭐ 891 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/drewrwilson/toolsforactivism/week/README.md) / [Overview](/content/drewrwilson/toolsforactivism/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A collection of interesting nodes and resources for Node-RED
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/naimo84/awesome-nodered/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 naimo84/awesome-nodered](https://github.com/naimo84/awesome-nodered) · ⭐ 321 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/naimo84/awesome-nodered/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 naimo84/awesome-nodered](https://github.com/naimo84/awesome-nodered) · ⭐ 325 · 🏷️ Platforms
 
 [ [Daily](/content/naimo84/awesome-nodered/README.md) / [Weekly](/content/naimo84/awesome-nodered/week/README.md) / Overview ]
 

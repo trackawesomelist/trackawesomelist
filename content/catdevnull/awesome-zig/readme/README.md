@@ -2,7 +2,7 @@
 
 A list of awesome projects related to Zig
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/catdevnull/awesome-zig/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) · ⭐ 119 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/catdevnull/awesome-zig/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) · ⭐ 122 · 🏷️ Programming Languages
 
 [ [Daily](/content/catdevnull/awesome-zig/README.md) / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / Overview ]
 

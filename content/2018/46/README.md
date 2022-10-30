@@ -404,7 +404,7 @@
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+*   [Wexflow (⭐1)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
 ## [34. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 

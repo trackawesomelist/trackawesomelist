@@ -2,7 +2,7 @@
 
 CouchDB - curated meta resources & best practices list
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/quangv/awesome-couchdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb) · ⭐ 148 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/quangv/awesome-couchdb/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 quangv/awesome-couchdb](https://github.com/quangv/awesome-couchdb) · ⭐ 149 · 🏷️ Databases
 
 [ Daily / [Weekly](/content/quangv/awesome-couchdb/week/README.md) / [Overview](/content/quangv/awesome-couchdb/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A curated collection of links for economists
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antontarasenko/awesome-economics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) · ⭐ 940 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antontarasenko/awesome-economics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 antontarasenko/awesome-economics](https://github.com/antontarasenko/awesome-economics) · ⭐ 944 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antontarasenko/awesome-economics/README.md) / Weekly / [Overview](/content/antontarasenko/awesome-economics/readme/README.md) ]
 

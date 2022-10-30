@@ -14,9 +14,9 @@
     window.
 *   They use slightly different commands for navigation.
 
-## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
-### HTTP
+### Frameworks, Libraries and Tools / API
 
 *   [RestLess (⭐108)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 

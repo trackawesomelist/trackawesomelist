@@ -323,7 +323,13 @@
 *   [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion. Occasional blogger and speaker. Best known for Joda projects and JSR-310.
 *   [Vladimir Ivanov](https://twitter.com/iwan0www) - hacking HotSpot JVM @ Oracle.
 
-## [21. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+
+### Application Frameworks
+
+*   [CoreFX (⭐18k)](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
+
+## [22. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -333,33 +339,23 @@
 
 *   [VaporNation](http://vapornation.news) – Weekly Vapor newsletter with all things Vapor.
 
-## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / K individuals
 
 *   Kai Hendry <https://hendry.iki.fi/>
 
-## [23. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [24. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
 *   [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [24. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [25. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Frameworks / Self-hosted
 
 *   [node-irc (⭐42)](https://github.com/Throne3d/node-irc) `JavaScript`
-
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
-
-### Media
-
-*   [Xabe.FFmpeg (⭐608)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **\[$]**
-
-### Application Frameworks
-
-*   [CoreFX (⭐18k)](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components.
 
 ## [26. Tips](/content/git-tips/tips/week/README.md)
 
@@ -618,6 +614,11 @@ git rebase --onto <new_base> <old_base>
 
 ## [49. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
+### Frameworks, Libraries and Tools / Misc
+
+*   [Xabe.FFmpeg (⭐608)](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.
+*   [DinkToPdf (⭐900)](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
+
 ### Frameworks, Libraries and Tools / API
 
 *   [AspNetCoreRateLimit (⭐2.7k)](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware.
@@ -625,10 +626,6 @@ git rebase --onto <new_base> <old_base>
 ### Frameworks, Libraries and Tools / Machine Learning and Data Science
 
 *   [TensorFlowSharp (⭐3.1k)](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages.
-
-### Frameworks, Libraries and Tools / Misc
-
-*   [DinkToPdf (⭐900)](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
 
 ### Frameworks, Libraries and Tools / SDKs
 

@@ -90,7 +90,6 @@
 
 *   [aiohttp (⭐13k)](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
 *   [sanic (⭐17k)](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
-*   [cirrina (⭐32)](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
 *   [autobahn (⭐2.4k)](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 
 ### Message Queues
@@ -104,7 +103,6 @@
 *   [aiomysql (⭐1.5k)](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 *   [aioodbc (⭐251)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 *   [motor (⭐2k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
-*   [asyncio-redis (⭐548)](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
 *   [aiocouchdb (⭐53)](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 
 ### Networking

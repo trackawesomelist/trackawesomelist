@@ -2,7 +2,7 @@
 
 🕶️  List of communities powered by Slack.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/filipelinhares/awesome-slack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack) · ⭐ 294 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/filipelinhares/awesome-slack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack) · ⭐ 295 · 🏷️ Work
 
 [ [Daily](/content/filipelinhares/awesome-slack/README.md) / [Weekly](/content/filipelinhares/awesome-slack/week/README.md) / Overview ]
 

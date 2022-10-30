@@ -2,7 +2,7 @@
 
 A curated list of resources for building and promoting more compassionate engineering cultures
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/KimberlyMunoz/empathy-in-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 KimberlyMunoz/empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) · ⭐ 486 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/KimberlyMunoz/empathy-in-engineering/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 KimberlyMunoz/empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) · ⭐ 487 · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/KimberlyMunoz/empathy-in-engineering/week/README.md) / [Overview](/content/KimberlyMunoz/empathy-in-engineering/readme/README.md) ]
 

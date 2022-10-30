@@ -2,7 +2,7 @@
 
 A collection of modules, tools and resources for play1 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/PerfectCarl/awesome-play1/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 PerfectCarl/awesome-play1](https://github.com/PerfectCarl/awesome-play1) · ⭐ 38 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/PerfectCarl/awesome-play1/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 PerfectCarl/awesome-play1](https://github.com/PerfectCarl/awesome-play1) · ⭐ 39 · 🏷️ Back-End Development
 
 [ [Daily](/content/PerfectCarl/awesome-play1/README.md) / [Weekly](/content/PerfectCarl/awesome-play1/week/README.md) / Overview ]
 

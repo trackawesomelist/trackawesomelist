@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 28, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,6 +12,10 @@
 
 *   [Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html) - Complete list of security related operating systems
 
+### tools / Other
+
+*   [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - An open-source inventory of tools, resources, CTF platforms and Operating Systems about CyberSecurity. ([Source](https://gitlab.com/rawsec/rawsec-cybersecurity-list))
+
 ## [2. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Wallets
@@ -19,32 +23,26 @@
 *   [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for mobile devices. Maintained by the team behind official Algorand Wallet.
 *   [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
 
-## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
-
-### Online Resources / Other Lists Online
-
-*   [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - An open-source inventory of tools, resources, CTF platforms and Operating Systems about CyberSecurity. ([Source](https://gitlab.com/rawsec/rawsec-cybersecurity-list))
-
-## [4. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [3. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / Forms
 
 *   [Fetch Forms](https://www.fetchforms.io/) - Create forms with the speed of a form builder and use them in your applications by calling a simple API.
 
-## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [jsonlint](https://jsonlint.com/) — A JSON parser and validator with a CLI. Standalone version of jsonlint.com
 *   [Spectral](https://stoplight.io/open-source/spectral) — A flexible JSON/YAML linter, with out-of-the-box support for OpenAPI v2/v3 and AsyncAPI v2.
 
-## [6. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [5. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Volunteering
 
 *   [Extinction Rebellion](https://rebellion.global/) - Extinction Rebellion is a decentralised, international and politically non-partisan movement using non-violent direct action and civil disobedience to persuade governments to act justly on the Climate and Ecological Emergency.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Lua Colorscheme / Diagnostics
 
@@ -54,13 +52,13 @@
 
 *   [AckslD/nvim-gfold.lua (⭐32)](https://github.com/AckslD/nvim-gfold.lua) - Plugin using [gfold (⭐190)](https://github.com/nickgerace/gfold) to switch repo and have statusline component.
 
-## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [7. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
 *   [Akar Icons (⭐380)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
-## [9. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [8. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🧬 Core
 
@@ -126,7 +124,7 @@
 *   [Fiber v1.8. What's new, updated and re-thinked?](https://dev.to/koddr/fiber-v1-8-what-s-new-updated-and-re-thinked-339h)
 *   [Fiber released v1.7! What's new and is it still fast, flexible and friendly?](https://dev.to/koddr/fiber-v2-is-out-now-what-s-new-and-is-he-still-fast-flexible-and-friendly-3ipf)
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -136,13 +134,13 @@
 
 *   [teleretro.com](https://www.teleretro.com/) — Simple and fun retrospective tool with icebreakers, gifs and emojis. Free plan includes 3 retros and unlimited members.
 
-## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [10. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
 *   [amplication (⭐8.9k)](https://github.com/amplication/amplication): Amplication is an open‑source low code development tool. It builds database applications with REST API and GraphQL for CRUD with relations, sorting, filtering, pagination.
 
-## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Big Data
 

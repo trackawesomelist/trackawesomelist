@@ -420,11 +420,6 @@
 
 ## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Tools / React Awesome Components
-
-*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - Minimalistic searchbox
-*   [react-beautiful-dnd (⭐28k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
-
 ### React Tools / React Frameworks
 
 *   [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
@@ -440,6 +435,10 @@
 ### React Tools / React Component Libraries
 
 *   [rebass (⭐7.8k)](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system
+
+### React Tools / React Awesome Components
+
+*   [react-beautiful-dnd (⭐28k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 
 ### React Native Awesome Components / Charts
 
@@ -828,6 +827,10 @@
 *   [RTL-SDR](https://www.rtl-sdr.com/)
 
 ## [49. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Miscellaneous
+
+*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
 
 ### Menu
 

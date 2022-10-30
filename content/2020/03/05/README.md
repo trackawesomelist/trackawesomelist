@@ -97,6 +97,7 @@
 
 ### Related / Awesome Lists
 
+*   [Awesome Tsung (⭐15)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 *   [Awesome JMeter (⭐570)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
 
 ## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
@@ -129,7 +130,6 @@
 
 ### Related / Awesome Lists
 
-*   [Awesome Tsung (⭐15)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 *   [Awesome Gatling (⭐41)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ## [15. Awesome Tikz](/content/xiaohanyu/awesome-tikz/README.md)

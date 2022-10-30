@@ -2,7 +2,7 @@
 
 Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr) · ⭐ 115 · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr) · ⭐ 116 · 🏷️ Security
 
 [ [Daily](/content/bakke92/awesome-gdpr/README.md) / [Weekly](/content/bakke92/awesome-gdpr/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 A hub of Free and open-source software for developers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tvvocold/FOSS-for-Dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) · ⭐ 746 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tvvocold/FOSS-for-Dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev) · ⭐ 747 · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/tvvocold/FOSS-for-Dev/week/README.md) / [Overview](/content/tvvocold/FOSS-for-Dev/readme/README.md) ]
 

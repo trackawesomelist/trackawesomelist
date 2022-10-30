@@ -2,7 +2,7 @@
 
 Actively maintained open-source game remakes.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/radek-sprta/awesome-game-remakes/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) · ⭐ 307 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/radek-sprta/awesome-game-remakes/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 radek-sprta/awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) · ⭐ 311 · 🏷️ Gaming
 
 [ [Daily](/content/radek-sprta/awesome-game-remakes/README.md) / [Weekly](/content/radek-sprta/awesome-game-remakes/week/README.md) / Overview ]
 

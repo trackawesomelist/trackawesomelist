@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for electronic engineers and hobbyists
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 4.3K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 4.4K · 🏷️ Hardware
 
 [ [Daily](/content/kitspace/awesome-electronics/README.md) / [Weekly](/content/kitspace/awesome-electronics/week/README.md) / Overview ]
 

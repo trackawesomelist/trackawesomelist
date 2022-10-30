@@ -35,7 +35,6 @@
 *   [byline (⭐318)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
 *   [first-chunk-stream (⭐26)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 *   [pad-stream (⭐10)](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
-*   [stream-combiner2](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 
 ### Packages / Text
 

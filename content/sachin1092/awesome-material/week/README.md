@@ -2,7 +2,7 @@
 
 A curated list of Google's material design libraries for different frameworks.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sachin1092/awesome-material/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sachin1092/awesome-material](https://github.com/sachin1092/awesome-material) · ⭐ 592 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sachin1092/awesome-material/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sachin1092/awesome-material](https://github.com/sachin1092/awesome-material) · ⭐ 593 · 🏷️ Front-End Development
 
 [ [Daily](/content/sachin1092/awesome-material/README.md) / Weekly / [Overview](/content/sachin1092/awesome-material/readme/README.md) ]
 

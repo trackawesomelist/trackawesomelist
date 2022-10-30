@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to Directus
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/directus-community/awesome-directus/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 directus-community/awesome-directus](https://github.com/directus-community/awesome-directus) · ⭐ 161 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/directus-community/awesome-directus/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 directus-community/awesome-directus](https://github.com/directus-community/awesome-directus) · ⭐ 165 · 🏷️ Content Management Systems
 
 [ [Daily](/content/directus-community/awesome-directus/README.md) / Weekly / [Overview](/content/directus-community/awesome-directus/readme/README.md) ]
 

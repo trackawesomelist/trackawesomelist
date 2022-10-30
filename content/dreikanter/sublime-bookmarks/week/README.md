@@ -2,7 +2,7 @@
 
 Sublime Text essential plugins and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dreikanter/sublime-bookmarks/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) · ⭐ 948 · 🏷️ Editors
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dreikanter/sublime-bookmarks/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dreikanter/sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) · ⭐ 950 · 🏷️ Editors
 
 [ [Daily](/content/dreikanter/sublime-bookmarks/README.md) / Weekly / [Overview](/content/dreikanter/sublime-bookmarks/readme/README.md) ]
 

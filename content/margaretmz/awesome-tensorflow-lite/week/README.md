@@ -2,7 +2,7 @@
 
 An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/margaretmz/awesome-tensorflow-lite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 margaretmz/awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) · ⭐ 956 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/margaretmz/awesome-tensorflow-lite/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 margaretmz/awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) · ⭐ 960 · 🏷️ Computer Science
 
 [ [Daily](/content/margaretmz/awesome-tensorflow-lite/README.md) / Weekly / [Overview](/content/margaretmz/awesome-tensorflow-lite/readme/README.md) ]
 

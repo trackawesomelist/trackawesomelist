@@ -2,7 +2,7 @@
 
 😎 Awesome lists of capacitor plugins.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/riderx/awesome-capacitor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) · ⭐ 210 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/riderx/awesome-capacitor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 riderx/awesome-capacitor](https://github.com/riderx/awesome-capacitor) · ⭐ 215 · 🏷️ Platforms
 
 [ [Daily](/content/riderx/awesome-capacitor/README.md) / [Weekly](/content/riderx/awesome-capacitor/week/README.md) / Overview ]
 

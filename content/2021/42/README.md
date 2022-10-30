@@ -344,7 +344,7 @@
 
 ### validation
 
-*   [check-geojson](https://github.com/placemark/check-geojson): alternative to geojsonhint
+*   [check-geojson (⭐40)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
 ## [30. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 

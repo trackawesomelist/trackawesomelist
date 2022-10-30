@@ -24,11 +24,11 @@
 
 *   [DL Translate (⭐231)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
-## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
-### Applications
+### Software / Communication - Social Networks and Forums
 
-*   [Cactus Comments](https://cactus.chat/): Federated comment system for the open web built on Matrix.
+*   [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix. ([Demo](https://cactus.chat/demo/), [Source Code](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Python`
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 

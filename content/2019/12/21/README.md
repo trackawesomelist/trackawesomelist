@@ -47,7 +47,7 @@
 *   [Eyevinn/hls-playlist-parser (⭐5)](https://github.com/Eyevinn/hls-playlist-parser)  - A Javascript library to parse Hls playlists.
 *   [Eyevinn/hls-relay (⭐15)](https://github.com/Eyevinn/hls-relay)  - Script to pull HLS stream from one origin and push to another origin - Eyevinn/hls-relay
 *   [Eyevinn/hls-ts-analyzer (⭐1)](https://github.com/Eyevinn/hls-ts-analyzer)  - Example implementation of hls-ts.js library.
-*   [Eyevinn/hls-ts-js](https://github.com/Eyevinn/hls-ts-js)  - HLS MPEG-TS parser library in Javascript.
+*   [Eyevinn/hls-ts-js (⭐35)](https://github.com/Eyevinn/hls-ts-js)  - HLS MPEG-TS parser library in Javascript.
 *   [Eyevinn/manifestparser (⭐1)](https://github.com/Eyevinn/manifestparser)  - A manifest parser.
 *   [Eyevinn/vod-to-live (⭐6)](https://github.com/Eyevinn/vod-to-live)  - A python library to generate Live HLS from VOD.
 *   [HLS and Fragmented MP4](https://hlsbook.net/hls-fragmented-mp4/)  - At WWDC 2016, Apple announced support for fragmented MP4 (fMP4) as an alternative to MPEG-TS, which prior to their announcement was the only supported format. So why use fragmented MP4 files? Well,…

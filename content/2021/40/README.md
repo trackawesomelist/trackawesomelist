@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04 - Oct 10, 2021
 
-75 awesome lists updated this week.
+74 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -863,19 +863,13 @@ Free (Open Source)
 
 ### Tools / Frameworks
 
+*   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 *   [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 
-## [63. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
-
-### Automation / Frameworks
-
-*   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
-
-## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [63. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
-*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
 *   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.
 
 ### Web Hosting
@@ -892,13 +886,13 @@ Free (Open Source)
 *   [QuickType.io](https://quicktype.io/) - Quickly auto generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
 *   [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
 
-## [65. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [64. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
 *   [dockerface (⭐182)](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container. **\[Deprecated]**
 
-## [66. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [65. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Starter Templates
 
@@ -908,7 +902,7 @@ Free (Open Source)
 
 *   [Some things to know about Lit](https://dev.to/open-wc/some-things-to-know-about-litelement-282c)
 
-## [67. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [66. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -922,13 +916,13 @@ Free (Open Source)
 
 *   [cista (⭐1k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
 
-## [68. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
+## [67. Awesome Scala Native](/content/tindzk/awesome-scala-native/week/README.md)
 
 ### File Formats and Parsers
 
 *   [squiggly (⭐2)](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
-## [69. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [68. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
@@ -942,7 +936,7 @@ Free (Open Source)
 
 *   [The Security Engineer Handbook](https://securityhandbook.io/) - A short read that discusses the dos and dont's of working in a security team, and the many tricks and tips that can help you in your day-to-day as a security engineer.
 
-## [70. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [69. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Multi-Platform
 
@@ -952,7 +946,7 @@ Free (Open Source)
 
 *   [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio (⭐385)](https://github.com/sigstore/fulcio), [cosign (⭐2.6k)](https://github.com/sigstore/cosign) and [rekor (⭐598)](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
 
-## [71. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [70. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
@@ -962,19 +956,132 @@ Free (Open Source)
 
 *   [fluvio (⭐1.4k)](https://github.com/infinyon/fluvio) \[Rust/WASM] - Real-time programmable data streaming platform with in-line computation capabilities.
 
-## [72. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [71. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
 *   [VIR (⭐125)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 
-## [73. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [72. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Mods / Performance
 
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
-## [74. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [73. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+### Development
+
+- API: [Mocky](https://designer.mocky.io/)
+
+  Description: Mock user defined test JSON for REST API endpoints
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [API Grátis](https://apigratis.com.br/)
+
+  Description: Multiples services and public APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Blynk-Cloud](https://blynkapi.docs.apiary.io/#)
+
+  Description: Control IoT Devices from Blynk IoT Cloud
+
+  Auth: `apiKey`
+
+  HTTPS: No
+
+  CORS: Unknown
+
+
+- API: [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html)
+
+  Description: Service to manage your databricks account,clusters, notebooks, jobs and workspaces
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)
+
+  Description: Interact with Docker Hub
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Ghost](https://ghost.org/)
+
+  Description: Get Published content into your Website, App or other embedded media
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Google Docs](https://developers.google.com/docs/api/reference/rest)
+
+  Description: API to read, write, and format Google Docs documents
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
+
+  Description: Online Lua 5.1 Decompiler
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Open Page Rank](https://www.domcop.com/openpagerank/)
+
+  Description: API for calculating and comparing metrics of different websites using Page Rank algorithm
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
+
+  Description: Integrate custom and unique looking QR codes into your system or workflow
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Anime
 
@@ -1225,108 +1332,6 @@ Free (Open Source)
 - API: [Economia.Awesome](https://docs.awesomeapi.com.br/api-de-moedas)
 
   Description: Portuguese free currency prices and conversion with no rate limits
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-### Development
-
-- API: [API Grátis](https://apigratis.com.br/)
-
-  Description: Multiples services and public APIs
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Blynk-Cloud](https://blynkapi.docs.apiary.io/#)
-
-  Description: Control IoT Devices from Blynk IoT Cloud
-
-  Auth: `apiKey`
-
-  HTTPS: No
-
-  CORS: Unknown
-
-
-- API: [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html)
-
-  Description: Service to manage your databricks account,clusters, notebooks, jobs and workspaces
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)
-
-  Description: Interact with Docker Hub
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Ghost](https://ghost.org/)
-
-  Description: Get Published content into your Website, App or other embedded media
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Google Docs](https://developers.google.com/docs/api/reference/rest)
-
-  Description: API to read, write, and format Google Docs documents
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
-
-  Description: Online Lua 5.1 Decompiler
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Open Page Rank](https://www.domcop.com/openpagerank/)
-
-  Description: API for calculating and comparing metrics of different websites using Page Rank algorithm
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
-
-  Description: Integrate custom and unique looking QR codes into your system or workflow
 
   Auth: No
 
@@ -2227,7 +2232,7 @@ Free (Open Source)
 
 
 
-## [75. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [74. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 

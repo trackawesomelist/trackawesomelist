@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08 - Jan 14, 2018
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -438,13 +438,7 @@
 
 *   [migrate (⭐31)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
 
-## [25. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
-
-### Database Drivers
-
-*   [aioredis (⭐2.2k)](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156).
-
-## [26. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [25. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### People
 
@@ -454,7 +448,7 @@
 
 *   [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
 
-## [27. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [26. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / Perl
 
@@ -480,7 +474,7 @@
 
 *   [Stack Overflow Markdown Documentation (archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
@@ -539,13 +533,13 @@
 
 *   [ElixirCasts.io](https://elixircasts.io/) - Simple screencasts to help you learn Elixir and Phoenix.
 
-## [29. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [28. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [busca (⭐10)](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit.
 
-## [30. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [29. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
@@ -558,7 +552,7 @@
 *   [Archive of related files](http://gbdev.gg8.se/files/)
 *   [The Game Boy Archive](https://github.com/gb-archive) - A library of Game Boy related software, hardware and literature. Aimed to mirror and preserve old and fragmented contributions from the last three decades.
 
-## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [30. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Continuous Integration
 
@@ -574,7 +568,7 @@
 *   [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
 *   [Building Youtube UI in 30 Minutes](https://www.youtube.com/watch?v=LdKtugH-sb8) - A quick tutorial showing how to build Youtube Mobile app's UI using React Native. This tutorial helps in getting started with coding designs from scratch.
 
-## [32. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [31. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Practice
 
@@ -582,13 +576,13 @@
 *   [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
 *   [First-Ever Video May Show Pig-Like Animals Mourning Their Dead](https://news.nationalgeographic.com/2017/12/animals-grieving-peccaries-death-mourning/) - An example of an important scientific discovery being made by someone who was not an institutional academic (an 8-year-old boy).  The boy received lead author credit in a scientific paper.
 
-## [33. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [32. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Tools
 
 *   [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 
-## [34. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [33. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### General / UX
 
@@ -602,7 +596,7 @@
 
     An annual conference organized by accelerator Y Combinator and targeted at female founders and entrepreneurs. The event features talks and panels, including sessions where female founders share their experiences and offer startup guidance.
 
-## [35. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [34. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -639,13 +633,13 @@
 
 *   [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Consequences of SLO violations — CRE life lessons](https://cloudplatform.googleblog.com/2018/01/consequences-of-SLO-violations-CRE-life-lessons.html)
 
-## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -676,19 +670,19 @@ Webpage: apadariaportuguesa.pt
 
 Wifi pw: `portuguesa`
 
-## [38. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### NgRx / Components
 
 *   [Making chained API Calls using @ngrx/Effects](https://gist.github.com/peterbsmith2/ce94c0a5ddceb99bab24a761731d1f07)
 
-## [39. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [Image recognition in Go using TensorFlow](https://youtu.be/P8MZ1Z2LHrw) -  by Alex Pliutau
 
-## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 

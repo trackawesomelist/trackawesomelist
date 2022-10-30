@@ -2,7 +2,7 @@
 
 A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/substrate-developer-hub/awesome-substrate/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) · ⭐ 582 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/substrate-developer-hub/awesome-substrate/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) · ⭐ 587 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/substrate-developer-hub/awesome-substrate/README.md) / Weekly / [Overview](/content/substrate-developer-hub/awesome-substrate/readme/README.md) ]
 

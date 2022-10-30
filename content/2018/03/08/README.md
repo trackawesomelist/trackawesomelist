@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08, 2018
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,13 +80,12 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.7k)](https://github.com/MagicStack/asyncpg) dialect.
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
-### Image Processing
+### Frameworks, Libraries and Tools / Graphics
 
-*   [ImageSharp (⭐6k)](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
-
-## [10. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+*   [ImageSharp (⭐6k)](https://github.com/SixLabors/ImageSharp) - Cross-platform library for processing of image files written in C#.
+*   [Magick.NET (⭐2.4k)](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick.
 
 ### Frameworks, Libraries and Tools / Blockchain
 
@@ -99,10 +98,6 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
     *   [neo4j-dotnet-driver (⭐178)](https://github.com/neo4j/neo4j-dotnet-driver) - Neo4j Bolt driver for .NET.
     *   [Neo4jClient (⭐391)](https://github.com/Readify/Neo4jClient) - .NET client binding for Neo4j.
 
-### Frameworks, Libraries and Tools / Graphics
-
-*   [Magick.NET (⭐2.4k)](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick.
-
 ### Frameworks, Libraries and Tools / Queue and Messaging
 
 *   [EventStore (⭐4.7k)](https://github.com/EventStore/EventStore) - The open-source, functional database with Complex Event Processing in JavaScript.
@@ -111,7 +106,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
 
 *   [Channel9](https://channel9.msdn.com)
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Command-line
 
@@ -121,7 +116,7 @@ git log --graph --pretty=format:'%C(auto) %h | %s | %an | %ar%d'
     *   [etienne-napoleone/spinach (⭐58)](https://github.com/etienne-napoleone/spinach) \[[spinach](https://crates.io/crates/spinach)] — Practical spinner for Rust. [![CI](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml/badge.svg)](https://github.com/etienne-napoleone/spinach/actions/workflows/ci.yml)
     *   [FGRibreau/spinners (⭐413)](https://github.com/FGRibreau/spinners) \[[spinners](https://crates.io/crates/spinners)] — 60+ elegant terminal spinners
 
-## [12. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [11. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 

@@ -2,7 +2,7 @@
 
 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/croqaz/awesome-decentralized/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) · ⭐ 607 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/croqaz/awesome-decentralized/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) · ⭐ 608 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/croqaz/awesome-decentralized/week/README.md) / [Overview](/content/croqaz/awesome-decentralized/readme/README.md) ]
 

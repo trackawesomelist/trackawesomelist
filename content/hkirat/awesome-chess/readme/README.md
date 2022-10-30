@@ -2,7 +2,7 @@
 
 Chess!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hkirat/awesome-chess/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) · ⭐ 262 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/hkirat/awesome-chess/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hkirat/awesome-chess](https://github.com/hkirat/awesome-chess) · ⭐ 264 · 🏷️ Gaming
 
 [ [Daily](/content/hkirat/awesome-chess/README.md) / [Weekly](/content/hkirat/awesome-chess/week/README.md) / Overview ]
 

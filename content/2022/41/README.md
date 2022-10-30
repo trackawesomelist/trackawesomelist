@@ -522,17 +522,7 @@
 
 *   Regression
 *   [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-*   Ordinary Least Squares
-*   Logistic Regression
-*   Stepwise Regression
-*   Multivariate Adaptive Regression Splines
 *   Locally Estimated Scatterplot Smoothing
-*   Classification
-    *   k-nearest neighbor
-    *   Support Vector Machines
-    *   Decision Trees
-    *   ID3 algorithm
-    *   C4.5 algorithm
 *   Ensemble Learning
 *   Boosting
 *   Bagging
@@ -827,7 +817,6 @@
 ### Libraries/Frameworks / Misc
 
 *   [nickhristov/krakdown (⭐12)](https://github.com/nickhristov/krakdown) - A native markdown parser written in Kotlin.
-*   [pmwmedia/tinylog (⭐537)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
 *   [cretz/asmble (⭐538)](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 
 ### Projects / Android

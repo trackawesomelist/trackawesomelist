@@ -751,11 +751,11 @@
 *   [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
 *   [chemminetools (⭐36)](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
 
-## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
-### Typescript Project Starters
+### Boilerplates
 
-*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack  boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ## [50. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 

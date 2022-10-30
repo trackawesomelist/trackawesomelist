@@ -1087,11 +1087,11 @@
 
 
 
-## [25. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [25. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
-### Applications
+### Social Networks
 
-*   [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
+*   [Mobilizon](https://joinmobilizon.org/) is a federated tool that helps you find, create and organise events.
 
 ## [26. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 

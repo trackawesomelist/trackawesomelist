@@ -2,7 +2,7 @@
 
 A curated list of awesome downloadable SVG/PNG/Font icon projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/notlmn/awesome-icons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) · ⭐ 466 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/notlmn/awesome-icons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 notlmn/awesome-icons](https://github.com/notlmn/awesome-icons) · ⭐ 468 · 🏷️ Media
 
 [ Daily / [Weekly](/content/notlmn/awesome-icons/week/README.md) / [Overview](/content/notlmn/awesome-icons/readme/README.md) ]
 

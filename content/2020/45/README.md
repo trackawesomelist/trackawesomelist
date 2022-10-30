@@ -24,7 +24,35 @@
 
 *   [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Non-linear video editing freeware with commercial plan used to create some Hollywood movies.
 
-## [4. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [4. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+
+### Version Control
+
+*   [jupyter-nbrequirements (⭐14)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
+
+## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+
+### Libraries / Functional
+
+*   [Solid (⭐23k)](https://github.com/ryansolid/solid) - Declarative JavaScript library for creating user interfaces.
+
+## [6. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+
+### Protocol / Platforms
+
+*   [DareNET Archives](https://archives.darenet.org) - IRC Archives for old hard to find IRC related software.
+
+## [7. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+
+### DevOps / Development
+
+*   [bunkerized-nginx (⭐2.7k)](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
+
+## [8. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+
+### Internationalization / Image Picker
+
+*   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
 
 ### Websites / Blogs
 
@@ -33,30 +61,6 @@
 ### State management / Standard
 
 *   [Provider (⭐4.5k)](https://github.com/rrousselGit/provider) <!--stargazers:rrousselGit/provider--> - State-management library for Flutter by [Remi Rousselet](https://github.com/rrousselGit)
-
-## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
-
-### Version Control
-
-*   [jupyter-nbrequirements (⭐14)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
-
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
-
-### Libraries / Functional
-
-*   [Solid (⭐23k)](https://github.com/ryansolid/solid) - Declarative JavaScript library for creating user interfaces.
-
-## [7. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
-
-### Protocol / Platforms
-
-*   [DareNET Archives](https://archives.darenet.org) - IRC Archives for old hard to find IRC related software.
-
-## [8. Awesome Security](/content/sbilly/awesome-security/week/README.md)
-
-### DevOps / Development
-
-*   [bunkerized-nginx (⭐2.7k)](https://github.com/bunkerity/bunkerized-nginx) - nginx Docker image secure by default
 
 ## [9. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
@@ -311,10 +315,6 @@
 *   [TFProfiler (⭐26)](https://github.com/iglaweb/TFProfiler) - An Android-based app to profile TensorFlow Lite models and measure its performance on smartphone.
 
 ## [35. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
-
-### i18n & l10n
-
-*   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
 
 ### Open Source Projects
 

@@ -2,7 +2,7 @@
 
 :satellite: A curated list of awesome Real Time Communications resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rtckit/awesome-rtc/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) · ⭐ 199 · 🏷️ Networking
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rtckit/awesome-rtc/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rtckit/awesome-rtc](https://github.com/rtckit/awesome-rtc) · ⭐ 202 · 🏷️ Networking
 
 [ [Daily](/content/rtckit/awesome-rtc/README.md) / Weekly / [Overview](/content/rtckit/awesome-rtc/readme/README.md) ]
 

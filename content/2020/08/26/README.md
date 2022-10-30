@@ -18,11 +18,11 @@
 
 *   [Suitest](https://suite.st) - Test automation solution for Smart TVs, gaming consoles, streaming sticks etc.
 
-## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
-### Web Exploitation / Web shells and C2 frameworks
+### Webshell / Server-Side Request Forgery
 
-*   [PhpSploit (⭐1.8k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner.
+*   [PhpSploit (⭐1.8k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner by [@nil0x42](https://github.com/nil0x42).
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

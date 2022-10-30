@@ -2,7 +2,7 @@
 
 😎 Awesome lists about all kinds of interesting topics
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome](https://github.com/sindresorhus/awesome) · ⭐ 223K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome](https://github.com/sindresorhus/awesome) · ⭐ 224K · 🏷️ Miscellaneous
 
 [ [Daily](/content/sindresorhus/awesome/README.md) / Weekly / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A curated list of Vapor-related awesome projects.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vapor-community/awesome-vapor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor) · ⭐ 979 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vapor-community/awesome-vapor/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 vapor-community/awesome-vapor](https://github.com/vapor-community/awesome-vapor) · ⭐ 980 · 🏷️ Back-End Development
 
 [ [Daily](/content/vapor-community/awesome-vapor/README.md) / [Weekly](/content/vapor-community/awesome-vapor/week/README.md) / Overview ]
 

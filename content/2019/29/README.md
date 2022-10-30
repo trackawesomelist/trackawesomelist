@@ -74,6 +74,11 @@
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
+### Testing Frameworks / Frameworks
+
+*   [jest (⭐41k)](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
+*   [mocha (⭐22k)](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
+
 ### Package Managers
 
 *   [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
@@ -82,10 +87,6 @@
 
 *   [script.js (⭐2.9k)](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
 *   [LodJS (⭐293)](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
-
-### Testing Frameworks / Frameworks
-
-*   [mocha (⭐22k)](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 
 ### Testing Frameworks / Coverage
 
@@ -916,11 +917,6 @@ Webpage: <http://www.cafevitoria.com/>
 
 ## [49. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Tools / React Testing
-
-*   [jest (⭐41k)](https://github.com/facebook/jest) - Delightful JavaScript Testing Framework
-*   [enzyme (⭐20k)](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
-
 ### React Tools / React Development Tools
 
 *   [react-devtools (⭐11k)](https://github.com/facebook/react-devtools) - Inspection of React component hierarchy in the Chrome and Firefox Developer Tools
@@ -974,6 +970,10 @@ Webpage: <http://www.cafevitoria.com/>
 *   [react-spinkit (⭐1.5k)](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
 *   [rheostat (⭐1.7k)](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 *   [qrcode.react (⭐3.1k)](https://github.com/zpao/qrcode.react) - QR component for use with React
+
+### React Tools / React Testing
+
+*   [enzyme (⭐20k)](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
 
 ### React Tools / React Libraries
 

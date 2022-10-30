@@ -2,7 +2,7 @@
 
 Just a repo full of BEM resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sturobson/BEM-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sturobson/BEM-resources](https://github.com/sturobson/BEM-resources) · ⭐ 474 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sturobson/BEM-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sturobson/BEM-resources](https://github.com/sturobson/BEM-resources) · ⭐ 476 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/sturobson/BEM-resources/week/README.md) / [Overview](/content/sturobson/BEM-resources/readme/README.md) ]
 

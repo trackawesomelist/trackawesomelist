@@ -2,7 +2,7 @@
 
 A curated list of awesome jQuery plugins, resources and other shiny things.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/petk/awesome-jquery/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 petk/awesome-jquery](https://github.com/petk/awesome-jquery) · ⭐ 841 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/petk/awesome-jquery/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 petk/awesome-jquery](https://github.com/petk/awesome-jquery) · ⭐ 842 · 🏷️ Front-End Development
 
 [ [Daily](/content/petk/awesome-jquery/README.md) / Weekly / [Overview](/content/petk/awesome-jquery/readme/README.md) ]
 

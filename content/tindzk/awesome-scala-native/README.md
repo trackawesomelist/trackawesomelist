@@ -2,7 +2,7 @@
 
  Compilation of Scala Native resources and libraries 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tindzk/awesome-scala-native/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tindzk/awesome-scala-native](https://github.com/tindzk/awesome-scala-native) · ⭐ 219 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tindzk/awesome-scala-native/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tindzk/awesome-scala-native](https://github.com/tindzk/awesome-scala-native) · ⭐ 218 · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/tindzk/awesome-scala-native/week/README.md) / [Overview](/content/tindzk/awesome-scala-native/readme/README.md) ]
 

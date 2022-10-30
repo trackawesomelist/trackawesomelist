@@ -2,7 +2,7 @@
 
 A curated list of amazingly awesome open source sysadmin resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/awesome-foss/awesome-sysadmin/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) · ⭐ 15K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/awesome-foss/awesome-sysadmin/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) · ⭐ 16K · 🏷️ Development Environment
 
 [ [Daily](/content/awesome-foss/awesome-sysadmin/README.md) / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / Overview ]
 

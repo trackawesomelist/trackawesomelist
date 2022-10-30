@@ -543,31 +543,25 @@
 *   [Awesome Zero-Knowledge Proofs (ZKP) (⭐3k)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 *   [Officer CIA's Ultimate DeFi Research Base (⭐929)](https://github.com/OffcierCia/ultimate-defi-research-base) - Curated DeFI & Blockchain research papers and tools.
 
-## [19. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
-
-### Localization
-
-*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform.
-
-## [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [19. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### IO Games
 
 *   [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first person shooter.
 
-## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [20. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Web Development
 
 *   [The Comet](https://wpuniverse.online/the-comet/). Short. Concise. Blazing fast 🌠 A monthly free newsletter about WordPress and web development.
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [21. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques (⭐5.2k)](https://github.com/hpcaitech/ColossalAI)
 
-## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -590,31 +584,31 @@
 *   Other
     *   [mgrachev/update-informer (⭐159)](https://github.com/mgrachev/update-informer) \[[update-informer](https://crates.io/crates/update-informer)] — Update informer for CLI applications. It checks for a new version on Crates.io and GitHub [![build badge](https://github.com/mgrachev/update-informer/workflows/CI/badge.svg)](https://github.com/mgrachev/update-informer/actions)
 
-## [24. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [23. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
 *   [community.wsl.sdk (⭐3)](https://github.com/Gitii/community.wsl.sdk) - SDK for Windows Subsystem for Linux for .NET 5, 6 and Standard 2.1 ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [25. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [24. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Showcases / XML
 
 *   [Edrys (⭐225)](https://github.com/edrys-org/edrys) - Remote Teaching Software
 
-## [26. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [25. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Libraries & Demo Apps / Ruby
 
 *   [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo (⭐45)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
 
-## [27. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [26. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Website Hunt - <https://www.websitehunt.co>
 
-## [28. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [27. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -622,13 +616,13 @@
 *   [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux. (Ceased production 2020)
 *   [Ubuntu Podcast](http://ubuntupodcast.org) - A lively and upbeat podcast made by members of the Ubuntu UK LoCo that includes news, discussion and interviews from the Ubuntu and Open Source communities. (Ceased production 2021)
 
-## [29. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [28. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
 *   [Redpanda (⭐5.1k)](https://github.com/redpanda-data/redpanda) \[C++] - Redpanda is Kafka compatible, ZooKeeper-free, JVM-free and source available.
 
-## [30. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [29. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### CSS Working Group / Editor's Draft :black_nib:
 
@@ -778,7 +772,7 @@
 *   [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
 *   [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
 
-## [31. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [30. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Geocoding
 
@@ -847,7 +841,7 @@
 
 
 
-## [32. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [31. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Responsive / Syntax Highlight
 
@@ -857,7 +851,7 @@
 
 *   [react-simple-code-editor (⭐1.2k)](https://github.com/satya164/react-simple-code-editor) - Simple no-frills code editor with syntax highlighting
 
-## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Version Control
 
@@ -867,13 +861,13 @@
 
 *   [Flameshot (⭐19k)](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [34. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [33. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
 *   [Elm The Complete Guide](https://www.udemy.com/course/elm-the-complete-guide/) - Video tutorial including Elm UI, Elm Review, responsive design, tests and more.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Log Management
 
@@ -883,14 +877,14 @@
 
 *   [getpantry.cloud](https://getpantry.cloud/) — A simple JSON data storage API that's perfect for personal projects, hackathons and mobile apps!
 
-## [36. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [35. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Finite Elements
 
 *   [MFEM](https://mfem.org) - Free, lightweight, scalable C++ library for finite element methods.
     (C++, BSD-3-Clause, [GitHub (⭐1k)](https://github.com/mfem/mfem))
 
-## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Blocklists / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -906,7 +900,7 @@
 *   [Mindful Google™ (⭐1)](https://github.com/tunjos/Mindful-Google) - Disables Autocomplete and other distracting elements on Google's pages.
 *   [Unlauncher](https://jkuester.github.io/unlauncher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/jkuester/unlauncher) - Android minimalistic launcher.
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
@@ -920,7 +914,7 @@
 
 *   [LunarVim/LunarVim (⭐11k)](https://github.com/LunarVim/LunarVim) - This project aims to help one transition away from VSCode, and into a superior text editing experience.
 
-## [39. GoBooks](/content/dariubs/GoBooks/week/README.md)
+## [38. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
 ### **Starter Books** / [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
 
@@ -938,7 +932,7 @@
 *   Ship it with Docker
 *   Work out Goroutines
 
-## [40. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [39. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Youtube Series
 
@@ -949,25 +943,25 @@
 
 *   [Theoretical Computer Science (⭐299)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
-## [41. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [40. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Papers
 
 *   [FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, 2020](https://arxiv.org/abs/2011.09607) - Introduce a DRL library FinRL that facilitates beginners to expose themselves to quantitative finance and to develop their own stock trading strategies.
 
-## [42. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [41. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Logging
 
 *   [Echopraxia (⭐42)](https://github.com/tersesystems/echopraxia) - API designed around structured logging, rich context, and conditional logging. There are Logback and Log4J2 implementations, but Echopraxia's API is completely dependency-free, meaning it can be implemented with any logging API.
 
-## [43. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [42. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
 *   [playwright-pytest (⭐252)](https://github.com/microsoft/playwright-pytest/) - Official Pytest plugin for using Playwright pages with fixtures.
 
-## [44. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [43. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -999,7 +993,7 @@
 *   [GIFT (⭐26k)](https://github.com/google-research/google-research/tree/master/gift) - Official implementation of [*Gradual Domain Adaptation in the Wild:When Intermediate Distributions are Absent*](https://arxiv.org/abs/2106.06080).
 *   [Light Field Neural Rendering (⭐26k)](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) - Official implementation of [*Light Field Neural Rendering*](https://arxiv.org/abs/2112.09687).
 
-## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Language Detection
 
@@ -1145,7 +1139,7 @@
 
 *   [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
 
-## [46. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [45. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -1159,13 +1153,13 @@
 
 *   [Angular Spotify (⭐2.1k)](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular, Nx Workspace and Tailwind CSS.
 
-## [47. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
+## [46. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
 ### Miscellaneous
 
 *   [IntelliJ Slim](https://plugins.jetbrains.com/plugin/18751-slim) - Provides boilerplate codes for easier new project creation using skeleton.
 
-## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -1186,6 +1180,12 @@
 *   [temeraf (⭐1)](https://github.com/filiptoma/temeraf-zsh) - Minimalist theme with decorations for `git` status, timestamps and last exit status.
 *   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐6.9k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 *   [yuyuko (⭐0)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐10)](https://github.com/hylwxqwq/yuyuko.vim).
+
+## [48. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+
+### Platforms
+
+*   [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 
 ## [49. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 

@@ -520,7 +520,7 @@ Topics: Accessibility\
 
 ### Networking
 
-*   [aiodns (⭐465)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
+*   [aiodns (⭐465)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
 
 ## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 

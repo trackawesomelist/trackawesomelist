@@ -2,7 +2,7 @@
 
  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/krzemienski/awesome-video/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) · ⭐ 977 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/krzemienski/awesome-video/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) · ⭐ 978 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/krzemienski/awesome-video/week/README.md) / [Overview](/content/krzemienski/awesome-video/readme/README.md) ]
 
@@ -676,7 +676,7 @@
 *   [Eyevinn/hls-playlist-parser (⭐5)](https://github.com/Eyevinn/hls-playlist-parser)  - A Javascript library to parse Hls playlists.
 *   [Eyevinn/hls-relay (⭐15)](https://github.com/Eyevinn/hls-relay)  - Script to pull HLS stream from one origin and push to another origin - Eyevinn/hls-relay
 *   [Eyevinn/hls-ts-analyzer (⭐1)](https://github.com/Eyevinn/hls-ts-analyzer)  - Example implementation of hls-ts.js library.
-*   [Eyevinn/hls-ts-js](https://github.com/Eyevinn/hls-ts-js)  - HLS MPEG-TS parser library in Javascript.
+*   [Eyevinn/hls-ts-js (⭐35)](https://github.com/Eyevinn/hls-ts-js)  - HLS MPEG-TS parser library in Javascript.
 *   [Eyevinn/manifestparser (⭐1)](https://github.com/Eyevinn/manifestparser)  - A manifest parser.
 *   [Eyevinn/vod-to-live (⭐6)](https://github.com/Eyevinn/vod-to-live)  - A python library to generate Live HLS from VOD.
 *   [HLS and Fragmented MP4](https://hlsbook.net/hls-fragmented-mp4/)  - At WWDC 2016, Apple announced support for fragmented MP4 (fMP4) as an alternative to MPEG-TS, which prior to their announcement was the only supported format. So why use fragmented MP4 files? Well,…

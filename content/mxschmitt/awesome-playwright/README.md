@@ -2,7 +2,7 @@
 
 A curated list of awesome tools, utils and projects using Playwright
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mxschmitt/awesome-playwright/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) · ⭐ 280 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mxschmitt/awesome-playwright/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) · ⭐ 287 · 🏷️ Testing
 
 [ Daily / [Weekly](/content/mxschmitt/awesome-playwright/week/README.md) / [Overview](/content/mxschmitt/awesome-playwright/readme/README.md) ]
 

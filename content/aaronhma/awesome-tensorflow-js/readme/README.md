@@ -2,7 +2,7 @@
 
 Awesome TensorFlow.js - A curated list of dedicated resources to master TensorFlow.js
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aaronhma/awesome-tensorflow-js/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aaronhma/awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js) · ⭐ 138 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aaronhma/awesome-tensorflow-js/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aaronhma/awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js) · ⭐ 139 · 🏷️ Computer Science
 
 [ [Daily](/content/aaronhma/awesome-tensorflow-js/README.md) / [Weekly](/content/aaronhma/awesome-tensorflow-js/week/README.md) / Overview ]
 

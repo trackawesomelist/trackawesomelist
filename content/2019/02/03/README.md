@@ -45,7 +45,7 @@
 
 *   **CSV**
     *   [csv2geojson (⭐339)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
-    *   [geojson2dsv](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
+    *   [geojson2dsv (⭐8)](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
 *   [vt-geojson (⭐57)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
 *   [tokml (⭐165)](https://github.com/mapbox/tokml): convert GeoJSON to KML
 *   [wellknown (⭐237)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON

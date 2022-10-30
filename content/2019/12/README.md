@@ -26,13 +26,19 @@
 *   [GBCartFlasher firmware (⭐22)](https://github.com/Tauwasser/GBCartFlasher)
 *   [VerilogBoy (⭐383)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
-## [4. Amas](/content/sindresorhus/amas/week/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Test / Components
+
+*   [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
+
+## [5. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Kevin Jalbert (⭐1)](https://github.com/kevinjalbert/ama) - Developer Lead at [Shopify](https://www.shopify.ca/about), primarily using Rails and React.
 
-## [5. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Games & Comics
 
@@ -48,13 +54,13 @@
 
 
 
-## [6. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [7. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### File Hosting/Sharing / Others
 
 *   [Firefox Send](https://send.firefox.com) - Mozilla's free fileshare program. Up to 1gb without account, 2.5gb with account.
 
-## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Frontend
 
@@ -342,7 +348,7 @@
 *   [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
 *   [Tech Productivity](https://techproductivity.co/). Tech Productivity is a short weekly newsletter for tech professionals (programmers, developers, designers, etc). Each issue includes a brief list of productivity-related tools, articles, and other resources that can help workers in various tech-related fields be more productive.
 
-## [8. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [9. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Art
 
@@ -380,13 +386,13 @@
 *   [WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page) - Huge amount of data about the world, released under CC0.
 *   [The Pig and the Box](https://en.wikisource.org/wiki/The_Pig_and_the_Box) - Children book about the dangers of DRM, later released under CC0 (CC-BY-NC-SA no longer applies).
 
-## [9. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [10. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Utility Scripts
 
 *   [ixm (⭐107)](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / SiFive
 
@@ -404,7 +410,7 @@
 
 *   [`hifive1`](https://github.com/riscv-rust/hifive1) - Board support crate for [HiFive1](https://www.sifive.com/boards/hifive1) and [LoFive](https://hackaday.io/project/26909-lofive) boards - ![crates.io](https://img.shields.io/crates/v/hifive.svg)
 
-## [11. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [12. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -451,7 +457,7 @@
 
 
 
-## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [13. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Torrenting
 
@@ -470,7 +476,7 @@
 
 *   [piratebazaar](https://t.me/piratebazaar) Curated list of piracy-related links.
 
-## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -480,29 +486,18 @@
 
 *   [Cascade Deleting Relationships in Ember Data](https://davidtang.io/2017/02/10/cascade-deleting-relationships-in-ember-data.html)
 
-## [14. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [15. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Case Studies
 
 *   [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - Optimizations while building responsive websites.
 *   [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) - A Twitter Lite Web App at Scale.
 
-## [15. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [16. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Research Papers
 
 *   [Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016](https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf)
-
-## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Generators / Components
-
-*   Scaffold
-    *   [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
-
-### Test / Components
-
-*   [Marble testing for RxJS observables in Angular](https://www.mokkapps.de/blog/how-i-write-marble-tests-for-rxjs-observables-in-angular/)
 
 ## [17. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -539,13 +534,7 @@
     *   [Migrating to Vulkan with the New PowerVR Graphics Framework](https://www.imgtec.com/webinar/migrating-to-vulkan-with-the-powervr-framework/)
     *   [Migrating from OpenGLES to Vulkan](https://www.imgtec.com/downloads/download-info/migrating-from-opengl-es-to-vulkan/)
 
-## [21. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
-
-### Non-JavaScript Libraries / Themes
-
-*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
-
-## [22. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [21. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Finite Elements
 
@@ -561,25 +550,25 @@
 
 *   [Wolfgang Bangerth's video class](https://www.math.colostate.edu/\~bangerth/videos.html) - MATH 676: Finite element methods in scientific computing.
 
-## [23. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [22. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
 *   [Ladder Network (⭐101)](https://github.com/divamgupta/ladder_network_keras) - Implementation of Ladder Network for Semi-Supervised Learning in Keras and Tensorflow
 
-## [24. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
+## [23. Awesome Okr](/content/domenicosolazzo/awesome-okr/week/README.md)
 
 ### Articles
 
 *   [Being helpful isn’t the same as being clear](https://medium.com/product-narrative/sharing-lessons-learned-in-okr-f802aff4c251): A useful note to understand the local culture when implementing OKR.
 
-## [25. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [24. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Libraries / Integrations
 
 *   [remount (⭐610)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
-## [26. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Mathematics / SpriteKit
 
@@ -639,6 +628,16 @@
 
 *   [Rubik's Cube (⭐17)](https://github.com/codelynx/CoreRubiksCube) - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁
 *   [SwiftChain](https://github.com/gg2001/SwiftChain) - Simple Cryptocurrency in a Swift Playground.
+
+## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+
+### Boilerplates / Themes
+
+*   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack React + Ant Design applications with MongoDB, SQL or Firebase Firestore.
+
+### Non-JavaScript Libraries / Themes
+
+*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## [27. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 

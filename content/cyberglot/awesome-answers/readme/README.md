@@ -2,7 +2,7 @@
 
 Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cyberglot/awesome-answers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cyberglot/awesome-answers](https://github.com/cyberglot/awesome-answers) · ⭐ 718 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/cyberglot/awesome-answers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cyberglot/awesome-answers](https://github.com/cyberglot/awesome-answers) · ⭐ 719 · 🏷️ Miscellaneous
 
 [ [Daily](/content/cyberglot/awesome-answers/README.md) / [Weekly](/content/cyberglot/awesome-answers/week/README.md) / Overview ]
 

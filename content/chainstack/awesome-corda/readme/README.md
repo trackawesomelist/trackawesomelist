@@ -2,7 +2,7 @@
 
 A curated list of awesome Corda resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/chainstack/awesome-corda/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 chainstack/awesome-corda](https://github.com/chainstack/awesome-corda) · ⭐ 66 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/chainstack/awesome-corda/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 chainstack/awesome-corda](https://github.com/chainstack/awesome-corda) · ⭐ 67 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/chainstack/awesome-corda/README.md) / [Weekly](/content/chainstack/awesome-corda/week/README.md) / Overview ]
 

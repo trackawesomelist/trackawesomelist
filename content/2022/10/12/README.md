@@ -103,10 +103,6 @@
 
 *   [ExpediaDotCom/graphql-kotlin (⭐1.5k)](https://github.com/ExpediaDotCom/graphql-kotlin) - Code-only GraphQL schema generation for Kotlin
 
-### Libraries/Frameworks / Misc
-
-*   [pmwmedia/tinylog (⭐537)](https://github.com/pmwmedia/tinylog) - Lightweight logging framework with native logging API for Kotlin.
-
 ### Android / Multiplatform
 
 *   [cossacklabs/themis (⭐1.6k)](https://github.com/cossacklabs/themis) - Multi-language framework for solving typical data security tasks: storage and messaging encryption, authentication, works for 14 languages.

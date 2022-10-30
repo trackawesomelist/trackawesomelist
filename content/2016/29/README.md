@@ -229,10 +229,6 @@
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
-### In English
-
-*   [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
-
 ### In Portuguese
 
 *   [Zeno Overflow](https://soundcloud.com/zenorocha) - Uma série de perguntas e respostas ao vivo sobre tecnologia, carreira e a vida fora do Brasil.
@@ -319,6 +315,11 @@
 
 ## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
+### Podcasts / Other
+
+*   [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
+*   [MaximAbramchuck/awesome-interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
 ### Loaders
 
 *   [RequireJS (⭐13k)](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
@@ -364,10 +365,6 @@
 ### Misc / Other
 
 *   [grid (⭐3.6k)](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
-
-### Podcasts / Other
-
-*   [MaximAbramchuck/awesome-interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 

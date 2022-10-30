@@ -79,26 +79,32 @@
 *   [**macOS Web**](https://macos-preact.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite *([Github project (⭐1k)](https://github.com/PuruVJ/macos-preact))*.
 *   [**Windows 11 Web**](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ *([Github project (⭐438)](https://github.com/PiyushSuthar/Windows-11-Web))*.
 
-## [8. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [8. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+
+### Apps
+
+*   [ipfs-chat (⭐87)](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
+
+## [9. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### UI
 
 *   [Slab (⭐209)](https://github.com/flamendless/Slab) - Slab is an immediate mode GUI toolkit for the LÖVE framework.
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Certifications
 
 *   [GCATI](https://gcati.org/certificate/foundation-wardley-mapping) - Foundation in Wardley Mapping. For those who need to know and understand the basics of Strategy using Wardley Mapping either with a view to becoming a Practitioner or with a need to work effectively with Practitioners. A certified Foundation in using Wardley Mapping candidate has proficiency in reading and understanding Wardley Maps.
 
-## [10. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Control Systems
 
 *   [Lawo EmberPlus (⭐82)](https://github.com/Lawo/ember-plus) - Ember Plus - open protocol for interfacing to / from broadcast control systems.
 *   [MIDIMonster (⭐345)](https://github.com/cbdevnet/midimonster) - Lightweight adapter tool for common show control protocols.
 
-## [11. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [12. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ODMs
 
@@ -108,38 +114,38 @@
 
 *   [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs) - Which framework is best for Python in 2020? Which uses async/await the best? Which is the fastest?
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [13. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Crates / Utils
 
 *   [stylist-rs (⭐143)](https://github.com/futursolo/stylist-rs) - A CSS-in-Rust styling solution for WebAssembly Applications.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [eos-icons-vue (⭐4)](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2 (⭐5)](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
 
-## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [15. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Fonts / Checkbox
 
 *   [svelte-web-fonts/google (⭐13)](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
 
-## [15. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Articles & Papers / Scala
 
 *   [Awesome Scalability (⭐41k)](https://github.com/binhnguyennus/awesome-scalability) :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 *   [A Sidecar for Your Service Mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) - A short service mesh introduction.
 
-## [16. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [17. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Media
 
 *   [Wagtail Makeup (⭐2)](https://github.com/kevinhowbrook/wagtail-makeup) - A plugin that replaces all your images with [Unsplash](https://unsplash.com/) images.
 
-## [17. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [18. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Integration
 
@@ -147,13 +153,13 @@
 *   [Offical Gatsby Source Plugin](https://www.npmjs.com/package/@directus/gatsby-source-directus) - Source plugin for pulling data into Gatsby from a Directus API.
 *   [react-directus (⭐38)](https://github.com/gremo/react-directus) - A set of React components and utilities for Directus Headless CMS.
 
-## [18. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [19. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
 *   [safe-control-gym (⭐253)](https://github.com/utiasDSL/safe-control-gym) - PyBullet-based CartPole and Quadrotor environments—with CasADi symbolic dynamics and constraints—for safe and robust learning-based control.
 
-## [19. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [20. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anti-Malware
 
@@ -211,7 +217,7 @@
 
 
 
-## [20. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Serialization
 
@@ -221,50 +227,50 @@
 
 *   [MiloszKrajewski/stateful4k (⭐31)](https://github.com/MiloszKrajewski/stateful4k) - State Machine Construction Kit for Kotlin
 
-## [21. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [22. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / NXP
 
 *   [`SKEAZN642`](https://crates.io/crates/SKEAZN642) Peripheral access API for KEA64 family microcontrollers (generated using svd2rust) - ![crates.io](https://img.shields.io/crates/v/SKEAZN642.svg)
 
-## [22. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [23. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [tabnine (⭐28)](https://github.com/codota/tabnine-jupyterlab) - Tabnine AI auto completer extension.
 
-## [23. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [24. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Geometry and Topology / Algebraic Geometry
 
 *   [A Brief Introduction to Algebraic Geometry](https://ksda.ccny.cuny.edu/PostedPapers/rickksda1107.pdf) - R.C. Churchill
 
-## [24. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [25. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / General Purpose Libraries
 
 *   [Apache DataFu (⭐97)](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
 
-## [25. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [26. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - International bestseller revised with new exercises, annotations, and full coverage of Scala 3.
 
-## [26. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Styling
 
 *   [linaria (⭐9.8k)](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS
 *   [stitches (⭐6.5k)](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Data
 
 *   [aws-data-wrangler :fire::fire::fire::fire::fire: (⭐3.2k)](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
 
-## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cryptography
 
@@ -274,13 +280,13 @@
 
 *   [FNA (⭐1.7k)](https://github.com/FNA-XNA/FNA) - FNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop
 
-## [29. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [30. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / Spotify
 
 *   [psst (⭐7.1k)](https://github.com/jpochyla/psst): Fast and multi-platform Spotify client with native GUI
 
-## [30. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [31. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Stalled Development
 
@@ -291,23 +297,17 @@
     [Repo (⭐39k)](https://github.com/Dogfalo/materialize)
     \| #SCSS
 
-## [31. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Realtime Utilities / Ruby
 
 *   [transitcast (⭐7)](https://github.com/OpenTransitTools/transitcast) - Uses GTFS and GTFS-RT vehicle position feed generating an estimated transition time it takes for each vehicle to move from scheduled stop to scheduled stop recording these an "observed\_stop\_time" table. These records can later be used to train a machine learning model to make vehicle travel predictions. Created by TriMet as part of [an FTA IMI project](https://trimet.org/imi/program.htm).
 
-## [32. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [33. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Clones
 
 *   [PicoLove (⭐609)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
-
-## [33. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
-
-### Applications
-
-*   [ipfs-chat (⭐87)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [34. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 

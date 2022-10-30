@@ -114,7 +114,6 @@
 ### Resources / Tutorials
 
 *   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
-*   [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 
 ### Resources / Videos
 

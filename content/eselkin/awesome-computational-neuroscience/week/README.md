@@ -2,7 +2,7 @@
 
 A list of schools and researchers in computational neuroscience
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/eselkin/awesome-computational-neuroscience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 eselkin/awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) · ⭐ 446 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/eselkin/awesome-computational-neuroscience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 eselkin/awesome-computational-neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) · ⭐ 448 · 🏷️ Health and Social Science
 
 [ [Daily](/content/eselkin/awesome-computational-neuroscience/README.md) / Weekly / [Overview](/content/eselkin/awesome-computational-neuroscience/readme/README.md) ]
 

@@ -2,7 +2,7 @@
 
 A Curated List of Awesome Ethereum Resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ttumiel/Awesome-Ethereum/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ttumiel/Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum) · ⭐ 224 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ttumiel/Awesome-Ethereum/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ttumiel/Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum) · ⭐ 227 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/ttumiel/Awesome-Ethereum/README.md) / [Weekly](/content/ttumiel/Awesome-Ethereum/week/README.md) / Overview ]
 

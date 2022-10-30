@@ -2,7 +2,7 @@
 
 :iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/busterc/awesome-cordova/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 busterc/awesome-cordova](https://github.com/busterc/awesome-cordova) · ⭐ 282 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/busterc/awesome-cordova/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 busterc/awesome-cordova](https://github.com/busterc/awesome-cordova) · ⭐ 283 · 🏷️ Platforms
 
 [ [Daily](/content/busterc/awesome-cordova/README.md) / [Weekly](/content/busterc/awesome-cordova/week/README.md) / Overview ]
 

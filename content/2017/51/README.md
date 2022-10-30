@@ -27,10 +27,6 @@
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
-### Web Frameworks
-
-*   [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
-
 ### Writings
 
 *   [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - A gentle introduction to asynchronous programming from basic examples working up to URL fetching.

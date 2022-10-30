@@ -2,7 +2,7 @@
 
 Awesome Low Code platforms, vendors, tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zenitysec/awesome-low-code/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) · ⭐ 114 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zenitysec/awesome-low-code/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) · ⭐ 117 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/zenitysec/awesome-low-code/week/README.md) / [Overview](/content/zenitysec/awesome-low-code/readme/README.md) ]
 

@@ -64,9 +64,9 @@
 
 *   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. ([Source Code (⭐32k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs`
 
-## [10. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Data Science / Windows
 
 *   [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24, 2017
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -30,19 +30,13 @@
 
 *   [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** \[32:22]
 
-## [5. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
-
-### Web Frameworks
-
-*   [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
-
-## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Professional services
 
 *   [Seraro](http://www.seraro.com) - Agency.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [6. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / IDE
 

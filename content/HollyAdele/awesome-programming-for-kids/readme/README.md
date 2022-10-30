@@ -2,7 +2,7 @@
 
 A curated list of resources for teaching kids programming. 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/HollyAdele/awesome-programming-for-kids/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) · ⭐ 895 · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/HollyAdele/awesome-programming-for-kids/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 HollyAdele/awesome-programming-for-kids](https://github.com/HollyAdele/awesome-programming-for-kids) · ⭐ 897 · 🏷️ Learn
 
 [ [Daily](/content/HollyAdele/awesome-programming-for-kids/README.md) / [Weekly](/content/HollyAdele/awesome-programming-for-kids/week/README.md) / Overview ]
 

@@ -2,7 +2,7 @@
 
 Most commonly used git tips and tricks.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/git-tips/tips/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 git-tips/tips](https://github.com/git-tips/tips) · ⭐ 20K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/git-tips/tips/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 git-tips/tips](https://github.com/git-tips/tips) · ⭐ 21K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/git-tips/tips/week/README.md) / [Overview](/content/git-tips/tips/readme/README.md) ]
 

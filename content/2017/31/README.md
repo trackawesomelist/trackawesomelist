@@ -89,10 +89,6 @@
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
-### GUI
-
-*   [WinApi (⭐734)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
-
 ### State machines
 
 *   [LiquidState (⭐219)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
@@ -348,6 +344,10 @@
 *   [HubSpot HBase support (⭐16)](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
 
 ## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+
+### Frameworks, Libraries and Tools / GUI
+
+*   [WinApi (⭐734)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### Frameworks, Libraries and Tools / IOC
 

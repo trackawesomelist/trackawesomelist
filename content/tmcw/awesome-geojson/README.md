@@ -44,11 +44,11 @@ GeoJSON utilities that will make your life easier.
 *   **OpenStreetMap**
     *   [osmtogeojson (⭐575)](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
     *   [osm2geojson (⭐11)](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
-    *   [osm2geojson](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
+    *   [osm2geojson (⭐64)](https://github.com/aspectumapp/osm2geojson): (Python) converts OSM XML and Overpass XML/JSON to GeoJSON
     *   [minjur (⭐58)](https://github.com/mapbox/minjur): converts OpenStreetMap data to GeoJSON faster than anything else
     *   [geojsontoosm (⭐13)](https://github.com/tyrasd/geojsontoosm): convert GeoJSON to OSM XML
     *   [geojson2osm (⭐6)](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
-    *   [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
+    *   [osm-and-geojson (⭐88)](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
     *   [geojson2osm-es6 (⭐0)](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
     *   [query-overpass (⭐138)](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson (⭐575)](https://github.com/tyrasd/osmtogeojson)
 
@@ -56,7 +56,7 @@ GeoJSON utilities that will make your life easier.
 
 ### validation
 
-*   [check-geojson](https://github.com/placemark/check-geojson): alternative to geojsonhint
+*   [check-geojson (⭐40)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
 ## [Sep 05, 2021](/content/2021/09/05/README.md)
 
@@ -111,7 +111,7 @@ GeoJSON utilities that will make your life easier.
 
 *   **CSV**
     *   [csv2geojson (⭐339)](https://github.com/mapbox/csv2geojson): convert CSV to geojson
-    *   [geojson2dsv](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
+    *   [geojson2dsv (⭐8)](https://github.com/tmcw/geojson2dsv): convert geojson to CSV and TSV
 *   [vt-geojson (⭐57)](https://github.com/developmentseed/vt-geojson): Extract GeoJSON from Mapbox vector tiles
 *   [tokml (⭐165)](https://github.com/mapbox/tokml): convert GeoJSON to KML
 *   [wellknown (⭐237)](https://github.com/mapbox/wellknown): convert WKT to GeoJSON

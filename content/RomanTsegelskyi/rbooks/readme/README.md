@@ -2,7 +2,7 @@
 
 A curated list of #rstats books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RomanTsegelskyi/rbooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 RomanTsegelskyi/rbooks](https://github.com/RomanTsegelskyi/rbooks) · ⭐ 190 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RomanTsegelskyi/rbooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 RomanTsegelskyi/rbooks](https://github.com/RomanTsegelskyi/rbooks) · ⭐ 192 · 🏷️ Books
 
 [ [Daily](/content/RomanTsegelskyi/rbooks/README.md) / [Weekly](/content/RomanTsegelskyi/rbooks/week/README.md) / Overview ]
 

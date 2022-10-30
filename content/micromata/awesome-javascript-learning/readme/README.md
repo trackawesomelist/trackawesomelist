@@ -2,7 +2,7 @@
 
 A tiny list limited to the best JavaScript Learning Resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/micromata/awesome-javascript-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) · ⭐ 4.2K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/micromata/awesome-javascript-learning/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) · ⭐ 4.3K · 🏷️ Learn
 
 [ [Daily](/content/micromata/awesome-javascript-learning/README.md) / [Weekly](/content/micromata/awesome-javascript-learning/week/README.md) / Overview ]
 

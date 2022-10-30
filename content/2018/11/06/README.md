@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,13 +40,7 @@
 
 *   [Operiant](https://operiant.com) - Connect your event streams to actions.
 
-## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
-
-### Business Intelligence
-
-*   [FastReport (⭐2k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
-
-## [7. Awesome R](/content/qinwf/awesome-R/README.md)
+## [6. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Integrated Development Environments
 
@@ -77,7 +71,11 @@
 
 *   [odbc (⭐331)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 
-## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+
+### Frameworks, Libraries and Tools / Reporting
+
+*   [FastReport (⭐2k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in MVC, Web API applications.
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -104,7 +102,7 @@
 
 *   [Rin (⭐316)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
 
-## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 

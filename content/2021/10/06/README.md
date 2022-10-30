@@ -45,10 +45,6 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
-### APIs, Data and ML
-
-*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
-
 ### Miscellaneous
 
 *   [Carbon.now.sh](https://carbon.now.sh) - create and share code snippet in an aesthetic screenshot-like image format. Usually used to aesthetically share/show-off code snippet on Twitter or blog posts.
@@ -95,6 +91,31 @@
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
+### Development
+
+- API: [Mocky](https://designer.mocky.io/)
+
+  Description: Mock user defined test JSON for REST API endpoints
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
+
+  Description: Online Lua 5.1 Decompiler
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Cryptocurrency
 
 - API: [CryptingUp](https://www.cryptingup.com/apidoc/#introduction)
@@ -106,20 +127,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-
-
-### Development
-
-- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
-
-  Description: Online Lua 5.1 Decompiler
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
 
 
 

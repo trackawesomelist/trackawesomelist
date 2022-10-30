@@ -2,7 +2,7 @@
 
 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mbiesiad/awesome-translations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) · ⭐ 58 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mbiesiad/awesome-translations/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) · ⭐ 60 · 🏷️ Miscellaneous
 
 [ [Daily](/content/mbiesiad/awesome-translations/README.md) / [Weekly](/content/mbiesiad/awesome-translations/week/README.md) / Overview ]
 

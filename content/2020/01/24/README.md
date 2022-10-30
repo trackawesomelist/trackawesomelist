@@ -82,11 +82,11 @@
 
 *   Chain React 2019: [React Native Only Playlist](https://www.youtube.com/playlist?list=PLq2wBqKQbpCqVKqZwysoo2MEDwVX7auhX)
 
-## [7. Awesome React](/content/enaqx/awesome-react/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
-### React Tools / React Component Libraries
+### Responsive / Syntax Highlight
 
-*   [primereact (⭐3.2k)](https://github.com/primefaces/primereact) - A complete UI Framework for React with 50+ components featuring material, bootstrap and custom themes.
+*   [primereact (⭐3.2k)](https://github.com/primefaces/primereact) - A complete UI Framework with 50+ components featuring material, bootstrap and custom themes.
 
 ## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

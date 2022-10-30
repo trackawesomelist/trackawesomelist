@@ -2,7 +2,7 @@
 
 Curated list of references for development of DOS applications.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/balintkissdev/awesome-dos/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos) · ⭐ 280 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/balintkissdev/awesome-dos/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos) · ⭐ 283 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/balintkissdev/awesome-dos/week/README.md) / [Overview](/content/balintkissdev/awesome-dos/readme/README.md) ]
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,13 +103,7 @@
 
 *   [migrate (⭐31)](https://github.com/vladfaust/migrate.cr) - A simpler database migration tool with transactions
 
-## [10. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
-
-### Database Drivers
-
-*   [aioredis (⭐2.2k)](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156).
-
-## [11. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [10. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### People
 

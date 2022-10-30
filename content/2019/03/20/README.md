@@ -73,11 +73,11 @@
 *   [Rubik's Cube (⭐17)](https://github.com/codelynx/CoreRubiksCube) - Implementing basic model and behavior of Rubic's Cube in Swift. 🍁
 *   [SwiftChain](https://github.com/gg2001/SwiftChain) - Simple Cryptocurrency in a Swift Playground.
 
-## [3. Awesome Material](/content/sachin1092/awesome-material/README.md)
+## [3. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
-### Other
+### Boilerplates / Themes
 
-*   [ScaffoldHub.io](https://scaffoldhub.io) — Generate full Angular Material applications with an online modeling tool!
+*   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack React + Ant Design applications with MongoDB, SQL or Firebase Firestore.
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

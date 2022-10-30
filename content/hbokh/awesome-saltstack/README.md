@@ -2,7 +2,7 @@
 
 🧂 A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hbokh/awesome-saltstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hbokh/awesome-saltstack](https://github.com/hbokh/awesome-saltstack) · ⭐ 486 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hbokh/awesome-saltstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hbokh/awesome-saltstack](https://github.com/hbokh/awesome-saltstack) · ⭐ 488 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/hbokh/awesome-saltstack/week/README.md) / [Overview](/content/hbokh/awesome-saltstack/readme/README.md) ]
 

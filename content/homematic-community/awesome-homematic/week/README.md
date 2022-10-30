@@ -2,7 +2,7 @@
 
 A curated list of Homematic related links :sparkles:
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/homematic-community/awesome-homematic/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 homematic-community/awesome-homematic](https://github.com/homematic-community/awesome-homematic) · ⭐ 156 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/homematic-community/awesome-homematic/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 homematic-community/awesome-homematic](https://github.com/homematic-community/awesome-homematic) · ⭐ 157 · 🏷️ Miscellaneous
 
 [ [Daily](/content/homematic-community/awesome-homematic/README.md) / Weekly / [Overview](/content/homematic-community/awesome-homematic/readme/README.md) ]
 

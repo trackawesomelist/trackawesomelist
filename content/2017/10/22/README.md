@@ -6,9 +6,9 @@
 
 
 
-## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [1. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
-### Misc
+### Frameworks, Libraries and Tools / Misc
 
 *   [YoutubeExplode (⭐2.1k)](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
 

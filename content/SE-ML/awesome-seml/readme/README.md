@@ -2,7 +2,7 @@
 
 A curated list of articles that cover the software engineering best practices for building machine learning applications.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/SE-ML/awesome-seml/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 SE-ML/awesome-seml](https://github.com/SE-ML/awesome-seml) · ⭐ 998 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/SE-ML/awesome-seml/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 SE-ML/awesome-seml](https://github.com/SE-ML/awesome-seml) · ⭐ 1K · 🏷️ Computer Science
 
 [ [Daily](/content/SE-ML/awesome-seml/README.md) / [Weekly](/content/SE-ML/awesome-seml/week/README.md) / Overview ]
 

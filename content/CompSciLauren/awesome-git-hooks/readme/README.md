@@ -2,7 +2,7 @@
 
 :anchor: A curated list of awesome git hooks
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/CompSciLauren/awesome-git-hooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) · ⭐ 807 · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/CompSciLauren/awesome-git-hooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) · ⭐ 812 · 🏷️ Development Environment
 
 [ [Daily](/content/CompSciLauren/awesome-git-hooks/README.md) / [Weekly](/content/CompSciLauren/awesome-git-hooks/week/README.md) / Overview ]
 

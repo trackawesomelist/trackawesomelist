@@ -2,7 +2,7 @@
 
 A curated list of delightful Conversational AI resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jyguyomarch/awesome-conversational-ai/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jyguyomarch/awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai) · ⭐ 47 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/jyguyomarch/awesome-conversational-ai/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jyguyomarch/awesome-conversational-ai](https://github.com/jyguyomarch/awesome-conversational-ai) · ⭐ 51 · 🏷️ Computer Science
 
 [ [Daily](/content/jyguyomarch/awesome-conversational-ai/README.md) / [Weekly](/content/jyguyomarch/awesome-conversational-ai/week/README.md) / Overview ]
 

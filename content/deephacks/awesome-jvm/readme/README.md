@@ -2,7 +2,7 @@
 
 A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/deephacks/awesome-jvm/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) · ⭐ 1.8K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/deephacks/awesome-jvm/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 deephacks/awesome-jvm](https://github.com/deephacks/awesome-jvm) · ⭐ 1.9K · 🏷️ Platforms
 
 [ [Daily](/content/deephacks/awesome-jvm/README.md) / [Weekly](/content/deephacks/awesome-jvm/week/README.md) / Overview ]
 

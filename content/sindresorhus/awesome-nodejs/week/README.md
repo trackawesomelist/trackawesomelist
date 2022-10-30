@@ -2,7 +2,7 @@
 
 :zap: Delightful Node.js packages and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-nodejs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) · ⭐ 47K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-nodejs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) · ⭐ 48K · 🏷️ Platforms
 
 [ [Daily](/content/sindresorhus/awesome-nodejs/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-nodejs/readme/README.md) ]
 
@@ -1558,7 +1558,6 @@
 *   [byline (⭐318)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
 *   [first-chunk-stream (⭐26)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 *   [pad-stream (⭐10)](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
-*   [stream-combiner2](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 
 ### Packages / Text
 
@@ -1944,7 +1943,6 @@
 ### Resources / Tutorials
 
 *   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
-*   [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 
 ### Resources / Videos
 

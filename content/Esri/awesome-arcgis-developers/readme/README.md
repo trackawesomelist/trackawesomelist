@@ -2,7 +2,7 @@
 
 A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Esri/awesome-arcgis-developers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Esri/awesome-arcgis-developers](https://github.com/Esri/awesome-arcgis-developers) · ⭐ 99 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Esri/awesome-arcgis-developers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Esri/awesome-arcgis-developers](https://github.com/Esri/awesome-arcgis-developers) · ⭐ 101 · 🏷️ Platforms
 
 [ [Daily](/content/Esri/awesome-arcgis-developers/README.md) / [Weekly](/content/Esri/awesome-arcgis-developers/week/README.md) / Overview ]
 

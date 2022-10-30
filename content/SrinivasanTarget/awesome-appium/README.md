@@ -2,7 +2,7 @@
 
 A curated list of delightful Appium resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/SrinivasanTarget/awesome-appium/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 SrinivasanTarget/awesome-appium](https://github.com/SrinivasanTarget/awesome-appium) · ⭐ 386 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/SrinivasanTarget/awesome-appium/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 SrinivasanTarget/awesome-appium](https://github.com/SrinivasanTarget/awesome-appium) · ⭐ 387 · 🏷️ Testing
 
 [ Daily / [Weekly](/content/SrinivasanTarget/awesome-appium/week/README.md) / [Overview](/content/SrinivasanTarget/awesome-appium/readme/README.md) ]
 

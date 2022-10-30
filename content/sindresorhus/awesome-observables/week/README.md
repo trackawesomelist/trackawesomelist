@@ -2,7 +2,7 @@
 
 Awesome Observable related stuff - An Observable is a collection that arrives over time.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-observables/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-observables](https://github.com/sindresorhus/awesome-observables) · ⭐ 315 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-observables/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-observables](https://github.com/sindresorhus/awesome-observables) · ⭐ 316 · 🏷️ Programming Languages
 
 [ [Daily](/content/sindresorhus/awesome-observables/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-observables/readme/README.md) ]
 

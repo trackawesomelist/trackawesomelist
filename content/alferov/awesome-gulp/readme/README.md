@@ -2,7 +2,7 @@
 
 :tropical_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation - http://alferov.github.io/awesome-gulp
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/alferov/awesome-gulp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 alferov/awesome-gulp](https://github.com/alferov/awesome-gulp) · ⭐ 592 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/alferov/awesome-gulp/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 alferov/awesome-gulp](https://github.com/alferov/awesome-gulp) · ⭐ 593 · 🏷️ Miscellaneous
 
 [ [Daily](/content/alferov/awesome-gulp/README.md) / [Weekly](/content/alferov/awesome-gulp/week/README.md) / Overview ]
 

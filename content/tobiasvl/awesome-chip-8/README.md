@@ -2,7 +2,7 @@
 
 List of CHIP-8 resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tobiasvl/awesome-chip-8/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tobiasvl/awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8) · ⭐ 86 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tobiasvl/awesome-chip-8/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tobiasvl/awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8) · ⭐ 88 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/tobiasvl/awesome-chip-8/week/README.md) / [Overview](/content/tobiasvl/awesome-chip-8/readme/README.md) ]
 

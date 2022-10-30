@@ -57,7 +57,7 @@
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+*   [Wexflow (⭐1)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
 ## [5. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 

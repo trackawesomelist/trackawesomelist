@@ -85,7 +85,7 @@
 
 ### Networking
 
-*   [aiodns (⭐465)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
+*   [aiodns (⭐465)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

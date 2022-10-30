@@ -674,7 +674,7 @@
 
 ### Frameworks, Libraries and Tools / Workflow
 
-*   [Wexflow](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
+*   [Wexflow (⭐1)](https://github.com/aelassas/Wexflow) - A high performance, extensible, modular and cross-platform workflow engine.
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
 

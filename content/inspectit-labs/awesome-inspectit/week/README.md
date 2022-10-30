@@ -2,7 +2,7 @@
 
 A curated list of awesome inspectIT documentations and resources. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inspectit-labs/awesome-inspectit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 inspectit-labs/awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit) · ⭐ 21 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/inspectit-labs/awesome-inspectit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 inspectit-labs/awesome-inspectit](https://github.com/inspectit-labs/awesome-inspectit) · ⭐ 22 · 🏷️ Miscellaneous
 
 [ [Daily](/content/inspectit-labs/awesome-inspectit/README.md) / Weekly / [Overview](/content/inspectit-labs/awesome-inspectit/readme/README.md) ]
 

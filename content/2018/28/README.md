@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 09 - Jul 15, 2018
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -266,20 +266,13 @@ Webpage: <https://yoghut.com/>
 *   [HackerX](https://www.hackerx.org/jobs/)
 *   [Remotees](https://remotees.com/)
 
-## [32. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
-
-### Web Frameworks
-
-*   [Vibora (⭐5.7k)](https://github.com/vibora-io/vibora) - Performant web framework inspired by Flask.
-*   [Japronto! (⭐8.6k)](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
-
-## [33. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [iGlance (⭐2.1k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Moneypulation/iGlance) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Moneypulation/iGlance)
 
-## [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Columnar Databases
 
@@ -288,7 +281,7 @@ Webpage: <https://yoghut.com/>
 *   [IndexR (⭐448)](https://github.com/shunfei/indexr) - an open-source columnar storage format for fast & realtime analytic with big data.
 *   [LocustDB (⭐1.4k)](https://github.com/cswinter/LocustDB) - an experimental analytics database aiming to set a new standard for query performance on commodity hardware.
 
-## [35. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [34. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References
 
@@ -318,13 +311,13 @@ Webpage: <https://yoghut.com/>
 
 *   [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 
-## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / Texas Instruments
 
 *   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐27)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐75)](https://github.com/thejpster/pc-keyboard).
 
-## [37. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [36. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -334,13 +327,13 @@ Webpage: <https://yoghut.com/>
 
 *   [Generic File Parser](https://github.com/uppusaikiran/generic-parser) - A Single Library Parser to extract meta information,static analysis and detect macros within the files.
 
-## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [How a cat inspired system reliability at Knowlarity](https://medium.com/@Knowlarity_Engineering/how-a-cat-inspired-system-reliability-at-knowlarity-ad73c24f29a7)
 
-## [39. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [38. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Testing
 
@@ -354,7 +347,7 @@ Webpage: <https://yoghut.com/>
 
 *   [Test helpers: The next generation](https://dockyard.com/blog/2018/01/18/test-helpers-the-next-generation)
 
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -369,13 +362,13 @@ Webpage: <https://yoghut.com/>
 
 *   [Book (⭐314)](https://github.com/putraxor/flutter-book-app) <!--stargazers:putraxor/flutter-book-app--> - Bookshelf by [Ardiansyah Putra](https://github.com/putraxor)
 
-## [41. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [40. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Command Line / XML
 
 *   [darg (⭐37)](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
 
-## [42. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 

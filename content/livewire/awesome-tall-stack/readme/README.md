@@ -2,7 +2,7 @@
 
 A curated list of awesome things related to the TALL stack.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/livewire/awesome-tall-stack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 livewire/awesome-tall-stack](https://github.com/livewire/awesome-tall-stack) · ⭐ 745 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/livewire/awesome-tall-stack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 livewire/awesome-tall-stack](https://github.com/livewire/awesome-tall-stack) · ⭐ 748 · 🏷️ Back-End Development
 
 [ [Daily](/content/livewire/awesome-tall-stack/README.md) / [Weekly](/content/livewire/awesome-tall-stack/week/README.md) / Overview ]
 

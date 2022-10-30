@@ -2,7 +2,7 @@
 
 :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jagracey/Awesome-Unicode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) · ⭐ 807 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jagracey/Awesome-Unicode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) · ⭐ 809 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/jagracey/Awesome-Unicode/week/README.md) / [Overview](/content/jagracey/Awesome-Unicode/readme/README.md) ]
 

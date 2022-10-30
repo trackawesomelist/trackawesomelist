@@ -851,7 +851,6 @@
 
 ### APIs, Data and ML
 
-*   [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. Free tier of 1000 API calls.
 *   [Export SDK](https://exportsdk.com) - PDF generator API with drag and drop template editor that also provides an SDK and no-code integrations. Free plan comes with 250 pages per month, unlimited users and three templates.
 *   [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100k free requests / month.
 
@@ -885,6 +884,218 @@
 *   [vue-sfc-split (⭐0)](https://github.com/gVguy/vue-sfc-split) - Convert SFCs for native browser use without build
 
 ## [71. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+### Development
+
+- API: [ZenRows](https://www.zenrows.com/)
+
+  Description: Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Beeceptor](https://beeceptor.com/)
+
+  Description: Build a mock Rest API endpoint in seconds
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Blague.xyz](https://blague.xyz/)
+
+  Description: La plus grande API de Blagues FR/The biggest FR jokes API
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Brainshop.ai](https://brainshop.ai/)
+
+  Description: Make A Free A.I Brain
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Codex (⭐165)](https://github.com/Jaagrav/CodeX)
+
+  Description: Online Compiler for Various Languages
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api)
+
+  Description: Provide numerous capabilities for important testing and monitoring methods for websites
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Google Firebase](https://firebase.google.com/docs)
+
+  Description: Google's mobile application development platform that helps build, improve, and grow app
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Google Fonts](https://developers.google.com/fonts/docs/developer_api)
+
+  Description: Metadata for all families served by Google Fonts
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Hasura](https://hasura.io/opensource/)
+
+  Description: GraphQL and REST API Engine with built in Authorization
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Heroku](https://devcenter.heroku.com/articles/platform-api-reference/)
+
+  Description: REST API to programmatically create apps, provision add-ons and perform other task on Heroku
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Hunter](https://hunter.io/api)
+
+  Description: API for domain search, professional email finder, author finder and email verifier
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [ip-fast.com](https://ip-fast.com/docs/)
+
+  Description: IP address, country and city
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Micro DB](https://m3o.com/db)
+
+  Description: Simple database service
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [MY IP](https://www.myip.com/api-docs/)
+
+  Description: Get IP address information
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Netlify](https://docs.netlify.com/api/get-started/)
+
+  Description: Netlify is a hosting service for the programmable web
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [OpenGraphr](https://opengraphr.com/docs/1.0/overview)
+
+  Description: Really simple API to retrieve Open Graph data from an URL
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Random Stuff](https://api-docs.pgamerx.com/)
+
+  Description: Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Sonar (⭐584)](https://github.com/Cgboal/SonarSearch)
+
+  Description: Project Sonar DNS Enumeration API
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Wandbox (⭐1k)](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)
+
+  Description: Code compiler supporting 35+ languages mentioned at wandbox.org
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
 
 ### Animals
 
@@ -1333,207 +1544,6 @@
   Description: VAT number validation
 
   Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-
-### Development
-
-- API: [Beeceptor](https://beeceptor.com/)
-
-  Description: Build a mock Rest API endpoint in seconds
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Blague.xyz](https://blague.xyz/)
-
-  Description: La plus grande API de Blagues FR/The biggest FR jokes API
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Brainshop.ai](https://brainshop.ai/)
-
-  Description: Make A Free A.I Brain
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Codex (⭐165)](https://github.com/Jaagrav/CodeX)
-
-  Description: Online Compiler for Various Languages
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [GeekFlare](https://apidocs.geekflare.com/docs/geekflare-api)
-
-  Description: Provide numerous capabilities for important testing and monitoring methods for websites
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Google Firebase](https://firebase.google.com/docs)
-
-  Description: Google's mobile application development platform that helps build, improve, and grow app
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Google Fonts](https://developers.google.com/fonts/docs/developer_api)
-
-  Description: Metadata for all families served by Google Fonts
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Hasura](https://hasura.io/opensource/)
-
-  Description: GraphQL and REST API Engine with built in Authorization
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Heroku](https://devcenter.heroku.com/articles/platform-api-reference/)
-
-  Description: REST API to programmatically create apps, provision add-ons and perform other task on Heroku
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Hunter](https://hunter.io/api)
-
-  Description: API for domain search, professional email finder, author finder and email verifier
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [ip-fast.com](https://ip-fast.com/docs/)
-
-  Description: IP address, country and city
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Micro DB](https://m3o.com/db)
-
-  Description: Simple database service
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [MY IP](https://www.myip.com/api-docs/)
-
-  Description: Get IP address information
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Netlify](https://docs.netlify.com/api/get-started/)
-
-  Description: Netlify is a hosting service for the programmable web
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [OpenGraphr](https://opengraphr.com/docs/1.0/overview)
-
-  Description: Really simple API to retrieve Open Graph data from an URL
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Random Stuff](https://api-docs.pgamerx.com/)
-
-  Description: Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Sonar (⭐584)](https://github.com/Cgboal/SonarSearch)
-
-  Description: Project Sonar DNS Enumeration API
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Wandbox (⭐1k)](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst)
-
-  Description: Code compiler supporting 35+ languages mentioned at wandbox.org
-
-  Auth: No
 
   HTTPS: Yes
 

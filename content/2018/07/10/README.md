@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10, 2018
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -37,14 +37,7 @@
 
 *   [HackerX](https://www.hackerx.org/jobs/)
 
-## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
-
-### Web Frameworks
-
-*   [Vibora (⭐5.7k)](https://github.com/vibora-io/vibora) - Performant web framework inspired by Flask.
-*   [Japronto! (⭐8.6k)](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
-
-## [7. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### References
 
@@ -66,13 +59,13 @@
 
 *   [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 
-## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
 *   [VirusBay](https://beta.virusbay.io/) - Community-Based malware repository and social network.
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 

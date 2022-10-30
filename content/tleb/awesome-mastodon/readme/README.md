@@ -2,7 +2,7 @@
 
 Curated list of awesome Mastodon-related stuff!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tleb/awesome-mastodon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) · ⭐ 429 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tleb/awesome-mastodon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tleb/awesome-mastodon](https://github.com/tleb/awesome-mastodon) · ⭐ 431 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/tleb/awesome-mastodon/README.md) / [Weekly](/content/tleb/awesome-mastodon/week/README.md) / Overview ]
 

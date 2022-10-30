@@ -2,7 +2,7 @@
 
 :tv: A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-tech-videos/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lucasviola/awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) · ⭐ 577 · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-tech-videos/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lucasviola/awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) · ⭐ 579 · 🏷️ Learn
 
 [ [Daily](/content/lucasviola/awesome-tech-videos/README.md) / [Weekly](/content/lucasviola/awesome-tech-videos/week/README.md) / Overview ]
 

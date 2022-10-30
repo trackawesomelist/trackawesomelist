@@ -788,10 +788,6 @@
 
 ## [40. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
-### React Tools / React Awesome Components
-
-*   [swiper (⭐33k)](https://github.com/nolimits4web/swiper) - modern mobile touch slider
-
 ### React Tools / React Frameworks
 
 *   [refine](https://refine.dev) - A React-based framework for building data-intensive applications in no time.
@@ -886,6 +882,7 @@
 
 ### Components & Libraries / UI Components
 
+*   [swiper (⭐33k)](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 *   [vue3-side-panel (⭐15)](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
 *   [vue-search-input (⭐16)](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
 

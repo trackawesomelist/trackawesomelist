@@ -1305,7 +1305,13 @@
 
 *   [AdvanceDLSupport (⭐451)](https://github.com/Firwood-Software/AdvanceDLSupport) - Library to improve P/Invoke-ing native code. Interact with native objects as if they were first class objects.
 
-## [34. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [34. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Frameworks
+
+*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
+
+## [35. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
@@ -1324,7 +1330,7 @@
 
 *   [cleanflux (⭐32)](https://github.com/Transatel/cleanflux) - proxy around /query endpoint with auto retention policy selection and on the wire bug corrections
 
-## [35. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [36. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -1335,7 +1341,7 @@
 *   [Events in Italy (⭐145)](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
 *   [Events in the Netherlands (⭐50)](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
-## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [37. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Localization / Barcode
 
@@ -1349,13 +1355,13 @@
 
 *   [ASCollectionView (⭐363)](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Philippines](https://www.facebook.com/groups/laravelph)
 
-## [38. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [39. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Data Management
 
@@ -1393,7 +1399,7 @@
 *   [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 *   [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 
-## [39. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [40. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Assorted
 
@@ -1427,19 +1433,19 @@
 
 *   [Ideamotive's Blog](https://www.ideamotive.co/blog/tag/react-native) - Blog about React Native
 
-## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [Flox (⭐1.1k)](https://github.com/devfake/flox) `⚠` - Self hosted movie, TV series and anime watch list with a 3-point rating system. Uses The Movie Database backend for information. ([Demo](https://flox-demo.pyxl.dev/)) `MIT` `PHP`
 
-## [41. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [42. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Conferences
 
 *   [PyCon US](https://us.pycon.org/2020/) ([YouTube Channel](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ))
 
-## [42. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
+## [43. Awesome Wp Cli](/content/schlessera/awesome-wp-cli/week/README.md)
 
 ### Official links
 
@@ -1466,16 +1472,6 @@
 *   [An Introduction to WP-CLI](https://pascalbirchler.com/an-introduction-to-wp-cli/) - Introductory article that introduces the main concepts and some popular use cases of WP-CLI.
 *   [Controlling WordPress through the Command Line](https://wordpress.tv/2017/05/22/alain-schlesser-controlling-wordpress-through-the-command-line-introduction-to-wp-cli/) - Introductory talk that covers the very basics of the command line for people who never used the console before.
 *   [WP Bullet WP-CLI Guides](https://guides.wp-bullet.com/category/wp-cli/) - Snippet-based guides that solve specific use cases.
-
-## [43. Awesome React](/content/enaqx/awesome-react/week/README.md)
-
-### React Tools / React Awesome Components
-
-*   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
-
-### React Tools / React Frameworks
-
-*   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 
 ## [44. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -1705,6 +1701,10 @@
 *   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
 ## [61. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Miscellaneous
+
+*   [react-pdf-viewer (⭐1.4k)](https://github.com/phuoc-ng/react-pdf-viewer) - [docs](https://react-pdf-viewer.dev) - A React component to view a PDF document.
 
 ### Boilerplate / Mouse Events
 

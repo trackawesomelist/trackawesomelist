@@ -42,17 +42,17 @@
 *   [BulletinBoard (⭐5.2k)](https://github.com/alexisakers/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 *   [Wallet](https://github.com/russ-stamant/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 
-## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+
+### Software / Command Line Tools
+
+*   [SimpleLocalize (⭐34)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
+
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 
 *   [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
-
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
-
-### Miscellaneous / Lazy Load
-
-*   [SimpleLocalize (⭐34)](https://github.com/simplelocalize/simplelocalize-cli) - Open source CLI tool for finding i18n keys in React projects.
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

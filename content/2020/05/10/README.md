@@ -1,6 +1,6 @@
 # Awesome List Updates on May 10, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -14,14 +14,13 @@
 
 ## [2. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### React Tools / React Awesome Components
-
-*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - Minimalistic searchbox
-*   [react-beautiful-dnd (⭐28k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
-
 ### React Tools / React Component Libraries
 
 *   [rebass (⭐7.8k)](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system
+
+### React Tools / React Awesome Components
+
+*   [react-beautiful-dnd (⭐28k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -158,7 +157,13 @@
 
 *   [WCTF2019: Gyotaku The Flag](https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf) - Written by [@t0nk42](https://twitter.com/t0nk42).
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+
+### Miscellaneous
+
+*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
+
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
@@ -168,7 +173,7 @@
 
 *   [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
 
-## [13. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Talks
 
