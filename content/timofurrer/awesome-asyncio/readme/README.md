@@ -69,8 +69,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *   [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 *   [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 *   [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
-*   [aioredis](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156).
-*   [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
+*   [redis-py](https://github.com/redis/redis-py) - Redis Python Client (which includes [aioreadis](https://github.com/aio-libs/aioredis) now).
 *   [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 *   [aioinflux](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 *   [aioes](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
@@ -79,6 +78,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *   [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 *   [Databases](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
 *   [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
+*   [Piccolo](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
 
 ## Networking
 
@@ -117,10 +117,13 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Other awesome asyncio libraries.*
 
+*   [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
 *   [aiocache](https://github.com/argaen/aiocache) - Cache manager for different backends.
 *   [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
+*   [aiopath](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
 *   [aiodebug](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
 *   [aiorun](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+*   [aiosc](https://github.com/artfwo/aiosc) -  Lightweight Open Sound Control implementation.
 *   [aioserial](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial).
 *   [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 *   [asgiref](https://github.com/django/asgiref) - Backend utils for ASGI to WSGI integration, includes sync\_to\_async and async\_to\_sync function wrappers.

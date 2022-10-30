@@ -6,6 +6,16 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Oct 30, 2022](/content/2022/10/30/README.md)
+
+### Applications / Editors
+
+*   [vPDF (⭐60)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
+
+### Applications / Web
+
+*   [Gitly (⭐1k)](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
+
 ## [Oct 28, 2022](/content/2022/10/28/README.md)
 
 ### Applications / Command-line

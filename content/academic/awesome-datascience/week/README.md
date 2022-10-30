@@ -8,6 +8,19 @@
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
+### Algorithms / Supervised Learning
+
+*   [Ordinary Least Squares](https://en.wikipedia.org/wiki/Ordinary_least_squares)
+*   [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+*   [Stepwise Regression](https://en.wikipedia.org/wiki/Stepwise_regression)
+*   [Multivariate Adaptive Regression Splines](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
+*   Classification
+    *   [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+    *   [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)
+    *   [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
+    *   ID3 algorithm
+    *   C4.5 algorithm
+
 ### Books / Visualization Tools
 
 *   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download
@@ -93,17 +106,7 @@
 
 *   Regression
 *   [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-*   Ordinary Least Squares
-*   Logistic Regression
-*   Stepwise Regression
-*   Multivariate Adaptive Regression Splines
 *   Locally Estimated Scatterplot Smoothing
-*   Classification
-    *   k-nearest neighbor
-    *   Support Vector Machines
-    *   Decision Trees
-    *   ID3 algorithm
-    *   C4.5 algorithm
 *   Ensemble Learning
 *   Boosting
 *   Bagging

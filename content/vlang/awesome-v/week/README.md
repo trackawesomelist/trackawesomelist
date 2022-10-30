@@ -12,9 +12,17 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [crepl (⭐11)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 
+### Applications / Editors
+
+*   [vPDF (⭐60)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
+
 ### Applications / Interpreters/Compilers
 
 *   [stas (⭐10)](https://github.com/l1mey112/stas) - A stack based compiled programming language. Takes inspiration from Forth with a modern syntax.
+
+### Applications / Web
+
+*   [Gitly (⭐1k)](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 

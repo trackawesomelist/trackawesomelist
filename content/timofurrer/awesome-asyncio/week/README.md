@@ -14,7 +14,9 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
+*   [redis-py (⭐11k)](https://github.com/redis/redis-py) - Redis Python Client (which includes [aioreadis (⭐2.2k)](https://github.com/aio-libs/aioredis) now).
 *   [Prisma Client Python (⭐838)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
+*   [Piccolo (⭐861)](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
 
 ### Networking
 
@@ -26,6 +28,9 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Misc
 
+*   [aiochan (⭐121)](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
+*   [aiopath (⭐58)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
+*   [aiosc (⭐25)](https://github.com/artfwo/aiosc) -  Lightweight Open Sound Control implementation.
 *   [kubernetes\_asyncio (⭐241)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
 *   [aiomisc (⭐279)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 
@@ -194,12 +199,6 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 *   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.7k)](https://github.com/MagicStack/asyncpg) dialect.
 
-## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
-
-### Database Drivers
-
-*   [aioredis (⭐2.2k)](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156).
-
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
 
 ### Writings
@@ -274,7 +273,6 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 *   [aiomysql (⭐1.5k)](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 *   [aioodbc (⭐251)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 *   [motor (⭐2k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
-*   [asyncio-redis (⭐548)](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
 *   [aiocouchdb (⭐53)](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 
 ### Networking

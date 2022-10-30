@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Oct 30, 2022](/content/2022/10/30/README.md)
+
+### Logging
+
+*   [pp](https://https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
+
 ## [Oct 25, 2022](/content/2022/10/25/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares

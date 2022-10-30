@@ -6,6 +6,12 @@
 
 [ [Daily](/content/veggiemonk/awesome-docker/README.md) / Weekly / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
+## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
+
+### Monitoring
+
+*   [HertzBeat (⭐1.9k)](https://github.com/dromara/hertzbeat) - An open-source real-time monitoring system with custom-monitor and agentless.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### Container Composition
