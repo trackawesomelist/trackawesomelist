@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
 
-## [Oct 30, 2022](/content/2022/10/30/README.md)
+## [Oct 29, 2022](/content/2022/10/29/README.md)
 
 ### 1 - Agnósticos / Inteligencia Artificial
 

@@ -35,19 +35,13 @@
 
 *   [nt9 (⭐29)](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - A clean, distraction free and `git` focused development theme. Shows path relative to `git` root (or `~` when outside `git` repo), time since last commit, current SHA, branch and branch state.
 
-## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Theoretical Computer Science
-
-*   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
-
-## [6. Awesome Material](/content/sachin1092/awesome-material/README.md)
+## [5. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
 ### JS
 
 *   [MUI](https://mui.com/) — The React component library of Material Design
 
-## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Design
 
@@ -56,6 +50,18 @@
 ### Standards
 
 *   [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) - Simple format that gives a consistent and easy way to hyperlink between resources in your API.
+
+## [7. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### JavaScript / React.js
+
+*   [Epic React](https://epicreact.dev/podcast) - Kent C. Dodds (podcast)
+*   [React Native Nerds](https://www.reactnativenerds.com) - Spencer Carli, Jonathan Wheat (podcast)
+
+### Language Agnostic / React.js
+
+*   [Reactive](https://podcasts.apple.com/us/podcast/reactive/id1020286000) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
+*   [Talking Code](https://podcasts.apple.com/us/podcast/talking-code/id988073177) - Josh Smith, Venkat Dinavahi (podcast)
 
 ## [8. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 

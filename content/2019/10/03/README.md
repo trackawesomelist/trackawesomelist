@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 03, 2019
 
-23 awesome lists updated today.
+24 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -145,20 +145,26 @@ Webpage: <https://https://www.costa.co.uk/>
 *   [Weather App (⭐3)](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
 *   [Top Down Shooter (⭐9)](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [14. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### Data Science
+
+*   [Super Data Science](https://www.superdatascience.com/podcast/) (podcast)
+
+## [15. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Media / Navigation Demos
 
 *   [react-native-music-control (⭐698)](https://github.com/tanguyantoine/react-native-music-control/) - React Native module to display Now playing Info on lockscreen and handle control events
 *   [react-native-airplay-button (⭐1)](https://github.com/CBCNewMedia/react-native-airplay-button) - Native iOS Airplay button component
 
-## [15. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
+## [16. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 
-## [16. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [17. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools / Repair or Validate CSV
 
@@ -173,13 +179,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Utility / Barcode
 
 *   [DuctTape (⭐170)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
 
-## [18. Public Apis](/content/public-apis/public-apis/README.md)
+## [19. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Anti-Malware
 
@@ -237,7 +243,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 
 
-## [19. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [20. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / jQuery
 
@@ -248,13 +254,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
-## [20. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [21. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [GitPod](https://www.gitpod.io/github-student-developer-pack/)\[FREE] - An online IDE for GitHub that provides a complete dev environment with a single click.Free personal plan subscription for six months for students via [Github Student Developer Pack](https://education.github.com/pack).
 
-## [21. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [22. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -301,7 +307,7 @@ Webpage: <https://https://www.costa.co.uk/>
 | ------: | -------: | ---: |
 |   2 - 5 |        8 |  15m |
 
-## [22. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [23. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Bytecode Manipulation
 
@@ -425,7 +431,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Bootique](https://bootique.io) - Minimally opinionated framework for runnable apps.
 
-## [23. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [24. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 

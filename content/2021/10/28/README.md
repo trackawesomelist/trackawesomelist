@@ -19,13 +19,7 @@
 *   [Aaia (⭐254)](https://github.com/rams3sh/Aaia) - Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.
 *   [Principal Mapper (PMapper) (⭐1.1k)](https://github.com/nccgroup/PMapper) - Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.
 
-## [3. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Blockchain
-
-*   [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
-
-## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Pastebins
 
@@ -42,6 +36,12 @@
 ### Data and Statistics / Telegram
 
 *   [UNESCO Institute for Statistics](http://uis.unesco.org)
+
+## [4. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### IDE and editors
+
+*   [Emacs Cast](https://emacscast.org) - Rakhim Davletkaliyev (podcast)
 
 ## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 

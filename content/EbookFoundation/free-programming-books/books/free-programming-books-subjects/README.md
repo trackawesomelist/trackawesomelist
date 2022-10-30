@@ -16,13 +16,15 @@
 
 *   [Machine Learning Simplified](https://themlsbook.com/read) - Andrew Wolf
 
-### Mathematics For Computer Science
-
-*   [Combinatorial Problems And Exercises (1979)](https://archive.org/details/in.ernet.dli.2015.141538/) - L. Lovasz *(:card\_file\_box: archived)*
-
 ### Quantum Computing
 
 *   [The Functional Analysis of Quantum Information Theory](https://arxiv.org/abs/1410.7188) - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder (PDF)
+
+## [Oct 29, 2022](/content/2022/10/29/README.md)
+
+### Mathematics For Computer Science
+
+*   [Combinatorial Problems And Exercises (1979)](https://archive.org/details/in.ernet.dli.2015.141538/) - L. Lovasz *(:card\_file\_box: archived)*
 
 ## [Oct 26, 2022](/content/2022/10/26/README.md)
 
