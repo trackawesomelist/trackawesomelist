@@ -166,7 +166,7 @@ Discussions and user questions are best done on the
 [vim\_use](https://groups.google.com/forum/#!forum/vim_use) mailing list or using
 IRC ([Freenode](https://freenode.net)) in the `#vim` channel.
 
-Development happens on [GitHub](https://github.com/vim/vim), discussions on the
+Development happens on [GitHub (⭐29k)](https://github.com/vim/vim), discussions on the
 [vim\_dev](https://groups.google.com/forum/#!forum/vim_dev) mailing list.
 
 Read [Why, oh WHY, do those #?@! nutheads use
@@ -249,7 +249,7 @@ for yourself. :-)
 So here it is: [minimal-vimrc](https://github.com/mhinz/vim-galore/blob/master/README.md/static/minimal-vimrc.vim)
 
 In case you're interested, here's
-[my vimrc](https://github.com/mhinz/dotfiles/blob/master/.vim/vimrc).
+[my vimrc (⭐292)](https://github.com/mhinz/dotfiles/blob/master/.vim/vimrc).
 
 **TIP**: Most plugin authors maintain several plugins and also publish their
 vimrc on GitHub (often in a repository called "vim-config" or "dotfiles"), so
@@ -307,7 +307,7 @@ Help:
 *   <http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_screen.png>
 *   <http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png>
 
-Or quickly open a cheatsheet from within Vim: [vim-cheat40](https://github.com/lifepillar/vim-cheat40).
+Or quickly open a cheatsheet from within Vim: [vim-cheat40 (⭐228)](https://github.com/lifepillar/vim-cheat40).
 
 # Basics
 
@@ -884,7 +884,7 @@ The undo tree is kept in memory and will be lost when Vim quits. See [Undo
 files](#undo-files) for how to enable persistent undo.
 
 If you're confused by the undo tree,
-[undotree](https://github.com/mbbill/undotree) does a great job at visualizing
+[undotree (⭐2.2k)](https://github.com/mbbill/undotree) does a great job at visualizing
 it.
 
 Help:
@@ -1068,7 +1068,7 @@ Vim distinguishes between several types of fold methods:
 
 **NOTE**: Folding can be computationally intensive! If you experience any
 performance drawbacks (small delays when typing), have a look at
-[FastFold](https://github.com/Konfekt/FastFold), which prevents Vim from
+[FastFold (⭐684)](https://github.com/Konfekt/FastFold), which prevents Vim from
 updating folds when it's not needed.
 
 Help:
@@ -1668,7 +1668,7 @@ mount a remote filesystem into your local filesystem.
 
 ## Managing plugins
 
-[Pathogen](https://github.com/tpope/vim-pathogen) was the first popular tool for
+[Pathogen (⭐12k)](https://github.com/tpope/vim-pathogen) was the first popular tool for
 managing plugins. Actually it just adjusts the *runtimepath* (`:h 'rtp'`) to
 include all the things put under a certain directory. You have to clone the
 repositories of the plugins there yourself.
@@ -1709,7 +1709,7 @@ See `:h blockwise-examples` for more info. It might seem complicated at first,
 but quickly becomes second nature.
 
 If you want to get real fancy, have a look at
-[multiple-cursors](https://github.com/terryma/vim-multiple-cursors).
+[multiple-cursors (⭐7.8k)](https://github.com/terryma/vim-multiple-cursors).
 
 ## Running external programs and using filters
 
@@ -1917,7 +1917,7 @@ chances are your terminal emulator doesn't support true colors or your
 colorcheme has no GUI colors defined.
 
 Many people use the terminal multiplexer
-[tmux](https://github.com/tmux/tmux/wiki) which basically sits in between the
+[tmux (⭐27k)](https://github.com/tmux/tmux/wiki) which basically sits in between the
 terminal emulator and Vim. To make tmux *forward* the true color escape
 sequences emitted by Vim, you have to put the following in the user's
 `.tmux.conf`:
@@ -2484,8 +2484,8 @@ looking at a few distributions:
 
 *   [cream](http://cream.sourceforge.net)
 *   [janus](https://github.com/carlhuda/janus.git)
-*   [spacevim](https://github.com/SpaceVim/SpaceVim)
-*   [spf13](https://github.com/spf13/spf13-vim)
+*   [spacevim (⭐19k)](https://github.com/SpaceVim/SpaceVim)
+*   [spf13 (⭐15k)](https://github.com/spf13/spf13-vim)
 
 ## Standard plugins
 
@@ -2539,8 +2539,8 @@ To change the keys in X, put this in your `~/.xmodmap`:
 
 Afterwards source it via `$ xmodmap ~/.xmodmap`.
 
-An alternative would be using [caps2esc](https://github.com/oblitum/caps2esc) or
-[xcape](https://github.com/alols/xcape).
+An alternative would be using [caps2esc (⭐150)](https://github.com/oblitum/caps2esc) or
+[xcape (⭐2k)](https://github.com/alols/xcape).
 
 **Windows**:
 
@@ -2598,14 +2598,14 @@ There are two things which can have a huge impact on performance:
     people to have slowdowns in the past. (Also see [Debugging syntax files](#debugging-syntax-files).)
 2.  **Screen redraws**. Some features force all lines to redraw.
 
-| Typical culprit          | Why?                                                                                                              | Solution?                                                                                             |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| `:set cursorline`        | Causes all lines to redraw.                                                                                       | `:set nocursorline`                                                                                   |
-| `:set cursorcolumn`      | Causes all lines to redraw.                                                                                       | `:set nocursorcolumn`                                                                                 |
-| `:set relativenumber`    | Causes all lines to redraw.                                                                                       | `:set norelativenumber`                                                                               |
-| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse.                                                     | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold](https://github.com/Konfekt/FastFold) |
-| `:set synmaxcol=3000`    | Due to internal representation, Vim has problems with long lines in general. Highlights columns till column 3000. | `:set synmaxcol=200`                                                                                  |
-| matchparen.vim           | Loaded by default. Uses regular expressions to find the accompanying parenthesis.                                 | Disable plugin: `:h matchparen`                                                                       |
+| Typical culprit          | Why?                                                                                                              | Solution?                                                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| `:set cursorline`        | Causes all lines to redraw.                                                                                       | `:set nocursorline`                                                                                          |
+| `:set cursorcolumn`      | Causes all lines to redraw.                                                                                       | `:set nocursorcolumn`                                                                                        |
+| `:set relativenumber`    | Causes all lines to redraw.                                                                                       | `:set norelativenumber`                                                                                      |
+| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse.                                                     | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold (⭐684)](https://github.com/Konfekt/FastFold) |
+| `:set synmaxcol=3000`    | Due to internal representation, Vim has problems with long lines in general. Highlights columns till column 3000. | `:set synmaxcol=200`                                                                                         |
+| matchparen.vim           | Loaded by default. Uses regular expressions to find the accompanying parenthesis.                                 | Disable plugin: `:h matchparen`                                                                              |
 
 **NOTE**: You only need to do this if you experience actual performance
 drawbacks. In most cases using the things mentioned above is absolutely fine.
@@ -2652,7 +2652,7 @@ To workaround this, you have to `:set paste`, so it gets pasted as-is. See `:h
 
 If you're fed up with toggling `'paste'` all the time, have a look at this fine
 plugin that does it for you:
-[bracketed-paste](https://github.com/ConradIrwin/vim-bracketed-paste).
+[bracketed-paste (⭐467)](https://github.com/ConradIrwin/vim-bracketed-paste).
 
 Additional read from the same author as the plugin:
 [here](http://cirw.in/blog/bracketed-paste).
@@ -2751,7 +2751,7 @@ See `man 7 ascii` and `:h NL-used-for-Nul` for more information.
 
 `Vim script`, `Vimscript`, and `VimL` all refer to the same thing: The
 programming language used for scripting Vim. Even though
-[8.0.360](https://github.com/vim/vim/commit/b544f3c81f1e6a50322855681ac266ffaa8e313c)
+[8.0.360 (⭐29k)](https://github.com/vim/vim/commit/b544f3c81f1e6a50322855681ac266ffaa8e313c)
 changed all references from `VimL` to `Vim script`, which can now be considered
 the official term, `VimL` is still widespread all over the internet.
 

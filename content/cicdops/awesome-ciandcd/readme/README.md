@@ -59,7 +59,7 @@ The theory for continuous integration and continuous deliver
 *   [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 *   [devopsdays](http://www.devopsdays.org)
 *   [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)
-*   [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap)
+*   [devops\_roadmap (⭐216k)](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Build And Release System
 
@@ -84,13 +84,13 @@ The system for software build and release, continuous integration and continuous
 *   [continuum](http://continuum.apache.org/) Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems
 *   [quickbuild](http://www.pmease.com/)  GitHub integration. Perforce shelve support. Coverity report rendering. Subversion external change retrieval. Resource access info. Display reasons for waiting steps. Custom build and request columns. Favorite dash board list. Inheritable environment variables.And much more...
 *   [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management
-*   [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
+*   [SimpleCI (⭐62)](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.
 *   [pulse](http://zutubi.com) no free version.
-*   [PHP Censor](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.
+*   [PHP Censor (⭐659)](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.
 *   [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.
 *   [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
 *   [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
-*   [Luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
+*   [Luigi (⭐16k)](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 *   [Kraken CI](https://kraken.ci) Kraken CI is a modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing.
 
 ## Online Build System
@@ -150,9 +150,9 @@ The hardware,virtual machines, fram management, docker
 ## Dev env
 
 *   [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.
-*   [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) A boilerplate to setup a Docker Swarm environment with Ansible
+*   [T.A.D.S. boilerplate (⭐609)](https://github.com/Thomvaill/tads-boilerplate) A boilerplate to setup a Docker Swarm environment with Ansible
 *   [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.
-*   [veewee](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes
+*   [veewee (⭐4.3k)](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes
 
 ## Source Code Management
 
@@ -199,7 +199,7 @@ Build tools
 *   [gradle](http://gradle.org/)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.
 *   [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity
 *   [SBT](http://www.scala-sbt.org/index.html)  sbt is an open source build tool for Scala and Java projects.
-*   [do](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
+*   [do (⭐25)](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
 ## Static Check
 
@@ -243,7 +243,7 @@ Software testing framework and tools
 *   [selenium](http://www.seleniumhq.org)  Selenium automates browsers
 *   [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 *   [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
-*   [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
+*   [Macaca (⭐3.1k)](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 
 ## Package
 
@@ -253,7 +253,7 @@ The tools for software package and installation
 *   [NSIS](http://nsis.sourceforge.net/Main_Page)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution
 *   [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages
 *   [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems
-*   [fpm](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
+*   [fpm (⭐11k)](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 *   [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.
 *   [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 
@@ -276,8 +276,8 @@ The tools for software delivery
 *   [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations
 *   [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind
 *   [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.
-*   [herd](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder
-*   [murder](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com
+*   [herd (⭐410)](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder
+*   [murder (⭐2.5k)](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com
 
 ## Provisioning Tools
 
@@ -294,7 +294,7 @@ Provision tools
 Secure tools
 
 *   [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless.
-*   [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+*   [Deepfence Threat Mapper (⭐2.3k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 *   [whitesource](https://www.whitesourcesoftware.com/) The simplest way to secure and manage open source components in your software.
 
 ## Web Server
@@ -312,10 +312,10 @@ Common used web server
 
 Linux shell, perl, python
 
-*   [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)
-*   [awesome-python](https://github.com/vinta/awesome-python)
-*   [awesome-perl](https://github.com/hachiojipm/awesome-perl)
-*   [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+*   [awesome-shell (⭐39)](https://github.com/itech001/awesome-shell/blob/master/README.md)
+*   [awesome-python (⭐145k)](https://github.com/vinta/awesome-python)
+*   [awesome-perl (⭐620)](https://github.com/hachiojipm/awesome-perl)
+*   [awesome-sysadmin (⭐22k)](https://github.com/kahun/awesome-sysadmin)
 
 ## Applications And Container
 
@@ -359,14 +359,14 @@ Conference and submit
 
 Other amazingly awesome lists can be found in
 
-*   [awesome](https://github.com/sindresorhus/awesome)
-*   [awesome-awesome](https://github.com/emijrp/awesome-awesome)
-*   [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-*   [sysadmin](https://github.com/itech001/awesome-sysadmin)
+*   [awesome (⭐223k)](https://github.com/sindresorhus/awesome)
+*   [awesome-awesome (⭐2.2k)](https://github.com/emijrp/awesome-awesome)
+*   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
+*   [sysadmin (⭐15)](https://github.com/itech001/awesome-sysadmin)
 *   [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
-*   [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
-*   [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services)
-*   [awesome-docker](https://github.com/veggiemonk/awesome-docker)\
+*   [ci tools compare2 (⭐2)](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
+*   [ci tools compare 3 (⭐3k)](https://github.com/ligurio/Continuous-Integration-services)
+*   [awesome-docker (⭐23k)](https://github.com/veggiemonk/awesome-docker)\
     \*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git)
 
 ## Contact

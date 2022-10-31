@@ -12,7 +12,7 @@ Curated list of audiovisual projects
 
 > Curated list of software, libraries and resources for lighting, video and audio professionals and hobbyists.
 
-Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines](https://github.com/stingalleman/awesome-audiovisual/blob/main/README.md/./contributing.md)! Question? Ask it in the [General Discussion issue](https://github.com/stingalleman/awesome-audiovisual/issues/2).
+Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines](https://github.com/stingalleman/awesome-audiovisual/blob/main/README.md/./contributing.md)! Question? Ask it in the [General Discussion issue (⭐104)](https://github.com/stingalleman/awesome-audiovisual/issues/2).
 
 ## Contents
 
@@ -57,8 +57,8 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 *   [Hog 4 software](https://www.highend.com/products/consoles/) - Free, offline software for the Hog 4 lighting console. Includes Hog 4 pc. Does not output DMX for free. `⚠ freemium`.
 *   [LightFactory](https://www.lightfactory.net/) - PC Lighting Control software witch also is the backend of the NEO Console. `⚠ not free`.
 *   [ONYX](https://obsidiancontrol.com/onyx) - Modern lighting control system with alot of features.
-*   [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) `✓ open-source`.
-*   [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) `✓ open-source`.
+*   [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code (⭐597)](https://github.com/mcallegari/qlcplus) `✓ open-source`.
+*   [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code (⭐343)](https://github.com/smeighan/xLights) `✓ open-source`.
 
 ### Visualizers
 
@@ -74,9 +74,9 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 ### Audio Software
 
 *   [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
-*   [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) `✓ open-source`.
+*   [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code (⭐2.7k)](https://github.com/Ardour/ardour) `✓ open-source`.
 *   [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
-*   [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) `✓ open-source`.
+*   [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code (⭐147)](https://github.com/FrancescoCeruti/linux-show-player) `✓ open-source`.
 *   [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS. `⚠ freemium`.
 *   [REAPER](https://www.reaper.fm/) - REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset. `⚠ freemium`.
 
@@ -89,13 +89,13 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 **[`^        back to top        ^`](#Contents)**
 
-See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme).
+See [ebu/awesome-broadcasting (⭐1.2k)](https://github.com/ebu/awesome-broadcasting#readme).
 
 ## Tools
 
 **[`^        back to top        ^`](#Contents)**
 
-*   [Livescript](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
+*   [Livescript (⭐4)](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 *   [StageClock](http://notelek.com/StageClock/) - StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information. `⚠ freemium`.
 
 ### CADs
@@ -108,29 +108,29 @@ See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readm
 Timecode is a sequence of numeric codes generated at regular intervals by a timing synchronization system. Timecode is used in video production, show control and other applications which require temporal coordination or logging of recording or actions.
 
 *   [El-Tee-See](http://elteesee.pehrhovey.net/) - LTC wav file generator.
-*   [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator. `✓ open-source`.
-*   [Timecode](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
-*   [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
+*   [TCgenerator (⭐3)](https://github.com/dimitriCGNL/TCGenerator) - Reaper time marker to GrandMA2 TC Generator. `✓ open-source`.
+*   [Timecode (⭐30)](https://github.com/MrExplode/Timecode) - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
+*   [Time MIDI sender (⭐0)](https://github.com/TheGreyDiamond/Time-MIDI-sender) - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
 *   [TimelordMTC](https://timelord-mtc.com/) - Advanced timecode management tool. `⚠ not free`.
-*   [M2Q](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. `✓ open-source`.
+*   [M2Q (⭐4)](https://github.com/lorenzofattori/M2Q) - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. `✓ open-source`.
 
 ### Monitoring
 
-*   [AES67 WebMeter](https://github.com/zjstraus/AES67-WebMeter) - Server that receives an AES67 audio stream and presents a webpage with meters. `✓ open-source`.
-*   [meters.lv2](https://github.com/x42/meters.lv2) - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. `✓ open-source`.
+*   [AES67 WebMeter (⭐6)](https://github.com/zjstraus/AES67-WebMeter) - Server that receives an AES67 audio stream and presents a webpage with meters. `✓ open-source`.
+*   [meters.lv2 (⭐143)](https://github.com/x42/meters.lv2) - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. `✓ open-source`.
 *   [Open Sound Meter](https://opensoundmeter.com/) - Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more. `✓ open-source`.
 
 ## Libraries and frameworks
 
 **[`^        back to top        ^`](#Contents)**
 
-*   [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola)
-*   [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs` `✓ open-source`.
+*   [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code (⭐503)](https://github.com/OpenLightingProject/ola)
+*   [node-dmx (⭐231)](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs` `✓ open-source`.
 
 ### ArtNet Libraries
 
-*   [artnet](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. `nodejs`.
-*   [artnet4j](https://github.com/cansik/artnet4j) - Art-Net library for Java and Processing. `java`.
+*   [artnet (⭐106)](https://github.com/hobbyquaker/artnet) - Node.js module that can be used to send ArtDMX packages to an Art-Net node. `nodejs`.
+*   [artnet4j (⭐71)](https://github.com/cansik/artnet4j) - Art-Net library for Java and Processing. `java`.
 
 ## Hardware
 
@@ -160,7 +160,7 @@ See [HARDWARE.md](https://github.com/stingalleman/awesome-audiovisual/blob/main/
 *   [ESTA Technical Standards Program](https://tsp.esta.org/tsp/documents/published_docs.php) - Collection of technical standards in the entertainment technology industry.
 *   [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
 *   [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
-*   [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
+*   [awesome-linuxaudio (⭐1k)](https://github.com/nodiscc/awesome-linuxaudio) - A Awesome list with all things Linux audio.
 *   [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
 *   [/r/lightingdesign](https://reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
 *   [/r/techtheatre](https://reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
@@ -182,8 +182,8 @@ See [HARDWARE.md](https://github.com/stingalleman/awesome-audiovisual/blob/main/
 
 **[`^        back to top        ^`](#Contents)**
 
-*   [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
+*   [Blender ArtNet (⭐27)](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
 *   [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from,. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/). `✓ open-source`.
-*   [MIDI Monster](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
+*   [MIDI Monster (⭐345)](https://github.com/cbdevnet/midimonster/) - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
 *   [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
 

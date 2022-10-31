@@ -10,7 +10,7 @@ Awesome list of Fortran libs
 
 # Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
 
-A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift](https://github.com/Wolg/awesome-swift) by @Wolg.
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift (⭐5.3k)](https://github.com/Wolg/awesome-swift) by @Wolg.
 
 *   [Awesome Fortran](#awesome-fortran)
     *   [Functional Libraries](#functional-libraries)
@@ -37,7 +37,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 ## Functional Libraries
 
-*   [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
+*   [Functional Fortran (⭐364)](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
 
 ## Graphics Libraries
 
@@ -46,9 +46,9 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 *   [DISLIN](https://www.mps.mpg.de/dislin/) - a high-level graphing and user-interface library.
 *   [f90gl](https://math.nist.gov/f90gl/) - public domain implementation of the official NIST Fortran 90 bindings for OpenGL.
 *   [F03GL](http://www-stone.ch.cam.ac.uk/pub/f03gl/index.xhtml) - a Fortran 2003 interface to the OpenGL library, along with the GLU and GLUT toolkits.
-*   [gtk-fortran](https://github.com/vmagnin/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
+*   [gtk-fortran (⭐205)](https://github.com/vmagnin/gtk-fortran/wiki) - a cross-platform library to build Graphical User Interfaces (GUI) using [GTK+](https://www.gtk.org/).  Very useful when combined with the [Glade](https://glade.gnome.org/) RAD tool.
 *   [PGPLOT](https://www.astro.caltech.edu/\~tjp/pgplot/) - cross-platform scientific graphing library.
-*   [VTKFortran](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
+*   [VTKFortran (⭐116)](https://github.com/szaghi/VTKFortran) - Pure Fortran (2003+) library to write and read data conforming the VTK standard.
 
 ## Math Libs
 
@@ -61,28 +61,28 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 *   [IMSL](https://www.imsl.com/products/imsl-fortran-libraries) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
 *   [Lis](https://www.ssisc.org/lis/index.en.html) - a Library of Iterative Solvers for Linear Systems
 *   [NAG Fortran Library](https://www.nag.co.uk/content/nag-library-fortran) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
-*   [netCDF](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
-*   [OpenBLAS](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+*   [netCDF (⭐171)](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+*   [OpenBLAS (⭐4.8k)](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 
 ## JSON Manipulation
 
 *Libraries for JSON data manipulating with Fortran language.*
 
-*   [FSON](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser.
-*   [json-fortran](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
+*   [FSON (⭐56)](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser.
+*   [json-fortran (⭐274)](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
 
 ## XML Manipulation
 
 *Libraries for XML data manipulating with Fortran language.*
 
-*   [fox](https://github.com/andreww/fox) - Fortran XML library
+*   [fox (⭐52)](https://github.com/andreww/fox) - Fortran XML library
 *   [xml-fortran](https://sourceforge.net/projects/xml-fortran/) - an all-Fortran solution for reading and writing XML files.
 
 ## Date and time manipulation
 
 *Libraries for date and time manipulation with Fortran language.*
 
-*   [datetime-fortran](https://github.com/wavebitscientific/datetime-fortran) - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
+*   [datetime-fortran (⭐118)](https://github.com/wavebitscientific/datetime-fortran) - A Fortran 2003 date and time manipulation library, modeled after Python's datetime library.
 
 ## Testing
 
@@ -97,45 +97,45 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 *Libraries for encoding and decoding data with Fortran language.*
 
-*   [BeFoR64](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
+*   [BeFoR64 (⭐17)](https://github.com/szaghi/BeFoR64) - Base64 encoding/decoding library for FoRtran poor men. A KISS library for base64 encoding/decoding for modern (2003+) Fortran projects.
 
 ## Portability enabling
 
 *Libraries for enabling codes portability.*
 
-*   [PENF](https://github.com/szaghi/PENF) - Pure Fortran (2003+) library for ensuring codes portability.
+*   [PENF (⭐38)](https://github.com/szaghi/PENF) - Pure Fortran (2003+) library for ensuring codes portability.
 
 ## Command-Line parsing
 
 *Libraries for parsing command-line and building user interfaces.*
 
-*   [FLAP](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
-*   [options.f90](https://github.com/cngilbreth/optionsf90) - Options & input processing for modern Fortran.
+*   [FLAP (⭐128)](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
+*   [options.f90 (⭐12)](https://github.com/cngilbreth/optionsf90) - Options & input processing for modern Fortran.
 
 ## Compiling and building
 
 *Libraries for compiling and building Fortran projects.*
 
-*   [FoBiS](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
+*   [FoBiS (⭐128)](https://github.com/szaghi/FoBiS) - Fortran Building System for poor men. A KISS tool for automatic building modern Fortran projects.
 
 ## Preprocessor
 
 *Libraries for conditional-compilation, macros for code simplification, and inclusion of additional source files, templating systems.*
 
 *   [Blockit/PyF95++](http://blockit.sourceforge.net/) - A fairly simple Python framework used to block parse your code (or any text file) into nested blocks. The BlockIt framework has already been used to create a templating capability for the Fortran 95/2003 language along with some language extensions.
-*   [PreForM](https://github.com/szaghi/PreForM) - Preprocessor for Fortran poor Men.
+*   [PreForM (⭐24)](https://github.com/szaghi/PreForM) - Preprocessor for Fortran poor Men.
 
 ## Automatic documentation
 
 *Libraries for building documentation.*
 
-*   [FORD](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs.
+*   [FORD (⭐34)](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs.
 
 ## Computational Fluid Dynamics
 
 *Libraries for CFD computations*
 
-*   [OFF](https://github.com/szaghi/OFF/tree/testing) - Open source Finite volume Fluid dynamics code.
+*   [OFF (⭐113)](https://github.com/szaghi/OFF/tree/testing) - Open source Finite volume Fluid dynamics code.
 
 ## Docker
 
@@ -143,7 +143,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 
 ## Web
 
-*   [Fortran Machine](https://github.com/mapmeld/fortran-machine) - An MVC web stack written in Fortran 90
+*   [Fortran Machine (⭐783)](https://github.com/mapmeld/fortran-machine) - An MVC web stack written in Fortran 90
 
 # Resources
 
@@ -161,7 +161,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 

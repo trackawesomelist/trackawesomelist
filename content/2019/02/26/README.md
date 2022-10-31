@@ -375,10 +375,6 @@
 
 *   [#plottertwitter](https://twitter.com/hashtag/plottertwitter) - Twitter hashtag with lots o' plots.
 
-### Plotter Art For Sale / Ephemera
-
-*   [Customized Streetart](https://www.literalstreetart.com) - Customizable maps with optional pen plotter output.
-
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Developer tools / Components

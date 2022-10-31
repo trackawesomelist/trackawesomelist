@@ -14,7 +14,7 @@ Useful sources around Symfony - articles, series and books (not Bundles)
 
 A curated list of amazingly awesome Symfony **articles, series and books**.
 
-*For bundles selection, check [sitepoint-editors/awesome-symfony](https://github.com/sitepoint-editors/awesome-symfony).*
+*For bundles selection, check [sitepoint-editors/awesome-symfony (⭐1.5k)](https://github.com/sitepoint-editors/awesome-symfony).*
 
 ## Single Action Controller
 
@@ -76,7 +76,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Decoupling
 
-*   [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov \[2013], [Github repository](https://github.com/MarcelloDuarte/hexagonal-symfony)
+*   [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov \[2013], [Github repository (⭐213)](https://github.com/MarcelloDuarte/hexagonal-symfony)
 *   [Symfony2: How to create framework independent controllers](https://matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) \[2014]
 
 ## Legacy

@@ -1040,7 +1040,25 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [shellspec (⭐772)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 
-## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [53. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+
+### Clojure
+
+*   [ClojureScript Podcast](https://clojurescriptpodcast.com) - Jacek Schae (podcast)
+
+### Haskell
+
+*   [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8) - Derek Banas (screencast)
+
+### Kotlin / React.js
+
+*   [freeCodeCamp - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel (screencast)
+
+### Python / React.js
+
+*   [The Real Python Podcast](https://realpython.com/podcasts/rpp) - Christopher Bailey (podcast)
+
+## [54. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -1070,13 +1088,13 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 
 
-## [54. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [55. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Overlay
 
 *   [reoverlay (⭐121)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
-## [55. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [56. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
@@ -1098,7 +1116,7 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Awesome FastAPI Projects (⭐674)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 
-## [56. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [57. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / CI/CD
 
@@ -1181,18 +1199,12 @@ Webpage: <http://www5.kb.dk/en/dia/>
 
 *   [Ember.js tutorial for beginners in 2020](https://www.youtube.com/watch?v=eQUvN9Ujs1s\&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo) - A 10 part series by Shawn Chen
 
-## [57. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [58. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [ASCII-Hangman (⭐6)](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 *   [dotdotyew (⭐3)](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) using Yew, with Rust powering the backend API.
-
-## [58. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
-
-### HTML and CSS / Sistemas Operativos
-
-*   [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
 
 ## [59. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 

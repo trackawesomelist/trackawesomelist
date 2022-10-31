@@ -661,7 +661,7 @@ If you like Mind Expanding books you should check out my new project <http://dif
 
 *   [@hackerkid](https://github.com/hackerkid) for starting the list.
 *   [@geritol](https://github.com/geritol) for building the framework for maintaining the list.
-*   All the [contributors](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
+*   All the [contributors (⭐9.3k)](https://github.com/hackerkid/Mind-Expanding-Books/graphs/contributors) for keeping the list updated by adding new books.
 
 ## License
 

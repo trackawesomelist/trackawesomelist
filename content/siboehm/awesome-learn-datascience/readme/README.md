@@ -31,7 +31,7 @@ No previous knowledge required but Python and statistics basics will definitely 
 
 ## Data Science using Python
 
-This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R](https://github.com/ujjwalkarn/DataScienceR).
+This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R (⭐1.8k)](https://github.com/ujjwalkarn/DataScienceR).
 
 ### General
 
@@ -55,7 +55,7 @@ This list covers only Python, as many are already familiar with this language. [
 
 *   [Introduction to pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
 *   [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (enough to complete course).
-*   [Pandas cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
+*   [Pandas cheatsheet (⭐36k)](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
 
 ### scikit-learn
 
@@ -76,10 +76,10 @@ This list covers only Python, as many are already familiar with this language. [
 
 ### Various other helpful tools and resources
 
-*   [Template folder structure for organizing Data Science projects](https://github.com/drivendata/cookiecutter-data-science)
+*   [Template folder structure for organizing Data Science projects (⭐6.1k)](https://github.com/drivendata/cookiecutter-data-science)
 *   [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
 *   [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
-*   [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
+*   [LightGBM gradient boosting framework (⭐14k)](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
 *   [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
 
 ## Data Science Challenges for Beginners
@@ -93,9 +93,9 @@ Sorted by increasing complexity.
 
 ## More advanced resources and lists
 
-*   [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-*   [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
-*   [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+*   [Awesome Data Science (⭐20k)](https://github.com/bulutyazilim/awesome-datascience)
+*   [Data Science Python (⭐4.6k)](https://github.com/ujjwalkarn/DataSciencePython)
+*   [Machine Learning Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ## Contribute
 

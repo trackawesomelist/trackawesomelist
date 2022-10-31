@@ -45,7 +45,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
 *   [Ansible Cloud Modules - DigitalOcean](https://docs.ansible.com/ansible/latest/collections/community/digitalocean/index.html#plugins-in-community-digitalocean)
 *   [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
-*   [DigitalOcean in Action!](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
+*   [DigitalOcean in Action! (⭐12)](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
 *   [Use DigitalOcean as Dynamic DNS](https://surdu.me/2019/07/28/digital-ocean-ddns.html)
 
 ## Developer documentation
@@ -60,10 +60,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Open source projects
 
 *   [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
-*   [Netbox](https://github.com/digitalocean/netbox)
-*   [Doctl](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API.
-*   [go-libvirt](https://github.com/digitalocean/go-libvirt)
-*   [go-qemu](https://github.com/digitalocean/go-qemu)
+*   [Netbox (⭐11k)](https://github.com/digitalocean/netbox)
+*   [Doctl (⭐3k)](https://github.com/digitalocean/doctl) - Official command-line interface for the DigitalOcean API.
+*   [go-libvirt (⭐721)](https://github.com/digitalocean/go-libvirt)
+*   [go-qemu (⭐585)](https://github.com/digitalocean/go-qemu)
 
 ## Commercial integrations
 
@@ -75,25 +75,25 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Community OSS projects
 
-*   [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
-*   [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
-*   [droplan](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets.
-*   [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman.
-*   [ghost-digitalocean](https://github.com/shiva-hack/ghost-digitalocean) - A DigitalOcean Storage adapter for Ghost.
-*   [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) - Lita handler for managing DigitalOcean services.
-*   [hostpool](https://github.com/progrium/hostpool) - Worker pool manager for DigitalOcean hosts.
-*   [DDNS](https://github.com/skibish/ddns) - Personal DDNS client with DigitalOcean Networking DNS as backend.
-*   [Less Confusing Menus](https://github.com/addpipe/Less-Confusing-Digital-Ocean-Menus) - A Chrome extension that makes account menus less confusing.
-*   [DigitalOcean Droplet creator](https://github.com/NicholasPCole/dodc) - A dialog-based shell script to quickly create a single DigitalOcean Droplet.
-*   [do-upgrade-plans](https://github.com/bjornjohansen/do-upgrade-plans) - A script to upgrade your DigitalOcean Droplets to better plans with the same cost.
+*   [do-sshuttle (⭐66)](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
+*   [drophosts (⭐1)](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
+*   [droplan (⭐70)](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets.
+*   [foreman-digitalocean (⭐28)](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman.
+*   [ghost-digitalocean (⭐21)](https://github.com/shiva-hack/ghost-digitalocean) - A DigitalOcean Storage adapter for Ghost.
+*   [lita-digitalocean (⭐25)](https://github.com/jimmycuadra/lita-digitalocean) - Lita handler for managing DigitalOcean services.
+*   [hostpool (⭐23)](https://github.com/progrium/hostpool) - Worker pool manager for DigitalOcean hosts.
+*   [DDNS (⭐222)](https://github.com/skibish/ddns) - Personal DDNS client with DigitalOcean Networking DNS as backend.
+*   [Less Confusing Menus (⭐23)](https://github.com/addpipe/Less-Confusing-Digital-Ocean-Menus) - A Chrome extension that makes account menus less confusing.
+*   [DigitalOcean Droplet creator (⭐3)](https://github.com/NicholasPCole/dodc) - A dialog-based shell script to quickly create a single DigitalOcean Droplet.
+*   [do-upgrade-plans (⭐6)](https://github.com/bjornjohansen/do-upgrade-plans) - A script to upgrade your DigitalOcean Droplets to better plans with the same cost.
 
 ## Clients
 
-*   [doctl](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services.
-*   [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client.
+*   [doctl (⭐3k)](https://github.com/digitalocean/doctl) - Command-line tool for DigitalOcean services.
+*   [digitalocean-indicator (⭐172)](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client.
 *   [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client.
-*   [OceanBar](https://github.com/terhechte/OceanBar) - macOS menu bar client.
-*   [Tugboat](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
+*   [OceanBar (⭐71)](https://github.com/terhechte/OceanBar) - macOS menu bar client.
+*   [Tugboat (⭐1.5k)](https://github.com/pearkes/tugboat) - Ruby command-line tool for DigitalOcean services, focusing on a more guided UX.
 
 ## Video tutorials
 
@@ -103,8 +103,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [Reddit community](https://www.reddit.com/r/digital_ocean/)
 *   [`##digitalocean` on freenode](https://webchat.freenode.net/)
-*   [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
-*   [User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
+*   [Engineering Code of Conduct (⭐284)](https://github.com/digitalocean/engineering-code-of-conduct)
+*   [User Scripts (⭐803)](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
 *   [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
 
 ## License

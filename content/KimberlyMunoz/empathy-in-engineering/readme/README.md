@@ -59,6 +59,6 @@ Sometimes you need code samples to implement strategies above.
 
 ### Bookmarklets
 
-*   [JS Bookmarklet Simulating Colorblindness](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness.
+*   [JS Bookmarklet Simulating Colorblindness (⭐123)](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness.
 *   [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - This is a JS bookmarklet that takes any page and simulates in low vision scenarios.
 

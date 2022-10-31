@@ -37,40 +37,40 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Add-ons, components, icons, and other resources to use the design system built by IBM.*
 
-*   [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM.
-*   [carbon-addons-angular](https://github.com/IBM/carbon-addons-angular) - Common Addons for Carbon Angular projects.
-*   [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) - Carbon Add-on for IBM Collaboration Solutions.
-*   [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react) - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
-*   [carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon components.
-*   [carbon-badges](https://github.com/carbon-design-system/carbon-badges) - A site to apply for Carbon badges.
-*   [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript.
-*   [carbon-components-angular](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
-*   [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System.
-*   [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the Carbon Design System.
-*   [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
-*   [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
-*   [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System.
-*   [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) - Carbon icons, in Angular!
-*   [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) - Svelte components for icons in digital and software products using the Carbon Design System.
-*   [carbon-language-website](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website.
-*   [carbon-sandbox](https://github.com/carbon-design-system/carbon-sandbox) - A theme playground for Carbon Components.
-*   [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) - An app for the Carbon Design System tutorial.
-*   [carbon-web-components](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-*   [carbon-website](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
-*   [gatsby-starter-carbon-theme](https://github.com/carbon-design-system/gatsby-starter-carbon-theme) - A Gatsby starter demonstrating the Gatsby Carbon theme.
-*   [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme.
-*   [ibm-dotcom-library](https://github.com/carbon-design-system/ibm-dotcom-library) - IBM.com library based on the Carbon Design System for IBM.
-*   [ibm-dotcom-library-nextjs-template](https://github.com/carbon-design-system/ibm-dotcom-library-nextjs-template) - This is a IBMdotcom NextJS template utilizing the IBMdotcom React library.
-*   [ibm-dotcom-library-website](https://github.com/carbon-design-system/ibm-dotcom-library-website) - This is the IBM.com Library website, which includes documentation and guidelines around design and development for IBM.com.
-*   [ibm-security](https://github.com/carbon-design-system/ibm-security) - A Carbon experience framework built by IBM Security.
+*   [carbon (⭐6k)](https://github.com/carbon-design-system/carbon) - A design system built by IBM.
+*   [carbon-addons-angular (⭐4)](https://github.com/IBM/carbon-addons-angular) - Common Addons for Carbon Angular projects.
+*   [carbon-addons-ics (⭐17)](https://github.com/carbon-design-system/carbon-addons-ics) - Carbon Add-on for IBM Collaboration Solutions.
+*   [carbon-addons-iot-react (⭐88)](https://github.com/IBM/carbon-addons-iot-react) - This library contains React components shared between all IBM IoT products to unify our look and feel. These widgets are usually based on the carbon-components-react widgets.
+*   [carbon-angular-starter (⭐62)](https://github.com/carbon-design-system/carbon-angular-starter) - A simple starter app for bootstrapping applications with Carbon components.
+*   [carbon-badges (⭐3)](https://github.com/carbon-design-system/carbon-badges) - A site to apply for Carbon badges.
+*   [carbon-charts (⭐618)](https://github.com/carbon-design-system/carbon-charts) - 📊 📈 Reusable charts implemented using D3 & typescript.
+*   [carbon-components-angular (⭐430)](https://github.com/IBM/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
+*   [carbon-components-react (⭐1.1k)](https://github.com/carbon-design-system/carbon-components-react) - React components for the Carbon Design System.
+*   [carbon-components-svelte (⭐1.8k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the Carbon Design System.
+*   [carbon-components-vue (⭐497)](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
+*   [carbon-design-kit (⭐1k)](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+*   [carbon-icons (⭐81)](https://github.com/carbon-design-system/carbon-icons) - SVG icon library for the Carbon Design System.
+*   [carbon-icons-angular (⭐15)](https://github.com/carbon-design-system/carbon-icons-angular) - Carbon icons, in Angular!
+*   [carbon-icons-svelte (⭐308)](https://github.com/IBM/carbon-icons-svelte) - Svelte components for icons in digital and software products using the Carbon Design System.
+*   [carbon-language-website (⭐62)](https://github.com/carbon-design-system/design-language-website) - IBM Design Language website.
+*   [carbon-sandbox (⭐12)](https://github.com/carbon-design-system/carbon-sandbox) - A theme playground for Carbon Components.
+*   [carbon-tutorial (⭐137)](https://github.com/carbon-design-system/carbon-tutorial) - An app for the Carbon Design System tutorial.
+*   [carbon-web-components (⭐409)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
+*   [carbon-website (⭐165)](https://github.com/carbon-design-system/carbon-website) - The website for the Carbon Design System.
+*   [gatsby-starter-carbon-theme (⭐17)](https://github.com/carbon-design-system/gatsby-starter-carbon-theme) - A Gatsby starter demonstrating the Gatsby Carbon theme.
+*   [gatsby-theme-carbon (⭐340)](https://github.com/carbon-design-system/gatsby-theme-carbon) - A Carbon inspired Gatsby theme.
+*   [ibm-dotcom-library (⭐102)](https://github.com/carbon-design-system/ibm-dotcom-library) - IBM.com library based on the Carbon Design System for IBM.
+*   [ibm-dotcom-library-nextjs-template (⭐22)](https://github.com/carbon-design-system/ibm-dotcom-library-nextjs-template) - This is a IBMdotcom NextJS template utilizing the IBMdotcom React library.
+*   [ibm-dotcom-library-website (⭐37)](https://github.com/carbon-design-system/ibm-dotcom-library-website) - This is the IBM.com Library website, which includes documentation and guidelines around design and development for IBM.com.
+*   [ibm-security (⭐70)](https://github.com/carbon-design-system/ibm-security) - A Carbon experience framework built by IBM Security.
 
 ## Command Line Tools
 
 *Command Line Tools for MacOS, Windows and Linux.*
 
-*   [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry.
-*   [The Kui Framework for Graphical Terminals](https://github.com/IBM/kui) - A hybrid command-line/UI development experience for cloud-native development.
-*   [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
+*   [Cloud Foundry CLI (⭐1.7k)](https://github.com/cloudfoundry/cli) - The official command line client for Cloud Foundry.
+*   [The Kui Framework for Graphical Terminals (⭐2.3k)](https://github.com/IBM/kui) - A hybrid command-line/UI development experience for cloud-native development.
+*   [IBM Cloud CLI Release (⭐142)](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
 *   [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) - A \**unoffical*- Collection of different Docker Containers to interface with IBM Cloud.
 *   [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) - IBM Cloud CLI provides the command line interface for managing resources in IBM Cloud.
 *   [Windows 64-bit](https://clis.cloud.ibm.com/download/bluemix-cli/latest/win64) - Command Line Interface for Windows 64-bit.
@@ -79,129 +79,129 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 *Deploy and manage your applications with Softlayer.*
 
-*   [cloudland](https://github.com/IBM/cloudland) - Cloudland, a light weight infrastructure as a service project, plus OpenShift 4 platform as a service deployment engine, is a system framework to manage VM instances, software defined networks (SDN), volumes.
-*   [cp4d-deployment](https://github.com/IBM/cp4d-deployment) - These terraform scripts are developed to deploy CloudPakforData on the public cloud.
-*   [ibm-spectrum-scale-cloud-install](https://github.com/IBM/ibm-spectrum-scale-cloud-install) - Cloud Resource Provisioning framework for IBM Spectrum Scale.
-*   [lamp-terraform-ibm](https://github.com/IBM-Cloud/LAMP-terraform-ibm) - Automate deployment of environments using Infrastructure as Code.
-*   [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM Cloud provider.
-*   [vision-terraform](https://github.com/IBM/vision-terraform) - IBM Visual Insights sample terraform templates for deployment in IBM Cloud (formerly IBM PowerAI Vision).
+*   [cloudland (⭐67)](https://github.com/IBM/cloudland) - Cloudland, a light weight infrastructure as a service project, plus OpenShift 4 platform as a service deployment engine, is a system framework to manage VM instances, software defined networks (SDN), volumes.
+*   [cp4d-deployment (⭐45)](https://github.com/IBM/cp4d-deployment) - These terraform scripts are developed to deploy CloudPakforData on the public cloud.
+*   [ibm-spectrum-scale-cloud-install (⭐18)](https://github.com/IBM/ibm-spectrum-scale-cloud-install) - Cloud Resource Provisioning framework for IBM Spectrum Scale.
+*   [lamp-terraform-ibm (⭐4)](https://github.com/IBM-Cloud/LAMP-terraform-ibm) - Automate deployment of environments using Infrastructure as Code.
+*   [terraform-provider-ibm (⭐303)](https://github.com/IBM-Cloud/terraform-provider-ibm) - Terraform IBM Cloud provider.
+*   [vision-terraform (⭐6)](https://github.com/IBM/vision-terraform) - IBM Visual Insights sample terraform templates for deployment in IBM Cloud (formerly IBM PowerAI Vision).
 
 ## Platform
 
 *Deploy and manage your applications with Cloud Foundry.*
 
-*   [charts](https://github.com/IBM/charts) - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
+*   [charts (⭐283)](https://github.com/IBM/charts) - The IBM/charts repository provides helm charts for IBM and Third Party middleware.
 *   [cloud-foundry](https://github.com/cloudfoundry/) - IBM Cloud Platform as a Service.
-    *   [binary-buildpack](https://github.com/cloudfoundry/binary-buildpack) - Deploy binaries to Cloud Foundry.
-    *   [dotnet-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack) - Cloud Foundry buildpack for .NET Core on Linux.
-    *   [go-buildpack](https://github.com/cloudfoundry/go-buildpack) - Cloud Foundry buildpack for the Go Language.
-    *   [ibm-websphere-liberty-buildpack](https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack) - IBM WebSphere Application Server Liberty Buildpack.
-    *   [java-buildpack](https://github.com/cloudfoundry/java-buildpack) - Cloud Foundry buildpack for running Java applications.
-    *   [nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack) - Cloud Foundry buildpack that provides NGINX.
-    *   [nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack) - Cloud Foundry buildpack for Node.js.
-    *   [php-buildpack](https://github.com/cloudfoundry/php-buildpack) - A Cloud Foundry Buildpack for PHP.
-    *   [python-buildpack](https://github.com/cloudfoundry/python-buildpack) - Cloud Foundry buildpack for the Python Language.
-    *   [r-buildpack](https://github.com/cloudfoundry/r-buildpack) - Cloud Foundry buildpack for R.
-    *   [ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack) - Cloud Foundry buildpack for Ruby, Sinatra and Rails.
-    *   [staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack) - Deploy static HTML/JS/CSS apps to Cloud Foundry.
-*   [cloud-operators](https://github.com/IBM/cloud-operators) - IBM Public Cloud Service Operator.
-*   [cloud-pak](https://github.com/IBM/cloud-pak) - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
-*   [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers.
-*   [go-cloud](https://github.com/victorshinya/go-cloud) - A Golang boilerplate code to benchmark cloud platforms to host a Go applications.
+    *   [binary-buildpack (⭐27)](https://github.com/cloudfoundry/binary-buildpack) - Deploy binaries to Cloud Foundry.
+    *   [dotnet-buildpack (⭐92)](https://github.com/cloudfoundry/dotnet-core-buildpack) - Cloud Foundry buildpack for .NET Core on Linux.
+    *   [go-buildpack (⭐81)](https://github.com/cloudfoundry/go-buildpack) - Cloud Foundry buildpack for the Go Language.
+    *   [ibm-websphere-liberty-buildpack (⭐66)](https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack) - IBM WebSphere Application Server Liberty Buildpack.
+    *   [java-buildpack (⭐416)](https://github.com/cloudfoundry/java-buildpack) - Cloud Foundry buildpack for running Java applications.
+    *   [nginx-buildpack (⭐29)](https://github.com/cloudfoundry/nginx-buildpack) - Cloud Foundry buildpack that provides NGINX.
+    *   [nodejs-buildpack (⭐155)](https://github.com/cloudfoundry/nodejs-buildpack) - Cloud Foundry buildpack for Node.js.
+    *   [php-buildpack (⭐136)](https://github.com/cloudfoundry/php-buildpack) - A Cloud Foundry Buildpack for PHP.
+    *   [python-buildpack (⭐115)](https://github.com/cloudfoundry/python-buildpack) - Cloud Foundry buildpack for the Python Language.
+    *   [r-buildpack (⭐10)](https://github.com/cloudfoundry/r-buildpack) - Cloud Foundry buildpack for R.
+    *   [ruby-buildpack (⭐63)](https://github.com/cloudfoundry/ruby-buildpack) - Cloud Foundry buildpack for Ruby, Sinatra and Rails.
+    *   [staticfile-buildpack (⭐193)](https://github.com/cloudfoundry/staticfile-buildpack) - Deploy static HTML/JS/CSS apps to Cloud Foundry.
+*   [cloud-operators (⭐41)](https://github.com/IBM/cloud-operators) - IBM Public Cloud Service Operator.
+*   [cloud-pak (⭐105)](https://github.com/IBM/cloud-pak) - IBM Cloud Paks are enterprise-grade containerized software by combining container images with enterprise capabilities for deployment in production use cases with integrations for management and lifecycle operations. Features such as pre-configured deployments based on product expertise, rolling upgrades, rollbacks, security/vulnerability testing.
+*   [generator-swiftserver (⭐62)](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers.
+*   [go-cloud (⭐1)](https://github.com/victorshinya/go-cloud) - A Golang boilerplate code to benchmark cloud platforms to host a Go applications.
 *   [go-website](https://github.com/victorshinya/go-website) - Deploy your website using a Golang server.
-*   [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API.
-*   [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - A message based insurance experience.
-*   [kitura](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server.
-*   [kitura-couchdb](https://github.com/IBM-Swift/Kitura-CouchDB) - CouchDB adapter for Kitura.
-*   [kitura-credentials](https://github.com/IBM-Swift/Kitura-Credentials) - A pluggable framework for validating user credentials in a Swift server using Kitura.
-*   [kitura-credentials-google](https://github.com/IBM-Swift/Kitura-CredentialsGoogle) - A plugin for the Kitura-Credentials framework that authenticates using the Google web login.
-*   [kitura-net](https://github.com/IBM-Swift/Kitura-net) - Kitura networking.
-*   [kitura-nio](https://github.com/IBM-Swift/Kitura-NIO) - A networking library for Kitura, based on SwiftNIO.
-*   [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) - A sample application that shows how to use various features of Kitura.
-*   [kitura-session](https://github.com/IBM-Swift/Kitura-Session) - A pluggable framework for managing user sessions in a Swift server using Kitura.
-*   [kitura-starter](https://github.com/IBM-Cloud/Kitura-Starter) - Kitura-based server starter application for the IBM Cloud.
-*   [logistics-wizard](https://github.com/IBM-Cloud/logistics-wizard) - The Logistics Wizard is an end-to-end, smart supply chain management solution.
-*   [multiple-deployment-options](https://github.com/IBM-Cloud/multiple-deployment-options) - Shows how one service can be deployed to multiple deployment options.
-*   [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
-*   [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) - Docker image packaged with the Swift binaries.
-*   [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) - SwiftyRequest is an HTTP networking library built for Swift.
-*   [watson-assistant-variables](https://github.com/IBM-Cloud/watson-conversation-variables) - Samples using context variables and (system) entities in IBM Watson Assistant (formerly Conversation) service.
-*   [webiste-base](https://github.com/victorshinya/website-base) - Deploy your website using a Node.js server.
+*   [ibm-cloud-go (⭐38)](https://github.com/IBM-Cloud/bluemix-go) - Go library for accessing the IBM Cloud API.
+*   [insurance-bot (⭐34)](https://github.com/IBM-Cloud/insurance-bot) - A message based insurance experience.
+*   [kitura (⭐7.6k)](https://github.com/IBM-Swift/Kitura) - A Swift web framework and HTTP server.
+*   [kitura-couchdb (⭐50)](https://github.com/IBM-Swift/Kitura-CouchDB) - CouchDB adapter for Kitura.
+*   [kitura-credentials (⭐40)](https://github.com/IBM-Swift/Kitura-Credentials) - A pluggable framework for validating user credentials in a Swift server using Kitura.
+*   [kitura-credentials-google (⭐8)](https://github.com/IBM-Swift/Kitura-CredentialsGoogle) - A plugin for the Kitura-Credentials framework that authenticates using the Google web login.
+*   [kitura-net (⭐102)](https://github.com/IBM-Swift/Kitura-net) - Kitura networking.
+*   [kitura-nio (⭐35)](https://github.com/IBM-Swift/Kitura-NIO) - A networking library for Kitura, based on SwiftNIO.
+*   [kitura-sample (⭐80)](https://github.com/IBM-Swift/Kitura-Sample) - A sample application that shows how to use various features of Kitura.
+*   [kitura-session (⭐18)](https://github.com/IBM-Swift/Kitura-Session) - A pluggable framework for managing user sessions in a Swift server using Kitura.
+*   [kitura-starter (⭐29)](https://github.com/IBM-Cloud/Kitura-Starter) - Kitura-based server starter application for the IBM Cloud.
+*   [logistics-wizard (⭐98)](https://github.com/IBM-Cloud/logistics-wizard) - The Logistics Wizard is an end-to-end, smart supply chain management solution.
+*   [multiple-deployment-options (⭐20)](https://github.com/IBM-Cloud/multiple-deployment-options) - Shows how one service can be deployed to multiple deployment options.
+*   [node-mqtt-for-anki-overdrive (⭐51)](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
+*   [swift-ubuntu-docker (⭐157)](https://github.com/IBM-Swift/swift-ubuntu-docker) - Docker image packaged with the Swift binaries.
+*   [swifty-request (⭐102)](https://github.com/IBM-Swift/SwiftyRequest) - SwiftyRequest is an HTTP networking library built for Swift.
+*   [watson-assistant-variables (⭐37)](https://github.com/IBM-Cloud/watson-conversation-variables) - Samples using context variables and (system) entities in IBM Watson Assistant (formerly Conversation) service.
+*   [webiste-base (⭐4)](https://github.com/victorshinya/website-base) - Deploy your website using a Node.js server.
 
 ## Serverless
 
 *Deploy and manage your actions/functions with IBM Cloud Functions, an Apache OpenWhisk base on IBM Cloud.*
 
-*   [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
-*   [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
-*   [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
+*   [openwhisk-darkvisionapp (⭐107)](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions.
+*   [openwhisk-visionapp (⭐43)](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
+*   [serverless-chatbot (⭐8)](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
 
 ## Data & AI
 
 *SDKs and code patterns with Watson services.*
 
-*   [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant API.
-*   [botkit-middleware](https://github.com/watson-developer-cloud/botkit-middleware) - A middleware to connect Watson Assistant Service to different chat channels using Botkit.
-*   [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) - An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
-*   [discovery-nodejs](https://github.com/watson-developer-cloud/discovery-nodejs) - This is the Watson Discovery Service Demo.
-*   [food-coach](https://github.com/watson-developer-cloud/food-coach) - A simple sample web application demonstrating the integration of Watson Tone Analyzer into Watson Assistant.
+*   [assistant-simple (⭐479)](https://github.com/watson-developer-cloud/assistant-simple) - A simple sample application demonstrating the Watson Assistant API.
+*   [botkit-middleware (⭐208)](https://github.com/watson-developer-cloud/botkit-middleware) - A middleware to connect Watson Assistant Service to different chat channels using Botkit.
+*   [chatbot-watson-android (⭐186)](https://github.com/IBM-Cloud/chatbot-watson-android) - An Android ChatBot powered by Watson Services - Assistant, Speech-to-Text and Text-to-Speech on IBM Cloud.
+*   [discovery-nodejs (⭐76)](https://github.com/watson-developer-cloud/discovery-nodejs) - This is the Watson Discovery Service Demo.
+*   [food-coach (⭐39)](https://github.com/watson-developer-cloud/food-coach) - A simple sample web application demonstrating the integration of Watson Tone Analyzer into Watson Assistant.
 *   [ibm-watson-iot](https://github.com/ibm-watson-iot) - Code repositories built around the IBM Watson IoT Platform.
-*   [max-audio-classifier](https://github.com/IBM/MAX-Audio-Classifier) - Identify sounds in short audio clips.
-*   [max-audio-embedding-generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files.
-*   [max-audio-sample-generator](https://github.com/IBM/MAX-Audio-Sample-Generator) - Generate short audio clips of speech commands and lo-fi instrumental samples.
-*   [max-base](https://github.com/IBM/MAX-Base) - This is a base image for IBM Model Asset Exchange.
-*   [max-breast-cancer-mitosis-detector](https://github.com/IBM/MAX-Breast-Cancer-Mitosis-Detector) - Detect whether a mitosis exists in an image of breast cancer tumor cells.
-*   [max-chinese-phonetic-similarity-estimator](https://github.com/IBM/MAX-Chinese-Phonetic-Similarity-Estimator) - Estimate the phonetic distance between Chinese words and get similar sounding candidate words.
-*   [max-fast-neural-style-transfer](https://github.com/IBM/MAX-Fast-Neural-Style-Transfer) - Generate a new image that mixes the content of a source image with the style of another image.
-*   [max-human-pose-estimator](https://github.com/IBM/MAX-Human-Pose-Estimator) - Detect humans in an image and estimate the pose for each person.
-*   [max-image-caption-generator](https://github.com/IBM/MAX-Image-Caption-Generator) - IBM Code Model Asset Exchange: Show and Tell Image Caption Generator.
-*   [max-image-colorizer](https://github.com/IBM/MAX-Image-Colorizer) - Adds color to black and white images.
-*   [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
-*   [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
-*   [max-inception-resnet-v2](https://github.com/IBM/MAX-Inception-ResNet-v2) - Identify objects in images using a third-generation deep residual network.
-*   [max-named-entity-tagger](https://github.com/IBM/MAX-Named-Entity-Tagger) - Locate and tag named entities in text.
-*   [max-news-text-generator](https://github.com/IBM/MAX-News-Text-Generator) - Generate English-language text similar to the news articles in the One Billion Words data set.
-*   [max-nucleus-segmenter](https://github.com/IBM/MAX-Nucleus-Segmenter) - Identify nuclei in a microscopy image and assign each pixel of the image to a particular nucleus.
-*   [max-object-detector](https://github.com/IBM/MAX-Object-Detector) - Localize and identify multiple objects in a single image.
-*   [max-ocr](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
-*   [max-question-answering](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
-*   [max-resnet-50](https://github.com/IBM/MAX-ResNet-50) - Identify objects in images using a first-generation deep residual network.
-*   [max-review-text-generator](https://github.com/IBM/MAX-Review-Text-Generator) - Generate English-language text similar to the text in the Yelp® review data set.
-*   [max-scene-classifier](https://github.com/IBM/MAX-Scene-Classifier) - Image classifier for physical places/locations, based on the Places365-CNN Model.
-*   [max-speech-to-text-converter](https://github.com/IBM/MAX-speech-to-text-converter) - Converts spoken words into text form.
-*   [max-sports-video-classifier](https://github.com/IBM/MAX-Sports-Video-Classifier) - Categorize sports videos according to which sport the video depicts.
-*   [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) - Detect the sentiment captured in short pieces of text.
-*   [max-text-summarizer](https://github.com/IBM/MAX-Text-Summarizer) - Generate a summarized description of a body of text.
-*   [max-toxic-comment-classifier](https://github.com/IBM/MAX-Toxic-Comment-Classifier) - Detect 6 types of toxicity in user comments.
-*   [max-weather-forecaster](https://github.com/IBM/MAX-Weather-Forecaster) - Predict hourly weather features given historical data for a specific location.
-*   [max-word-embedding-generator](https://github.com/IBM/MAX-Word-Embedding-Generator) - Generate embedding vectors from text files.
-*   [natural-language-classifier-nodejs](https://github.com/watson-developer-cloud/natural-language-classifier-nodejs) - See how the classifier service uses natural language to determine the intent behind your question.
-*   [natural-language-understanding-nodejs](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - 🆕 Demo code for the Natural Language Understanding Service.
-*   [node-red-labs](https://github.com/watson-developer-cloud/node-red-labs) - Node-RED labs on the use of the Watson Developer Cloud services.
-*   [node-red-node-watson](https://github.com/watson-developer-cloud/node-red-node-watson) - A collection of nodes for the IBM Watson services.
-*   [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) - 📊 Sample Nodejs Application for the IBM Watson Personality Insights Service.
+*   [max-audio-classifier (⭐123)](https://github.com/IBM/MAX-Audio-Classifier) - Identify sounds in short audio clips.
+*   [max-audio-embedding-generator (⭐35)](https://github.com/IBM/MAX-Audio-Embedding-Generator) - Generate embedding vectors from audio files.
+*   [max-audio-sample-generator (⭐12)](https://github.com/IBM/MAX-Audio-Sample-Generator) - Generate short audio clips of speech commands and lo-fi instrumental samples.
+*   [max-base (⭐11)](https://github.com/IBM/MAX-Base) - This is a base image for IBM Model Asset Exchange.
+*   [max-breast-cancer-mitosis-detector (⭐21)](https://github.com/IBM/MAX-Breast-Cancer-Mitosis-Detector) - Detect whether a mitosis exists in an image of breast cancer tumor cells.
+*   [max-chinese-phonetic-similarity-estimator (⭐23)](https://github.com/IBM/MAX-Chinese-Phonetic-Similarity-Estimator) - Estimate the phonetic distance between Chinese words and get similar sounding candidate words.
+*   [max-fast-neural-style-transfer (⭐45)](https://github.com/IBM/MAX-Fast-Neural-Style-Transfer) - Generate a new image that mixes the content of a source image with the style of another image.
+*   [max-human-pose-estimator (⭐63)](https://github.com/IBM/MAX-Human-Pose-Estimator) - Detect humans in an image and estimate the pose for each person.
+*   [max-image-caption-generator (⭐77)](https://github.com/IBM/MAX-Image-Caption-Generator) - IBM Code Model Asset Exchange: Show and Tell Image Caption Generator.
+*   [max-image-colorizer (⭐24)](https://github.com/IBM/MAX-Image-Colorizer) - Adds color to black and white images.
+*   [max-image-resolution-enhancer (⭐791)](https://github.com/IBM/MAX-Image-Resolution-Enhancer) - Upscale an image by a factor of 4, while generating photo-realistic details.
+*   [max-image-segmenter (⭐32)](https://github.com/IBM/MAX-Image-Segmenter) - Identify objects in an image, additionally assigning each pixel of the image to a particular object.
+*   [max-inception-resnet-v2 (⭐25)](https://github.com/IBM/MAX-Inception-ResNet-v2) - Identify objects in images using a third-generation deep residual network.
+*   [max-named-entity-tagger (⭐25)](https://github.com/IBM/MAX-Named-Entity-Tagger) - Locate and tag named entities in text.
+*   [max-news-text-generator (⭐25)](https://github.com/IBM/MAX-News-Text-Generator) - Generate English-language text similar to the news articles in the One Billion Words data set.
+*   [max-nucleus-segmenter (⭐2)](https://github.com/IBM/MAX-Nucleus-Segmenter) - Identify nuclei in a microscopy image and assign each pixel of the image to a particular nucleus.
+*   [max-object-detector (⭐285)](https://github.com/IBM/MAX-Object-Detector) - Localize and identify multiple objects in a single image.
+*   [max-ocr (⭐37)](https://github.com/IBM/MAX-OCR) - MAX Optical Character Recognition.
+*   [max-question-answering (⭐32)](https://github.com/IBM/Max-Question-Answering) - Answer questions on a given corpus of text.
+*   [max-resnet-50 (⭐13)](https://github.com/IBM/MAX-ResNet-50) - Identify objects in images using a first-generation deep residual network.
+*   [max-review-text-generator (⭐17)](https://github.com/IBM/MAX-Review-Text-Generator) - Generate English-language text similar to the text in the Yelp® review data set.
+*   [max-scene-classifier (⭐37)](https://github.com/IBM/MAX-Scene-Classifier) - Image classifier for physical places/locations, based on the Places365-CNN Model.
+*   [max-speech-to-text-converter (⭐65)](https://github.com/IBM/MAX-speech-to-text-converter) - Converts spoken words into text form.
+*   [max-sports-video-classifier (⭐22)](https://github.com/IBM/MAX-Sports-Video-Classifier) - Categorize sports videos according to which sport the video depicts.
+*   [max-text-sentiment-classifier (⭐57)](https://github.com/IBM/MAX-Text-Sentiment-Classifier) - Detect the sentiment captured in short pieces of text.
+*   [max-text-summarizer (⭐26)](https://github.com/IBM/MAX-Text-Summarizer) - Generate a summarized description of a body of text.
+*   [max-toxic-comment-classifier (⭐47)](https://github.com/IBM/MAX-Toxic-Comment-Classifier) - Detect 6 types of toxicity in user comments.
+*   [max-weather-forecaster (⭐57)](https://github.com/IBM/MAX-Weather-Forecaster) - Predict hourly weather features given historical data for a specific location.
+*   [max-word-embedding-generator (⭐7)](https://github.com/IBM/MAX-Word-Embedding-Generator) - Generate embedding vectors from text files.
+*   [natural-language-classifier-nodejs (⭐160)](https://github.com/watson-developer-cloud/natural-language-classifier-nodejs) - See how the classifier service uses natural language to determine the intent behind your question.
+*   [natural-language-understanding-nodejs (⭐128)](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - 🆕 Demo code for the Natural Language Understanding Service.
+*   [node-red-labs (⭐207)](https://github.com/watson-developer-cloud/node-red-labs) - Node-RED labs on the use of the Watson Developer Cloud services.
+*   [node-red-node-watson (⭐79)](https://github.com/watson-developer-cloud/node-red-node-watson) - A collection of nodes for the IBM Watson services.
+*   [personality-insights-nodejs (⭐560)](https://github.com/watson-developer-cloud/personality-insights-nodejs) - 📊 Sample Nodejs Application for the IBM Watson Personality Insights Service.
 *   [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) - Sample Python Application for the IBM Watson Personality Insights Service.
-*   [simple-chat-swift](https://github.com/watson-developer-cloud/simple-chat-swift) - 📱 An iOS chat application using cognitive services from the Watson Developer Cloud Swift SDK.
-*   [speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers.
-*   [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service.
-*   [tone-analyzer-nodejs](https://github.com/watson-developer-cloud/tone-analyzer-nodejs) - Sample Node.js Application for the IBM Tone Analyzer Service.
-*   [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML.
-*   [visual-recognition-nodejs](https://github.com/watson-developer-cloud/visual-recognition-nodejs) - 📷 Sample Node.js Application for the IBM Watson Visual Recognition Service.
+*   [simple-chat-swift (⭐49)](https://github.com/watson-developer-cloud/simple-chat-swift) - 📱 An iOS chat application using cognitive services from the Watson Developer Cloud Swift SDK.
+*   [speech-javascript-sdk (⭐249)](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers.
+*   [speech-to-text-nodejs (⭐1k)](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 🎤 Sample Node.js Application for the IBM Watson Speech to Text Service.
+*   [tone-analyzer-nodejs (⭐456)](https://github.com/watson-developer-cloud/tone-analyzer-nodejs) - Sample Node.js Application for the IBM Tone Analyzer Service.
+*   [visual-recognition-coreml (⭐490)](https://github.com/watson-developer-cloud/visual-recognition-coreml) - Classify images offline using Watson Visual Recognition and Core ML.
+*   [visual-recognition-nodejs (⭐365)](https://github.com/watson-developer-cloud/visual-recognition-nodejs) - 📷 Sample Node.js Application for the IBM Watson Visual Recognition Service.
 *   [watson-developer-cloud](https://github.com/watson-developer-cloud) - A collection of REST APIs and SDKs that use cognitive computing to solve complex problems.
-    *   [android-sdk](https://github.com/watson-developer-cloud/android-sdk) - 🔆 Android SDK to use the IBM Watson services.
-    *   [dotnet-standard-sdk](https://github.com/watson-developer-cloud/dotnet-standard-sdk) - 🆕🆕🆕 .NET Standard library to access Watson Services.
-    *   [go-sdk](https://github.com/watson-developer-cloud/go-sdk) - 🐭 Go SDK for the IBM Watson services.
-    *   [java-sdk](https://github.com/watson-developer-cloud/java-sdk) - 🥇 Java SDK to use the IBM Watson services.
-    *   [node-sdk](https://github.com/watson-developer-cloud/node-sdk) - ☄️ Node.js library to access IBM Watson services.
-    *   [openwhisk-sdk](https://github.com/watson-developer-cloud/openwhisk-sdk) - 🆕 SDK for using Watson Services on IBM Cloud Functions (based on Apache Openwhisk).
-    *   [python-sdk](https://github.com/watson-developer-cloud/python-sdk) - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
-    *   [ruby-sdk](https://github.com/watson-developer-cloud/ruby-sdk) - ♦️ Ruby SDK to use the IBM Watson services.
-    *   [salesforce-sdk](https://github.com/watson-developer-cloud/salesforce-sdk) - A Salesforce library for communicating with the IBM Watson REST APIs.
-    *   [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
-    *   [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) - 🎮 Unity SDK to use the IBM Watson services.
-*   [with-watson](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
+    *   [android-sdk (⭐141)](https://github.com/watson-developer-cloud/android-sdk) - 🔆 Android SDK to use the IBM Watson services.
+    *   [dotnet-standard-sdk (⭐146)](https://github.com/watson-developer-cloud/dotnet-standard-sdk) - 🆕🆕🆕 .NET Standard library to access Watson Services.
+    *   [go-sdk (⭐72)](https://github.com/watson-developer-cloud/go-sdk) - 🐭 Go SDK for the IBM Watson services.
+    *   [java-sdk (⭐580)](https://github.com/watson-developer-cloud/java-sdk) - 🥇 Java SDK to use the IBM Watson services.
+    *   [node-sdk (⭐1.5k)](https://github.com/watson-developer-cloud/node-sdk) - ☄️ Node.js library to access IBM Watson services.
+    *   [openwhisk-sdk (⭐12)](https://github.com/watson-developer-cloud/openwhisk-sdk) - 🆕 SDK for using Watson Services on IBM Cloud Functions (based on Apache Openwhisk).
+    *   [python-sdk (⭐1.4k)](https://github.com/watson-developer-cloud/python-sdk) - 🐍 Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud.
+    *   [ruby-sdk (⭐45)](https://github.com/watson-developer-cloud/ruby-sdk) - ♦️ Ruby SDK to use the IBM Watson services.
+    *   [salesforce-sdk (⭐27)](https://github.com/watson-developer-cloud/salesforce-sdk) - A Salesforce library for communicating with the IBM Watson REST APIs.
+    *   [swift-sdk (⭐879)](https://github.com/watson-developer-cloud/swift-sdk) - 📱 The Watson Swift SDK enables developers to quickly add Watson Cognitive Computing services to their Swift applications.
+    *   [unity-sdk (⭐567)](https://github.com/watson-developer-cloud/unity-sdk) - 🎮 Unity SDK to use the IBM Watson services.
+*   [with-watson (⭐0)](https://github.com/victorshinya/with-watson) - iOS App running Visual Recognition default model.
 *   [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - iOS App running Visual Recognition custom model.
-*   [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) - 🌟 The Celebrity Match application uses the Watson Personality Insights Service and Twitter data to identify celebrities on Twitter whose tweets are conceptually closest to yours.
+*   [your-celebrity-match (⭐156)](https://github.com/watson-developer-cloud/your-celebrity-match) - 🌟 The Celebrity Match application uses the Watson Personality Insights Service and Twitter data to identify celebrities on Twitter whose tweets are conceptually closest to yours.
 
 ## Resources
 
@@ -214,7 +214,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 *   [IBM Cloud Architecture Center](https://www.ibm.com/cloud/architecture/architectures) - IBM's architectures provide practices for building apps on the cloud. The reference architectures define the basic pattern, while implementations provide specific technology, practices, and tool choices to build and deploy that pattern.
 *   [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) - How-tos, news, and announcements for IBM Cloud.
 *   [IBM Cloud Favorites](https://ibm.biz/ibmcloudhelp) - A list of links and resources about IBM Cloud Platform.
-*   [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) - IBM Cloud Stencils for creating IBM Cloud diagrams with popular diagram tools.
+*   [IBM Cloud Stencils (⭐110)](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) - IBM Cloud Stencils for creating IBM Cloud diagrams with popular diagram tools.
 *   [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - Stay up to date with the latest on IBM Cloud products and services.
 *   [IBM Demos](https://www.ibm.com/demos/) - IBM Demos is the premiere destination to explore, learn, and try out a variety of IBM products and solutions.
 *   [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
@@ -343,7 +343,7 @@ A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs
 
 ## Contributing
 
-If you want to contribute, feel free to submit your Pull Request or create a new Issue. But first, take a moment to read the [contribution guidelines](https://github.com/victorshinya/awesome-ibmcloud/blob/master/CONTRIBUTING.md). Thanks to all [contributors](https://github.com/victorshinya/awesome-ibmcloud/graphs/contributors)! **#YouROCK**!
+If you want to contribute, feel free to submit your Pull Request or create a new Issue. But first, take a moment to read the [contribution guidelines (⭐74)](https://github.com/victorshinya/awesome-ibmcloud/blob/master/CONTRIBUTING.md). Thanks to all [contributors (⭐74)](https://github.com/victorshinya/awesome-ibmcloud/graphs/contributors)! **#YouROCK**!
 
 ***If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!***
 

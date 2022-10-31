@@ -77,7 +77,7 @@ All things WebXR.
 
 *Resources for creating and utilizing 3D avatars in immersive experiences.*
 
-*   [Exokit Avatars](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here](https://github.com/msub2/avatars).
+*   [Exokit Avatars (⭐52)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐3)](https://github.com/msub2/avatars).
 *   [ReadyPlayerMe](https://readyplayer.me/) - Lets you quickly and easily create a 3D avatar online that you can download in glTF format.
 *   [VRoid](https://vroid.com/en) - Lets you create anime-styled 3D avatars that export to the highly-compatible .vrm format.
 
@@ -145,7 +145,7 @@ All things WebXR.
 
 ### Engines
 
-*   [Ethereal Engine](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐510)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 *   [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
     *   [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
@@ -157,8 +157,8 @@ All things WebXR.
     *   [Official Documentation](https://developer.playcanvas.com/en/)
 
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
-    *   [WebXR Export](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [WebXR Export (⭐590)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
+    *   [SimpleWebXR (⭐452)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
@@ -171,16 +171,16 @@ All things WebXR.
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
 
-*   [JanusWeb](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐145)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 
 *   [LÖVR](https://lovr.org/) - A Lua-based framework that lets you create VR content across web and native platforms.
     *   [Official Documentation](https://lovr.org/docs/)
 
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
 
-*   [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR](https://github.com/pmndrs/react-xr) as well.
+*   [react-three-fiber (⭐20k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐1.3k)](https://github.com/pmndrs/react-xr) as well.
 
-*   [Spaces VR](https://github.com/spacesvr/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
+*   [Spaces VR (⭐130)](https://github.com/spacesvr/spacesvr) - A front end framework for quickly creating VR websites built on react-three-fiber.
 
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)

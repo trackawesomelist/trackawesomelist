@@ -10,7 +10,7 @@ A curated collection of links for economists
 
 # Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*A curated collection of links for economists. Part of the ["Awesome X" series](https://github.com/sindresorhus/awesome).*
+*A curated collection of links for economists. Part of the ["Awesome X" series (⭐223k)](https://github.com/sindresorhus/awesome).*
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 
@@ -101,7 +101,7 @@ Sharing
 *   [GitHub](https://github.com/) - A repository for code and data. Publishing research here is not a common practice, but it's more convenient that alternatives (university home page, DropBox, etc.).
     *   [GitHub Pages](https://pages.github.com/) - Simple static websites.
     *   [GitHub LFS](https://git-lfs.github.com/) - Large file storage.
-*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+*   [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery (⭐16k)](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 
 Reviews
 
@@ -172,16 +172,16 @@ Reviews
 ### Projects
 
 *   [EconForge](https://github.com/EconForge) - Team around Pablo Winant providing packages to solve economic models.
-*   [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-*   [econsieve](https://github.com/gboehl/econsieve) - Filter for large-scale nonlinear models.
-*   [fecon235](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
-*   [macro\_puzzles](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
-*   [pydsge](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
-*   [pyeconomics](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+*   [economics-book (⭐28)](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
+*   [econsieve (⭐8)](https://github.com/gboehl/econsieve) - Filter for large-scale nonlinear models.
+*   [fecon235 (⭐808)](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+*   [macro\_puzzles (⭐67)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
+*   [pydsge (⭐33)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
+*   [pyeconomics (⭐170)](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 *   [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
-*   [quantecon\_nyu\_2016](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
+*   [quantecon\_nyu\_2016 (⭐107)](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 *   [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
-*   [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
+*   [zice-2014 (⭐26)](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 
 ## Links Sent by Readers
 

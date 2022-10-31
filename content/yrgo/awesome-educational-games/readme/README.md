@@ -103,7 +103,7 @@ A curated list of awesome educational games to learn editors, languages, program
 *   [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
 *   [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 *   [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
-*   [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
+*   [WarriorJS (⭐8.8k)](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
 *   [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
 *   [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
 

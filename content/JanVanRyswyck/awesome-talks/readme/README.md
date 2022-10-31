@@ -18,18 +18,18 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 
 ### Categories
 
-*   [Software Development](https://github.com/JanVanRyswyck/awesome-talks#software-development)
-*   [Object-Oriented Programming](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
-*   [Functional Programming](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
-*   [Software Design](https://github.com/JanVanRyswyck/awesome-talks#software-design)
-*   [Web Development](https://github.com/JanVanRyswyck/awesome-talks#web-development)
-*   [Test-Driven Development](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
-*   [Methodologies](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
-*   [Computer History](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
-*   [Databases](https://github.com/JanVanRyswyck/awesome-talks#databases)
-*   [Security](https://github.com/JanVanRyswyck/awesome-talks#security)
-*   [Cognitive Development](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
-*   [Cryptocurrencies](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
+*   [Software Development (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#software-development)
+*   [Object-Oriented Programming (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#object-oriented-programming)
+*   [Functional Programming (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#functional-programming)
+*   [Software Design (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#software-design)
+*   [Web Development (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#web-development)
+*   [Test-Driven Development (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#test-driven-development)
+*   [Methodologies (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#methodologies)
+*   [Computer History (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#computer-history)
+*   [Databases (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#databases)
+*   [Security (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#security)
+*   [Cognitive Development (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#cognitive-development)
+*   [Cryptocurrencies (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#cryptocurrencies)
 
 #### Software Development
 

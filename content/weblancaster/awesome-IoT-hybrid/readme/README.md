@@ -47,7 +47,7 @@ The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks,
 *   [Node Red](http://nodered.org/)
 *   [IoT Eclipse](http://iot.eclipse.org)
 *   [Gladys Project](http://gladysproject.com)
-*   [Lelylan](https://github.com/lelylan/lelylan)
+*   [Lelylan (⭐1.5k)](https://github.com/lelylan/lelylan)
 *   [BalenaCloud](https://www.balena.io/)
 
 #### Resources-websites-projects
@@ -64,8 +64,8 @@ The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks,
 
 ## Hybrid Desktop
 
-*   [nw.js](https://github.com/nwjs/nw.js)
-*   [Electron](https://github.com/atom/electron)
+*   [nw.js (⭐39k)](https://github.com/nwjs/nw.js)
+*   [Electron (⭐104k)](https://github.com/atom/electron)
 *   [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 *   [AppJS](http://appjs.com/)
 *   [MacGap](https://github.com/MacGapProject)
@@ -87,7 +87,7 @@ The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks,
 
 #### Tools-Plugins
 
-*   [Cordova / Phonegap iBeacon plugin](https://github.com/petermetz/cordova-plugin-ibeacon)
+*   [Cordova / Phonegap iBeacon plugin (⭐728)](https://github.com/petermetz/cordova-plugin-ibeacon)
 
 ## Miscellaneous
 

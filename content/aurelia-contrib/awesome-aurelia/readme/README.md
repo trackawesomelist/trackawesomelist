@@ -66,7 +66,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 *   [Official Documentation](http://aurelia.io/docs.html)
 *   [API Documentation](http://aurelia.io/docs.html#/api/home)
 *   [Official Getting Started Guide](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/getting-started)
-*   [Official GitHub Repo](https://github.com/aurelia/framework)
+*   [Official GitHub Repo (⭐12k)](https://github.com/aurelia/framework)
 *   [Rob Eisenberg on Twitter](https://twitter.com/eisenbergeffect)
 
 #### Community
@@ -102,24 +102,24 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 #### Aurelia Tools
 
 *   [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-inspector/ofemgdknaajmpeoblfdjkenbpcfbdefg) \* This tool is called "Aurelia Inspector"
-*   [vscode-extension](https://github.com/aurelia/vscode-extension) \* An Aurelia extension for the VS Code editor that provides HTML syntax highlighting, statement completion and CLI integration.
-*   [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) \* HTML, JavaScript and TypeScript snippets for VSCode
-*   [aurelia-update](https://github.com/SpoonX/aurelia-update) \* Update all aurelia dependencies easily.
-*   [aurelia-template-lint](https://github.com/MeirionHughes/aurelia-template-lint) \* Sanity check of Aurelia-flavor template HTML
+*   [vscode-extension (⭐116)](https://github.com/aurelia/vscode-extension) \* An Aurelia extension for the VS Code editor that provides HTML syntax highlighting, statement completion and CLI integration.
+*   [vscode-aurelia-snippets (⭐15)](https://github.com/behzad888/vscode-aurelia-snippets) \* HTML, JavaScript and TypeScript snippets for VSCode
+*   [aurelia-update (⭐17)](https://github.com/SpoonX/aurelia-update) \* Update all aurelia dependencies easily.
+*   [aurelia-template-lint (⭐4)](https://github.com/MeirionHughes/aurelia-template-lint) \* Sanity check of Aurelia-flavor template HTML
 *   [atom-aurelia-snippets](https://atom.io/packages/atom-aurelia-snippets) \* JavaScript and TypeScript snippets for atom
-*   [aurelia-installer](https://github.com/kristianmandrup/aurelia-installer) \* CLI for managing Aurelia components and vendor libs
-*   [aurelia-debugger](https://github.com/charlespockert/aurelia-debugger) \* Visual debug tool for Aurelia
+*   [aurelia-installer (⭐4)](https://github.com/kristianmandrup/aurelia-installer) \* CLI for managing Aurelia components and vendor libs
+*   [aurelia-debugger (⭐5)](https://github.com/charlespockert/aurelia-debugger) \* Visual debug tool for Aurelia
 
 #### Seed Project
 
 *   [Beginner kits](https://github.com/aurelia/beginner-kits) \* Houses the beginner getting started started kits for ES 2016 and TypeScript.
-*   [TypeScript + Webpack Starter Kit](https://github.com/michaelbull/aurelia-typescript-webpack-starter) \* A minimal Aurelia starter kit written in TypeScript and built using webpack.
+*   [TypeScript + Webpack Starter Kit (⭐28)](https://github.com/michaelbull/aurelia-typescript-webpack-starter) \* A minimal Aurelia starter kit written in TypeScript and built using webpack.
 *   [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Generators
 
-*   [zewa666/generator-aurelia](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
-*   [kristianmandrup/generator-aurelia-ts](https://github.com/kristianmandrup/generator-aurelia-ts) Turbo Start generator for Aurelia apps by @kristianmandrup
+*   [zewa666/generator-aurelia (⭐77)](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
+*   [kristianmandrup/generator-aurelia-ts (⭐29)](https://github.com/kristianmandrup/generator-aurelia-ts) Turbo Start generator for Aurelia apps by @kristianmandrup
 
 #### Aurelia Cheatsheet
 
@@ -129,7 +129,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 *   [Aurelia Value Converters](https://jdanyow.github.io/aurelia-converters-sample/)
 *   [Aurelia & Framework7 vs. Angular2 & Ionic2](http://www.jujens.eu/posts/en/2016/Mar/15/ionic2-aurelia-f7/)
-*   [Aurelia-styleguide](https://github.com/behzad888/Aurelia-styleguide) \* A starting point for Aurelia development teams to provide consistency through best practices.
+*   [Aurelia-styleguide (⭐24)](https://github.com/behzad888/Aurelia-styleguide) \* A starting point for Aurelia development teams to provide consistency through best practices.
 *   [Aurelia Tutorial | TutorialsPoint](https://www.tutorialspoint.com/aurelia/index.htm)
 
 ##### Aurelia Podcasts
@@ -172,118 +172,118 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Material Design
 
-*   [Official Aurelia Material Design (Github)](https://github.com/joelcoxokc/aurelia-interface)
-*   [aurelia-mdl](https://github.com/genadis/aurelia-mdl)
-*   [aurelia-material](https://github.com/redpelicans/aurelia-material)
-*   [aurelia-mdl-plugin](https://github.com/arabsight/aurelia-mdl-plugin) \* Material Design Lite plugin for Aurelia
+*   [Official Aurelia Material Design (Github) (⭐86)](https://github.com/joelcoxokc/aurelia-interface)
+*   [aurelia-mdl (⭐21)](https://github.com/genadis/aurelia-mdl)
+*   [aurelia-material (⭐49)](https://github.com/redpelicans/aurelia-material)
+*   [aurelia-mdl-plugin (⭐19)](https://github.com/arabsight/aurelia-mdl-plugin) \* Material Design Lite plugin for Aurelia
 *   [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Plugins
 
-*   [aurelia-auth](https://github.com/paulvanbladel/aurelia-auth) \* Token-based authentication plugin for aurelia
-*   [aurelia-computed](https://github.com/jdanyow/aurelia-computed) \* A plugin for Aurelia to observe computed properties without dirty-checking
-*   [aurelia-i18n](https://github.com/aurelia/i18n) {official} \* A plugin that provides i18n support
-*   [aurelia-ui-virtualization](https://github.com/aurelia/ui-virtualization) {official} \* A plugin that provides a virtualized repeater and other virtualization services
-*   [aurelia-bs-grid](https://github.com/charlespockert/aurelia-bs-grid) \* Aurelia and Bootstrap powered datagrid control
-*   [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) \* Aurelia plugin to support Polymer
-*   [aurelia-google-maps](https://github.com/Vheissu/aurelia-google-maps) \* A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application
-*   [webpack-plugin](https://github.com/aurelia/webpack-plugin) {official} \* A plugin for webpack that enables bundling Aurelia applications
-*   [aurelia-cycle](https://github.com/niieani/aurelia-cycle) \* An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
-*   [aurelia-kendoui-bridge](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) \* Aurelia and KendoUI integration
-*   [aurelia-long-click-event](https://github.com/avrahamcool/aurelia-long-click-event) \* Add delegate/trigger capabilities for long click.
-*   [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) \* Load React components directly from Aurelia views
-*   [aurelia-validatejs](https://github.com/aurelia/validatejs) {official} \* Enables expressive validation using decorators and/or a fluent API.
-*   [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) \* A plugin for loading any Markdown into custom element
-*   [aurelia-routed-footer](https://github.com/drivesoftware/aurelia-routed-footer) \* An Aurelia plugin which adds the ability to control footer content via the router
-*   [aurelia-api](https://github.com/SpoonX/aurelia-api) {ES6/TS/Webpack} \* A wrapper around aurelia-fetch-client for multiple endpoints
-*   [aurelia-authentication](https://github.com/SpoonX/aurelia-authentication) {ES6/TS/Webpack} \* Authentication plugin for aurelia with aurelia-api support.
-*   [aurelia-orm](https://github.com/SpoonX/aurelia-orm) {ES6/TS/Webpack} \* Makes working with entities and calling your Rest API simple.
-*   [aurelia-notification](https://github.com/SpoonX/aurelia-notification) {ES6/TS/Webpack} \* Automatically translated notifications utilizing humane.js and i18n
-*   [aurelia-binding-loader](https://github.com/bryanrsmith/aurelia-binding-loader) \* An Aurelia loader for using any module directly from a view template
-*   [aurelia-dragula](https://github.com/michaelmalonenz/aurelia-dragula) \* An ES2015 port of the Dragula library, targeted at the Aurelia Framework
-*   [aurelia-breeze](https://github.com/jdanyow/aurelia-breeze) \* Everything you need to use Breeze with Aurelia
+*   [aurelia-auth (⭐201)](https://github.com/paulvanbladel/aurelia-auth) \* Token-based authentication plugin for aurelia
+*   [aurelia-computed (⭐25)](https://github.com/jdanyow/aurelia-computed) \* A plugin for Aurelia to observe computed properties without dirty-checking
+*   [aurelia-i18n (⭐93)](https://github.com/aurelia/i18n) {official} \* A plugin that provides i18n support
+*   [aurelia-ui-virtualization (⭐96)](https://github.com/aurelia/ui-virtualization) {official} \* A plugin that provides a virtualized repeater and other virtualization services
+*   [aurelia-bs-grid (⭐45)](https://github.com/charlespockert/aurelia-bs-grid) \* Aurelia and Bootstrap powered datagrid control
+*   [aurelia-polymer (⭐18)](https://github.com/roguePanda/aurelia-polymer) \* Aurelia plugin to support Polymer
+*   [aurelia-google-maps (⭐48)](https://github.com/Vheissu/aurelia-google-maps) \* A highly configurable custom element for use in your Aurelia applications for inserting Google Maps into your application
+*   [webpack-plugin (⭐91)](https://github.com/aurelia/webpack-plugin) {official} \* A plugin for webpack that enables bundling Aurelia applications
+*   [aurelia-cycle (⭐6)](https://github.com/niieani/aurelia-cycle) \* An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
+*   [aurelia-kendoui-bridge (⭐117)](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) \* Aurelia and KendoUI integration
+*   [aurelia-long-click-event (⭐7)](https://github.com/avrahamcool/aurelia-long-click-event) \* Add delegate/trigger capabilities for long click.
+*   [aurelia-react-loader (⭐25)](https://github.com/bryanrsmith/aurelia-react-loader) \* Load React components directly from Aurelia views
+*   [aurelia-validatejs (⭐21)](https://github.com/aurelia/validatejs) {official} \* Enables expressive validation using decorators and/or a fluent API.
+*   [aurelia-view-pipeline (⭐2)](https://github.com/behzad888/aurelia-view-pipeline) \* A plugin for loading any Markdown into custom element
+*   [aurelia-routed-footer (⭐2)](https://github.com/drivesoftware/aurelia-routed-footer) \* An Aurelia plugin which adds the ability to control footer content via the router
+*   [aurelia-api (⭐74)](https://github.com/SpoonX/aurelia-api) {ES6/TS/Webpack} \* A wrapper around aurelia-fetch-client for multiple endpoints
+*   [aurelia-authentication (⭐92)](https://github.com/SpoonX/aurelia-authentication) {ES6/TS/Webpack} \* Authentication plugin for aurelia with aurelia-api support.
+*   [aurelia-orm (⭐78)](https://github.com/SpoonX/aurelia-orm) {ES6/TS/Webpack} \* Makes working with entities and calling your Rest API simple.
+*   [aurelia-notification (⭐29)](https://github.com/SpoonX/aurelia-notification) {ES6/TS/Webpack} \* Automatically translated notifications utilizing humane.js and i18n
+*   [aurelia-binding-loader (⭐12)](https://github.com/bryanrsmith/aurelia-binding-loader) \* An Aurelia loader for using any module directly from a view template
+*   [aurelia-dragula (⭐29)](https://github.com/michaelmalonenz/aurelia-dragula) \* An ES2015 port of the Dragula library, targeted at the Aurelia Framework
+*   [aurelia-breeze (⭐63)](https://github.com/jdanyow/aurelia-breeze) \* Everything you need to use Breeze with Aurelia
 *   [aurelia-bootstrap-datepicker](https://github.com/Itprosolutions/aurelia-bootstrap-datepicker) \* An aurelia port for bootstrap-datepicker
-*   [Aurelia-Configuration](https://github.com/vheissu/aurelia-configuration) \* Smart configuration for your Aurelia applications.
-*   [aurelia-environment](https://github.com/MarcScheib/aurelia-environment) \* aurelia-environment provides simple .env parsing and loading
-*   [aurelia-firebase](https://github.com/pulsarblow/aurelia-firebase) \* [A Firebase plugin for Aurelia](https://aureliaonfire.azurewebsites.net)
-*   [aurelia-flux](https://github.com/tfrydrychewicz/aurelia-flux) \* Flux dispatcher plugin for Aurelia
-*   [aurelia-grid](https://github.com/corneliutusnea/aurelia-grid) \* A fresh Aurelia Grid written in TypeScript based charlespockert's Aurelia BS Grid
-*   [aurelia-google-analytics](https://github.com/miguelzakharia/aurelia-google-analytics) \* An Aurelia.io plugin that adds Google Analytics page tracking to your project.
-*   [aurelia-knockout](https://github.com/code-chris/aurelia-knockout) \* A Knockout plugin for Aurelia
-*   [aurelia-leaflet](https://github.com/ceoaliongroo/aurelia-leaflet) \* Leaflet Plugin for Aurelia
-*   [aurelia-notify](https://github.com/MarcScheib/aurelia-notify) \* A notification plugin for Aurelia
-*   [aurelia-rethink-bindtable](https://github.com/kristianmandrup/aurelia-rethink-bindtable) \* Aurelia bind table integration for RethinkDB via Socket.io
-*   [aurelia-sails-socket-client](https://github.com/Mordred/aurelia-sails-socket-client) \* A simple, restful, message-based wrapper around sails.io client
+*   [Aurelia-Configuration (⭐105)](https://github.com/vheissu/aurelia-configuration) \* Smart configuration for your Aurelia applications.
+*   [aurelia-environment (⭐6)](https://github.com/MarcScheib/aurelia-environment) \* aurelia-environment provides simple .env parsing and loading
+*   [aurelia-firebase (⭐24)](https://github.com/pulsarblow/aurelia-firebase) \* [A Firebase plugin for Aurelia](https://aureliaonfire.azurewebsites.net)
+*   [aurelia-flux (⭐74)](https://github.com/tfrydrychewicz/aurelia-flux) \* Flux dispatcher plugin for Aurelia
+*   [aurelia-grid (⭐15)](https://github.com/corneliutusnea/aurelia-grid) \* A fresh Aurelia Grid written in TypeScript based charlespockert's Aurelia BS Grid
+*   [aurelia-google-analytics (⭐29)](https://github.com/miguelzakharia/aurelia-google-analytics) \* An Aurelia.io plugin that adds Google Analytics page tracking to your project.
+*   [aurelia-knockout (⭐22)](https://github.com/code-chris/aurelia-knockout) \* A Knockout plugin for Aurelia
+*   [aurelia-leaflet (⭐4)](https://github.com/ceoaliongroo/aurelia-leaflet) \* Leaflet Plugin for Aurelia
+*   [aurelia-notify (⭐14)](https://github.com/MarcScheib/aurelia-notify) \* A notification plugin for Aurelia
+*   [aurelia-rethink-bindtable (⭐16)](https://github.com/kristianmandrup/aurelia-rethink-bindtable) \* Aurelia bind table integration for RethinkDB via Socket.io
+*   [aurelia-sails-socket-client (⭐21)](https://github.com/Mordred/aurelia-sails-socket-client) \* A simple, restful, message-based wrapper around sails.io client
 *   [aurelia-switch](https://github.com/Itprosolutions/aurelia-switch) \* An aurelia optimised switchButton
-*   [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) \* Aurelia plugin for Youtube player API
-*   [abalmus/aurelia-ace-editor](https://github.com/abalmus/aurelia-ace-editor) \* Aurelia ace editor plugin
-*   [Tseberechts/aurelia-place-picker](https://github.com/Tseberechts/aurelia-place-picker) \* A place picker inspired by the Autocomplete places with Aurelia
-*   [treacherous-aurelia](https://github.com/grofit/treacherous-aurelia) \* An Aurelia plugin for the treacherous validation system
-*   [aurelia-filter](https://github.com/SpoonX/aurelia-filter) \* A plugin for aurelia to populate search/filter criteria. Works well with aurelia-orm
-*   [aurelia-charts](https://github.com/SpoonX/aurelia-charts) \* Graphs plugin for aurelia. Supports all libraries
-*   [aurelia-view-manager](https://github.com/SpoonX/aurelia-view-manager) \* A view manager for aurelia plugins. Add support for overriding views, and multiple frameworks
-*   [aurelia-resize](https://github.com/MeirionHughes/aurelia-resize) \* aurelia plugin to observe DOM-element resize events
-*   [aurelia-keyboard-plugin](https://github.com/Novatrox/aurelia-keyboard-plugin) \* Simple keyboard plugin for aurelia
-*   [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) \* A bespoke UI Framework built on Aurelia for desktop business application
-*   [aurelia-tags-input](https://github.com/TGMorais/aurelia-tags-input) \* An aurelia tags input plugin
-*   [aurelia-formio](https://github.com/formio/aurelia-formio) \* A dynamic JSON Form Renderer and Form Builder - [See Example](https://formio.github.io/aurelia-formio/)
-*   [aurelia-swipeout](https://github.com/michaelbull/aurelia-swipeout) \* A custom element for iOS style swipeout actions - [Demo](https://michaelbull.github.io/aurelia-swipeout/)
-*   [aurelia-split-pane](https://github.com/michaelbull/aurelia-split-pane) \* A custom element for resizable split panes - [Demo](https://michaelbull.github.io/aurelia-split-pane/)
-*   [aurelia-bootstrap-plugins](https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins) \* A set of plugins to bridge with 3rd party Bootstrap addons - [Demo](https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/)
-*   [aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) \* Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
-*   [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) \* Permissions management plugin which allows to integrate Aurelia and CASL
-*   [aurelia-json-schema-form](https://github.com/jbockle/aurelia-json-schema-form) \* A completely customizable plugin to dynamically generate forms & validate them based on JSON schema
+*   [aurelia-yt-player (⭐4)](https://github.com/genadis/aurelia-yt-player) \* Aurelia plugin for Youtube player API
+*   [abalmus/aurelia-ace-editor (⭐4)](https://github.com/abalmus/aurelia-ace-editor) \* Aurelia ace editor plugin
+*   [Tseberechts/aurelia-place-picker (⭐1)](https://github.com/Tseberechts/aurelia-place-picker) \* A place picker inspired by the Autocomplete places with Aurelia
+*   [treacherous-aurelia (⭐2)](https://github.com/grofit/treacherous-aurelia) \* An Aurelia plugin for the treacherous validation system
+*   [aurelia-filter (⭐7)](https://github.com/SpoonX/aurelia-filter) \* A plugin for aurelia to populate search/filter criteria. Works well with aurelia-orm
+*   [aurelia-charts (⭐12)](https://github.com/SpoonX/aurelia-charts) \* Graphs plugin for aurelia. Supports all libraries
+*   [aurelia-view-manager (⭐10)](https://github.com/SpoonX/aurelia-view-manager) \* A view manager for aurelia plugins. Add support for overriding views, and multiple frameworks
+*   [aurelia-resize (⭐17)](https://github.com/MeirionHughes/aurelia-resize) \* aurelia plugin to observe DOM-element resize events
+*   [aurelia-keyboard-plugin (⭐6)](https://github.com/Novatrox/aurelia-keyboard-plugin) \* Simple keyboard plugin for aurelia
+*   [aurelia-ui-framework (⭐154)](https://github.com/adarshpastakia/aurelia-ui-framework) \* A bespoke UI Framework built on Aurelia for desktop business application
+*   [aurelia-tags-input (⭐8)](https://github.com/TGMorais/aurelia-tags-input) \* An aurelia tags input plugin
+*   [aurelia-formio (⭐45)](https://github.com/formio/aurelia-formio) \* A dynamic JSON Form Renderer and Form Builder - [See Example](https://formio.github.io/aurelia-formio/)
+*   [aurelia-swipeout (⭐11)](https://github.com/michaelbull/aurelia-swipeout) \* A custom element for iOS style swipeout actions - [Demo](https://michaelbull.github.io/aurelia-swipeout/)
+*   [aurelia-split-pane (⭐12)](https://github.com/michaelbull/aurelia-split-pane) \* A custom element for resizable split panes - [Demo](https://michaelbull.github.io/aurelia-split-pane/)
+*   [aurelia-bootstrap-plugins (⭐46)](https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins) \* A set of plugins to bridge with 3rd party Bootstrap addons - [Demo](https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/)
+*   [aurelia-slickgrid (⭐116)](https://github.com/ghiscoding/aurelia-slickgrid) \* Slickgrid the best javascript datagrid for performance & customization is now available in Aurelia - [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
+*   [casl-aurelia (⭐4.3k)](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) \* Permissions management plugin which allows to integrate Aurelia and CASL
+*   [aurelia-json-schema-form (⭐13)](https://github.com/jbockle/aurelia-json-schema-form) \* A completely customizable plugin to dynamically generate forms & validate them based on JSON schema
 *   [aurelia-highlightjs](https://aurelia-highlightjs.r-w-x.net/#/demo) \* An Aurelia custom element for [highlight.js](https://highlightjs.org/)
-*   [aurelia-fontawesome](https://github.com/jmzagorski/aurelia-fontawesome) \*  Aurelia component for [Font Awesome](https://fontawesome.com/) 5.
-*   [aurelia-kis-oidc](https://github.com/kisssdev/aurelia-kis-oidc) \* An Aurelia plugin that encapsulates [oidc-client-js library](https://github.com/IdentityModel/oidc-client-js).
-*   [aurelia-telemetry](https://github.com/manuel-guilbault/aurelia-telemetry)
+*   [aurelia-fontawesome (⭐14)](https://github.com/jmzagorski/aurelia-fontawesome) \*  Aurelia component for [Font Awesome](https://fontawesome.com/) 5.
+*   [aurelia-kis-oidc (⭐8)](https://github.com/kisssdev/aurelia-kis-oidc) \* An Aurelia plugin that encapsulates [oidc-client-js library (⭐2.4k)](https://github.com/IdentityModel/oidc-client-js).
+*   [aurelia-telemetry (⭐1)](https://github.com/manuel-guilbault/aurelia-telemetry)
 *   [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
 
-*   [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) \* Implementation of the Aurelia base animator using TinyAnimate
-*   [sukobuto/aurelia-tinymce-sample](https://github.com/sukobuto/aurelia-tinymce-sample) \* Sample app with Aurelia and TinyMCE
-*   [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) \* Next Generation Stamp Web Editor written in Aurelio with Bootstrap
-*   [aurelia-tabs](https://github.com/Vheissu/aurelia-tabs) \* A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
+*   [aurelia-animator-tinyanimate (⭐3)](https://github.com/gooy/aurelia-animator-tinyanimate) \* Implementation of the Aurelia base animator using TinyAnimate
+*   [sukobuto/aurelia-tinymce-sample (⭐1)](https://github.com/sukobuto/aurelia-tinymce-sample) \* Sample app with Aurelia and TinyMCE
+*   [stamp-web/stamp-web-aurelia (⭐16)](https://github.com/stamp-web/stamp-web-aurelia) \* Next Generation Stamp Web Editor written in Aurelio with Bootstrap
+*   [aurelia-tabs (⭐17)](https://github.com/Vheissu/aurelia-tabs) \* A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
 *   [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) \* Match the pairs type of game written with Aurelia in TypeScript using Flickr
-*   [aurelia-datatable](https://github.com/SpoonX/aurelia-datatable) \* A 100% aurelia based data table component <http://aurelia-datatable.spoonx.org>
+*   [aurelia-datatable (⭐32)](https://github.com/SpoonX/aurelia-datatable) \* A 100% aurelia based data table component <http://aurelia-datatable.spoonx.org>
 
 #### Aurelia Custom Element
 
-*   [aurelia-v-grid](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) \* aurelia-v-grid
-*   [aurelia-leaflet](https://github.com/benib/aurelia-leaflet) \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
-*   [aurelia-chart](https://github.com/grofit/aurelia-chart) \* A chart element for aurelia which is powered by chart js using html5 canvas
-*   [aurelia-toolbelt](https://github.com/aurelia-toolbelt/aurelia-toolbelt) \* A set of components for bootstrap4, it also includes other components and value converters.
-*   [ag-grid-aurelia](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
+*   [aurelia-v-grid (⭐22)](https://github.com/aurelia-ui-toolkits/aurelia-v-grid) \* aurelia-v-grid
+*   [aurelia-leaflet (⭐16)](https://github.com/benib/aurelia-leaflet) \* [A Leaflet CustomElement for Aurelia](http://benib.github.io/aurelia-leaflet/)
+*   [aurelia-chart (⭐45)](https://github.com/grofit/aurelia-chart) \* A chart element for aurelia which is powered by chart js using html5 canvas
+*   [aurelia-toolbelt (⭐65)](https://github.com/aurelia-toolbelt/aurelia-toolbelt) \* A set of components for bootstrap4, it also includes other components and value converters.
+*   [ag-grid-aurelia (⭐9.3k)](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-aurelia) \* The Aurelia Component for use with ag-Grid, an advanced data grid/data table - [Demo](https://www.ag-grid.com/best-aurelia-data-grid/)
 
 #### Aurelia Auth
 
-*   [sentry](https://github.com/Foursails/sentry) \* An Aurelia template with a built in authentication shell
-*   [aurelia-authentication-loopback-sample](https://github.com/doktordirk/aurelia-authentication-loopback-sample) \* Aurelia client sample with aurelia-authentication and loopback server (ES6/TS+jspm, ES6+webpack)
-*   [aurelia-identityserver-aspnetcore](https://github.com/paulvanbladel/aurelia-identityserver-aspnetcore) \* Sample integrating aurelia with identityserver 4 and docker
-*   [casl-aurelia-example](https://github.com/stalniy/casl-aurelia-example) \* Example applilcation of authorization in Aurelia app using CASL.
+*   [sentry (⭐54)](https://github.com/Foursails/sentry) \* An Aurelia template with a built in authentication shell
+*   [aurelia-authentication-loopback-sample (⭐7)](https://github.com/doktordirk/aurelia-authentication-loopback-sample) \* Aurelia client sample with aurelia-authentication and loopback server (ES6/TS+jspm, ES6+webpack)
+*   [aurelia-identityserver-aspnetcore (⭐37)](https://github.com/paulvanbladel/aurelia-identityserver-aspnetcore) \* Sample integrating aurelia with identityserver 4 and docker
+*   [casl-aurelia-example (⭐5)](https://github.com/stalniy/casl-aurelia-example) \* Example applilcation of authorization in Aurelia app using CASL.
 
 #### Aurelia Libraries
 
-*   [pollyfils](https://github.com/aurelia/polyfills) \* The minimal set of polyfills needed to run Aurelia
-*   [aurelia-sails-socket-client](https://github.com/Mordred/aurelia-sails-socket-client) \* A simple, restful, message-based wrapper around sails.io client
-*   [aurelia-bundler](https://github.com/aurelia/bundler) \* A library for bundling JavaScript, HTML and CSS for use with SystemJS
+*   [pollyfils (⭐25)](https://github.com/aurelia/polyfills) \* The minimal set of polyfills needed to run Aurelia
+*   [aurelia-sails-socket-client (⭐21)](https://github.com/Mordred/aurelia-sails-socket-client) \* A simple, restful, message-based wrapper around sails.io client
+*   [aurelia-bundler (⭐39)](https://github.com/aurelia/bundler) \* A library for bundling JavaScript, HTML and CSS for use with SystemJS
 *   [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Examples
 
-*   [jdanyow/aurelia-breeze-northwind](https://github.com/jdanyow/aurelia-breeze-northwind) \* A Northwind demo using Aurelia and Breeze by @jdanyow.
-*   [jdanyow/aurelia-solitaire](https://github.com/jdanyow/aurelia-solitaire) \* Klondike solitaire built with Aurelia and dragula.
-*   [discosultan/aurelia-minesweeper](https://github.com/discosultan/aurelia-minesweeper/) \* Classic Minesweeper game built with Aurelia by @discosultan.
-*   [aurelia-webapi-example](https://github.com/jimschubert/aurelia-webapi-example) \* An example WebAPI written with C# and Aurelia
-*   [michaelbull/aurelia-hacker-news](https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone) \* A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
+*   [jdanyow/aurelia-breeze-northwind (⭐95)](https://github.com/jdanyow/aurelia-breeze-northwind) \* A Northwind demo using Aurelia and Breeze by @jdanyow.
+*   [jdanyow/aurelia-solitaire (⭐74)](https://github.com/jdanyow/aurelia-solitaire) \* Klondike solitaire built with Aurelia and dragula.
+*   [discosultan/aurelia-minesweeper (⭐8)](https://github.com/discosultan/aurelia-minesweeper/) \* Classic Minesweeper game built with Aurelia by @discosultan.
+*   [aurelia-webapi-example (⭐3)](https://github.com/jimschubert/aurelia-webapi-example) \* An example WebAPI written with C# and Aurelia
+*   [michaelbull/aurelia-hacker-news (⭐61)](https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone) \* A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
 *   [Built with Aurelia](http://builtwithaurelia.com/) \* Showcase of examples created by the Aurelia community.
 
 ##### Aurelia + Electron Examples
 
-*   [aurelia-electron-webpack](https://github.com/timfish/aurelia-electron-webpack) \* A basic boilerplate to build Electron apps with Aurelia, Typescript, and Webpack.
-*   [AureliaElectronHappiness](https://github.com/seesharper/AureliaElectronHappiness) \* Sample application that shows how to combine TypeScript, VSCode and Electron.
-*   [electron-aurelia-example](https://github.com/jimschubert/electron-aurelia-example) \* An example desktop application written with Electron and Aurelia.
+*   [aurelia-electron-webpack (⭐29)](https://github.com/timfish/aurelia-electron-webpack) \* A basic boilerplate to build Electron apps with Aurelia, Typescript, and Webpack.
+*   [AureliaElectronHappiness (⭐7)](https://github.com/seesharper/AureliaElectronHappiness) \* Sample application that shows how to combine TypeScript, VSCode and Electron.
+*   [electron-aurelia-example (⭐36)](https://github.com/jimschubert/electron-aurelia-example) \* An example desktop application written with Electron and Aurelia.
 
 ### TypeScript
 
@@ -293,21 +293,21 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 *   [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 *   [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
-*   [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-*   [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+*   [TypeScript Repository (GitHub) (⭐85k)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+*   [DefinitelyTyped Repository (GitHub) (⭐41k)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 *   [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
 
 #### Typescript Seed Projects
 
-*   [Aurelia Typescript](https://github.com/cmichaelgraham/aurelia-typescript) \* A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham
+*   [Aurelia Typescript (⭐143)](https://github.com/cmichaelgraham/aurelia-typescript) \* A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham
 
-*   [aurelia-axel](https://github.com/cmichaelgraham/aurelia-axel) \* As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations
+*   [aurelia-axel (⭐2)](https://github.com/cmichaelgraham/aurelia-axel) \* As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations
 
-*   [aurelia-axel-northwind](https://github.com/cmichaelgraham/aurelia-axel-northwind) \* As a user, I want a walk through of creating a web app from the `aurelia-axel` starter kit, based of a familiar database (Northwind)
+*   [aurelia-axel-northwind (⭐2)](https://github.com/cmichaelgraham/aurelia-axel-northwind) \* As a user, I want a walk through of creating a web app from the `aurelia-axel` starter kit, based of a familiar database (Northwind)
 
-*   [aurelia-skeleton-navigation-gulp-typescript](https://github.com/Enrapt/aurelia-skeleton-navigation-gulp-typescript) \* Aurelia navigation skeleton implemented with Gulp and Typescript
+*   [aurelia-skeleton-navigation-gulp-typescript (⭐12)](https://github.com/Enrapt/aurelia-skeleton-navigation-gulp-typescript) \* Aurelia navigation skeleton implemented with Gulp and Typescript
 
-*   [aurelia-chrome-extension-seed](https://github.com/PraveenGandhi/aurelia-chrome-extension-seed) \* Aurelia chrome extension seed
+*   [aurelia-chrome-extension-seed (⭐0)](https://github.com/PraveenGandhi/aurelia-chrome-extension-seed) \* Aurelia chrome extension seed
 
 *   [**{{** add\_your\_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
@@ -321,11 +321,11 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### ES5 Seed Projects
 
-*   [ahmedshuhel/nav-app-es5](https://github.com/ahmedshuhel/nav-app-es5) Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
+*   [ahmedshuhel/nav-app-es5 (⭐9)](https://github.com/ahmedshuhel/nav-app-es5) Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
 
 #### ES5 Examples
 
-*   [aurelia-observer-patterns](https://github.com/axwalker/aurelia-observer-patterns) \* Simple examples for different methods of implementing observer patterns in Aurelia
+*   [aurelia-observer-patterns (⭐28)](https://github.com/axwalker/aurelia-observer-patterns) \* Simple examples for different methods of implementing observer patterns in Aurelia
 
 ### Meteor
 
@@ -333,7 +333,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Meteor Seed Projects
 
-*   [TsumiNa/meteor-aurelia](https://github.com/TsumiNa/meteor-aurelia) Skeleton that allows Meteor to use Aurelia as the front-end by @TsumiNa.
+*   [TsumiNa/meteor-aurelia (⭐24)](https://github.com/TsumiNa/meteor-aurelia) Skeleton that allows Meteor to use Aurelia as the front-end by @TsumiNa.
 
 # Contributing Guideline
 
@@ -358,5 +358,5 @@ Thank you for your suggestions!
 
 ## Updating your PR
 
-A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide (⭐208)](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
 

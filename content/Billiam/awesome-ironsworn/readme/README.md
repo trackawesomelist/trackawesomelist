@@ -37,25 +37,25 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 *   [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
 *   [Fusake Play Aid](https://docs.google.com/document/d/191sfXfcrxars0CXgLNN54eCoQRsuPmyd5Qe-IS5Vlhg/view) - Microsoft Excel play-aid for solo Ironsworn play
 *   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
-*   [IronWriter](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [IronWriter (⭐51)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 *   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 *   [Ironsworn Campaign Manager](https://nboughton.uk/apps/ironsworn-campaign/) - A lightweight app for supporting solo Ironsworn games
 *   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
-*   [Ironsworn for Foundry VTT](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
+*   [Ironsworn for Foundry VTT (⭐43)](https://github.com/ben/foundry-ironsworn) - Ironsworn module for Foundry Virtual Tabletop
 *   [Ironsworn for Role](https://app.playrole.com/sheet-templates/bbc0c65a-ironsworn-starforged/save) - Ironsworn character sheet for Role
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
-*   [isscrolls](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
-*   [Starforged for Foundry VTT](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
-*   [Starforged Sectors Discord Bot](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
-*   [TheOracle](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
+*   [isscrolls (⭐7)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [Starforged for Foundry VTT (⭐14)](https://github.com/DiceT/starforged) - Starforged module for Foundry Virtual Tabletop
+*   [Starforged Sectors Discord Bot (⭐0)](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
+*   [TheOracle (⭐27)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ## Resources
 
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System) - Character building card sets for Ironsworn
-*   [DataForged](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐123)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐80)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith) - Supplemental oracles, assets, locations, vows and more
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
 *   [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1) - Adventure starters for Ironsworn
@@ -117,5 +117,5 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐33)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
 

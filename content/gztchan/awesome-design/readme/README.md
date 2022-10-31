@@ -16,7 +16,7 @@
 
 > Awesome Design focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work. Thanks to the community,
 > the repo keeps being updated continuously from people around the world who provide amazing resources.
-> Don't hesitate to open an [issue](https://github.com/gztchan/awesome-design/issues/new) or create [pull request](https://github.com/gztchan/awesome-design/pulls) to share your intelligence.
+> Don't hesitate to open an [issue (⭐14k)](https://github.com/gztchan/awesome-design/issues/new) or create [pull request (⭐14k)](https://github.com/gztchan/awesome-design/pulls) to share your intelligence.
 
 ![design](https://github.com/gztchan/awesome-design/raw/master/design.png)
 
@@ -202,7 +202,7 @@ People, including developers, designers, scientists and others, create awesome t
 
 ## Toolkit
 
-*   [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketch.im](http://sketch.im/).🌟
+*   [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins (⭐3.4k)](https://github.com/sketchplugins/plugin-directory), [Sketch.im](http://sketch.im/).🌟
 *   [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) Best imaging and design app is at the core of almost every creative project. [PSD Repo](https://psdrepo.com/), [PSDDD](https://psddd.co/). 🌟
 *   [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. 🌟
 *   [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) Bold new ways to put your ideas in motion. v

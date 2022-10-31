@@ -78,8 +78,8 @@ Designing and building a modern frontend in any web project can be a long and ar
     *   [Nova](https://nova.app) \[macOS only] - Gorgeous, native text editor.
     *   [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
         *   Themes
-            *   [Flatron](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
-            *   [Predawn](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
+            *   [Flatron (⭐245)](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
+            *   [Predawn (⭐1.8k)](https://github.com/jamiewilson/predawn) - Gorgeous dark interface and syntax theme.
     *   [VSCode](https://code.visualstudio.com/) - Free text editor
 *   [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
 

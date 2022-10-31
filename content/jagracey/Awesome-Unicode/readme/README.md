@@ -335,7 +335,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 *   **String length is typically determined by counting codepoints.** This means that surrogate pairs would count as two characters. Combining multiple diacritics may be stacked over the same character. `a + ̈  == ̈a   `, increasing length, while only producing a single character.
 
-*   **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
+*   **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser (⭐859)](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
 
 *   **Upper and lower case mappings are not always one-to-one.** They can also be:
     *   One-to-many: (ß → SS )
@@ -455,11 +455,11 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 # Awesome Packages & Libraries
 
-*   [PhantomScript](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
-*   [ESReverser](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
-*   [mimic](https://github.com/reinderien/mimic) - \[ab]using Unicode to create tragedy
-*   [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
-*   [vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
+*   [PhantomScript (⭐39)](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
+*   [ESReverser (⭐859)](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
+*   [mimic (⭐3.7k)](https://github.com/reinderien/mimic) - \[ab]using Unicode to create tragedy
+*   [python-ftfy (⭐3.3k)](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
+*   [vim-troll-stopper (⭐166)](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
 
 # Emojis
 
@@ -1034,7 +1034,7 @@ See the [Code of Conduct](https://github.com/jagracey/Awesome-Unicode/blob/maste
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [the
-contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
+contributors (⭐807)](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
 [license file](https://github.com/jagracey/Awesome-Unicode/blob/master/README.md/LICENSE) for details.
 

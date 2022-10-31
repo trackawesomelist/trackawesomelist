@@ -179,8 +179,8 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 #### Resources
 
 *   [Design Principles FTW](https://www.designprinciplesftw.com/) - The biggest collection of Design Principles on the Internet.
-*   [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
-*   [Awesome Sketch](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
+*   [Awesome Design Systems (⭐15k)](https://github.com/alexpate/awesome-design-systems) - Curated list of design systems, patterns libraries, and everything in between.
+*   [Awesome Sketch (⭐728)](https://github.com/diessica/awesome-sketch) - Curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 
 #### Icons
 
@@ -239,7 +239,7 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 *   [The 12 Principles](https://the12principles.tumblr.com/) - The 12 basic principles of animation were developed by the ‘old men’ of Walt Disney Studios.
 *   [Hoverstat](https://hoverstat.es/) - The home of alternative digital design.
 *   [Microinteractions](https://microinteractions.com/) - Designing with Details.
-*   [Motion UI Design](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
+*   [Motion UI Design (⭐749)](https://github.com/fliptheweb/motion-ui-design) - Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.
 
 #### Softwares
 
@@ -287,7 +287,7 @@ Feel free to [add something interesting](https://github.com/ttt30ga/awesome-prod
 *   [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
 *   [YouGov](https://yougov.com/) - We believe in the power of participation.
 *   [Data.Gov](https://data.gov.uk/) - Find data published by government departments and agencies, public bodies and local authorities.
-*   [The Tate Collection](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
+*   [The Tate Collection (⭐489)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
 ## IoT

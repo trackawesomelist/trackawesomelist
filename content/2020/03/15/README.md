@@ -44,7 +44,6 @@
 
 ### Related Projects
 
-*   [Material Theme Editor](https://material.io/resources/theme-editor/) - Create and customize your Material theme.
 *   [Components Extra (⭐86)](https://github.com/alexandre-lelain/components-extra) - Provides a set of "molecule" components built on top of Material-UI such as a Footer, a CookiesBanner, a BackToTop button and other complex elements highly customizable to help developers build the macro parts of their UI very quickly. Those components are often duplicated across sites - this library solves this exact problem.
 
 ### Components
@@ -61,12 +60,6 @@
 *   [Material-UI Flat Pagination (⭐96)](https://github.com/szmslab/material-ui-flat-pagination) - A flat design pagination component for Material-UI.
 *   [Dx-react-scheduler-Material-UI](https://devexpress.github.io/devextreme-reactive/react/scheduler/) - A scheduler/calendar component for Material-UI.
 *   [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) - Charts for Material-UI that visualizes data using a variety of series types, including bar, line, area, scatter, pie, and more.
-
-### Boilerplates
-
-*   [create-react-app-material-ui (⭐22)](https://github.com/katopz/create-react-app-material-ui) - Simple Create React App with Material-UI form submit example.
-*   [react-materialui-boilerplate (⭐31)](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and Material-UI.
-*   [gatsby-starter-material-ui (⭐34)](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
 
 ## [5. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

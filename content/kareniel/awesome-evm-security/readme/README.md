@@ -62,7 +62,7 @@ This list is an overview of the EVM ecosystem from an information security manag
 *   [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/) - A free 14-part checklist created to standardize the security of smart contracts for developers, architects, security reviewers and vendors.
 *   [Secureth guidelines](https://guidelines.secureth.org/) - Aid you in formulating your own software engineering process by giving a complete picture of all the different concerns and expectations in your software projects.
 *   [CryptoCurrency Security Standard (CCSS)](https://cryptoconsortium.github.io/CCSS/) - A set of requirements for all information systems that make use of cryptocurrencies, including exchanges, web applications, and cryptocurrency storage solutions.
-*   [The Solcurity Standard](https://github.com/Rari-Capital/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
+*   [The Solcurity Standard (⭐972)](https://github.com/Rari-Capital/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
 
 ## System Assets
 
@@ -75,7 +75,7 @@ This list is an overview of the EVM ecosystem from an information security manag
 *   [Scaling EVM (Ethereum Virtual Machine)](https://capitalgram.com/posts/scaling-evm/) - How fast and far can the EVM based blockchain architecture still take us.
 *   [L2Beat](https://l2beat.com/) - Transparent and verifiable insights into emerging layer two (L2) technologies.
 *   [The Non-Fungible Token Bible](https://opensea.io/blog/guides/non-fungible-tokens) - Everything you need to know about NFTs.
-*   [KEVM](https://github.com/kframework/evm-semantics) - A formal model of the EVM in the K framework.
+*   [KEVM (⭐377)](https://github.com/kframework/evm-semantics) - A formal model of the EVM in the K framework.
 
 ## Threats
 
@@ -97,21 +97,21 @@ This list is an overview of the EVM ecosystem from an information security manag
 *   [SWC Registry](https://swcregistry.io/) - Smart Contract Weakness Classification and Test Cases.
 *   [246 Findings](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/) - 246 Findings From Trail of Bits Smart Contract Audits.
 *   [A Survey of Security Vulnerabilities in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.06974.pdf) - Explains eight vulnerabilities that are specific to the application level of blockchain technology by analyzing the past exploitation case scenarios of these security vulnerabilities.
-*   [List of Security Vulnerabilities](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities) - A comprehensive list of common smart contract security vulnerabilities, compiled from various sources.
+*   [List of Security Vulnerabilities (⭐535)](https://github.com/runtimeverification/verified-smart-contracts/wiki/List-of-Security-Vulnerabilities) - A comprehensive list of common smart contract security vulnerabilities, compiled from various sources.
 *   [List of Known Bugs](https://docs.soliditylang.org/en/v0.8.1/bugs.html) - A JSON-formatted list of some of the known security-relevant bugs in the Solidity compiler.
 
 ## Controls
 
-*   [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) - Opinionated recommendations that the team at Nascent find to be appropriate,  particularly for teams developing and managing early versions of a protocol.
+*   [Simple Security Toolkit (⭐586)](https://github.com/nascentxyz/simple-security-toolkit) - Opinionated recommendations that the team at Nascent find to be appropriate,  particularly for teams developing and managing early versions of a protocol.
 *   [Gnosis Safe](https://docs.gnosis-safe.io) - Multi-sig. Require multiple team members to confirm every transaction in order to execute it, which helps prevent unauthorized access to company crypto.
 *   [List of DeFi auditors](https://www.defisafety.com/auditors) - List of DeFi auditors maintained by DeFiSafety.
 *   [State of DeFi Audits](https://medium.com/conflux-network/the-overlooked-element-of-defi-adoption-e3b29829e3da) - Article taking a look at the auditing space and its importance in onboarding users by properly securing new DeFi protocols.
-*   [Building Secure Contracts](https://github.com/crytic/building-secure-contracts/) - Trail of Bits' guidelines and best practices on how to write secure smart contracts.
+*   [Building Secure Contracts (⭐1.2k)](https://github.com/crytic/building-secure-contracts/) - Trail of Bits' guidelines and best practices on how to write secure smart contracts.
 *   [Solidity Patterns](https://fravoll.github.io/solidity-patterns/) - A compilation of patterns and best practices for the smart contract programming language Solidity.
 *   [Security Pattern for Ethereum and Solidity](https://docs.google.com/spreadsheets/d/1PF4QZudW6Z7EV4hqQfwPo3A43AVqPrsuzzzey5yRYcs/edit#gid=0) - Google Sheets Checklists.
 *   [Solidity Best Practices for Smart Contract Security](https://consensys.net/blog/developers/solidity-best-practices-for-smart-contract-security/) - Pro tips from Consensys to ensure your Ethereum smart contracts are fortified.
 *   [CERtified](https://cer.live/) - Top 100 exchanges by Cybersecurity rating.
-*   [Smart Contract Security Registry](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
+*   [Smart Contract Security Registry (⭐82)](https://github.com/ethereum-lists/contracts) - An effort to identify deployed contracts instances given their chain and address, by listing the project they belong to.
 *   [Forta](https://docs.forta.network/) - Community-based runtime security network for smart contracts.
 
 ## Ecosystem
@@ -125,10 +125,10 @@ This list is an overview of the EVM ecosystem from an information security manag
 
 Other Awesome Lists:
 
-*   [Awesome BlockSec CTF](https://github.com/0xjeffsec/awesome-blocksec-ctf) - Blockchain security Capture the Flag (CTF) competitions.
-*   [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - Vulnerabilities in ERC20 Smart Contracts With Tokens Affected.
-*   [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - Cryptoeconomic research and learning materials.
-*   [Awesome Zero-Knowledge Proofs (ZKP)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
-*   [Officer CIA's Ultimate DeFi Research Base](https://github.com/OffcierCia/ultimate-defi-research-base) - Curated DeFI & Blockchain research papers and tools.
-*   [Awesome MEV resources](https://github.com/0xalpharush/awesome-MEV-resources)
+*   [Awesome BlockSec CTF (⭐7)](https://github.com/0xjeffsec/awesome-blocksec-ctf) - Blockchain security Capture the Flag (CTF) competitions.
+*   [Awesome Buggy ERC20 Tokens (⭐494)](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - Vulnerabilities in ERC20 Smart Contracts With Tokens Affected.
+*   [Awesome Cryptoeconomics (⭐1.5k)](https://github.com/jpantunes/awesome-cryptoeconomics) - Cryptoeconomic research and learning materials.
+*   [Awesome Zero-Knowledge Proofs (ZKP) (⭐3k)](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
+*   [Officer CIA's Ultimate DeFi Research Base (⭐929)](https://github.com/OffcierCia/ultimate-defi-research-base) - Curated DeFI & Blockchain research papers and tools.
+*   [Awesome MEV resources (⭐696)](https://github.com/0xalpharush/awesome-MEV-resources)
 

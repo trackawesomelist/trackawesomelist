@@ -10,9 +10,9 @@ An Awesome List of computer history videos, documentaries and related folklore
 
 # Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
-A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing](https://github.com/sindresorhus/awesome).
+A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing (⭐223k)](https://github.com/sindresorhus/awesome).
 
-[Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
+[Pull Requests (⭐2.3k)](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
 
 ## Table of Contents
 
@@ -153,10 +153,10 @@ A curated list of computer history videos, documentaries and related folklore ma
 
 ## Source Code
 
-*   [Apollo 11 Guidance Computer](https://github.com/chrislgarry/Apollo-11) (1969) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
-*   [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror](https://github.com/mortdeus/legacy-cc))
-*   [UNIX](https://github.com/dspinellis/unix-history-repo/tree/Research-Release) (1972) - Continuous Unix commit history from 1972 until today
-*   [MS-DOS](https://github.com/Microsoft/MS-DOS) (1982, 1983) - Version 1.25 and 2.0
+*   [Apollo 11 Guidance Computer (⭐54k)](https://github.com/chrislgarry/Apollo-11) (1969) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
+*   [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror (⭐3.4k)](https://github.com/mortdeus/legacy-cc))
+*   [UNIX (⭐5.8k)](https://github.com/dspinellis/unix-history-repo/tree/Research-Release) (1972) - Continuous Unix commit history from 1972 until today
+*   [MS-DOS (⭐17k)](https://github.com/Microsoft/MS-DOS) (1982, 1983) - Version 1.25 and 2.0
 *   [Adobe Photoshop](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/) (1990) - The first version of Adobe Photoshop (written in Pascal)
 
 ## Websites

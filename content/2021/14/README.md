@@ -445,10 +445,6 @@
 
 *   [Builder Book](https://builderbook.org/) - Books that teach you how to build full stack, production-ready web apps.
 
-### Boilerplates
-
-*   [saas (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
-
 ## [43. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins

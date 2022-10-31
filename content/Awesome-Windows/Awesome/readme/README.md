@@ -106,14 +106,14 @@
 ### Customization
 
 *   [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][freeware icon]
-*   [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
+*   [Classic Start (⭐26)](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
 *   [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][freeware icon]
-*   [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
+*   [EarTrumpet (⭐6.4k)](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
 *   [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 *   [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
-*   [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
-*   [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
-*   [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon]
+*   [Search Deflector (⭐878)](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
+*   [TranslucentTB (⭐10k)](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
+*   [Windows 10 Login Background Changer (⭐685)](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon]
 *   [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 ### Data Recovery
@@ -138,12 +138,12 @@
 *   [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][freeware icon]
 *   [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 *   [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit) ![Freeware][freeware icon]
-*   [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][oss icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][freeware icon]
+*   [I'm Only Resting (⭐169)](https://github.com/SwensenSoftware/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][oss icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][freeware icon]
 *   [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
 *   [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 *   [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][freeware icon]
 *   [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][freeware icon]
-*   [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
+*   [NSudo (⭐1.5k)](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
 *   [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][freeware icon]
 *   [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 *   [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
@@ -158,7 +158,7 @@
 *   [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 *   [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 *   [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
-*   [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][oss icon]](https://github.com/RolandPheasant/TailBlazer) ![Freeware][freeware icon]
+*   [TailBlazer (⭐2k)](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][oss icon]](https://github.com/RolandPheasant/TailBlazer) ![Freeware][freeware icon]
 *   [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss icon]](https://github.com/tortoisegit/tortoisegit/) ![Freeware][freeware icon]
 *   [Tower](https://www.git-tower.com/windows) - Tower - the most powerful Git client for Mac and Windows.
 *   [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][oss icon]](https://github.com/mitchellh/vagrant)
@@ -168,7 +168,7 @@
 *   [Wamp](http://www.wampserver.com/en/) - Web development environment.
 *   [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client. ![Freeware][freeware icon]
 *   [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][oss icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][freeware icon]
-*   [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
+*   [WMI Explorer (⭐607)](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
 *   [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][freeware icon]
 *   [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][freeware icon]
 *   [Zsh](http://www.zsh.org/) - A powerful command line shell. [![Open-Source Software][oss icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) ![Freeware][freeware icon]
@@ -202,7 +202,7 @@
 ### Games
 
 *   [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][oss icon]](https://github.com/0ad/0ad) ![Freeware][freeware icon]
-*   [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][freeware icon]
+*   [Awesome Games (⭐20k)](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][freeware icon]
 *   [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][oss icon]](https://github.com/freeciv/) ![Freeware][freeware icon]
 *   [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][oss icon]](https://github.com/godotengine/godot) ![Freeware][freeware icon]
 *   [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
@@ -270,11 +270,11 @@
 
 ### Productivity
 
-*   [Aperture Control](https://github.com/Lieturd/aperture-control) - Windows environment automation tool with a number of [premade recipes](https://github.com/Lieturd/aperture-control-recipes) and [examples](https://github.com/Lieturd/aperture-control-example) available. [![Open-Source Software][oss icon]](https://github.com/Lieturd/aperture-control) ![Freeware][freeware icon]
+*   [Aperture Control (⭐74)](https://github.com/Lieturd/aperture-control) - Windows environment automation tool with a number of [premade recipes (⭐18)](https://github.com/Lieturd/aperture-control-recipes) and [examples (⭐25)](https://github.com/Lieturd/aperture-control-example) available. [![Open-Source Software][oss icon]](https://github.com/Lieturd/aperture-control) ![Freeware][freeware icon]
 *   [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][oss icon]](https://autohotkey.com/) ![Freeware][freeware icon]
 *   [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
 *   [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
-*   [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A Command Line program monitor systray for Windows. [![Open-Source Software][oss icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][freeware icon]
+*   [CommandTrayHost (⭐337)](https://github.com/rexdf/CommandTrayHost) - A Command Line program monitor systray for Windows. [![Open-Source Software][oss icon]](https://github.com/rexdf/CommandTrayHost) ![Freeware][freeware icon]
 *   [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with advanced features. [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ) ![Freeware][freeware icon]
 *   [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 *   [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
@@ -287,11 +287,11 @@
 *   [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to *Launchy* and a cousin of *Alfred*. ![Freeware][freeware icon]
 *   [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy) ![Freeware][freeware icon]
 *   [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
-*   [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
+*   [Luna (⭐249)](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
 *   [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon]
 *   [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon]
 *   [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][freeware icon]
-*   [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop) ![Freeware][freeware icon]
+*   [Scoop (⭐16k)](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop) ![Freeware][freeware icon]
 *   [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][freeware icon]
 *   [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][freeware icon]
 *   [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
@@ -300,13 +300,13 @@
 
 ### Terminal
 
-*   [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) ![Freeware][freeware icon]
+*   [Alacritty (⭐42k)](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) ![Freeware][freeware icon]
 *   [Babun](http://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][oss icon]](https://github.com/babun/babun) ![Freeware][freeware icon]
 *   [Cmder](https://cmder.net) - Console emulator package with clink shell. [![Open-Source Software][oss icon]](https://github.com/cmderdev/cmder) ![Freeware][freeware icon]
-*   [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
-*   [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
-*   [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
-*   [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+*   [ColorTool (⭐86k)](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
+*   [ConEmu (⭐7.9k)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
+*   [ConsoleZ (⭐2.9k)](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
+*   [FluentTerminal (⭐8.5k)](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 *   [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][oss icon]](https://github.com/zeit/hyper) ![Freeware][freeware icon]
 *   [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
 *   [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
@@ -333,15 +333,15 @@
 *   [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
 *   [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 *   [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
-*   [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
+*   [fselect (⭐3.3k)](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
 *   [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
 *   [GPU-Z](http://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool. ![Freeware][freeware icon]
-*   [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][oss icon]](https://github.com/greenshot/greenshot)
+*   [Greenshot (⭐3k)](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][oss icon]](https://github.com/greenshot/greenshot)
 *   [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][oss icon]](https://github.com/xroche/httrack/tree/master)
 *   [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 *   [IrfanView](http://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
 *   [LICEcap](http://www.cockos.com/licecap/) - Animated screen captures and save them directly to .GIF
-*   [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
+*   [LightBulb (⭐1.6k)](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 *   [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 *   [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][oss icon]](https://github.com/petrroll/PowerSwitcher)
 *   [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
@@ -366,16 +366,16 @@
 *   [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 *   [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 *   [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
-*   [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
+*   [Windows 10 Login Screen Changer (⭐685)](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 *   [`winreg-cli`](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. ![Open-Source Software](https://github.com/notlmn/winreg-cli) ![Freeware][freeware icon]
 *   [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive. ![Freeware][freeware icon]
-*   [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
-*   [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
+*   [Yacy (⭐2.8k)](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
+*   [ZeroNet (⭐18k)](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
 *   [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
 ### Proxy and VPN Tools
 
-*   [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+*   [Algo (⭐26k)](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 
 ### Video
 
@@ -398,7 +398,7 @@
 
 *   <http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide>
 *   <http://www.howtogeek.com/224342/how-to-clean-install-windows-10/>
-*   [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
+*   [Win10-Initial-Setup-Script (⭐4.6k)](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
 
 ### Windows 8.1 Setup
 

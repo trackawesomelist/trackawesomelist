@@ -122,19 +122,19 @@ These open source projects will help you to build a bot to automate your company
 
 ### AIM
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/shaundubuque/hubot-aim) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐3)](https://github.com/shaundubuque/hubot-aim) (CoffeeScript, Node.js)
 
 ### Campfire
 
-*   [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-campfire) (Python)
+*   [Errbot](http://errbot.io/) + [adapter (⭐1)](https://github.com/errbotio/err-backend-campfire) (Python)
 *   [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/campfire.html) (Go)
 *   [Hubot](https://hubot.github.com/) + [adapter](https://hubot.github.com/docs/adapters/campfire/) (CoffeeScript, Node.js)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/josacar/lita-campfire) (Ruby)
+*   [Lita](https://www.lita.io/) + [adapter (⭐7)](https://github.com/josacar/lita-campfire) (Ruby)
 
 ### ChatWork
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/akiomik/hubot-chatwork) (CoffeeScript, Node.js)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/tokada/lita-chatwork) (Ruby)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐66)](https://github.com/akiomik/hubot-chatwork) (CoffeeScript, Node.js)
+*   [Lita](https://www.lita.io/) + [adapter (⭐4)](https://github.com/tokada/lita-chatwork) (Ruby)
 
 ### Dasher
 
@@ -142,182 +142,182 @@ These open source projects will help you to build a bot to automate your company
 
 ### Discord
 
-*   [Discordrb](https://github.com/meew0/discordrb) (Ruby)
-*   [Errbot](http://errbot.io/) + [adapter](https://github.com/gbin/err-backend-discord) (Python)
+*   [Discordrb (⭐6)](https://github.com/meew0/discordrb) (Ruby)
+*   [Errbot](http://errbot.io/) + [adapter (⭐22)](https://github.com/gbin/err-backend-discord) (Python)
 *   [Lita](https://www.lita.io/) + [adapter](https://github.com/kyleboe/lita-discord) (Ruby)
 
 ### Facebook Messenger
 
-*   [Botkit](https://github.com/howdyai/botkit) (JavaScript, Node.js)
-*   [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) (Ruby)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/ClaudeBot/hubot-messenger-bot) (CoffeeScript, Node.js)
+*   [Botkit (⭐11k)](https://github.com/howdyai/botkit) (JavaScript, Node.js)
+*   [FacebookMessenger (⭐958)](https://github.com/hyperoslo/facebook-messenger) (Ruby)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐43)](https://github.com/ClaudeBot/hubot-messenger-bot) (CoffeeScript, Node.js)
 *   [Lita](https://www.lita.io/) + [adapter](https://github.com/ASoftCo/lita-facebook) (Ruby)
-*   [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-facebook) (Python)
+*   [Opsdroid](https://opsdroid.github.io/) + [connector (⭐1)](https://github.com/opsdroid/connector-facebook) (Python)
 
 ### Fleep
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/anroots/hubot-fleep) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐3)](https://github.com/anroots/hubot-fleep) (CoffeeScript, Node.js)
 
 ### Flowdock
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/flowdock/hubot-flowdock) (CoffeeScript, Node.js)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/bhouse/lita-flowdock) (Ruby)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐95)](https://github.com/flowdock/hubot-flowdock) (CoffeeScript, Node.js)
+*   [Lita](https://www.lita.io/) + [adapter (⭐9)](https://github.com/bhouse/lita-flowdock) (Ruby)
 
 ### Gitter
 
-*   [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-gitter) (Python)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/huafu/hubot-gitter2) (CoffeeScript, Node.js)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/braiden-vasco/lita-gitter) (Ruby)
+*   [Errbot](http://errbot.io/) + [adapter (⭐22)](https://github.com/errbotio/err-backend-gitter) (Python)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐82)](https://github.com/huafu/hubot-gitter2) (CoffeeScript, Node.js)
+*   [Lita](https://www.lita.io/) + [adapter (⭐2)](https://github.com/braiden-vasco/lita-gitter) (Ruby)
 
 ### HipChat
 
 *   [Cog](https://operable.io/) (Any language)
 *   [Errbot](http://errbot.io/) (Python)
 *   [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/hipchat.html) (Go)
-*   [Hipbot](https://github.com/pewniak747/hipbot) (Ruby)
-*   [Hipchat](https://github.com/daneharrigan/hipchat) via XMPP (Go)
-*   [Hipchat-go](https://github.com/tbruyelle/hipchat-go) via HipChat API v2 (Go)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/hipchat/hubot-hipchat) (CoffeeScript, Node.js)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-hipchat) (Ruby)
+*   [Hipbot (⭐87)](https://github.com/pewniak747/hipbot) (Ruby)
+*   [Hipchat (⭐110)](https://github.com/daneharrigan/hipchat) via XMPP (Go)
+*   [Hipchat-go (⭐126)](https://github.com/tbruyelle/hipchat-go) via HipChat API v2 (Go)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐674)](https://github.com/hipchat/hubot-hipchat) (CoffeeScript, Node.js)
+*   [Lita](https://www.lita.io/) + [adapter (⭐37)](https://github.com/litaio/lita-hipchat) (Ruby)
 *   [Will](https://skoczen.github.io/will/) (Python)
 
 ### Idobata
 
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/fukayatsu/lita-idobata) (Ruby)
+*   [Lita](https://www.lita.io/) + [adapter (⭐6)](https://github.com/fukayatsu/lita-idobata) (Ruby)
 
 ### iMessage
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lazerwalker/hubot-imessage) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐173)](https://github.com/lazerwalker/hubot-imessage) (CoffeeScript, Node.js)
 
 ### IRC
 
-*   [Cinch](https://github.com/cinchrb/cinch) (Ruby)
+*   [Cinch (⭐1k)](https://github.com/cinchrb/cinch) (Ruby)
 *   [Errbot](http://errbot.io/) (Python)
 *   [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/irc.html) (Go)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/nandub/hubot-irc) (CoffeeScript, Node.js)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-irc) (Ruby)
-*   [PagerBot](https://github.com/stripe-contrib/pagerbot) (Ruby)
-*   [Yetibot](https://github.com/yetibot/yetibot) (Clojure)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐307)](https://github.com/nandub/hubot-irc) (CoffeeScript, Node.js)
+*   [Lita](https://www.lita.io/) + [adapter (⭐19)](https://github.com/litaio/lita-irc) (Ruby)
+*   [PagerBot (⭐282)](https://github.com/stripe-contrib/pagerbot) (Ruby)
+*   [Yetibot (⭐330)](https://github.com/yetibot/yetibot) (Clojure)
 
 ### Jabbr
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/smoak/hubot-jabbr) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐19)](https://github.com/smoak/hubot-jabbr) (CoffeeScript, Node.js)
 
 ### Let's chat
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/sdelements/hubot-lets-chat) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐59)](https://github.com/sdelements/hubot-lets-chat) (CoffeeScript, Node.js)
 
 ### Lingr
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/miyagawa/hubot-lingr) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐19)](https://github.com/miyagawa/hubot-lingr) (CoffeeScript, Node.js)
 
 ### Matrix
 
-*   [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-matrix) (Python)
+*   [Opsdroid](https://opsdroid.github.io/) + [connector (⭐3)](https://github.com/opsdroid/connector-matrix) (Python)
 
 ### Mattermost
 
-*   [Errbot](http://errbot.io) + [adapter](https://github.com/Vaelor/errbot-mattermost-backend) (Python)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/renanvicente/hubot-mattermost) (CoffeeScript, Node.js)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/loafoe/hubot-matteruser) via Websockets (CoffeeScript, Node.js)
+*   [Errbot](http://errbot.io) + [adapter (⭐34)](https://github.com/Vaelor/errbot-mattermost-backend) (Python)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐78)](https://github.com/renanvicente/hubot-mattermost) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐190)](https://github.com/loafoe/hubot-matteruser) via Websockets (CoffeeScript, Node.js)
 
 ### Partychat
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/iangreenleaf/hubot-partychat-hooks) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐5)](https://github.com/iangreenleaf/hubot-partychat-hooks) (CoffeeScript, Node.js)
 
 ### QQ
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/xhan/qqbot) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐1.4k)](https://github.com/xhan/qqbot) (CoffeeScript, Node.js)
 
 ### Rocket.Chat
 
-*   [Errbot](http://errbot.io) + [adapter](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) (Python)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/RocketChat/hubot-rocketchat) (CoffeeScript, Node.js)
+*   [Errbot](http://errbot.io) + [adapter (⭐10)](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) (Python)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐520)](https://github.com/RocketChat/hubot-rocketchat) (CoffeeScript, Node.js)
 *   [Opsdroid](https://opsdroid.github.io/) + [connector](https://docs.opsdroid.dev/en/stable/connectors/rocketchat.html) (Python)
 
 ### Skype
 
-*   [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/errbot-backend-skype) (Python)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/netpro2k/hubot-skype) (CoffeeScript, Node.js)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/sdimkov/hubot-skype-web) via Web (CoffeeScript, Node.js)
+*   [Errbot](http://errbot.io/) + [adapter (⭐6)](https://github.com/errbotio/errbot-backend-skype) (Python)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐133)](https://github.com/netpro2k/hubot-skype) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐46)](https://github.com/sdimkov/hubot-skype-web) via Web (CoffeeScript, Node.js)
 
 ### Skyweb
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/EllisV/hubot-skyweb) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐8)](https://github.com/EllisV/hubot-skyweb) (CoffeeScript, Node.js)
 
 ### Slack
 
-*   [Botkit](https://github.com/howdyai/botkit) (JavaScript, Node.js)
+*   [Botkit (⭐11k)](https://github.com/howdyai/botkit) (JavaScript, Node.js)
 *   [Bolt](https://slack.dev/bolt/concepts) (JavaScript, Node.js)
 *   [Cog](https://operable.io/) (Any language)
-*   [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
+*   [Elixir-Slack (⭐633)](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
 *   [Errbot](http://errbot.io/) (Python)
 *   [Gort](https://guide.getgort.io/) (Any language)
 *   [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html) (Go)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/slackhq/hubot-slack) (CoffeeScript, Node.js)
-*   [Jubot](https://github.com/liquidz/jubot) (Clojure)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-slack) (Ruby)
-*   [Multivac](https://github.com/vektorlab/multivac) (Python, Docker)
-*   [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-slack) (Python)
-*   [PagerBot](https://github.com/stripe-contrib/pagerbot) (Ruby)
-*   [PoshBot](https://github.com/poshbotio/PoshBot) (PowerShell)
-*   [Slack-Ruby-Bot](https://github.com/dblock/slack-ruby-bot) (Ruby)
-*   [Slackbotsy](https://github.com/rlister/slackbotsy) (Ruby)
-*   [Slacker](https://github.com/koudelka/slacker) (Elixir)
-*   [Yetibot](https://github.com/yetibot/yetibot) (Clojure)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐2.3k)](https://github.com/slackhq/hubot-slack) (CoffeeScript, Node.js)
+*   [Jubot (⭐68)](https://github.com/liquidz/jubot) (Clojure)
+*   [Lita](https://www.lita.io/) + [adapter (⭐141)](https://github.com/litaio/lita-slack) (Ruby)
+*   [Multivac (⭐48)](https://github.com/vektorlab/multivac) (Python, Docker)
+*   [Opsdroid](https://opsdroid.github.io/) + [connector (⭐2)](https://github.com/opsdroid/connector-slack) (Python)
+*   [PagerBot (⭐282)](https://github.com/stripe-contrib/pagerbot) (Ruby)
+*   [PoshBot (⭐492)](https://github.com/poshbotio/PoshBot) (PowerShell)
+*   [Slack-Ruby-Bot (⭐49)](https://github.com/dblock/slack-ruby-bot) (Ruby)
+*   [Slackbotsy (⭐77)](https://github.com/rlister/slackbotsy) (Ruby)
+*   [Slacker (⭐81)](https://github.com/koudelka/slacker) (Elixir)
+*   [Yetibot (⭐330)](https://github.com/yetibot/yetibot) (Clojure)
 
 ### Spark
 
-*   [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-ciscospark) (Python)
+*   [Opsdroid](https://opsdroid.github.io/) + [connector (⭐1)](https://github.com/opsdroid/connector-ciscospark) (Python)
 
 ### Talker
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/unixcharles/hubot-talker) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐19)](https://github.com/unixcharles/hubot-talker) (CoffeeScript, Node.js)
 
 ### Telegram
 
 *   [Errbot](http://errbot.io/) (Python)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lukefx/hubot-telegram) (CoffeeScript, Node.js)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/wonderbread/lita-telegram) (Ruby)
-*   [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-telegram) (Python)
-*   [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) (Ruby)
-*   [TelegramBot](https://github.com/hangyas/TelegramBot) (Crystal)
-*   [TelegramBot](https://github.com/eljojo/telegram_bot) (Ruby)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐159)](https://github.com/lukefx/hubot-telegram) (CoffeeScript, Node.js)
+*   [Lita](https://www.lita.io/) + [adapter (⭐12)](https://github.com/wonderbread/lita-telegram) (Ruby)
+*   [Opsdroid](https://opsdroid.github.io/) + [connector (⭐0)](https://github.com/opsdroid/connector-telegram) (Python)
+*   [Telegram-bot-ruby (⭐1.2k)](https://github.com/atipugin/telegram-bot-ruby) (Ruby)
+*   [TelegramBot (⭐72)](https://github.com/hangyas/TelegramBot) (Crystal)
+*   [TelegramBot (⭐296)](https://github.com/eljojo/telegram_bot) (Ruby)
 
 ### Tox
 
-*   [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-tox) (Python)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/braiden-vasco/lita-tox) (Ruby)
+*   [Errbot](http://errbot.io/) + [adapter (⭐4)](https://github.com/errbotio/err-backend-tox) (Python)
+*   [Lita](https://www.lita.io/) + [adapter (⭐6)](https://github.com/braiden-vasco/lita-tox) (Ruby)
 
 ### Twilio
 
-*   [Botkit](https://github.com/howdyai/botkit) via IP Messaging (JavaScript, Node.js)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/philnash/hubot-twilio-ip-messaging) via IP Messaging (CoffeeScript, Node.js)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/jkarmel/hubot-twilio) via SMS (CoffeeScript, Node.js)
+*   [Botkit (⭐11k)](https://github.com/howdyai/botkit) via IP Messaging (JavaScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐2)](https://github.com/philnash/hubot-twilio-ip-messaging) via IP Messaging (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐16)](https://github.com/jkarmel/hubot-twilio) via SMS (CoffeeScript, Node.js)
 
 ### Twitter
 
 *   [Chatterbot](https://muffinista.github.io/chatterbot/) (Ruby)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/MathildeLemee/hubot-twitter) (CoffeeScript, Node.js)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/fukayatsu/lita-twitter) (Ruby)
-*   [Opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-twitter) (Python)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐86)](https://github.com/MathildeLemee/hubot-twitter) (CoffeeScript, Node.js)
+*   [Lita](https://www.lita.io/) + [adapter (⭐11)](https://github.com/fukayatsu/lita-twitter) (Ruby)
+*   [Opsdroid](https://opsdroid.github.io/) + [connector (⭐0)](https://github.com/opsdroid/connector-twitter) (Python)
 
 ### Typetalk
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/nulab/hubot-typetalk) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐17)](https://github.com/nulab/hubot-typetalk) (CoffeeScript, Node.js)
 
 ### VictorOps
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/victorops/hubot-victorops) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐3)](https://github.com/victorops/hubot-victorops) (CoffeeScript, Node.js)
 
 ### Visual Studio Online
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/scrumdod/hubot-VSOnline) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐15)](https://github.com/scrumdod/hubot-VSOnline) (CoffeeScript, Node.js)
 
 ### Vkontakte
 
-*   [Errbot](http://errbot.io) + [adapter](https://github.com/Ax3Effect/errbot-vk) (Python)
-*   [Lita](https://www.lita.io/) + [adapter](https://github.com/braiden-vasco/lita-vkontakte) (Ruby)
+*   [Errbot](http://errbot.io) + [adapter (⭐8)](https://github.com/Ax3Effect/errbot-vk) (Python)
+*   [Lita](https://www.lita.io/) + [adapter (⭐1)](https://github.com/braiden-vasco/lita-vkontakte) (Ruby)
 
 ### WeChat
 
@@ -326,17 +326,17 @@ These open source projects will help you to build a bot to automate your company
 ### XMPP / Jabber
 
 *   [Errbot](http://errbot.io/) (Python)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/markstory/hubot-xmpp) (CoffeeScript, Node.js)
-*   [Jabberjay](https://github.com/vbauer/jabberjay) (Clojure)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐182)](https://github.com/markstory/hubot-xmpp) (CoffeeScript, Node.js)
+*   [Jabberjay (⭐36)](https://github.com/vbauer/jabberjay) (Clojure)
 
 ### Yammer
 
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/athieriot/hubot-yammer) (CoffeeScript, Node.js)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐32)](https://github.com/athieriot/hubot-yammer) (CoffeeScript, Node.js)
 
 ### Zulip
 
-*   [Errbot](http://errbot.io/) + [adapter](https://github.com/zulip/errbot-backend-zulip) (Python)
-*   [Hubot](https://hubot.github.com/) + [adapter](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
+*   [Errbot](http://errbot.io/) + [adapter (⭐4)](https://github.com/zulip/errbot-backend-zulip) (Python)
+*   [Hubot](https://hubot.github.com/) + [adapter (⭐20)](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
 
 ***
 

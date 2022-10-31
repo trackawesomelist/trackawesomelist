@@ -40,7 +40,7 @@
 
 *   [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
 *   [JSX-email](https://jsx-mail.org/) - Jsx Mail is an email framework that uses React to create email templates. :fire:
-*   [Foundation for Emails](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+*   [Foundation for Emails (⭐7.7k)](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 *   [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 *   [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 *   [Acorn](https://docs.thememountain.com/acorn/) - A responsive email framework based on a golden ratio typography grid.
@@ -53,21 +53,21 @@
 
 ## Templates
 
-*   [Campaign](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 *   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
-*   [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+*   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-*   [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
-*   [Cerberus](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
-*   [Antwort](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive Transactional HTML Email Templates (⭐6.7k)](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
+*   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+*   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
+*   [Responsive HTML Template (⭐678)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
-*   [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
+*   [Grunt Email Boilerplate (⭐286)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 *   [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
-*   [Email boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
+*   [Email boilerplate (⭐3.8k)](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 *   [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
-*   [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
+*   [Postmark Transactional Email Templates (⭐2.6k)](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications.
 *   [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
 *   [Postcards](https://designmodo.com/postcards/) - Design responsive email templates online without coding knowledge.
 
@@ -90,7 +90,7 @@
 *   [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 *   [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 *   [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
-*   [email-verifier](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+*   [email-verifier (⭐528)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 
 ## Services
 
@@ -98,7 +98,7 @@
 *   [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 *   [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 *   [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
-*   [Postal](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
+*   [Postal (⭐12k)](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 *   [SparkPost](https://www.sparkpost.com/) - Your application’s emails: Delivered on time and to the inbox.
 *   [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 *   [Mailgun](https://www.mailgun.com/) - Transactional Email API Service For Developers.
@@ -116,13 +116,13 @@
 *   [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 *   [Modoboa](https://modoboa.org/) - A solution to quickly deploy and manage a complete email server, compatible with latest standards and optimized for delivery and reputation protection.
 *   [Poste.io](https://poste.io/) - Complete mailserver built in one docker container.
-*   [SimpleLogin](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐3k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## Workflows
 
 *   [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails by Josh W. Comeau
-*   [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
-*   [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
+*   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
+*   [Darylldoyle Gulp workflow (⭐166)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 *   [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
 ## Articles
@@ -189,7 +189,7 @@
 *   [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
 *   [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 *   [testmail.app](https://testmail.app) - A fake SMTP server with unlimited mailboxes and a GraphQL API for automating end-to-end tests.
-*   [MailHog](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go)
+*   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) A local fake SMTP server (based on Go)
 *   [MailCatcher](https://mailcatcher.me/) A local fake SMTP server (based on Ruby)
 *   [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 *   [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
@@ -207,11 +207,11 @@
 ### Contribution
 
 Suggestions and PRs are welcome! 🤙
-If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
+If you want to contribute, please read the [contribution guidelines (⭐1.8k)](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
 
 ### More Awesome
 
-*   📚 [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   📚 [Awesome JS Books (⭐52)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
 ### License
 

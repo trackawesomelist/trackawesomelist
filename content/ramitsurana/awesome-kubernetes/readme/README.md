@@ -17,7 +17,7 @@ A curated list for awesome kubernetes sources :ship::tada:
 [![Documentation Status](https://readthedocs.org/projects/awesome-kubernetes-by-ramitsurana/badge/?version=latest)](https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ramitsurana/awesome-kubernetes/master)
 
-A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
+A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesome (⭐223k)](https://github.com/sindresorhus/awesome)
 
 ![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
 
@@ -25,7 +25,7 @@ A curated list for awesome kubernetes sources inspired by [@sindresorhus' awesom
 >
 > \-- Michael Jordan
 
-Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
+Without the help from these [amazing contributors (⭐13k)](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
 building this awesome-repo would never have been possible. Thank You very much everyone !!
 
 **Thanks to Gitbook.This awesome list can now be downloaded and read in the form of a book. Check it out -->  <https://ramitsurana.gitbook.io/awesome-kubernetes/docs> .Keep Learning Keep Sharing !!**
@@ -74,14 +74,14 @@ download the awesome kubernetes release up to a certain period of time, The rele
 *   [Are you Ready to Manage your Infrastructure like Google?](http://blog.jetstack.io/blog/k8s-getting-started-part1/)
 *   [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 *   [An Intro to Google’s Kubernetes and How to Use It](http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/) by [Laura Frank](https://twitter.com/rhein_wein)
-*   [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) by [Meteorhacks](https://twitter.com/meteorhacks)
+*   [Kubernetes: The Future of Cloud Hosting (⭐29)](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) by [Meteorhacks](https://twitter.com/meteorhacks)
 *   [Kubernetes by Google](http://thevirtualizationguy.wordpress.com/tag/kubernetes/) by [Gaston Pantana](https://twitter.com/GastonPantana)
 *   [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) by [Arun Gupta](https://twitter.com/arungupta)
 *   [Application Containers: Kubernetes and Docker from Scratch](https://keithtenzer.com/containers/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 *   [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
 *   [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 *   [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
-*   [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
+*   [Docker Kubernetes Lab Handbook (⭐194)](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
 *   [Curated Resources for Kubernetes](https://hackr.io/tutorials/learn-kubernetes)
 *   [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/) by [Google Cloud Platform](https://cloud.google.com/)
 *   [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) by [Dan Sanche](https://medium.com/@sanche)
@@ -105,7 +105,7 @@ Contributions are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
 
-Check out the [Contributing Guidelines](https://github.com/ramitsurana/awesome-kubernetes/blob/master/docs/guidelines/CONTRIBUTING.md).
+Check out the [Contributing Guidelines (⭐13k)](https://github.com/ramitsurana/awesome-kubernetes/blob/master/docs/guidelines/CONTRIBUTING.md).
 
 # License
 

@@ -6,6 +6,13 @@
 
 [ [Daily](/content/osmlab/awesome-openstreetmap/README.md) / Weekly / [Overview](/content/osmlab/awesome-openstreetmap/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Changeset Tools / Web Services
+
+*   [OSM Inspector](https://tools.geofabrik.de/osmi/?view=geometry\&lon=-12.00000\&lat=25.00000\&zoom=3\&baselayer=Geofabrik%20Standard\&overlays=long_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way%2Clong_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way) - The OSM Inspector (alias OSMI) is a web based debugging tool for advanced OpenStreetMap users offered by Geofabrik. On a map you can see several themed views, each with several layers, showing specific details of the OSM data, often with highlighted errors.
+*   [Nominatim QA](https://nominatim.org/qa/#map=1.81/0.00/0.00) - The Nominatim Data Analyser is a QA tool used to scan the nominatim database and extract suspect data from it. These data are then presented to mappers through a visual interface so that they can correct them directly.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Changeset Tools / Web Services

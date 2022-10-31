@@ -43,12 +43,12 @@
 
 *   DilBert: Delaying Interaction Layers in Transformer-based Encoders for Efficient Open Domain Question Answering (2020)
     *   paper: <https://arxiv.org/pdf/2010.08422.pdf>
-    *   github: <https://github.com/wissam-sib/dilbert>
+    *   github: [https://github.com/wissam-sib/dilbert (⭐15)](https://github.com/wissam-sib/dilbert)
 *   UnifiedQA: Crossing Format Boundaries With a Single QA System (2020)
     *   Demo: <https://unifiedqa.apps.allenai.org/>
 *   ProQA: Resource-efficient method for pretraining a dense corpus index for open-domain QA and IR. (2020)
     *   paper: <https://arxiv.org/pdf/2005.00038.pdf>
-    *   github: <https://github.com/xwhan/ProQA>
+    *   github: [https://github.com/xwhan/ProQA (⭐44)](https://github.com/xwhan/ProQA)
 *   TYDI QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages (2020)
     *   paper: <https://arxiv.org/ftp/arxiv/papers/2003/2003.05002.pdf>
 *   Retrospective Reader for Machine Reading Comprehension
@@ -188,7 +188,7 @@ Lanugage Analysis
     *   ["Deep Joint Entity Disambiguation with Local Neural Attention"](https://arxiv.org/pdf/1704.04920.pdf), Octavian-Eugen Ganea and Thomas Hofmann, 2017.
     *   ["BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION"](https://arxiv.org/pdf/1611.01603.pdf), Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, Hananneh Hajishirzi, ICLR, 2017.
     *   ["Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks"](http://nlp.cs.berkeley.edu/pubs/FrancisLandau-Durrett-Klein_2016_EntityConvnets_paper.pdf), Matthew Francis-Landau, Greg Durrett and Dan Klei, NAACL-HLT 2016.
-        *   <https://GitHub.com/matthewfl/nlp-entity-convnet>
+        *   [https://GitHub.com/matthewfl/nlp-entity-convnet (⭐57)](https://GitHub.com/matthewfl/nlp-entity-convnet)
     *   ["Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions"](https://ieeexplore.ieee.org/document/6823700/), Wei Shen, Jianyong Wang, Jiawei Han, IEEE Transactions on Knowledge and Data Engineering(TKDE), 2014.
     *   ["Introduction to “This is Watson"](https://ieeexplore.ieee.org/document/6177724/), IBM Journal of Research and Development, D. A. Ferrucci, 2012.
     *   ["A survey on question answering technology from an information retrieval perspective"](https://www.sciencedirect.com/science/article/pii/S0020025511003860), Information Sciences, 2011.
@@ -198,22 +198,22 @@ Lanugage Analysis
 
 ## Codes
 
-*   [BiDAF](https://github.com/allenai/bi-att-flow) - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.
+*   [BiDAF (⭐1.5k)](https://github.com/allenai/bi-att-flow) - Bi-Directional Attention Flow (BIDAF) network is a multi-stage hierarchical process that represents the context at different levels of granularity and uses bi-directional attention flow mechanism to obtain a query-aware context representation without early summarization.
     *   Official; Tensorflow v1.2
     *   [Paper](https://arxiv.org/pdf/1611.01603.pdf)
-*   [QANet](https://github.com/NLPLearn/QANet) - A Q\&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.
+*   [QANet (⭐991)](https://github.com/NLPLearn/QANet) - A Q\&A architecture does not require recurrent networks: Its encoder consists exclusively of convolution and self-attention, where convolution models local interactions and self-attention models global interactions.
     *   Google; Unofficial; Tensorflow v1.5
     *   [Paper](#qanet)
-*   [R-Net](https://github.com/HKUST-KnowComp/R-Net) - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage.
+*   [R-Net (⭐586)](https://github.com/HKUST-KnowComp/R-Net) - An end-to-end neural networks model for reading comprehension style question answering, which aims to answer questions from a given passage.
     *   MS; Unofficially by HKUST; Tensorflow v1.5
     *   [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
-*   [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras) - R-NET re-implementation in Keras.
+*   [R-Net-in-Keras (⭐181)](https://github.com/YerevaNN/R-NET-in-Keras) - R-NET re-implementation in Keras.
     *   MS; Unofficial; Keras v2.0.6
     *   [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
-*   [DrQA](https://github.com/hitvoice/DrQA) - DrQA is a system for reading comprehension applied to open-domain question answering.
+*   [DrQA (⭐393)](https://github.com/hitvoice/DrQA) - DrQA is a system for reading comprehension applied to open-domain question answering.
     *   Facebook; Official; Pytorch v0.4
     *   [Paper](#drqa)
-*   [BERT](https://github.com/google-research/bert) - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.
+*   [BERT (⭐32k)](https://github.com/google-research/bert) - A new language representation model which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations by jointly conditioning on both left and right context in all layers.
     *   Google; Official implementation; Tensorflow v1.11.0
     *   [Paper](https://arxiv.org/abs/1810.04805)
 
@@ -223,13 +223,13 @@ Lanugage Analysis
 
 ## Slides
 
-*   [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf) - By Scott Wen-tau Yih & Hao Ma | Microsoft Research | 2016.
+*   [Question Answering with Knowledge Bases, Web and Beyond (⭐33)](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf) - By Scott Wen-tau Yih & Hao Ma | Microsoft Research | 2016.
 *   [Question Answering](https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/NaturalLanguageProcessing/NLP2017/NLP8_QuestionAnswering.pdf) - By Dr. Mariana Neves | Hasso Plattner Institut | 2017.
 
 ## Dataset Collections
 
-*   [NLIWOD's Question answering datasets](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets)
-*   [karthinkncode's Datasets for Natural Language Processing](https://github.com/karthikncode/nlp-datasets)
+*   [NLIWOD's Question answering datasets (⭐93)](https://github.com/dice-group/NLIWOD/tree/master/qa.datasets)
+*   [karthinkncode's Datasets for Natural Language Processing (⭐920)](https://github.com/karthikncode/nlp-datasets)
 
 ## Datasets
 
@@ -238,13 +238,13 @@ Lanugage Analysis
     *   Paper: <http://ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf>
 *   [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
 *   It is one of the bAbI project of Facebook AI Research which is organized towards the goal of automatic text understanding and reasoning. The CBT is designed to measure directly how well language models can exploit wider linguistic context.
-*   [CODAH Dataset](https://github.com/Websail-NU/CODAH)
-*   [DeepMind Q\&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data)
+*   [CODAH Dataset (⭐19)](https://github.com/Websail-NU/CODAH)
+*   [DeepMind Q\&A Dataset; CNN/Daily Mail (⭐1.3k)](https://github.com/deepmind/rc-data)
     *   Hermann et al. (2015) created two awesome datasets using news articles for Q\&A research. Each dataset contains many documents (90k and 197k each), and each document companies on average 4 questions approximately. Each question is a sentence with one missing word/phrase which can be found from the accompanying document/context.
     *   Paper: <https://arxiv.org/abs/1506.03340>
-*   [ELI5](https://github.com/facebookresearch/ELI5)
+*   [ELI5 (⭐261)](https://github.com/facebookresearch/ELI5)
     *   Paper: <https://arxiv.org/abs/1907.09190>
-*   [GraphQuestions](https://github.com/ysu1989/GraphQuestions)
+*   [GraphQuestions (⭐86)](https://github.com/ysu1989/GraphQuestions)
     *   On generating Characteristic-rich Question sets for QA evaluation.
 *   [LC-QuAD](http://sda.cs.uni-bonn.de/projects/qa-dataset/)
     *   It is a gold standard KBQA (Question Answering over Knowledge Base) dataset containing 5000 Question and SPARQL queries. LC-QuAD uses DBpedia v04.16 as the target KB.
@@ -254,10 +254,10 @@ Lanugage Analysis
 *   [MultiRC](https://cogcomp.org/multirc/)
     *   A dataset of short paragraphs and multi-sentence questions
     *   Paper: <http://cogcomp.org/page/publication_view/833>
-*   [NarrativeQA](https://github.com/deepmind/narrativeqa)
+*   [NarrativeQA (⭐391)](https://github.com/deepmind/narrativeqa)
     *   It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
     *   Paper: <https://arxiv.org/pdf/1712.07040v1.pdf>
-*   [NewsQA](https://github.com/Maluuba/newsqa)
+*   [NewsQA (⭐232)](https://github.com/Maluuba/newsqa)
     *   A machine comprehension dataset
     *   Paper: <https://arxiv.org/pdf/1611.09830.pdf>
 *   [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/\~ark/QA-data/)

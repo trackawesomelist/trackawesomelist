@@ -10,7 +10,7 @@ Awesome Observable related stuff - An Observable is a collection that arrives ov
 
 # Awesome Observables [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> An [Observable](https://github.com/zenparsing/es-observable) is a collection that arrives over time. Observables can be used to model push-based data sources such as events, timer intervals, asynchronous requests, and animations. Observables can be transformed, combined, and consumed using array-like methods.
+> An [Observable (⭐2.9k)](https://github.com/zenparsing/es-observable) is a collection that arrives over time. Observables can be used to model push-based data sources such as events, timer intervals, asynchronous requests, and animations. Observables can be transformed, combined, and consumed using array-like methods.
 
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-observables/blob/main/readme.md/contributing.md) before contributing.*
 
@@ -26,24 +26,24 @@ Awesome Observable related stuff - An Observable is a collection that arrives ov
 
 ## Documentation
 
-*   [Overview](https://github.com/tc39/proposal-observable)
+*   [Overview (⭐2.9k)](https://github.com/tc39/proposal-observable)
 *   [Specification](https://tc39.github.io/proposal-observable/)
 
 ## Implementations
 
-*   [zen-observable](https://github.com/zenparsing/zen-observable)
-*   [RxJS](https://github.com/ReactiveX/RxJS)
+*   [zen-observable (⭐826)](https://github.com/zenparsing/zen-observable)
+*   [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS)
 
 ## Packages
 
-*   [ObservableLike](https://github.com/sindresorhus/type-fest/blob/main/source/observable-like.d.ts) - TypeScript type.
-*   [any-observable](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill.
-*   [is-observable](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable.
-*   [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
-*   [stream-to-observable](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable.
-*   [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill.
-*   [obsify](https://github.com/samverschueren/obsify) - Observableify a callback-style function.
-*   [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage.
+*   [ObservableLike (⭐9.1k)](https://github.com/sindresorhus/type-fest/blob/main/source/observable-like.d.ts) - TypeScript type.
+*   [any-observable (⭐65)](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill.
+*   [is-observable (⭐35)](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable.
+*   [observable-to-promise (⭐42)](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
+*   [stream-to-observable (⭐73)](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable.
+*   [symbol-observable (⭐180)](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill.
+*   [obsify (⭐41)](https://github.com/samverschueren/obsify) - Observableify a callback-style function.
+*   [localForage-observable (⭐82)](https://github.com/thgreasi/localForage-observable) - Observables for localForage.
 
 ## Libraries
 
@@ -63,5 +63,5 @@ Awesome Observable related stuff - An Observable is a collection that arrives ov
 
 ## Related
 
-*   [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs)
 

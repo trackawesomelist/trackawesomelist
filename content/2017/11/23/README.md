@@ -1,63 +1,18 @@
 # Awesome List Updates on Nov 23, 2017
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### 0 - Meta-Listas
-
-*   [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
-*   [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
-*   [OpenLibra - Biblioteca recopilatorio de libros libres](https://openlibra.com/es/collection)
-
-### 1 - Agnósticos / Base de Datos
-
-*   [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
-
-### Android / Sistemas Operativos
-
-*   [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
-
-### Haskell / Sistemas Operativos
-
-*   [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html) (HTML)
-
-### Java / Sistemas Operativos
-
-*   [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
-*   [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
-
-### JavaScript / Sistemas Operativos
-
-*   [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
-
-### Perl / Symfony
-
-*   [Tutorial Perl](http://kataix.umag.cl/\~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
-
-### Python / Symfony
-
-*   [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
-
-### Ruby / Web2py
-
-*   [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart) (HTML)
-
-### SQL / Ruby on Rails
-
-*   [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
-
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Multimedia
 
 *   [MediaInfoLib (⭐472)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
-## [3. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
+## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
 ### Tutorials
 

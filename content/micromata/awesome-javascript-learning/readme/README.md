@@ -67,11 +67,11 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 ## Free eBooks
 
 *   [Eloquent JavaScript](http://eloquentjavascript.net) - Covering the language and runtime specifics.
-*   [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
+*   [You Don't Know JS (book series) (⭐160k)](https://github.com/getify/You-Dont-Know-JS) - Series of books diving deep into language.
 *   [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 *   [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) - Excellent primer to functional programming using JavaScript.
-*   [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - This book explores the core principles of functional programming (FP) as they are applied to JavaScript.
+*   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/Functional-Light-JS) - This book explores the core principles of functional programming (FP) as they are applied to JavaScript.
 
 ## Books
 
@@ -119,8 +119,8 @@ Thin books which you can get through in a few days.
 *   [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) - Follow up of »Exploring ES6«.
 *   [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 *   [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-*   [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
-*   [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
+*   [Practical ES6 (⭐3k)](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
+*   [30 seconds of code (⭐104k)](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
 *   [What's the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and JavaScript.
 
 ## DOM related
@@ -131,7 +131,7 @@ Thin books which you can get through in a few days.
 
 ## Node.js
 
-*   [The Art of Node](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.
+*   [The Art of Node (⭐9.5k)](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics.
 *   [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 *   [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 *   [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.
@@ -140,5 +140,5 @@ Thin books which you can get through in a few days.
 
 ## Related
 
-[Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
+[Awesome CSS Learning (⭐2.4k)](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
 

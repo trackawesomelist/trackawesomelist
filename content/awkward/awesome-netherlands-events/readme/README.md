@@ -16,7 +16,7 @@ This list contains awesome (tech related) events happening (and are mostly recur
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-*   [What is an awesome list?](https://github.com/sindresorhus/awesome)
+*   [What is an awesome list? (⭐223k)](https://github.com/sindresorhus/awesome)
 *   [Contribution guide](https://github.com/awkward/awesome-netherlands-events/blob/master/README.md/contributing.md)
 
 ***

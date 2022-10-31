@@ -14,7 +14,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 # Clustering
 
-*   [Multilingual Latent Dirichlet Allocation LDA](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA)
+*   [Multilingual Latent Dirichlet Allocation LDA (⭐74)](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA)
 
 # Speech
 
@@ -28,8 +28,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 *   [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/\~schmid/tools/TreeTagger/)
 *   [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
 *   [Freeling](http://nlp.lsi.upc.edu/freeling/)
-*   [ixa-pipe-pos](https://github.com/ixa-ehu/ixa-pipe-pos)
-*   [Ruby Snowball Implementation](https://github.com/MaG21/estem)
+*   [ixa-pipe-pos (⭐17)](https://github.com/ixa-ehu/ixa-pipe-pos)
+*   [Ruby Snowball Implementation (⭐3)](https://github.com/MaG21/estem)
 *   [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
 # Multiword Expressions  Extractors (MLWE)
@@ -39,7 +39,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 ## Name Entity Recognition (NER)
 
 *   [OpenNLP - Person/Place/Organization models](http://opennlp.sourceforge.net/models-1.5/)
-*   [DBPedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight/)
+*   [DBPedia Spotlight (⭐746)](https://github.com/dbpedia-spotlight/dbpedia-spotlight/)
 *   [CitiusTagger - Spanish NER and  POSTagger](http://gramatica.usc.es/pln/tools/CitiusTools.html)
 
 ## Corpora
@@ -63,8 +63,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 *   [Lemmas Dictionary](http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms)
 *   [esTenten Spanish (POSTagged) ](http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen)
 *   [Europarl Corpus (Parallel Corpus English-Spanish)](http://www.statmt.org/europarl/)
-*   [Colombian Political Speeches](https://github.com/dav009/LatinamericanTextResources)
-*   [South American Slang Expressions/MTWE](https://github.com/dav009/LatinamericanTextResources)
+*   [Colombian Political Speeches (⭐5)](https://github.com/dav009/LatinamericanTextResources)
+*   [South American Slang Expressions/MTWE (⭐5)](https://github.com/dav009/LatinamericanTextResources)
 *   [Syntax and Semantic Annotations (Subset Ancora Corpus)](http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip)
 *   [Plurilingual Specific Corpus on Economics, Medicine, Computer Science](http://www.iula.upf.edu/corpus/corpusuk.htm)
 *   [Copenhagen  Treebank (Dependency Parsing)](http://code.google.com/p/copenhagen-dependency-treebank/)
@@ -86,7 +86,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-*   [Word2Vec vectors for Wikipedia Spanish Articles](https://github.com/idio/wiki2vec)
+*   [Word2Vec vectors for Wikipedia Spanish Articles (⭐598)](https://github.com/idio/wiki2vec)
 *   [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 *   [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 *   [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

@@ -543,7 +543,7 @@ to this,
 
 ## Git-Flow
 
-Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
+Improved [Git-flow (⭐5.2k)](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
 

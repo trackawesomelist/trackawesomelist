@@ -16,9 +16,9 @@ A curated list of resources for learning about the Laravel PHP Framework, to hel
 
 Please select the curated list below to begin your learning of the Laravel PHP Framework!
 
-*   [Chinese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/zh_TW.md)
+*   [Chinese (⭐355)](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/zh_TW.md)
 *   [English](#user-content-english-version)
-*   [Portuguese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md)
+*   [Portuguese (⭐355)](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md)
 
 # How to contribute?
 
@@ -77,7 +77,7 @@ These guys below contributed with content, translations and more. What are you w
     *   [Laravel Homestead on Windows 8](http://sherriflemings.blogspot.ca/2015/03/laravel-homestead-on-windows-8.html)
     *   [Laravel Homestead on Linux or Mac](http://laravel.com/docs/5.4/homestead) #5.4
     *   [Laracasts: Say Hello to Laravel Homestead 2.0](https://laracasts.com/lessons/say-hello-to-laravel-homestead-two)
-*   [Setup Laravel excutable enviroment on AWS EC2 quickly](https://github.com/fukuball/ec2-laravel-evn-installer)
+*   [Setup Laravel excutable enviroment on AWS EC2 quickly (⭐10)](https://github.com/fukuball/ec2-laravel-evn-installer)
 *   Learn from tutorial
     *   [Laravel Documentation: Basic Task List](http://laravel.com/docs/5.1/quickstart) #5.1
     *   [Laravel Documentation: Intermediate Task List](http://laravel.com/docs/5.1/quickstart-intermediate) #5.1
@@ -85,11 +85,11 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-*   [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
-*   [Awesome PHP](https://github.com/ziadoz/awesome-php)
+*   [Awesome Laravel (⭐11k)](https://github.com/chiraggude/awesome-laravel)
+*   [Awesome PHP (⭐28k)](https://github.com/ziadoz/awesome-php)
 *   [Laravel API](http://laravel.com/api/5.4/) #5.4
 *   [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
-*   [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) - A good example of how to use Laravel 5.3 to build an web application.
+*   [bestmomo/laravel5-3-example (⭐225)](https://github.com/bestmomo/laravel5-3-example) - A good example of how to use Laravel 5.3 to build an web application.
 
 ## Learn From Awesome Video / Posts
 
@@ -265,23 +265,23 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-*   [Laravel Framework](https://github.com/laravel/framework)
-*   [Laravel Application](https://github.com/laravel/laravel)
-*   [Laravel Documentation](https://github.com/laravel/docs)
-*   [Laravel Cashier](https://github.com/laravel/cashier)
-*   [Laravel Envoy](https://github.com/laravel/envoy)
-*   [Laravel Homestead](https://github.com/laravel/homestead)
-*   [Laravel Homestead Build Scripts](https://github.com/laravel/settler)
-*   [Laravel Website](https://github.com/laravel/laravel.com)
-*   [Laravel Art](https://github.com/laravel/art)
+*   [Laravel Framework (⭐28k)](https://github.com/laravel/framework)
+*   [Laravel Application (⭐71k)](https://github.com/laravel/laravel)
+*   [Laravel Documentation (⭐2.5k)](https://github.com/laravel/docs)
+*   [Laravel Cashier (⭐2.2k)](https://github.com/laravel/cashier)
+*   [Laravel Envoy (⭐1.5k)](https://github.com/laravel/envoy)
+*   [Laravel Homestead (⭐3.8k)](https://github.com/laravel/homestead)
+*   [Laravel Homestead Build Scripts (⭐1k)](https://github.com/laravel/settler)
+*   [Laravel Website (⭐457)](https://github.com/laravel/laravel.com)
+*   [Laravel Art (⭐184)](https://github.com/laravel/art)
 *   [Laravel Antares](https://github.com/antaresproject/)
 
 ## Coding Standard
 
 *   [PHP The Right Way](http://www.phptherightway.com/)
 *   [PHP FIG](http://www.php-fig.org/)
-*   [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards)
-*   [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+*   [PHP Framework Interoperability Group (⭐12k)](https://github.com/php-fig/fig-standards)
+*   [Code Style Fixer (⭐11k)](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 
 ## Dependency Management
 
@@ -290,21 +290,21 @@ These guys below contributed with content, translations and more. What are you w
 ## Develop Tools
 
 *   [Sublime Text](http://www.sublimetext.com/)
-    *   [Alignment](https://github.com/wbond/sublime_alignment) - Easy alignment of multiple selections and multi-line selections
-    *   [Blade Snippets](https://github.com/dev4dev/blade-snippets) - Provide snippets for blade template engine
-    *   [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter
-    *   [DocBlockr](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments
-    *   [Emmet](https://github.com/sergeche/emmet-sublime) - Improves HTML & CSS workflow
-    *   [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade) - Adds syntax definitions for the Laravel 5 Blade engine
+    *   [Alignment (⭐514)](https://github.com/wbond/sublime_alignment) - Easy alignment of multiple selections and multi-line selections
+    *   [Blade Snippets (⭐113)](https://github.com/dev4dev/blade-snippets) - Provide snippets for blade template engine
+    *   [BracketHighlighter (⭐1.7k)](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter
+    *   [DocBlockr (⭐3.1k)](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments
+    *   [Emmet (⭐5.3k)](https://github.com/sergeche/emmet-sublime) - Improves HTML & CSS workflow
+    *   [Laravel Blade Highlighter (⭐393)](https://github.com/Medalink/laravel-blade) - Adds syntax definitions for the Laravel 5 Blade engine
     *   [phpfmt](https://github.com/phpfmt/sublime-phpfmt) - Plugin to format PHP code - supports also PSR1/2
-    *   [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar
-    *   [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
-    *   [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
-    *   [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php) - SublimeLinter plugin for PHP
-    *   [Syntax Highlighting for Sass](https://github.com/P233/Syntax-highlighting-for-Sass) - Syntax highlighting for both SCSS and Sass
-    *   [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them
+    *   [Sidebar Enhancements (⭐2.1k)](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar
+    *   [SublimeCodeIntel (⭐5.1k)](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
+    *   [SublimeLinter (⭐1.9k)](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
+    *   [SublimeLinter-php (⭐203)](https://github.com/SublimeLinter/SublimeLinter-php) - SublimeLinter plugin for PHP
+    *   [Syntax Highlighting for Sass (⭐291)](https://github.com/P233/Syntax-highlighting-for-Sass) - Syntax highlighting for both SCSS and Sass
+    *   [Trailing Spaces (⭐884)](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them
 *   [PhpStorm IDE ](https://www.jetbrains.com/phpstorm/)
-    *   [Laravel Plugin for PhpStorm](https://github.com/Haehnchen/idea-php-laravel-plugin)
+    *   [Laravel Plugin for PhpStorm (⭐565)](https://github.com/Haehnchen/idea-php-laravel-plugin)
 
 ## PHP Book List for Developer
 
@@ -343,7 +343,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Interview
 
-*   [Awesome PHP Interview Questions](https://github.com/MaximAbramchuck/awesome-interviews#php)
+*   [Awesome PHP Interview Questions (⭐51k)](https://github.com/MaximAbramchuck/awesome-interviews#php)
 *   Introduction to Algorithms, 3rd Edition ISBN:9780262033848
 *   Cracking the Coding Interview: 150 Programming Questions and Solutions ISBN:9780984782802
 *   Elements of Programming Interviews: The Insiders' Guide ISBN:9781479274833

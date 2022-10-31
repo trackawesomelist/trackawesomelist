@@ -36,7 +36,7 @@ This list contains a variety of resources on diversity, more specifically divers
 
 Organizations bringing diversity to tech.
 
-*   [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses.
+*   [1 Million Women To Tech (⭐627)](https://github.com/1millionwomentotech/toolkitten) - Organization whose mission is to offer free coding education to 1 million women by 2020. Has free (DIY) and paid (certification) courses.
 *   [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 *   [AnyKey](https://www.anykey.org) - Organization whose mission is to help create fair and inclusive spaces in esports for marginalized members of the gaming community.
 *   [Black Compute HER](https://blackcomputeher.org/) - Dedicated to supporting computing+tech education and workforce development for black women and girls.
@@ -67,7 +67,7 @@ Organizations bringing diversity to tech.
 *   [Girl Gamers](https://www.reddit.com/r/GirlGamers/) - Community for ladies to discuss gaming, women in geek culture, and experiences that occur as a result of gender.
 *   [Girls In Tech Global Classroom](http://globalclassroom.girlsintech.org) - Organization that offers tech related courses, such as 3-D Tinkercad design, to girls and women, at no cost.
 *   [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
-*   [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
+*   [GoodForPoc (⭐58)](https://github.com/GoodForPoC/GoodForPoC) - List of inclusive companies for people of color in tech.
 *   [Hack The Hood](http://www.hackthehood.org/) - Non-profit organization that introduces low-income youth of color to careers in tech.
 *   [Hidden Genius Project](http://www.hiddengeniusproject.org/) - Program to connect young black males with all they need to become high-performing entrepreneurs and technologists.
 *   [Kapor Center](http://www.kaporcenter.org/) - The Kapor family of organizations works to remove barriers to Science, Technology, Engineering and Math (STEM) education and tech careers for underrepresented people of color.
@@ -133,7 +133,7 @@ The following are collections of various types of resources (talks, documents, b
 *   [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
 *   [Contributor Covenant](https://www.contributor-covenant.org/) - By Coraline Ada Ehmke.
 *   [Inclusion At Work](https://inclusionatwork.co) - By Jennifer Kim.
-*   [Resources For Allies](https://github.com/larahogan/ally-resources) - By Lara Hogan.
+*   [Resources For Allies (⭐293)](https://github.com/larahogan/ally-resources) - By Lara Hogan.
 
 ## Actionable Resources
 
@@ -151,9 +151,9 @@ The following is a list of individual resources with actionable items for being 
 *   [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) - By Michael Schultz.
 *   [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - By Nicole Sanchez.
 *   [How To Fight Sexism On Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - By Nick Douglas.
-*   [Increase Diversity In Our Speaker Line Up](https://github.com/lnug/feedback/issues/107#issuecomment-296282498) - By Soledad Penadés.
+*   [Increase Diversity In Our Speaker Line Up (⭐14)](https://github.com/lnug/feedback/issues/107#issuecomment-296282498) - By Soledad Penadés.
 *   [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - By Cate Huston.
-*   [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery.
+*   [So, You Just Learned There Are Issues With The Tech Industry. Now What? (⭐272)](https://github.com/stephmarx/so-you-just-learned) - By Stephanie Slattery.
 *   [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 *   [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - By Lara Hogan.
 *   [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - By Lara Hogan.
@@ -288,7 +288,7 @@ Please see [CONTRIBUTING](https://github.com/folkswhocode/awesome-diversity/blob
 ***
 
 This project is part of the [folkswhocode](https://github.com/folkswhocode) organization.
-This means that it adheres to its [core values](https://github.com/folkswhocode/base/blob/master/en/VALUES.md), [code of conduct](https://github.com/folkswhocode/base/blob/master/en/CODE_OF_CONDUCT.md) and
+This means that it adheres to its [core values (⭐5)](https://github.com/folkswhocode/base/blob/master/en/VALUES.md), [code of conduct (⭐5)](https://github.com/folkswhocode/base/blob/master/en/CODE_OF_CONDUCT.md) and
 [contributing guidelines](https://github.com/folkswhocode/awesome-diversity/blob/master/README.md/.github/CONTRIBUTING.md), and uses an equivalent [license](https://github.com/folkswhocode/awesome-diversity/blob/master/README.md/LICENSE).
 
 Our Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/).

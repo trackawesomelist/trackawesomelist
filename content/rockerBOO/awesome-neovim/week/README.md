@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Motion / Diagnostics
+
+*   [Weissle/easy-action (⭐3)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Plugin Manager

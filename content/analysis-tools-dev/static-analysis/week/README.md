@@ -6,6 +6,13 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [cargo-unused-features (⭐46)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
+    It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positve.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Programming Languages / [Other](#other-1)

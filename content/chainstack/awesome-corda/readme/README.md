@@ -50,23 +50,23 @@ Pull requests are welcome!
 ## Tools
 
 *   [Braid Corda](https://gitlab.com/bluebank/braid/tree/master/braid-corda) - Create Braid endpoints and streams from your Corda node.
-*   [Codaptor](https://github.com/180Protocol/codaptor) - Create REST API for any CorDapp running on a Corda node automatically.
+*   [Codaptor (⭐15)](https://github.com/180Protocol/codaptor) - Create REST API for any CorDapp running on a Corda node automatically.
 *   [Corbeans](https://manosbatsis.github.io/corbeans) - Corda integration for Spring Boot.
-*   [Cordage](https://github.com/LayerXcom/cordage) - Provide modules that make the interoperability possible between Corda and other blockchains without further trusted third party.
+*   [Cordage (⭐52)](https://github.com/LayerXcom/cordage) - Provide modules that make the interoperability possible between Corda and other blockchains without further trusted third party.
 *   [Cordalo](https://github.com/cordalo-ch) - Provide Corda frameworks to speed up your development in the decentralized space.
 *   [Corda Lean State](https://manosbatsis.github.io/corda-lean-state) - Generate Corda Contract and Persistent states from a simplified interface.
-*   [Cordentity](https://github.com/hyperledger-labs/cordentity) - Integrate [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) capabilities into Corda.
-*   [DAML for Corda](https://github.com/chainstack/awesome-corda) - DAML smart contracts for Corda.
+*   [Cordentity (⭐32)](https://github.com/hyperledger-labs/cordentity) - Integrate [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) capabilities into Corda.
+*   [DAML for Corda (⭐66)](https://github.com/chainstack/awesome-corda) - DAML smart contracts for Corda.
 *   [DemoBench](https://www.corda.net/demobench/) - A standalone desktop app to configure and launch local Corda nodes.
 *   [Interact with nodes](https://docs.chainstack.com/operations/corda/tools) - Interact with your Corda nodes through a standalone shell, from an app, or a web server.
 *   [Nodes and networks deployment with Chainstack](https://chainstack.com/corda/) - Easy Corda nodes and networks deployment.
 *   [Partiture](https://manosbatsis.github.io/partiture/) - A compact component framework for your CorDapps. Currently, its primary goal is to simplify flow composition.
-*   [PyCorda](https://github.com/chainhaus/pycorda) - Access node and vault data for analytics using pandas DataFrames.
+*   [PyCorda (⭐12)](https://github.com/chainhaus/pycorda) - Access node and vault data for analytics using pandas DataFrames.
 *   [RPC PoolBoy](https://manosbatsis.github.io/corda-rpc-poolboy/) - RPC connection pool with support for multiple Corda nodes.
 *   [Smart legal contracts with Accord](https://www.accordproject.org/news/smart-legal-contracts-on-corda/) - A reference implementation for smart legal contracts on Corda.
-*   [Testacles](https://github.com/manosbatsis/corda-testacles) - Tools to grow CorDapp test suites.
+*   [Testacles (⭐3)](https://github.com/manosbatsis/corda-testacles) - Tools to grow CorDapp test suites.
 *   [Vaultaire](https://manosbatsis.github.io/vaultaire/) - Query DSL and data access utilities for Corda developers.
-*   [VS Code Corda extension](https://github.com/corda/vscode-corda) - VS Code tools for developing CorDapps on the Corda platform.
+*   [VS Code Corda extension (⭐9)](https://github.com/corda/vscode-corda) - VS Code tools for developing CorDapps on the Corda platform.
 *   [Web3j integration for Corda](http://corda.web3j.io/) - A lightweight client library for working with CorDapps.
 *   [XTS Fountain](https://cordite.foundation/) - Mint XTS tokens and send them to a token account on a Corda node.
 *   [Splunk App for Corda](https://github.com/splunkdlt/splunk-app-for-corda) - Splunk official integration app for Corda monitoring.
@@ -74,7 +74,7 @@ Pull requests are welcome!
 ## Tutorials
 
 *   [Official Corda tutorials](https://docs.corda.net/tutorials-index.html) - Learn to build and run CorDapps.
-*   [Sample CorDapps](https://github.com/corda/samples/) - Explore the code of sample CorDapps targeting various uses.
+*   [Sample CorDapps (⭐96)](https://github.com/corda/samples/) - Explore the code of sample CorDapps targeting various uses.
 *   [No ticket scalping CorDapp](https://docs.chainstack.com/tutorials/no-ticket-scalping-cordapp-on-corda) - Build, run, and interact with a CorDapp from scratch.
 *   [Vaultaire: Corda Vault Queries Made Simple](https://medium.com/@manosbatsis/vaultaire-corda-vault-queries-made-simple-d13db4147298) - Upgrade to a clean and easy to use query DSL generated just for you.
 
@@ -93,10 +93,10 @@ Pull requests are welcome!
 Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https://marketplace.r3.com/) or add your CorDapp to the list!
 
 *   [Cordite](https://gitlab.com/cordite/cordite) - A collection of CorDapps providing decentralized economics and governance services.
-*   [Credit scoring](https://github.com/rafaelazeredo/creditbank) - A credit scoring service between the user and retail banks.
-*   [Auction](https://github.com/ashutoshmeher-r3/auction-cordapp) - A demo auction CorDapp.
-*   [Private health insurance management](https://github.com/corda-codeclub/marge) - A private health insurance CorDapp.
-*   [Sustainable fishing rights](https://github.com/joeldudleyr3/olive-oyl) - A CorDapp to manage fishing rights.
+*   [Credit scoring (⭐7)](https://github.com/rafaelazeredo/creditbank) - A credit scoring service between the user and retail banks.
+*   [Auction (⭐1)](https://github.com/ashutoshmeher-r3/auction-cordapp) - A demo auction CorDapp.
+*   [Private health insurance management (⭐11)](https://github.com/corda-codeclub/marge) - A private health insurance CorDapp.
+*   [Sustainable fishing rights (⭐5)](https://github.com/joeldudleyr3/olive-oyl) - A CorDapp to manage fishing rights.
 
 ## Networks
 

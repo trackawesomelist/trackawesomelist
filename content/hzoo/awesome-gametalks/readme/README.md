@@ -14,7 +14,7 @@
 
 > On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.
 
-Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/blob/master/README.md/CONTRIBUTING.md) and other [awesome](https://github.com/sindresorhus/awesome) stuff!
+Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/blob/master/README.md/CONTRIBUTING.md) and other [awesome (⭐223k)](https://github.com/sindresorhus/awesome) stuff!
 
 > GDC has a channel now: <https://www.youtube.com/c/gdconf>
 

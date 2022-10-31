@@ -42,10 +42,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Discord](https://discordapp.com/invite/UUt2PJb)
 *   [Medium](https://medium.com/storybookjs)
 *   [DEV.to](https://dev.to/t/storybook)
-*   [Brand's materials](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
+*   [Brand's materials (⭐79)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
 *   [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
-*   [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
-*   [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+*   [Storybook Deployer (⭐853)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+*   [Documentation Primitives (⭐34)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## Tutorials
 
@@ -86,9 +86,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 *   [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
 *   [AXA France Design System](https://axaguildev.github.io/react-toolkit/latest/storybook)
-*   [Shared React Components Boilerplate](https://github.com/shared-components/shared-react-components-example)
+*   [Shared React Components Boilerplate (⭐84)](https://github.com/shared-components/shared-react-components-example)
 *   [Apideck Components](https://www.apideck.design/)
-*   [Qui - Vue 2/3 Design system](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐196)](https://github.com/Qvant-lab/qui-max)
 *   [Mística Design system](https://mistica-web.vercel.app/?path=/story/welcome-welcome--mistica)
 
 ## Addons

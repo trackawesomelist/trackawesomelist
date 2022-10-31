@@ -10,7 +10,7 @@
 
 # Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
 
-A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
+A curated list of awesome HTML5 resources. Inspired by [awesome-php (⭐28k)](https://github.com/ziadoz/awesome-php) and [awesome-python (⭐145k)](https://github.com/vinta/awesome-python)
 
 ## Table of Contents
 
@@ -268,7 +268,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 *   [The Service Worker Cookbook](https://serviceworke.rs/)
 *   [Offline content with service workers](https://www.madebymike.com.au/writing/service-workers/)
 *   [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
-*   [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
+*   [Service workers explained (⭐3.6k)](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 *   [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
 *   [ServiceWorker: Revolution of the Web Platform](https://ponyfoo.com/articles/serviceworker-revolution)
 
@@ -367,14 +367,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 *   [Info, news and tutorials](http://html5gamedevelopment.com/)
 *   [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 *   Opensource JavaScript game engines
-    *   [Pixi.js](https://github.com/pixijs/pixi.js)
-    *   [Phaser](https://github.com/photonstorm/phaser)
-    *   [MelonJS](https://github.com/melonjs/melonJS)
-    *   [Kiwi.js](https://github.com/gamelab/kiwi.js)
-    *   [Crafty](https://github.com/craftyjs/Crafty)
-    *   [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS)
-    *   [Stage.js](https://github.com/shakiba/stage.js)
-    *   [Cocos2d](https://github.com/cocos2d/cocos2d-html5)
+    *   [Pixi.js (⭐38k)](https://github.com/pixijs/pixi.js)
+    *   [Phaser (⭐33k)](https://github.com/photonstorm/phaser)
+    *   [MelonJS (⭐4.2k)](https://github.com/melonjs/melonJS)
+    *   [Kiwi.js (⭐1.3k)](https://github.com/gamelab/kiwi.js)
+    *   [Crafty (⭐3.2k)](https://github.com/craftyjs/Crafty)
+    *   [PhysicsJS (⭐3.5k)](https://github.com/wellcaffeinated/PhysicsJS)
+    *   [Stage.js (⭐2.2k)](https://github.com/shakiba/stage.js)
+    *   [Cocos2d (⭐2.9k)](https://github.com/cocos2d/cocos2d-html5)
 
 ## Bootcamp
 
@@ -419,8 +419,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Other awesome lists
 
-*   [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-*   [lists](https://github.com/jnv/lists)
+*   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
+*   [lists (⭐8.5k)](https://github.com/jnv/lists)
 *   [Community Curated Resources](https://hackr.io/tutorials/learn-html-5)
 
 ## Contributing

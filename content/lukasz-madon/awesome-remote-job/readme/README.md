@@ -186,8 +186,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 32. [NODESK](https://nodesk.co/remote-jobs/)
 33. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
 34. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
-35. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
-36. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+35. [remote-es/remotes (⭐528)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+36. [remote-jobs (⭐23k)](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 37. [Remotees](https://remotees.com/)
 38. [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
 39. [Remote.co Jobs](https://remote.co/remote-jobs/)
@@ -264,8 +264,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Interviewing
 
-1.  [andreis/interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
-2.  [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+1.  [andreis/interview (⭐16k)](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+2.  [awesome-interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
 3.  [adaface.com/pair-pro](https://www.adaface.com/pair-pro) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 4.  [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
 5.  [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
@@ -497,7 +497,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 191.    [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
 192.    [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
 193.    [Soostone](http://www.soostone.com/careers)
-194.    [Sourcegraph](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
+194.    [Sourcegraph (⭐130)](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
 195.    [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
 196.    [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
 197.    [StackExchange](https://stackoverflow.com/company/work-here)
@@ -554,7 +554,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Communities
 
 1.  [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
-2.  [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
+2.  [##remotes (⭐12)](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
 3.  [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
 4.  [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
 5.  [Remote Indian](https://remoteindian.com/) - Remote workers from India.
@@ -584,7 +584,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 6.  [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
 7.  [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
 8.  [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
-9.  [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+9.  [Matrix (⭐895)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 10. [Mumble](https://wiki.mumble.info/) Mumble is an open source voice chat software
 11. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
 12. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
@@ -634,16 +634,16 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Others
 
-1.  [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+1.  [awesome-digital-nomads (⭐728)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 2.  [Best Remote](https://bestremote.work/) - A curated reference about today's top remote companies.
-3.  [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
+3.  [Established Remote (⭐5.7k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 4.  [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
 5.  [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
 6.  [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.
 7.  [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
 8.  [Regus USA](https://www.regus.com/) - Executive suites, virtual offices & conference room space.
 9.  [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=\&l=\&r=true)
-10. [Remote Working](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+10. [Remote Working (⭐8.3k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 11. [Remoter.com](https://www.remoter.com/) - Ongoing initiative to create an educational platform about remote work.
 12. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 

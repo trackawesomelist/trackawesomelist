@@ -16,7 +16,7 @@
 
 A collection of tips to help take your CSS skills pro.
 
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists (⭐223k)](https://github.com/sindresorhus/awesome/).
 
 ## Table of Contents
 
@@ -253,7 +253,7 @@ body {
 
 Want to center something else? Vertically, horizontally...anything, anytime, anywhere? CSS-Tricks has [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) on doing all of that.
 
-**Note:** Watch for some [buggy behavior](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
+**Note:** Watch for some [buggy behavior (⭐13k)](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
@@ -630,21 +630,21 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 **Note:** I've had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files may not include all the tips listed on the main README file.
 
-*   [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
-*   [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
-*   [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
-*   [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-*   [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
-*   [λληνικά](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
-*   [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
-*   [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
-*   [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
-*   [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
-*   [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
-*   [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
-*   [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
-*   [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
-*   [Tiếng Việt](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
+*   [简体中文 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+*   [正體中文 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
+*   [Deutsch (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
+*   [Español (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+*   [Français (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+*   [λληνικά (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
+*   [ગુજરાતી (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
+*   [Italiano (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
+*   [日本語 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+*   [한국어 (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
+*   [Polskie (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
+*   [Português do Brasil (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+*   [Português do Europe (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
+*   [Русский (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+*   [Tiếng Việt (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

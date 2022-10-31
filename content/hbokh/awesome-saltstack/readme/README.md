@@ -47,7 +47,7 @@ A :gem: means **really *awesome / useful***.
 *   [SaltStack site](https://www.saltstack.com/) - Company website.
 *   [Salt Project site](https://saltproject.io/) - Salt Project (Salt Open Source) website.
 *   [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html) - vRealize Automation SaltStack Config website at VMware (new name for commercial SaltStack product).
-*   [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+*   [GitHub repo (⭐13k)](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 *   [GitLab repo](https://gitlab.com/saltstack/open) - Salt Project's eventual new home.
 *   [SaltStack Documentation](https://docs.saltproject.io/en/latest/) - Official documentation.
 *   [Salt in 10 minutes](https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
@@ -57,7 +57,7 @@ A :gem: means **really *awesome / useful***.
 *   [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
 *   [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
 *   [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
-*   [Salt Module Contributions](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
+*   [Salt Module Contributions (⭐173)](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
 
 ## Tutorials
 
@@ -80,7 +80,7 @@ A :gem: means **really *awesome / useful***.
 *   [SaltStack Examples](https://www.unixmen.com/saltstack-examples/) - Will teach you some of default functions in a quick way.
 *   [Getting Started with Saltstack and salt-workspace](https://blog.badgerops.net/getting-started-with-salt-workspace/) - Learning SaltStack by setting up a salt-workspace.
 *   [Getting started with Salt Structure](https://blog.badgerops.net/getting-started-with-salt-structure-2/) - Learn how to setup a structured SaltStack workspace.
-*   [Introduction to SaltStack](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
+*   [Introduction to SaltStack (⭐19)](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 *   [The Simplest Way to Learn SaltStack](https://medium.com/@timlwhite/the-simplest-way-to-learn-saltstack-cd9f5edbc967) - Start to learn the basics of SaltStack by setting it up in Docker.
 *   [SaltStack - Quick Guide](https://www.tutorialspoint.com/saltstack/saltstack_quick_guide.htm) - Part of the larger "Learn SaltStack"-tutorial at Tutorials Point.
 *   [Upgrading Salt to Python 3](https://salt.tips/upgrading-salt-to-python-3/) - How to switch SaltStack from Python2 to Python3.
@@ -88,13 +88,13 @@ A :gem: means **really *awesome / useful***.
 
 ## Code
 
-*   [valentin2105/Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
-*   [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
+*   [valentin2105/Kubernetes-Saltstack (⭐204)](https://github.com/valentin2105/Kubernetes-Saltstack) - Saltstack recipe to deploy Kubernetes cluster from scratch.
+*   [madflojo/masterless-salt-base (⭐27)](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
 
 ## Integrations
 
 *   [Jenkins Salt API Plugin](https://plugins.jenkins.io/saltstack/) - This plugin sends a SaltStack API message as a build step.
-*   [Rundeck](https://github.com/amendlik/salt-gen-resource) - Generate Rundeck node resources from the Salt Mine.
+*   [Rundeck (⭐7)](https://github.com/amendlik/salt-gen-resource) - Generate Rundeck node resources from the Salt Mine.
 
 ## Books
 
@@ -127,14 +127,14 @@ A :gem: means **really *awesome / useful***.
 
 ## Tools
 
-*   [SaltGUI](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+*   [SaltGUI (⭐386)](https://github.com/erwindon/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 *   [Silica](https://gitlab.com/perfecto25/silica) - A Flask-based lightweight Salt web console.
-*   [Molten](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
+*   [Molten (⭐208)](https://github.com/martinhoefling/molten) - Molten is a WebUI for the REST API exposed by Saltstack.
 *   [salt-pepper](https://pypi.org/project/salt-pepper/) - A CLI Frontend to the salt-api systems.
-*   [salt-sproxy](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
-*   [salt-lint](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
+*   [salt-sproxy (⭐102)](https://github.com/mirceaulinic/salt-sproxy) - Salt plugin to automate the management and configuration of devices and applications, without running (Proxy) Minions.
+*   [salt-lint (⭐121)](https://github.com/warpnet/salt-lint/) - Checks Salt state files (SLS) for practices and behavior that could potentially be improved.
 *   [Alcali](https://alcali.dev/) - A web based tool for monitoring and administrating Saltstack Salt.
-*   [ISalt](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
+*   [ISalt (⭐62)](https://github.com/mirceaulinic/isalt) - IPython-based command shell for interactive Salt programming.
 
 ## Presentations
 
@@ -202,9 +202,9 @@ A :gem: means **really *awesome / useful***.
 
 ## Cheat sheets
 
-*   [SaltStack Cheat Sheet Plus](https://github.com/fmdlc/saltstack-cheatsheet) - By Facu de la Cruz.
+*   [SaltStack Cheat Sheet Plus (⭐31)](https://github.com/fmdlc/saltstack-cheatsheet) - By Facu de la Cruz.
 *   [Salt Commands cheat sheet](https://sites.google.com/site/mrxpalmeiras/saltstack/salt-cheat-sheet) - List of common Salt commands.
-*   [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
+*   [SaltStack Wiki (⭐13k)](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
 
 ## Uncategorized
 

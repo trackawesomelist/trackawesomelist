@@ -79,7 +79,7 @@ Collect performance data from real users visiting your page. Be mindful of the a
 *   [Akamai mPulse](https://www.akamai.com/uk/en/products/performance/mpulse-real-user-monitoring.jsp) - Real User Monitoring SaaS.
 *   [Sematext Experience](https://sematext.com/experience/) - Real User Monitoring SaaS.
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Open Source Library to collect Field Data.
-*   [Web Vitals](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
+*   [Web Vitals (⭐5.4k)](https://github.com/GoogleChrome/web-vitals) - Open Source Library to collect Field Data.
 *   [Vercel Analytics](https://vercel.com/docs/analytics) - Real User Monitoring based on Web Vitals.
 
 ### Critical rendering path
@@ -104,9 +104,9 @@ To optimize interactivity metrics like [Total Blocking Time (TBT)](#total-blocki
 It's important to track metrics relevant to users and their experience. To measure the perceived performance we can choose metrics by framing them around a few key questions.
 
 *   [Docs - User-centric Performance Metrics - web.dev](https://web.dev/user-centric-performance-metrics/)
-*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
-*   Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
-*   Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
+*   Is it happening? - Did the navigation start successfully? Has the server responded? (e.g [FCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
+*   Is it useful/meaningful? - Has enough content rendered that users can engage with it? (e.g. [LCP (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#largest-contentful-paint-lcp))
+*   Is it usable - Can users interact with the page, or is it still busy loading? (e.g [TBT (⭐629)](https://github.com/csabapalfi/awesome-web-performance-metrics/#total-blocking-time-tbt))
 *   Is it delightful/smooth? - Are the interactions smooth and natural, free of lag and jank?
 
 ***
@@ -129,7 +129,7 @@ The Largest Contentful Paint (LCP) metric reports the render time of the largest
 *   Lab: Lighthouse/WPT
 *   Field: Chrome 77+
 *   [Docs - LCP - web.dev](https://web.dev/largest-contentful-paint/)
-*   [Spec - LCP - W3C](https://github.com/WICG/largest-contentful-paint#readme)
+*   [Spec - LCP - W3C (⭐79)](https://github.com/WICG/largest-contentful-paint#readme)
 
 ### Cumulative Layout Shift (CLS)
 
@@ -138,7 +138,7 @@ A layout shift occurs any time a visible element changes its position from one f
 *   Lab: Lighthouse/WPT
 *   Field: Chrome 77+
 *   [Docs - CLS - web.dev](https://web.dev/cls/)
-*   [Spec - Layout Instability API - W3C](https://github.com/WICG/layout-instability)
+*   [Spec - Layout Instability API - W3C (⭐143)](https://github.com/WICG/layout-instability)
 
 ### Visually Complete
 
@@ -164,7 +164,7 @@ Element Timing captures **when specific elements are painted** by the browser. H
 
 *   Lab: WPT
 *   Field: Chrome 77+
-*   [Docs - Last Painted Hero - WPT](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
+*   [Docs - Last Painted Hero - WPT (⭐2.8k)](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/HeroElements.md)
 *   [Spec - Element Timing API](https://wicg.github.io/element-timing/)
 *   [Blogpost - Hero Element Timing - SpeedCurve](https://speedcurve.com/blog/web-performance-monitoring-hero-times/)
 
@@ -197,7 +197,7 @@ First Input Delay (FID) measures **the time from when a user first interacts wit
 *   Lab: N/A (as it requires the user to interact with the page)
 *   Field: IE9+ (and Safari, Chrome, Firefox) (with polyfill - 0.4KB)
 *   [Docs - FID - web.dev](https://web.dev/fid/)
-*   [Polyfill - FID](https://github.com/GoogleChromeLabs/first-input-delay)
+*   [Polyfill - FID (⭐349)](https://github.com/GoogleChromeLabs/first-input-delay)
 
 ### Max Potential First Input Delay
 
@@ -266,7 +266,7 @@ Measuring own (and third-party) JavaScript bytes is crucial as JavaScript is the
 *   [Sitespeed.io PageXray](https://www.sitespeed.io/documentation/pagexray/)
 *   [Lighthouse Performance Budgets](https://developers.google.com/web/tools/lighthouse/audits/budgets)
 *   [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)
-*   [Which third party scripts are most excessive](https://github.com/patrickhulce/third-party-web)
+*   [Which third party scripts are most excessive (⭐1k)](https://github.com/patrickhulce/third-party-web)
 
 ***
 

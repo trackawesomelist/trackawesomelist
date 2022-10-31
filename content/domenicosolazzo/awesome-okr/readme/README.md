@@ -33,11 +33,11 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 
 ## Basics
 
-*   [Basic of OKR](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md): Basic concepts about OKRs.
-*   [Worksheet OKR template](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md): A worksheet for starting the planning of OKRs
-*   [Use a weekly status email](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email): How to set a weekly status email towards your OKRs.
-*   [How to set OKRs](https://github.com/domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md): A quick list for how to set OKRs in your company.
-*   [Monday's and Friday's: The commitment square](https://github.com/domenicosolazzo/practice-okr/blob/master/Commitment-Square.md): The commitment square used to analyze progresses and roadblocks againsts the OKRs.
+*   [Basic of OKR (⭐1.4k)](https://github.com/domenicosolazzo/practice-okr/blob/master/Basic.md): Basic concepts about OKRs.
+*   [Worksheet OKR template (⭐1.4k)](https://github.com/domenicosolazzo/practice-okr/blob/master/Worksheet.md): A worksheet for starting the planning of OKRs
+*   [Use a weekly status email (⭐1.4k)](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email): How to set a weekly status email towards your OKRs.
+*   [How to set OKRs (⭐1.4k)](https://github.com/domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md): A quick list for how to set OKRs in your company.
+*   [Monday's and Friday's: The commitment square (⭐1.4k)](https://github.com/domenicosolazzo/practice-okr/blob/master/Commitment-Square.md): The commitment square used to analyze progresses and roadblocks againsts the OKRs.
 *   [Fundamentals of OKR](https://medium.com/startup-tools/okrs-5afdc298bc28): Great article describing the fundamental of OKR with real examples from Uber and Youtube.
 
 ## Slides
@@ -136,10 +136,10 @@ A list of excel templates for setting OKRs.
 A list of examples about how to implement OKRs. Useful when you want to get start with OKRs.
 These are not real examples and I am not related with the companies below.
 
-*   [Uber](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md): A case study of OKRs for Uber.
-*   [Youtube](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Youtube.md): A case study of OKRs for Youtube.
-*   [Sample Company](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/SampleCompany.md): An example of OKRs for an imaginary company.
-*   [Photo Editing App](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/PhotoEditingApp.md): A case study of OKRs for an a fake company creating a photo editing mobile app and using OKRs to reach their goals.
+*   [Uber (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md): A case study of OKRs for Uber.
+*   [Youtube (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Youtube.md): A case study of OKRs for Youtube.
+*   [Sample Company (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/SampleCompany.md): An example of OKRs for an imaginary company.
+*   [Photo Editing App (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/PhotoEditingApp.md): A case study of OKRs for an a fake company creating a photo editing mobile app and using OKRs to reach their goals.
 *   [OKR Goals Examples](https://www.atiim.com/okr-goals-examples/): A comprehensive list of OKR goal examples for all kind of teams and levels.
 *   [25+ Site Reliability Engineering OKR examples](https://www.cruform.com/site-reliability-engineering-okrs/): A comprehensive list of OKRs for Site Reliability Engineering Teams.
 *   [GitLab: Objectives and Key Results (OKRs)](https://about.gitlab.com/company/okrs/): A comprehensive guide and real OKRs at GitLab.
@@ -167,16 +167,16 @@ List of software for managing your OKRs. This list was made using this Product H
 
 ## Open Source Projects
 
-*   [BurningOkr](https://github.com/BurningOKR/BurningOKR)
-*   [okr2go](https://github.com/oxisto/okr2go)
+*   [BurningOkr (⭐91)](https://github.com/BurningOKR/BurningOKR)
+*   [okr2go (⭐39)](https://github.com/oxisto/okr2go)
 
 ## Contributing
 
-Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
+Read [this (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
 
 ## Code of conduct
 
-Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CODE_OF_CONDUCT.md) regarding the code of conduct.
+Read [this (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr/blob/master/CODE_OF_CONDUCT.md) regarding the code of conduct.
 
 ## License
 

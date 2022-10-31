@@ -164,7 +164,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 *   [Matomo](https://matomo.org/) - An open analytics platform.
 *   [SEMrush](https://www.semrush.com/) - SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
 *   [Seomator](https://seomator.com/) - SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips.
-*   [SEOstats](https://github.com/eyecatchup/SEOstats) - SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
+*   [SEOstats (⭐1.4k)](https://github.com/eyecatchup/SEOstats) - SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 *   [SimilarWeb](https://www.similarweb.com/) - Compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.
 *   [SpyFu](https://www.spyfu.com/) - Unlimited searches of any competitor's keywords for SEO or Google Ads. Research keywords, and find any domain's strongest content and their most dominant ad copy.
 *   [Twitter Analytics](https://analytics.twitter.com/) - Measure and boost your impact on Twitter.
@@ -193,7 +193,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 *   [OpenLinkProfiler](http://www.openlinkprofiler.org/) - Get an in-depth analysis of the freshest live backlinks.
 *   [Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator) - This tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
 *   [Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/) - The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites links, images, CSS, script and apps from an SEO perspective.
-*   [Linkbuilding Spider](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
+*   [Linkbuilding Spider (⭐5)](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
 
 ### Structured Data
 
@@ -204,7 +204,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 ### Bookmarklets
 
-*   [OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet) - An open-source bookmarklet that shows you on-page SEO and social meta data information.
+*   [OuiSEO (⭐45)](https://github.com/carlsednaoui/seo-bookmarklet) - An open-source bookmarklet that shows you on-page SEO and social meta data information.
 *   [SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet) - A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO.
 
 ### Browser Extensions
@@ -213,7 +213,7 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
 
 ### Jekyll Plugins
 
-*   [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+*   [Jekyll SEO Tag (⭐1.5k)](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 
 ### TYPO3 Extensions
 

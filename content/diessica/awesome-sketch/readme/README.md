@@ -89,26 +89,26 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 ###### Must-have :heart:
 
-*   [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
-*   [RenameIt](https://github.com/rodi01/RenameIt)
-*   [Sketch Measure](https://github.com/utom/sketch-measure)
-*   [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory/)
-*   [Dynamic Button](https://github.com/ddwht/sketch-dynamic-button)
-*   [Page Switch](https://github.com/mauehara/sketch-page-switch)
-*   [Sketch Flex Layout](https://github.com/hrescak/Sketch-Flex-Layout)
+*   [Content Generator (⭐4.4k)](https://github.com/timuric/Content-generator-sketch-plugin)
+*   [RenameIt (⭐1.4k)](https://github.com/rodi01/RenameIt)
+*   [Sketch Measure (⭐7k)](https://github.com/utom/sketch-measure)
+*   [Style Inventory (⭐1.8k)](https://github.com/getflourish/Sketch-Style-Inventory/)
+*   [Dynamic Button (⭐1.1k)](https://github.com/ddwht/sketch-dynamic-button)
+*   [Page Switch (⭐67)](https://github.com/mauehara/sketch-page-switch)
+*   [Sketch Flex Layout (⭐1.7k)](https://github.com/hrescak/Sketch-Flex-Layout)
 
 ###### Nice-to-have :thumbsup:
 
-*   [Handy Tools](https://github.com/webpatch/Handy-Tools/)
+*   [Handy Tools (⭐127)](https://github.com/webpatch/Handy-Tools/)
 *   [Easier.cc](http://easier.cc/) (Files up to 5 MB)
-*   [User Flow](https://github.com/abynim/UserFlows)
+*   [User Flow (⭐1.4k)](https://github.com/abynim/UserFlows)
 *   [Sketch Runner](http://sketchrunner.com)
-*   [Efficiency](https://github.com/x-raizor/Efficiency)
+*   [Efficiency (⭐118)](https://github.com/x-raizor/Efficiency)
 
 ##### Get more plugins
 
 *   [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-*   [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
+*   [Sketch Plugin Directory (⭐3.4k)](https://github.com/sketchplugins/plugin-directory)
 *   [SketchPlugins mailing list](http://sketchplugins.com/)
 *   [Awesome Sketch Plugins](http://awesome-sket.ch/)
 *   Websites related to resources (see [Other](#other) section).
@@ -116,9 +116,9 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 ## Templates & UI Kits
 
-*   [Responsive Web Design Template](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
-*   [Sketch iOS Templates](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
-*   [Teracy Wireframe Kit](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
+*   [Responsive Web Design Template (⭐27)](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
+*   [Sketch iOS Templates (⭐837)](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
+*   [Teracy Wireframe Kit (⭐1.3k)](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
 
 ## Services
 

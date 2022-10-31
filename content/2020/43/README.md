@@ -1054,13 +1054,7 @@
 *   [minimalist-web-notepad (⭐693)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 *   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐66)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 
-## [64. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
-
-### 0 - Meta-Listas
-
-*   [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
-
-## [65. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [64. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -1090,6 +1084,16 @@
 ### Tools
 
 *   [YARP (⭐5.9k)](https://github.com/microsoft/reverse-proxy) - YARP is a reverse proxy toolkit for building fast proxy servers in .NET using the infrastructure from ASP.NET and .NET.
+
+## [65. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+
+### Java
+
+*   [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
+
+### JavaScript / Node.js
+
+*   [Node University](https://nodeuniversity.simplecast.fm) - Azat Mardan (podcast)
 
 ## [66. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 

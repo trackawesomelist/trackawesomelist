@@ -81,22 +81,22 @@ A knowledge collection of databases, software and papers related to computationa
 
 ## Preprocess
 
-*   [Chemistry Development Kit](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
-*   [RDKit](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+*   [Chemistry Development Kit (⭐370)](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
+*   [RDKit (⭐1.8k)](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
 
 ## Machine Learning Tasks and Models
 
 ### Drug Repurposing
 
-*   [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
-*   [DRKG](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+*   [DeepPurpose (⭐655)](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on.
+*   [DRKG (⭐431)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
 ### Drug Target Interaction
 
-*   [NeoDTI](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
+*   [NeoDTI (⭐61)](https://github.com/FangpingWan/NeoDTI) - A library for Drug Target Interaction.
 
 ### Compound Protein Interaction
 
-*   [MCPINN](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-*   [TransformerCPI](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+*   [MCPINN (⭐2)](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
+*   [TransformerCPI (⭐80)](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
 

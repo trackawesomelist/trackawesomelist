@@ -149,10 +149,10 @@ Works in the public domain have no copyright restrictions. This can be the resul
 ## Software
 
 *   [CanvasPaint](http://sigilmaster.com/) - Clone of Microsoft Paint in HTML, CSS, and JavaScript.
-*   [Kakoune](https://github.com/mawww/kakoune/blob/master/UNLICENSE) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
+*   [Kakoune (⭐8.4k)](https://github.com/mawww/kakoune/blob/master/UNLICENSE) - Text editor inspired by Vim that features multiple selections, a client-server window architecture, and primitives for text manipulation.
 *   [Libregamewiki: PD Games](https://archive.org/search.php?query=possible-copyright-status%3A%28NOT_IN_COPYRIGHT%29%20OR%20licenseurl%3A%28%22http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2F1.0%2F%22%29%20OR%20licenseurl%3A%28%22https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F%22%29) - Completely PD games.
 *   [Luapower](https://luapower.com/) - Deploying and sharing Lua modules with a unique philosophy.
-*   [single\_file\_libs](https://github.com/nothings/single_file_libs) - Many small PD libraries for programmers to use.
+*   [single\_file\_libs (⭐7.6k)](https://github.com/nothings/single_file_libs) - Many small PD libraries for programmers to use.
 *   [SQLite](https://sqlite.org/copyright.html) - Embedded SQL database engine.
 *   [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software on Wikipedia.
 *   [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - Command line program to download videos from YouTube and other video sites.

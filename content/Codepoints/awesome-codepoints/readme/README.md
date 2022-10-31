@@ -240,7 +240,7 @@ For plain-text gaming, Unicode is well equipped with several complete sets:
 
 ## Other Lists of Code Points
 
-*   [Cross-platform terminal characters](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
+*   [Cross-platform terminal characters (⭐188)](https://github.com/ehmicky/cross-platform-terminal-characters) - a list of characters that work on most terminals.
 
 ## Contributing Your Code Points
 
@@ -251,7 +251,7 @@ See [the contribution guide](https://github.com/Codepoints/awesome-codepoints/bl
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [the
-contributors](https://github.com/Codepoints/awesome-codepoints/graphs/contributors)
+contributors (⭐722)](https://github.com/Codepoints/awesome-codepoints/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See
 [the license file](https://github.com/Codepoints/awesome-codepoints/blob/master/README.md/LICENSE) for details.
 

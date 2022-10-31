@@ -41,19 +41,19 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 *   [Nginx Configuration Primer](https://blog.martinfjordvald.com/nginx-primer/)
 *   [Nginx Primer 2: From Apache to Nginx](https://blog.martinfjordvald.com/nginx-primer-2-from-apache-to-nginx/)
 *   [Understanding the Nginx Configuration Inheritance Model](https://blog.martinfjordvald.com/understanding-the-nginx-configuration-inheritance-model/)
-*   [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx)
-*   [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate)
+*   [Nginx HTTP server boilerplate configs (⭐10k)](https://github.com/h5bp/server-configs-nginx)
+*   [Nginx Boilerplate - Configuration template and a set of handy must-have snippets (⭐2.4k)](https://github.com/nginx-boilerplate/nginx-boilerplate)
 *   [How to Configure OCSP Stapling in Apache and Nginx](https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx)
 *   [NGINX Config - Online nginx configuration generator](https://www.digitalocean.com/community/tools/nginx)
 *   [Nice nginx features for developers](https://alex.dzyoba.com/blog/nginx-features-for-developers/)
 *   [Nice nginx features for operators](https://alex.dzyoba.com/blog/nginx-features-for-operators/)
 *   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
-*   [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy)
+*   [Gixy - Nginx configuration static analyzer (⭐7.5k)](https://github.com/yandex/gixy)
 
 ## Tutorials
 
 *   [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
-*   [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials))
+*   [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source (⭐2.8k)](https://github.com/openresty/nginx-tutorials))
 *   [Introduction to nginx.conf scripting](https://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
 *   [Load Balancing with NGINX and NGINX Plus](https://www.nginx.com/blog/load-balancing-with-nginx-plus/) ([Part 2](https://www.nginx.com/blog/load-balancing-with-nginx-plus-part-2/))
 *   [Optimizing Nginx for High Traffic Loads](https://blog.martinfjordvald.com/optimizing-nginx-for-high-traffic-loads/)
@@ -89,7 +89,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 *   [Log rotation directly within Nginx configuration file](https://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/)
 *   [Realtime pixel tracking with Nginx, syslog-ng, and Redis](https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html)
 *   [Dynamic log formats in Nginx](https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html)
-*   [Capture and delay unwanted requests](https://github.com/p0pr0ck5/lua-resty-tarpit)
+*   [Capture and delay unwanted requests (⭐26)](https://github.com/p0pr0ck5/lua-resty-tarpit)
 *   [Nginx: a caching, thumbnailing, reverse proxying image server?](https://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
 
 ## Tips
@@ -108,27 +108,27 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 *   [Nginx and Lua](https://web.archive.org/web/20141223070856/http://devblog.mixlr.com/2012/09/01/nginx-lua/)
 *   [Writing an Nginx authentication module in Lua](https://www.stavros.io/posts/writing-an-nginx-authentication-module-in-lua/)
 *   [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
-*   [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/pirogoeth/lsso)
+*   [LSSO - Lua + Nginx SSO System with an OAuth Backend (⭐42)](https://github.com/pirogoeth/lsso)
 *   [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
-*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua)
+*   [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu. (⭐91)](https://github.com/fabiocicerchia/nginx-lua)
 
 ## OpenResty
 
 *   [OpenResty - Fast web app server by extending Nginx](https://openresty.org/en/)
 *   [Lapis - A web framework for Lua or MoonScript powered by OpenResty](https://leafo.net/lapis/)
 *   [Nginx image processing server with OpenResty and Lua](https://leafo.net/posts/creating_an_image_server.html)
-*   [Building an OpenResty events server](https://github.com/cagerton/dropthat/)
-*   [SysAdvent 2014 - OpenResty, Nginx and Lua](https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source](https://github.com/lusis/sysadvent-2014))
+*   [Building an OpenResty events server (⭐65)](https://github.com/cagerton/dropthat/)
+*   [SysAdvent 2014 - OpenResty, Nginx and Lua](https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source (⭐9)](https://github.com/lusis/sysadvent-2014))
 *   [OpenResty (Nginx) with dynamically generated certificates](https://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 *   [Ceryx - A dynamic reverse proxy](https://ide.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 *   [An Introduction To OpenResty](https://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 *   [Programming OpenResty (written by the OpenResty creator)](https://openresty.gitbooks.io/programming-openresty/content/)
-*   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx)
+*   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards (⭐5.8k)](https://github.com/alexazhou/VeryNginx)
 
 ## Tengine
 
 *   [Tengine Web Server](https://tengine.taobao.org)
-*   [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54)
+*   [Difference between OpenResty and Tengine (⭐11k)](https://github.com/openresty/openresty/issues/54)
 
 ## Talks
 

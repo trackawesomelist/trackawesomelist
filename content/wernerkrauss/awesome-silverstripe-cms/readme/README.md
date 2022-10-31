@@ -70,7 +70,7 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 *   [Using the CMS](http://userhelp.silverstripe.org/) - Documentation for end users how to use the core features.
 *   [Silverstripe Lessons](https://www.silverstripe.org/learn/lessons/) - Learn how to build a Silverstripe site step by step with a real-world project.
 *   [Font reference](https://silverstripe-fonts.dorset-digital.net/) - Built in icon font for backend usage.
-*   [TinyMCE Configuration Examples For SS3](https://github.com/jonom/silverstripe-tinytidy) - Configuration examples for the HTMLEditorField.
+*   [TinyMCE Configuration Examples For SS3 (⭐30)](https://github.com/jonom/silverstripe-tinytidy) - Configuration examples for the HTMLEditorField.
 
 ### Blogs
 
@@ -105,48 +105,48 @@ Outdated items can be found in the [archive](https://github.com/wernerkrauss/awe
 
 ### General Modules
 
-*   [Multiuser editing alert](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) -  Alerts users in the Silverstripe CMS when multiple people are editing the same page.
+*   [Multiuser editing alert (⭐15)](https://github.com/silverstripe/silverstripe-multiuser-editing-alert) -  Alerts users in the Silverstripe CMS when multiple people are editing the same page.
 
 ### I18N (Internationalisation)
 
-*   [Fluent](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
-*   [Autotranslate](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
+*   [Fluent (⭐93)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
+*   [Autotranslate (⭐4)](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
 
 ### Site Search
 
-*   [Silverstripe Searchable](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
-*   [Searchable DataObjects](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
-*   [Fulltext Search](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
+*   [Silverstripe Searchable (⭐13)](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
+*   [Searchable DataObjects (⭐25)](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
+*   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
 *   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 instance for local development.
-*   [Solr search](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
+*   [Solr search (⭐10)](https://github.com/firesphere/silverstripe-solr-search) - Interface for Solr search, supporting up to the latest Solr version. With submodules for e.g. transitioning from the "Fulltext Search" module, as well as subsite, fluent and others.
 
 ### Development Helpers
 
-*   [Debugbar](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
-*   [IdeAnnotator](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
-*   [Populate](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
-*   [Mock DataObjects](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
-*   [Version Truncator](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
-*   [UserSwitcher](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
-*   [Masquerade](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
+*   [Debugbar (⭐50)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
+*   [IdeAnnotator (⭐42)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
+*   [Populate (⭐22)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
+*   [Mock DataObjects (⭐18)](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
+*   [Version Truncator (⭐36)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
+*   [UserSwitcher (⭐15)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
+*   [Masquerade (⭐14)](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 
 ### Fancy Form Fields
 
-*   [Markdown Field](https://github.com/Silverstripers/markdownfield) -  Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.
-*   [Code Editor Field](https://github.com/nathancox/silverstripe-codeeditorfield) -  Gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML.
+*   [Markdown Field (⭐10)](https://github.com/Silverstripers/markdownfield) -  Can replace your HTMLEditorFields (using TinyMCE) so you can utilise Markdown syntax.
+*   [Code Editor Field (⭐25)](https://github.com/nathancox/silverstripe-codeeditorfield) -  Gives you a syntax-highlighted text area field - great for CMS-based YAML or HTML.
 
 ## Tools
 
 ### Management
 
-*   [SSPak](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
-*   [SSPy](https://github.com/Firesphere/silverstripe-sspy) - Python version of SSPak, that can handle assets more than 2GB.
+*   [SSPak (⭐44)](https://github.com/silverstripe/sspak) - Tool for managing bundles of db/assets from Silverstripe environments.
+*   [SSPy (⭐1)](https://github.com/Firesphere/silverstripe-sspy) - Python version of SSPak, that can handle assets more than 2GB.
 
 ### IDE Plugins
 
 *   [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
 *   [Jetbrains / PHPStorm Silverstripe Template Language Support](https://plugins.jetbrains.com/plugin/17014-silverstripe-template-language-support) - Syntax highlighting for Silverstripe template files.
-*   [PHPStorm / Webstorm Live Templates](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
+*   [PHPStorm / Webstorm Live Templates (⭐3)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
 
 ### Virtualisation
 
@@ -156,9 +156,9 @@ There is no official box like Laravel has its homestead box. However, there are 
 
 *   [Twisted Bytes](https://www.twistedbytes.nl/en/blog/php-vagrant-box/) - Useful vagrant box with multiple PHP versions, MariaDB or PostgreSQL, mail catcher and much more.
 *   [Twisted Bytes Box Templates](https://derkbox.com) - Useful templates for different development scenarios using the Twisted Bytes vagrant box.
-*   [Laravel Homestead](https://github.com/laravel/homestead) - Prepackaged box for local development.
+*   [Laravel Homestead (⭐3.8k)](https://github.com/laravel/homestead) - Prepackaged box for local development.
 *   [Scotchbox](https://box.scotch.io) - Popular LAMP/LEMP stack for local development.
-*   [Zauberfisch Vagrant Boxes](https://github.com/Zauberfisch/vagrant-boxes) -  Preconfigured Vagrant boxes for SS3 and SS4.
+*   [Zauberfisch Vagrant Boxes (⭐6)](https://github.com/Zauberfisch/vagrant-boxes) -  Preconfigured Vagrant boxes for SS3 and SS4.
 
 #### Docker
 

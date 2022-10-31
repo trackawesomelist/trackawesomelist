@@ -20,7 +20,7 @@ We believe that there exist *classic* deep learning papers which are worth readi
 
 ## Background
 
-Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
+Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks (⭐5.9k)](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap (⭐34k)](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
@@ -48,9 +48,9 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 **We need your contributions!**
 
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.
-(Please read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for further instructions, though just letting me know the title of papers can also be a big contribution to us.)
+(Please read the [contributing guide (⭐24k)](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) for further instructions, though just letting me know the title of papers can also be a big contribution to us.)
 
-(Update) You can download all top-100 papers with [this](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py) and collect all authors' names with [this](https://github.com/terryum/awesome-deep-learning-papers/blob/master/get_authors.py). Also, [bib file](https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib) for all top-100 papers are available. Thanks, doodhwala, [Sven](https://github.com/sunshinemyson) and [grepinsight](https://github.com/grepinsight)!
+(Update) You can download all top-100 papers with [this (⭐24k)](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py) and collect all authors' names with [this (⭐24k)](https://github.com/terryum/awesome-deep-learning-papers/blob/master/get_authors.py). Also, [bib file (⭐24k)](https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib) for all top-100 papers are available. Thanks, doodhwala, [Sven](https://github.com/sunshinemyson) and [grepinsight](https://github.com/grepinsight)!
 
 *   Can anyone contribute the code for obtaining the statistics of the authors of Top-100 papers?
 
@@ -302,7 +302,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 *   CS231n, Convolutional Neural Networks for Visual Recognition, Stanford University [\[web\]](http://cs231n.stanford.edu/)
 *   CS224d, Deep Learning for Natural Language Processing, Stanford University [\[web\]](http://cs224d.stanford.edu/)
-*   Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [\[web\]](https://github.com/oxford-cs-deepnlp-2017/lectures)
+*   Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [\[web\] (⭐15k)](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 *(Tutorials)*
 
@@ -408,7 +408,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ## Acknowledgement
 
-Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.
+Thank you for all your contributions. Please make sure to read the [contributing guide (⭐24k)](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.
 
 ## License
 

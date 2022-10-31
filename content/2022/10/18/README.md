@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -113,6 +113,12 @@
 ### JSON
 
 *   [Glaze (⭐272)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
+
+## [14. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### Swift / React.js
+
+*   [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
 
 ---
 

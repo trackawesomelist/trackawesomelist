@@ -12,7 +12,7 @@ A curated list of awesome TypeDB frameworks libraries, software and resources.
 
 > A curated list of awesome TypeDB resources.
 
-[TypeDB](https://github.com/vaticle/typedb) is a strongly-typed database with a rich and logical type system built by [Vaticle](https://vaticle.com). TypeDB empowers you to tackle complex problems using TypeQL, TypeDB's very own query language.
+[TypeDB (⭐3.2k)](https://github.com/vaticle/typedb) is a strongly-typed database with a rich and logical type system built by [Vaticle](https://vaticle.com). TypeDB empowers you to tackle complex problems using TypeQL, TypeDB's very own query language.
 
 ## Contents
 
@@ -86,10 +86,10 @@ A curated list of awesome TypeDB frameworks libraries, software and resources.
 
 List of officially supported drivers to connect with TypeDB Server.
 
-*   [Client Rust](https://github.com/vaticle/typedb-client-rust)
-*   [Client Java](https://github.com/vaticle/typedb-client-java)
-*   [Client Node.js](https://github.com/vaticle/typedb-client-nodejs)
-*   [Client Python](https://github.com/vaticle/typedb-client-python)
+*   [Client Rust (⭐8)](https://github.com/vaticle/typedb-client-rust)
+*   [Client Java (⭐16)](https://github.com/vaticle/typedb-client-java)
+*   [Client Node.js (⭐33)](https://github.com/vaticle/typedb-client-nodejs)
+*   [Client Python (⭐62)](https://github.com/vaticle/typedb-client-python)
 
 ## Client Drivers (community)
 

@@ -48,7 +48,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Reading
 
 *   [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) - Creative Commons book by [Simon Wardley](https://twitter.com/swardley).
-    *   E-book - PDF and Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+    *   E-book - PDF and Kindle [downloads (⭐267)](https://github.com/andrewharmellaw/wardley-maps-book/releases).
     *   Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
     *   [Spanish Translation](http://joapen.com/mapasdewardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
 *   [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
@@ -167,11 +167,11 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Mapping
 
-*   [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐160)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
-*   [Wardley Maps for Jupyter Notebooks (ipywardley)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
+*   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐12)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 *   [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
-*   [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
+*   [Go-Wardley (⭐25)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 *   [Mapkeep](https://mapkeep.com/) - Mapkeep is a place to keep 😉 your Wardley Maps. Create, share, and discuss maps with others. Host your maps for free with unlimited public repositories. For updates, you can follow [@mapkeep](https://twitter.com/mapkeep) on Twitter, subscribe to the [YouTube Channel](https://www.youtube.com/channel/UCgJtBt9DyTrwyMlNdoZJhFQ), or subscribe to the [News and Updates blog](https://mapkeep.substack.com/).
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 *   [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
@@ -179,7 +179,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Doctrine Assessement
 
-*   [Doctrine](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
+*   [Doctrine (⭐44)](https://github.com/cdaniel/doctrine/) - A simple tool for visualising how competitive a company is in light of Wardley's doctrine. Hosted version available [here](https://doctrine.wardleymaps.com/).
 
 ### Commercial Enterprise Platforms
 
@@ -195,9 +195,9 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 *   [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
 *   [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
 *   [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
-*   [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
-*   [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
-*   [yEd Palette](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
+*   [wardley-omnigraffle (⭐18)](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
+*   [Wardley Maps in LaTeX (⭐4)](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) - Figures 8 and 11 from the book by Simon Wardley to demonstrate drawing Wardley maps in LaTeX.
+*   [yEd Palette (⭐11)](https://github.com/colugo/yed-wardley) - Wardley maps palette for yEd.
 *   [Google Slides Mapping Template](https://docs.google.com/presentation/d/11_7D5KAgEUY3FxKg0K2whpwnC4jZOrS_TO2bpD5PV5A/edit#slide=id.g1aa7821e59_2_0) - Template for Google Slides.
 
 ### Doctrine Assessement
@@ -212,8 +212,8 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Workshops
 
-*   [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
-*   [Workshop Building Block - New Year's Eve Party](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
+*   [Wardley Maps Battle Camp (⭐37)](https://github.com/simalexan/battlecamp) - Workshop rules, cards and materials.
+*   [Workshop Building Block - New Year's Eve Party (⭐15)](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) - Help workshop participants gain confidence in mapping in a business-neutral environment.
 
 ## Meetups
 

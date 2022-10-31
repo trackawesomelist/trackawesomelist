@@ -55,31 +55,31 @@
 ## Open source tools
 
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Tiny, web performance monitoring library that reports field data back to your favorite analytics tool.
-*   [Falco](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
+*   [Falco (⭐760)](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
 
 ## Build Tools to set up performance budget
 
-*   [Bundle Size](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
+*   [Bundle Size (⭐4.4k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 *   [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) - If you are using Webpack in your project then you can prefer this.
 *   [Lighthouse](https://web.dev/use-lighthouse-for-performance-budgets/) - How to set up a performance budget using [lighthouse](https://developers.google.com/web/tools/lighthouse) and automate using [Lighthouse bot](https://web.dev/using-lighthouse-bot-to-set-a-performance-budget/).
-*   [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
-*   [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
-*   [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
-*   [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
+*   [Grunt-perfbudget (⭐861)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
+*   [Size Limit (⭐5.5k)](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+*   [Size Plugin (⭐1.7k)](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
+*   [Performance Budget Builder (⭐178)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
+*   [Progressive Web Metrics (⭐1.2k)](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
+*   [rollup-plugin-size-snapshot (⭐159)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
 *   [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
 
 ## Bundle Analyzers
 
 *   [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
-*   [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+*   [webpack-bundle-analyzer (⭐12k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 *   [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
-*   [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
-*   [Rollup Visualizer](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
-*   [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
-*   [CSS Analyzer](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
+*   [lasso-analyzer (⭐3)](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
+*   [Rollup Visualizer (⭐1k)](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
+*   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
+*   [CSS Analyzer (⭐671)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
 ## Website Analyzers
 

@@ -16,11 +16,11 @@ Feel free to send a PR :)
 
 # Brothers
 
-[free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[free for dev (⭐61k)](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
+[free-for-dev-zh (⭐945)](https://github.com/qinghuaiorg/free-for-dev-zh) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
 
-[awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 # Contents
 
@@ -38,70 +38,70 @@ Feel free to send a PR :)
 
 ## Source Code Repos
 
-*   [Gogs](https://github.com/gogits/gogs)  - A painless self-hosted Git Service
-*   [GitLab](https://github.com/gitlabhq/gitlabhq) - Version control for your server
-*   [Package Drone](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
+*   [Gogs (⭐41k)](https://github.com/gogits/gogs)  - A painless self-hosted Git Service
+*   [GitLab (⭐23k)](https://github.com/gitlabhq/gitlabhq) - Version control for your server
+*   [Package Drone (⭐67)](https://github.com/eclipse/packagedrone) - A package manager repository for OSGi, Java and more
 
 ## IDE
 
-*   [Atom](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
-*   [Visual Studio Code](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+*   [Atom (⭐59k)](https://github.com/atom/atom) - Opensource,fully-featured,hackable text editor for coding.
+*   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 *   [VsCodium](https://vscodium.com/) - Fully FOSS alternative to vscode
-*   [Coding WebIDE](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
-*   [CodeBox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
-*   [Brackets](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
+*   [Coding WebIDE (⭐1.7k)](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
+*   [CodeBox (⭐4.1k)](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
+*   [Brackets (⭐34k)](https://github.com/adobe/brackets) -  A modern and open-source code editor for HTML, CSS and JavaScript.
 
 ## Collaboration Tools
 
 *   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...).
-*   [SparkleShare](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
-*   [ssh chat](https://github.com/shazow/ssh-chat) - Chat over SSH
-*   [lets chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+*   [SparkleShare (⭐4.8k)](https://github.com/hbons/SparkleShare) - An Open Source collaboration and sharing tool
+*   [ssh chat (⭐4.9k)](https://github.com/shazow/ssh-chat) - Chat over SSH
+*   [lets chat (⭐9.6k)](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 *   [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 
 ## Code Quality
 
-*   [sonarqube](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
+*   [sonarqube (⭐7.2k)](https://github.com/SonarSource/sonarqube) - Put your technical debt under control
 *   [gerrit](https://gerrit.googlesource.com/) - Code Review
 *   [Codecov](https://codecov.io/) - Continuous Code Coverage
 
 ## CI / CD
 
-*   [Jenkins](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
-*   [Travis CI](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
-*   [cucumber](https://github.com/cucumber/cucumber) - Simple, human collaboration
+*   [Jenkins (⭐20k)](https://github.com/jenkinsci/jenkins) - open-source continuous integration server
+*   [Travis CI (⭐8.3k)](https://github.com/travis-ci/travis-ci) - Free continuous integration platform for GitHub projects
+*   [cucumber (⭐3.4k)](https://github.com/cucumber/cucumber) - Simple, human collaboration
 *   [drone.io](https://drone.io) - Open Source CI platform
 *   [Gitlab CI](https://docs.gitlab.com/ee/ci/) - Gitlab Ci
 
 ## Feature management
 
-*   [Unleash](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
+*   [Unleash (⭐6.5k)](https://github.com/Unleash/unleash) - Free open-source feature flag & toggle service. SDKs for all major languages.
 
 ## Security and PKI
 
 *   [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
-*   [OpenXPKI](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
+*   [OpenXPKI (⭐411)](https://github.com/openxpki/openxpki) - an enterprise-grade PKI/Trustcenter software
 
 ## Bug trackers
 
-*   [Bugzilla](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
-*   [Mantis](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
-*   [Trac](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
+*   [Bugzilla (⭐475)](https://github.com/bugzilla/bugzilla) - web-based bug-tracking software
+*   [Mantis (⭐1.4k)](https://github.com/mantisbt/mantisbt) - issue tracker that provides a delicate balance between simplicity and power
+*   [Trac (⭐440)](https://github.com/edgewall/trac) - IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.
 *   [Open Project](https://www.openproject.org) - Project management platform (has features like jira and confluence)
 
 ## Project management
 
-*   [Redmine](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
-*   [Phabricator](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
+*   [Redmine (⭐4.5k)](https://github.com/redmine/redmine) - a flexible project management web application written using Ruby on Rails
+*   [Phabricator (⭐12k)](https://github.com/phacility/phabricator) - an open source collection of web applications which help software companies build better software
 *   [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
-*   [OpenShift](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
+*   [OpenShift (⭐8.2k)](https://github.com/openshift/origin) - build, deploy, and manage your applications with Docker and Kubernetes
 
 ## Documentation
 
-*   [Log4brains](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
+*   [Log4brains (⭐630)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
 ## Backend
 

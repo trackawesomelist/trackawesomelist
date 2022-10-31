@@ -34,8 +34,8 @@ The repository contains useful information for everyone who is looking for a tec
 
 ## Where to apply
 
-*   [Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships) - A curated list of 2022 internships.
-*   [2021 New Grad Applications](https://github.com/Pitt-CSC/NewGrad-2021) - A curated list of 2021 new grad roles.
+*   [Summer 2022 Internships (⭐14k)](https://github.com/pittcsc/Summer2022-Internships) - A curated list of 2022 internships.
+*   [2021 New Grad Applications (⭐1.8k)](https://github.com/Pitt-CSC/NewGrad-2021) - A curated list of 2021 new grad roles.
 *   [Relevant levels.fyi internships list](https://www.levels.fyi/internships/) - A collection of intern roles with salaries.
 
 ## How to write CV

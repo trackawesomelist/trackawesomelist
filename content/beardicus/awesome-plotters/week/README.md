@@ -437,10 +437,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [#plottertwitter](https://twitter.com/hashtag/plottertwitter) - Twitter hashtag with lots o' plots.
 
-### Plotter Art For Sale / Ephemera
-
-*   [Customized Streetart](https://www.literalstreetart.com) - Customizable maps with optional pen plotter output.
-
 ## [Feb 25 - Mar 03, 2019](/content/2019/8/README.md)
 
 ### Plotter Art For Sale / Ephemera

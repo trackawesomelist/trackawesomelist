@@ -76,27 +76,11 @@
 
 *   [betterglobekey (⭐5)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [11. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [11. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
 
-### 1 - Agnósticos / Base de Datos
+### JavaScript
 
-*   [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - María José Aramburu Cabo, Ismael Sanz Blasco (PDF)
-
-### Ensamblador / Sistemas Operativos
-
-*   [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A. Carter, `trl.:` Leonardo Rodríguez Mújica (PDF)
-
-### Go / Sistemas Operativos
-
-*   [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/go.pdf), [EPUB](https://raulexposito.com/assets/epub/go.epub))
-
-### Matemáticas / React
-
-*   [Sage para Estudiantes de Pregrado](http://www.sage-para-estudiantes.com) - Gregory Bard, `trl.:` Diego Sejas Viscarra
-
-### NoSQL / Redis
-
-*   [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, PDF, EPUB)
+*   [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
 
 ## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -339,7 +323,7 @@
 
 ### Connector
 
-*   [DBUtility.TDengine (⭐0)](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+)
+*   [DBUtility.TDengine (⭐0)](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+).
 
 ## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 

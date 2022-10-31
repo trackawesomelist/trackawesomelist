@@ -16,7 +16,7 @@ A curated list of delightful Appium resources.
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
 
@@ -35,26 +35,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Server
 
-*   [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
+*   [Appium (⭐16k)](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
 
-*   [Ruby](https://github.com/appium/ruby_lib)
-*   [Python](https://github.com/appium/python-client)
-*   [Java](https://github.com/appium/java-client)
+*   [Ruby (⭐206)](https://github.com/appium/ruby_lib)
+*   [Python (⭐1.4k)](https://github.com/appium/python-client)
+*   [Java (⭐1k)](https://github.com/appium/java-client)
 *   [JavaScript](http://webdriver.io/)
-*   [Objective C](https://github.com/appium/selenium-objective-c)
-*   [PHP](https://github.com/appium/php-client)
-*   [C# (.NET)](https://github.com/appium/appium-dotnet-driver)
-*   [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary)
+*   [Objective C (⭐79)](https://github.com/appium/selenium-objective-c)
+*   [PHP (⭐72)](https://github.com/appium/php-client)
+*   [C# (.NET) (⭐302)](https://github.com/appium/appium-dotnet-driver)
+*   [RobotFramework (⭐321)](https://github.com/jollychang/robotframework-appiumlibrary)
 
 ## Inspectors
 
-*   [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.
-*   [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
+*   [Appium Desktop (⭐4.3k)](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.
+*   [WebDriverAgent Inspector (⭐4k)](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 *   [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
-*   [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector.
-*   [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
+*   [Appium iOS Inspector (⭐143)](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector.
+*   [app-inspector (⭐370)](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
 
 ## Become an Appium Pro
 
@@ -200,16 +200,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Workshops
 
-*   [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison.
+*   [Appium Workshop Selnium Conf 2016 (⭐27)](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison.
 
 ## Cloud and Docker Solutions
 
-*   [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
-*   [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
-*   [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
-*   [Appium Docker Images](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.
-*   [Appium Docker File](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
-*   [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
+*   [Appium Tests in AWS Device Farm (⭐83)](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
+*   [Appium Tests in OpenSTF Device Farm (⭐106)](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
+*   [Official Appium Docker Images (⭐452)](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
+*   [Appium Docker Images (⭐5k)](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.
+*   [Appium Docker File (⭐7)](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
+*   [Appium Docker File (⭐8)](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
 *   [TestingBot](https://testingbot.com) - Cloud based Device Farm, run Appium tests on physical Android and iOS devices.
 
 ## Git Books
@@ -219,12 +219,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Test Frameworks
 
-*   [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
-*   [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
-*   [coteafs-appium](https://github.com/WasiqB/coteafs-appium) - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.
-*   [Optimus](https://github.com/testvagrant/optimusTemplate) - Cucumber based Mobile Automation Framework, which supports test parallelization.
-*   [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
-*   [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
+*   [Appium Cucumber Test (⭐33)](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
+*   [Appium-Native-Crawler (⭐48)](https://github.com/isonic1/Appium-Native-Crawler) - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
+*   [coteafs-appium (⭐135)](https://github.com/WasiqB/coteafs-appium) - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.
+*   [Optimus (⭐67)](https://github.com/testvagrant/optimusTemplate) - Cucumber based Mobile Automation Framework, which supports test parallelization.
+*   [PageObject Pattern Framework (⭐175)](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
+*   [Parallel Framework Java-Client (⭐866)](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
 
 ## Community
 

@@ -15,7 +15,7 @@ A curated list of awesome resources to choose your next color scheme
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of awesome resources to choose your next color scheme.**
-Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/readme.md/contributing.md)** before contributing.
+Inspired by the **[awesome (⭐223k)](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/readme.md/contributing.md)** before contributing.
 
 ## Table of Contents
 
@@ -30,22 +30,22 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 #### Libraries
 
 *   [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-*   [pigment](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
-*   [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+*   [pigment (⭐9)](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
+*   [GradStop.js (⭐153)](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 *   [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 *   [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-*   [Coloor](https://github.com/krasimir/coloor) - Image preloading utility.
-*   [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-*   [Colofilter.css](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
-*   [Polychrome](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-*   [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Coloor (⭐332)](https://github.com/krasimir/coloor) - Image preloading utility.
+*   [Color Thief (⭐11k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
+*   [Colorify.js (⭐811)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colofilter.css (⭐622)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+*   [Polychrome (⭐290)](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+*   [Palettable (⭐646)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 *   [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
-*   [granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
-*   [tinygradient](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
-*   [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
-*   [Distinct Colors](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
-*   [color2k](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [granim.js (⭐5.1k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
+*   [tinygradient (⭐172)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
+*   [TinyColor (⭐4.4k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [Distinct Colors (⭐110)](https://github.com/internalfx/distinct-colors) - Generate a palette of visually distinct colors.
+*   [color2k (⭐482)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 #### Web App
 
@@ -59,7 +59,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 *   [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
 *   [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
 *   [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-*   [SassMe](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
+*   [SassMe (⭐56)](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 *   [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
 *   [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 *   [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
@@ -110,7 +110,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 *   [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 *   [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 *   [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/\~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-*   [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐1.7k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## Articles
 

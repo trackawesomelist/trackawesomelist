@@ -143,8 +143,8 @@ If you like these building blocks, check out [componently.com](https://www.compo
 *   [CCM19](https://www.ccm19.de/) - German cookie consent manager.
 *   [CookieInformation](https://cookieinformation.com/) - Focus on compliance reporting via a dashboard.
 *   [CookiePro](https://www.cookiepro.com/) - Cookie management as part of a privacy management solution.
-*   [React Cookie Consent](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
-*   [React Cookie Banner](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
+*   [React Cookie Consent (⭐459)](https://github.com/Mastermindzh/react-cookie-consent) - A small and customizable cookie consent bar for React applications.
+*   [React Cookie Banner (⭐181)](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
 
 ## Media
 
@@ -182,7 +182,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 ## Search
 
 *   [Algolia](https://www.algolia.com/) - Search for your application.
-*   [Search UI](https://github.com/elastic/search-ui) - UI integration for ElastiSearch.
+*   [Search UI (⭐1.7k)](https://github.com/elastic/search-ui) - UI integration for ElastiSearch.
 
 ## Feature flags
 
@@ -198,7 +198,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 
 ## Related awesome-lists
 
-*   [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
-*   [Microservices](https://github.com/mfornos/awesome-microservices)
-*   [Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends)
+*   [Web Components (⭐1.9k)](https://github.com/mateusortiz/webcomponents-the-right-way)
+*   [Microservices (⭐11k)](https://github.com/mfornos/awesome-microservices)
+*   [Micro Frontends (⭐509)](https://github.com/ChristianUlbrich/awesome-microfrontends)
 

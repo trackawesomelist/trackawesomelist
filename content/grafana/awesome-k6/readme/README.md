@@ -41,7 +41,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Articles
 
-*   [k6 Learn](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
+*   [k6 Learn (⭐55)](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
 
 *   [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 
@@ -105,36 +105,36 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Reference Projects
 
-*   [k6-circleci-example](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
-*   [k6-jenkins-example](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
-*   [k6-github-actions-example](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
-*   [k6-azure-pipelines-example](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
-*   [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
-*   [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
-*   [k6-template-es6](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
-*   [k6 templates](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
-*   [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
-*   [example-data-generation](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
-*   [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
-*   [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-*   [k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
-*   [docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+*   [k6-circleci-example (⭐5)](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
+*   [k6-jenkins-example (⭐7)](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
+*   [k6-github-actions-example (⭐21)](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
+*   [k6-azure-pipelines-example (⭐13)](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
+*   [k6-bitbucket-pipelines-example (⭐0)](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
+*   [k6-performance-test-websocket (⭐3)](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
+*   [k6-template-es6 (⭐50)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
+*   [k6 templates (⭐14)](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+*   [k6-typescript-template (⭐142)](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
+*   [example-data-generation (⭐29)](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
+*   [bounded-disturbances (⭐41)](https://github.com/bjartwolf/bounded-disturbances) - A .NET Chaos Engineering workshop. Using Simmy and k6.
+*   [continuous-k6k8s (⭐12)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+*   [k6-multiscenario-template (⭐34)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+*   [docker-k6-grafana-influxdb (⭐79)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ## Tools
 
-*   [k6-to-junit](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
-*   [k6-reporter](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
-*   [k6-html-reporter](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
-*   [har-to-k6](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
-*   [postman-to-k6](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
-*   [k6 generator](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
-*   [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
+*   [k6-to-junit (⭐15)](https://github.com/Mattihew/k6-to-junit) - Tool for converting k6 output to JUnit XML for easy use with CIs.
+*   [k6-reporter (⭐155)](https://github.com/benc-uk/k6-reporter) - Tool for converting k6 output to HTML reports.
+*   [k6-html-reporter (⭐17)](https://github.com/szboynono/k6-html-reporter) - Tool for generating k6 HTML reports.
+*   [har-to-k6 (⭐62)](https://github.com/grafana/har-to-k6) - Tool for converting HAR recordings to k6 test scripts.
+*   [postman-to-k6 (⭐267)](https://github.com/grafana/postman-to-k6) - Tool for converting Postman collections to k6 test scripts.
+*   [k6 generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+*   [jmeter-to-k6 (⭐57)](https://github.com/grafana/jmeter-to-k6) - Tool for converting JMeter test cases to k6 test scripts.
 *   [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 *   [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6\&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 *   [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
 *   [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
-*   [k6-junit](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
-*   [k6-expect](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
+*   [k6-junit (⭐6)](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
+*   [k6-expect (⭐1)](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
 ## CI
 
@@ -148,7 +148,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ## Stacks
 
-*   [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
+*   [CloudPosse's Load Testing Stack (⭐50)](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 *   [Real-time stress:
     AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians adding "real-time stress" with k6 and WebSockets.
 *   [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood on load testing a Kubernetes system with k6.

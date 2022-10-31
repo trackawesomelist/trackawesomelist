@@ -87,7 +87,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 *   [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv) - Play with Flexbox examples on CodePen.
 *   [Flexbox Defense](http://www.flexboxdefense.com) - A tower defense game in the browser to learn about Flexbox with fun.
 *   [Flexbox Froggy](https://flexboxfroggy.com) - Learn all the basics of Flexbox with a fun game involving frogs and lily pads.
-*   [Flexbugs](https://github.com/philipwalton/flexbugs) - Community-curated list of flexbox issues and cross-browser workarounds for them.
+*   [Flexbugs (⭐13k)](https://github.com/philipwalton/flexbugs) - Community-curated list of flexbox issues and cross-browser workarounds for them.
 *   [Flexbox Zombies](https://flexboxzombies.com) - A training course driven by a storyline where you use Flexbox and a crossbow to hunt zombies.
 *   [What the Flexbox?](https://flexbox.io/) - A simple, free 20 video course that will help you master CSS Flexbox!
 
@@ -97,7 +97,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 *   [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid, this site also has additional useful learning resources.
 *   [Designing with Grid](https://talks.jensimmons.com/J5VRbA/designing-with-grid) - Talk about the new layout possibilities CSS Grid is offering.
 *   [Grid Garden](https://cssgridgarden.com) - Lovely game where you write CSS code to grow your carrot garden.
-*   [GridBugs](https://github.com/rachelandrew/gridbugs) - Community-curated list of Grid interop issues and workarounds for them.
+*   [GridBugs (⭐1.2k)](https://github.com/rachelandrew/gridbugs) - Community-curated list of Grid interop issues and workarounds for them.
 *   [Grid Critters](https://www.gridcritters.com) - Learn CSS grid layout by mastering an adventure game.
 *   [CSS Grid](https://cssgrid.io) - Learn CSS grid with Wes Bos - Free 4 hours video course, 25 Videos.
 
@@ -113,5 +113,5 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## Related
 
-[Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
+[Awesome JavaScript Learning (⭐4.2k)](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
 

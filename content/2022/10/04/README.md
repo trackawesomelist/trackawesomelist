@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 04, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -289,13 +289,28 @@
 
 *   [Orbis Tertius](https://www.glkitty.com/pages/orbistertius.html) - An immersive digital installation with plotter output of Martian topography.
 
-## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [9. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### C++
+
+*   [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
+
+### JavaScript
+
+*   [Full Stack Radio](https://fullstackradio.com) - Adam Wathan (podcast)
+*   [HTTP203](https://developers.google.com/web/shows/http203/podcast) - Surma, Jake (podcast)
+*   [Purrfect.dev](https://anchor.fm/purrfect-dev) - Developers (podcast)
+*   [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)
+*   [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
+*   [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
+
+## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Twitter
 
 *   [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 
-## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Blogging platforms (Medium)
 
@@ -314,25 +329,25 @@
 *   [Kbin (⭐52)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 *   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 
-## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### App Store
 
 *   [AppReview (⭐18)](https://github.com/mezhevikin/AppReview) - A tiny library to request review on the AppStore via SKStoreReviewController.
 
-## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Note taking / Diagnostics
 
 *   [jghauser/papis.nvim (⭐54)](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 
-## [13. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [14. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Principles
 
 *   [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - Lend to developing software with considerations for maintaining and extending as the project grows
 
-## [14. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Hosting:
 

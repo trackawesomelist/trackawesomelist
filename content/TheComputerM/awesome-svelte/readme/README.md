@@ -71,8 +71,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo](https://github.com/sveltejs/svelte)
-*   [Changelog](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
+*   [GitHub Repo (⭐63k)](https://github.com/sveltejs/svelte)
+*   [Changelog (⭐63k)](https://github.com/sveltejs/svelte/blob/master/CHANGELOG.md)
 
 ### Community
 
@@ -115,21 +115,21 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *Studies and research on the Svelte framework.*
 
 *   [SvelteScaling](https://svelte-scaling.acmion.com/) - Does Svelte Scale?
-*   [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
+*   [Will it Scale? (⭐154)](https://github.com/halfnelson/svelte-it-will-scale) - Finding Svelte's inflection point.
 *   [JavaScript Frameworks Performance Comparison](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce) - Performance of Svelte and other top javascript frameworks.
 
 ## Integrations
 
 ### Preprocessing
 
-*   [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
-*   [MDSveX](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
-*   [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
-*   [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) - Preprocessor for less.
-*   [modular-css](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
-*   [svelte-preprocess-postcss](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
-*   [svelte-preprocess-sass](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
-*   [svelte-switch-case](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
+*   [svelte-preprocess (⭐1.4k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+*   [MDSveX (⭐1.5k)](https://github.com/pngwn/MDsveX) - Preprocessor for MDX markdown.
+*   [svelte-preprocess-markdown (⭐123)](https://github.com/AlexxNB/svelte-preprocess-markdown) - Write Svelte components in markdown syntax.
+*   [svelte-preprocess-less (⭐13)](https://github.com/ls-age/svelte-preprocess-less) - Preprocessor for less.
+*   [modular-css (⭐260)](https://github.com/tivac/modular-css/tree/main/packages/svelte) - Preprocessor support for modular-css.
+*   [svelte-preprocess-postcss (⭐24)](https://github.com/TehShrike/svelte-preprocess-postcss) - Use PostCSS to preprocess your styles in Svelte components.
+*   [svelte-preprocess-sass (⭐90)](https://github.com/ls-age/svelte-preprocess-sass) - Preprocessor for sass.
+*   [svelte-switch-case (⭐78)](https://github.com/l-portet/svelte-switch-case) - Switch case syntax for Svelte.
 
 ### Mobile
 
@@ -141,14 +141,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## UI Libraries
 
-*   [AgnosticUI](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
-*   [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
-*   [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
-*   [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
-*   [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
-*   [attractions](https://github.com/illright/attractions) - A pretty cool and modern UI kit
-*   [svelte-chota](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
-*   [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [AgnosticUI (⭐515)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+*   [Sveltestrap (⭐1.1k)](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components.
+*   [Smelte (⭐1.4k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS.
+*   [Svelte Material UI (⭐2.7k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
+*   [carbon-components-svelte (⭐1.8k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
+*   [attractions (⭐730)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [svelte-chota (⭐274)](https://github.com/AlexxNB/svelte-chota) - Component library built with Chota, a super light-weight CSS framework
+*   [ionic-svelte (⭐327)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 *   [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 
 ## UI Components
@@ -157,47 +157,47 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Tables and data grids.*
 
-*   [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
-*   [svelte-table](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
-*   [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
-*   [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
+*   [svelte-simple-datatables (⭐208)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
+*   [svelte-table (⭐360)](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
+*   [svelte-generic-crud-table (⭐42)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+*   [svelte-generic-table-pager (⭐4)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
 ### Notification
 
 *Toaster / snackbar - Notify the user with a modeless temporary little popup.*
 
-*   [svelte-notifications](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
-*   [svelte-favicon-badge](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
-*   [@zerodevx/svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
-*   [svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-notifications (⭐287)](https://github.com/beyonk-adventures/svelte-notifications) - Toast notifications component that can be used in any JS application.
+*   [svelte-favicon-badge (⭐93)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
+*   [@zerodevx/svelte-toast (⭐413)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+*   [svelte-french-toast (⭐161)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ### Grid
 
-*   [svelte-grid-responsive](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
-*   [svelte-flex](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
+*   [svelte-grid-responsive (⭐43)](https://github.com/andrelmlins/svelte-grid-responsive) - Bootstrap-inspired responsive grid system.
+*   [svelte-flex (⭐67)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
 
 ### Icons
 
-*   [svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
-*   [svelte-simple-icons](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
-*   [svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
-*   [svelte-icons](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
-*   [svelte-heroicons](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
-*   [svelte-icomoon](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
-*   [svelte-unicons](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
+*   [svelte-fa (⭐252)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component.
+*   [svelte-simple-icons (⭐13)](https://github.com/beyonk-adventures/svelte-simple-icons) - Simple Icons component.
+*   [svelte-awesome (⭐327)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
+*   [svelte-icons (⭐201)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
+*   [svelte-heroicons (⭐6)](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
+*   [svelte-icomoon (⭐3)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
+*   [svelte-unicons (⭐1)](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 
 ### Calendar
 
 *Display non-editable events in a calendar.*
 
-*   [svelte-fullcalendar](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
-*   [svelte-calendar](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+*   [svelte-fullcalendar (⭐146)](https://github.com/YogliB/svelte-fullcalendar) - A component wrapper around FullCalendar.
+*   [svelte-calendar (⭐468)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 ### Maps
 
-*   [svelte-googlemaps](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
-*   [svelte-mapbox](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
-*   [leaflet-svelte](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
+*   [svelte-googlemaps (⭐58)](https://github.com/beyonk-adventures/svelte-googlemaps) - Google Maps component.
+*   [svelte-mapbox (⭐240)](https://github.com/beyonk-adventures/svelte-mapbox) - MapBox map and autocomplete components.
+*   [leaflet-svelte (⭐49)](https://github.com/anoram/leaflet-svelte) - Svelte wrapper for Leaflet.
 
 ### Form
 
@@ -207,72 +207,72 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Switch / on/off toggle / checkbox.*
 
-*   [svelte-checkbox](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
-*   [svelte-toggle](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
+*   [svelte-checkbox (⭐72)](https://github.com/HosseinShabani/svelte-checkbox) - A checkbox component (cool animation, customizable).
+*   [svelte-toggle (⭐19)](https://github.com/beyonk-adventures/svelte-toggle) - Basic toggle component with styling.
 
 ### Charts
 
-*   [svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
+*   [svelte-frappe-charts (⭐225)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 
 ### Miscellaneous
 
-*   [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
-*   [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
+*   [svelte-tree-viewer (⭐13)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
+*   [svelte-copyright (⭐10)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 
 ## Scaffold
 
 *Templates / boilerplate / starter kits / stack ensemble / Yeoman generator.*
 
-*   [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
-*   [create-svelte](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
-*   [component-template](https://github.com/sveltejs/component-template) - A base for building shareable components.
-*   [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
+*   [create-vite (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/create-vite#readme) - Generates scaffold for a vite + svelte app.
+*   [create-svelte (⭐11k)](https://github.com/sveltejs/kit/tree/master/packages/create-svelte#readme) - A CLI for creating a new SvelteKit project.
+*   [component-template (⭐516)](https://github.com/sveltejs/component-template) - A base for building shareable components.
+*   [svelte-pwa-template (⭐187)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template.
 
 ## Utilities
 
 ### Animations
 
 *   [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
-*   [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+*   [svelte-typewriter (⭐201)](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
 
 ### Form
 
-*   [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
+*   [svelte-forms-lib (⭐525)](https://github.com/tjinauyeung/svelte-forms-lib) - A lightweight library for managing forms.
 *   [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
-*   [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
-*   [svelte-formly](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
+*   [vest (⭐2k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+*   [svelte-formly (⭐209)](https://github.com/arabdevelop/svelte-formly) - A good solution to generate and control a dynamic forms using core and custom rules with customize styles.
 
 ### WebGL
 
-*   [svelthree](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
+*   [svelthree (⭐373)](https://github.com/vatro/svelthree) - Component library for declarative construction of reactive and reusable three.js scene graphs.
 
 ### Portal
 
-*   [svelte-portal](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
-*   [svelte-teleport](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
+*   [svelte-portal (⭐262)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-teleport (⭐21)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
 ### Fonts
 
-*   [svelte-web-fonts/google](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
+*   [svelte-web-fonts/google (⭐13)](https://github.com/svelte-web-fonts/google) - Tiny component for easily loading Fonts via the Google Fonts API including autocompletion.
 
 ### Internationalisation
 
-*   [svelte-fluent](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
-*   [svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
-*   [sveltekit-i18n](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
-*   [@tolgee/svelte](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+*   [svelte-fluent (⭐46)](https://github.com/nubolab-ffwd/svelte-fluent) - Components for easy integration of [Fluent](https://projectfluent.org/) localization.
+*   [svelte-i18n (⭐816)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
+*   [sveltekit-i18n (⭐169)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
+*   [@tolgee/svelte (⭐166)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 
 ## Routers
 
 *For Single Page Applications (SPAs) and more.*
 
-*   [svelte-router-spa](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
-*   [svelte-routing](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
-*   [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
-*   [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
-*   [@danielsharkov/svelte-router](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
-*   [@shaun/svelterouter](https://github.com/shaunlee/svelterouter) - Another vue-router inspired Svelte router.
+*   [svelte-router-spa (⭐438)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-routing (⭐1.7k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
+*   [tinro (⭐638)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [svelte-spa-router (⭐1.2k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
+*   [svelte-client-router (⭐13)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
+*   [@danielsharkov/svelte-router (⭐7)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
+*   [@shaun/svelterouter (⭐1)](https://github.com/shaunlee/svelterouter) - Another vue-router inspired Svelte router.
 
 ## Frameworks
 
@@ -287,24 +287,24 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Lint and format your code.*
 
-*   [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
-*   [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
+*   [eslint-plugin-svelte3 (⭐339)](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for components.
+*   [prettier-plugin-svelte (⭐498)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 *   [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
-*   [eslint-plugin-svelte](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐52)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ### Docs
 
 *Create documentation.*
 
-*   [svelte-docs](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components.
-*   [sveltedoc-parser](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
-*   [svelte-docster](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
+*   [svelte-docs (⭐159)](https://github.com/AlexxNB/svelte-docs) - A rapid way to write documentation for your Svelte components.
+*   [sveltedoc-parser (⭐80)](https://github.com/alexprey/sveltedoc-parser) - Generate a JSON documentation for your component.
+*   [svelte-docster (⭐7)](https://github.com/TheComputerM/svelte-docster) - Generate metadata about your Svelte files from jsdoc.
 
 ### Test
 
-*   [svelte-jester](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
-*   [@testing-library/svelte](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
-*   [jest-transform-svelte](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
+*   [svelte-jester (⭐119)](https://github.com/mihar-22/svelte-jester) - A Jest transformer to compile your components before importing them into tests.
+*   [@testing-library/svelte (⭐523)](https://github.com/testing-library/svelte-testing-library) - Simple and complete Svelte DOM testing utilities that encourage good testing practices.
+*   [jest-transform-svelte (⭐36)](https://github.com/rspieker/jest-transform-svelte) - Jest Transformer for Svelte components.
 
 ### Editors
 
@@ -326,9 +326,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 #### Vim
 
-*   [vim-svelte](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
-*   [vim-svelte-plugin](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
-*   [coc-svelte](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
+*   [vim-svelte (⭐255)](https://github.com/evanleck/vim-svelte) - Vim syntax highlighting and indentation for Svelte 3 components.
+*   [vim-svelte-plugin (⭐101)](https://github.com/leafOfTree/vim-svelte-plugin) - Syntax highlighting and support for Vim.
+*   [coc-svelte (⭐152)](https://github.com/coc-extensions/coc-svelte) - Syntax highlighting and support for (Neo)Vim.
 
 #### JetBrains
 

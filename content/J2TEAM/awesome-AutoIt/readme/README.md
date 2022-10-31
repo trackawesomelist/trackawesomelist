@@ -17,7 +17,7 @@
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
-Created by [Juno\_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Created by [Juno\_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table Of Contents
 
@@ -76,9 +76,9 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 *   [SAPWizard (by ozmike)](https://www.autoitscript.com/forum/index.php?showtopic=149540) - SAPWizard UDF.
 *   [Service (by arcker)](https://www.autoitscript.com/forum/index.php?showtopic=80201) - Build your own service with AutoIt code.
 *   [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
-*   [AutoItMonkey](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
+*   [AutoItMonkey (⭐16)](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
 *   [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge](https://github.com/lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
-*   [3270 (by Worlor)](https://github.com/Worlor/AutoIt-3270) - Library for automate a 3270 terminal with AutoIT
+*   [3270 (by Worlor) (⭐2)](https://github.com/Worlor/AutoIt-3270) - Library for automate a 3270 terminal with AutoIT
 
 #### Browsers
 
@@ -314,7 +314,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 *   [Gmail (by PhoenixXL)](https://www.autoitscript.com/forum/index.php?showtopic=141340) - Remote Gmail (UDF).
 *   [Google Functions (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=98504) - Google Functions (Suggestions, Definitions, Translate, Convert).
 *   [Google Maps (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=115437) - Google Maps UDF.
-*   [Imgur](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
+*   [Imgur (⭐18)](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
 *   [iTunes (by torels)](https://www.autoitscript.com/forum/index.php?showtopic=70675) - iTunes UDF.
 *   [iTunes (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=101802) - Another iTunes UDF.
 *   [No-IP (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=150985) - With this UDF you can simply update your no-ip hostname(s) and retrive the ip address of an no-ip address.
@@ -363,7 +363,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 *   [Copy (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=121833) - Copy or move files and directories without suspending your script. Retrieve the current state (copied bytes, error code etc.) while copying.
 *   [DDEML (by doudou)](https://www.autoitscript.com/forum/index.php?showtopic=55994) - With DDEML UDF one can use an AutoIt script as a DDE client or server.
 *   [\_DLLStructDisplay (by Ascend4nt)](https://www.autoitscript.com/forum/index.php?showtopic=99106) - Show Struct in ListView.
-*   [Experimental Maps UDF (by TheDcoder)](https://github.com/TheDcoder/Experimental-Maps-UDF) - UDF for the new Map datatype in AutoIt, similar to the Array UDF included in standard UDFs.
+*   [Experimental Maps UDF (by TheDcoder) (⭐3)](https://github.com/TheDcoder/Experimental-Maps-UDF) - UDF for the new Map datatype in AutoIt, similar to the Array UDF included in standard UDFs.
 *   [FASM (by Ward)](https://www.autoitscript.com/forum/index.php?showtopic=111613) - The Embedded Flat Assembler (FASM) UDF.
 *   [\_FileGetMimeType (by Wiliat87)](https://www.autoitscript.com/forum/index.php?showtopic=157689) - \_FileGetMimeType UDF.
 *   [File locking with cooperative semaphores (by willichan)](https://www.autoitscript.com/forum/topic/117033-file-locking-with-cooperative-semaphores) - Simple file locking without a server.
@@ -384,10 +384,10 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 *   [Synology filestation (by nend)](https://www.autoitscript.com/forum/index.php?showtopic=164444) - UDF for users of Synology NAS server.
 *   [TVExplorer (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=125251) - TVExplorer UDF.
 *   [SciLexer (by Kip)](https://www.autoitscript.com/forum/index.php?showtopic=51547) - SciLexer UDF.
-*   [AutoItAppveyor (by KyleChamberlin)](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
-*   [Micro Unit Testing Framework (by KyleChamberlin)](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
+*   [AutoItAppveyor (by KyleChamberlin) (⭐0)](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
+*   [Micro Unit Testing Framework (by KyleChamberlin) (⭐5)](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
 *   [TeenyScript (by tarretarretarre)](http://teenyscript.tarre.nu/documentation) - TeenyScript is a Superset of AutoIt which makes it more advanced. TeenyScript code are parsed into native AutoiT code.
-*   [Logger (by Worlor)](https://github.com/Worlor/AutoIt-Logger) - Logger is an all-in-one logging utility really easy to use ! It enable log rotate per day and zip it after x days
+*   [Logger (by Worlor) (⭐1)](https://github.com/Worlor/AutoIt-Logger) - Logger is an all-in-one logging utility really easy to use ! It enable log rotate per day and zip it after x days
 
 ## Tools
 
@@ -452,7 +452,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 *   [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 *   [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 *   [PrismJS](http://prismjs.com/) - Added AutoIt since version 1.1.0
-*   [AutoIt - Visual Studio](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
+*   [AutoIt - Visual Studio (⭐57)](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
 
 ## License
 
@@ -464,15 +464,15 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Other Awesome Lists
 
-*   [awesome](https://github.com/sindresorhus/awesome) by @sindresorhus
-*   [awesome-all](https://github.com/bradoyler/awesome-all) by @bradoyler
-*   [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp
-*   [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs
-*   [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
-*   [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) by @bayandin
-*   [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) by @fleveque
-*   [awesome-collection](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
-*   [lists](https://github.com/jnv/lists) by @jnv
+*   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) by @sindresorhus
+*   [awesome-all (⭐179)](https://github.com/bradoyler/awesome-all) by @bradoyler
+*   [awesome-awesome (⭐2.2k)](https://github.com/emijrp/awesome-awesome) by @emijrp
+*   [awesome-awesome (⭐248)](https://github.com/erichs/awesome-awesome) by @erichs
+*   [awesome-awesome (⭐94)](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
+*   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness) by @bayandin
+*   [awesome-awesomes (⭐558)](https://github.com/fleveque/awesome-awesomes) by @fleveque
+*   [awesome-collection (⭐115)](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
+*   [lists (⭐8.5k)](https://github.com/jnv/lists) by @jnv
 
 \[[Back to Top](#awesome-autoit)]
 

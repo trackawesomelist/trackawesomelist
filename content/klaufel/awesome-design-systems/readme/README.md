@@ -42,7 +42,7 @@ A Design System is an ever evolving collection of reusable components, guided by
 *   [IBM Carbon](https://www.carbondesignsystem.com/) - Carbon is IBM's open-source design system for products and experiences.
 *   [Shopify Polaris](https://polaris.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify's merchants.
 
-See more design systems [here](https://github.com/alexpate/awesome-design-systems)!
+See more design systems [here (⭐15k)](https://github.com/alexpate/awesome-design-systems)!
 
 ### Design systems articles
 
@@ -76,7 +76,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 *   [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
 *   [Penpot](https://penpot.app) - Penpot is the first Open Source design and prototyping platform meant for cross-domain teams.
 
-See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
+See design tools plugins [here (⭐27k)](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
 ### Integrations
 
@@ -97,21 +97,21 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 ## Design tokens
 
-*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here](https://github.com/design-tokens/community-group)!
+*   [Design Tokens W3C Community Group](https://www.w3.org/community/design-tokens/) - View repository on GitHub [here (⭐969)](https://github.com/design-tokens/community-group)!
 *   [DesignTokens.dev](https://www.designtokens.dev/) - Ship your design tokens without managing infrastructure.
 *   [Diez](https://diez.org/) - Free & open-source developer toolkit for expressing visual styles that can be shared across codebases, native platforms, and teams.
 
 ### Plugins
 
-*   [Abstract Connect](https://github.com/MichaelZaporozhets/abstractconnect) - A Design tokens extractor for devs using Abstract & JavaScript.
+*   [Abstract Connect (⭐6)](https://github.com/MichaelZaporozhets/abstractconnect) - A Design tokens extractor for devs using Abstract & JavaScript.
 *   [Zeplin JSON export tokens](https://extensions.zeplin.io/berk/zeplin-json-extension) - Design tokens Zeplin extension to generate your tokens in JSON format.
 
 ### Tools
 
-*   [Figmagic](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
-*   [Style Dictionary](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
+*   [Figmagic (⭐610)](https://github.com/mikaelvesavuori/figmagic) - Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
+*   [Style Dictionary (⭐2.8k)](https://github.com/amzn/style-dictionary) - A Style Dictionary uses design tokens to define styles once and use those styles on any platform or language.
 *   [Superposition](https://superposition.design/) - Extract design tokens from websites and use them in code and in your design tool. Use the design system you already have.
-*   [Theo](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
+*   [Theo (⭐1.8k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 
 ### Articles
 
@@ -125,7 +125,7 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 *   [Tokenize it](https://blog.prototypr.io/tokenize-it-2a544ef1413b)
 *   [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 
-See more design tokens info [here](https://github.com/sturobson/Awesome-Design-Tokens)!
+See more design tokens info [here (⭐780)](https://github.com/sturobson/Awesome-Design-Tokens)!
 
 ## Coding tools
 
@@ -148,18 +148,18 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 #### Storybook addons
 
-*   [Accessibility](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
-*   [Actions](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
-*   [Backgrounds](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
-*   [Console](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
-*   [Docs](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
-*   [Knobs](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
-*   [Links](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
-*   [Source](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
-*   [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
-*   [Viewport](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
+*   [Accessibility (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/a11y) - Test component compliance with web accessibility standards.
+*   [Actions (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/actions) - Get UI feedback when an action is performed on an interactive element.
+*   [Backgrounds (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/backgrounds) - Switch backgrounds to view components in different settings.
+*   [Console (⭐175)](https://github.com/storybookjs/storybook-addon-console) - Show console output like logs, errors, and warnings in the Storybook.
+*   [Docs (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/docs) - Document component usage and properties in Markdown.
+*   [Knobs (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/knobs) - Interact with component inputs dynamically in the Storybook UI.
+*   [Links (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/links) - Link stories together to build demos and prototypes with your UI components.
+*   [Source (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/storysource) - View a story's source code to see how it works and paste into your app.
+*   [Storyshots (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - Take a code snapshot of every story automatically with Jest.
+*   [Viewport (⭐75k)](https://github.com/storybookjs/storybook/tree/master/addons/viewport) - Build responsive components by adjusting Storybook's viewport size and orientation.
 
-More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
+More info to Storybook [here (⭐293)](https://github.com/lauthieb/awesome-storybook)!
 
 ### Pattern libraries articles
 
@@ -167,7 +167,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 *   [Design systems workflow in Storybook](https://blog.hichroma.com/design-systems-in-storybook-2b2be06e394b)
 *   [How design systems use Storybook](https://medium.com/storybookjs/how-design-systems-use-storybook-2ed735ad07a9)
 *   [How packaging makes it dead simple to share UI components](https://blog.hichroma.com/how-packaging-makes-it-dead-simple-to-share-ui-components-29912593539d)
-*   [Storybook design system](https://github.com/storybookjs/design-system)
+*   [Storybook design system (⭐1.6k)](https://github.com/storybookjs/design-system)
 *   [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
 
 ## Testing

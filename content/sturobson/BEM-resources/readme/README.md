@@ -74,17 +74,17 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### PostCSS
 
-*   [PostCSS BEM Linter](https://github.com/postcss/postcss-bem-linter)
+*   [PostCSS BEM Linter (⭐541)](https://github.com/postcss/postcss-bem-linter)
 
 ## Repos, CodePens and Things
 
 ### Repos
 
-*   [BEM Constructor](https://github.com/danielguillan/bem-constructor)
-*   [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu)
-*   [BEM Grid](https://github.com/bem-incubator/bem-grid)
-*   [Flexible Grid System with BEM](https://github.com/flexiblegs/flexiblegs-bem)
-*   [BEM.js](https://github.com/maykinmedia/bem.js)
+*   [BEM Constructor (⭐547)](https://github.com/danielguillan/bem-constructor)
+*   [WordPress BEM Menu (⭐139)](https://github.com/roikles/Wordpress-Bem-Menu)
+*   [BEM Grid (⭐135)](https://github.com/bem-incubator/bem-grid)
+*   [Flexible Grid System with BEM (⭐14)](https://github.com/flexiblegs/flexiblegs-bem)
+*   [BEM.js (⭐9)](https://github.com/maykinmedia/bem.js)
 
 ## Slides & Videos
 
@@ -100,5 +100,5 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### Other Awesome Lists
 
-*   [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome)
+*   [A curated list of awesome lists - @sindresorhus (⭐223k)](https://github.com/sindresorhus/awesome)
 

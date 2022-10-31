@@ -12,7 +12,7 @@ A curated list of awesome things related to MDBootstrap
 
 > A curated list of the best resources in the MDBootstrap community.
 
-[MDBootstrap](https://github.com/mdbootstrap/mdb-ui-kit) is a set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages.
+[MDBootstrap (⭐23k)](https://github.com/mdbootstrap/mdb-ui-kit) is a set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages.
 
 ## Contents
 
@@ -52,9 +52,9 @@ Official projects and resources of MDBootstrap.
 
 *   [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins.
 *   [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB.
-*   [Visual Studio Code snippets](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
-*   [Angular Visual Studio Code snippets](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT.
-*   [Webpack starter](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
+*   [Visual Studio Code snippets (⭐9)](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
+*   [Angular Visual Studio Code snippets (⭐10)](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT.
+*   [Webpack starter (⭐54)](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
 *   [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap.
 
 ## Articles

@@ -14,14 +14,14 @@ A curated list of good design and experience principles.
 
 > Design Principles are a tool for creating better and more consistent designs and experiences. They are high level rules that guide detailed design decisions. They are often written down within bigger style guides, pattern libraries or design systems.
 
-Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](https://github.com/robinstickel/awesome-design-principles/blob/master/README.md/CONTRIBUTING.md) before contributing.
+Know a resource that isn't listed below? Feel free to create a new [pull request (⭐442)](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue (⭐442)](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](https://github.com/robinstickel/awesome-design-principles/blob/master/README.md/CONTRIBUTING.md) before contributing.
 
 ### Contents
 
-*   [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
-*   [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
-*   [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources)
-*   [Credits and Notes](https://github.com/robinstickel/awesome-design-principles#credits-and-notes)
+*   [Principles within bigger Design Systems (⭐442)](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
+*   [Articles about Design Principles (⭐442)](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
+*   [Other Resources (⭐442)](https://github.com/robinstickel/awesome-design-principles#other-resources)
+*   [Credits and Notes (⭐442)](https://github.com/robinstickel/awesome-design-principles#credits-and-notes)
 
 ## Principles within bigger Design Systems
 
@@ -59,5 +59,5 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 ### Credits and Notes
 
-This list is heavily inspired by [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.
+This list is heavily inspired by [Awesome Design Systems (⭐15k)](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.
 

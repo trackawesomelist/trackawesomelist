@@ -32,7 +32,7 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 
 ### PGF/TikZ
 
-*   [SourceForge](https://github.com/pgf-tikz/pgf) - Code, releases, support and bug reports.
+*   [SourceForge (⭐822)](https://github.com/pgf-tikz/pgf) - Code, releases, support and bug reports.
 *   [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
 
 ### PGFPlots
@@ -51,27 +51,27 @@ This project contains a curated list of awesome TikZ documentations, libraries a
 ## Gallery
 
 *   [TeXample](http://www.texample.net/tikz/) - Gallery of wonderful examples made by TikZ.
-*   [walmes/Tikz](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
-*   [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) - Contains about 350 TikZ examples from Martin. Thoma.
+*   [walmes/Tikz (⭐375)](https://github.com/walmes/Tikz) - Collection of TikZ art from Prof. Walmes M. Zeviani, contains about 200 TikZ figures, most of which were done to teach statistics.
+*   [MartinThoma/LaTeX-examples (⭐1.4k)](https://github.com/MartinThoma/LaTeX-examples/tree/master/tikz) - Contains about 350 TikZ examples from Martin. Thoma.
 *   [Nice Scientific Pictures](https://tex.stackexchange.com/questions/158668/nice-scientific-pictures-show-off) - Contains some really nice TikZ examples, together with pictures drawn by other TeX friends.
 *   [Love heart with LaTeX](https://tex.stackexchange.com/questions/139733/can-we-make-a-love-heart-with-latex) - Contains lovely code to make a heart by LaTeX/TikZ.
-*   [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
-*   [alemelis/tikz\_drawings](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
-*   [LatexDiagrams](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
-*   [tikz-network](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
+*   [PetarV-/TikZ (⭐912)](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
+*   [alemelis/tikz\_drawings (⭐36)](https://github.com/alemelis/tikz_drawings) - Source codes for illustration made in TikZ by Alessandro Melis for various publications.
+*   [LatexDiagrams (⭐145)](https://github.com/FriendlyUser/LatexDiagrams) - This repo contains many diagrams generated for academic usage, including Algorithms-Data Structures, Artificial Intelligence, BlogDiagrams, DSP, Engineering Software Design, etc.
+*   [tikz-network (⭐285)](https://github.com/hackl/tikz-network) - A tool to visualize complex networks in LaTeX.
 
 ## Tools
 
 *   [tikzedt](http://www.tikzedt.org/) - A combined WYSIWYG/text editor designed for editing Tikz code.
-*   [ktikz](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
+*   [ktikz (⭐293)](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
 *   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (PGF & TikZ).
-*   [itikz](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
-*   [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
-*   [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
-*   [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
-*   [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
-*   [sane\_tikz](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
-*   [quiver](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
+*   [itikz (⭐55)](https://github.com/jbn/itikz) - Cell and line magic for PGF/TikZ-to-SVG rendering in Jupyter notebooks.
+*   [matlab2tikz (⭐1.3k)](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
+*   [matplotlib2tikz (⭐1.9k)](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+*   [PlotNeuralNet (⭐18k)](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
+*   [awesome-latex-drawing (⭐913)](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
+*   [sane\_tikz (⭐280)](https://github.com/negrinho/sane_tikz) - Create TikZ figures with Python.
+*   [quiver (⭐2k)](https://github.com/varkor/quiver) - A commutative diagram editor that exports to tikz-cd.
 
 ## Libraries
 

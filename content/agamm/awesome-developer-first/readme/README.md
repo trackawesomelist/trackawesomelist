@@ -390,5 +390,5 @@ The definition of developer-first for this repo is:
 
 ## Contributing
 
-See here: [CONTRIBUTING.md](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐301)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

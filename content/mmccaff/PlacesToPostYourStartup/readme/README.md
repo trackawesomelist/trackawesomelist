@@ -12,7 +12,7 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 # Places To Post Your Startup
 
-##### The [mmccaff/PlacesToPostYourStartup repository on GitHub](https://github.com/mmccaff/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
+##### The [mmccaff/PlacesToPostYourStartup repository on GitHub (⭐5.1k)](https://github.com/mmccaff/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
 
 Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109).
 
@@ -146,7 +146,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 *   Tech Faster - <http://techfaster.com/submit-your-company/>
 *   Tech Map - <http://thetechmap.com/>
 *   Tech Pluto - <http://www.techpluto.com/submit-a-startup/>
-*   The Changelog - <https://github.com/thechangelog/ping>
+*   The Changelog - [https://github.com/thechangelog/ping (⭐268)](https://github.com/thechangelog/ping)
 *   The iPhone Mom - <https://www.theiphonemom.com/>
 *   Top Alternatives - <https://topalternatives.com/>
 *   Vator - <http://www.vator.tv/>

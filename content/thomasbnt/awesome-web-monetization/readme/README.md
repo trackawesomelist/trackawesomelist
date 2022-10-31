@@ -54,10 +54,10 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 
 ***
 
-| **Wallets** |                                                                                   |                                                                                      |                                                                                                                     |                                                                                                                                                                                                            |
-| :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     Name    | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt\&labels=Wallet%2C+%E2%86%94+WM+repository\&template=new-wallet.md\&title=%5BWa%5D) |
-|     Fees    |                                        None                                       |                SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)               |                                                  $3 withdrawal fee                                                  |                                                                                                                                                                                                            |
+| **Wallets** |                                                                                   |                                                                                      |                                                                                                                     |                                                                                                                                                                                                                   |
+| :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     Name    | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue ! (⭐232)](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt\&labels=Wallet%2C+%E2%86%94+WM+repository\&template=new-wallet.md\&title=%5BWa%5D) |
+|     Fees    |                                        None                                       |                SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)               |                                                  $3 withdrawal fee                                                  |                                                                                                                                                                                                                   |
 
 If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
 
@@ -95,32 +95,32 @@ if (document.monetization) {
 *Any packages/modules and plugins*
 
 *   [svelte-monetization](https://github.com/wobsoriano/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/svelte.png)
-*   [monetize.js](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [types-wm](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/typescript.png)
-*   [ngx-monetization](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/angular.png)
-*   [react-hook-wm](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
-*   [react-monetize](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
-*   [ep\_monetization](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [monetize.js (⭐13)](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [types-wm (⭐3)](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/typescript.png)
+*   [ngx-monetization (⭐8)](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/angular.png)
+*   [react-hook-wm (⭐6)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [react-monetize (⭐27)](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [ep\_monetization (⭐0)](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/) - Plugin for applying Coil payment pointer meta tag to WordPress site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/wordpress.png)
 *   [xrptipbot-wordpress-widget](https://wordpress.org/plugins/widget-xrptipbot/) - Wordpress Widget based on XRPTIPBOT embed code to donate content creators. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/wordpress.png)
-*   [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization) - An Eleventy plugin to monetize posts and site content. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/11ty.png)
-*   [web-monetization-components](https://github.com/philnash/web-monetization-components) - A collection of web components you can use on your web monetized websites. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [revshare](https://github.com/kewbish/revshare) - A JS library for revenue sharing. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [web-monetization-proxy](https://github.com/tcdowney/web-monetization-proxy) - Simple Go proxy for injecting Web Monetization meta tags. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/go.png)
-*   [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/gridsome.png)
-*   [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/vuejs.png)
-*   [jekyll-web\_monetization](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/jekyll.png)
-*   [Monetization](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
-*   [react-webmonetization-meta](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
-*   [web-monetization-electron-app](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/electron.png)
-*   [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [web-monetization-polyfill](https://github.com/immers-space/web-monetization-polyfill/) - Ensure the JavaScript Web Monetization API is available, even in environments with Content Security Policies enabled. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [eleventy-plugin-monetization (⭐16)](https://github.com/DanCanetti/eleventy-plugin-monetization) - An Eleventy plugin to monetize posts and site content. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/11ty.png)
+*   [web-monetization-components (⭐8)](https://github.com/philnash/web-monetization-components) - A collection of web components you can use on your web monetized websites. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [revshare (⭐6)](https://github.com/kewbish/revshare) - A JS library for revenue sharing. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [web-monetization-proxy (⭐3)](https://github.com/tcdowney/web-monetization-proxy) - Simple Go proxy for injecting Web Monetization meta tags. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/go.png)
+*   [gridsome-plugin-monetization (⭐13)](https://github.com/Sergix/gridsome-plugin-monetization) - Web monetization for Gridsome. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/gridsome.png)
+*   [vuepress-plugin-web-monetization (⭐14)](https://github.com/spekulatius/vuepress-plugin-web-monetization) - Adds the web-monetization metatag to your VuePress website. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/vuejs.png)
+*   [jekyll-web\_monetization (⭐9)](https://github.com/philnash/jekyll-web_monetization) - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/jekyll.png)
+*   [Monetization (⭐5)](https://github.com/KNawm/monetization) - A wrapper around the Web Monetization API to monetize apps. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/dart.png)
+*   [react-webmonetization-meta (⭐3)](https://github.com/uchibeke/react-webmonetization-meta) - A Web Monetization meta tag manager for React. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [web-monetization-electron-app (⭐4)](https://github.com/Jasmin2895/web-monetization-electron-app) - Project demonstrate basic setup to enable web monetization in Electron App. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/electron.png)
+*   [web-monetized-video (⭐14)](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [web-monetization-polyfill (⭐2)](https://github.com/immers-space/web-monetization-polyfill/) - Ensure the JavaScript Web Monetization API is available, even in environments with Content Security Policies enabled. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-video-ads](https://www.npmjs.com/package/web-monetization-video-ads) - Linking Web Monetization with video advertising to allow a freemium business model to be implemented for Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share) - Automated redistribution of funds to a community via smart contracts. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [mediadisclosures](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [web-monetization-demo](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [money-chat](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [awesome-jsgames (⭐287)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [mediadisclosures (⭐0)](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [web-monetization-demo (⭐1)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [money-chat (⭐2)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 
 ### Tutorials
 
@@ -141,24 +141,24 @@ if (document.monetization) {
 
 ### Tools
 
-*   [Is web monetized](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
+*   [Is web monetized (⭐4)](https://github.com/jkga/is-web-monetized) - A very simple tool for checking if Web Monetization is enabled.
 
     > ```bash
     > npm install is-web-monetized -g
     > monetized example.com 
     > ```
     >
-    > You can also test your website [with the dependency](https://github.com/jkga/is-web-monetized#usage).
+    > You can also test your website [with the dependency (⭐4)](https://github.com/jkga/is-web-monetized#usage).
 
 *   [Paytrackr](https://github.com/sorxrob/paytrackr) - Track and manage your micropayments into one place.
 
     > PayTrackr is the easiest and safest way to track and manage your micropayments to web monetized websites, having a web monetization provider membership.
 
-*   [Akita](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
+*   [Akita (⭐21)](https://github.com/esse-dev/akita) - A browser extension that gives you insight into your involvement with Web Monetization.
 
     > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
-*   [Open Monetization Wallet](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet.
+*   [Open Monetization Wallet (⭐13)](https://github.com/signalnerve/openmonetizationwallet) - Tools for managing your vanity Web Monetization wallet.
 
     > Open Monetization Wallet (OMW) makes it easier to accept payments with the Web Monetization API at scale. Some features:
     >

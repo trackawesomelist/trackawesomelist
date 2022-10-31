@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 14, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -97,35 +97,25 @@
 
 *   [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/) - September 14, 2021 - .NET 6 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
 
-## [3. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### JavaScript / AngularJS
-
-*   [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
-
-### TypeScript / Ruby on Rails
-
-*   [Uso avanzado de TypeScript en un ejemplo real](https://neliosoftware.com/es/blog/uso-avanzado-de-typescript/) - Nelio Software (HTML)
-
-## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [3. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [PackageVersions Deprecated (⭐1.4k)](https://github.com/composer/package-versions-deprecated) - Is a fork of Ocramius/PackageVersions providing compatibility with Composer 1 and 2 on PHP 7+.
 
-## [5. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [4. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / *SSH*   keys / Authentication
 
 *   [HIBA (⭐324)](https://github.com/google/hiba) [![stars](https://img.shields.io/github/stars/google/hiba.svg?style=social\&label=stars)](https://github.com/google/hiba) - Central management of access to a fleet of machines without pushing authorized\_users files.
 
-## [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Version Control
 
 *   [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - Version, manage and share notebook checkpoints in your projects.
 
-## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
@@ -137,7 +127,7 @@
 *   [k6-multiscenario-template (⭐34)](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
 *   [docker-k6-grafana-influxdb (⭐79)](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
-## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Tutorials / Hardware Offload
 
@@ -147,25 +137,25 @@
 
 *   [greggd (⭐5)](https://github.com/olcf/greggd) - System daemon to compile and load eBPF programs into the kernel, and forward program output to socket for metric aggregation.
 
-## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
 *   [Raspberry Pi Dashboard (⭐145)](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.
 
-## [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [9. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ### Arcade
 
 *   [OpenJazz (⭐183)](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
 
-## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Environment and Ecosystem Services
 
 *   [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - The Nature Conservancy's geospatial portal includes web maps, apps, a map gallery, local initiative portals, conservation data, and other resources.
 
-## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 

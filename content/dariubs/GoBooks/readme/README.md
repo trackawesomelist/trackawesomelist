@@ -46,9 +46,9 @@ This companion book contains material initially written specifically for this ev
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github](https://github.com/miekg/learninggo).
+The [markdown source is available on Github (⭐500)](https://github.com/miekg/learninggo).
 
-### [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers) *Free*
+### [Go for Javascript Developers (⭐1.1k)](https://github.com/pazams/go-for-javascript-developers) *Free*
 
 <img src="https://raw.githubusercontent.com/pazams/go-for-javascript-developers/master/src/images/thumb.png" width="120px"/>
 
@@ -248,7 +248,7 @@ The main goal of this book is to help developers avoid common mistakes while at 
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
-The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+The book is based on a [real open source project (⭐3.1k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ### [Network Programming with Go](https://link.springer.com/book/10.1007/978-1-4842-2692-6)
@@ -501,7 +501,7 @@ A good resource for start Building Web Apps with Go. Free to [read online](http:
 
 Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
-### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
+### [Webapps in Go the anti textbook (⭐3.1k)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
 
 <img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 
@@ -601,7 +601,7 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
-The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
+The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐95)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
 ### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
 
@@ -649,7 +649,7 @@ This short book will introduce novice and experienced Go programmers to the beau
 
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
+### [More Books on the Go Wiki (⭐105k)](https://github.com/golang/go/wiki/Books)
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -665,7 +665,7 @@ This short book will introduce novice and experienced Go programmers to the beau
 
 # Contributing
 
-Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules (⭐13k)](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
 
 # License
 

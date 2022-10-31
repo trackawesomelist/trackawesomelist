@@ -234,10 +234,10 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
 # Official
 
 *   [Official website](https://code.visualstudio.com/)
-*   [Source code](https://github.com/microsoft/vscode) on GitHub
+*   [Source code (⭐138k)](https://github.com/microsoft/vscode) on GitHub
 *   [Releases (stable channel)](https://code.visualstudio.com/download)
 *   [Releases (insiders channel)](https://code.visualstudio.com/insiders)
-*   [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+)
+*   [Monthly iteration plans (⭐138k)](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+)
 
 # Syntax
 
@@ -278,7 +278,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 *   [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 *   [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 *   [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
-*   [Wenyan](https://github.com/antfu/wenyan-lang-vscode)
+*   [Wenyan (⭐265)](https://github.com/antfu/wenyan-lang-vscode)
 *   [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 # Migrating from other editors
@@ -313,7 +313,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).
 
-Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+Make sure to visit it at [Microsoft/vscode-recipes (⭐5.5k)](https://github.com/Microsoft/vscode-recipes)
 
 # Lint and IntelliSense
 
@@ -357,8 +357,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 *   [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) - Provides C/C++ language IDE features for VS Code using clangd: code completion, compile errors and warnings, go-to-definition and cross references, include management, code formatting, simple refactorings.
 *   [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 *   [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
-*   [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
-*   [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
+*   [C/C++ Clang Command Adapter (⭐118)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+*   [CQuery (⭐52)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
 #### More
 
@@ -414,7 +414,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Haskell
 
 *   [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
-*   [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
+*   [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server (⭐2.4k)](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
 
 ## HLSL
 
@@ -445,7 +445,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 *   [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
     ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
-See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
+See the difference between these two [here (⭐120)](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
 ### Linters
 
@@ -453,11 +453,11 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 *   [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 
-*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
+*   [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO (⭐6.9k)](https://github.com/xojs/xo).
 
-*   [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
+*   [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA (⭐20k)](https://github.com/avajs/ava).
 
-*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
+*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.4k)](https://github.com/prettier/prettier-vscode).
 
 *   [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
 
@@ -489,7 +489,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
+> Linter for [markdownlint (⭐3.4k)](https://github.com/DavidAnson/markdownlint).
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -1004,7 +1004,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
 
-## [shell-format](https://github.com/foxundermoon/vs-shell-format)
+## [shell-format (⭐307)](https://github.com/foxundermoon/vs-shell-format)
 
 > shell script & Dockerfile & dotenv format
 
@@ -1195,8 +1195,8 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-*   [Essence](https://github.com/essence-language/vscode-extension)
-*   [Pragmatic Essence](https://github.com/orta/Essence)
+*   [Essence (⭐1)](https://github.com/essence-language/vscode-extension)
+*   [Pragmatic Essence (⭐77)](https://github.com/orta/Essence)
 
 ## Syntax
 
@@ -1354,7 +1354,7 @@ Minimal monochrome theme.
 
 ### [Monokai Oblique by pushqrdx](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode)
 
-Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) and [Visual Studio IDE](https://github.com/pushqrdx/monokai).
+Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) and [Visual Studio IDE (⭐6)](https://github.com/pushqrdx/monokai).
 
 <a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">
   <img src="https://github.com/viatsko/awesome-vscode/raw/master/./themes/screenshots/moblique.png" width="600" />
@@ -1462,7 +1462,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Libraries
 
-*   [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+*   [vscode-test-content (⭐3)](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 *   [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
 
 ## Tools
@@ -1470,12 +1470,12 @@ A list of Twitter accounts for various people in the VS Code Community
 *   [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 *   [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 *   [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-*   [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+*   [Open in Code (⭐844)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
 *   [Themer](https://themer.dev) - Easily create your own theme for VS Code (and matching ones for your other tools).
-*   [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
+*   [Azure Tools for Visual Studio Code (⭐29)](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 

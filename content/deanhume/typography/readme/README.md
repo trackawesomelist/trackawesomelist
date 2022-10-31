@@ -65,18 +65,18 @@ A curated collection of awesome web typography articles.
 ## Tools
 
 *   [The State of Web Type - Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
-*   [A simple plugin to keep font-size in proportion with it's containers size](https://github.com/jkroso/flowtype)
+*   [A simple plugin to keep font-size in proportion with it's containers size (⭐39)](https://github.com/jkroso/flowtype)
 *   [Type Rendering Mix](http://typerendering.com/)
 *   [Web Font Loader](https://developers.google.com/fonts/docs/webfont_loader)
 *   [Preventing the Performance Hit from Custom Fonts](https://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 *   [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
 *   [Font Face and Performance](http://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/)
-*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.](https://github.com/kennethormandy/normalize-opentype.css)
+*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐798)](https://github.com/kennethormandy/normalize-opentype.css)
 *   [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
-*   [brick.im](https://github.com/alfredxing/brick)
+*   [brick.im (⭐2.9k)](https://github.com/alfredxing/brick)
 *   [Typebase.css](http://devinhunt.github.io/typebase.css/)
 *   [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin)
-*   [Using Custom Fonts in Emails](https://github.com/ladjs/custom-fonts-in-emails)
+*   [Using Custom Fonts in Emails (⭐102)](https://github.com/ladjs/custom-fonts-in-emails)
 
 ## Books
 

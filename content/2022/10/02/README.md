@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 02, 2022
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,13 +77,53 @@
 | ------: | -------: | ---------: |
 |   2 - 6 |       14 | around 45m |
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### C++
+
+*   [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
+
+### Cloud computing
+
+*   [CloudSkills.fm](https://cloudskills.fm) - Mike Pfeiffer (podcast)
+*   [Google Cloud Platform Podcast](https://www.gcppodcast.com) - Google Cloud Platform team (podcast)
+*   [Microsoft Cloud Show](https://www.microsoftcloudshow.com) -  Andrew Connell and Chris Johnson (podcast)
+*   [On Cloud](https://www2.deloitte.com/us/en/pages/consulting/topics/cloud-podcast.html) - Deloitte US (podcast)
+*   [The Cloud Pod](https://www.thecloudpod.net) - Justin Brodley, Jonathan Baker, Ryan Lucas and Peter Roosakos (podcast)
+
+### Data Science
+
+*   [Towards Data Science](https://towardsdatascience.com/podcast/home) - The TDS team (podcast)
+
+### Elixir
+
+*   [Elixir Newbie](https://www.elixirnewbie.com/podcast) - Brooklin Myers (podcast)
+
+### JavaScript / Angular
+
+*   [Adventures in Angular](https://topenddevs.com/podcasts/adventures-in-angular) - Charles Max Wood, Subrat Mishra, Richard Sithole, Armen Vardanyan, Sani Yusuf, Shai Reznik, Alyssa Nicoll, Brooks Forsyth, Brad McAlister, Chris Ford, Eddie Hinkle, Younes Jaaidi, Brian Love, Jennifer Wadella, Aaron Frost, Joe Eames (podcast)
+
+### JavaScript / React.js
+
+*   [React Wednesdays](https://www.telerik.com/react-wednesdays) - Kathryn Grayson Nanz (screencast)
+
+### Language Agnostic / React.js
+
+*   [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/) - AWS Solution Architects (podcast)
+*   [DevDiscuss](https://dev.to/devdiscuss) - DEV (podcast)
+*   [Talks at Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS7XnpWK8ofxWhL7F72KcDRj) - Google (screencast)
+
+### Machine Learning / React.js
+
+*   [Tic-Tac-Toe the Hard Way](https://pair.withgoogle.com/thehardway/) - Google's People + AI Research team (podcast)
+
+## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [glepnir/lspsaga.nvim (⭐2.1k)](https://github.com/glepnir/lspsaga.nvim) - A light-weight lsp plugin based on Neovim built-in lsp with a highly performant UI.
 
-## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### File Management and Sharing
 
@@ -95,7 +135,7 @@
 
 *   [Quetre (⭐120)](https://github.com/zyachel/quetre) - Quetre is an alternative front-end to Quora. It enables you to see answers without ads, trackers, and other such bloat.
 
-## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Using WSL / The WSL Shell
 
@@ -127,7 +167,7 @@
 
 *   Docker® and Docker Hub® are registered trademarks of Docker, Inc. [\*](https://www.docker.com/legal/trademark-guidelines/)
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 

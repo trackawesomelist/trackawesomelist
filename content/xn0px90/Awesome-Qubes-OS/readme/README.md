@@ -21,7 +21,7 @@ A collection of awesome Qubes OS links
 *   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
 *   [Qubes OS.onion](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
 *   [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
-*   [Qubes OS github docs](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs.
+*   [Qubes OS github docs (⭐282)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs.
 *   [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
 *   [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
@@ -29,18 +29,18 @@ A collection of awesome Qubes OS links
 
 ## Templates
 
-*   [Win7](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
-*   [Win10](https://github.com/elliotkillick/qvm-create-windows-qube)
-*   [CentOS](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
-*   [Gentoo](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
-*   [NetBSD](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
-*   [Ubuntu](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
+*   [Win7 (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
+*   [Win10 (⭐261)](https://github.com/elliotkillick/qvm-create-windows-qube)
+*   [CentOS (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
+*   [Gentoo (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
+*   [NetBSD (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
+*   [Ubuntu (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
 *   [ParrotSec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
-*   [Pentesting](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
+*   [Pentesting (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
 
 ## Networking Server
 
-*   [qubes-network-server](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
+*   [qubes-network-server (⭐76)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
 
 ## Automation
 
@@ -48,14 +48,14 @@ A collection of awesome Qubes OS links
 
 ## Remote-Desktop
 
-*   [qubes-remote-desktop](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+*   [qubes-remote-desktop (⭐6)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
 
 ## VPN
 
-*   [How To make a VPN Gateway in Qubes](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+*   [How To make a VPN Gateway in Qubes (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 *   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
-*   [qubes-tunnel](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
-*   [WireGuard](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
+*   [qubes-tunnel (⭐15)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+*   [WireGuard (⭐181)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
 
 ## Videos
 

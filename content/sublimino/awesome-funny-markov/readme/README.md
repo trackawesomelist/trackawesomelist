@@ -12,9 +12,9 @@ A curated list of delightfully amusing and facetious Markov chain output.
 
 A facetiously curated list of delightfully amusing Markov chain output, inspired by [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
 
-If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (please do), send a pull request or contact me [@sublimino](https://twitter.com/sublimino).
+If you want to [contribute (⭐184)](https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (please do), send a pull request or contact me [@sublimino](https://twitter.com/sublimino).
 
-Looking for more information on Markov Chains? Try [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
+Looking for more information on Markov Chains? Try [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning).
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 *   [Git man page Generator](http://git-man-page-generator.lokaltog.net/) - Suspiciously believeable (but incorrect) Git documentation.
 *   [Jon Skeet bot](https://stackoverflow.blog/2018/01/15/thanks-million-jon-skeet/) - Stack Overflow's homage to their greatest ever user, Jon Skeet.
 *   [StackExchange Simulator](https://se-simulator.lw1.at/) - Random question and answers based on the StackOverflow/StackExchange data dumps.
-*   [4chan Text Generator](https://github.com/02sh/4chanMarkovText) - With sample inputs for /biz/ /pol/ /b/ /fit/ (NSFW).
+*   [4chan Text Generator (⭐28)](https://github.com/02sh/4chanMarkovText) - With sample inputs for /biz/ /pol/ /b/ /fit/ (NSFW).
 
 ## Twitter
 
@@ -71,7 +71,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 *   [Mark V. Shaney at Your Service](http://www.yisongyue.com/shaney/) - Interactie Markov examples.
 *   [foswig.js](http://mrsharpoblunto.github.io/foswig.js/) - Generate awesome Javascript project names from the popular JavaScript library names on GitHub.
 *   [Benedict Cumberbatch Name Generator](http://benedictcumberbatchgenerator.tumblr.com/) - Permutations on the gentleman's names.
-*   [Reimagined Yo Mama](https://github.com/Trshant/reimagined-yomama) - yo mama jokes using markov chains (code only).
+*   [Reimagined Yo Mama (⭐3)](https://github.com/Trshant/reimagined-yomama) - yo mama jokes using markov chains (code only).
 
 ## A history of funny Markov chains
 

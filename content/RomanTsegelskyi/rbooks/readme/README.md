@@ -212,7 +212,7 @@ Most of the recipes use the ggplot2 package, a powerful and flexible way to make
 
 # Contributing
 
-Your contributions are always welcome and greately appreciated, just follow [the rules](https://github.com/RomanTsegelskyi/rbooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome and greately appreciated, just follow [the rules (⭐190)](https://github.com/RomanTsegelskyi/rbooks/blob/master/CONTRIBUTING.md)!
 
 # License
 

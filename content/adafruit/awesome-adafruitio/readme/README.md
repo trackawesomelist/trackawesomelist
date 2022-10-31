@@ -47,12 +47,12 @@ A curated list of awesome Adafruit IO guides, videos, libraries, frameworks, sof
 *   [Adafruit IO HTTP API Documentation](https://io.adafruit.com/api/docs/#adafruit-io-http-api) - Adafruit IO HTTP API provides access to your Adafruit IO data from any programming language or environment which can speak HTTP.
 *   [Adafruit IO MQTT API Documentation](https://io.adafruit.com/api/docs/mqtt.html#adafruit-io-mqtt-api) - Adafruit MQTT API provides access to your Adafruit IO data from any MQTT Client.
 *   [Adafruit IO MQTT API Cookbook](https://io.adafruit.com/api/docs/cookbook.html#adafruit-io-api-cookbook) - Recipes related to the Adafruit IO API which have been found useful in the past.
-*   [Adafruit IO Arduino Library](https://github.com/adafruit/Adafruit_IO_Arduino) - An Arduino client for Adafruit IO.
-*   [Adafruit IO CircuitPython Library](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO) - A CircuitPython client for Adafruit IO.
-*   [Adafruit IO Python Library](https://github.com/adafruit/Adafruit_IO_Python) - A Python client for Adafruit IO.
-*   [Adafruit IO Ruby Library](https://github.com/adafruit/io-client-ruby) - A Ruby client for Adafruit IO.
-*   [Adafruit IO Node.js Library](https://github.com/adafruit/adafruit-io-node) - A Node.js Adafruit IO client, local server, and TLS Tunnel.
-*   [Adafruit IO Go Library](https://github.com/adafruit/io-client-go) - A Go client for Adafruit IO.
+*   [Adafruit IO Arduino Library (⭐165)](https://github.com/adafruit/Adafruit_IO_Arduino) - An Arduino client for Adafruit IO.
+*   [Adafruit IO CircuitPython Library (⭐35)](https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO) - A CircuitPython client for Adafruit IO.
+*   [Adafruit IO Python Library (⭐204)](https://github.com/adafruit/Adafruit_IO_Python) - A Python client for Adafruit IO.
+*   [Adafruit IO Ruby Library (⭐25)](https://github.com/adafruit/io-client-ruby) - A Ruby client for Adafruit IO.
+*   [Adafruit IO Node.js Library (⭐98)](https://github.com/adafruit/adafruit-io-node) - A Node.js Adafruit IO client, local server, and TLS Tunnel.
+*   [Adafruit IO Go Library (⭐13)](https://github.com/adafruit/io-client-go) - A Go client for Adafruit IO.
 
 ## Hardware
 

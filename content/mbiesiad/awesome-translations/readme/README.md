@@ -28,10 +28,10 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ## Translations
 
-*   [English](https://github.com/mbiesiad/awesome-translations)
-*   [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+*   [English (⭐58)](https://github.com/mbiesiad/awesome-translations)
+*   [Polish (⭐58)](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 *   [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
-*   [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
+*   [Italian (⭐4)](https://github.com/niedev/awesome-translations/tree/it_IT)
 
 ## Platforms
 
@@ -43,7 +43,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 *   [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 *   [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
 *   [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-*   [Traduora](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+*   [Traduora (⭐1.7k)](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
 *   [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
 *   [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
 *   [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
@@ -53,17 +53,17 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ## Apps
 
-*   [RTranslator](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
-*   [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
-*   [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+*   [RTranslator (⭐75)](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
+*   [Crow Translate (⭐969)](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+*   [Copy Translator (⭐15k)](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 *   [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 *   [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
-*   [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
-*   [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+*   [Argos Translate (⭐1.4k)](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+*   [LibreTranslate (⭐2.9k)](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ## Tools
 
-*   [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+*   [deep-translator (⭐713)](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 *   [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 *   [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 *   [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
@@ -71,18 +71,18 @@ This list contains tools, books, articles, blogs, courses and everything related
 *   [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
 *   [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
 *   [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
-*   [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
-*   [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
-*   [Translate](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
-*   [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
-*   [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+*   [i18n Ally (⭐2.5k)](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+*   [SwiftGoogleTranslate (⭐75)](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
+*   [Translate (⭐713)](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+*   [Pootle (⭐1.4k)](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
+*   [Translator (⭐810)](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 *   [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
 *   [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 *   [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Technology aimed at helping teams effortlessly localize websites.
-*   [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
-*   [Polyglot](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
-*   [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
-*   [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+*   [attranslate (⭐267)](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+*   [Polyglot (⭐318)](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+*   [Globalize (⭐4.7k)](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
+*   [SimpleLocalize CLI (⭐34)](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 *   [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 *   [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 *   [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.

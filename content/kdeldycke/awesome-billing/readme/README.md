@@ -78,13 +78,13 @@ In a Stanford class providing an [overview of cloud computing](http://web.stanfo
 
 <!--lint disable double-link-->
 
-This knowledge base cover the first columnar perimeter on the right of the cloud stack. It is one of the transversal pillar of the ecosystem, where customers, products and business meets. The [other pillar being Identity and Access Management (IAM) 👤](https://github.com/kdeldycke/awesome-iam/).
+This knowledge base cover the first columnar perimeter on the right of the cloud stack. It is one of the transversal pillar of the ecosystem, where customers, products and business meets. The [other pillar being Identity and Access Management (IAM) 👤 (⭐878)](https://github.com/kdeldycke/awesome-iam/).
 
 <!--lint enable double-link-->
 
 Here we set out the big picture: definition and strategic importance of the domain, plus some critical features.
 
-*   [Open guide to AWS](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section.
+*   [Open guide to AWS (⭐33k)](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section.
 
 *   [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - To optimize ROI, keep all regular workload in traditional architecture and reserve cloud computing for elastic and experimental projects.
 
@@ -180,9 +180,9 @@ The central repository of all available services, products, variants, options an
 
 *   [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - All GCP SKUs available as an API.
 
-*   [Akeneo PIM](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐861)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
-*   [Pimcore](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
+*   [Pimcore (⭐2.6k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
 
 *   [OpenPIM](https://www.openpim.org) - A streamlined open-source project, focusing on PIM-only features.
 
@@ -192,7 +192,7 @@ The central repository of all available services, products, variants, options an
 
 Simulate a virtual invoice depending on the resource you plan to use.
 
-*   [Cloud Cost Calculator](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
+*   [Cloud Cost Calculator (⭐85)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
 
 *   [Cloudorado](https://www.cloudorado.com) - A comparison matrix which use ECU (Amazon's vCPU) as a CPU power measure unit.
 
@@ -208,9 +208,9 @@ Help your customers predict their upcoming and future consumption based on their
 
 *   [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - [Facebook's Prophet](https://facebook.github.io/prophet/) (which [uses Stan underneath](https://statmodeling.stat.columbia.edu/2017/03/01/facebooks-prophet-uses-stan/)), seems to be worth checking to implement a cost forecast tool while taking care of seasonality.
 
-*   [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
+*   [Forecasting with sktime (⭐5.8k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
 
-*   [Komiser](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
+*   [Komiser (⭐2.9k)](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
 
 *   [GCP Cost Forecast](https://cloud.google.com//billing/docs/how-to/reports#cost-forecast) - An example of consumption trend line for resource consumption.
 
@@ -224,7 +224,7 @@ A marketplace connect supply with demand that lead to a financial transaction. I
 
 *   [Customized Regression Model for Airbnb Dynamic Pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing) - This paper describes the pricing strategy model deployed at Airbnb.
 
-*   [Papers we love: Auctions and Bidding](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐65k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 *   [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) \[but] using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
 
@@ -258,15 +258,15 @@ This sub-section focus on bid/ask mechanism matching resource producer with cons
 
 *   [The Eternal Cost Savings Of Netflix's Internal Spot Market](http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html) - When you're big enough that [creating an internal secondary market](https://medium.com/netflix-techblog/creating-your-own-ec2-spot-market-6dd001875f5) for instances makes economic sense.
 
-*   [AutoSpotting](https://github.com/AutoSpotting/AutoSpotting) - Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances.
+*   [AutoSpotting (⭐2.1k)](https://github.com/AutoSpotting/AutoSpotting) - Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances.
 
 ### Online Ads
 
 Targeted online advertisements marketplaces have a lot in common with traditional cloud marketplace. Some good inspiration there, from concepts to tech.
 
-*   [RTB Budget Pacing Summarized](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - A collection of budget pacing resources for targeted online advertisements.
+*   [RTB Budget Pacing Summarized (⭐4)](https://github.com/PragmaticLab/RTB_Budget_Pacing_Summarized) - A collection of budget pacing resources for targeted online advertisements.
 
-*   [Samsung's online ads platform/exchange war story](https://github.com/eloraiby/fs-pacer/blob/master/fs-pacer.md) - How to scale to 5M bid request/s, 2ms Max Response Time.
+*   [Samsung's online ads platform/exchange war story (⭐135)](https://github.com/eloraiby/fs-pacer/blob/master/fs-pacer.md) - How to scale to 5M bid request/s, 2ms Max Response Time.
 
 *   [`RTB4Free`](https://github.com/RTB4FREE) - Open Source Bidder and Demand Side Platform (DSP).
 
@@ -298,17 +298,17 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
 
-*   [Frappe Books](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
+*   [Frappe Books (⭐1.7k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
 
-*   [Luca](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
+*   [Luca (⭐61)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
 
-*   [Sequence](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐425)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
-*   [Go DB Ledger](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐451)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
-*   [Ledger](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Ledger (⭐486)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
 
-*   [Akaunting](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Akaunting (⭐5.6k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ### Software design and implementation
 
@@ -320,7 +320,7 @@ Now that you're somewhat familiar with the concepts and practive of accounting, 
 
 *   [Django Hordak](https://django-hordak.readthedocs.io) - Core functionality of a double entry accounting system for Django.
 
-*   [Managed accounts for Django](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
+*   [Managed accounts for Django (⭐191)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
 
 *   [Triple‐entry accounting with blockchain: How far have we come?](https://onlinelibrary.wiley.com/doi/abs/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.”
 
@@ -372,7 +372,7 @@ All the invoicing and payment terms and conditions are materialzed by the contra
 
 *   [2017 Tax Software Developer's Guides](https://www.mass.gov/lists/2017-tax-software-developers-guides) - A list of test cases for developers to test their tax code against.
 
-*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
+*   [{Digital,Cloud,Electronic,Online} Services VAT Rate Database (⭐84)](https://github.com/kdeldycke/vat-rates) - Centralize applicable VAT rates on foreign online services, for each country of residence (including territorial exceptions).
 
 *   [Global VAT & GST on digital services](https://www.avalara.com/vatlive/en/global-vat-gst-on-e-services.html) - List of countries requiring application of taxes on foreign provided online services.
 
@@ -398,21 +398,21 @@ The invoice materialize a consumed service or purchased product, waiting to be s
 
 *   [OpenTimestamps](https://opentimestamps.org) - Go beyond the solution above, and timestamp immutable document directly on Bitcoin's blockchain.
 
-*   [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
+*   [Manta (⭐5.2k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
 
-*   [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
+*   [InvoicePlane (⭐2.1k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
-*   [Volcano](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
+*   [Volcano (⭐151)](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
 
-*   [InvoiceGenerator](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
+*   [InvoiceGenerator (⭐134)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
 
-*   [Ruby Invoicing Framework](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
+*   [Ruby Invoicing Framework (⭐262)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 *   [Refact](http://en.userstudio.fr/projects/refact/) - A design project trying to revamp a phone bill with infographics.
 
-*   [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
+*   [InvoiceNet (⭐2.1k)](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 
-*   [Factur-X](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐83)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
@@ -472,7 +472,7 @@ The old-fashioned way of payment: by the way of banks.
 
 *   [Swift Codes](https://bank.codes/swift-code/) - Swift / BIC codes for personal use only.
 
-*   [Swift Codes Repository](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐151)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ### Online Payments
 
@@ -494,7 +494,7 @@ There's monetary incentives to exploit your business. Be prepared to fight horde
 
 <!--lint disable double-link-->
 
-*   [Awesome List of IAM: Fraud links](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐878)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 <!--lint enable double-link-->
 
@@ -526,7 +526,7 @@ Synthetic score based on a collection of signals are often the best proxy of use
 
 *   [Digital Ocean's Update on Customer Shutdown Incident](https://blog.digitalocean.com/an-update-on-last-weeks-customer-shutdown-incident/) - Aggressively shutting down user servers is good from a business point of view to prevent fraudster abusing free resources, until it's not.
 
-*   [Awesome Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐65)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
 
 ### Statistics
 
@@ -592,7 +592,7 @@ How much net value do you produce per customer? The customer lifetime value (CLV
 
 *   [Churn Prediction](https://towardsdatascience.com/churn-prediction-3a4a36c2129a) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
 
-*   [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
+*   [Lifetimes (⭐1.3k)](https://github.com/CamDavidsonPilon/lifetimes) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
 
 *   [`retentionizer`](https://github.com/chrisclark/retentionizer) - Python package to show the projected retention rates for each cohort and calculate the LTV of a given customer in that cohort.
 
@@ -620,9 +620,9 @@ Software to build visualizations, dashboards, SQL queries and drill down into da
 
 *   [`redash`](https://github.com/getredash/redash) - Connect and query your data sources, build dashboards to visualize data and share them with your company.
 
-*   [Metabase](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
+*   [Metabase (⭐30k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
 
-*   [Apache Superset](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
+*   [Apache Superset (⭐49k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
 
 *   [Meltano](https://gitlab.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
 
@@ -638,7 +638,7 @@ A bunch of resources to keep track of the current status and progress of all com
 
 *   [AWS reserved instances vs saving plan](https://www.prosperops.com/assets/img/blog/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
 
-*   [EC2 Spot Price Tracker](https://github.com/grosskur/ec2price) - Web app that collects and graphs EC2 Spot Prices.
+*   [EC2 Spot Price Tracker (⭐125)](https://github.com/grosskur/ec2price) - Web app that collects and graphs EC2 Spot Prices.
 
 *   [GCP billing release notes](https://cloud.google.com/billing/docs/release-notes) - Latest changes of GCP billing features.
 
@@ -686,5 +686,5 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Footnotes
 
-The [header image](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) is based on a modified [photo](https://unsplash.com/photos/u2zSzMTwIjQ) by [Denny Müller](https://unsplash.com/@redaquamedia).
+The [header image (⭐404)](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) is based on a modified [photo](https://unsplash.com/photos/u2zSzMTwIjQ) by [Denny Müller](https://unsplash.com/@redaquamedia).
 

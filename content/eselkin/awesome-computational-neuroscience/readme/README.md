@@ -10,7 +10,7 @@ A list of schools and researchers in computational neuroscience
 
 # Awesome Computational Neuroscience [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-To contribute, see [:pencil2: code of contribution](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
+To contribute, see [:pencil2: code of contribution (⭐446)](https://github.com/eselkin/awesome-computational-neuroscience/blob/master/contributing.md)
 
 [Computational neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience) is a multidisciplinary science that joins biology/neuroscience, medicine, biophysics, psychology, computer science, mathematics, and statistics to study the nervous system using computational approaches.
 

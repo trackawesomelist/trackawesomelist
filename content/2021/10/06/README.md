@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -44,10 +44,6 @@
 *   [ouch (⭐650)](https://github.com/ouch-org/ouch) - Painless compression and decompression on the command-line [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ouch-org/ouch/build-and-test)](https://github.com/ouch-org/ouch/actions?query=branch%3Amaster)
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### APIs, Data and ML
-
-*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
 
 ### Miscellaneous
 
@@ -95,6 +91,31 @@
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
+### Development
+
+- API: [Mocky](https://designer.mocky.io/)
+
+  Description: Mock user defined test JSON for REST API endpoints
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
+
+  Description: Online Lua 5.1 Decompiler
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
 ### Cryptocurrency
 
 - API: [CryptingUp](https://www.cryptingup.com/apidoc/#introduction)
@@ -106,20 +127,6 @@
   HTTPS: Yes
 
   CORS: Unknown
-
-
-
-### Development
-
-- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
-
-  Description: Online Lua 5.1 Decompiler
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
 
 
 
@@ -259,16 +266,6 @@
   CORS: Unknown
 
 
-
-## [15. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### HTML and CSS / Sistemas Operativos
-
-*   [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
-
-### Python / Django
-
-*   [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (2.2.4) (HTML)
 
 ---
 

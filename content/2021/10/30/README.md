@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,37 +42,31 @@
 
 *   [Blast off with Blazor - Supercharged Enterprise UIs using AntDesign](https://www.youtube.com/watch?v=lJojMo9RpoA) - ![duration](https://img.shields.io/badge/Duration:%20-77%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 20, 2021 - AntBlazor is fully supported by the .NET Foundation and boasts an impressive following. The best part is the awesome documentation and code samples to get you up and running in no time.
 
-## [4. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### 1 - Agnósticos / Ciencia Computacional
-
-*   [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
-
-## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Notification
 
 *   [@zerodevx/svelte-toast (⭐413)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
-## [6. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [5. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Community / UI
 
 *   [Node-RED Forum](https://discourse.nodered.org/)
 
-## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Calibration and Transformation
 
 *   [TriP (⭐14)](https://github.com/TriPed-Robot/TriP) - A Inverse Kinematics library for serial robots, parallel robots and hybrids of both.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Database
 
 *   [sqlite\_orm (⭐1.6k)](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. \[AGPL + paid MIT]
 
-## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [8. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Platforms and Software Resources / Urban Planning Tools and Platforms
 
@@ -90,7 +84,7 @@
 *   [Strong Towns Podcast](https://www.strongtowns.org/podcast) - The podcast explores how we can financially strengthen our cities, towns, and neighborhoods and, in the process, make them better places to live.
 *   [The Urban Planner's Podcast](https://www.gigitheplanner.com/podcast) - This podcast is for urban planners, urban planning students and those interested in the topic of urban planning.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Books
 
@@ -312,7 +306,7 @@
 
 
 
-## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [10. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Readings
 

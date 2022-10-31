@@ -17,7 +17,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 *   [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-*   [GitHub repo](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration.
+*   [GitHub repo (⭐25k)](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration.
 
 ## Boxes
 
@@ -26,7 +26,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *   [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
 *   [Vagrant Cloud](https://app.vagrantup.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 *   [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
-*   [Baseboxes from Opscode](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
+*   [Baseboxes from Opscode (⭐4k)](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 *   [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
 *   [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
@@ -39,24 +39,24 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 *You can install these modules by this command `vagrant plugin install MODULE-NAME`*
 
-*   [List of available Vagrant plugins from GitHub wiki](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins).
-*   [vagrant-vbguest](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version).
-*   [vagrant-hostsupdater](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
+*   [List of available Vagrant plugins from GitHub wiki (⭐25k)](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins).
+*   [vagrant-vbguest (⭐2.9k)](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version).
+*   [vagrant-hostsupdater (⭐1.2k)](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
 *   [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
-*   [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
-*   [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
-*   [sahara](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
-*   [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
-*   [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle).
-*   [vagrant-scp](https://github.com/invernizzi/vagrant-scp) - Copy files to a Vagrant VM via SCP.
+*   [vagrant-host-shell (⭐116)](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
+*   [vagrant-ansible-local (⭐65)](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
+*   [sahara (⭐732)](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
+*   [vagrant-registration (⭐52)](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
+*   [vagrant-service-manager (⭐18)](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB) (⭐82)](https://github.com/projectatomic/adb-atomic-developer-bundle).
+*   [vagrant-scp (⭐292)](https://github.com/invernizzi/vagrant-scp) - Copy files to a Vagrant VM via SCP.
 
 ## Helpers / Tools
 
 *   [Packer](https://www.packer.io/) - a tool for creating identical machine images for multiple platforms from a single source configuration. For fast infrastructure deployment with multi-provider portability.
-*   [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - boilerplate to create, develop and deploy a Docker Swarm environment, using Vagrant to reproduce production environment locally.
-*   [Veewee](https://github.com/jedi4ever/veewee) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
-*   [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation.
-*   [CLI Vagrant Manager](https://github.com/MunGell/vgm) - simple command-line tool to manage multiple vagrant boxes
+*   [T.A.D.S. boilerplate (⭐609)](https://github.com/Thomvaill/tads-boilerplate) - boilerplate to create, develop and deploy a Docker Swarm environment, using Vagrant to reproduce production environment locally.
+*   [Veewee (⭐4.3k)](https://github.com/jedi4ever/veewee) - a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images.
+*   [Vagrant plugin for ZSH shell (⭐151k)](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) - auto-complete for commands, task names, box names and built-in documentation.
+*   [CLI Vagrant Manager (⭐15)](https://github.com/MunGell/vgm) - simple command-line tool to manage multiple vagrant boxes
 
 ## Desktop tools
 
@@ -103,14 +103,14 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 ## Popular readymade environments
 
-*   [Vagrantpress](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites.
-*   [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development.
-*   [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant).
+*   [Vagrantpress (⭐739)](https://github.com/vagrantpress/vagrantpress) - development environment for creating and modifying WordPress sites.
+*   [Varying Vagrant Vagrants (⭐4.6k)](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development.
+*   [Joomla-Vagrant (⭐143)](https://github.com/joomlatools/joomlatools-vagrant).
 *   [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
 *   [Drupal VM](https://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
-*   [Try Yii2](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
-*   [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
-*   [OpenStack on Ansible with Vagrant](https://github.com/openstack-ansible/openstack-ansible).
+*   [Try Yii2 (⭐50)](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
+*   [Laravel4-Vagrant (⭐488)](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
+*   [OpenStack on Ansible with Vagrant (⭐219)](https://github.com/openstack-ansible/openstack-ansible).
 *   [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 16.04 LTS, PHP 7, Nginx, and multiple database platforms.
 *   [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
 

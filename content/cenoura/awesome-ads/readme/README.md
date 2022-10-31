@@ -74,7 +74,7 @@ A curated list of awesome advertising content, resources and libraries.
 
 ## GAM Libraries / Tools
 
-*   React DFP - [GitHub](https://github.com/jaanauati/react-dfp) | [Docs](http://react-dfp.ml/) - React library to implement Google Ad Manager on your website.
+*   React DFP - [GitHub (⭐123)](https://github.com/jaanauati/react-dfp) | [Docs](http://react-dfp.ml/) - React library to implement Google Ad Manager on your website.
 
 ## Facebook / Instagram
 
@@ -99,8 +99,8 @@ A curated list of awesome advertising content, resources and libraries.
 
 ## Prebid Libraries / Tools
 
-*   [Prebid + GAM setup tool](https://github.com/kmjennison/dfp-prebid-setup) - An automated line item generator for Prebid.js and Google Ad Manager.
-*   React Prebid - [GitHub](https://github.com/technology-ebay-de/react-prebid) | [Docs](https://github.com/technology-ebay-de/react-prebid/wiki) - React library to implement Google Ad Manager on your website.
+*   [Prebid + GAM setup tool (⭐110)](https://github.com/kmjennison/dfp-prebid-setup) - An automated line item generator for Prebid.js and Google Ad Manager.
+*   React Prebid - [GitHub (⭐43)](https://github.com/technology-ebay-de/react-prebid) | [Docs (⭐43)](https://github.com/technology-ebay-de/react-prebid/wiki) - React library to implement Google Ad Manager on your website.
 
 ## Newsletters
 
@@ -110,13 +110,13 @@ A curated list of awesome advertising content, resources and libraries.
 
 ## Contributing
 
-Contributions to this list are always welcome! Take a look at [contribution guidelines](https://github.com/cenoura/awesome-ads/blob/master/CONTRIBUTING.md) and feel free to open a PR adding/updating items.
+Contributions to this list are always welcome! Take a look at [contribution guidelines (⭐74)](https://github.com/cenoura/awesome-ads/blob/master/CONTRIBUTING.md) and feel free to open a PR adding/updating items.
 
 ## Contact
 
-If you have any questions or suggestions about this list, do not hesitate to contact me on Twitter [@\_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
+If you have any questions or suggestions about this list, do not hesitate to contact me on Twitter [@\_seunoura](https://twitter.com/_seunoura) or [open an issue (⭐74)](https://github.com/cenoura/awesome-ads/issues/new).
 
 ## License
 
-This work is licensed under [Creative Commons Attribution 4.0 International](https://github.com/cenoura/awesome-ads/blob/master/LICENSE).
+This work is licensed under [Creative Commons Attribution 4.0 International (⭐74)](https://github.com/cenoura/awesome-ads/blob/master/LICENSE).
 

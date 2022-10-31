@@ -26,7 +26,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 
 ## Introductions
 
-*   [Awesome Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
+*   [Awesome Recursion Schemes (⭐1.1k)](https://github.com/passy/awesome-recursion-schemes) - A curation of useful resources for learning about and using recursion schemes.
 *   [Practical Recursion Schemes](https://jtobin.io/practical-recursion-schemes) -
     Introduction to pattern functors, fix points, anamorphisms, catamorphisms,
     paramorphisms and hylomorphisms, requiring very little prior knowledge.
@@ -52,7 +52,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
 *   [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post) - Practical examples of pre- and postpromorphisms by Jared Tobin.
 *   [Time Traveling Recursion Schemes](https://jtobin.io/time-traveling-recursion) - Exploring histo and futu by example by Jared Tobin.
 *   [Recursion Schemes, Part IV: Time is of the Essence](http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/) - Practical article about histomorphism and the futumorphism.
-*   [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals.
+*   [Cheat Sheet (⭐204)](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) - Map of various recursion schemes and their duals.
 *   [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) - Showing that the Visitor pattern implements an f-algebra for use with a catamorphism (in Java).
 *   [Recursion Schemes in Scala](https://free.cofree.io/2017/11/13/recursion/) - Introduces the fixpoint combinator, anamorphism, catamorphism, hylomorphism, paramorphism, apomorphism, histomorphism, dynamorphism and futumorphism.
 *   [What's in a Fold: The Basic Catamorphism in recursion-schemes](https://duplode.github.io/posts/whats-in-a-fold.html) - Introduces catamorphism as a generalization of fold.
@@ -90,7 +90,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
     Presented by Anthony Burzillo at the NYC Haskell User's Group.
 *   [A Gentle Introduction to Recursion Schemes](https://www.youtube.com/watch?v=i5A2Amfcir8) -
     Presented by Jean Remi Desjardins at Lambdaconf 2016.
-*   [recursion-scheme-talk](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
+*   [recursion-scheme-talk (⭐204)](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
 *   [Bracer: Transforming Real-World Languages with Coproducts and Recursion Schemes](https://www.youtube.com/watch?v=5Kr7IykGMzU) - High-level talk about structuring programs with coproducts and recursion schemes by Patrick Thomson.
 *   [Recursion: Where Functional Programming Hits Bottom](https://www.youtube.com/watch?v=24UoRaoKLjM) - Introduction to recursive fix point data structures and recursion schemes in Haskell and Scala by Greg Pfeil.
 *   [Programming with algebras](https://www.youtube.com/watch?v=-98fR9VmLbQ) - Bartosz Milewski's article in talk form, presented at LambdaCon.
@@ -113,23 +113,23 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
 
 ## Implementations
 
-*   [recursion-schemes](https://github.com/ekmett/recursion-schemes/) for
+*   [recursion-schemes (⭐310)](https://github.com/ekmett/recursion-schemes/) for
     Haskell - The canonical implementation by Edward Kmett.
-*   [Matryoshka](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
+*   [Matryoshka (⭐795)](https://github.com/slamdata/matryoshka) for Scala using Scalaz -
     Generalized folds, unfolds, and traversals for fixed point data structures.
-*   [andyscott/droste](https://github.com/andyscott/droste) for Scala using Cats -
+*   [andyscott/droste (⭐351)](https://github.com/andyscott/droste) for Scala using Cats -
     Generalized folds, unfolds, and traversals for fixed point data structures.
-*   [recursion\_schemes](https://github.com/vmchale/recursion_schemes/) for
+*   [recursion\_schemes (⭐60)](https://github.com/vmchale/recursion_schemes/) for
     Idris, based off Edward Kmett's Haskell library.
-*   [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript -
+*   [purescript-matryoshka (⭐57)](https://github.com/slamdata/purescript-matryoshka) for PureScript -
     Work-in-process port of matryoshka.
-*   [recursion](https://github.com/vmchale/recursion) for ATS - Demonstration of
+*   [recursion (⭐8)](https://github.com/vmchale/recursion) for ATS - Demonstration of
     recursion schemes in ATS.
-*   [dada](https://github.com/sellout/dada) for Dhall - a library for recursion
+*   [dada (⭐58)](https://github.com/sellout/dada) for Dhall - a library for recursion
     schemes in Dhall.
-*   [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
-    Schemes for data structures written in the style of [flow-static-land](https://github.com/gcanti/flow-static-land).
-*   [Katalyst](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
+*   [static-land-recursion-schemes (⭐21)](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
+    Schemes for data structures written in the style of [flow-static-land (⭐415)](https://github.com/gcanti/flow-static-land).
+*   [Katalyst (⭐22)](https://github.com/aedans/Katalyst) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
 
 ## License
 

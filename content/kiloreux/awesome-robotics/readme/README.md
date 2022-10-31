@@ -55,7 +55,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 *   [Learning Computing With Robots](http://wiki.roboteducation.org/Introduction_to_Computer_Science_via_Robots)
 *   [Robotics, Vision and Control: Fundamental Algorithms in MATLAB (Springer Tracts in Advanced Robotics)](http://www.amazon.com/Robotics-Vision-Control-Fundamental-Algorithms/dp/3642201431)  :dollar:
 *   [INTECH Books](http://www.intechopen.com/subjects/robotics)
-*   [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
+*   [Introduction to Autonomous Robots (⭐1.5k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 *   [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 *   [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) \[[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
 *   [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) :dollar:
@@ -219,20 +219,20 @@ Central repository for open-source Unity packages, tutorials, and other resource
 *   [StackExachange Robotics community](https://robotics.stackexchange.com)
 *   [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 *   [Linorobot](https://linorobot.org/) A suite of DIY ROS compatible robots
-*   [Hexapod Robot Simulator](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
-*   [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
+*   [Hexapod Robot Simulator (⭐466)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
+*   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
 
 ### Related awesome lists
 
-*   [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-*   [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-*   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-*   [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-*   [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-*   [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
-*   [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
-*   [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
-*   [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
-*   [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
-*   [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
+*   [Awesome Artificial Intelligence (⭐7.1k)](https://github.com/owainlewis/awesome-artificial-intelligence)
+*   [Awesome Computer Vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision)
+*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Deep Learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
+*   [Awesome Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision)
+*   [Awesome Gazebo (⭐103)](https://github.com/fkromer/awesome-gazebo)
+*   [Awesome Reinforcement Learning (⭐7.9k)](https://github.com/aikorea/awesome-rl/)
+*   [Awesome Robotics (⭐628)](https://github.com/ahundt/awesome-robotics)
+*   [Awesome Robotics Libraries (⭐1.6k)](https://github.com/jslee02/awesome-robotics-libraries)
+*   [Awesome ROS2 (⭐1.1k)](https://github.com/fkromer/awesome-ros2)
+*   [Awesome RoboCupJunior Soccer (⭐16)](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)
 

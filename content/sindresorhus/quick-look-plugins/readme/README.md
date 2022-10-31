@@ -42,23 +42,23 @@ And run this to remove the attributes:
 
 ## Plugins
 
-### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
+### [QLColorCode (⭐608)](https://github.com/anthonygelibert/QLColorCode)
 
 > Preview source code files with syntax highlighting
 
-Run `brew install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases/latest)
+Run `brew install qlcolorcode` or [download manually (⭐608)](https://github.com/anthonygelibert/QLColorCode/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
-### [QLStephen](https://github.com/whomwah/qlstephen)
+### [QLStephen (⭐2.6k)](https://github.com/whomwah/qlstephen)
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
 
-Run `brew install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
+Run `brew install qlstephen` or [download manually (⭐2.6k)](https://github.com/whomwah/qlstephen/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
 
-### [QLMarkdown](https://github.com/toland/qlmarkdown)
+### [QLMarkdown (⭐3.1k)](https://github.com/toland/qlmarkdown)
 
 > Preview Markdown files
 
@@ -86,11 +86,11 @@ The legacy BetterZipQL plugin can be [downloaded here](https://macitbetter.com/d
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/BetterZipQL.png)](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
-### [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
+### [qlImageSize (⭐1.1k)](https://github.com/Nyx0uf/qlImageSize)
 
 > Display image size and resolution
 
-Run `brew install qlimagesize` or [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
+Run `brew install qlimagesize` or [download manually (⭐1.1k)](https://github.com/Nyx0uf/qlImageSize#installation)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
@@ -110,19 +110,19 @@ Run `brew install apparency` or [download manually](https://mothersruin.com/soft
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Apparency.png)](https://mothersruin.com/software/Apparency/)
 
-### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
+### [QuickLookASE (⭐35)](https://github.com/rsodre/QuickLookASE)
 
 > Preview Adobe ASE Color Swatches generated with Adobe Photoshop, Adobe Illustrator, [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](https://www.colourlovers.com), [Prisma](http://www.codeadventure.com), among many others.
 
-Run `brew install quicklookase` or [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
+Run `brew install quicklookase` or [download manually (⭐35)](https://github.com/rsodre/QuickLookASE/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
 
-### [QLVideo](https://github.com/Marginal/QLVideo)
+### [QLVideo (⭐2.1k)](https://github.com/Marginal/QLVideo)
 
 > Preview most types of video files, as well as their thumbnails, cover art and metadata
 
-Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
+Run `brew install qlvideo` or [download manually (⭐2.1k)](https://github.com/Marginal/QLVideo/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
@@ -138,45 +138,45 @@ Purchase on the [Mac App Store](https://apps.apple.com/app/peek-quick-look-exten
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/Peek.png)](https://bigzlabs.com/peek)
 
-### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
+### [ProvisionQL (⭐2.1k)](https://github.com/ealeksandrov/ProvisionQL)
 
 > Preview iOS / macOS app and provision information
 
-Run `brew install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
+Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
-### [QuickLookAPK](https://github.com/hezi/QuickLookAPK)
+### [QuickLookAPK (⭐137)](https://github.com/hezi/QuickLookAPK)
 
 > Preview Android APK files
 
-Run `brew install quicklookapk` or [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
+Run `brew install quicklookapk` or [download manually (⭐137)](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
 
-### [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat)
+### [quicklook-pat (⭐29)](https://github.com/pixelrowdies/quicklook-pat)
 
 > Preview Adobe Photoshop pattern files
 
-Run `brew install quicklook-pat` or [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
+Run `brew install quicklook-pat` or [download manually (⭐29)](https://github.com/pixelrowdies/quicklook-pat/releases)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
-### [WebP](https://github.com/dchest/webp-quicklook)
+### [WebP (⭐279)](https://github.com/dchest/webp-quicklook)
 
 > Preview WebP images
 
 > NOTE: This is already covered by `qlImageSize`, so this plugin is listed here only in case you do not like `qlImageSize`.
 
-Run `brew install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
+Run `brew install webpquicklook` or [download manually (⭐279)](https://github.com/dchest/webp-quicklook/releases/latest)
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
-### [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
+### [SourceCodeSyntaxHighlight (⭐1.6k)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 
 > Preview many different source code files
 
-Run `brew install --cask --no-quarantine syntax-highlight` or [download manually](https://github.com/sbarex/SourceCodeSyntaxHighlight/releases/latest)
+Run `brew install --cask --no-quarantine syntax-highlight` or [download manually (⭐1.6k)](https://github.com/sbarex/SourceCodeSyntaxHighlight/releases/latest)
 
 [![](https://user-images.githubusercontent.com/8471055/118415204-5f53fc80-b6a9-11eb-93d8-b88c442c5744.png)](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 

@@ -26,7 +26,7 @@ If you found a JS Tip useful or if you like a writer of the community, you can s
 
 Sure, you can help the project in two ways: sending a tip or reviewing future tips.
 Any improvements or suggestions are more than welcome!
-[Instructions are here](https://github.com/loverajoel/jstips/blob/master/CONTRIBUTING.md).
+[Instructions are here (⭐12k)](https://github.com/loverajoel/jstips/blob/master/CONTRIBUTING.md).
 
 ### Let’s keep in touch
 
@@ -34,8 +34,8 @@ There are a lot of ways to get updates:
 
 *   [Official Blog](http://www.jstips.co)
 *   [Official Twitter Account](https://twitter.com/tips_js)
-*   [Hubot](https://github.com/dggriffin/hubot-jstips)
-*   [Slackbot](https://github.com/radibit/js-tips-slack-bot)
+*   [Hubot (⭐8)](https://github.com/dggriffin/hubot-jstips)
+*   [Slackbot (⭐19)](https://github.com/radibit/js-tips-slack-bot)
 *   [iOS App](https://goo.gl/Y9WiBc)
 
 > Don't forget to Star★ the repo, as this helps promote the project!
@@ -194,5 +194,5 @@ There are a lot of ways to get updates:
 
 ### License
 
-[GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)
+[GNU GENERAL PUBLIC LICENSE (⭐12k)](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)
 

@@ -61,7 +61,7 @@ This list is a collection of useful resources to create decentralized applicatio
 
 ## Learn
 
-*   [Ride introduction](https://github.com/wavesplatform/ride-introduction) - Shortest and simplest explanation of Ride.\
+*   [Ride introduction (⭐18)](https://github.com/wavesplatform/ride-introduction) - Shortest and simplest explanation of Ride.\
     Available in other languages: [French](https://medium.com/@crashartifacts/introduction-%C3%A0-ride-ad6c413f98ee).
 *   [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
     Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](https://github.com/msmolyakov/awesome-waves/blob/master/README.md/stepik.org/course/56120), [French](https://github.com/msmolyakov/awesome-waves/blob/master/README.md/stepik.org/course/55963), [Greek](https://stepik.org/course/56168), [Hindi](https://stepik.org/course/56024), [Japanese](https://github.com/msmolyakov/awesome-waves/blob/master/README.md/stepik.org/course/56157), [Portuguese](https://stepik.org/course/56162), [Russian](https://stepik.org/course/56401), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
@@ -97,7 +97,7 @@ This list is a collection of useful resources to create decentralized applicatio
 *   [Waves Keeper](https://wavesprotocol.org/protocol/keeper) - Official browser extension allows to manage private keys and interact securely and seamlessly with Waves-enabled web services and dApps.
 *   [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) - Wallet for iPhone by Waves.Exchange.
 *   [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) - Wallet for Android devices by Waves.Exchange.
-*   [WavesFX](https://github.com/wavesfx/wavesfx) - A community-driven native desktop wallet for Windows, macOS and Linux, which offers users multi-network and multi-address functionality.
+*   [WavesFX (⭐22)](https://github.com/wavesfx/wavesfx) - A community-driven native desktop wallet for Windows, macOS and Linux, which offers users multi-network and multi-address functionality.
 
 ### Explorer
 
@@ -108,9 +108,9 @@ This list is a collection of useful resources to create decentralized applicatio
 ### Other
 
 *   [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
-*   [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on GitHub.
+*   [Node (⭐1.2k)](https://github.com/wavesplatform/Waves) - Waves Node repository on GitHub.
 *   [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
-*   [Go Node](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
+*   [Go Node (⭐72)](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 *   [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
 *   [Waves Oracles](https://oracles.wavesexplorer.com/) - Catalog of Oracles.
 *   [Token Rating](https://tokenrating.wavesexplorer.com) - Provides a means to rate and aggregate the opinions of the entire Waves community about tokens (projects) issued on the Waves platform.
@@ -147,72 +147,72 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### The Ride programming language
 
 *   [Waves IDE](https://waves-ide.com/) - Online IDE to create smart contracts on Ride.
-*   [ride-examples](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using Ride.
+*   [ride-examples (⭐30)](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using Ride.
 *   [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support Ride.
-*   [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for Ride syntax highlighting.
-*   [surfboard](https://github.com/wavesplatform/Surfboard) - CLI to work with the Ride language and testing.
-*   [Paddle](https://github.com/msmolyakov/paddle) - Java library to write tests for your dApps and other smart contracts.
+*   [vim-ride (⭐4)](https://github.com/rosmanov/vim-ride) - Vim plugin for Ride syntax highlighting.
+*   [surfboard (⭐12)](https://github.com/wavesplatform/Surfboard) - CLI to work with the Ride language and testing.
+*   [Paddle (⭐11)](https://github.com/msmolyakov/paddle) - Java library to write tests for your dApps and other smart contracts.
 
 ### Client libraries
 
 #### C/C++
 
-*   [waves-c](https://github.com/wavesplatform/waves-c) - C library to work with Waves.
-*   [wavespp](https://github.com/wavesplatform/wavespp) - C++ wrapper for the [waves-c](https://github.com/wavesplatform/waves-c) library.
-*   [nanos-app-waves](https://github.com/wavesplatform/nanos-app-waves) - Waves wallet application for Ledger Nano S.
+*   [waves-c (⭐10)](https://github.com/wavesplatform/waves-c) - C library to work with Waves.
+*   [wavespp (⭐2)](https://github.com/wavesplatform/wavespp) - C++ wrapper for the [waves-c (⭐10)](https://github.com/wavesplatform/waves-c) library.
+*   [nanos-app-waves (⭐17)](https://github.com/wavesplatform/nanos-app-waves) - Waves wallet application for Ledger Nano S.
 
 #### C\#
 
-*   [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library to interact with the Waves blockchain.
+*   [WavesCS (⭐29)](https://github.com/wavesplatform/WavesCS) - C# library to interact with the Waves blockchain.
 
 #### Java/Kotlin
 
-*   [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - Kotlin SDK for Mobile Apps on Android.
-*   [WavesJ](https://github.com/wavesplatform/WavesJ) - Java library to interact with the Waves blockchain and DEX.
-*   [waves-crypto-java](https://github.com/msmolyakov/waves-crypto-java) - Library to work with cryptographic primitives used in the Waves blockchain.
+*   [WavesSDK-android (⭐16)](https://github.com/wavesplatform/WavesSDK-android) - Kotlin SDK for Mobile Apps on Android.
+*   [WavesJ (⭐41)](https://github.com/wavesplatform/WavesJ) - Java library to interact with the Waves blockchain and DEX.
+*   [waves-crypto-java (⭐0)](https://github.com/msmolyakov/waves-crypto-java) - Library to work with cryptographic primitives used in the Waves blockchain.
 
 #### JavaScript/TypeScript
 
-*   [Waves Signer](https://github.com/wavesplatform/signer) - library to interact with the Waves blockchain from your web app ([example provider](https://github.com/waves-exchange/provider-web)).
-*   [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) - Waves Signer implementation for Vue.js.
-*   [pay-crypto-widget](https://github.com/vlzhr/pay-crypto-widget) - JS widget for accepting crypto payments on your website.
-*   [crypto-donate](https://github.com/vlzhr/crypto-donate) - HTML widget allowing to donate Waves tokens to content authors.
-*   [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
-*   [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
+*   [Waves Signer (⭐23)](https://github.com/wavesplatform/signer) - library to interact with the Waves blockchain from your web app ([example provider (⭐6)](https://github.com/waves-exchange/provider-web)).
+*   [vue-waves-signer (⭐2)](https://github.com/opensolutionsweb3/vue-waves-signer) - Waves Signer implementation for Vue.js.
+*   [pay-crypto-widget (⭐9)](https://github.com/vlzhr/pay-crypto-widget) - JS widget for accepting crypto payments on your website.
+*   [crypto-donate (⭐3)](https://github.com/vlzhr/crypto-donate) - HTML widget allowing to donate Waves tokens to content authors.
+*   [waves-transactions (⭐29)](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
+*   [ts-lib-crypto (⭐10)](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
 
 #### Go
 
-*   [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
+*   [go-lib-crypto (⭐5)](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
 
 #### PHP
 
-*   [WavesKit](https://github.com/deemru/WavesKit) - All-in-one Waves Platform development kit for the PHP language.
+*   [WavesKit (⭐25)](https://github.com/deemru/WavesKit) - All-in-one Waves Platform development kit for the PHP language.
 
 #### Python
 
-*   [PyWaves](https://github.com/PyWaves/PyWaves) - Object-oriented library for the Waves blockchain platform.
-*   [ERC20 Gateway Framework](https://github.com/PyWaves/Waves-ERC20-Gateway) - Allows to easily establish a gateway between any ERC-20 token and the Waves blockchain ([example](https://github.com/iammortimer/TN-WAVES-Gateway)).
-*   [Waves-Gateway-Framework](https://github.com/jansenmarc/WavesGatewayFramework) - A framework to connect other cryptocurrencies to the Waves blockchain ([LTC example](https://github.com/jansenmarc/WavesGatewayLTCExample)).
+*   [PyWaves (⭐114)](https://github.com/PyWaves/PyWaves) - Object-oriented library for the Waves blockchain platform.
+*   [ERC20 Gateway Framework (⭐7)](https://github.com/PyWaves/Waves-ERC20-Gateway) - Allows to easily establish a gateway between any ERC-20 token and the Waves blockchain ([example (⭐0)](https://github.com/iammortimer/TN-WAVES-Gateway)).
+*   [Waves-Gateway-Framework (⭐23)](https://github.com/jansenmarc/WavesGatewayFramework) - A framework to connect other cryptocurrencies to the Waves blockchain ([LTC example (⭐7)](https://github.com/jansenmarc/WavesGatewayLTCExample)).
 
 #### Rust
 
-*   [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
-*   [waves-lib-rust](https://github.com/waves-rust/waves-lib-rust) - Library to work with Waves blockchain.
+*   [WavesRS (⭐0)](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
+*   [waves-lib-rust (⭐1)](https://github.com/waves-rust/waves-lib-rust) - Library to work with Waves blockchain.
 
 #### Swift
 
-*   [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS.
+*   [WavesSDK-iOS (⭐18)](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS.
 
 ### Blockchain utils
 
-*   [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
-*   [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
+*   [chaincmp (⭐72)](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
+*   [Node Tools extension (⭐7)](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 *   [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
 
 ### Other tools
 
-*   [sh-Ride-brush](https://github.com/msmolyakov/sh-Ride-brush) - SyntaxHighlighter brush for the Ride language.
-*   [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) - The [Pygments](https://github.com/pygments/pygments) highlighter oficially supports the Ride out of the box.
+*   [sh-Ride-brush (⭐1)](https://github.com/msmolyakov/sh-Ride-brush) - SyntaxHighlighter brush for the Ride language.
+*   [Ride for Pygments (⭐1.1k)](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) - The [Pygments (⭐1.1k)](https://github.com/pygments/pygments) highlighter oficially supports the Ride out of the box.
 
 ## Built on Waves
 
@@ -231,15 +231,15 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Projects
 
-*   [Neutrino](https://github.com/ventuary-lab/neutrino-contract) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
+*   [Neutrino (⭐10)](https://github.com/ventuary-lab/neutrino-contract) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
 *   [Billy](https://iambilly.app) - A motivation tool for teams. Billy offers a product to create an atmosphere of cooperation, focus the company on the core values, and incentivize sharing by creating an in-team economy.
 *   [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 *   [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 *   [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
-*   [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in Ride ([example of trading bot](https://github.com/vlzhr/waveflow-trading-bot)).
+*   [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in Ride ([example of trading bot (⭐11)](https://github.com/vlzhr/waveflow-trading-bot)).
 *   [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 *   [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
-*   [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
+*   [WavesAffi (⭐1)](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
 *   [One Million Pixel Waves](https://www.onemillionpixelwaves.com/) - Smart Contract powered website entirely running on the Waves blockchain where anyone can own a piece of the blockchain and immortalize it with an image and a link.
 *   [Signature Chain](https://www.signature-chain.com/) - Signature Chain's primary goal is to develop a platform allowing the certification of files and documents.
 *   [Auctionlance Platform](https://beta.auctionlance.com) - Freelancer marketplace where clients hire and pay freelancers with Waves, Waves tokens and other cryptocurrencies.

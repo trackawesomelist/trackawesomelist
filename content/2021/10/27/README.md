@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 27, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,13 +59,19 @@
 
 *   [Civic Tech Field Guide](https://www.planetizen.com/features/115081-top-websites-urban-planning-2021) - Similar to this repo, a collection of resources of the Civic Tech Field Guide have been crowdsourced by civic tech practitioners from over 100 countries around the world.
 
-## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [6. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### IDE and editors
+
+*   [PHPStorm Tips & Tricks](https://www.youtube.com/playlist?list=PLk9WlAgeZoTfHdJUv75-5grVQf4ijIrzw) - Christoph Rumpel (screencast)
+
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Icons
 
 *   [react-icomoon (⭐138)](https://github.com/aykutkardas/react-icomoon) - With react-icomoon you can easily use the icons you have selected or created in icomoon.
 
-## [7. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
+## [8. Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md)
 
 ### Design Patterns / Scalability and Resilience
 
@@ -77,7 +83,7 @@
 
 *   [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Blockchain
 
@@ -375,13 +381,13 @@
 
 
 
-## [9. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [10. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Storage / Database
 
 *   [uSQLite (⭐35)](https://github.com/spatialdude/usqlite) - SQLite library module for MicroPython.
 
-## [10. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [11. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Functional Programming
 
@@ -391,13 +397,13 @@
 
 *   [decline (⭐564)](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 
-## [11. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Starters & Themes
 
 *   🚀 [Vitailse (⭐101)](https://github.com/zynth17/vitailse) - Opinionated Vite starter template with Vue 3, TypeScript and Tailwind CSS.
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Database
 
@@ -445,7 +451,7 @@
         *   [bonifaido/rust-zookeeper (⭐165)](https://github.com/bonifaido/rust-zookeeper) \[[zookeeper](https://crates.io/crates/zookeeper)] — A client library for Apache ZooKeeper. [![build badge](https://api.travis-ci.org/bonifaido/rust-zookeeper.svg?branch=master)](https://travis-ci.org/bonifaido/rust-zookeeper)
         *   [krojew/rust-zookeeper (⭐15)](https://github.com/krojew/rust-zookeeper) \[[zookeeper-async](https://crates.io/crates/zookeeper-async)] - Async Zookeeper client written 100% in Rust, based on tokio.  ![build status](https://github.com/krojew/rust-zookeeper/actions/workflows/rust.yml/badge.svg)
 
-## [13. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [14. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Self-Hosted
 
@@ -456,7 +462,7 @@
 
 *   [Dim (⭐3k)](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data and ML
 

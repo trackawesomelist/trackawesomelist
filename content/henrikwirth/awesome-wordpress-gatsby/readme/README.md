@@ -88,57 +88,57 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 
 #### Essential Plugins
 
-*   [WPGraphQL](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
+*   [WPGraphQL (⭐3.3k)](https://github.com/wp-graphql/wp-graphql) - [Documentation](https://docs.wpgraphql.com/) - WPGraphQL brings the power of GraphQL to your WordPress site.
 *   [WPGatsby](https://wordpress.org/plugins/wp-gatsby/) - This plugin configures your WordPress site to be an optimized source for Gatsby.
 
 #### WPGraphQL Extensions
 
-*   [WPGraphQL Cors](https://github.com/funkhaus/wp-graphql-cors) - This FREE plugin from @kidunot89 and @byfunkhaus claims to enable authentication with WPGraphQL to “just work” by allowing you to set CORS headers that GraphQL will accept, which means WordPress default auth cookies can be accepted.
-*   [Total Counts for WPGraphQL](https://github.com/builtbycactus/total-counts-for-wp-graphql) - This FREE plugin from @builtbycactus exposes total counts to connections in the WPGraphQL Schema.
-*   [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) - Exposes Gutenberg blocks to the WPGraphQL API.
-*   [WPGraphQL JWT Authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).
-*   [WPGraphQL Lock](https://github.com/valu-digital/wp-graphql-lock) - Enables query locking for WPGraphQL by implementing persisted GraphQL queries.
-*   [WPGraphQL Meta](https://github.com/roborourke/wp-graphql-meta) - This FREE plugin from @robertorourke exposes meta registered via the WordPress register\_meta API to WPGraphQL.
-*   [WPGraphQL Meta Query](https://github.com/wp-graphql/wp-graphql-meta-query) - Adds Meta\_Query support to the WPGraphQL Plugin for postObject query args.
-*   [WPGraphQL Persisted Queries](https://github.com/Quartz/wp-graphql-persisted-queries) - This FREE plugin from @qz adds the ability to use Persisted Queries with WPGraphQL.
-*   [WPGraphQL Offset Pagination](https://github.com/darylldoyle/wp-graphql-offset-pagination) - This FREE plugin from @enshrined adds basic offset pagination as opposed to the standard Cursor based pagination that ships with WPGraphQL.
-*   [WPGraphQL Send Email](https://github.com/ashhitch/wp-graphql-send-mail) - This FREE plugin from @Ash\_Hitchcock allows you to send emails via a simple mutation. Includes the abilitty to restrict sending to trusted origins.
+*   [WPGraphQL Cors (⭐80)](https://github.com/funkhaus/wp-graphql-cors) - This FREE plugin from @kidunot89 and @byfunkhaus claims to enable authentication with WPGraphQL to “just work” by allowing you to set CORS headers that GraphQL will accept, which means WordPress default auth cookies can be accepted.
+*   [Total Counts for WPGraphQL (⭐12)](https://github.com/builtbycactus/total-counts-for-wp-graphql) - This FREE plugin from @builtbycactus exposes total counts to connections in the WPGraphQL Schema.
+*   [WPGraphQL Gutenberg (⭐260)](https://github.com/pristas-peter/wp-graphql-gutenberg) - Exposes Gutenberg blocks to the WPGraphQL API.
+*   [WPGraphQL JWT Authentication (⭐261)](https://github.com/wp-graphql/wp-graphql-jwt-authentication) - Extends the WPGraphQL plugin to provide authentication using JWT (JSON Web Tokens).
+*   [WPGraphQL Lock (⭐21)](https://github.com/valu-digital/wp-graphql-lock) - Enables query locking for WPGraphQL by implementing persisted GraphQL queries.
+*   [WPGraphQL Meta (⭐18)](https://github.com/roborourke/wp-graphql-meta) - This FREE plugin from @robertorourke exposes meta registered via the WordPress register\_meta API to WPGraphQL.
+*   [WPGraphQL Meta Query (⭐40)](https://github.com/wp-graphql/wp-graphql-meta-query) - Adds Meta\_Query support to the WPGraphQL Plugin for postObject query args.
+*   [WPGraphQL Persisted Queries (⭐18)](https://github.com/Quartz/wp-graphql-persisted-queries) - This FREE plugin from @qz adds the ability to use Persisted Queries with WPGraphQL.
+*   [WPGraphQL Offset Pagination (⭐13)](https://github.com/darylldoyle/wp-graphql-offset-pagination) - This FREE plugin from @enshrined adds basic offset pagination as opposed to the standard Cursor based pagination that ships with WPGraphQL.
+*   [WPGraphQL Send Email (⭐18)](https://github.com/ashhitch/wp-graphql-send-mail) - This FREE plugin from @Ash\_Hitchcock allows you to send emails via a simple mutation. Includes the abilitty to restrict sending to trusted origins.
 
 ***
 
 **Extensions for that use other plugins with WPGraphQL**
 
-*   [QL Search](https://github.com/funkhaus/ql-search) - An extension that integrates SearchWP into WPGraphQL.
-*   [WPGraphQL Content Blocks](https://github.com/Quartz/wp-graphql-content-blocks) - This FREE plugin from the folks at QZ.com exposes a way to query HTML content from WordPress Posts and Pages as “Blocks” (not related to Gutenberg) to bring more structure to your queried content.
-*   [WPGraphQL Enable All Post Types (DalkMania)](https://github.com/DalkMania/wp-graphql-cpt) - This FREE plugin from @DalkMania automatically adds ALL registered post types to the WPGraphQL Schema.
-*   [WPGraphQL Enable All Post Types (TylerBarnes)](https://github.com/TylerBarnes/wp-graphql-enable-all-post-types) - This FREE plugin from @tylbar automatically adds ALL registered post types to the WPGraphQL Schema.
-*   [WPGraphQL Google Schema](https://github.com/izzygld/wp-graphql-google-schema) - This FREE plugin from @izzygld261 adds Google Schema support to WPGraphQL.
-*   [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) - Exposes ACF blocks through GraphQL
-*   [WPGraphQL MB (MetaBox)](https://github.com/DalkMania/wp-graphql-mb) - This FREE plugin from @DalkMania adds all registered metaboxes using [metabox.io](https://metabox.io/) to the WPGraphQL Schema.
-*   [WPGraphQL MetaBox Relationships](https://github.com/hsimah-services/wp-graphql-mb-relationships) - This FREE plugin from @hsimah adds support for the [metabox.io](https://metabox.io/) Relationships field to WPGraphQL (when also using his wp-graphql-metabox plugin).
-*   [WPGraphQL Polls](https://github.com/andrenoberto/wp-graphql-polls) - This FREE plugin from @andrenosouza allows you to interact with data from the WP-Polls plugin via GraphQL Queries and Mutations.
-*   [WPGraphQL Polylang Extension](https://github.com/valu-digital/wp-graphql-polylang) - Extends WPGraphQL schema with language data from the Polylang plugin.
-*   [WPGraphQL Tax Query](https://github.com/wp-graphql/wp-graphql-tax-query) - Adds Tax\_Query support to the WPGraphQL Plugin for postObject query args (WP\_Query).
-*   [WPGraphQL WPML](https://github.com/rburgst/wp-graphql-wpml) - This FREE plugin from @rburgst extends the WPGraphQL schema with language data from the WPML plugin. In addition it turns off WPML default filters in order to be able to iterate over all posts regardless of language.
-*   [WPGraphQL for Advanced Custom Fields](https://github.com/wp-graphql/wp-graphql-acf) - Exposes Advanced Custom Fields to the WPGraphQL Schema.
-*   [WPGraphQL for BuddyPress](https://github.com/wp-graphql/wp-graphql-buddypress) - This FREE plugin from @RenatoNascAlves exposes BuddyPress data to WPGraphQL.
-*   [WPGraphQL for Carbon Fields](https://github.com/matepaiva/wp-graphql-crb) - This FREE plugin from @matepaiva exposes fields registered using Carbon Fields to the WPGraphQL Schema.
-*   [WPGraphQL for Custom Post Type UI](https://github.com/wp-graphql/wp-graphql-custom-post-type-ui) - This FREE plugin adds settings to Custom Post Type UI allowing you to set which Post Types and Taxonomies registered by CPTUI should display in the WPGraphQL Schema.
-*   [WPGraphQL for FacetWP](https://github.com/hsimah-services/wp-graphql-facetwp) - This FREE plugin from @hsimah exposes filters on WPGraphQL queries to allow for faceted search with FacetWP.
-*   [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms) - This FREE plugin from @KellenMace of @harness\_up exposes @gravityforms data to WPGraphQL, allowing you to query for forms, fields, entries, and more.
-*   [WPGraphQL for Metabox](https://github.com/hsimah-services/wp-graphql-metabox) - This FREE plugin from @hsimah exposes fields registered using the popular <http://MetaBox.io> to the WPGraphQL Schema.
-*   [WPGraphQL for Ninja Forms](https://github.com/toriphes/wp-graphql-ninja-forms) - This free plugin exposes forms created by the Ninja Forms plugin to the WPGraphQL Schema and allows for the forms to be submitted via GraphQL Mutations.
-*   [WPGraphQL for Posts 2 Posts](https://github.com/harness-software/wp-graphql-posts-to-posts) - This FREE plugin from @KellenMace of @harness\_up automatically creates GraphQL connections for all of your Posts 2 Posts connections.
-*   [WPGraphQL for SEOPress](https://github.com/ashhitch/wp-graphql-yoast-seo) - This FREE plugin from @moon\_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.
-*   [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
-*   [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) - Exposes Yoast SEO data to the WPGraphQL Plugin.
+*   [QL Search (⭐11)](https://github.com/funkhaus/ql-search) - An extension that integrates SearchWP into WPGraphQL.
+*   [WPGraphQL Content Blocks (⭐72)](https://github.com/Quartz/wp-graphql-content-blocks) - This FREE plugin from the folks at QZ.com exposes a way to query HTML content from WordPress Posts and Pages as “Blocks” (not related to Gutenberg) to bring more structure to your queried content.
+*   [WPGraphQL Enable All Post Types (DalkMania) (⭐7)](https://github.com/DalkMania/wp-graphql-cpt) - This FREE plugin from @DalkMania automatically adds ALL registered post types to the WPGraphQL Schema.
+*   [WPGraphQL Enable All Post Types (TylerBarnes) (⭐4)](https://github.com/TylerBarnes/wp-graphql-enable-all-post-types) - This FREE plugin from @tylbar automatically adds ALL registered post types to the WPGraphQL Schema.
+*   [WPGraphQL Google Schema (⭐4)](https://github.com/izzygld/wp-graphql-google-schema) - This FREE plugin from @izzygld261 adds Google Schema support to WPGraphQL.
+*   [WPGraphQL Gutenberg ACF (⭐52)](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) - Exposes ACF blocks through GraphQL
+*   [WPGraphQL MB (MetaBox) (⭐7)](https://github.com/DalkMania/wp-graphql-mb) - This FREE plugin from @DalkMania adds all registered metaboxes using [metabox.io](https://metabox.io/) to the WPGraphQL Schema.
+*   [WPGraphQL MetaBox Relationships (⭐6)](https://github.com/hsimah-services/wp-graphql-mb-relationships) - This FREE plugin from @hsimah adds support for the [metabox.io](https://metabox.io/) Relationships field to WPGraphQL (when also using his wp-graphql-metabox plugin).
+*   [WPGraphQL Polls (⭐3)](https://github.com/andrenoberto/wp-graphql-polls) - This FREE plugin from @andrenosouza allows you to interact with data from the WP-Polls plugin via GraphQL Queries and Mutations.
+*   [WPGraphQL Polylang Extension (⭐97)](https://github.com/valu-digital/wp-graphql-polylang) - Extends WPGraphQL schema with language data from the Polylang plugin.
+*   [WPGraphQL Tax Query (⭐33)](https://github.com/wp-graphql/wp-graphql-tax-query) - Adds Tax\_Query support to the WPGraphQL Plugin for postObject query args (WP\_Query).
+*   [WPGraphQL WPML (⭐38)](https://github.com/rburgst/wp-graphql-wpml) - This FREE plugin from @rburgst extends the WPGraphQL schema with language data from the WPML plugin. In addition it turns off WPML default filters in order to be able to iterate over all posts regardless of language.
+*   [WPGraphQL for Advanced Custom Fields (⭐537)](https://github.com/wp-graphql/wp-graphql-acf) - Exposes Advanced Custom Fields to the WPGraphQL Schema.
+*   [WPGraphQL for BuddyPress (⭐31)](https://github.com/wp-graphql/wp-graphql-buddypress) - This FREE plugin from @RenatoNascAlves exposes BuddyPress data to WPGraphQL.
+*   [WPGraphQL for Carbon Fields (⭐16)](https://github.com/matepaiva/wp-graphql-crb) - This FREE plugin from @matepaiva exposes fields registered using Carbon Fields to the WPGraphQL Schema.
+*   [WPGraphQL for Custom Post Type UI (⭐77)](https://github.com/wp-graphql/wp-graphql-custom-post-type-ui) - This FREE plugin adds settings to Custom Post Type UI allowing you to set which Post Types and Taxonomies registered by CPTUI should display in the WPGraphQL Schema.
+*   [WPGraphQL for FacetWP (⭐29)](https://github.com/hsimah-services/wp-graphql-facetwp) - This FREE plugin from @hsimah exposes filters on WPGraphQL queries to allow for faceted search with FacetWP.
+*   [WPGraphQL for Gravity Forms (⭐132)](https://github.com/harness-software/wp-graphql-gravity-forms) - This FREE plugin from @KellenMace of @harness\_up exposes @gravityforms data to WPGraphQL, allowing you to query for forms, fields, entries, and more.
+*   [WPGraphQL for Metabox (⭐25)](https://github.com/hsimah-services/wp-graphql-metabox) - This FREE plugin from @hsimah exposes fields registered using the popular <http://MetaBox.io> to the WPGraphQL Schema.
+*   [WPGraphQL for Ninja Forms (⭐6)](https://github.com/toriphes/wp-graphql-ninja-forms) - This free plugin exposes forms created by the Ninja Forms plugin to the WPGraphQL Schema and allows for the forms to be submitted via GraphQL Mutations.
+*   [WPGraphQL for Posts 2 Posts (⭐5)](https://github.com/harness-software/wp-graphql-posts-to-posts) - This FREE plugin from @KellenMace of @harness\_up automatically creates GraphQL connections for all of your Posts 2 Posts connections.
+*   [WPGraphQL for SEOPress (⭐194)](https://github.com/ashhitch/wp-graphql-yoast-seo) - This FREE plugin from @moon\_meister exposes data managed by SEOPress to the WPGraphQL Schema, allowing for SEO data to be used in your headless applications.
+*   [WPGraphQL for WooCommerce (⭐530)](https://github.com/wp-graphql/wp-graphql-woocommerce) - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
+*   [WPGraphQl Yoast SEO Plugin (⭐194)](https://github.com/ashhitch/wp-graphql-yoast-seo) - Exposes Yoast SEO data to the WPGraphQL Plugin.
 
 #### Other helpful Plugins
 
 *   [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - [ACF PRO](https://www.advancedcustomfields.com/pro/)
 *   [Headless Mode](https://wordpress.org/plugins/headless-mode/) - Headless mode sets up a redirect for all users trying to access the site. The only requests that are granted admission are ones that are either trying to access the REST API, the WP GraphQL API, or any logged-in user looking to access the headless install to edit or create posts.
 *   [Polylang](https://wordpress.org/plugins/polylang/)
-*   [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) - WordPress plugin for JAMstack deployments on Netlify (and other platforms).
+*   [WP JAMstack Deployments (⭐254)](https://github.com/crgeary/wp-jamstack-deployments) - WordPress plugin for JAMstack deployments on Netlify (and other platforms).
 
 ### Gatsby Plugins
 
@@ -177,19 +177,19 @@ List of paid courses.
 
 List of project starters, that you can clone and start building upon.
 
-*   [Gatsby Starter - WordPress Twenty Twenty](https://github.com/henrikwirth/gatsby-starter-wordpress-twenty-twenty) - A port of the WordPress Twenty Twenty theme to Gatsby using the new gatsby-source-wordpress\@v4.
-*   [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example) - Demo showing how to use WPGraphQL as the source for Gatsby Sites.
-*   [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter) - A Gatsby + WordPress starter for continuous deployment to Netlify.
-*   [Gatsby WordPress Starter Advanced](https://github.com/henrikwirth/gatsby-starter-wordpress-advanced) - An advanced Gatsby + WordPress starter, that is built along a tutorial series and works with ACF flexible content fields to create content blocks/layouts.
-*   [Gatsby Starter Blog](https://github.com/zeevo/gatsby-starter-wordpress-blog) - Blog starter with enough features to be production ready out of the box.
+*   [Gatsby Starter - WordPress Twenty Twenty (⭐142)](https://github.com/henrikwirth/gatsby-starter-wordpress-twenty-twenty) - A port of the WordPress Twenty Twenty theme to Gatsby using the new gatsby-source-wordpress\@v4.
+*   [Gatsby + WPGraphQL Blog Example (⭐151)](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example) - Demo showing how to use WPGraphQL as the source for Gatsby Sites.
+*   [Gatsby + Headless WordPress + Netlify Starter (⭐213)](https://github.com/justinwhall/gatsby-wordpress-netlify-starter) - A Gatsby + WordPress starter for continuous deployment to Netlify.
+*   [Gatsby WordPress Starter Advanced (⭐63)](https://github.com/henrikwirth/gatsby-starter-wordpress-advanced) - An advanced Gatsby + WordPress starter, that is built along a tutorial series and works with ACF flexible content fields to create content blocks/layouts.
+*   [Gatsby Starter Blog (⭐7)](https://github.com/zeevo/gatsby-starter-wordpress-blog) - Blog starter with enough features to be production ready out of the box.
 
 ## Themes
 
 List of gatsby-themes that work with WordPress as a source, which you can use in your Gatsby setup.
 
-*   [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme) - A port of the Twenty Nineteen WordPress Theme over to Gatsby.
+*   [Twenty Nineteen Gatsby Theme (⭐73)](https://github.com/zgordon/twentynineteen-gatsby-theme) - A port of the Twenty Nineteen WordPress Theme over to Gatsby.
 *   [Gatsby WordPress Publisher Theme
-    ](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
+    &#x20;(⭐32)](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
 
 ## Contribute
 

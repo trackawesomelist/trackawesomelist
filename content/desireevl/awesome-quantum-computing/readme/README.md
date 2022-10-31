@@ -30,7 +30,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 *   [Podcasts](#podcasts)
 *   [Content in Non-English Languages](#content-in-non-english-languages)
 
-For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo](https://github.com/qosf/os_quantum_software).
+For further resources related to Open Source Quantum Software Projects, please check out qosf's [repo (⭐997)](https://github.com/qosf/os_quantum_software).
 
 ## Learning
 
@@ -44,7 +44,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 *   [Introduction to Quantum Computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) - Online introductory lectures on quantum computing by CERN (European Organization for Nuclear Research).
 *   [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/\~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 *   [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
-*   [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
+*   [Qiskit Tutorials (⭐2k)](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
 *   [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 *   [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms.
 *   [Quantum Algorithms](https://quantumalgorithms.org/) - Open-source set of lectures notes on quantum algorithms, with a focus on machine learning and data analysis.
@@ -57,7 +57,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 *   [Quantum Computing with Microsoft QDK](https://www.manning.com/liveprojectseries/quantum-computing-with-five-projects) - Manning liveProject series that guides the learner through implementation of a variety of protocols and algorithms using Microsoft QDK.
 *   [Quantum Inspire Knowledge Base](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing) - Easy to read knowledge base, rich of basic Quantum Computing concepts.
 *   [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
-*   [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
+*   [Quantum Katas (⭐4k)](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 *   [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 *   [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 *   [QWorld's Bronze-Qiskit](https://gitlab.com/qworld/bronze-qiskit) - Very accessible computation/programming oriented tutorials. It begins from basics of matrices up to grover's algorithm. There are also accompanying videos which explain the tutorials.
@@ -83,33 +83,33 @@ For further resources related to Open Source Quantum Software Projects, please c
 ## Development Tools
 
 *   [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
-*   [Blueqat](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
-*   [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
-*   [Covalent](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
+*   [Blueqat (⭐355)](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
+*   [Cirq (⭐3.6k)](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+*   [Covalent (⭐179)](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
 *   [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 *   [Mitiq](https://mitiq.readthedocs.io/) - Python toolkit for implementing error mitigation techniques on quantum computers.
-*   [NISQAI](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
+*   [NISQAI (⭐35)](https://github.com/quantumai-lib/nisqai) - Library for performing quantum artificial intelligence on near-term quantum computers.
 *   [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
 *   [Orquestra](https://www.zapatacomputing.com/orquestra/) - Zapata Computing's unified quantum operating environment, allowing for quantum-enabled workflows.
-*   [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
-*   [PennyLane](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
+*   [Paddle Quantum (⭐405)](https://github.com/PaddlePaddle/Quantum) - Baidu's python toolkit for quantum machine learning.
+*   [PennyLane (⭐1.6k)](http://github.com/XanaduAI/pennylane) - Open source framework for quantum computing and quantum machine learning that integrates various other platforms.
 *   [Project Q](http://projectq.ch/) - Framework for implementing quantum computing in Python.
-*   [pyQuil](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
+*   [pyQuil (⭐1.3k)](https://github.com/rigetticomputing/pyquil) - Python library for quantum programming using Quil by Rigetti.
 *   [pytket](https://cqcl.github.io/pytket/build/html/index.html) - Python module for interfacing with Cambridge Quantum Computing's t|ket>; a tool for circuit optimising and qubit allocation.
 *   [QCL](http://tph.tuwien.ac.at/\~oemer/qcl.html) - Older, C like language for quantum computers. Only has a simulator and debugger.
 *   [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
-*   [Qiskit.js](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
+*   [Qiskit.js (⭐106)](https://github.com/QISKit/qiskit-js) - Qiskit for JavaScript made by IBM.
 *   [Qrack](https://vm6502q.readthedocs.io) - High performance LGPL-licensed C++ quantum simulator library, documentation, and test code.
-*   [Quantum++](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
+*   [Quantum++ (⭐390)](https://github.com/vsoftco/qpp) - High performance modern C++11 quantum computing library.
 *   [Quantum Inspire](https://www.quantum-inspire.com/) - Platform to run quantum algorithms on simulators or quantum hardware - by QuTech.
 *   [Quantum Programming Studio](https://quantum-circuit.com/) - Web based quantum programming IDE and simulator.
 *   [Quipper](https://www.mathstat.dal.ca/\~selinger/quipper/) - Embedded, scalable, functional programming language for quantum computing.
-*   [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
+*   [Qurry (⭐22)](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 *   [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 *   [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 *   [Strangeworks Platform](https://quantumcomputing.com/) - A hardware agnostic platform and interface allowing for focus on development rather than specific hardware solution building.
 *   [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
-*   [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
+*   [Tequila (⭐267)](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
 ## Blogs
 
@@ -193,7 +193,7 @@ For further resources related to Open Source Quantum Software Projects, please c
 
 ## Content in Non-English Languages
 
-*   [Quantum Computing in Portuguese](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
+*   [Quantum Computing in Portuguese (⭐47)](https://github.com/smendoncabruna/ComputacaoQuantica) - A repository with curated content on Quantum Computing in Portuguese.
 
 ## License
 

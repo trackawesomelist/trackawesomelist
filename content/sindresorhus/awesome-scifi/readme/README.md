@@ -14,7 +14,7 @@ Sci-Fi worth consuming
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy (⭐966)](https://github.com/RichardLitt/awesome-fantasy).*
 
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
@@ -1066,7 +1066,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list](https://github.com/RichardLitt/awesome-fantasy).*
+*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐966)](https://github.com/RichardLitt/awesome-fantasy).*
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* \[4.0]
 
@@ -2189,5 +2189,5 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
 
 ## Credit
 
-Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐3.5k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
 

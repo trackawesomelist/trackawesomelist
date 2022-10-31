@@ -139,10 +139,6 @@
 
 *   [React-planet (⭐135)](https://github.com/innFactory/react-planet) - Create circular menus which looks like planets.
 
-### Boilerplates
-
-*   [create-react-app-material-typescript-redux (⭐283)](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
-
 ---
 
 - Prev: [May 06, 2021](/content/2021/05/06/README.md)

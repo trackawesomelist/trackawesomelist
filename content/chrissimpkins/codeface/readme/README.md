@@ -40,10 +40,10 @@ Each typeface directory in the repository now includes a vertical metrics table 
 
 Click a link below to download all font binaries in the Codeface main and bitmap gallery collections:
 
-|                                                           Archive                                                          |                    SHA1                    |   Size  |
-| :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :-----: |
-|    [codeface-fonts.zip](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip)    | `4709e7b6f63d1e2c31f7af0d56b7e1f75a846476` | 31.4 MB |
-| [codeface-fonts.tar.xz](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz) | `e4416c72e331d71e55fd56f2fba38cfda7672f85` | 16.5 MB |
+|                                                               Archive                                                              |                    SHA1                    |   Size  |
+| :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------: | :-----: |
+|    [codeface-fonts.zip (⭐5.8k)](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.zip)    | `4709e7b6f63d1e2c31f7af0d56b7e1f75a846476` | 31.4 MB |
+| [codeface-fonts.tar.xz (⭐5.8k)](https://github.com/chrissimpkins/codeface/releases/download/font-collection/codeface-fonts.tar.xz) | `e4416c72e331d71e55fd56f2fba38cfda7672f85` | 16.5 MB |
 
 or use one of the following commands to pull a font archive with `curl`:
 

@@ -14,7 +14,7 @@
 
 > Useful resources for the [Eta](https://eta-lang.org/) programming language
 
-You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell).
+You might also like [awesome-haskell (⭐2.8k)](https://github.com/krispo/awesome-haskell).
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-eta/blob/main/README.md/contributing.md) before contributing.*
 
@@ -51,13 +51,13 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 ### Overview
 
 *   [Eta](https://eta-lang.org/) - Official website.
-*   [GitHub](https://github.com/typelead/eta) - Eta on GitHub.
+*   [GitHub (⭐2.5k)](https://github.com/typelead/eta) - Eta on GitHub.
 *   [Philosophy](http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/) - Interview about the philosophy behind Eta's development.
 
 ### First Steps
 
 *   [Getting Started](https://eta-lang.org/docs/user-guides/eta-user-guide/introduction/what-is-eta) - First steps with Eta.
-*   [Prelude](https://github.com/eta-lang/eta-prelude) - Default modules for an easier start.
+*   [Prelude (⭐6)](https://github.com/eta-lang/eta-prelude) - Default modules for an easier start.
 
 ### Comparisons
 
@@ -66,7 +66,7 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ### Compatibility
 
-*   [Etlas Packages](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
+*   [Etlas Packages (⭐61)](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
 *   [Template Haskell](https://eta-lang.org/docs/faq#eta-repl-support) - Status of Template Haskell.
 *   [GHC 8](https://eta-lang.org/docs/faq#is-eta-compatible-ghc8) - Compatibility with GHC 8.
 
@@ -126,24 +126,24 @@ You might also like [awesome-haskell](https://github.com/krispo/awesome-haskell)
 
 ## Tools
 
-*   [IntelliJ Eta](https://github.com/typelead/intellij-eta) - Plugin for IntelliJ.
-*   [sbt](https://github.com/typelead/sbt-eta) - Plugin for integrating Eta into Scala.
-*   [gradle](https://github.com/typelead/gradle-eta) - Gradle plugin for Eta projects.
+*   [IntelliJ Eta (⭐52)](https://github.com/typelead/intellij-eta) - Plugin for IntelliJ.
+*   [sbt (⭐58)](https://github.com/typelead/sbt-eta) - Plugin for integrating Eta into Scala.
+*   [gradle (⭐28)](https://github.com/typelead/gradle-eta) - Gradle plugin for Eta projects.
 
 ## Sample Applications
 
 ### Android
 
-*   [eta-android](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
-*   [eta-android-2048](https://github.com/Jyothsnasrinivas/eta-android-2048) - The 2048 game for Android.
+*   [eta-android (⭐24)](https://github.com/puffnfresh/eta-android) - Example of Eta on Android.
+*   [eta-android-2048 (⭐56)](https://github.com/Jyothsnasrinivas/eta-android-2048) - The 2048 game for Android.
 
 ### Web
 
-*   [eta-todo](https://github.com/Jyothsnasrinivas/eta-todo) - Example of a Spock web application written in Eta.
-*   [eta-yesod-minimal](https://github.com/Jyothsnasrinivas/eta-yesod-minimal) - Example of a Yesod web application in Eta.
+*   [eta-todo (⭐16)](https://github.com/Jyothsnasrinivas/eta-todo) - Example of a Spock web application written in Eta.
+*   [eta-yesod-minimal (⭐5)](https://github.com/Jyothsnasrinivas/eta-yesod-minimal) - Example of a Yesod web application in Eta.
 
 ### Miscellaneous
 
-*   [eta-examples](https://github.com/typelead/eta-examples) - Examples of Eta code.
-*   [eta-2048](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
+*   [eta-examples (⭐35)](https://github.com/typelead/eta-examples) - Examples of Eta code.
+*   [eta-2048 (⭐28)](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
 

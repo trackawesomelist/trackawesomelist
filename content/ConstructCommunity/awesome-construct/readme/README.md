@@ -19,7 +19,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 This list includes all the best tools, tutorials and examples related to the awesome game development engines [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
 
-[How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
+[How to contribute? (⭐50)](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
 <p align="center">  
    :sparkles: <a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">Compare Construct 2 and Construct 3</a>  :sparkles:

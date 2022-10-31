@@ -10,7 +10,7 @@ A collection of awesome things related to the AWS Cloud Development Kit (CDK)
 
 # Awesome CDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://raw.githubusercontent.com/aws/aws-cdk/master/logo/default-128-dark.png" align="right" alt="CDK">](https://github.com/aws/aws-cdk)
 
-> Curated list of awesome [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) (AWS CDK) open-source projects, guides, blogs and other resources.
+> Curated list of awesome [AWS Cloud Development Kit (⭐9.4k)](https://github.com/awslabs/aws-cdk) (AWS CDK) open-source projects, guides, blogs and other resources.
 
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework for defining cloud infrastructure in code.
 
@@ -43,123 +43,123 @@ This section includes code libraries in various programming languages which vend
 
 ### APIs
 
-*   [cdk-chalice](https://github.com/alexpulver/cdk-chalice) - AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS).
-*   [auto-cdk](https://github.com/wulfmann/auto-cdk) - Automatically generate api-gateway/lambda integrations with the filesystem (beta).
-*   [crow-api](https://github.com/thomasstep/crow-api) - Create a serverless API with routes based on your file structure.
+*   [cdk-chalice (⭐37)](https://github.com/alexpulver/cdk-chalice) - AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS).
+*   [auto-cdk (⭐22)](https://github.com/wulfmann/auto-cdk) - Automatically generate api-gateway/lambda integrations with the filesystem (beta).
+*   [crow-api (⭐6)](https://github.com/thomasstep/crow-api) - Create a serverless API with routes based on your file structure.
 
 ### Databases
 
-*   [aws-cdk-dynamodb-seeder](https://github.com/elegantdevelopment/aws-cdk-dynamodb-seeder) - A simple CDK seeder for DynamoDB.
+*   [aws-cdk-dynamodb-seeder (⭐31)](https://github.com/elegantdevelopment/aws-cdk-dynamodb-seeder) - A simple CDK seeder for DynamoDB.
 *   [cdk-tweet-sentiment](https://www.npmjs.com/package/cdk-tweet-sentiment) - Identify sentiments in tweets and log them into an Amazon DynamoDB table.
-*   [cdk-dynamo-table-viewer](https://github.com/eladb/cdk-dynamo-table-viewer) - Exposes the contents of an Amazon DynamoDB table through a public HTML page.
-*   [cdk-postgresql](https://github.com/botpress/cdk-postgresql) - AWS CDK Constructs for PostgreSQL.
-*   [cdk-sqlserver-seeder](https://github.com/kolomied/cdk-sqlserver-seeder) - CDK construct that executes custom SQL scripts against SQL Server database.
+*   [cdk-dynamo-table-viewer (⭐97)](https://github.com/eladb/cdk-dynamo-table-viewer) - Exposes the contents of an Amazon DynamoDB table through a public HTML page.
+*   [cdk-postgresql (⭐20)](https://github.com/botpress/cdk-postgresql) - AWS CDK Constructs for PostgreSQL.
+*   [cdk-sqlserver-seeder (⭐5)](https://github.com/kolomied/cdk-sqlserver-seeder) - CDK construct that executes custom SQL scripts against SQL Server database.
 
 ### Static Websites
 
-*   [cdk-static-website](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website) - CDK component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS).
-*   [ness](https://github.com/nessjs/ness) - CDK powered CLI tool for deploying static sites to your AWS account.
+*   [cdk-static-website (⭐526)](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-static-website) - CDK component that creates a static website using S3, configures CloudFront (CDN) and maps a custom domain via Route53 (DNS).
+*   [ness (⭐631)](https://github.com/nessjs/ness) - CDK powered CLI tool for deploying static sites to your AWS account.
 
 ### Security
 
-*   [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless) - Construct for having passwordless authentication using userpool.
-*   [cdk-iam-generator](https://github.com/srihariph/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.
-*   [c3](https://github.com/SSHcom/c3) - Enables compliancy with privacy and security best practices.
-*   [cdk-iam-floyd](https://github.com/udondan/iam-floyd) - IAM policy statement generator with fluent interface.
-*   [k9-cdk](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
-*   [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) - CloudFront with Cognito authentication using Lambda\@Edge.
-*   [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
+*   [cdk-passwordless (⭐16)](https://github.com/farminf/aws-cdk-passwordless) - Construct for having passwordless authentication using userpool.
+*   [cdk-iam-generator (⭐16)](https://github.com/srihariph/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.
+*   [c3 (⭐26)](https://github.com/SSHcom/c3) - Enables compliancy with privacy and security best practices.
+*   [cdk-iam-floyd (⭐449)](https://github.com/udondan/iam-floyd) - IAM policy statement generator with fluent interface.
+*   [k9-cdk (⭐6)](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
+*   [cdk-cloudfront-authorization (⭐526)](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) - CloudFront with Cognito authentication using Lambda\@Edge.
+*   [aws-firewall-factory (⭐74)](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 
 ### Ops
 
-*   [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
-*   [cdk-time-bomb](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
+*   [cdk-instanceStopRule (⭐0)](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
+*   [cdk-time-bomb (⭐34)](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
 
 ### Queue
 
 *   [cdk-tweet-queue](https://www.npmjs.com/package/cdk-tweet-queue) - Fills up an SQS queue with tweets from a tweeter search query.
-*   [cdk-ses-template-mailer](https://github.com/mkrn/cdk-ses-template-mailer) - Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.
-*   [cdk-sqs-monitored](https://github.com/kamilbiela/cdk-sqs-monitored) - SQS Construct with dead letter queue and configured alarms.
+*   [cdk-ses-template-mailer (⭐12)](https://github.com/mkrn/cdk-ses-template-mailer) - Constructs to create AWS SES email templates + microservice to send templated emails with AWS SES.
+*   [cdk-sqs-monitored (⭐11)](https://github.com/kamilbiela/cdk-sqs-monitored) - SQS Construct with dead letter queue and configured alarms.
 
 ### CI/CD
 
-*   [aws-delivlib](https://github.com/awslabs/aws-delivlib) - Synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself).
-*   [cdk-blue-green-container-deployment](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-blue-green-container-deployment) - Blue/Green container deployment with CodeDeploy.
+*   [aws-delivlib (⭐318)](https://github.com/awslabs/aws-delivlib) - Synthesizes CI/CD pipelines for multi-language software delivery (used by the CDK itself).
+*   [cdk-blue-green-container-deployment (⭐526)](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-blue-green-container-deployment) - Blue/Green container deployment with CodeDeploy.
 
 ### Monitoring
 
-*   [cdk-watchful](https://github.com/eladb/cdk-watchful) - Automatic dashboards and alarms for CDK apps.
-*   [aws-cdk-billing-alarm](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
-*   [cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Use high-level APIs to create monitoring for your AWS apps. Generates dashboards automatically.
+*   [cdk-watchful (⭐449)](https://github.com/eladb/cdk-watchful) - Automatic dashboards and alarms for CDK apps.
+*   [aws-cdk-billing-alarm (⭐19)](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
+*   [cdk-monitoring-constructs (⭐173)](https://github.com/cdklabs/cdk-monitoring-constructs) - Use high-level APIs to create monitoring for your AWS apps. Generates dashboards automatically.
 
 ### Workflows
 
-*   [cdk-pull-request-check](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check) - CDK component that automatically check pull requests.
-*   [cdk-github-webhook](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-github-webhook) - CDK component that provisions GitHub webhooks.
-*   [cdk-codepipeline-slack](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-codepipeline-slack) - CDK component that provisions a #slack approval workflow.
-*   [cdk-codecommit-backup](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) - Backup CodeCommit repositories to S3.
-*   [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa) - Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
-*   [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) - Slack / Microsoft Teams / Email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline.
-*   [aws-pdf-textract-pipeline](https://github.com/aeksco/aws-pdf-textract-pipeline) - ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.
+*   [cdk-pull-request-check (⭐526)](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-pull-request-check) - CDK component that automatically check pull requests.
+*   [cdk-github-webhook (⭐526)](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-github-webhook) - CDK component that provisions GitHub webhooks.
+*   [cdk-codepipeline-slack (⭐526)](https://github.com/cloudcomponents/cdk-components/blob/master/packages/cdk-codepipeline-slack) - CDK component that provisions a #slack approval workflow.
+*   [cdk-codecommit-backup (⭐526)](https://github.com/cloudcomponents/cdk-components/tree/master/packages/cdk-codecommit-backup) - Backup CodeCommit repositories to S3.
+*   [Alexa Deployment Pipeline (⭐35)](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa) - Construct which creates a CodePipeline to deploy Alexa Skills to Lambda and to the Developer console using AWS SAM and DeployToAlexa action.
+*   [cdk-developer-tools-notifications (⭐526)](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) - Slack / Microsoft Teams / Email notifications for developer tools: CodeCommit, CodeBuild, CodeDeploy, CodePipeline.
+*   [aws-pdf-textract-pipeline (⭐126)](https://github.com/aeksco/aws-pdf-textract-pipeline) - ETL pipeline for crawling PDFs from the Web using Puppeteer and transforming their contents into structured data using AWS Textract and storing the results in DynamoDB.
 
 ### Multi-accounts setup
 
-*   [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
-*   [cdk-organizations](https://github.com/pepperize/cdk-organizations) - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
+*   [aws-bootstrap-kit (⭐87)](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
+*   [cdk-organizations (⭐91)](https://github.com/pepperize/cdk-organizations) - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
 
 ## High-Level Frameworks
 
-*   [punchcard](https://github.com/punchcard/punchcard) - TypeScript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one Node.js application.
-*   [aws-cdk-pure](https://github.com/fogfish/aws-cdk-pure) - A toolkit to develop purely functional and high-order cloud components with AWS CDK.
-*   [cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
-*   [Orkestra](https://github.com/knowsuchagency/orkestra) - An event-driven alternative to Airflow built on the AWS CDK and Step Functions.
-*   [SST](https://github.com/serverless-stack/serverless-stack) - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
-*   [Datajob](https://github.com/vincentclaes/datajob) - Build and deploy a serverless data pipeline or machine learning pipeline on AWS with no effort.
+*   [punchcard (⭐474)](https://github.com/punchcard/punchcard) - TypeScript framework to unify infrastructure and runtime code for the CDK, so you can declare constructs and implement runtime logic within the context of one Node.js application.
+*   [aws-cdk-pure (⭐83)](https://github.com/fogfish/aws-cdk-pure) - A toolkit to develop purely functional and high-order cloud components with AWS CDK.
+*   [cdk-stepfunctions-patterns (⭐46)](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
+*   [Orkestra (⭐41)](https://github.com/knowsuchagency/orkestra) - An event-driven alternative to Airflow built on the AWS CDK and Step Functions.
+*   [SST (⭐9.3k)](https://github.com/serverless-stack/serverless-stack) - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
+*   [Datajob (⭐96)](https://github.com/vincentclaes/datajob) - Build and deploy a serverless data pipeline or machine learning pipeline on AWS with no effort.
 
 ## Scaffolding
 
-*   [ReactJS + Cognito + CDK Starter](https://github.com/vbudilov/reactjs-cognito-starter) - Starter project for ReactJS + Amazon Cognito + Amazon Amplify Framework with AWS CDK support.
-*   [cra-template-aws-cdk](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) - Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
-*   [create-cdk-app](https://github.com/cdk-tools/create-cdk-app) - Create CDK apps from templates.
-*   [awscdk-jsii-template](https://github.com/pahud/awscdk-jsii-template) - A GitHub template repository to generate a ready environment to build, test and publish your [JSII](\(https://github.com/aws/jsii\)) construct lib for AWS CDK.
+*   [ReactJS + Cognito + CDK Starter (⭐171)](https://github.com/vbudilov/reactjs-cognito-starter) - Starter project for ReactJS + Amazon Cognito + Amazon Amplify Framework with AWS CDK support.
+*   [cra-template-aws-cdk (⭐16)](https://github.com/luisfarzati/rnbw-aws-cdk/tree/master/packages/cra-template-aws-cdk) - Create React App template using AWS CDK for out of the box, simple provisioning of serverless React apps.
+*   [create-cdk-app (⭐14)](https://github.com/cdk-tools/create-cdk-app) - Create CDK apps from templates.
+*   [awscdk-jsii-template (⭐18)](https://github.com/pahud/awscdk-jsii-template) - A GitHub template repository to generate a ready environment to build, test and publish your [JSII](\(https://github.com/aws/jsii\)) construct lib for AWS CDK.
 
 ## Language Support
 
-*   [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
-*   [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) - A plugin to define and deploy your AWS CDK applications using Java and Maven.
-*   [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
-*   [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - Alternative Node.js lambda CDK construct, using [esbuild](https://github.com/evanw/esbuild).
+*   [AWS-CDK-Kotlin-DSL (⭐13)](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk). CI automatically generates code and deploys it by daily.
+*   [aws-cdk-maven-plugin (⭐10)](https://github.com/LinguaRobot/aws-cdk-maven-plugin) - A plugin to define and deploy your AWS CDK applications using Java and Maven.
+*   [aws-lambda-nodejs-webpack (⭐31)](https://github.com/vvo/aws-lambda-nodejs-webpack) - Alternative Node.js lambda CDK construct, using [webpack](https://webpack.js.org/).
+*   [aws-lambda-nodejs-esbuild (⭐58)](https://github.com/floydspace/aws-lambda-nodejs-esbuild) - Alternative Node.js lambda CDK construct, using [esbuild (⭐34k)](https://github.com/evanw/esbuild).
 
 ## Library Publishing
 
 *   [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) - GitHub Action for AWS CDK.
-*   [jsii-publish](https://github.com/udondan/jsii-publish) - A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII](https://github.com/aws/jsii).
+*   [jsii-publish (⭐17)](https://github.com/udondan/jsii-publish) - A [Docker image](https://hub.docker.com/r/udondan/jsii-publish) and [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build and publish CDK constructs created via [JSII (⭐2.1k)](https://github.com/aws/jsii).
 
 ## Tools
 
-*   [CDK-Dia](https://github.com/pistazie/cdk-dia) - Automatic infrastructure diagrams for AWS CDK.
+*   [CDK-Dia (⭐571)](https://github.com/pistazie/cdk-dia) - Automatic infrastructure diagrams for AWS CDK.
 
 ## Training Materials and Sample Code
 
-*   [Official CDK Examples](https://github.com/aws-samples/aws-cdk-examples) - A set of example projects for the AWS CDK.
+*   [Official CDK Examples (⭐3.6k)](https://github.com/aws-samples/aws-cdk-examples) - A set of example projects for the AWS CDK.
 *   [CDK Serverless Workshop](https://cdkworkshop.com/) - A workshop that guides you through the process of creating and deploying CDK application.
 *   [Build an App with AWS Cloud Development Kit course on egghead.io](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit?af=6p5abz)
 *   [Infrastructure is Code with the AWS CDK](https://youtu.be/Lh-kVC2r2AU) - Recording of re:Invent 2018 session.
-*   [GitHub Changelog Crawler](https://github.com/aws-samples/aws-cdk-changelogs-demo) - A fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
-*   [ECS with CI/CD](https://github.com/rix0rrr/cdk-ecs-demo) - Demo of deploying ECS application using CDK.
-*   [Example templates for aws cdk](https://github.com/tecracer/cdk-templates) - Working TypeScript snippets from several AWS projects.
+*   [GitHub Changelog Crawler (⭐234)](https://github.com/aws-samples/aws-cdk-changelogs-demo) - A fully fledged CDK app written by Nathan Peck which uses Fargate, API Gateway, Lambda, CloudFront, S3, ElastiCache, and Dynamodb.
+*   [ECS with CI/CD (⭐41)](https://github.com/rix0rrr/cdk-ecs-demo) - Demo of deploying ECS application using CDK.
+*   [Example templates for aws cdk (⭐113)](https://github.com/tecracer/cdk-templates) - Working TypeScript snippets from several AWS projects.
 *   [Lambda packaging asset](https://gitlab.com/josef.stach/aws-cdk-lambda-asset) - CDK asset which builds lambda function and produces a ZIP file with dependencies.
-*   [Open CDK Guide](https://github.com/kevinslin/open-cdk) - Open source guide on CDK and best practices.
-*   [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk) - Great example project using Fargate and Appmesh.
-*   [CDK Patterns](https://github.com/cdk-patterns/serverless) - An opensource collection of serverless architecture patterns built with CDK.
-*   [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - The [cra-pipeline](https://github.com/sbstjn/cra-pipeline) project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application.
-*   [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - The [cra-serverless](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev).
-*   [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example) - Deploy a functional public API that receives an HTML form (e.g. /contact\_us.html) POST request and delivers its data to Pushover notification service.
-*   [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in) - Source code that powers REST APIs at <https://api.l3x.in/>.
-*   [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) - A serverless application written in Go that allows you to enjoy Dilbert in your RSS feed reader without any ads.
+*   [Open CDK Guide (⭐738)](https://github.com/kevinslin/open-cdk) - Open source guide on CDK and best practices.
+*   [Colorteller Example (⭐3)](https://github.com/denmat/colorteller-aws-cdk) - Great example project using Fargate and Appmesh.
+*   [CDK Patterns (⭐1.9k)](https://github.com/cdk-patterns/serverless) - An opensource collection of serverless architecture patterns built with CDK.
+*   [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - The [cra-pipeline (⭐39)](https://github.com/sbstjn/cra-pipeline) project on GitHub shows an AWS CodePipeline with AWS CodeBuild to deploy a static React application.
+*   [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - The [cra-serverless (⭐157)](https://github.com/sbstjn/cra-serverless) project is a serverless architecture to add pre-rendering to a React website created with [create-react-app](https://create-react-app.dev).
+*   [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit (⭐8)](https://github.com/shaftoe/api-gateway-lambda-cdk-example) - Deploy a functional public API that receives an HTML form (e.g. /contact\_us.html) POST request and delivers its data to Pushover notification service.
+*   [Example of REST API built with CDK (⭐13)](https://github.com/shaftoe/api-l3x-in) - Source code that powers REST APIs at <https://api.l3x.in/>.
+*   [dilbert-feed (⭐26)](https://github.com/mlafeldt/dilbert-feed) - A serverless application written in Go that allows you to enjoy Dilbert in your RSS feed reader without any ads.
 *   [django-postgres-vue-gitlab-ecs](https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs) - An example Django + Vue.js web app deployed with CDK using GitLab CI.
-*   [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
-*   [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) - A step-by-step guide with sample code to create a new CDK construct using [projen](https://github.com/projen/projen) and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
+*   [nextjs-vercel-aws-cdk-example (⭐66)](https://github.com/vvo/nextjs-vercel-aws-cdk-example) - A PostgreSQL (RDS), EventBridge (crons) and SNS (background jobs) example along with a Next.js application.
+*   [Create and Publish CDK Constructs Using projen and jsii (⭐28)](https://github.com/seeebiii/projen-test) - A step-by-step guide with sample code to create a new CDK construct using [projen (⭐1.7k)](https://github.com/projen/projen) and `jsii` and publish it to npm, Maven Central, PyPi and NuGet.
 
 ## Blog Posts & Talks
 
@@ -179,15 +179,15 @@ This section includes code libraries in various programming languages which vend
 *   [Using the CDK for CodePipelines Setup](https://www.stefreitag.de/wp/2019/03/07/using-aws-cdk-for-code-pipeline-setup/) - By Stefan Freitag.
 *   [Using the CDK for AWS MSK Setup](https://www.stefreitag.de/wp/2019/08/31/paths-are-made-by-walking-or-how-aws-cdk-and-msk-work-together/) - By Stefan Freitag.
 *   [Serverless Dotnet - E01: Intro to AWS CDK](https://youtu.be/c9UXHPX6-Ns) - By Jake Scott.
-*   [GitHub repository](https://github.com/jakejscott/aws-cdk-phone-verify-api) - By Jake Scott.
+*   [GitHub repository (⭐6)](https://github.com/jakejscott/aws-cdk-phone-verify-api) - By Jake Scott.
 *   [Infrastructure is Code with the AWS CDK](https://youtu.be/ZWCvNFUN-sU) - AWS Tech Talk Webinar.
 *   [tecRacer Amazon AWS Blog](https://aws-blog.de/tags/cdk.html) - Several Blog Posts from aws-blog.de by Gernot Glawe.
 *   [Using CDK to build a UDP NLB Logging Service](https://youtu.be/dXTEVp0ATzo) - By ClouderDex.
-*   [GitHub Repo](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) - By ClouderDex.
+*   [GitHub Repo (⭐2)](https://github.com/ClouderDex/CDK-UDP-NLB-Demo) - By ClouderDex.
 *   [Purely Functional Cloud Components with AWS CDK](https://i.am.fog.fish/2019/08/23/purely-functional-cloud-with-aws-cdk.html) - Bu fogfish.
 *   [Using the CDK to probe multiple accounts (sfn/lambda/sqs/sechub)](https://fudless.xyz/aws/seedecay/) - Blog post from [fudless.xyz](https://fudless.xyz).
 *   [Scheduled Lambda Functions and CI/CD pipeline with AWS CDK](https://medium.com/hatchsoftware/using-the-aws-cdk-to-build-scheduled-lambda-functions-13eb1674586e) - By Maarten Thoelen.
-*   [GitHub Repo](https://github.com/HatchSoftware/automatic-aws-db-shutdown-cdk) - By Maarten Thoelen.
+*   [GitHub Repo (⭐4)](https://github.com/HatchSoftware/automatic-aws-db-shutdown-cdk) - By Maarten Thoelen.
 *   [AWS Client VPN with mutual TLS](https://lanwen.ru/posts/aws-client-vpn/) - By Kirill Merkushev.
 *   [CDK Step Functions](https://dev.to/elthrasher/exploring-aws-cdk-step-functions-1d1e) - By Matt Morgan.
 *   [Loading DynamoDB with Custom Resources](https://dev.to/elthrasher/exploring-aws-cdk-loading-dynamodb-with-custom-resources-jlf) - By Matt Morgan.
@@ -202,15 +202,15 @@ This section includes code libraries in various programming languages which vend
 
 ## Related Projects
 
-*   [jsii](https://github.com/awslabs/jsii) - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
-*   [cdk8s](https://github.com/awslabs/cdk8s/) - Define Kubernetes native apps and abstractions using object-oriented programming.
-*   [cdktf](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
-*   [cdktg](https://github.com/hupe1980/cdk-threagile) - Agile Threat Modeling as Code.
+*   [jsii (⭐2.1k)](https://github.com/awslabs/jsii) - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
+*   [cdk8s (⭐3.2k)](https://github.com/awslabs/cdk8s/) - Define Kubernetes native apps and abstractions using object-oriented programming.
+*   [cdktf (⭐4k)](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
+*   [cdktg (⭐9)](https://github.com/hupe1980/cdk-threagile) - Agile Threat Modeling as Code.
 
 ## Tips & Tricks
 
 *   [Reflect on the CDK Type System](https://gist.github.com/eladb/68a009cf9c953b04a637bac5c40afdbc) - Explore the CDK's type system.
-*   [Testing Your Construct Library CodeBuild Configuration Locally](https://github.com/aws/aws-codebuild-docker-images/tree/master/local_builds) - With the `jsii/superchain:latest` Docker Image.
+*   [Testing Your Construct Library CodeBuild Configuration Locally (⭐933)](https://github.com/aws/aws-codebuild-docker-images/tree/master/local_builds) - With the `jsii/superchain:latest` Docker Image.
 
 ## Contributing
 

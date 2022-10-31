@@ -31,13 +31,13 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Platforms and toolkits
 
-*   [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
-*   [Natural](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
+*   [Haxe-linguistics (⭐26)](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
+*   [Natural (⭐9.9k)](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
 *   [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 *   [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 *   [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
 *   [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
-*   [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+*   [UralicNLP (⭐53)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ### Algorithms
 
@@ -46,12 +46,12 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Data sets
 
-*   [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+*   [EuroRomCom Data (⭐16)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### Resources
 
 *   [How To Label Data](https://www.lighttag.io/how-to-label-data/) - Guide on managing large scale linguistic annotation projects.
-*   [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+*   [Low Resource Languages (⭐294)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 *   [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
 ### On Wikipedia

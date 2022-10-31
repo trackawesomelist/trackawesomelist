@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 30, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -157,14 +157,20 @@
 
 *   [How Microsoft rewrote its C# compiler in C# and made it open source](https://medium.com/microsoft-open-source-stories/how-microsoft-rewrote-its-c-compiler-in-c-and-made-it-open-source-4ebed5646f98) - Roslyn's journey, presented by Mads Torgersen, the lead designer of C#. Inspiring story on how Roslyn project started and why, and what it took to make it open source.
 
-## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [6. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+
+### Haskell
+
+*   [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8) - Derek Banas (screencast)
+
+## [7. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [NodeJS-Installer (⭐106)](https://github.com/thecodingmachine/nodejs-installer) - Installer for NodeJS and npm.
 *   [Node-Composer (⭐5)](https://github.com/mariusbuescher/node-composer) - Installer for NodeJS, npm and yarn.
 
-## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Auth
 
@@ -182,7 +188,7 @@
 
 *   [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Security
 
@@ -198,7 +204,7 @@
 
 
 
-## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Games
 

@@ -55,7 +55,7 @@ Recommended Splunk Apps.
     *   [Splunkbase Entry](https://splunkbase.splunk.com/app/3975/) - Download page.
     *   [SAI Documentation](https://docs.splunk.com/Documentation/InfraApp) - Splunk App for Infrastructure Documentation.
     *   [SAI Install Guide](https://docs.splunk.com/Documentation/InfraApp/latest/Install/About)
-*   [Miscellaneous Scripts for fixing issues with the Universal Forwarder](https://github.com/jimmyatSplunk/SplunkForwarderRepairKit) - This kit was compiled based on common issues with Splunk deployments and managing idiosyncrasies that tend to naturally occur.
+*   [Miscellaneous Scripts for fixing issues with the Universal Forwarder (⭐23)](https://github.com/jimmyatSplunk/SplunkForwarderRepairKit) - This kit was compiled based on common issues with Splunk deployments and managing idiosyncrasies that tend to naturally occur.
 
 ### Premium Apps
 
@@ -68,7 +68,7 @@ Splunk Enterprise Security is the nerve centre of the security ecosystem, giving
 *   [ES Home Page](https://www.splunk.com/en_us/software/enterprise-security.html) - Splunk's Home Page for Enterprise Security.
 *   [ES Splunkbase Entry](https://splunkbase.splunk.com/app/263/) - Download page (if licensed).
 *   [ES Documentation](https://docs.splunk.com/Documentation/ES/latest) - Splunk documentation for Enterprise Security.
-*   [Awesome-ES](https://github.com/sduff/awesome-es/) - An Awesome list for all things Enterprise Security.
+*   [Awesome-ES (⭐12)](https://github.com/sduff/awesome-es/) - An Awesome list for all things Enterprise Security.
 
 #### IT Service Intelligence
 
@@ -77,7 +77,7 @@ Splunk IT Service Intelligence (ITSI) is a monitoring and analytics solution pow
 *   [ITSI Home Page](https://www.splunk.com/en_us/software/it-service-intelligence.html) - Splunk's Home Page for IT Service Intelligence.
 *   [ITSI Splunkbase Entry](https://splunkbase.splunk.com/app/1841/) - Download page (if licensed).
 *   [ITSI Documentation](https://docs.splunk.com/Documentation/ITSI/latest) - ITSI Documentation.
-*   [Awesome-ITSI](https://github.com/sduff/awesome-itsi/) - An Awesome list for all things IT Service Intelligence.
+*   [Awesome-ITSI (⭐13)](https://github.com/sduff/awesome-itsi/) - An Awesome list for all things IT Service Intelligence.
 
 ## Visualisations
 
@@ -114,7 +114,7 @@ Useful Splunk resources that are not specifically associated with Splunk Inc.
 *   [George Starcher](http://www.georgestarcher.com/) - Many Splunk related items, including details on Splunk ES's Extreme Search.
 *   [Anthony Tellez](https://anthonygtellez.github.io/) - Security and Machine Learning items.
 *   [Duane Waddle](https://www.duanewaddle.com/) - Miscellaneous Splunk items.
-*   [Vladimir's GitHub](https://github.com/hire-vladimir/) - Code for a number of Splunk resources, including [CIM Validation](https://github.com/hire-vladimir/SA-cim_vladiator).
+*   [Vladimir's GitHub](https://github.com/hire-vladimir/) - Code for a number of Splunk resources, including [CIM Validation (⭐66)](https://github.com/hire-vladimir/SA-cim_vladiator).
 *   [Nico's GitHub](https://github.com/nicovdw/) -  Repository of searches and dashboards to assist with optimising concurrency settings.
 *   [David Veuve](https://www.davidveuve.com/tech/) - Some early resources on Splunk basics and optimisations (infrequently updated).
 

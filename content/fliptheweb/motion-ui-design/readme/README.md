@@ -100,7 +100,7 @@ List of all possible software that can produce UI animations separated by using 
     *   [MtMograph summits](http://mtmograph.com/summits/) (:movie\_camera: video).
     *   [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/) (:movie\_camera: video).
     *   [After Effects CC Essential Training on Lynda](http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html) (:movie\_camera: video).
-    *   [BodyMovin](https://github.com/bodymovin/bodymovin) – Converter from AE to SVG/canvas.
+    *   [BodyMovin (⭐28k)](https://github.com/bodymovin/bodymovin) – Converter from AE to SVG/canvas.
     *   [Squall](http://www.marcuseckert.com/squall/) – Converter from AE to iOS.
 *   [Apple Motion](https://www.apple.com/sg/final-cut-pro/motion/) – MacOS app for create and edit motion graphics, titling for video production and film production, and 2D and 3D compositing for visual effects.
 *   [Adobe Photoshop](http://www.adobe.com/sea/products/photoshop.html) – Raster graphics editor that can also produce gif UI animations:
@@ -171,12 +171,12 @@ And obvious your secret weapon – Pen and paper!
 *   [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/) – Minimalistic animation library in JavaScript.
 *   [Famo.us](http://famous.org/) – High-performance JavaScript library for animations & interfaces.
 *   [Processing.js](http://processingjs.org/) – JavaScript library for Processing visual programming language.
-*   [Framer.js](https://github.com/koenbok/Framer) – Prototyping tool for designing UI, interaction and animation.
+*   [Framer.js (⭐5.7k)](https://github.com/koenbok/Framer) – Prototyping tool for designing UI, interaction and animation.
 *   [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations.
-*   [Mo.js](https://github.com/legomushroom/mojs) – Motion graphics toolbelt for the web.
+*   [Mo.js (⭐18k)](https://github.com/legomushroom/mojs) – Motion graphics toolbelt for the web.
 *   [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) – Library for transition of blocks and popups.
-*   [Animate Plus](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
-*   [Gravitas.js](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
+*   [Animate Plus (⭐5.9k)](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
+*   [Gravitas.js (⭐161)](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
 *   [Popmotion](https://popmotion.io/guides/basics/get-started/) – JavaScript motion engine that makes creating engaging user interactions quick and simple.
 *   [anime.js](http://animejs.com/) - Lightweight JavaScript animation library.
 *   [useAnimations](https://useanimations.com/) - micro-animations icon library;
@@ -258,5 +258,5 @@ And obvious your secret weapon – Pen and paper!
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**
+**Collected with :heart: by Artur Kornakov and [these awesome guys (⭐749)](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**
 

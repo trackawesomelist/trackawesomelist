@@ -42,10 +42,10 @@ Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defi
 
 # Network Operating System
 
-*   [Beluganos](https://github.com/beluganos/beluganos) - Beluganos is a new network OS designed for white-box switches (OF-DPA), which can apply large-scale networks.
+*   [Beluganos (⭐116)](https://github.com/beluganos/beluganos) - Beluganos is a new network OS designed for white-box switches (OF-DPA), which can apply large-scale networks.
 *   [Cumulus Linux](https://cumulusnetworks.com) - Cumulus Linux is a powerful open network operating system that allows you to automate, customize and scale using web-scale principles like the world's largest data centers.
 *   [FlexSwitch](https://snaproute.com/) - The first open source network protocol suite offering complete layer2/layer3 functionality for accelerating development and deployment of whitebox networking gear
-*   [Mion](https://github.com/opencomputeproject/mion) - A switch OS based on ONLP API and Yocto project.
+*   [Mion (⭐4)](https://github.com/opencomputeproject/mion) - A switch OS based on ONLP API and Yocto project.
 *   [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced capabilities such as MPLS and SDN
 *   [Open Network Linux, ONL](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
 *   [OpenSwitch](http://www.openswitch.net) - A linux network operating system from Dell EMC.
@@ -60,22 +60,22 @@ Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defi
 
 # Software Switch
 
-*   [BESS](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
-*   [bmv2](https://github.com/p4lang/behavioral-model)-  A P4 software switch which is usually used as a tool to verify the funtions the developers describe in P4 language.
-*   [CPqD](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
+*   [BESS (⭐269)](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
+*   [bmv2 (⭐407)](https://github.com/p4lang/behavioral-model)-  A P4 software switch which is usually used as a tool to verify the funtions the developers describe in P4 language.
+*   [CPqD (⭐285)](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
 *   [FD.IO](https://fd.io/) - Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage
-*   [Indigo](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
+*   [Indigo (⭐64)](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
 *   [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
-*   [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
+*   [LINC-Switch (⭐212)](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
 *   [Open vSwitch](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 *   [PISCES](https://www.cs.princeton.edu/\~jrex/papers/pisces16.pdf) - A Programmable, Protocol-Independent Software Switch.
-*   [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
-*   [ZeroTier](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
+*   [snabbswitch (⭐2.9k)](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
+*   [ZeroTier (⭐9.7k)](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
 
 # Network Virtualization
 
-*   [FlowVisor](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
-*   [OpenVirtex](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
+*   [FlowVisor (⭐157)](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
+*   [OpenVirtex (⭐87)](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
 
 # Protocol
 
@@ -87,44 +87,44 @@ Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defi
 *   [Path Computation Element Protocol, PCEP](https://www.juniper.net/documentation/en_US/junos/topics/concept/mpls-pcep-overview.html)
 *   [Extensible Messaging and Presence Protocol, XMPP](https://en.wikipedia.org/wiki/XMPP)
 *   [P4 Runtime](https://p4.org/api/p4-runtime-putting-the-control-plane-in-charge-of-the-forwarding-plane.html)
-*   [gNMI](https://github.com/openconfig/gnmi/) - gRPC Network Management Interface
-*   [gNOI](https://github.com/openconfig/gnoi) - gRPC Network Operations Interface
+*   [gNMI (⭐364)](https://github.com/openconfig/gnmi/) - gRPC Network Management Interface
+*   [gNOI (⭐120)](https://github.com/openconfig/gnoi) - gRPC Network Operations Interface
 
 # Controller
 
-*   [Beehive Network Controller](https://github.com/kandoo/beehive-netctrl) - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
-*   [Floodlight](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller.
+*   [Beehive Network Controller (⭐63)](https://github.com/kandoo/beehive-netctrl) - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
+*   [Floodlight (⭐705)](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller.
 *   [IRIS](http://openiris.etri.re.kr/) - A Resursive SDN Openflow Controller created by SDN Research Section, ETRI.
-*   [lighty.io core](https://github.com/PantheonTechnologies/lighty-core) - lighty.io core components - An open source development framework for building Java-based SDN controllers.
-*   [Netrack](https://github.com/netrack/openflow) - An OpenFlow controller framework in Go.
-*   [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
-*   [NOX](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
-*   [OESS](https://github.com/globalnoc/oess) - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
+*   [lighty.io core (⭐99)](https://github.com/PantheonTechnologies/lighty-core) - lighty.io core components - An open source development framework for building Java-based SDN controllers.
+*   [Netrack (⭐70)](https://github.com/netrack/openflow) - An OpenFlow controller framework in Go.
+*   [NodeFlow (⭐58)](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
+*   [NOX (⭐134)](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+*   [OESS (⭐27)](https://github.com/globalnoc/oess) - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
 *   [ONOS](http://onosproject.org) - Open Network Operating System.
 *   [Open MUL](http://www.openmul.org/openmul-controller.html) - A lightweight SDN/Openflow controller written almost entirely in C from scratch.
 *   [Open Security Controller](https://www.opensecuritycontroller.org/) - Software-defined security orchestration solution that automates deployment of virtualized network security functions, like next-generation firewall, intrusion prevention systems and application data controllers
 *   [OpenContrail](https://tungsten.io/opencontrail-is-now-tungsten-fabric/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 *   [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 *   [OVN](http://www.openvswitch.org//support/slides/OVN-Vancouver.pdf) - OVN: Open Virtual Network for Open vSwitch
-*   [POX](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (*SDN*) control applications.
-*   [Ravel](https://github.com/ravel-net/ravel) - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
+*   [POX (⭐587)](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (*SDN*) control applications.
+*   [Ravel (⭐8)](https://github.com/ravel-net/ravel) - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
 *   [Ryu](https://ryu-sdn.org/) - A component-based software defined networking framework.
 *   [Trema](https://trema.github.io/trema/) - A full-stack, easy-to-use framework for developing OpenFlow controllers in Ruby and C.
-*   [Vyatta](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
+*   [Vyatta (⭐42)](https://github.com/BRCDcomm/BVC/) - The first commercial Controller built directly from OpenDaylight.
 
 # Simulator/Emulator
 
-*   [Containernet](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
+*   [Containernet (⭐311)](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
 *   [EstiNet](http://www.estinet.com/products.php?lv1=13\&sn=13) - A world-renowned software tool for network planning
 *   [MaxiNet](http://maxinet.github.io) - MaxiNet extends the famous Mininet emulation environment to span the emulation across several physical machines. This allows to emulate very large software-defined networks.
 *   [Mininet](http://mininet.org/) - An Instant Virtual Network on your Laptop (or other PC)
 *   [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
-*   [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
-*   [Tinynet](https://github.com/John-Lin/tinynet) - A lightweight instant virtual network for rapid prototyping SDN
+*   [OpenNet (⭐70)](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
+*   [Tinynet (⭐44)](https://github.com/John-Lin/tinynet) - A lightweight instant virtual network for rapid prototyping SDN
 
 # Language
 
-*   [Frenetic](https://github.com/frenetic-lang/frenetic) - The Frenetic Programming Language and Runtime System
+*   [Frenetic (⭐209)](https://github.com/frenetic-lang/frenetic) - The Frenetic Programming Language and Runtime System
 *   [NEMO](https://wiki.onosproject.org/display/ONOS/NEMO+Language) - A domain specific language (DSL) based on abstraction of network models and conclusion of operation patterns.
 *   [P4](http://p4.org/) - A declarative language for expressing how packets are processed by the pipeline of a network forwarding element such as a switch, NIC, router or network function appliance.
 *   [POF](https://dl.acm.org/citation.cfm?id=2491190) - Protocol Oblivious Forwarding
@@ -132,21 +132,21 @@ Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defi
 
 # Library
 
-*   [loxigen](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
-*   [nettle](https://github.com/AndreasVoellmy/openflow) - A Haskell library for working with the OpenFlow protocol.
-*   [OCaml OpenFlow](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
-*   [oflib-node](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
-*   [openfaucet](https://github.com/rlenglet/openfaucet) - openfaucet is a pure Python implementation of the OpenFlow 1.0.0 protocol, based on Twisted.
+*   [loxigen (⭐96)](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
+*   [nettle (⭐20)](https://github.com/AndreasVoellmy/openflow) - A Haskell library for working with the OpenFlow protocol.
+*   [OCaml OpenFlow (⭐13)](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
+*   [oflib-node (⭐15)](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
+*   [openfaucet (⭐26)](https://github.com/rlenglet/openfaucet) - openfaucet is a pure Python implementation of the OpenFlow 1.0.0 protocol, based on Twisted.
 *   [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - A Java implementation of low-level OpenFlow packet marshalling/unmarshalling and IO operations.
 *   [Scapy](http://www.secdev.org/projects/scapy/) - Scapy is a powerful interactive packet manipulation program.
 
 # Test
 
-*   [Cbenech](https://github.com/mininet/oflops/tree/master/cbench) - Benchmarking tool for controllers
+*   [Cbenech (⭐28)](https://github.com/mininet/oflops/tree/master/cbench) - Benchmarking tool for controllers
 *   [nice-of](https://code.google.com/archive/p/nice-of/) - A tool to test OpenFlow controller application for the NOX controller platform.
-*   [oftest](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
+*   [oftest (⭐84)](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
 *   [OpenSDNCore](http://www.opensdncore.org/) - Virtualisation Testbed for NFV/SDN Environment.
-*   [ptf](https://github.com/p4lang/ptf) - A python based dataplane test framework based on unittest.
+*   [ptf (⭐107)](https://github.com/p4lang/ptf) - A python based dataplane test framework based on unittest.
 *   [STS](https://ucb-sts.github.com/sts/) - SDN Troubleshooting System, simulates network devices, allowing programmatically test cases generation.
 
 # NFV
@@ -161,14 +161,14 @@ Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defi
 
 # Router
 
-*   [bgp4r](https://github.com/jesnault/bgp4r) - BGP4R is a ruby library which enables the creation and manipulation of BGP messages. In BGP4R, all well-known BGP constructs are defined in classes.
-*   [BGPFeeder](https://github.com/BytemarkHosting/bgpfeeder)
+*   [bgp4r (⭐24)](https://github.com/jesnault/bgp4r) - BGP4R is a ruby library which enables the creation and manipulation of BGP messages. In BGP4R, all well-known BGP constructs are defined in classes.
+*   [BGPFeeder (⭐7)](https://github.com/BytemarkHosting/bgpfeeder)
 *   [Bird](http://bird.network.cz/) - The BIRD project aims to develop a fully functional dynamic IP routing daemon primarily targeted on (but not limited to) Linux, FreeBSD and other UNIX-like systems and distributed under the GNU General Public License.
 *   [FreeRouter](http://freerouter.nop.hu/) - Java-based vRouter
 *   [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP4, BGP4+, OSPFv2, OSPFv3, RIPv1, RIPv2, RIPng, PIM-SM/MSDP and LDP as well as very early support for IS-IS, EIGRP and NHRP.
-*   [gobgp](https://github.com/osrg/gobgp) - GoBGP is an open source BGP implementation designed from scratch for modern environment and implemented in a modern programming language, the Go Programming Language.
+*   [gobgp (⭐3k)](https://github.com/osrg/gobgp) - GoBGP is an open source BGP implementation designed from scratch for modern environment and implemented in a modern programming language, the Go Programming Language.
 *   [Quagga](http://www.quagga.net/) - Quagga is a routing software suite, providing implementations of OSPFv2, OSPFv3, RIP v1 and v2, RIPng and BGP-4 for Unix platforms, particularly FreeBSD, Linux, Solaris and NetBSD. Quagga is a fork of GNU Zebra which was developed by Kunihiro Ishiguro.
-*   [yabgp](https://github.com/smartbgp/yabgp) - YABGP is a yet another Python implementation for BGP Protocol. It can be used to establish BGP connections with all kinds of routers (include real Cisco/HuaWei/Juniper routers and some router simulators like GNS3) and receive/parse BGP messages for future analysis.
+*   [yabgp (⭐206)](https://github.com/smartbgp/yabgp) - YABGP is a yet another Python implementation for BGP Protocol. It can be used to establish BGP connections with all kinds of routers (include real Cisco/HuaWei/Juniper routers and some router simulators like GNS3) and receive/parse BGP messages for future analysis.
 
 # Misc
 
@@ -189,11 +189,11 @@ Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defi
 
 # Userspace Network Stack
 
-*   [drv-netif-dpdk](https://github.com/rumpkernel/drv-netif-dpdk) - drv-netif-dpdk is a DPDK network interface for rump kernels. The combined result is a userspace TCP/IP stack doing packet I/O via DPDK.
-*   [f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
-*   [mTCP](https://github.com/eunyoung14/mtcp) - mTCP is a highly scalable user-level TCP stack for multicore systems. mTCP source code is distributed under the Modified BSD License. For more detail, please refer to the LICENSE. The license term of io\_engine driver and ported applications may differ from the mTCP’s.
-*   [net-next-nuse](https://github.com/libos-nuse/net-next-nuse) - Network Stack in Userspace (NUSE) NUSE allows us to use Linux network stack as a library which any applications can directory use by linking the library. Each application has its own network stack so, it provides an instant virtualized environment apart from a host operating system.
-*   [nff-go](https://github.com/intel-go/nff-go) - NFF-Go becomes part of DPDK project umbrella under Linux Foundation! Mirror repo can be found here: <http://dpdk.org/browse/apps/nff-go/>. We will accept patches through DPDK mail-list and standard DPDK contribution process too.
+*   [drv-netif-dpdk (⭐188)](https://github.com/rumpkernel/drv-netif-dpdk) - drv-netif-dpdk is a DPDK network interface for rump kernels. The combined result is a userspace TCP/IP stack doing packet I/O via DPDK.
+*   [f-stack (⭐3.3k)](https://github.com/F-Stack/f-stack) - F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
+*   [mTCP (⭐1.8k)](https://github.com/eunyoung14/mtcp) - mTCP is a highly scalable user-level TCP stack for multicore systems. mTCP source code is distributed under the Modified BSD License. For more detail, please refer to the LICENSE. The license term of io\_engine driver and ported applications may differ from the mTCP’s.
+*   [net-next-nuse (⭐266)](https://github.com/libos-nuse/net-next-nuse) - Network Stack in Userspace (NUSE) NUSE allows us to use Linux network stack as a library which any applications can directory use by linking the library. Each application has its own network stack so, it provides an instant virtualized environment apart from a host operating system.
+*   [nff-go (⭐1.3k)](https://github.com/intel-go/nff-go) - NFF-Go becomes part of DPDK project umbrella under Linux Foundation! Mirror repo can be found here: <http://dpdk.org/browse/apps/nff-go/>. We will accept patches through DPDK mail-list and standard DPDK contribution process too.
 
 # Analytics
 

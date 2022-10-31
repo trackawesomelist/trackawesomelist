@@ -1,48 +1,110 @@
 # Awesome List Updates on Oct 31, 2022
 
-11 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [1. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+
+### Blockchain
+
+*   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
+
+## [2. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+
+### Changeset Tools / Web Services
+
+*   [OSM Inspector](https://tools.geofabrik.de/osmi/?view=geometry\&lon=-12.00000\&lat=25.00000\&zoom=3\&baselayer=Geofabrik%20Standard\&overlays=long_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way%2Clong_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way) - The OSM Inspector (alias OSMI) is a web based debugging tool for advanced OpenStreetMap users offered by Geofabrik. On a map you can see several themed views, each with several layers, showing specific details of the OSM data, often with highlighted errors.
+*   [Nominatim QA](https://nominatim.org/qa/#map=1.81/0.00/0.00) - The Nominatim Data Analyser is a QA tool used to scan the nominatim database and extract suspect data from it. These data are then presented to mappers through a visual interface so that they can correct them directly.
+
+## [3. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+
+### Related Projects
+
+*   [material-ui-theme-editor](https://in-your-saas.github.io/material-ui-theme-editor/) - A tool to generate themes for your Material UI applications that features live previewing.
+*   [Material palette generator](https://m2.material.io/inline-tools/color/) - The official Material Design palette generator can be used to generate a palette for any color you choose.
+*   [Material UI Snippets](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets) - VSCode extension providing snippets.
+*   [Material UI Codemorphs](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-codemorphs) - VSCode extension providing codemods.
+*   [Eslint: detect unused classes (⭐24)](https://github.com/jens-ox/eslint-plugin-material-ui-unused-classes) - ESLint plugin to detect unused styling classes with `@mui/styles`.
+
+### Applications
+
+*   [Bethesda.net](https://bethesda.net/) - The official site for Bethesda, publisher of Fallout, DOOM, Dishonored, Skyrim, Wolfenstein, The Elder Scrolls, more.
+
+### Boilerplates
+
+*   [Create-react-app-material-ui (⭐22)](https://github.com/katopz/create-react-app-material-ui) - Simple Create React App with Material-UI form submit example.
+*   [React-materialui-boilerplate (⭐31)](https://github.com/syedabuthahirm/react-materialui-boilerplate) - A starter kit for react and Material-UI.
+*   [Gatsby-starter-material-ui (⭐34)](https://github.com/nareshbhatia/gatsby-starter-material-ui) - A starter template for Gatsby using Material-UI.
+*   [Saas (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
+*   [Create-react-app-material-typescript-redux (⭐283)](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
+
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Motion / Diagnostics
+
+*   [Weissle/easy-action (⭐3)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
+
+## [5. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
+
+### IoT
+
+*   [IoTSharp (⭐520)](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp is an open-source IoT platform for data collection,It supports storing time series data to TDengine.
+
+### Connector
+
+*   [IoTSharp.Data.Taos](https://www.nuget.org/packages/IoTSharp.Data.Taos/)  - TDengine's ADO.Net provider. (.Net Framework 4.6+, .Net Standard2.0+,.Net 5.0+).
+
+### Others
+
+*   [IoTSharp.HealthChecks.Taos](https://www.nuget.org/packages/IoTSharp.HealthChecks.Taos/) - TDengine's HealthChecks provider. (.Net 5.0+).
+
+## [6. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [cargo-unused-features (⭐46)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
+    It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positve.
+
+## [7. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+
+### ⚙️ Middlewares / 🌱 Third Party
+
+*   [vladfr/fiber-servertiming (⭐0)](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
+
+## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Resources / Discovery
 
 *   [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 
-## [2. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Development
 
 *   [utmapp](https://github.com/utmapp/) - Virtualization for other operating systems. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
-## [3. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [10. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [rbperf (⭐58)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
 *   [touchlab/KMMBridge (⭐151)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐188)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐157)](https://github.com/ragunathjawahar/kaffeine)
-
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Domain
 
 *   [is-an.app (⭐1)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
-## [6. Awesome Music](/content/ciconia/awesome-music/README.md)
+## [13. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Music Programming
 
@@ -50,20 +112,20 @@
 *   [Gwion (⭐454)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Metascience / Scientific Writing
 
 *   [A tagmemic approach to paragraph analysis](https://www.jstor.org/stable/355200) - ***College Composition and Communication***, 1965. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=A+Tagmemic+Approach+to+Paragraph+Analysis+AL+Becker\&btnG=)]. The original paper on analyzing the structure of expository paragraphs, with the two patterns---the Topic-Restriction-Illustration pattern and the Problem-Solution pattern.
 *   [Towards an argument interchange format](https://pure.mpg.de/rest/items/item_3020351/component/file_3045811/content) - ***The Knowledge Engineering Review***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=11123720528835823517\&hl=en\&as_sdt=0,5)]. The original paper introducing the Argument Interchange Format (AIF) framework for argumentation analysis.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Reflection
 
 *   [Easy Reflection (⭐27)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
 
-## [9. Awesome Go](/content/avelino/awesome-go/README.md)
+## [16. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
@@ -123,7 +185,7 @@
 
 *   [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 
-## [10. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [17. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Algorithms / Supervised Learning
 
@@ -147,12 +209,6 @@
     *   [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
     *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
     *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
-
-## [11. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### 1 - Agnósticos / Inteligencia Artificial
-
-*   [Deep Learning](http://www.uhu.es/publicaciones/?q=libros\&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
 
 ---
 

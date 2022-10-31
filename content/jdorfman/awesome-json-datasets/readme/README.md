@@ -14,7 +14,7 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 A curated list of awesome JSON datasets that don't require authentication.
 
-> *Link of the month:* [Awesome Stacks by StackShare](https://github.com/stackshareio/awesome-stacks)
+> *Link of the month:* [Awesome Stacks by StackShare (⭐2.9k)](https://github.com/stackshareio/awesome-stacks)
 
 *Sponsored link:* [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets\&utm_campaign=awesome-json-datasets-sponsorship\&utm_medium=referral)
 
@@ -292,14 +292,14 @@ A curated list of awesome JSON datasets that don't require authentication.
 
 ## More Awesome Lists
 
-*   [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
-*   [Help Wanted](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
-*   [JSON](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
-*   [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-*   [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
-*   [Public APIs](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
-*   [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
-*   [Style Guides](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
+*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) *(The OG List)*
+*   [Help Wanted (⭐67)](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+*   [JSON (⭐1.2k)](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
+*   [WPO (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+*   [Shell (⭐25k)](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+*   [Public APIs (⭐565)](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+*   [Public Datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+*   [Style Guides (⭐1k)](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## Contributing
 

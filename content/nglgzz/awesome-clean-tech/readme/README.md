@@ -14,7 +14,7 @@ A community curated list of awesome clean tech companies
 
 The goal of this list is to gather a list of awesome companies fighting climate change, as well as collecting research about the issues and solutions connected to it.
 
-*Contributions to this list are welcome! Just edit the [README.md](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md/./CONTRIBUTING.md) before contributing.*
+*Contributions to this list are welcome! Just edit the [README.md (⭐365)](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md/./CONTRIBUTING.md) before contributing.*
 
 ## Contents
 

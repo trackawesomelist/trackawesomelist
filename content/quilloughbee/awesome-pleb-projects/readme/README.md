@@ -16,7 +16,7 @@ A List of Awesome Bitcoin (Pleb) Projects
 
 <!--rehype:style=text-align: center;-->
 
-Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesome-pleb-projects/issues) We love PRs :) Follow the [awesome](https://github.com/sindresorhus/awesome) list.
+Any comments, suggestions? [Let us know! (⭐4)](https://github.com/quilloughbee/awesome-pleb-projects/issues) We love PRs :) Follow the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list.
 
 ## Contents
 
@@ -28,48 +28,48 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 ## Chain
 
-*   [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - This Python3 library provides an easy interface to the bitcoin data structures and protocol
+*   [python-bitcoinlib (⭐1.6k)](https://github.com/petertodd/python-bitcoinlib) - This Python3 library provides an easy interface to the bitcoin data structures and protocol
 
 ## Displays, LED, Tickers
 
-*   [BitcoinPriceLED](https://github.com/Egge7/BitcoinPriceLED) - LED-lamp that represents the current Bitcoin price trend
-*   [BTC E-ink Ticker](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
+*   [BitcoinPriceLED (⭐7)](https://github.com/Egge7/BitcoinPriceLED) - LED-lamp that represents the current Bitcoin price trend
+*   [BTC E-ink Ticker (⭐31)](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
 *   [Bitcoin Kindle Display](https://d11n.net/kindle-status-display.html) - Bitcoin Status on an old Kindle
 
 ## Nodes
 
-*   [Citadel](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server
-*   [Raspiblitz](https://github.com/rootzoll/raspiblitz) - Build your own Lightning & Bitcoin Fullnode on a RaspberryPi with a nice Display
+*   [Citadel (⭐92)](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server
+*   [Raspiblitz (⭐2k)](https://github.com/rootzoll/raspiblitz) - Build your own Lightning & Bitcoin Fullnode on a RaspberryPi with a nice Display
 
 ## Learning Material
 
-*   [bitcoin-tutorials](https://github.com/openoms/bitcoin-tutorials)
+*   [bitcoin-tutorials (⭐257)](https://github.com/openoms/bitcoin-tutorials)
 
 ## Lightning
 
 ### Tools
 
-*   [Alby](https://github.com/getAlby/lightning-browser-extension) - A browser extension to bring the Bitcoin Lightning Network to the browser
-*   [lnproxy](https://github.com/lnproxy/lnproxy) - lnproxy takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
-*   [Tallycoin Connect](https://github.com/djbooth007/tallycoin_connect) - Install Tallycoin Connect on a bitcoin node to allow for the retrieval of lightning invoices via Tallycoin. LND required.
-*   [TARO](https://github.com/lightninglabs/taro) - Taro Daemon tarod implements the Taro protocol for issuing assets on the Bitcoin blockchain
-*   [storage4sats](https://github.com/rottingcleaner/storage4sats) - Upload a file, pay with sats. No account, no ads.
+*   [Alby (⭐243)](https://github.com/getAlby/lightning-browser-extension) - A browser extension to bring the Bitcoin Lightning Network to the browser
+*   [lnproxy (⭐52)](https://github.com/lnproxy/lnproxy) - lnproxy takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
+*   [Tallycoin Connect (⭐22)](https://github.com/djbooth007/tallycoin_connect) - Install Tallycoin Connect on a bitcoin node to allow for the retrieval of lightning invoices via Tallycoin. LND required.
+*   [TARO (⭐181)](https://github.com/lightninglabs/taro) - Taro Daemon tarod implements the Taro protocol for issuing assets on the Bitcoin blockchain
+*   [storage4sats (⭐1)](https://github.com/rottingcleaner/storage4sats) - Upload a file, pay with sats. No account, no ads.
 
 ### Hardware
 
-*   [bitcoinSwitch](https://github.com/lnbits/bitcoinSwitch) - turn things on with Bitcoin
-*   [LNPoS](https://github.com/lnbits/LNPoS) - Free and open-source bitcoin point-of-sale
-*   [LN-TinyPOS](https://github.com/ccadic/LN-TinyPOS) - Small Lightning Network Tiny POS System By @sulfuroid
+*   [bitcoinSwitch (⭐15)](https://github.com/lnbits/bitcoinSwitch) - turn things on with Bitcoin
+*   [LNPoS (⭐11)](https://github.com/lnbits/LNPoS) - Free and open-source bitcoin point-of-sale
+*   [LN-TinyPOS (⭐6)](https://github.com/ccadic/LN-TinyPOS) - Small Lightning Network Tiny POS System By @sulfuroid
 
 ### Wallets
 
-*   [BlueWallet](https://github.com/BlueWallet/BlueWallet) - Thin Bitcoin Wallet. Built with React Native and Electrum.
-*   [Lightning Address](https://github.com/andrerfneves/lightning-address) - The Lightning Address is an Internet Identifier that allows anyone to send you Bitcoin over the Lightning Network
-*   [Zeus](https://github.com/ZeusLN/zeus) - Zeus is a mobile Bitcoin/Lightning node manager and wallet application for LND, Core Lightning, and Eclair
+*   [BlueWallet (⭐1.8k)](https://github.com/BlueWallet/BlueWallet) - Thin Bitcoin Wallet. Built with React Native and Electrum.
+*   [Lightning Address (⭐198)](https://github.com/andrerfneves/lightning-address) - The Lightning Address is an Internet Identifier that allows anyone to send you Bitcoin over the Lightning Network
+*   [Zeus (⭐522)](https://github.com/ZeusLN/zeus) - Zeus is a mobile Bitcoin/Lightning node manager and wallet application for LND, Core Lightning, and Eclair
 
 ## Telegram Bots
 
-*   [Einundzwanzig Bot](https://github.com/Einundzwanzig-Podcast/einundzwanzigbot) - Einundzwanzig Community Bot
+*   [Einundzwanzig Bot (⭐5)](https://github.com/Einundzwanzig-Podcast/einundzwanzigbot) - Einundzwanzig Community Bot
 
 ## Companies & Organizations
 
@@ -93,7 +93,7 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 ## Contributors
 
-This repo exists thanks to all the [plebs](https://github.com/quilloughbee/awesome-pleb-projects/graphs/contributors) who contribute.
+This repo exists thanks to all the [plebs (⭐4)](https://github.com/quilloughbee/awesome-pleb-projects/graphs/contributors) who contribute.
 
 ## Value-4-Value
 

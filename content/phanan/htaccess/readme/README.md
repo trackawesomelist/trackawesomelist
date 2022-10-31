@@ -16,11 +16,11 @@ A collection of useful .htaccess snippets, all in one place.
 
 **Disclaimer**: While dropping the snippet into an `.htaccess` file is most of the time sufficient, there are cases when certain modifications might be required. Use at your own risk.
 
-**IMPORTANT**: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) as well as [this issue](https://github.com/phanan/htaccess/issues/2).
+**IMPORTANT**: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) as well as [this issue (⭐12k)](https://github.com/phanan/htaccess/issues/2).
 
 ## Credits
 
-What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
+What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from [Apache Server Configs (⭐3k)](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
 
 ## Table of Contents
 
@@ -311,7 +311,7 @@ These files may be left by some text/HTML editors (like Vi/Vim) and pose a great
 </FilesMatch>
 ```
 
-[Source](https://github.com/h5bp/server-configs-apache)
+[Source (⭐3k)](https://github.com/h5bp/server-configs-apache)
 
 ### Disable Directory Browsing
 
@@ -447,13 +447,13 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 </IfModule>
 ```
 
-[Source](https://github.com/h5bp/server-configs-apache)
+[Source (⭐3k)](https://github.com/h5bp/server-configs-apache)
 
 ### Set Expires Headers
 
 *Expires headers* tell the browser whether they should request a specific file from the server or just grab it from the cache. It is advisable to set static content's expires headers to something far in the future.
 
-If you don’t control versioning with filename-based cache busting, consider lowering the cache time for resources like CSS and JS to something like 1 week. [Source](https://github.com/h5bp/server-configs-apache)
+If you don’t control versioning with filename-based cache busting, consider lowering the cache time for resources like CSS and JS to something like 1 week. [Source (⭐3k)](https://github.com/h5bp/server-configs-apache)
 
 ```apacheconf
 <IfModule mod_expires.c>
@@ -573,7 +573,7 @@ CDN-served webfonts might not work in Firefox or IE due to [CORS](https://en.wik
 </IfModule>
 ```
 
-[Source](https://github.com/h5bp/server-configs-apache/issues/32)
+[Source (⭐3k)](https://github.com/h5bp/server-configs-apache/issues/32)
 
 ### Auto UTF-8 Encode
 
@@ -587,7 +587,7 @@ AddDefaultCharset utf-8
 AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
 ```
 
-[Source](https://github.com/h5bp/server-configs-apache)
+[Source (⭐3k)](https://github.com/h5bp/server-configs-apache)
 
 ### Switch to Another PHP Version
 
@@ -622,5 +622,5 @@ RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
 RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ```
 
-[Source](https://github.com/vincentorback/WebP-images-with-htaccess)
+[Source (⭐198)](https://github.com/vincentorback/WebP-images-with-htaccess)
 

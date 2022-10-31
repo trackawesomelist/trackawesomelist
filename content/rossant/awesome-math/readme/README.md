@@ -97,7 +97,7 @@ A curated list of awesome mathematics resources.
 
 ## Learn to Learn
 
-*   [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐783)](https://github.com/nelson-brochado/understanding-math)
 
 ## Youtube Series
 
@@ -153,7 +153,7 @@ A curated list of awesome mathematics resources.
 *   [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 *   [Online Mathematics Textbooks](https://people.math.gatech.edu/\~cain/textbooks/onlinebooks.html)
 *   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
-*   [Free Mathematics Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 *   [Trigonometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Magazines
@@ -310,7 +310,7 @@ A curated list of awesome mathematics resources.
 *   [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/\~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 *   [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 *   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) - Jim Hefferon
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐452)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 *   [Elementary Linear Algebra](http://www.numbertheory.org/book/) - Keith Matthews
 *   [A First Courses in Linear Algebra](http://linear.ups.edu/) - Rob Breezer
 *   [Linear Algebra](https://www.math.ucdavis.edu/\~linear/) - David Cherney, Tom Denton, Andrew Waldron
@@ -506,7 +506,7 @@ A curated list of awesome mathematics resources.
 *   [Introduction to Probability](http://vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) - Dimitri P. Bertsekas, John N. Tsitsiklis (MIT)
 *   [A Short Introduction to Probability](http://www.maths.uq.edu.au/\~kroese/asitp.pdf) - Dirk P. Kroese (University of Queensland)
 *   [Probability: Theory and Examples](https://www.math.duke.edu/\~rtd/PTE/PTE4_1.pdf) - Rick Durrett
-*   [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
+*   [Probability and Statistics Cookbook (⭐2.1k)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
 *   [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) - William Chen
 *   [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 *   [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan
@@ -592,7 +592,7 @@ A curated list of awesome mathematics resources.
 
 # Related Awesome Lists
 
-*   [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐299)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 # License
 

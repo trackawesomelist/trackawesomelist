@@ -28,14 +28,14 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 ## Official Resources
 
 *   [Website](http://www.inspectit.rocks/) - Official website.
-*   [GitHub Repository](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository.
+*   [GitHub Repository (⭐528)](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository.
 *   [Issue Tracking](https://inspectit-performance.atlassian.net/browse/INSPECTIT) - inspectIT's issue tracking system.
 *   [Documentation](https://inspectit-performance.atlassian.net/wiki/) - Official documentation.
 
 ## Tutorials
 
 *   [How to Write Your Own Sensor](https://dzone.com/articles/how-to-write-your-own-sensor-for-the-open-source-a) - Walkthrough on how to implement a custom sensor for inspectIT.
-*   [inspectIT Workshop](https://github.com/inspectit-labs/workshop) - Hands-on workshop about inspectIT and its setup, configuration and usage.
+*   [inspectIT Workshop (⭐1)](https://github.com/inspectit-labs/workshop) - Hands-on workshop about inspectIT and its setup, configuration and usage.
 *   [Using Java Management Extensions (JMX)](https://blog.novatec-gmbh.de/inspectit-1-6-monitoring-jmx/) - Walkthrough on how to monitor JMX attributes.
 
 ## Videos
@@ -56,12 +56,12 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 
 ## Profiles And Sensor Configurations
 
-*   [ColdFusion Markup Language Profile](https://github.com/ghedwards/cfml-inspectIT) - Profile for tracking function calls in CFML.
+*   [ColdFusion Markup Language Profile (⭐1)](https://github.com/ghedwards/cfml-inspectIT) - Profile for tracking function calls in CFML.
 
 ## Uncategorized
 
-*   [Sample Application for inspectIT](https://github.com/inspectit-labs/spring-petclinic-microservices) - Sample application for demonstration purposes, based on the Spring Petclinic.
-*   [Grafana Dashboards for inspectIT](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
+*   [Sample Application for inspectIT (⭐7)](https://github.com/inspectit-labs/spring-petclinic-microservices) - Sample application for demonstration purposes, based on the Spring Petclinic.
+*   [Grafana Dashboards for inspectIT (⭐1)](https://github.com/inspectit-labs/dashboards) - GitHub repository containing Grafana dashboards for visualizing data from inspectIT.
 
 ## License
 

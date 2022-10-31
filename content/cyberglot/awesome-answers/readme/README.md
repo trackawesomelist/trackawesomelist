@@ -123,7 +123,7 @@ Curated list of inspiring and thoughtful answers given on stackoverflow, quora, 
 *   [Inheritence of variable properties](http://stackoverflow.com/a/15461601/1766338)
 *   [How does JavaScript .prototype work?](http://stackoverflow.com/a/572996/1766338)
 *   [JavaScript closures vs. anonymous functions](http://stackoverflow.com/a/12931785/1766338)
-*   [Why does JavaScript need a style guide?](https://github.com/airbnb/javascript/issues/102)
+*   [Why does JavaScript need a style guide? (⭐128k)](https://github.com/airbnb/javascript/issues/102)
 *   [Avoid Memory Leak / Usage Javascript](http://stackoverflow.com/a/13191289)
 *   [Perform debounce in React.js](http://stackoverflow.com/a/28046731)
 *   [Comparing two arrays in Javascript](http://stackoverflow.com/a/14853974/1766338)

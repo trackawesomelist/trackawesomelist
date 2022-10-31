@@ -10,7 +10,7 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 
 # Awesome Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome](https://github.com/sindresorhus/awesome) projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) projects line.
 
 *   [Awesome Haskell](#awesome-haskell)
     *   [*Basics*](#basics)
@@ -66,9 +66,9 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 *   [Happy](https://www.haskell.org/happy/) - The Parser Generator for Haskell.
 *   [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
 *   [Hoogle](https://www.haskell.org/hoogle/) - a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
-*   [hsenv](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
-*   [Stack](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-*   [Stackage](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+*   [hsenv (⭐123)](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
+*   [Stack (⭐3.8k)](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
+*   [Stackage (⭐488)](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 *   [The Haskell Platform](https://www.haskell.org/platform/contents.html) - a comprehensive, robust development environment for programming in Haskell.
 
 ## Algorithmics
@@ -144,8 +144,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Configuration
 
-*   [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON](https://github.com/lightbend/config#features-of-hocon) config format
-*   [Dhall](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
+*   [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON (⭐5.8k)](https://github.com/lightbend/config#features-of-hocon) config format
+*   [Dhall (⭐828)](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
 *   [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
 ## Cryptography & Hashing
@@ -158,7 +158,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Data Access
 
-*   [Haxl](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access.
+*   [Haxl (⭐4.1k)](https://github.com/facebook/Haxl) - a library for efficient, concurrent, concise data access.
 
 ## Data Formats
 
@@ -194,7 +194,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 *Additional libraries*
 
-*   [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
+*   [m2cgen (⭐2.2k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
 
 ## Data Structures
 
@@ -306,8 +306,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 *Additional libraries*
 
-*   [HTTP](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
-*   [hoauth2](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
+*   [HTTP (⭐170)](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
+*   [hoauth2 (⭐120)](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
 
 ## Text Processing
 
@@ -315,9 +315,9 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-*   [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
+*   [SimpleX Chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
 *   [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
-*   [amqp](https://github.com/hreinhardt/amqp) - client library for AMQP servers (currently only RabbitMQ).
+*   [amqp (⭐122)](https://github.com/hreinhardt/amqp) - client library for AMQP servers (currently only RabbitMQ).
 *   [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
 *   \[IRC Client]\(<http://hackage.haskell.org/packages/#cat:IRC> Client) - a collaborative Hackage list.
 
@@ -340,7 +340,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 *Additional languages on top of Haskell*
 
 *   [Fay](http://fay-lang.org/) - a proper subset of Haskell that compiles to JavaScript.
-*   [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
+*   [Idris (⭐3.4k)](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 *   [Copilot](http://leepike.github.io/Copilot/) - a (Haskell DSL) stream language for generating hard real-time C code.
 *   [Wasp](https://wasp-lang.dev/) - a simple language for developing full-stack Javascript web apps with less code (built with Haskell)
 
@@ -388,10 +388,10 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Streaming Processing
 
-*   [Conduit](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
+*   [Conduit (⭐834)](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
 *   [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
-*   [Pipes](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
-*   [HStreamDB](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [Pipes (⭐466)](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
+*   [HStreamDB (⭐552)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
 # Resources
 
@@ -423,7 +423,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 *   [Documentation](https://www.haskell.org/documentation) - Official documentation resources.
 *   [Learn Haskell](https://wiki.haskell.org/Learning_Haskell) - Wiki Learning Resources.
 *   [Books](https://wiki.haskell.org/Books) & [Tutorials](https://wiki.haskell.org/Tutorials)
-*   [learnhaskell](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers).
+*   [learnhaskell (⭐7.7k)](https://github.com/bitemyapp/learnhaskell) - Haskell Learning (also for non-English speakers).
 *   [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/) - amazing guide for all kinds of things.
 *   [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Learn You a Haskell for Great Good!
 *   [Happy Learn Haskell Tutorial](http://happylearnhaskelltutorial.com/) - Pain-free, Gradual Haskell Tutorial with cartoon robots!
@@ -434,7 +434,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
     *   [Introduction to Haskell - Web Programming](http://www.shakthimaan.com/posts/2016/01/27/haskell-web-programming/news.html)
     *   [Your First Web Application with Spock](https://haskell-at-work.com/episodes/2018-04-09-your-first-web-application-with-spock.html)
-    *   [Scotty-Tutorials-&-Examples](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples)
+    *   [Scotty-Tutorials-&-Examples (⭐1.6k)](https://github.com/scotty-web/scotty/wiki/Scotty-Tutorials-&-Examples)
     *   [Getting Started](https://www.spock.li/tutorials/getting-started)
     *   [Developing Web Applications with Yesod and Haskell](https://www.yesodweb.com/book-1.6)
 
@@ -447,7 +447,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 *   [LazyCasts](http://www.youtube.com/user/LazyCasts)
 *   [Haskell Development Workflow Demo](http://www.youtube.com/watch?v=Li6oaO8x2VY)
 *   [Learn You a Haskell](https://www.youtube.com/watch?v=NBKnY7Z_w3I\&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh) - Video lectures to accompany the book "Learn You a Haskell for Great Good!"
-*   [Awesome Haskell Videos](https://github.com/andys8/awesome-haskell-videos) - Curated list of Haskell talks and tutorials
+*   [Awesome Haskell Videos (⭐33)](https://github.com/andys8/awesome-haskell-videos) - Curated list of Haskell talks and tutorials
 *   [IHP Casts](https://ihpcasts.com/ShowEpisode?episodeId=ab384647-3665-4a36-b5e5-e05fea6c2288) Learn to build type-safe web apps with Haskell and IHP
 
 ## Courses

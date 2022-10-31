@@ -59,49 +59,49 @@ A curated list about React Hooks.
 *   [React Hooks: Managing Web Sockets with useEffect and useState](https://medium.com/@rossbulat/react-hooks-managing-web-sockets-with-useeffect-and-usestate-2dfc30eeceec) - Ross Bulat.
 *   [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/) - Austin Johnston.
 *   [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/) - Austin Johnston.
-*   [Advanced React Hooks Workshop](https://github.com/kentcdodds/advanced-react-hooks) - Kent C. Dodds.
+*   [Advanced React Hooks Workshop (⭐1.8k)](https://github.com/kentcdodds/advanced-react-hooks) - Kent C. Dodds.
 
 ## Discussions
 
-*   [v6 Candidate Preview: Use React Hooks for connect](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson.
-*   [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68) - Sebastian Markbåge.
-*   [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - Héctor Ramos.
+*   [v6 Candidate Preview: Use React Hooks for connect (⭐22k)](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson.
+*   [RFC: React Hooks (⭐4.5k)](https://github.com/reactjs/rfcs/pull/68) - Sebastian Markbåge.
+*   [Using Hooks in React Native (⭐105k)](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - Héctor Ramos.
 
 ## Examples
 
 *   [Color Match](https://codesandbox.io/s/jjy215l7w3) - Color Match Game.
 *   [React Hooks counter](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js) - Counter using useState of React Hooks.
 *   [Toggle component](https://codesandbox.io/s/m449vyk65x) - Toggle component made with React Hooks.
-*   [Hooks test](https://github.com/jacobp100/hooks-test) - Somewhat complicated use case solved relatively nicely with React Hooks.
-*   [React Hanger](https://github.com/kitze/react-hanger) - React Hanger example.
-*   [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use.
-*   [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
+*   [Hooks test (⭐199)](https://github.com/jacobp100/hooks-test) - Somewhat complicated use case solved relatively nicely with React Hooks.
+*   [React Hanger (⭐1.8k)](https://github.com/kitze/react-hanger) - React Hanger example.
+*   [React Navigation Hooks (⭐577)](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use.
+*   [Haunted (⭐2.4k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 *   [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by [Gabe Ragland](https://twitter.com/gabe_ragland).
 *   [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) - Collection of React Hooks.
 *   [React Spring demo](https://codesandbox.io/s/ppxnl191zx) - Demo of how react-spring could use React Hooks as a new API.
 *   [React Hooks](https://codesandbox.io/s/yq5qowzrvz) - React Hooks useState() and useEffect().
 *   [Hooks Todo App](https://codesandbox.io/s/9kwyzy0y4) - App made with React Hooks.
-*   [react-thanos](https://github.com/codeshifu/react-thanos) - React hooks implementation of Google's Thanos easter egg.
+*   [react-thanos (⭐35)](https://github.com/codeshifu/react-thanos) - React hooks implementation of Google's Thanos easter egg.
 
 ## Extensions/Libraries
 
-*   [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store.
-*   [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks.
-*   [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
+*   [redux-react-hook (⭐2.2k)](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store.
+*   [react-use (⭐34k)](https://github.com/streamich/react-use) - Collection of essential React Hooks.
+*   [The Platform (⭐4.4k)](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 *   [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) - This plugin enforce rule of hooks to avoid common mistakes.
-*   [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks.
-*   [use-immer](https://github.com/mweststrate/use-immer) - A hook to use immer as a React hook to manipulate state.
-*   [react-hanger](https://github.com/kitze/react-hanger) - A small collection of useful hooks for React 16.7.
-*   [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase.
-*   [react-intersection-visible-hook](https://github.com/AvraamMavridis/react-intersection-visible-hook) - React hook to track the visibility of a functional component based on IntersectionVisible Observer.
-*   [use-timer](https://github.com/thibaultboursier/use-timer) - Simple React hook to handle timer.
-*   [react-native-hooks](https://github.com/react-native-community/react-native-hooks) - React Native APIs turned into React Hooks for use in stateless React components.
-*   [react-with-hooks](https://github.com/yesmeck/react-with-hooks) - Ponyfill for the proposed React Hooks API.
-*   [react-hooks-screen-type](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
-*   [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests.
-*   [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
-*   [storeon](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
-*   [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
+*   [react-hooks-lib (⭐531)](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks.
+*   [use-immer (⭐2.4k)](https://github.com/mweststrate/use-immer) - A hook to use immer as a React hook to manipulate state.
+*   [react-hanger (⭐1.8k)](https://github.com/kitze/react-hanger) - A small collection of useful hooks for React 16.7.
+*   [react-firebase-hooks (⭐2.9k)](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase.
+*   [react-intersection-visible-hook (⭐50)](https://github.com/AvraamMavridis/react-intersection-visible-hook) - React hook to track the visibility of a functional component based on IntersectionVisible Observer.
+*   [use-timer (⭐169)](https://github.com/thibaultboursier/use-timer) - Simple React hook to handle timer.
+*   [react-native-hooks (⭐2.9k)](https://github.com/react-native-community/react-native-hooks) - React Native APIs turned into React Hooks for use in stateless React components.
+*   [react-with-hooks (⭐152)](https://github.com/yesmeck/react-with-hooks) - Ponyfill for the proposed React Hooks API.
+*   [react-hooks-screen-type (⭐15)](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
+*   [use-http (⭐2.2k)](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests.
+*   [react-fetch-hook (⭐348)](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
+*   [storeon (⭐1.9k)](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
+*   [react-hook-form (⭐31k)](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
 
 ## License
 

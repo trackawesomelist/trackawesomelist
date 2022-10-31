@@ -14,7 +14,7 @@
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system
 
-You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beancount).
+You might also like [awesome-beancount (⭐157)](https://github.com/wzyboy/awesome-beancount).
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-ledger/blob/main/README.md/contributing.md) before contributing.*
 
@@ -38,7 +38,7 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Introduction
 
 *   [Ledger](http://ledger-cli.org/) - Official website.
-*   [Wiki](https://github.com/ledger/ledger/wiki) - Official wiki.
+*   [Wiki (⭐4.4k)](https://github.com/ledger/ledger/wiki) - Official wiki.
 *   [Wikipedia](https://en.wikipedia.org/wiki/Ledger_\(software\)) - Wikipedia entry about Ledger.
 
 ## Background
@@ -49,22 +49,22 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 ## Documentation
 
 *   [Cheat Sheet](http://ricostacruz.com/cheatsheets/ledger.html) - Summary of the most common commands.
-*   [Book](https://github.com/rolfschr/GSWL-book) - Introductory book on Ledger.
+*   [Book (⭐119)](https://github.com/rolfschr/GSWL-book) - Introductory book on Ledger.
 *   [Manual](http://ledger-cli.org/3.0/doc/ledger3.html) - Official manual.
 *   [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
 ## Editors
 
-*   [vim](https://github.com/ledger/vim-ledger) - Vim plugin.
+*   [vim (⭐309)](https://github.com/ledger/vim-ledger) - Vim plugin.
 *   [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 *   [Atom](https://atom.io/packages/language-ledger) - Atom package.
-*   [VS Code](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code.
+*   [VS Code (⭐18)](https://github.com/mariosangiorgio/vscode-ledger) - Ledger language support for Visual Studio Code.
 
 ## Tools
 
-*   [ledgerhelpers](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs.
-*   [node-ledger-web](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data.
-*   [ledger-autosync](https://github.com/egh/ledger-autosync) - Program to sync Ledger files with bank.
+*   [ledgerhelpers (⭐89)](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs.
+*   [node-ledger-web (⭐138)](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data.
+*   [ledger-autosync (⭐231)](https://github.com/egh/ledger-autosync) - Program to sync Ledger files with bank.
 
 ## Social
 
@@ -80,6 +80,6 @@ You might also like [awesome-beancount](https://github.com/wzyboy/awesome-beanco
 
 ## Miscellaneous
 
-*   [Code](https://github.com/ledger/ledger) - Code on GitHub.
-*   [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
+*   [Code (⭐4.4k)](https://github.com/ledger/ledger) - Code on GitHub.
+*   [Ports (⭐4.4k)](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
 

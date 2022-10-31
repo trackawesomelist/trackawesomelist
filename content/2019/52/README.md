@@ -59,7 +59,6 @@
 
 ### Applications
 
-*   [bethesda.net](https://bethesda.net/) - The official site for Bethesda, publisher of Fallout, DOOM, Dishonored, Skyrim, Wolfenstein, The Elder Scrolls, more.
 *   [TagSpaces](https://www.tagspaces.org/) - An offline, open source, file manager.
 *   [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
 

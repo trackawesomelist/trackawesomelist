@@ -86,19 +86,19 @@ With [Actions on Google](https://developers.google.com/actions/), you can easily
 
 ## Open source code
 
-*   [Canvas Quiz](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
-*   [Interactive Canvas editor](https://github.com/actions-on-google-labs/interactive-canvas-editor-nodejs) - Editor to create a web app for Interactive Canvas that is immediately loaded onto a smart display device. This allows for quick prototyping of web apps for Interactive Canvas.
-*   [Virtual Pet](https://github.com/actions-on-google-labs/virtual-pet-game-nodejs) - It is built with interactive canvas. In this game, you will adopt and take care of a hamster just like you would in real life, except through Google Assistant.
-*   [Spellcast](https://github.com/actions-on-google-labs/dialogflow-spellcast-nodejs) - Experimental Interactive Canvas game for the Google Assistant.
-*   Silly Name Maker [(Node.js)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Parameters sample (using Dialogflow).
-*   Facts about Google [(Node.js)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Custom Entities, Contexts, and Deep Links sample (using Dialogflow).
-*   Name Psychic [(Node.js)](https://github.com/actions-on-google/dialogflow-name-psychic-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-name-psychic-java) - Permissions and Google Maps Static API sample (using Dialogflow).
-*   Number Genie [(Node.js)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) [(Java)](https://github.com/actions-on-google/dialogflow-number-genie-java) - Localization sample.
-*   [GDG Action](https://github.com/actions-on-google/dialogflow-gdg-nodejs) - This sample demonstrates Actions on Google features for use on Google Assistant including localization (i18n-node), conversation design, rich responses, and API integrations.
-*   Say Number [(Node.js)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(Java)](https://github.com/actions-on-google/actionssdk-say-number-java) - Say a number Actions SDK sample for Actions on Google.
-*   [Smart Home sample](https://github.com/actions-on-google/smart-home-nodejs) - A sample of the Smart Home device control APIs in Actions on Google.
-*   [PDPU Scheduler](https://github.com/nish17/scheduler) - It's a Google Assistant action for PDPU that tells you about which classes and labs you have today.
-*   [karaoke](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso) - Conversational App to buid your own karaoke using GCP, YouTube API and Actions on Google.
+*   [Canvas Quiz (⭐39)](https://github.com/googlecreativelab/aog-canvas-quiz) - It is a starter kit for developers to make custom, voice-enabled question-answer games for the Google Assistant.
+*   [Interactive Canvas editor (⭐29)](https://github.com/actions-on-google-labs/interactive-canvas-editor-nodejs) - Editor to create a web app for Interactive Canvas that is immediately loaded onto a smart display device. This allows for quick prototyping of web apps for Interactive Canvas.
+*   [Virtual Pet (⭐28)](https://github.com/actions-on-google-labs/virtual-pet-game-nodejs) - It is built with interactive canvas. In this game, you will adopt and take care of a hamster just like you would in real life, except through Google Assistant.
+*   [Spellcast (⭐5)](https://github.com/actions-on-google-labs/dialogflow-spellcast-nodejs) - Experimental Interactive Canvas game for the Google Assistant.
+*   Silly Name Maker [(Node.js) (⭐45)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-nodejs) [(Java) (⭐2)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Parameters sample (using Dialogflow).
+*   Facts about Google [(Node.js) (⭐182)](https://github.com/actions-on-google/dialogflow-facts-about-google-nodejs) [(Java) (⭐2)](https://github.com/actions-on-google/dialogflow-silly-name-maker-webhook-java) - Custom Entities, Contexts, and Deep Links sample (using Dialogflow).
+*   Name Psychic [(Node.js) (⭐45)](https://github.com/actions-on-google/dialogflow-name-psychic-nodejs) [(Java) (⭐5)](https://github.com/actions-on-google/dialogflow-name-psychic-java) - Permissions and Google Maps Static API sample (using Dialogflow).
+*   Number Genie [(Node.js) (⭐85)](https://github.com/actions-on-google/dialogflow-number-genie-nodejs) [(Java) (⭐2)](https://github.com/actions-on-google/dialogflow-number-genie-java) - Localization sample.
+*   [GDG Action (⭐16)](https://github.com/actions-on-google/dialogflow-gdg-nodejs) - This sample demonstrates Actions on Google features for use on Google Assistant including localization (i18n-node), conversation design, rich responses, and API integrations.
+*   Say Number [(Node.js) (⭐53)](https://github.com/actions-on-google/actionssdk-say-number-nodejs) [(Java) (⭐3)](https://github.com/actions-on-google/actionssdk-say-number-java) - Say a number Actions SDK sample for Actions on Google.
+*   [Smart Home sample (⭐823)](https://github.com/actions-on-google/smart-home-nodejs) - A sample of the Smart Home device control APIs in Actions on Google.
+*   [PDPU Scheduler (⭐11)](https://github.com/nish17/scheduler) - It's a Google Assistant action for PDPU that tells you about which classes and labs you have today.
+*   [karaoke (⭐11)](https://github.com/amdcaruso/karaoke) - [Amanda Cavallaro](https://github.com/amdcaruso) - Conversational App to buid your own karaoke using GCP, YouTube API and Actions on Google.
 
 ## People to follow
 

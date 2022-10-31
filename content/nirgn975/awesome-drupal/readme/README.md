@@ -14,7 +14,7 @@ Useful resources for Drupal CMS 💧
 
 > [Drupal](https://www.drupal.org) is a free and open source CMS written in PHP and distributed under the GNU General Public License, provides a back-end for Web sites worldwide – ranging from personal blogs to corporate, political, and government sites.
 
-You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
+You might also like [awesome-php (⭐28k)](https://github.com/ziadoz/awesome-php).
 
 ## Contents
 
@@ -34,8 +34,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 *   [Drupal Console](https://drupalconsole.com/) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
 *   [DrupalVM](https://www.drupalvm.com/) - Drupal VM makes building Drupal development environments quick and easy, and introduces developers to the wonderful world of Drupal development on virtual machines or Docker containers (instead of crufty old MAMP/WAMP-based development).
 *   [Drush](http://www.drush.org/) - Drush is a command line shell and Unix scripting interface for Drupal. Drush core ships with lots of useful commands for interacting with code like modules/themes/profiles. Similarly, it runs update.php, executes sql queries and DB migrations, and misc utilities like run cron or clear cache.
-*   [Yo Hedley!](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
-*   [DDEV-Local](https://github.com/drud/ddev) - A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the [Get Started Guide](https://www.drud.com/get-started/)
+*   [Yo Hedley! (⭐99)](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
+*   [DDEV-Local (⭐1.5k)](https://github.com/drud/ddev) - A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the [Get Started Guide](https://www.drud.com/get-started/)
 
 ## Modules
 
@@ -155,9 +155,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tips
 
-*   [Solr Script](https://github.com/RoySegall/solr-script) - Handy script to install Apache Solr.
-*   [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
-*   [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
+*   [Solr Script (⭐4)](https://github.com/RoySegall/solr-script) - Handy script to install Apache Solr.
+*   [Ubuntu development environment setup (⭐64)](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
+*   [MacOS: New Machine configuration (⭐64)](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
 
 ## Contribute
 

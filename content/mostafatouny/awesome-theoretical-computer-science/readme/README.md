@@ -509,9 +509,9 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 # Related Awesome Lists<a name=related_awesome_lists></a>
 
-*   [Algorithms](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Mathematics](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   [Cryptography](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
-*   [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
-*   P.S. See also [Math](https://github.com/ossu/math) and [CS](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
+*   [Mathematics (⭐6.4k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   [Cryptography (⭐4.1k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
+*   P.S. See also [Math (⭐1.8k)](https://github.com/ossu/math) and [CS (⭐126k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 

@@ -55,33 +55,33 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Boom.money](https://boom.money) - A web wallet focused on NFTs, and custom tokens.
 *   [Send Many](https://sendstx.com/) - An application to send STX to many recipients in one transaction.
 *   [MIA Block explorer](http://miamining.com/) - A web application to exolore MIA coin transactions for all and personal accounts.
-*   [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source](https://github.com/friedger/speed-spend)).
+*   [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source (⭐6)](https://github.com/friedger/speed-spend)).
 
 ## Clarity Resources
 
 ### Developer Tools
 
-*   [Clarinet](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
-*   [Clarigen](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
+*   [Clarinet (⭐211)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+*   [Clarigen (⭐21)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 *   [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 *   [search-clarity.dev](https://search-clarity.dev) - An application for searching for deployed Clarity contracts.
 
 ### Libraries
 
-*   [uint256](https://github.com/KStasi/clarity-uint256-lib) - A library for converting values into 256-bits.
-*   [clarity-bitcoin](https://github.com/jcnelson/clarity-bitcoin) - A library to verify Bitcoin transactions.
+*   [uint256 (⭐3)](https://github.com/KStasi/clarity-uint256-lib) - A library for converting values into 256-bits.
+*   [clarity-bitcoin (⭐30)](https://github.com/jcnelson/clarity-bitcoin) - A library to verify Bitcoin transactions.
 
 ### Contracts
 
-*   [CityCoin](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
-*   [SWAPR](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
-*   [FLEXR](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
-*   [ClarityDAO](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
-*   [NFT Marketplace](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
-*   [StackStarter](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
-*   [Lightning Swaps](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) - Fraud-proof swaps using Lightning Network.
-*   [Election Voting](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
-*   [DualX](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
+*   [CityCoin (⭐69)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
+*   [SWAPR (⭐51)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
+*   [FLEXR (⭐18)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
+*   [ClarityDAO (⭐17)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
+*   [NFT Marketplace (⭐13)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
+*   [StackStarter (⭐11)](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
+*   [Lightning Swaps (⭐0)](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) - Fraud-proof swaps using Lightning Network.
+*   [Election Voting (⭐1)](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
+*   [DualX (⭐2)](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
 
 ### Non-Fungible Tokens
 
@@ -102,17 +102,17 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 ### Frontend Libraries
 
-*   [Stacks.js](https://github.com/blockstack/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [Stacks.js (⭐881)](https://github.com/blockstack/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 
 ### CLI
 
-*   [@stacks/cli](https://github.com/blockstack/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
+*   [@stacks/cli (⭐881)](https://github.com/blockstack/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
 
 ### Storage
 
-*   [CompassDB](https://github.com/eder-ai/compass-db) - A library for managing advanced collections in Gaia storage.
+*   [CompassDB (⭐31)](https://github.com/eder-ai/compass-db) - A library for managing advanced collections in Gaia storage.
 *   [lens-file-source](https://gitlab.com/MyLens/lens-file-source) - File storage abstraction through mechanisms like caching, transactions, and JSON map aggregation for Gaia.
-*   [GaiaDown](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp](https://github.com/Level/levelup).
+*   [GaiaDown (⭐9)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4k)](https://github.com/Level/levelup).
 
 ## Learning Resources
 

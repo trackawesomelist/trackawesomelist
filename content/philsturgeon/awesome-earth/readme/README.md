@@ -346,7 +346,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 *   [Plan A](https://plana.earth/) - Software that helps your business calculate, monitor and reduce its carbon footprint. Our platform allows you to track your carbon footprint monthly and learn how to reduce it with the support of a custom sustainability action plan, automatically created based on your worst-performing indicators.
 
-*   [Protea OSS Carbon Footprint](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
+*   [Protea OSS Carbon Footprint (⭐27)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
 
 *   [The US EPA's Carbon Footprint Calculator](https://www3.epa.gov/carbon-footprint-calculator/) - The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
 
@@ -440,7 +440,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 *   [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
 
-*   [awesome-sustainability-jobs](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+*   [awesome-sustainability-jobs (⭐367)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
 *   [Circul'R](https://www.circul-r.com/) - Bridging startups and companies so they can co-create circular economy solutions
 

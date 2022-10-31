@@ -36,13 +36,13 @@ If you want to contribute, please read the [contribution guidelines](https://git
 *   [Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyasw) - A hands-on guide and reference for service workers, caching strategies, push notifications, and more. Everything you need to build a modern progressive web app.
 *   [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/) - A gentle introduction to service workers.
 *   [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - A great Udacity course introducing service workers and IndexedDB.
-*   [Service Workers Explained](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service workers explained by [Alex Russell](https://github.com/slightlyoff).
+*   [Service Workers Explained (⭐3.6k)](https://github.com/slightlyoff/ServiceWorker/blob/master/explainer.md) - Service workers explained by [Alex Russell](https://github.com/slightlyoff).
 
 ## Learning Resources
 
 *   [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/) - A general introduction to service workers and using UpUp to provide offline functionality in minutes.
 *   [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
-*   [Service Workers 101](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API.
+*   [Service Workers 101 (⭐700)](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API.
 *   [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases.
 *   [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker) - Shortest available introduction, by [Remy Sharp](https://github.com/remy).
 *   [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - The bible of service worker Patterns by Jake Archibald.
@@ -61,9 +61,9 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Libraries and Tools
 
 *   [UpUp](http://upup.rocks/) - A popular service worker library providing complete offline functionality for your site in 1 line of code.
-*   [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox/) - A collection of simple helpers to simplify implementing common runtime caching patterns.
+*   [sw-toolbox (⭐3.6k)](https://github.com/GoogleChrome/sw-toolbox/) - A collection of simple helpers to simplify implementing common runtime caching patterns.
 *   [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
-*   [sw-precache](https://github.com/GoogleChrome/sw-precache/) - Generates a service worker to cache your local App Shell resources.
+*   [sw-precache (⭐5.3k)](https://github.com/GoogleChrome/sw-precache/) - Generates a service worker to cache your local App Shell resources.
 *   [sw-offline-google-analytics](https://developers.google.com/web/updates/2016/07/offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
 *   [Workbox](https://developers.google.com/web/tools/workbox/) - a set of libraries and Node modules that make it easy to cache assets and take full advantage of features used to build progressive web apps.
 
@@ -80,9 +80,9 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## Related Technologies
 
-*   [App Install Banners](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps)
-*   [Background Sync](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
-*   [CacheStorage API](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
-*   [IndexedDB](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
-*   [Push Notifications](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
+*   [App Install Banners (⭐1.5k)](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps)
+*   [Background Sync (⭐1.5k)](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
+*   [CacheStorage API (⭐1.5k)](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
+*   [IndexedDB (⭐1.5k)](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
+*   [Push Notifications (⭐1.5k)](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
 

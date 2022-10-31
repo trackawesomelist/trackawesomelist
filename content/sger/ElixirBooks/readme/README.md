@@ -277,14 +277,14 @@ The days of the traditional request-response web application are long gone, but 
 *   [Exercism.io](https://exercism.org/tracks/elixir)
 *   [Elixir Radar Newsletter](https://elixir-radar.com)
 *   [Elixir Koans](http://elixirkoans.io)
-*   [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+*   [Awesome Elixir (⭐12k)](https://github.com/h4cc/awesome-elixir)
 *   [Discover Elixir & Phoenix](https://ludu.co/course/discover-elixir-phoenix/)
 *   [Elixir School](https://elixirschool.com/en)
 *   [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
 
 # Contributing
 
-Your contributions are always welcome, just follow [the rules](https://github.com/sger/ElixirBooks/blob/main/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules (⭐1.2k)](https://github.com/sger/ElixirBooks/blob/main/CONTRIBUTING.md)!
 
 # License
 

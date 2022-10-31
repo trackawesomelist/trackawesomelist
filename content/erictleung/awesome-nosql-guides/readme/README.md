@@ -17,12 +17,12 @@ A basic definition of NoSQL databases can be found on Wikipedia as:
 > "A NoSQL (originally referring to 'non SQL' or 'non relational') database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases."
 
 For actual NoSQL databases, you can go
-[here](https://github.com/sindresorhus/awesome#databases),
+[here (⭐223k)](https://github.com/sindresorhus/awesome#databases),
 [here](https://hostingdata.co.uk/nosql-database/),
 [here](https://db-engines.com/en/ranking),
 [here](https://dbdb.io/),
-[here](https://github.com/igorbarinov/awesome-data-engineering#databases), or
-[here](https://github.com/kahun/awesome-sysadmin#nosql). Also, not to be confused with the relational database management system, [NoSQL](http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/nosql/Home%20Page).
+[here (⭐4.5k)](https://github.com/igorbarinov/awesome-data-engineering#databases), or
+[here (⭐22k)](https://github.com/kahun/awesome-sysadmin#nosql). Also, not to be confused with the relational database management system, [NoSQL](http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/nosql/Home%20Page).
 
 ## Contents
 

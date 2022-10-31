@@ -12,7 +12,7 @@ DEPRECATED: Curated list of resources related to serverless computing and server
 
 > A curated list of resources about all things serverless.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
+*Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list project.*
 
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
@@ -40,7 +40,7 @@ DEPRECATED: Curated list of resources related to serverless computing and server
 *   [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) - Stack Overflow questions.
 *   [ServerlessConf](http://serverlessconf.io) - Serverless specialized conference.
 *   [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
-*   [Serverless working group](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
+*   [Serverless working group (⭐1.4k)](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
 *   [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 *   [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 *   [OpenEvents](https://openevents.io) - A specification for describing event data in a common way.
@@ -101,47 +101,47 @@ DEPRECATED: Curated list of resources related to serverless computing and server
 
 ## Projects
 
-*   [Official joke API](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend.
-*   [Event Gateway Getting Started](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway.
-*   [Utils](https://github.com/serverless/utils) - General Serverless utilities.
-*   [CloudWatch public metrics](https://github.com/RafalWilinski/cloudwatch-public-metrics) - Expose AWS CloudWatch metrics as a public HTML page.
-*   [Invoicely](https://github.com/EwanValentine/invoicely) - Invoice automation tool.
-*   [World Cup Slackbot](https://github.com/phstc/serverless-world-cup-slack-bot) - Post 2018 FIFA World Cup Russia™ matches events to Slack.
-*   [Serverless Express](https://github.com/mikestaub/serverless-express) - Run your unmodified express app on AWS Lambda via the Serverless Framework.
-*   [TypeScript composite monorepo](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
-*   [Next serverless](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
-*   [Serverless Central](https://github.com/zotoio/serverless-central) - Sample Lambda monorepo.
+*   [Official joke API (⭐635)](https://github.com/15Dkatz/official_joke_api) - Vue Jokester application backend.
+*   [Event Gateway Getting Started (⭐48)](https://github.com/serverless/event-gateway-getting-started) - Walkthrough application for using the Event Gateway.
+*   [Utils (⭐29)](https://github.com/serverless/utils) - General Serverless utilities.
+*   [CloudWatch public metrics (⭐27)](https://github.com/RafalWilinski/cloudwatch-public-metrics) - Expose AWS CloudWatch metrics as a public HTML page.
+*   [Invoicely (⭐24)](https://github.com/EwanValentine/invoicely) - Invoice automation tool.
+*   [World Cup Slackbot (⭐12)](https://github.com/phstc/serverless-world-cup-slack-bot) - Post 2018 FIFA World Cup Russia™ matches events to Slack.
+*   [Serverless Express (⭐150)](https://github.com/mikestaub/serverless-express) - Run your unmodified express app on AWS Lambda via the Serverless Framework.
+*   [TypeScript composite monorepo (⭐125)](https://github.com/tommedema/serverless-mono-example) - Yarn / Lerna workspaces with Typescript 3.0 composite references using `nohoist` for compatible serverless application packaging.
+*   [Next serverless (⭐82)](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
+*   [Serverless Central (⭐38)](https://github.com/zotoio/serverless-central) - Sample Lambda monorepo.
 *   [Tipe](https://tipe.io) - Next generation serverless CMS.
-*   [Spiderless](https://github.com/slashbit/spider-less) - A web spider / scraper / website change detector built with Lambda, API Gateway, DynamoDB and SNS.
-*   [PriceTrack](https://github.com/duyetdev/pricetrack) - API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
+*   [Spiderless (⭐181)](https://github.com/slashbit/spider-less) - A web spider / scraper / website change detector built with Lambda, API Gateway, DynamoDB and SNS.
+*   [PriceTrack (⭐94)](https://github.com/duyetdev/pricetrack) - API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
 
 ## Related projects
 
-*   [FaaS boilerplates](https://github.com/hasura/cloud-functions-boilerplates) - Boilerplates for FaaS offerings that work in conjunction with Hasura GraphQL Engine's event triggers.
+*   [FaaS boilerplates (⭐14)](https://github.com/hasura/cloud-functions-boilerplates) - Boilerplates for FaaS offerings that work in conjunction with Hasura GraphQL Engine's event triggers.
 *   [CloudCompose](https://cloudcompose.io) - An open community marketplace for serverless functions and workflows.
-*   [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
+*   [Mutton (⭐16)](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
 *   [Begin](https://begin.com) - Create AWS serverless apps, APIs, and sites with databases, sessions, and full CI/CD.
 *   [Operiant](https://operiant.com) - Connect your event streams to actions.
 *   [TriggerMesh](https://triggermesh.com) - Serverless cloud with a library of event triggers to enable hybrid cloud and workload portability.
-*   [Handly](https://github.com/harijoe/handly) - A wrapper for serverless handlers to prevent silly mistakes.
-*   [Serverless boilerplate](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional Serverless boilerplate.
-*   [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-*   [Cirrus](https://github.com/ucbrise/cirrus) - Serverless machine learning framework.
+*   [Handly (⭐16)](https://github.com/harijoe/handly) - A wrapper for serverless handlers to prevent silly mistakes.
+*   [Serverless boilerplate (⭐243)](https://github.com/harijoe/serverless-boilerplate) - Minimal yet super-functional Serverless boilerplate.
+*   [Firecracker (⭐20k)](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+*   [Cirrus (⭐102)](https://github.com/ucbrise/cirrus) - Serverless machine learning framework.
 *   [OpenFaaS](https://docs.openfaas.com/) - Serverless Functions Made Simple for Docker and Kubernetes.
-*   [OpenFaaS Cloud](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
+*   [OpenFaaS Cloud (⭐761)](https://github.com/openfaas/openfaas-cloud) - OpenFaaS Cloud: multi-user serverless functions driven by git.
 
 ## Serverless Framework Plugins
 
-*   [Local environment](https://github.com/piercus/serverless-local-environment) - Set local environment variables.
-*   [Offline SSM](https://github.com/janders223/serverless-offline-ssm) - Read SSM parameters from a `.env` file instead of AWS.
-*   [Nocode](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
-*   [Canary deployments](https://github.com/davidgf/serverless-plugin-canary-deployments) - Implement canary deployments of AWS Lambda functions.
-*   [Flow-based programming](https://github.com/p0wl/serverless-fbp) - Flow-based programming plugin for Serverless.
-*   [Go serverless](https://github.com/thepauleh/goserverless) - GoFormation for the Serverless Framework. Create Serverless configs with Go structs.
-*   [Event Gateway](https://github.com/serverless/serverless-event-gateway-plugin) - Event Gateway plugin for the Serverless Framework.
-*   [Fn](https://github.com/fnproject/serverless-fn) - Fn provider plugin.
-*   [Cloudflare Workers](https://github.com/cloudflare/serverless-cloudflare-workers) - Provider plugin for Cloudflare Workers.
-*   [S3 Deploy](https://github.com/funkybob/serverless-s3-deploy) - Plugin to deploy files to an S3 Bucket.
+*   [Local environment (⭐6)](https://github.com/piercus/serverless-local-environment) - Set local environment variables.
+*   [Offline SSM (⭐79)](https://github.com/janders223/serverless-offline-ssm) - Read SSM parameters from a `.env` file instead of AWS.
+*   [Nocode (⭐10)](https://github.com/ServerlessOpsIO/serverless-nocode) - Deploy nocode via the Serverless Framework.
+*   [Canary deployments (⭐352)](https://github.com/davidgf/serverless-plugin-canary-deployments) - Implement canary deployments of AWS Lambda functions.
+*   [Flow-based programming (⭐5)](https://github.com/p0wl/serverless-fbp) - Flow-based programming plugin for Serverless.
+*   [Go serverless (⭐20)](https://github.com/thepauleh/goserverless) - GoFormation for the Serverless Framework. Create Serverless configs with Go structs.
+*   [Event Gateway (⭐29)](https://github.com/serverless/serverless-event-gateway-plugin) - Event Gateway plugin for the Serverless Framework.
+*   [Fn (⭐7)](https://github.com/fnproject/serverless-fn) - Fn provider plugin.
+*   [Cloudflare Workers (⭐156)](https://github.com/cloudflare/serverless-cloudflare-workers) - Provider plugin for Cloudflare Workers.
+*   [S3 Deploy (⭐58)](https://github.com/funkybob/serverless-s3-deploy) - Plugin to deploy files to an S3 Bucket.
 
 ## Literature / Education
 
@@ -151,7 +151,7 @@ DEPRECATED: Curated list of resources related to serverless computing and server
 *   [Intro to the Serverless Framework](http://codemore.teachable.com/p/serverless-framework-node) - Introduction course for the Serverless Framework.
 *   [ServerlessLab](https://serverlesslab.com) - Effective serverless, AWS Lambda and Node.js training.
 *   [Serverless Applications with AWS](http://bit.ly/serverless-apps-aws) - Introduction course with AWS and Serverless Framework. Build a production like app using the most common AWS Serverless services.
-*   [Event Gateway Workshop](https://github.com/serverless/event-gateway-workshop) - Learn what the Event Gateway is, how it works and build your first event-driven multi-cloud application.
+*   [Event Gateway Workshop (⭐18)](https://github.com/serverless/event-gateway-workshop) - Learn what the Event Gateway is, how it works and build your first event-driven multi-cloud application.
 *   [Serverless streaming architectures](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf) - Serverless streaming architectures and best practices.
 *   [Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda) - Learn how to create a serverless API and connecting it to DynamoDB leveraging Lambda's new async / await syntax.
 *   [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - How to apply agile practices in fully serverless architectures.

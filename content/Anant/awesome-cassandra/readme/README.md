@@ -14,7 +14,7 @@ A curated list of the best resources in the Cassandra community.
 
 Cassandra is a free and open-source, distributed, wide column store, NoSQL database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure. Cassandra is supported by the Apache Software Foundation and is also known as Apache Cassandra.
 
-This is a curated list of awesome [Cassandra](https://github.com/apache/cassandra) packages and resources. Maintained by Rahul Singh of [Anant](http://anant.us). Feel free contact me if you'd like to collaborate on this and other awesome lists. [Awesome Cassandra](https://github.com/Anant/awesome-cassandra) , [Awesome Solr](https://github.com/Anant/awesome-solr), [Awesome Lucene](https://github.com/Anant/awesome-lucene). This powers the *Resources* section of [Cassandra.Link](https://cassandra.link), a rich collection of blog feeds, and curated links as a searchable knowledge base.
+This is a curated list of awesome [Cassandra (⭐7.6k)](https://github.com/apache/cassandra) packages and resources. Maintained by Rahul Singh of [Anant](http://anant.us). Feel free contact me if you'd like to collaborate on this and other awesome lists. [Awesome Cassandra (⭐200)](https://github.com/Anant/awesome-cassandra) , [Awesome Solr (⭐82)](https://github.com/Anant/awesome-solr), [Awesome Lucene (⭐20)](https://github.com/Anant/awesome-lucene). This powers the *Resources* section of [Cassandra.Link](https://cassandra.link), a rich collection of blog feeds, and curated links as a searchable knowledge base.
 
 ## Contents
 
@@ -65,8 +65,8 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 ### Cassandra Use Cases
 
 *   [Datastax Academy: What is Cassandra?](https://www.datastax.com/cassandra) - Introduction to what Cassandra is, where it came from, and some of it's benefits.
-*   [Kaa application based on Raspberry Pi and DHT11 sensor](https://github.com/pyroalf/kaa-cassandra-sample) - Cassandra IoT usecase with Raspberry Pi and a DHT11 Sensor.
-*   [Simple Node.js Express 4 Cassandra Application](https://github.com/bradtraversy/mysubscribers) - MySubscribers is a very simple application (Start of an application) which allows you to create, read, update and delete users/subscribers. This application was only created to aid the YouTube course.
+*   [Kaa application based on Raspberry Pi and DHT11 sensor (⭐0)](https://github.com/pyroalf/kaa-cassandra-sample) - Cassandra IoT usecase with Raspberry Pi and a DHT11 Sensor.
+*   [Simple Node.js Express 4 Cassandra Application (⭐20)](https://github.com/bradtraversy/mysubscribers) - MySubscribers is a very simple application (Start of an application) which allows you to create, read, update and delete users/subscribers. This application was only created to aid the YouTube course.
 
 ### Cassandra Distributions
 
@@ -77,8 +77,8 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 
 #### Cassandra Compliant Databases on C++
 
-*   [ScyllaDB](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Cassandra.
-*   [YugaByte Database](https://github.com/YugaByte/yugabyte-db) - YugaByteDB is a transactional, high-performance database for building distributed cloud services. It supports Cassandra-compatible and Redis-compatible APIs, with PostgreSQL in Beta.
+*   [ScyllaDB (⭐8.5k)](https://github.com/scylladb/scylla) - NoSQL data store using the seastar framework, compatible with Cassandra.
+*   [YugaByte Database (⭐7.2k)](https://github.com/YugaByte/yugabyte-db) - YugaByteDB is a transactional, high-performance database for building distributed cloud services. It supports Cassandra-compatible and Redis-compatible APIs, with PostgreSQL in Beta.
 
 #### Cassandra as a Service / Managed Cassandra Based on Open Source Cassandra
 
@@ -113,11 +113,11 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 *   [The Cassandra Query Language](http://cassandra.apache.org/doc/latest/cql/) - Documentation for CQL.
 *   [The LIMIT Clause in Cassandra might not work as you think](http://thelastpickle.com/blog/2017/03/07/The-limit-clause-in-cassandra-might-not-work-as-you-think.html) - Blog post for the considerations on the efficiency of the LIMIT clause.
 *   [Building a Performant API using Go and Cassandra](https://getstream.io/blog/building-a-performant-api-using-go-and-cassandra/) - Tutorial documenting how to build a RESTful API using Go and Cassandra.
-*   [Cassandra Data Copy Tool](https://github.com/wildengineer/cassandra-data-copy-tool) - Java tool to copy data from one cassandra table to another.
-*   [Spring Data Cassandra Examples](https://github.com/jxblum/spring-data-cassandra-examples) - Examples for the Spring Data Cassandra Project.
+*   [Cassandra Data Copy Tool (⭐7)](https://github.com/wildengineer/cassandra-data-copy-tool) - Java tool to copy data from one cassandra table to another.
+*   [Spring Data Cassandra Examples (⭐4)](https://github.com/jxblum/spring-data-cassandra-examples) - Examples for the Spring Data Cassandra Project.
 *   [Introduction to Spark & Cassandra](http://rustyrazorblade.com/post/2015/2015-01-02-intro-to-spark-and-cassandra/) - Blog post on setting up a really simple Spark job that does a data migration for Cassandra.
 *   [From Cassandra to S3, with Spark](https://objectpartners.com/2016/11/30/from-cassandra-to-s3-with-spark/) - Blog post showing how to connect Spark to Cassandra, analyze event data from Cassandra, and store the results of the analysis into S3, making it available for reporting or further analysis.
-*   [Import CSV files with spark](https://github.com/markthebault/importCSVSparkCassandra) - How to import a file from S3 into cassandra using Spark.
+*   [Import CSV files with spark (⭐0)](https://github.com/markthebault/importCSVSparkCassandra) - How to import a file from S3 into cassandra using Spark.
 *   [Top 5 reasons to use the Cassandra Database](https://towardsdatascience.com/top-5-reasons-to-use-the-apache-cassandra-database-d541c6448557) - Few good reasons why you'd want to consider Cassandra.
 *   [Cloud DevOps with Cassandra](http://cloudurable.com/blog/aws-ansible-packer-ssh-for-devops/index.html) - Using Packer, Ansible/SSH and AWS command line tools to create and DBA manage EC2 Cassandra instances in AWS.
 *   [How to install Cassandra 2 on CentOS 7 / RHEL 7](https://sharadchhetri.com/2015/04/25/how-to-install-cassandra-2-on-centos-7-rhel-7/) - Guide on how to install Cassandra on the popular linux distributions RedHat and CentOS.
@@ -145,12 +145,12 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 *   [Basic Rules Of Cassandra Data Modeling](http://www.datastax.com/dev/blog/basic-rules-of-cassandra-data-modeling) - Picking the right data model is the hardest part of using Cassandra. If you have a relational background, CQL will look familiar, but the way you use it can be very different.
 *   [CQL: This is not the SQL you are Looking For](https://www.slideshare.net/aploetz/cql-this-is-not-the-sql-you-are-loooking-for) - Presentation that explores and explains the differences between the CQL and SQL languages.
 *   [A Deep Look at the CQL Where Clause](https://www.datastax.com/dev/blog/a-deep-look-to-the-cql-where-clause) - Blog post to describe what is supported by the CQL WHERE clause and the reasons why it differs from normal SQL.
-*   [killrvideo-sample-schema](https://github.com/pmcfadin/killrvideo-sample-schema) - Sample Cassandra CQL Schema for a YouTube clone.
-*   [Spring Data Cassandra Examples](https://github.com/jxblum/spring-data-cassandra-examples/blob/master/src/main/resources/cassandra-example-schema.cql) - Maven project that contains examples showcasing the features and functionality of the Spring Data Cassandra project.
+*   [killrvideo-sample-schema (⭐20)](https://github.com/pmcfadin/killrvideo-sample-schema) - Sample Cassandra CQL Schema for a YouTube clone.
+*   [Spring Data Cassandra Examples (⭐4)](https://github.com/jxblum/spring-data-cassandra-examples/blob/master/src/main/resources/cassandra-example-schema.cql) - Maven project that contains examples showcasing the features and functionality of the Spring Data Cassandra project.
 *   [Common Problems in Cassandra Data Models](https://blog.anant.us/common-problems-cassandra-data-models/) - Presentation and Article on wide partions, tombstones, and data skew.
 *   [Casandra Time Series Data Modeling for Massive Scale](http://thelastpickle.com/blog/2017/08/02/time-series-data-modeling-massive-scale.html) - Blog post discussing a common Cassandra data modeling technique called bucketing.
 *   [Cassandra Data Modeling Notes](https://miguelperez.xyz/blog/2017/2/13/cassandra-data-modeling-notes) - Simple notes on how to estimate the size of your cluster.
-*   [Scalar DB](https://github.com/scalar-labs/scalardb) - Transaction library for Cassandra that makes non-ACID distributed databases/storages ACID-compliant.
+*   [Scalar DB (⭐336)](https://github.com/scalar-labs/scalardb) - Transaction library for Cassandra that makes non-ACID distributed databases/storages ACID-compliant.
 *   [Cassandra Data Modeling Best Practices Guide](https://www.instaclustr.com/cassandra-data-modeling/) - Explains five Cassandra data modeling best practices.
 
 <!-- - TODO: - Data Centers and Racks -->
@@ -254,10 +254,10 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 *   [Node Replacement without Bootstrapping](http://thelastpickle.com/blog/2018/02/21/replace-node-without-bootstrapping.html) - How to avoid the long bootstrapping process.
 *   [Cassandra Backup and Restore - Backup in AWS using EBS Volumes](http://thelastpickle.com/blog/2018/04/03/cassandra-backup-and-restore-aws-ebs.html) - Indepth article about Backup and recovery in AWS.
 *   [Backup Strategies for Cassandra](https://blog.pythian.com/backup-strategies-cassandra/) - Good comparison of different backup and restoration strategies for Cassandra.
-*   [Cassandra backup util](https://github.com/instaclustr/cassandra-backup) - Instaclustr's cassandra backup tool.
-*   [Cassy](https://github.com/scalar-labs/cassy) - Simple and integrated backup tool for Cassandra.
+*   [Cassandra backup util (⭐40)](https://github.com/instaclustr/cassandra-backup) - Instaclustr's cassandra backup tool.
+*   [Cassy (⭐39)](https://github.com/scalar-labs/cassy) - Simple and integrated backup tool for Cassandra.
 *   [Intro to CStar](https://thelastpickle.com/blog/2018/10/01/introduction-to-cstar.html) - Tutorial on how to use CStar.
-*   [Medusa](https://github.com/thelastpickle/cassandra-medusa) - Cassandra backup system.
+*   [Medusa (⭐202)](https://github.com/thelastpickle/cassandra-medusa) - Cassandra backup system.
 
 <!-- - TODO:: Managing Performance -->
 
@@ -292,14 +292,14 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 *   [DSE 5.1: Tuning Java Resource](https://docs.datastax.com/en/dse/5.1/dse-admin/datastax_enterprise/operations/opsTuneJVM.html) - Documentation for tuning JVM.
 *   [Analyzing Cassandra Performance with Flame Graphs](http://thelastpickle.com/blog/2018/01/16/cassandra-flame-graphs.html) - Visually examining Cassandra performance visually using Flamegraphs.
 *   [Garbage Collection Tuning for Cassandra](http://thelastpickle.com/blog/2018/04/11/gc-tuning.html) - Optimizing garbage collection for better performance.
-*   [Cassandra Node Diagnostics Tools](https://github.com/smartcat-labs/cassandra-diagnostics) - Monitoring and audit power kit for Cassandra.
+*   [Cassandra Node Diagnostics Tools (⭐51)](https://github.com/smartcat-labs/cassandra-diagnostics) - Monitoring and audit power kit for Cassandra.
 *   [TWCS part 1 - how does it work and when should you use it?](http://thelastpickle.com/blog/2016/12/08/TWCS-part1.html) - Best suited for time series data that expires, Time Window Compaction Strategy comes with some caveats.
 *   [Performing User Defined Compactions in Cassandra](http://thelastpickle.com/blog/2016/10/18/user-defined-compaction.html) - Documenting a process by which we tell Cassandra to create a compaction task for one or more tables explicitly.
 *   [Graphing cassandra-stress](http://thelastpickle.com/blog/2015/10/23/cassandra-stress-and-graphs.html) - Benchmarking schemas and configuration changes using the cassandra-stress tool, before pushing such changes out to production is one of the things every Cassandra developer should know and regularly practice.
 *   [Modeling real life workloads with cassandra-stress is hard](http://thelastpickle.com/blog/2017/02/08/Modeling-real-life-workloads-with-cassandra-stress.html) - Blog post detailing caveats with cassandra-stress when modeling real workloads.
-*   [Gatling DSE Stress](https://github.com/datastax/gatling-dse-stress) - Tool for stress testing DSE.
-*   [Gatling DSE Plugin for Gatling Load injector](https://github.com/datastax/gatling-dse-plugin) - Plugin for the Gatling load injector. It adds CQL support in Gatling for Datastax Enterprise. It allows for benchmarking Datastax Enterprise features, including DSE Graph Fluent API.
-*   [Gatling DSE Stress Simulation Catalog](https://github.com/datastax/gatling-dse-simcatalog) - The goal of the repo is to provide a sample of the Gatling DSE Stress Framework's usage. Feel free to submit a pull request with example simulations.
+*   [Gatling DSE Stress (⭐5)](https://github.com/datastax/gatling-dse-stress) - Tool for stress testing DSE.
+*   [Gatling DSE Plugin for Gatling Load injector (⭐8)](https://github.com/datastax/gatling-dse-plugin) - Plugin for the Gatling load injector. It adds CQL support in Gatling for Datastax Enterprise. It allows for benchmarking Datastax Enterprise features, including DSE Graph Fluent API.
+*   [Gatling DSE Stress Simulation Catalog (⭐4)](https://github.com/datastax/gatling-dse-simcatalog) - The goal of the repo is to provide a sample of the Gatling DSE Stress Framework's usage. Feel free to submit a pull request with example simulations.
 
 <!-- !Now just redirects to https://www.datastax.com/dev - [A Deeper Dive - Diagnosing DSE Performance Issues with Ttop and Multidump](https://academy.datastax.com/support-blog/deeper-dive-diagnosing-dse-performance-issues-ttop-and-multidump) - A good review of how to look deeper into Cassandra threads. -->
 
@@ -319,7 +319,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 
 *   [Securing Cassandra with Application Level Encryption](https://www.instaclustr.com/securing-apache-cassandra-with-application-level-encryption/) - Discusses how to do application level data encryption to properly manage secure information in Cassandra.
 *   [Hardening Cassandra Step by Step: Part 1](http://thelastpickle.com/blog/2015/09/30/hardening-cassandra-step-by-step-part-1-server-to-server.html) - Inter-Node Encryption (And a Gentle Intro to Certificates).
-*   [LDAP Authenticator for Cassandra](https://github.com/instaclustr/cassandra-ldap) - Pluggable authentication implementation for Cassandra, providing a way to authenticate and create users based on a configured LDAP server.
+*   [LDAP Authenticator for Cassandra (⭐20)](https://github.com/instaclustr/cassandra-ldap) - Pluggable authentication implementation for Cassandra, providing a way to authenticate and create users based on a configured LDAP server.
 *   [Encrypting EC2 ephemeral volumes with LUKS and AWS KMS](https://www.whaletech.co/2016/04/07/encryption-ephemeral-volumes-with-kms.html) - The example used here is Cassandra data stored on ephemeral disks.
 
 <!-- - TODO:: Container Deployment -->
@@ -335,7 +335,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 *   [An Introduction to Cassandra Multi-Data Centers: Part 1](https://www.instaclustr.com/around-the-world-in-approximately-8-data-centres-globally-distributed-storage-streaming-and-search-part-1/) - Learn about how to plan and implement Multi-Data Centers: Part 1.
 *   [An Introduction to Cassandra Multi-Data Centers: Part 2](https://www.instaclustr.com/around-the-world-globally-distributed-storage-streaming-and-search-an-introduction-to-cassandra-multi-data-centers-part-2/) - Learn about how to plan and implement Multi-Data Centers: Part 2.
 *   [How To Setup A Highly Available Multi-AZ Cassandra Cluster On AWS EC2](http://highscalability.com/blog/2016/8/1/how-to-setup-a-highly-available-multi-az-cassandra-cluster-o.html)
-*   [tlp-cluster, a tool for launching Cassandra clusters in AWS](https://github.com/thelastpickle/tlp-cluster) - Provisioning tool for Cassandra designed for developers looking to both benchmark and test the correctness of Cassandra. It assists with builds and starting instances on AWS.
+*   [tlp-cluster, a tool for launching Cassandra clusters in AWS (⭐17)](https://github.com/thelastpickle/tlp-cluster) - Provisioning tool for Cassandra designed for developers looking to both benchmark and test the correctness of Cassandra. It assists with builds and starting instances on AWS.
 *   [Setting Up Cassandra Cluster Through Ansible](https://blog.knoldus.com/setting-up-cassandra-cluster-through-ansible/) - Guide detailing how to set up a Cassandra cluster with automation using Ansible.
 *   [Running Cassandra on DC/OS (Mesos)](http://thelastpickle.com/blog/2016/05/07/dcos.html) -  Blog that shows how to setup DC/OS in the Amazon cloud, how to install Cassandra on a DC/OS cluster, and finally new ways to interact with and Cassandra after it is installed.
 *   [Benchmarking Cassandra with Local Storage on Azure](https://www.instaclustr.com/benchmarking-cassandra-with-local-storage-on-azure/) - Learn about comparing Cassandra on Azure VMs w/ Local vs. Remote storage.
@@ -343,30 +343,30 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 #### Cassandra Deployment on Docker / Containerized Cassandra
 
 *   [Docker Meet Cassandra. Cassandra Meet Docker](http://thelastpickle.com/blog/2018/01/23/docker-meet-cassandra.html) - Article reviewing how to setup a complete Cassandra application with monitoring on Docker.
-*   [Example code from the Docker Meet Cassandra Article](https://github.com/thelastpickle/docker-cassandra-bootstrap)
-*   [Docker-Cassandra](https://github.com/nicolasff/docker-cassandra) - Set of scripts and config files to run a Cassandra cluster from Docker.
-*   [Cassandra & Zeppelin Notebook on Docker](https://github.com/academyofdata/cassandra-zeppelin) - Docker-Compose script for Cassandra + Zeppelin setup.
-*   [Packer: Cassandra Image](https://github.com/cloudurable/cassandra-image) - Cassandra Image using Packer for Docker and EC2 AMI. Covers managing EC2 Cassandra clusters with Ansible.
-*   [Cassandra Docker](https://github.com/instaclustr/cassandra-docker) - Instaclustr public docker image for Cassandra. It contains docker images for Cassandra 3.0 and 3.11.1.
-*   [Cassandra / Elassandra Docker](https://github.com/zegelin/cassandra-docker) - Cassandra and Elassandra docker images.Cass Operator is maintained by a team at DataStax and it is part of what powers DataStax Astra.
+*   [Example code from the Docker Meet Cassandra Article (⭐88)](https://github.com/thelastpickle/docker-cassandra-bootstrap)
+*   [Docker-Cassandra (⭐214)](https://github.com/nicolasff/docker-cassandra) - Set of scripts and config files to run a Cassandra cluster from Docker.
+*   [Cassandra & Zeppelin Notebook on Docker (⭐4)](https://github.com/academyofdata/cassandra-zeppelin) - Docker-Compose script for Cassandra + Zeppelin setup.
+*   [Packer: Cassandra Image (⭐48)](https://github.com/cloudurable/cassandra-image) - Cassandra Image using Packer for Docker and EC2 AMI. Covers managing EC2 Cassandra clusters with Ansible.
+*   [Cassandra Docker (⭐8)](https://github.com/instaclustr/cassandra-docker) - Instaclustr public docker image for Cassandra. It contains docker images for Cassandra 3.0 and 3.11.1.
+*   [Cassandra / Elassandra Docker (⭐0)](https://github.com/zegelin/cassandra-docker) - Cassandra and Elassandra docker images.Cass Operator is maintained by a team at DataStax and it is part of what powers DataStax Astra.
 
 #### Cassandra Deployment on Kubernetes / Kubernetized Cassandra
 
 *   [K8ssandra.io - Kubernetes + Cassandra](https://k8ssandra.io/) - K8ssandra provides a production-ready platform for running Cassandra on Kubernetes. This includes automation for operational tasks such as repairs, backups, and monitoring.
-*   [Datastax - Cassandra Kubernetes Operator](https://github.com/datastax/cass-operator) - Datastax's Cassandra Kubernetes Operator which supports Datastax as well as open source Cassandra containers on Kubernetes.
-*   [Instaclustr - Kubernetes Operator for Cassandra](https://github.com/instaclustr/cassandra-operator) - The Cassandra operator manages Cassandra clusters deployed to Kubernetes and automates tasks related to operating an Cassandra cluster.
-*   [Sky UK - Cassandra Kubernetes Operator](https://github.com/sky-uk/cassandra-operator) - Kubernetes operator that manages Cassandra clusters inside Kubernetes. Well designed and organized.
-*   [CassKop - Cassandra operator for Kubernetes](https://github.com/Orange-OpenSource/cassandra-k8s-operator) - Kubernetes operator automates the Cassandra operations such as deploying a new rack aware cluster, adding/removing nodes, configuring the C and JVM parameters, upgrading JVM and C versions. Written in Go.
-*   [Strapdata - Elassandra Operator for Kubernetes](https://github.com/strapdata/elassandra-operator) - The Elassandra Kubernetes Operator automates the deployment and management of Elassandra clusters deployed in multiple Kubernetes clusters.
+*   [Datastax - Cassandra Kubernetes Operator (⭐245)](https://github.com/datastax/cass-operator) - Datastax's Cassandra Kubernetes Operator which supports Datastax as well as open source Cassandra containers on Kubernetes.
+*   [Instaclustr - Kubernetes Operator for Cassandra (⭐236)](https://github.com/instaclustr/cassandra-operator) - The Cassandra operator manages Cassandra clusters deployed to Kubernetes and automates tasks related to operating an Cassandra cluster.
+*   [Sky UK - Cassandra Kubernetes Operator (⭐23)](https://github.com/sky-uk/cassandra-operator) - Kubernetes operator that manages Cassandra clusters inside Kubernetes. Well designed and organized.
+*   [CassKop - Cassandra operator for Kubernetes (⭐186)](https://github.com/Orange-OpenSource/cassandra-k8s-operator) - Kubernetes operator automates the Cassandra operations such as deploying a new rack aware cluster, adding/removing nodes, configuring the C and JVM parameters, upgrading JVM and C versions. Written in Go.
+*   [Strapdata - Elassandra Operator for Kubernetes (⭐11)](https://github.com/strapdata/elassandra-operator) - The Elassandra Kubernetes Operator automates the deployment and management of Elassandra clusters deployed in multiple Kubernetes clusters.
 *   [Rook.io - Cassandra on Kubernetes](https://rook.io/docs/rook/v1.4/cassandra.html) - Rook is an open source cloud-native storage orchestrator, providing the platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments. They have a special operator for Cassandra amongst other providers.
-*   [Kudo Cassandar Operator](https://github.com/mesosphere/kudo-cassandra-operator) - The KUDO Cassandra Operator makes it easy to deploy and manage Cassandra on Kubernetes.
+*   [Kudo Cassandar Operator (⭐10)](https://github.com/mesosphere/kudo-cassandra-operator) - The KUDO Cassandra Operator makes it easy to deploy and manage Cassandra on Kubernetes.
 
 ### Integrating with Cassandra
 
 *   [Building a Streaming Data Hub with Elasticsearch, Kafka and Cassandra](http://thenewstack.io/building-streaming-data-hub-elasticsearch-kafka-cassandra/) - Blog post detailing how a streaming analytics system on top of open source, big data components can be done.
-*   [Docker container for Kafka - Spark streaming - Cassandra](https://github.com/Yannael/kafka-sparkstreaming-cassandra) - Dockerfile that sets up a complete streaming environment for experimenting with Kafka, Spark streaming (PySpark), and Cassandra.
-*   [sample KafkaSparkCassandra](https://github.com/instaclustr/sample-KafkaSparkCassandra) - Introductory sample scala app using Apache Spark Streaming to accept data from Kafka and write a summary to Cassandra.
-*   [sample Spark Cassandra with SSL](https://github.com/instaclustr/sample-SparkCassandrawithSSL) - Simple sample job illustrating the use of Spark to execute Apache Spark analytics with Cassandra with SSL connection.
+*   [Docker container for Kafka - Spark streaming - Cassandra (⭐93)](https://github.com/Yannael/kafka-sparkstreaming-cassandra) - Dockerfile that sets up a complete streaming environment for experimenting with Kafka, Spark streaming (PySpark), and Cassandra.
+*   [sample KafkaSparkCassandra (⭐23)](https://github.com/instaclustr/sample-KafkaSparkCassandra) - Introductory sample scala app using Apache Spark Streaming to accept data from Kafka and write a summary to Cassandra.
+*   [sample Spark Cassandra with SSL (⭐1)](https://github.com/instaclustr/sample-SparkCassandrawithSSL) - Simple sample job illustrating the use of Spark to execute Apache Spark analytics with Cassandra with SSL connection.
 
 <!-- - TODO:: ESB -->
 
@@ -379,7 +379,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 #### .NET and Cassandra
 
 *   [Cassandra API with .NET](https://docs.microsoft.com/en-us/azure/cosmos-db/cassandra/manage-data-dotnet) - Quickstart guide on how to use .NET and the Azure Cosmos DB Cassandra API to build a profile app.
-*   [DataStax C# Driver](https://github.com/datastax/csharp-driver) - C# Driver for Cassandra from DataStax.
+*   [DataStax C# Driver (⭐547)](https://github.com/datastax/csharp-driver) - C# Driver for Cassandra from DataStax.
 *   [DataStax C# Driver Documentation](https://docs.datastax.com/en/developer/csharp-driver/3.4/) - Documentation on the C# Driver for Cassandra from DataStax.
 *   [CQL data types to C# types](https://docs.datastax.com/en/developer/csharp-driver/3.4/features/datatypes/) - Documentation on CQL data types to C# types.
 *   [Connect to Cassandra with C#](https://www.instaclustr.com/support/documentation/cassandra/using-cassandra/connect-to-cassandra-with-c-sharp/#) - Instaclustr article on how to connect to Cassandra with C#.
@@ -389,15 +389,15 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 
 #### Spark
 
-*   [DataStax Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Library that lets you expose Cassandra tables as Spark RDDs, write Spark RDDs to Cassandra tables, and execute arbitrary CQL queries in your Spark applications.
-*   [sample Spark Job Server Cassandra](https://github.com/instaclustr/sample-SparkJobserverCassandra) - Simple sample job illustrating the use of Spark Jobserver to execute Apache Spark analytics with Cassandra.
-*   [fluxcapacitor/pipeline](https://github.com/fluxcapacitor/pipeline) - End-to-End, Real-time, Advanced Analytics Big Data Reference Pipeline using Spark, Spark SQL, Spark ML, GraphX, Spark Streaming, Kafka, NiFi, Cassandra, ElasticSearch, Redis, Tachyon, HDFS, Zeppelin, iPython/Jupyter Notebook, Tableau, Twitter Algebird.
+*   [DataStax Spark Cassandra Connector (⭐1.9k)](https://github.com/datastax/spark-cassandra-connector) - Library that lets you expose Cassandra tables as Spark RDDs, write Spark RDDs to Cassandra tables, and execute arbitrary CQL queries in your Spark applications.
+*   [sample Spark Job Server Cassandra (⭐2)](https://github.com/instaclustr/sample-SparkJobserverCassandra) - Simple sample job illustrating the use of Spark Jobserver to execute Apache Spark analytics with Cassandra.
+*   [fluxcapacitor/pipeline (⭐4.1k)](https://github.com/fluxcapacitor/pipeline) - End-to-End, Real-time, Advanced Analytics Big Data Reference Pipeline using Spark, Spark SQL, Spark ML, GraphX, Spark Streaming, Kafka, NiFi, Cassandra, ElasticSearch, Redis, Tachyon, HDFS, Zeppelin, iPython/Jupyter Notebook, Tableau, Twitter Algebird.
 *   [Spark + Cassandra Best Practices](https://blog.pythian.com/spark-cassandra-best-practices/) - Outlines general use cases and best practices of Spark & Cassandra together.
 
 #### Search / Secondary Indexes
 
 *   [Tuning DSE Search](http://www.datastax.com/dev/blog/tuning-dse-search) - Tuning DSE Search – Indexing latency and query latency.
-*   [Cassandra Lucene Index](https://github.com/Stratio/cassandra-lucene-index) - Lucene based secondary indexes for Cassandra.
+*   [Cassandra Lucene Index (⭐592)](https://github.com/Stratio/cassandra-lucene-index) - Lucene based secondary indexes for Cassandra.
 *   [Elassandra](http://www.elassandra.io/) - Elassandra = Elasticsearch as a Cassandra secondary index.
 *   [cassandra-trigger](https://github.com/gradeup/cassandra-trigger) - Cassandra trigger to push realtime updates to elasticsearch.
 
@@ -407,138 +407,138 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 
 #### Monitoring / Metrics
 
-*   [cortexproject/cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long term Prometheus storage.
-*   [filodb/FiloDB](https://github.com/filodb/FiloDB) - Distributed Prometheus time-series database compatible with Prometheus queries.
-*   [cybem/cyanite-iow](https://github.com/cybem/cyanite-iow) - Cassandra backed Carbon daemon and metric web service. IPONWEB repository, compatible with Carbon.
+*   [cortexproject/cortex (⭐4.9k)](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long term Prometheus storage.
+*   [filodb/FiloDB (⭐1.4k)](https://github.com/filodb/FiloDB) - Distributed Prometheus time-series database compatible with Prometheus queries.
+*   [cybem/cyanite-iow (⭐0)](https://github.com/cybem/cyanite-iow) - Cassandra backed Carbon daemon and metric web service. IPONWEB repository, compatible with Carbon.
 
 #### Custom Time Series
 
-*   [kairosdb/kairosdb](https://github.com/kairosdb/kairosdb) - Fast scalable time series database.
+*   [kairosdb/kairosdb (⭐1.7k)](https://github.com/kairosdb/kairosdb) - Fast scalable time series database.
 *   [Cassandra Schema — KairosDB 1.0.1 documentation](https://kairosdb.github.io/docs/build/html/CassandraSchema.html) - KairosDB documentation.
 *   [Newts](https://opennms.github.io/newts/) - Time-series data store based on Cassandra.
-*   [OpenNMS/newts](https://github.com/OpenNMS/newts) - New-fangled Timeseries Data Store that powers OpenNMS.
+*   [OpenNMS/newts (⭐190)](https://github.com/OpenNMS/newts) - New-fangled Timeseries Data Store that powers OpenNMS.
 *   [Hawkular.org](https://www.hawkular.org/) - Time series / distributed tracing database powered by Cassandra by Redhat.
 *   [Hawkular GitHub](https://github.com/hawkular) - Hawkular's GitHub resources.
-*   [OpenTSDB/opentsdb](https://github.com/OpenTSDB/opentsdb) - GitHub resources for OpenTSDB. A Distributed, Scalable Monitoring System built on a Time Series Database.
+*   [OpenTSDB/opentsdb (⭐4.7k)](https://github.com/OpenTSDB/opentsdb) - GitHub resources for OpenTSDB. A Distributed, Scalable Monitoring System built on a Time Series Database.
 
 ### Graph
 
 *   [DSE Graph | Datastax](https://www.datastax.com/products/datastax-graph) - Successor to TitanDB , Commercial Tinkerpop / Gremlin compatible large scale Graph Database on DSE.
-*   [Thinkaurelius/Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database, predecessor to DSE Graph, JanusGraph, and now HugeGraph.
+*   [Thinkaurelius/Titan (⭐5.2k)](https://github.com/thinkaurelius/titan) - Distributed Graph Database, predecessor to DSE Graph, JanusGraph, and now HugeGraph.
 *   [Introduction to TitanDB](https://www.slideshare.net/knoldus/introduction-to-titandb) - Introductory slides about TitanDB.
-*   [JanusGraph/janusgraph](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database, successor to TitanDB.
+*   [JanusGraph/janusgraph (⭐4.6k)](https://github.com/JanusGraph/janusgraph) - JanusGraph: an open-source, distributed graph database, successor to TitanDB.
 *   [Large Scale Graph Analytics with JanusGraph](https://www.slideshare.net/Hadoop_Summit/large-scale-graph-analytics-with-janusgraph-77153443) - Slides detailing deployment options and technical aspects of JanusGraph.
-*   [Hugegraph/Hugegraph](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends.
+*   [Hugegraph/Hugegraph (⭐2.1k)](https://github.com/hugegraph/hugegraph) - HugeGraph Database core component, including graph engine, API, and built-in backends.
 *   [Architecture Overview · GitBook](https://hugegraph.github.io/hugegraph-doc/guides/architectural.html) - Documentation for HugeGraph.
 
 ### Miscellaneous
 
 *   [Cassandra vs MongoDB](https://www.spec-india.com/blog/cassandra-vs-mongodb) - Article comparing the two popular NoSQL databases.
-*   [Stargate](https://github.com/stargate/stargate) - Stargate is an open-source data gateway that provides REST, GraphQL and schemaless JSON interfaces to Cassandra.
+*   [Stargate (⭐672)](https://github.com/stargate/stargate) - Stargate is an open-source data gateway that provides REST, GraphQL and schemaless JSON interfaces to Cassandra.
 *   [Meet Stargate, DataStax's GraphQL for databases. First stop - Cassandra](https://www.zdnet.com/article/meet-stargate-datastaxs-graphql-for-databases-first-stop-cassandra/) - Introduction and high-level overview of Stargate.
-*   [Apache/Usergrid](https://github.com/apache/usergrid) - Open source Backend as a Service (BaaS) on Cassandra, Elasticsearch with client SDKs for iOS/Android/.NET/Java.
+*   [Apache/Usergrid (⭐998)](https://github.com/apache/usergrid) - Open source Backend as a Service (BaaS) on Cassandra, Elasticsearch with client SDKs for iOS/Android/.NET/Java.
 *   [Building Your Own BaaS With Apache Usergrid & Docker: Lessons Learned At Scale](http://events17.linuxfoundation.org/sites/events/files/slides/Building%20Your%20Own%20BaaS%20With%20Apache%20Usergrid%20%26%20Docker.pdf) - Introductory presentation to Apache UserGrid.
-*   [Scalar-labs/Scalardl](https://github.com/scalar-labs/scalardl) - Tamper-evident and scalable distributed ledger platform.
-*   [Wikimedia/Restbase](https://github.com/wikimedia/restbase) -  Distributed storage with REST API & dispatcher for backend services.
-*   [Wikimedia/restbase-mod-table-spec](https://github.com/wikimedia/restbase-mod-table-spec) - Shared spec and tests for RESTBase table storage.
+*   [Scalar-labs/Scalardl (⭐75)](https://github.com/scalar-labs/scalardl) - Tamper-evident and scalable distributed ledger platform.
+*   [Wikimedia/Restbase (⭐98)](https://github.com/wikimedia/restbase) -  Distributed storage with REST API & dispatcher for backend services.
+*   [Wikimedia/restbase-mod-table-spec (⭐3)](https://github.com/wikimedia/restbase-mod-table-spec) - Shared spec and tests for RESTBase table storage.
 
 ## Packages
 
 ### Libraries
 
-*   [express-cassandra](https://github.com/masumsoft/express-cassandra) - Cassandra ORM/ODM/OGM for Node.js with optional support for Elassandra & JanusGraph.
-*   [DataStax Java Driver](https://github.com/datastax/java-driver) - Java client driver for Cassandra.
-*   [DataStax C++ Driver](https://github.com/datastax/cpp-driver) - Modern, feature-rich, and highly tunable C/C++ client library for Cassandra (1.2+) and DataStax Enterprise (3.1+) using exclusively Cassandra's native protocol and Cassandra Query Language v3.
-*   [DataStax Python Driver](https://github.com/datastax/python-driver) - Modern, feature-rich and highly-tunable Python client library for Cassandra (2.1+) using exclusively Cassandra's binary protocol and Cassandra Query Language v3.
-*   [DataStax Ruby Driver](https://github.com/datastax/ruby-driver) - Ruby client driver for Cassandra. This driver works exclusively with the Cassandra Query Language version 3 (CQL3) and Cassandra's native protocol.
-*   [DataStax Node.js Driver](https://github.com/datastax/nodejs-driver) - Modern, feature-rich and highly tunable Node.js client library for Cassandra (1.2+) and DataStax Enterprise (3.1+) using exclusively Cassandra's binary protocol and Cassandra Query Language v3.
-*   [DataStax C# Driver](https://github.com/datastax/csharp-driver) - Modern, feature-rich and highly tunable C# client library for Cassandra (1.2+) and DataStax Enterprise (3.1+) using exclusively Cassandra's binary protocol and Cassandra Query Language v3.
-*   [DataStax PHP Driver](https://github.com/datastax/php-driver) - DataStax PHP Driver for Cassandra.
+*   [express-cassandra (⭐192)](https://github.com/masumsoft/express-cassandra) - Cassandra ORM/ODM/OGM for Node.js with optional support for Elassandra & JanusGraph.
+*   [DataStax Java Driver (⭐1.3k)](https://github.com/datastax/java-driver) - Java client driver for Cassandra.
+*   [DataStax C++ Driver (⭐376)](https://github.com/datastax/cpp-driver) - Modern, feature-rich, and highly tunable C/C++ client library for Cassandra (1.2+) and DataStax Enterprise (3.1+) using exclusively Cassandra's native protocol and Cassandra Query Language v3.
+*   [DataStax Python Driver (⭐1.3k)](https://github.com/datastax/python-driver) - Modern, feature-rich and highly-tunable Python client library for Cassandra (2.1+) using exclusively Cassandra's binary protocol and Cassandra Query Language v3.
+*   [DataStax Ruby Driver (⭐227)](https://github.com/datastax/ruby-driver) - Ruby client driver for Cassandra. This driver works exclusively with the Cassandra Query Language version 3 (CQL3) and Cassandra's native protocol.
+*   [DataStax Node.js Driver (⭐1.2k)](https://github.com/datastax/nodejs-driver) - Modern, feature-rich and highly tunable Node.js client library for Cassandra (1.2+) and DataStax Enterprise (3.1+) using exclusively Cassandra's binary protocol and Cassandra Query Language v3.
+*   [DataStax C# Driver (⭐547)](https://github.com/datastax/csharp-driver) - Modern, feature-rich and highly tunable C# client library for Cassandra (1.2+) and DataStax Enterprise (3.1+) using exclusively Cassandra's binary protocol and Cassandra Query Language v3.
+*   [DataStax PHP Driver (⭐419)](https://github.com/datastax/php-driver) - DataStax PHP Driver for Cassandra.
 *   [Achilles](http://doanduyhai.github.io/Achilles/) - Achilles is an open source Persistence Manager for Cassandra,with the features like Advanced bean mapping (compound primary key, composite partition key, timeUUID, ect),Native collections and map support,and so.
-*   [phpcassa](https://github.com/thobbs/phpcassa) - PHP client library for Cassandra.
+*   [phpcassa (⭐250)](https://github.com/thobbs/phpcassa) - PHP client library for Cassandra.
 *   [Caffinitas](https://bitbucket.org/snazy/caffinitas/src/develop/) - Caffinitas is an advanced object mapper for Cassandra which has been especially designed to work with Datastax Java Driver 2.1+ against Cassandra 2.1, 2.0 or 1.2.
 *   [Spring Data for Cassandra](http://projects.spring.io/spring-data-cassandra/) -  Spring Data for Cassandra offers a familiar interface to those who have used other Spring Data modules in the past.
-*   [gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
+*   [gocql (⭐2.3k)](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 
 ### Tools
 
 *   [Hackolade](https://hackolade.com) - Visual data modeling tool for NoSQL databases and stuctures like Cassandra, ElasticSearch, Graph DBs, JSON, APIs.
 *   [JetBrains Datagrip DB IDE](https://www.jetbrains.com/datagrip/) - The Cross-Platform IDE for Databases & SQL by JetBrains, with support for Cassandra.
-*   [Datastax - Management API for Cassandra](https://github.com/datastax/management-api-for-apache-cassandra) - The Management API is a sidecar service layer that attempts to build a well supported set of operational actions on Cassandra® nodes that can be administered centrally.
+*   [Datastax - Management API for Cassandra (⭐55)](https://github.com/datastax/management-api-for-apache-cassandra) - The Management API is a sidecar service layer that attempts to build a well supported set of operational actions on Cassandra® nodes that can be administered centrally.
 *   [DataStax OpsCenter](http://www.datastax.com/what-we-offer/products-services/datastax-opscenter) - Simplified management for DataStax Enterprise and Cassandra database clusters.
-*   [CassandraCAS](https://github.com/Datomic/CassandraCAS) - Compare-and-swap tool for Cassandra created by Datomic.
-*   [Peloton](https://github.com/uber/peloton) - Unified resource scheduler created by Uber. This tool can handle many nodes and clusters through resource management and scalability.
-*   [Ansible-Galaxy: Cassandra GitHub](https://github.com/ansible-collections/community.cassandra) - Collection called cassandra that aims at providing all Ansible modules allowed to interact with Cassandra.
+*   [CassandraCAS (⭐2)](https://github.com/Datomic/CassandraCAS) - Compare-and-swap tool for Cassandra created by Datomic.
+*   [Peloton (⭐581)](https://github.com/uber/peloton) - Unified resource scheduler created by Uber. This tool can handle many nodes and clusters through resource management and scalability.
+*   [Ansible-Galaxy: Cassandra GitHub (⭐16)](https://github.com/ansible-collections/community.cassandra) - Collection called cassandra that aims at providing all Ansible modules allowed to interact with Cassandra.
 *   [Ansible-Galaxy: Cassandra](https://galaxy.ansible.com/community/cassandra) - Documentation for Ansible-Galaxy: Cassandra.
-*   [Ansible-dse](https://github.com/rackerlabs/ansible-dse) - Set of Ansible playbooks that will build a Datastax Enterprise cluster.
-*   [dseansible](https://github.com/yabinmeng/dseansible) - DSE Installation and Upgrade Ansible Playbooks/Roles for Ubuntu Linux.
+*   [Ansible-dse (⭐15)](https://github.com/rackerlabs/ansible-dse) - Set of Ansible playbooks that will build a Datastax Enterprise cluster.
+*   [dseansible (⭐8)](https://github.com/yabinmeng/dseansible) - DSE Installation and Upgrade Ansible Playbooks/Roles for Ubuntu Linux.
 *   [DbSchema - Cassandra Designer](https://dbschema.com/database-designer/Cassandra.html) - DbSchema: Cassandra Diagram Designer & GUI Admin Tool which can do Cassandra amongst other databases.
 *   [DBeaver - Free Universal Database Tool](https://dbeaver.io/) - Third party tool for dealing with all sorts of databases including Cassandra.
 *   [RazorSQL - Multi DB Manager Tool](https://razorsql.com/) - Multi-db tool for Linux, Mac, and Windows that works with Cassandra.
 *   [Cassandra Reaper](http://cassandra-reaper.io/) - Automated repairs for Cassandra. Supports all versions.
-*   [cstar perf](https://github.com/datastax/cstar_perf) - Cassandra performance testing platform.
-*   [Spark Cassandra Stress](https://github.com/datastax/spark-cassandra-stress) - Tool for testing the DataStax Spark Connector against Cassandra or DSE.
-*   [cqlmigrate](https://github.com/sky-uk/cqlmigrate) -  Cassandra CQL migration tool. cqlmigrate is a library for performing schema migrations on a cassandra cluster.
-*   [cassandra-migration-tool-java](https://github.com/smartcat-labs/cassandra-migration-tool-java) - Cassandra migration tool for java is a lightweight tool used to execute schema and data migration on Cassandra database.
-*   [Cassalog](https://github.com/hawkular/cassalog) - Cassalog is a schema change management library and tool for Cassandra that can be used with applications running on the JVM.
-*   [cdeploy](https://github.com/rackerlabs/cdeploy) - Cdeploy is a simple tool to manage your Cassandra schema migrations in the style of dbdeploy.
+*   [cstar perf (⭐71)](https://github.com/datastax/cstar_perf) - Cassandra performance testing platform.
+*   [Spark Cassandra Stress (⭐26)](https://github.com/datastax/spark-cassandra-stress) - Tool for testing the DataStax Spark Connector against Cassandra or DSE.
+*   [cqlmigrate (⭐45)](https://github.com/sky-uk/cqlmigrate) -  Cassandra CQL migration tool. cqlmigrate is a library for performing schema migrations on a cassandra cluster.
+*   [cassandra-migration-tool-java (⭐98)](https://github.com/smartcat-labs/cassandra-migration-tool-java) - Cassandra migration tool for java is a lightweight tool used to execute schema and data migration on Cassandra database.
+*   [Cassalog (⭐14)](https://github.com/hawkular/cassalog) - Cassalog is a schema change management library and tool for Cassandra that can be used with applications running on the JVM.
+*   [cdeploy (⭐8)](https://github.com/rackerlabs/cdeploy) - Cdeploy is a simple tool to manage your Cassandra schema migrations in the style of dbdeploy.
 *   [Web: Cassandra Calculator](https://www.ecyrd.com/cassandracalculator/) - Simple calculator to see how size / replication factor affect the system's consistency.
 *   [Cassandra-web](http://avalanche123.com/cassandra-web/) - Web interface for Cassandra.
-*   [CassanddraRestfulAPI](https://github.com/rohitsakala/CassandraRestfulAPI) - CassandraRestfulAPI project exposes the cassandra data tables with the help of Restful API.
-*   [Netflix: Staash](https://github.com/Netflix/staash) - Language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems, the metadata layer abstracts a lot of storage details and the pattern automation APIs take care of automating common data access patterns.
-*   [cql-vim](https://github.com/elubow/cql-vim) - Cassandra CQL Syntax Highlighter for Vim.
+*   [CassanddraRestfulAPI (⭐12)](https://github.com/rohitsakala/CassandraRestfulAPI) - CassandraRestfulAPI project exposes the cassandra data tables with the help of Restful API.
+*   [Netflix: Staash (⭐203)](https://github.com/Netflix/staash) - Language-agnostic as well as storage-agnostic web interface for storing data into persistent storage systems, the metadata layer abstracts a lot of storage details and the pattern automation APIs take care of automating common data access patterns.
+*   [cql-vim (⭐36)](https://github.com/elubow/cql-vim) - Cassandra CQL Syntax Highlighter for Vim.
 *   [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. Presto allows querying data where it lives, including Hive, Cassandra, relational databases or even proprietary data stores.
-*   [SSTable Tools](https://github.com/tolbertam/sstable-tools) - Toolkit for parsing, creating and doing other fun stuff with Cassandra 3.x SSTables.
-*   [Cassandra-Exporter](https://github.com/masumsoft/cassandra-exporter) - Simple Tool to Export / Import Cassandra Tables into JSON.
-*   [Cassandra SStable Tools](https://github.com/instaclustr/cassandra-sstable-tools) - Multiple different tools combined into one that helps admins get summaries, metadata, partition info, cell info.
-*   [Cassandra-Client](https://github.com/Kindrat/cassandra-client) - Simple gui tool for browsing tables and data in Cassandra.
+*   [SSTable Tools (⭐155)](https://github.com/tolbertam/sstable-tools) - Toolkit for parsing, creating and doing other fun stuff with Cassandra 3.x SSTables.
+*   [Cassandra-Exporter (⭐41)](https://github.com/masumsoft/cassandra-exporter) - Simple Tool to Export / Import Cassandra Tables into JSON.
+*   [Cassandra SStable Tools (⭐87)](https://github.com/instaclustr/cassandra-sstable-tools) - Multiple different tools combined into one that helps admins get summaries, metadata, partition info, cell info.
+*   [Cassandra-Client (⭐50)](https://github.com/Kindrat/cassandra-client) - Simple gui tool for browsing tables and data in Cassandra.
 *   [CQL Data Modeler](https://www.sestevez.com/sestevez/CassandraDataModeler/) - Very useful tool to test out a CQL schema and visualize what the partition would like in relationship to the columns and rows.
-*   [Cassandra Snapshot Backup](https://github.com/avinash-mishra/cassandra_snapshot_backup) - Quick and easy way to snapshot files in a Cassandra database and back them up using Ansible.
-*   [Slothsandra](https://github.com/MacKittipat/slothsandra) - Integration for Cassandra with the Slack app, which stores old messages that Slack no longer does itself.
-*   [sandraREST](https://github.com/aksakalli/sandraREST) - Cassandra manager with a web UI for RESTful APIs.
-*   [Cassandra Leadership](https://github.com/paradoxical-io/cassandra.leadership) - Library to help elect leaders using cassandra. Uses paxos to build a leadership election module.
-*   [Terraform Cassandra](https://github.com/conrad-mukai/terraform-cassandra) - Terraform module that creates a Cassandra cluster.
+*   [Cassandra Snapshot Backup (⭐6)](https://github.com/avinash-mishra/cassandra_snapshot_backup) - Quick and easy way to snapshot files in a Cassandra database and back them up using Ansible.
+*   [Slothsandra (⭐0)](https://github.com/MacKittipat/slothsandra) - Integration for Cassandra with the Slack app, which stores old messages that Slack no longer does itself.
+*   [sandraREST (⭐23)](https://github.com/aksakalli/sandraREST) - Cassandra manager with a web UI for RESTful APIs.
+*   [Cassandra Leadership (⭐7)](https://github.com/paradoxical-io/cassandra.leadership) - Library to help elect leaders using cassandra. Uses paxos to build a leadership election module.
+*   [Terraform Cassandra (⭐6)](https://github.com/conrad-mukai/terraform-cassandra) - Terraform module that creates a Cassandra cluster.
 *   [Datadog](https://www.datadoghq.com/blog/monitoring-cassandra-with-datadog/) - Third party tool that allows monitoring and metrics for Cassandra nodes and clusters.
 *   [tlp-cluster](http://thelastpickle.com/tlp-cluster/) - Provisioning tool for Cassandra designed for developers looking to benchmark and test Cassandra. It assists with builds and starting instances on AWS.
-*   [Helenos](https://github.com/tomekkup/helenos) - Free web based environment that simplifies a data exploring & schema management with Cassandra database.
-*   [ValuStor](https://github.com/Sensaphone/ValuStor) - ValuStor is a key-value pair database solution.
-*   [Cassandra-Migration](https://github.com/hhandoko/cassandra-migration) - Cassandra / DataStax Enterprise database migration (schema evolution) library.
-*   [JanuesGraph-Utils](https://github.com/IBM/janusgraph-utils) - Tool to Develop a graph database app.
-*   [Scylla-Migrator](https://github.com/scylladb/scylla-migrator) - Migrate data extract using Spark to Scylla, normally from Cassandra.
-*   [Cassandra CA Manager](https://github.com/eevans/cassandra-ca-manager) - Create and sign Java keystores.
-*   [Zipkin](https://github.com/openzipkin/zipkin) - Distributed tracing system.
-*   [Instaclustr Kerberos plugin](https://github.com/instaclustr/cassandra-kerberos) - GSSAPI authentication provider for Cassandra.
-*   [Instaclustr Java Driver for Kerberos](https://github.com/instaclustr/cassandra-java-driver-kerberos) - GSSAPI authentication provider for the Cassandra Java driver.
-*   [Instaclustr Minotaur](https://github.com/instaclustr/instaclustr-minotaur) - Command line tool for consistent rebuilding of a Cassandra cluster.
-*   [Instaclustr TTL Remover](https://github.com/instaclustr/cassandra-ttl-remover) - Command line tool for rewriting SSTables to remove TTLs.
-*   [Instaclustr SSTable Generator](https://github.com/instaclustr/cassandra-sstable-generator) - CLI tool for programmatic generation of Cassandra SSTables.
-*   [Instaclustr Exporter](https://github.com/instaclustr/cassandra-exporter) - Java agent that exports Cassandra metrics to Prometheus.
-*   [Instaclustr Go Client for Instaclustr Icarus](https://github.com/instaclustr/instaclustr-icarus-go-client) - Go client for Instaclustr Icarus sidecar.
+*   [Helenos (⭐163)](https://github.com/tomekkup/helenos) - Free web based environment that simplifies a data exploring & schema management with Cassandra database.
+*   [ValuStor (⭐51)](https://github.com/Sensaphone/ValuStor) - ValuStor is a key-value pair database solution.
+*   [Cassandra-Migration (⭐52)](https://github.com/hhandoko/cassandra-migration) - Cassandra / DataStax Enterprise database migration (schema evolution) library.
+*   [JanuesGraph-Utils (⭐200)](https://github.com/IBM/janusgraph-utils) - Tool to Develop a graph database app.
+*   [Scylla-Migrator (⭐33)](https://github.com/scylladb/scylla-migrator) - Migrate data extract using Spark to Scylla, normally from Cassandra.
+*   [Cassandra CA Manager (⭐11)](https://github.com/eevans/cassandra-ca-manager) - Create and sign Java keystores.
+*   [Zipkin (⭐16k)](https://github.com/openzipkin/zipkin) - Distributed tracing system.
+*   [Instaclustr Kerberos plugin (⭐5)](https://github.com/instaclustr/cassandra-kerberos) - GSSAPI authentication provider for Cassandra.
+*   [Instaclustr Java Driver for Kerberos (⭐4)](https://github.com/instaclustr/cassandra-java-driver-kerberos) - GSSAPI authentication provider for the Cassandra Java driver.
+*   [Instaclustr Minotaur (⭐5)](https://github.com/instaclustr/instaclustr-minotaur) - Command line tool for consistent rebuilding of a Cassandra cluster.
+*   [Instaclustr TTL Remover (⭐19)](https://github.com/instaclustr/cassandra-ttl-remover) - Command line tool for rewriting SSTables to remove TTLs.
+*   [Instaclustr SSTable Generator (⭐5)](https://github.com/instaclustr/cassandra-sstable-generator) - CLI tool for programmatic generation of Cassandra SSTables.
+*   [Instaclustr Exporter (⭐54)](https://github.com/instaclustr/cassandra-exporter) - Java agent that exports Cassandra metrics to Prometheus.
+*   [Instaclustr Go Client for Instaclustr Icarus (⭐4)](https://github.com/instaclustr/instaclustr-icarus-go-client) - Go client for Instaclustr Icarus sidecar.
 
 ### Open Source Applications
 
-*   [Twissandra](https://github.com/twissandra/twissandra) - Twissandra is an example project, created to learn and demonstrate how to use Cassandra. Running the project will present a website that has similar functionality to Twitter.
-*   [ChronoServer](https://github.com/cyngn/ChronoServer) - Test server for sampling how long it takes mobile & web clients to make various types of requests to a server doing common request patterns.
-*   [Cassandra Cluster Admin](https://github.com/sebgiroux/Cassandra-Cluster-Admin) - Cassandra Cluster Admin is a GUI tool to help people administrate their Cassandra cluster.
-*   [Cassandra-Tools](https://github.com/CrowdStrike/cassandra-tools) - Python Fabric scripts to help automate the launching and managing of cluster testing on AWS.
-*   [Cassandra Opstools](https://github.com/spotify/cassandra-opstools) - Generic scripts to review and monitor cassandra, from Spotify.
-*   [CCM: Cassandra Cluster Manager)](https://github.com/pcmanus/ccm) - Script/library to create, launch and remove an Cassandra cluster on localhost.
-*   [Netflix-Priam](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
-*   [CStar](https://github.com/spotify/cstar) - Cassandra cluster orchestration tool for the command line.
-*   [CMB](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service compatible with AWS SQS and SNS.
-*   [CassieQ](https://github.com/paradoxical-io/cassieq) - Distributed queue built off of Cassandra.
+*   [Twissandra (⭐800)](https://github.com/twissandra/twissandra) - Twissandra is an example project, created to learn and demonstrate how to use Cassandra. Running the project will present a website that has similar functionality to Twitter.
+*   [ChronoServer (⭐2)](https://github.com/cyngn/ChronoServer) - Test server for sampling how long it takes mobile & web clients to make various types of requests to a server doing common request patterns.
+*   [Cassandra Cluster Admin (⭐207)](https://github.com/sebgiroux/Cassandra-Cluster-Admin) - Cassandra Cluster Admin is a GUI tool to help people administrate their Cassandra cluster.
+*   [Cassandra-Tools (⭐55)](https://github.com/CrowdStrike/cassandra-tools) - Python Fabric scripts to help automate the launching and managing of cluster testing on AWS.
+*   [Cassandra Opstools (⭐54)](https://github.com/spotify/cassandra-opstools) - Generic scripts to review and monitor cassandra, from Spotify.
+*   [CCM: Cassandra Cluster Manager) (⭐1.2k)](https://github.com/pcmanus/ccm) - Script/library to create, launch and remove an Cassandra cluster on localhost.
+*   [Netflix-Priam (⭐1k)](https://github.com/Netflix/Priam) - Co-Process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
+*   [CStar (⭐250)](https://github.com/spotify/cstar) - Cassandra cluster orchestration tool for the command line.
+*   [CMB (⭐280)](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service compatible with AWS SQS and SNS.
+*   [CassieQ (⭐50)](https://github.com/paradoxical-io/cassieq) - Distributed queue built off of Cassandra.
 *   [Cherami](https://eng.uber.com/cherami/) - Distributed, scalable, durable, and highly available message queue system.
-*   [Scheduler](https://github.com/PagerDuty/scheduler) - Scala library for scheduling arbitrary code to run at an arbitrary time.
+*   [Scheduler (⭐211)](https://github.com/PagerDuty/scheduler) - Scala library for scheduling arbitrary code to run at an arbitrary time.
 
 ### Logging /Metrics
 
-*   [cassandra-log4j-appender](https://github.com/datastax/cassandra-log4j-appender) - Cassandra appenders for Log4j.
-*   [Metrics Collector for Cassandra](https://github.com/datastax/metric-collector-for-apache-cassandra) - Metric collection and Dashboards for Cassandra (2.2, 3.0, 3.11, 4.0) clusters. Comes with dashboards for Graphana.
-*   [Cassandra Log Tools](https://github.com/erickramirezDSE/cass_log_tools) - Simple scripts for working with Cassandra logs.
-*   [Cassandra CFStats to CSV Parser](https://github.com/jlacefie/cfstats-csv-parser) - Converts the output of CFStats to CSV.
-*   [Cassandra Nagios](https://github.com/causes/cassandra-nagios) - Perl Based scripts to get metrics for monitoring using Jolokia.
-*   [ctop](https://github.com/pixonic/ctop) - Very simple console tool for monitoring column families read/write activities at remote cassandra host.
-*   [Cassandra StatD Agent](https://github.com/lookout/cassandra-statsd-agent) - Java Agent for Cassandra integration with StatsD.
+*   [cassandra-log4j-appender (⭐19)](https://github.com/datastax/cassandra-log4j-appender) - Cassandra appenders for Log4j.
+*   [Metrics Collector for Cassandra (⭐92)](https://github.com/datastax/metric-collector-for-apache-cassandra) - Metric collection and Dashboards for Cassandra (2.2, 3.0, 3.11, 4.0) clusters. Comes with dashboards for Graphana.
+*   [Cassandra Log Tools (⭐8)](https://github.com/erickramirezDSE/cass_log_tools) - Simple scripts for working with Cassandra logs.
+*   [Cassandra CFStats to CSV Parser (⭐1)](https://github.com/jlacefie/cfstats-csv-parser) - Converts the output of CFStats to CSV.
+*   [Cassandra Nagios (⭐5)](https://github.com/causes/cassandra-nagios) - Perl Based scripts to get metrics for monitoring using Jolokia.
+*   [ctop (⭐2)](https://github.com/pixonic/ctop) - Very simple console tool for monitoring column families read/write activities at remote cassandra host.
+*   [Cassandra StatD Agent (⭐13)](https://github.com/lookout/cassandra-statsd-agent) - Java Agent for Cassandra integration with StatsD.
 
 ## Resources
 
@@ -593,13 +593,13 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 *   [Best Practices for Running Cassandra on AWS](https://www.youtube.com/watch?v=IuJldwJLyFM) - Joint webinar between Amazon Web Services (AWS) and Stackdriver, an AWS Technology partner, to learn best practices that apply to storing, analyzing and managing queries that equate to over 1+ billion measurements a day.
 *   [Monitoring Cassandra: Don't Miss a Thing (Alain Rodriguez, The Last Pickle) | C\* Summit 2016](https://www.youtube.com/watch?v=Q9AAR4UQzMk) - Talk given by Alain Rodriguez, Consultant at The Last Pickle, discussing what to monitor in Cassandra, how, and why.
 *   [Tuning the Spark Cassandra Connector](https://www.youtube.com/watch?v=cKIHRD6kUOc\&feature=youtu.be) - Great talk by Russell Spitzer maintainer of the Spark Cassandra connector.
-*   [Cassandra.Lunch](https://github.com/Anant/Cassandra.Lunch) - Collection of all past Cassandra.Lunch webinars including videos, slides, and Blog posts surrounding all topics Cassandra.
+*   [Cassandra.Lunch (⭐6)](https://github.com/Anant/Cassandra.Lunch) - Collection of all past Cassandra.Lunch webinars including videos, slides, and Blog posts surrounding all topics Cassandra.
 *   [Working with .NET and Cassandra/DataStax Enterprise](https://www.youtube.com/watch?v=7W1tOmfREnw) - Getting a C# .NET core application started to work against a Cassandra or DSE database.
 
 ### Slides
 
 *   [Cassandra DataTables Using Restful API](https://www.slideshare.net/SimranKedia2/cassandra-datatables-using-restful-api) - How to create a performant API using Python / Flash.
-*   [HAPI Cassandra](https://github.com/victorcouste/hapi-cassandra) - Simple REST API with hapi Node.js framework on top of a Cassandra database.
+*   [HAPI Cassandra (⭐5)](https://github.com/victorcouste/hapi-cassandra) - Simple REST API with hapi Node.js framework on top of a Cassandra database.
 *   [GumGum: Multi-Region Cassandra in AWS](https://www.slideshare.net/planetcassandra/gumgum-multiregion-cassandra-in-aws) - Presentation that details how Gumgum scaled out from one local Cassandra datacenter to a multi-datacenter Cassandra cluster and all the problems they encountered and choices they made while implementing it.
 *   [Hardening Cassandra for Compliance or Paranoia](https://www.slideshare.net/zznate/hardening-cassandra-for-compliance-or-paranoia) - Includes details on configuring SSL, setting up a certificate authority and creating certificates and trust chains for the JVM.
 *   [Securing Cassandra](https://www.slideshare.net/planetcassandra/securing-cassandra-the-right-way) - Ben Bromhead CTO of Instaclustr, will explore the various ways in which you can setup and secure Cassandra appropriately for your threat environment.

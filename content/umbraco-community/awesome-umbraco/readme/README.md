@@ -10,17 +10,17 @@ A curated list of awesome Umbraco packages, resources and tools
 
 # Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) [![UmbracoV9](https://img.shields.io/badge/Umbraco-v9-blue)](https://our.umbraco.com/download/releases/900)
 
-> A collection of awesome [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) packages, resources and shiny things.
+> A collection of awesome [Umbraco CMS (⭐3.7k)](https://github.com/umbraco/Umbraco-CMS/) packages, resources and shiny things.
 
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet](https://github.com/quozd/awesome-dotnet/) collection!
+Inspired by [awesome lists (⭐223k)](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet (⭐16k)](https://github.com/quozd/awesome-dotnet/) collection!
 
 ### Contributing
 
 **Contributions are always welcome!**
 
-Please read the [contribution guidelines and quality standard](https://github.com/umbraco-community/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request. If you see a resource or package here that is no longer maintained, please submit a pull request to help improve this collection.
+Please read the [contribution guidelines and quality standard (⭐201)](https://github.com/umbraco-community/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request. If you see a resource or package here that is no longer maintained, please submit a pull request to help improve this collection.
 
-Thank you to all [contributors](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thank you to all [contributors (⭐201)](https://github.com/umbraco-community/awesome-umbraco/graphs/contributors), you are awesome and this list wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ### Versions
 
@@ -103,7 +103,7 @@ Please note \* indicates that the package is commercial or may require a license
 
 ### Deployment
 
-*   [Deploy Contrib](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** *Umbraco Cloud only*
+*   [Deploy Contrib (⭐11)](https://github.com/umbraco/Umbraco.Deploy.Contrib) - Offers value-connectors for the most popular Umbraco community packages. To allow Umbraco Cloud deploy to transfer content/property-data to a target environment. **(Maintained by Umbraco HQ)** *Umbraco Cloud only*
 
 ## eCommerce & CRM
 

@@ -39,9 +39,9 @@ Everything relevant that is directly part of the official WP-CLI team.
         *   [#cli channel](http://wordpress.slack.com/messages/cli/) - The official support channel for WP-CLI and the WordPress CLI team.
     *   [Good first issues](https://make.wordpress.org/cli/good-first-issues/) - List of issues on that are limited in scope and complexity.
 *   [WP-CLI GitHub organization](https://github.com/wp-cli) - Canonical home of the WP-CLI source code.
-    *   [WP-CLI framework repository](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
-    *   [WP-CLI bundle repository](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
-    *   [WP-CLI tests repository](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
+    *   [WP-CLI framework repository (⭐4.6k)](https://github.com/wp-cli/wp-cli) - The source code for the WP-CLI framework that powers all of the commands.
+    *   [WP-CLI bundle repository (⭐65)](https://github.com/wp-cli/wp-cli-bundle) - The source for the WP-CLI "binary" and how it is assembled.
+    *   [WP-CLI tests repository (⭐23)](https://github.com/wp-cli/wp-cli-tests) - The testing framework used throughout all WP-CLI repositories.
 
 ## Third-party packages
 
@@ -58,10 +58,10 @@ Ways of searching for third-party packages you can use.
 
 Third-party packages that are commonly useful.
 
-*   [Yoast/wp-cli-faker](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
-*   [aaemnnosttv/wp-cli-login-command](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
-*   [schlessera/wp-cli-psysh](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
-*   [php-stubs/wp-cli-stubs](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
+*   [Yoast/wp-cli-faker (⭐48)](https://github.com/Yoast/wp-cli-faker) - Generate fake WordPress and WooCommerce content for testing purposes.
+*   [aaemnnosttv/wp-cli-login-command (⭐254)](https://github.com/aaemnnosttv/wp-cli-login-command) - Login to WordPress with secure passwordless magic links.
+*   [schlessera/wp-cli-psysh (⭐19)](https://github.com/schlessera/wp-cli-psysh) - Replace WP-CLI shell standard REPL with [PsySH](http://psysh.org/).
+*   [php-stubs/wp-cli-stubs (⭐12)](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
 
 ## Tutorials & guides
 

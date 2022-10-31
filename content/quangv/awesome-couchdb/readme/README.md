@@ -57,7 +57,7 @@ Pull-Requests are welcomed.
 *   [Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - Best Practices, eHealth Africa.
 *   [Pagination strategies with PouchDB ](https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html)
 *   [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
-*   [Linux tuning for better CouchDB performance](https://github.com/assafmo/couchdb-linux-performance)
+*   [Linux tuning for better CouchDB performance (⭐34)](https://github.com/assafmo/couchdb-linux-performance)
 
 ### Map/Reduce
 
@@ -102,7 +102,7 @@ Pull-Requests are welcomed.
 
 ## Libraries
 
-*   [Jaki](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
+*   [Jaki (⭐16)](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
 
 ## Community
 
@@ -124,7 +124,7 @@ Pull-Requests are welcomed.
 
 ### Companies
 
-*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices](https://github.com/eHealthAfrica/couchdb-best-practices).
+*   [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices (⭐306)](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 #### Hosting
 

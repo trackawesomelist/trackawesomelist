@@ -224,7 +224,7 @@
 *   [React Podcast](https://reactpodcast.simplecast.fm) - Michael Chan (podcast)
 *   [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)
 *   [React Wednesdays](https://www.telerik.com/react-wednesdays) - Kathryn Grayson Nanz (screencast)
-*   [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources](https://github.com/cassiozen/ReactCasts)
+*   [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources (⭐651)](https://github.com/cassiozen/ReactCasts)
 *   [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, Mike Chudziak, Satyajit Sahoo, Michał Pierzchała, et al. (screencast)
 
 ### Kotlin

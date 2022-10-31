@@ -34,7 +34,7 @@ Curated list of awesome Mastodon-related stuff!
 ## Official
 
 *   [Website](https://joinmastodon.org)
-*   [GitHub repository](https://github.com/tootsuite/mastodon)
+*   [GitHub repository (⭐30k)](https://github.com/tootsuite/mastodon)
 *   [Documentation & official explaination](https://docs.joinmastodon.org/)
 *   [API documentation](https://docs.joinmastodon.org/client/intro/)
 
@@ -42,14 +42,14 @@ Curated list of awesome Mastodon-related stuff!
 
 *   [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
 *   [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
-*   [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
-*   [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
-*   [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
-*   [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
-*   [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
+*   [Tooty (⭐132)](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
+*   [toot (⭐561)](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
+*   [madonctl (⭐147)](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
+*   [naumanni (⭐98)](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
+*   [Tooter (⭐20)](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
 *   [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
-*   [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
-*   [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
+*   [Pinafore (⭐698)](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
+*   [Tootle (⭐396)](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
 *   [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 *   [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 *   [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
@@ -79,11 +79,11 @@ Curated list of awesome Mastodon-related stuff!
 *   [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 *   [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 *   [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
-*   [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
-*   [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
-*   [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
+*   [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code (⭐147)](https://github.com/codl/forget/)).
+*   [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code (⭐10)](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
+*   [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code (⭐80)](https://github.com/rugk/mastodon-simplified-federation)).
 *   [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
-*   [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
+*   [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code (⭐0)](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
 
 ## User styles
 
@@ -99,14 +99,14 @@ Curated list of awesome Mastodon-related stuff!
 ## Bots
 
 *   [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
-*   [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
-*   [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
-*   [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
+*   [usercount (⭐48)](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
+*   [autofollow (⭐28)](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
+*   [hnbot (⭐37)](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
 *   [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 *   [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 *   [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python).
-*   [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
-*   [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
+*   [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub (⭐178)](https://github.com/yogthos/mastodon-bot).
+*   [Welcome Bot (⭐7)](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
 
 ## News & magazines bots
 
@@ -164,8 +164,8 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Libraries
 
-*   [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
-*   [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
+*   [Mastodon.py (⭐472)](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
+*   [Megalodon (⭐83)](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
 
 ## Hosting
 

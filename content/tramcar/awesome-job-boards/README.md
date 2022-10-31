@@ -4,6 +4,12 @@
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Oct 31, 2022](/content/2022/10/31/README.md)
+
+### Blockchain
+
+*   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
+
 ## [Oct 28, 2022](/content/2022/10/28/README.md)
 
 ### Programming / JavaScript

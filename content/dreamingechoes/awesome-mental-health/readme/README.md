@@ -187,9 +187,9 @@ Talks and presentations about mental health awareness and other testimonies and 
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md)
 
-Please see [CONTRIBUTING](https://github.com/dreamingechoes/awesome-mental-health/blob/master/.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. You can also find an alphabetically-ordered list of contributors of this repository [here](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CONTRIBUTORS.md).
+Please see [CONTRIBUTING (⭐2.5k)](https://github.com/dreamingechoes/awesome-mental-health/blob/master/.github/CONTRIBUTING.md) for more details on how to suggest awesome resources or other modifications to the list. You can also find an alphabetically-ordered list of contributors of this repository [here (⭐2.5k)](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CONTRIBUTORS.md).
 
-All contributors are expected to adhere to the [Code of Conduct](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md) of the project. (Contributor Covenant)
+All contributors are expected to adhere to the [Code of Conduct (⭐2.5k)](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md) of the project. (Contributor Covenant)
 
 ***
 

@@ -69,7 +69,7 @@ Alternatives to ad-supported websites, software, and publications.
 
 ### Mobile Apps
 
-*   [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices.
+*   [Amaze File Manager (⭐4.1k)](https://github.com/arpitkh96/AmazeFileManager) - Open source, Material Design file explorer for Android devices.
 *   [Bible](https://www.bible.com/) - Bible reader with many versions and languages to choose from.
 *   [Simple Mobile Tools](https://simplemobiletools.github.io/) - Open source Android utilities: gallery, contacts, calendar, and more.
 
@@ -127,7 +127,7 @@ Alternatives to ad-supported websites, software, and publications.
 ### Ad Blockers
 
 *   [Add-Art](https://add-art.org/) - Replaces ads with art.
-*   [uBlock Origin](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
+*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
 **Note**: Avoid Adblock Plus because corporations [pay to have their ads whitelisted](https://en.wikipedia.org/wiki/Adblock_Plus#Controversy_over_ad_filtering_and_ad_whitelisting) and uBlock (unrelated to the project above) because it solicits excessive donations and has what could be considered "ads" on its own site.
 

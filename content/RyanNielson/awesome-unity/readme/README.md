@@ -14,9 +14,9 @@ A curated list of awesome Unity assets, resources, and more.
 
 A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
 
-Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines (⭐5.4k)](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
-Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/graphs/contributors), this wouldn't be possible without you!
+Thanks to all the [contributors (⭐5.4k)](https://github.com/ryannielson/awesome-unity/graphs/contributors), this wouldn't be possible without you!
 
 *   [Awesome Unity](#awesome-unity)
     *   [2D](#2d)
@@ -47,11 +47,11 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 *   [2D Rope System (Paid)](https://assetstore.unity.com/packages/tools/sprite-management/2d-rope-system-17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
 *   [Ferr2D Terrain Tool (Paid)](https://assetstore.unity.com/packages/tools/level-design/ferr2d-terrain-tool-11653) - Quickly create handcrafted 2D landscapes and levels.
-*   [Pixel Camera 2D](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
+*   [Pixel Camera 2D (⭐469)](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 *   [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
 *   [Tiled2Unity](http://www.seanba.com/tiled2unity) - Takes your [Tiled](http://www.mapeditor.org) files and creates Unity prefabs from them that are easily placed into your Unity scene. Complex collision is supported through Unity’s PolygonCollider2D class.
 *   [Unity Anima2D](https://assetstore.unity.com/packages/2d/characters/anima2d-no-longer-supported-replaced-by-2d-animation-79840) - Advanced skeletal animation editor with support for both per-object and skinned mesh animation with an integrated in-editor skinning tool.
-*   [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
+*   [UnityTiled (⭐82)](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
 
 ## AI
 
@@ -59,14 +59,14 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 *   [Apex Path (Paid)](https://assetstore.unity.com/packages/tools/ai/apex-path-17943) - Apex Path handles dynamic pathfinding including local avoidance steering and dynamic obstacles.
 
-*   [Crystal AI](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
+*   [Crystal AI (⭐396)](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 
 ## Augmented & Virtual Reality
 
 *   [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
 *   [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 *   [SteamVR Unity Toolkit](https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
-*   [Virtual Reality Toolkit](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
+*   [Virtual Reality Toolkit (⭐3.6k)](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 *   [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 
 ## Camera
@@ -75,20 +75,20 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Character Controllers
 
-*   [CharacterController2D](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
+*   [CharacterController2D (⭐979)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
 
 ## Frameworks
 
-*   [Fungus](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
+*   [Fungus (⭐1.2k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 *   [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 *   [uFrame (Paid)](https://assetstore.unity.com/packages/tools/visual-scripting/uframe-game-framework-14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 
 ## Input
 
-*   [InControl](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
-*   [InputBinder](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
-*   [TouchKit](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
-*   [TouchScript](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
+*   [InControl (⭐683)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
+*   [InputBinder (⭐73)](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
+*   [TouchKit (⭐880)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
+*   [TouchScript (⭐1.5k)](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 
 ## Modeling
 
@@ -100,7 +100,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Networking
 
-*   [Nakama](https://assetstore.unity.com/packages/tools/network/nakama-81338) - Build social and realtime games with an open-source [distributed server](https://github.com/heroiclabs/nakama).
+*   [Nakama](https://assetstore.unity.com/packages/tools/network/nakama-81338) - Build social and realtime games with an open-source [distributed server (⭐6.4k)](https://github.com/heroiclabs/nakama).
 *   [Photon Bolt (Paid)](https://assetstore.unity.com/packages/tools/network/photon-bolt-free-127156) - Build networked games without having to know the details of networking or write any complex networking code.
 *   [Photon Unity Networking](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
@@ -116,7 +116,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Tweening
 
 *   [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) - Tween any numeric property or field (including Vectors, Rectangles, etc.), plus some non-numeric ones (like strings). This is the follow-up to HOTween.
-*   [GoKit](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
+*   [GoKit (⭐574)](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
 *   [iTween](https://assetstore.unity.com/packages/tools/animation/itween-84) - A simple, and easy to use animation system.
 *   [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) - FOSS, and also the most lightweight tweening library for Unity. Allows you to tween any value you have access to via the .value() method.
 
@@ -127,18 +127,18 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Utilities
 
-*   [Consolation](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+*   [Consolation (⭐710)](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 *   [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 *   [Grouping Tool](https://assetstore.unity.com/packages/tools/utilities/grouping-tool-147552) - Easily group objects together
-*   [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
+*   [Scene View Bookmarks (⭐65)](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
 *   [SnazzyGrid (Paid)](https://assetstore.unity.com/packages/tools/level-design/snazzygrid2-19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 *   [UniMerge (Paid)](https://assetstore.unity.com/packages/tools/version-control/unimerge-9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-*   [UniRx](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
-*   [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+*   [UniRx (⭐6.1k)](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
+*   [UnityToolbag (⭐1.6k)](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 
 ## Video
 
-*   [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
+*   [Vimeo Unity SDK (⭐192)](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
 
 ## Visual Scripting
 
@@ -148,14 +148,14 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Games
 
-*   [Nodulus](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
+*   [Nodulus (⭐346)](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 
 # Resources
 
 ## Tips and Tricks
 
 *   [Editor Tips](http://imgur.com/a/2w7zd) - Tips in gif form showing a few ways to use the editor more efficiently.
-*   [Unity Labs' Super Science](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
+*   [Unity Labs' Super Science (⭐607)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
 *   [Unity Tips](https://unity3d.com/learn/tutorials/topics/tips) - Short videos showing some handy tips when using Unity.
 
 ## Tutorials
@@ -174,7 +174,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐5.4k)](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
 
 TESTING
 

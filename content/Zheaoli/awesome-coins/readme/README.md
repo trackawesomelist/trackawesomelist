@@ -40,7 +40,7 @@ Hope that helps clear things up.
 *   [Internet Archive](https://archive.org) **BTC**: `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
 *   [The Pirate Bay](https://thepiratebay.org) **BTC**: `129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
 *   [xkcd](https://xkcd.com) **BTC**: `14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
-*   [this repo](https://github.com/kennethreitz/awesome-coins) **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
+*   [this repo (⭐3.6k)](https://github.com/kennethreitz/awesome-coins) **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
 
 ## ☤ Coin Market Tools & Utilities
 
@@ -58,13 +58,13 @@ Hope that helps clear things up.
 
 ## ☤ Reading Material
 
-*   [Overview of Cryptocurrencies](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
+*   [Overview of Cryptocurrencies (⭐399)](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
 *   [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
 *   [A massive collection of white papers](http://diyhpl.us/\~bryan/papers2/bitcoin/)
-*   [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
+*   [Mastering Bitcoin (⭐21k)](https://github.com/bitcoinbook/bitcoinbook) (ebook)
 *   [Binance Academy](https://www.binance.vision) — Open access education provided by Binance.
 *   [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
-*   [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
+*   [Blockchain for humans (⭐14)](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
 *   [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
 *   [Golden Cryptocurrency and Blockchain Cluster](https://golden.com/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - a cluster of topic pages on cryptocurrency and blockchain.
 *   Publications
@@ -117,7 +117,7 @@ Actual Hosted Coin Wallets:
 *   [Tokenary **ETH\&ERC20 Tokens**](https://www.tokenary.io/)
 *   [Dogechain **DOGE**](https://my.dogechain.info/#/wallet)
 *   [Gamecredits **GAME**](https://wallet.gamecredits.com/dashboard/myWallet)
-*   [Glif **FIL**](https://github.com/openworklabs/filecoin-web-wallet)
+*   [Glif **FIL** (⭐71)](https://github.com/openworklabs/filecoin-web-wallet)
 
 ### Coin Debit Cards
 
@@ -162,7 +162,7 @@ Actual Hosted Coin Wallets:
 *   [bfgminer](http://macminer.fabulouspanda.com/commandline/) — Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
 *   [cgminer](http://macminer.fabulouspanda.com/commandline/) — ASIC and FPGA miner in C for Bitcoin.
 *   [sgminer](http://macminer.fabulouspanda.com/commandline/) — Scrypt GPU miner.
-*   [nheqminer](https://github.com/kozyilmaz/nheqminer-macos) — Equihash CPU & GPU miner.
+*   [nheqminer (⭐85)](https://github.com/kozyilmaz/nheqminer-macos) — Equihash CPU & GPU miner.
 
 ## ☤ Recommended Hardware
 
@@ -171,7 +171,7 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Cool Coin/Blockchain Stuff
 
-*   [Bit](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
+*   [Bit (⭐1.1k)](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
     to be made in only 3 lines of code.
 *   [bcoin](http://bcoin.io) — Bitcoin fullnode implementation written entirely in Node.js that you can even run in a browser, includes wallet, mempool, chain, and mining.
 *   [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
@@ -180,7 +180,7 @@ Actual Hosted Coin Wallets:
 *   [Cosmos](https://cosmos.network) — Network and a framework for interoperability between blockchains.
 *   [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
 *   [Blockply](https://blockply.com/) — Collection of the most interesting and outstanding blockchain projects
-*   [Blockchain demo](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
+*   [Blockchain demo (⭐4.6k)](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
@@ -215,7 +215,7 @@ Actual Hosted Coin Wallets:
 *   `Blake2`s (NevaCoin, Netko Coin, Verge, TajCoin)
 *   `Skunk` (Signatum Coin / **SIGT**)
 
-[(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
+[(others) (⭐3.6k)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
 
 ## ☤ Every Active Coin, Ranked
 

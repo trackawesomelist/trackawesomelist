@@ -10,7 +10,7 @@
 
 # Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists (⭐223k)](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 
@@ -1356,7 +1356,7 @@ Webpage: <http://www.jimmymonkey.com/>
 
 # Slovenia 🇸🇮
 
-See <https://github.com/otobrglez/awesome-workplaces-slovenia>
+See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
 ***
 

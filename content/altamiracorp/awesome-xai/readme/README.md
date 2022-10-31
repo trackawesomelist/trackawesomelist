@@ -168,10 +168,10 @@ entirety.
 
 ## Repositories
 
-*   [EthicalML/xai](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
-*   [MAIF/shapash](https://github.com/MAIF/shapash) - SHAP and LIME-based front-end explainer.
-*   [PAIR-code/what-if-tool](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
-*   [slundberg/shap](https://github.com/slundberg/shap) - A Python module for using Shapley Additive Explanations.
+*   [EthicalML/xai (⭐859)](https://github.com/EthicalML/xai) - A toolkit for XAI which is focused exclusively on tabular data. It implements a variety of data and model evaluation techniques.
+*   [MAIF/shapash (⭐2k)](https://github.com/MAIF/shapash) - SHAP and LIME-based front-end explainer.
+*   [PAIR-code/what-if-tool (⭐753)](https://github.com/PAIR-code/what-if-tool) - A tool for Tensorboard or Notebooks which allows investigating model performance and fairness.
+*   [slundberg/shap (⭐18k)](https://github.com/slundberg/shap) - A Python module for using Shapley Additive Explanations.
 
 ## Videos
 
@@ -193,5 +193,5 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/altamiracorp/awesome-xai/graphs/contributors)!
+[Thanks goes to these contributors (⭐52)](https://github.com/altamiracorp/awesome-xai/graphs/contributors)!
 

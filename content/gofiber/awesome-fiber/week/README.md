@@ -6,6 +6,12 @@
 
 [ [Daily](/content/gofiber/awesome-fiber/README.md) / Weekly / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### ⚙️ Middlewares / 🌱 Third Party
+
+*   [vladfr/fiber-servertiming (⭐0)](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
+
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party

@@ -27,9 +27,9 @@
 
 ### Official resources
 
-*   [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md)
-*   [Handbook](https://github.com/yoshuawuyts/choo-handbook)
-*   [Repo](https://github.com/yoshuawuyts/choo)
+*   [Docs (⭐6.7k)](https://github.com/yoshuawuyts/choo/blob/master/README.md)
+*   [Handbook (⭐266)](https://github.com/yoshuawuyts/choo-handbook)
+*   [Repo (⭐6.7k)](https://github.com/yoshuawuyts/choo)
 *   [Website](https://choo.io/)
 *   [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
@@ -38,31 +38,31 @@
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-*   [bel](https://github.com/shama/bel) - Create composable DOM elements using
+*   [bel (⭐672)](https://github.com/shama/bel) - Create composable DOM elements using
     template strings.
-*   [hyperx](https://github.com/substack/hyperx) - Convert template strings to
+*   [hyperx (⭐993)](https://github.com/substack/hyperx) - Convert template strings to
     library backends.
-*   [nanomorph](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes.
+*   [nanomorph (⭐684)](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes.
 *   [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed.
-*   [nanorouter](https://github.com/choojs/nanorouter) - Smol frontend router.
-*   [nanobus](https://github.com/choojs/nanobus) - Tiny message bus.
-*   [nanolocation](https://github.com/choojs/nanolocation) - Small window\.location library.
-*   [nanohref](https://github.com/choojs/nanohref) - Tiny href click handler library.
-*   [nanoquery](https://github.com/choojs/nanoquery) - Tiny querystring module.
-*   [nanotiming](https://github.com/choojs/nanotiming) - Small timing library.
+*   [nanorouter (⭐117)](https://github.com/choojs/nanorouter) - Smol frontend router.
+*   [nanobus (⭐215)](https://github.com/choojs/nanobus) - Tiny message bus.
+*   [nanolocation (⭐10)](https://github.com/choojs/nanolocation) - Small window\.location library.
+*   [nanohref (⭐40)](https://github.com/choojs/nanohref) - Tiny href click handler library.
+*   [nanoquery (⭐48)](https://github.com/choojs/nanoquery) - Tiny querystring module.
+*   [nanotiming (⭐34)](https://github.com/choojs/nanotiming) - Small timing library.
 
 ### Demos
 
-*   [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
+*   [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo (⭐6.7k)](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
 *   [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
-*   [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
-*   [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo))
-*   [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase))
-*   [Grow](https://grow.static.land) - ([repo](https://github.com/sethvincent/grow))
-*   [Chatbot](http://chootbot.herokuapp.com) - ([repo](https://github.com/plaey/chatbot))
+*   [Mailbox routing (⭐6.7k)](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
+*   [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo (⭐39)](https://github.com/shuhei/todomvc-choo))
+*   [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo (⭐19)](https://github.com/mw222rs/choo-firebase))
+*   [Grow](https://grow.static.land) - ([repo (⭐13)](https://github.com/sethvincent/grow))
+*   [Chatbot](http://chootbot.herokuapp.com) - ([repo (⭐2)](https://github.com/plaey/chatbot))
 *   [chat-random](https://github.com/akiva/chat-random)
-*   [choo-leaflet-demo](https://github.com/timwis/choo-leaflet-demo)
-*   [choo-scriber](https://zhouhansen.github.io/choo-scriber) - ([repo](https://github.com/ZhouHansen/choo-scriber))
+*   [choo-leaflet-demo (⭐16)](https://github.com/timwis/choo-leaflet-demo)
+*   [choo-scriber](https://zhouhansen.github.io/choo-scriber) - ([repo (⭐6)](https://github.com/ZhouHansen/choo-scriber))
 
 ### Community
 
@@ -70,38 +70,38 @@ under the hood:
 
 ### Plugins and addons
 
-*   [choo-location-electron](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron.
-*   [choo-log](https://github.com/yoshuawuyts/choo-log) - Development logger for choo.
-*   [choo-test](https://github.com/mantoni/choo-test) - Easy choo app unit testing.
-*   [choo-persist](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with LocalStorage.
-*   [choo-promise](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions.
-*   [choo-pull](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin.
-*   [choo-redirect](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view.
-*   [choo-model](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo.
-*   [choo-resume](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo.
-*   [choo-detached](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing).
-*   [choo-service-worker](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`.
-*   [choo-websocket](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps.
-*   [choo-store](https://github.com/ungoldman/choo-store) - Lightweight state structure for choo apps.
+*   [choo-location-electron (⭐12)](https://github.com/bcomnes/choo-location-electron) - Fix `choo`'s router in electron.
+*   [choo-log (⭐46)](https://github.com/yoshuawuyts/choo-log) - Development logger for choo.
+*   [choo-test (⭐23)](https://github.com/mantoni/choo-test) - Easy choo app unit testing.
+*   [choo-persist (⭐44)](https://github.com/yoshuawuyts/choo-persist/) - Synchronize choo state with LocalStorage.
+*   [choo-promise (⭐4)](https://github.com/rahatarmanahmed/choo-promise) - Use promises in effects and subscriptions.
+*   [choo-pull (⭐15)](https://github.com/yoshuawuyts/choo-pull) - Wrap handlers to use pull-stream in a choo plugin.
+*   [choo-redirect (⭐19)](https://github.com/yoshuawuyts/choo-redirect) - Redirect a view to another view.
+*   [choo-model (⭐14)](https://github.com/yoshuawuyts/choo-model) - Experimental state management lib for choo.
+*   [choo-resume (⭐15)](https://github.com/bengourley/choo-resume) - choo-resume + hot-rld = hot app reload in choo.
+*   [choo-detached (⭐19)](https://github.com/graforlock/choo-detached) - Use `choo` as a mountable, simple stand-alone component (no routing).
+*   [choo-service-worker (⭐25)](https://github.com/choojs/choo-service-worker) - Service worker loader for `choo`.
+*   [choo-websocket (⭐28)](https://github.com/YerkoPalma/choo-websocket) - Small wraper around WebSocket browser API, for `choo` apps.
+*   [choo-store (⭐39)](https://github.com/ungoldman/choo-store) - Lightweight state structure for choo apps.
 
 ### Elements
 
-*   [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
-*   [choodown](https://github.com/trainyard/choodown) - A simple markdown component for choo.
-*   [choo-md-editor](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library.
-*   [choo-chartist](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework.
+*   [dom-notifications (⭐108)](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
+*   [choodown (⭐14)](https://github.com/trainyard/choodown) - A simple markdown component for choo.
+*   [choo-md-editor (⭐5)](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library.
+*   [choo-chartist (⭐8)](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework.
 
 ### CLI Templates
 
-Templates for [choo-cli](https://github.com/trainyard/choo-cli)
+Templates for [choo-cli (⭐65)](https://github.com/trainyard/choo-cli)
 
-*   [trainyard/template-basic](https://github.com/trainyard/template-basic)
-*   [haroenv/template-webpack](https://github.com/haroenv/template-webpack)
+*   [trainyard/template-basic (⭐2)](https://github.com/trainyard/template-basic)
+*   [haroenv/template-webpack (⭐7)](https://github.com/haroenv/template-webpack)
 *   [simonwjackson/atomic-choo](https://github.com/simonwjackson/atomic-choo) - An opinionated project seed to get started developing with electron, webpack and choo.
 
 Other CLI templates
 
-*   [graforlock/choo-bandwagon](https://github.com/graforlock/choo-bandwagon)
+*   [graforlock/choo-bandwagon (⭐13)](https://github.com/graforlock/choo-bandwagon)
 
 ### Resources
 
@@ -117,24 +117,24 @@ Other CLI templates
 
 ### Projects using choo
 
-*   [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor.
-*   [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
-*   [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo.
-*   [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review).
-*   [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
-*   [dataface](https://github.com/timwis/dataface) - Desktop application to manage databases.
-*   [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
-*   [hackernews-choo](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
-*   [tic-tac-choo](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
-*   [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
-*   [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
-*   [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
-*   [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech\_balloon:.
-*   [Robotopia](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
-*   [busca](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit.
-*   [choo-ban](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
-*   [boowa](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`.
-*   [hyperamp](https://github.com/hypermodules/hyperamp) - Humble music player.
+*   [boxcar (⭐10)](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor.
+*   [choo-sortable (⭐2)](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
+*   [hacker-choo (⭐10)](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo.
+*   [footprint-rechoo (⭐4)](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review (⭐6)](http://github.com/sjcgis/footprint-review).
+*   [minidocs (⭐136)](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
+*   [dataface (⭐43)](https://github.com/timwis/dataface) - Desktop application to manage databases.
+*   [BlankUp (⭐38)](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
+*   [hackernews-choo (⭐30)](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
+*   [tic-tac-choo (⭐6)](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
+*   [enviar (⭐34)](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
+*   [kaktus (⭐0)](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
+*   [civicdr.org (⭐3)](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
+*   [nekocafe (⭐16)](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech\_balloon:.
+*   [Robotopia (⭐502)](https://github.com/robotopia-x/robotopia) - Introducing kids to coding with tiny virtual robots!
+*   [busca (⭐10)](https://github.com/afk-mcz/busca) - A small web-extension to search the current tab on reddit.
+*   [choo-ban (⭐5)](https://github.com/luizbaldi/choo-ban) - Simple kanban to manage board tasks, built with `choo`.
+*   [boowa (⭐43)](https://github.com/boowajs/boowa) - A fun blog generator, built with `choo`.
+*   [hyperamp (⭐294)](https://github.com/hypermodules/hyperamp) - Humble music player.
 
 ### License
 

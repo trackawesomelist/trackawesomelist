@@ -37,14 +37,14 @@ Before we [dive in](#dive-into-machine-learning), here are some notable projects
 
 Hi there! You might find this resource helpful if:
 
-*   You know Python or [you're](https://github.com/alexmojaki/futurecoder) [learning](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) [it](https://github.com/vinta/awesome-python#resources) [:snake:](https://github.com/ossu/computer-science#introduction-to-programming)
+*   You know Python or [you're (⭐806)](https://github.com/alexmojaki/futurecoder) [learning](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) [it (⭐145k)](https://github.com/vinta/awesome-python#resources) [:snake: (⭐126k)](https://github.com/ossu/computer-science#introduction-to-programming)
 *   You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-*   You care about [the ethics of ML](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
+*   You care about [the ethics of ML (⭐880)](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
     *   **[8 Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
     *   [Open Ethics Canvas](https://openethics.ai/canvas/)
 *   You learn by doing
 
-For some great alternatives, [jump to the end](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
+For some great alternatives, [jump to the end (⭐11k)](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, Machine Learning for Software Engineers (⭐26k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
 
 Of course, there is no easy path to expertise. Also, *I'm not an expert!* I just want to connect you with some great resources *from* experts. Applications of ML are all around us. I think it's in the public interest for more people to learn more about ML, especially hands-on, because there are many different ways to learn.
 
@@ -76,8 +76,8 @@ Some options you can use from your browser:
 
 For other options, see:
 
-*   [markusschanta/awesome-jupyter, "Hosted Notebook Solutions"](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
-*   [ml-tooling/best-of-jupyter, "Notebook Environments"](https://github.com/ml-tooling/best-of-jupyter)
+*   [markusschanta/awesome-jupyter, "Hosted Notebook Solutions" (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
+*   [ml-tooling/best-of-jupyter, "Notebook Environments" (⭐538)](https://github.com/ml-tooling/best-of-jupyter)
 
 ## Let's go!
 
@@ -121,15 +121,15 @@ Next, code along with one or more of these notebooks.
 
 *   Series of notebooks:
     *   **2022:** [`rasbt/machine-learning-book`](https://github.com/rasbt/machine-learning-book) — notebooks from [*Machine Learning with PyTorch and Scikit-Learn* by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
-*   [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
+*   [Dr. Randal Olson's Example Machine Learning notebook (⭐5.4k)](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
     *   [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 *   Various topical notebooks:
-    *   [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments)
-    *   [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+    *   [trekhleb/machine-learning-experiments (⭐1.3k)](https://github.com/trekhleb/machine-learning-experiments)
+    *   [trekhleb/homemade-machine-learning (⭐20k)](https://github.com/trekhleb/homemade-machine-learning)
 
 Find more great Jupyter Notebooks when you're ready:
 
-*   **[Jupyter's official Gallery of Interesting Jupyter Notebooks: Statistics, Machine Learning and Data Science](https://github.com/jupyter/jupyter/wiki)** ([permalink](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks/ae03c01ed25024aa06a4479ea600895d59b38bc4))
+*   **[Jupyter's official Gallery of Interesting Jupyter Notebooks: Statistics, Machine Learning and Data Science (⭐14k)](https://github.com/jupyter/jupyter/wiki)** ([permalink (⭐14k)](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks/ae03c01ed25024aa06a4479ea600895d59b38bc4))
 
 ***
 
@@ -142,12 +142,12 @@ Pick one of the courses below and start on your way.
 **[Prof. Andrew Ng's](https://hai.stanford.edu/people/andrew-ng) [*Machine Learning*](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [And emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
 It's recommended to grab a textbook to use as an in-depth reference. The two I saw recommended most often were *[Understanding Machine Learning](https://web.archive.org/web/20210717194345/http://www.cs.huji.ac.il/\~shais/UnderstandingMachineLearning/copy.html)*
-and *[Elements of Statistical Learning](https://web.stanford.edu/\~hastie/Papers/ESLII.pdf)*. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29)
+and *[Elements of Statistical Learning](https://web.stanford.edu/\~hastie/Papers/ESLII.pdf)*. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you. (⭐11k)](https://github.com/hangtwenty/dive-into-machine-learning/issues/29)
 
 ### Public datasets and pet projects
 
 You might like to have a pet project to play with, on the side. When you are ready for that, you
-could explore one of these: [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets), [paperswithcode.com/datasets](https://paperswithcode.com/datasets), [datasetlist.com](https://www.datasetlist.com/), [`KKulma/climate-change-data`](https://github.com/KKulma/climate-change-data#open-data)
+could explore one of these: [Awesome Public Datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets), [paperswithcode.com/datasets](https://paperswithcode.com/datasets), [datasetlist.com](https://www.datasetlist.com/), [`KKulma/climate-change-data`](https://github.com/KKulma/climate-change-data#open-data)
 
 ### Tips for this course
 
@@ -183,12 +183,12 @@ I am not a machine learning expert. I'm just a software developer and these reso
 *   Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
 *   [Prof. Pedro Domingos's introductory video series](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr). [Prof. Pedro Domingos](https://homes.cs.washington.edu/\~pedrod/) wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/\~pedrod/papers/cacm12.pdf), which you may remember from earlier in the guide.
 *   [`ossu/data-science`](https://github.com/ossu/data-science) (see also [`ossu/computer-science`](https://github.com/ossu/computer-science))
-*   [Stanford CS229: Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
+*   [Stanford CS229: Machine Learning (⭐14k)](https://github.com/afshinea/stanford-cs-229-machine-learning)
 *   [Harvard CS109: Data Science](https://cs109.github.io/2015/)
 *   [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html). Interactive.
 *   Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place.
 *   [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) course and the textbook [Computational and Inferential Thinking](https://www.inferentialthinking.com/) teaches critical concepts in Data Science.
-*   Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) "Good for people with a strong mathematics background."
+*   Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror). (⭐440)](https://github.com/josephmisiti/machine-learning-module) "Good for people with a strong mathematics background."
 *   [An epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
 *   [`ujjwalkarn/Machine-Learning-Tutorials`](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 *   There are more alternatives linked [at the bottom of this guide](#more-ways-to-dive-into-machine-learning)
@@ -257,12 +257,12 @@ Here is the abstract of [Machine Learning: The High-Interest Credit Card of Tech
 
 If you're reading this guide, you should read that paper. You can also [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
 
-*   **[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning), "a curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning."** It includes a section about [privacy-preserving ML](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning), by the way!
+*   **[Awesome Production Machine Learning (⭐12k)](https://github.com/EthicalML/awesome-production-machine-learning), "a curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning."** It includes a section about [privacy-preserving ML (⭐12k)](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning), by the way!
 *   **["Rules of Machine Learning: Best Practices for \[Reliable\] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices.
 *   [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 *   [Overfitting vs. Underfitting: A Conceptual Explanation](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
 *   [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
-*   ["So, you want to build an ethical algorithm?" An interactive tool to prompt discussions](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
+*   ["So, you want to build an ethical algorithm?" An interactive tool to prompt discussions](https://cdt.info/ddtool/) [(source) (⭐58)](https://github.com/numfocus/algorithm-ethics)
 
 That's not a comprehensive list, of course! They are just some gateways and starting-points. *Know some other resources? Please share them, pull requests are welcome!*
 
@@ -300,11 +300,11 @@ If you are learning about MLOps but find it overwhelming, these resources might 
 
 Recommended awesomelists to save/star/watch:
 
-*   **[EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
-*   **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
-*   **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
-*   **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)**
-*   **[eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)**
+*   **[EthicalML/awesome-artificial-intelligence-guidelines (⭐880)](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
+*   **[EthicalML/awesome-production-machine-learning (⭐12k)](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
+*   **[visenger/awesome-ml-model-governance (⭐52)](https://github.com/visenger/Awesome-ML-Model-Governance)**
+*   **[visenger/awesome-MLOps (⭐8.7k)](https://github.com/visenger/awesome-mlops)**
+*   **[eugeneyan/applied-ml (⭐22k)](https://github.com/eugeneyan/applied-ml)**
 
 ### Easier sharing of deep learning models and demos
 
@@ -324,7 +324,7 @@ Take note: some experts warn us not to get too far ahead of ourselves, and encou
 
 When you're ready to dive into Deep Learning, here are some helpful resources.
 
-*   **[*Dive into Deep Learning*](https://d2l.ai/) - An interactive book about deep learning** ([view on GitHub](https://github.com/d2l-ai/d2l-en))
+*   **[*Dive into Deep Learning*](https://d2l.ai/) - An interactive book about deep learning** ([view on GitHub (⭐15k)](https://github.com/d2l-ai/d2l-en))
     *   Quickstart:
         *   [Run this book locally, using Jupyter Notebooks](https://d2l.ai/chapter_installation/index.html)
         *   [Run this book in your browser, using Google Colab](https://d2l.ai/chapter_appendix-tools-for-deep-learning/colab.html)
@@ -334,7 +334,7 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
 <details><summary>More deep learning links</summary>
 
 *   **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ\&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
-    *   Some course notes about it: [ashishpatel26/Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes)
+    *   Some course notes about it: [ashishpatel26/Andrew-NG-Notes (⭐1.4k)](https://github.com/ashishpatel26/Andrew-NG-Notes)
 *   **[*Deep Learning*](https://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville.
     *   A notable testimonial for it is here: ["What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
 *   [`fastai/fastbook`](https://github.com/fastai/fastbook) by Jeremy Howard and Sylvain Gugger — "an introduction to deep learning, fastai and PyTorch."
@@ -370,7 +370,7 @@ What are some ways one can practice?
 <details>
 <summary><strong>One way:</strong> competitions and challenges</summary>
 
-You need **practice.** [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. (You can find more competitions [here](https://github.com/paperswithcode/releasing-research-code#results-leaderboards) or [here](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c).)
+You need **practice.** [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. (You can find more competitions [here (⭐2.1k)](https://github.com/paperswithcode/releasing-research-code#results-leaderboards) or [here](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c).)
 
 You also need **understanding.** You should review what Kaggle competition winners say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 
@@ -383,13 +383,13 @@ Competitions and challenges are just one way to practice! [Machine Learning isn'
 
 Here's a complementary way to practice: **do practice studies.**
 
-1.  **Ask a question. Start exploring some data.** The ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek)). So start with a question. Then, find [real data](https://github.com/caesar0301/awesome-public-datasets). Analyze it. Then ...
+1.  **Ask a question. Start exploring some data.** The ["most important thing in data science is the question" (⭐3.9k)](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek)). So start with a question. Then, find [real data (⭐52k)](https://github.com/caesar0301/awesome-public-datasets). Analyze it. Then ...
 2.  **Communicate results.** When you think you have a novel finding, ask for review. When you're still learning, ask in informal communities (some are [linked below](#some-communities-to-know-about)).
 3.  **Learn from feedback.** Consider [learning in public](https://www.swyx.io/learn-in-public/), it works great for some folks. (Don't pressure yourself yet though! Everybody is different, and it's good to know your learning style.)
 
-How can you come up with interesting questions? Here's one way. Pick a day each week to [look for public datasets](https://github.com/caesar0301/awesome-public-datasets) and write down some questions that come to mind. Also, sign up for [Data is Plural](https://tinyletter.com/data-is-plural), a newsletter of interesting datasets. When a question inspires you, try exploring it with the skills you're learning.
+How can you come up with interesting questions? Here's one way. Pick a day each week to [look for public datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets) and write down some questions that come to mind. Also, sign up for [Data is Plural](https://tinyletter.com/data-is-plural), a newsletter of interesting datasets. When a question inspires you, try exploring it with the skills you're learning.
 
-This advice, to do practice studies and learn from review, is based on [a conversation](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) with [Dr. Randal S. Olson](http://www.randalolson.com/). Here's more advice from Olson, [quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
+This advice, to do practice studies and learn from review, is based on [a conversation (⭐11k)](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) with [Dr. Randal S. Olson](http://www.randalolson.com/). Here's more advice from Olson, [quoted with permission: (⭐11k)](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
 
 > I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
 
@@ -427,10 +427,10 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 <details>
 <summary>Here are some awesome resources for learning Bayesian methods.</summary>
 
-*   The **free book** *[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)*. Made with a "computation/understanding-first, mathematics-second point of view." Uses [PyMC](https://github.com/pymc-devs/pymc). It's available in print too!
-*   Like learning by playing? Me too. Try [19 Questions](https://github.com/fulldecent/19-questions), "a machine learning game which asks you questions and guesses an object you are thinking about," and **explains which Bayesian statistics techniques it's using!**
+*   The **free book** *[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)*. Made with a "computation/understanding-first, mathematics-second point of view." Uses [PyMC (⭐7.1k)](https://github.com/pymc-devs/pymc). It's available in print too!
+*   Like learning by playing? Me too. Try [19 Questions (⭐15)](https://github.com/fulldecent/19-questions), "a machine learning game which asks you questions and guesses an object you are thinking about," and **explains which Bayesian statistics techniques it's using!**
 *   [*Time Series Forecasting with Bayesian Modeling by Michael Grogan*](https://www.manning.com/liveprojectseries/time-series-forecasting-with-bayesian-modeling), a 5-project series - paid but the first project is free.
-*   [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python). Uses [PyMC](https://github.com/pymc-devs/pymc) as well.
+*   [Bayesian Modelling in Python (⭐2.4k)](https://github.com/markdregan/Bayesian-Modelling-in-Python). Uses [PyMC (⭐7.1k)](https://github.com/pymc-devs/pymc) as well.
 
 </details>
 
@@ -442,7 +442,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 Here are some other guides to learning Machine Learning.
 
-*   [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it. It can answer many questions and connect you with great resources.
+*   [Machine Learning for Software Engineers, by Nam Vu (⭐26k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it. It can answer many questions and connect you with great resources.
 *   [`ujjwalkarn/Machine-Learning-Tutorials`](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 *   [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 *   Courses by cloud vendors. These are usually high quality content but steer you heavily to use vendor-specific tools/services. To avoid getting locked into vendor specifics, you can make sure you're learning from other resources as well.

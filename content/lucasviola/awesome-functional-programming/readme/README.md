@@ -10,7 +10,7 @@
 
 ## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Based on the [Awesome](https://github.com/sindresorhus/awesome/) project
+Based on the [Awesome (⭐223k)](https://github.com/sindresorhus/awesome/) project
 
 ## What is this about?
 
@@ -21,7 +21,7 @@ and for the whole usage of [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_
 This repo gathers some material on Functional Programming such as blog posts, papers, videos,
 tools, etc. and also aims to clarify some of the theoretical subjects behind it.
 
-Want to contribute? Please refer to [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
+Want to contribute? Please refer to [this (⭐820)](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) first.
 
 ## Table of Contents
 
@@ -131,15 +131,15 @@ Want to contribute? Please refer to [this](https://github.com/lucasviola/awesome
 
 ### Repos
 
-*   [Idris Koans](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
-*   [Functional Javascript Workshop](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
-*   [J-Bob](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
-*   [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
+*   [Idris Koans (⭐169)](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+*   [Functional Javascript Workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
+*   [J-Bob (⭐398)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [Haskell Must Watch (⭐1.1k)](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 *   [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-*   [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
-*   [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
-*   [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
-*   [Parsing With Haskell Parser Combinators](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
+*   [Functional Programming In JavaScript (⭐304)](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+*   [Functional Programming Jargon (⭐18k)](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
+*   [Bow (⭐608)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+*   [Parsing With Haskell Parser Combinators (⭐86)](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
 
 ### People
 

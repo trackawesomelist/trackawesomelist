@@ -20,7 +20,7 @@ Curated list of information retrieval and web search resources from all around t
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or \[email] (mailto:[harshal.priyadarshi@utexas.edu](https://github.com/harpribot/awesome-information-retrieval/blob/master/README.md/mailto:harshal.priyadarshi@utexas.edu)) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/README.md/contributing.md).
+Please feel free to send me [pull requests (⭐852)](https://github.com/harpribot/awesome-information-retrieval/pulls) or \[email] (mailto:[harshal.priyadarshi@utexas.edu](https://github.com/harpribot/awesome-information-retrieval/blob/master/README.md/mailto:harshal.priyadarshi@utexas.edu)) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/README.md/contributing.md).
 
 ## Contents
 

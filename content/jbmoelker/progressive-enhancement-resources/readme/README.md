@@ -70,7 +70,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 *   [HTML5 Test](http://html5test.com/) - Test and compare HTML5 feature support across browsers.
 *   [CSS3 Test](http://css3test.com/) - Fine-grained tests for CSS3 feature support of your current browser.
 *   [Accessibility Support](https://a11ysupport.io/) - Compare accessibility support of HTML elements and ARIA roles across browsers & assistive technologies.
-*   [State of Web Type](https://github.com/bramstein/stateofwebtype) - Support tables for type and typographic features on the web.
+*   [State of Web Type (⭐67)](https://github.com/bramstein/stateofwebtype) - Support tables for type and typographic features on the web.
 *   [Font Family Reunion](http://fontfamily.io/) - Compatibility tables for default local (system) fonts.
 *   [HTML5 Accessibility](http://html5accessibility.com/) - Compare feature support of HTML5 tags, input types and properties across major browsers.
 *   [WAI-ARIA Screen reader compatibility](https://www.powermapper.com/tests/screen-readers/aria/) - ARIA roles and attributes support for different screen reader and browser combinations.
@@ -90,8 +90,8 @@ Different environments (platforms, browsers, versions) have different capabiliti
 *   [Firefox Platform Status](https://platform-status.mozilla.org/)
 *   [Webkit Platform Status](https://webkit.org/status/) (Safari)
 *   [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) - MDN's web technology documentation has a browser compatibility table end the end of each article.
-*   [MDN Browser Compat Data](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
-*   [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
+*   [MDN Browser Compat Data (⭐4.3k)](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
+*   [Device Bugs & Quirks (⭐856)](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
 *   [Can I Email?](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. Inspired by [Can I use](http://caniuse.com/).
 *   [Project Fugu API tracker](https://fugu-tracker.web.app/) - Browser support status overview of web API's filling the "app gap".
 
@@ -106,9 +106,9 @@ With progressive enhancement you support different experiences in different envi
 *   [Browserling](https://www.browserling.com/) - Lets you manually test web pages in different versions of browsers on Windows and Android platforms.
 *   [Run Internet Explorer using Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/) - To test IE browsers on other platforms.
 *   [Device emulators and simulators](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/testing-other-browsers?hl=en#device-emulators-and-simulators)
-*   [Configure *Desired Capabilities* in Selenium](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) - Run automated browser tests in different scenarios.
+*   [Configure *Desired Capabilities* in Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) - Run automated browser tests in different scenarios.
 *   Continuously run automated tests in different browsers using [BrowserStack](https://www.browserstack.com/), [Saucelabs](https://saucelabs.com/) or other alternatives.
-*   [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Audit and meassure performance of Progressive Web Apps (via cli or [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
+*   [Lighthouse (⭐25k)](https://github.com/GoogleChrome/lighthouse) - Audit and meassure performance of Progressive Web Apps (via cli or [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
 *   [Progressive Enhancement checklist (1st edition, HTML)](http://adaptivewebdesign.info/1st-edition/read/chapter-6.html#the-progressive-enhancement-checklist), [Checklist of 2nd edition (PDF)](http://adaptivewebdesign.info/2nd-edition/checklist.pdf) - Actionable list to check you've applied Progressive Enhancement best practices. Part of [Adaptive Web Design book](http://adaptivewebdesign.info/).
 *   [CSS Feature Toggles](https://chrome.google.com/webstore/detail/css-feature-toggles/aeinmfddnniiloadoappmdnffcbffnjg) - Chrome DevTools extension to toggle support of selected CSS features for testing progressive enhancement fallbacks.
 
@@ -120,9 +120,9 @@ With progressive enhancement you support different experiences in different envi
 *   [Checkboxes & radio buttons](https://www.filamentgroup.com/dwpe/checkbox-radiobutton/) - With custom focus, hover and checked state. Enhanced asynchronously.
 *   [Toggle switch](https://ghinda.net/css-toggle-switch/) - Checkbox or radios, visually enhanced to sliding toggle switches using CSS only.
 *   [5-star rating](http://lea.verou.me/2011/08/accessible-star-rating-widget-with-pure-css/) - Based on HTML radio buttons, visually enhanced using CSS pseudo classes and elements.
-*   [jQuery slider](https://github.com/filamentgroup/jQuery-Slider) - Accessible, custom slider widget based on a standard HTML select.
+*   [jQuery slider (⭐34)](https://github.com/filamentgroup/jQuery-Slider) - Accessible, custom slider widget based on a standard HTML select.
 *   [jQuery custom file input](https://www.filamentgroup.com/lab/jquery-custom-file-input-book-designing-with-progressive-enhancement.html) - Article and library.
-*   [React isomorphic form](https://github.com/ghengeveld/react-isomorphic-form/) - Set of React form components which can be pre-rendered & handled server-side. They are enhanced client-side without losing state.
+*   [React isomorphic form (⭐30)](https://github.com/ghengeveld/react-isomorphic-form/) - Set of React form components which can be pre-rendered & handled server-side. They are enhanced client-side without losing state.
 
 ### Data Visualisations
 
@@ -132,7 +132,7 @@ With progressive enhancement you support different experiences in different envi
 ### Images
 
 *   [Responsive Carousel](http://filamentgroup.github.io/responsive-carousel/test/functional/fade-auto.html) - List of images enhanced into responsive carousel with various behaviour options.
-*   [Lazy Progressive Enhancement](https://github.com/tvler/lazy-progressive-enhancement) - Lazy load images inside `<noscript>` tags. (note: Evergreen browsers only)
+*   [Lazy Progressive Enhancement (⭐189)](https://github.com/tvler/lazy-progressive-enhancement) - Lazy load images inside `<noscript>` tags. (note: Evergreen browsers only)
 
 ### Menus
 
@@ -143,10 +143,10 @@ With progressive enhancement you support different experiences in different envi
 Asynchronously fetch and transition between static pages using ajax and `history.pushState`:
 
 *   [Barba.js](http://barbajs.org/) - Add page transitions with event hooks, cache and prefetch support.
-*   [SmoothState.js](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
-*   [jquery-pjax](https://github.com/defunkt/jquery-pjax) - Add page transitions with support for multiple containers / content slots (requires jQuery).
-*   [MoOx/pjax](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
-*   [Turbolinks](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.
+*   [SmoothState.js (⭐4.5k)](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
+*   [jquery-pjax (⭐17k)](https://github.com/defunkt/jquery-pjax) - Add page transitions with support for multiple containers / content slots (requires jQuery).
+*   [MoOx/pjax (⭐1.3k)](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
+*   [Turbolinks (⭐13k)](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.
 
 ## Related Articles
 

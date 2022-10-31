@@ -71,7 +71,7 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/ambster-public/awesome-qlik/blob/master/contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines (⭐29)](https://github.com/ambster-public/awesome-qlik/blob/master/contributing.md) first.
 
 ## License
 

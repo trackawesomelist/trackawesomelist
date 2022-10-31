@@ -14,7 +14,7 @@ An algorithm is a list of rules to follow in order to solve a problem.
 
 Algorithms need to have their steps in the right order. Think about an algorithm for getting dressed in the morning. What if you put on your coat before your jumper? Your jumper would be on top of your coat and that would be silly! When you write an algorithm the order of the instructions is very important.
 
-If you want to contribute, please read the [contribution guidelines](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md).
+If you want to contribute, please read the [contribution guidelines (⭐436)](https://github.com/gaerae/awesome-algorithms/blob/master/contributing.md).
 
 Language: **[😎 English](https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-en.md/readme-en.md)** • [한국어 (Korean)](https://github.com/gaerae/awesome-algorithms-education/blob/master/readme-en.md/readme-ko.md)
 
@@ -109,7 +109,7 @@ Language: **[😎 English](https://github.com/gaerae/awesome-algorithms-educatio
 *   [Path Finding](https://qiao.github.io/PathFinding.js/visual/)
 *   [Algorithm Wiki by Will Thimbleby](http://will.thimbleby.net/algorithms)
 *   [TensorFlow Playground](http://playground.tensorflow.org)
-*   [Tangle](https://github.com/enjalot/algovis) - JavaScript Programming Language.
+*   [Tangle (⭐1.5k)](https://github.com/enjalot/algovis) - JavaScript Programming Language.
 *   [Vamonos](http://rosulek.github.io/vamonos) - JavaScript Programming Language.
 *   [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting) - C ++ Programming Language.
 *   [GeneaQuilts](http://www.aviz.fr/geneaquilts) - Java Programming Language.
@@ -118,9 +118,9 @@ Language: **[😎 English](https://github.com/gaerae/awesome-algorithms-educatio
 
 *   [Interview Cake](https://www.interviewcake.com)
 *   [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview)
-*   [Software Engineering technical interviews](https://github.com/kdn251/interviews)
-*   [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-*   [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges)
+*   [Software Engineering technical interviews (⭐58k)](https://github.com/kdn251/interviews)
+*   [Tech Interview Handbook (⭐80k)](https://github.com/yangshun/tech-interview-handbook)
+*   [Interactive Python coding interview challenges (⭐26k)](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Videos
 
@@ -135,11 +135,11 @@ Language: **[😎 English](https://github.com/gaerae/awesome-algorithms-educatio
 
 ## Books
 
-*   [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
+*   [Elementary Algorithms (⭐5.4k)](https://github.com/liuxinyu95/AlgoXY)
 *   [Data Structures and Algorithms](https://people.mpi-inf.mpg.de/\~mehlhorn/Toolbox.html)
 *   [Korea Olympiad in Informatics](http://www.digitalculture.or.kr/koi/StudyBook.do)
 *   [Thinking critically about and researching algorithms](http://futuredata.stanford.edu/classes/cs345s/handouts/kitchin.pdf)
-*   [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com) - [GitHub](https://github.com/careercup/CtCI-6th-Edition), [Quora](https://www.quora.com/profile/Gayle-Laakmann-McDowell).
+*   [CRACKING the CODING INTERVIEW](http://www.crackingthecodinginterview.com) - [GitHub (⭐10k)](https://github.com/careercup/CtCI-6th-Edition), [Quora](https://www.quora.com/profile/Gayle-Laakmann-McDowell).
 *   [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html)
 *   [Algorithms](http://algs4.cs.princeton.edu/home/)
 *   [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms)
@@ -162,15 +162,15 @@ Language: **[😎 English](https://github.com/gaerae/awesome-algorithms-educatio
 
 ## Miscellaneous
 
-*   [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
+*   [Competitive Programming (⭐10k)](https://github.com/lnishan/awesome-competitive-programming#readme)
 *   [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists)
 *   [OEDb(Open Education Databases): Algorithm](http://oedb.org/open/search-results/?search-term=algorithm)
-*   [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-*   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Data Science (⭐20k)](https://github.com/bulutyazilim/awesome-datascience)
+*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 *   [Code.org](https://code.org) - Anybody can learn.
 *   [CheckiO](https://checkio.org) - Online game for Python and JavaScript coders.
-*   [HUST Online Judge System](https://github.com/freefcw/hustoj-neo) - Online Judge is a web application.
+*   [HUST Online Judge System (⭐59)](https://github.com/freefcw/hustoj-neo) - Online Judge is a web application.
 *   [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
 
 ## License

@@ -20,7 +20,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 ## usage stats
 
-*   **[npm packages that use standard (full list)](https://github.com/feross/standard-packages/blob/master/all.json)** - List of packages that use `standard`
+*   **[npm packages that use standard (full list) (⭐33)](https://github.com/feross/standard-packages/blob/master/all.json)** - List of packages that use `standard`
 *   **[download graphs of standard (npm-stat.com)](http://npm-stat.com/charts.html?package=standard\&author=\&from=\&to=)** - npm registry download count
 *   **[top npm packages (gist)](https://gist.github.com/feross/e0882df2fe673d6ce064)** - standard is one of the top packages on npm
 
@@ -35,25 +35,25 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 ## automatic code formatters
 
 *   `standard --fix` - automatic formatting is built-in to `standard`!
-*   **[prettier-standard](https://www.npmjs.com/package/prettier-standard)** - format with [prettier](https://github.com/prettier/prettier) configured to standard rules
+*   **[prettier-standard](https://www.npmjs.com/package/prettier-standard)** - format with [prettier (⭐44k)](https://github.com/prettier/prettier) configured to standard rules
 *   **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
 
 ## editor plugins
 
-*   Every major text editor has a plugin or built-in support for `standard`. See the [full list](https://github.com/standard/standard#are-there-text-editor-plugins) of supported editors.
+*   Every major text editor has a plugin or built-in support for `standard`. See the [full list (⭐28k)](https://github.com/standard/standard#are-there-text-editor-plugins) of supported editors.
 *   Atom: **[linter-js-standard](https://atom.io/packages/linter-js-standard)** - linter
 *   Atom: **[linter-js-standard-engine](https://atom.io/packages/linter-js-standard-engine)** - linter
 *   Atom: **[standard-formatter](https://atom.io/packages/standard-formatter)** - auto-fixer
 *   Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)** - code snippets
-*   Brackets: **[brackets-standard](https://github.com/ishamf/brackets-standard/)** - linter
-*   Emacs: see [readme](https://github.com/standard/standard#emacs)
+*   Brackets: **[brackets-standard (⭐11)](https://github.com/ishamf/brackets-standard/)** - linter
+*   Emacs: see [readme (⭐28k)](https://github.com/standard/standard#emacs)
 *   Sublime Text: **[SublimeLinter-contrib-standard](https://packagecontrol.io/packages/SublimeLinter-contrib-standard)** - linter
 *   Sublime Text: **[StandardFormat](https://packagecontrol.io/packages/StandardFormat)** - auto-fixer
 *   Visual Studio Code: **[vscode-standard](https://marketplace.visualstudio.com/items?itemName=standard.vscode-standard)** - linter & auto-fixer
-*   Vim: see [readme](https://github.com/standard/standard#vim)
+*   Vim: see [readme (⭐28k)](https://github.com/standard/standard#vim)
 *   Visual Studio Code: **[vscode-standardjs-snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)** - code snippets
 *   Visual Studio Code: **[vscode-react-standard](https://marketplace.visualstudio.com/items?itemName=TimonVS.ReactSnippetsStandard)** - code snippets
-*   WebStorm (PhpStorm, IntelliJ, RubyMine, JetBrains, etc.): built-in support. see [readme](https://github.com/standard/standard#webstorm-phpstorm-intellij-rubymine-jetbrains-etc)
+*   WebStorm (PhpStorm, IntelliJ, RubyMine, JetBrains, etc.): built-in support. see [readme (⭐28k)](https://github.com/standard/standard#webstorm-phpstorm-intellij-rubymine-jetbrains-etc)
 
 ## pretty terminal output (reporters)
 
@@ -83,13 +83,13 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 *   **[standard-markdown](https://www.npmjs.com/package/standard-markdown)** - Lint all the javascript code blocks in your markdown files
 *   **[stylelint-config-standard](https://www.npmjs.com/package/stylelint-config-standard)** - The standard shareable config for stylelint.
 *   **[standard-sass](https://www.npmjs.com/package/standard-sass)** - Sass & Scss & Css Standard Style. One Style to Rule Them All!
-*   **[wemake-frontend-styleguide](https://github.com/wemake-services/wemake-frontend-styleguide)** - JavaScript & TypeScript & Vue & JsDoc & Scss style guides based on standard tools. Very strict!
+*   **[wemake-frontend-styleguide (⭐66)](https://github.com/wemake-services/wemake-frontend-styleguide)** - JavaScript & TypeScript & Vue & JsDoc & Scss style guides based on standard tools. Very strict!
 
 ## forks
 
 *   **[semistandard](https://www.npmjs.com/package/semistandard)** - standard, with semicolons
 *   **[uber-standard](https://www.npmjs.com/package/uber-standard)** - fork by the [Uber](https://www.uber.com/) team
-*   **[videojs-standard](https://www.npmjs.com/package/videojs-standard)** - fork by the [video.js](https://github.com/videojs/video.js) team
+*   **[videojs-standard](https://www.npmjs.com/package/videojs-standard)** - fork by the [video.js (⭐34k)](https://github.com/videojs/video.js) team
 *   **[yodlr-standard](https://www.npmjs.com/package/yodlr-standard)** - fork by the [yodlr](https://getyodlr.com/home) team
 *   **[happiness](https://www.npmjs.com/package/happiness)** - standard customized to make @JedWatson happy
 *   **[doublestandard](https://www.npmjs.com/package/doublestandard)** - standard, with even more semicolons

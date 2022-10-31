@@ -10,7 +10,7 @@ Curated decibans of Julia programming language.
 
 # Julia.jl
 
-[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans<sup>[?](https://github.com/svaksha/Julia.jl/issues/150#issuecomment-483116981)</sup> of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
+[Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans<sup>[? (⭐1.3k)](https://github.com/svaksha/Julia.jl/issues/150#issuecomment-483116981)</sup> of knowledge resources for programming in [Julia](https://github.com/JuliaLang), an all-purpose programming language that addresses the needs of high-performance numerical analysis and computational science.
 
 *   [§1. INDEX](#1-INDEX)
 *   [§2. LICENSE](#2-LICENSE)
@@ -26,32 +26,32 @@ Curated decibans of Julia programming language.
 
 # §1. INDEX <span id="1-INDEX"><span>
 
-*   [AI](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, HMM, ML, NLP, ...
-*   [Actuarial Science](https://github.com/svaksha/Julia.jl/blob/master/ActuarialScience.md) :: Software related to the subcategories of econometrics, finance, etc.
-*   [API](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: Language API's - C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
-*   [Biology](https://github.com/svaksha/Julia.jl/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
-*   [Desktop Applications](https://github.com/svaksha/Julia.jl/blob/master/DesktopApplications.md) :: Front-end client application software, viz. Debuggers, Documentation generators, Desktop User Interface for word processors, GUI spreadsheets, etc..
-*   [DevOps](https://github.com/svaksha/Julia.jl/blob/master/DevOps.md) :: DevOps tools for infrastructure management, continuous integration (CI), continuous delivery (CD), package management, release engineering (RE), release management (RM), software configuration management (SCM), Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools, et al..
-*   [Chemistry](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
-*   [Database](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
-*   [Data Science](https://github.com/svaksha/Julia.jl/blob/master/DataScience.md) :: OpenData + OpenScience, Free Data Sets, Reproducible research, RDM, Clinical Research Data, Metadata, Library data, Computational reproducibility, etc.
-*   [Earth Science](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: Software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
-*   [FileIO](https://github.com/svaksha/Julia.jl/blob/master/FileIO.md) :: File IO (Input/Output) functionality and support for various data types and file formats.
-*   [Graphics](https://github.com/svaksha/Julia.jl/blob/master/Graphics.md) :: Plotting, Graphics and other Visualization tools.
-*   [i18n-L10n](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
-*   [Machines](https://github.com/svaksha/Julia.jl/blob/master/Machines.md) :: Software for cross-platform hardware, Robotics, and other API libraries for machine-related software.
-*   [Mathematics](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md) :: Algebra, Geometry,... anything Math related.
-*   [Optimization](https://github.com/svaksha/Julia.jl/blob/master/Optimization.md) :: Mathematical optimization.
-*   [Physics](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
-*   [Programming Paradigms](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, etc..
-*   [Publications](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).
-*   [QA](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Quality Assurance in Julia.
-*   [Resources](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) :: List of community resources, development links, including events, (un)conferences, forums/ meetup groups, NEWS, blogs, cookbooks, cheatsheets, IJulia NoteBooks, and other useful resources.
-*   [Server](https://github.com/svaksha/Julia.jl/blob/master/Server.md) :: HTTP/Web, Networking, and other server-side utils...
-*   [Space Science](https://github.com/svaksha/Julia.jl/blob/master/Space-Science.md) :: Astronomy, Imaging, Planetary and [space science](https://en.wikipedia.org/wiki/Outline_of_space_science) related packages.
-*   [Probability & Statistics](https://github.com/svaksha/Julia.jl/blob/master/Probability-Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics, Operations research and Benchmarks and Optimization toolkits....
-*   [Super Computing](https://github.com/svaksha/Julia.jl/blob/master/Super-Computing.md) :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Kernels and architectures like ARM, MIPS, GPU, CUDA, etc...
-*   [Utilities](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
+*   [AI (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, HMM, ML, NLP, ...
+*   [Actuarial Science (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/ActuarialScience.md) :: Software related to the subcategories of econometrics, finance, etc.
+*   [API (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/API.md) :: Language API's - C++, Fortran, Go, Java, JavaScript, MATLAB, Perl, Python, R, ...
+*   [Biology (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Biology.md) :: Bioinformatics, genomics, agriculture, food science, medicine, genetic engineering, Neuroscience, et. al...
+*   [Desktop Applications (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/DesktopApplications.md) :: Front-end client application software, viz. Debuggers, Documentation generators, Desktop User Interface for word processors, GUI spreadsheets, etc..
+*   [DevOps (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/DevOps.md) :: DevOps tools for infrastructure management, continuous integration (CI), continuous delivery (CD), package management, release engineering (RE), release management (RM), software configuration management (SCM), Test Driven Development, Sandbox, Functional/ Unit testing,... Quality-related tools, et al..
+*   [Chemistry (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) :: Analytical chemistry, cheminformatics, crystallography, nanochemistry, nuclear chemistry ...
+*   [Database (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL, RDBMS and Middleware API's.
+*   [Data Science (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/DataScience.md) :: OpenData + OpenScience, Free Data Sets, Reproducible research, RDM, Clinical Research Data, Metadata, Library data, Computational reproducibility, etc.
+*   [Earth Science (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: Software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
+*   [FileIO (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/FileIO.md) :: File IO (Input/Output) functionality and support for various data types and file formats.
+*   [Graphics (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Graphics.md) :: Plotting, Graphics and other Visualization tools.
+*   [i18n-L10n (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) :: Transliteration, Internationalisation (i18n) and Localisation (L10n)
+*   [Machines (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Machines.md) :: Software for cross-platform hardware, Robotics, and other API libraries for machine-related software.
+*   [Mathematics (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md) :: Algebra, Geometry,... anything Math related.
+*   [Optimization (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Optimization.md) :: Mathematical optimization.
+*   [Physics (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) :: Julia software related to Physics.
+*   [Programming Paradigms (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) :: Programming Paradigms and language concepts that are used in the type system, data types, etc..
+*   [Publications (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) :: Research Papers (journal and conference publications).
+*   [QA (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/QA.md) :: Quality Assurance in Julia.
+*   [Resources (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) :: List of community resources, development links, including events, (un)conferences, forums/ meetup groups, NEWS, blogs, cookbooks, cheatsheets, IJulia NoteBooks, and other useful resources.
+*   [Server (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Server.md) :: HTTP/Web, Networking, and other server-side utils...
+*   [Space Science (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Space-Science.md) :: Astronomy, Imaging, Planetary and [space science](https://en.wikipedia.org/wiki/Outline_of_space_science) related packages.
+*   [Probability & Statistics (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Probability-Statistics.md) :: Actuarial Science, Finance, economics, stochastic, insurance Statistics, Operations research and Benchmarks and Optimization toolkits....
+*   [Super Computing (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Super-Computing.md) :: HPC, Distributed Computing, Cloud computing, Cluster computing, Grid computing, Kernels and architectures like ARM, MIPS, GPU, CUDA, etc...
+*   [Utilities (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Utilities.md) :: Handy toolkits and other general utilities for your Desktop.
 
 **DISCLAIMER :** As a new language in the scientific computing scene it is frequently in a state of flux due to the addition of new libraries, resulting in frequent changes and page reordering. Since the **Julia.jl** repo only provides a list (of links) of Julia packages out in the wild, it should not be considered an endorsement of any particular package for software quality, technical features, coding style/organization, etc...
 
@@ -66,10 +66,10 @@ Curated decibans of Julia programming language.
 This repo uses multiple licenses for data and code, viz. [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
 
 *   The **data** (aggregated and curated decibans of knowledge resources for Julia language) in this repository (`Julia.jl`) is released under the [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/) (ODbL-v1.0). The Open Database License (ODbL) grants anyone the freedom to share, create and adapt the data or database with proper **credit attribution** as specified in the license and **offer any new work under the same terms**, and **release a public copy if using the new work for commercial purposes**.
-*   The **software** used in `Julia.jl` is released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html), and above, as detailed in the [LICENSE-AGPLv3.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) file.
+*   The **software** used in `Julia.jl` is released under the [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html), and above, as detailed in the [LICENSE-AGPLv3.md (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) file.
 *   ALL copies and forks of this work must retain the Copyright, respective Licence files for program code (AGPLv3) and data (ODbL) along with this permission notice in all copies or substantial portions of the new work.
 
-The motivation for this change is to make it easier for people to re-use this data as a knowledge resource within a database. For example, [julia-observer](https://juliaobserver.com) is a visual tool for browsing through packages that pulls data from `Julia.jl`, `General` and various sources. By releasing the website code [publicly](https://github.com/djsegal/julia_observer) are an example on how one can build upon or transform the data to benefit the community.
+The motivation for this change is to make it easier for people to re-use this data as a knowledge resource within a database. For example, [julia-observer](https://juliaobserver.com) is a visual tool for browsing through packages that pulls data from `Julia.jl`, `General` and various sources. By releasing the website code [publicly (⭐15)](https://github.com/djsegal/julia_observer) are an example on how one can build upon or transform the data to benefit the community.
 
 ## §2.2. Mirrors <span id="2-2-Mirrors"><span>
 
@@ -80,27 +80,27 @@ The motivation for this change is to make it easier for people to re-use this da
 
 # CONTRIBUTE
 
-[Contributions](https://github.com/svaksha/Julia.jl/graphs/contributors) to `Julia.jl` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR](https://github.com/svaksha/Julia.jl/pulls):
+[Contributions (⭐1.3k)](https://github.com/svaksha/Julia.jl/graphs/contributors) to `Julia.jl` are welcome in the form of pull requests (PR). Here are some guidelines and tips on how to submit a Bug Report (BR) and/or [PR (⭐1.3k)](https://github.com/svaksha/Julia.jl/pulls):
 
 ## Guidelines
 
 1.  The Julia community has [ethical guidelines](http://julialang.org/community/standards/) aimed at respecting Copyright, Licenses and attribution standards<sup>{1} and {2}</sup> which you are requested to follow while submitting materials to be listed. Additionally, if you find any material (or code repos) that violates these ethical standards, please file a bug report for their removal from `Julia.jl`.
     *   References :
-        *   {1} <https://github.com/JuliaLang/julialang.github.com/issues/200>
-        *   {2} <https://github.com/JuliaLang/julialang.github.com/issues/194>
+        *   {1} [https://github.com/JuliaLang/julialang.github.com/issues/200 (⭐148)](https://github.com/JuliaLang/julialang.github.com/issues/200)
+        *   {2} [https://github.com/JuliaLang/julialang.github.com/issues/194 (⭐148)](https://github.com/JuliaLang/julialang.github.com/issues/194)
 2.  **Commercial Links**: Almost all the resources in this repo are Free/Libre software resources, so in the interest of continuing to maintain the "Libre" software spirit, please only submit those resources that are free and without paid/commercial interests.
 
 ## BugReport-PullRequest
 
 1.  Add your link as per the top-level Category page within the topic sub-section(s), in *alphabetical order*, with notes (if any) in the markdown files. Before creating a new top-level tag within the various categories, please check wikipedia or other resources first. If you are unable to decide, discuss it via a BR (not a PR ;-)).
-2.  In a CLI, type `julia Julia.jl` which will run the [scraper](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl). Commit the `db.csv` file too.
+2.  In a CLI, type `julia Julia.jl` which will run the [scraper (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/src/scrape.jl). Commit the `db.csv` file too.
 3.  For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
-4.  For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
+4.  For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md (⭐1.3k)](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
 5.  For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 
 ## Package Status
 
-Please note that this repo lists packages that are outdated and/or worked on older versions of Julia. These continue to remain listed as its openly available along with the hope that someone may want to continue with the work as a fork as it aligns with their research or work. These [comments](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a [BR discussing](https://github.com/svaksha/Julia.jl/issues/55) the addition of metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not.
+Please note that this repo lists packages that are outdated and/or worked on older versions of Julia. These continue to remain listed as its openly available along with the hope that someone may want to continue with the work as a fork as it aligns with their research or work. These [comments (⭐1.3k)](https://github.com/svaksha/Julia.jl/commit/a884fe9e921d57b87d85e970c2f57b8f21025641#commitcomment-15802037) led to a [BR discussing (⭐1.3k)](https://github.com/svaksha/Julia.jl/issues/55) the addition of metadata tags that will enable programmers and package users to easily distinguish the status of various Julia packages that are under various stages of development. Currently, METADATA has a tag system but not all package authors use it, making it harder for lay users to know if the package maintenance is active or not.
 
 Lets experiment with asking package authors and core-commiters to tag their Julia packages on the following criteria :
 

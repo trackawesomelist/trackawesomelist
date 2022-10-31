@@ -10,13 +10,13 @@ A curated list of awesome computer vision resources
 
 # Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome computer vision resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A curated list of awesome computer vision resources, inspired by [awesome-php (⭐28k)](https://github.com/ziadoz/awesome-php).
 
-For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
+For a list people in computer vision listed with their academic genealogy, please visit [here (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email ([jbhuang@vt.edu](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/README.md/mailto:jbhuang@vt.edu)) to add links.
+Please feel free to send me [pull requests (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email ([jbhuang@vt.edu](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/README.md/mailto:jbhuang@vt.edu)) to add links.
 
 ## Table of Contents
 
@@ -35,60 +35,60 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 ## Awesome Lists
 
-*   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-*   [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-*   [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
-*   [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
-*   [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
-*   [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
-*   [Awesome Scene Understanding](https://github.com/bertjiazheng/awesome-scene-understanding)
-*   [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
-*   [Awesome Adversarial Deep Learning](https://github.com/chbrian/awesome-adversarial-examples-dl)
-*   [Awesome Face](https://github.com/polarisZhao/awesome-face)
-*   [Awesome Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
-*   [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
-*   [Awesome medical imaging](https://github.com/fepegar/awesome-medical-imaging)
-*   [Awesome Images](https://github.com/heyalexej/awesome-images)
-*   [Awesome Graphics](https://github.com/ericjang/awesome-graphics)
-*   [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)
-*   [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations)
-*   [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
-*   [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Dataset Tools](https://github.com/jsbroks/awesome-dataset-tools)
-*   [Awesome Robotics Datasets](https://github.com/sunglok/awesome-robotics-datasets)
+*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision)
+*   [Awesome Domain Adaptation (⭐4k)](https://github.com/zhaoxin94/awesome-domain-adaptation)
+*   [Awesome Object Detection (⭐7k)](https://github.com/amusi/awesome-object-detection)
+*   [Awesome 3D Machine Learning (⭐8.4k)](https://github.com/timzhang642/3D-Machine-Learning)
+*   [Awesome Action Recognition (⭐3.4k)](https://github.com/jinwchoi/awesome-action-recognition)
+*   [Awesome Scene Understanding (⭐485)](https://github.com/bertjiazheng/awesome-scene-understanding)
+*   [Awesome Adversarial Machine Learning (⭐1.6k)](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+*   [Awesome Adversarial Deep Learning (⭐235)](https://github.com/chbrian/awesome-adversarial-examples-dl)
+*   [Awesome Face (⭐828)](https://github.com/polarisZhao/awesome-face)
+*   [Awesome Face Recognition (⭐3.7k)](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+*   [Awesome Human Pose Estimation (⭐1.1k)](https://github.com/wangzheallen/awesome-human-pose-estimation)
+*   [Awesome medical imaging (⭐161)](https://github.com/fepegar/awesome-medical-imaging)
+*   [Awesome Images (⭐2.3k)](https://github.com/heyalexej/awesome-images)
+*   [Awesome Graphics (⭐930)](https://github.com/ericjang/awesome-graphics)
+*   [Awesome Neural Radiance Fields (⭐3.5k)](https://github.com/yenchenlin/awesome-NeRF)
+*   [Awesome Implicit Neural Representations (⭐1.9k)](https://github.com/vsitzmann/awesome-implicit-representations)
+*   [Awesome Neural Rendering (⭐1.7k)](https://github.com/weihaox/awesome-neural-rendering)
+*   [Awesome Public Datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [Awesome Dataset Tools (⭐649)](https://github.com/jsbroks/awesome-dataset-tools)
+*   [Awesome Robotics Datasets (⭐222)](https://github.com/sunglok/awesome-robotics-datasets)
 *   [Awesome Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
-*   [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
-*   [Awesome Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
-*   [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
-*   [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
-*   [Awesome Video Text Retrieval](https://github.com/danieljf24/awesome-video-text-retrieval)
-*   [Awesome Image-to-Image Translation](https://github.com/weihaox/awesome-image-translation)
-*   [Awesome Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
-*   [Awesome Deep HDR](https://github.com/vinthony/awesome-deep-hdr)
-*   [Awesome Video Generation](https://github.com/matthewvowels1/Awesome-Video-Generation)
-*   [Awesome GAN applications](https://github.com/nashory/gans-awesome-applications)
-*   [Awesome Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)
-*   [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
-*   [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-*   [Awesome Machine Learning in Biomedical(Healthcare) Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
-*   [Awesome Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
-*   [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
-*   [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
-*   [Awesome Vision + Language](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
-*   [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
-*   [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
-*   [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
-*   [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
-*   [Awesome Makeup Transfer](https://github.com/thaoshibe/awesome-makeup-transfer)
-*   [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
-*   [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
-*   [Awsome Deep Geometry Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
-*   [Awesome Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
-*   [Awesome Neuron Segmentation in EM Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
-*   [Awsome Delineation](https://github.com/subeeshvasu/Awsome_Delineation)
-*   [Awesome ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
-*   [Awsome GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
-*   [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding)
+*   [Awesome Explainable AI (⭐749)](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+*   [Awesome Fairness in AI (⭐224)](https://github.com/datamllab/awesome-fairness-in-ai)
+*   [Awesome Machine Learning Interpretability (⭐2.7k)](https://github.com/jphall663/awesome-machine-learning-interpretability)
+*   [Awesome Production Machine Learning (⭐12k)](https://github.com/EthicalML/awesome-production-machine-learning)
+*   [Awesome Video Text Retrieval (⭐327)](https://github.com/danieljf24/awesome-video-text-retrieval)
+*   [Awesome Image-to-Image Translation (⭐831)](https://github.com/weihaox/awesome-image-translation)
+*   [Awesome Image Inpainting (⭐1.2k)](https://github.com/1900zyh/Awesome-Image-Inpainting)
+*   [Awesome Deep HDR (⭐308)](https://github.com/vinthony/awesome-deep-hdr)
+*   [Awesome Video Generation (⭐62)](https://github.com/matthewvowels1/Awesome-Video-Generation)
+*   [Awesome GAN applications (⭐4.4k)](https://github.com/nashory/gans-awesome-applications)
+*   [Awesome Generative Modeling (⭐152)](https://github.com/zhoubolei/awesome-generative-modeling)
+*   [Awesome Image Classification (⭐2.3k)](https://github.com/weiaicunzai/awesome-image-classification)
+*   [Awesome Deep Learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
+*   [Awesome Machine Learning in Biomedical(Healthcare) Imaging (⭐37)](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
+*   [Awesome Deep Learning for Tracking and Detection (⭐2.1k)](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+*   [Awesome Human Pose Estimation (⭐1.1k)](https://github.com/wangzheallen/awesome-human-pose-estimation)
+*   [Awesome Deep Learning for Video Analysis (⭐598)](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
+*   [Awesome Vision + Language (⭐927)](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
+*   [Awesome Robotics (⭐3k)](https://github.com/kiloreux/awesome-robotics)
+*   [Awesome Visual Transformer (⭐2.7k)](https://github.com/dk-liang/Awesome-Visual-Transformer)
+*   [Awesome Embodied Vision (⭐211)](https://github.com/ChanganVR/awesome-embodied-vision)
+*   [Awesome Anomaly Detection (⭐2.2k)](https://github.com/hoya012/awesome-anomaly-detection)
+*   [Awesome Makeup Transfer (⭐70)](https://github.com/thaoshibe/awesome-makeup-transfer)
+*   [Awesome Learning with Label Noise (⭐2.1k)](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
+*   [Awesome Deblurring (⭐1.6k)](https://github.com/subeeshvasu/Awesome-Deblurring)
+*   [Awsome Deep Geometry Learning (⭐291)](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
+*   [Awesome Image Distortion Correction (⭐132)](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
+*   [Awesome Neuron Segmentation in EM Images (⭐30)](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
+*   [Awsome Delineation (⭐18)](https://github.com/subeeshvasu/Awsome_Delineation)
+*   [Awesome ImageHarmonization (⭐14)](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
+*   [Awsome GAN Training (⭐12)](https://github.com/subeeshvasu/Awsome-GAN-Training)
+*   [Awesome Document Understanding (⭐519)](https://github.com/tstanislawek/awesome-document-understanding)
 
 ## Books
 
@@ -210,7 +210,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 
 ## Pre-trained Computer Vision Models
 
-*   [List of Computer Vision models](https://github.com/shubham-shahh/Open-Source-Models) These models are trained on custom objects
+*   [List of Computer Vision models (⭐28)](https://github.com/shubham-shahh/Open-Source-Models) These models are trained on custom objects
 
 ## Tutorials and talks
 
@@ -316,7 +316,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 *   [Comma Coloring](http://commacoloring.herokuapp.com/)
 *   [Annotorious](https://annotorious.github.io/)
 *   [LabelME](http://labelme.csail.mit.edu/Release3.0/)
-*   [gtmaker](https://github.com/sanko-shoko/gtmaker)
+*   [gtmaker (⭐10)](https://github.com/sanko-shoko/gtmaker)
 
 #### External Resource Links
 
@@ -330,8 +330,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 *   [Open CV](http://opencv.org/)
 *   [mexopencv](http://kyamagu.github.io/mexopencv/)
 *   [SimpleCV](http://simplecv.org/)
-*   [Open source Python module for computer vision](https://github.com/jesolem/PCV)
-*   [ccv: A Modern Computer Vision Library](https://github.com/liuliu/ccv)
+*   [Open source Python module for computer vision (⭐1.9k)](https://github.com/jesolem/PCV)
+*   [ccv: A Modern Computer Vision Library (⭐6.9k)](https://github.com/liuliu/ccv)
 *   [VLFeat](http://www.vlfeat.org/)
 *   [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 *   [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/\~pdollar/toolbox/doc/index.html)
@@ -352,7 +352,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 *   [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 *   [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 *   [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
-*   [Awesome 3D reconstruction list](https://github.com/openMVG/awesome_3DReconstruction_list)
+*   [Awesome 3D reconstruction list (⭐3.5k)](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 #### Feature Detection and Extraction
 
@@ -368,11 +368,11 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
     *   A. Alahi, R. Ortiz, and P. Vandergheynst, "FREAK: Fast Retina Keypoint", CVPR 2012
 *   [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
     *   Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
-*   [Local Binary Patterns](https://github.com/nourani/LBP)
+*   [Local Binary Patterns (⭐92)](https://github.com/nourani/LBP)
 
 #### High Dynamic Range Imaging
 
-*   [HDR\_Toolbox](https://github.com/banterle/HDR_Toolbox)
+*   [HDR\_Toolbox (⭐309)](https://github.com/banterle/HDR_Toolbox)
 
 #### Semantic Segmentation
 
@@ -515,9 +515,9 @@ Non-uniform Deblurring
 *   [Entropy Rate Superpixel](http://mingyuliu.net/)
 *   [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/research/superpixel-segmentation/)
 *   [SEEDS](http://www.mvdblive.org/seeds/)
-*   [SEEDS Revised](https://github.com/davidstutz/seeds-revised)
+*   [SEEDS Revised (⭐50)](https://github.com/davidstutz/seeds-revised)
 *   [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
-*   [Fast Edge Detection Using Structured Forests](https://github.com/pdollar/edges)
+*   [Fast Edge Detection Using Structured Forests (⭐773)](https://github.com/pdollar/edges)
 
 #### Interactive Image Segmentation
 
@@ -552,20 +552,20 @@ Non-uniform Deblurring
 
 *   [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
 *   [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/\~gk/PTAM/)
-*   [KFusion: Implementation of KinectFusion](https://github.com/GerhardR/kfusion)
-*   [kinfu\_remake: Lightweight, reworked and optimized version of Kinfu.](https://github.com/Nerei/kinfu_remake)
+*   [KFusion: Implementation of KinectFusion (⭐190)](https://github.com/GerhardR/kfusion)
+*   [kinfu\_remake: Lightweight, reworked and optimized version of Kinfu. (⭐324)](https://github.com/Nerei/kinfu_remake)
 *   [LVR-KinFu: kinfu\_remake based Large Scale KinectFusion with online reconstruction](http://las-vegas.uni-osnabrueck.de/related-projects/lvr-kinfu/)
 *   [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/\~victor/infinitam/)
-*   [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing)
+*   [VoxelHashing: Large-scale KinectFusion (⭐562)](https://github.com/nachtmar/VoxelHashing)
 *   [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
-*   [SVO: Semi-direct visual odometry](https://github.com/uzh-rpg/rpg_svo)
-*   [DVO: dense visual odometry](https://github.com/tum-vision/dvo_slam)
+*   [SVO: Semi-direct visual odometry (⭐1.9k)](https://github.com/uzh-rpg/rpg_svo)
+*   [DVO: dense visual odometry (⭐579)](https://github.com/tum-vision/dvo_slam)
 *   [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
 ###### Graph Optimization:
 
 *   [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
-*   [G2O: General framework for graph optomization](https://github.com/RainerKuemmerle/g2o)
+*   [G2O: General framework for graph optomization (⭐2.4k)](https://github.com/RainerKuemmerle/g2o)
 
 ###### Loop Closure:
 
@@ -575,26 +575,26 @@ Non-uniform Deblurring
 ###### Localization & Mapping:
 
 *   [RatSLAM](https://code.google.com/p/ratslam/)
-*   [LSD-SLAM](https://github.com/tum-vision/lsd_slam)
-*   [ORB-SLAM](https://github.com/raulmur/ORB_SLAM)
+*   [LSD-SLAM (⭐2.4k)](https://github.com/tum-vision/lsd_slam)
+*   [ORB-SLAM (⭐1.3k)](https://github.com/raulmur/ORB_SLAM)
 
 #### Single-view Spatial Understanding
 
 *   [Geometric Context](http://web.engr.illinois.edu/\~dhoiem/projects/software.html) - Derek Hoiem (CMU)
 *   [Recovering Spatial Layout](http://web.engr.illinois.edu/\~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (UIUC)
 *   [Geometric Reasoning](http://www.cs.cmu.edu/\~./dclee/code/index.html) - David C. Lee (CMU)
-*   [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
+*   [RGBD2Full3D (⭐23)](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
 
 #### Object Detection
 
 *   [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
 *   [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/\~rbg/latent/)
-*   [VOC-DPM](https://github.com/rbgirshick/voc-dpm)
+*   [VOC-DPM (⭐573)](https://github.com/rbgirshick/voc-dpm)
 *   [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/\~dramanan/software/sparse/)
-*   [R-CNN: Regions with Convolutional Neural Network Features](https://github.com/rbgirshick/rcnn)
-*   [SPP-Net](https://github.com/ShaoqingRen/SPP_net)
+*   [R-CNN: Regions with Convolutional Neural Network Features (⭐2.3k)](https://github.com/rbgirshick/rcnn)
+*   [SPP-Net (⭐363)](https://github.com/ShaoqingRen/SPP_net)
 *   [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
-*   [Edge Boxes](https://github.com/pdollar/edges)
+*   [Edge Boxes (⭐773)](https://github.com/pdollar/edges)
 *   [ReInspect](https://github.com/Russell91/ReInspect)
 
 #### Nearest Neighbor Search
@@ -610,7 +610,7 @@ Non-uniform Deblurring
 *   [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
 *   [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
 *   [Coherency Sensitive Hashing](http://www.eng.tau.ac.il/\~simonk/CSH/)
-*   [PMBP: PatchMatch Belief Propagation](https://github.com/fbesse/pmbp)
+*   [PMBP: PatchMatch Belief Propagation (⭐27)](https://github.com/fbesse/pmbp)
 *   [TreeCANN](http://www.eng.tau.ac.il/\~avidan/papers/TreeCANN_code_20121022.rar)
 
 #### Visual Tracking
@@ -655,11 +655,11 @@ Non-uniform Deblurring
 
 #### Deep Learning
 
-*   [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+*   [Awesome Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision)
 
 #### Machine Learning
 
-*   [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
 *   [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
 
@@ -753,7 +753,7 @@ Non-uniform Deblurring
 
 ###### Self-supervised Learning
 
-*   [PASS: An An ImageNet replacement for self-supervised pretraining without humans](https://github.com/yukimasano/PASS)
+*   [PASS: An An ImageNet replacement for self-supervised pretraining without humans (⭐247)](https://github.com/yukimasano/PASS)
 
 ###### Scene Recognition
 
@@ -880,14 +880,14 @@ Non-uniform Deblurring
 *   [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
 *   [AI Shack](http://aishack.in/) - Utkarsh Sinha
 *   [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
-*   [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
+*   [Computer Vision Basics with Python Keras and OpenCV (⭐416)](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
 
 ## Links
 
 *   [The Computer Vision Industry](http://www.cs.ubc.ca/\~lowe/vision.html) - David Lowe
 *   [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-*   [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-*   [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+*   [awesome-deep-learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning)
+*   [awesome-machine-learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [Cat Paper Collection](http://www.eecs.berkeley.edu/\~junyanz/cat/cat_papers.html)
 *   [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

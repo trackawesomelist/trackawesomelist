@@ -34,74 +34,74 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 ### APIs & Web Services
 
-*   [Blizzard.js](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
-*   [Discord.js](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
-*   [HLTV](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
-*   [liquipediapy](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
-*   [steam](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
-*   [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
+*   [Blizzard.js (⭐134)](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
+*   [Discord.js (⭐21k)](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
+*   [HLTV (⭐312)](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
+*   [liquipediapy (⭐49)](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
+*   [steam (⭐739)](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
+*   [Steam Community (⭐352)](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
 *   SteamID - A library for manipulating Steam IDs.
-    *   [Node.js](https://github.com/DoctorMcKay/node-steamid)
-    *   [PHP](https://github.com/DoctorMcKay/php-steamid)
-*   [SteamUser](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the the Steam client protocol.
-*   [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
-*   [valorant.js](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
+    *   [Node.js (⭐59)](https://github.com/DoctorMcKay/node-steamid)
+    *   [PHP (⭐6)](https://github.com/DoctorMcKay/php-steamid)
+*   [SteamUser (⭐575)](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the the Steam client protocol.
+*   [Steam TOTP (⭐192)](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
+*   [valorant.js (⭐69)](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
 
 ### Authentication
 
-*   [Passport-Steam](https://github.com/liamcurry/passport-steam) - A Node.js passport authentication strategy for Steam.
+*   [Passport-Steam (⭐306)](https://github.com/liamcurry/passport-steam) - A Node.js passport authentication strategy for Steam.
 
 ### Data parsing and analysis
 
-*   [awpy](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing and visualizing CS:GO data.
-*   [Boxcars](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
-*   [Cassiopeia](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
-*   [Clarity](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
-*   [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
-*   [Rattletrap](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
+*   [awpy (⭐216)](https://github.com/pnxenopoulos/awpy) - A Python library for parsing, analyzing and visualizing CS:GO data.
+*   [Boxcars (⭐66)](https://github.com/nickbabcock/boxcars) - A Rust library for parsing Rocket League replays.
+*   [Cassiopeia (⭐464)](https://github.com/meraki-analytics/cassiopeia) - A Python framework for interacting with and analyzing data from the Riot Games League of Legends API.
+*   [Clarity (⭐554)](https://github.com/skadistats/clarity) - A Java library for parsing CS:GO and Dota 2 replays.
+*   [demoinfocs-golang (⭐440)](https://github.com/markus-wa/demoinfocs-golang) - A Go library for parsing and analyzing CS:GO demos (ie. replays.)
+*   [Rattletrap (⭐133)](https://github.com/tfausak/rattletrap) - A Haskell library for parsing and generating Rocket League replays.
 
 ### Team management
 
-*   [LoL in-house bot](https://github.com/mrtolkien/inhouse_bot) - A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.
+*   [LoL in-house bot (⭐105)](https://github.com/mrtolkien/inhouse_bot) - A Discord bot handling role queue, matchmaking, and rankings for League of Legends in-house games.
 
 ### Tournaments management
 
-*   [brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
-*   [brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) - A JavaScript library to display tournament brackets.
+*   [brackets-manager.js (⭐85)](https://github.com/Drarig29/brackets-manager.js) - A JavaScript library to manage tournament brackets.
+*   [brackets-viewer.js (⭐72)](https://github.com/Drarig29/brackets-viewer.js) - A JavaScript library to display tournament brackets.
 
 ## Developer tools
 
 > Tooling for developers.
 
-*   [Fortnite VSCode Theme](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fornite.
+*   [Fortnite VSCode Theme (⭐166)](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fornite.
 
 ## Unofficial documentations
 
 > Community-maintained documentations of editor APIs.
 
-*   [BNETDocs](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
-*   [Rift Explorer](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
-*   [valorant-api-docs](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
+*   [BNETDocs (⭐30)](https://github.com/BNETDocs/bnetdocs-web) - A documentation and discussion website for Blizzard and Battle.net protocols.
+*   [Rift Explorer (⭐502)](https://github.com/Pupix/rift-explorer) - An automatically generated documentation of Riot Games LCU API.
+*   [valorant-api-docs (⭐192)](https://github.com/techchrism/valorant-api-docs) - An automatically generated documentation of Valorant internal API.
 
 ## Applications & Tools
 
 > Applications and general-purpose tooling.
 
-*   [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
+*   [Esport Team Logos (⭐19)](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
 
 **Counter-Strike: Global Offensive**
 
-*   [Boltobserv](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
+*   [Boltobserv (⭐171)](https://github.com/boltgolt/boltobserv) - An external Counter-Strike: Global Offensive radar for observers.
 
 **Dota 2**
 
-*   [Open Dota](https://github.com/odota/core) - A website for Dota 2 esports stats.
+*   [Open Dota (⭐1.4k)](https://github.com/odota/core) - A website for Dota 2 esports stats.
 
 **League of Legends**
 
-*   [Foldy Sheet](https://github.com/chhopsky/foldysheet) - A Python script to determine whether teams can make playoffs or not.
-*   [LeagueDirector](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
-*   [LeagueStats](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners stats.
+*   [Foldy Sheet (⭐1)](https://github.com/chhopsky/foldysheet) - A Python script to determine whether teams can make playoffs or not.
+*   [LeagueDirector (⭐634)](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
+*   [LeagueStats (⭐320)](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners stats.
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07 - Mar 13, 2022
 
-58 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -727,21 +727,7 @@
 
 *   [Threat Jammer](https://threatjammer.com) - REST API service that allows developers, security engineers, and other IT professionals to access curated threat intelligence data from a variety of sources.
 
-## [51. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
-
-### 0 - Meta-Listas
-
-*   [Desarrollo de Aplicaciones Web - Temario Completo (⭐398)](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (GitHub)
-
-### Java / Sistemas Operativos
-
-*   [Preparando JavaSun 6 - OCPJP6 (⭐5)](https://github.com/PabloReyes/ocpjp-resumen-espanol#ocpjp6-resumen-español) - Pablo Reyes Almagro (GitHub) [(PDF) (⭐5)](https://github.com/PabloReyes/ocpjp-resumen-espanol/blob/master/OCPJP6%20Resumen.pdf)
-
-### PHP / Redis
-
-*   [Domain Driven Design with PHP (Diseño guiado por Dominio con PHP)](https://www.youtube.com/playlist?list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2) - Carlos Buenosvinos Zamora (YouTube playlist)
-
-## [52. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [51. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
@@ -751,13 +737,13 @@
 
 *   [evoasm/kasm (⭐40)](https://github.com/evoasm/kasm) - x64/x86-64 assembler and execution library
 
-## [53. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [52. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Print (⭐1)](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 
-## [54. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [53. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -769,19 +755,19 @@
 *   [vue-mathjax-next (⭐8)](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 *   [vue-preview-imgs (⭐2)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 
-## [55. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [54. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Sync/Sharing
 
 *   [portal (⭐233)](https://github.com/ZinoKader/portal) - Send files between computers.
 
-## [56. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [55. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
 *   [HeadSpin](https://www.headspin.io/) - Test your website for cross browser compatibility on thousands of real device running real browsers. Get instant access to multiple desktop and mobile browsers on the cloud. Get Free Trial.
 
-## [57. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [56. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
@@ -791,7 +777,7 @@
 
 *   [Sworn by Ghostlight](https://yuigaron.itch.io/sworn-by-ghostlight) - Hunt a serial killer in a haunted Victorian era London-like city
 
-## [58. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [57. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Menu Bar Tools
 

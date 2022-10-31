@@ -125,7 +125,7 @@ A tangible way to give back to the open source community!
 *   [ApexCharts](https://www.patreon.com/junedchhipa), [#2](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 *   [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 *   [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
-*   [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐42k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 *   [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 *   [Laravel](https://www.patreon.com/taylorotwell) - PHP framework.
@@ -329,7 +329,7 @@ A tangible way to give back to the open source community!
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines (⭐436)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐436)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
 
 ## License
 

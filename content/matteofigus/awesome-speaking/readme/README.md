@@ -37,7 +37,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 *   [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 *   [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
-*   [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
+*   [IT CFP List (⭐374)](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 *   [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
 *   [Codementor Events](https://www.codementor.io/events) - Curated listed of tech events and year-round developer-centered virtuao events.
 
@@ -47,9 +47,9 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Miscellaneous
 
-*   [Awesome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
-*   [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
-*   [Public Speaking](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur**
+*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+*   [Awesome Community (⭐212)](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
+*   [Public Speaking (⭐1.4k)](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur**
 
 ## Videos
 
@@ -65,7 +65,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 ## Websites
 
 *   [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-*   [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
+*   [awesome-talks (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 *   [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 *   [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 *   [Irongeek](https://www.irongeek.com/) - A collection of information security talks.

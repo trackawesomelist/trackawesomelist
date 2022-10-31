@@ -16,7 +16,7 @@ This list contains awesome (tech related) events happening in Italy like: confer
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
-*   [What is an awesome list?](https://github.com/sindresorhus/awesome)
+*   [What is an awesome list? (⭐223k)](https://github.com/sindresorhus/awesome)
 *   [Contribution guide](https://github.com/ildoc/awesome-italy-events/blob/master/README.md/contributing.md)
 
 Available data formats: [json](https://github.com/ildoc/awesome-italy-events/blob/master/README.md/data/2021.json) - [ics](https://github.com/ildoc/awesome-italy-events/blob/master/README.md/data/2021.ics)

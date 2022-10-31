@@ -93,7 +93,7 @@ This section contains all the specifics for meetups/events.
 
     Js-Girls is a 1-day workshop for girls who want to learn Javascript.
 
-*   [Js4Girls](https://github.com/Webschool-io/js4girls) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+*   [Js4Girls (⭐101)](https://github.com/Webschool-io/js4girls) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     A Brazilian initiative to provide free javascript classes to women in a male-free environment.
 
@@ -662,7 +662,7 @@ If you are trying to organize your own events, these resoures might help.
 
 ([Go to top](#awesome4girls---))
 
-*   [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
+*   [awesome-diversity (⭐571)](https://github.com/folkswhocode/awesome-diversity)
 
     A curated list of amazingly awesome articles, websites and resources about diversity in technology.
 

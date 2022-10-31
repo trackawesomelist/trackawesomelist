@@ -8,7 +8,7 @@ Rough list of my favorite deep learning resources, useful for revisiting topics 
 
 ---
 
-# [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Deep Learning Resources (⭐1.5k)](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a rough list of my favorite deep learning resources. It has been useful to me for learning how to do deep learning, I use it for revisiting topics or for reference.
 I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built this list and got through all of the content listed here, carefully.
@@ -115,22 +115,22 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ### Librairies and Implementations
 
-*   [Neuraxle, a framwework for machine learning pipelines](https://github.com/Neuraxio/Neuraxle) - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
-*   [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
-*   [skflow](https://github.com/tensorflow/skflow) - TensorFlow wrapper à la scikit-learn.
+*   [Neuraxle, a framwework for machine learning pipelines (⭐543)](https://github.com/Neuraxio/Neuraxle) - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
+*   [TensorFlow's GitHub repository (⭐169k)](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
+*   [skflow (⭐3.2k)](https://github.com/tensorflow/skflow) - TensorFlow wrapper à la scikit-learn.
 *   [Keras](https://keras.io/) - Keras is another intersting deep learning framework like TensorFlow, it is mostly high-level.
 *   [carpedm20's repositories](https://github.com/carpedm20) - Many interesting neural network architectures are implemented by the Korean guy Taehoon Kim, A.K.A. carpedm20.
-*   [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) - Neural Turing Machine TensorFlow implementation.
+*   [carpedm20/NTM-tensorflow (⭐1k)](https://github.com/carpedm20/NTM-tensorflow) - Neural Turing Machine TensorFlow implementation.
 *   [Deep learning for lazybones](http://oduerr.github.io/blog/2016/04/06/Deep-Learning_for_lazybones) - Transfer learning tutorial in TensorFlow for vision from high-level embeddings of a pretrained CNN, AlexNet 2012.
-*   [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Tutorial of mine on using LSTMs on time series for classification.
-*   [Deep stacked residual bidirectional LSTMs for HAR](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) - Improvements on the previous project.
-*   [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
-*   [Hyperopt for a Keras CNN on CIFAR-100](https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100) - Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.
+*   [LSTM for Human Activity Recognition (HAR) (⭐3.1k)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Tutorial of mine on using LSTMs on time series for classification.
+*   [Deep stacked residual bidirectional LSTMs for HAR (⭐280)](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) - Improvements on the previous project.
+*   [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction (⭐1k)](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
+*   [Hyperopt for a Keras CNN on CIFAR-100 (⭐103)](https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100) - Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.
 *   [ML / DL repositories I starred](https://github.com/guillaume-chevalier?direction=desc\&page=1\&q=machine+OR+deep+OR+learning+OR+rnn+OR+lstm+OR+cnn\&sort=stars\&tab=stars\&utf8=%E2%9C%93) - GitHub is full of nice code samples & projects.
-*   [Smoothly Blend Image Patches](https://github.com/guillaume-chevalier/Smoothly-Blend-Image-Patches) - Smooth patch merger for [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
-*   [Self Governing Neural Networks (SGNN): the Projection Layer](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) - With this, you can use words in your deep learning models without training nor loading embeddings.
-*   [Neuraxle](https://github.com/Neuraxio/Neuraxle) - Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.
-*   [Clean Machine Learning, a Coding Kata](https://github.com/Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code) - Learn the good design patterns to use for doing Machine Learning the good way, by practicing.
+*   [Smoothly Blend Image Patches (⭐0)](https://github.com/guillaume-chevalier/Smoothly-Blend-Image-Patches) - Smooth patch merger for [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
+*   [Self Governing Neural Networks (SGNN): the Projection Layer (⭐22)](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) - With this, you can use words in your deep learning models without training nor loading embeddings.
+*   [Neuraxle (⭐543)](https://github.com/Neuraxio/Neuraxle) - Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.
+*   [Clean Machine Learning, a Coding Kata (⭐13)](https://github.com/Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code) - Learn the good design patterns to use for doing Machine Learning the good way, by practicing.
 
 <a name="some-datasets" />
 
@@ -142,7 +142,7 @@ Those are resources I have found that seems interesting to develop models onto.
 *   [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/\~cristian/Cornell_Movie-Dialogs_Corpus.html) - This could be used for a chatbot.
 *   [SQuAD The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - Question answering dataset that can be explored online, and a list of models performing well on that dataset.
 *   [LibriSpeech ASR corpus](http://www.openslr.org/12/) - Huge free English speech dataset with balanced genders and speakers, that seems to be of high quality.
-*   [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of public datasets.
+*   [Awesome Public Datasets (⭐52k)](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of public datasets.
 *   [SentEval: An Evaluation Toolkit for Universal Sentence Representations](https://arxiv.org/abs/1803.05449) - A Python framework to benchmark your sentence representations on many datasets (NLP tasks).
 *   [ParlAI: A Dialog Research Software Platform](https://arxiv.org/abs/1705.06476) - Another Python framework to benchmark your sentence representations on many datasets (NLP tasks).
 
@@ -180,7 +180,7 @@ Okay, signal processing might not be directly related to deep learning, but stud
 *   [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - Animations dealing with complex numbers and wave equations.
 *   [Animate Your Way to Glory, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory/) - Convergence methods in physic engines, and applied to interaction design.
 *   [Animate Your Way to Glory - Part II, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory-pt2/) - Nice animations for rotation and rotation interpolation with Quaternions, a mathematical object for handling 3D rotations.
-*   [Filtering signal, plotting the STFT and the Laplace transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) - Simple Python demo on signal processing.
+*   [Filtering signal, plotting the STFT and the Laplace transform (⭐53)](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) - Simple Python demo on signal processing.
 
 <a name="papers" />
 
@@ -244,7 +244,7 @@ Okay, signal processing might not be directly related to deep learning, but stud
 ### Other
 
 *   [ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections](https://arxiv.org/abs/1708.00630) - Replace word embeddings by word projections in your deep neural networks, which doesn't require a pre-extracted dictionnary nor storing embedding matrices.
-*   [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) and watch [the talks' recording](https://vimeo.com/305197775)).
+*   [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code (⭐22)](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) and watch [the talks' recording](https://vimeo.com/305197775)).
 *   [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080) - Classify a new example from a list of other examples (without definitive categories) and with low-data per classification task, but lots of data for lots of similar classification tasks - it seems better than siamese networks. To sum up: with Matching Networks, you can optimize directly for a cosine similarity between examples (like a self-attention product would match) which is passed to the softmax directly. I guess that Matching Networks could probably be used as with negative-sampling softmax training in word2vec's CBOW or Skip-gram without having to do any context embedding lookups.
 
 <a name="youtube" />
@@ -269,7 +269,7 @@ Okay, signal processing might not be directly related to deep learning, but stud
 *   [DataTau](http://www.datatau.com/) - This is a hub similar to Hacker News, but specific to data science.
 *   [Naver](http://www.naver.com/) - This is a Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search.
 *   [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - arXiv browser with TF/IDF features.
-*   [Awesome Neuraxle](https://github.com/Neuraxio/Awesome-Neuraxle) - An awesome list for Neuraxle, a ML Framework for coding clean production-level ML pipelines.
+*   [Awesome Neuraxle (⭐1)](https://github.com/Neuraxio/Awesome-Neuraxle) - An awesome list for Neuraxle, a ML Framework for coding clean production-level ML pipelines.
 
 <a name="license" />
 

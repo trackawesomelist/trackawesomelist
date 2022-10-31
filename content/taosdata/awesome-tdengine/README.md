@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/taosdata/awesome-tdengine/week/README.md) / [Overview](/content/taosdata/awesome-tdengine/readme/README.md) ]
 
+## [Oct 31, 2022](/content/2022/10/31/README.md)
+
+### IoT
+
+*   [IoTSharp (⭐520)](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp is an open-source IoT platform for data collection,It supports storing time series data to TDengine.
+
+### Connector
+
+*   [IoTSharp.Data.Taos](https://www.nuget.org/packages/IoTSharp.Data.Taos/)  - TDengine's ADO.Net provider. (.Net Framework 4.6+, .Net Standard2.0+,.Net 5.0+).
+
+### Others
+
+*   [IoTSharp.HealthChecks.Taos](https://www.nuget.org/packages/IoTSharp.HealthChecks.Taos/) - TDengine's HealthChecks provider. (.Net 5.0+).
+
 ## [Sep 27, 2022](/content/2022/09/27/README.md)
 
 ### GUI
@@ -16,7 +30,7 @@
 
 ### Connector
 
-*   [DBUtility.TDengine (⭐0)](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+)
+*   [DBUtility.TDengine (⭐0)](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+).
 
 ## [Aug 02, 2022](/content/2022/08/02/README.md)
 

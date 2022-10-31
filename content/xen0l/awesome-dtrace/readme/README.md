@@ -41,7 +41,7 @@ Recommended reading for learning DTrace.
 *   [DTrace one-liners](http://www.brendangregg.com/DTrace/dtrace_oneliners.txt) - DTrace one liners. Handy commands.
 *   [DTrace one-liners (FreeBSD)](https://wiki.freebsd.org/DTrace/One-Liners) - DTrace one liners from FreeBSD.
 *   [DTrace QuickStart](http://www.tablespace.net/quicksheet/dtrace-quickstart.html) - DTrace quick starting guide.
-*   [Using DTrace stories](https://github.com/NanXiao/using-dtrace-stories) - A collection of using DTrace to debug system stories.
+*   [Using DTrace stories (⭐22)](https://github.com/NanXiao/using-dtrace-stories) - A collection of using DTrace to debug system stories.
 *   [Advanced DTrace Tips, Tricks and Gotchas](http://dtrace.org/resources/bmc/dtrace_tips.pdf) - A collection of advanced tips for using DTrace.
 
 ## Articles
@@ -146,15 +146,15 @@ List of software with DTrace support.
 
 #### Lua
 
-*   [lua-usdt](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
+*   [lua-usdt (⭐6)](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
 
 #### Node.js
 
-*   [node-dtrace-provider](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
+*   [node-dtrace-provider (⭐314)](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
 
 #### Perl
 
-*   [perl-Devel-DTrace-Provider](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
+*   [perl-Devel-DTrace-Provider (⭐2)](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
 
 #### PHP
 
@@ -163,12 +163,12 @@ List of software with DTrace support.
 #### Python
 
 *   [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
-*   [python-usdt](https://github.com/nshalman/python-usdt) - Libusdt bindings for Python.
+*   [python-usdt (⭐7)](https://github.com/nshalman/python-usdt) - Libusdt bindings for Python.
 
 #### Ruby
 
 *   [Ruby](http://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html) - Ruby DTrace probes.
-*   [ruby-usdt](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps.
+*   [ruby-usdt (⭐25)](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps.
 
 ### Databases
 
@@ -177,20 +177,20 @@ List of software with DTrace support.
 
 ### Webservers
 
-*   [mod\_usdt](https://github.com/davepacheco/mod_usdt) - "httpd" DTrace provider.
+*   [mod\_usdt (⭐18)](https://github.com/davepacheco/mod_usdt) - "httpd" DTrace provider.
 
 ### Visualization
 
-*   [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
-*   [node-stackvis](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
+*   [FlameGraph (⭐14k)](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
+*   [node-stackvis (⭐341)](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
 
 ## Tools
 
 *   [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-*   [dtrace-cloud-tools](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
-*   [pgsql tools](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
-*   [portsnoop](https://github.com/davepacheco/portsnoop) - Trace event port activity.
-*   [storage tools](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
+*   [dtrace-cloud-tools (⭐197)](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
+*   [pgsql tools (⭐129)](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
+*   [portsnoop (⭐3)](https://github.com/davepacheco/portsnoop) - Trace event port activity.
+*   [storage tools (⭐31)](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
 
 ## Community
 
@@ -201,5 +201,5 @@ List of software with DTrace support.
 
 ## Contributing
 
-Contributions are more than welcome! Please see [contribution guidelines](https://github.com/xen0l/awesome-dtrace/blob/master/CONTRIBUTING.md) first.
+Contributions are more than welcome! Please see [contribution guidelines (⭐140)](https://github.com/xen0l/awesome-dtrace/blob/master/CONTRIBUTING.md) first.
 

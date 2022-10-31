@@ -10,7 +10,7 @@
 
 # Digital Tools for Citizen Science
 
-Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
+Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository (⭐889)](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -55,13 +55,13 @@ Below is a curated list of awesome software and other resources to enable those 
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐211)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
 *   [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
 *   [PECE](http://www.worldpece.org/) - The Platform for Experimental and Collaborative Ethnography.  This project provides an online platform for academic collaboration that helps keep track of complex attribution of credit.  It is geared toward anthropologists but is expanding to become more broad.
-*   [RapidPro](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+*   [RapidPro (⭐778)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
 *   [eu-citizen.science](https://eu-citizen.science/) - links to 200 projects
 *   [Zooniverse](https://github.com/zooniverse) - website for zoo & universe projects
 
@@ -246,7 +246,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐155)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## License

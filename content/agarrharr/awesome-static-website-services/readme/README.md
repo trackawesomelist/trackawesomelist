@@ -12,7 +12,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -51,7 +51,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Books
 
-*   [Google Books](https://github.com/aharris88/google-bookshelves-widget) - Allows you to display the books in your Google Books Library.
+*   [Google Books (⭐5)](https://github.com/aharris88/google-bookshelves-widget) - Allows you to display the books in your Google Books Library.
 *   [Goodreads API and widgets](https://www.goodreads.com/api) - Allows you to access any of the Goodreads data. Widgets are found on the widgets tab on your [settings page](https://www.goodreads.com/user/edit).
 *   [Open Library Open API](https://openlibrary.org/developers/api) — Allows to retrieve book data from the biggest books open dataset on Earth, without any tracking.
 
@@ -96,7 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Functions as a Service
 
-*   [1Backend](https://github.com/1backend/1backend) - Deploy your backend in seconds. Free tier included. Open source.
+*   [1Backend (⭐2.1k)](https://github.com/1backend/1backend) - Deploy your backend in seconds. Free tier included. Open source.
 *   [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 *   [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
 *   [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
@@ -118,15 +118,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Comments
 
-*   [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
+*   [Staticman (⭐2.3k)](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 *   [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 *   [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
 *   [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
 *   [LiveFyre](http://web.livefyre.com/apps/comments/) - Real-time comments, SEO-optimized, stocked with social features, and beautiful on both desktop and mobile.
 *   [Redditjs Embed Widget](http://embed.redditjs.com/) - Embed Reddit comments on your site. If it hasn't been posted, it will show a link to encourage the user to submit.
 *   [Muut.com](https://muut.com/) - Embeddable comments, forum and private messaging. A lot of functionality, but really low footprint left on your website.
-*   [Gitment](https://github.com/imsun/gitment) - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
-*   [giscus](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
+*   [Gitment (⭐4k)](https://github.com/imsun/gitment) - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
+*   [giscus (⭐3.2k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
 
 ### Forms
 
@@ -137,7 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 *   [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
 *   [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 *   [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
-*   [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
+*   [Brisk Forms (⭐42)](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 *   [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
 *   [Getform](http://getform.io/) - Form backend platform for designers and developers, with email and integrations.
 *   [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
@@ -157,8 +157,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 *   [Typeform](http://www.typeform.com/) - Awesome forms that can be embedded.
 *   [Wufoo](http://www.wufoo.com/) - Free or Paid - Forms that you can build with a form designer, with notifications, reports, and payments.
 *   [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - Forms with file upload and captcha.
-*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
-*   [Utterences](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
+*   [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama (⭐124)](https://github.com/sindresorhus/ama) for an example.
+*   [Utterences (⭐7.2k)](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
 *   [FormBackend](https://www.formbackend.com) - Create form-backends and submit your HTML forms to our backend. View the entries online and connect to other services. Receive an email every time a new entry is submitted.
 *   [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
 *   [Formester](https://www.formester.com) - Forms and email marketing (lead collection, email campaigns, and newsletters) with integrations.
@@ -226,17 +226,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 Self-hosted:
 
 *   [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
-*   [itemsjs](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
-*   [minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
-*   [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+*   [itemsjs (⭐266)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+*   [minisearch (⭐1.6k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+*   [flexsearch (⭐9k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
-*   [static-search](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
+*   [static-search (⭐23)](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
 *   [elasticlunr](http://elasticlunr.com/docs/index.html) - Lightweight full-text search engine developed in JavaScript for browser search and offline search based on Lunr.js
-*   [tinysearch](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
+*   [tinysearch (⭐2.1k)](https://github.com/tinysearch/tinysearch) - Tiny, full-text search engine for static websites built with Rust and Wasm
 *   [js-search](https://www.npmjs.com/package/js-search) - Client-side searches of JavaScript and JSON objects, ES5 compatible and does not require jQuery or any other third-party libraries
-*   [search-index](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
-*   [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
-*   [fuzzy](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
+*   [search-index (⭐1.3k)](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
+*   [fuzzysearch (⭐2.7k)](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
+*   [fuzzy (⭐802)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 *   [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 *   [Jets.js](https://jets.js.org/) - Native CSS search engine
 
@@ -261,8 +261,8 @@ Third party integration:
 
 ## Related Lists
 
-*   [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting)
-*   [Awesome Azure Static Web Apps](https://github.com/staticwebdev/awesome-azure-static-web-apps)
+*   [Awesome Static Hosting (⭐244)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Azure Static Web Apps (⭐67)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ***
 

@@ -21,7 +21,7 @@ A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/craftcms/awesome/blob/main/README.md/CONTRIBUTING.md) first. If you see an article or resource here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Also, ideas for more categories [are needed](https://github.com/chasegiunta/awesome-craft/issues/2)! Thank you to all contributors; you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/craftcms/awesome/blob/main/README.md/CONTRIBUTING.md) first. If you see an article or resource here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Also, ideas for more categories [are needed (⭐485)](https://github.com/chasegiunta/awesome-craft/issues/2)! Thank you to all contributors; you rock!
 
 ### Contents
 
@@ -64,7 +64,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 *   **Knowledge Base** - [craftcms.com/knowledge-base](https://craftcms.com/knowledge-base)
 *   **Partners** - [craftcms.com/partners](https://craftcms.com/partners)
 *   **Licence Management** - [id.craftcms.com](https://id.craftcms.com)
-*   **Repository** - [github.com/craftcms/cms](https://github.com/craftcms/cms)
+*   **Repository** - [github.com/craftcms/cms (⭐2.9k)](https://github.com/craftcms/cms)
 *   **Dot All Conference** - [dotall.com](http://dotall.com)
 
 ***
@@ -79,7 +79,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 *   [Discord](https://discord.me/craftcms) - The official Discord community for Craft CMS.
 *   [Envato Tuts+](https://webdesign.tutsplus.com/categories/craft-cms/courses) - Find videos and online courses to help you learn.
 *   [Facebook](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
-*   [Issues & Feedback](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports.
+*   [Issues & Feedback (⭐2.9k)](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports.
 *   [Meetups](https://craftcms.com/meetups) - Find a local Craft meetup.
 *   [Mijingo](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
 *   [Professionals](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.
@@ -208,7 +208,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 
 *   [The Guide to Craft CMS Development](https://gomasuga.com/course/craft-cms-guide) by Ryan Masuga
 *   [The Ultimate Craft CMS vs WordPress Guide](https://gomasuga.com/info/content-management-systems-craft-cms-vs-wordpress) by Ryan Masuga
-*   [Introduction to Craft CMS](https://github.com/jeromecoupe/iad_craftcms_introduction) by Jérôme Coupé/Webstoemp (on Github)
+*   [Introduction to Craft CMS (⭐83)](https://github.com/jeromecoupe/iad_craftcms_introduction) by Jérôme Coupé/Webstoemp (on Github)
 
 ##### Security
 
@@ -422,16 +422,16 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 
 ### Dev Tools
 
-*   [Craft CLI](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2.
-*   [Craft CMS Bootstrap](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
-*   [Craft CMS Docker](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker.
-*   [Craft 3 Multi-environment](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
-*   [Craft Scripts](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
-*   [Craftman](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly.
-*   [Crafty Vagrant](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects.
-*   [Generator Craft Install](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs.
-*   [Happy Lager Demo Site](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
-*   [Nginx Craft](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
+*   [Craft CLI (⭐139)](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2.
+*   [Craft CMS Bootstrap (⭐4)](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
+*   [Craft CMS Docker (⭐36)](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker.
+*   [Craft 3 Multi-environment (⭐73)](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version (⭐83)](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
+*   [Craft Scripts (⭐359)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
+*   [Craftman (⭐125)](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly.
+*   [Crafty Vagrant (⭐57)](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects.
+*   [Generator Craft Install (⭐56)](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs.
+*   [Happy Lager Demo Site (⭐8)](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
+*   [Nginx Craft (⭐291)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
 *   [Plugin Factory](https://pluginfactory.io/) - Generate Craft CMS plugin code scaffolding that conforms to P\&T’s Coding Standards.
 
 ***

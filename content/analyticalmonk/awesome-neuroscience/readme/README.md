@@ -39,41 +39,41 @@ Software, libraries and frameworks for development purposes.
 
 ### Python
 
-*   [Nengo](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
-*   [Nitime](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
-*   [Nilearn](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
-*   [DIPY](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
-*   [MNE-Python](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
-*   [NiBabel](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
-*   [PsychoPy](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
-*   [NuPic](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
-*   [Brian2](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
-*   [expyriment](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
-*   [BindsNET](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
-*   [SpikeInterface](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
+*   [Nengo (⭐715)](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
+*   [Nitime (⭐210)](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
+*   [Nilearn (⭐898)](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
+*   [DIPY (⭐548)](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
+*   [MNE-Python (⭐2k)](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
+*   [NiBabel (⭐499)](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
+*   [PsychoPy (⭐1.3k)](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
+*   [NuPic (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+*   [Brian2 (⭐699)](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
+*   [expyriment (⭐102)](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
+*   [BindsNET (⭐1.1k)](https://github.com/Hananel-Hazan/bindsnet) - Package for simulating spiking neural networks for reinforcement & machine learning.
+*   [SpikeInterface (⭐139)](https://github.com/SpikeInterface/spikeinterface) - Framework designed to unify spike-sorting technologies
 
 ### Matlab
 
 *   [Brain Dynamics Toolbox](https://bdtoolbox.org/) - Open software for simulating dynamical systems in neuroscience.
 *   [BrainStorm](https://neuroimage.usc.edu/brainstorm/) - Open-source application dedicated to the analysis of brain recordings (MEG, EEG, fNIRS, ECoG, depth electrodes and multiunit electrophysiology).
 *   [EEGLAB](https://sccn.ucsd.edu/eeglab/) - Interactive Matlab toolbox for processing continuous and event-related EEG, MEG and other electrophysiological data.
-*   [FieldTrip](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
+*   [FieldTrip (⭐658)](https://github.com/fieldtrip/fieldtrip) - Toolbox for MEG and EEG analysis.
 *   [Psychtoolbox-3](http://psychtoolbox.org/) -  Free set of Matlab and GNU Octave functions for vision and neuroscience research.
 *   [SPM](https://www.fil.ion.ucl.ac.uk/spm/) - Free and open source software for the  analysis of brain imaging data sequences (fMRI, PET, SPECT, EEG, MEG).
 
 ### C++
 
-*   [Brayns](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
+*   [Brayns (⭐270)](https://github.com/BlueBrain/Brayns) - Minimalistic visualiser that can perform ray-traced rendering of neurons. Ray-tracing can help to highlight areas of neural circuits where cells touch each other and where synapses are being created leading to a better understanding of how individual cells and subsequently the brain functions.
 
 ### JavaScript
 
-*   [Brainbrowser](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
+*   [Brainbrowser (⭐311)](https://github.com/aces/brainbrowser) - Library exposing set of web-based 3D visualization tools primarily targetting neuroimaging.
 *   [jsPsych](https://www.jspsych.org/) - Library for creating and running behavioural experiments in a web browser.
 
 ### R
 
-*   [nat: NeuroAnatomy Toolbox](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
-*   [brainGraph](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
+*   [nat: NeuroAnatomy Toolbox (⭐58)](https://github.com/jefferis/nat) - Package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
+*   [brainGraph (⭐130)](https://github.com/cwatson/brainGraph) - Package for performing graph theory analyses of brain MRI data.
 
 ## Resources
 
@@ -101,7 +101,7 @@ MOOCs may be patterned on a college or university course or may be less structur
 *   [Introduction to Neuroscience | MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) - Introduction to the mammalian nervous system, with emphasis on the structure and function of the human brain.
 *   [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) - Provides an introduction to basic computational methods for understanding what nervous systems do and for determining how they function.
 *   [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) - Explores the functional organization and neurophysiology of the human central nervous system, while providing a neurobiological framework for understanding human behavior.
-*   [Neuromatch Academy](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
+*   [Neuromatch Academy (⭐2.3k)](https://github.com/NeuromatchAcademy/course-content) - Jupyter notebooks for the three-week intensive summer school in computational neuroscience.
 
 ### Communities
 
@@ -117,13 +117,13 @@ MOOCs may be patterned on a college or university course or may be less structur
 
 ### Miscellaneous
 
-*   [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+*   [Awesome Public Datasets - Neuroscience (⭐52k)](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
 *   [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - Simulator for a historical computational model based on neurons.
 *   [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - Searchable database for computational neuroscience models.
 *   [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - Searchable database for  of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances.
 *   [NeuroElectro](https://neuroelectro.org/) - Searchable database of neurons and their electrophysiological properties (extracted from literature)
 *   [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - Interactive mindmap containing curated resources for anyone interested in learning neuroscience.
-*   [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
+*   [neuroSummerSchools (⭐191)](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 *   [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 
 ## Contribute

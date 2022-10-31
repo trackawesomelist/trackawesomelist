@@ -54,7 +54,7 @@ A list of communities about web development and design that are powered by **Sla
 *   [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 *   [Kazan Developers](https://devkzn.slack.com/)
 *   [Polish developers](http://slackin.devstyle.pl/)
-*   [Spanish-speaking developer communities list](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
+*   [Spanish-speaking developer communities list (⭐167)](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
 *   [Ruby Turkey Community](https://rubytr.herokuapp.com/)
 *   [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
 *   [Vancouver Developers (yvrdev)](https://yvrdev.slack.com/)
@@ -89,11 +89,11 @@ A list of communities about web development and design that are powered by **Sla
 
 ## Looking for more lists like that
 
-*   [Awesome Community](https://github.com/phpearth/awesome-community)
+*   [Awesome Community (⭐212)](https://github.com/phpearth/awesome-community)
 
 ## Contribute
 
-Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
+Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines (⭐294)](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
 
 ## License
 

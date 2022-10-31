@@ -10,7 +10,7 @@ A curated list of delightful Atom packages and resources.
 
 # Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
+A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome (⭐223k)](https://github.com/sindresorhus/awesome).
 
 ## Table of Content
 
@@ -99,7 +99,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 *   [AppleScript](https://atom.io/packages/build-applescript) — oscompile
 *   [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
 *   [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
-*   [GNU Make](https://github.com/AtomBuild/atom-build-make) - make
+*   [GNU Make (⭐14)](https://github.com/AtomBuild/atom-build-make) - make
 *   [Sass](https://atom.io/packages/build-sass) — sass
 *   [TypeScript](https://atom.io/packages/build-tsc) - tsc
 
@@ -109,7 +109,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 
 #### [Nuclide](https://nuclide.io/)
 
-> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook](https://github.com/facebook/nuclide).
+> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook (⭐7.9k)](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
 
@@ -149,7 +149,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
 
-> [Beautify](https://github.com/beautify-web/js-beautify)
+> [Beautify (⭐7.9k)](https://github.com/beautify-web/js-beautify)
 > HTML (including [Handlebars](http://handlebarsjs.com/)),
 > CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 > JavaScript, and much more in Atom.

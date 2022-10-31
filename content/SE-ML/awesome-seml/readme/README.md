@@ -102,7 +102,7 @@ How to deploy and operate your models in a production environment.
 How to organize teams and projects to ensure effective collaboration and accountability.
 
 *   [Data Scientists in Software Teams: State of the Art and Challenges](http://web.cs.ucla.edu/\~miryung/Publications/tse2017-datascientists.pdf) 🎓
-*   [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
+*   [Machine Learning Interviews (⭐7.4k)](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
 *   [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 *   [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 
@@ -125,30 +125,30 @@ We only share open source tools, or commercial platforms that offer substantial 
 
 *   [Aim](https://aimstack.io) - Aim is an open source experiment tracking tool.
 *   [Airflow](https://airflow.apache.org/) - Programmatically author, schedule and monitor workflows.
-*   [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - Python library focused on outlier, adversarial and drift detection.
-*   [Archai](https://github.com/microsoft/archai) - Neural architecture search.
+*   [Alibi Detect (⭐1.5k)](https://github.com/SeldonIO/alibi-detect) - Python library focused on outlier, adversarial and drift detection.
+*   [Archai (⭐373)](https://github.com/microsoft/archai) - Neural architecture search.
 *   [Data Version Control (DVC)](https://dvc.org/) - DVC is a data and ML experiments management tool.
 *   [Facets Overview / Facets Dive](https://pair-code.github.io/facets/) - Robust visualizations to aid in understanding machine learning datasets.
 *   [FairLearn](https://fairlearn.github.io/) - A toolkit to assess and improve the fairness of machine learning models.
 *   [Git Large File System (LFS)](https://git-lfs.github.com/) - Replaces large files such as datasets with text pointers inside Git.
-*   [Great Expectations](https://github.com/great-expectations/great_expectations) - Data validation and testing with integration in pipelines.
-*   [HParams](https://github.com/PetrochukM/HParams) - A thoughtful approach to configuration management for machine learning projects.
+*   [Great Expectations (⭐7.4k)](https://github.com/great-expectations/great_expectations) - Data validation and testing with integration in pipelines.
+*   [HParams (⭐126)](https://github.com/PetrochukM/HParams) - A thoughtful approach to configuration management for machine learning projects.
 *   [Kubeflow](https://www.kubeflow.org/) - A platform for data scientists who want to build and experiment with ML pipelines.
-*   [Label Studio](https://github.com/heartexlabs/label-studio) - A multi-type data labeling and annotation tool with standardized output format.
-*   [LiFT](https://github.com/linkedin/LiFT) - Linkedin fairness toolkit.
+*   [Label Studio (⭐11k)](https://github.com/heartexlabs/label-studio) - A multi-type data labeling and annotation tool with standardized output format.
+*   [LiFT (⭐159)](https://github.com/linkedin/LiFT) - Linkedin fairness toolkit.
 *   [MLFlow](https://mlflow.org/) - Manage the ML lifecycle, including experimentation, deployment, and a central model registry.
-*   [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) - Streamlines and automates the generation of model cards; for model documentation.
+*   [Model Card Toolkit (⭐314)](https://github.com/tensorflow/model-card-toolkit) - Streamlines and automates the generation of model cards; for model documentation.
 *   [Neptune.ai](https://neptune.ai/) - Experiment tracking tool bringing organization and collaboration to data science projects.
-*   [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
+*   [Neuraxle (⭐543)](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 *   [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
-*   [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-*   [REVISE: REvealing VIsual biaSEs](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
-*   [Robustness Metrics](https://github.com/google-research/robustness_metrics) - Lightweight modules to evaluate the robustness of classification models.
-*   [Seldon Core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
+*   [PyTorch Lightning (⭐20k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+*   [REVISE: REvealing VIsual biaSEs (⭐91)](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
+*   [Robustness Metrics (⭐418)](https://github.com/google-research/robustness_metrics) - Lightweight modules to evaluate the robustness of classification models.
+*   [Seldon Core (⭐3.4k)](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
 *   [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.
 *   [TensorBoard](https://www.tensorflow.org/tensorboard/) - TensorFlow's Visualization Toolkit.
 *   [Tensorflow Extended (TFX)](https://www.tensorflow.org/tfx/) - An end-to-end platform for deploying production ML pipelines.
-*   [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
+*   [Tensorflow Data Validation (TFDV) (⭐674)](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
 *   [Weights & Biases](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning.
 
 ## Contribute

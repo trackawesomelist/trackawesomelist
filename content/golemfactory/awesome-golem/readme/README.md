@@ -54,7 +54,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 *   [Golem Network Platform](https://www.golem.network/platform) - Learn the Golem platform on the official Golem Network website.
 *   [Golem Factory GitHub](https://github.com/golemfactory) - Where you can find the open source code of all things Golem.
-*   [Yagna GitHub](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
+*   [Yagna GitHub (⭐264)](https://github.com/golemfactory/yagna) - The official Rust implementation of Golem.
 *   [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
 *   [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
 *   [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
@@ -69,117 +69,117 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Network Statistics
 
 *   [Golem Network Stats](https://stats.golem.network) - Statistics tracking tasks and provider resource utilization in the Golem Network.
-*   [Golem Stats backend](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
+*   [Golem Stats backend (⭐1)](https://github.com/cryptobench/golem-stats-backend) - Backend of the Golem Network Statistics page including API endpoint URLs.
 *   [Stats API Documentation](https://docs.stats.golem.network/) - API endpoints that the Golem Network Stats page uses to display its data.
 
 ## Apps
 
 *   [Golem SLATE](https://golem-slate.xyz/) - Hosted code pen SPA for writing a requester script to have work computed by the network. Utilizes dockerized yagna environments to communicate with the Golem Network in the background.
 *   [Chess On Golem](https://chessongolem.app/) - Hosted Chess app to play against the providers of the network utilizing the Stockfish open source Chess engine.
-*   [Go le' Machin](https://github.com/DEUTSCHKLUB/go-le-m) - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
+*   [Go le' Machin (⭐2)](https://github.com/DEUTSCHKLUB/go-le-m) - Web based bulk image editor that allows users to upload multiple images and apply bulk actions to them.
 
 ### Docker
 
-*   [Golem Requestor Node](https://github.com/DerekJarvis/general-golem) - Dockerized requestor environment. Pass in the py script, it sets up the daemon and runs it.
+*   [Golem Requestor Node (⭐6)](https://github.com/DerekJarvis/general-golem) - Dockerized requestor environment. Pass in the py script, it sets up the daemon and runs it.
 
 ### Testing
 
-*   [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
-*   [Golem-afl](https://github.com/sladecek/golem-afl) - An experimental test-fuzzing framework. Assists in finding security holes.
-*   [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - An adaptive distributed test executor for Rust projects.
-*   [Golem CI](https://github.com/hhio618/golem-ci) - Decentralized task pipeline.
-*   [Golem SLATE](https://github.com/deutschklub/golem-slate) - Open source repository for Golem SLATE described in the above Apps section.
-*   [ThorgPress](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
+*   [Golem Test Harness (Goth) (⭐10)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
+*   [Golem-afl (⭐2)](https://github.com/sladecek/golem-afl) - An experimental test-fuzzing framework. Assists in finding security holes.
+*   [Golem Cargo Test (⭐2)](https://github.com/sladecek/golem_cargo_test) - An adaptive distributed test executor for Rust projects.
+*   [Golem CI (⭐5)](https://github.com/hhio618/golem-ci) - Decentralized task pipeline.
+*   [Golem SLATE (⭐5)](https://github.com/deutschklub/golem-slate) - Open source repository for Golem SLATE described in the above Apps section.
+*   [ThorgPress (⭐1)](https://github.com/figurestudios/thorgpress) - A tool to benchmark providers and unveil their true capabilities beyond what can be seen through the marketplace.
 
 ### VPN
 
-*   [Yagna httpx client](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
-*   [Golem Provider with network access](https://github.com/jedbrooke/golem-network-requestor) - A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.
+*   [Yagna httpx client (⭐1)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
+*   [Golem Provider with network access (⭐2)](https://github.com/jedbrooke/golem-network-requestor) - A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.
 
 ### Games
 
-*   [Golem Sudoku](https://github.com/Dodecane/golem-sudoku) - Game of Sudoku with size variants.
-*   [HSOG-requester](https://github.com/ChrisHelmsC/hsog-requestor) - Helps the HearthStone community in the design and building of decks by running a large number of simulated games.
-*   [ChessOnGolem](https://github.com/broadcastmonkey/ChessOnGolem) - Open source repository for Chess described in first Apps section. Includes React frontend for the 2 AI's playing against each other through the Golem backend.
-*   [Golem Fleet Battle Simulator](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator) - System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.
+*   [Golem Sudoku (⭐2)](https://github.com/Dodecane/golem-sudoku) - Game of Sudoku with size variants.
+*   [HSOG-requester (⭐1)](https://github.com/ChrisHelmsC/hsog-requestor) - Helps the HearthStone community in the design and building of decks by running a large number of simulated games.
+*   [ChessOnGolem (⭐11)](https://github.com/broadcastmonkey/ChessOnGolem) - Open source repository for Chess described in first Apps section. Includes React frontend for the 2 AI's playing against each other through the Golem backend.
+*   [Golem Fleet Battle Simulator (⭐2)](https://github.com/UnfortuN8/Golem-Fleet-Battle-Simulator) - System for calculating the results of a battle between two opposing starship fleets. Used in the iOS game Rock Paper Frigate to determine the result of PvP fleet battles.
 
 ### CLI Tools
 
-*   [Golem Completion Engine](https://github.com/krunch3r76/gc__enhanced_completion) - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.
-*   [Golocity](https://github.com/davidstyers/golocity) - Build and deploy your dockerized applications on the Golem Network in just two commands.
-*   [gc\_\_push\_image](https://github.com/figurestudios/gc__push_image) - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image\_url without self-hosting/giving up control.
+*   [Golem Completion Engine (⭐1)](https://github.com/krunch3r76/gc__enhanced_completion) - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.
+*   [Golocity (⭐6)](https://github.com/davidstyers/golocity) - Build and deploy your dockerized applications on the Golem Network in just two commands.
+*   [gc\_\_push\_image (⭐1)](https://github.com/figurestudios/gc__push_image) - A CLI tool that publishes the GVMI image to Skynet, making users able to change the image\_url without self-hosting/giving up control.
 
 ### Video Transcoding and Editing
 
-*   [Golem Network Video Transcoder](https://github.com/Doc-Saintly/golem-video) - Sample app to transcode videos. Select your transcoding profile and then upload your videos.
-*   [Golem Transcoding requestor](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
-*   [Golem Auto Editor](https://github.com/jedbrooke/golem-auto-editor) - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
+*   [Golem Network Video Transcoder (⭐1)](https://github.com/Doc-Saintly/golem-video) - Sample app to transcode videos. Select your transcoding profile and then upload your videos.
+*   [Golem Transcoding requestor (⭐4)](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
+*   [Golem Auto Editor (⭐4)](https://github.com/jedbrooke/golem-auto-editor) - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
 
 ### Data Analysis
 
-*   [Flan](https://github.com/nestorbonilla/flan) - Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.
-*   [Golem Lorenz-attractor](https://github.com/hhio618/golem-lorenz-attractor) - A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
-*   [Golem Geomandel](https://github.com/Edhendil/golem-geomandel) - Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.
-*   [Golem COVID](https://github.com/iRhonin/golem-covid) - Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.
-*   [Golem Parallel Matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.
-*   [Full-Text Search Engine](https://github.com/niklr/golem-fulltext-search) - A search engine service that goes through text files.
+*   [Flan (⭐3)](https://github.com/nestorbonilla/flan) - Tool for entrepreneurs that provide customized analysis of millions of worldwide trade value records giving them a bold guideline about what sectors they would need to take more attention to.
+*   [Golem Lorenz-attractor (⭐0)](https://github.com/hhio618/golem-lorenz-attractor) - A system of three coupled, first-order, nonlinear differential equations which describe the trajectory of a particle through time.
+*   [Golem Geomandel (⭐1)](https://github.com/Edhendil/golem-geomandel) - Python script for generating sequences of Mandelbrot images centered on a single point and with zoom increasing in each image.
+*   [Golem COVID (⭐1)](https://github.com/iRhonin/golem-covid) - Creates images of new deaths per million related to COVID. After all images generated, it will gather them and create a gif.
+*   [Golem Parallel Matplotlib (⭐0)](https://github.com/CoeJoder/golem-parallel-matplotlib) - Various statistical analyses are performed on circadian rhythm measurements in human test subjects.
+*   [Full-Text Search Engine (⭐2)](https://github.com/niklr/golem-fulltext-search) - A search engine service that goes through text files.
 
 ### Data Simulation
 
-*   [cadCAD Golem](https://github.com/rogervs/cadcadgolem) - Package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.
-*   [Golem Array](https://github.com/johngrantuk/golem-array) - Antenna array design and simulation.
-*   [Limit visualization](https://github.com/vporton/limit-visualization) - Plots graphs with various limits. Supports discontinous graphs.
-*   [GolemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Generates graph frames, then combine them into an animation.
-*   [Golemized strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - Simple distributed computing hack that simulates a physical phenomena called gravitional lensing.
+*   [cadCAD Golem (⭐5)](https://github.com/rogervs/cadcadgolem) - Package wrapper for cadCAD to dispatch the simulation workload to multiple Golem nodes. Supports Jupyter Notebook.
+*   [Golem Array (⭐5)](https://github.com/johngrantuk/golem-array) - Antenna array design and simulation.
+*   [Limit visualization (⭐1)](https://github.com/vporton/limit-visualization) - Plots graphs with various limits. Supports discontinous graphs.
+*   [GolemGraphWavePair (⭐1)](https://github.com/smiley1983/golemGraphWavePair) - Generates graph frames, then combine them into an animation.
+*   [Golemized strong-gravitational-lense (⭐1)](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - Simple distributed computing hack that simulates a physical phenomena called gravitional lensing.
 
 ### Data Optimization
 
-*   [Golem or-tools](https://github.com/Doc-Saintly/golem-ortools) - Uses the or-tools Constraint Programming library to solve problems.
-*   [No more COFUD](https://github.com/DEUTSCHKLUB/no-more-COFUD) - Calculates how to fit the most people into a space while keeping 2 meters distance between each other.
-*   [Mutta Puffs](https://github.com/DeveloperInProgress/Mutta-Puffs) - Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.
+*   [Golem or-tools (⭐1)](https://github.com/Doc-Saintly/golem-ortools) - Uses the or-tools Constraint Programming library to solve problems.
+*   [No more COFUD (⭐1)](https://github.com/DEUTSCHKLUB/no-more-COFUD) - Calculates how to fit the most people into a space while keeping 2 meters distance between each other.
+*   [Mutta Puffs (⭐1)](https://github.com/DeveloperInProgress/Mutta-Puffs) - Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.
 
 ### Finance
 
-*   [ZKSync .csv export](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
+*   [ZKSync .csv export (⭐0)](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
 
 ### Machine Learning
 
-*   [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
-*   [Golem Image Classifier](https://github.com/ControlCplusControlV/Golem-Image-Classifier) - Train and classify images through an active service.
+*   [DeML-Golem (⭐31)](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
+*   [Golem Image Classifier (⭐5)](https://github.com/ControlCplusControlV/Golem-Image-Classifier) - Train and classify images through an active service.
 
 ### Deep Learning
 
-*   [Mlg](https://github.com/rezahsnz/mlg) - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.
-*   [Deepart Golem](https://github.com/echinocacti/deepart_golem) - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.
+*   [Mlg (⭐2)](https://github.com/rezahsnz/mlg) - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.
+*   [Deepart Golem (⭐3)](https://github.com/echinocacti/deepart_golem) - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.
 
 ### RNG
 
-*   [Gandom](https://github.com/rezahsnz/gandom) - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.
-*   [Entropythief](https://github.com/krunch3r76/entropythief) - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
+*   [Gandom (⭐1)](https://github.com/rezahsnz/gandom) - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.
+*   [Entropythief (⭐3)](https://github.com/krunch3r76/entropythief) - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
 
 ### Password Recovery
 
-*   [Golem-JTR](https://github.com/hhio618/golem-jtr) - Run John The Ripper to recover a password.
+*   [Golem-JTR (⭐0)](https://github.com/hhio618/golem-jtr) - Run John The Ripper to recover a password.
 *   [Yacat](https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
 ### DeFi
 
-*   [Golem Staking Pool incentivize system for GLM holders](https://github.com/masaun/GLM-stake-pool) - A smart contract in order to provide the opportunity of yield farming for GLM token holders.
-*   [Magic-doll](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. Its core is `Kyle`, a Golem app that does all the computation to pick the best team to play for each match.
+*   [Golem Staking Pool incentivize system for GLM holders (⭐6)](https://github.com/masaun/GLM-stake-pool) - A smart contract in order to provide the opportunity of yield farming for GLM token holders.
+*   [Magic-doll (⭐1)](https://github.com/bakaoh/magic-doll) - Sumer is a DeFi application that people may delegate their Splinterland card to earn passive income. Its core is `Kyle`, a Golem app that does all the computation to pick the best team to play for each match.
 
 ### User Interfaces
 
-*   [Golem UI](https://github.com/shri4net/golem-hackathon-2020) - Electron user interface for Yagna.
+*   [Golem UI (⭐1)](https://github.com/shri4net/golem-hackathon-2020) - Electron user interface for Yagna.
 
 ### Miscellaneous
 
-*   [Gc\_\_ListOffers](https://github.com/krunch3r76/gc__listoffers) - List offers by providers on the Golem Network with a GUI.
-*   [Gc\_\_gvmi\_hash](https://github.com/krunch3r76/gc__gvmi_hash) - Recalculate the hash of gvmi image file. Solves the issue of having lost the hash of a previously uploaded image or if you're unsure if a key corresponds to a specific image.
-*   [gvm-vim](https://github.com/canokaue/gvm-vim) - Golemized docker image for compiling the VIM editor.
-*   [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
-*   [Golem Image Sharpening](https://github.com/visualNext/golem) - A tool to sharpen images.
-*   [Filterms](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
-*   [golem-bulk-image-handler](https://github.com/figurestudios/golem-bulk-image-handler) - Takes an input image and processes it in many different ways using the Pillow library.
+*   [Gc\_\_ListOffers (⭐3)](https://github.com/krunch3r76/gc__listoffers) - List offers by providers on the Golem Network with a GUI.
+*   [Gc\_\_gvmi\_hash (⭐2)](https://github.com/krunch3r76/gc__gvmi_hash) - Recalculate the hash of gvmi image file. Solves the issue of having lost the hash of a previously uploaded image or if you're unsure if a key corresponds to a specific image.
+*   [gvm-vim (⭐0)](https://github.com/canokaue/gvm-vim) - Golemized docker image for compiling the VIM editor.
+*   [YaJSapi fork with greeting example (⭐1)](https://github.com/rezahsnz/yajsapi) - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
+*   [Golem Image Sharpening (⭐0)](https://github.com/visualNext/golem) - A tool to sharpen images.
+*   [Filterms (⭐3)](https://github.com/krunch3r76/filterms) - Market-strategy for whitelisting or blacklisting as a Golem requestor (yapapi).
+*   [golem-bulk-image-handler (⭐1)](https://github.com/figurestudios/golem-bulk-image-handler) - Takes an input image and processes it in many different ways using the Pillow library.
 
 ## Bounties and Rewards
 
@@ -190,35 +190,35 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 *   [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 *   [Yagna Python API docs](https://yapapi.readthedocs.io/) - Documentation for Yapapi.
-*   [Releases List](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
+*   [Releases List (⭐264)](https://github.com/golemfactory/yagna/releases) - GitHub releases of Yagna.
 *   [Requestor flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development) - Get started quick and create your first tasks/request on Golem.
 *   [Yagna tag on Stack Overflow](https://stackoverflow.com/questions/tagged/yagna) - Use the Yagna tag if you have an interesting question you'd like answered.
 *   [Breakdown of blender.js](https://docs.google.com/document/d/e/2PACX-1vRONc0RRaqImJumYQ3SmILtLo4jiCYgtE0AO3JfpMy0b0-BjAU8TvlIHdtbrs5cDrMbuPFv7khE47MO/pub) - JS guide for developers to get a better idea of how to run a task with the JavaScript API.
-*   [EasyYagnaJS](https://github.com/figurestudios/easy-yagna-js) - Copies over Node.js dependencies directly to the provider, making developers not have to use Docker in their workflow.
-*   [push-gvmi](https://github.com/figurestudios/push-gvmi) - A GitHub action that automatically builds and uploads the GVMI image to Golem plus a way to scrape the newest hash for local usage.
+*   [EasyYagnaJS (⭐2)](https://github.com/figurestudios/easy-yagna-js) - Copies over Node.js dependencies directly to the provider, making developers not have to use Docker in their workflow.
+*   [push-gvmi (⭐1)](https://github.com/figurestudios/push-gvmi) - A GitHub action that automatically builds and uploads the GVMI image to Golem plus a way to scrape the newest hash for local usage.
 
 ## Provider Resources
 
 *   [Provider Tutorial](https://handbook.golem.network/provider-tutorials/provider-tutorial) - Get started as a Provider on Golem Network using the handbook.
-*   [Provider FAQ](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - Community curated list of commonly asked questions and answers.
-*   [Yagna-binaries for aarch64](https://github.com/MarijnStevens/yagna-binaries) - Build for 64 bit arm architecture to be able to run as a provider on a system such as a Raspberry Pi.
+*   [Provider FAQ (⭐9)](https://github.com/figurestudios/community-golem-docs/blob/main/providing/provider-faq.md) - Community curated list of commonly asked questions and answers.
+*   [Yagna-binaries for aarch64 (⭐7)](https://github.com/MarijnStevens/yagna-binaries) - Build for 64 bit arm architecture to be able to run as a provider on a system such as a Raspberry Pi.
 *   [Automatically update provider node prices](https://gist.github.com/sv3t0sl4v/28f896752edc9e20347ffc6d8cefe74c) - Script that checks the median of the prices on stats.golem.network and updates all 3 values on the provider node related to price.
-*   [Golem Price Updater](https://github.com/jedbrooke/golem-price-updater) - Automatically adjust the price for your Golem node based on the current price of GLM.
+*   [Golem Price Updater (⭐4)](https://github.com/jedbrooke/golem-price-updater) - Automatically adjust the price for your Golem node based on the current price of GLM.
 
 ### Monitoring
 
-*   [Golem Provider dashboard](https://github.com/vciancio/golem-dashboard) - ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.
-*   [Golem Provider dashboard backend / GolemBar](https://github.com/vciancio/golem-node-server) - Flask backend that collects the data from the provider that's then used with the dashboard project above.
+*   [Golem Provider dashboard (⭐5)](https://github.com/vciancio/golem-dashboard) - ReactJS dashboard made to quickly gather status from your provider nodes without having to SSH into them.
+*   [Golem Provider dashboard backend / GolemBar (⭐3)](https://github.com/vciancio/golem-node-server) - Flask backend that collects the data from the provider that's then used with the dashboard project above.
 
 ### Provisioning
 
 *   [Ansible ya\_provider](https://galaxy.ansible.com/golemfactory/ya_provider) - Ansible role that deploys a Golem provider automatically with minimal configuration required.
-*   [WSL](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
-*   [Golem Provider Terraform](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
-*   [Automatic Golem](https://github.com/r34x/Automatic-Golem) - Setup a Golem Provider with simple instructions and logs guiding you through the process.
-*   [Golem Provider Node](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
-*   [Golem Provider node](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
-*   [Scalable golem provider](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
+*   [WSL (⭐1)](https://github.com/r34x/WSL) - Allows Windows users to run Golem within Windows Subsystem for Linux. Removing the requirement of Windows users needing to use a Virtual Machine.
+*   [Golem Provider Terraform (⭐2)](https://github.com/nemani/golem-provider-terraform) - Terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus.
+*   [Automatic Golem (⭐7)](https://github.com/r34x/Automatic-Golem) - Setup a Golem Provider with simple instructions and logs guiding you through the process.
+*   [Golem Provider Node (⭐12)](https://github.com/alexandre-abrioux/golem-node) - Docker version of a node to help you get started running as a provider in a Docker container quick.
+*   [Golem Provider node (⭐4)](https://github.com/blue-notes-robot/golem-node) - Fork of Alxexandre-abrioux project above that allows to dynamically generate config files from ENV variables and specify how many replicas you'd like to spawn.
+*   [Scalable golem provider (⭐0)](https://github.com/cryptobench/scaleable-golem-provider) - Spawn x amount of providers using Docker.
 
 ## Learning Resources
 
@@ -258,7 +258,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 ## Community
 
 *   [Golem Network Discussion Group](https://t.me/GolemProject) - Community driven Telegram channel.
-*   [Reddit Golem Stat Bot](https://github.com/figurestudios/golem-stat-bot) - Scrapes Reddit posts on /r/GolemProject, and replies if specific keywords/commands are found.
+*   [Reddit Golem Stat Bot (⭐3)](https://github.com/figurestudios/golem-stat-bot) - Scrapes Reddit posts on /r/GolemProject, and replies if specific keywords/commands are found.
 *   [Golem God](https://github.com/Shreyas-Dev-ITB/Golem-God) - Gives out "bot coins" for activity, and lets users exchange and withdraw them to tokens when they have enough.
 
 ## Contributing

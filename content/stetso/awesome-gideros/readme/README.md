@@ -99,7 +99,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ### Input
 
-*   [GidSwipe](https://github.com/stetso/GidSwipe) - Easy to use tap and swipe manager for mobile.
+*   [GidSwipe (⭐0)](https://github.com/stetso/GidSwipe) - Easy to use tap and swipe manager for mobile.
 *   [Gestures](http://appcodingeasy.com/Gideros-Mobile/Detecting-Gestures-in-Gideros) - Define and detect complex gestures from points a list of points.
 *   [Accelerometer](http://appcodingeasy.com/Gideros-Mobile/Using-Accelerometer-with-Box2d-in-Gideros) - Quick example of how to use the device accelerometer as input.
 *   [Shake detection](http://appcodingeasy.com/Gideros-Mobile/Gideros-Shake-detection) - Small snippet to detect device shake.
@@ -108,7 +108,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 *   [GTween](http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing) - Tween sprite variables with this library (comes with all the easing functions you need).
 *   [Animation using MovieClip](http://bluebilby.com/2013/05/12/gideros-mobile-tutorial-animated-movieclips/) - Tutorial on how to animate sprites using the MovieClip class.
-*   [Spriteheet animation class](https://github.com/nascode/gideros_animsheet) - Class that helps with creating and playing animations from spritesheets.
+*   [Spriteheet animation class (⭐2)](https://github.com/nascode/gideros_animsheet) - Class that helps with creating and playing animations from spritesheets.
 
 ### Tilemaps
 
@@ -135,7 +135,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ### GUI
 
-*   [Layout](https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
+*   [Layout (⭐8)](https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
 *   [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - Simple class for creating clickable buttons.
 *   [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - Sliding UI-Element that can be used for example for level selection.
 
@@ -147,24 +147,24 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ### Plugins
 
-*   [SKStoreReview](https://github.com/mertkurum/GiderosStoreReview) - Gideros Plugin for SKStoreReviewController iOS 10.3+.
+*   [SKStoreReview (⭐0)](https://github.com/mertkurum/GiderosStoreReview) - Gideros Plugin for SKStoreReviewController iOS 10.3+.
 *   [C++ plugin development](http://giderosmobile.com/forum/discussion/1025/step-by-step-how-to-write-a-c-plugin-and-deploy-it-to-the-desktop-windows-player) - Getting started with Gideros plugin development in C++.
 
 ## Useful Lua-Libraries
 
 *General Lua libraries that are useful in gamedev but are not Gideros specific*
 
-*   [lume](https://github.com/rxi/lume) - Great collection of functions that are useful for game development.
-*   [inspect](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way.
+*   [lume (⭐761)](https://github.com/rxi/lume) - Great collection of functions that are useful for game development.
+*   [inspect (⭐1.1k)](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way.
 *   [jumper](http://yonaba.github.io/Jumper/) - Super-fast grid-based pathfinding for Lua.
-*   [bump](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes (from version 2017.8 onwards Gideros contains a C-port of the library with the same API that should be used instead [cbump](https://wiki.giderosmobile.com/index.php/Bump).
-*   [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm, implemented in Lua.
+*   [bump (⭐769)](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes (from version 2017.8 onwards Gideros contains a C-port of the library with the same API that should be used instead [cbump](https://wiki.giderosmobile.com/index.php/Bump).
+*   [Bresenham (⭐13)](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm, implemented in Lua.
 
 ## Related Awesome Lists
 
-*   [awesome-lua](https://github.com/LewisJEllis/awesome-lua)
-*   [awesome-love2d](https://github.com/love2d-community/awesome-love2d)
-*   [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
+*   [awesome-lua (⭐3.2k)](https://github.com/LewisJEllis/awesome-lua)
+*   [awesome-love2d (⭐2.5k)](https://github.com/love2d-community/awesome-love2d)
+*   [awesome-gamedev (⭐13)](https://github.com/mbrukman/awesome-gamedev)
 
 ## License and Contributing
 

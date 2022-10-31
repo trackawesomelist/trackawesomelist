@@ -60,7 +60,7 @@ All that you need to create a great mobile web experience.
 *   [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) - Guideline (must read) from Mozilla about designing mobile websites.
 *   [Mobile Web Performance Checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) - Best practices for optimizing mobile web apps.
 *   [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - An introduction to intersection observers.
-*   [Offline First (Awesome List)](https://github.com/pazguille/offline-first) - The awesome list of offline-first stuff (Progressive Web Apps, Service Workers etc.)
+*   [Offline First (Awesome List) (⭐2.9k)](https://github.com/pazguille/offline-first) - The awesome list of offline-first stuff (Progressive Web Apps, Service Workers etc.)
 *   [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) - How to prevent your phone from sleeping.
 *   [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - Overview of technics of responsive design.
 *   [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - An overview of techniques to speed page loading.
@@ -112,7 +112,7 @@ All that you need to create a great mobile web experience.
 
 ## Auditing Tools
 
-*   [Lighthouse](https://github.com/GoogleChrome/lighthouse) - Analyzing tool for web apps and web pages.
+*   [Lighthouse (⭐25k)](https://github.com/GoogleChrome/lighthouse) - Analyzing tool for web apps and web pages.
 *   [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
 *   [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) - The tool that analyzes your page and gives recommendations for increasing downloading speed.
 *   [PageSpeed](https://www.modpagespeed.com) - Web server modules that optimize your site automatically.
@@ -130,17 +130,17 @@ All that you need to create a great mobile web experience.
 ## Other Useful Tools and Libraries
 
 *   [Browsersync](https://browsersync.io) - Time-saving synchronised browser testing.
-*   [Eruda](https://github.com/liriliri/eruda) - Console for mobile web browsers.
-*   [Interact.js](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
-*   [Fastclick](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
-*   [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
-*   [React Dates](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker React library for the web.
+*   [Eruda (⭐13k)](https://github.com/liriliri/eruda) - Console for mobile web browsers.
+*   [Interact.js (⭐11k)](https://github.com/taye/interact.js) - Drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
+*   [Fastclick (⭐19k)](https://github.com/ftlabs/fastclick) - Removing of 300ms delay in old browsers.
+*   [Lozad.js (⭐7.1k)](https://github.com/ApoorvSaxena/lozad.js) - Highly performant, light and configurable lazy loader using IntersectionObserver API
+*   [React Dates (⭐12k)](https://github.com/airbnb/react-dates) - An easily internationalizable, mobile-friendly datepicker React library for the web.
 *   [Screen Sizes](http://screensiz.es/phone) - A list of screen sizes of all popular smartphones.
-*   [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites.
-*   [Slideout](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps.
-*   [Swiper](https://github.com/nolimits4web/swiper) - The most modern mobile touch slider with hardware accelerated transitions.
+*   [Shiny (⭐2.8k)](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites.
+*   [Slideout (⭐8k)](https://github.com/Mango/slideout) - Standalone and lightweight navigation menu for your mobile web apps.
+*   [Swiper (⭐33k)](https://github.com/nolimits4web/swiper) - The most modern mobile touch slider with hardware accelerated transitions.
 *   [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - Web inspector for debugging sites in non-mainstream browsers.
-*   [Web Starter Kit](https://github.com/google/web-starter-kit) - A workflow for multi-device websites.
+*   [Web Starter Kit (⭐18k)](https://github.com/google/web-starter-kit) - A workflow for multi-device websites.
 *   [Workbox](https://developers.google.com/web/tools/workbox/) - JavaScript libraries for adding offline support to web apps.
 *   [WorkerDOM](https://amphtml.wordpress.com/2018/08/21/workerdom/) - Library to provide a full representation of the DOM inside of Web Workers.
 

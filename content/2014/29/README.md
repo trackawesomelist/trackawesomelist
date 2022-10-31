@@ -149,6 +149,11 @@
 
 ## [4. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
+### 2017 / Book/monograph Lists and Reviews
+
+*   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
+*   [lists (⭐8.5k)](https://github.com/jnv/lists)
+
 ### Integrated Development Environments
 
 *   [Emacs + ESS](http://ess.r-project.org/) - Emacs Speaks Statistics is an add-on package for emacs text editors.
@@ -223,10 +228,6 @@
 ### Websites / Manuals
 
 *   [R-project](http://www.r-project.org/) - The R Project for Statistical Computing.
-
-### 2017 / Book/monograph Lists and Reviews
-
-*   [lists (⭐8.5k)](https://github.com/jnv/lists)
 
 ## [5. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
@@ -362,13 +363,6 @@
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
-### Other Awesome Projects
-
-*   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [algorithms (⭐4.6k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
-*   [c-algorithms (⭐2.8k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [papers-we-love (⭐65k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-
 ### Concurrency
 
 *   [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
@@ -394,6 +388,12 @@
 *   [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
 *   [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - These are all of thenewboston's C++ programming tutorials.
 *   [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
+
+### Other Awesome Projects
+
+*   [algorithms (⭐4.6k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
+*   [c-algorithms (⭐2.8k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
+*   [papers-we-love (⭐65k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

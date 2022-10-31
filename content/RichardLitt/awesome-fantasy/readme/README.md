@@ -12,7 +12,7 @@
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi](https://github.com/sindresorhus/awesome-scifi).*
+*Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi (⭐3.5k)](https://github.com/sindresorhus/awesome-scifi).*
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/README.md/contributing.md) before contributing.*
 

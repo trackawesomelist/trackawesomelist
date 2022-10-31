@@ -300,7 +300,7 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 
 **Be sure to check out the [lectures](https://www.cs.fsu.edu/\~redwood/OffensiveComputerSecurity/lectures.html)!**
 
-### [Hack Night](https://github.com/isislab/Hack-Night)
+### [Hack Night (⭐1.1k)](https://github.com/isislab/Hack-Night)
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
@@ -350,9 +350,9 @@ An intentionally insecure Javascript Web Application.
 
 How to go on the offence before online attackers do.
 
-### [OWASP NodeGoat](https://github.com/owasp/nodegoat)
+### [OWASP NodeGoat (⭐1.6k)](https://github.com/owasp/nodegoat)
 
-Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
+Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API (⭐1.6k)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image (⭐1.6k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
 
 ### [Securing The Stack](https://securingthestack.com)
 
@@ -464,7 +464,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ## Repositories
 
-### [Clojure OWASP](https://github.com/nubank/clj-owasp) (2020)
+### [Clojure OWASP (⭐19)](https://github.com/nubank/clj-owasp) (2020)
 
 **Released**: May 5, 2020
 
@@ -506,7 +506,7 @@ Secure Java programming guidelines straight from Oracle.
 
 Covers a lot of useful information for developing secure Node.js applications.
 
-### [Awesome Electron.js hacking & pentesting resources](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
+### [Awesome Electron.js hacking & pentesting resources (⭐408)](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
 
 **Released**: June 17, 2020
 
@@ -582,7 +582,7 @@ If you're confused about cryptography terms, start here.
 
 **Released**: August 2, 2015
 
-Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library](https://github.com/defuse/php-encryption), or OpenSSL.
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library (⭐3.5k)](https://github.com/defuse/php-encryption), or OpenSSL.
 
 ### [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) (2017)
 
@@ -602,27 +602,27 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ## Useful libraries
 
-### [defuse/php-encryption](https://github.com/defuse/php-encryption)
+### [defuse/php-encryption (⭐3.5k)](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
 
-### [ircmaxell/password\_compat](https://github.com/ircmaxell/password_compat)
+### [ircmaxell/password\_compat (⭐2.2k)](https://github.com/ircmaxell/password_compat)
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
-### [ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib)
+### [ircmaxell/RandomLib (⭐831)](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 
-### [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
+### [thephpleague/oauth2-server (⭐6.2k)](https://github.com/thephpleague/oauth2-server)
 
 A secure OAuth2 server implementation
 
-### [paragonie/random\_compat](https://github.com/paragonie/random_compat)
+### [paragonie/random\_compat (⭐8k)](https://github.com/paragonie/random_compat)
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 
-### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
+### [psecio/gatekeeper (⭐365)](https://github.com/psecio/gatekeeper)
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
@@ -684,7 +684,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ## Websites
 
-### [OWASP Python Security Wiki](https://github.com/ebranca/owasp-pysec/wiki) (2014)
+### [OWASP Python Security Wiki (⭐395)](https://github.com/ebranca/owasp-pysec/wiki) (2014)
 
 **Released**: June 21, 2014
 
@@ -698,5 +698,5 @@ A wiki maintained by the OWASP Python Security project.
 
 **Released**: March 10, 2014
 
-A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
+A guide to secure Ruby development by the Fedora Security Team. Also available on [Github (⭐8)](https://github.com/jrusnack/secure-ruby-development-guide).
 

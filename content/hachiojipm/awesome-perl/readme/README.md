@@ -10,16 +10,16 @@ A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 
 # Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Perl resources, including frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome Perl resources, including frameworks, libraries and software. Inspired by [awesome-go (⭐90k)](https://github.com/avelino/awesome-go).
 
 ### Another module list
 
 We also recommend these lists.
 
-*   [Task::Kensho](https://github.com/EnlightenedPerlOrganisation/task-kensho "Task::Kensho")
-*   [Perlres - A list of resources about Perl](https://github.com/thibaultduponchelle/perlres)
+*   [Task::Kensho (⭐68)](https://github.com/EnlightenedPerlOrganisation/task-kensho "Task::Kensho")
+*   [Perlres - A list of resources about Perl (⭐148)](https://github.com/thibaultduponchelle/perlres)
 *   [PerlMaven.com list of Perl Software](http://perlmaven.com/perl-based-open-source-products)
-*   [Slaven's CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod)
+*   [Slaven's CPAN in a nutshell (⭐9)](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod)
 *   Many Task::\*\* Modules. (ex. Task::Plack, Task::BeLike::<AuthorName>...)
 
 ### Contents
@@ -393,7 +393,7 @@ We also recommend these lists.
 
 *   [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 *   [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
-*   [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman](https://github.com/ddollar/foreman)
+*   [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman (⭐5.8k)](https://github.com/ddollar/foreman)
 
 ## Profiling
 
@@ -630,11 +630,11 @@ We also recommend these lists.
 
 Other amazingly awesome lists can be found in:
 
-*   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-*   [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
-*   [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes)
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-*   [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome)
+*   [bayandin/awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
+*   [emijrp/awesome-awesome (⭐2.2k)](https://github.com/emijrp/awesome-awesome)
+*   [fleveque/awesome-awesomes (⭐558)](https://github.com/fleveque/awesome-awesomes)
+*   [sindresorhus/awesome (⭐223k)](https://github.com/sindresorhus/awesome)
+*   [t3chnoboy/awesome-awesome-awesome (⭐1.7k)](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 # How to contribute?
 

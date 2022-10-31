@@ -221,12 +221,12 @@
 
 ## Other Awesome Lists
 
-*   [awesome-ios](https://github.com/vsouza/awesome-ios)
-*   [awesome-swift](https://github.com/matteocrippa/awesome-swift)
+*   [awesome-ios (⭐41k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐23k)](https://github.com/matteocrippa/awesome-swift)
 
 ## Contributing and License
 
-*   [See the guide](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐163)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Contributors

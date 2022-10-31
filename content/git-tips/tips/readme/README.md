@@ -12,11 +12,11 @@ Most commonly used git tips and tricks.
 
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](https://github.com/git-tips/tips/blob/master/README.md/./contributing.md)
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips) | [नेपाली](https://github.com/amarduwal/git-tips) | [Polski](https://github.com/mbiesiad/tips) | [فارسی](https://github.com/javadnikbakht/git-tips)
+[English](http://git.io/git-tips) | [中文 (⭐14k)](https://github.com/521xueweihan/git-tips) | [Русский (⭐586)](https://github.com/Imangazaliev/git-tips) | [한국어 (⭐965)](https://github.com/mingrammer/git-tips) | [Tiếng Việt (⭐20)](https://github.com/hprobotic/git-tips) | [日本語 (⭐227)](https://github.com/isotai/git-tips) | [नेपाली (⭐0)](https://github.com/amarduwal/git-tips) | [Polski (⭐4)](https://github.com/mbiesiad/tips) | [فارسی (⭐0)](https://github.com/javadnikbakht/git-tips)
 
 ### **Tools:**
 
-*   [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container](https://github.com/djoudi5/docker-git-tip))
+*   [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container (⭐11)](https://github.com/djoudi5/docker-git-tip))
 
 P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 

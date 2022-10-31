@@ -76,7 +76,7 @@ Web-based biology-related visualization tools are often scattered across the int
 *   [GIVe](https://mcf7.givengine.org/) - Epigenome and genome interaction.
 *   [WashU Epigenome Browser](http://epigenomegateway.wustl.edu/) - Displays many sequencing-based data sets across all or part of the genome, on specific gene sets or pathways, and in the context of their metadata.
 *   [Clustergrammer CCLE Explorer](https://maayanlab.github.io/CCLE_Clustergrammer/) - Browse relative mRNA expression data for cancer cell lines from the Cancer Cell Line Encyclopedia (CCLE) by tissue of origin using Clustergrammer.
-*   [Peax](https://github.com/Novartis/peax) - Interactive visual pattern exploration in epigenomic data using unsupervised deep representation learning.
+*   [Peax (⭐63)](https://github.com/Novartis/peax) - Interactive visual pattern exploration in epigenomic data using unsupervised deep representation learning.
 
 ## Proteomics
 

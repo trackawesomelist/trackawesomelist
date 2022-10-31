@@ -19,4 +19,4 @@
 ---
 
 - Prev: [Mar 03 - Mar 09, 2014](/content/2014/9/README.md)
-- Next: [Feb 17 - Feb 23, 2014](/content/2014/7/README.md)
+- Next: [Feb 10 - Feb 16, 2014](/content/2014/6/README.md)

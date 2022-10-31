@@ -12,13 +12,13 @@ A curated list of research, applications and projects built using the H2O Machin
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://github.com/h2oai/h2o-3)
 
-Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use [H2O](https://github.com/h2oai/h2o-3), an open source, distributed machine learning platform.  H2O offers parallelized implementations of many supervised and unsupervised machine learning algorithms such as Generalized Linear Models, Gradient Boosting Machines (including XGBoost), Random Forests, Deep Neural Networks (Deep Learning), Stacked Ensembles, Naive Bayes, Cox Proportional Hazards, K-means, PCA, Word2Vec, as well as a fully automatic machine learning algorithm (AutoML).
+Below is a curated list of all the awesome projects, applications, research, tutorials, courses and books that use [H2O (⭐6k)](https://github.com/h2oai/h2o-3), an open source, distributed machine learning platform.  H2O offers parallelized implementations of many supervised and unsupervised machine learning algorithms such as Generalized Linear Models, Gradient Boosting Machines (including XGBoost), Random Forests, Deep Neural Networks (Deep Learning), Stacked Ensembles, Naive Bayes, Cox Proportional Hazards, K-means, PCA, Word2Vec, as well as a fully automatic machine learning algorithm (AutoML).
 
-[H2O.ai](http://www.h2o.ai/about/) produces many [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but the list below is comprised of awesome content produced by the greater H2O user community.
+[H2O.ai](http://www.h2o.ai/about/) produces many [tutorials (⭐1.4k)](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations (⭐410)](https://github.com/h2oai/h2o-meetups) and [videos](https://www.youtube.com/user/0xdata) about H2O, but the list below is comprised of awesome content produced by the greater H2O user community.
 
 We are just getting started with this list, so pull requests are very much appreciated!  🙏  Please review the [contribution guidelines](https://github.com/h2oai/awesome-h2o/blob/master/README.md/contributing.md) before making a pull request.  If you're not a GitHub user and want to make a contribution, please send an email to [community@h2o.ai](https://github.com/h2oai/awesome-h2o/blob/master/README.md/mailto:community@h2o.ai).
 
-If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://github.com/h2oai/h2o-3/).
+If you think H2O is awesome too, please ⭐ the [H2O GitHub repository (⭐6k)](https://github.com/h2oai/h2o-3/).
 
 ## Contents
 
@@ -81,7 +81,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 *   [Machine Learning as a Tool for Improved Housing Price Prediction](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2739783/masterthesis.pdf?sequence=1) Henrik I W. Wolstad and Didrik Dewan. (2020)
 *   [Citizen Science Data Show Temperature-Driven Declines in Riverine Sentinel Invertebrates](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00206) Timothy J. Maguire, Scott O. C. Mundle. (2020)
 *   [Predicting Risk of Delays in Postal Deliveries with Neural Networks and Gradient Boosting Machines](https://www.diva-portal.org/smash/get/diva2:1467609/FULLTEXT01.pdf) Matilda Söderholm. (2020)
-*   [Stock Market Analysis using Stacked Ensemble Learning Method](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  Malkar Takle. (2020)
+*   [Stock Market Analysis using Stacked Ensemble Learning Method (⭐0)](https://github.com/malhartakle/MastersDissertation/blob/master/Research%20Project%20Report.pdf)  Malkar Takle. (2020)
 *   [H2O AutoML: Scalable Automatic Machine Learning](https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf). Erin LeDell, Sebastien Poirier.  (2020)
 *   [Single-cell mass cytometry on peripheral blood identifies immune cell subsets associated with primary biliary cholangitis](https://www.nature.com/articles/s41598-020-69358-4) Jin Sung Jang, Brian D. Juran, Kevin Y. Cunningham, Vinod K. Gupta, Young Min Son, Ju Dong Yang, Ahmad H. Ali, Elizabeth Ann L. Enninga, Jaeyun Sung & Konstantinos N. Lazaridis. (2020)
 *   [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190647/) Steven N. Hart, Eric C. Polley, Hermella Shimelis, Siddhartha Yadav, Fergus J. Couch. (2020)
@@ -111,13 +111,13 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 *   [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml) Krzysztof Urbański, Stanisław Gruszczyńsk. (2016)
 *   [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/\~ledell/papers/ledell-phd-thesis.pdf) Erin LeDell. (2015)
 *   [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1) Rogerio Normand, Hugo Alexandre Ferreira. (2015)
-*   [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
+*   [Understanding random forests: from theory to practice (⭐498)](https://github.com/glouppe/phd-thesis) Gilles Louppe. (2014)
 
 ## Benchmarks
 
 *   [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/) - Benchmark of categorical encoding schemes and the effect on tree based models (Scikit-learn vs H2O). Oct 28, 2016
 *   [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) - Benchmark of open source deep learning packages in R. Mar 7, 2016
-*   [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
+*   [Szilard's machine learning benchmark (⭐1.8k)](https://github.com/szilard/benchm-ml) - Benchmarks of Random Forest, GBM, Deep Learning and GLM implementations in common open source ML frameworks. Jul 3, 2015
 
 ## Presentations
 
@@ -126,21 +126,21 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Courses
 
-*   [University of San Francisco (USF) Distributed Data System Class (MSDS 697)](https://github.com/dianewoodbridge/2020-msds697-example) - Master of Science in Data Science Program.
+*   [University of San Francisco (USF) Distributed Data System Class (MSDS 697) (⭐2)](https://github.com/dianewoodbridge/2020-msds697-example) - Master of Science in Data Science Program.
 *   [University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) - Research Bazaar 2019
-*   [UCLA: Tools in Data Science (STATS 418)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
-*   [GWU: Data Mining (Decision Sciences 6279)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
+*   [UCLA: Tools in Data Science (STATS 418) (⭐128)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) - Masters of Applied Statistics Program.
+*   [GWU: Data Mining (Decision Sciences 6279) (⭐227)](https://github.com/jphall663/GWU_data_mining) - Masters of Science in Business Analytics.
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 
 ## Software
 
 *   [modeltime.h2o R package](https://business-science.github.io/modeltime.h2o/): Forecasting with H2O AutoML
-*   [Evaporate](https://github.com/ML4LHS/Evaporate): Run H2O models in the browser via Javascript.  More info [here](https://twitter.com/kdpsinghlab/status/1367992786239242248).
-*   [splash R package](https://github.com/ML4LHS/splash): Splashing a User Interface onto H2O MOJO Files.  More info [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
-*   [h2oparsnip R package](https://github.com/stevenpawley/h2oparsnip): Set of wrappers to bind h2o algorthms with the [parsnip](https://parsnip.tidymodels.org/) package.
-*   [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
-*   [Forecast the US demand for electricity](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
+*   [Evaporate (⭐5)](https://github.com/ML4LHS/Evaporate): Run H2O models in the browser via Javascript.  More info [here](https://twitter.com/kdpsinghlab/status/1367992786239242248).
+*   [splash R package (⭐5)](https://github.com/ML4LHS/splash): Splashing a User Interface onto H2O MOJO Files.  More info [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
+*   [h2oparsnip R package (⭐19)](https://github.com/stevenpawley/h2oparsnip): Set of wrappers to bind h2o algorthms with the [parsnip](https://parsnip.tidymodels.org/) package.
+*   [Spin up PySpark and PySparkling on AWS (⭐8)](https://github.com/kcrandall/EMR_Spark_Automation)
+*   [Forecast the US demand for electricity (⭐90)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
 
 ## License
 
