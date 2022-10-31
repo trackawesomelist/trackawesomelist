@@ -6,6 +6,31 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Algorithms / Supervised Learning
+
+*   [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
+    *   Boosting
+    *   Stacking
+    *   Bagging
+    *   Random Forest
+    *   AdaBoost
+
+### Algorithms / Unsupervised Learning
+
+*   [Clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
+    *   [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+    *   [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+    *   [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
+    *   Fuzzy clustering
+    *   Mixture models
+*   Dimension Reduction
+    *   [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+    *   [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+    *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
+    *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Algorithms / Supervised Learning
@@ -107,34 +132,9 @@
 *   Regression
 *   [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 *   Locally Estimated Scatterplot Smoothing
-*   Ensemble Learning
-*   Boosting
-*   Bagging
-*   Random Forest
-
-### Algorithms / Data Mining Algorithms
-
-*   AdaBoost
-*   C4.5
-*   k-Means
-*   SVM
-*   Apriori
-*   EM
-*   PageRank
-*   kNN
-*   Naive Bayes
-*   CART
 
 ### Algorithms / Unsupervised Learning
 
-*   Clustering
-    *   Hierchical clustering
-    *   k-means
-    *   Fuzzy clustering
-    *   Mixture models
-*   Dimension Reduction
-    *   Principal Component Analysis (PCA)
-    *   t-SNE
 *   Neural Networks
 *   Self-organizing map
 *   Adaptive resonance theory
@@ -154,6 +154,19 @@
 *   Q Learning
 *   SARSA (State-Action-Reward-State-Action) algorithm
 *   Temporal difference learning
+
+### Algorithms / Data Mining Algorithms
+
+*   C4.5
+*   k-Means
+*   SVM
+*   Apriori
+*   EM
+*   PageRank
+*   AdaBoost
+*   kNN
+*   Naive Bayes
+*   CART
 
 ### Algorithms / Deep Learning architectures
 

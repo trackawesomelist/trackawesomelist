@@ -423,6 +423,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *   [ts](https://github.com/liujianping/ts) - Timestamp convert & compare tool.
 *   [ukautz/clif](https://github.com/ukautz/clif) - Small command line interface framework.
 *   [urfave/cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
+*   [version](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 *   [wlog](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency.
 *   [wmenu](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
@@ -688,6 +689,7 @@ additional ordered map implementations.
 *   [Milvus](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 *   [moss](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 *   [nutsdb](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
+*   [objectbox-go](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
 *   [piladb](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures.
 *   [pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
 *   [prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
@@ -962,6 +964,7 @@ additional ordered map implementations.
 *   [mailchain](https://github.com/mailchain/mailchain) - Send encrypted emails to blockchain addresses written in Go.
 *   [mailgun-go](https://github.com/mailgun/mailgun-go) - Go library for sending mail with the Mailgun API.
 *   [MailHog](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
+*   [Mailpit](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 *   [mailx](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 *   [SendGrid](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 *   [smtp](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
@@ -1471,7 +1474,7 @@ additional ordered map implementations.
 *   [onelog](https://github.com/francoispqt/onelog) - Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the lowest allocation.
 *   [ozzo-log](https://github.com/go-ozzo/ozzo-log) - High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to various targets (e.g. console, network, mail).
 *   [phuslu/log](https://github.com/phuslu/log) - High performance structured logging.
-*   [pp](https://https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
+*   [pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
 *   [rollingwriter](https://github.com/arthurkiller/rollingWriter) - RollingWriter is an auto-rotate `io.Writer` implementation with multi policies to provide log file rotation.
 *   [seelog](https://github.com/cihub/seelog) - Logging functionality with flexible dispatching, filtering, and formatting.
 *   [slf4g](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
@@ -1662,6 +1665,7 @@ additional ordered map implementations.
 *Libraries for working with strings.*
 
 *   [bexp](https://github.com/mkungla/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
+*   [caps](https://github.com/chanced/caps) - A case conversion library.
 *   [go-formatter](https://gitlab.com/tymonx/go-formatter) - Implements **replacement fields** surrounded by curly braces `{}` format strings.
 *   [gobeam/Stringy](https://github.com/gobeam/Stringy) - String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
 *   [strutil](https://github.com/ozgio/strutil) - String utilities.
@@ -2457,6 +2461,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-yapla](https://git.iglou.eu/Production/go-yapla) - Go client library for the Yapla v2.0 API.
 *   [goagi](https://github.com/staskobzar/goagi) - Go library to build Asterisk PBX agi/fastagi applications.
 *   [goami2](https://github.com/staskobzar/goami2) - AMI v2 library for Asterisk PBX.
+*   [GoFreeDB](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
 *   [gogtrends](https://github.com/groovili/gogtrends) - Google Trends Unofficial API.
 *   [golang-tmdb](https://github.com/cyruzin/golang-tmdb) - Golang wrapper for The Movie Database API v3.
 *   [golyrics](https://github.com/mamal72/golyrics) - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
@@ -2716,6 +2721,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [validate](https://github.com/gobuffalo/validate) - This package provides a framework for writing validations for Go applications.
 *   [validator](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 *   [Validator](https://github.com/go-the-way/validator) - A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
+*   [valix](https://github.com/marrow16/valix) Go package for validating requests
 
 **[⬆ back to top](#contents)**
 
@@ -2742,7 +2748,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [gmf](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 *   [go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 *   [go-astits](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
-*   [go-m3u8](https://github.com/quangngotan95/go-m3u8) - Parser and generator library for Apple m3u8 playlists.
+*   [go-m3u8](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
 *   [go-mpd](https://github.com/unki2aut/go-mpd) - Parser and generator library for MPEG-DASH manifest files.
 *   [goav](https://github.com/giorgisio/goav) - Comprehensive Go bindings for FFmpeg.
 *   [gortsplib](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
@@ -2763,6 +2769,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Air](https://github.com/aofei/air) - An ideally refined web framework for Go.
 *   [anoweb](https://github.com/go-the-way/anoweb) - The lightweight and powerful web framework using the new way for Go.Another go the way.
 *   [appy](https://github.com/appist/appy) - An opinionated productive web framework that helps scaling business easier.
+*   [Atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
 *   [Banjo](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 *   [Beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!
@@ -3227,8 +3234,10 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 ### E-books for purchase
 
 *   [100 Go Mistakes: How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them)
+*   [Black Hat Go](https://nostarch.com/blackhatgo) - Go programming for hackers and pentesters.
 *   [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
 *   [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - This practical guide to continuous delivery shows you how to rapidly establish an automated pipeline that will improve your testing, code quality, and final product.
+*   [Creative DIY Microcontroller Project With TinyGo and WebAssembly](https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208) - An introduction into the TinyGo compiler with projects involving Arduino and WebAssembly.
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 *   [For the Love of Go](https://bitfieldconsulting.com/books/love) - An introductory book for Go beginners.
 *   [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
@@ -3244,6 +3253,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 *   [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 *   [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
+*   [Go AST Book (Chinese)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
 *   [Go Bootcamp](http://golangbootcamp.com)
 *   [Go Succinctly](https://github.com/thedevsir/gosuccinctly) - in Persian.
 *   [GoBooks](https://github.com/dariubs/GoBooks) - A curated list of Go books.
@@ -3453,6 +3463,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Learn Go with 1000+ Exercises](https://github.com/inancgumus/learngo) - Learn Go with thousands of examples, exercises, and quizzes.
 *   [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development.
 *   [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n) - Serie of article in order to learn Golang language by concrete applications as example.
+*   [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 *   [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
 *   [Programming with Google Go](https://www.coursera.org/specializations/google-golang) - Coursera Specialization to learn about Go from scratch.
 *   [Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://qvault.io/golang/struct-field-ordering-memory/) - How inefficient field ordering in Go structs.

@@ -6,6 +6,12 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### 1 - Agnósticos / Inteligencia Artificial
+
+*   [Deep Learning](http://www.uhu.es/publicaciones/?q=libros\&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### 1 - Agnósticos / Inteligencia Artificial

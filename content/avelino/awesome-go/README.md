@@ -6,11 +6,56 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
-## [Oct 30, 2022](/content/2022/10/30/README.md)
+## [Oct 31, 2022](/content/2022/10/31/README.md)
+
+### Standard CLI
+
+*   [version (⭐40)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+
+### Databases Implemented in Go
+
+*   [objectbox-go (⭐798)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
+
+### Email
+
+*   [Mailpit (⭐59)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
 ### Logging
 
-*   [pp](https://https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
+*   [pp (⭐1.5k)](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
+
+### Strings
+
+*   [caps (⭐31)](https://github.com/chanced/caps) - A case conversion library.
+
+### Third-party APIs
+
+*   [GoFreeDB (⭐16)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
+
+### Validation
+
+*   [valix (⭐3)](https://github.com/marrow16/valix) Go package for validating requests
+
+### Video
+
+*   [go-m3u8 (⭐7)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
+
+### Web Frameworks
+
+*   [Atreugo (⭐955)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
+
+### E-books for purchase / Libraries for creating HTTP middlewares
+
+*   [Black Hat Go](https://nostarch.com/blackhatgo) - Go programming for hackers and pentesters.
+*   [Creative DIY Microcontroller Project With TinyGo and WebAssembly](https://www.packtpub.com/product/creative-diy-microcontroller-projects-with-tinygo-and-webassembly/9781800560208) - An introduction into the TinyGo compiler with projects involving Arduino and WebAssembly.
+
+### Free e-books / Libraries for creating HTTP middlewares
+
+*   [Go AST Book (Chinese) (⭐4.7k)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 
 ## [Oct 25, 2022](/content/2022/10/25/README.md)
 
@@ -3026,7 +3071,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gmf (⭐803)](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 *   [go-astisub (⭐416)](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 *   [go-astits (⭐439)](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
-*   [go-m3u8 (⭐99)](https://github.com/quangngotan95/go-m3u8) - Parser and generator library for Apple m3u8 playlists.
 *   [go-mpd (⭐14)](https://github.com/unki2aut/go-mpd) - Parser and generator library for MPEG-DASH manifest files.
 *   [goav (⭐1.9k)](https://github.com/giorgisio/goav) - Comprehensive Go bindings for FFmpeg.
 *   [gortsplib (⭐310)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.

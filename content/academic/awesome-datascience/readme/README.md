@@ -233,22 +233,26 @@ These are some Machine Learning and Data Mining algorithms and models help you t
     *   [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
     *   ID3 algorithm
     *   C4.5 algorithm
-*   Ensemble Learning
-*   Boosting
-*   Bagging
-*   Random Forest
-*   AdaBoost
+*   [Ensemble Learning](https://scikit-learn.org/stable/modules/ensemble.html)
+    *   Boosting
+    *   Stacking
+    *   Bagging
+    *   Random Forest
+    *   AdaBoost
 
 #### Unsupervised Learning
 
-*   Clustering
-    *   Hierchical clustering
-    *   k-means
+*   [Clustering](https://scikit-learn.org/stable/modules/clustering.html#clustering)
+    *   [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+    *   [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+    *   [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
     *   Fuzzy clustering
     *   Mixture models
 *   Dimension Reduction
-    *   Principal Component Analysis (PCA)
-    *   t-SNE
+    *   [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+    *   [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
+    *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
+    *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 *   Neural Networks
 *   Self-organizing map
 *   Adaptive resonance theory
@@ -517,6 +521,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [envd](https://github.com/tensorchord/envd)                                                     | 🏕️ machine learning development environment for data science and AI/ML engineering teams                                                                                                                                                                                                                        |
 | [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science)             | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources                                                                                                                                            |
 | [MLEM](https://github.com/iterative/mlem)                                                       | 🐶 Version and deploy your ML models following GitOps principles                                                                                                                                                                                                                                                 |
+| [MLflow](https://mlflow.org/)                                                                   | MLOps framework for managing ML models across their full lifecycle                                                                                                                                                                                                                                               |
 
 ## Literature and Media
 
