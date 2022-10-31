@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02, 2020
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -416,7 +416,13 @@
 *   [VSCode Silverstripe](https://marketplace.visualstudio.com/items?itemName=adrian.silverstripe) - Syntax highlighting for Silverstripe template files in VSCode.
 *   [PHPStorm / Webstorm Live Templates (⭐3)](https://github.com/northcreation-agency/silverstripe-php-web-storm-live-templates) - Shortcuts for adding various Silverstripe specific code snippets.
 
-## [20. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [20. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+### Go / Sistemas Operativos
+
+*   [Go en Español](https://nachopacheco.gitbooks.io/go-es/content/doc) - Nacho Pacheco (HTML)
+
+## [21. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Shoes
 

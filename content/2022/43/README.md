@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24 - Oct 30, 2022
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -299,19 +299,33 @@
 
 *   [Esri/pyprt-examples (⭐16)](https://github.com/Esri/pyprt-examples) - Example for PyPRT (Python Bindings for the CityEngine SDK).
 
-## [21. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [21. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### 1 - Agnósticos / Inteligencia Artificial
+
+*   [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+
+### Ensamblador / Sistemas Operativos
+
+*   [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
+
+### Java / Sistemas Operativos
+
+*   [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
+
+## [22. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Tree
 
 *   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/)
 
-## [22. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [23. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Dynamsoft Camera Preview (⭐2)](https://github.com/tony-xlh/capacitor-plugin-camera-preview) - Access camera using Dynamsoft Camera Enhancer.
 
-## [23. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [24. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Demo
 
@@ -321,13 +335,13 @@
 
 *   :strawberry: [Official Content Management Tutorial](https://book.cakephp.org/4/en/tutorials-and-examples/cms/installation.html)
 
-## [24. Amas](/content/sindresorhus/amas/week/README.md)
+## [25. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Frances Coronel](https://francescoronel.com/ama) - Open source enthusiast, senior software engineer at Byteboard, Corgi mom.
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database
 
@@ -346,7 +360,7 @@
 
 *   [TestContainers dotnet (⭐23)](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
 
-## [26. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [27. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -356,25 +370,25 @@
 
 *   [Mullvad VPN](https://mullvad.net) - Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Cash Bitcoin, Monero and more.
 
-## [27. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [28. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Language Support
 
 *   [playwright-go (⭐992)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 
-## [28. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [29. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks
 
 *   [JSX-email](https://jsx-mail.org/) - Jsx Mail is an email framework that uses React to create email templates. :fire:
 
-## [29. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [30. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [ankitwasankar/mftool-java (⭐6)](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
 
-## [30. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [31. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Modeladmin
 
@@ -384,20 +398,20 @@
 
 *   [cookiecutter-wagtail-package (⭐10)](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
 
-## [31. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [32. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
 *   [TablerBundle (⭐13)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
 
-## [32. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [33. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Ruby / Angular
 
 *   [Short Ruby Newsletter](https://newsletter.shortruby.com). A visual weekly newsletter about everything happening in Ruby world.
 *   [⚡️ Hotwire dev newsletter](https://masilotti.com/hotwire/). A monthly newsletter on the Hotwire stack: Turbo (Native), Stimulus, and Strada articles, code, and courses.
 
-## [33. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [34. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
@@ -408,7 +422,7 @@
 
 *   [Le podcast 🎙 AWS ☁️ en français 🇫🇷](https://stormacq.com/podcasts) - Tous les vendredis, l'actualité du cloud, des retours d'expérience, des outils qui aident les développeurs.
 
-## [34. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [35. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -463,7 +477,7 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 | 120m |
 
-## [35. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [36. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### iOS
 
@@ -489,17 +503,13 @@
 
 *   [*Core Data for iOS* by Tim Isted, Tom Harrington](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)
 
-## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
-
-### Logging
-
-*   [pp](https://https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
+## [37. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
 *   [Effective Go: Elegant, efficient, and testable code](https://www.manning.com/books/effective-go) - Unlock Go’s unique perspective on program design, and start writing simple, maintainable, and testable Go code.
 
-## [37. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [38. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Company Blogs / Progressive Web Application
 
@@ -509,7 +519,7 @@
 
 *   [OneStepCheckout](https://onestepcheckout.com/)
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -536,13 +546,13 @@
 
 *   [woosaaahh/sj.nvim (⭐63)](https://github.com/woosaaahh/sj.nvim) - Search based navigation combined with quick jump features.
 
-## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-setting-css-module (⭐3)](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
 
-## [40. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [41. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Official Docs
 
@@ -582,7 +592,7 @@
 
 *   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 
-## [41. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [42. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Hosted Readers / Outline Processor Markup Language
 
@@ -641,7 +651,7 @@
 
 *   [Buzzing](https://www.buzzing.cc/) <sup>[1250](https://t.me/s/aboutrss/1250)</sup>
 
-## [42. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [43. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Specialty Topics
 
@@ -650,7 +660,7 @@
     *   📚 [Intro to Order Independent Transparency](https://learnopengl.com/Guest-Articles/2020/OIT/Introduction) - Article by LearnOpenGL.
     *   📚 [Weighted, Blended](http://casual-effects.blogspot.com/2015/03/implemented-weighted-blended-order.html) - Method for order independent transparency.
 
-## [43. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [44. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -722,7 +732,7 @@
 *   [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) — The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 *   [Wotan (⭐283)](https://github.com/fimbullinter/wotan) — Pluggable TypeScript and JavaScript linter.
 
-## [44. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [45. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
 ### [Advanced GitHub Notifier (⭐73)](https://github.com/freaktechnik/advanced-github-notifier) <a href="https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -973,7 +983,7 @@ Extends GitHub pages with math, diagrams, embedded YouTube videos etc.
 
 Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 
-## [45. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [46. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Testing / React
 
@@ -983,7 +993,7 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra® and DataStax Enterprise.
 
-## [46. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [47. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tutorials
 
@@ -1030,20 +1040,20 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 *   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
 *   [JMeter Expert Blog](https://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
 
-## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [48. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Third-party APIs
 
 *   [lisp-pay (⭐18)](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT](https://opensource.org/licenses/MIT).
 *   [lunamech-matrix-api (⭐3)](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT](https://opensource.org/licenses/MIT).
 
-## [48. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [49. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [Receiving GOES-16 Images on a Raspberry Pi](https://gist.github.com/lxe/c1756ca659c3b78414149a3ea723eae2#file-goes16-rtlsdr-md) - An advanced project to receive weather imagery from the GOES-16 satellite using software defined radio (SDR).
 
-## [49. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [50. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Courses
 
@@ -1056,8 +1066,8 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 
 ### Libraries/Frameworks / Database
 
-*   [Litote/kmongo (⭐693)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
 *   [dizitart/nitrite-database (⭐695)](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
+*   [Litote/kmongo (⭐693)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
 
 ### Libraries/Frameworks / Tools
 
@@ -1186,21 +1196,28 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 
 ### Projects / Playground
 
-*   [LouisCAD/kotlin-libraries-playground (⭐158)](https://github.com/LouisCAD/kotlin-libraries-playground) - A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
+*   [LouisCAD/kotlin-libraries-playground (⭐158)](https://github.com/LouisCAD/kotlin-libraries-playground)
 
 ### Projects / Android
 
-*   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
-*   [pranayairan/CoinBit (⭐50)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
-*   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
-*   [SimonSchubert/LinuxCommandBibliotheca (⭐218)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
-*   [skydoves/githubfollows (⭐287)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [skydoves/themovies (⭐419)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
-*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
+*   [skydoves/githubfollows (⭐287)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
+*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
+*   [SimonSchubert/LinuxCommandBibliotheca (⭐218)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
+*   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
+*   [pranayairan/CoinBit (⭐50)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
+*   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
 
 ### Android / Libraries
 
+*   [MarcinMoskala/ActivityStarter (⭐428)](https://github.com/MarcinMoskala/ActivityStarter)
+*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences)
+*   [MarcinMoskala/PreferenceHolder (⭐154)](https://github.com/MarcinMoskala/PreferenceHolder)
+*   [pawegio/KAndroid (⭐893)](https://github.com/pawegio/KAndroid)
+*   [chibatching/Kotpref (⭐681)](https://github.com/chibatching/Kotpref)
+*   [TouK/bubble (⭐100)](https://github.com/TouK/bubble)
+*   [mcxiaoke/kotlin-koi (⭐515)](https://github.com/mcxiaoke/kotlin-koi)
 *   [PicsArt/stateful (⭐67)](https://github.com/PicsArt/stateful)
 *   [BennyWang/KBinding (⭐412)](https://github.com/BennyWang/KBinding)
 *   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask)
@@ -1214,7 +1231,6 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [infotech-group/android-drawable-dsl (⭐181)](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
 *   [zsmb13/MaterialDrawerKt (⭐520)](https://github.com/zsmb13/MaterialDrawerKt) - A DSL for creating Material Design navigation drawers without any XML.
-*   [DanielMartinus/Konfetti (⭐2.6k)](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti
 *   [calintat/alps (⭐4)](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
 *   [rakshakhegde/ObservableFlow (⭐26)](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
 *   [programmerr47/ganalytics (⭐11)](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
@@ -1229,7 +1245,6 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 *   [yundom/RxVan (⭐3)](https://github.com/yundom/RxVan) - A lightweight event bus written in Kotlin and RxJava.
 *   [duanhong169/DrawableToolbox (⭐1.1k)](https://github.com/duanhong169/DrawableToolbox) - The missing drawable toolbox for Android.
 *   [adrielcafe/AndroidCoroutineScopes (⭐15)](https://github.com/adrielcafe/AndroidCoroutineScopes) - This lib implements the most common CoroutineScopes used in Android apps.
-*   [WindSekirun/RxSocialLogin (⭐125)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
 *   [bakhtiyork/gradients (⭐51)](https://github.com/bakhtiyork/gradients) - A curated collection of splendid gradients
 *   [hpost/rx-brainwaves (⭐5)](https://github.com/hpost/rx-brainwaves) - RxJava wrapper for NeuroSky MindWave headsets
 *   [adrielcafe/KrumbsView (⭐180)](https://github.com/adrielcafe/KrumbsView) - The ultimate breadcrumbs view for Android!
@@ -1258,13 +1273,8 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 *   [MackHartley/RoundedProgressBar (⭐509)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
 *   [developingdeveloper-tech/toaster-android (⭐21)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 *   [heart-switch (⭐27)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
-*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences) - Android Library to make SharedPreferences usage easier.
-*   [TouK/bubble (⭐100)](https://github.com/TouK/bubble) - Screen orientation detector for android
-*   [MarcinMoskala/PreferenceHolder (⭐154)](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made fun in Kotlin
-*   [MarcinMoskala/ActivityStarter (⭐428)](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
-*   [mcxiaoke/kotlin-koi (⭐515)](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
-*   [chibatching/Kotpref (⭐681)](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin
-*   [pawegio/KAndroid (⭐893)](https://github.com/pawegio/KAndroid) - Kotlin library for Android
+*   [WindSekirun/RxSocialLogin (⭐125)](https://github.com/WindSekirun/RxSocialLogin) - This Android library is a library that provides social login for 15 platforms powered by RxJava2, Kotlin and Firebase Authentication.
+*   [DanielMartinus/Konfetti (⭐2.6k)](https://github.com/DanielMartinus/Konfetti) - Lightweight particle system to create realistic confetti
 
 ### Android / Frameworks
 
@@ -1378,7 +1388,7 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 *   [KwangIO/kwang (⭐59)](https://github.com/KwangIO/kwang)
 *   [msink/kotlin-libui (⭐602)](https://github.com/msink/kotlin-libui)
 
-## [50. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [51. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -1393,7 +1403,7 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code (⭐11)](https://github.com/johanmorganti/osm-datadog))
 
-## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -1403,7 +1413,7 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 
 *   [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy 3 static sites for free on the App Platform Starter tier.
 
-## [52. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [53. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Servers
 
@@ -1416,7 +1426,7 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 *   [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 *   [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 
-## [53. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [54. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
@@ -1424,4 +1434,5 @@ Installs: 480 | Stars: 69 | Last update: 18 Sep 2022
 
 ---
 
+- Prev: [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 - Next: [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)

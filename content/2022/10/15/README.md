@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -68,34 +68,9 @@
 *   Regression
 *   [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 *   Locally Estimated Scatterplot Smoothing
-*   Ensemble Learning
-*   Boosting
-*   Bagging
-*   Random Forest
-
-### Algorithms / Data Mining Algorithms
-
-*   AdaBoost
-*   C4.5
-*   k-Means
-*   SVM
-*   Apriori
-*   EM
-*   PageRank
-*   kNN
-*   Naive Bayes
-*   CART
 
 ### Algorithms / Unsupervised Learning
 
-*   Clustering
-    *   Hierchical clustering
-    *   k-means
-    *   Fuzzy clustering
-    *   Mixture models
-*   Dimension Reduction
-    *   Principal Component Analysis (PCA)
-    *   t-SNE
 *   Neural Networks
 *   Self-organizing map
 *   Adaptive resonance theory
@@ -115,6 +90,19 @@
 *   Q Learning
 *   SARSA (State-Action-Reward-State-Action) algorithm
 *   Temporal difference learning
+
+### Algorithms / Data Mining Algorithms
+
+*   C4.5
+*   k-Means
+*   SVM
+*   Apriori
+*   EM
+*   PageRank
+*   AdaBoost
+*   kNN
+*   Naive Bayes
+*   CART
 
 ### Algorithms / Deep Learning architectures
 
@@ -281,12 +269,6 @@
 ### DBaaS
 
 *   [codehooks.io](https://codehooks.io/) — JavaScript serverless API/backend and database service with functions, Mongdb-ish queries, key/value lookups, a job system and a message queue. 1 instance free per project, 5000 records and 5000 calls/month free, 3 developers included. No credit-card required.
-
-## [9. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### C++
-
-*   [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
 
 ---
 

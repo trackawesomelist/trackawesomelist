@@ -236,7 +236,7 @@
 *   [Basic functional trade-offs in cognition: An integrative framework](https://www.sciencedirect.com/science/article/pii/S0010027718301604) - ***Cognition***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=11475742130443069967\&hl=en\&as_sdt=0,5)].
 *   [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972\&hl=en\&as_sdt=0,5)].
 
-### Theory of Mind / Literature Visualization
+### Theory of Mind / Scientific Writing
 
 *   [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477\&hl=en\&as_sdt=0,5\&as_ylo=2017)].
 *   [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835\&hl=en\&as_sdt=0,5)].
@@ -252,7 +252,7 @@
 *   [The logic of universalization guides moral judgment](https://www.pnas.org/content/117/42/26158.short) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13482051983012049752\&hl=en\&as_sdt=0,5)].
 *   [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15973074852436355789\&hl=en\&as_sdt=0,5)].
 
-### Analogy / Literature Visualization
+### Analogy / Scientific Writing
 
 *   [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/\~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862\&hl=en\&as_sdt=0,5)].
 *   [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NIPS'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654\&hl=en\&as_sdt=0,5)].
@@ -261,7 +261,7 @@
 *   [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://aclanthology.org/2020.figlang-1.pdf#page=140) - ***ACL'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5747285277687442001\&hl=en\&as_sdt=0,5)].
 *   [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057\&hl=en\&as_sdt=0,5)].
 
-### Causality / Literature Visualization
+### Causality / Scientific Writing
 
 *   [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***The Oxford Handbook of Cognitive Psychology***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089\&hl=en\&as_sdt=0,5)].
 *   [Inferring causal networks from observations and interventions](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=12050301037347772984\&hl=en\&as_sdt=2005\&sciodt=0,5)].

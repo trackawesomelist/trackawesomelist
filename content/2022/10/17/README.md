@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -135,6 +135,12 @@
 ### Models and Projects / NumPyro
 
 *   [lqg (⭐10)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
+
+## [14. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+### PHP / Redis
+
+*   [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
 
 ---
 

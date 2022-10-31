@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 22 - Aug 28, 2022
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -605,6 +605,12 @@ Installs: 2000 | Stars: 283 | Last update: 25 Sep 2021
 ### Storage / Runner
 
 *   [Dexie.js (⭐8.5k)](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
+
+## [51. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### Java / Sistemas Operativos
+
+*   [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
 
 ---
 

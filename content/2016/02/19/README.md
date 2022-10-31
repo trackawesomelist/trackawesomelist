@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 19, 2016
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -127,12 +127,6 @@
 ### Libraries / To draw using canvas
 
 *   [Origami.js (⭐754)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
-
-## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
-
-### Music Programming
-
-*   [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
 
 ---
 

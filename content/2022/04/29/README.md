@@ -117,7 +117,7 @@
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Literature Visualization
+### Analogy / Scientific Writing
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 

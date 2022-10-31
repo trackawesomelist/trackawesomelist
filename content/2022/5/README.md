@@ -1532,6 +1532,7 @@
     *   [covergates (⭐52)](https://github.com/covergates/covergates) - Self-hosted code coverage report review and management service.
     *   [cupaloy (⭐232)](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
     *   [dbcleaner (⭐142)](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
+    *   [diff (⭐0)](https://github.com/terrastruct/diff) - Beautiful Git-style diffs to easily compare expected vs actual.
     *   [dsunit (⭐42)](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
     *   [embedded-postgres (⭐453)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
     *   [endly (⭐223)](https://github.com/viant/endly) - Declarative end to end functional testing.
@@ -1905,7 +1906,6 @@
 *   [gmf (⭐803)](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 *   [go-astisub (⭐416)](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 *   [go-astits (⭐439)](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
-*   [go-m3u8 (⭐99)](https://github.com/quangngotan95/go-m3u8) - Parser and generator library for Apple m3u8 playlists.
 *   [go-mpd (⭐14)](https://github.com/unki2aut/go-mpd) - Parser and generator library for MPEG-DASH manifest files.
 *   [goav (⭐1.9k)](https://github.com/giorgisio/goav) - Comprehensive Go bindings for FFmpeg.
 *   [gortsplib (⭐310)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
@@ -2617,7 +2617,7 @@
 
 *   [Hybrid computing using a neural network with dynamic external memory](http://clgiles.ist.psu.edu/IST597/materials/slides/papers-memory/2016-graves.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=8100274942961380405\&hl=en\&as_sdt=0,5)].
 
-### Theory of Mind / Literature Visualization
+### Theory of Mind / Scientific Writing
 
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 

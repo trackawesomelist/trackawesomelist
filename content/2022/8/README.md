@@ -781,7 +781,7 @@
 
 *   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐46)](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
-### Causality / Literature Visualization
+### Causality / Scientific Writing
 
 *   [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186\&hl=en\&as_sdt=0,5)].
 

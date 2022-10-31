@@ -94,7 +94,7 @@
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Analogy / Literature Visualization
+### Analogy / Scientific Writing
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/\~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 

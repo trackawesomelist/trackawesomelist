@@ -838,7 +838,7 @@
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Causality / Literature Visualization
+### Causality / Scientific Writing
 
 *   [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***Psychological Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17518200401109470519)].
 

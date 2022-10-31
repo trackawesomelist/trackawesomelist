@@ -1,12 +1,22 @@
 # Awesome List Updates on Oct 29, 2022
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+### 1 - Agnósticos / Inteligencia Artificial
+
+*   [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+
+### Ensamblador / Sistemas Operativos
+
+*   [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -16,7 +26,7 @@
 
 *   [static-web-server (⭐446)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 
-## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Docs / Official Docs
 
@@ -52,7 +62,7 @@
 
 *   [deno-ja](https://deno-ja.deno.dev/) - Deno Japanese User Group.
 
-## [3. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [4. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Menubar / Text
 
@@ -62,13 +72,13 @@
 
 *   [Keka (⭐3.3k)](https://github.com/aonez/Keka) - Keka is a full featured file archiver, as easy as it can be. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [parca-agent (⭐211)](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 
-## [5. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [6. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -78,13 +88,13 @@
 
 *   [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
 *   [ofirgall/open.nvim (⭐4)](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthand for example.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Database
 
@@ -134,17 +144,17 @@
 
 ### Projects / Playground
 
-*   [LouisCAD/kotlin-libraries-playground (⭐158)](https://github.com/LouisCAD/kotlin-libraries-playground) - A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
+*   [LouisCAD/kotlin-libraries-playground (⭐158)](https://github.com/LouisCAD/kotlin-libraries-playground)
 
 ### Projects / Android
 
-*   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
-*   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
-*   [SimonSchubert/LinuxCommandBibliotheca (⭐218)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
-*   [skydoves/githubfollows (⭐287)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [skydoves/themovies (⭐419)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
-*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
+*   [skydoves/githubfollows (⭐287)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
+*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
+*   [SimonSchubert/LinuxCommandBibliotheca (⭐218)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
+*   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
+*   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
 
 ### Android / Libraries
 
@@ -154,43 +164,43 @@
 
 *   [Miha-x64/Lychee (⭐113)](https://github.com/Miha-x64/Lychee) - Data binding and persistence infrastructure for building Android and JavaFX UIs and binding them with data
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 
 *   [TestContainers dotnet (⭐23)](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
 
-## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### For Electron / Other
 
 *   [pluggable-electron (⭐44)](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 
-## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [11. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
 *   [tmux-powerline (⭐2.9k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 
-## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [12. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Websites / Godot version unknown
 
 *   [The Godot Report](https://www.thegodotreport.com/) - A newsletter with news, tutorials, game and demo releases and more.
 
-## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [viz.rs (⭐1)](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
 
-## [13. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [14. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [castore (⭐32)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
 
-## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [15. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
@@ -200,13 +210,13 @@
 
 *   [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
 
-## [15. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [16. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Feature Flags
 
 *   [GrowthBook](https://www.growthbook.io/) - Open-source feature flag and experimentation platform.
 
-## [16. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [17. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Demo
 

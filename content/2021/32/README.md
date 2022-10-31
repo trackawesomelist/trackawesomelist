@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 09 - Aug 15, 2021
 
-56 awesome lists updated this week.
+57 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -64,9 +64,9 @@
 
 *   [NocoDB](https://www.nocodb.com/) - No-code platform that turns any database into a smart spreadsheet. It can be considered as an Airtable or Smartsheet alternative. ([Source Code (⭐32k)](https://github.com/nocodb/nocodb)) `GPL-3.0` `Nodejs`
 
-## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [10. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
-### Data Science / Windows
+### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 
@@ -547,7 +547,13 @@
 *   [gtfstidy (⭐76)](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
 *   [Transit App's gtfs-fares-v2-validator (⭐6)](https://github.com/TransitApp/gtfs-fares-v2-validator) - A Python tool that validators GTFS-Fares-v2 data based on the [draft specification](https://docs.google.com/document/d/19j-f-wZ5C_kYXmkLBye1g42U-kvfSVgYLkkG5oyBauY/edit#).
 
-## [43. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [43. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### 0 - Meta-Listas
+
+*   [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design (⭐118)](https://github.com/ddd-espanol/asombroso-ddd)
+
+## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -557,14 +563,14 @@
 
 *   [Keycloak Kafka Module (⭐56)](https://github.com/SnuK87/keycloak-kafka)
 
-## [44. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [45. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Books / Uncategorized
 
 *   [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly. Authors: Rob J Hyndman and George Athanasopoulos.
 *   [Introduction to Probability and Statistics Using R](http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/IPSUR.pdf) - The book can be subdivided into three basic parts. The first part includes the introductions and elementary descriptive statistics; I want the students to be knee-deep in data right out of the gate. The second part is the study of probability, which begins at the basics of sets and the equally likely model, journeys past discrete/continuous random variables, and continues through to multivariate distributions. The chapter on sampling distributions paves the way to the third part, which isinferential statistics. This last part includes point and interval estimation, hypothesis testing, and finishes with introductions to selected topics in applied statistics. Author: G. Jay Kerns.
 
-## [45. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -649,7 +655,7 @@
 *   [pwoolcoc/ngrams (⭐27)](https://github.com/pwoolcoc/ngrams) \[[ngrams](https://crates.io/crates/ngrams)] — Construct [n-grams](https://en.wikipedia.org/wiki/N-gram) from arbitrary iterators [![build badge](https://api.travis-ci.org/pwoolcoc/ngrams.svg?branch=master)](https://travis-ci.org/pwoolcoc/ngrams)
 *   [yaa110/rake-rs (⭐24)](https://github.com/yaa110/rake-rs) \[[rake](https://crates.io/crates/rake)] — Multilingual implementation of RAKE algorithm for Rust [![build badge](https://api.travis-ci.org/yaa110/rake-rs.svg?branch=master)](https://travis-ci.org/yaa110/rake-rs)
 
-## [46. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [47. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
@@ -660,7 +666,7 @@
 
 *   [muxile (⭐67)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 
-## [47. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [48. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Ecosystem
 
@@ -671,25 +677,25 @@
 *   Hardware Acceleration Working Group
     *   [Discourse threads tagged "wg-acceleration"](https://discourse.ros.org/tag/wg-acceleration)
 
-## [48. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [49. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
 *   [Ghunt (⭐12k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
-## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [50. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### App Routing
 
 *   [SwiftCurrent (⭐277)](https://github.com/wwt/SwiftCurrent) - Manage complex workflows wherever Swift can be built. It comes with built-in support for UIKit, Storyboards, and SwiftUI.
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [fluent-vue (⭐159)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
-## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [52. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Community
 
@@ -717,25 +723,25 @@
 
 *   [Adopt (⭐22)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT](https://opensource.org/licenses/MIT).
 
-## [52. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [53. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
 *   [@tool-belt/type-predicates (⭐46)](https://github.com/tool-belt/type-predicates) - Type Predicates, Assertion Functions and Utilities.
 
-## [53. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [54. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Vdo.Ninja (⭐1.8k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 
-## [54. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [55. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / Protocols
 
 *   [JSON-RPC](https://www.jsonrpc.org/specification) - Designed to be simple, it's a stateless, lightweight remote procedure call (RPC) protocol.
 
-## [55. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [56. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
@@ -745,7 +751,7 @@
 
 *   [Ping CRM / Clojure (⭐76)](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
-## [56. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [57. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Processing
 

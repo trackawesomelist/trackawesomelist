@@ -67,7 +67,7 @@
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Causality / Literature Visualization
+### Causality / Scientific Writing
 
 *   [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186\&hl=en\&as_sdt=0,5)].
 

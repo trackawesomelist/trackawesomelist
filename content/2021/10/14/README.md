@@ -99,16 +99,11 @@
 
 *   [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 
-## [12. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+## [12. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
-### Data Science
+### 1 - Agnósticos / Algoritmos y Estructuras de Datos
 
-*   [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
-
-### Language Agnostic / React.js
-
-*   [IBM Developer Podcast](https://developer.ibm.com/podcasts/ibm_developer_podcast/) - IBM (podcast)
-*   [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
+*   [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 
 ## [13. Public Apis](/content/public-apis/public-apis/README.md)
 

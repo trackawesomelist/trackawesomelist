@@ -6,19 +6,13 @@
 
 
 
-## [1. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### Language Agnostic / React.js
-
-*   [Web Security Warriors](https://www.stitcher.com/show/web-security-warriors) (podcast)
-
-## [2. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [1. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
 *   [Fly.io](https://fly.io/) - Deploy dockerized full stack apps via a location-aware service (latency reduction).
 
-## [3. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [2. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Controllers
 
@@ -28,56 +22,56 @@
 
 *   [gdx-jnigen (⭐33)](https://github.com/libgdx/gdx-jnigen) - Small library that allows C/C++ code to be written inline with Java source code.
 
-## [4. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [3. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Deployment tools for .NET Core (Mono) applications
 
 *   [Publish-AppImage for .NET (⭐11)](https://github.com/kuiperzone/Publish-AppImage) - Publish AppImages for .NET applications.
 
-## [5. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [4. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Resources / Books
 
 *   [The Open Organization Field Guide](https://opensource.com/open-organization/resources/field-guide)
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Fuzzy Finder / Diagnostics
 
 *   [jvgrootveld/telescope-zoxide (⭐138)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
-## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [BandLab](https://bandlab.com/careers) - Social music platform that enables creators to make music and share the creative process with musicians and fans.
 
-## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Apps / Mapping
 
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 
-## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [ts-multimethod (⭐1)](https://github.com/darky/ts-multimethod) - TypeScript multimethods inspired by Clojure multimethods. +TS
 *   [ts-fp-di (⭐1)](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
 
-## [10. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator.
 
-## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [10. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Web / Other
 
 *   [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
 
-## [12. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [11. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
@@ -101,7 +95,7 @@
 
 *   [Insecureshop (⭐203)](https://github.com/optiv/insecureshop)
 
-## [13. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [12. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Web Development
 
@@ -128,7 +122,7 @@
 *   [Software Architect Roadmap (⭐912)](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
 *   [Software Design and Architecture Roadmap (⭐2.5k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
 
-## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -138,7 +132,7 @@
 
 *   [Jellyfin](https://jellyfin.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/jellyfin/jellyfin) - A Software Media System that puts you in control of managing and streaming your media.
 
-## [15. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [14. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Operating systems
 
@@ -153,19 +147,19 @@
 
 *   [Thingspeak](https://thingspeak.com/) -  An open-source IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices, create instant visualization of live data, and send alerts.
 
-## [16. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [15. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Design Patterns and Anti Patterns
 
 *   [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - A programming antipattern where in a single change you wildly add code everywhere in your codebase.
 
-## [17. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [16. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Software Engineering
 
 *   [Falsehoods about Package Managers](https://kdeldycke.github.io/meta-package-manager/falsehoods.html) - Covers package and their managers.
 
-## [18. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [17. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Recruitment / Interview
 
@@ -179,14 +173,14 @@
 
 *   [How to Misuse Code Coverage](http://www.testingeducation.org/BBST/foundations/Marick_coverage.pdf) - “If a part of your test suite is weak in a way that coverage can detect, it's likely also weak in a way coverage can't detect.” I.e. the great benefit of a coverage report is that it tells you what you forgot to think about when you wrote the test suite itself ([source](https://news.ycombinator.com/item?id=28678098)).
 
-## [19. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [18. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Accounting / Bookkeeping
 
 *   [Ledger (⭐486)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
 *   [Akaunting (⭐5.6k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
-## [20. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [19. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Docker
 
@@ -196,25 +190,25 @@
 
 *   [Top JQuery Interview Questions and Answers](https://www.techgeekbuzz.com/top-jquery-interview-questions/)
 
-## [21. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [20. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / VPN
 
 *   [Yagna httpx client (⭐1)](https://github.com/golemfactory/ya-httpx-client/tree/johny-b/vpn) - VPN usage on Yagna demonstrating communication with a provider-based HTTP server the way you communicate with any other HTTP server.
 
-## [22. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [21. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Operating systems / Build system (ROS2)
 
 *   [ReconROS (⭐12)](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS (⭐26)](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
 
-## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [22. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [Umbraco (⭐3.7k)](https://github.com/umbraco/umbraco-cms) - An extensible and friendly Open source ASP.NET Core CMS
 
-## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [23. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -314,7 +308,7 @@
 *   [lune (⭐103)](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 *   [jsemu (⭐1.6k)](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
-## [25. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [24. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Other
 
@@ -326,7 +320,7 @@ Free (Open Source)
 
 [![image](https://user-images.githubusercontent.com/16557/134262935-72d6194d-97b2-4de3-9a44-79cf826cc114.png)](http://crimsonmagic.net/)
 
-## [26. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [25. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -357,13 +351,13 @@ Free (Open Source)
 
 *   [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - This platform is a geographic information system (GIS) for working with maps and geographic information maintained by the Environmental Systems Research Institute (ESRI).
 
-## [27. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [26. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [obs-websocket-gd (⭐39)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket (Godot 3.x).
 
-## [28. Awesome](/content/craftcms/awesome/week/README.md)
+## [27. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Deployment
 
@@ -373,19 +367,19 @@ Free (Open Source)
 
 *   [Craft CMS through the eyes of a website designer](https://adigital.agency/blog/craft-cms-through-the-eyes-of-a-website-designer) by Laura Montgomery/A Digital Agency– `3 September 2021`
 
-## [29. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [28. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Books
 
 *   [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action) - For Java developers at all levels who want an early start in quantum computing.
 
-## [30. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [29. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [Wayback (⭐338)](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
 
-## [31. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
+## [30. Awesome Fantasy](/content/RichardLitt/awesome-fantasy/week/README.md)
 
 ### Epic Fantasy / [Codex Alera](https://www.goodreads.com/series/45545-codex-alera)   (2005)   *by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)*   \[4.28] 🔥
 
@@ -395,19 +389,19 @@ Free (Open Source)
 *   [Princeps' Fury](https://www.goodreads.com/book/show/2903736-princeps-fury) \[4.37]
 *   [First Lord's Fury](https://www.goodreads.com/book/show/6316821-first-lord-s-fury) \[4.39]
 
-## [32. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
+## [31. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
 ### Extensions
 
 *   [Editor.js Interface (⭐123)](https://github.com/dimitrov-adrian/directus-extension-editorjs-interface) - Block editor (Editor.js) interface for Directus 9.
 
-## [33. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [32. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [optionals (⭐100)](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options with exhaustive pattern matching.
 
-## [34. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [33. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### MOOC's
 
@@ -426,13 +420,13 @@ Free (Open Source)
 *   [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 *   [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
-## [35. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [34. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Miscellaneous / Development and testing
 
 *   [sixel-tmux (⭐285)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
 
-## [36. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [35. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Account Management
 
@@ -451,19 +445,19 @@ Free (Open Source)
 
 *   [Zanzibar: Google's Consistent, Global Authorization System](https://ai.google/research/pubs/pub48190) - Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. [Other bits not in the paper](https://twitter.com/LeaKissner/status/1136626971566149633). [Zanzibar Academy](https://zanzibar.academy/) is a site dedicated to explaining how Zanzibar works.
 
-## [37. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [36. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### GUI
 
 *   [Sequel Ace (⭐5k)](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 
-## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [37. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
 *   [K6 — Custom Slack Integration: Metrics are the Magic of Tests](https://medium.com/geekculture/k6-custom-slack-integration-metrics-are-the-magic-of-tests-527aaf613595) -  How to send k6 output results to Slack using the handleSummary callback.
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [38. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
@@ -473,7 +467,7 @@ Free (Open Source)
 
 *   [Awesome Flutter Linux (⭐101)](https://github.com/jpnurmi/awesome-flutter-linux) - A curated list of awesome Linux-specific Flutter packages and projects by [J-P Nurmi](https://twitter.com/jpnurmi)
 
-## [40. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [39. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
@@ -484,19 +478,19 @@ Free (Open Source)
 
 *   [async-std](https://async.rs/) [\[async-std\]](https://crates.io/crates/async-std) - Async version of the Rust standard library [![CI](https://github.com/async-rs/async-std/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/async-rs/async-std/actions/workflows/ci.yml)
 
-## [41. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [40. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React General Resources
 
 *   [React Documentation](https://reactjs.org/docs/getting-started.html)
 
-## [42. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Setting Up A Keycloak Server For Authenticating To FileMaker](https://soundsessential.medium.com/setting-up-a-keycloak-server-for-authenticating-to-filemaker-introduction-bfe8bba7a8b2)
 
-## [43. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
+## [42. Awesome Educational Games](/content/yrgo/awesome-educational-games/week/README.md)
 
 ### Languages
 
@@ -506,13 +500,27 @@ Free (Open Source)
 
 *   [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 
-## [44. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [43. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Subtitles and Captions / Web
 
 *   [IMSC HRM validator (⭐5)](https://github.com/sandflow/imscHRM)  - Validator for the IMSC Hypothetical Render Model (HRM), which constrains TTML document complexity
 *   [imscJS: IMSC/TTML/SMPTE-TT/EBU-TT-D renderer (⭐74)](https://github.com/sandflow/imscJS/)  - Renders IMSC/TTML/SMPTE-TT/EBU-TT-D subtitles and captions to HTML
 *   [ttconv: subtitle/caption format converter (⭐87)](https://github.com/sandflow/ttconv)  - Converts EBU STL, IMSC/TTML/SMPTE-TT/EBU-TT-D and 608/SCC into IMSC, WebVTT and SRT
+
+## [44. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### HTML and CSS / Sistemas Operativos
+
+*   [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
+
+### PHP / Redis
+
+*   [POO y MVC en PHP](https://bibliotecafacet.com.ar/wp-content/uploads/2014/12/eugeniabahitpooymvcenphp.pdf) - Eugenia Bahit (PDF)
+
+### Python / Django
+
+*   [Tutorial de Django Girls](https://tutorial.djangogirls.org/es/) (2.2.4) (HTML)
 
 ## [45. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -870,6 +878,7 @@ Free (Open Source)
 
 ### APIs, Data and ML
 
+*   [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP request. Also available as [open source (⭐1.9k)](https://github.com/julien-lafont/Mocky).
 *   [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. Free plan comes with 100 PDFs/month and 3 templates.
 
 ### Web Hosting
@@ -969,119 +978,6 @@ Free (Open Source)
 *   [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
 ## [73. Public Apis](/content/public-apis/public-apis/week/README.md)
-
-### Development
-
-- API: [Mocky](https://designer.mocky.io/)
-
-  Description: Mock user defined test JSON for REST API endpoints
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [API Grátis](https://apigratis.com.br/)
-
-  Description: Multiples services and public APIs
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Blynk-Cloud](https://blynkapi.docs.apiary.io/#)
-
-  Description: Control IoT Devices from Blynk IoT Cloud
-
-  Auth: `apiKey`
-
-  HTTPS: No
-
-  CORS: Unknown
-
-
-- API: [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html)
-
-  Description: Service to manage your databricks account,clusters, notebooks, jobs and workspaces
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)
-
-  Description: Interact with Docker Hub
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Ghost](https://ghost.org/)
-
-  Description: Get Published content into your Website, App or other embedded media
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Google Docs](https://developers.google.com/docs/api/reference/rest)
-
-  Description: API to read, write, and format Google Docs documents
-
-  Auth: `OAuth`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
-
-  Description: Online Lua 5.1 Decompiler
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-- API: [Open Page Rank](https://www.domcop.com/openpagerank/)
-
-  Description: API for calculating and comparing metrics of different websites using Page Rank algorithm
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
-
-  Description: Integrate custom and unique looking QR codes into your system or workflow
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
 
 ### Anime
 
@@ -1332,6 +1228,108 @@ Free (Open Source)
 - API: [Economia.Awesome](https://docs.awesomeapi.com.br/api-de-moedas)
 
   Description: Portuguese free currency prices and conversion with no rate limits
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+
+### Development
+
+- API: [API Grátis](https://apigratis.com.br/)
+
+  Description: Multiples services and public APIs
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Blynk-Cloud](https://blynkapi.docs.apiary.io/#)
+
+  Description: Control IoT Devices from Blynk IoT Cloud
+
+  Auth: `apiKey`
+
+  HTTPS: No
+
+  CORS: Unknown
+
+
+- API: [Databricks](https://docs.databricks.com/dev-tools/api/latest/index.html)
+
+  Description: Service to manage your databricks account,clusters, notebooks, jobs and workspaces
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Docker Hub](https://docs.docker.com/docker-hub/api/latest/)
+
+  Description: Interact with Docker Hub
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Ghost](https://ghost.org/)
+
+  Description: Get Published content into your Website, App or other embedded media
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Google Docs](https://developers.google.com/docs/api/reference/rest)
+
+  Description: API to read, write, and format Google Docs documents
+
+  Auth: `OAuth`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Lua Decompiler](https://lua-decompiler.ferib.dev/)
+
+  Description: Online Lua 5.1 Decompiler
+
+  Auth: No
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+- API: [Open Page Rank](https://www.domcop.com/openpagerank/)
+
+  Description: API for calculating and comparing metrics of different websites using Page Rank algorithm
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Unknown
+
+
+- API: [Qrcode Monkey](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
+
+  Description: Integrate custom and unique looking QR codes into your system or workflow
 
   Auth: No
 

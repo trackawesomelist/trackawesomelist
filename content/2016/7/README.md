@@ -23,14 +23,20 @@
 *   [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
 *   [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
 
-## [3. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [3. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+
+### MIDI Tools & Libraries
+
+*   [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
+
+## [4. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [San Francisco](http://www.meetup.com/papers-we-love-too/)
 *   [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
 
-## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Scripting
 
@@ -41,7 +47,7 @@
 *   [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team. \[NCSA]
 *   [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C++11/14/1z C11 and OpenMP. \[GNU GPL3]
 
-## [5. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
+## [6. Awesome Charting](/content/zingchart/awesome-charting/week/README.md)
 
 ### Commercial Libraries
 
@@ -88,7 +94,7 @@
 *   [Visualizing Data](http://www.visualisingdata.com) - Dataviz consultant Andy Kirk compiles examples, resources, and reference materials on the subject of charting and visualization.
 *   [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) - Thought pieces on information visualization and design by Moritz Stefaner previously of the World Economic Forum.
 
-## [6. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
+## [7. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
 ### Tutorials / Deployment
 
@@ -96,39 +102,29 @@
 *   [Official docs](http://www.dropwizard.io/0.9.2/docs/manual/index.html)
 *   [Dropwizard Modules Directory](http://modules.dropwizard.io/)
 
-## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Non-dedicated
 
 *   [Riemann (⭐4.1k)](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure
 
-## [8. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [9. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [k (⭐1.7k)](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Ciro Nunes](https://twitter.com/cironunesdev/)
 
-## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [11. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Libraries / To draw using canvas
 
 *   [Origami.js (⭐754)](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
-
-## [11. Awesome Music](/content/ciconia/awesome-music/week/README.md)
-
-### MIDI Tools & Libraries
-
-*   [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
-
-### Music Programming
-
-*   [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 

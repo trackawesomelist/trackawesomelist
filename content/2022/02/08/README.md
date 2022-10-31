@@ -113,7 +113,7 @@
 
 ## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Theory of Mind / Literature Visualization
+### Theory of Mind / Scientific Writing
 
 *   [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150\&hl=en\&as_sdt=0,5)]. \[[Project](https://tshu.io/PHASE/)].
 

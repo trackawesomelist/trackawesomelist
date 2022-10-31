@@ -369,12 +369,11 @@
 
 *   [midilib](https://www.lexaloffle.com/bbs/?cat=7#tag=midilib) - Custom SFX instruments
 
-## [26. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+## [26. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 
-### Lisp / React.js
+### Lisp / React
 
-*   [Common Lisp for Beginners](https://www.youtube.com/playlist?list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK) - Neil Munro (screencast)
-*   [Little Bits of Lisp](https://www.youtube.com/playlist?list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_) - Cecilie Baggers (screencast)
+*   [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
 
 ## [27. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 

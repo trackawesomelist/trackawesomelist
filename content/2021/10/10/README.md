@@ -13,11 +13,11 @@
 *   [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 *   [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 
-## [2. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+## [2. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
-### Language Agnostic / React.js
+### PHP / Redis
 
-*   [Web Security Warriors](https://www.stitcher.com/show/web-security-warriors) (podcast)
+*   [POO y MVC en PHP](https://bibliotecafacet.com.ar/wp-content/uploads/2014/12/eugeniabahitpooymvcenphp.pdf) - Eugenia Bahit (PDF)
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 

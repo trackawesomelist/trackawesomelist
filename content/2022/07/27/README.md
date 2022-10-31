@@ -83,7 +83,7 @@
 
 *   [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
 
-### Causality / Literature Visualization
+### Causality / Scientific Writing
 
 *   [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl's tutorials on causal reasoning with operations on Bayesian networks.
 

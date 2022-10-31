@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 13, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,31 +42,41 @@
 
 *   [Learning Observable By Building Observable](https://benlesh.com/posts/learning-observable-by-building-observable/) *(Updated 2021-07-08)*
 
-## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [5. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+### 1 - Agnósticos / Algoritmos y Estructuras de Datos
+
+*   [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
+
+### Python / Django
+
+*   [Guía Oficial de Django](https://docs.djangoproject.com/es/3.2/) (3.2) (HTML)
+
+## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Inspirations
 
 *   [TidyMails](http://tidymails.com/) -The Email Newsletters' Universe.
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Text / Barcode
 
 *   [Regex by sindresorhus (⭐308)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
-## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Regex
 
 *   [sindresorhus/Regex (⭐308)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
-## [8. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [9. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
 ### Social Networks
 
 *   [Yarn.social](https://yarn.social) 🧶 is a decentralized self-hosted social media that has a privacy-first focus. There are no ads, no tracking and no personal information is ever collected or stored. Web and Mobile `Go` `MIT`
 
-## [9. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
+## [10. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
 ### :pencil:   Lists
 
@@ -159,13 +169,13 @@
 *   [tickbot (⭐11)](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 *   [trebekbot (⭐153)](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
 
-## [10. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [11. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools
 
 *   [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 
-## [11. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
+## [12. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 
 ### Apps / Video Transcoding and Editing
 
@@ -173,7 +183,7 @@
 *   [Golem Transcoding requestor (⭐4)](https://github.com/Edhendil/golem-transcoding) - React + Spring based webapp accepting video files as input and transcoding these files into different formats.
 *   [Golem Auto Editor (⭐4)](https://github.com/jedbrooke/golem-auto-editor) - Run Auto-Editor to automatically perform some video editing functions, offload the video processing to Golem.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Business
 
@@ -250,13 +260,13 @@
 
 
 
-## [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [14. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) - An interactive map that layers georectified Home Owners' Loan Corporation (HOLC) maps onto a modern basemap of the United States. These color-coded HOLC maps were a physical embodiment of the real estate practice known as *redlining*. Additional Information: License: CC BY-NC-SA 4.0, Geographic Coverage: Major Metropolitan Areas in the Lower 48 US States (1935-1940).
 
-## [14. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [15. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / APIs
 

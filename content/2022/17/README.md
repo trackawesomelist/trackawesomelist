@@ -529,7 +529,7 @@
 *   [A Mathematical Theory of Communication](http://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf) - ***The Bell System Technical Journal***, 1948. \[[All Versions](https://scholar.google.com/scholar?cluster=8313213127749369813\&hl=en\&as_sdt=0,5)]. Shannon's original paper on Information Theory.
 *   [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NIPS'03***, 2003. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14721764738308036578)].
 
-### Analogy / Literature Visualization
+### Analogy / Scientific Writing
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 

@@ -175,35 +175,25 @@
 
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐13k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 
-## [16. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### C++
-
-*   [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
-
-### Language Agnostic / React.js
-
-*   [Does Not Compute](https://dnc.show) - Sean Washington, Rockwell Schrock (podcast)
-
-## [17. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [16. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
 *   [MutableSecurity (⭐33)](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Analytics
 
 *   [Tracker Aggregator (⭐16)](https://github.com/kafejo/Tracker-Aggregator) - Versatile analytics abstraction layer.
 
-## [19. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼🔧 [tailwindcss-vite-plugin (⭐9)](https://github.com/await-ovo/tailwindcss-webpack-plugin/tree/main/packages/vite-plugin) - Vite plugin for Tailwind CSS, supports "Design in Devtools" mode and visualizes Tailwind CSS configuration.
 
-## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [19. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Demographic
 
@@ -213,13 +203,13 @@
 
 *   [Unacast](https://www.unacast.com/) - Provides location based analytics related to how people move across 80+ countries ranging from foot-traffic metrics to cross-visitation.
 
-## [21. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [20. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Libraries and Tools
 
 *   [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
-## [22. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [21. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Blockchain
 
@@ -246,6 +236,16 @@
 
 *   [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 *   [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
+
+## [22. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### JavaScript / Sistemas Operativos
+
+*   [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
+
+### JavaScript / React
+
+*   [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen, `trl.:` Raúl Expósito (HTML, PDF)
 
 ## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -523,34 +523,9 @@
 *   Regression
 *   [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 *   Locally Estimated Scatterplot Smoothing
-*   Ensemble Learning
-*   Boosting
-*   Bagging
-*   Random Forest
-
-### Algorithms / Data Mining Algorithms
-
-*   AdaBoost
-*   C4.5
-*   k-Means
-*   SVM
-*   Apriori
-*   EM
-*   PageRank
-*   kNN
-*   Naive Bayes
-*   CART
 
 ### Algorithms / Unsupervised Learning
 
-*   Clustering
-    *   Hierchical clustering
-    *   k-means
-    *   Fuzzy clustering
-    *   Mixture models
-*   Dimension Reduction
-    *   Principal Component Analysis (PCA)
-    *   t-SNE
 *   Neural Networks
 *   Self-organizing map
 *   Adaptive resonance theory
@@ -570,6 +545,19 @@
 *   Q Learning
 *   SARSA (State-Action-Reward-State-Action) algorithm
 *   Temporal difference learning
+
+### Algorithms / Data Mining Algorithms
+
+*   C4.5
+*   k-Means
+*   SVM
+*   Apriori
+*   EM
+*   PageRank
+*   AdaBoost
+*   kNN
+*   Naive Bayes
+*   CART
 
 ### Algorithms / Deep Learning architectures
 

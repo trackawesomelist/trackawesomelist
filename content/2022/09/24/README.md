@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 24, 2022
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -554,20 +554,221 @@
 *   [WhiteHat Application Security Platform](https://www.whitehatsec.com/platform/static-application-security-testing) :copyright: — WhiteHat Scout (for Developers) combined with WhiteHat Sentinel Source (for Operations) supporting WhiteHat Top 40 and OWASP Top 10.
 *   [XCode](https://developer.apple.com/xcode) :copyright: — XCode provides a pretty decent UI for [Clang's](http://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C).
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [3. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+### 0 - Meta-Listas
+
+*   [Gitbook - Libros útiles en español (⭐91)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---gu%C3%ADas-creadas-en-gitbook-en-espa%C3%B1ol) - Pablo Alvarez Corredera (GitHub)
+*   [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es) - Fernando Berzal Galiano
+
+### 1 - Agnósticos / Algoritmos y Estructuras de Datos
+
+*   [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) - Juan Carlos López García (PDF)
+*   [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) - Alejandro Santos (PDF)
+*   [Fundamentos de Informática y Programación](https://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) - Gregorio Martín Quetglás, Francisco Toledo Lobo, Vicente Cerverón Lleó (HTML)
+
+### 1 - Agnósticos / Base de Datos
+
+*   [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) - Eva Gómez Ballester, Patricio Martínez Barco, Paloma Moreda Pozo, Armando Suárez Cueto, Andrés Montoyo Guijarro, Estela Saquete Boro (PDF)
+*   [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Rafael Camps Paré, Luis Alberto Casillas Santillán, Dolors Costal Costa, Marc Gibert Ginestà, Carme Martín Escofet, Oscar Pérez Mora (PDF)
+*   [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) - Jorge Sánchez (PDF)
+
+### 1 - Agnósticos / Metodologías de desarrollo de software
+
+*   [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) - Alejandro Peña Ayala (PDF)
+*   [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) - Eugenia Bahit (PDF)
+*   [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Juan Palacio, Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
+*   [Scrum Master - Temario troncal 1](https://scrummanager.net/files/scrum_master.pdf) - Marta Palacio, Scrum Manager (PDF) [(EPUB)](https://scrummanager.net/files/scrum_master.epub)
+*   [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) - Henrik Kniberg, `trl.:` proyectalis.com (PDF)
+
+### 1 - Agnósticos / Misceláneos
+
+*   [97 cosas que todo programador debería saber](http://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
+*   [Docker (⭐185)](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
+*   [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
+*   [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF)
+*   [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) - Alberto García Serrano (PDF)
+
+### 1 - Agnósticos / Sistemas Operativos
+
+*   [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF)
+*   [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - Dr. David Luis la Red Martinez (PDF)
+
+### C++ / Sistemas Operativos
+
+*   [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
+*   [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
+*   [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) - Luis Llana, Carlos Gregorio, Raquel Martínez, Pedro Palao, Cristóbal Pareja (HTML)
+
+### Haskell / Sistemas Operativos
+
+*   [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/\~jalonso/publicaciones/Piensa_en_Haskell.pdf) - José A. Alonso Jiménez, Mª José Hidalgo Doblado (PDF)
+
+### HTML and CSS / Sistemas Operativos
+
+*   [CSS avanzado](http://librosweb.es/libro/css_avanzado) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
+*   [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) - Jordi Collell Puig (PDF)
+*   [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) - Pedro Prieto (HTML)
+*   [El gran libro del diseño web](https://freeditorial.com/es/books/el-gran-libro-del-diseno-web) - Rither Cobeña C (HTML, PDF, EPUB, Kindle)
+*   [Estructura con CSS](http://es.learnlayout.com) - Greg Smith, Isaac Durazo, `trl.:` Isaac Durazo (HTML)
+*   [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas Ojeda (PDF)
+*   [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
+
+### Java / Sistemas Operativos
+
+*   [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) - Gustavo Guillermo Pérez (PDF)
+*   [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/\~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
+*   [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF)
+*   [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) - picodotdev (PDF) ([EPUB](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub), [Kindle](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi), [:package: código fuente ejemplos (⭐86)](https://github.com/picodotdev/blog-ejemplos/tree/HEAD/PlugInTapestry))
+*   [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) - Gorka Prieto Agujeta, et al. (PDF)
+*   [Programación en Java](http://elvex.ugr.es/decsai/java/) - Fernando Berzal Galiano (HTML)
+*   [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) - Abraham Otero (PDF)
+
+### JavaScript / Sistemas Operativos
+
+*   [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
+*   [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
+*   [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
+*   [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es) - Ivo Wetzel, `trl.:` Julio Napurí, `trl.:` David Matas, `trl.:` Vitalii Zurian, `trl.:` David Rubert, et al. (HTML)
+*   [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
+*   [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
+
+### JavaScript / AngularJS
+
+*   [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML)
+*   [Guía de estilo AngularJS (⭐24k)](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa, et al., `trl.:` Alberto Calleja Ríos, `trl.:` Gilberto (HTML)
+
+### JavaScript / D3.js
+
+*   [Tutorial de D3](http://gcoch.github.io/D3-tutorial/index.html) - Scott Murray, `trl.:` Gabriel Coch (HTML)
+
+### JavaScript / jQuery
+
+*   [Fundamentos de jQuery](https://librosweb.es/libro/fundamentos_jquery) - Rebecca Murphey, `trl.:` Leandro D'Onofrio (HTML) [(PDF)](https://openlibra.com/es/book/download/fundamentos-de-jquery)
+*   [Manual de jQuery](http://mundosica.github.io/tutorial_hispano_jQuery/) - MundoSICA, et al. (HTML, PDF)
+
+### JavaScript / Node.js
+
+*   [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
+
+### JavaScript / React
+
+*   [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Daniel Xalambrí (HTML)
+
+### LaTeX / React
+
+*   [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Enrique Carleos Artime, `trl.:` Daniel Cuevas, `trl.:` J. Luis Rivera (PDF)
+
+### Linux / React
+
+*   [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) - Eugenia Bahit (descarga directa)
+*   [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) - Raphaël Hertzog, Roland Mas (HTML)
+
+### .NET (C# / Visual Studio) / React
+
+*   [El lenguaje de programación C#](http://dis.um.es/\~bmoros/privado/bibliografia/LibroCsharp.pdf) - José Antonio González Seco (PDF)
+*   [Guía de Arquitectura N-capas Orientadas al Dominio](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex) - Cesar De la Torre (HTML)
+
+### NoSQL / MongoDB
+
+*   [El pequeño libro MongoDB (⭐91)](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
+*   [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (HTML) *(:construction: en proceso)*
+
+### PHP / Redis
+
+*   [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) - Eugenia Bahit (PDF)
+*   [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) - Duilio Palacios (HTML)
+*   [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) - Sergio Luján Mora, Universidad de Colima (PDF)
+*   [Silex, el manual oficial](http://librosweb.es/libro/silex) - Igor Wiedler, `trl.:` Javier Eguíluz Pérez (HTML)
+*   [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
+*   [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
+
+### Perl / Symfony
+
+*   [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - Juan Julián Merelo Guervós (PDF)
+*   [Tutoriales de Perl](http://perlenespanol.com/tutoriales/) - Uriel Lizama (HTML)
+
+### Perl 6 / Raku / Symfony
+
+*   [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) - Laurent Rosenfeld, Allen B. Downey, `trl.:` Luis F. Uceta (PDF)
+
+### Python / Symfony
+
+*   [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) - Allen Downey, Jeffrey Elkner, Chris Meyers, `trl.:` Miguel Ángel Vilella, `trl.:` Ángel Arnal, `trl.:` Iván Juanes, `trl.:` Litza Amurrio, `trl.:` Efrain Andia, `trl.:` César Ballardini (PDF)
+*   [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
+*   [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
+*   [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
+*   [Python para ciencia e ingeniería (⭐130)](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
+*   [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
+*   [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF)
+
+### Python / Web2py
+
+*   [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41) - Massimo Di Pierro, `trl.:` Alan Etkin (HTML)
+
+### Ruby / Web2py
+
+*   [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar) - RubySur (HTML)
+*   [La Guía de Estilos de Ruby (⭐102)](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio) - Ale Mohamad (GitHub)
+*   [Ruby tutorial o cómo pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion) - Andrés Suárez García (HTML)
+
+### Ruby / Ruby on Rails
+
+*   [Introducción a Rails](http://rubysur.org/introduccion.a.rails/) - RubySur (HTML)
+
+### R / Ruby on Rails
+
+*   [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) - Marcelo R. Risk (PDF)
+*   [Generación automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) - Mario Alfonso Morales Rivera (PDF)
+*   [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) - Juan Carlos Correa, Nelfi González (PDF)
+*   [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) - R Development Core Team, `trl.:` Andrés González, `trl.:` Silvia González (PDF)
+*   [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) - Ramón Díaz-Uriarte (PDF)
+*   [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) - Antonio José Sáez Castillo (PDF)
+*   [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF)
+*   [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) - Michel Schinz, Philipp Haller, `trl.:` Juanjo Bazán (PDF)
+
+### Scala / Ruby on Rails
+
+*   [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) - Emmanuel Paradis, `trl.:` Jorge A. Ahumada (PDF)
+*   [Scala con Ejemplos (⭐9)](https://github.com/ErunamoJAZZ/ScalaByExample-es) - Martin Odersky, `trl.:` Daniel Erunamo *(:construction: en proceso)*
+
+### Scratch / Ruby on Rails
+
+*   [Informática Creativa (⭐12)](https://github.com/programamos/GuiaScratch) - Karen Brennan, Christan Balch, Michelle Chung, `trl.:` programamos (PDF)
+*   [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) - Pablo González Nalda (PDF)
+
+### SQL / Ruby on Rails
+
+*   [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) - Jorge Sanchez Asenjo (HTML)
+
+### TypeScript / Ruby on Rails
+
+*   [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML)
+*   [TypeScript Deep Dive (⭐103)](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
+
+### TypeScript / Angular
+
+*   [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML)
+*   [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML)
+*   [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF)
+*   [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos (⭐6)](https://github.com/jorgeucano/entendiendo-angular))
+
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Web frameworks / Clack plugins
 
 *   [apispec (⭐26)](https://github.com/cxxxr/apispec) -  A Common Lisp library for handling Web API requests and responses. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   takes an OpenAPI3 yaml specification and allows to validate and parse HTTP request headers, parameters and bodies.
 
-## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [Auto Archiver (⭐158)](https://github.com/bellingcat/auto-archiver) - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
 
-## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Concepts / Human Concept Representation
 

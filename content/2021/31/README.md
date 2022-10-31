@@ -374,7 +374,13 @@
 
 *   [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
 
-## [26. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [26. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+
+### Tools
+
+*   [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
+
+## [27. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
@@ -469,13 +475,13 @@
 *   [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 *   [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 
-## [27. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [28. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Bloggers / Book Deals (Affiliated) 🛍
 
 *   [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 
-## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
@@ -641,7 +647,7 @@
     *   [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) — Presented by [Nicholas Matsakis](https://github.com/nikomatsakis) @ C++Now 2018
     *   [Shipping a Solid Rust Crate](https://www.youtube.com/watch?v=t4CyEKb-ywA) — Presented by [Michael Gattozzi](https://github.com/mgattozzi) @ RustConf 2017
 
-## [29. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [30. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Videos / Talks
 
@@ -656,7 +662,7 @@
 
 *   [Awesome k6 (⭐285)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
-## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -676,14 +682,14 @@
 *   [Getscreen.me](https://getscreen.me) —  Free for 2 devices, no limits on the number and duration of sessions
 *   [Apache Guacamole™](https://guacamole.apache.org/) — Open source clientless remote desktop gateway
 
-## [31. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [32. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
 *   [Dynamic\_logistics\_Warehouse (⭐77)](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - Gazebo simulation of dynamics environment in warehouses.
 *   [OpenCDA (⭐687)](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
 
-## [32. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [33. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 
@@ -718,7 +724,7 @@
 *   [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
 *   [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
-## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Debugging
 
@@ -733,7 +739,7 @@
 
 *   [SerpApi](https://serpapi.com/) - Real-time search engine scraping API.
 
-## [34. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [35. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Preparedness training and wargaming / Firewall appliances or distributions
 
@@ -742,13 +748,6 @@
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)
 
 *   [WireGuard](https://www.wireguard.com/) - Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
-
-## [35. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
-
-### Tools
-
-*   [m2cgen (⭐2.2k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Dart code with zero dependencies.
-*   [DevTools](https://dart.dev/tools/dart-devtools) - a suite of debugging and performance tools for Dart and Flutter.
 
 ## [36. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -908,6 +907,10 @@
 *   [DFMJSON (⭐26)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
 ## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Machine Learning
+
+*   [m2cgen (⭐2.2k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native C code with zero dependencies. \[MIT]
 
 ### Frameworks
 

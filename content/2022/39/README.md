@@ -115,51 +115,15 @@
 | ------: | -------: | ---------: |
 |   2 - 6 |       14 | around 45m |
 
-## [7. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+## [7. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 
-### C++
+### Android / Sistemas Operativos
 
-*   [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
+*   [Curso Android](https://www.develou.com/android/) (HTML)
 
-### Cloud computing
+### PHP / Symfony
 
-*   [CloudSkills.fm](https://cloudskills.fm) - Mike Pfeiffer (podcast)
-*   [Google Cloud Platform Podcast](https://www.gcppodcast.com) - Google Cloud Platform team (podcast)
-*   [Microsoft Cloud Show](https://www.microsoftcloudshow.com) -  Andrew Connell and Chris Johnson (podcast)
-*   [On Cloud](https://www2.deloitte.com/us/en/pages/consulting/topics/cloud-podcast.html) - Deloitte US (podcast)
-*   [The Cloud Pod](https://www.thecloudpod.net) - Justin Brodley, Jonathan Baker, Ryan Lucas and Peter Roosakos (podcast)
-
-### Data Science
-
-*   [Towards Data Science](https://towardsdatascience.com/podcast/home) - The TDS team (podcast)
-
-### Elixir
-
-*   [Elixir Newbie](https://www.elixirnewbie.com/podcast) - Brooklin Myers (podcast)
-
-### JavaScript / Angular
-
-*   [Adventures in Angular](https://topenddevs.com/podcasts/adventures-in-angular) - Charles Max Wood, Subrat Mishra, Richard Sithole, Armen Vardanyan, Sani Yusuf, Shai Reznik, Alyssa Nicoll, Brooks Forsyth, Brad McAlister, Chris Ford, Eddie Hinkle, Younes Jaaidi, Brian Love, Jennifer Wadella, Aaron Frost, Joe Eames (podcast)
-
-### JavaScript / React.js
-
-*   [React Wednesdays](https://www.telerik.com/react-wednesdays) - Kathryn Grayson Nanz (screencast)
-
-### Language Agnostic / React.js
-
-*   [AWS TechChat](https://aws.amazon.com/podcasts/aws-techchat/) - AWS Solution Architects (podcast)
-*   [DevDiscuss](https://dev.to/devdiscuss) - DEV (podcast)
-*   [Merge Conflict](https://www.mergeconflict.fm) - Frank Krueger, James Montemagno (podcast)
-*   [Talks at Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS7XnpWK8ofxWhL7F72KcDRj) - Google (screencast)
-*   [Under the Radar](https://www.relay.fm/radar) - Marco Arment, David Smith (podcast)
-
-### Machine Learning / React.js
-
-*   [Tic-Tac-Toe the Hard Way](https://pair.withgoogle.com/thehardway/) - Google's People + AI Research team (podcast)
-
-### Ruby / React.js
-
-*   [Remote Ruby](https://remoteruby.com) - Chris Oliver, Jason Charnes, Andrew Mason (podcast)
+*   [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
 
 ## [8. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 

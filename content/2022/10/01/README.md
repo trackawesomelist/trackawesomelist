@@ -81,16 +81,15 @@
 
 *   [fork-handles/tuples4k (⭐133)](https://github.com/fork-handles/forkhandles/tree/trunk/tuples4k) - Tuple classes
 
-## [7. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
+## [7. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 
-### Language Agnostic / React.js
+### Android / Sistemas Operativos
 
-*   [Merge Conflict](https://www.mergeconflict.fm) - Frank Krueger, James Montemagno (podcast)
-*   [Under the Radar](https://www.relay.fm/radar) - Marco Arment, David Smith (podcast)
+*   [Curso Android](https://www.develou.com/android/) (HTML)
 
-### Ruby / React.js
+### PHP / Symfony
 
-*   [Remote Ruby](https://remoteruby.com) - Chris Oliver, Jason Charnes, Andrew Mason (podcast)
+*   [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html)
 
 ## [8. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

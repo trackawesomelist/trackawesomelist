@@ -797,20 +797,6 @@
 
 ## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
-### Art & Design
-
-- API: [Icon Horse](https://icon.horse)
-
-  Description: Favicons for any website, with fallbacks
-
-  Auth: No
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
-
 ### Anime
 
 - API: [NekosBest](https://docs.nekos.best)
@@ -1232,6 +1218,10 @@
 *   [The Connected Car - Ways to get unauthorized access and potential implications, 2018](https://www.computest.nl/documents/9/The_Connected_Car._Research_Rapport_Computest_april_2018.pdf)
 
 ## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Design and UI
+
+*   [Icon Horse](https://icon.horse) – Get the highest resolution favicon for any website from our simple API.
 
 ### Tools for Teams and Collaboration
 

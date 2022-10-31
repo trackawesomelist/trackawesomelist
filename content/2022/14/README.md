@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 04 - Apr 10, 2022
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -247,7 +247,28 @@
 
 *   [Livewire](https://laravel-livewire.com/) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
-## [27. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [27. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### 0 - Meta-Listas
+
+*   [Universidad Nacional Autónoma de México - Plan (2016)](http://fcasua.contad.unam.mx/apuntes/interiores/plan2016_1.php)
+
+### 1 - Agnósticos / Algoritmos y Estructuras de Datos
+
+*   [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Dr. Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
+*   [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+
+### 1 - Agnósticos / Ciencia Computacional
+
+*   [Breves Notas sobre Autómatas y Lenguajes](https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+*   [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+*   [Breves Notas sobre Teoría de la Computación](https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+
+### Java / Sistemas Operativos
+
+*   [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+
+## [28. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Editable data grid / spreadsheet
 
@@ -265,13 +286,13 @@
 
 *   [synergies (⭐7)](https://github.com/lukasbach/synergies) - [docs](https://synergies.js.org) A performant and distributed context-state library for creating reusable React state logic by synergyzing atomar context pieces.
 
-## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
 *   [Sequel Ace (⭐5k)](https://github.com/Sequel-Ace/Sequel-Ace) - The maintained "sequel" to the longtime macOS tool Sequel Pro. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Sequel-Ace/Sequel-Ace)
 
-## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -286,13 +307,13 @@
 *   [rei (arturoalviar) (⭐0)](https://github.com/arturoalviar/rei-zsh-theme) - A simple theme with the first character 零(rei), the number 0. Includes `git` status decorations.
 *   [rei (eilaluth) (⭐2)](https://github.com/Eilaluth/rei/) - A minimalist theme with current directory and `git` status decorations.
 
-## [30. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [31. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Tools / Ironsworn
 
 *   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions) - Questions to help build NPC relationships
 
-## [31. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### 3rd party GTFS URL directories
 
@@ -308,19 +329,19 @@
 
 *   [Tiramisu Transit (⭐3)](https://github.com/CMU-RERC-APT/tiramisu3-pr#mobile-app-client) - An adaptive mobile transit app that shows real-time bus arrival information developed and deployed by Carnegie Mellon University. Written using Ionic framework. No longer maintained.
 
-## [32. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [33. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Traveling
 
 *   [location-location-location (⭐28)](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
-## [33. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [34. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
 
-## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Observability
 
@@ -338,7 +359,7 @@
 
 *   [insomnimus/nodi (⭐3)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] — A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 
-## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [36. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
@@ -373,25 +394,25 @@
 *   [DataHub (⭐6.5k)](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
 *   [Marquez (⭐1.2k)](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 
-## [36. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [37. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Cloud and storage
 
 *   [Filebase](https://filebase.com)  is the first S3-compatible object storage platform that allows you to store data in a secure, redundant, and performant manner across multiple decentralized storage networks. Its unique storage backend connects to multiple decentralized storage networks, enabling global presence and reliability. Filebase currently supports storage on the IPFS, Sia, Skynet and Storj networks.
 
-## [37. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Reference Projects
 
 *   [k6-template-es6 (⭐50)](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
 
-## [38. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [39. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2021
 
 *   [Auditing Black-Box Prediction Models for Data Minimization Compliance](https://www.cs.bu.edu/faculty/crovella/paper-archive/minimization-audit-Neurips21.pdf) - (NeurIPS) *Measures the level of data minimization satisfied by the prediction model using a limited number of queries.*
 
-## [39. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -405,7 +426,7 @@
 
 *   [vite-go (⭐61)](https://github.com/torenware/vite-go) - Integration for Golang web apps.
 
-## [40. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [41. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Audio
 
@@ -422,7 +443,7 @@
 
 *   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐1.2k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
 
-## [41. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [42. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Machine Learning
 
@@ -437,7 +458,7 @@
 *   [Craftar](https://www.craftar.io) - Build APIs with NoCode at Lightning Speed.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 
-## [42. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [43. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Multimedia
 
@@ -446,7 +467,7 @@
 *   [DDEX](https://ddex.net/standards/) - The industry standard for music metadata, including archiving, sound recording, sales and usage reporting, royalties and license deals.
 *   [Apple Music Style Guide](https://help.apple.com/itc/musicstyleguide/en.lproj/static.html) - Quality insurance guidelines to format music, art, and metadata to increase discoverability.
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
@@ -465,7 +486,7 @@
 
 *   [CanKolay3499/CNvim (⭐15)](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
 
-## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [45. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bit-packing and Compression
 
@@ -659,7 +680,7 @@
 
 *   [justforfunc](https://www.youtube.com/c/justforfunc) - Youtube channel dedicated to Go programming language tips and tricks, hosted by  Francesc Campoy [@francesc](https://twitter.com/francesc).
 
-## [45. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [46. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Learning with Cognitive Plausibility / Visual Complexity
 

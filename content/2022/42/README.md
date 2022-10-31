@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 17 - Oct 23, 2022
 
-55 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -471,13 +471,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [.NET backend tutorial](https://hasura.io/learn/graphql/backend-stack/languages/dotnet/) - A tutorial creating a GraphQL server and client with .NET.
 
-## [35. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
-
-### Deployment Tools / Newsletters
-
-*   [Cachix Deploy](https://docs.cachix.org/deploy) - Developer Experience oriented Nix deployment tool
-
-## [36. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [35. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Web
 
@@ -491,7 +485,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [micropython-package-template (⭐0)](https://github.com/brainelectronics/micropython-package-template) - GitHub workflow supported MicroPython package template with deploys to the [Python Package Index](https://pypi.org/) on a push to the main branch and test deploys to the [Test Python Package Index](https://test.pypi.org/) on PRs.
 
-## [37. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -514,13 +508,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [OhMyForms](https://ohmyform.com/) - An open source alternative to TypeForm that can create stunning mobile-ready forms, surveys and questionnaires. ([Source Code (⭐2k)](https://github.com/ohmyform/ohmyform)) `AGPL-3.0` `Docker`
 
-## [38. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [37. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 
 *   [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 
-## [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -531,7 +525,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [cite2vec: Citation-Driven Document Exploration via Word Embeddings](https://matthewberger.github.io/papers/cite2vec.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6949650208780085923\&hl=en\&as_sdt=0,5)].
 *   [Galex: Exploring the evolution and intersection of disciplines](http://cic.tju.edu.cn/faculty/zhangjiawan/Jiawan_Zhang_files/paper/zeyuli2020.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13313104491218225635\&hl=en\&as_sdt=0,5)].
 
-## [40. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [39. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Free Courses
 
@@ -549,19 +543,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Women Who Code - Data Science](https://www.womenwhocode.com/datascience)
 
-## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### JSON
 
 *   [Glaze (⭐272)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
 
-## [42. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### Swift / React.js
-
-*   [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
-
-## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Template Engine
 
@@ -569,7 +557,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [SmartFormat (⭐871)](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
 *   [Handlebars.Net (⭐922)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
-## [44. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Authentication and OAuth
 
@@ -608,7 +596,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [sflags (⭐141)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
 *   [wmenu (⭐178)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
-## [45. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Book and web annotations/highlights management
 
@@ -623,13 +611,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Brave](https://brave.com/) - Brave offers a pretty good out-of-the-box set of privacy and tracker protections.
 
-## [46. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
 *   [Flyer Chat (⭐554)](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
 
-## [47. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [45. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Jobs / Other external resources
 
@@ -639,7 +627,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [human-essentials (⭐302)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
-## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -681,13 +669,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under CC-BY license.
 
-## [49. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [47. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [no-argument-spread (⭐2)](https://github.com/causalhq/eslint-plugin-no-argument-spread) - Lints against expressions like `Math.max(...args)` that can lead to a stack overflow for large arrays.
 
-## [50. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [48. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -697,7 +685,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022.
 
-## [51. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [49. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -707,7 +695,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐28)](https://github.com/willemarcel/osmcha-django))
 
-## [52. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [50. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Courses
 
@@ -738,7 +726,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [rahulchowdhury/Mystique (⭐48)](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
 *   [costular/kotlin-android-utils (⭐51)](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
 
-## [53. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [51. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -752,7 +740,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [vite-vue2-js-starter-template (⭐4)](https://github.com/ElanYoung/vite-vue2-js-starter-template) - Vite + Vue2 + JavaScript + Vue Router + Vuex + Axios + Less + ESLint + Stylelint + Prettier Simple Template.
 
-## [54. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### File explorer / Diagnostics
 
@@ -766,11 +754,17 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [gorbit99/codewindow.nvim (⭐133)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin for Neovim, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
 
-## [55. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [53. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Models and Projects / NumPyro
 
 *   [lqg (⭐10)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
+
+## [54. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### PHP / Redis
+
+*   [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
 
 ---
 

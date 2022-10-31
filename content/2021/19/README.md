@@ -539,8 +539,8 @@
 ### Libraries/Frameworks / Http Clients
 
 *   [speekha/httpmocker (⭐171)](https://github.com/speekha/httpmocker) - Kotlin library to handle offline mode easily with OkHttp.
-*   [jkcclemens/khttp (⭐455)](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library.
 *   [rybalkinsd/kohttp (⭐458)](https://github.com/rybalkinsd/kohttp) - Kotlin DSL-based HTTP client.
+*   [jkcclemens/khttp (⭐455)](https://github.com/jkcclemens/khttp) - Kotlin HTTP requests library.
 *   [kittinunf/Fuel (⭐4.2k)](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
 
 ### Libraries/Frameworks / Editors
