@@ -6,6 +6,12 @@ A curated list of awesome projects related to eBPF.
 
 [ [Daily](/content/zoidbergwill/awesome-ebpf/README.md) / Weekly / [Overview](/content/zoidbergwill/awesome-ebpf/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Projects Related to eBPF / Testing in Virtual Environments
+
+*   [rbperf (⭐58)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments

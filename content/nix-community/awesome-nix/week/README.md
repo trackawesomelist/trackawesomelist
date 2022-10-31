@@ -6,11 +6,11 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
-## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
-### Deployment Tools / Newsletters
+### Resources / Discovery
 
-*   [Cachix Deploy](https://docs.cachix.org/deploy) - Developer Experience oriented Nix deployment tool
+*   [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 

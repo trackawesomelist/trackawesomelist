@@ -6,6 +6,12 @@
 
 [ [Daily](/content/serhii-londar/open-source-mac-os-apps/README.md) / Weekly / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Development
+
+*   [utmapp](https://github.com/utmapp/) - Virtualization for other operating systems. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Languages

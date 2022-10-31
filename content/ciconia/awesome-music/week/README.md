@@ -6,6 +6,14 @@ Awesome Music Projects
 
 [ [Daily](/content/ciconia/awesome-music/README.md) / Weekly / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Music Programming
+
+*   [Cane (⭐30)](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
+*   [Gwion (⭐454)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
+*   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
+
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
 ### MIDI Tools & Libraries
@@ -237,10 +245,6 @@ Awesome Music Projects
 ### MIDI Tools & Libraries
 
 *   [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
-
-### Music Programming
-
-*   [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
 
 ## [Feb 01 - Feb 07, 2016](/content/2016/5/README.md)
 

@@ -1131,6 +1131,7 @@ additional ordered map implementations.
 *   [go3d](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
 *   [gonet](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
 *   [goworld](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping.
+*   [Harfang3D](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev](https://github.com/avelino/awesome-go/blob/main/README.md/github.com/harfang3d/harfang-go)).
 *   [Leaf](https://github.com/name5566/leaf) - Lightweight game server framework.
 *   [nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak](https://github.com/oakmound/oak) - Pure Go game engine.
@@ -2221,6 +2222,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
     *   [covergates](https://github.com/covergates/covergates) - Self-hosted code coverage report review and management service.
     *   [cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
     *   [dbcleaner](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
+    *   [diff](https://github.com/terrastruct/diff) - Beautiful Git-style diffs to easily compare expected vs actual.
     *   [dsunit](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
     *   [embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
     *   [endly](https://github.com/viant/endly) - Declarative end to end functional testing.
@@ -2795,6 +2797,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [GoTuna](https://github.com/gotuna/gotuna) - Minimalistic web framework for Go with mux router, middlewares, sessions, templates, embedded views and static files.
 *   [goweb](https://github.com/twharmon/goweb) - Web framework with routing, websockets, logging, middleware, static file server (optional gzip), and automatic TLS.
 *   [Goyave](https://github.com/go-goyave/goyave) - Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities.
+*   [Hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 *   [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.
 *   [Huma](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 *   [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
@@ -3394,6 +3397,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Code with Mukesh](https://codewithmukesh.com/blog/category/golang) - Software Engineer and Blogs @ codewithmukesh.com.
 *   [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.
 *   [CodinGame](https://www.codingame.com/) - Learn Go by solving interactive tasks using small games as practical examples.
+*   [Explore Go Libraries & Projects](https://kandi.openweaver.com/explore/go) - Discover & find a curated list of popular & new Go libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 *   [Go Blog](https://blog.golang.org) - The official Go blog.
 *   [Go Code Club](https://www.youtube.com/watch?v=nvoIPQYdx9g\&list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3) - A group of Gophers read and discuss a different Go project every week.
 *   [Go Community on Hashnode](https://hashnode.com/n/go) - Community of Gophers on Hashnode.

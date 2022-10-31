@@ -383,6 +383,8 @@ If you are new to eBPF, you may want to try the links described as "introduction
 
 *   [parca-agent](https://github.com/parca-dev/parca-agent) - eBPF based always-on continuous profiler for analysis of CPU and memory usage, down to the line number and throughout time.
 
+*   [rbperf](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
+
 # eBPF in Security
 
 *   [Embrace The Red: Offensive BPF!](https://embracethered.com/blog/tags/ebpf) - A series of posts around the introduction into BPF with a focus to an offensive setting, and also how its misuse can be detected. Posts include discussions on the rootkit capabilities of eBPF, or on which tracing type is needed for different use cases.

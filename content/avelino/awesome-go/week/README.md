@@ -20,6 +20,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [Mailpit (⭐59)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 
+### Game Development
+
+*   [Harfang3D (⭐206)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev](https://github.com/avelino/awesome-go/blob/main/README.md/github.com/harfang3d/harfang-go)).
+
 ### Logging
 
 *   [pp (⭐1.5k)](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
@@ -43,6 +47,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Web Frameworks
 
 *   [Atreugo (⭐955)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
+*   [Hertz (⭐2.3k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -52,6 +57,10 @@ A curated list of awesome Go frameworks, libraries and software
 ### Free e-books / Libraries for creating HTTP middlewares
 
 *   [Go AST Book (Chinese) (⭐4.7k)](https://github.com/chai2010/go-ast-book) - A book focusing on Go `go/*` packages.
+
+### Websites / Libraries for creating HTTP middlewares
+
+*   [Explore Go Libraries & Projects](https://kandi.openweaver.com/explore/go) - Discover & find a curated list of popular & new Go libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
@@ -2565,6 +2574,7 @@ A curated list of awesome Go frameworks, libraries and software
     *   [covergates (⭐52)](https://github.com/covergates/covergates) - Self-hosted code coverage report review and management service.
     *   [cupaloy (⭐232)](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
     *   [dbcleaner (⭐142)](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
+    *   [diff (⭐0)](https://github.com/terrastruct/diff) - Beautiful Git-style diffs to easily compare expected vs actual.
     *   [dsunit (⭐42)](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
     *   [embedded-postgres (⭐453)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
     *   [endly (⭐223)](https://github.com/viant/endly) - Declarative end to end functional testing.
