@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/readme/README.md) ]
 
+## [Nov 01, 2022](/content/2022/11/01/README.md)
+
+### Kotlin / React
+
+*   [Curso programación Android en Kotlin](https://cursokotlin.com/curso-programacion-kotlin-android/) - AristiDevs (HTML)
+
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 
 ### 1 - Agnósticos / Inteligencia Artificial

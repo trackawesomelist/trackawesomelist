@@ -12,6 +12,10 @@
 
 *   [Deep Learning](http://www.uhu.es/publicaciones/?q=libros\&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
 
+### Kotlin / React
+
+*   [Curso programación Android en Kotlin](https://cursokotlin.com/curso-programacion-kotlin-android/) - AristiDevs (HTML)
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### 1 - Agnósticos / Inteligencia Artificial
