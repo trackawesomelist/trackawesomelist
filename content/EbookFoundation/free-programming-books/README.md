@@ -13,11 +13,74 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
+## [Nov 01, 2022](/content/2022/11/01/README.md)
+
+### ASP.NET
+
+*   [.NET Framework Notes for Professionals](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### JavaScript / Wicket
+
+*   [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
+
+### JavaScript / Hydrogen
+
+*   [Build a Hydrogen storefront](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) (HTML)
+
+### JavaScript / Remix
+
+*   [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
+*   [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
+
+### Python / Django
+
+*   [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)
+*   [AutoComplete-Light](https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html) (HTML)
+*   [Django Filters](https://django-filter.readthedocs.io/en/stable/) (HTML)
+*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/4.1.x/django.pdf) (PDF) (4.1)
+*   [Django Storages](https://django-storages.readthedocs.io/en/latest/) (HTML)
+*   [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/) (HTML)
+*   [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/) (HTML)
+
+## [Oct 31, 2022](/content/2022/10/31/README.md)
+
+### Elixir / Non-X86
+
+*   [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://book.elixircryptobot.com) - Kamil Skowron (HTML)
+
+### Erlang / Phoenix
+
+*   [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook) - Erik Stenman (HTML)
+
+### R / Tornado
+
+*   [Data Visualization with R](https://ladal.edu.au/dviz.html) - Martin Schweinberger (HTML)
+
+### Rust / Sinatra
+
+*   [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
+
+### TypeScript / Vapor
+
+*   [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf) - Stefan Baumgartner (PDF)
+
 ## [Oct 30, 2022](/content/2022/10/30/README.md)
+
+### C# / Non-X86
+
+*   [C# Features Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) - Dirk Strauss (HTML)
 
 ### JavaScript / Wicket
 
 *   [Functional-Light JavaScript (⭐16k)](https://github.com/getify/Functional-Light-JS) - Kyle Simpson (HTML)
+
+### JavaScript / AngularJS
+
+*   [Angular Testing Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly) - Joseph D. Booth (HTML)
+
+### Scratch / Play Scala
+
+*   [Code Club Book of Scratch](https://magpi.raspberrypi.com/books/book-of-scratch) - Rik Cross, Tracy Gardner (PDF)
 
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
@@ -1284,10 +1347,6 @@
 *   [Airbnb CSS / Sass Styleguide (⭐6.5k)](https://github.com/airbnb/css) - Airbnb
 *   [Airbnb CSS-in-JavaScript Style Guide](https://airbnb.io/javascript/css-in-javascript/) - Airbnb
 
-### JavaScript / Wicket
-
-*   [Airbnb JavaScript Style Guide() {](https://airbnb.io/javascript/) - Airbnb (HTML)
-
 ### JavaScript / React
 
 *   [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
@@ -2391,7 +2450,7 @@
 
 ### Scratch / Play Scala
 
-*   [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart
+*   [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart (HTML)
 
 ## [Oct 14, 2020](/content/2020/10/14/README.md)
 
@@ -2460,7 +2519,6 @@
 ### Erlang / Phoenix
 
 *   [BEAM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) (HTML)
-*   [The BEAM Book](https://blog.stenmans.org/theBeamBook) (HTML)
 
 ### Linux / TeX
 
@@ -3257,7 +3315,7 @@
 
 ### Scratch / Play Scala
 
-*   [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html)
+*   [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html) (HTML)
 
 ## [Jul 27, 2018](/content/2018/07/27/README.md)
 
@@ -3447,7 +3505,6 @@
 
 ### JavaScript / Ember.js
 
-*   [DockYard Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md)
 *   [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 *   [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
 
@@ -3828,7 +3885,7 @@
 
 ### Scratch / Play Scala
 
-*   [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/)
+*   [Computer Science Concepts in Scratch](https://stwww1.weizmann.ac.il/scratch/scratch_en/) - Michal Armoni, Moti Ben-Ari (PDF)
 
 ## [Jan 13, 2017](/content/2017/01/13/README.md)
 
@@ -4404,7 +4461,7 @@
 
 ### Elixir / Non-X86
 
-*   [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML)
+*   [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML) (:construction: *in process*)
 
 ### Embedded Systems / Phoenix
 
