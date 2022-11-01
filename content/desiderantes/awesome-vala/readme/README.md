@@ -65,6 +65,7 @@ A curated list of resources for Vala - A programming language using modern high 
 
 ### Games
 
+*   [GameHub (⭐1.9k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
 *   [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 *   [Sage (⭐9)](https://github.com/antolius/sage) - A code breaking game made for elementary OS.
 *   [Warble (⭐79)](https://github.com/avojak/warble) - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
@@ -97,6 +98,7 @@ A curated list of resources for Vala - A programming language using modern high 
 *   [pdfpc (⭐1.3k)](https://github.com/pdfpc/pdfpc) - A GTK presenter application with multi-monitor support for PDF files.
 *   [Planner (⭐2.1k)](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux.
 *   [Spice-up (⭐588)](https://github.com/Philip-Scott/Spice-up) - Presentations App for the modern Linux Desktop.
+*   [TextSnatcher (⭐332)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
 ### System Tools
 

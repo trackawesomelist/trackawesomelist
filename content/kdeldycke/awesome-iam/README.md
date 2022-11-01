@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-iam/week/README.md) / [Overview](/content/kdeldycke/awesome-iam/readme/README.md) ]
 
+## [Nov 01, 2022](/content/2022/11/01/README.md)
+
+### Authentication / Password-less
+
+*   [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - What are magic links, their origin, pros and cons.
+
+### Authentication / Multi-Factor
+
+*   [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa) - Doesn't work because there are no cell phone towers at stations in Antarctica.
+
+### Authentication / OAuth2 & OpenID
+
+*   [Logto (⭐4.7k)](https://github.com/logto-io/logto) - Build the sign-in, auth, and user identity with this OIDC-based identity service.
+
+### Authentication / SAML
+
+*   [The SSO Wall of Shame](https://sso.tax) - A documented rant on the exessive pricing practiced by SaaS providers to activate SSO on their product. The author's point is, as a core security feature, SSO should be reasonnably priced and not part of an exclusive tier.
+
 ## [Apr 28, 2022](/content/2022/04/28/README.md)
 
 ### Authentication / OAuth2 & OpenID

@@ -6,6 +6,16 @@ A curated list of Vala libraries
 
 [ Daily / [Weekly](/content/desiderantes/awesome-vala/week/README.md) / [Overview](/content/desiderantes/awesome-vala/readme/README.md) ]
 
+## [Nov 01, 2022](/content/2022/11/01/README.md)
+
+### Apps / Games
+
+*   [GameHub (⭐1.9k)](https://github.com/tkashkin/GameHub) - A unified library for all your games.
+
+### Apps / Productivity
+
+*   [TextSnatcher (⭐332)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
+
 ## [Oct 30, 2022](/content/2022/10/30/README.md)
 
 ### Apps / Productivity

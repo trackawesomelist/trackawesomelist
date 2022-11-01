@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Nov 01, 2022](/content/2022/11/01/README.md)
+
+### Hardware
+
+*   [WisBlock](https://www.rakwireless.com/en-us/products/wisblock) - WisBlock is a modular system that makes it easy to implement low power wide area network (LPWAN) into IoT solutions. WisBlock consist of a base board, core compute module and combination of several sensor modules.
+
 ## [Oct 12, 2022](/content/2022/10/12/README.md)
 
 ### Software / Libraries and Tools

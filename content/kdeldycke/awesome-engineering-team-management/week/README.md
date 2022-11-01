@@ -6,6 +6,24 @@
 
 [ [Daily](/content/kdeldycke/awesome-engineering-team-management/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-engineering-team-management/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Cognitive Tools / Collections
+
+*   [UX Core](https://keepsimple.io/uxcore) - 105 cognitive biases with simple descriptions, brief and detailed examples.
+
+### Product Management / Standups
+
+*   [The Heilmeier Catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism) - A simple set of question which helped DARPA evaluates research programs to generate big rewards by taking big risks.
+
+### Agile / Tickets
+
+*   [Recurring opinions or productive improvements — what agile teams actually discuss in retrospectives](https://link.springer.com/article/10.1007/s10664-016-9464-2) - An 3-years analysis of a team's retrospectives, with dire conclusions: people keep forgetting what they already learned, keep discussing unsolveable problems out of their control, and keep debating opinions based on biased interpretations or incorrect understandings.
+
+### Communication / Style
+
+*   [Please don't say just hello in chat](https://nohello.net/en/) - When properly used, interactive written medium allows for asynchronous communication.
+
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
 ### Engineering to Management Transition
