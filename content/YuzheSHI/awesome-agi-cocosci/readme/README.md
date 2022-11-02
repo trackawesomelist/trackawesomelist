@@ -52,7 +52,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
         *   [Theory](#theory)
         *   [Dimensionality Reduction](#dimensionality-reduction)
         *   [Visual Complexity](#visual-complexity)
-    *   [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
     *   [Communications](#communications)
         *   [Visual Communication](#visual-communication)
         *   [Pragmatics](#pragmatics)
@@ -104,6 +103,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
     *   [Knowledge Representation](#knowledge-representation)
     *   [Cognitive Development](#cognitive-development)
     *   [Learning in the Open World](#learning-in-the-open-world)
+    *   [Learning with Cognitive Plausibility](#learning-with-cognitive-plausibility)
       <!--* [Tasks & Environments](#te)-->
 *   [Institute & Researcher](#institute--researcher)
     *   [MIT](#mit)
@@ -589,68 +589,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *   [How variability shapes learning and generalization](https://pure.mpg.de/rest/items/item_3380375/component/file_3383568/content) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10940775338620708972\&hl=en\&as_sdt=0,5)]. A comprehensive review on the trade-off between variability and generalization ability.
 
 *   [Identifying concept libraries from language about object structure](https://arxiv.org/pdf/2205.05666.pdf) - ***CogSci'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=4019205027627496528\&hl=en\&as_sdt=0,5)].
-
-\*[Back to Top](#c)
-
-### Learning with Cognitive Plausibility
-
-*   [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) - ***Wikipedia***. Wikipedia on the distinctions and the trade-off between accuracy and precision.
-
-*   [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***Annual Review of Psychology***, 1989. \[[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475\&hl=en\&as_sdt=0,5)].
-
-*   [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446\&hl=en\&as_sdt=0,5)]. The original paper on the recognition-by-components theory.
-
-*   [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y) - ***Nature***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7881171273277686092\&hl=en\&as_sdt=0,5)].
-
-*   [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***Engineering***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161\&hl=en\&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
-
-*   [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/\~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
-
-*   [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338\&hl=en\&as_sdt=0,5)].
-
-*   [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917\&hl=en\&as_sdt=0,5)].
-
-*   [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874) - ***ICML'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=10708180947310062390\&hl=en\&as_sdt=0,5)].
-
-*   [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6190621467796247477\&hl=en\&as_sdt=0,5)].
-
-*   [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***Cognition***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915\&hl=en\&as_sdt=0,5)]. The original paper on the idea of curriculum learning.
-
-*   [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311) - ***Cognition***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=11813578367725362166\&hl=en\&as_sdt=0,5)].
-
-*   [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405\&hl=en\&as_sdt=0,5)]. The original paper applying the idea of curriculum learning to machine learning.
-
-*   [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279) - ***ICCV'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=5979196784405021658\&hl=en\&as_sdt=0,5)].
-
-*   [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624\&hl=en\&as_sdt=0,5)]. The original paper on latent state discovery from videos.
-
-*   [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8517395712319798436\&hl=en\&as_sdt=0,5)].
-
-*   [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801\&hl=en\&as_sdt=0,5)].
-
-*   [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729\&hl=en\&as_sdt=0,5)].
-
-*   [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9197172) - ***ICRA'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7519230802512388210\&hl=en\&as_sdt=0,5)].
-
-*   [Action Genome: Actions as Compositions of Spatio-temporal Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=388714326304810525\&hl=en\&as_sdt=0,5)].
-
-*   [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255\&hl=en\&as_sdt=0,5)].
-
-*   [Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17469863154797360929\&hl=en\&as_sdt=0,5)].
-
-*   [Putting visual object recognition in context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Putting_Visual_Object_Recognition_in_Context_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6207193649298787857\&hl=en\&as_sdt=0,5)].
-
-*   [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16154696122208258147\&hl=en\&as_sdt=0,5)].
-
-*   [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=5206772) - ***CVPR'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=6853730684095116174\&hl=en\&as_sdt=0,5)].
-
-*   [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257\&hl=en\&as_sdt=0,5)].
-
-*   [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001) - ***Journal of Experimental Psychology***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472\&hl=en\&as_sdt=0,5)].
-
-*   [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529\&hl=en\&as_sdt=0,5)].
-
-*   [Interplay between rule learning and rule switching in a perceptual categorization task](https://www.biorxiv.org/content/10.1101/2022.01.29.478330v2.abstract) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7461559646167397406\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
 
@@ -1251,6 +1189,10 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 #### The Aha! Moment
 
 *   [Eureka Effect](https://en.wikipedia.org/wiki/Eureka_effect) - ***Wikipedia***. Wikipedia on Eureka effect (a.k.a. Aha! moment, insight, and epiphany), the common human experience of suddenly understanding a previously incomprehensible problem or concept.
+
+*   [Insight](https://en.wikipedia.org/wiki/Insight) - ***Wikipedia***. Wikipedia on insight.
+
+*   [Epiphany](https://en.wikipedia.org/wiki/Epiphany_\(feeling\)) - ***Wikipedia***. Wikipedia on epiphany, the "feeling" when the Aha! moment comes.
 
 \*[Back to Top](#c)
 
@@ -1869,6 +1811,68 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *   [Compositional Few-Shot Recognition with Primitive Discovery and Enhancing](https://dl.acm.org/doi/10.1145/3394171.3413849) - ***MM'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15817839338790433509\&hl=en\&as_sdt=0,5)].
 
 *   [Learning Unseen Concepts via Hierarchical Decomposition and Composition](https://ieeexplore.ieee.org/document/9156655) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14161656227038242300\&hl=en\&as_sdt=0,5)].
+
+\*[Back to Top](#c)
+
+### Learning with Cognitive Plausibility
+
+*   [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) - ***Wikipedia***. Wikipedia on the distinctions and the trade-off between accuracy and precision.
+
+*   [Cognitive Science: Definition, Status, and Questions](https://www.annualreviews.org/doi/abs/10.1146/annurev.ps.40.020189.003131) - ***Annual Review of Psychology***, 1989. \[[All Versions](https://scholar.google.com/scholar?cluster=8549671583307260475\&hl=en\&as_sdt=0,5)].
+
+*   [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446\&hl=en\&as_sdt=0,5)]. The original paper on the recognition-by-components theory.
+
+*   [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y) - ***Nature***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7881171273277686092\&hl=en\&as_sdt=0,5)].
+
+*   [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***Engineering***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161\&hl=en\&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
+
+*   [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/\~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
+
+*   [CLEVRER: CoLlision Events for Video REpresentation and Reasoning](https://arxiv.org/abs/1910.01442) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4352064462350202338\&hl=en\&as_sdt=0,5)].
+
+*   [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917\&hl=en\&as_sdt=0,5)].
+
+*   [The relationship between Precision-Recall and ROC curves](https://dl.acm.org/doi/10.1145/1143844.1143874) - ***ICML'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=10708180947310062390\&hl=en\&as_sdt=0,5)].
+
+*   [Distributional Generalization: A New Kind of Generalization](http://export.arxiv.org/pdf/2009.08092) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6190621467796247477\&hl=en\&as_sdt=0,5)].
+
+*   [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***Cognition***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915\&hl=en\&as_sdt=0,5)]. The original paper on the idea of curriculum learning.
+
+*   [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311) - ***Cognition***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=11813578367725362166\&hl=en\&as_sdt=0,5)].
+
+*   [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405\&hl=en\&as_sdt=0,5)]. The original paper applying the idea of curriculum learning to machine learning.
+
+*   [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279) - ***ICCV'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=5979196784405021658\&hl=en\&as_sdt=0,5)].
+
+*   [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624\&hl=en\&as_sdt=0,5)]. The original paper on latent state discovery from videos.
+
+*   [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8517395712319798436\&hl=en\&as_sdt=0,5)].
+
+*   [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801\&hl=en\&as_sdt=0,5)].
+
+*   [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729\&hl=en\&as_sdt=0,5)].
+
+*   [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9197172) - ***ICRA'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7519230802512388210\&hl=en\&as_sdt=0,5)].
+
+*   [Action Genome: Actions as Compositions of Spatio-temporal Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=388714326304810525\&hl=en\&as_sdt=0,5)].
+
+*   [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255\&hl=en\&as_sdt=0,5)].
+
+*   [Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17469863154797360929\&hl=en\&as_sdt=0,5)].
+
+*   [Putting visual object recognition in context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Putting_Visual_Object_Recognition_in_Context_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6207193649298787857\&hl=en\&as_sdt=0,5)].
+
+*   [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16154696122208258147\&hl=en\&as_sdt=0,5)].
+
+*   [Describing Objects by their Attributes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=5206772) - ***CVPR'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=6853730684095116174\&hl=en\&as_sdt=0,5)].
+
+*   [Panoramic Learning with A Standardized Machine Learning Formalism](https://arxiv.org/abs/2108.07783) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14222434793711614257\&hl=en\&as_sdt=0,5)].
+
+*   [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001) - ***Journal of Experimental Psychology***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472\&hl=en\&as_sdt=0,5)].
+
+*   [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529\&hl=en\&as_sdt=0,5)].
+
+*   [Interplay between rule learning and rule switching in a perceptual categorization task](https://www.biorxiv.org/content/10.1101/2022.01.29.478330v2.abstract) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7461559646167397406\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
 

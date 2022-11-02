@@ -6,6 +6,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Nov 02, 2022](/content/2022/11/02/README.md)
+
+### Wrappers
+
+*   [cl-ndbapi (⭐4)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
+
 ## [Oct 24, 2022](/content/2022/10/24/README.md)
 
 ### Others / Third-party APIs
@@ -199,8 +205,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Git / Third-party APIs
 
-*   [git-api (⭐19)](https://github.com/fourier/git-api) - Common Lisp library
-    to access a git repository. It doesn't need git or libgit installed. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [git-api (⭐19)](https://github.com/fourier/git-api) - Common Lisp library to access a git repository. It doesn't need git or libgit installed. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [Jul 11, 2022](/content/2022/07/11/README.md)
 
@@ -574,8 +579,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Command-line options parsers / Third-party APIs
 
-*   [Clingon (⭐49)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
-    *   newer, it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
+*   👍 [Clingon (⭐49)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+    *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
 ## [Aug 09, 2021](/content/2021/08/09/README.md)
 
@@ -1267,8 +1272,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Command-line options parsers / Third-party APIs
 
-*   👍 [Unix-opts (⭐96)](https://github.com/libre-man/unix-opts) - a command line
-    options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
+*   [Unix-opts (⭐96)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 

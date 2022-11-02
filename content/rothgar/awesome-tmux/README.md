@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Nov 02, 2022](/content/2022/11/02/README.md)
+
+### Plugins
+
+*   [tmux-fzf-session-switch (⭐5)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
+
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
 ### Tools and session management

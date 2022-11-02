@@ -1,24 +1,83 @@
 # Awesome List Updates on Oct 31 - Nov 06, 2022
 
-28 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [1. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+
+### Papers / The Network and Distributed System Security Symposium (NDSS)
+
+*   [Favocado: Fuzzing Binding Code of JavaScript Engines Using Semantically Correct Test Cases, 2021](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-2_24224_paper.pdf)
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Wrappers
+
+*   [cl-ndbapi (⭐4)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Status / Uptime pages
+
+*   [Gatus (⭐3k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
+
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### Hybrid
+
+*   [Blazor Wasm with ASP.NET Framework 4.x (⭐1)](https://github.com/elgransan/BlazorWasmWithNetFrameworkMVC) - With some tweaks and limitations you can run Blazor Wasm on Net Framework 4.x or in another environment. [Explanation on Medium](https://medium.com/@santiagoc_33226/using-blazor-wasm-with-net-framework-mvc-or-another-old-external-site-7fc0884fcfca).
+
+### Others
+
+*   [BlazorServerImageRecognitionApp (⭐0)](https://github.com/johnt84/BlazorServerImageRecognitionApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/BlazorServerImageRecognitionApp) Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user. [Demo](https://blazorimagerecognitionapp.azurewebsites.net/).
+*   [FootballBlazorApp (⭐1)](https://github.com/johnt84/FootballBlazorApp) - ![last commit](https://img.shields.io/github/last-commit/johnt84/FootballBlazorApp) Simple Football Blazor Server web app displaying fixtures & results, group standings, teams & players and has a player search.  [Demo](https://premierleagueblazorapp.azurewebsites.net/).
+
+### Component bundles
+
+*   [Skclusive.Material.Components (⭐381)](https://github.com/skclusive/Skclusive.Material.Component) - ![GitHub stars](https://img.shields.io/github/stars/skclusive/Skclusive.Material.Component?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/skclusive/Skclusive.Material.Component?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor ([Dashboard Demo](https://skclusive.github.io/Skclusive.Blazor.Samples/Dashboard/)),  ([Components](https://skclusive.github.io/Skclusive.Material.Docs/)).
+*   [Makani (⭐40)](https://github.com/getspacetime/makani) - ![GitHub stars](https://img.shields.io/github/stars/getspacetime/makani?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/getspacetime/makani?style=flat-square) Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. [Demo](https://getspacetime.github.io/makani/).
+
+### Tools & Utilities / Others
+
+*   [Blazor.FileSystemAccess (⭐173)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
+
+### Videos / Others
+
+*   [MSAL Auth in Blazor Server](https://www.youtube.com/watch?v=AlRxwIOq4jQ\&list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz\&index=92) - ![duration](https://img.shields.io/badge/Duration:%20-26%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 22, 2022 - Carl shows how to use MSAL and Azure AD B2C to authenticate users and call a secure API.
+
+### Articles / Others
+
+*   [Resize images before uploading in Blazor Web Assembly](https://www.mikesdotnetting.com/article/361/resize-images-before-uploading-in-blazor-web-assembly) - October 31, 2022 - Resize images before uploading in Blazor Web Assembly.
+*   [How to run Blazor project everywhere using Razor Class Library ?](https://chandradev819.com/2022/10/29/how-to-run-blazor-project-everywhere-using-razor-class-library/) - October 29, 2022 - One of the cool features of Blazor is code reusability. Using Razor Class Library, we can use our Razor component in all blazor type project like Blazor Server, WASM and MAUI Hybrid.
+
+### Community / Others
+
+*   [Discord](https://discord.com/channels/732297728826277939/732297874062311424) - Blazor channel on the DotNetEvolution discord server.
+*   [I Love DotNet (⭐13)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
+*   [Reddit](https://www.reddit.com/r/Blazor/) - Blazor subreddit.
+
+## [5. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+
+### Plugins
+
+*   [tmux-fzf-session-switch (⭐5)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
+
+## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [EPA WARM Model](https://www.epa.gov/warm) -  EPA created the Waste Reduction Model (WARM) to provide high-level estimates of potential greenhouse gas (GHG) emissions reductions, energy savings, and economic impacts from several different waste management practices.
 
-## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [lgbtq (⭐1)](https://github.com/PhoenixSmaug/zsh-lgbtq-themes) - A collection of lgbtq themes for your terminal.
 
-## [3. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
+## [8. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
 ### Apps / Games
 
@@ -28,19 +87,19 @@
 
 *   [TextSnatcher (⭐332)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
-## [4. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [9. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Accelerometer Digital
 
 *   [MicroPython-LIS3DH (⭐57)](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - I²C driver for LIS3DH 3-axis accelerometer.
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [10. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
 *   [wren (⭐66)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Network Analysis
 
@@ -79,13 +138,13 @@
 
 *   [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [12. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Hardware
 
 *   [WisBlock](https://www.rakwireless.com/en-us/products/wisblock) - WisBlock is a modular system that makes it easy to implement low power wide area network (LPWAN) into IoT solutions. WisBlock consist of a base board, core compute module and combination of several sensor modules.
 
-## [8. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [13. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Cognitive Tools / Collections
 
@@ -103,7 +162,7 @@
 
 *   [Please don't say just hello in chat](https://nohello.net/en/) - When properly used, interactive written medium allows for asynchronous communication.
 
-## [9. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [14. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / Password-less
 
@@ -121,7 +180,7 @@
 
 *   [The SSO Wall of Shame](https://sso.tax) - A documented rant on the exessive pricing practiced by SaaS providers to activate SSO on their product. The author's point is, as a core security feature, SSO should be reasonnably priced and not part of an exclusive tier.
 
-## [10. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Algorithms
 
@@ -130,20 +189,20 @@
     *   [Lecture Notes](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/all-algorithms.pdf)
     *   [Labs and Exams](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/all-hwex.pdf)
 
-## [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Blockchain
 
 *   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
 
-## [12. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [17. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
 *   [OSM Inspector](https://tools.geofabrik.de/osmi/?view=geometry\&lon=-12.00000\&lat=25.00000\&zoom=3\&baselayer=Geofabrik%20Standard\&overlays=long_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way%2Clong_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way) - The OSM Inspector (alias OSMI) is a web based debugging tool for advanced OpenStreetMap users offered by Geofabrik. On a map you can see several themed views, each with several layers, showing specific details of the OSM data, often with highlighted errors.
 *   [Nominatim QA](https://nominatim.org/qa/#map=1.81/0.00/0.00) - The Nominatim Data Analyser is a QA tool used to scan the nominatim database and extract suspect data from it. These data are then presented to mappers through a visual interface so that they can correct them directly.
 
-## [13. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [18. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Related Projects
 
@@ -165,13 +224,13 @@
 *   [Saas (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 *   [Create-react-app-material-typescript-redux (⭐283)](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
 
-## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Motion / Diagnostics
 
 *   [Weissle/easy-action (⭐3)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
 
-## [15. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [20. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### IoT
 
@@ -185,38 +244,42 @@
 
 *   [IoTSharp.HealthChecks.Taos](https://www.nuget.org/packages/IoTSharp.HealthChecks.Taos/) - TDengine's HealthChecks provider. (.Net 5.0+).
 
-## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [cargo-unused-features (⭐46)](https://github.com/TimonPost/cargo-unused-features) — Find potential unused enabled feature flags and prune them. You can generate a simple HTML report from the json to make it easier to inspect results.
     It removes a feature of a dependency and then compiles the project to see if it still compiles. If it does, the feature flag can possibly be removed, but it can be a false-positve.
 
-## [17. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+### Other / [Other](#other-1)
+
+*   [klint (⭐43)](https://github.com/uswitch/klint) — A tool that listens to changes in Kubernetes resources and runs linting rules against them. Identify and debug erroneous objects and nudge objects in line with the policies as both change over time. Klint helps us encode checks and proactively alert teams when they need to take action.
+
+## [22. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [vladfr/fiber-servertiming (⭐0)](https://github.com/vladfr/fiber-servertiming) - A middleware to add Server-Timing headers based on the W3C Server-Timing Spec.
 
-## [18. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [23. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
 *   [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 
-## [19. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [24. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### Development
 
 *   [utmapp](https://github.com/utmapp/) - Virtualization for other operating systems. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
-## [20. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [25. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [rbperf (⭐58)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
 
-## [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -277,7 +340,7 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
@@ -287,7 +350,7 @@
 
 *   [is-an.app (⭐1)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
-## [23. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [28. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
@@ -295,7 +358,12 @@
 *   [Gwion (⭐454)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
-## [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Meta-Level Considerations / The Aha! Moment
+
+*   [Insight](https://en.wikipedia.org/wiki/Insight) - ***Wikipedia***. Wikipedia on insight.
+*   [Epiphany](https://en.wikipedia.org/wiki/Epiphany_\(feeling\)) - ***Wikipedia***. Wikipedia on epiphany, the "feeling" when the Aha! moment comes.
 
 ### Metascience / Scientific Writing
 
@@ -305,7 +373,7 @@
 *   [Towards an argument interchange format](https://pure.mpg.de/rest/items/item_3020351/component/file_3045811/content) - ***The Knowledge Engineering Review***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=11123720528835823517\&hl=en\&as_sdt=0,5)]. The original paper introducing the Argument Interchange Format (AIF) framework for argumentation analysis.
 *   [Speech Acts of Argumentation: Inference Anchors and Peripheral Cues in Dialogue](https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/viewFile/3940/4244) - ***AAAI'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=9761955212933152906\&hl=en\&as_sdt=0,5)]. The original paper introducing the Information Anchoring Theory (IAT) as an alternate for AIF.
 
-## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -315,7 +383,7 @@
 
 *   [Easy Reflection (⭐27)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
 
-## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [31. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Standard CLI
 
@@ -375,7 +443,7 @@
 
 *   [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 
-## [27. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [32. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Algorithms / Supervised Learning
 
@@ -400,7 +468,7 @@
     *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
     *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 
-## [28. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [33. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 
 ### 1 - Agnósticos / Inteligencia Artificial
 

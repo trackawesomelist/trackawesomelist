@@ -312,6 +312,7 @@ and also:
 *   [cl-mango (⭐1)](https://github.com/cmoore/cl-mango/) -  A minimalist CouchDB 2.x database client. BSD\_3Clause.
     *   See also [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].
 *   [lmdb (⭐29)](https://github.com/antimer/lmdb) - Bindings to [LMDB](http://www.lmdb.tech/doc/), the Lightning Memory-mapped Database, an ACID key-value database with MultiVersion Concurrency Control.
+*   [cl-ndbapi (⭐4)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
 
 ## Migration tools
 
@@ -1113,11 +1114,10 @@ See also:
 
 ## Command-line options parsers
 
-*   👍 [Unix-opts (⭐96)](https://github.com/libre-man/unix-opts) - a command line
-    options parser with a concise declaration of options. [MIT][200].
+*   👍 [Clingon (⭐49)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+    *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 *   [Adopt (⭐22)](https://github.com/sjl/adopt/) - A Damn OPTion parsing library. [MIT][200].
-*   [Clingon (⭐49)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
-    *   newer, it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
+*   [Unix-opts (⭐96)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT][200].
 
 ## Readline, ncurses and other graphical helpers
 
@@ -1432,8 +1432,7 @@ File watching libraries:
 
 *   [cl-git (⭐51)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3][9].
 *   [legit](https://shinmera.github.io/legit/) - an interface to the Git binary. [zlib][33].
-*   [git-api (⭐19)](https://github.com/fourier/git-api) - Common Lisp library
-    to access a git repository. It doesn't need git or libgit installed. [BSD][15].
+*   [git-api (⭐19)](https://github.com/fourier/git-api) - Common Lisp library to access a git repository. It doesn't need git or libgit installed. [BSD][15].
 
 ## i18n
 

@@ -6,6 +6,12 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 [ Daily / [Weekly](/content/cpuu/awesome-fuzzing/week/README.md) / [Overview](/content/cpuu/awesome-fuzzing/readme/README.md) ]
 
+## [Nov 02, 2022](/content/2022/11/02/README.md)
+
+### Papers / The Network and Distributed System Security Symposium (NDSS)
+
+*   [Favocado: Fuzzing Binding Code of JavaScript Engines Using Semantically Correct Test Cases, 2021](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-2_24224_paper.pdf)
+
 ## [Jun 19, 2022](/content/2022/06/19/README.md)
 
 ### Tools / Network protocol
@@ -75,7 +81,6 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 *   [WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning, 2021](https://taesoo.kim/pubs/2021/jung:winnie.pdf)
 *   [Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing, 2021](https://www.cs.ucr.edu/\~heng/pubs/afl-hier.pdf)
 *   [PGFUZZ: Policy-Guided Fuzzing for Robotic Vehicles, 2021](https://beerkay.github.io/papers/Berkay2021PGFuzzNDSS.pdf)
-*   [Favocado: Fuzzing Binding Code of JavaScript Engines Using Semantically Correct Test Cases, 2021](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-2_24224_paper.pdf/)
 
 ### Tools / Binary
 
