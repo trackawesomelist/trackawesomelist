@@ -12,6 +12,10 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 *   [touchlab/KMMBridge (⭐151)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
+### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐52)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
 ### Projects / Web
 
 *   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
@@ -80,8 +84,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Database
 
-*   [dizitart/nitrite-database (⭐695)](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
 *   [Litote/kmongo (⭐693)](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
+*   [dizitart/nitrite-database (⭐695)](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - Potassium Nitrite is a kotlin extension of nitrite database, an open source nosql embedded document store with mongodb like api.
 
 ### Libraries/Frameworks / Tools
 
@@ -114,7 +118,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Browsers
 
-*   [wendigo/chrome-reactive-kotlin (⭐72)](https://github.com/wendigo/chrome-reactive-kotlin) - Headless Chrome DevTools Protocol Client (RxJava3 + Kotlin)
+*   [wendigo/chrome-reactive-kotlin (⭐72)](https://github.com/wendigo/chrome-reactive-kotlin)
 
 ### Libraries/Frameworks / I/O
 
@@ -123,8 +127,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Libraries/Frameworks / Internationalisation and Localization
 
-*   [projectfluent/fluent-kotlin (⭐26)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
 *   [cashapp/barber (⭐126)](https://github.com/cashapp/barber) - A type safe Kotlin JVM library for building up localized, fillable, themed documents using Mustache templating.
+*   [projectfluent/fluent-kotlin (⭐26)](https://github.com/projectfluent/fluent-kotlin) - Kotlin tooling implementation of ProjectFluent. Read, write, and transform Fluent files.
 
 ### Libraries/Frameworks / Jetpack-Compose
 
@@ -214,7 +218,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Projects / Android
 
-*   [skydoves/themovies (⭐419)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
 *   [skydoves/githubfollows (⭐287)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
 *   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
@@ -222,6 +225,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
 *   [pranayairan/CoinBit (⭐50)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
 *   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
+*   [skydoves/themovies (⭐419)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
 
 ### Android / Libraries
 
@@ -273,7 +277,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [rosariopfernandes/firecoil (⭐35)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
 *   [skydoves/Only (⭐479)](https://github.com/skydoves/Only) - An easy way to persist and run code block only as many times as necessary on Android.
 *   [skydoves/AndroidVeil (⭐1.2k)](https://github.com/skydoves/AndroidVeil) - An easy, flexible way to implement veil skeletons and shimmering effect for Android.
-*   [skydoves/Submarine (⭐464)](https://github.com/skydoves/Submarine) - Fully customizable floating navigation view for listing items dynamically on Android.
 *   [skydoves/Needs (⭐610)](https://github.com/skydoves/Needs) - An easy way to implement modern permission instructions popup.
 *   [evilthreads669966/EvadeMe (⭐26)](https://github.com/evilthreads669966/EvadeMe) - A heuristics evasion library that prevents your code from being analyzed or tested.
 *   [evilthreads669966/BootLaces (⭐35)](https://github.com/evilthreads669966/BootLaces) - Turns your background service persistent.
@@ -287,6 +290,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [MackHartley/RoundedProgressBar (⭐509)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
 *   [developingdeveloper-tech/toaster-android (⭐21)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 *   [heart-switch (⭐27)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
+*   [skydoves/Submarine (⭐464)](https://github.com/skydoves/Submarine) - Fully customizable floating navigation view for listing items dynamically on Android.
 
 ### Android / Frameworks
 
@@ -423,8 +427,8 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Projects / Android
 
-*   [deva666/NewsReader (⭐22)](https://github.com/deva666/NewsReader) - Android app for reading news
 *   [zt64/Hyperion (⭐337)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
+*   [deva666/NewsReader (⭐22)](https://github.com/deva666/NewsReader) - Android app for reading news
 
 ### Android / Libraries
 

@@ -8,6 +8,10 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ## [Nov 02, 2022](/content/2022/11/02/README.md)
 
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [fancy-completions (⭐3)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
+
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [lgbtq (⭐1)](https://github.com/PhoenixSmaug/zsh-lgbtq-themes) - A collection of lgbtq themes for your terminal.

@@ -6,6 +6,28 @@ A curated list of awesome things related to FastAPI
 
 [ [Daily](/content/mjhea0/awesome-fastapi/README.md) / Weekly / [Overview](/content/mjhea0/awesome-fastapi/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Databases / ORMs
+
+*   [Fastapi-SQLA (⭐46)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
+
+### Developer Tools / Other Tools
+
+*   [FastAPI MVC (⭐203)](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
+
+### Articles / Other Tools
+
+*   [Why we switched from Flask to FastAPI for production machine learning](https://medium.com/@calebkaiser/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In-depth look at why you may want to move from Flask to FastAPI.
+
+### PaaS / Other Tools
+
+*   [Microsoft Azure App Service](https://azure.microsoft.com/en-us/products/app-service/)
+
+### Serverless / Other Tools
+
+*   [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
+
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
 ### Best Practices / Other Tools
@@ -23,10 +45,6 @@ A curated list of awesome things related to FastAPI
 *   [fastapi-starter-project (⭐26)](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
 
 ## [Jul 04 - Jul 10, 2022](/content/2022/27/README.md)
-
-### Developer Tools / Other Tools
-
-*   [FastAPI MVC (⭐195)](https://github.com/rszamszur/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 
 ### Open Source Projects / Other Tools
 
@@ -143,10 +161,6 @@ A curated list of awesome things related to FastAPI
 ### Tutorials / Other Tools
 
 *   [Getting started with GraphQL in Python with FastAPI and Ariadne](https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne) - Generate a FullStack playground using FastAPI, GraphQL and Ariadne.
-
-### PaaS / Other Tools
-
-*   [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 
@@ -447,10 +461,6 @@ A curated list of awesome things related to FastAPI
 
 *   [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) - Nice overview of the project.
 
-### Articles / Other Tools
-
-*   [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) - In-depth look at why you may want to move from Flask to FastAPI.
-
 ### Tutorials / Other Tools
 
 *   [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a) - Dockerizing a FastAPI application.
@@ -583,7 +593,6 @@ A curated list of awesome things related to FastAPI
 *   [Chalice (⭐9.3k)](https://github.com/aws/chalice)
 *   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐121)](https://github.com/iwpnd/fastapi-aws-lambda-example))
 *   [Google Cloud Functions](https://cloud.google.com/functions/)
-*   [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
 
 ### Open Source Projects / Other Tools
 

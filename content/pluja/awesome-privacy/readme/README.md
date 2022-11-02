@@ -1141,7 +1141,8 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Privacy respecting Reddit clients:**
 
-*   [Libreddit](https://libredd.it) - Private Reddit front-end written in Rust
+*   [Libreddit (⭐3.6k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+    *   [Ferrit (⭐66)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
 *   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐2.3k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐422)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
@@ -1344,7 +1345,7 @@ Please read about what the addon does before installing. If you don't understand
 
 *   [uBlock Origin](https://ublockorigin.com/) - Free, open-source ad content blocker. Easy on CPU and memory.
 *   [ClearURLs (⭐3.3k)](https://github.com/ClearURLs/Addon) - This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing the Internet and sharing links.
-*   [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
+*   [LocalCDN](https://www.localcdn.org/) - LocalCDN is a web browser extension that emulates Content Delivery Networks to improve your online privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment. LocalCDN is a fork of the inactive project [Decentraleyes](https://decentraleyes.org/).
 *   [Cookie Autodelete (⭐1.4k)](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - When a tab closes, any cookies not being used are automatically deleted. Prevent tracking by other cookies and add only the ones you trust.
 *   [Smart Referer](https://gitlab.com/smart-referrer/smart-referer/-/blob/master/README.md) - Automatically hide HTTP and JavaScript Referer for cross-domain requests.
 *   ~~[Privacy Redirect (⭐1.5k)](https://github.com/SimonBrazell/privacy-redirect)~~ [LibRedirect (⭐1.6k)](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.

@@ -2501,6 +2501,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [spotify (⭐45)](https://github.com/rapito/go-spotify) - Go Library to access Spotify WEB API.
 *   [steam (⭐28)](https://github.com/sostronk/go-steam) - Go Library to interact with Steam game servers.
 *   [stripe (⭐1.6k)](https://github.com/stripe/stripe-go) - Go client for the Stripe API.
+*   [swag (⭐21)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 *   [textbelt (⭐18)](https://github.com/dietsche/textbelt) - Go client for the textbelt.com txt messaging API.
 *   [translate (⭐32)](https://github.com/poorny/translate) - Go online translation package.
 *   [Trello (⭐205)](https://github.com/adlio/trello) - Go wrapper for the Trello API.

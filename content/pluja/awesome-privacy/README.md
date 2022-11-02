@@ -6,6 +6,17 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Nov 02, 2022](/content/2022/11/02/README.md)
+
+### Reddit
+
+*   [Libreddit (⭐3.6k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+    *   [Ferrit (⭐66)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
+
+### Anti-tracking / Alternative clients/modifications of Discord:
+
+*   [LocalCDN](https://www.localcdn.org/) - LocalCDN is a web browser extension that emulates Content Delivery Networks to improve your online privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment. LocalCDN is a fork of the inactive project [Decentraleyes](https://decentraleyes.org/).
+
 ## [Oct 23, 2022](/content/2022/10/23/README.md)
 
 ### Notes and Tasks
@@ -614,7 +625,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [uBlock Origin](https://ublockorigin.com/) - Free, open-source ad content blocker. Easy on CPU and memory.
 *   [ClearURLs (⭐3.3k)](https://github.com/ClearURLs/Addon) - This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing the Internet and sharing links.
-*   [Decentraleyes](https://decentraleyes.org/) - Protects you against tracking through "free", centralized, content delivery.
 *   [Cookie Autodelete (⭐1.4k)](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - When a tab closes, any cookies not being used are automatically deleted. Prevent tracking by other cookies and add only the ones you trust.
 *   [Smart Referer](https://gitlab.com/smart-referrer/smart-referer/-/blob/master/README.md) - Automatically hide HTTP and JavaScript Referer for cross-domain requests.
 
@@ -913,7 +923,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
 *   [SaidIt](https://saidit.net/) - Open source Reddit clone.
-*   [Libreddit](https://libredd.it) - Private Reddit front-end written in Rust
 *   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐2.3k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/apple.png"> <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Slide (⭐1.7k)](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android and iOS.

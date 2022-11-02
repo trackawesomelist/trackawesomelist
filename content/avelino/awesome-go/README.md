@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 02, 2022](/content/2022/11/02/README.md)
+
+### Third-party APIs
+
+*   [swag (⭐21)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
+
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 
 ### Standard CLI

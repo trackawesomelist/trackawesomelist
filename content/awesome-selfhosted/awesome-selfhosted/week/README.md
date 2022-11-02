@@ -8,6 +8,18 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
+### Software / Communication - Custom Communication Systems
+
+*   [Dendrite](https://matrix.org/docs/projects/server/dendrite) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
+
+### Software / Groupware
+
+*   [tine - Community Edition (⭐136)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
+
+### Software / Remote Access
+
+*   [RustDesk](https://rustdesk.com/) - An open source TeamViewer alternative, works out of the box, no configuration required. ([Source Code (⭐2.5k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker`
+
 ### Software / Status / Uptime pages
 
 *   [Gatus (⭐3k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
@@ -1313,7 +1325,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐63)](https://github.com/foodcoopshop/foodcoopshop)) `MIT` `PHP`
+*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐63)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP`
 
 ### Software / Search Engines
 

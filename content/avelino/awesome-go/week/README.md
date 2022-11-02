@@ -35,6 +35,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Third-party APIs
 
 *   [GoFreeDB (⭐16)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
+*   [swag (⭐21)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 
 ### Validation
 

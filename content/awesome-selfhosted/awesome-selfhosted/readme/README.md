@@ -314,6 +314,7 @@ Software which allows users to add, annotate, edit, and share [bookmarks](https:
 *   [Chitchatter](https://chitchatter.im/) - A peer-to-peer chat app that is serverless, decentralized, and ephemeral. ([Source Code (⭐332)](https://github.com/jeremyckahn/chitchatter)) `GPL-2.0` `Nodejs`
 *   [Darkwire.io (⭐750)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
 *   [Databag (⭐7)](https://github.com/balzack/databag) - Federated messaging client for the web, iOS, and Android, supporting text, photos and video. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
+*   [Dendrite](https://matrix.org/docs/projects/server/dendrite) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
 *   [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code (⭐8.9k)](https://github.com/vector-im/element-web)) `Apache-2.0` `Nodejs`
 *   [Enigma Reloaded (⭐53)](https://github.com/enigma-reloaded/enigma-reloaded) - DIY Message and file encryption for any platform. `GPL-3.0` `Javascript`
 *   [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish *freesites* (web sites accessible only through Freenet) and chat on forums. ([Source Code (⭐842)](https://github.com/freenet/fred)) `GPL-2.0` `Java`
@@ -611,7 +612,7 @@ Management and administration tools for community supported agriculture and food
 
 *   [ACP Admin](https://acp-admin.ch/) - CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails. ([Source Code (⭐16)](https://github.com/acp-admin/acp-admin/)) `MIT` `Ruby`
 *   [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code (⭐122)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
-*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐63)](https://github.com/foodcoopshop/foodcoopshop)) `MIT` `PHP`
+*   [FoodCoopShop](https://www.foodcoopshop.com/) - User-friendly open source software for food-coops. ([Source Code (⭐63)](https://github.com/foodcoopshop/foodcoopshop)) `AGPL-3.0` `PHP`
 *   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐273)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Ruby`
 *   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐30)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 *   [Local Food Nodes](https://localfoodnodes.org/) - Your open source platform for peoples driven local food markets and CSA. ([Source Code](https://gitlab.com/localfoodnodes/localfoodnodes)) `MIT` `PHP`
@@ -1017,6 +1018,7 @@ Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborativ
 *   [Openmeetings](https://openmeetings.apache.org/index.html) - Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming. ([Source Code](https://openmeetings.apache.org/scm.html)) `Apache-2.0` `Java`
 *   [SOGo](https://www.sogo.nu/) - SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and Web interface. ([Demo](https://demo.sogo.nu/SOGo/), [Source Code (⭐1.4k)](https://github.com/inverse-inc/sogo)) `LGPL-2.1` `Objective-C`
 *   [SuiteCRM](https://suitecrm.com) - The award-winning, enterprise-class open source CRM. ([Source Code (⭐3.2k)](https://github.com/salesagility/SuiteCRM)) `AGPL-3.0` `PHP`
+*   [tine - Community Edition (⭐136)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
 *   [Tracim (⭐180)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
 *   [Zimbra Collaboration](https://www.zimbra.com/) - Email, calendar, collaboration server with Web interface and lots of integrations. ([Source Code](https://github.com/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
 
@@ -1583,6 +1585,7 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
 *   [Firezone](https://www.firezone.dev/) - Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ([Source Code (⭐3k)](https://github.com/firezone/firezone)) `Apache-2.0` `Elixir`
 *   [Guacamole](https://guacamole.apache.org) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `Apache-2.0` `Java/C`
+*   [RustDesk](https://rustdesk.com/) - An open source TeamViewer alternative, works out of the box, no configuration required. ([Source Code (⭐2.5k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker`
 *   [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ([Source Code (⭐982)](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`
 *   [Sshwifty (⭐1.3k)](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`
 *   [Warpgate (⭐1.7k)](https://github.com/warp-tech/warpgate) - Smart SSH and HTTPS bastion that works with any SSH client. `Apache-2.0` `Rust/Docker`
