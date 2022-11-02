@@ -83,17 +83,17 @@
 
 ### Android / Libraries
 
-*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences) - Android Library to make SharedPreferences usage easier.
-*   [TouK/bubble (⭐100)](https://github.com/TouK/bubble) - Screen orientation detector for android
-*   [MarcinMoskala/PreferenceHolder (⭐154)](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made fun in Kotlin
-*   [MarcinMoskala/ActivityStarter (⭐428)](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
-*   [mcxiaoke/kotlin-koi (⭐515)](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
-*   [chibatching/Kotpref (⭐681)](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin
-*   [pawegio/KAndroid (⭐893)](https://github.com/pawegio/KAndroid) - Kotlin library for Android
+*   [MarcinMoskala/ActivityStarter (⭐428)](https://github.com/MarcinMoskala/ActivityStarter)
+*   [MarcinMoskala/KotlinPreferences (⭐51)](https://github.com/MarcinMoskala/KotlinPreferences)
+*   [MarcinMoskala/PreferenceHolder (⭐154)](https://github.com/MarcinMoskala/PreferenceHolder)
+*   [pawegio/KAndroid (⭐893)](https://github.com/pawegio/KAndroid)
+*   [chibatching/Kotpref (⭐681)](https://github.com/chibatching/Kotpref)
+*   [TouK/bubble (⭐100)](https://github.com/TouK/bubble)
+*   [mcxiaoke/kotlin-koi (⭐515)](https://github.com/mcxiaoke/kotlin-koi)
 
 ### Android / Frameworks
 
-*   [0xe1f/ararat (⭐28)](https://github.com/0xe1f/ararat) - Crossword library for Android
+*   [0xe1f/ararat (⭐28)](https://github.com/0xe1f/ararat)
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

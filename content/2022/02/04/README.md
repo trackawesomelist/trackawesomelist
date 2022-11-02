@@ -23,7 +23,6 @@
 *   [id3v2 (⭐264)](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
 *   [malgo (⭐201)](https://github.com/gen2brain/malgo) - Mini audio library.
 *   [minimp3 (⭐90)](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
-*   [music-theory (⭐412)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 *   [Oto (⭐1.1k)](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 *   [PortAudio (⭐537)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 

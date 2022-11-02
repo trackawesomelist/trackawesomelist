@@ -108,10 +108,6 @@
 
 *   [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-### Developer Tools / Network Analysis
-
-*   [Proxie](https://proxieapp.com/) - HTTP debugging proxy. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/cellist/id897814548)
-
 ### Developer Tools / Command Line Tools
 
 *   [Go2Shell](https://itunes.apple.com/app/go2shell/id445770608?mt=12) - Go2Shell opens a terminal window to the current directory in Finder. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/go2shell/id445770608?mt=12)

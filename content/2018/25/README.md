@@ -482,7 +482,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Developer Tools / Databases
 
-*   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/navicat-data-modeler-essentials-visual-database-designer/id532423082)
+*   [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 
 ### Design and Product / Design Tools
 
@@ -490,7 +490,6 @@ Webpage: <http://ogniwo.org/>
 
 ### Design and Product / Screencapturing Software
 
-*   [Gifox](https://gifox.io/) - Gif Recording and Sharing. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744)
 *   [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/monosnap/id540348655)
 *   [Snipaste](https://www.snipaste.com) -  Simple but powerful snipping tool. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/monosnap/id1199502670)
@@ -498,8 +497,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Design and Product / Other Tools
 
-*   [JPEGmini](http://www.jpegmini.com/) - Reduce image size by up to 80%, without compromising quality. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/jpegmini-lite/id525742250) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Spectrum](http://www.eigenlogik.com/spectrum/mac) - Easily and intuitively creating beautiful color schemes. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/spectrum/id518156125?mt=12)
+*   [JPEGmini](http://www.jpegmini.com/) - Reduce image size by up to 80%, without compromising quality.
 
 ### Input Methods / File Sharing
 

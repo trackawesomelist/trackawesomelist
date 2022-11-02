@@ -51,7 +51,6 @@
 
 ### Reading and Writing Tools / Text Editors
 
-*   [Chocolat](https://chocolatapp.com/) - Native text editor.
 *   [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/coteditor/CotEditor/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Developer Utilities
@@ -122,7 +121,7 @@
 
 ### Utilities / File Organization Tools
 
-*   [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://bitbucket.org/kosovan/theunarchiver) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/the-unarchiver/id425424353)
 
 ### Utilities / To-Do Lists
 

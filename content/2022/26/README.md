@@ -188,7 +188,7 @@
 
 ### Software / Polls and Events
 
-*   [Bitpoll (⭐153)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.mafiasi.de/)) `GPL-3.0` `Python`
+*   [Bitpoll (⭐153)](https://github.com/fsinfuhh/Bitpoll) - A web application for scheduling meetings and general polling. ([Demo](https://bitpoll.de/)) `GPL-3.0` `Python`
 
 ### Software / Search Engines
 

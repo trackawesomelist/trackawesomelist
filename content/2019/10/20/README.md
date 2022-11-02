@@ -145,7 +145,7 @@
 
 ### Reading and Writing Tools / Journaling
 
-*   [Journey](https://journey.cloud/) - Journaling app with many features and with apps for every platform available. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/journey-diary-journal/id1265425422?mt=12)
+*   [Journey](https://journey.cloud/) - Journaling app with many features and with apps for every platform available. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/journey-diary-journal/id1300202543)
 
 ### Reading and Writing Tools / Others
 

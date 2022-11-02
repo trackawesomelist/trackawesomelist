@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05, 2019
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -81,24 +81,26 @@
 
 *   [metabase/connection-pool (⭐13)](https://github.com/metabase/connection-pool)
 
-## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Software Development - IDE & Tools
+
+*   [ML Workspace (⭐2.8k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. `Apache-2.0` `Docker`
+
+## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Quantum Computing / NLP
 
 *   [PennyLane (⭐1.6k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
-## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
-
-### Runtimes/Frontends
-
-*   [ML Workspace (⭐2.8k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
+## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Deepnote](https://www.deepnote.com) - Jupyter-compatible data science notebook with real-time collaboration, versioning and easy deployment.
 *   [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
 
-## [10. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [11. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Testing / Individual Podcast episodes
 

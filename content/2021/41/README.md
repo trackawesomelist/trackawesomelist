@@ -302,24 +302,13 @@
 
 *   [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
 
-## [30. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### Data Science
-
-*   [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
-
-### Language Agnostic / React.js
-
-*   [IBM Developer Podcast](https://developer.ibm.com/podcasts/ibm_developer_podcast/) - IBM (podcast)
-*   [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
-
-## [31. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [30. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Related Projects / Hosting
 
 *   [RxDB](https://rxdb.info/) - NoSQL-database for JavaScript Applications. RxDB provides modules for realtime replication with any CouchDB compliant endpoint and also with custom GraphQL endpoints.
 
-## [32. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [31. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -333,7 +322,7 @@
 
 *   [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/\~edwardloveall/scribe) - Privacy-respecting and minimal alternative front end for Medium.com.
 
-## [33. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [32. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Boilerplate / Mouse Events
 
@@ -343,7 +332,7 @@
 
 *   [react-slack-notification (⭐9)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
-## [34. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [33. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Packages
 
@@ -352,6 +341,17 @@
 ### Articles
 
 *   [Learning Observable By Building Observable](https://benlesh.com/posts/learning-observable-by-building-observable/) *(Updated 2021-07-08)*
+
+## [34. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### 1 - Agnósticos / Algoritmos y Estructuras de Datos
+
+*   [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+*   [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
+
+### Python / Django
+
+*   [Guía Oficial de Django](https://docs.djangoproject.com/es/3.2/) (3.2) (HTML)
 
 ## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 

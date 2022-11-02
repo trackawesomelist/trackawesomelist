@@ -442,8 +442,8 @@
 
 ### Command-line options parsers / Third-party APIs
 
-*   [Clingon (⭐49)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
-    *   newer, it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
+*   👍 [Clingon (⭐49)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+    *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
 ## [49. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 

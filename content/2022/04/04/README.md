@@ -116,13 +116,13 @@
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Learning with Cognitive Plausibility / Visual Complexity
-
-*   [Interplay between rule learning and rule switching in a perceptual categorization task](https://www.biorxiv.org/content/10.1101/2022.01.29.478330v2.abstract) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7461559646167397406\&hl=en\&as_sdt=0,5)].
-
 ### System 1 & System 2 / Dual-Coding Theory
 
 *   [A continuous semantic space describes the representation of thousands of object and action categories across the human brain](https://mri-q.com/uploads/3/4/5/7/34572113/gallant_piis0896627312009348.pdf) - ***Neuron***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=10348115268396987731\&hl=en\&as_sdt=0,5)].
+
+### Learning with Cognitive Plausibility / Commonsense Knowledgebase
+
+*   [Interplay between rule learning and rule switching in a perceptual categorization task](https://www.biorxiv.org/content/10.1101/2022.01.29.478330v2.abstract) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7461559646167397406\&hl=en\&as_sdt=0,5)].
 
 ---
 

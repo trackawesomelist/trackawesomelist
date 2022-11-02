@@ -142,10 +142,6 @@
 
 ## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Design and Product / Prototyping and Mind-Mapping Tools
-
-*   [Loremify](http://loremify.com) - Great Lorem ipsum generator.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")[![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/loremify/id1028877632)
-
 ### Utilities / Productivity
 
 *   [Trello](https://trello.com) - A collaboration tool that organizes your projects into Kanban boards.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")[![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/trello/id1278508951?ls=1\&mt=12)

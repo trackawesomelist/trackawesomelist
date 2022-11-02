@@ -112,7 +112,7 @@
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-### Learning with Cognitive Plausibility / Visual Complexity
+### Learning with Cognitive Plausibility / Commonsense Knowledgebase
 
 *   [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801\&hl=en\&as_sdt=0,5)].
 

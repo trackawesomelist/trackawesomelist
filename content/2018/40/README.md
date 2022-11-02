@@ -852,7 +852,6 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Design and Product / Design Tools
 
-*   [Gravit Designer](https://designer.io/) - Full featured free vector design app right at your fingertips. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/id1207744923)
 *   [Nik Collection](https://nikcollection.dxo.com/) - Nik Collection by DxO.
 
 ### Design and Product / Screencapturing Software

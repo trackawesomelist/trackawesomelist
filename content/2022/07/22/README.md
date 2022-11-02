@@ -292,17 +292,6 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 *   [Seeing and speaking: How verbal “description length” encodes visual complexity](https://perception.jhu.edu/files/PDFs/21_Complexity_Speaking/SunFirestone_SpeakingSeeing_2021_JEPG.pdf) - ***Journal of Experimental Psychology***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2021-83037-001)]. Empirical evidencs showing the relation between visual complexity and description length.
 *   [How variability shapes learning and generalization](https://pure.mpg.de/rest/items/item_3380375/component/file_3383568/content) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10940775338620708972\&hl=en\&as_sdt=0,5)]. A comprehensive review on the trade-off between variability and generalization ability.
 
-### Learning with Cognitive Plausibility / Visual Complexity
-
-*   [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) - ***Wikipedia***. Wikipedia on the distinctions and the trade-off between accuracy and precision.
-*   [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446\&hl=en\&as_sdt=0,5)]. The original paper on the recognition-by-components theory.
-*   [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***Engineering***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161\&hl=en\&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
-*   [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/\~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
-*   [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917\&hl=en\&as_sdt=0,5)].
-*   [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***Cognition***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915\&hl=en\&as_sdt=0,5)]. The original paper on the idea of curriculum learning.
-*   [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405\&hl=en\&as_sdt=0,5)]. The original paper applying the idea of curriculum learning to machine learning.
-*   [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624\&hl=en\&as_sdt=0,5)]. The original paper on latent state discovery from videos.
-
 ### Communications / Visual Communication
 
 *   [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970\&hl=en\&as_sdt=0,5)]. Nicolas Fay's original paper on iconicity.
@@ -374,6 +363,17 @@ Installs: 2000 | Stars: 129 | Last update: 24 Jul 2020
 ### Problem Solving / Inverse Reinforcement Learning
 
 *   [Apprenticeship Learning via Inverse Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/1015330.1015430) - ***ICML'04***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=10260011060619377707\&hl=en\&as_sdt=0,5)]. Pieter Abbeel and Andrew Ng's original paper on inverse reinforcement learning (IRL).
+
+### Learning with Cognitive Plausibility / Commonsense Knowledgebase
+
+*   [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision) - ***Wikipedia***. Wikipedia on the distinctions and the trade-off between accuracy and precision.
+*   [Recognition-by-Components: A Theory of Human Image Understanding](http://people.csail.mit.edu/torralba/courses/6.870/papers/Biederman_RBC_1987.pdf) - ***Psychological Review***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=16522931798979362446\&hl=en\&as_sdt=0,5)]. The original paper on the recognition-by-components theory.
+*   [Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense](https://yzhu.io/publication/dark2020engineering/paper.pdf) - ***Engineering***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12292747257300299161\&hl=en\&as_sdt=0,5)]. Yixin Zhu and Song-Chun Zhu's review on visual commonsense.
+*   [Self-supervised Learning Through the eyes of a Child](https://cims.nyu.edu/\~brenden/papers/OrhanEtAl2020NeurIPS.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5608715260418451299\&hl=en\&as_sdt=0,5)]. Concept learning through near-natural co-occurrence frequency estimation.
+*   [BONGARD-LOGO: A New Benchmark for Human-Level Concept Learning and Reasoning](https://proceedings.neurips.cc/paper/2020/hash/bf15e9bbff22c7719020f9df4badc20a-Abstract.html) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9164011458889391917\&hl=en\&as_sdt=0,5)].
+*   [Learning and development in networks: The importance of starting small.](https://www.sciencedirect.com/science/article/abs/pii/0010027793900584) - ***Cognition***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=5133345254007462915\&hl=en\&as_sdt=0,5)]. The original paper on the idea of curriculum learning.
+*   [Curriculum Learning](https://dl.acm.org/doi/pdf/10.1145/1553374.1553380) - ***ICML'09***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=8740915934335425405\&hl=en\&as_sdt=0,5)]. The original paper applying the idea of curriculum learning to machine learning.
+*   [Inferring "Dark Matter" and "Dark Energy" from Videos](https://ieeexplore.ieee.org/document/6751387) - ***ICCV'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=3467068307444498624\&hl=en\&as_sdt=0,5)]. The original paper on latent state discovery from videos.
 
 ---
 

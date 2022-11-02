@@ -142,7 +142,6 @@
 ### Software / Photo and Video Galleries
 
 *   [Gallery CSS](https://benschwarz.github.io/gallery-css/) - Gallery.css is all CSS. Think: Simple, maintainable and understandable galleries without the use of Javascript. ([Source Code (⭐1.1k)](https://github.com/benschwarz/gallery-css)) `MIT` `CSS`
-*   [PhotoLight (⭐42)](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is. `GPL-3.0` `PHP`
 *   [sigal (⭐769)](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`
 
 ### Software / Proxy

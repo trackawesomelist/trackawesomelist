@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 20 - Nov 26, 2017
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -156,7 +156,52 @@
 
 *   [Lobsters](https://lobste.rs/) - Simple link aggregation site with explanations required to downvote.
 
-## [16. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [16. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### 0 - Meta-Listas
+
+*   [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
+*   [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
+*   [OpenLibra - Biblioteca recopilatorio de libros libres](https://openlibra.com/es/collection)
+
+### 1 - Agnósticos / Base de Datos
+
+*   [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
+
+### Android / Sistemas Operativos
+
+*   [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
+
+### Haskell / Sistemas Operativos
+
+*   [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html) (HTML)
+
+### Java / Sistemas Operativos
+
+*   [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
+*   [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
+
+### JavaScript / Sistemas Operativos
+
+*   [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
+
+### Perl / Symfony
+
+*   [Tutorial Perl](http://kataix.umag.cl/\~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
+
+### Python / Symfony
+
+*   [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
+
+### Ruby / Web2py
+
+*   [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart) (HTML)
+
+### SQL / Ruby on Rails
+
+*   [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
+
+## [17. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Tutorials
 
@@ -171,7 +216,7 @@
 
 *   [Chris Parmer](https://github.com/chriddyp)
 
-## [17. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [18. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### North America / United States of America 🇺🇸
 
@@ -183,7 +228,7 @@
 Topics: Microservices, PHP, JavaScript, Docker\
 <https://twitter.com/KarlLHughes>
 
-## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
@@ -193,7 +238,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 *   [VueFlux (⭐324)](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 
-## [19. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [20. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Configuration
 
@@ -207,13 +252,13 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 *   [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
 
-## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Mathematics
 
 *   [AutoDiff (⭐72)](https://github.com/alexshtf/autodiff) - AutoDiff is a library for quickly computing gradients of functions defined by expressions. Mainly useful in numerical optimization
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [22. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -223,7 +268,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 *   [Coypu (⭐103)](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 
-## [22. Bots](/content/hackerkid/bots/week/README.md)
+## [23. Bots](/content/hackerkid/bots/week/README.md)
 
 ### General
 
@@ -241,14 +286,14 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 *   [Node.js (⭐1.8k)](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
 
-## [23. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [24. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Misc/Technical / Hosting
 
 *   [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 *   [Persistent Trees in git, Clojure and CouchDB](https://eclipsesource.com/blogs/2009/12/13/persistent-trees-in-git-clojure-and-couchdb-data-structure-convergence/)
 
-## [24. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### PlaygroundBooks
 
@@ -260,13 +305,13 @@ Topics: Microservices, PHP, JavaScript, Docker\
 *   [File Browser Playground (⭐203)](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.
 *   [Geometry with Swift (⭐8)](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - In this course your students will learn the fundamentals of Swift 3 programming, using geometry as their context for learning.
 
-## [25. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [26. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
 *   [Staticman (⭐2.3k)](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 
-## [26. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [27. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Components
 
@@ -276,7 +321,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 *   [Redux Zero (⭐2k)](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
 
-## [27. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -294,7 +339,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 *   [NoPermission (⭐106)](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 
-## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [29. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -316,7 +361,7 @@ Topics: Microservices, PHP, JavaScript, Docker\
 
 *   [envy (⭐53)](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
-## [29. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [30. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### South Korea 🇰🇷 / Seoul
 
@@ -332,19 +377,19 @@ Webpage: <http://www.jimmymonkey.com/>
 
 See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://github.com/otobrglez/awesome-workplaces-slovenia)
 
-## [30. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [31. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Other
 
 *   [not-defined (⭐3)](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
 
-## [31. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
+## [32. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
 ### Blog Posts
 
 *   [End User Monitoring done easy in inspectIT 1.8](https://blog.novatec-gmbh.de/end-user-monitoring-inspectit-1-8/) - How inspectIT can be used to monitor the end user's experience.
 
-## [32. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [33. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Tutorials / Aurelia Articles
 
@@ -354,19 +399,19 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 *   [casl-aurelia-example (⭐5)](https://github.com/stalniy/casl-aurelia-example) \* Example applilcation of authorization in Aurelia app using CASL.
 
-## [33. ElixirBooks](/content/sger/ElixirBooks/week/README.md)
+## [34. ElixirBooks](/content/sger/ElixirBooks/week/README.md)
 
 ### **Web Development** / [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
 
 *   [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
 
-## [34. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [35. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### data
 
 *   [geo-maps (⭐1.2k)](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated.
 
-## [35. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [36. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Video applications / XML
 
@@ -378,7 +423,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 *   [DerelictCUDA (⭐17)](https://github.com/DerelictOrg/DerelictCUDA) - Dynamic bindings to the CUDA library for the D Programming Language.
 *   [DerelictCL (⭐8)](https://github.com/DerelictOrg/DerelictCL) - Dynamic bindings to the OpenCL library for the D Programming Language.
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Geolocation
 
@@ -388,25 +433,25 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 *   [mockery (⭐83)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
-## [37. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [38. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Design
 
 *   [API-Security-Checklist (⭐18k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
-## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Project Management
 
 *   [Hitask](https://hitask.com/) - Easy task and project management for teams.
 
-## [39. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [40. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Blogs
 
 *   [the native web](https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/) - DDD & Co. series
 
-## [40. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [41. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Tools
 
@@ -421,25 +466,25 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 *   [Ansible Vagrant Examples by geerlingguy (⭐2k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 
-## [41. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [42. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### E-commerce
 
 *   [saleor](http://getsaleor.com/) - An e-commerce storefront for Django.
 
-## [42. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [43. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Timings
 
 *   [Video Timing (⭐9)](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)
 
-## [43. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [44. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Common Utilities
 
 *   [Draft.js AST Importer (⭐13)](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 
-## [44. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [45. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -464,7 +509,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 *   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
 *   [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
 
-## [45. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [46. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Localization
 
@@ -475,7 +520,7 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 *   [The Extension Lab](https://github.com/theextensionlab/)
 *   [FireBear Studio](https://firebearstudio.com/)
 
-## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -485,19 +530,19 @@ See [https://github.com/otobrglez/awesome-workplaces-slovenia (⭐89)](https://g
 
 *   [MediaInfoLib (⭐472)](https://github.com/MediaArea/MediaInfoLib) - Convenient unified display of the most relevant technical and tag data for video and audio files. \[BSD]
 
-## [47. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [48. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / How to report Security issues
 
 *   [Android Reports and Resources (⭐1.1k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
-## [48. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [49. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Art
 
 *   [Every Shirt Is Political](https://everyshirtispolitical.com/) - Shirts that are ethically made, hand-printed, and pay what you can priced.
 
-## [49. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [50. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Resources / Organizations
 

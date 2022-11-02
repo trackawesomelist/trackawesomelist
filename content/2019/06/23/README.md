@@ -18,10 +18,6 @@
 
 *   [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
 
-### Audio and Video Tools / File Sharing
-
-*   [MusicPlus](https://musicplus.io) - Search, play & download music for free. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ---
 
 - Prev: [Jun 24, 2019](/content/2019/06/24/README.md)

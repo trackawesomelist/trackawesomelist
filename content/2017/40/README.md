@@ -648,7 +648,13 @@
 
 *   [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 
-## [39. Bots](/content/hackerkid/bots/week/README.md)
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / Command Line Tools
+
+*   [Mac-CLI (⭐8.3k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [40. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tools For Building Bots
 
@@ -733,7 +739,7 @@
 *   [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
 *   [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
 
-## [40. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [41. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / Ruby
 
@@ -816,7 +822,7 @@
 
     Connecting women with jobs that actually lead to work-life balance. Specializing in remote work for women. In addition to job boards, it contains information about time-management, self-efficacy etc.
 
-## [41. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [42. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Startups and Business
 
@@ -2719,16 +2725,6 @@
   Year Published: 2002
 
 
-
-## [42. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [Mac-CLI (⭐8.3k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Communication / Email Clients
-
-*   [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule.
 
 ## [43. Awesome Framer](/content/podo/awesome-framer/week/README.md)
 

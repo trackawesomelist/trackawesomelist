@@ -49,8 +49,7 @@
 
 ### Command-line options parsers / Third-party APIs
 
-*   👍 [Unix-opts (⭐96)](https://github.com/libre-man/unix-opts) - a command line
-    options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
+*   [Unix-opts (⭐96)](https://github.com/libre-man/unix-opts) - a command line options parser with a concise declaration of options. [MIT](https://opensource.org/licenses/MIT).
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 

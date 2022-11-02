@@ -73,10 +73,6 @@
 
 *   [Time Out](https://www.dejal.com/timeout/) - Easy break reminders, with micro-break and flexible customization if you want it. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12)
 
-### Social Networking / System Related Tools
-
-*   [Chirper](https://arguiot.com/Chirper/) - A simple and tiny menu bar app for Buffer/Twitter that helps you tweet your thoughts without opening anything.
-
 ## [6. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Books

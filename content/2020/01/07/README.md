@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 07, 2020
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -136,44 +136,38 @@
 
 *   :strawberry: [Search plugin (⭐155)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Utilities / General Tools
-
-*   [Torimori Sweeper](https://web.archive.org/web/20190515060747/https://coffeeboo.itch.io/sweeper) - MacOS app that lets you declutter your Downloads, one file at a time. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://coffeeboo.itch.io/sweeper)
-
-## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Community
 
 *   [VueJS CZ/SK - Discord group](https://discord.gg/mDr2z8V)
 
-## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Deployment / Code Coverage
 
 *   [Deploy an Ansible role to Ansible Galaxy (⭐24)](https://github.com/robertdebock/galaxy-action)
 
-## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [16. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
 *   [ash (⭐1.2k)](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. \[MIT]
 
-## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Articles
 
 *   [Keycloak: Core concepts of open source identity and access management](https://developers.redhat.com/blog/2019/12/11/keycloak-core-concepts-of-open-source-identity-and-access-management)
 *   [Who am I? Keycloak Impersonation API](https://blog.softwaremill.com/who-am-i-keycloak-impersonation-api-bfe7acaf051a)
 
-## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
 *   [CITA (⭐1.3k)](https://github.com/citahub/cita) — A high performance blockchain kernel for enterprise users.
 
-## [20. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [19. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Rails
 

@@ -197,4 +197,5 @@
 
 ---
 
+- Prev: [Nov 02, 2022](/content/2022/11/02/README.md)
 - Next: [Oct 31, 2022](/content/2022/10/31/README.md)

@@ -419,7 +419,7 @@
 
 ### Utilities / Password Management
 
-*   [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/dashlane-password-manager/id552383089)
+*   [Dashlane](https://www.dashlane.com) - Cloud-based password manager with award-winning design.
 
 ### Podcasts / Package Managers
 

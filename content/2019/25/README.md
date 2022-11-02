@@ -21,10 +21,6 @@
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
-### Audio and Video Tools / File Sharing
-
-*   [MusicPlus](https://musicplus.io) - Search, play & download music for free. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Developer Tools / Databases
 
 *   [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for using on Microsoft family on-premises and cloud data platforms such as MSSQL Server ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -67,6 +63,10 @@
 *   [A practical guide to writing more functional Javascript](https://medium.com/@nadeesha/a-practical-guide-to-writing-more-functional-javascript-db49409f71) - A step by step guide to convert imperative JavaScript to more declarative, functional JavaScript.
 
 ## [10. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+
+### Closed Source / Other
+
+*   [MusicPlus](https://musicplus.io) - Free music app for macOS and Windows.
 
 ### For Electron / Other
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14 - Mar 20, 2022
 
-55 awesome lists updated this week.
+56 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1139,7 +1139,13 @@
 
 *   [Know Go: Generics](https://bitfieldconsulting.com/books/generics) - A guide to understanding and using generics in Go.
 
-## [45. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [45. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### Python / Symfony
+
+*   [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF)
+
+## [46. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
@@ -1153,13 +1159,13 @@
 
 *   [Angular Spotify (⭐2.1k)](https://github.com/trungk18/angular-spotify) - Spotify client built with Angular, Nx Workspace and Tailwind CSS.
 
-## [46. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
+## [47. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
 ### Miscellaneous
 
 *   [IntelliJ Slim](https://plugins.jetbrains.com/plugin/18751-slim) - Provides boilerplate codes for easier new project creation using skeleton.
 
-## [47. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [48. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -1181,13 +1187,13 @@
 *   [voidy (⭐0)](https://github.com/rwejdling/voidy) - Borrows elements from [lambda (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) and [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) themes and adds the active [aws-vault (⭐6.9k)](https://github.com/99designs/aws-vault) profile to the right side of the prompt.
 *   [yuyuko (⭐0)](https://github.com/hylwxqwq/yuyuko.zsh-theme) - Fork of [ys (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme), inspired by [yuyuko.vim (⭐10)](https://github.com/hylwxqwq/yuyuko.vim).
 
-## [48. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [49. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Platforms
 
 *   [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 
-## [49. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [50. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -1201,7 +1207,7 @@
 
 *   [MONAI (⭐3.5k)](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 
-## [50. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [51. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -1215,7 +1221,7 @@
 
 *   [Hathora (⭐475)](https://github.com/hathora/hathora) - Multiplayer game framework.
 
-## [51. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [52. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Introductory / Lecture Videos Playlists
 
@@ -1251,7 +1257,7 @@
 
 *   [Lipton & Regan](https://rjlipton.wpcomstaging.com/2022/01/26/a-list-of-most-theory-blogs/) - A list of theory blogs for computer science.
 
-## [52. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [53. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Official Resources
 
@@ -1270,7 +1276,7 @@
 
 *   [terraform-compliance (⭐1.2k)](https://github.com/terraform-compliance/cli) - BDD Testing for Terraform Files.
 
-## [53. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [54. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### More ways to "Dive into Machine Learning" / Aside: Bayesian Statistics and Machine Learning
 
@@ -1282,7 +1288,7 @@
 *   [Machine Learning for Software Engineers, by Nam Vu (⭐26k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it. It can answer many questions and connect you with great resources.
 *   [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 
-## [54. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [55. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Paper Writing
 
@@ -1302,11 +1308,6 @@
 
 *   [Unsupervised Representaton Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - ***ICLR'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=3321343160055675528\&hl=en\&as_sdt=0,5)].
 
-### Learning with Cognitive Plausibility / Visual Complexity
-
-*   [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001) - ***Journal of Experimental Psychology***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472\&hl=en\&as_sdt=0,5)].
-*   [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529\&hl=en\&as_sdt=0,5)].
-
 ### Problem Solving / Intrinsic Motivation
 
 *   [What is intrinsic motivation? A typology of computational approaches](https://www.frontiersin.org/articles/10.3389/neuro.12.006.2007/full) - ***Frontiers in Neurorobotics***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11901343819872275353\&hl=en\&as_sdt=0,5)].
@@ -1316,11 +1317,16 @@
 
 *   [Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4.pdf) - ***Nature Neuroscience***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=16078004657063602593\&hl=en\&as_sdt=0,5)].
 
+### Learning with Cognitive Plausibility / Commonsense Knowledgebase
+
+*   [Graininess of judgment under uncertainty: An accuracy-informativeness trade-off](https://psycnet.apa.org/record/1996-10319-001) - ***Journal of Experimental Psychology***, 1995. \[[All Versions](https://scholar.google.com/scholar?cluster=15366302654259490472\&hl=en\&as_sdt=0,5)].
+*   [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://openreview.net/forum?id=GFsU8a0sGB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2486025806014234529\&hl=en\&as_sdt=0,5)].
+
 ### UC Berkeley / Commonsense Knowledgebase
 
 *   [Anca Dragan](https://people.eecs.berkeley.edu/\~anca/index.html) - ***EECS, Berkeley***, [Interactive Autonomy and Collaborative Technologies Laboratory (InterACT)](http://interact.berkeley.edu/) - ***Berkeley***.
 
-## [55. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [56. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 

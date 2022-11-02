@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,51 +53,32 @@
 
 *   [Running locally](https://nodered.org/docs/getting-started/local)
 
-## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data and ML
+
+*   [ZenRows](https://www.zenrows.com/) — Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting. Free tier of 1000 API calls.
+
+## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [Ditox.js (⭐58)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
 *   [RxEffects (⭐27)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Infinite Scroll
 
 *   [af-virtual-scroll (⭐53)](https://github.com/nowaalex/af-virtual-scroll) - [demo/docs](https://af-virtual-scroll.vercel.app/docs/why) - Render large scrollable lists and tables.
 
-## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ### Sample Projects / .NET (C#/F#)
 
 *   [TaskoMask (⭐448)](https://github.com/hamed-shirbandi/TaskoMask) - Task management system based on .NET Core with DDD, CQRS and Event Sourcing Concepts.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
-
-### Development
-
-- API: [ZenRows](https://www.zenrows.com/)
-
-  Description: Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Unknown
-
-
-- API: [Blague.xyz](https://blague.xyz/)
-
-  Description: La plus grande API de Blagues FR/The biggest FR jokes API
-
-  Auth: `apiKey`
-
-  HTTPS: Yes
-
-  CORS: Yes
-
-
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Art & Design
 
@@ -207,6 +188,20 @@
   HTTPS: Yes
 
   CORS: Unknown
+
+
+
+### Development
+
+- API: [Blague.xyz](https://blague.xyz/)
+
+  Description: La plus grande API de Blagues FR/The biggest FR jokes API
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
 
 
 

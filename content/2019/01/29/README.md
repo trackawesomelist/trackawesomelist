@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29, 2019
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,13 +38,7 @@
 
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 
-## [5. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
-
-### Java
-
-*   [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
-
-## [6. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [5. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -59,7 +53,7 @@
 
 *   [Nate Graham](https://liberapay.com/ngraham) - KDE contributor.
 
-## [7. Bots](/content/hackerkid/bots/README.md)
+## [6. Bots](/content/hackerkid/bots/README.md)
 
 ### Platform Documentation
 
@@ -73,13 +67,13 @@
 
 *   [BotMan (⭐5.7k)](https://github.com/botman/botman) - PHP Bot Framework supporting over a dozen platforms (FB, Instagram, MS Bot Framework, etc)
 
-## [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [7. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Specialties
 
 *   [ada-composition (⭐7)](https://github.com/gerr135/ada_composition) - A collections of small nifty demos/sample code that may help better layout data or structure project.
 
-## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### General
 
@@ -104,13 +98,13 @@
 
 *   [cssicon (⭐3.1k)](https://github.com/wentin/cssicon#readme) - Icon set made with pure css code, no dependencies, "grab and go" icons. ([Website](https://cssicon.space))
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Strong Naming
 
 *   [Strong Namer (⭐309)](https://github.com/dsplaisted/strongnamer) - Automatically add strong names to referenced assemblies which do not already have a strong name. This will allow you to reference and use (NuGet packages with) assemblies which are not strong named from your projects that do use a strong name.
 
-## [11. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
+## [10. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/README.md)
 
 ### Tools / Personal use
 
@@ -122,25 +116,25 @@
 
 
 
-## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Other / Custom Dialog
 
 *   [RxAndroid (⭐20k)](https://github.com/ReactiveX/RxAndroid) - Adds minimum RxJava bindings for easy writing of reactive Android java code.
 
-## [13. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Codebases for Reference / Videos
 
 *   [Torch (⭐1.7k)](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
 
-## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Python / Git
 
 *   [Crypto-Vinaigrette (⭐13)](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
 
-## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [14. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Science and Medicine
 
@@ -190,19 +184,19 @@
 
 
 
-## [16. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [15. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Miscellaneous
 
 *   [Moment (⭐76)](https://github.com/perfectworks/alfred-workflow-moment) - Advanced time utility, inspired by [moment.js](https://momentjs.com).
 
-## [17. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [16. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Accessibility / Web payments
 
 *   [Excellent intro to accessibility from Google's fundamentals](https://developers.google.com/web/fundamentals/accessibility/)
 
-## [18. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [17. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / California   <a id="california">  </a>
 
@@ -243,7 +237,7 @@ Webpage: <https://blackhammerbrewing.com>
 | ---- | ----- | -------------------------------------------------------------------------- | ------------------- |
 | ✔    | ✔     | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2) | Mon-Sun 12:00-23:00 |
 
-## [19. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [18. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇧🇷 Brazil / Misc
 

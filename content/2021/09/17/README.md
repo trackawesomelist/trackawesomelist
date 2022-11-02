@@ -150,10 +150,6 @@
 
 ## [13. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
-### Development
-
-*   [Pasteboard Viewer (⭐433)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
-
 ### Video / Text
 
 *   [LosslessCut (⭐13k)](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing without re-encoding. ![javascript\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/javascript-16.png "JavaScript language.")
@@ -274,6 +270,10 @@
 
 
 ## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Developer Tools / Developer Utilities
+
+*   [Pasteboard Viewer (⭐433)](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1499215709)
 
 ### Utilities / Productivity
 

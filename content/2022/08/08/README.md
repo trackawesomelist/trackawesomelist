@@ -38,7 +38,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Databag (⭐7)](https://github.com/balzack/databag) - Federated messaging client for the web, supporting text, photos and video. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
+*   [Databag (⭐7)](https://github.com/balzack/databag) - Federated messaging client for the web, iOS, and Android, supporting text, photos and video. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 
 ### Software / Communication - SIP
 

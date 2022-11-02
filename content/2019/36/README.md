@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 09 - Sep 15, 2019
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -162,25 +162,27 @@
 
 *   [metabase/connection-pool (⭐13)](https://github.com/metabase/connection-pool)
 
-## [20. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
-### Runtimes/Frontends
+### Software / Software Development - IDE & Tools
 
-*   [ML Workspace (⭐2.8k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
+*   [ML Workspace (⭐2.8k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. `Apache-2.0` `Docker`
+
+## [21. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Hosted Notebook Solutions
 
 *   [Deepnote](https://www.deepnote.com) - Jupyter-compatible data science notebook with real-time collaboration, versioning and easy deployment.
 *   [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
 
-## [21. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [22. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Testing / Individual Podcast episodes
 
 *   [Elm test (⭐228)](https://github.com/elm-explorations/test) - Unit and fuzz tests
 *   [Elm Program test (⭐83)](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
 
-## [22. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### State management / Redux / ELM / Dependency Injection
 
@@ -191,13 +193,13 @@
 *   [Flutter-animation-set (⭐272)](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
 *   [Staggered Animations (⭐1.2k)](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 
-## [23. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [24. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [Diffuse](https://diffuse.sh) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 
-## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Network / Barcode
 
@@ -207,7 +209,7 @@
 
 *   [ShowSomeProgress (⭐100)](https://github.com/stoneburner/ShowSomeProgress) - Animated Progress and Activity Indicators for iOS apps.
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / NXP
 
@@ -221,7 +223,7 @@
 
 *   [`lpc55s6x-hal`](https://crates.io/crates/lpc55s6x-hal) - [![crates.io](https://img.shields.io/crates/v/lpc55s6x-hal.svg)](https://crates.io/crates/lpc55s6x-hal)
 
-## [26. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [27. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### Golang tools / Misc
 
@@ -238,7 +240,7 @@
 *   [Truth & Beauty Operations](https://truth-and-beauty.net/)
 *   [vis4.net](https://www.vis4.net/blog/) - Random thoughts on visualization and data journalism by Gregor Aisch
 
-## [27. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [28. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Jamstack Sites Showcase
 
@@ -250,13 +252,13 @@
 *   [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
 *   [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
 
-## [28. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [29. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Media / Navigation Demos
 
 *   [react-native-android-video ★8 (⭐19)](https://github.com/Cherrypick-Consulting/react-native-android-video) - Android ExoPlayer Video component for react-native.
 
-## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [30. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Post-Mortem
 
@@ -267,21 +269,21 @@
 
 *   [List of Continuous Integration services (⭐3k)](https://github.com/ligurio/awesome-ci)
 
-## [30. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [31. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Network / Other Resources
 
 *   [FakeNet-NG (⭐1.4k)](https://github.com/fireeye/flare-fakenet-ng) - Next generation
     dynamic network analysis tool.
 
-## [31. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [32. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Code Libraries / Video Lectures and Online Courses
 
 *   [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code (⭐3.3k)](https://github.com/biopython/biopython) - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 *   [rentrez (⭐170)](https://github.com/ropensci/rentrez) - R utilities for accessing NCBI resources, including PubMed.
 
-## [32. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [33. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Network Inspection
 
@@ -331,7 +333,7 @@
 
 *   [sloth (⭐196)](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
 
-## [33. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [34. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### 1C
 
@@ -341,7 +343,7 @@
 
 *   [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
 
-## [34. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [35. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -364,7 +366,7 @@
 
 *   [Scaling Postgres](https://www.scalingpostgres.com/) - Postgres video blog series by Creston Jamison
 
-## [35. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [36. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
@@ -387,13 +389,13 @@
 *   [Awesome Gazebo (⭐103)](https://github.com/fkromer/awesome-gazebo)
 *   [Awesome ROS2 (⭐1.1k)](https://github.com/fkromer/awesome-ros2)
 
-## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
 *   [swatteau/sokoban-rs (⭐134)](https://github.com/swatteau/sokoban-rs) — A Sokoban implementation
 
-## [37. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [38. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### General Purpose
 
@@ -404,13 +406,13 @@
     [Repo (⭐1.1k)](https://github.com/Spiderpig86/Cirrus)
     \| #CSS
 
-## [38. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
+## [39. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
 
 ### Configuration
 
 *   [Dhall (⭐828)](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Third-party APIs
 
@@ -420,7 +422,7 @@
 
 *   [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
 
-## [40. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [41. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
@@ -431,19 +433,19 @@
 *   [Joe Sandbox (Community)](https://www.joesandbox.com/) - Joe Sandbox detects and analyzes potential malicious files and URLs on Windows, Android, Mac OS, Linux, and iOS for suspicious activities; providing comprehensive and detailed analysis reports.
 *   [Valkyrie Comodo](https://valkyrie.comodo.com) - Valkyrie uses run-time behavior and hundreds of features from a file to perform analysis.
 
-## [41. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [42. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Video
 
 *   [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
 
-## [42. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [43. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Books / Videos
 
 *   [Build an API with Laravel](https://buildanapi.com) by Wacky Studio
 
-## [43. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
+## [44. Awesome Pagespeed Metrics](/content/csabapalfi/awesome-pagespeed-metrics/week/README.md)
 
 ### Concepts / Lab Data (Synthetic Measurements)
 
@@ -529,7 +531,7 @@
 
 *   [Docs - `window.load`](https://developer.mozilla.org/en-US/docs/Web/Events/load)
 
-## [44. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [45. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Deep Learning / TensorFlow
 
@@ -576,7 +578,7 @@
 
 *   [PennyLane (⭐1.6k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
@@ -590,7 +592,7 @@
 
 *   [juCi++](https://gitlab.com/cppit/jucipp) - Cross-platform, lightweight C++ IDE with libclang integration. \[MIT]
 
-## [46. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [47. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -601,7 +603,7 @@
 *   [FakeJSON](https://fakejson.com/) - Web API to quickly generate fake data for your application.
 *   [JSON to CSV](https://konklone.io/json/) - A free, in-browser JSON to CSV converter.
 
-## [47. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [48. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / StreamField
 

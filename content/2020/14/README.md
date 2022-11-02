@@ -6,13 +6,23 @@
 
 
 
-## [1. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Design and Product / Other Tools
+
+*   [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/szTheory/exifcleaner)
+
+### Utilities / Productivity
+
+*   [Pomodoro Cycle (⭐64)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+
+## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
 *   [movie-box (⭐16)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
-## [2. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Drag and Drop
 
@@ -26,37 +36,23 @@
 
 *   [react-threejs (⭐76)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 
-## [3. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator
 
-## [4. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [5. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Code editors
 
 *   [CodeJar](https://medv.io/codejar/) - CodeJar is a micro code editor for the browser
 
-## [5. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [6. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tools
 
 *   [glsl\_trace (⭐27)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
-
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Design and Product / Other Tools
-
-*   [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/szTheory/exifcleaner)
-
-### Utilities / Productivity
-
-*   [Pomodoro Cycle (⭐64)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
-
-### Utilities / Quality of Life Improvements
-
-*   [Grayscale Mode](https://grayscalemode.com/) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rkbhochalya/grayscale-mode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [7. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 

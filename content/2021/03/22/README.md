@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -114,26 +114,24 @@
 
 *   [linguist (⭐174)](https://github.com/change/linguist) - Elixir Internationalization library.
 
-## [12. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [12. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tutorials / React Interview Questions
+
+*   [React Coding Challenges (⭐2.3k)](https://github.com/alexgurr/react-coding-challenges/)
+
+## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+
+### Software / Frameworks
+
+*   [HStreamDB (⭐552)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
 ### Software / Middlewares
 
 *   [Kuiper (⭐804)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 *   [NanoMQ (⭐572)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
 
-## [13. Awesome React](/content/enaqx/awesome-react/README.md)
-
-### React Tutorials / React Interview Questions
-
-*   [React Coding Challenges (⭐2.3k)](https://github.com/alexgurr/react-coding-challenges/)
-
-## [14. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
-
-### Streaming Processing
-
-*   [HStreamDB (⭐552)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
-
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

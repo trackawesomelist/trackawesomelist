@@ -95,7 +95,6 @@
 *   [id3v2 (⭐264)](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
 *   [malgo (⭐201)](https://github.com/gen2brain/malgo) - Mini audio library.
 *   [minimp3 (⭐90)](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
-*   [music-theory (⭐412)](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 *   [Oto (⭐1.1k)](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 *   [PortAudio (⭐537)](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 
@@ -2908,12 +2907,12 @@
 *   [AzSK](https://azsk.azurewebsites.net/) — Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
 *   [Twiggy](https://rustwasm.github.io/twiggy) — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 *   [checkmake (⭐729)](https://github.com/mrtazz/checkmake) — Linter / Analyzer for Makefiles.
-*   [chart-testing (⭐866)](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
 *   [metadata-json-lint (⭐25)](https://github.com/voxpupuli/metadata-json-lint) — Tool to check the validity of Puppet metadata.json files.
 *   [deno\_lint (⭐1.2k)](https://github.com/denoland/deno_lint) — Official linter for Deno.
 *   [oelint-adv (⭐25)](https://github.com/priv-kweihmann/oelint-adv) — Linter for bitbake recipes used in open-embedded and YOCTO
 *   [gherkin-lint (⭐135)](https://github.com/vsiakka/gherkin-lint) — A linter for the Gherkin-Syntax written in Javascript.
 *   [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
+*   [chart-testing (⭐866)](https://github.com/helm/chart-testing) — ct is the the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
 *   [ChkTeX](http://www.nongnu.org/chktex) — A linter for LaTex which catches some typographic errors LaTeX oversees.
 *   [markdownlint (⭐3.4k)](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 *   [Android Lint](http://tools.android.com/tips/lint) — Run static analysis on Android projects.

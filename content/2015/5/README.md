@@ -471,13 +471,6 @@ ErrorDocument 404 /errors/halflife3.html
 *   [CSCI 493.66](http://compsci.hunter.cuny.edu/\~sweiss/course_materials/csci493.66/csci493.66_spr12.php) **UNIX System Programming (formerly UNIX Tools)** *CUNY Hunter College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   A course that is mostly about writing programs against the UNIX API, covering all of the basic parts of the kernel interface and libraries, including files, processes, terminal control, signals, and threading.
 
-### Courses / Algorithms
-
-*   [CS 473/573](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/) **Fundamental Algorithms** *Univ of Illinois, Urbana-Champaign* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
-    *   Algorithms class covering recursion, randomization, amortization, graph algorithms, network flows and hardness. The lecture notes by Prof. Erikson are comprehensive enough to be a book by themselves. Highly recommended!
-    *   [Lecture Notes](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/all-algorithms.pdf)
-    *   [Labs and Exams](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/all-hwex.pdf)
-
 ### Courses / Machine Learning
 
 *   [CS 109](http://cs109.github.io/2015/) **Data Science** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />

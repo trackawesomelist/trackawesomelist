@@ -53,10 +53,6 @@
 *   [Shift](https://tryshift.com/) - De-clutter your desktop workspace and streamline your accounts, apps, and workflows.
 *   [Stack](https://getstack.app/) - Open, organize and use multiple web apps on a single screen. Stack your apps by categories or projects.
 
-### Utilities / Productivity
-
-*   [Mouseless](https://mouseless.app/) - Master all of the magic keystrokes for your favorite apps & tools.
-
 ### Utilities / Quality of Life Improvements
 
 *   [One Switch](https://fireball.studio/oneswitch) - Mac menu bar app that adds various switches to the Mac's menu bar.

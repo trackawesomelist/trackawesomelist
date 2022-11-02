@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31, 2022
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -210,6 +210,13 @@
     *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
     *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 
+## [18. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
+
+### 1 - Agnósticos / Inteligencia Artificial
+
+*   [Deep Learning](http://www.uhu.es/publicaciones/?q=libros\&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
+
 ---
 
+- Prev: [Nov 01, 2022](/content/2022/11/01/README.md)
 - Next: [Oct 30, 2022](/content/2022/10/30/README.md)

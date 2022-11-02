@@ -465,10 +465,6 @@
 
 ## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
-### Design and Product / Prototyping and Mind-Mapping Tools
-
-*   [Loremify](http://loremify.com) - Great Lorem ipsum generator.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")[![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/app/loremify/id1028877632)
-
 ### Proxy and VPN Tools / File Sharing
 
 *   [ClashX (⭐20k)](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yichengchen/clashX)![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

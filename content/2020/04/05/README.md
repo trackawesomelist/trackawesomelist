@@ -6,19 +6,29 @@
 
 
 
-## [1. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Design and Product / Other Tools
+
+*   [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/szTheory/exifcleaner)
+
+### Utilities / Productivity
+
+*   [Pomodoro Cycle (⭐64)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
+
+## [2. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
 *   [movie-box (⭐16)](https://github.com/LuisAlejandro/movie-box) - Update a pinned gist to contain your media center stats from Trakt.tv.
 
-## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### CLI Builders
 
 *   [Keimeno (⭐13)](https://github.com/robacarp/keimeno) -  A lightweight text user interface library in Crystal
 
-## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Drag and Drop
 
@@ -32,13 +42,13 @@
 
 *   [react-threejs (⭐76)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator
 
-## [5. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Documents & Productivity
 
@@ -54,19 +64,19 @@
 
 
 
-## [6. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
 *   [Database Tools (⭐2.4k)](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 
-## [7. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
+## [8. Awesome Text Editing](/content/dok/awesome-text-editing/README.md)
 
 ### Code editors
 
 *   [CodeJar](https://medv.io/codejar/) - CodeJar is a micro code editor for the browser
 
-## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### GitHub Pages / Code Coverage
 
@@ -76,25 +86,11 @@
 
 *   [Publish Docker Images to the Amazon Elastic Container Registry (ECR) (⭐16)](https://github.com/appleboy/docker-ecr-action)
 
-## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tools
 
 *   [glsl\_trace (⭐27)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
-
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Design and Product / Other Tools
-
-*   [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/szTheory/exifcleaner)
-
-### Utilities / Productivity
-
-*   [Pomodoro Cycle (⭐64)](https://github.com/jet8a/pomodoro-cycle-app) - Pomodoro tracker
-
-### Utilities / Quality of Life Improvements
-
-*   [Grayscale Mode](https://grayscalemode.com/) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rkbhochalya/grayscale-mode) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

@@ -1295,8 +1295,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Git / Third-party APIs
 
-*   [git-api (⭐19)](https://github.com/fourier/git-api) - Common Lisp library
-    to access a git repository. It doesn't need git or libgit installed. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [git-api (⭐19)](https://github.com/fourier/git-api) - Common Lisp library to access a git repository. It doesn't need git or libgit installed. [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [48. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 

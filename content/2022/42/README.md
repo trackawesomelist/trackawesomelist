@@ -177,27 +177,27 @@
 
 GitHub provides a page that only shows diffs with a .diff at the end of the URL of the pull request. This browser extension makes it easier to view csv diffs by using daff on that page.
 
-Installs: 19 | Stars: 2 | Last update: 18 Apr 2021
+Installs: 20 | Stars: 2 | Last update: 18 Apr 2021
 ### [Isometric Contributions (⭐3.2k)](https://github.com/jasonlong/isometric-contributions) <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Allows you to toggle between the normal GitHub contribution chart and an isometric pixel art version.
 
-Installs: 10000 | Stars: 3246 | Last update: 6 Mar 2022
+Installs: 10000 | Stars: 3248 | Last update: 6 Mar 2022
 ### [Module Linker (⭐244)](https://github.com/fiatjaf/module-linker) <a href="https://addons.mozilla.org/firefox/addon/module-linker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 An extension that creates direct links to imported modules, external or internal, on source code on GitHub. Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.
 
-Installs: 60 | Stars: 247 | Last update: 27 Nov 2019
+Installs: 59 | Stars: 247 | Last update: 27 Nov 2019
 ### [Old School GitHub (⭐212)](https://github.com/daattali/oldschool-github-extension) <a href="https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/addon/old-school-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Revert GitHub's UI back to its classic look (before the June 23, 2020 update that has a flat, rounded and more whitespaced design).
 
-Installs: 326 | Stars: 212 | Last update: 8 Aug 2021
+Installs: 329 | Stars: 212 | Last update: 8 Aug 2021
 ### [Open GitHub file links in IDE (⭐50)](https://github.com/lmichelin/open-github-links-in-ide) <a href="https://chrome.google.com/webstore/detail/open-github-in-ide/bmifnnfmccmleigpaolofacllndmfned"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/firefox/addon/open-github-in-ide/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 This browser extension allows you to open files in your IDE directly from GitHub, assuming the repository you are working on is cloned on your computer. When a fragment of a file is displayed, your IDE opens the file and puts the cursor at the desired line.
 
-Installs: 774 | Stars: 50 | Last update: 19 Aug 2022
+Installs: 768 | Stars: 50 | Last update: 19 Aug 2022
 ### [Semantic Code Reviews](https://reviewpad.com) <a href="https://chrome.google.com/webstore/detail/semantic-code-reviews/dclabbgfnbmjodobfdhindnleidefmda"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Introduces the Explore tab in the pull request interface where you can review changes ordered by importance and see the semantic context surrounding each change.
@@ -549,13 +549,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Glaze (⭐272)](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++. \[MIT]
 
-## [41. Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
-
-### Swift / React.js
-
-*   [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
-
-## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Template Engine
 
@@ -563,7 +557,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [SmartFormat (⭐871)](https://github.com/axuno/SmartFormat) - A lightweight text templating library written in C# which can be a drop-in replacement for string.Format
 *   [Handlebars.Net (⭐922)](https://github.com/Handlebars-Net/Handlebars.Net) - A real .NET Handlebars engine
 
-## [43. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [42. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Authentication and OAuth
 
@@ -602,7 +596,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [sflags (⭐141)](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
 *   [wmenu (⭐178)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
-## [44. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Book and web annotations/highlights management
 
@@ -617,13 +611,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Brave](https://brave.com/) - Brave offers a pretty good out-of-the-box set of privacy and tracker protections.
 
-## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
 *   [Flyer Chat (⭐554)](https://github.com/flyerhq/flutter_chat_ui) <!--stargazers:flyerhq/flutter_chat_ui--> - Community-driven chat UI implementation by the [Flyer Chat team](https://github.com/flyerhq)
 
-## [46. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [45. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Jobs / Other external resources
 
@@ -633,7 +627,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [human-essentials (⭐302)](https://github.com/rubyforgood/human-essentials) - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 
-## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -675,13 +669,13 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Game Icons](https://game-icons.net/) - Free styleable SVG/PNG icons provided under CC-BY license.
 
-## [48. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [47. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [no-argument-spread (⭐2)](https://github.com/causalhq/eslint-plugin-no-argument-spread) - Lints against expressions like `Math.max(...args)` that can lead to a stack overflow for large arrays.
 
-## [49. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [48. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -691,7 +685,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022.
 
-## [50. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [49. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -701,7 +695,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code (⭐28)](https://github.com/willemarcel/osmcha-django))
 
-## [51. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [50. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Courses
 
@@ -732,7 +726,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 *   [rahulchowdhury/Mystique (⭐48)](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
 *   [costular/kotlin-android-utils (⭐51)](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
 
-## [52. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [51. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
@@ -746,7 +740,7 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [vite-vue2-js-starter-template (⭐4)](https://github.com/ElanYoung/vite-vue2-js-starter-template) - Vite + Vue2 + JavaScript + Vue Router + Vuex + Axios + Less + ESLint + Stylelint + Prettier Simple Template.
 
-## [53. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### File explorer / Diagnostics
 
@@ -760,11 +754,17 @@ Installs: 80000 | Stars: n/a | Last update: 21 Oct 2022
 
 *   [gorbit99/codewindow.nvim (⭐133)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin for Neovim, that is closely integrated with treesitter and the builtin LSP to display more information to the user.
 
-## [54. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [53. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Models and Projects / NumPyro
 
 *   [lqg (⭐10)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
+
+## [54. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### PHP / Redis
+
+*   [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
 
 ---
 

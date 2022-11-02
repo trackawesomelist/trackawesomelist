@@ -495,7 +495,7 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/us/app/better-rename-9/id414209656)
+*   [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/better-rename-11/id1501308038)
 
 ### Developer Tools / Network Analysis
 

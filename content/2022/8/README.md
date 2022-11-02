@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 21 - Feb 27, 2022
 
-60 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -299,19 +299,13 @@
 
 *   [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 
-## [29. Awesome Haskell](/content/krispo/awesome-haskell/week/README.md)
-
-### Messaging
-
-*   [SimpleX Chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
-
-## [30. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [29. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Books
 
 *   [Robotics for Software Engineers](https://www.manning.com/books/robotics-for-software-engineers) :dollar:
 
-## [31. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [30. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 📖 Articles / 🌱 Third Party
 
@@ -323,13 +317,13 @@
 *   [Creating Fast APIs In Go Using Fiber](https://dev.to/jozsefsallai/creating-fast-apis-in-go-using-fiber-59m9)
 *   [Welcome to Fiber — an Express.js styled web framework written in Go with ❤️](https://dev.to/koddr/welcome-to-fiber-an-express-js-styled-fastest-web-framework-written-with-on-golang-497)
 
-## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
 *   [Fig](https://fig.io) - Fig adds autocomplete to your terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/withfig/autocomplete)
 
-## [33. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [32. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Audio
 
@@ -344,7 +338,7 @@
 *   [Nitter (⭐5.9k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐864)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
 
-## [34. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
@@ -357,7 +351,7 @@
 *   [Awesome Analytics (⭐3.4k)](https://github.com/0xnr/awesome-analytics)
 *   [Awesome Sysadmin (⭐15k)](https://github.com/awesome-foss/awesome-sysadmin)
 
-## [35. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [34. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
@@ -367,7 +361,7 @@
 
 *   [Awesome JSON Schema (⭐40)](https://github.com/jviotti/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
-## [36. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [35. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Visualizations
 
@@ -388,7 +382,7 @@
 *   [Concentrate (⭐19)](https://github.com/mbta/concentrate) - Combines realtime transit information from multiple sources into single output files. Maintained by [
     Massachusetts Bay Transportation Authority (MBTA)](https://github.com/mbta).
 
-## [37. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [36. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
@@ -412,7 +406,7 @@
 
 *   [libredirect (⭐1.6k)](https://github.com/libredirect/libredirect): A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. Actively maintained fork of Privacy Redirect that supports Youtube, Youtube Music, Twitter, Instagram, TikTok, Imgur, Reddit, Searx, Google Translate, Google Maps, Wikipedia, and Medium
 
-## [38. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [37. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
@@ -434,7 +428,11 @@
 
 *   [QRCode Generator (⭐20)](https://github.com/emg110/algorand-qrcode)
 
-## [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Custom Communication Systems
+
+*   [SimpleX Chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Email - Webmail Clients
 
@@ -448,7 +446,7 @@
 
 *   [Vocascan](https://vocascan.com/) - A highly configurable vocabulary trainer. ([Source Code (⭐20)](https://github.com/vocascan/vocascan-server), [Clients (⭐3)](https://github.com/vocascan/vocascan-desktop)) `Apache-2.0` `Nodejs`
 
-## [40. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
+## [39. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
 ### Libraries / Lua
 
@@ -504,7 +502,7 @@
     *   [OnLineMIB/Brocade](http://www.snmplink.org/OnLineMIB/Brocade/) - Brocade.
 *   [oidview.com/mibs](http://www.oidview.com/mibs/detail.html) - This repository contains over 7000 unique MIBs from various vendors.
 
-## [41. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
+## [40. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/week/README.md)
 
 ### Databases / Disease
 
@@ -522,7 +520,7 @@
 
 *   [DRKG (⭐431)](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
 
-## [42. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [41. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Entertainment
 
@@ -532,7 +530,7 @@
 
 *   [Hacki (⭐400)](https://github.com/Livinglist/Hacki) - A Hacker News reader by [Jiaqi Feng](https://github.com/Livinglist).
 
-## [43. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [42. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -540,7 +538,7 @@
 *   [SymJAX (⭐104)](https://github.com/SymJAX/SymJAX) - Symbolic CPU/GPU/TPU programming. <img src="https://img.shields.io/github/stars/SymJAX/SymJAX?style=social" align="center">
 *   [mcx (⭐327)](https://github.com/rlouf/mcx) - Express & compile probabilistic programs for performant inference. <img src="https://img.shields.io/github/stars/rlouf/mcx?style=social" align="center">
 
-## [44. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -571,13 +569,13 @@
 *   [Shake](https://www.shakebugs.com/) - In-app bug reporting and feedback tool for mobile apps. Free plan, 10 bug reports per app/per month.
 *   [SuperPM](https://superpm.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
 
-## [45. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [44. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Data Standardization, Interoperability and APIs
 
 *   [OpenTeam](https://openteam.community/) - Open Technology Ecosystem for Agricultural Management
 
-## [46. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [45. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -588,32 +586,32 @@
 *   [Typedream](https://typedream.com) - The new way to make a website.
 *   [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 
-## [47. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [46. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / User Space eBPF
 
 *   [wachy](https://rubrikinc.github.io/wachy/) - A tracing profiler that aims to make eBPF uprobe-based debugging easier to use. This is done by displaying traces in a UI next to the source code and allowing interactive drilldown analysis.
 
-## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Snippet / Diagnostics
 
 *   [ellisonleao/carbon-now.nvim (⭐55)](https://github.com/ellisonleao/carbon-now.nvim) - Create beautiful code snippets directly from Neovim.
 
-## [49. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [48. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [Calculating composite SLA](https://alexewerlof.medium.com/calculating-composite-sla-d855eaf2c655)
 
-## [50. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
+## [49. Awesome Veganism](/content/sdassow/awesome-veganism/week/README.md)
 
 ### Bakeries
 
 *   Berlin, Germany
     *   [Brammibal's Donuts](https://www.brammibalsdonuts.com/) - The most tasty high quality vegan donuts in Berlin.
 
-## [51. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [50. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Featured (new releases)
 
@@ -631,13 +629,13 @@
 
 *   🔧 [FireCMS](https://firecms.co/docs/) - FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration.
 
-## [52. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [51. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Videos / Vendor supported providers
 
 *   [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - Complete course from beginner to pro, with no cloud provider focus, with a general approach
 
-## [53. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cryptography
 
@@ -647,7 +645,7 @@
 
 *   [PixelViewer (⭐49)](https://github.com/carina-studio/PixelViewer) - Cross-platform (Windows/macOS/Linux) image viewer which supports reading raw Luminance/YUV/RGB/ARGB/Bayer pixels data from file and rendering it. 10/16-bit YUV and viewing image frame sequence are also supported (v1.99+).
 
-## [54. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [53. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -670,13 +668,13 @@
 *   [boxy (⭐0)](https://github.com/evil-tim/boxy-zsh-theme) - Works well with solarized terminal colors. Includes decorators for `username@hostname`, current directory, `git` status, return code for last command, and time last command was run.
 *   [devj121 (⭐0)](https://github.com/cjeonguk/devj121-zsh-theme) - Includes `git` decorations with branch glyphs.
 
-## [55. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [54. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
 *   [Sextant (⭐29)](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 
-## [56. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [55. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -699,14 +697,14 @@
 *   [dispatch (⭐88)](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) - A command line argument parser in 50 lines of portable shell script.
 *   [getopts.fish (⭐196)](https://github.com/jorgebucaran/getopts.fish) - CLI parser for fish
 
-## [57. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [56. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Native / FPS
 
 *   [Darkest Hour (⭐52)](https://github.com/DarklightGames/DarkestHour) - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
 *   [Urban Terror (⭐72)](https://github.com/FrozenSand/UrbanTerror4) - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
 
-## [58. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [57. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Forms
 
@@ -720,7 +718,7 @@
 
 *   [Wish (⭐1.6k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
-## [59. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [58. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
@@ -771,11 +769,7 @@
 
 *   [wordpress-vite-assets (⭐41)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
-## [60. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
-
-### Learning with Cognitive Plausibility / Visual Complexity
-
-*   [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801\&hl=en\&as_sdt=0,5)].
+## [59. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
@@ -788,6 +782,10 @@
 ### Cognitive Development / Commonsense Knowledgebase
 
 *   [Observing the unexpected enhances infants' learning and exploration](https://stahla.pages.tcnj.edu/files/2015/08/Stahl_Feigenson_Science_2015.pdf) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?start=10\&hl=en\&as_sdt=0,5\&cluster=9247917261616759689)].
+
+### Learning with Cognitive Plausibility / Commonsense Knowledgebase
+
+*   [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801\&hl=en\&as_sdt=0,5)].
 
 ---
 

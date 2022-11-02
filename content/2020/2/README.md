@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13 - Jan 19, 2020
 
-59 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -785,13 +785,7 @@ Topics: React, Forms, CSS Grid\
 
 *   :strawberry: [Meta plugin (⭐7)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO relevant HTML markup DRY and easy.
 
-## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Utilities / General Tools
-
-*   [Torimori Sweeper](https://web.archive.org/web/20190515060747/https://coffeeboo.itch.io/sweeper) - MacOS app that lets you declutter your Downloads, one file at a time. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://coffeeboo.itch.io/sweeper)
-
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -806,7 +800,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [vue-fake3d-image-effect (⭐16)](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
 
-## [43. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [42. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Tutorial
 
@@ -816,7 +810,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [ash (⭐1.2k)](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust. \[MIT]
 
-## [44. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [43. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -824,7 +818,7 @@ Topics: React, Forms, CSS Grid\
 *   [Who am I? Keycloak Impersonation API](https://blog.softwaremill.com/who-am-i-keycloak-impersonation-api-bfe7acaf051a)
 *   [Setup Keycloak Server on Ubuntu 18.04](https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9)
 
-## [45. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [44. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -850,7 +844,7 @@ Topics: React, Forms, CSS Grid\
     *   [rustix (⭐639)](https://github.com/bytecodealliance/rustix) — Safe Rust bindings to POSIX/Unix/Linux/Winsock2 syscalls [![Actions Status](https://github.com/bytecodealliance/rustix/workflows/CI/badge.svg)](https://github.com/bytecodealliance/rustix/actions?query=workflow%3ACI)
     *   [zargony/fuse-rs (⭐888)](https://github.com/zargony/fuse-rs) — [FUSE (⭐4.1k)](https://github.com/libfuse/libfuse) bindings
 
-## [46. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [45. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -884,13 +878,13 @@ Topics: React, Forms, CSS Grid\
 
 
 
-## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
 *   [LAME](https://lame.sourceforge.io/using.php) - LAME is a high quality MPEG Audio Layer III (MP3) encoder. \[LGPL]
 
-## [48. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
+## [47. Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/week/README.md)
 
 ### How To Use
 
@@ -986,13 +980,13 @@ Topics: React, Forms, CSS Grid\
 *   [Scieneer Common Lisp (SCL)](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/) - A commercial Linux and Unix implementation, but has an unrestricted free evaluation and non-commercial use version.
     *   [SCL manual](http://web.archive.org/web/20171014210404/http://www.scieneer.com/scl/doc/)
 
-## [49. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [48. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Component Libraries
 
 *   [baseweb (⭐8k)](https://github.com/uber/baseweb) - Base Web is a foundation for initiating, evolving, and unifying web products.
 
-## [50. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [49. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Example Apps
 
@@ -1016,7 +1010,7 @@ Topics: React, Forms, CSS Grid\
 *   [**Web Maker**](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. *([Github project (⭐2.3k)](https://github.com/chinchang/web-maker))*.
 *   [**Intergram**](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. *([Github project (⭐1.3k)](https://github.com/idoco/intergram))*.
 
-## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Formats
 
@@ -1030,7 +1024,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [crystal-zsh (⭐28)](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
 
-## [52. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
+## [51. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
 ### Datasets
 
@@ -1044,7 +1038,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [Texar (⭐2.3k)](https://github.com/asyml/texar) - Texar is a toolkit aiming to support a broad set of machine learning, especially natural language processing and text generation tasks.
 
-## [53. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [52. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
@@ -1056,7 +1050,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [ipfsecret (⭐20)](https://github.com/shlemph/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
 
-## [54. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [53. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -1068,7 +1062,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [Judge0 IDE](https://ide.judge0.com/?lUpj) is an online editor which supports Common Lisp (SBCL). [MIT](https://opensource.org/licenses/MIT).
 
-## [55. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [54. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Official Resources
 
@@ -1092,7 +1086,7 @@ Topics: React, Forms, CSS Grid\
 
 *   [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 
-## [56. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [55. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
@@ -1102,19 +1096,19 @@ Topics: React, Forms, CSS Grid\
 
 *   [tmux-spotify (⭐78)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
-## [57. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [56. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Tutorials / Basics
 
 *   [Getting started from scratch with Aseprite](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-2d1e31a5ceab)
 
-## [58. Amas](/content/sindresorhus/amas/week/README.md)
+## [57. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Ahmad Ainul Rizki](https://github.com/awanisius/ama) - Full-stack developer, part-time open-sourcerer, and interested in functional languages.
 
-## [59. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [58. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### secure tools
 

@@ -66,13 +66,19 @@
 
 *   [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 
-## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Developer Tools / Command Line Tools
+
+*   [Mac-CLI (⭐8.3k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Machine Learning
 
 *   [ai4cr (⭐26)](https://github.com/drhuffman12/ai4cr) - Artificial Intelligence (based on [https://github.com/SergioFierens/ai4r (⭐709)](https://github.com/SergioFierens/ai4r))
 
-## [6. Bots](/content/hackerkid/bots/README.md)
+## [7. Bots](/content/hackerkid/bots/README.md)
 
 ### Tools For Building Bots
 
@@ -157,7 +163,7 @@
 *   [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
 *   [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
 
-## [7. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [8. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### Events/Meetups / Ruby
 
@@ -225,7 +231,7 @@
 
     Connecting women with jobs that actually lead to work-life balance. Specializing in remote work for women. In addition to job boards, it contains information about time-management, self-efficacy etc.
 
-## [8. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Startups and Business
 
@@ -2110,16 +2116,6 @@
   Year Published: 2002
 
 
-
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [Mac-CLI (⭐8.3k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Communication / Email Clients
-
-*   [MailTags](https://smallcubed.com/mt/) - Use tags to organize email and schedule.
 
 ## [10. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 

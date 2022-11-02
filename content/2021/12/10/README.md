@@ -45,8 +45,8 @@
 
 ### Component bundles
 
-*   [BootstrapBlazor (⭐1.2k)](https://github.com/ArgoZhang/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) Reusable bootstrap components for Blazor. ([Docs as Demo](https://argozhang.github.io/)).
 *   [FAST Blazor (⭐1k)](https://github.com/microsoft/fast-blazor) - ![GitHub stars](https://img.shields.io/github/stars/microsoft/fast-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/fast-blazor?style=flat-square\&cacheSeconds=86400) A lightweight wrapper around Microsoft's official FluentUI Web Components for use with .NET 6.0 Razor views & Blazor. ([Samples & demo](https://www.fast.design/)).
+*   [BootstrapBlazor (⭐1.2k)](https://github.com/ArgoZhang/BootstrapBlazor) - ![stars](https://img.shields.io/github/stars/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ArgoZhang/BootstrapBlazor?style=flat-square\&cacheSeconds=86400) Reusable bootstrap components for Blazor. ([Docs as Demo](https://www.blazor.zone/)).
 
 ### Tools & Utilities / Others
 

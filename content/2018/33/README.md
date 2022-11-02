@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 13 - Aug 19, 2018
 
-42 awesome lists updated this week.
+43 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -448,7 +448,17 @@
 
 *   [Ali Spittel (⭐10)](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 
-## [33. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [33. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+
+### Erlang / Sistemas Operativos
+
+*   [Programación en Erlang](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_Erlang) - WikiLibros
+
+### Linux / React
+
+*   [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
+
+## [34. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Language Bindings
 
@@ -542,7 +552,7 @@
 
 *   [Cromwell (⭐856)](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend (⭐856)](https://github.com/broadinstitute/cromwell#spark-backend).
 
-## [34. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [35. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -556,13 +566,13 @@
 *   [Pull Reminders](https://pullreminders.com) Automated Slack reminders and metrics for GitHub pull requests.
 *   [Rubberduck](https://www.rubberduck.io) Browser extension to adds code-aware navigation to GitHub pull requests.
 
-## [35. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Service Level Agreement
 
 *   [SLOs & You: A Guide To Service Level Objectives](https://www.circonus.com/2018/07/a-guide-to-service-level-objectives/)
 
-## [36. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [37. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Wallets and Toolkits / Desktop
 
@@ -615,13 +625,13 @@
 
 *   [eosfilestore (⭐45)](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 
-## [37. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [38. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
 *   [malice.io (⭐1.4k)](https://github.com/maliceio/malice) - Massively scalable malware analysis framework.
 
-## [38. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [39. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Documentation and Resources / Display Manager
 
@@ -638,7 +648,7 @@
 *   [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) - Questions tagged with `kde`.
 
-## [39. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -648,13 +658,13 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
 
-## [40. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [41. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Content Management Systems / Videos
 
 *   [SleepingOwlAdmin (⭐744)](https://github.com/LaravelRUS/SleepingOwlAdmin)
 
-## [41. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [42. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Types of QA / Subtypes of QA
 
@@ -678,7 +688,7 @@
     *   DrQA <a name="drqa"></a>
         *   [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/people/danqi/papers/acl2017.pdf), Danqi Chen, Adam Fisch, Jason Weston & Antoine Bordes, ACL, 2017.
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 

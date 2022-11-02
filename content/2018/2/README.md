@@ -285,10 +285,6 @@
 
 *   [Sup3rS3cretMes5age (⭐391)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 
-### Software / Photo and Video Galleries
-
-*   [Chevereto Free](https://chevereto.com/free) - Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes. ([Source Code (⭐2.6k)](https://github.com/Chevereto/Chevereto-Free)) `AGPL-3.0` `PHP`
-
 ### Software / Proxy
 
 *   [PHP-Proxy](https://www.php-proxy.com/) - Web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube. ([Demo](https://unblockvideos.com/), [Source Code (⭐717)](https://github.com/Athlon1600/php-proxy-app)) `MIT` `PHP`
