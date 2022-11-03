@@ -6,11 +6,31 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 [ Daily / [Weekly](/content/adafruit/awesome-circuitpython/week/README.md) / [Overview](/content/adafruit/awesome-circuitpython/readme/README.md) ]
 
+## [Nov 03, 2022](/content/2022/11/03/README.md)
+
+### Frameworks
+
+*   [CircuitPython Online IDE](https://urfdvw.github.io/CircuitPython-online-IDE/) - A browser based IDE for CircuitPython by River Wang
+
+### Events
+
+*   [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
+*   [PyCon 2023](https://us.pycon.org/2023/) - Salt Lake City, Utah USA April 19 - April 27, 2023.
+*   [John Park's CircuitPython Parsec, Thursdays 4pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - John Park shares CircuitPython tips and tricks.
+
+### Swag
+
+*   [CircuitPython 8 release poster](https://www.adafruit.com/product/5513) - CircuitPython release version 8 poster.
+
+### Talks
+
+*   [EuroPython 2022 talk video: Radomir Dopieralski - Game Development with CircuitPython](https://www.youtube.com/watch?v=2i6qhfq5u78) - Radomir Dopieralski
+
 ## [May 28, 2022](/content/2022/05/28/README.md)
 
 ### Frameworks
 
-*   [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with minimum of problems.
+*   [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with a minimum of problems.
 
 ## [May 27, 2022](/content/2022/05/27/README.md)
 
@@ -135,10 +155,6 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 ### Frameworks
 
 *   [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - A full featured extension for VS Code that downloads the latest CircuitPython bundle automatically, includes access to the serial console, and auto complete.
-
-### Events
-
-*   [PyCon 2022](https://us.pycon.org/2022/) - Salt Lake City, Utah USA April 27 - May 5, 2022.
 
 ### Swag
 
@@ -410,10 +426,6 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 *   [CircuitPython videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D\&search_query=circuitpython) - YouTube posts tagged CircuitPython.
 *   [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/) - Posts on Instagram tagged CircuitPython.
 *   [CircuitPython - micropython.org forums](https://forum.micropython.org/search.php?keywords=adafruit\&terms=all\&author=\&sc=1\&sf=all\&sr=posts\&sk=t\&sd=d\&st=0\&ch=300\&t=0\&submit=Search) - Articles on the MicroPython forums tagged for CircuitPython.
-
-### Events
-
-*   [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
 
 ### Swag
 

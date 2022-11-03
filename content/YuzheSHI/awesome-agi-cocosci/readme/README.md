@@ -2068,11 +2068,13 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 ### Others
 
-*   [Yixin Zhu](https://yzhu.io/) - ***School of AI, Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
+*   [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
+
+*   [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
 
 *   [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
-*   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology***.
+*   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***.
 
 \*[Back to Top](#c)
 

@@ -141,6 +141,8 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository (⭐6k)](
 *   [h2oparsnip R package (⭐19)](https://github.com/stevenpawley/h2oparsnip): Set of wrappers to bind h2o algorthms with the [parsnip](https://parsnip.tidymodels.org/) package.
 *   [Spin up PySpark and PySparkling on AWS (⭐8)](https://github.com/kcrandall/EMR_Spark_Automation)
 *   [Forecast the US demand for electricity (⭐90)](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
+*   [h2o3-pam (⭐1)](https://github.com/navdeep-G/h2o3-pam): Partition Around Mediods (PAM) clustering algorithm in H2O-3
+*   [h2o3-gapstat (⭐1)](https://github.com/navdeep-G/h2o3-gapstat): Gap Statistic algorithm in H2O-3
 
 ## License
 

@@ -21,6 +21,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Towards an argument interchange format](https://pure.mpg.de/rest/items/item_3020351/component/file_3045811/content) - ***The Knowledge Engineering Review***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=11123720528835823517\&hl=en\&as_sdt=0,5)]. The original paper introducing the Argument Interchange Format (AIF) framework for argumentation analysis.
 *   [Speech Acts of Argumentation: Inference Anchors and Peripheral Cues in Dialogue](https://www.aaai.org/ocs/index.php/WS/AAAIW11/paper/viewFile/3940/4244) - ***AAAI'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=9761955212933152906\&hl=en\&as_sdt=0,5)]. The original paper introducing the Information Anchoring Theory (IAT) as an alternate for AIF.
 
+### Others / Commonsense Knowledgebase
+
+*   [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Metascience / Science of Science
@@ -144,7 +148,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Others / Commonsense Knowledgebase
 
-*   [Yixin Zhu](https://yzhu.io/) - ***School of AI, Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
+*   [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
 *   [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
@@ -165,7 +169,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Others / Commonsense Knowledgebase
 
-*   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology***.
+*   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 

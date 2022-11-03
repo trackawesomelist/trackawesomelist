@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Nov 03, 2022](/content/2022/11/03/README.md)
+
+### Others / Commonsense Knowledgebase
+
+*   [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
+
 ## [Nov 02, 2022](/content/2022/11/02/README.md)
 
 ### Meta-Level Considerations / The Aha! Moment
@@ -188,7 +194,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Others / Commonsense Knowledgebase
 
-*   [Yixin Zhu](https://yzhu.io/) - ***School of AI, Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
+*   [Yixin Zhu](https://yzhu.io/) - ***School of AI and Institute for AI, Peking University (PKU)***, [Cognitive Reasoning Lab (CoRe Lab)](https://pku.ai/) - ***PKU***.
 *   [Chaz Firestone](https://perception.jhu.edu/chaz/) - ***Department of Psychological and Brain Sciences, Johns Hopkins University (JHU)***, [Hopkins Perception & Mind Lab](https://perception.jhu.edu/) - ***JHU***.
 
 ## [Aug 17, 2022](/content/2022/08/17/README.md)
@@ -207,7 +213,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Others / Commonsense Knowledgebase
 
-*   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology***.
+*   [Mark Ho](https://markkho.github.io/) - ***Department of Computer Science, Stevens Institute of Technology (SIT)***.
 
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
 

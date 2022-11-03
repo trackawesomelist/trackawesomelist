@@ -6,6 +6,13 @@ A curated list of research, applications and projects built using the H2O Machin
 
 [ [Daily](/content/h2oai/awesome-h2o/README.md) / Weekly / [Overview](/content/h2oai/awesome-h2o/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Software
+
+*   [h2o3-pam (⭐1)](https://github.com/navdeep-G/h2o3-pam): Partition Around Mediods (PAM) clustering algorithm in H2O-3
+*   [h2o3-gapstat (⭐1)](https://github.com/navdeep-G/h2o3-gapstat): Gap Statistic algorithm in H2O-3
+
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
 ### Research Papers

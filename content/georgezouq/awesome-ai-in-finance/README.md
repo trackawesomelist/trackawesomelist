@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Nov 03, 2022](/content/2022/11/03/README.md)
+
+### Exchange API / Plugins
+
+*   [PENDAX (⭐54)](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for cryptocurrency exchanges like FTX, FTXUS, OKX, Bybit, & More
+
 ## [Oct 06, 2022](/content/2022/10/06/README.md)
 
 ### Others / Other Resource
