@@ -6,6 +6,15 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 03, 2022](/content/2022/11/03/README.md)
+
+### Articles / Others
+
+*   [Containerized Blazor: Microsoft Ponders New Client-Side Hosting](https://visualstudiomagazine.com/articles/2022/11/02/blazor-docker.aspx) - November 2, 2022 - Microsoft is exploring built-in container support for client-side Blazor WebAssembly apps. Article on Visual Studio Magazine.
+*   [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/) - October 31, 2022 - On October 24th, Docker announced the support of WASM and WASI in a new technical preview release. This articles tries it out and sees how it works with .NET 7.
+*   [Using WASM and WASI to run .NET 7 on a Raspberry PI Zero 2 W](https://laurentkempe.com/2022/10/29/using-wasm-and-wasi-to-run-dotnet-7-on-a-raspberry-pi-zero-2-w/) - October 29, 2022 - This post will show you how to run .NET 7 on a Raspberry PI Zero 2 W using WASM and WASI.
+*   [Introducing the Docker+Wasm Technical Preview](https://www.docker.com/blog/docker-wasm-technical-preview/) - October 24, 2022 - The Technical Preview of Docker+Wasm is now available! Wasm has been producing a lot of buzz recently, and this feature will make it easier for you to quickly build applications targeting Wasm runtimes.
+
 ## [Nov 02, 2022](/content/2022/11/02/README.md)
 
 ### Hybrid
@@ -474,7 +483,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Games
 
-*   [Trains.NET (⭐188)](https://github.com/davidwengier/Trains.NET) - ![stars](https://img.shields.io/github/stars/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=86400) 2D game built with .NET and C# on a [Twitch stream](https://www.twitch.tv/davidwengier). Trains is available to play online at <https://wengier.com/Trains.NET>
+*   [Trains.NET (⭐188)](https://github.com/davidwengier/Trains.NET) - ![stars](https://img.shields.io/github/stars/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidwengier/Trains.NET?style=flat-square\&cacheSeconds=86400) 2D game built with .NET and C# on a [Twitch stream](https://www.twitch.tv/davidwengier). Trains is available to play online at [wengier.com/Trains.NET](https://wengier.com/Trains.NET).
 
 ## [Mar 17, 2022](/content/2022/03/17/README.md)
 
@@ -875,10 +884,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### General
 
 *   [30 seconds of Blazor](https://www.30secondsofblazor.net/) - Collection of useful snippets, inspired by the popular 30 seconds of JavaScript and React.
-
-### Cloud
-
-*   [FairPlayTube](https://github.com/efonsecab/FairPlayTube/) - ![last commit](https://img.shields.io/github/last-commit/efonsecab/FairPlayTube?style=flat-square\&cacheSeconds=86400) Blazor Web Assembly app with .NET 5 Hosted API to teach how to create video sharing portals with Blazor, .NET and Azure.
 
 ### Individual components / Others
 
@@ -1490,8 +1495,8 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### CMS
 
-*   [RapidCMS (⭐237)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
 *   [JHipster.NET (⭐258)](https://github.com/jhipster/jhipster-dotnetcore) ![stars](https://img.shields.io/github/stars/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jhipster/jhipster-dotnetcore?style=flat-square\&cacheSeconds=86400) [JHipster](https://www.jhipster.tech/) is a well-known platform for generating modern application in java world. [JHipster](https://www.jhipster.tech/) provides a blueprints system that allows to override the default behavior of the generator. JHipster.NET is a blueprint that overrides the back-end part, originally generated in spring boot, by back-end in asp.net core. For the front-end all the common language can be used (angular, react), including Blazor.
+*   [RapidCMS (⭐237)](https://github.com/ThomasBleijendaal/RapidCMS) - ![stars](https://img.shields.io/github/stars/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/ThomasBleijendaal/RapidCMS?style=flat-square\&cacheSeconds=86400) A code-first, extensible Blazor app that generates a CMS for your own database.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 
@@ -1586,12 +1591,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Individual components / Others
 
 *   [AdvancedBlazorSelect2 (⭐10)](https://github.com/KeudellCoding/Blazor.AdvancedBlazorSelect2) - ![last commit](https://img.shields.io/github/last-commit/KeudellCoding/Blazor.AdvancedBlazorSelect2?style=flat-square\&cacheSeconds=86400) Simple wrapper for Select2 with full support of databases and custom web APIs.
-
-## [Sep 07, 2020](/content/2020/09/07/README.md)
-
-### CMS
-
-*   [Atlas](https://github.com/lucabriguglia/atlas) - ![stars](https://img.shields.io/github/stars/lucabriguglia/atlas?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/lucabriguglia/atlas?style=flat-square\&cacheSeconds=86400) A forum software built with ASP.NET Core Blazor WebAssembly.
 
 ## [Sep 04, 2020](/content/2020/09/04/README.md)
 
@@ -1820,7 +1819,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Authentication
 
 *   [TheIdServer (⭐429)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐48)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [Blorc.OpenIdConnect (⭐48)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 
 ### Individual components / Datagrids / tables
 
