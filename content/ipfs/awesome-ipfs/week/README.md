@@ -6,6 +6,12 @@ Useful resources for using IPFS and building things on top of it
 
 [ [Daily](/content/ipfs/awesome-ipfs/README.md) / Weekly / [Overview](/content/ipfs/awesome-ipfs/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Apps
+
+*   [IPFS-FPS](https://ipfs-fps-website.on.fleek.co/) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
+
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
 ### Apps
@@ -119,12 +125,6 @@ Useful resources for using IPFS and building things on top of it
 ### Apps
 
 *   [P2Pdoc](https://p2pdoc.glitch.me/) - P2Pdoc allows you to create a document and then upload it to the distributed web. [Source (⭐4)](https://github.com/aboutDavid/p2pdoc)
-
-## [May 17 - May 23, 2021](/content/2021/20/README.md)
-
-### Apps
-
-*   [IPFS-FPS](https://ipfs-fps.com/) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
 
 ## [May 10 - May 16, 2021](/content/2021/19/README.md)
 

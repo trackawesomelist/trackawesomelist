@@ -6,6 +6,16 @@ A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segre
 
 [ [Daily](/content/heynickc/awesome-ddd/README.md) / Weekly / [Overview](/content/heynickc/awesome-ddd/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Books
+
+*
+
+### Training Courses
+
+*   [Spatie's Event Sourcing Course](https://spatie.be/products/event-sourcing-in-laravel) - Learn how to build event sourced applications in Laravel using Spatie's event-sourcing package. Has 2 hours of video content and an accompanying ebook.
+
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
 
 ### Community Resources
