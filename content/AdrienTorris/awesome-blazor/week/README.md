@@ -28,6 +28,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Videos / Others
 
+*   [Localization in Blazor: Carl Franklin's Blazor Train Ep 90](https://www.youtube.com/watch?v=e8IkSFQmonE) - ![duration](https://img.shields.io/badge/Duration:%20-14%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 3, 2022 - Carl shows how to easily support multiple languages in a Blazor WebAssembly application.
 *   [MSAL Auth in Blazor Server](https://www.youtube.com/watch?v=AlRxwIOq4jQ\&list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz\&index=92) - ![duration](https://img.shields.io/badge/Duration:%20-26%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 22, 2022 - Carl shows how to use MSAL and Azure AD B2C to authenticate users and call a secure API.
 
 ### Articles / Others

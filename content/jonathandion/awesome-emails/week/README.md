@@ -6,6 +6,24 @@
 
 [ [Daily](/content/jonathandion/awesome-emails/README.md) / Weekly / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Templates
+
+*   [Responsive templates](https://templates.emailoctopus.com/) - Free HTML templates from EmailOctopus, usable with any provider.
+
+### Services
+
+*   [EmailOctopus](https://emailoctopus.com) - Email marketing made easy.
+
+### Blogs
+
+*   [EmailOctopus Blog](https://emailoctopus.com/blog/)
+
+### Resources
+
+*   [Email marketing regulations (⭐287)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Frameworks
@@ -22,7 +40,7 @@
 
 ### Services
 
-*   [Mailchimp](https://mailchimp.com/) - Mailchimp provides email marketing for more than 15 million people globally.
+*   [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 
 ### Resources
 

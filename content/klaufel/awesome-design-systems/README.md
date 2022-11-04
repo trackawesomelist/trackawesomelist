@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/klaufel/awesome-design-systems/week/README.md) / [Overview](/content/klaufel/awesome-design-systems/readme/README.md) ]
 
+## [Nov 04, 2022](/content/2022/11/04/README.md)
+
+### Books / Storybook addons
+
+*   [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions by Zhiyong Tan.
+
 ## [Jun 27, 2022](/content/2022/06/27/README.md)
 
 ### More resources

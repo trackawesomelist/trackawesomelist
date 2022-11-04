@@ -31,6 +31,10 @@
 
 *   [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook) - Erik Stenman (HTML)
 
+### Go / Phoenix
+
+*   [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
+
 ### JavaScript / Wicket
 
 *   [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
@@ -56,6 +60,10 @@
 
 *   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)
+
 ### Python / Django
 
 *   [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)
@@ -70,8 +78,13 @@
 
 *   [Data Visualization with R](https://ladal.edu.au/dviz.html) - Martin Schweinberger (HTML)
 
+### Ruby / Tornado
+
+*   [Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
+
 ### Rust / Sinatra
 
+*   [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/)
 *   [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
 
 ### Scala / Sinatra

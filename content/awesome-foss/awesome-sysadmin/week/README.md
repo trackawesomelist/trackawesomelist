@@ -6,6 +6,12 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 [ [Daily](/content/awesome-foss/awesome-sysadmin/README.md) / Weekly / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Identity Management / Single Sign-On (SSO)
+
+*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management ([Source Code (⭐14k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### Cloud Orchestration
@@ -29,13 +35,13 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐818)](https://github.com/tribe29/checkmk)) `Python/PHP`
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
-### IT Asset Management / Tools and web interfaces
+### IT Asset Management / Single Sign-On (SSO)
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 *   [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
@@ -67,7 +73,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Scrutiny (⭐1.7k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 
@@ -79,7 +85,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Icinga](https://www.icinga.com/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
 
@@ -101,7 +107,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
-### Log Management / Tools and web interfaces
+### Log Management / Single Sign-On (SSO)
 
 *   [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 
@@ -145,7 +151,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 *   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐36k)](https://github.com/minio/minio)) `Apache-2.0` `Go`
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
 
@@ -191,7 +197,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [DnsControl](https://stackexchange.github.io/dnscontrol/) - Opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure.
 *   [octoDNS (⭐2.5k)](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
 
-### IT Asset Management / Tools and web interfaces
+### IT Asset Management / Single Sign-On (SSO)
 
 *   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
 
@@ -203,7 +209,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS.
 
@@ -263,7 +269,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Feb 18 - Feb 24, 2019](/content/2019/7/README.md)
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐128)](https://github.com/netxms/netxms))
 
@@ -294,7 +300,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Jul 23 - Jul 29, 2018](/content/2018/30/README.md)
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [EdMon (⭐4)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 
@@ -319,7 +325,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 *   [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [ElastiFlow (⭐2.4k)](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
 
@@ -331,7 +337,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ## [Jan 29 - Feb 04, 2018](/content/2018/5/README.md)
 
-### Log Management / Tools and web interfaces
+### Log Management / Single Sign-On (SSO)
 
 *   [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 
@@ -583,7 +589,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 *   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
 
-### Log Management / Tools and web interfaces
+### Log Management / Single Sign-On (SSO)
 
 *   [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 *   [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
@@ -594,7 +600,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 *   [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
-### Mail Clients / Tools and web interfaces
+### Mail Clients / Single Sign-On (SSO)
 
 *   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
 *   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
@@ -603,7 +609,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
 *   [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode (⭐331)](https://github.com/opinkerfi/adagios), [Documentation (⭐331)](https://github.com/opinkerfi/adagios/wiki))
 *   [Alerta (⭐2.1k)](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.

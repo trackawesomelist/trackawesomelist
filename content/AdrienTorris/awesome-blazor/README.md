@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 04, 2022](/content/2022/11/04/README.md)
+
+### Videos / Others
+
+*   [Localization in Blazor: Carl Franklin's Blazor Train Ep 90](https://www.youtube.com/watch?v=e8IkSFQmonE) - ![duration](https://img.shields.io/badge/Duration:%20-14%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 3, 2022 - Carl shows how to easily support multiple languages in a Blazor WebAssembly application.
+
 ## [Nov 03, 2022](/content/2022/11/03/README.md)
 
 ### Articles / Others

@@ -15,6 +15,22 @@
 
 ## [Nov 04, 2022](/content/2022/11/04/README.md)
 
+### Go / Phoenix
+
+*   [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)
+
+### Ruby / Tornado
+
+*   [Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
+
+### Rust / Sinatra
+
+*   [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/)
+
 ### SQL (implementation agnostic) / Play Scala
 
 *   [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
