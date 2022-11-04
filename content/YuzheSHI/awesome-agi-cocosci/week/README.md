@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
+### Methodologies for Experiments / Association Test
+
+*   [Implicit Association Test](https://en.wikipedia.org/wiki/Implicit-association_test) - ***Wikipedia***. Wikipedia on the Implicit Association Test, a controversial assessment intended to detect subconscious associations between mental representations of objects (concepts) in memory.
+
 ### Meta-Level Considerations / The Aha! Moment
 
 *   [Insight](https://en.wikipedia.org/wiki/Insight) - ***Wikipedia***. Wikipedia on insight.

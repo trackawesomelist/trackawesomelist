@@ -13,11 +13,21 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md)
 
+## [Nov 04, 2022](/content/2022/11/04/README.md)
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
+
 ## [Nov 01, 2022](/content/2022/11/01/README.md)
 
 ### ASP.NET
 
 *   [.NET Framework Notes for Professionals](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### DBMS / Non-X86
+
+*   [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
 
 ### JavaScript / Wicket
 
@@ -27,10 +37,22 @@
 
 *   [Build a Hydrogen storefront](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) (HTML)
 
+### JavaScript / Node.js
+
+*   [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html) - Axel Rauschmayer (HTML)
+
+### JavaScript / React
+
+*   [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
+
 ### JavaScript / Remix
 
 *   [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
 *   [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
+
+### Neo4J / PicoLisp
+
+*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 ### Python / Django
 
@@ -41,6 +63,10 @@
 *   [Django Storages](https://django-storages.readthedocs.io/en/latest/) (HTML)
 *   [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/) (HTML)
 *   [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/) (HTML)
+
+### Scala / Sinatra
+
+*   [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
 
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 
@@ -780,7 +806,6 @@
 
 ### Scala / Sinatra
 
-*   [Advanced Scala with Cats](http://underscore.io/books/advanced-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 *   [Creative Scala](http://underscore.io/books/creative-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 *   [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 *   [Programming in Scala, First Edition](http://www.artima.com/pins1ed/) - M. Odersky, L. Spoon, B. Venners

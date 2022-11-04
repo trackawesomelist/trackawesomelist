@@ -1110,6 +1110,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 #### Association Test
 
+*   [Implicit Association Test](https://en.wikipedia.org/wiki/Implicit-association_test) - ***Wikipedia***. Wikipedia on the Implicit Association Test, a controversial assessment intended to detect subconscious associations between mental representations of objects (concepts) in memory.
+
 *   [Measuring Individual Differences in Implicit Cognition: The Implicit Association Test](http://faculty.fortlewis.edu/burke_b/Senior/BLINK%20replication/IAT.pdf) - ***Journal of Personality and Social Psychology***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=302378224541015580\&hl=en\&as_sdt=0,5)]. The original paper introducing the Implicit Association Test.
 
 *   [Health of the Implicit Association Test at age 3](http://faculty.washington.edu/agg/pdf/Gwald_Nosek_ZEITSCHR_2001.OCR.pdf) - ***Zeitschrift für Experimentelle Psychologie***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=10868478693422595588\&hl=en\&as_sdt=0,5)]. The 3rd year review for the IAT.

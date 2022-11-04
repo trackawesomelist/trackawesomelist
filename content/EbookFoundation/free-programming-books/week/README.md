@@ -19,6 +19,10 @@
 
 *   [.NET Framework Notes for Professionals](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) - Compiled from StackOverflow Documentation (PDF)
 
+### DBMS / Non-X86
+
+*   [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
+
 ### Elixir / Non-X86
 
 *   [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://book.elixircryptobot.com) - Kamil Skowron (HTML)
@@ -35,10 +39,22 @@
 
 *   [Build a Hydrogen storefront](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) (HTML)
 
+### JavaScript / Node.js
+
+*   [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html) - Axel Rauschmayer (HTML)
+
+### JavaScript / React
+
+*   [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
+
 ### JavaScript / Remix
 
 *   [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
 *   [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
+
+### Neo4J / PicoLisp
+
+*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 ### Python / Django
 
@@ -57,6 +73,14 @@
 ### Rust / Sinatra
 
 *   [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
+
+### Scala / Sinatra
+
+*   [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
 
 ### TypeScript / Vapor
 
@@ -677,7 +701,6 @@
 
 ### Scala / Sinatra
 
-*   [Advanced Scala with Cats](http://underscore.io/books/advanced-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 *   [Creative Scala](http://underscore.io/books/creative-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 *   [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 *   [Programming in Scala, First Edition](http://www.artima.com/pins1ed/) - M. Odersky, L. Spoon, B. Venners

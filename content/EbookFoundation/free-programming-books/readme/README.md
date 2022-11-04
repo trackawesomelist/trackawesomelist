@@ -630,6 +630,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### DBMS
 
 *   [Data Management for Analytics and Applications (2021)](https://bookdown.org/kokkodis/book/) - Marios Kokkodis
+*   [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
 *   [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
 
 ### Delphi / Pascal
@@ -1205,6 +1206,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
 *   [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 *   [Practical Node.js: Building Real-World Scalable Web Apps (⭐3.7k)](https://github.com/azat-co/practicalnode) - Azat Mardan
+*   [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html) - Axel Rauschmayer (HTML)
 *   [The Node Beginner Book](http://nodebeginner.org)
 *   [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
@@ -1241,6 +1243,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
     *   [React Tutorial - Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/) - Josh Finnie
 *   [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 *   [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
+*   [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
 *   [SurviveJS - Webpack and React](http://survivejs.com)
 *   [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
@@ -1484,6 +1487,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) - Mark Needham, Amy E. Hodler (PDF, EPUB, MOBI) *(email requested)*
 *   [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber, Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
 *   [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
+*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 ### .NET Core
 
@@ -2098,7 +2102,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Scala
 
 *   [A Scala Tutorial for Java programmers](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) (PDF)
-*   [Advanced Scala with Cats](http://underscore.io/books/advanced-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 *   [Another tour of Scala](https://web.archive.org/web/20190629103826/http://naildrivin5.com/scalatour/) - David Copeland
 *   [Creative Scala](http://underscore.io/books/creative-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 *   [EAI Patterns with Actor Model (⭐11)](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
@@ -2122,6 +2125,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [Scala School by Twitter](http://twitter.github.io/scala_school/)
 *   [Scala Succinctly](https://www.syncfusion.com/ebooks/scala_succinctly) - Chris Rose
 *   [Scala Tutorial](https://www.tutorialspoint.com/scala/) - Tutorials Point (HTML, PDF)
+*   [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
 *   [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 *   [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
 *   [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
@@ -2212,6 +2216,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [SQL For Web Nerds](http://philip.greenspun.com/sql/)
 *   [SQL Notes for Professionals](http://goalkicker.com/SQLBook/) - Compiled from StackOverflow Documentation (PDF)
 *   [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison
+*   [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
 *   [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/)
 *   [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
 

@@ -169,6 +169,7 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [lgbtq (⭐1)](https://github.com/PhoenixSmaug/zsh-lgbtq-themes) - A collection of lgbtq themes for your terminal.
+*   [xandermute (⭐0)](https://github.com/SoYoureAWaffleMan/xandermute-oh-my-zsh-theme/) - Minimalist theme with `git` and current directory decorations.
 
 ## [14. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
@@ -456,6 +457,10 @@
 
 ## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
+### Methodologies for Experiments / Association Test
+
+*   [Implicit Association Test](https://en.wikipedia.org/wiki/Implicit-association_test) - ***Wikipedia***. Wikipedia on the Implicit Association Test, a controversial assessment intended to detect subconscious associations between mental representations of objects (concepts) in memory.
+
 ### Meta-Level Considerations / The Aha! Moment
 
 *   [Insight](https://en.wikipedia.org/wiki/Insight) - ***Wikipedia***. Wikipedia on insight.
@@ -569,15 +574,78 @@
     *   [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
     *   [Latent Dirichlet Allocation (LDA)](https://scikit-learn.org/stable/modules/decomposition.html#latent-dirichlet-allocation-lda)
 
-## [39. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [39. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
-### 1 - Agnósticos / Inteligencia Artificial
+### ASP.NET
 
-*   [Deep Learning](http://www.uhu.es/publicaciones/?q=libros\&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
+*   [.NET Framework Notes for Professionals](https://books.goalkicker.com/DotNETFrameworkBook/DotNETFrameworkNotesForProfessionals.pdf) - Compiled from StackOverflow Documentation (PDF)
 
-### Kotlin / React
+### DBMS / Non-X86
 
-*   [Curso programación Android en Kotlin](https://cursokotlin.com/curso-programacion-kotlin-android/) - AristiDevs (HTML)
+*   [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
+
+### Elixir / Non-X86
+
+*   [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://book.elixircryptobot.com) - Kamil Skowron (HTML)
+
+### Erlang / Phoenix
+
+*   [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook) - Erik Stenman (HTML)
+
+### JavaScript / Wicket
+
+*   [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
+
+### JavaScript / Hydrogen
+
+*   [Build a Hydrogen storefront](https://shopify.dev/custom-storefronts/hydrogen/getting-started/tutorial) (HTML)
+
+### JavaScript / Node.js
+
+*   [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html) - Axel Rauschmayer (HTML)
+
+### JavaScript / React
+
+*   [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
+
+### JavaScript / Remix
+
+*   [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
+*   [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
+
+### Neo4J / PicoLisp
+
+*   [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
+
+### Python / Django
+
+*   [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)
+*   [AutoComplete-Light](https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html) (HTML)
+*   [Django Filters](https://django-filter.readthedocs.io/en/stable/) (HTML)
+*   [Django Official Documentation](https://buildmedia.readthedocs.org/media/pdf/django/4.1.x/django.pdf) (PDF) (4.1)
+*   [Django Storages](https://django-storages.readthedocs.io/en/latest/) (HTML)
+*   [Django Tinymce](https://django-tinymce.readthedocs.io/en/latest/) (HTML)
+*   [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/) (HTML)
+
+### R / Tornado
+
+*   [Data Visualization with R](https://ladal.edu.au/dviz.html) - Martin Schweinberger (HTML)
+
+### Rust / Sinatra
+
+*   [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
+
+### Scala / Sinatra
+
+*   [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
+
+### TypeScript / Vapor
+
+*   [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf) - Stefan Baumgartner (PDF)
 
 ---
 

@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Nov 04, 2022](/content/2022/11/04/README.md)
+
+### Methodologies for Experiments / Association Test
+
+*   [Implicit Association Test](https://en.wikipedia.org/wiki/Implicit-association_test) - ***Wikipedia***. Wikipedia on the Implicit Association Test, a controversial assessment intended to detect subconscious associations between mental representations of objects (concepts) in memory.
+
 ## [Nov 03, 2022](/content/2022/11/03/README.md)
 
 ### Others / Commonsense Knowledgebase
