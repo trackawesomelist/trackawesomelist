@@ -6,6 +6,12 @@ A list of awesome ESLint plugins, configs, etc.
 
 [ [Daily](/content/dustinspecker/awesome-eslint/README.md) / Weekly / [Overview](/content/dustinspecker/awesome-eslint/readme/README.md) ]
 
+## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
+
+### Plugins / Practices and Specific ES Features
+
+*   [no-comments (⭐3)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Developing for ESLint / Testing Tools

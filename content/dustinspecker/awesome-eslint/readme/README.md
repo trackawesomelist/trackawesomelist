@@ -217,6 +217,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 <!-- lint ignore awesome-spell-check -->
 
 *   [no-argument-spread (⭐2)](https://github.com/causalhq/eslint-plugin-no-argument-spread) - Lints against expressions like `Math.max(...args)` that can lead to a stack overflow for large arrays.
+*   [no-comments (⭐3)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
 *   [no-constructor-bind (⭐10)](https://github.com/markalfred/eslint-plugin-no-constructor-bind) - Encourages use of class properties by reporting use of `this` with `bind` or setting state in constructors.
 *   [no-inferred-method-name (⭐27)](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
 *   [no-loops (⭐114)](https://github.com/buildo/eslint-plugin-no-loops) - It's 2019 and you still use loops?
