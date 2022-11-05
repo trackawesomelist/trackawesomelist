@@ -46,6 +46,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [no-comments (⭐3)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
 
+#### [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [MrcJkb/haskell-tools.nvim (⭐89)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+
 ### [Nov 04, 2022](/content/2022/11/04/README.md)
 
 
@@ -227,13 +233,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 19. [Awesome Ddd](/content/heynickc/awesome-ddd/README.md) - ([Source ⭐ 9.3K 📝 11&#x2F;04 ](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 20. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 16K 📝 10&#x2F;29 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
 21. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 10K 📝 11&#x2F;02 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-22. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 44K 📝 10&#x2F;17 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-23. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 11&#x2F;04 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-24. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 10K 📝 10&#x2F;31 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-25. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.2K 📝 11&#x2F;02 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-26. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 13K 📝 10&#x2F;26 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-27. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 224K 📝 09&#x2F;27 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-28. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K 📝 10&#x2F;31 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+22. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K 📝 11&#x2F;05 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+23. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 44K 📝 10&#x2F;17 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+24. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 11&#x2F;04 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+25. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 10K 📝 10&#x2F;31 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+26. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.2K 📝 11&#x2F;02 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+27. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 13K 📝 10&#x2F;26 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+28. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 224K 📝 09&#x2F;27 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 29. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 10&#x2F;24 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 30. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 5.2K 📝 11&#x2F;02 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 31. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source ⭐ 4.6K 📝 11&#x2F;02 ](https://github.com/mjhea0/awesome-fastapi)) - A curated list of awesome things related to FastAPI
@@ -444,7 +450,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K, 📝 10&#x2F;31 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K, 📝 11&#x2F;05 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 21K, 📝 21&#x2F;11&#x2F;30 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 950, 📝 04&#x2F;30 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!

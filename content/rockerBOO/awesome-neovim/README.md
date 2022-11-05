@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 05, 2022](/content/2022/11/05/README.md)
+
+### (requires Neovim 0.5)
+
+*   [MrcJkb/haskell-tools.nvim (⭐89)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 
 ### Motion / Diagnostics

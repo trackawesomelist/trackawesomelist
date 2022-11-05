@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
+### (requires Neovim 0.5)
+
+*   [MrcJkb/haskell-tools.nvim (⭐89)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+
 ### Motion / Diagnostics
 
 *   [Weissle/easy-action (⭐3)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.

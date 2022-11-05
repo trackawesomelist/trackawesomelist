@@ -141,6 +141,7 @@ You can find them listed on the [Neovim wiki (⭐59k)](https://github.com/neovim
 *   [amrbashir/nvim-docs-view (⭐54)](https://github.com/amrbashir/nvim-docs-view) - A Neovim plugin to display lsp hover documentation in a side panel.
 *   [mfussenegger/nvim-jdtls (⭐436)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls.
 *   [Kasama/nvim-custom-diagnostic-highlight (⭐32)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
+*   [MrcJkb/haskell-tools.nvim (⭐89)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 
 ##### LSP Installer
 

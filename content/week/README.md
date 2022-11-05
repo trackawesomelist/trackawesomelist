@@ -63,13 +63,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [IoTSharp.HealthChecks.Taos](https://www.nuget.org/packages/IoTSharp.HealthChecks.Taos/) - TDengine's HealthChecks provider. (.Net 5.0+).
 
-#### [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Motion / Diagnostics
-
-*   [Weissle/easy-action (⭐3)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
-
-#### [5. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+#### [4. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
 ##### Related Projects
 
@@ -91,7 +85,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Saas (⭐3.2k)](https://github.com/async-labs/saas) - Boilerplate for building your own SaaS product; built with TypeScript, React, Express, Material-UI.
 *   [Create-react-app-material-typescript-redux (⭐283)](https://github.com/innFactory/create-react-app-material-typescript-redux) - A ready to use boilerplate for starting big react projects.
 
-#### [6. Awesome Music](/content/ciconia/awesome-music/README.md)
+#### [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ##### Music Programming
 
@@ -99,38 +93,38 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Gwion (⭐454)](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 *   [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
-#### [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+#### [6. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ##### Changeset Tools / Web Services
 
 *   [OSM Inspector](https://tools.geofabrik.de/osmi/?view=geometry\&lon=-12.00000\&lat=25.00000\&zoom=3\&baselayer=Geofabrik%20Standard\&overlays=long_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way%2Clong_ways%2Cways_with_long_segments%2Clong_segments%2Cself_intersection_ways%2Cself_intersection_points%2Csingle_node_in_way%2Cduplicate_node_in_way) - The OSM Inspector (alias OSMI) is a web based debugging tool for advanced OpenStreetMap users offered by Geofabrik. On a map you can see several themed views, each with several layers, showing specific details of the OSM data, often with highlighted errors.
 *   [Nominatim QA](https://nominatim.org/qa/#map=1.81/0.00/0.00) - The Nominatim Data Analyser is a QA tool used to scan the nominatim database and extract suspect data from it. These data are then presented to mappers through a visual interface so that they can correct them directly.
 
-#### [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+#### [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ##### Projects Related to eBPF / Testing in Virtual Environments
 
 *   [rbperf (⭐58)](https://github.com/javierhonduco/rbperf) - Sampling profiler and tracer for Ruby.
 
-#### [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+#### [8. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ##### Development
 
 *   [utmapp](https://github.com/utmapp/) - Virtualization for other operating systems. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.") ![objective\_c\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/objective-c-16.png "Objective-C language.")
 
-#### [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Resources / Discovery
 
 *   [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 
-#### [11. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+#### [10. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ##### Blockchain
 
 *   [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week.
 
-#### [12. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+#### [11. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ##### Courses / Algorithms
 
@@ -139,7 +133,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [Lecture Notes](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/all-algorithms.pdf)
     *   [Labs and Exams](http://web.engr.illinois.edu/\~jeffe/teaching/algorithms/all-hwex.pdf)
 
-#### [13. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+#### [12. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ##### Authentication / Password-less
 
@@ -157,7 +151,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The SSO Wall of Shame](https://sso.tax) - A documented rant on the exessive pricing practiced by SaaS providers to activate SSO on their product. The author's point is, as a core security feature, SSO should be reasonnably priced and not part of an exclusive tier.
 
-#### [14. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+#### [13. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ##### Cognitive Tools / Collections
 
@@ -175,25 +169,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Please don't say just hello in chat](https://nohello.net/en/) - When properly used, interactive written medium allows for asynchronous communication.
 
-#### [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+#### [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ##### Hardware
 
 *   [WisBlock](https://www.rakwireless.com/en-us/products/wisblock) - WisBlock is a modular system that makes it easy to implement low power wide area network (LPWAN) into IoT solutions. WisBlock consist of a base board, core compute module and combination of several sensor modules.
 
-#### [16. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [15. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Modules / Web framework
 
 *   [wren (⭐66)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
-#### [17. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+#### [16. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ##### Sensors / Accelerometer Digital
 
 *   [MicroPython-LIS3DH (⭐57)](https://github.com/tinypico/tinypico-micropython/tree/master/lis3dh%20library) - I²C driver for LIS3DH 3-axis accelerometer.
 
-#### [18. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+#### [17. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 
 ##### Apps / Games
 
@@ -203,7 +197,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [TextSnatcher (⭐332)](https://github.com/RajSolai/TextSnatcher) - Copy text from Images with ease.
 
-#### [19. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Developer Tools / Network Analysis
 
@@ -242,7 +236,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466) - Connect to a remote PC or virtual apps and desktops made available by your admin. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [20. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [19. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Frameworks
 
@@ -252,7 +246,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Easy Reflection (⭐27)](https://github.com/chocolacula/easy_reflection_cpp) - Easy and fast reflection + serialization solution like in Rust, Java or Go. \[Apache]
 
-#### [21. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [20. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
@@ -263,25 +257,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [klint (⭐43)](https://github.com/uswitch/klint) — A tool that listens to changes in Kubernetes resources and runs linting rules against them. Identify and debug erroneous objects and nudge objects in line with the policies as both change over time. Klint helps us encode checks and proactively alert teams when they need to take action.
 
-#### [22. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+#### [21. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ##### Plugins
 
 *   [tmux-fzf-session-switch (⭐5)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
 
-#### [23. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [22. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Wrappers
 
 *   [cl-ndbapi (⭐4)](https://github.com/datagraph/cl-ndbapi) - bindings to the C++ NDB API of [RonDB](https://www.rondb.com/), "the world's fastest key value store", by [Dydra](https://dydra.com/home). GPLv2.
 
-#### [24. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+#### [23. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ##### Papers / The Network and Distributed System Security Symposium (NDSS)
 
 *   [Favocado: Fuzzing Binding Code of JavaScript Engines Using Semantically Correct Test Cases, 2021](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6A-2_24224_paper.pdf)
 
-#### [25. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+#### [24. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ##### Databases / ORMs
 
@@ -303,25 +297,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Azure Functions](https://azure.microsoft.com/en-us/products/functions/)
 
-#### [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Communication - Custom Communication Systems
-
-*   [Dendrite](https://matrix.org/docs/projects/server/dendrite) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
-
-##### Software / Groupware
-
-*   [tine - Community Edition (⭐136)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
-
-##### Software / Remote Access
-
-*   [RustDesk](https://rustdesk.com/) - An open source TeamViewer alternative, works out of the box, no configuration required. ([Source Code (⭐2.5k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker`
-
-##### Software / Status / Uptime pages
-
-*   [Gatus (⭐3k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
-
-#### [27. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [25. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Standard CLI
 
@@ -382,7 +358,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 
-#### [28. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [26. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Reddit
 
@@ -393,27 +369,27 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LocalCDN](https://www.localcdn.org/) - LocalCDN is a web browser extension that emulates Content Delivery Networks to improve your online privacy. It intercepts traffic, finds supported resources locally, and injects them into the environment. LocalCDN is a fork of the inactive project [Decentraleyes](https://decentraleyes.org/).
 
-#### [29. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+#### [27. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ##### Software
 
 *   [h2o3-pam (⭐1)](https://github.com/navdeep-G/h2o3-pam): Partition Around Mediods (PAM) clustering algorithm in H2O-3
 *   [h2o3-gapstat (⭐1)](https://github.com/navdeep-G/h2o3-gapstat): Gap Statistic algorithm in H2O-3
 
-#### [30. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+#### [28. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ##### Exchange API / Plugins
 
 *   [PENDAX (⭐54)](https://github.com/CompendiumFi/PENDAX-SDK) - Javascript SDK for Trading/Data API and Websockets for cryptocurrency exchanges like FTX, FTXUS, OKX, Bybit, & More
 
-#### [31. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+#### [29. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ##### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [EPA WARM Model](https://www.epa.gov/warm) -  EPA created the Waste Reduction Model (WARM) to provide high-level estimates of potential greenhouse gas (GHG) emissions reductions, energy savings, and economic impacts from several different waste management practices.
 *   [ENCORE](https://encore.naturalcapital.finance/en)- United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
 
-#### [32. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+#### [30. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ##### Frameworks
 
@@ -433,7 +409,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [EuroPython 2022 talk video: Radomir Dopieralski - Game Development with CircuitPython](https://www.youtube.com/watch?v=2i6qhfq5u78) - Radomir Dopieralski
 
-#### [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [31. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -444,7 +420,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [lgbtq (⭐1)](https://github.com/PhoenixSmaug/zsh-lgbtq-themes) - A collection of lgbtq themes for your terminal.
 *   [xandermute (⭐0)](https://github.com/SoYoureAWaffleMan/xandermute-oh-my-zsh-theme/) - Minimalist theme with `git` and current directory decorations.
 
-#### [34. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Methodologies for Experiments / Association Test
 
@@ -467,7 +443,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Yanchao Bi](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Bzz/a552402e529a4f27b979378abd42c10e.htm) - ***IDG/McGovern Institute for Brain Research and the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University (BNU)***, [Yanchao Bi's Concept Lab (Bi Lab)](http://bilab.bnu.edu.cn/) - ***BNU***.
 
-#### [35. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [33. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data and ML
 
@@ -481,7 +457,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [is-an.app (⭐1)](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
 
-#### [36. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+#### [34. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ##### Books
 
@@ -491,13 +467,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Spatie's Event Sourcing Course](https://spatie.be/products/event-sourcing-in-laravel) - Learn how to build event sourced applications in Laravel using Spatie's event-sourcing package. Has 2 hours of video content and an accompanying ebook.
 
-#### [37. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [35. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Apps
 
 *   [IPFS-FPS](https://ipfs-fps-website.on.fleek.co/) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
 
-#### [38. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+#### [36. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ##### ASP.NET
 
@@ -583,13 +559,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf) - Stefan Baumgartner (PDF)
 
-#### [39. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+#### [37. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ##### Identity Management / Single Sign-On (SSO)
 
 *   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management ([Source Code (⭐14k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
-#### [40. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+#### [38. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ##### Templates
 
@@ -607,7 +583,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Email marketing regulations (⭐287)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
-#### [41. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+#### [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ##### Hybrid
 
@@ -647,19 +623,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [I Love DotNet (⭐13)](https://github.com/ILoveDotNet/ilovedotnet) - ![stars](https://img.shields.io/github/stars/ilovedotnet/ilovedotnet?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/ilovedotnet/ilovedotnet?style=flat-square) - This is a .NET knowledge sharing platform with live demos crafted by developers for developers with love using .NET Blazor. [ilovedotnet.org](https://www.ilovedotnet.org).
 *   [Reddit](https://www.reddit.com/r/Blazor/) - Blazor subreddit.
 
-#### [42. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
+#### [40. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 
 ##### Books / Storybook addons
 
 *   [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions by Zhiyong Tan.
 
-#### [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [41. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Libraries/Frameworks / Misc
 
 *   [touchlab/KMMBridge (⭐151)](https://github.com/touchlab/KMMBridge) - KMMBridge is a set of Gradle tooling that facilitates publishing and consuming pre-built KMM (Kotlin Multiplatform Mobile) Xcode Framework binaries.
 
-#### [44. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+#### [42. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ##### Monitoring
 
@@ -685,11 +661,39 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Azure AKS](https://azure.microsoft.com/en-us/products/kubernetes-service/) :heavy\_dollar\_sign: - Simplify Kubernetes management, deployment, and operations. Use a fully managed Kubernetes container orchestration service.
 
-#### [45. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+#### [43. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ##### Plugins / Practices and Specific ES Features
 
 *   [no-comments (⭐3)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
+
+#### [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### (requires Neovim 0.5)
+
+*   [MrcJkb/haskell-tools.nvim (⭐89)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+
+##### Motion / Diagnostics
+
+*   [Weissle/easy-action (⭐3)](https://github.com/Weissle/easy-action) - Easily perform an action on where you can see.
+
+#### [45. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Communication - Custom Communication Systems
+
+*   [Dendrite](https://matrix.org/docs/projects/server/dendrite) - Second-generation Matrix homeserver written in Go. It intends to provide an efficient, reliable and scalable alternative to Synapse. ([Source Code (⭐4k)](https://github.com/matrix-org/dendrite)) `Apache-2.0` `Go`
+
+##### Software / Groupware
+
+*   [tine - Community Edition (⭐136)](https://github.com/tine20/tine20) - Contacts, Calendar, Tasks, WebDAV, ActiveSync, VoIP, Mail-Client, CRM, Sales, Projects, Timetracker. `AGPL-3.0` `PHP`
+
+##### Software / Remote Access
+
+*   [RustDesk](https://rustdesk.com/) - An open source TeamViewer alternative, works out of the box, no configuration required. ([Source Code (⭐2.5k)](https://github.com/rustdesk/rustdesk-server)) `AGPL-3.0` `Rust/Docker`
+
+##### Software / Status / Uptime pages
+
+*   [Gatus (⭐3k)](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Demo](https://status.twin.sh)) `Apache-2.0` `Docker`
 
 ---
 
@@ -718,13 +722,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 19. [Awesome Ddd](/content/heynickc/awesome-ddd/README.md) - ([Source ⭐ 9.3K 📝 11&#x2F;04 ](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 20. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 16K 📝 10&#x2F;29 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
 21. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 10K 📝 11&#x2F;02 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-22. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 44K 📝 10&#x2F;17 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-23. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 11&#x2F;04 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-24. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 10K 📝 10&#x2F;31 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
-25. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.2K 📝 11&#x2F;02 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-26. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 13K 📝 10&#x2F;26 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-27. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 224K 📝 09&#x2F;27 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-28. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K 📝 10&#x2F;31 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+22. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K 📝 11&#x2F;05 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+23. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 44K 📝 10&#x2F;17 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+24. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 11&#x2F;04 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+25. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 10K 📝 10&#x2F;31 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+26. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.2K 📝 11&#x2F;02 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+27. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 13K 📝 10&#x2F;26 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+28. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 224K 📝 09&#x2F;27 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 29. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K 📝 10&#x2F;24 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
 30. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 5.2K 📝 11&#x2F;02 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 31. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source ⭐ 4.6K 📝 11&#x2F;02 ](https://github.com/mjhea0/awesome-fastapi)) - A curated list of awesome things related to FastAPI
@@ -935,7 +939,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K, 📝 10&#x2F;31 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K, 📝 11&#x2F;05 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 21K, 📝 21&#x2F;11&#x2F;30 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 950, 📝 04&#x2F;30 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!

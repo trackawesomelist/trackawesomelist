@@ -1,18 +1,24 @@
 # Awesome List Updates on Nov 05, 2022
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [1. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### (requires Neovim 0.5)
+
+*   [MrcJkb/haskell-tools.nvim (⭐89)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+
+## [2. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Practices and Specific ES Features
 
 *   [no-comments (⭐3)](https://github.com/wisniewski94/eslint-plugin-no-comments) - Prevents leaking comments into production if bundler is not used and stops developers from commenting out old lines of code.
 
-## [2. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Monitoring
 
