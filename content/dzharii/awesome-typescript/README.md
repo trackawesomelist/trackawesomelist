@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Nov 06, 2022](/content/2022/11/06/README.md)
+
+### Typescript Project Starters
+
+*   :ok\_man: [ts-express-boilerplate (⭐21)](https://github.com/d4rkstar/ts-express-boilerplate) - ExpressJS / Typescript template good to start backend projects, with a focus on simplicity and minimal features :P It has logging and testing configured out of the box. Typeorm is used for data access.
+
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
 ### Libraries / Chrome Extensions

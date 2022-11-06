@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/leomaurodesenv/game-datasets/week/README.md) / [Overview](/content/leomaurodesenv/game-datasets/readme/README.md) ]
 
+## [Nov 06, 2022](/content/2022/11/06/README.md)
+
+### Dataset / Web
+
+*   [Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - Data about match ups, outcomes and game states over the time in 225.000 AoE2 matches.
+
 ## [Oct 10, 2022](/content/2022/10/10/README.md)
 
 ### License / Related

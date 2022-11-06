@@ -6,6 +6,45 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Nov 06, 2022](/content/2022/11/06/README.md)
+
+### Cloud Computing
+
+*   [Learn Azure in a Month of Lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original) - Iain Foulds (PDF)
+
+## [Nov 01, 2022](/content/2022/11/01/README.md)
+
+### Artificial Intelligence
+
+*   [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
+
+### Computer Science
+
+*   [Computer Science I](https://cse.unl.edu/\~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
+*   [Computer Science II](https://cse.unl.edu/\~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
+
+### Computer Vision
+
+*   [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf) - Ranjay Krishna (PDF)
+
+### Database
+
+*   [Database Management Systems Solutions Manual Third Edition](https://pages.cs.wisc.edu/\~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) - Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, and Lin Zhu (PDF)
+
+### Object Oriented Programming
+
+*   [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
+
+## [Oct 31, 2022](/content/2022/10/31/README.md)
+
+### Artificial Intelligence
+
+*   [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
+
+### Quantum Computing
+
+*   [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
+
 ## [Oct 30, 2022](/content/2022/10/30/README.md)
 
 ### Data Science
@@ -926,7 +965,6 @@
 *   [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon (:construction: *in process*)
 *   [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 *   [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
-*   [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf) - Iain Foulds (PDF)
 *   [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 *   [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
 *   [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
@@ -956,8 +994,6 @@
 ### Computer Science
 
 *   [Computational Thinking](https://www.cs.cmu.edu/\~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
-*   [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
-*   [Computer Science II - Draft](http://cse.unl.edu/\~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
 
 ### Computer Vision
 

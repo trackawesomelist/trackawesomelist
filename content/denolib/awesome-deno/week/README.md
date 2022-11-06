@@ -12,6 +12,12 @@ Curated list of awesome things related to Deno
 
 *   [wren (⭐66)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
+### Blogs/Newsletters / XML
+
+*   [Craig's Deno Diary](https://deno-blog.com) - A blog focussing on Deno tech & lib howtos.
+*   [Deno Blog](https://deno.com/blog) - The official blog of the Deno Company.
+*   [Deno News](https://deno.news) - A newsletter of Deno articles, news and cool projects.
+
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Docs / Official Docs

@@ -6,6 +6,14 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Nov 06, 2022](/content/2022/11/06/README.md)
+
+### Blogs/Newsletters / XML
+
+*   [Craig's Deno Diary](https://deno-blog.com) - A blog focussing on Deno tech & lib howtos.
+*   [Deno Blog](https://deno.com/blog) - The official blog of the Deno Company.
+*   [Deno News](https://deno.news) - A newsletter of Deno articles, news and cool projects.
+
 ## [Nov 01, 2022](/content/2022/11/01/README.md)
 
 ### Modules / Web framework
