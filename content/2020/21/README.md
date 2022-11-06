@@ -751,41 +751,39 @@
 *   [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
 *   [chemminetools (⭐36)](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
 
-## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
-### Boilerplates
+### Typescript Project Starters
 
-*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack  boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ## [50. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Standards / CSS Shadow Parts
+### CSS Shadow Parts
 
 *   [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
 *   [How to use D3js with WebComponents](https://towardsdatascience.com/how-to-use-d3js-with-webcomponents-a75ae4f980de)
 *   [Storybook for web components on steroids](https://dev.to/open-wc/storybook-for-web-components-on-steroids-4h29)
 
-### Articles / Interoperability
+### Interoperability
 
 *   [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
 
-### Real World / Case Studies
+### Case Studies
 
 *   [Implementing a Design Language System with Stencil.js](https://medium.com/@Danetag/implementing-a-design-language-system-with-stencil-js-515432918eb5)
 
-### Real World / Component Libraries
+### Component Libraries
 
 *   [AMP (⭐15k)](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
-*   [AXA Pattern Library (⭐96)](https://github.com/axa-ch/patterns-library) - AXA CH UI components library built with Web Components.
 *   [Brightspace UI core (⭐38)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 *   [Clever components (⭐148)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 *   [DataFormsJS (⭐151)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
 *   [Elix (⭐686)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
-*   [Iooxa (⭐131)](https://github.com/iooxa/article) - Web components for interactive scientific writing, reactive documents and explorable explanations.
 *   [Lion Web Components (⭐1.4k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
 *   [LRNWebComponents (⭐209)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
 *   [Microsoft Graph Toolkit (⭐734)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
@@ -794,13 +792,12 @@
 *   [Wired Elements (⭐9.2k)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 *   [Wokwi Elements (⭐104)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
-### Real World / Design Systems
+### Design Systems
 
 *   [Amber Components (⭐28)](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
 *   [Calcite Components (⭐184)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 *   [Chameleon Web Components (⭐26)](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
 *   [Helix UI (⭐51)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
-*   [Material Web Components (⭐4k)](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
 *   [NuML | NUDE Elements (⭐309)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
 *   [PatternFly Elements (⭐300)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
 *   [Pearson Web Components](https://github.com/pearson-ux/web-components) - Pearson's shareable component library implementing Gravity design system.
@@ -808,21 +805,21 @@
 *   [UI5 Web Components (⭐1.2k)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 *   [Zooplus web components (⭐39)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
 
-### Libraries / Class Based
+### Class Based
 
 *   [DNA (⭐25)](https://github.com/chialab/dna) - Progressive Web Components library.
 *   [Tonic (⭐693)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 
-### Libraries / Integrations
+### Integrations
 
 *   [preact-custom-element (⭐284)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 
-### Libraries / Benchmarks
+### Benchmarks
 
 *   [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
 *   [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
 
-### Insights / Presentations
+### Presentations
 
 *   [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) by [@lostinbrittany](https://twitter.com/lostinbrittany)
 *   [Designing Standard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) by [@stefsull](https://twitter.com/stefsull) and [@bferrua](https://twitter.com/bferrua)

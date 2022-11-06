@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -67,7 +67,13 @@
 
 *   [Top 50+ Docker Interview Questions and Answers in 2021](https://www.techgeekbuzz.com/top-docker-interview-questions/)
 
-## [8. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [GANshare | Towards Data Science](https://towardsdatascience.com/ganshare-creating-and-curating-art-with-ai-for-fun-and-profit-1b3b4dcd7376): Creating and Curating Art with AI
+
+## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Web Development
 
@@ -94,7 +100,7 @@
 *   [Software Architect Roadmap (⭐912)](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
 *   [Software Design and Architecture Roadmap (⭐2.5k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Calendar
 
@@ -194,7 +200,7 @@
 
 
 
-## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 

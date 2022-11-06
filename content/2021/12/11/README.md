@@ -73,10 +73,6 @@
 
 *   [Getting started with GraphQL in Python with FastAPI and Ariadne](https://blog.yezz.me/blog/Getting-started-with-GraphQL-in-Python-with-FastAPI-and-Ariadne) - Generate a FullStack playground using FastAPI, GraphQL and Ariadne.
 
-### PaaS / Other Tools
-
-*   [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
-
 ## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### JavaScript Libraries

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 05, 2022
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -40,6 +40,13 @@
 
 *   [Azure AKS](https://azure.microsoft.com/en-us/products/kubernetes-service/) :heavy\_dollar\_sign: - Simplify Kubernetes management, deployment, and operations. Use a fully managed Kubernetes container orchestration service.
 
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Stable Diffusion Inbox
+
+*   [Img To Music](https://huggingface.co/spaces/fffiloni/img-to-music) a Hugging Face Space by fffiloni
+
 ---
 
+- Prev: [Nov 06, 2022](/content/2022/11/06/README.md)
 - Next: [Nov 04, 2022](/content/2022/11/04/README.md)

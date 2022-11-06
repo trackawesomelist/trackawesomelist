@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 06, 2022
 
-19 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -97,7 +97,15 @@
 
 *   [Some Assembly Required (⭐2.2k)](https://github.com/hackclub/some-assembly-required/) (cc-sa) - An approachable introduction to Assembly
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/)
+*   [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
+*   [(9) AK on Twitter: "DreamFusion: Text-to-3D using 2D Diffusion paper: https://t.co/euVCkNPzB0 abs: https://t.co/FO7nqjLrQA project page: https://t.co/BTvt1WQqIi DeepDream on a pretrained 2D diffusion model enables text-to-3D synthesis https://t.co/20zIElXJDN" / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w\&s=33)
+
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -107,13 +115,13 @@
 
 *   [dangerroom (⭐0)](https://github.com/abbreviatedman/dangerroom) - Informative, minimal, and, above all, X-Men themed. Includes decorators for `git` status, working directory, parent directory and `vim` mode.
 
-## [11. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [12. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Software and Tools
 
 *   [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 
-## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -141,25 +149,31 @@
 | ------: | -------: | -----: |
 |   3 - 8 |       12 | 15-45m |
 
-## [13. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Security
+
+*   [Information Security Management](https://www.infosecuritybook.com) - Marcos Sêmola (PDF)
+
+## [15. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
 *   [LibHyps (⭐15)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
 
-## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Semgrep Supply Chain](https://semgrep.dev/products/semgrep-supply-chain) :copyright: — Quickly find and remediate high-priority security issues.  Semgrep Supply Chain prioritizes the 2% of vulnerabilities that are reachable from your code.
 
-## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [17. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Hardware
 
 *   [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) - Raspberry Pi Pico is a small,fast and versatile board that is equipped with the RP2040 microcontroller chip developed by the Raspberry Pi Foundation. It also comes with a 2.4GHz 802.11n wireless LAN variant, which makes it great for IoT.
 
-## [16. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [18. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Editors
 
@@ -169,20 +183,20 @@
 
 *   [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code (⭐2.2k)](https://github.com/aptly-dev/aptly)) `MIT` `Go`
 
-## [17. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [19. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Public key cryptography: General and DLP
 
 *   [SoK: Password-Authenticated Key Exchange – Theory, Practice, Standardization and Real-World Lessons](https://eprint.iacr.org/2021/1492.pdf) - History and classification of the PAKE algorithms.
 *   [RSA, DH and DSA in the Wild](https://eprint.iacr.org/2022/048.pdf) - Collection of implementation mistakes which lead to exploits of assymetric cryptography.
 
-## [18. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [20. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Mobile
 
 *   [GNU CLISP](http://www.clisp.org/) - A GNU implementation; contains a compiler and an interpreter. [Standard conformance](http://www.gnu.org/software/clisp/impnotes.html). [GNU GPL3](http://www.gnu.org/copyleft/gpl.html). They develop \[<https://gitlab.com/gnu-clisp/clisp](on> Gitlab).
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 

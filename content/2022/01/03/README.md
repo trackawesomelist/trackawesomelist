@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 03, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -143,31 +143,50 @@
 
 *   [vite-plugin-twig (⭐12)](https://github.com/fiadone/vite-plugin-twig) - Twig template engine support.
 
-## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   \[🔥🔥] [Pollinations.AI](https://pollinations.ai): a frontend hosting a set of curated notebooks that allow creating and experimenting with generative art. Their objective is to facilitate the creation and translation of multiple forms of human expressions.
+*   [ouhenio/StyleGAN3-CLIP-notebooks (⭐172)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
+*   [k-l-lambda/stylegan-web (⭐149)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
+
+### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
+*   [Charisma](https://charisma.ai/): Charisma is a platform for creating interactive stories with believable virtual characters
+*   [Authors A.I.](https://authors.ai/): AI-powered text analysis
+
+### Inbox: Text and Natural Language Processing / OpenAI GPT-3
+
+*   [GPT-3 playground](https://beta.openai.com/playground)
+*   [Fine-tuning GPT-3](https://beta.openai.com/docs/guides/fine-tuning): how to customize a model for OpenAI's GPT-3
+
+## [9. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
 ### Logos
 
 *   [VectorLogoZone (⭐297)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Misc
 
 *   [zigi](https://www.zigi.ai/) - Developer’s assistant for mundane non-coding tasks via Slack.
 
-## [10. Awesome React](/content/enaqx/awesome-react/README.md)
+## [11. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Awesome Components
 
 *   [data-source (⭐12k)](https://github.com/facebook/flipper/tree/main/desktop/flipper-plugin/src/data-source) - Library to power streaming data visualisations as used in Facebook's Flipper
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Editing support / Diagnostics
 
 *   [booperlv/nvim-gomove (⭐144)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 
-## [12. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [13. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Archive of Icons
 
@@ -178,7 +197,7 @@
 
 *   [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Data Visualization / Runner
 

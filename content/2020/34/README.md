@@ -852,11 +852,11 @@
 
 ## [40. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Real World / Component Libraries
+### Component Libraries
 
 *   [Smart Web Components (⭐296)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 
-### Ecosystem / Tools
+### Tools
 
 *   [Custom Elements Locator (⭐31)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 *   [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.

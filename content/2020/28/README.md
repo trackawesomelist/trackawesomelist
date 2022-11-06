@@ -988,26 +988,26 @@ Language: English
 
 ## [58. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Real World / Component Libraries
+### Component Libraries
 
 *   [Immersive Custom Elements (⭐133)](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
 *   [Ketch.UP (⭐8)](https://github.com/smeup/ketchup) - Web components library for Sme.UP.
 *   [Open Business Application Platform Web Components (⭐12)](https://github.com/openbap/obap-elements) - Collection of web components designed for business applications.
 
-### Real World / Design Systems
+### Design Systems
 
 *   [FAST Components (⭐7.7k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - Library of Web Components based on the FAST design language.
 *   [GOV.UK Web Components (⭐3)](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
 
-### Libraries / Integrations
+### Integrations
 
 *   [@adobe/react-webcomponent (⭐90)](https://github.com/adobe/react-webcomponent) - Automate the wrapping of a React component in a custom element.
 
-### Frameworks / Angular
+### Angular
 
 *   [Building and consuming Angular Elements as Web Components](https://indepth.dev/building-and-bundling-web-components/)
 
-### Ecosystem / Tools
+### Tools
 
 *   [Web Components Codemods (⭐6)](https://github.com/kcmr/web-components-codemods) - Codemods for Web Components.
 

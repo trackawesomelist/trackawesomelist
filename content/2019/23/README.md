@@ -638,7 +638,7 @@ Free (Open Source)
 
 ## [32. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Libraries / Class Based
+### Class Based
 
 *   [Lightning Web Components (⭐1.3k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 

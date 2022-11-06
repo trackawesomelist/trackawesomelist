@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11 - Oct 17, 2021
 
-66 awesome lists updated this week.
+67 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -302,13 +302,20 @@
 
 *   [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
 
-## [30. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
+## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [crowsonkb (Katherine Crowson)](https://github.com/crowsonkb): who wrote [the tutorial of VQGAN+CLIP](https://sourceful.us/doc/935/introduction-to-vqganclip)
+*   [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/): NVidia official StyleGAN3 release page
+
+## [31. Awesome Couchdb](/content/quangv/awesome-couchdb/week/README.md)
 
 ### Related Projects / Hosting
 
 *   [RxDB](https://rxdb.info/) - NoSQL-database for JavaScript Applications. RxDB provides modules for realtime replication with any CouchDB compliant endpoint and also with custom GraphQL endpoints.
 
-## [31. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [32. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -322,7 +329,7 @@
 
 *   [Scribe](https://scribe.rip/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://git.sr.ht/\~edwardloveall/scribe) - Privacy-respecting and minimal alternative front end for Medium.com.
 
-## [32. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [33. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Boilerplate / Mouse Events
 
@@ -332,7 +339,7 @@
 
 *   [react-slack-notification (⭐9)](https://github.com/Nilanth/react-slack-notification) - Send messages and error logs to a Slack channel directly.
 
-## [33. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
+## [34. Awesome Observables](/content/sindresorhus/awesome-observables/week/README.md)
 
 ### Packages
 
@@ -341,17 +348,6 @@
 ### Articles
 
 *   [Learning Observable By Building Observable](https://benlesh.com/posts/learning-observable-by-building-observable/) *(Updated 2021-07-08)*
-
-## [34. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
-
-### 1 - Agnósticos / Algoritmos y Estructuras de Datos
-
-*   [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-*   [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
-
-### Python / Django
-
-*   [Guía Oficial de Django](https://docs.djangoproject.com/es/3.2/) (3.2) (HTML)
 
 ## [35. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -668,7 +664,29 @@
 
 *   [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow consists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
 
-## [61. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [61. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Artificial Intelligence
+
+*   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
+*   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
+
+### Blockchain
+
+*   [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
+*   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+*   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
+*   [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
+
+### Data Science
+
+*   [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
+
+### Misc
+
+*   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
+
+## [62. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Examples / Hardware Offload
 
@@ -678,14 +696,14 @@
 
 *   [redbpf (⭐1.4k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
-## [62. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [63. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Development Tools
 
 *   [jsx-ast-utils (⭐137)](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
 *   [react-scanner (⭐433)](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
 
-## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [64. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -695,13 +713,13 @@
 
 *   [vue3-marquee (⭐101)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
-## [64. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [65. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Libraries and Frameworks
 
 *   [Puppeteer (⭐80k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
-## [65. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [66. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -1723,7 +1741,7 @@
 
 
 
-## [66. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [67. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 

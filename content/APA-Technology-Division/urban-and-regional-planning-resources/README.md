@@ -10,7 +10,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
-*   [ENCORE](https://encore.naturalcapital.finance/en)- United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
+*   [ENCORE](https://encore.naturalcapital.finance/en) - United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
 
 ## [Nov 02, 2022](/content/2022/11/02/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 14 - Sep 20, 2020
 
-69 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -540,7 +540,7 @@
 
 ## [44. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Real World / Component Libraries
+### Component Libraries
 
 *   [Joomla UI custom elements (⭐23)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
@@ -1093,13 +1093,7 @@
 
 *   :warning: means that this tool was not updated for more than 1 year, or the repo was archived.
 
-## [66. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### CMS
-
-*   [Atlas](https://github.com/lucabriguglia/atlas) - ![stars](https://img.shields.io/github/stars/lucabriguglia/atlas?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/lucabriguglia/atlas?style=flat-square\&cacheSeconds=86400) A forum software built with ASP.NET Core Blazor WebAssembly.
-
-## [67. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [66. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Miscellaneous
 
@@ -1109,13 +1103,13 @@
 
 *   [gooey-react (⭐567)](https://github.com/luukdv/gooey-react) - [demo/docs](https://gooey-react.netlify.app/) - The gooey effect for React, used for shape blobbing / metaballs.
 
-## [68. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
+## [67. Awesome Internships](/content/lodthe/awesome-internships/week/README.md)
 
 ### Feedback on your CV
 
 *   [TopCV](https://www.topcv.com) - Get detailed feedback from experts.
 
-## [69. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [68. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Code Pipeline
 

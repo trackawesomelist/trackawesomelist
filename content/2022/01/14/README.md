@@ -1,12 +1,22 @@
 # Awesome List Updates on Jan 14, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Audio to keyframe string](https://audio-keyframe-generator.glitch.me/): this tool is used to generate strings for the keyframes of AI animation notebooks, such as [this VQGAN+CLIP Animations notebook](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb), using the volume of audio tracks.
+
+### Notes, ideas for projects / OpenAI GPT-3
+
+*   Interfaces for editing parameters that can be exported as string. This string is the input for a notebook or model. "Copy string", "Paste string", "Export file", "Import file".
+
+## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Algorithms and data structures
 
@@ -201,31 +211,31 @@
 *   [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR (⭐41k)](https://github.com/tldr-pages/tldr) client.
 *   [kubkon/zig-ios-example (⭐78)](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
 *   [zellij (⭐8.5k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
 
-## [3. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
+## [4. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Examples
 
 *   [Ping CRM / Flask (⭐3)](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
 
-## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Network architecture
 
 *   [Network-segmentation-cheat-sheet (⭐2k)](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
 
-## [5. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Multi-purpose toolkits
 
 *   [DifferentialEquations.jl](https://diffeq.sciml.ai/) - Toolbox for solving different types of differential equations numerically. (Julia, MIT, [GitHub (⭐2.4k)](https://github.com/SciML/DifferentialEquations.jl))
 
-## [6. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -235,37 +245,37 @@
 
 *   [Awesome Alternative Frontends (⭐1k)](https://github.com/digitalblossom/alternative-frontends) - A list of alternative privacy-respecting frontends for popular services.
 
-## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Articles and Presentations / Hardware Offload
 
 *   [OpenCSD eBPF SSD offloading (⭐27)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [PageShare.dev](https://www.pageshare.dev) - Adds visual reviews capabilities into GitHub Pull Requests with no need to deploy websites. Free for up to 10 pages each month and 100MB of storage in total.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-babel (⭐14)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 
-## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Modules / Godot 4.0
 
 *   [FMOD GD4 (⭐8)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
 
-## [11. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [12. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / YouTube
 
 *   [pipe-viewer (⭐224)](https://github.com/trizen/pipe-viewer): A lightweight application (fork of straw-viewer) for searching and playing videos from YouTube.
 
-## [12. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [13. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Nodes / Analysis
 
@@ -432,13 +442,13 @@
 *   [uibuilder (⭐324)](https://github.com/TotallyInformation/node-red-contrib-uibuilder) - Create dynamic web interfaces using any (or no) front end libraries for convenience.
 *   [web-worldmap (⭐83)](https://github.com/dceejay/RedMap) - Provide a world map web page for plotting "things" on.
 
-## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
 *   [ocelotgui (⭐53)](https://github.com/ocelot-inc/ocelotgui) - For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 03, 2020
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -88,14 +88,13 @@
 
 *   [@kouts/vue-modal (⭐94)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
 
-## [7. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [7. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
-### Serverless / Other Tools
+### Serverless / Testing
 
 *   [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
-*   [Chalice (⭐9.3k)](https://github.com/aws/chalice)
-*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐121)](https://github.com/iwpnd/fastapi-aws-lambda-example))
-*   [Google Cloud Functions](https://cloud.google.com/functions/)
+
+## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### PaaS / Other Tools
 
@@ -109,25 +108,31 @@
 *   [Digital Ocean](https://www.digitalocean.com/)
 *   [Linode](https://www.linode.com/)
 
+### Serverless / Other Tools
+
+*   [Chalice (⭐9.3k)](https://github.com/aws/chalice)
+*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐121)](https://github.com/iwpnd/fastapi-aws-lambda-example))
+*   [Google Cloud Functions](https://cloud.google.com/functions/)
+
 ### Open Source Projects / Other Tools
 
 *   FastAPI CRUD Example:
     *   [Async flavor (⭐278)](https://github.com/testdrivenio/fastapi-crud-async)
     *   [Sync Flavor (⭐56)](https://github.com/testdrivenio/fastapi-crud-sync)
 
-## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
 *   [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
 
-## [9. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
+## [10. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
 ### Media
 
 *   [Screenshot Plugin ★21 (⭐33)](https://github.com/wilsonvargas/ScreenshotPlugin) - A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps.
 
-## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### News / Webpage Monitor Services with capability of moniting RSS Feed   [1264](https://t.me/s/aboutrss/1264)
 

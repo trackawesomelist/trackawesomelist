@@ -54,11 +54,11 @@
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Frameworks / React
+### React
 
 *   [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
 
-### Frameworks / Vue
+### Vue
 
 *   [Integrate Web Components with Your Vue.js App](https://alligator.io/vuejs/vue-integrate-web-components/)
 

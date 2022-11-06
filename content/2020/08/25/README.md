@@ -118,11 +118,11 @@
 
 ## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Real World / Case Studies
+### Case Studies
 
 *   [Web Development At Scale: Composable Applications With Web Components](https://medium.com/@jarrodek/composable-applications-with-web-components-ebe5158387be)
 
-### Real World / Components
+### Components
 
 *   [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 *   [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.

@@ -647,15 +647,15 @@
 
 ## [49. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [Creating a Reusable Avatar Web Component](https://marcoslooten.com/blog/creating-a-reusable-avatar-web-component/)
 
-### Real World / Case Studies
+### Case Studies
 
 *   [Web Development At Scale: Composable Applications With Web Components](https://medium.com/@jarrodek/composable-applications-with-web-components-ebe5158387be)
 
-### Real World / Components
+### Components
 
 *   [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) - API documentation and live playground for Web Components.
 *   [`<chess-board>`](https://github.com/justinfagnani/chessboard-element) - Standalone chess board web component.
@@ -674,15 +674,15 @@
 *   [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
 *   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐5.4k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
 
-### Real World / Component Libraries
+### Component Libraries
 
 *   [Warp View (⭐6)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
 
-### Real World / Design Systems
+### Design Systems
 
 *   [Lyne Components (⭐16)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 
-### Libraries / Class Based
+### Class Based
 
 *   [Panel (⭐234)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 

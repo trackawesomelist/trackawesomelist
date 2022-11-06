@@ -75,7 +75,7 @@
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Log Management / Tools and web interfaces
+### Log Management / Single Sign-On (SSO)
 
 *   [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 

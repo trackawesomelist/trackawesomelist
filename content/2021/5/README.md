@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 01 - Feb 07, 2021
 
-70 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1105,6 +1105,10 @@ Language: English \ <br>
 
 ## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
+### Miscellaneous / Lazy Load
+
+*   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
+
 ### Miscellaneous
 
 *   [react-headings (⭐43)](https://github.com/alexnault/react-headings) - Auto-increment your HTML headings (h1, h2, etc.) for improved accessibility and SEO, no matter your component structure, while you keep full control of what's rendered.
@@ -1123,25 +1127,19 @@ Language: English \ <br>
 
 *   [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 
-## [55. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
-
-### No-Code Platforms
-
-*   [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
-
-## [56. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [55. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### CI / Tools & Plugins
 
 *   [JMeter Gradle Plugin (⭐50)](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
 
-## [57. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [56. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Websites
 
 *   [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
 
-## [58. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [57. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
@@ -1151,7 +1149,7 @@ Language: English \ <br>
 
 *   [Athena Spec (⭐2)](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
 
-## [59. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [58. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
@@ -1167,7 +1165,7 @@ Language: English \ <br>
 *   🧩 [Kometa UI Kit](https://kitwind.io/products/kometa/components) - Free multi-purpose UI kit, built with Tailwind CSS.
 *   🧩 [Mamba UI](https://mambaui.com) - Free Tailwind CSS components, sections and templates.
 
-## [60. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Red Team Infrastructure Deployment / Development
 
@@ -1177,7 +1175,7 @@ Language: English \ <br>
 
 *   [Trivy (⭐14k)](https://github.com/aquasecurity/trivy) - A simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for CI.
 
-## [61. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [60. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Construct Libraries / Security
 
@@ -1187,7 +1185,7 @@ Language: English \ <br>
 
 *   [aws-bootstrap-kit (⭐87)](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
 
-## [62. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [61. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -1205,13 +1203,13 @@ Language: English \ <br>
 
 *   [MindBell](https://dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/udamken/mindbell) - Mindfulness bell and meditation timer for Android.
 
-## [63. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [62. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Examples / Hardware Offload
 
 *   [ebpf-kill-example (⭐15)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 
-## [64. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [63. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
@@ -1221,7 +1219,7 @@ Language: English \ <br>
 
 *   [Symfony 5: The Fast Track](https://symfony.com/book) - Book written by Symfony's creator, free online.
 
-## [65. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [64. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 
@@ -1229,7 +1227,7 @@ Language: English \ <br>
 *   [G2 (⭐11k)](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 *   [G2Plot (⭐2.3k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 
-## [66. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [65. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Training
 
@@ -1241,7 +1239,7 @@ Language: English \ <br>
 *   [DevSkim (⭐748)](https://github.com/microsoft/DevSkim) - *Microsoft* - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
 *   [SonarLint](https://www.sonarlint.org/) - *SonarSource* - An IDE plugin that highlights potential security security issues, code quality issues and bugs.
 
-## [67. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [66. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -1255,19 +1253,19 @@ Language: English \ <br>
 
 *   [vite-svg-loader (⭐255)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
-## [68. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [67. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### App Examples
 
 *   [GutenSearch](https://gutensearch.com/) - Look inside the books of Project Gutenberg. [Source Code. (⭐6)](https://github.com/cordb/gutensearch)
 
-## [69. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
+## [68. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/week/README.md)
 
 ### Build Tools to set up performance budget
 
 *   [Lighthouse](https://web.dev/use-lighthouse-for-performance-budgets/) - How to set up a performance budget using [lighthouse](https://developers.google.com/web/tools/lighthouse) and automate using [Lighthouse bot](https://web.dev/using-lighthouse-bot-to-set-a-performance-budget/).
 
-## [70. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [69. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 

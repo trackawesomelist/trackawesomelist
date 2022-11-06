@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 13, 2022
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -158,13 +158,20 @@
 
 *   [inject-react-anywhere (⭐19)](https://github.com/OlegWock/inject-react-anywhere) - Inject React components into 3rd party sites with convenient API and styles isolation.
 
-## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
+*   [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models
+
+## [12. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Web framework
 
 *   [fast (⭐62)](https://github.com/danteissaias/fast) - Small web framework with near-native performance.
 
-## [12. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [13. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Container Composition
 
@@ -222,7 +229,6 @@
 *   [Dozzle (⭐1.8k)](https://github.com/amir20/dozzle) - Monitor container logs in real-time with a browser or mobile device. [@amir20](https://github.com/amir20)
 *   [Dynatrace](https://www.dynatrace.com/solutions/container-monitoring/) :heavy\_dollar\_sign: - Monitor containerized applications without installing agents or modifying your Run commands
 *   [Glances (⭐22k)](https://github.com/nicolargo/glances) - A cross-platform curses-based system monitoring tool written in Python by [@nicolargo](https://github.com/nicolargo)
-*   [Grafana Docker Dashboard Template](https://grafana.com/grafana/dashboards/179) - A template for your Docker, Grafana and Prometheus stack [@vegasbrianc](https://github.com/vegasbrianc)
 *   [InfluxDB, cAdvisor, Grafana (⭐459)](https://github.com/vegasbrianc/docker-monitoring) - InfluxDB Time series DB in combination with Grafana and cAdvisor by [@vegasbrianc](https://github.com/vegasbrianc)
 *   [LogJam (⭐134)](https://github.com/gocardless/logjam) - Logjam is a log forwarder designed to listen on a local port, receive log entries over UDP, and forward these messages on to a log collection server (such as logstash) by [@gocardless](https://github.com/gocardless)
 *   [Logspout (⭐4.5k)](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs by [@gliderlabs](https://github.com/gliderlabs)
@@ -385,18 +391,18 @@
 *   [dcinja (⭐3)](https://github.com/Falldog/dcinja) - The powerful and smallest binary size of template engine for docker command line environment. By [@Falldog](https://github.com/Falldog)
 *   [docker-ls (⭐442)](https://github.com/mayflower/docker-ls) - CLI tools for browsing and manipulating docker registries by [@mayflower](https://github.com/mayflower)
 *   [docker pushrm (⭐96)](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor. By [@christian-korneck](https://github.com/christian-korneck)
-*   [dockersql (⭐118)](https://github.com/crosbymichael/dockersql) - A command line interface to query Docker using SQL by [@crosbymichael](https://github.com/crosbymichael)
+*   [dockersql (⭐118)](https://github.com/crosbymichael/dockersql) - :skull: A command line interface to query Docker using SQL by [@crosbymichael](https://github.com/crosbymichael)
 *   [DVM (⭐516)](https://github.com/howtowhale/dvm) - Docker version manager by [@howtowhale](https://github.com/howtowhale)
 *   [goinside (⭐19)](https://github.com/iamsoorena/goinside) - Get inside a running docker container easily. by [@iamsoorena](https://github.com/iamsoorena)
 *   [ns-enter (⭐2.6k)](https://github.com/jpetazzo/nsenter) - :skull: no more ssh, enter name spaces of container by [@jpetazzo](https://github.com/jpetazzo)
 *   [Pdocker (⭐5)](https://github.com/g31s/Pdocker) - A simple tool to manage and maintain Docker for personal projects by [@g31s](https://github.com/veggiemonk/awesome-docker/blob/master/README.md/g31s)
 *   [proco (⭐87)](https://github.com/shiwaforce/poco) - Proco will help you to organise and manage Docker, Docker-Compose, Kubernetes projects of any complexity using simple YAML config files to shorten the route from finding your project to initialising it in your local environment. by [@shiwaforce](https://github.com/shiwaforce)
-*   [reg (⭐1.6k)](https://github.com/genuinetools/reg) - Docker registry v2 command line client by [@genuinetools](https://github.com/genuinetools)
+*   [reg (⭐1.6k)](https://github.com/genuinetools/reg) - :skull: Docker registry v2 command line client by [@genuinetools](https://github.com/genuinetools)
 *   [scuba (⭐69)](https://github.com/JonathonReinhart/scuba) - Transparently use Docker containers to encapsulate software build environments, by [@JonathonReinhart](https://github.com/JonathonReinhart)
 *   [skopeo (⭐5.3k)](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content by [@containers](https://github.com/containers)
 *   [supdock (⭐46)](https://github.com/segersniels/supdock) - Allows for slightly more visual usage of Docker with an interactive prompt. By [@segersniels](https://github.com/segersniels)
 *   [tsaotun (⭐51)](https://github.com/qazbnm456/tsaotun) - Python based Assistance for Docker by [@qazbnm456](https://github.com/qazbnm456)
-*   [wharfee (⭐653)](https://github.com/j-bennet/wharfee) - Autocompletion and syntax highlighting for Docker commands. by [@j-bennet](https://github.com/j-bennet)
+*   [wharfee (⭐653)](https://github.com/j-bennet/wharfee) - :skull: Autocompletion and syntax highlighting for Docker commands. by [@j-bennet](https://github.com/j-bennet)
 
 ### Terminal / Other
 
@@ -474,7 +480,6 @@
 *   [img (⭐3.7k)](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder by [@genuinetools](https://github.com/genuinetools)
 *   [kaniko (⭐11k)](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes. By [@GoogleContainerTools](https://github.com/GoogleContainerTools)
 *   [makisu (⭐2.4k)](https://github.com/uber/makisu) - Uber's fast and flexible unprivileged image builder for Mesos and Kubernetes, with distributed cache support. By [@uber](https://github.com/uber)
-*   [packer](https://www.packer.io/plugins/builders/docker) - Hashicorp tool to build machine images including docker image integrated with configuration management tools like chef, puppet, ansible
 *   [portainer (⭐132)](https://github.com/duedil-ltd/portainer) - Apache Mesos framework for building Docker images by [@duedil-ltd](https://github.com/duedil-ltd)
 *   [Production-Ready Python Containers :heavy\_dollar\_sign:](https://pythonspeed.com/products/pythoncontainer/) - A template for creating production-ready Docker images for Python applications.
 *   [RAUDI (⭐530)](https://github.com/cybersecsi/RAUDI) - A tool to automatically update (and optionally push to Docker Hub) Docker Images for 3rd party software whenever theres is a new release/update/commit. By [@SecSI](https://github.com/cybersecsi)
@@ -520,7 +525,6 @@
 ### Registry / Other
 
 *   [Amazon Elastic Container Registry :heavy\_dollar\_sign:](https://aws.amazon.com/ecr/) - Amazon Elastic Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images.
-*   [Azure Container Registry :heavy\_dollar\_sign:](https://azure.microsoft.com/en-us/services/container-registry/#overview) - Manage a Docker private registry as a first-class Azure resource
 *   [CargoOS (⭐8)](https://github.com/RedCoolBeans/cargos-buildroot) - A bare essential OS for running the Docker Engine on bare metal or Cloud. By [@RedCoolBeans](https://github.com/RedCoolBeans)
 *   [cleanreg (⭐53)](https://github.com/hcguersoy/cleanreg) - A small tool to delete image manifests from a Docker Registry implementing the API v2, dereferencing them for the GC by [@hcguersoy](https://github.com/hcguersoy)
 *   [Cloudsmith :heavy\_dollar\_sign:](https://cloudsmith.com/docker-registry/) - A fully managed package management SaaS, with first-class support for public and private Docker registries (and many others, incl. Helm charts for the Kubernetes ecosystem). Has a generous free-tier and is also completely free for open-source.
@@ -666,7 +670,6 @@
 *   [Terraform cloud-init config (⭐73)](https://github.com/christippett/terraform-cloudinit-container-server) - Terraform module for deploying a single Docker image or `docker-compose.yaml` file to any Cloud™ VM
 *   [Turbo (⭐26)](https://github.com/ramitsurana/turbo) - Simple and Powerful utility for docker. By [@ramitsurana](https://github.com/ramitsurana)
 *   [udocker (⭐977)](https://github.com/indigo-dc/udocker) - A tool to execute simple docker containers in batch or interactive systems without root privileges by [@inidigo-dc](https://github.com/indigo-dc)
-*   [Vagrant - Docker provider](https://www.vagrantup.com/docs/providers/docker/basics) - Good starting point is [vagrant-docker-example (⭐115)](https://github.com/bubenkoff/vagrant-docker-example) by [@bubenkoff](https://github.com/bubenkoff)
 
 ### CI Services / Other
 
@@ -681,7 +684,6 @@
 
 *   [Amazon ECS](https://aws.amazon.com/ecs/) :heavy\_dollar\_sign: - A management service on EC2 that supports Docker containers.
 *   [Appfleet](https://appfleet.com/) :heavy\_dollar\_sign: - Edge platform to deploy and manage containerized services globally. The system will route the traffic to the closest location for lower latency.
-*   [Azure AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/) :heavy\_dollar\_sign: - Simplify Kubernetes management, deployment, and operations. Use a fully managed Kubernetes container orchestration service.
 *   [Cloud 66](https://www.cloud66.com) :heavy\_dollar\_sign: - Full-stack hosted container management as a service
 *   [Dockhero](https://dockhero.io/) :heavy\_dollar\_sign: - Dockhero is a Heroku add-on which turns a Docker image into a microservice attached to the Heroku app. Currently in beta.
 *   [Giant Swarm](https://www.giantswarm.io/) :heavy\_dollar\_sign: - Simple microservice infrastructure. Deploy your containers in seconds.
@@ -812,7 +814,7 @@
 
 *   [Docker Tips](https://dockertips.com/)
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
@@ -822,7 +824,7 @@
 
 *   [vite-plugin-autogeneration-import-file (⭐2)](https://github.com/yuntian001/vite-plugin-autogeneration-import-file) - Automatically generates import file.
 
-## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -832,7 +834,7 @@
 
 *   [ASP.NET Core updates in .NET 7 Preview 6](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-preview-6/) - July 12, 2022 - .NET 7 Preview 6 is now available and includes many great new improvements to ASP.NET Core. Blazor custom elements no longer experimental, experimental QuickGrid component for Blazor, System.Security.Cryptography support on WebAssembly, empty Blazor project templates and more. For more details on the ASP.NET Core work planned for .NET 7 see the full [ASP.NET Core roadmap for .NET 7](https://aka.ms/aspnet/roadmap) on GitHub.
 
-## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [16. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 

@@ -65,7 +65,7 @@
 
 ## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [Building Web Components with Vanilla JavaScript](https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho)
 *   [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)

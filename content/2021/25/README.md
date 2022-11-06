@@ -110,15 +110,15 @@
 
 ## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Guides / Accessibility
+### Accessibility
 
 *   [Web Components punch list](https://www.tpgi.com/web-components-punch-list/)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [Open Web Components: Codelabs](https://open-wc.org/guides/developing-components/codelabs/)
 
-### Guides / Examples
+### Examples
 
 *   [open-wc code examples](https://open-wc.org/guides/developing-components/code-examples/) - Collection of best practices and design patterns for developing web components.
 

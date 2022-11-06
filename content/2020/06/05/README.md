@@ -222,7 +222,7 @@
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Frameworks / Svelte
+### Svelte
 
 *   [Svelte Custom Element API](https://svelte.dev/docs#Custom_element_API)
 

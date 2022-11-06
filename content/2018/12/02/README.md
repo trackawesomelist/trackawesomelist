@@ -21,9 +21,8 @@
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Libraries / Class Based
+### Class Based
 
-*   [Skate (⭐3.3k)](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 *   [slim.js (⭐923)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)

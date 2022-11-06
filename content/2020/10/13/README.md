@@ -49,7 +49,7 @@
 
 ## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Ecosystem / Tools
+### Tools
 
 *   [webcomponents.dev](https://webcomponents.dev) - Component IDE for web platform developers.
 

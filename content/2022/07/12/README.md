@@ -97,7 +97,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ## [14. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Scrutiny (⭐1.7k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 

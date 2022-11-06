@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -95,14 +95,20 @@
 
 *   [List (⭐1.6k)](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. Designed to [seamlessly integrate with Ramda (⭐1.6k)](https://github.com/funkia/list#seamless-ramda-integration).
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Artificial Intelligence
+
+*   [Graph Representational Learning Book](https://www.cs.mcgill.ca/\~wlh/grl_book/) - William L. Hamilton (HTML, PDF)
+
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   GameMaker
     *   [OpenGMK (⭐133)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
-## [13. GoBooks](/content/dariubs/GoBooks/README.md)
+## [14. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Advanced Books** / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
 

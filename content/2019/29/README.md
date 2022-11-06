@@ -423,7 +423,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ## [19. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Ecosystem / Tools
+### Tools
 
 *   [web-component-analyzer (⭐402)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 

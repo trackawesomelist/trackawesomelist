@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 18, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,14 +24,7 @@
 
 *   [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451) Alex Tellez, Max Pumperla, Michal Malohlava. (2017)
 
-## [4. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/README.md)
-
-### 1 - Agnósticos / Algoritmos y Estructuras de Datos
-
-*   [Fundamentos de programación](https://es.wikibooks.org/wiki/Fundamentos_de_programaci%C3%B3n) - WikiLibros
-*   [Introducción a la programación](https://es.wikibooks.org/wiki/Introducci%C3%B3n_a_la_Programaci%C3%B3n) - WikiLibros
-
-## [5. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [4. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -45,25 +38,25 @@
 
 
 
-## [6. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
+## [5. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
 ### Brands
 
 *   [Vantastic Foods](https://www.vantastic-foods.com/) - Massive selection of plant-based products, including their own brand with different types of delicious sausages, slices, and more.
 
-## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Media / Video
 
 *   [CamerAwesome (⭐404)](https://github.com/Apparence-io/camera_awesome) <!--stargazers:Apparence-io/camera_awesome--> - Community camera plugin rework by [Apparence.io studio](https://apparence.io)
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Configuration
 
 *   [Envy (⭐5)](https://github.com/grottopress/envy) - Load environment variables from YAML
 
-## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -92,7 +85,7 @@
 
 *   [中文独立博客全订阅计划](https://box.othing.xyz/) <sup>[834](https://t.me/s/aboutrss/834)</sup>
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Games & Comics
 
@@ -108,13 +101,13 @@
 
 
 
-## [11. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
+## [10. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
 ### Books
 
 *   [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.oreilly.com/library/view/sdn-software-defined/9781449342425/)
 
-## [12. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [11. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### NMOS
 
@@ -123,7 +116,7 @@
 *   [nmos-cpp (⭐88)](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
 *   [nmos-js (⭐23)](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
@@ -133,7 +126,7 @@
 
 *   [vue3-tabs (⭐28)](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 
-## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [13. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 

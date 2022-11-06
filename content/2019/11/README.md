@@ -36,7 +36,7 @@
 
 ## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Real World / Case Studies
+### Case Studies
 
 *   [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 

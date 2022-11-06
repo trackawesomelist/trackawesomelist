@@ -611,28 +611,27 @@ Language: English
 
 ## [46. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Articles / Limitations
+### Limitations
 
 *   [Beyond the polyfills: how Web Components affect us today?](https://dev.to/webpadawan/beyond-the-polyfills-how-web-components-affect-us-today-3j0a)
 *   [Custom elements, shadow DOM and implicit form submission](https://www.hjorthhansen.dev/shadow-dom-and-forms/)
 *   [Form-associated custom elements](https://www.hjorthhansen.dev/shadow-dom-form-participation/)
 *   [You might not need shadow DOM](https://www.hjorthhansen.dev/you-might-not-need-shadow-dom/)
 
-### Articles / Styling
+### Styling
 
 *   [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 *   [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
-*   [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 *   [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
 *   [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
 
-### Real World / Component Libraries
+### Component Libraries
 
 *   [XWeather (⭐5)](https://github.com/kherrick/x-weather) - Collection of web components implementing portions of the OpenWeatherMap API.
 
-### Real World / Design Systems
+### History / 2017
 
-*   [Clarity Core Web Components (⭐6.5k)](https://github.com/vmware/clarity/tree/master/packages/core) - Suite of web components from the Clarity Design System.
+*   [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 
 ## [47. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
@@ -700,7 +699,7 @@ Language: English
 
 *   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐36k)](https://github.com/minio/minio)) `Apache-2.0` `Go`
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
 

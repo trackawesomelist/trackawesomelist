@@ -51,7 +51,7 @@
 
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
-*   [ENCORE](https://encore.naturalcapital.finance/en)- United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
+*   [ENCORE](https://encore.naturalcapital.finance/en) - United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
 
 ## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
@@ -68,4 +68,5 @@
 
 ---
 
+- Prev: [Nov 04, 2022](/content/2022/11/04/README.md)
 - Next: [Nov 02, 2022](/content/2022/11/02/README.md)

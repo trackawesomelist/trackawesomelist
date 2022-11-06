@@ -324,6 +324,8 @@ Awesome list of resources for Game Engine Development.
         *   🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
         *   🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game development news, tutorials and so much more.
         *   🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
+    *   #### Tutorials
+        *   🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 *   ### Graphical User Interface
     *   📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - GUI frameworks across all platforms and languages.
 *   ### Programming
@@ -389,6 +391,7 @@ Awesome list of resources for Game Engine Development.
         *   📚 [Awesome Graphics Libraries (⭐215)](https://github.com/jslee02/awesome-graphics-libraries#readme) - Awesome curated list of 3D graphics libraries and resources.
     *   #### Blog Articles
         *   📚 [Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - Modern graphics APIs vs older APIs.
+        *   📚 [GPU Performance for Game Artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/) - Common art-related performance issues.
     *   #### Books
         *   📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
         *   📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
@@ -396,6 +399,7 @@ Awesome list of resources for Game Engine Development.
         *   📚 [Interactive Computer Graphics](https://www.cs.unm.edu/\~angel/) - A top down approach to computer graphics.
         *   📚 [Physically Based Rendering](https://www.pbrt.org) - The Academy Award winning authority on PBR.
     *   #### Education Portals
+        *   📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
         *   📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
         *   📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of many computer graphics topics.
     *   #### Graphics API: DirectX
@@ -570,6 +574,7 @@ Awesome list of resources for Game Engine Development.
         *   🎉 [Lumos (⭐764)](https://github.com/jmorton06/Lumos) - Cross-platform 2D and 3D Game Engine, supports both OpenGL and Vulkan.
         *   🎉 [Lumix Engine (⭐2.9k)](https://github.com/nem0/LumixEngine) - Yet another C++ open source 3D game engine with an Dear ImGui based editor.
         *   🔒 [neoGFX](https://neogfx.org) [:octocat: (⭐464)](https://github.com/i42output/neogfx) - Cross-platform GPU-oriented C++ application / game framework.
+        *   🎉 [ÖbEngine (⭐653)](https://github.com/ObEngine/ObEngine) - 2D Engine with Lua Scripting built on SFML.
         *   🎉 [Overload](http://overloadengine.org/) [:octocat: (⭐945)](https://github.com/adriengivry/Overload) - Highly documented 3D game engine, inspired by industry standards.
         *   🎉 [Polycode](http://polycode.org/features/) [:octocat: (⭐2.4k)](https://github.com/ivansafrin/Polycode) - Cross-platform framework for creative code. Nice editor.
         *   🎉 [Razix Engine (⭐144)](https://github.com/Pikachuxxxx/Razix) - High performance research engine for production pipeline.

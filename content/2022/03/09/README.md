@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -49,26 +49,33 @@
 
 *   🧬 [FormKit (⭐2k)](https://github.com/formkit/formkit/tree/master/packages/tailwindcss) - Adds variants for input and form states for FormKit.
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Riku.AI | The vault for your A.I. creations](https://riku.ai/)
+*   [First look - Riku.ai - inference platform Mar/2022 - J1, GPT-3, Fairseq-13B, GPT-NeoX-20B, Cohere-XL - YouTube](https://www.youtube.com/watch?v=t6FESjmPeJ8)
+
+## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Image / Image Picker
 
 *   [Advance Image Picker](https://pub.dev/packages/advance_image_picker) - Select and edit images from Android/iOS library and capture camera shots from within the same view by [WetaVN](https://github.com/weta-vn)
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Web frameworks / Isomorphic web frameworks
 
 *   [Weblocks (⭐18)](https://github.com/40ants/reblocks) - A widgets-based framework with a built-in ajax update mechanism that "solves the JavaScript problem". [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [8. Nginx Resources](/content/fcambus/nginx-resources/README.md)
+## [9. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
 ### Configuration
 
 *   [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
 *   [Gixy - Nginx configuration static analyzer (⭐7.5k)](https://github.com/yandex/gixy)
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -78,25 +85,25 @@
 
 *   [vite-plugin-live-reload (⭐44)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-preview-imgs (⭐2)](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
 
-## [11. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Mario Kart
 
 *   [SuperTuxKart](https://supertuxkart.net/Main_Page) - A 3D open-source arcade racer with a variety characters, tracks, and modes to play.
 
-## [12. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [13. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Libraries
 
 *   [TorchXRayVision (⭐537)](https://github.com/mlmed/torchxrayvision) - A library for chest X-ray datasets and models. Including pre-trained models.
 
-## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [14. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Homebrews / Syntax highlighting packages
 

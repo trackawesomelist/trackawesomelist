@@ -405,7 +405,7 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ## [31. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Libraries / Functional
+### Functional
 
 *   [hybrids (⭐2.7k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 

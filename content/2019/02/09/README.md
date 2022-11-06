@@ -8,7 +8,7 @@
 
 ## [1. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Tutorials / Tools
+### Tutorials
 
 *   "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
     *   [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)

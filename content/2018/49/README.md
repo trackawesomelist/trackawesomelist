@@ -450,11 +450,11 @@
 
 ## [29. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Frameworks / Angular
+### Angular
 
 *   [Angular Elements Overview](https://angular.io/guide/elements)
 
-### Frameworks / Vue
+### Vue
 
 *   [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 

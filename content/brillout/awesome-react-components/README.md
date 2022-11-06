@@ -10,7 +10,7 @@ Curated List of React Components & Libraries.
 
 ### Tree
 
-*   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/)
+*   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
 
 ## [Oct 09, 2022](/content/2022/10/09/README.md)
 

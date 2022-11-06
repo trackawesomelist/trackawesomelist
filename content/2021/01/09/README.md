@@ -78,11 +78,11 @@
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Standards / Custom Elements
+### Custom Elements
 
 *   [Handy Custom Elements' Patterns](https://gist.github.com/WebReflection/ec9f6687842aa385477c4afca625bbf4)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path)
 

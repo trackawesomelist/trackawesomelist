@@ -53,7 +53,7 @@
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Tutorials / Tools
+### Tutorials
 
 *   **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
     *   [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)

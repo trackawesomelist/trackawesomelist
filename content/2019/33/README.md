@@ -129,7 +129,7 @@
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Articles / Interoperability
+### Interoperability
 
 *   [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
 *   [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)

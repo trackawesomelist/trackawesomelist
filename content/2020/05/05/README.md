@@ -94,25 +94,25 @@
 
 *   [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
-### Standards / Custom Elements
+### Custom Elements
 
 *   [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 
-### Standards / Shadow DOM
+### Shadow DOM
 
 *   [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 
-### Standards / HTML Templates
+### HTML Templates
 
 *   [MDN - \<template>: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 *   [MDN - Using templates and slots](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
-### Standards / CSS Shadow Parts
+### CSS Shadow Parts
 
 *   [MDN - `::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
 *   [MDN - `part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [Build a Story Web Component with LitElement](https://dev.to/straversi/build-a-story-web-component-with-litelement-e59)
 

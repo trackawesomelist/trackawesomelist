@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 10 - Feb 16, 2020
 
-70 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -530,23 +530,15 @@
 
 ## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
+### Web / Playground
+
+*   :octocat: [Dnote (⭐2.4k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
+
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
 *   [Typescript tooling for Neovim (⭐624)](https://github.com/mhartington/nvim-typescript) is a language service plugin for typescript for Neovim.
 
-## [52. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
-
-### ReactJS
-
-- Name: [Dnote (⭐2.4k)](https://github.com/dnote/dnote)
-
-  Description: A simple command line notebook with a web interface
-
-  Link: <https://www.getdnote.com>
-
-
-
-## [53. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [52. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -598,19 +590,19 @@
 *   `GPL-2.0-or-later` - [GNU General Public License v2.0 or later](https://spdx.org/licenses/GPL-2.0-or-later.html)
 *   `GPL-3.0-only` - [GNU General Public License v3.0 only](https://spdx.org/licenses/GPL-3.0-only.html)
 
-## [54. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [53. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Third Party APIs
 
 *   [Square (⭐115)](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
 
-## [55. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [54. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
 *   [IntelliJ IDEA (⭐118)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
 
-## [56. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [55. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Data Management
 
@@ -626,7 +618,7 @@
 
 *   [Data Scientists in Software Teams: State of the Art and Challenges](http://web.cs.ucla.edu/\~miryung/Publications/tse2017-datascientists.pdf) 🎓
 
-## [57. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [56. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -655,7 +647,7 @@
 
 *   [tracer (⭐46)](https://github.com/TeMPOraL/tracer) - tracing profiler for Common Lisp, with output suitable for display in Chrome’s/Chromium’s Tracing Viewer. [MIT](https://opensource.org/licenses/MIT).
 
-## [58. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [57. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### How to use
 
@@ -718,7 +710,7 @@
 *   [YouTube Link Title](https://greasyfork.org/scripts/390656-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
 *   [YouTube Plus](https://greasyfork.org/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
 
-## [59. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [58. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulators / Experimental/Proof of Concepts
 
@@ -729,7 +721,7 @@
 *   [Programming Game Boy Chinese cartridges with an STM32F4](https://dhole.github.io/post/gameboy_cartridge_rw_1/)
 *   [Dumping the Super Game Boy Boot ROM](http://www.its.caltech.edu/\~costis/sgb_hack/)
 
-## [60. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [59. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
@@ -739,25 +731,25 @@
 
 *   [Krisp](https://krisp.ai/) - An AI-powered noise cancelling app that mutes background noise during calls.
 
-## [61. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [60. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
 *   [The Code Book](https://simonsingh.net/books/the-code-book/) - This book is a digest of the history of cryptography, covering both ancient times, and newer cryptography methods. There are exercises at the end and the solution of those was rewarded with $10.000.
 
-## [62. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [61. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Documentation
 
 *   [Documentation (⭐215)](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
 
-## [63. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [62. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Java by Comparison Kata](https://java.by-comparison.com/kata)
 
-## [64. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [63. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Objective-C
 
@@ -771,13 +763,13 @@
 
 *   [*Build iOS Database Apps with Swift and SQLite* by Kevin Languedoc](https://www.amazon.com/Build-Database-Apps-Swift-SQLite-ebook/dp/B01MRKN6H6)
 
-## [65. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [64. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Authentication and Authorization
 
 *   :strawberry: [TwoFactorAuth plugin (⭐34)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐886)](https://github.com/RobThree/TwoFactorAuth) library.
 
-## [66. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [65. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -813,7 +805,7 @@
 *   [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 *   [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
 
-## [67. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [66. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
@@ -824,7 +816,7 @@
 *   [Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline](https://jakobzanker.de/blog/automated-screenshot-comparison-test-with-headless-chrome-in-bitbucket-pipeline/)
 *   [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
 
-## [68. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [67. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
@@ -835,7 +827,7 @@
 *   [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3) - Exploring and designing a platform in the renewable energy context. Oct 28, 2019.
 *   [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa) - Why is a Platforms' Wardley (Value Chain) Map Z-Shaped? Oct 11, 2018.
 
-## [69. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [68. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -866,7 +858,7 @@
 
 *   [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
 
-## [70. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [69. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Ambiq Micro
 

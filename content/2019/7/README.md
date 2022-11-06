@@ -181,7 +181,7 @@
 
 ## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐128)](https://github.com/netxms/netxms))
 

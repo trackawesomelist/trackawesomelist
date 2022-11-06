@@ -184,19 +184,19 @@
 
 ## [15. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Standards / CSS Shadow Parts
+### CSS Shadow Parts
 
 *   [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [How to use D3js with WebComponents](https://towardsdatascience.com/how-to-use-d3js-with-webcomponents-a75ae4f980de)
 
-## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
-### Boilerplates
+### Typescript Project Starters
 
-*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack  boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack boilerplate (hackathon starter) with: PostgreSQL, Knex.js, NestJS, Next.js, GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ---
 

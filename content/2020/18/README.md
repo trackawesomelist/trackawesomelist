@@ -1,6 +1,6 @@
 # Awesome List Updates on May 04 - May 10, 2020
 
-70 awesome lists updated this week.
+71 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -70,14 +70,13 @@
 *   [GracefulSecurity - Hardware tag](https://gracefulsecurity.com/category/hardware/)
 *   [Black Hills - Hardware Hacking tag](https://www.blackhillsinfosec.com/tag/hardware-hacking/)
 
-## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [4. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
-### Serverless / Other Tools
+### Serverless / Testing
 
 *   [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
-*   [Chalice (⭐9.3k)](https://github.com/aws/chalice)
-*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐121)](https://github.com/iwpnd/fastapi-aws-lambda-example))
-*   [Google Cloud Functions](https://cloud.google.com/functions/)
+
+## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### PaaS / Other Tools
 
@@ -91,13 +90,19 @@
 *   [Digital Ocean](https://www.digitalocean.com/)
 *   [Linode](https://www.linode.com/)
 
+### Serverless / Other Tools
+
+*   [Chalice (⭐9.3k)](https://github.com/aws/chalice)
+*   [AWS Lambda](https://aws.amazon.com/lambda/) ([tutorial](https://iwpnd.pw/articles/2020-01/deploy-fastapi-to-aws-lambda), [code (⭐121)](https://github.com/iwpnd/fastapi-aws-lambda-example))
+*   [Google Cloud Functions](https://cloud.google.com/functions/)
+
 ### Open Source Projects / Other Tools
 
 *   FastAPI CRUD Example:
     *   [Async flavor (⭐278)](https://github.com/testdrivenio/fastapi-crud-async)
     *   [Sync Flavor (⭐56)](https://github.com/testdrivenio/fastapi-crud-sync)
 
-## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Download Managers / Free Indexers
 
@@ -111,37 +116,37 @@
 
 *   [animepahe](https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 
-## [6. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [7. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Hellonext
 
 *   [On narratives](https://ceklog.kindel.com/?s=narratives) - By [Charlie Kindel](https://twitter.com/ckindel).
 
-## [7. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [8. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
 *   [dev\_server (⭐22)](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 
-## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Development Tools
 
 *   [Blueqat (⭐355)](https://github.com/Blueqat/Blueqat) - Software development kit in Python for quantum gate computing.
 
-## [9. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [10. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
 *   [Designing a Dark Theme for OLED iPhones](https://medium.com/lookup-design/designing-a-dark-theme-for-oled-iphones-e13cdfea7ffe) - On issues with dark themes on OLED displays and what to do with them.
 
-## [10. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### 🇺🇿 Uzbekistan / Misc
 
 *   [Telegram](https://t.me/dartdevuz)
 
-## [11. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
+## [12. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
 ### News 📰 / Articles
 
@@ -154,7 +159,7 @@
 *   [Impact Boom](https://twitter.com/ImpactBoomOrg)
 *   [Acumen](https://twitter.com/Acumen)
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
@@ -164,7 +169,7 @@
 
 *   [Share (⭐100)](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more. `MIT` `Nodejs`
 
-## [13. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
@@ -175,7 +180,7 @@
 *   [Social Media Icons Pack](https://www.fontfabric.com/fonts/social-media-icons-pack/) - Socialico is a package of 74 social media icons, combined within a single weight font.
 *   [Stackicons](http://stackicons.com/) - Over 60 icons for old social brands (last commit in [2014 (⭐973)](https://github.com/parkerbennett/stackicons), with multi-color option.
 
-## [14. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [15. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Map
 
@@ -185,19 +190,19 @@
 
 *   [matrix-card (⭐18)](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 
-## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
 *   [ParityDB (⭐159)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
 
-## [16. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [17. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### VSCode Extensions / Other / unknown licence
 
 *   [ada-utilities (⭐0)](https://github.com/Lucretia/ada-utilities) - VSCode extension Ada programmers which provides a few utility functions.
 
-## [17. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [18. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Platforms
 
@@ -213,25 +218,25 @@
 *   [echoCTF.RED](https://echoctf.red/) - Online CTF with a variety of targets to attack.
 *   [Hacker101](https://www.hacker101.com/) - CTF from HackerOne
 
-## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [19. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Science and Data analysis
 
 *   [quartz (⭐15)](https://github.com/RomainFranceschini/quartz) - Modeling and simulation framework
 
-## [19. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [20. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [iooxa (⭐131)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 
-## [20. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [21. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Producers / Swift
 
 *   [TAP (⭐21)](https://github.com/swiftdocorg/tap) - A Swift package for the Test Anything Protocol (v13).
 
-## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [22. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Migration tools
 
@@ -243,19 +248,19 @@
 *   [cl-rest-server (⭐56)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
 *   [cl-odata-client (⭐5)](https://github.com/copyleft/cl-odata-client) - Common Lisp client library for accessing [OData services](https://www.odata.org). [MIT](https://opensource.org/licenses/MIT).
 
-## [22. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [23. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Books / Other
 
 *   [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering) - A book on how to design and execute controlled software failure experiments.
 
-## [23. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [24. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Pull Dog](https://github.com/apps/pull-dog) - Automatic test environments for your pull requests.
 
-## [24. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [25. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Helix
 
@@ -269,39 +274,39 @@
 
 *   [XConnectHelper (⭐22)](https://github.com/lowedown/xConnectHelper) - A Swiss Army Knife for debugging xConnect. Features: Insight into current tracking session data; Show goals and events that were triggered on last page view; Status checker that validates your xConnect setup (connections, certificates, settings); Set identifiers and basic contact data in the current session; Flush current session for immediate processing.
 
-## [25. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [26. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Keycloak Authentication and Authorization in GraphQL](https://medium.com/@darahayes/keycloak-authentication-and-authorization-in-graphql-ad0a1685f7da)
 
-## [26. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [27. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Development
 
 *   [Skeema](https://www.skeema.io) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
 
-## [27. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [28. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
 *   [xclip-xsel-WSL (⭐47)](https://github.com/Konfekt/xclip-xsel-WSL) -  Make `xclip` and `xsel` in `WSL` read and write on the Windows instead of the Linux clipboard.
     . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [28. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
+## [29. Awesome Cytodata](/content/cytodata/awesome-cytodata/week/README.md)
 
 ### Datasets / Raw Images
 
 *   [RxRx1](https://www.rxrx.ai/rxrx1) - RxRx1 is a set of 125,514 high-resolution 512x512 6-channel fluorescence microscopy images of human cells under 1,108 genetic perturbations in 51 experimental batches across four cell types.  The images were produced by Recursion Pharmaceuticals in their labs in Salt Lake City, Utah.  Researchers will use this dataset for studying and benchmarking methods for dealing with biological batch effects, as well as areas in machine learning such as domain adaptation, transfer learning, and k-shot learning.
 *   [RxRx19](https://www.rxrx.ai/rxrx19) - RxRx19 is the first morphological dataset that demonstrates the rescue of morphological effects of COVID-19.
 
-## [29. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [30. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Data Pipeline
 
 *   [Gazette (⭐451)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
-## [30. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [31. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Examples / Other editors
 
@@ -329,7 +334,7 @@
 *   [Elm Narrative Engine (⭐127)](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
 *   [Ari's Garden (⭐53)](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
 
-## [31. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [32. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Media
 
@@ -341,7 +346,7 @@
 *   [PancakeView ★454 (⭐850)](https://github.com/sthewissen/Xamarin.Forms.PancakeView) - An extended ContentView for Xamarin.Forms with rounded corners, borders, shadows, gradients and more.
 *   [SharedTransitions ★223 (⭐420)](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions) - Shared element transitions between pages in Xamarin.Forms (IOS/Android).
 
-## [32. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [33. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / WIP
 
@@ -357,7 +362,7 @@
 
 *   [debouncr](https://crates.io/crates/debouncr): A simple no-std input debouncer to detect rising/falling edges with minimal RAM requirements. ![crates.io](https://img.shields.io/crates/v/debouncr.svg)
 
-## [33. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [34. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Parsers :mag: / Editor's Draft :black_nib:
 
@@ -478,7 +483,7 @@
 *   [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) - Simple tutorial to learn CSS Grid from Mozilla.
 *   [CSS Grids videos tutorial](https://cssgrid.io/) - Free video course by Wes Bos to learn CSS Grids.
 
-## [34. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [35. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Engineering to Management Transition
 
@@ -704,37 +709,37 @@
 *   “Next time your favorite manager and tech lead quit the company, ask them why.” ([source](https://news.ycombinator.com/item?id=21767843)).
 *   “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
 
-## [35. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [36. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Miscellaneous
 
 *   [pokesprite (⭐719)](https://github.com/msikma/pokesprite) - Database of Pokémon sprites from the core series games, including custom shiny versions.
 
-## [36. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [37. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Trust & Safety / Captcha
 
 *   [Anti-captcha](https://anti-captcha.com) - Captchas solving service.
 
-## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [38. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Libraries and Frameworks / .NET
 
 *   [Edument CQRS and Intentful BDD Testing Starter Kit](https://www.cqrs.nu/) - Library and tutorial for how to build CQRS/ES applications, including a BDD style testing framework.
 
-## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [39. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Text
 
 *   [CodeMirror Swift (⭐78)](https://github.com/ProxymanApp/CodeMirror-Swift) - A lightweight wrapper of CodeMirror for macOS and iOS. Support Syntax Highlighting & Themes.
 
-## [39. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
+## [40. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/week/README.md)
 
 ### Documentation
 
 *   [Read the Docs](https://readthedocs.com/) - Documentation hosting platform.
 
-## [40. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [41. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Bibliography
 
@@ -752,7 +757,7 @@
 
 *   [Scott Selisker](http://u.arizona.edu/\~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
 
-## [41. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [42. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -779,25 +784,25 @@
 *   [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Methods and Readings in Digital History by Cameron Blevins at Northeastern University.
 *   [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - Overview on the field of Digital History and Digital Humanities.
 
-## [42. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [43. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Libraries
 
 *   [Savory](https://gitlab.com/MAlrusayni/savory) - Library for building user interface based on Seed.
 
-## [43. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [44. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Official
 
 *   [Chatroom](https://discord.gg/VQck8X4) - It is pretty active and is a great place to ask questions.
 
-## [44. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [45. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### Travel
 
 *   [Monthly Airline Delays by Airport, 2003-2016](https://think.cs.vt.edu/corgis/datasets/json/airlines/airlines.json)
 
-## [45. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [46. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Courses
 
@@ -807,13 +812,13 @@
 
 *   [Lightform](https://lightform.com/) - AR projection mapping with built-in depth sensor.
 
-## [46. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [47. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Productivity
 
 *   [Luna (⭐249)](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
 
-## [47. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [48. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -823,7 +828,7 @@
 
 *   [Sh\*\*t! I Smoke ★209 (⭐388)](https://github.com/amaurymartiny/shoot-i-smoke) - Know how many cigarettes you smoke based on the pollution of your location.
 
-## [48. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [49. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Platforms
 
@@ -833,7 +838,7 @@
 
 *   [Jexia FileSet](https://jexia.com) - REST API File manager for your application with indexing and extra functions.
 
-## [49. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [50. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / F companies
 
@@ -843,14 +848,14 @@
 
 *   Swiggy <https://bytes.swiggy.com/>
 
-## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [@kouts/vue-modal (⭐94)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
 *   [vue-dynamic-marquee (⭐115)](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
 
-## [51. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [52. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
@@ -1026,7 +1031,7 @@
 
 *   [播客 × 万花筒](https://pod.wht.one/)
 
-## [52. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [53. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Education
 
@@ -1040,13 +1045,13 @@
 
 *   [Finding a problem at the bottom of the Google stack](https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems)
 
-## [53. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [54. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In French
 
 *   [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) - le podcast qui parle d’AWS en français.
 
-## [54. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [55. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -1103,20 +1108,20 @@
 *   [Cargo cult data science](http://blog.richardweiss.org/2017/07/25/data-science-in-organizations.html) - “Data science is best viewed as a form of company culture, rather than a set of technologies. However, many firms will try to create that company culture by acquiring data-science technology, rather than working on their culture.”
 *   [Never Use Floats for Money](https://husobee.github.io/money/float/2016/09/23/never-use-floats-for-currency.html) - “This is precisely the problem we have when trying to represent 10^-1, or 0.1 in binary. There is not an exact binary representation of 0.1 or 0.01.”
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [56. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Others
 
 *   [Blazor-Dom-Confetti (⭐16)](https://github.com/ctrl-alt-d/blazor-dom-confetti) - ![last commit](https://img.shields.io/github/last-commit/ctrl-alt-d/blazor-dom-confetti?style=flat-square\&cacheSeconds=86400) Celebrate success with dom 🎉confetti🎉 on Blazor projects. Two versions, dom-confetti wrapper and native blazor 100% JS free.
 *   [BlazorMonaco (⭐199)](https://github.com/serdarciplak/BlazorMonaco) - ![last commit](https://img.shields.io/github/last-commit/serdarciplak/BlazorMonaco?style=flat-square\&cacheSeconds=86400) Blazor component for Microsoft's [Monaco Editor (⭐32k)](https://github.com/Microsoft/monaco-editor) which powers Visual Studio Code. ([Demo](https://serdarciplak.github.io/BlazorMonaco/)).
 
-## [56. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [57. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Tools / Testing Tools
 
 *   [es-file-traverse (⭐2)](https://github.com/brettz9/es-file-traverse) - Obtain a list of only those files which are in use based on imports and/or requires from an entry file or files; list passable to ESLint. Intended esp. for linting 3rd party dependencies.
 
-## [57. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [58. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Environment
 
@@ -1174,7 +1179,7 @@
 
 
 
-## [58. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [59. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
@@ -1192,7 +1197,7 @@
     *   [MSR: Mining Software Repositories conference](https://www.msrconf.org/)
     *   [PROMISE: Predictive Models and Data Analytics in Software Engineering conference](http://promise.site.uottawa.ca/SERepository/)
 
-## [59. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Messaging and Streaming
 
@@ -1212,7 +1217,7 @@
 *   [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
 *   [Disqus](https://disqus.com/) - Disqus is a networked community platform used by hundreds of thousands of sites all over the web.
 
-## [60. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [61. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
@@ -1223,13 +1228,13 @@
 
 *   [AnyLint (⭐116)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
 
-## [61. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [62. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Simulation / Version Control
 
 *   [Ignition Robotics](https://ignitionrobotics.org) -  Test control strategies in safety, and take advantage of simulation in continuous integration tests.
 
-## [62. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
+## [63. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
 ### Languages
 
@@ -1243,160 +1248,146 @@
 
 *   [Code Golf Stack Exchange](https://codegolf.stackexchange.com) - Golfing problems and answers.
 
-## [63. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [64. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
 *   [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6\&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 
-## [64. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [65. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
 *   [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html) - Simon Wardley discusses some of the other tools he uses with mapping. Mar 6, 2015.
 
-## [65. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [66. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
 *   [V (⭐1.4k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 
-## [66. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [67. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Static Analysis / Security
 
 *   [Manage Your GitHub Actions Secrets With A Simple CLI (⭐39)](https://github.com/unfor19/githubsecrets)
 *   [SecretHub (⭐46)](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
 
-## [67. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [68. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [The VP Engineering Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/The-VP-Engineering-Role.md)
 
-## [68. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [69. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Utilities
 
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).
 
-## [69. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [70. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Introduction
 
 *   [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 *   [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
 
-### Standards / Custom Elements
+### Custom Elements
 
 *   [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 *   [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 *   [All about HTML Custom Elements (⭐196)](https://github.com/shawnbot/custom-elements)
-*   [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
 *   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
-### Standards / Shadow DOM
+### Shadow DOM
 
 *   [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
 *   [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 *   [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 *   [Shadow DOM in depth (⭐216)](https://github.com/praveenpuglia/shadow-dom-in-depth)
-*   [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
 *   [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 *   [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 *   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
-### Standards / HTML Templates
+### HTML Templates
 
 *   [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
 *   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
-### Standards / CSS Shadow Parts
+### CSS Shadow Parts
 
 *   [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
 *   [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
 *   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
 
-### Standards / Custom Elements polyfills
-
-*   [@webcomponents/custom-elements (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
-*   [document-register-element (⭐1.1k)](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
-
-### Standards / Customized Built-in Elements polyfills
-
-*   [@corpuscule/custom-builtin-elements (⭐14)](https://github.com/corpusculejs/custom-builtin-elements) - Customized built-in elements polyfill by [CorpusculeJS](https://github.com/corpusculejs).
-*   [@ungap/custom-elements-builtin (⭐103)](https://github.com/ungap/custom-elements-builtin) - Customized built-in elements polyfill by [ungap project](https://ungap.github.io).
-
-### Standards / Shadow DOM shims
-
-*   [@webcomponents/shadydom (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
-*   [@webcomponents/shadycss (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
-*   [@lwc/synthetic-shadow (⭐1.3k)](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
-
-### Standards / HTML Templates polyfills
-
-*   [@webcomponents/template (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
-*   [@ungap/import-node (⭐7)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
-
-### Articles / Interoperability
+### Interoperability
 
 *   [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 
-### Real World / Case Studies
+### Case Studies
 
 *   [Bringing Order to Web Design Chaos (with Web Components)](https://dev.to/thatjoemoore/bringing-order-to-web-design-chaos--3fhb)
 *   [The Firefox UI is now built with Web Components](https://briangrinstead.com/blog/firefox-webcomponents/)
 *   [web.dev engineering blog #1: How we build the site and use Web Components](https://web.dev/how-we-build-webdev-and-use-web-components/)
 
-### Libraries / Functional
-
-*   [fuco (⭐72)](https://github.com/wtnbass/fuco) - Functional component like React, but for Web Components.
-
-### Frameworks / React
+### React
 
 *   [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
 
-### Frameworks / Vue
+### Vue
 
 *   [Integrate Web Components with Your Vue.js App](https://alligator.io/vuejs/vue-integrate-web-components/)
 
-### Tutorials / Tools
-
-*   "**HowTo: Components**" by [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-    *   [Overview](https://developers.google.com/web/fundamentals/web-components/examples)
-    *   [`<howto-checkbox>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-checkbox)
-    *   [`<howto-tabs>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tabs)
-    *   [`<howto-tooltip>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tooltip)
-
-### Usage Metrics / Talks
+### Usage Metrics
 
 *   [Chrome Platform Status: `CustomElementRegistryDefine`](https://chromestatus.com/metrics/feature/timeline/popularity/1689)
 *   [Chrome Platform Status: `ElementAttachShadow`](https://chromestatus.com/metrics/feature/timeline/popularity/804)
 *   [Chrome Platform Status: `HTMLTemplateElement`](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
-### Proposals / Form-associated Custom Elements
+### Form-associated Custom Elements
 
 *   [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 *   [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
 *   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
-### Proposals / Custom State Pseudo class
+### Custom State Pseudo class
 
 *   [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
 *   [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
 
-### Proposals / Constructable Stylesheet Objects
+### Constructable Stylesheet Objects
 
 *   [Specification Draft](https://wicg.github.io/construct-stylesheets/)
 *   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
 *   [Explainer (⭐135)](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 *   [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
 
+### Polyfills / Custom Elements polyfills
+
+*   [@webcomponents/custom-elements (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
+*   [document-register-element (⭐1.1k)](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
+
+### Polyfills / Customized Built-in Elements polyfills
+
+*   [@corpuscule/custom-builtin-elements (⭐14)](https://github.com/corpusculejs/custom-builtin-elements) - Customized built-in elements polyfill by [CorpusculeJS](https://github.com/corpusculejs).
+*   [@ungap/custom-elements-builtin (⭐103)](https://github.com/ungap/custom-elements-builtin) - Customized built-in elements polyfill by [ungap project](https://ungap.github.io).
+
+### Polyfills / Shadow DOM shims
+
+*   [@webcomponents/shadydom (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
+*   [@webcomponents/shadycss (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
+*   [@lwc/synthetic-shadow (⭐1.3k)](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
+
+### Polyfills / HTML Templates polyfills
+
+*   [@webcomponents/template (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
+*   [@ungap/import-node (⭐7)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
+
 ### History / 2019
 
 *   [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
-## [70. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
+## [71. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/week/README.md)
 
 ### Boilerplates
 

@@ -1,36 +1,42 @@
 # Awesome List Updates on Aug 18, 2022
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [1. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [amrzv/awesome-colab-notebooks (⭐591)](https://github.com/amrzv/awesome-colab-notebooks): Collection of google colaboratory notebooks for fast and easy experiments
+
+## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [Awesome-CMS-Core (⭐387)](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module separation concern in mind and provide lastest trend of technology
 
-## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Debugging / Diagnostics
 
 *   [ofirgall/goto-breakpoints.nvim (⭐7)](https://github.com/ofirgall/goto-breakpoints.nvim) - Cycle between breakpoints for nvim-dap.
 
-## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [4. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Games
 
 *   [dantecatalfamo/OpenCSE (⭐0)](https://github.com/dantecatalfamo/OpenCSE) - Free implementation of the Can't Stop Express dice game.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [smelly (⭐0)](https://github.com/Vicfs/smelly-theme/) - Minimalist prompt that includes decorators for Python `venv` and `git` status.
 
-## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Book Deals (Affiliated) 🛍
 
@@ -39,13 +45,13 @@
 *   [Managing ML Projects](https://www.manning.com/books/managing-machine-learning-projects?utm_source=mikrobusiness\&utm_medium=affiliate\&utm_campaign=book_thompson_managing_6_14_22)
 *   [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness\&utm_medium=affiliate\&utm_campaign=book_ruizdevilla_causal_6_6_22)
 
-## [6. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Vendor supported providers
 
 *   [terraform-provider-sigsci (⭐20)](https://github.com/signalsciences/terraform-provider-sigsci) - Provider for Signal Sciences.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Software Development - Low Code
 
@@ -53,19 +59,19 @@
 *   [Budibase](https://www.budibase.com) - Build and automate internal tools, admin panels, dashboards, CRUD apps, and more, in minutes. Budibase is the open source alternative to Outsystems, Retool, Mendix, Appian. ([Source Code (⭐15k)](https://github.com/Budibase/budibase)) `GPL-3.0` `Nodejs`
 *   [ToolJet](https://tooljet.io/) - ToolJet is the open-source low-code framework alternative to Retool & Mendix to build & deploy internal tools with minimal engineering effort. ([Source Code (⭐14k)](https://github.com/ToolJet/ToolJet)) `GPL-3.0` `Nodejs`
 
-## [8. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
+## [9. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
 ### Extremely Hard Rooms to do / Level 5 - Malware and Reverse Engineering
 
 *   [Year of the Owl](https://tryhackme.com/room/yearoftheowl) - Owl-themed boot to root machine.
 
-## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [10. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / Imaging
 
 *   [Kheops](https://kheops.online) - Open source platform for sharing medical images
 
-## [10. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
+## [11. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 
 ### Jetpack Compose
 
@@ -77,13 +83,13 @@
 
 
 
-## [11. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [12. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### PowerShell / Symfony2
 
 *   [Pode (⭐539)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
 
-## [12. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+## [13. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ### API
 

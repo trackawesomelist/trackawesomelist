@@ -79,15 +79,15 @@
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Frameworks / Angular
+### Angular
 
 *   [Using Web Components in Angular](https://coryrylan.com/blog/using-web-components-in-angular)
 
-### Frameworks / Vue
+### Vue
 
 *   [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
 
-### Tutorials / Tools
+### Tutorials
 
 *   **Angular Elements** article series by [Manfred Steyer](https://www.angulararchitects.io/about/)
     *   [Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-i/)

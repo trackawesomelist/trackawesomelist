@@ -234,10 +234,6 @@
 
 *   [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - A full featured extension for VS Code that downloads the latest CircuitPython bundle automatically, includes access to the serial console, and auto complete.
 
-### Events
-
-*   [PyCon 2022](https://us.pycon.org/2022/) - Salt Lake City, Utah USA April 27 - May 5, 2022.
-
 ### Swag
 
 *   [CircuitPython 7 release poster](https://www.adafruit.com/product/5067) - CircuitPython release version 7 poster.

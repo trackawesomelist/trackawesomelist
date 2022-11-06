@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2022
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,7 +99,13 @@
 
 *   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐11)](https://github.com/Ripe/algovanity).
 
-## [9. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [disco-diffusion/Local\_Disco\_Diffusion\_v4\_1.ipynb at main · Midgraph/disco-diffusion](https://github.com/Midgraph/disco-diffusion/blob/main/Local_Disco_Diffusion_v4_1.ipynb)
+
+## [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### GUI
 

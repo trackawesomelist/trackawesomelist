@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15 - Nov 21, 2021
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1267,13 +1267,30 @@
 
 *   [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
 
-## [35. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [aakashjhawar/AvatarGAN (⭐48)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
+*   [Greg Surma - Portfolio](https://gsurma.github.io/)
+*   [GitHub Repositories of Hugging Face](https://github.com/huggingface)
+*   [AgaMiko/pixel\_character\_generator (⭐86)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+
+### Interesting Instagram Accounts, Posts and Reels / OpenAI GPT-3
+
+*   [Lucid Sonic Dreams (@lucidsonicdreams)](https://www.instagram.com/lucidsonicdreams/)
+
+### Other Related Awesome Lists / OpenAI GPT-3
+
+*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐245)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+
+## [36. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Libraries
 
 *   [Teaful (⭐657)](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
 
-## [36. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [37. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Component bundles
 
@@ -1299,19 +1316,19 @@
 *   [Eilon Lipton on Blazor Desktop](http://azuredevopspodcast.clear-measure.com/eilon-lipton-on-blazor-desktop-episode-166) - November 8, 2021 - In this episode, Eilon is discussing the ins and outs of Blazor Desktop — which is currently 100% of what he’s been working on. He takes listeners on a deep-dive of Blazor Desktop, sharing what they need to know in anticipation of .NET 6 and the GA drop of Visual Studio 2022 coming out. He also touches on WPF, WinForms, MAUI, and the 2021 DEVintersection Conference. Duration: 50 minutes.
 *   [Real World Blazor With Steve Peirce](https://dotnetcore.show/episode-86-real-world-blazor-with-steve-peirce/) - November 5, 2021 - .NET Core Show, Episode 86 - Real World Blazor With Steve Peirce. Duration: 62 minutes.
 
-## [37. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [38. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Third-Party Services / Misc
 
 *   [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [RishabhRD/gruvy (⭐12)](https://github.com/RishabhRD/gruvy) - Gruvbuddy without colorbuddy using Lush.
 
-## [39. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [40. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Tools you'll need / Cloud-based options
 
@@ -1343,13 +1360,13 @@
 
 *   **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
 
-## [40. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-pomodoro-plus (⭐50)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 
-## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -1362,7 +1379,7 @@
 *   [Slack](https://linktr.ee/flutter_france)
 *   [Newsletter Flutter Digest](https://www.flutter-digest.com/)
 
-## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -1392,7 +1409,7 @@
 
 
 
-## [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
@@ -1409,7 +1426,7 @@
 *   [spoptchev/scientist (⭐79)](https://github.com/spoptchev/scientist) - A kotlin library for refactoring code. Port of GitHub's scientist.
 *   [kohesive/solr-undertow (⭐96)](https://github.com/kohesive/solr-undertow) - Solr Standalone Tiny and High performant server.
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -1419,7 +1436,7 @@
 
 *   [vue3-flip-countdown (⭐41)](https://github.com/coskuncayemre/vue3-flip-countdown) Customize Countdown timer with Flip Animation for Vue 3.x
 
-## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
@@ -1435,19 +1452,19 @@
 
 *   [maiden](https://shirakumo.github.io/maiden) - A bot and chat system framework with support for IRC and more. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [46. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [47. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [Radix Icons (⭐1.3k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 
-## [47. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [48. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Styling
 
 *   [vanilla-extract (⭐6.5k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
-## [48. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
@@ -1461,7 +1478,7 @@
 
 *   [mollie.cr (⭐14)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
 
-## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
@@ -1475,13 +1492,13 @@
 
 *   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
 
-## [50. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [51. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Backups
 
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 
-## [51. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [52. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
@@ -1492,7 +1509,7 @@
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
 *   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐136)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 
-## [52. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [53. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 

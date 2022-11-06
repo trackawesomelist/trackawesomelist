@@ -71,10 +71,6 @@
 *   [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/) - Posts on Instagram tagged CircuitPython.
 *   [CircuitPython - micropython.org forums](https://forum.micropython.org/search.php?keywords=adafruit\&terms=all\&author=\&sc=1\&sf=all\&sr=posts\&sk=t\&sd=d\&st=0\&ch=300\&t=0\&submit=Search) - Articles on the MicroPython forums tagged for CircuitPython.
 
-### Events
-
-*   [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
-
 ### Swag
 
 *   [Blinka the CircuitPython Limited Edition Enamel Pin](https://www.adafruit.com/product/3680) - An enamel pin with the CircuitPython mascot.

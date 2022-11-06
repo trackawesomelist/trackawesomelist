@@ -644,37 +644,37 @@
 *   [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html)
 *   [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
-### Standards / Custom Elements
+### Custom Elements
 
 *   [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 
-### Standards / Shadow DOM
+### Shadow DOM
 
 *   [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 
-### Standards / HTML Templates
+### HTML Templates
 
 *   [MDN - \<template>: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 *   [MDN - Using templates and slots](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
-### Standards / CSS Shadow Parts
+### CSS Shadow Parts
 
 *   [MDN - `::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
 *   [MDN - `part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
 
-### Guides / Best Practices
+### Best Practices
 
 *   [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [Build a Story Web Component with LitElement](https://dev.to/straversi/build-a-story-web-component-with-litelement-e59)
 
-### Real World / Case Studies
+### Case Studies
 
 *   [Apple Just Shipped Web Components to Production and You Probably Missed It](https://dev.to/ionic/apple-just-shipped-web-components-to-production-and-you-probably-missed-it-57pf)
 
-### Frameworks / Svelte
+### Svelte
 
 *   [How to Create a Web Component in Svelte](https://dev.to/silvio/how-to-create-a-web-components-in-svelte-2g4j)
 *   [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)

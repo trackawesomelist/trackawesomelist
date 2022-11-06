@@ -23,31 +23,37 @@
 
 *   [Zabbix](https://www.zabbix.com/) - Mature, enterprise-level platform to monitor large-scale IT environments.
 
-## [3. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+
+### Component Libraries
+
+*   [Blaze UI Atoms (⭐1.5k)](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
+
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Additional Resources / Miscellaneous Tools
 
 *   Microsoft [WSL Official Documentation](https://docs.microsoft.com/en-us/windows/wsl/)
 
-## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Web Framework
 
 *   [Tadam](https://www.tadam-framework.dev/)
 
-## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
 *   [Deep Learning Online Course list at Classpert](https://classpert.com/deep-learning) List of Deep Learning online courses (some are free) from Classpert Online Course Search
 
-## [6. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Business Intelligence / Tools
 
 *   [`falcon`](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac with builtin graphs.
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Testing
 
@@ -57,7 +63,7 @@
 
 *   [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 
-## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Layout / Barcode
 
@@ -67,7 +73,7 @@
 
 *   [KeyboardShortcuts (⭐1.1k)](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app. Includes a Cocoa and SwiftUI component.
 
-## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Plugins / Misc
 
@@ -78,7 +84,7 @@
 
 *   [Testing Library (⭐774)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
-## [10. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Editable data grid / spreadsheet
 
@@ -87,16 +93,6 @@
 ### Form Components / Date / Time picker
 
 *   [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
-
-## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Real World / Component Libraries
-
-*   [Blaze UI Atoms (⭐1.5k)](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
-
-### Real World / Design Systems
-
-*   [Carbon Custom Elements (⭐409)](https://github.com/carbon-design-system/carbon-custom-elements) - Carbon Design System variant on top of Web Components.
 
 ## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

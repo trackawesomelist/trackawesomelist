@@ -229,13 +229,9 @@
 
 ## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Articles / Interoperability
+### Interoperability
 
 *   [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
-
-### Real World / Component Libraries
-
-*   [Iooxa (⭐131)](https://github.com/iooxa/article) - Web components for interactive scientific writing, reactive documents and explorable explanations.
 
 ## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

@@ -137,7 +137,7 @@
 
 ## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### IT Asset Management / Tools and web interfaces
+### IT Asset Management / Single Sign-On (SSO)
 
 *   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
 

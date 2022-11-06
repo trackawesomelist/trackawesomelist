@@ -192,19 +192,19 @@
 
 ## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Standards / Custom Elements
+### Custom Elements
 
 *   [Handy Custom Elements' Patterns](https://gist.github.com/WebReflection/ec9f6687842aa385477c4afca625bbf4)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [From Web Component to Lit Element](https://codelabs.developers.google.com/codelabs/the-lit-path)
 
-### Articles / Styling
+### Styling
 
 *   [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
 
-### Ecosystem / Tools
+### Tools
 
 *   [shadow-dom-utils (⭐10)](https://github.com/43081j/shadow-dom-utils) - Set of useful utilities for dealing with shadow DOM, primarily for test environment.
 

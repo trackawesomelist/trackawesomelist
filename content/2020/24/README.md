@@ -669,19 +669,37 @@
 
 *   [Zabbix](https://www.zabbix.com/) - Mature, enterprise-level platform to monitor large-scale IT environments.
 
-## [53. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [53. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+
+### Component Libraries
+
+*   [Blaze UI Atoms (⭐1.5k)](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
+
+### Benchmarks
+
+*   [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
+
+### Tools
+
+*   [shadow-automation-selenium (⭐81)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
+
+### History / 2012
+
+*   [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
+
+## [54. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Additional Resources / Miscellaneous Tools
 
 *   Microsoft [WSL Official Documentation](https://docs.microsoft.com/en-us/windows/wsl/)
 
-## [54. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [55. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Web Framework
 
 *   [Tadam](https://www.tadam-framework.dev/)
 
-## [55. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [56. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -698,13 +716,13 @@
 *   [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
 *   [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
 
-## [56. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [57. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Business Intelligence / Tools
 
 *   [`falcon`](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac with builtin graphs.
 
-## [57. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [58. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Testing
 
@@ -714,7 +732,7 @@
 
 *   [PHP RFCs](https://wiki.php.net/rfc) - The home of PHP RFCs (Request for Comments).
 
-## [58. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [59. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Layout / Barcode
 
@@ -728,7 +746,7 @@
 
 *   [Mocker (⭐870)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
-## [59. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [60. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Misc
 
@@ -739,7 +757,7 @@
 
 *   [Testing Library (⭐774)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
-## [60. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [61. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Editable data grid / spreadsheet
 
@@ -760,28 +778,6 @@
 ### Form Components / Date / Time picker
 
 *   [jQWidgets Scheduler](https://www.jqwidgets.com/react/react-scheduler/) - Feature complete Scheduling library.
-
-## [61. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
-
-### Real World / Component Libraries
-
-*   [Blaze UI Atoms (⭐1.5k)](https://github.com/BlazeSoftware/atoms) - Set of web components powered by Blaze CSS.
-
-### Real World / Design Systems
-
-*   [Carbon Custom Elements (⭐409)](https://github.com/carbon-design-system/carbon-custom-elements) - Carbon Design System variant on top of Web Components.
-
-### Libraries / Benchmarks
-
-*   [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
-
-### Ecosystem / Tools
-
-*   [shadow-automation-selenium (⭐81)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
-
-### History / 2012
-
-*   [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
 
 ## [62. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 

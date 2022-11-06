@@ -14,7 +14,7 @@
 
 ## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
-### Log Management / Tools and web interfaces
+### Log Management / Single Sign-On (SSO)
 
 *   [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 

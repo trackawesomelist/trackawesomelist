@@ -140,14 +140,13 @@
 
 ## [19. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Guides / Best Practices
+### Best Practices
 
-*   [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 *   [Gold Standard Checklist for Web Components (⭐1k)](https://github.com/webcomponents/gold-standard/wiki)
 *   [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 *   [Open Web Components Recommendations](https://open-wc.org)
 
-### Libraries / Class Based
+### Class Based
 
 *   [Omi (⭐12k)](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13 - Jun 19, 2022
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -267,6 +267,8 @@
         *   🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
         *   🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game development news, tutorials and so much more.
         *   🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
+    *   #### Tutorials
+        *   🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 *   ### Graphical User Interface
     *   📚 [List of Widget Toolkits](https://en.wikipedia.org/wiki/List_of_widget_toolkits) - GUI frameworks across all platforms and languages.
 *   ### Programming
@@ -586,11 +588,6 @@
 
 ## [35. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
-### Related / Other
-
-*   [How They Load Test (⭐17)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐70)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
-
 ### Related / Awesome Lists
 
 *   [Awesome Locust (⭐38)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
@@ -698,13 +695,20 @@
 
     <img src="https://github.com/brianseidman/scriptable-pocket-widget/raw/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width=400 alt="Scriptable Pocket Widget Screenshot">
 
-## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [45. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+
+### Related / Other
+
+*   [How They Load Test (⭐17)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐70)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+
+## [46. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Screen 13 (⭐87)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 
-## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [47. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
@@ -722,7 +726,7 @@
     *   [Vulkan-WSIWindow (⭐100)](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. \[Apache License 2.0]
     *   [Screen 13 (⭐87)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. \[MIT]
 
-## [47. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [48. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -740,7 +744,7 @@
 
 *   [Remult (⭐1.4k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
-## [48. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [49. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
@@ -750,31 +754,31 @@
 
 *   [m-demare/attempt.nvim (⭐56)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 
-## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [50. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Networking
 
 *   [SNMP (⭐14)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
-## [50. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [diod (⭐61)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 
-## [51. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [52. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Camera
 
 *   [cam11](https://notabug.org/pgimeno/cam11) - Camera library that leverages the Transform object introduced in love2d 11.0+.
 
-## [52. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [53. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
 *   [Touca (⭐108)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
-## [53. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [54. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Installing
 

@@ -59,10 +59,6 @@
 
 *   [30 seconds of Blazor](https://www.30secondsofblazor.net/) - Collection of useful snippets, inspired by the popular 30 seconds of JavaScript and React.
 
-### Cloud
-
-*   [FairPlayTube](https://github.com/efonsecab/FairPlayTube/) - ![last commit](https://img.shields.io/github/last-commit/efonsecab/FairPlayTube?style=flat-square\&cacheSeconds=86400) Blazor Web Assembly app with .NET 5 Hosted API to teach how to create video sharing portals with Blazor, .NET and Azure.
-
 ### Individual components / Others
 
 *   [BlazorMergely (⭐5)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.

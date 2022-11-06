@@ -40,15 +40,15 @@
 
 ## [5. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Real World / Component Libraries
+### Component Libraries
 
 *   [Warp View (⭐6)](https://github.com/senx/warpview) - Collection of charting web components for Warp 10.
 
-### Real World / Design Systems
+### Design Systems
 
 *   [Lyne Components (⭐16)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 
-### Libraries / Class Based
+### Class Based
 
 *   [Panel (⭐234)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 

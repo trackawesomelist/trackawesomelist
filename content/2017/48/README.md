@@ -101,6 +101,16 @@
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
+### ChatOps
+
+*   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
+*   [CloudBot (⭐266)](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
+*   [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
+*   [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
+*   [Lazlo (⭐148)](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
+*   [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
+*   [Abot (⭐2.2k)](https://github.com/itsabot/abot) - A digital assistant framework in Go.
+
 ### Automation
 
 *   [Apache Ant](https://ant.apache.org/) - Automation build tool, similar to make, written in Java.
@@ -132,15 +142,6 @@
 *   [EasyBuild](https://easybuild.readthedocs.org/en/latest/) - EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way.
 *   [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) - Lmod is a Lua based module system that easily handles the MODULEPATH Hierarchical problem.
 *   [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
-
-### ChatOps
-
-*   [CloudBot (⭐266)](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
-*   [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
-*   [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
-*   [Lazlo (⭐148)](https://github.com/djosephsen/lazlo) - A chatops automation framework in Go.
-*   [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
-*   [Abot (⭐2.2k)](https://github.com/itsabot/abot) - A digital assistant framework in Go.
 
 ### Client management
 
@@ -318,7 +319,7 @@
 *   [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 *   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
 
-### Log Management / Tools and web interfaces
+### Log Management / Single Sign-On (SSO)
 
 *   [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 *   [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
@@ -329,7 +330,7 @@
 *   [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 *   [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
-### Mail Clients / Tools and web interfaces
+### Mail Clients / Single Sign-On (SSO)
 
 *   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
 *   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
@@ -338,7 +339,7 @@
 *   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
 *   [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode (⭐331)](https://github.com/opinkerfi/adagios), [Documentation (⭐331)](https://github.com/opinkerfi/adagios/wiki))
 *   [Alerta (⭐2.1k)](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
@@ -948,7 +949,6 @@
 
 ### Frameworks and libraries / Zulip
 
-*   [Hubot](https://hubot.github.com/) + [adapter (⭐20)](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
 *   [Errbot](http://errbot.io/) + [adapter (⭐4)](https://github.com/zulip/errbot-backend-zulip) (Python)
 
 ## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)

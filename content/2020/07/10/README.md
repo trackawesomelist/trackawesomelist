@@ -73,7 +73,7 @@
 
 ## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Real World / Design Systems
+### Design Systems
 
 *   [FAST Components (⭐7.7k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - Library of Web Components based on the FAST design language.
 

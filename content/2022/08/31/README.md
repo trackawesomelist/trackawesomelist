@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2022
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,21 +62,27 @@
 
 *   [Chris Engelbert](https://twitter.com/noctarius2k) - Open Source Enthusiast, Speaker, Developer, Developer Advocacy at TimescaleDB.
 
-## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Online Tools and Applications / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
+
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
 *   [vite-plugin-env-switch (⭐1)](https://github.com/PengBoUESTC/vite-plugin-env-switch) - Switch project env and restart vite server without command line operation.
 *   [vite-plugin-msg-log (⭐0)](https://github.com/PengBoUESTC/vite-plugin-msg-log) - Log the msg you want to confirm frequently (like env info) when HMR.
 
-## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [Dialogue Manager (⭐425)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
 *   [Input Helper (⭐189)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
@@ -86,13 +92,13 @@
 
 *   [Utils.fun](https://utils.fun/en) — All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, are completely free and do not upload any data to the cloud for processing.
 
-## [9. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [10. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [infer-types (⭐0)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
 
-## [10. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [11. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Models and Projects / Flax
 
@@ -104,37 +110,37 @@
 *   [Implementing NeRF in JAX by Soumik Rakshit and Saurav Maheshkar](https://wandb.ai/wandb/nerf-jax/reports/Implementing-NeRF-in-JAX--VmlldzoxODA2NDk2?galleryTag=jax) - A tutorial on 3D volumetric rendering of scenes represented by Neural Radiance Fields in JAX.
 *   [Deep Learning tutorials with JAX+Flax by Phillip Lippe](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX.html) - A series of notebooks explaining various deep learning concepts, from basics (e.g. intro to JAX/Flax, activiation functions) to recent advances (e.g., Vision Transformers, SimCLR), with translations to PyTorch.
 
-## [11. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [12. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Optimization / NLP
 
 *   [sklearn-genetic-opt (⭐158)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection, using evolutionary algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [12. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [13. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Web
 
 *   [MIKUFLA](https://aidn.jp/mikufla/) - Dance as Hatsune Miku yourself to the song. \[日本語/English]
 
-## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [14. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / PaaS   *(PostgreSQL as a Service)*
 
 *   [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
 
-## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Note-taking / Telegram
 
 *   [Obsidian](https://obsidian.md/)
 
-## [15. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [16. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Sensors / Temperature Digital
 
 *   [sht85 (⭐0)](https://github.com/octaprog7/sht85) - MicroPython driver for the [Sensiron SHT85](https://sensirion.com/products/catalog/SHT85/) humidity and temperature sensor.
 
-## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [17. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 

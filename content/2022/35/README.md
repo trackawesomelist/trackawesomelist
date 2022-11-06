@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 29 - Sep 04, 2022
 
-60 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,27 +76,109 @@
 
 *   [betterglobekey (⭐5)](https://github.com/Serpentiel/betterglobekey) - Make macOS Globe key great again! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Serpentiel/betterglobekey) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [11. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [11. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
-### 1 - Agnósticos / Base de Datos
+### Algorithms & Data Structures
 
-*   [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - María José Aramburu Cabo, Ismael Sanz Blasco (PDF)
+*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, et al. (PDF)
+*   [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos (PDF)
+*   [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
+*   [Foundations of Computer Science](http://infolab.stanford.edu/\~ullman/focs.html) - Al Aho, Jeff Ullman
 
-### Ensamblador / Sistemas Operativos
+### Blockchain
 
-*   [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A. Carter, `trl.:` Leonardo Rodríguez Mújica (PDF)
+*   [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
+*   [Learning Bitcoin from the Command Line (⭐2.4k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
 
-### Go / Sistemas Operativos
+### Computer Science
 
-*   [El pequeño libro Go](https://raulexposito.com/the-little-go-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, [PDF](https://raulexposito.com/assets/pdf/go.pdf), [EPUB](https://raulexposito.com/assets/epub/go.epub))
+*   [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
 
-### Matemáticas / React
+### Graphics Programming
 
-*   [Sage para Estudiantes de Pregrado](http://www.sage-para-estudiantes.com) - Gregory Bard, `trl.:` Diego Sejas Viscarra
+*   [Learn OpenGL RS (⭐808)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
+*   [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations
+*   [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
-### NoSQL / Redis
+### Graphical User Interfaces
 
-*   [El pequeño libro Redis](https://raulexposito.com/the-little-redis-book-en-castellano.html) - Karl Seguin, `trl.:` Raúl Expósito (HTML, PDF, EPUB)
+*   [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch, Sarah Horton
+
+### Machine Learning
+
+*   [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, Zhong (PDF)
+*   [An Introduction to Statistical Learning](https://web.stanford.edu/\~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
+*   [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
+*   [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong
+*   [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr, Jeremy Howard
+*   [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews, Omair Aasim
+
+### Mathematics
+
+*   [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer, J Strother Moore (PDF)
+*   [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
+*   [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller, William T. Trotter
+*   [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr, Kenneth Levasseur
+*   [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden, Alan Weinstein
+*   [CLP-1 Differential Calculus](https://www.math.ubc.ca/\~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-2 Integral Calculus](https://www.math.ubc.ca/\~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/\~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-4 Vector Calculus](https://www.math.ubc.ca/\~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [Convex Optimization](https://web.stanford.edu/\~boyd/cvxbook) - Stephen Boyd, Lieven Vandenberghe
+*   [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine, Henry Dallas Thompson (PDF)
+*   [Discrete Mathematics: First and Second Course](https://cseweb.ucsd.edu/\~gill/BWLectSite/) - Edward A. Bender, S. Gill Williamson
+*   [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/\~ebender/CombText/) - Edward A. Bender, S. Gill Williamson
+*   [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
+*   [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/isrs/) - Julie Vu, David Harrington
+*   [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello, Paolo Toth
+*   [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde) - Evans M. Harrell II, James V. Herod
+*   [Mathematical Discovery](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) - Andrew M. Bruckner, Brian S. Thomson, Judith B. Bruckner
+*   [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) - Susan Holmes, Wolfgang Huber
+*   [Multivariable Calculus](https://people.math.gatech.edu/\~cain/notes/calculus.html) - George Cain, James Herod
+*   [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth, David Eugene Smith (PDF)
+*   [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth, David Eugene Smith (PDF)
+*   [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
+*   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong, David I. Spivak (PDF)
+
+### Misc
+
+*   [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers
+*   [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/\~sdemey/) - Serge Demeyer, Stéphane Ducasse, Oscar Nierstrasz
+
+### Networking
+
+*   [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson, Bruce Davie (HTML, epub, mobi, PDF)
+
+### Operating Systems
+
+*   [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al. (HTML, [PDF, downloads...](https://www.linuxfromscratch.org/lfs/downloads/stable/))
+*   [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
+
+### Parallel Programming
+
+*   [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance, Kevin Dowd (PDF, ePUB)
+
+### Partial Evaluation
+
+*   [Partial Evaluation and Automatic Program Generation](http://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
+
+### Professional Development
+
+*   [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
+
+### Quantum Computing
+
+*   [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
+
+### Software Architecture
+
+*   [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
+*   [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse, O. Nierstrasz
+*   [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
+
+### Theoretical Computer Science
+
+*   [Introduction to Theory of Computation](http://cglab.ca/\~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
 
 ## [12. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -244,14 +326,20 @@
 
 *   [Chris Engelbert](https://twitter.com/noctarius2k) - Open Source Enthusiast, Speaker, Developer, Developer Advocacy at TimescaleDB.
 
-## [28. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [28. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Online Tools and Applications / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [starryai](https://www.starryai.com/): AI Art Generator App - AI Art Maker
+
+## [29. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [Dialogue Manager (⭐425)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime (Godot 3.x, 4.x).
 *   [Input Helper (⭐189)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls (Godot 3.x, 4.x).
 
-## [29. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [30. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Backports and improvements
 
@@ -267,7 +355,7 @@
 
 *   [infer-types (⭐0)](https://github.com/orsinium-labs/infer-types) - CLI tool to automatically infer and add type annotations into Python code.
 
-## [30. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [31. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
@@ -285,37 +373,37 @@
 *   [Implementing NeRF in JAX by Soumik Rakshit and Saurav Maheshkar](https://wandb.ai/wandb/nerf-jax/reports/Implementing-NeRF-in-JAX--VmlldzoxODA2NDk2?galleryTag=jax) - A tutorial on 3D volumetric rendering of scenes represented by Neural Radiance Fields in JAX.
 *   [Deep Learning tutorials with JAX+Flax by Phillip Lippe](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial2/Introduction_to_JAX.html) - A series of notebooks explaining various deep learning concepts, from basics (e.g. intro to JAX/Flax, activiation functions) to recent advances (e.g., Vision Transformers, SimCLR), with translations to PyTorch.
 
-## [31. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [32. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Optimization / NLP
 
 *   [sklearn-genetic-opt (⭐158)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) - Hyperparameters tuning and feature selection, using evolutionary algorithms. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 
-## [32. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [33. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Web
 
 *   [MIKUFLA](https://aidn.jp/mikufla/) - Dance as Hatsune Miku yourself to the song. \[日本語/English]
 
-## [33. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [34. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / PaaS   *(PostgreSQL as a Service)*
 
 *   [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
 
-## [34. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [35. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Sensors / Temperature Digital
 
 *   [sht85 (⭐0)](https://github.com/octaprog7/sht85) - MicroPython driver for the [Sensiron SHT85](https://sensirion.com/products/catalog/SHT85/) humidity and temperature sensor.
 
-## [35. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [36. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Hellonext
 
 *   [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) - By [Marty Cagan](https://www.svpg.com/team/marty-cagan/).
 
-## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Database Tools
 
@@ -329,19 +417,19 @@
 
 *   [Ably (⭐26)](https://github.com/ably/ably-ruby) - Ruby library for realtime communication over Ably.
 
-## [37. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [38. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Dart
 
 *   [dart.webdriver (⭐118)](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server.
 
-## [38. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [39. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### Connector
 
 *   [DBUtility.TDengine (⭐0)](https://github.com/cockroach888/GSA.MOLLE.ToolKits/tree/main/src/ToolKits.DBUtility) - C# Connector for TDengine. (.NET 6+).
 
-## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [40. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -352,7 +440,7 @@
 
 *   [asm0dey/staks (⭐11)](https://github.com/asm0dey/staks) - Extensible XML parser DSL, based on StAX
 
-## [40. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [41. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
@@ -363,14 +451,14 @@
 
 *   [Scalr](https://scalr.com) - Alternative to Terraform Enterprise with OPA integration, organizational structure, custom hooks, native integrations with other DevOps platforms, and centralized reporting.  :heavy\_dollar\_sign:
 
-## [41. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [42. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Machine Learning
 
 *   [olorenchemengine (⭐51)](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
     with integrated uncertainty quantification, interpretability, and hyperparameter/architecture tuning.
 
-## [42. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Analytics
 
@@ -388,7 +476,7 @@
 *   [TinyList](https://tinylist.app/) - Create and share notes and checklists, without sacrificing your privacy.
 *   [YankNote (⭐4.1k)](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers.
 
-## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -435,7 +523,7 @@
 
 *   [echasnovski/mini.nvim#mini.sessions (⭐1k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-sessions.md) - Module of `mini.nvim` for session management (read, write, delete).
 
-## [44. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [45. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Others
 
@@ -448,7 +536,7 @@
 *   [Blazor in 100 Seconds](https://www.youtube.com/watch?v=QXxNlpjnulI) - ![duration](https://img.shields.io/badge/Duration:%20-2%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 1, 2022 - Short presentation of Blazor. Blazor is a framework that can build frontend web applications with HTML, CSS, and C#. It leverages web assembly to eliminate JavaScript from the usual client-side tech stack.
 *   [Blazor in .NET 7 - .NET Community Standup](https://www.youtube.com/watch?v=mDKvgpD8YM0\&feature=emb_imp_woyt) - ![duration](https://img.shields.io/badge/Duration:%20-85%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 23, 2022 - Overview of Blazor in .NET 7 with Daniel Roth, Jon Galloway, Mackinnon Buck and Tanay Parikh. Learn more about the great new features coming to Blazor in .NET 7.
 
-## [45. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [46. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Generative Model
 
@@ -458,19 +546,19 @@
 
 *   [The weirdest people in the world?](https://scholar.harvard.edu/files/henrich/files/henrich_heine_norenzayan_2010-2.pdf) - ***Brain and Behavioral Sciences***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=3129419557801277936\&hl=en\&as_sdt=0,5)]. The original paper on rethinking and tackling the sample bias in behaivoral studies, where most subjects are drawn from Western, Educated, Industrialized, Rich, and Democratic (WEIRD) societies.
 
-## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Calendars
 
 *   [crawley (⭐99)](https://github.com/s0rg/crawley) - Unix-way web crawler.
 
-## [47. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
 *   [aloedb (⭐101)](https://github.com/Kirlovon/AloeDB) - Light, Embeddable, NoSQL database for Deno without dependencies.
 
-## [48. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [49. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Twitter
 
@@ -484,7 +572,7 @@
 
 *   [Obsidian](https://obsidian.md/)
 
-## [49. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [50. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Articles
 
@@ -504,7 +592,7 @@
 
 *   [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
 
-## [50. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [51. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### .NET
 
@@ -801,7 +889,7 @@
 *   [typescript-eslint (⭐12k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 *   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) *(label: good-first-issue)* <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
-## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [52. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -815,7 +903,7 @@
 
 *   [vue-console-feed (⭐2)](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display `console like Chrome Devtools` for vue.
 
-## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [53. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -858,19 +946,19 @@
 
 *   [Utils.fun](https://utils.fun/en) — All offline daily and development tools based on the browser's computing power, including watermark generation, screen recording, encoding and decoding, encryption and decryption and code formatting, are completely free and do not upload any data to the cloud for processing.
 
-## [53. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [54. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Tools
 
 *   [Metadata Portal](https://nova-wallet.github.io/metadata-portal/) - A self-hosted webpage that shows the latest metadata and chain specs for any given network.
 
-## [54. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [55. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Books
 
 *   [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - Automate complex tasks and processes with PowerShell scripts.
 
-## [55. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [56. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -889,13 +977,13 @@
 
 *   [Flask-Vite](https://pypi.org/project/flask-vite/) - Integration with Flask.
 
-## [56. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [57. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
 *   [Moon Modeler](http://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
 
-## [57. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [58. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
@@ -947,14 +1035,14 @@
 
 *   [Vigil](https://crates.io/crates/vigil-server) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). ([Demo](https://status.crisp.chat/), [Source Code (⭐1.3k)](https://github.com/valeriansaliou/vigil)) `MPL-2.0` `Rust/Docker`
 
-## [58. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [59. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [ST7789](http://crates.io/crates/st7789) - SPI - An embedded-graphics compatible driver for the popular lcd family from Sitronix used in the PineTime watch - [github (⭐31)](https://github.com/almindor/st7789) - ![crates.io](https://img.shields.io/crates/v/st7789.svg)
 *   [ST7565](http://crates.io/crates/st7565) - SPI - An embedded-graphics compatible driver for LCD displays based on the ST7565 chip - [github (⭐2)](https://github.com/Finomnis/st7565) - ![crates.io](https://img.shields.io/crates/v/st7565.svg)
 
-## [59. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [60. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -964,7 +1052,7 @@
 
 *   [Yewprint (⭐333)](https://github.com/yewprint/yewprint) - Port of blueprintjs.com to Yew.
 
-## [60. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [61. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Tools / Misc
 

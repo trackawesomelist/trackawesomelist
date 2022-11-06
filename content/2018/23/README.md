@@ -314,6 +314,10 @@
 
 *   [AdafruitIO videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D\&search_query=adafruitio) - YouTube posts tagged AdafruitIO.
 
+### Events
+
+*   [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has Adafruit IO-related projects on display.
+
 ## [25. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Articles
@@ -476,10 +480,6 @@
 *   [Pieman (⭐193)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
 ## [36. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
-
-### Events
-
-*   [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
 
 ### Guides
 

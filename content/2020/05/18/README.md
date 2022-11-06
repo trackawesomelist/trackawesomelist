@@ -8,11 +8,11 @@
 
 ## [1. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Guides / Codelabs
+### Codelabs
 
 *   [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
 
-### Libraries / Class Based
+### Class Based
 
 *   [DNA (⭐25)](https://github.com/chialab/dna) - Progressive Web Components library.
 *   [Tonic (⭐693)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.

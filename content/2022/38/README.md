@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 19 - Sep 25, 2022
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -739,7 +739,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 ## [22. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
-### IT Asset Management / Tools and web interfaces
+### IT Asset Management / Single Sign-On (SSO)
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 *   [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
@@ -794,217 +794,15 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [How to render a YouTube vlog with Rust Yew fetch API (⭐0)](https://github.com/steadylearner/blog/blob/master/posts/Rust/How%20to%20render%20a%20YouTube%20vlog%20with%20%20Rust%20Yew%20fetch%20API.md)
 *   [How to render blog posts with Rust Yew mounted API (⭐0)](https://github.com/steadylearner/blog/tree/master/posts/Rust/How%20to%20render%20blog%20posts%20with%20Rust%20Yew%20mounted%20API.md)
 
-## [28. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
-
-### 0 - Meta-Listas
-
-*   [Gitbook - Libros útiles en español (⭐91)](https://github.com/rosepac/gitbook-biblioteca-impresionante-en-espanol#gitbook---gu%C3%ADas-creadas-en-gitbook-en-espa%C3%B1ol) - Pablo Alvarez Corredera (GitHub)
-*   [Múltiples Cursos y Enlaces de Tecnología Informática](http://elvex.ugr.es) - Fernando Berzal Galiano
-
-### 1 - Agnósticos / Algoritmos y Estructuras de Datos
-
-*   [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) - Juan Carlos López García (PDF)
-*   [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) - Alejandro Santos (PDF)
-*   [Fundamentos de Informática y Programación](https://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) - Gregorio Martín Quetglás, Francisco Toledo Lobo, Vicente Cerverón Lleó (HTML)
-
-### 1 - Agnósticos / Base de Datos
-
-*   [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) - Eva Gómez Ballester, Patricio Martínez Barco, Paloma Moreda Pozo, Armando Suárez Cueto, Andrés Montoyo Guijarro, Estela Saquete Boro (PDF)
-*   [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Rafael Camps Paré, Luis Alberto Casillas Santillán, Dolors Costal Costa, Marc Gibert Ginestà, Carme Martín Escofet, Oscar Pérez Mora (PDF)
-*   [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) - Jorge Sánchez (PDF)
-
-### 1 - Agnósticos / Metodologías de desarrollo de software
-
-*   [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) - Alejandro Peña Ayala (PDF)
-*   [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) - Eugenia Bahit (PDF)
-*   [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Juan Palacio, Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
-*   [Scrum Master - Temario troncal 1](https://scrummanager.net/files/scrum_master.pdf) - Marta Palacio, Scrum Manager (PDF) [(EPUB)](https://scrummanager.net/files/scrum_master.epub)
-*   [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) - Henrik Kniberg, `trl.:` proyectalis.com (PDF)
-
-### 1 - Agnósticos / Misceláneos
-
-*   [97 cosas que todo programador debería saber](http://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
-*   [Docker (⭐185)](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
-*   [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
-*   [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF)
-*   [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) - Alberto García Serrano (PDF)
-
-### 1 - Agnósticos / Sistemas Operativos
-
-*   [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF)
-*   [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - Dr. David Luis la Red Martinez (PDF)
-
-### C++ / Sistemas Operativos
-
-*   [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
-*   [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
-*   [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) - Luis Llana, Carlos Gregorio, Raquel Martínez, Pedro Palao, Cristóbal Pareja (HTML)
-
-### Git / Sistemas Operativos
-
-*   [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish) - Jim Weirich, `trl.:` Espartaco Palma
-*   [Git. La guía simple](https://rogerdudler.github.io/git-guide/index.es.html) - Roger Dudler, `trl.:` Luis Barragan, `trl.:` Adrian Matellanes (HTML)
-*   [Gitmagic](http://www-cs-students.stanford.edu/\~blynn/gitmagic/intl/es) - Ben Lynn, `trl.:` Rodrigo Toledo, `trl.:` Ariset Llerena Tapia (HTML, PDF)
-*   [Pro Git](http://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
-
-### Haskell / Sistemas Operativos
-
-*   [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/\~jalonso/publicaciones/Piensa_en_Haskell.pdf) - José A. Alonso Jiménez, Mª José Hidalgo Doblado (PDF)
-
-### HTML and CSS / Sistemas Operativos
-
-*   [CSS avanzado](http://librosweb.es/libro/css_avanzado) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
-*   [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) - Jordi Collell Puig (PDF)
-*   [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) - Pedro Prieto (HTML)
-*   [El gran libro del diseño web](https://freeditorial.com/es/books/el-gran-libro-del-diseno-web) - Rither Cobeña C (HTML, PDF, EPUB, Kindle)
-*   [Estructura con CSS](http://es.learnlayout.com) - Greg Smith, Isaac Durazo, `trl.:` Isaac Durazo (HTML)
-*   [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas Ojeda (PDF)
-*   [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
-
-### Java / Sistemas Operativos
-
-*   [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) - Gustavo Guillermo Pérez (PDF)
-*   [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/\~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
-*   [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF)
-*   [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) - picodotdev (PDF) ([EPUB](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub), [Kindle](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi), [:package: código fuente ejemplos (⭐86)](https://github.com/picodotdev/blog-ejemplos/tree/HEAD/PlugInTapestry))
-*   [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) - Gorka Prieto Agujeta, et al. (PDF)
-*   [Programación en Java](http://elvex.ugr.es/decsai/java/) - Fernando Berzal Galiano (HTML)
-*   [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) - Abraham Otero (PDF)
-
-### JavaScript / Sistemas Operativos
-
-*   [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
-*   [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
-*   [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
-*   [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es) - Ivo Wetzel, `trl.:` Julio Napurí, `trl.:` David Matas, `trl.:` Vitalii Zurian, `trl.:` David Rubert, et al. (HTML)
-*   [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
-*   [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
-
-### JavaScript / AngularJS
-
-*   [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML)
-*   [Guía de estilo AngularJS (⭐24k)](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa, et al., `trl.:` Alberto Calleja Ríos, `trl.:` Gilberto (HTML)
-
-### JavaScript / D3.js
-
-*   [Tutorial de D3](http://gcoch.github.io/D3-tutorial/index.html) - Scott Murray, `trl.:` Gabriel Coch (HTML)
-
-### JavaScript / jQuery
-
-*   [Fundamentos de jQuery](https://librosweb.es/libro/fundamentos_jquery) - Rebecca Murphey, `trl.:` Leandro D'Onofrio (HTML) [(PDF)](https://openlibra.com/es/book/download/fundamentos-de-jquery)
-*   [Manual de jQuery](http://mundosica.github.io/tutorial_hispano_jQuery/) - MundoSICA, et al. (HTML, PDF)
-
-### JavaScript / Node.js
-
-*   [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
-
-### JavaScript / React
-
-*   [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Daniel Xalambrí (HTML)
-
-### LaTeX / React
-
-*   [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Enrique Carleos Artime, `trl.:` Daniel Cuevas, `trl.:` J. Luis Rivera (PDF)
-
-### Linux / React
-
-*   [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) - Eugenia Bahit (descarga directa)
-*   [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) - Raphaël Hertzog, Roland Mas (HTML)
-
-### .NET (C# / Visual Studio) / React
-
-*   [El lenguaje de programación C#](http://dis.um.es/\~bmoros/privado/bibliografia/LibroCsharp.pdf) - José Antonio González Seco (PDF)
-*   [Guía de Arquitectura N-capas Orientadas al Dominio](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex) - Cesar De la Torre (HTML)
-
-### NoSQL / MongoDB
-
-*   [El pequeño libro MongoDB (⭐91)](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
-*   [MongoDB en español: T1, El principio](https://dpdc.gitbooks.io/mongodb-en-espanol-tomo-1/content) - Yohan D. Graterol (HTML) *(:construction: en proceso)*
-
-### PHP / Redis
-
-*   [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) - Eugenia Bahit (PDF)
-*   [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) - Duilio Palacios (HTML)
-*   [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) - Sergio Luján Mora, Universidad de Colima (PDF)
-*   [Silex, el manual oficial](http://librosweb.es/libro/silex) - Igor Wiedler, `trl.:` Javier Eguíluz Pérez (HTML)
-*   [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
-*   [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
-
-### Perl / Symfony
-
-*   [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - Juan Julián Merelo Guervós (PDF)
-*   [Tutoriales de Perl](http://perlenespanol.com/tutoriales/) - Uriel Lizama (HTML)
-
-### Perl 6 / Raku / Symfony
-
-*   [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) - Laurent Rosenfeld, Allen B. Downey, `trl.:` Luis F. Uceta (PDF)
-
-### Python / Symfony
-
-*   [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) - Allen Downey, Jeffrey Elkner, Chris Meyers, `trl.:` Miguel Ángel Vilella, `trl.:` Ángel Arnal, `trl.:` Iván Juanes, `trl.:` Litza Amurrio, `trl.:` Efrain Andia, `trl.:` César Ballardini (PDF)
-*   [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
-*   [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
-*   [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
-*   [Python para ciencia e ingeniería (⭐130)](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
-*   [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
-*   [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF)
-
-### Python / Web2py
-
-*   [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41) - Massimo Di Pierro, `trl.:` Alan Etkin (HTML)
-
-### Ruby / Web2py
-
-*   [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar) - RubySur (HTML)
-*   [La Guía de Estilos de Ruby (⭐102)](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio) - Ale Mohamad (GitHub)
-*   [Ruby tutorial o cómo pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion) - Andrés Suárez García (HTML)
-
-### Ruby / Ruby on Rails
-
-*   [Introducción a Rails](http://rubysur.org/introduccion.a.rails/) - RubySur (HTML)
-
-### R / Ruby on Rails
-
-*   [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) - Marcelo R. Risk (PDF)
-*   [Generación automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) - Mario Alfonso Morales Rivera (PDF)
-*   [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) - Juan Carlos Correa, Nelfi González (PDF)
-*   [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) - R Development Core Team, `trl.:` Andrés González, `trl.:` Silvia González (PDF)
-*   [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) - Ramón Díaz-Uriarte (PDF)
-*   [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) - Antonio José Sáez Castillo (PDF)
-*   [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF)
-*   [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) - Michel Schinz, Philipp Haller, `trl.:` Juanjo Bazán (PDF)
-
-### Scala / Ruby on Rails
-
-*   [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) - Emmanuel Paradis, `trl.:` Jorge A. Ahumada (PDF)
-*   [Scala con Ejemplos (⭐9)](https://github.com/ErunamoJAZZ/ScalaByExample-es) - Martin Odersky, `trl.:` Daniel Erunamo *(:construction: en proceso)*
-
-### Scratch / Ruby on Rails
-
-*   [Informática Creativa (⭐12)](https://github.com/programamos/GuiaScratch) - Karen Brennan, Christan Balch, Michelle Chung, `trl.:` programamos (PDF)
-*   [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) - Pablo González Nalda (PDF)
-
-### SQL / Ruby on Rails
-
-*   [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) - Jorge Sanchez Asenjo (HTML)
-
-### Subversion / Ruby on Rails
-
-*   [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML)
-
-### TypeScript / Ruby on Rails
-
-*   [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - Compiled from StackOverflow Documentation (PDF)
-*   [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML)
-*   [TypeScript Deep Dive (⭐103)](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
-
-### TypeScript / Angular
-
-*   [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML)
-*   [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML)
-*   [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF)
-*   [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF)
-*   [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos (⭐6)](https://github.com/jorgeucano/entendiendo-angular))
+## [28. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+
+### Version Control Systems
+
+*   [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Roger Dudler (HTML)
+*   [Git Immersion](http://gitimmersion.com) - Jim Weirich (HTML)
+*   [Git Magic](http://www-cs-students.stanford.edu/\~blynn/gitmagic/) - Ben Lynn, et al. (HTML, PDF, EPUB)
+*   [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) - The GitHub team *(:card\_file\_box: archived)*
+*   [Pro Git](http://git-scm.com/book/en/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, Kindle)
 
 ## [29. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -1184,7 +982,243 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 *   [Raneto](https://raneto.com/) - Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. ([Source Code (⭐2.5k)](https://github.com/ryanlelek/Raneto)) `MIT` `Nodejs`
 
-## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [40. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai\&index=laion5B\&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
+*   [rom1504/clip-retrieval (⭐713)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+*   [PromptDesign | Reddit](https://www.reddit.com/r/PromptDesign/): Reddit community for "the art of communicating with natural language models"
+*   [Prompt Engineering and Zero-Shot/Few-Shot Learning \[Guide\] - inovex GmbH](https://www.inovex.de/de/blog/prompt-engineering-guide/): prompt engineering for text generation
+*   [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
+*   [Useful Prompt Engineering tools and resources | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/)
+*   [When SD just doesn't understand the prompt no matter how hard I try | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgwcab/when_sd_just_doesnt_understand_the_prompt_no/)
+*   [It's very interesting how some prompts have very defined output but other specific ones are not | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgplii/its_very_interesting_how_some_prompts_have_very/)
+
+### Stable Diffusion Inbox
+
+*   [examples/stable-diffusion-finetuning at main · LambdaLabsML/examples (⭐389)](https://github.com/LambdaLabsML/examples/tree/main/stable-diffusion-finetuning): Fine Tuning Stable Diffusion
+*   [lkwq007/stablediffusion-infinity (⭐2.6k)](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas
+*   \[🔥🔥🔥] [ML News Stable Diffusion Takes Over! (Open Source AI Art) by Yannic Kilcher - YouTube](https://www.youtube.com/watch?v=xbxe-x6wvRw): video with examples, updates, and discussion about the impact of Stable Diffusion
+*   [Diffusion Models in Vision: A Survey | DeepAI](https://deepai.org/publication/diffusion-models-in-vision-a-survey): paper about the diffusion techniques which also discuss the relation with other generative deep learning models
+*   [Deforum Stable Diffusion](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=63UOJvU3xdPS): generating videos from scripted prompts
+*   [ThereforeGames/txt2mask (⭐361)](https://github.com/ThereforeGames/txt2mask): Automatically create masks for Stable Diffusion inpainting using natural language
+*   [basujindal/stable-diffusion (⭐2.4k)](https://github.com/basujindal/stable-diffusion): Optimized Stable Diffusion modified to run on lower GPU VRAM
+*   [Stable WarpFusion v0.5 (restricted to patreons)](https://www.patreon.com/sxela): conditioning video frames with Stable Diffusion by [@devdef](https://twitter.com/devdef)
+*   [nateraw/stable-diffusion-videos (⭐1.6k)](https://github.com/nateraw/stable-diffusion-videos): Create videos with Stable Diffusion by exploring the latent space and morphing between text prompts
+
+### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+
+*   [getimg.ai](https://getimg.ai/): Generate photo-realistic images from text using Stable Diffusion
+*   [Enstil: Fast, open, AI-generated images](https://enstil.ai/?source=12)
+*   [Dezgo - Text-to-Image AI generator](https://dezgo.com/)
+*   [Baseten](https://app.baseten.co/apps/VqK2vYP/operator_views/pqvba2q): Stable Diffusion Demo
+*   [DreamStudio](https://beta.dreamstudio.ai/): Frontend for Stable Diffusion API by Stability.ai
+*   [Pollinations - pollinations/stable-diffusion-private](https://pollinations.ai/create/stablediffusion)
+*   [tencentarc/gfpgan – Run with an API on Replicate](https://replicate.com/tencentarc/gfpgan)
+*   [andreasjansson/stable-diffusion-wip – Run with an API on Replicate](https://replicate.com/andreasjansson/stable-diffusion-wip)
+*   [stability-ai/stable-diffusion – Run with an API on Replicate](https://replicate.com/stability-ai/stable-diffusion)
+*   [Osmosis.Studio](http://osmosis.studio/) : web-based content-aware collaborative design tool for generating AI ads that sell real products
+
+### Stable Diffusion Inbox / Web UI for Stable Diffusion via Google Colab
+
+*   [GitHub - AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI (⭐20k)](https://github.com/AUTOMATIC1111/stable-diffusion-webui): expanded Stable Diffusion web UI
+*   [GitHub - sd-webui/stable-diffusion-webui (⭐5.6k)](https://github.com/hlky/stable-diffusion-webui): Stable Diffusion web UI
+*   [Stable\_Diffusion\_WebUi\_Simplified.ipynb - Colaboratory](https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb#scrollTo=gk1TyBA0Arxt)
+
+### Stable Diffusion Inbox / References Collection about Stable Diffusion
+
+*   [GitHub - awesome-stable-diffusion/awesome-stable-diffusion (⭐654)](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion): Curated list of resources for the Stable Diffusion AI Model
+*   [Stable Diffusion General Updates Posted by u/ImeniSottoITreni | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcclmf/can_we_please_make_a_general_update_on_all_the/?utm_source=share\&utm_medium=web2x\&context=3): a general update on all the "most important" news/repos available
+*   [List of Stable Diffusion systems | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
+*   [Stable Diffusion Akashic Records | Maks-s/sd-akashic (⭐1.1k)](https://github.com/Maks-s/sd-akashic): A compendium of information regarding Stable Diffusion (SD)
+*   [Voldy Guide](https://rentry.co/voldy): detailed beginners guide for Stable Diffusion
+*   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
+*   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
+
+### History / References Collection about Stable Diffusion
+
+*   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
+*   \[🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
+*   [AI-Generated Art](https://www.v7labs.com/blog/ai-generated-art): From Text to Images & Beyond Examples
+
+### Textual Inversion / References Collection about Stable Diffusion
+
+*   [rinongal/textual\_inversion (⭐1.6k)](https://github.com/rinongal/textual_inversion): repo contains the official code, data and sample inversions of Textual Inversion paper
+*   [2208.01618 An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618): paper that describes the Textual Inversion technique
+*   [sd-concepts-library (Stable Diffusion concepts library)](https://huggingface.co/sd-concepts-library): Stable Diffusion Textual Inversion Concepts Library - browse through objects and styles taught by the community to Stable Diffusion and use them in your prompts!
+
+### Creative Uses of Text-to-Image Tools / References Collection about Stable Diffusion
+
+*   [De-painting historical photographs | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgbug2/depainting_historical_photographs/)
+*   [img2img animation with hands | Reddit](https://www.reddit.com/r/StableDiffusion/comments/x92itm/proof_of_concept_using_img2img_ebsynth_to_animate/)
+*   [VID 2 VID user script | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgo87s/wip_vid_2_vid_user_script/)
+*   [Seamless textures AI generator for Blender by Antonio Freyre | Twitter](https://twitter.com/merlino_games/status/1571205845819559936)
+*   ["Shattered" by Ronny Khalil | Twitter](https://twitter.com/ronnykhalil/status/1569956085905203200): using warp fusion to generate a shattered glass effect
+*   [Acid Dance by aiplague | Twitter](https://twitter.com/aiplague/status/1564989456318451714)
+*   \[Fused video by [@remi\_molettee](https://twitter.com/remi_molettee)]\(<https://twitter.com/remi_molettee/status/1568245586494738432>)
+*   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
+*   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
+*   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
+*   [GitHub - Sanster/lama-cleaner (⭐1.6k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+
+### Courses and Educational Materials / References Collection about Stable Diffusion
+
+*   [Grokking Stable Diffusion.ipynb - Colaboratory - Part 1](https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing): notebook by [@johnowhitaker](https://twitter.com/johnowhitaker) exploring Stable Diffusion details
+*   [Grokking Stable Diffusion: Textual Inversion.ipynb - Colaboratory - Part 2](https://colab.research.google.com/drive/1RTHDzE-otzmZOuy8w1WEOxmn9pNcEz3u?usp=sharing): sequel to Grokking Stable Diffusion by [@johnowhitaker](https://twitter.com/johnowhitaker) that focus on Text Inversion
+*   [GitHub - johnowhitaker/aiaiart (⭐452)](https://github.com/johnowhitaker/aiaiart): Course content and resources for the AIAIART course
+*   [Implementation/tutorial of stable diffusion with side-by-side notes by labml.ai | Twitter](https://twitter.com/labmlai/status/1571080112459878401)
+
+### Exploring Images Databases / References Collection about Stable Diffusion
+
+*   [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
+*   [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
+
+### Discussions and Philosophy / References Collection about Stable Diffusion
+
+*   [Deep Else](https://dejangrba.github.io/deep-else/): A Critical Framework for AI Art
+*   [How Photography Became An Art Form | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/08/29/photography-history.html)
+*   [Text Is the Universal Interface - Scale](https://scale.com/blog/text-universal-interface?utm_source=tldrnewsletter)
+*   [This artist is dominating AI-generated art. And he’s not happy about it. | MIT Technology Review](https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/)
+*   [The REAL fight over AI art: StableDiffusion | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgu2uo/the_real_fight_over_ai_art/)
+*   [Rutkowski battling AI art overlord | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xgv0dw/rutkowski_battling_ai_art_overlord/)
+*   [Instead of mining cryptocoins with GPUs, are we now mining art? | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xg8s8e/instead_of_mining_cryptocoins_with_gpus_are_we/)
+*   [Using AI to create art is NOT art! | Reddit : ArtistLounge](https://www.reddit.com/r/ArtistLounge/comments/xczk89/using_ai_to_create_art_is_not_art/)
+*   [Appreciating the Poetic Misunderstandings of A.I. Art | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/appreciating-the-poetic-misunderstandings-of-ai-art?s=09)
+
+### Discussions and Philosophy / Promptism
+
+*   [promptism | Reddit](https://www.reddit.com/r/promptism/): Promptism is an art movement whose creators apply machine learning models trained with contrastive language-image pre-training (CLIP) techniques for image generation
+*   [The Promptist Manifesto – deeplearn.art](https://deeplearn.art/the-promptist-manifesto/)
+
+### Image Synthesis / Promptism
+
+*   [CHARL-E](https://www.charl-e.com/): Run Stable Diffusion on your M1 Mac
+*   [Parrot Zone](https://proximacentaurib.notion.site/proximacentaurib/parrot-zone-74a5c04d4feb4f12b52a41fc8750b205): a database of image synthesis references
+*   [Image Synth Link List](https://proximacentaurib.notion.site/39805c50735849cfa54b5d688587e12e?v=b9ea748623e342fdae02d07c86c668bf): a collection of links organized by the collective parrot zone
+*   [Introduction — PyTTI-Tools](https://pytti-tools.github.io/pytti-book/intro.html)
+*   [pixray/pixray (⭐838)](https://github.com/pixray/pixray): Pixray is an image generation system
+*   [pixray/pixray\_notebooks (⭐36)](https://github.com/pixray/pixray_notebooks): pixray demo notebooks
+*   [dribnet/pixray-text2image – Run with an API on Replicate](https://replicate.com/dribnet/pixray-text2image)
+*   [sberbank-ai/ru-dalle (⭐1.5k)](https://github.com/sberbank-ai/ru-dalle): Generate images from texts. In Russian.
+*   [Pyttipanna](https://pyttipanna.xyz/): visual interface for Pytti by [@\_staus](https://twitter.com/_staus). Pytti is created by [@sportsracer48](https://twitter.com/sportsracer48)
+
+### Image Synthesis / Collections
+
+*   [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description
+*   [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
+*   [10 Best AI Art Generators (2022) - Unite.AI](https://www.unite.ai/10-best-ai-art-generators/)
+*   [Get started with making AI art in 2022 – deeplearn.art](https://deeplearn.art/get-started-with-making-ai-art-in-2022/)
+*   [Text-to-Image Summary – Part 1 | Softology's Blog](https://softologyblog.wordpress.com/2021/06/10/text-to-image-summary/)
+*   \[🔥🔥] [Hitchhiker's Guide To The Latent Space: Community Notebook Document](https://docs.google.com/document/d/1ON4unvrGC2fSEAHMVb4idopPlWmzM0Lx5cxiOXG47k4/edit): great collection of interesting notebooks
+*   [Machine learning for arts](https://ml4a.net/)
+
+### Interesting GitHub Repositories / OpenAI GPT-3
+
+*   [dvschultz/ml-art-colabs (⭐784)](https://github.com/dvschultz/ml-art-colabs): collection of Google Colab Notebooks for ML Arts
+*   [dvschultz](https://github.com/dvschultz): Derrick Schultz's GitHub
+
+### Image Synthesis / Latent Diffusion
+
+*   [LatentVision\_rynmurdock.ipynb - Colaboratory](https://colab.research.google.com/github/olaviinha/NeuralImageGeneration/blob/main/LatentVision_rynmurdock.ipynb)
+*   [Latent\_Diffusion\_with\_LAION\_400M.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/latent-diffusion/blob/main/Latent_Diffusion_with_LAION_400M.ipynb)
+
+### Image Synthesis / GLIDE
+
+*   ["GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models", Nichol et al 2021 (OpenAI's DALL-E successor: 5b-parameter diffusion models + noise-aware CLIP) : MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/comments/rl3mee/glide_towards_photorealistic_image_generation_and/?utm_source=share\&utm_medium=ios_app\&utm_name=iossmf)
+*   [OpenAI paper: "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models". Code and a smaller filtered model (300 million parameters vs 3.5 billion parameters in the paper) are available. : bigsleep](https://www.reddit.com/r/bigsleep/comments/rl5rgw/openai_paper_glide_towards_photorealistic_image/)
+
+### Image Synthesis / VQGAN+CLIP
+
+*   [VQ-GAN | Paper Explanation - YouTube](https://www.youtube.com/watch?v=wcqLFDXaDO8): explanation video about VQGAN with didactic visualizations
+*   [VQGAN+CLIP — How does it work?. The synthetic imagery (“GAN Art”) scene… | by Alexa Steinbrück | Aug, 2021 | Medium](https://alexasteinbruck.medium.com/vqgan-clip-how-does-it-work-210a5dca5e52)
+*   [Introduction to VQGAN+CLIP - 🟧Sourceful](https://sourceful.us/doc/935/introduction-to-vqganclip)
+*   [How to use VQGAN+CLIP to generate images from a text prompt —tutorial for beginners | NightCafe Creator](https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad)
+*   [VQGAN + CLIP Keyword Modifier Comparison - NightCafe Creator](https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison)
+*   [\~200 CLIP+VQGAN keywords tested on 4 subjects : bigsleep](https://www.reddit.com/r/bigsleep/comments/oq2pai/200_clipvqgan_keywords_tested_on_4_subjects/?utm_medium=android_app\&utm_source=share)
+*   [AI Generated Art Scene Explodes as Hackers Create Groundbreaking New Tools CLIP+VQ-GAN | VICE](https://www.vice.com/en/article/n7bqj7/ai-generated-art-scene-explodes-as-hackers-create-groundbreaking-new-tools)
+*   [VQGAN+CLIP (with pooling)](https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ#scrollTo=JX56bq4rEKIp): Generate images from text prompts with VQGAN and CLIP (z+quantize method)
+*   [\~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm)
+*   [Experimentando o VQGAN+CLIP: gerador de imagens a partir de textos - YouTube Filipe Calegario](https://www.youtube.com/watch?v=Yy5NMTkN-Qc)
+
+### Image Synthesis / Famous models by big players
+
+*   [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
+*   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
+*   [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
+*   [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
+*   [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
+
+### Image Synthesis / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [VQGAN + CLIP + Gumbel](https://colab.research.google.com/drive/1tim3xTsZXafK-A2rOUsevckdl4OitIiw)
+*   [OpenAI DVAE+CLIP](https://colab.research.google.com/drive/10DzGECHlEnL4oeqsN-FWCkIe_sq3wVqt)
+*   [Text2Image VQGAN](https://colab.research.google.com/github/eps696/aphantasia/blob/master/CLIP_VQGAN.ipynb)
+*   [Improved Multi Perceptor VQGAN + CLIP](https://colab.research.google.com/drive/1peZ98vBihDD9A1v7JdH5VvHDUuW5tcRK)
+*   [Latent Majesty Diffusion v1.3](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
+*   [CLIP Guided Decision Transformer](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3)
+*   [CLIP Guided Diffusion](https://colab.research.google.com/drive/12a_Wrfi2_gwwAuN3VvMTwVMz9TfqctNj)
+*   [GLIDE](https://colab.research.google.com/github/openai/glide-text2im/blob/main/notebooks/text2im.ipynb)
+*   [PixelDirect](https://colab.research.google.com/drive/1F9ZOZnpV3uBPRDSESaAXYwzNZJQRJT75)
+*   [CLIP Guided Diffusion Secondary Model Method](https://colab.research.google.com/drive/1mpkrhOjoyzPeSWy2r7T8EYRaU7amYOOi)
+*   [Zoetrope](https://colab.research.google.com/drive/1LpEbICv1mmta7Qqic1IcRTsRsq7UKRHM)
+*   [Quick CLIP Guided Diffusion](https://colab.research.google.com/drive/1FuOobQOmDJuG7rGsMWfQa883A9r4HxEO)
+*   [MSE Regulized VQGAN+CLIP](https://colab.research.google.com/drive/1hf1seGOZctOJUznkhJNblLluXHbWLKZh)
+*   [CLIPRGB ImStack](https://colab.research.google.com/drive/1CcibxlLDng2yzcjLwwwSADRcisc1qVCs)
+*   [CLIP Guided Diffusion v4](https://colab.research.google.com/drive/1V66mUeJbXrTuQITvJunvnWVn96FEbSI3)
+*   [Simplified Google Colab Interface for the above models](https://sites.google.com/ear.com.br/aimodelgallery/home?authuser=1): series of interface simplification made by EAR+CIn Research project
+
+### Image Upscaling / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Model Database - Upscale Wiki](https://upscale.wiki/wiki/Model_Database): list of models for upscaling images
+*   [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
+
+### Image Restoration / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [TencentARC/GFPGAN (⭐24k)](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration
+
+### Online Tools and Applications / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]
+*   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
+*   [ProsePainter](https://www.prosepainter.com/): an interactive tool to "paint with words." It incorporates guidable text-to-image generation into a traditional digital painting interface
+*   [ProsePainter: Image + Sketching Interface + CLIP! - YouTube](https://www.youtube.com/watch?v=mK4F32xNrdw\&t=429s)
+*   [Cocreator AI](https://cocreator.ai/): creative computer agent (in wait list)
+*   [Runway ML](http://runwayml.com/): AI video creation suite
+*   [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
+*   [Toonify yourself by Justin Pinkney](https://www.justinpinkney.com/toonify-yourself/): turn a human face into a cartoon
+*   [deepart.io](https://deepart.io/): a online tool for applying style transfer
+*   [Artbreeder](https://www.artbreeder.com/): web-based tool to generate images by breeding existing images
+*   [Ostagram.ru](https://www.ostagram.me/): image style transfer plataform
+*   [cleanup.pictures](https://cleanup.pictures/): remove objects, people, text and defects from any picture for free
+*   [remove.bg](https://www.remove.bg/): remove background from images
+*   [Quick, Draw!](https://quickdraw.withgoogle.com/): Can a neural network learn to recognize doodling? A game to help NL by adding users drawing
+*   [LOVO AI](https://www.lovo.ai/): AI Voiceover & Text to Speech Platform with human-like voices
+*   [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
+*   [These Bored Apes Do Not Exist: GAN to NFT Pipeline | Medium](https://medium.com/@nathancooperjones/these-bored-apes-do-not-exist-6bed2c73f02c)
+*   \[🔥] [hive/notebooks at main · pollinations/hive (⭐38)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
+*   \[🔥🚀] [S2ML Image Generator](https://colab.research.google.com/github/justin-bennington/S2ML-Generators/blob/main/S2ML_Image_Generator.ipynb): evolution of the first VQGAN+CLIP Google Colab notebook by Katherine Crownson maintained by Justin Bennington
+*   \[🔥] [Create Variations on Images With Looking Glass 1.1 (ru-DALLE) - YouTube | Artificial Images](https://www.youtube.com/watch?v=37_Zjreghw4)
+*   \[🔥🚀] [Looking Glass 1.1 (ru-DALLE)](https://colab.research.google.com/drive/11vdS9dpcZz2Q2efkOjcwyax4oob6N40G): Making ruDALL-E fine tuning quick and painless. Copyright (C) 2021 Bearsharktopus Studios
+*   \[🔍] [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion (ML Research Paper Explained) - YouTube | Yannic Kilcher](https://www.youtube.com/watch?v=InhMx1h0N40\&t=603s)
+*   \[🔥] [yuval-alaluf/hyperstyle (⭐864)](https://github.com/yuval-alaluf/hyperstyle): Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" <https://arxiv.org/abs/2111.15666>
+*   \[🔥] [Vadim Epstein’s Aphantasia library (⭐683)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
+*   \[🔥] [dvschultz/stylegan3 (⭐82)](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
+*   \[🚀] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
+
+### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
+
+### Artists and Artworks / OpenAI GPT-3
+
+*   [The Steampunk Circus Human Machine Collaboration - Video, Sound and Stories with AI / YouTube](https://www.youtube.com/channel/UCa1xYBYCzBoJ08U9lgbYAFw)
+
+## [41. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -1203,7 +1237,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [IslandJS (⭐143)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐67)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
-## [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### zinit
 
@@ -1233,7 +1267,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [carriage-return (⭐0)](https://github.com/treyssatvincent/carriage-return.zsh-theme) - omz's [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) with an added carriage return.
 *   [mzpt (⭐2)](https://github.com/linrongbin16/mzpt/) - Minimal prompt inspired by [powerlevel10k (⭐32k)](https://github.com/romkatv/powerlevel10k).
 
-## [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [43. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
@@ -1257,7 +1291,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 *   [echasnovski/mini.nvim#mini.align (⭐1k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
 
-## [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -1272,14 +1306,14 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 *   [Pi4J/pi4j-kotlin (⭐8)](https://github.com/Pi4J/pi4j-kotlin) - Pi4J Kotlin DSL and API.
 
-## [44. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [45. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### .NET
 
 *   [Legerity (⭐33)](https://github.com/MADE-Apps/legerity) *(label: good first issue)* <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 *   [Legerity for Uno Platform (⭐14)](https://github.com/MADE-Apps/legerity-uno) *(label: good first issue)* <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 
-## [45. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [46. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Actors
 
@@ -1358,7 +1392,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Elixir Outlaws](https://elixiroutlaws.com)
 *   [Elixir Talk](https://soundcloud.com/elixirtalk)
 
-## [46. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [47. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
@@ -1378,7 +1412,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [Napkin](https://www.napkin.io/) - FaaS with 500Mb of memory, a default timeout of 15 seconds and 25,000 free API calls/month, rate-limited to 5 calls/second.
 *   [Porter](https://getporter.dev/) - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.
 
-## [47. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [48. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Bookmarking
 
@@ -1419,13 +1453,13 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
 *   [OpenAI Whisper (⭐13k)](https://github.com/openai/whisper) - Whisper is a general-purpose speech recognition model that can be run locally offline. It can transcribe audio from and to multiple languages.
 
-## [48. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [49. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Python
 
 *   [PyMongoExplain (⭐3)](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
 
-## [49. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [50. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Cars
 
@@ -1433,7 +1467,7 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 
     <img src="https://user-images.githubusercontent.com/20643017/189459347-e66e7ec1-c66a-4467-b6c9-5517bd38ac28.png" width="200"/>
 
-## [50. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [51. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
@@ -1444,13 +1478,13 @@ Installs: 1000 | Stars: 141 | Last update: 8 Oct 2019
 *   [apispec (⭐26)](https://github.com/cxxxr/apispec) -  A Common Lisp library for handling Web API requests and responses. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
     *   takes an OpenAPI3 yaml specification and allows to validate and parse HTTP request headers, parameters and bodies.
 
-## [51. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [52. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Tutorials and courses / Devops
 
 *   [Free Scala Courses](https://skillcombo.com/topic/scala/free/) - A curated list of free Scala courses.
 
-## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 

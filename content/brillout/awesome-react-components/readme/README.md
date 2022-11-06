@@ -290,7 +290,7 @@ Please review our [contributing guidelines (⭐33k)](https://github.com/brillout
 
 *Display a tree data structure*
 
-*   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/)
+*   [react-arborist (⭐1.7k)](https://github.com/brimdata/react-arborist) - [demo](https://react-arborist.netlify.app/) - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search
 *   [react-complex-tree (⭐259)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 *   [react-treeview (⭐1.1k)](https://github.com/chenglou/react-treeview) - Easy, light, flexible tree view made with React.
 

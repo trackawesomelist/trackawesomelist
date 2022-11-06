@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 26 - Aug 01, 2021
 
-57 awesome lists updated this week.
+58 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,10 +59,6 @@
 *   [Yewdux (⭐189)](https://github.com/intendednull/yewdux) - Redux-like state containers for Yew apps.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
-
-### API
-
-*   [CommandQuery (⭐69)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 
 ### Application Frameworks
 
@@ -289,7 +285,13 @@
 
 *   :free: [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro is a fantasy computer for making, playing and sharing 2D games and programs written in the modern [MiniScript](https://miniscript.org) language.
 
-## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+
+### Libraries and Frameworks / .NET
+
+*   [CommandQuery (⭐69)](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
+
+## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
@@ -299,25 +301,25 @@
 
 *   [rustypaste (⭐142)](https://github.com/orhun/rustypaste) - A minimal file upload/pastebin service. `MIT` `Rust`
 
-## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Typescript Project Starters
 
 *   [nd.ts (⭐25)](https://github.com/heyayushh/nd.ts/) - setup bare minimum Node.ts project asap
 
-## [22. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Computer Vision
 
 *   [IoT Owl (⭐6)](https://github.com/Ret2Me/IoT-Owl) - Light face detection and recognition system with huge possibilities, based on Microsoft Face API and TensorFlow made for small IoT devices like raspberry pi.
 
-## [23. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [24. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Component Libraries
 
 *   [Mantine (⭐15k)](https://github.com/mantinedev/mantine) – A fully featured React library with 100+ hooks and components with native dark theme support
 
-## [24. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [25. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Reverse Engineering
 
@@ -327,25 +329,25 @@
 *   ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 *   ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
 
-## [25. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [26. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
 *   [A nice app on Elm street](https://madewithlove.com/blog/software-engineering/using-elm-with-react-a-nice-app-on-elm-street/) - An introduction to Elm
 
-## [26. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [27. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [BruteShark (⭐2.5k)](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
-## [27. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
 *   [tmux-fuzzback (⭐73)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
-## [28. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+## [29. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Clarity Resources / Developer Tools
 
@@ -368,15 +370,11 @@
 
 *   [Proof of Transfer Whitepaper Reading with Muneeb Ali](https://www.youtube.com/watch?v=NY_eUrIcWOY\&t=3s) - Overview of the Proof of Transfer (PoX) whitepaper from the author.
 
-## [29. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [30. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### General
 
 *   [30 seconds of Blazor](https://www.30secondsofblazor.net/) - Collection of useful snippets, inspired by the popular 30 seconds of JavaScript and React.
-
-### Cloud
-
-*   [FairPlayTube](https://github.com/efonsecab/FairPlayTube/) - ![last commit](https://img.shields.io/github/last-commit/efonsecab/FairPlayTube?style=flat-square\&cacheSeconds=86400) Blazor Web Assembly app with .NET 5 Hosted API to teach how to create video sharing portals with Blazor, .NET and Azure.
 
 ### Others
 
@@ -396,7 +394,7 @@
 *   [Microsoft Blazor: Building Web Applications in .NET](https://www.amazon.com/Microsoft-Blazor-Building-Applications-NET/dp/1484259270/ref=pd_sbs_2/144-0745230-5007239?pd_rd_w=LPinn\&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846\&pf_rd_r=V7CQTYC0W8RZAVPVVXA1\&pd_rd_r=b34ab9d9-09dd-4eca-9207-f56311bde8d2\&pd_rd_wg=9V1tA\&pd_rd_i=1484259270\&psc=1) - Microsoft Blazor: Building Web Applications in .NET (Second edition published in May 2020).
 *   [Blazor Revealed](https://www.apress.com/gp/book/9781484243428) - Blazor Revealed, Building Web Applications in .NET (Published February, 2019).
 
-## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
@@ -406,19 +404,19 @@
 
 *   [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
 
-## [31. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [32. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :space_invader: Projects Using Prisma / Tutorials with   [NestJS](https://nestjs.com/)
 
 *   [tRPC Prisma Starter (⭐237)](https://github.com/trpc/examples-next-prisma-starter) - Starter project with Prisma + Next.js + CI + testing + E2E type-safety using [tRPC](https://trpc.io)
 
-## [32. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [33. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Research Papers
 
 *   [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna, Joel Bernanke, Kakyeong Kim, Natalie Aw, Jordan D. Dworkin, Jiook Cha, Jonathan Posner (2021).
 
-## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
@@ -436,7 +434,7 @@
 
 *   [tauri-apps/tauri (⭐53k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐2k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
-## [34. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -451,19 +449,19 @@
 *   [vite-plugin-ruby (⭐766)](https://github.com/ElMassimo/vite_ruby/tree/main/vite-plugin-ruby) - Configuration for Ruby backends.
 *   [Vite Ruby (⭐766)](https://github.com/ElMassimo/vite_ruby) - Integration for Rails, Hanami, Padrino, and Rack apps.
 
-## [35. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [36. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Reading
 
 *   [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
 
-## [36. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [37. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Competitive Analysis / GDPR
 
 *   [DigitalOcean Accounts changelog](http://docs.digitalocean.com/release-notes/accounts/) - All the latest accounts updates on DO.
 
-## [37. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [38. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Basics
 
@@ -498,7 +496,7 @@
 
 *   [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - All the latest billing updates on DO.
 
-## [38. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
+## [39. Typedb Awesome](/content/vaticle/typedb-awesome/week/README.md)
 
 ### Conferences
 
@@ -526,7 +524,7 @@
 *   [`Blog`](https://blog.vaticle.com)
 *   [`LinkedIn`](https://www.linkedin.com/company/vaticle)
 
-## [39. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [40. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
@@ -552,13 +550,13 @@
 
 *   [Scriptable (⭐679)](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
-## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Databases
 
 *   [redis-pro (⭐575)](https://github.com/cmushroom/redis-pro) - Small, easy to use Redis management, written with SwiftUI, support Dark mode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/cmushroom/redis-pro) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [41. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [42. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Twitter
 
@@ -568,20 +566,20 @@
 
 *   [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 
-## [42. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [43. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Marketing
 
 *   [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
 *   [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
 
-## [43. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [44. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [OSnap (⭐108)](https://github.com/eWert-Online/osnap) - The speedy and easy to use Snapshot Testing tool for your project (1200 snapshots will run in under 3 minutes).
 
-## [44. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -595,7 +593,7 @@
 
 *   [fontawesome-autogen (⭐15)](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
 
-## [45. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [46. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / CLI Tools
 
@@ -605,13 +603,13 @@
 
 *   [Golem GitHub Digest #14](https://blog.golemproject.net/golem-github-digest-14/) - Towards the next major release.
 
-## [46. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [47. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### Tools
 
 *   [`srtool-cli`](https://github.com/chevdor/srtool-cli) - CLI frontend for the `srtool` Docker image.
 
-## [47. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [48. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI
 
@@ -621,7 +619,7 @@
 
 *   [Java Diff Utils](https://java-diff-utils.github.io/java-diff-utils/) - Utilities for text or data comparison and patching.
 
-## [48. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [49. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Action
 
@@ -638,7 +636,7 @@
 
 *   [Space Station 14 (⭐932)](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
-## [49. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [50. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Advanced datastructures
 
@@ -715,13 +713,13 @@
 
 *   [rich4clojure (⭐143)](https://github.com/PEZ/rich4clojure)
 
-## [50. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [51. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Courses / Other Tools
 
 *   [The Definitive Guide to Celery and FastAPI](https://testdriven.io/courses/fastapi-celery/) - Learn how to add Celery to a FastAPI application to provide asynchronous task processing.
 
-## [51. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [52. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Syntax highlighting packages
 
@@ -749,7 +747,7 @@
 *   [Deadeus](https://izma.itch.io/deadeus)
 *   [SUPER IMPOSTOR BROS.](https://lumpytouch.itch.io/super-impostor-bros)
 
-## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Cryptocurrency
 
@@ -941,13 +939,13 @@
 
 
 
-## [53. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [54. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### User Interface Design
 
 *   [Clipboard](https://en.wikipedia.org/wiki/Clipboard_\(computing\)) - Where you temporarily put *files* you are working with (i.e. the copy & paste buffer).
 
-## [54. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [55. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -973,7 +971,7 @@
 
 *   [Geokeo api](https://geokeo.com) - Geocoding api with language correction and more. Worldwide coverage. 2,500 free daily queries
 
-## [55. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [56. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Incident Management
 
@@ -986,7 +984,7 @@
 *   [sysmon-config (⭐3.8k)](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
 *   [sysmon-modular (⭐2k)](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 
-## [56. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [57. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -1173,7 +1171,7 @@
 *   [JSON Schema](https://json-schema.org/) - A powerful tool for validating the structure of JSON data.
 *   [XML Schema](https://www.w3.org/TR/xmlschema11-1/) - Offers facilities for describing the structure and constraining the contents of XML documents.
 
-## [57. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [58. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Climate
 

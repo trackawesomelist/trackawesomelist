@@ -476,7 +476,7 @@
 
 ## [34. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Miscellaneous / Constructable Stylesheet Objects
+### Miscellaneous
 
 *   [Vaadin Directory](https://vaadin.com/directory) - Publish, discuss and rate web components
 

@@ -143,7 +143,7 @@
 
 ## [14. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Frameworks / Angular
+### Angular
 
 *   [Building and consuming Angular Elements as Web Components](https://indepth.dev/building-and-bundling-web-components/)
 

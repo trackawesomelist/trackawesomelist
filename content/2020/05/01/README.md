@@ -50,7 +50,7 @@
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Real World / Case Studies
+### Case Studies
 
 *   [The Firefox UI is now built with Web Components](https://briangrinstead.com/blog/firefox-webcomponents/)
 

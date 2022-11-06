@@ -72,7 +72,7 @@
 
 ## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Tutorials / Tools
+### Tutorials
 
 *   "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
     *   [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)

@@ -142,60 +142,13 @@
 *   [CircuitPython in MicroSolutions Digital Magazine](https://blog.adafruit.com/2018/08/27/circuitpython-in-microsolutions-digital-magazine-microchiptech-microchipmakes-circuitpython-adafruit/) - Microchip’s MicroSolutions, “Python on Microcontrollers” in Design Corner article. MicroSolutions is Microchip’s bi-monthly digital magazine.
 *   [The Amp Hour #383](https://www.youtube.com/watch?v=d-Uw3YOf7dE) - An Interview with Scott Shawcroft.
 
-## [7. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Document Processing
+### Class Based
 
-*   [docx4j](https://www.docx4java.org/trac/docx4j) - Create and manipulate Microsoft Open XML files.
-*   [zerocell (⭐67)](https://github.com/creditdatamw/zerocell) - Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.
-
-## [8. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
-
-### Models/Projects
-
-*   [Hierarchical Attention Networks (⭐82)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/\~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
-
-### Libraries
-
-*   [pytorch2keras (⭐821)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
-
-## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
-
-### Extensions
-
-*   [next-routes-middleware (⭐40)](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
-
-## [10. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
-
-### Libraries / Data Structures & Data Types
-
-*   [Graphene (⭐318)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
-*   [Numeric-GLib (⭐9)](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
-
-### Libraries / Graphics Libraries
-
-*   [Cairo](https://cairographics.org/) - A 2D graphics library with support for multiple output devices. This is pretty much the default library you get in Vala.
-*   [GEGL](http://gegl.org/) - A data flow based image processing framework, providing floating point processing and non-destructive image processing capabilities. Think of it as "Reactive Programming for Images".
-
-### Libraries / Multimedia Processing
-
-*   [GStreamer](http://gstreamer.freedesktop.org/) - A powerful framework for creating multimedia applications.
-
-### Libraries / Templating
-
-*   [Compose (⭐16)](https://github.com/arteymix/compose) - A functional templating library for Vala.
-*   [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - A library for template expansion which supports calling into GObject Introspection from templates.
-
-## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
-
-### Libraries / Class Based
-
-*   [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
-*   [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
-*   [Skate (⭐3.3k)](https://github.com/skatejs/skatejs) - Web component library focusing on a functional rendering pipeline and a small footprint.
 *   [slim.js (⭐923)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 
-### Frameworks / Vue
+### Vue
 
 *   [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 
@@ -230,6 +183,50 @@
 
 *   [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
 *   [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
+
+## [8. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+
+### Document Processing
+
+*   [docx4j](https://www.docx4java.org/trac/docx4j) - Create and manipulate Microsoft Open XML files.
+*   [zerocell (⭐67)](https://github.com/creditdatamw/zerocell) - Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.
+
+## [9. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+
+### Models/Projects
+
+*   [Hierarchical Attention Networks (⭐82)](https://github.com/tqtg/hierarchical-attention-networks) - TensorFlow implementation of ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/\~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
+
+### Libraries
+
+*   [pytorch2keras (⭐821)](https://github.com/nerox8664/pytorch2keras) - Convert PyTorch models to Keras (with TensorFlow backend) format
+
+## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Extensions
+
+*   [next-routes-middleware (⭐40)](https://github.com/revskill10/next-routes-middleware) - A NextJS routing middleware
+
+## [11. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
+
+### Libraries / Data Structures & Data Types
+
+*   [Graphene (⭐318)](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+*   [Numeric-GLib (⭐9)](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
+
+### Libraries / Graphics Libraries
+
+*   [Cairo](https://cairographics.org/) - A 2D graphics library with support for multiple output devices. This is pretty much the default library you get in Vala.
+*   [GEGL](http://gegl.org/) - A data flow based image processing framework, providing floating point processing and non-destructive image processing capabilities. Think of it as "Reactive Programming for Images".
+
+### Libraries / Multimedia Processing
+
+*   [GStreamer](http://gstreamer.freedesktop.org/) - A powerful framework for creating multimedia applications.
+
+### Libraries / Templating
+
+*   [Compose (⭐16)](https://github.com/arteymix/compose) - A functional templating library for Vala.
+*   [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - A library for template expansion which supports calling into GObject Introspection from templates.
 
 ## [12. Awesome Math](/content/rossant/awesome-math/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 30, 2018
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,37 +27,30 @@
 *   [Compose (⭐16)](https://github.com/arteymix/compose) - A functional templating library for Vala.
 *   [template-glib](https://gitlab.gnome.org/GNOME/template-glib) - A library for template expansion which supports calling into GObject Introspection from templates.
 
-## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Libraries / Class Based
-
-*   [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
-*   [Polymer](https://polymer-library.polymer-project.org) - Original web component library by the Polymer Project authors.
-
-## [3. Awesome Math](/content/rossant/awesome-math/README.md)
+## [2. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Geometry and Topology / Topology
 
 *   [Elementary Applied Topology](https://www.math.upenn.edu/\~ghrist/notes.html) - Robert Ghrist (UPenn)
 
-## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
 *   [Lambdo (⭐14)](https://github.com/asavinov/lambdo) - A workflow engine for solving machine learning problems by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation via user-defined (Python) functions.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Testing
 
 *   [Stryker.NET (⭐1.4k)](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
 
-## [6. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
+## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 
 *   [@dominictarr](https://github.com/dominictarr), [scuttlebot (⭐1.6k)](https://github.com/ssbc/scuttlebot) and others
     *   "Statement on event-stream compromise" ([post](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a))
 
-## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Dependency Injection
 
@@ -76,56 +69,56 @@
 
 *   [Vert.x Config AWS SSM Store (⭐0)](https://github.com/Finovertech/vertx-config-aws-ssm) - A [config store](http://vertx.io/docs/vertx-config/java/) implementation for retrieving configuration values from the [AWS EC2 SSM Parameter Store](https://aws.amazon.com/ec2/systems-manager/parameter-store/).
 
-## [8. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [7. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Blog posts
 
 *   [Writing portable serverless applications](https://medium.com/datreeio/writing-portable-serverless-applications-252fd8623bce) - Post on how to write portable serverless applications that can run on different compute environments.
 
-## [9. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
 *   [Otoroshi](https://www.otoroshi.io/) - Modern HTTP reverse proxy with lightweight API management.
 
-## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
 *   [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) In this liveVideo course, machine learning expert Oliver Zeigermann teaches you the basics of deep learning.
 *   [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
 
-## [11. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Rust / Git
 
 *   [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
 
-## [12. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
+## [11. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/README.md)
 
 ### Terminal Emulation Applications
 
 *   [Terminology (⭐536)](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries.
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
 *   [genhash (⭐13)](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
 *   [**CION** - Design system boilerplate for Vue.js](https://github.com/visualjerk/vue-cion-design-system) - A design system build primarily for Vue.js applications. It utilizes design tokens, a living styleguide with integrated code playgrounds and reusable components for common UI tasks.
 
-## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+## [14. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ### Software / Operating systems
 
 *   [UBOS](https://ubos.net/) - UBOS is a Linux distro that focuses on making systems administration of home servers and Indie IoT devices running web applications much simpler. A derivative of Arch Linux, it runs on PCs, Raspberry Pis, ESPRESSObin, and cloud.
 
-## [16. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Education
 

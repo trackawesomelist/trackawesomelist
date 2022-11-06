@@ -14,7 +14,7 @@
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Real World / Design Systems
+### Design Systems
 
 *   [U-M Library Design System](https://github.com/mlibrary/design-system) - University of Michigan Library Design System.
 

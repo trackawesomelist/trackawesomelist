@@ -256,7 +256,7 @@
 *   [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 *   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
 
-### Log Management / Tools and web interfaces
+### Log Management / Single Sign-On (SSO)
 
 *   [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 *   [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
@@ -267,7 +267,7 @@
 *   [Logstash](https://www.elastic.co/products/logstash) - Tool for managing events and logs.
 *   [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
-### Mail Clients / Tools and web interfaces
+### Mail Clients / Single Sign-On (SSO)
 
 *   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
 *   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
@@ -276,7 +276,7 @@
 *   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
 *   [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
-### Monitoring / Tools and web interfaces
+### Monitoring / Single Sign-On (SSO)
 
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode (⭐331)](https://github.com/opinkerfi/adagios), [Documentation (⭐331)](https://github.com/opinkerfi/adagios/wiki))
 *   [Alerta (⭐2.1k)](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.

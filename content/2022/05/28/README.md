@@ -16,7 +16,7 @@
 
 ### Frameworks
 
-*   [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with minimum of problems.
+*   [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with a minimum of problems.
 
 ## [3. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 

@@ -86,15 +86,15 @@
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-### Frameworks / Angular
+### Angular
 
 *   [How to use Angular ngModel and ngForms with WebComponents](https://itnext.io/how-to-use-angular-ngmodel-and-ngforms-with-webcomponents-802bd9e1d3d7)
 
-### Insights / Podcasts
+### Podcasts
 
 *   [Code\[ish\], episode 38: Building with Web Components](https://www.heroku.com/podcasts/codeish/38-building-with-web-components)
 
-### Insights / Presentations
+### Presentations
 
 *   [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides/) by [@webcomp\_dev](https://twitter.com/webcomp_dev)
 

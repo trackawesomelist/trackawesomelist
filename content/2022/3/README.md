@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 17 - Jan 23, 2022
 
-68 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -1006,7 +1006,15 @@
 *   [GTFS-RT](https://developers.google.com/transit/gtfs-realtime) - This standard provides users transit data updates in real time greatly enhances their experience of transit services.
 *   [SIRI](https://www.transmodel-cen.eu/siri-standard/) - Service Interface for Real Time Information (SIRI) is a European standard for real-time information which has had limited adoption in the United States, but would be compatible with hardware and network systems which meet European standards.
 
-## [55. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [55. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Papers and references for reading and understanding / OpenAI GPT-3
+
+*   [\[PDF\] Music2Video: Automatic Generation of Music Video with fusion of audio and text | Semantic Scholar](https://www.semanticscholar.org/paper/Music2Video%3A-Automatic-Generation-of-Music-Video-of-Jang-Shin/38e37c3a7dc22bb3356552e93e6685b99ca04264)
+*   [\[PDF\] Active Divergence with Generative Deep Learning - A Survey and Taxonomy | Semantic Scholar](https://www.semanticscholar.org/paper/Active-Divergence-with-Generative-Deep-Learning-A-Broad-Berns/091c4ea2efaba23cd9024d8a063609c9a313b5cb)
+*   [\[PDF\] Automating Generative Deep Learning for Artistic Purposes: Challenges and Opportunities | Semantic Scholar](https://www.semanticscholar.org/paper/Automating-Generative-Deep-Learning-for-Artistic-Berns-Broad/f3479740d4ec7f91b6d7a01167e9c875a72d386e)
+
+## [56. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
@@ -1021,13 +1029,13 @@
 
 *   [yew-side-effect (⭐3)](https://github.com/futursolo/yew-side-effect) - Reconcile Side Effects in Yew Applications, inspired by [react-side-effect (⭐1.2k)](https://github.com/gaearon/react-side-effect) and [react-helmet (⭐17k)](https://github.com/nfl/react-helmet).
 
-## [56. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [57. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Articles / Storyboard
 
 *   [UX Booth](https://www.uxbooth.com/) - The UX Booth is a publication by and for the user experience community.
 
-## [57. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [58. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -1039,7 +1047,7 @@
 *   [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/posts/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
 *   [Raspberry Pi login with SSH keys](https://thibmaek.com/posts/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 
-## [58. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [59. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
@@ -1073,7 +1081,7 @@
 
 *   [cpc (⭐75)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
-## [59. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [60. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -1087,20 +1095,20 @@
 
 *   [Gatling (⭐41)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
-## [60. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [61. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Nodes / Social
 
 *   [PushStaq (⭐0)](https://github.com/pantchox/node-red-contrib-pushstaq) - Send real time alerts using Push Notifications from your Node-Red flows to any device with [PushStaq](https://www.pushstaq.com).
 
-## [61. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [62. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [lorawan-encoding (⭐91)](https://github.com/ivajloip/rust-lorawan/tree/master/encoding): A LoRaWAN packet codec.
 *   [lorawan-device (⭐91)](https://github.com/ivajloip/rust-lorawan/tree/master/device): A LoRaWAN MAC implementation supporting both event driven and async mode.
 
-## [62. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [63. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -1110,7 +1118,7 @@
 
 *   [openrndr/orx (⭐87)](https://github.com/openrndr/orx) - ORX is a collection extras for OPENRNDR which add support for sensors, live-coding, user interfaces and much more.
 
-## [63. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [64. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -1120,7 +1128,7 @@
 
 *   [vue3-lottie (⭐76)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
-## [64. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
+## [65. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 
 ### Overview / YouTube
 
@@ -1131,7 +1139,7 @@
 *   [ProxiTok (⭐809)](https://github.com/pablouser1/ProxiTok): Open source alternative frontend for TikTok made with PHP
     *   Official instance: <https://proxitok.herokuapp.com>
 
-## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [66. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
@@ -1184,14 +1192,14 @@
 
 *   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
 
-## [66. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [67. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Deep Learning / Easier sharing of deep learning models and demos
 
 *   [paperswithcode.com](https://paperswithcode.com/) — "The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables."
 *   [`labmlai/annotated_deep_learning_paper_implementations`](https://github.com/labmlai/annotated_deep_learning_paper_implementations) — "Implementations/tutorials of deep learning papers with side-by-side notes." 50+ of them! Really nicely annotated and explained.
 
-## [67. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [68. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Templates / Godot 3.2+
 
@@ -1201,7 +1209,7 @@
 
 *   [Godot Radial Menu (⭐85)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
-## [68. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [69. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Bluetooth
 

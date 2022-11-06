@@ -25,7 +25,7 @@
 
 ## [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Tutorials / Tools
+### Tutorials
 
 *   "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
     *   [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)

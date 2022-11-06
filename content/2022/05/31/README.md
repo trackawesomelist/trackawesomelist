@@ -1,6 +1,6 @@
 # Awesome List Updates on May 31, 2022
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -59,19 +59,25 @@
 
 *   [mainnika (⭐0)](https://github.com/mainnika/zsh-theme-mainnika/) - Includes decorators for last command exit status and the 1, 5 and 15 minute load averages.
 
-## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [9. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+
+### Blockchain
+
+*   [Mastering the Lightning Network (⭐2.4k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
+
+## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-cem (⭐7)](https://github.com/Kamiapp-fr/vite-plugin-cem) - Generates `custom-elements.json` manifest for describing custom elements.
 
-## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Community / Projects
 
 *   [AlgoCloud](https://algocloud.org/) - Algorand ecosystem dashboard. Connect DeFi apps, display NFTs, account analytics, and more.
 
-## [11. Awesome](/content/craftcms/awesome/README.md)
+## [12. Awesome](/content/craftcms/awesome/README.md)
 
 ### Articles / Security
 
@@ -79,7 +85,7 @@
 *   [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) by Ben Croker/PutYourLightsOn - `6 July 2021`
 *   [Common Security Vulnerabilities in Craft CMS Plugins](https://putyourlightson.com/articles/common-security-vulnerabilities-in-craft-cms-plugins) by Ben Croker/PutYourLightsOn - `31 Oct 2021`
 
-## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### GUI
 
@@ -90,7 +96,7 @@
 *   [MindsDB (⭐11k)](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 *   [SQLFlow (⭐4.6k)](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
-## [13. Awesome Go](/content/avelino/awesome-go/README.md)
+## [14. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Configuration
 
@@ -112,31 +118,31 @@
 
 *   [spreak (⭐13)](https://github.com/vorlif/spreak) - Flexible translation and humanization library for Go, based on the concepts behind gettext.
 
-## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students.
 
-## [15. Awesome V](/content/vlang/awesome-v/README.md)
+## [16. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Applications / Editors
 
 *   [vee (⭐28)](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example (⭐28)](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
 
-## [16. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [17. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / API
 
 *   [Jane (⭐427)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
-## [17. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Research Papers
 
 *   [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor) Padmavati Kulkarnia, V.Sreekantha, Adithi R.Upadhyab, Hrishikesh ChandraGautama.  (2022)
 
-## [18. GoBooks](/content/dariubs/GoBooks/README.md)
+## [19. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Starter Books** / [Go, from the beginning](https://leanpub.com/go-from-the-beginning)     *Free*
 

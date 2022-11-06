@@ -119,10 +119,6 @@
 
 ## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
-### Developer Tools / Other Tools
-
-*   [FastAPI MVC (⭐195)](https://github.com/rszamszur/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
-
 ### Open Source Projects / Other Tools
 
 *   [Astrobase (⭐47)](https://github.com/anthonycorletti/astrobase) - Simple, fast, and secure deployments anywhere.

@@ -904,7 +904,7 @@
 
 ### Services
 
-*   [Mailchimp](https://mailchimp.com/) - Mailchimp provides email marketing for more than 15 million people globally.
+*   [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 
 ### Resources
 

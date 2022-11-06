@@ -736,24 +736,24 @@ Language: English
 
 ## [39. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
-### Real World / Case Studies
+### Case Studies
 
 *   [ING Open-Sources Lion, Its White-Label Web Component Library – Q\&A with Thomas Allmer](https://www.infoq.com/articles/ing-open-sources-lion-web-component/)
 *   [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 
-### Libraries / Class Based
+### Class Based
 
 *   [Stencil (⭐11k)](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 
-### Frameworks / Angular
+### Angular
 
 *   [Using Web Components in Angular](https://coryrylan.com/blog/using-web-components-in-angular)
 
-### Frameworks / Vue
+### Vue
 
 *   [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
 
-### Tutorials / Tools
+### Tutorials
 
 *   "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
     *   [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)

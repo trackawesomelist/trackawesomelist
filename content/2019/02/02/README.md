@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 02, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,13 +61,7 @@
 
 *   [Algolia.Search (⭐110)](https://github.com/algolia/algoliasearch-client-csharp) - Repository for the official Algolia .NET client.
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Libraries / Class Based
-
-*   [Corpuscule (⭐28)](https://github.com/corpusculejs/corpuscule) - Small Web Components framework based on decorators.
-
-## [7. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [6. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Libraries
 

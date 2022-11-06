@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 05, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,20 +42,26 @@
 
 *   [historical-basemaps (⭐277)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 
-## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Image Super-Resolution](https://idealo.github.io/image-super-resolution/)
+
+## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Task Queues
 
 *   [celery-exporter (⭐201)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Community-Supported Agriculture (CSA)
 
 *   [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code (⭐122)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
 *   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐884)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
 
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### a WEBPAGE (in English) to explain what RSS is
 
@@ -180,31 +186,31 @@
 
 *   [RSS-同步世界最新资讯 @ 《文献管理与信息分析》](https://open.163.com/newview/movie/free?pid=HEV46VJJD\&mid=EEV46VKF2) <sup>[1090](https://t.me/s/aboutrss/1090)</sup>
 
-## [8. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
+## [9. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
 *   [Archibase - Collaborative schema editor based on Prisma SDL](https://archibase.dev/)
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [Value Chains](https://design4services.com/concepts/value-chains/) - Porter Value Chain Analysis, Wardley Value Chain Analysis and Value Mapping by Tim Manning. Jul 17, 2018.
 
-## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [11. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 
 *   [Bioicons](https://bioicons.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) High quality science illustrations.
 
-## [11. Awesome Code Review](/content/joho/awesome-code-review/README.md)
+## [12. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 
 ### Tools
 
 *   [Viezly](https://viezly.com) Code review service with pull request visualization and enhanced navigation between changes.
 
-## [12. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+## [13. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ### AppImage discovery / App centers
 
@@ -226,7 +232,7 @@
 
 *   [Cargo AppImage (⭐23)](https://github.com/StratusFearMe21/cargo-appimage) - Cargo program that allows you to convert your Rust programs into AppImages.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [14. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -236,7 +242,7 @@
 
 *   [components-helper (⭐14)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
 
-## [14. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [15. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
