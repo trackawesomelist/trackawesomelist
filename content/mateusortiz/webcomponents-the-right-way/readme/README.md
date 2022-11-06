@@ -24,11 +24,6 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
     *   [Shadow DOM](#shadow-dom)
     *   [HTML Templates](#html-templates)
     *   [CSS Shadow Parts](#css-shadow-parts)
-*   [Polyfills](#polyfills)
-    *   [Custom Elements polyfills](#custom-elements-polyfills)
-    *   [Customized Built-in Elements polyfills](#customized-built-in-elements-polyfills)
-    *   [Shadow DOM shims](#shadow-dom-shims)
-    *   [HTML Templates polyfills](#html-templates-polyfills)
 *   [Guides](#guides)
     *   [Accessibility](#accessibility)
     *   [Best Practices](#best-practices)
@@ -70,7 +65,9 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
     *   [Constructable Stylesheet Objects](#constructable-stylesheet-objects)
     *   [Custom State Pseudo Class](#custom-state-pseudo-class)
 *   [Miscellaneous](#miscellaneous)
-*   [History](#history)
+*   [Archive](#archive)
+    *   [Polyfills](#polyfills)
+    *   [History](#history)
 *   [Who to follow](#who-to-follow)
 *   [License](#license)
 
@@ -133,35 +130,14 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 *   [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
 *   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
 
-### Polyfills
-
-### Custom Elements polyfills
-
-*   [@webcomponents/custom-elements (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
-*   [document-register-element (⭐1.1k)](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
-
-### Customized Built-in Elements polyfills
-
-*   [@corpuscule/custom-builtin-elements (⭐14)](https://github.com/corpusculejs/custom-builtin-elements) - Customized built-in elements polyfill by [CorpusculeJS](https://github.com/corpusculejs).
-*   [@ungap/custom-elements-builtin (⭐103)](https://github.com/ungap/custom-elements-builtin) - Customized built-in elements polyfill by [ungap project](https://ungap.github.io).
-
-### Shadow DOM shims
-
-*   [@webcomponents/shadydom (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
-*   [@webcomponents/shadycss (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
-*   [@lwc/synthetic-shadow (⭐1.3k)](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
-
-### HTML Templates polyfills
-
-*   [@webcomponents/template (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
-*   [@ungap/import-node (⭐7)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
-
 ## Guides
 
 ### Accessibility
 
 *   [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
+*   [Dialogs and shadow DOM: can we make it accessible?](https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/)
 *   [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
+*   [Managing focus in the shadow DOM](https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/)
 *   [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 *   [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
 *   [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
@@ -239,11 +215,15 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 
 ### Styling
 
+*   [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
+*   [Eschewing Shadow DOM](https://every-layout.dev/blog/eschewing-shadow-dom/)
+*   [How Nordhealth uses Custom Properties in Web Components](https://web.dev/custom-properties-web-components/)
 *   [Options for styling web components](https://nolanlawson.com/2021/01/03/options-for-styling-web-components/)
+*   [Style scoping versus shadow DOM: which is fastest?](https://nolanlawson.com/2022/06/22/style-scoping-versus-shadow-dom-which-is-fastest/)
 *   [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 *   [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
-*   [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 *   [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
+*   [Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think](https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/)
 *   [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
 
 ## Real World
@@ -388,6 +368,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 *   [DNA (⭐25)](https://github.com/chialab/dna) - Progressive Web Components library.
 *   [FAST Element (⭐7.7k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-element) - Lightweight library for building performant, memory-efficient, standards-compliant Web Components.
 *   [Forge Core (⭐2)](https://github.com/tyler-technologies-oss/forge-core) - Building blocks and utilities that are used when building Forge Web Components.
+*   [Joist (⭐85)](https://github.com/joist-framework/joist) - Set of small libraries designed to add the bare minimum to web components to make you productive.
 *   [Lit](https://lit.dev) - Simple library for building fast, lightweight web components.
 *   [Lightning Web Components (⭐1.3k)](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
 *   [Omi (⭐12k)](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
@@ -399,7 +380,6 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### Functional
 
 *   [atomico (⭐877)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
-*   [fuco (⭐72)](https://github.com/wtnbass/fuco) - Functional component like React, but for Web Components.
 *   [haunted (⭐2.4k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 *   [hybrids (⭐2.7k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 *   [Solid Element (⭐23k)](https://github.com/solidjs/solid/tree/main/packages/solid-element) - Library that extends Solid adding Custom Web Components and extensions.
@@ -409,6 +389,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 *   [ember-custom-elements (⭐15)](https://github.com/Ravenstine/ember-custom-elements) - Render Ember and Glimmer components using custom elements.
 *   [preact-custom-element (⭐284)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 *   [@adobe/react-webcomponent (⭐90)](https://github.com/adobe/react-webcomponent) - Automate the wrapping of a React component in a custom element.
+*   [nuxt-custom-elements (⭐51)](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Export your project components as custom elements for integration into external pages.
 *   [react-shadow (⭐1.1k)](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
 *   [reactify-wc (⭐147)](https://github.com/BBKolton/reactify-wc) - Use web components with React properties and functions.
 *   [remount (⭐610)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
@@ -433,8 +414,10 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ### React
 
 *   [3 Approaches to Integrate React with Custom Elements](https://css-tricks.com/3-approaches-to-integrate-react-with-custom-elements/)
+*   [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react/)
 *   [Rendering React Components With Custom Elements](https://guillaumebriday.fr/rendering-react-components-with-custom-elements)
 *   [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
+*   [Using Web Components With Next (or Any SSR Framework)](https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/)
 
 ### Vue
 
@@ -584,32 +567,61 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 *   [Vaadin Directory](https://vaadin.com/directory) - Publish, discuss and rate web components
 *   [webcomponents.org](http://webcomponents.org/) - Discuss & share web components.
 
-## History
+## Archive
+
+### Polyfills
+
+Modern browsers supports web components standards without any of the polyfills listed below.
+The only notable exception is that customized built-in elements are rejected by WebKit (Safari).
+
+#### Custom Elements polyfills
+
+*   [@webcomponents/custom-elements (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
+*   [document-register-element (⭐1.1k)](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
+
+#### Customized Built-in Elements polyfills
+
+*   [@corpuscule/custom-builtin-elements (⭐14)](https://github.com/corpusculejs/custom-builtin-elements) - Customized built-in elements polyfill by [CorpusculeJS](https://github.com/corpusculejs).
+*   [@ungap/custom-elements-builtin (⭐103)](https://github.com/ungap/custom-elements-builtin) - Customized built-in elements polyfill by [ungap project](https://ungap.github.io).
+
+#### Shadow DOM shims
+
+*   [@webcomponents/shadydom (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
+*   [@webcomponents/shadycss (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
+*   [@lwc/synthetic-shadow (⭐1.3k)](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
+
+#### HTML Templates polyfills
+
+*   [@webcomponents/template (⭐981)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
+*   [@ungap/import-node (⭐7)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
+
+### History
 
 The articles below represent a long story of the Web Components specifications on the way towards the standardization.
 Some of them refer to earlier, so-called "v0" Shadow DOM and Custom Elements specs, and abandoned HTML Imports spec.
 These materials are here for historical reasons only, they are grouped by years and listed in chronological order.
 
-### 2019
+#### 2019
 
 *   [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
 *   [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
-### 2018
+#### 2018
 
 *   [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 *   [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
 *   [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 *   [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 
-### 2017
+#### 2017
 
+*   [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 *   [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
 *   [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
 *   [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 *   [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
 
-### 2016
+#### 2016
 
 *   [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
 *   [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
@@ -618,7 +630,7 @@ These materials are here for historical reasons only, they are grouped by years 
 *   [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 *   [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
-### 2015
+#### 2015
 
 *   [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
 *   [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
@@ -626,7 +638,7 @@ These materials are here for historical reasons only, they are grouped by years 
 *   [Bringing componentization to the web: An overview of Web Components](https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/)
 *   [The state of Web Components](https://hacks.mozilla.org/2015/06/the-state-of-web-components/)
 
-### 2014
+#### 2014
 
 *   [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/)
 *   [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
@@ -637,7 +649,7 @@ These materials are here for historical reasons only, they are grouped by years 
 *   [The Shadow DOM Diaries](https://gist.github.com/dglazkov/efd2deec54f65aa86f2e)
 *   [A Detailed Introduction To Custom Elements](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)
 
-### 2013
+#### 2013
 
 *   [Performance and Custom Elements](https://www.stevesouders.com/blog/2013/11/26/performance-and-custom-elements/)
 *   [A Guide to Web Components](https://css-tricks.com/modular-future-web-components/)
@@ -645,13 +657,13 @@ These materials are here for historical reasons only, they are grouped by years 
 *   [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
 *   [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
-### 2012
+#### 2012
 
 *   [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
 *   [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
 *   [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
 
-### 2011
+#### 2011
 
 *   [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 *   [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)

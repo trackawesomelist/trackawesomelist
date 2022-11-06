@@ -32,28 +32,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 #### [3. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
-##### Standards / Custom Elements
+##### Component Libraries
 
-*   [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
-
-##### Standards / Shadow DOM
-
-*   [Shadow DOM v1: Self-Contained Web Components](https://web.dev/shadowdom-v1/)
-
-##### Guides / Best Practices
-
-*   [Custom Element Best Practices](https://web.dev/custom-elements-best-practices/)
-
-##### Guides / Codelabs
-
-*   [Creating Custom Form Controls with ElementInternals](https://css-tricks.com/creating-custom-form-controls-with-elementinternals/)
-
-##### Guides / Examples
-
-*   [Nude UI (⭐171)](https://github.com/LeaVerou/nudeui) - Collection of accessible, customizable, ultra-light web components.
-
-##### Real World / Component Libraries
-
+*   [Umbraco UI Components (⭐61)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
 *   [AXA Pattern Library (⭐96)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with Web Components.
 *   [Curvenote (⭐131)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
 *   [Dile Components (⭐24)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
@@ -69,7 +50,40 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [VSCode Webview Elements (⭐30)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
 *   [Webmarkets web components (⭐1)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
 
-##### Real World / Design Systems
+##### Custom Elements
+
+*   [Custom Elements v1: Reusable Web Components](https://web.dev/custom-elements-v1/)
+
+##### Shadow DOM
+
+*   [Shadow DOM v1: Self-Contained Web Components](https://web.dev/shadowdom-v1/)
+
+##### Accessibility
+
+*   [Dialogs and shadow DOM: can we make it accessible?](https://nolanlawson.com/2022/06/14/dialogs-and-shadow-dom-can-we-make-it-accessible/)
+*   [Managing focus in the shadow DOM](https://nolanlawson.com/2021/02/13/managing-focus-in-the-shadow-dom/)
+
+##### Best Practices
+
+*   [Custom Element Best Practices](https://web.dev/custom-elements-best-practices/)
+
+##### Codelabs
+
+*   [Creating Custom Form Controls with ElementInternals](https://css-tricks.com/creating-custom-form-controls-with-elementinternals/)
+
+##### Examples
+
+*   [Nude UI (⭐171)](https://github.com/LeaVerou/nudeui) - Collection of accessible, customizable, ultra-light web components.
+
+##### Styling
+
+*   [Does shadow DOM improve style performance?](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
+*   [Eschewing Shadow DOM](https://every-layout.dev/blog/eschewing-shadow-dom/)
+*   [How Nordhealth uses Custom Properties in Web Components](https://web.dev/custom-properties-web-components/)
+*   [Style scoping versus shadow DOM: which is fastest?](https://nolanlawson.com/2022/06/22/style-scoping-versus-shadow-dom-which-is-fastest/)
+*   [Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think](https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/)
+
+##### Design Systems
 
 *   [Carbon Web Components (⭐409)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
 *   [Clarity Core Web Components (⭐75)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
@@ -82,20 +96,27 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Red Hat Design System (⭐18)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 *   [Siemens iX Web Components (⭐36)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 
-##### Libraries / Class Based
+##### Class Based
 
 *   [Forge Core (⭐2)](https://github.com/tyler-technologies-oss/forge-core) - Building blocks and utilities that are used when building Forge Web Components.
+*   [Joist (⭐85)](https://github.com/joist-framework/joist) - Set of small libraries designed to add the bare minimum to web components to make you productive.
 *   [Lit](https://lit.dev) - Simple library for building fast, lightweight web components.
 
-##### Libraries / Functional
+##### Functional
 
 *   [Solid Element (⭐23k)](https://github.com/solidjs/solid/tree/main/packages/solid-element) - Library that extends Solid adding Custom Web Components and extensions.
 
-##### Frameworks / React
+##### Integrations
+
+*   [nuxt-custom-elements (⭐51)](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Export your project components as custom elements for integration into external pages.
+
+##### React
 
 *   [3 Approaches to Integrate React with Custom Elements](https://css-tricks.com/3-approaches-to-integrate-react-with-custom-elements/)
+*   [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react/)
+*   [Using Web Components With Next (or Any SSR Framework)](https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/)
 
-##### Tutorials / Tools
+##### Tutorials
 
 *   "**HowTo: Components**" by [Web Fundamentals](https://web.dev)
     *   [Overview](https://web.dev/components-examples-overview/)
@@ -103,19 +124,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   [`<howto-tabs>`](https://web.dev/components-howto-tabs/)
     *   [`<howto-tooltip>`](https://web.dev/components-howto-tooltip/)
 
-#### [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
-
-##### Component Libraries
-
-*   [Umbraco UI Components (⭐61)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
-
-#### [5. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+#### [4. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ##### Dataset / Web
 
 *   [Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - Data about match ups, outcomes and game states over the time in 225.000 AoE2 matches.
 
-#### [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Android / Projects
 
@@ -147,7 +162,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-#### [7. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Blogs/Newsletters / XML
 
@@ -155,7 +170,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Deno Blog](https://deno.com/blog) - The official blog of the Deno Company.
 *   [Deno News](https://deno.news) - A newsletter of Deno articles, news and cool projects.
 
-#### [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Peripheral Access Crates / Wiznet
 
@@ -314,8 +329,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 39. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 57K 📝 10&#x2F;04 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 40. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 23K 📝 10&#x2F;13 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 41. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 12K 📝 10&#x2F;18 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
-42. [Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md) - ([Source ⭐ 3.7K 📝 10&#x2F;30 ](https://github.com/timofurrer/awesome-asyncio)) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
-43. [Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md) - ([Source ⭐ 1.9K 📝 11&#x2F;06 ](https://github.com/mateusortiz/webcomponents-the-right-way)) - This is a guide intended to introduce to Web Components. Everyone can contribute here!
+42. [Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md) - ([Source ⭐ 1.9K 📝 11&#x2F;06 ](https://github.com/mateusortiz/webcomponents-the-right-way)) - This is a guide intended to introduce to Web Components. Everyone can contribute here!
+43. [Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md) - ([Source ⭐ 3.7K 📝 10&#x2F;30 ](https://github.com/timofurrer/awesome-asyncio)) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 44. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 12K 📝 10&#x2F;18 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 45. [Papers We Love](/content/papers-we-love/papers-we-love/README.md) - ([Source ⭐ 65K 📝 10&#x2F;01 ](https://github.com/papers-we-love/papers-we-love)) - Papers from the computer science community to read and discuss.
 46. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 3.8K 📝 10&#x2F;29 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
