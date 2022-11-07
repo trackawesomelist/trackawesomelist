@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Nov 07, 2022](/content/2022/11/07/README.md)
+
+### Tools / Vendor supported providers
+
+*   [sato (⭐31)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
+
 ## [Oct 19, 2022](/content/2022/10/19/README.md)
 
 ### Tools / Vendor supported providers

@@ -444,10 +444,10 @@ See also [A comparison of operating systems written in Rust (⭐442)](https://gi
 
 *   [cfal/tobaru (⭐98)](https://github.com/cfal/tobaru) - Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading.
 *   [LemmyNet/lemmy (⭐6.8k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+*   [libreddit (⭐3.6k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
 *   [MASQ-Project/Node (⭐117)](https://github.com/MASQ-Project/Node) — MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN [![build badge](https://github.com/MASQ-Project/Node/actions/workflows/ci-matrix.yml/badge.svg)](https://github.com/MASQ-Project/Node/actions)
 *   [Plume-org/Plume (⭐1.8k)](https://github.com/Plume-org/Plume) — ActivityPub federating blogging application [![build badge](https://api.travis-ci.org/Plume-org/Plume.svg?branch=master)](https://travis-ci.org/Plume-org/Plume)
 *   [Revolt/backend (⭐711)](https://github.com/revoltchat/backend) - User-first chat platform built with modern web technologies.
-*   [spikecodes/libreddit (⭐3.6k)](https://github.com/spikecodes/libreddit) - An alternative private front-end to Reddit
 
 ### Web Servers
 
@@ -570,8 +570,6 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
     *   [rust-lang/rust-bindgen (⭐3k)](https://github.com/rust-lang/rust-bindgen) — A Rust bindings generator
 *   Erlang
     *   [rusterlium/rustler (⭐3.5k)](https://github.com/rusterlium/rustler) — safe Rust bridge for creating Erlang NIF functions [![build badge](https://api.travis-ci.org/rusterlium/rustler.svg?branch=master)](https://travis-ci.org/rusterlium/rustler)
-*   Haskell
-    *   [mgattozzi/curryrs (⭐296)](https://github.com/mgattozzi/curryrs) — Bridge the gap between Haskell and Rust
 *   Java
     *   [bennettanderson/rjni (⭐65)](https://github.com/benanders/rjni) — use Java from Rust
     *   [drrb/java-rust-example (⭐314)](https://github.com/drrb/java-rust-example) — use Rust from Java [![build badge](https://api.travis-ci.org/drrb/java-rust-example.svg?branch=master)](https://travis-ci.org/drrb/java-rust-example)
@@ -1546,6 +1544,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
     *   [danclive/sincere (⭐95)](https://github.com/danclive/sincere) — A micro web framework for Rust(stable) based on hyper and multithreading. [![build badge](https://api.travis-ci.org/danclive/sincere.svg?branch=master)](https://travis-ci.org/danclive/sincere)
     *   [GildedHonour/frank\_jwt (⭐242)](https://github.com/GildedHonour/frank_jwt) — JSON Web Token implementation in Rust. [![build badge](https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master)](https://travis-ci.org/GildedHonour/frank_jwt)
     *   [Gotham (⭐2k)](https://github.com/gotham-rs/gotham) — A flexible web framework that does not sacrifice safety, security or speed. [![build badge](https://api.travis-ci.org/gotham-rs/gotham.svg?branch=master)](https://travis-ci.org/gotham-rs/gotham)
+    *   [Graphul (⭐219)](https://github.com/graphul-rs/graphul) — An Express-inspired web framework written in Rust. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/graphul)
     *   [handlebars-rust (⭐890)](https://github.com/sunng87/handlebars-rust) — an Iron web framework middleware. [![build badge](https://api.travis-ci.org/sunng87/handlebars-iron.svg?branch=master)](https://travis-ci.org/sunng87/handlebars-iron)
     *   [hyperium/hyper (⭐11k)](https://github.com/hyperium/hyper) — an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
     *   [Iron (⭐6.1k)](https://github.com/iron/iron) — A middleware-based server framework [![build badge](https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master)](https://travis-ci.org/GildedHonour/frank_jwt)

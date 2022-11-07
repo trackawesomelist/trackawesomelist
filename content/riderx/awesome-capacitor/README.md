@@ -6,6 +6,14 @@
 
 [ Daily / [Weekly](/content/riderx/awesome-capacitor/week/README.md) / [Overview](/content/riderx/awesome-capacitor/readme/README.md) ]
 
+## [Nov 07, 2022](/content/2022/11/07/README.md)
+
+### [Capgo plugins](https://capgo.app/)
+
+*   [Native audio (⭐0)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
+*   [Native market (⭐3)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
+*   [Camera preview (⭐0)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
+
 ## [Oct 27, 2022](/content/2022/10/27/README.md)
 
 ### Other plugins

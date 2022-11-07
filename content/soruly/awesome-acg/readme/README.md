@@ -39,6 +39,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 *   [chiru.no](https://chiru.no/) - High quality ACG music streaming. \[English]
 *   [Mikutap](https://aidn.jp/mikutap/) - Interactive music mixer with Hatsune Miku. \[English]
 *   [moefm.sh (⭐15)](https://github.com/mike2718/moefm.sh) - Client script for moefm radio. \[中文]
+*   [MoeGoe (⭐734)](https://github.com/CjangCjengh/MoeGoe) - Anime character voice synthesizer. \[English/中文]
 *   [VOICEVOX (⭐1.2k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 
 ## Danmaku

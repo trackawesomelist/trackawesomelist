@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 07, 2022](/content/2022/11/07/README.md)
+
+### Applications / Web
+
+*   [libreddit (⭐3.6k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
+
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
 ### Applications
@@ -402,10 +408,6 @@ A curated list of Rust code and resources.
 *   [Fleet (⭐2.2k)](https://github.com/dimensionhq/fleet) \[[fleet-rs](https://crates.io/crates/fleet-rs)] - The blazing fast build tool for Rust.
 
 ## [Apr 23, 2022](/content/2022/04/23/README.md)
-
-### Applications / Web
-
-*   [spikecodes/libreddit (⭐3.6k)](https://github.com/spikecodes/libreddit) - An alternative private front-end to Reddit
 
 ### Libraries / Audio and Music
 
@@ -2197,6 +2199,7 @@ A curated list of Rust code and resources.
     *   [danclive/sincere (⭐95)](https://github.com/danclive/sincere) — A micro web framework for Rust(stable) based on hyper and multithreading. [![build badge](https://api.travis-ci.org/danclive/sincere.svg?branch=master)](https://travis-ci.org/danclive/sincere)
     *   [GildedHonour/frank\_jwt (⭐242)](https://github.com/GildedHonour/frank_jwt) — JSON Web Token implementation in Rust. [![build badge](https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master)](https://travis-ci.org/GildedHonour/frank_jwt)
     *   [Gotham (⭐2k)](https://github.com/gotham-rs/gotham) — A flexible web framework that does not sacrifice safety, security or speed. [![build badge](https://api.travis-ci.org/gotham-rs/gotham.svg?branch=master)](https://travis-ci.org/gotham-rs/gotham)
+    *   [Graphul (⭐219)](https://github.com/graphul-rs/graphul) — An Express-inspired web framework written in Rust. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/graphul)
     *   [handlebars-rust (⭐890)](https://github.com/sunng87/handlebars-rust) — an Iron web framework middleware. [![build badge](https://api.travis-ci.org/sunng87/handlebars-iron.svg?branch=master)](https://travis-ci.org/sunng87/handlebars-iron)
     *   [hyperium/hyper (⭐11k)](https://github.com/hyperium/hyper) — an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
     *   [Iron (⭐6.1k)](https://github.com/iron/iron) — A middleware-based server framework [![build badge](https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master)](https://travis-ci.org/GildedHonour/frank_jwt)
@@ -2994,13 +2997,6 @@ A curated list of Rust code and resources.
 ### Libraries / GUI
 
 *   [saurvs/nfd-rs (⭐150)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.5k)](https://github.com/mlabbe/nativefiledialog) bindings
-
-## [Nov 26, 2016](/content/2016/11/26/README.md)
-
-### Development tools / FFI
-
-*   Haskell
-    *   [mgattozzi/curryrs (⭐296)](https://github.com/mgattozzi/curryrs) — Bridge the gap between Haskell and Rust
 
 ## [Nov 02, 2016](/content/2016/11/02/README.md)
 

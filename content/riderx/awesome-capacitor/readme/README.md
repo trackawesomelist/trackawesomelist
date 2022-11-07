@@ -121,10 +121,13 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 *   [Crisp (⭐3)](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 *   [Flash (⭐5)](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 *   [Mute (⭐0)](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
+*   [Native audio (⭐0)](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 *   [Native Geocoder (⭐8)](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+*   [Native market (⭐3)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [Screen recorder (⭐3)](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
 *   [Purchases (⭐22)](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 *   [In app Browser (⭐4)](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+*   [Camera preview (⭐0)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 
 ## [Capawesome plugins](https://capawesome.io/)
 

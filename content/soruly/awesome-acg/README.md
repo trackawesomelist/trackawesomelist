@@ -6,6 +6,12 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ Daily / [Weekly](/content/soruly/awesome-acg/week/README.md) / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
+## [Nov 07, 2022](/content/2022/11/07/README.md)
+
+### Audio
+
+*   [MoeGoe (⭐734)](https://github.com/CjangCjengh/MoeGoe) - Anime character voice synthesizer. \[English/中文]
+
 ## [Sep 25, 2022](/content/2022/09/25/README.md)
 
 ### Image Processing

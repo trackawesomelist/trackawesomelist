@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Nov 07, 2022](/content/2022/11/07/README.md)
+
+### Modules / Web framework
+
+*   [danet (⭐73)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+
 ## [Nov 06, 2022](/content/2022/11/06/README.md)
 
 ### Blogs/Newsletters / XML
