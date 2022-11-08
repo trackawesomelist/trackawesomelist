@@ -6,6 +6,16 @@
 
 [ [Daily](/content/ellisonleao/magictools/README.md) / Weekly / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE is a small, completely public domain fixed point physically inaccurate pure C header-only 3D physics engine built to run on tiny computers such as embedded and even bare metal.
+
+### Complete Game Sources / Voxel Editors
+
+*   :tada: [OpenRA (⭐12k)](https://github.com/OpenRA/OpenRA)
+
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### Graphics / Tile/Level Editors
@@ -23,7 +33,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada \[axys] ([https://github.com/axys1/axys (⭐249)](https://github.com/axys1/axys)) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+*   :tada: \[axys] ([https://github.com/axys1/axys (⭐249)](https://github.com/axys1/axys)) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 
 ### Game Jams / Voxel Editors
 

@@ -45,6 +45,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 *   [Projects](#projects)
     *   [Open Source](#open-source)
     *   [App Releases](#app-releases)
+*   [Resources](#resources)
 *   [Non-English Content](#non-english-content)
 
 ## Articles & Tutorials
@@ -123,7 +124,6 @@ to get their code to run with any up-to-date version of Flame.
 *   [flame\_gamepad (⭐40)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
 *   [flame\_geom (⭐4)](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
 *   [flame\_scrolling\_sprite (⭐17)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
-*   [play\_games (⭐59)](https://github.com/flame-engine/play_games) - A simple wrapper on top of Google Play Games Services (GPGS), including auth, achievement, and more.
 
 ### Community
 
@@ -255,6 +255,10 @@ to get their code to run with any up-to-date version of Flame.
 #### Tower Defense
 
 *   Xtrike - [Android](https://play.google.com/store/apps/details?id=online.xtrike.xtrike) - An awesome strategic tower defense game. Build your battle units and destroy enemies. By [White Wood City](http://www.xtrike.online/)
+
+## Resources
+
+*   [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
 
 ## Non-English Content
 

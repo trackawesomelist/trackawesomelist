@@ -4,6 +4,12 @@
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / Weekly / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
+
+### Blockchain
+
+*   [Woody3](https://www.woody3.xyz/) - Find your dream non-tech job in Web3
+
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
 ### Blockchain

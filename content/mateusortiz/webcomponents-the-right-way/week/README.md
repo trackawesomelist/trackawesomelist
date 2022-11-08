@@ -6,6 +6,16 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 [ [Daily](/content/mateusortiz/webcomponents-the-right-way/README.md) / Weekly / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
+
+### Design Systems
+
+*   [Astro Space UX Design System (⭐35)](https://github.com/RocketCommunicationsInc/astro) - Set of components to build rich space app experiences with established interaction patterns.
+*   [Auro Design System](https://auro.alaskaair.com) - Alaska Airlines design system to innovate on ideas and collaborate on the future.
+*   [FAST Components (⭐7.7k)](https://github.com/microsoft/fast/tree/master/packages/web-components) - Library of Web Components based on the FAST design language.
+*   [Nord](https://nordhealth.design) - Nordhealth’s design system for products, digital experiences and brand.
+*   [U-M Library Design System](https://design-system.lib.umich.edu) - University of Michigan Library Design System.
+
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
 ### Custom Elements
@@ -290,12 +300,6 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 *   [Custom Elements Locator (⭐31)](https://github.com/open-wc/locator) - Chrome extension to find custom elements on a page.
 *   [@storybook/web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 
-## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
-
-### Design Systems
-
-*   [U-M Library Design System](https://github.com/mlibrary/design-system) - University of Michigan Library Design System.
-
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
 
 ### Component Libraries
@@ -320,7 +324,6 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Design Systems
 
-*   [FAST Components (⭐7.7k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - Library of Web Components based on the FAST design language.
 *   [GOV.UK Web Components (⭐3)](https://github.com/tgreyuk/govuk-webcomponents) - Set of encapsulated web components consuming the GOV.UK Design System.
 
 ### Integrations
@@ -527,13 +530,10 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Design Systems
 
-*   [Amber Components (⭐28)](https://github.com/bitrockteam/amber-components) - Web Components implementation of the Amber Design System.
 *   [Calcite Components (⭐184)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
-*   [Chameleon Web Components (⭐26)](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
 *   [Helix UI (⭐51)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
 *   [NuML | NUDE Elements (⭐309)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
 *   [PatternFly Elements (⭐300)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
-*   [Pearson Web Components](https://github.com/pearson-ux/web-components) - Pearson's shareable component library implementing Gravity design system.
 *   [Spectrum Web Components (⭐733)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
 *   [UI5 Web Components (⭐1.2k)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 *   [Zooplus web components (⭐39)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
