@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ [Daily](/content/rothgar/awesome-tmux/README.md) / Weekly / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
+
+### Tools and session management
+
+*   [tmux-conf (⭐0)](https://github.com/jaclu/tmux-conf) Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks
+
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
 ### Plugins

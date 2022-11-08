@@ -142,6 +142,7 @@ You can find them listed on the [Neovim wiki (⭐59k)](https://github.com/neovim
 *   [mfussenegger/nvim-jdtls (⭐436)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls.
 *   [Kasama/nvim-custom-diagnostic-highlight (⭐32)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
 *   [MrcJkb/haskell-tools.nvim (⭐89)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
+*   [ranjithshegde/ccls.nvim (⭐34)](https://github.com/ranjithshegde/ccls.nvim) - A Neovim plugin to use off-spec extensions of ccls LSP and browse AST.
 
 ##### LSP Installer
 
@@ -218,6 +219,7 @@ You can find them listed on the [Neovim wiki (⭐59k)](https://github.com/neovim
 *   [frabjous/knap (⭐134)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 *   [jbyuki/carrot.nvim (⭐17)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator for Neovim Lua code blocks.
 *   [AckslD/nvim-FeMaco.lua (⭐168)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
+*   [NFrid/markdown-togglecheck (⭐1)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
 
 ### Language
 
@@ -606,6 +608,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [miversen33/import.nvim (⭐148)](https://github.com/miversen33/import.nvim) - A safe require replacement with niceties.
 *   [ray-x/guihua.lua (⭐91)](https://github.com/ray-x/guihua.lua) - A Lua UI library. Includes a fzy search bar, list view and tree view modules.
 *   [anuvyklack/animation.nvim (⭐10)](https://github.com/anuvyklack/animation.nvim) - Create animations in Neovim.
+*   [NFrid/treesitter-utils (⭐1)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
 
 ### Fennel
 

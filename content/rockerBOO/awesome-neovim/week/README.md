@@ -8,9 +8,21 @@ Collections of awesome neovim plugins.
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
+### (requires Neovim 0.5)
+
+*   [ranjithshegde/ccls.nvim (⭐34)](https://github.com/ranjithshegde/ccls.nvim) - A Neovim plugin to use off-spec extensions of ccls LSP and browse AST.
+
+### Markdown / LaTeX / Diagnostics
+
+*   [NFrid/markdown-togglecheck (⭐1)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [bluz71/vim-nightfly-colors (⭐502)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
+
+### Neovim Lua Development / Diagnostics
+
+*   [NFrid/treesitter-utils (⭐1)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 

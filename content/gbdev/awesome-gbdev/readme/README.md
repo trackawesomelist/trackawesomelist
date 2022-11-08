@@ -250,13 +250,21 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 ### Emulators
 
 *   [BGB](https://bgb.bircd.org/) - Powerful emulator and debugger. Provides an accurate hardware emulation.
+
 *   [SameBoy (⭐1.1k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
+
 *   [Mooneye GB (⭐783)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+
 *   [mGBA (⭐4k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
+
 *   [Binjgb (⭐384)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
-*   [Gambatte (⭐386)](https://github.com/sinamas/gambatte) - Cross-platform and accurate emulator.
+
+*   [Gambatte (⭐2)](https://github.com/gb-archive/gambatte) - Cross-platform and accurate emulator.
+
 *   [MetroBoy (⭐988)](https://github.com/aappleby/MetroBoy) - A playable, circuit-level simulation of an entire Game Boy.
+
 *   [gbe-plus (⭐376)](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
+
 *   [Emulicious](https://emulicious.net/) - Provides accurate emulation and includes powerful tools such as a profiler and source-level debugging for ASM and C via a [VS Code debug adapter](https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger).
 
 [Complete list of open source emulators](https://github.com/gbdev/awesome-gbdev/blob/master/README.md/EMULATORS.md)
@@ -311,7 +319,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 *   [GBT PLAYER (⭐239)](https://github.com/AntonioND/gbt-player) - A music player library and converter kit.
 *   [mmlgb (⭐33)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
 *   [XPMCK (⭐24)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
-*   [SoundSystem](https://github.com/gb-archive/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
+*   [GBSoundSystem (⭐0)](https://github.com/gbdev/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
 *   [hUGETracker (⭐170)](https://github.com/SuperDisk/hUGETracker) - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
 *   [CBT-FX (⭐9)](https://github.com/datguywitha3ds/CBT-FX) - A GBDK-2020 sound effect driver compatible with FX-Hammer sound effects.
 

@@ -6,6 +6,16 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 
 [ Daily / [Weekly](/content/gbdev/awesome-gbdev/week/README.md) / [Overview](/content/gbdev/awesome-gbdev/readme/README.md) ]
 
+## [Nov 08, 2022](/content/2022/11/08/README.md)
+
+### Emulators / Experimental/Proof of Concepts
+
+*   [Gambatte (⭐2)](https://github.com/gb-archive/gambatte) - Cross-platform and accurate emulator.
+
+### Tools / Music drivers and trackers
+
+*   [GBSoundSystem (⭐0)](https://github.com/gbdev/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
+
 ## [Aug 10, 2022](/content/2022/08/10/README.md)
 
 ### Cartridges / Opcodes
@@ -59,10 +69,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 *   [Game Boy home of Flavor](https://web.archive.org/web/20210427064949/www.personal.triticom.com/\~erm/GameBoy/) - Some full games and sources.
 
 ## [Sep 18, 2021](/content/2021/09/18/README.md)
-
-### Tools / Music drivers and trackers
-
-*   [SoundSystem](https://github.com/gb-archive/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
 
 ### ASM / Sources
 
@@ -665,7 +671,6 @@ A curated list of Game Boy development resources such as tools, docs, emulators,
 ### Emulators / Experimental/Proof of Concepts
 
 *   [mGBA (⭐4k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
-*   [Gambatte (⭐386)](https://github.com/sinamas/gambatte) - Cross-platform and accurate emulator.
 
 ## [Sep 30, 2018](/content/2018/09/30/README.md)
 

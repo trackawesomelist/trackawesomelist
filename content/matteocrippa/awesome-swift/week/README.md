@@ -8,6 +8,18 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
+### Style Guides
+
+*   [Raywenderlich (⭐12k)](https://github.com/kodecocodes/swift-style-guide) - Raywenderlich guide, a must read.
+
+### Third party Guides
+
+*   [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.kodeco.com) - High quality programming tutorials.
+
+### Network / Barcode
+
+*   [RxNetworks (⭐125)](https://github.com/yangKJ/RxNetworks) - Network API With RxSwift + Moya + HandyJSON + Plugins.
+
 ### Transition / Barcode
 
 *   [NavigationTransitions (⭐33)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
@@ -1534,7 +1546,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### Third party Guides
 
-*   [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.raywenderlich.com) - High quality programming tutorials.
 *   [swift-tips (⭐911)](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
 
 ### Other Awesome Lists
@@ -1979,10 +1990,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 *   [GradientLoadingBar (⭐765)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [Jan 15 - Jan 21, 2018](/content/2018/3/README.md)
-
-### Newsletter
-
-*   [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing for people interested in designing and developing their own iOS, watchOS and Apple TV apps.
 
 ### Concurrency
 
@@ -2563,7 +2570,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Style Guides
 
 *   [LinkedIn (⭐1.4k)](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Style Guide.
-*   [Raywenderlich (⭐12k)](https://github.com/raywenderlich/swift-style-guide) - Raywenderlich guide, a must read.
 
 ### Third party Guides
 
