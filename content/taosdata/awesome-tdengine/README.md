@@ -6,11 +6,22 @@
 
 [ Daily / [Weekly](/content/taosdata/awesome-tdengine/week/README.md) / [Overview](/content/taosdata/awesome-tdengine/readme/README.md) ]
 
+## [Nov 09, 2022](/content/2022/11/09/README.md)
+
+### IoT
+
+*   [WumeiSmart (⭐753)](https://github.com/kerwincui/wumei-smart) - WumeiSmart is an intelligent life IoT platform.
+*   [JetLinks (⭐3.4k)](https://github.com/jetlinks/jetlinks-community) - JetLinks is a fully responsive, enterprise-class IoT platform.
+
+### Connector
+
+*   [taos-odbc (⭐2)](https://github.com/freemine/taos_odbc) - ODBC Driver for TDengine 3.0, very much early stage.
+
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 
 ### IoT
 
-*   [IoTSharp (⭐520)](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp is an open-source IoT platform for data collection,It supports storing time series data to TDengine.
+*   [IoTSharp (⭐532)](https://github.com/IoTSharp/IoTSharp/blob/master/IoTSharp.Data.TimeSeries/TaosStorage.cs) - IoTSharp is an open-source IoT platform for data collection,It supports storing time series data to TDengine.
 
 ### Connector
 
@@ -24,7 +35,7 @@
 
 ### GUI
 
-*   [TDengineGUI (⭐7)](https://github.com/arielyang/TDengineGUI) - A simple TDengine Desktop Manager.
+*   [TDengineGUI (⭐13)](https://github.com/arielyang/TDengineGUI) - A simple TDengine Desktop Manager.
 
 ## [Aug 30, 2022](/content/2022/08/30/README.md)
 
@@ -76,7 +87,7 @@
 
 ### IoT
 
-*   [DG-IoT (⭐255)](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
+*   [DG-IoT (⭐257)](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
 *   [dgiot\_tdengine (⭐1)](https://github.com/dgiot/dgiot_tdengine) - TDengine adapter plugin.
 *   [node-red-contrib-tdengine (⭐8)](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
 
@@ -84,31 +95,31 @@
 
 *   [sqli (⭐1.9k)](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
 *   [TDengine ORM Framework (⭐3)](https://github.com/hxshun/TDengineORM) - ORM framework of TAOS Data's time-series database TDengine.
-*   [IoTSharp.EntityFrameworkCore.Taos (⭐141)](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
+*   [IoTSharp.EntityFrameworkCore.Taos (⭐142)](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
 *   [crown (⭐31)](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 
 ### Connector
 
-*   [PDO\_TAOS (⭐38)](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
+*   [PDO\_TAOS (⭐39)](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
 *   [yii2-tdengine (⭐0)](https://github.com/bearlord/yii2-tdengine) - TDengine for yii2, pdo\_taos needed.
-*   [php-tdengine (⭐60)](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole.
+*   [php-tdengine (⭐61)](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole.
 *   [tdengine-restful-connector (⭐11)](https://github.com/Yurunsoft/tdengine-restful-connector) - PHP extension of TDengine, support Swoole.
 *   [imi-tdengine (⭐4)](https://github.com/imiphp/imi-tdengine) - Encapsulated TDengine connection pools, used in imi framework.
 *   [pytaos (⭐2)](https://github.com/horennel/pytaos) - Python RESTful API of TDengine.
 *   [NestJS TDengine Driver (⭐2)](https://github.com/IricBing/nestjs-tdengine) - NestJS TDengine Driver(RESTful based).
 *   [taos-rs (⭐0)](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful Client.
 *   [TDengine Rust bindings (⭐7)](https://github.com/songtianyi/tdengine-rust-bindings) - It's a Rust bindings project for TDengine.
-*   [TDenginex (⭐0)](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
+*   [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
 
 ### Stack
 
 *   [NewLife.Core (⭐1.6k)](https://github.com/NewLifeX/X) - NewLife.Core Database core.
-*   [NewLife.XCode (⭐20)](https://github.com/NewLifeX/NewLife.XCode) - NewLife.XCode Database Middle-ware.
+*   [NewLife.XCode (⭐21)](https://github.com/NewLifeX/NewLife.XCode) - NewLife.XCode Database Middle-ware.
 
 ### Plugin
 
 *   [rsyslog plugin for tdengine (⭐1)](https://github.com/mxmkeep/rsyslog-omtaos) - rsyslog plugin for TDengine.
-*   [HiveMQ TDengine Plugin (⭐5)](https://github.com/huskar-t/hivemq-tdengine-extension) - HiveMQ TDengine Plugin.
+*   [HiveMQ TDengine Plugin (⭐6)](https://github.com/huskar-t/hivemq-tdengine-extension) - HiveMQ TDengine Plugin.
 *   [hivemq-tdengine-jdsl-extension (⭐0)](https://github.com/huskar-t/hivemq-tdengine-jdsl-extension) - HiveMQ TDengine JDSL Plugin.
 *   [HiveMQ-TDengine-Extension (⭐1)](https://github.com/john-bigz/hivemq-tdengine-extension) - A TDengine extension for HiveMQ.
 
@@ -118,7 +129,7 @@
 
 ### Container
 
-*   [TDengine cluster for kubernetes (⭐14)](https://github.com/wwbgo/tdengine-k8s) - TDengine cluster for kubernetes.
+*   [TDengine cluster for kubernetes (⭐15)](https://github.com/wwbgo/tdengine-k8s) - TDengine cluster for kubernetes.
 
 ### Distribution
 
@@ -151,7 +162,7 @@
 
 ### IoT
 
-*   [Zeus IoT (⭐619)](https://github.com/zmops/zeus-iot) - Zeus IoT is the world's first open source Internet of Things distributed collection platform based on Zabbix, with the ability to collect, analyze, and store data from millions of IoT devices.
+*   [Zeus IoT (⭐625)](https://github.com/zmops/zeus-iot) - Zeus IoT is the world's first open source Internet of Things distributed collection platform based on Zabbix, with the ability to collect, analyze, and store data from millions of IoT devices.
 
 ### Connector
 
@@ -164,7 +175,7 @@
 
 ### Algorithm
 
-*   [PyODDS (⭐204)](https://github.com/datamllab/pyodds) - An End-to-end Outlier Detection System.
+*   [PyODDS (⭐206)](https://github.com/datamllab/pyodds) - An End-to-end Outlier Detection System.
 *   [PYTSDA-TDengine (⭐21)](https://github.com/Shawshank-Smile/PYTSDA-TDengine) - An End-to-end time series data analysis system with TDengine.
 
 ### Observability
@@ -177,7 +188,7 @@
 
 ### Dataset
 
-*   [seedlink2taos\_py (⭐9)](https://github.com/schenton/seedlink2taos_py) - A Python program that fetches seismic waveform data from IRIS and writes to TDengine database.
+*   [seedlink2taos\_py (⭐10)](https://github.com/schenton/seedlink2taos_py) - A Python program that fetches seismic waveform data from IRIS and writes to TDengine database.
 
 ## [Mar 24, 2022](/content/2022/03/24/README.md)
 

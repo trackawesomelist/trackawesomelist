@@ -6,6 +6,31 @@ A curated list of software and architecture related design patterns.
 
 [ Daily / [Weekly](/content/DovAmir/awesome-design-patterns/week/README.md) / [Overview](/content/DovAmir/awesome-design-patterns/readme/README.md) ]
 
+## [Nov 09, 2022](/content/2022/11/09/README.md)
+
+### Programming Language Design Patterns
+
+*   Elixir
+    *   [design-patterns (⭐557)](https://github.com/joshnuss/design-patterns-in-elixir)
+
+    *   [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
+
+### General Architecture
+
+*   [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Patterns for implementing InnerSource, the use of open source principles and practices for software development within the confines of an organization.
+
+### Books
+
+*   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
+*   [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
+*   [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
+*   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
+*   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
+*   [Game Programming Patterns (⭐3.4k)](https://github.com/munificent/game-programming-patterns)
+*   [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
+*   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
+*   [Designing Microservices](https://www.manning.com/books/designing-microservices)
+
 ## [Jun 08, 2021](/content/2021/06/08/README.md)
 
 ### Programming Language Design Patterns
@@ -54,14 +79,14 @@ A curated list of software and architecture related design patterns.
 *   Node
     *   [Real world design patterns with Node.js (⭐168)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
     *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
-*   Object Oriented
-    *   [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books\&ie=UTF8\&qid=1528136036\&sr=1-4\&keywords=design+patterns)
-    *   [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
-    *   [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 *   Python
     *   [design-patterns (⭐35k)](https://github.com/faif/python-patterns)
-    *   [PyPattyrn (⭐1.6k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [PyPattyrn (⭐1.7k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
     *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
+
+### Books
+
+*   [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books\&ie=UTF8\&qid=1528136036\&sr=1-4\&keywords=design+patterns)
 
 ### Serverless Architecture
 
@@ -107,7 +132,7 @@ A curated list of software and architecture related design patterns.
 
 *   React
     *   [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-    *   [react-bits (⭐13k)](https://github.com/vasanthk/react-bits)
+    *   [react-bits (⭐14k)](https://github.com/vasanthk/react-bits)
     *   [reactpatterns.com](https://reactpatterns.com)
 
 ## [Apr 08, 2019](/content/2019/04/08/README.md)
@@ -252,7 +277,7 @@ A curated list of software and architecture related design patterns.
 
 ### Other Awesome Lists
 
-*   Other amazingly awesome lists can be found in the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list.
+*   Other amazingly awesome lists can be found in the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) list.
 
 ### Contributing
 

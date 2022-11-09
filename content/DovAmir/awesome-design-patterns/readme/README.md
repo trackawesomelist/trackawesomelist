@@ -90,12 +90,12 @@ A curated list of software and architecture related design patterns.
 
 *   Python
     *   [design-patterns (⭐35k)](https://github.com/faif/python-patterns)
-    *   [PyPattyrn (⭐1.6k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [PyPattyrn (⭐1.7k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
     *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
 
 *   React
     *   [design-patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
-    *   [react-bits (⭐13k)](https://github.com/vasanthk/react-bits)
+    *   [react-bits (⭐14k)](https://github.com/vasanthk/react-bits)
     *   [reactpatterns.com](https://reactpatterns.com)
 
 *   Ruby
@@ -120,6 +120,11 @@ A curated list of software and architecture related design patterns.
 *   Vue.js
     *   [Vue Patterns](https://learn-vuejs.github.io/vue-patterns/) - Useful Vue patterns, techniques, tips and tricks and curated helpful links.
 
+*   Elixir
+    *   [design-patterns (⭐557)](https://github.com/joshnuss/design-patterns-in-elixir)
+
+    *   [the-pipeline](https://mattpruitt.com/articles/the-pipeline) - The Pipeline is defined by a collection of functions that take a data structure as an argument and return the same type of data structure
+
 ## General Architecture
 
 *   [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
@@ -128,6 +133,7 @@ A curated list of software and architecture related design patterns.
 *   [martin fowler](https://martinfowler.com/eaaCatalog) - Catalog of Patterns of Enterprise Application Architecture.
 *   [system-design-primer (⭐201k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 *   [architecting-for-reliability](https://medium.com/becloudy/architecting-for-reliability-part-1-concepts-17028343089) - Architecting for Reliability Part 1/3.
+*   [InnerSource Patterns](https://patterns.innersourcecommons.org/) - Patterns for implementing InnerSource, the use of open source principles and practices for software development within the confines of an organization.
 
 ## Cloud Architecture
 
@@ -229,9 +235,22 @@ A curated list of software and architecture related design patterns.
 *   [owasp](https://www.owasp.org/index.php/Security_by_Design_Principles) - Security by Design Principles.
 *   [azure-security](https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns) - Azure security best practices and patterns.
 
+## Books
+
+*   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
+*   [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
+*   [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books\&ie=UTF8\&qid=1528136036\&sr=1-4\&keywords=design+patterns)
+*   [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
+*   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
+*   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
+*   [Game Programming Patterns (⭐3.4k)](https://github.com/munificent/game-programming-patterns)
+*   [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
+*   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
+*   [Designing Microservices](https://www.manning.com/books/designing-microservices)
+
 ## Other Awesome Lists
 
-*   Other amazingly awesome lists can be found in the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list.
+*   Other amazingly awesome lists can be found in the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) list.
 
 ## Contributing
 
