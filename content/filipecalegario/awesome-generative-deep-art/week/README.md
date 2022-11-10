@@ -8,8 +8,13 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
+### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   \[🔥🔥🔥] [Prompt book for data lovers II ❤️ - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
+
 ### Stable Diffusion Inbox
 
+*   [prompthero/midjourney-v4-diffusion · Hugging Face](https://huggingface.co/prompthero/midjourney-v4-diffusion): Stable Diffusion fine tuned on Midjourney v4 images, by [PromptHero](https://prompthero.com/)
 *   [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/): explained by Jay Alammar (Visualizing machine learning one concept at a time)
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)

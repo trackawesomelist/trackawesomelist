@@ -127,6 +127,7 @@ The definition of developer-first for this repo is:
 *   [CircleCI](https://circleci.com/) - YML to configure your builds, parallel jobs, jobs marketplace.
 *   [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 *   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments.
+*   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
 
 ## CMS (headless)
 
@@ -390,5 +391,5 @@ The definition of developer-first for this repo is:
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐301)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐314)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

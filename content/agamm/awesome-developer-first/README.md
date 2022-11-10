@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Nov 10, 2022](/content/2022/11/10/README.md)
+
+### CI/CD
+
+*   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
+
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
 ### Feature Flags
