@@ -6,6 +6,16 @@
 
 [ [Daily](/content/agarrharr/awesome-static-website-services/README.md) / Weekly / [Overview](/content/agarrharr/awesome-static-website-services/readme/README.md) ]
 
+## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
+
+### Comments
+
+*   [utterances](https://github.com/utterance) - A lightweight comments widget built on GitHub issues.
+
+### Live Chat / Provided by the Host
+
+*   [Tiledesk](https://tiledesk.com) - Free Live Chat with open source chatbot builder.
+
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
 ### Forms / Really Simple Forms
@@ -45,7 +55,7 @@
 
 ### Comments
 
-*   [giscus (⭐3.2k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
+*   [giscus (⭐3.3k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
 
@@ -61,7 +71,7 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Azure Static Web Apps (⭐67)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
+*   [Awesome Azure Static Web Apps (⭐68)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
@@ -122,8 +132,8 @@
 
 ### Search / Provided by the Host
 
-*   [itemsjs (⭐266)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
-*   [minisearch (⭐1.6k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+*   [itemsjs (⭐268)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+*   [minisearch (⭐1.7k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 *   [flexsearch (⭐9k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
 *   [static-search (⭐23)](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
@@ -132,7 +142,7 @@
 *   [js-search](https://www.npmjs.com/package/js-search) - Client-side searches of JavaScript and JSON objects, ES5 compatible and does not require jQuery or any other third-party libraries
 *   [search-index (⭐1.3k)](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
 *   [fuzzysearch (⭐2.7k)](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
-*   [fuzzy (⭐802)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
+*   [fuzzy (⭐804)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 *   [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)
@@ -299,7 +309,7 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Static Hosting (⭐244)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Static Hosting (⭐245)](https://github.com/b-long/awesome-static-hosting)
 
 ## [Feb 06 - Feb 12, 2017](/content/2017/6/README.md)
 

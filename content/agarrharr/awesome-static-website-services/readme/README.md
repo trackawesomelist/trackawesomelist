@@ -12,7 +12,7 @@
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -126,7 +126,8 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
 *   [Redditjs Embed Widget](http://embed.redditjs.com/) - Embed Reddit comments on your site. If it hasn't been posted, it will show a link to encourage the user to submit.
 *   [Muut.com](https://muut.com/) - Embeddable comments, forum and private messaging. A lot of functionality, but really low footprint left on your website.
 *   [Gitment (⭐4k)](https://github.com/imsun/gitment) - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
-*   [giscus (⭐3.2k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
+*   [giscus (⭐3.3k)](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
+*   [utterances](https://github.com/utterance) - A lightweight comments widget built on GitHub issues.
 
 ### Forms
 
@@ -180,6 +181,7 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
 *   [tawk.co](https://www.tawk.to/) - Lets you monitor and chat with visitors on your website.
 *   [WebsiteAlive](https://www.websitealive.com/) - Live chat for your website & social networks.
 *   [Zopim](https://www.zopim.com/) - Live chat with free trial.
+*   [Tiledesk](https://tiledesk.com) - Free Live Chat with open source chatbot builder.
 
 ### Newsletters
 
@@ -226,8 +228,8 @@ Inspired by the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) lis
 Self-hosted:
 
 *   [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
-*   [itemsjs (⭐266)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
-*   [minisearch (⭐1.6k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
+*   [itemsjs (⭐268)](https://github.com/itemsapi/itemsjs) - Full text, faceted, almost dependency free search engine in javascript
+*   [minisearch (⭐1.7k)](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 *   [flexsearch (⭐9k)](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 *   [fuse.js](https://fusejs.io/) - Powerful, lightweight fuzzy-search library, with zero dependencies
 *   [static-search (⭐23)](https://github.com/dchest/static-search) - A Go program to generate JSON index of HTML files, and a JavaScript component with optional UI to search this index
@@ -236,7 +238,7 @@ Self-hosted:
 *   [js-search](https://www.npmjs.com/package/js-search) - Client-side searches of JavaScript and JSON objects, ES5 compatible and does not require jQuery or any other third-party libraries
 *   [search-index (⭐1.3k)](https://github.com/fergiemcdowall/search-index) - A persistent, network resilient, full text search library for the browser and Node.js
 *   [fuzzysearch (⭐2.7k)](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
-*   [fuzzy (⭐802)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
+*   [fuzzy (⭐804)](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 *   [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
 *   [Jets.js](https://jets.js.org/) - Native CSS search engine
 
@@ -261,8 +263,8 @@ Third party integration:
 
 ## Related Lists
 
-*   [Awesome Static Hosting (⭐244)](https://github.com/b-long/awesome-static-hosting)
-*   [Awesome Azure Static Web Apps (⭐67)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
+*   [Awesome Static Hosting (⭐245)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Azure Static Web Apps (⭐68)](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ***
 
