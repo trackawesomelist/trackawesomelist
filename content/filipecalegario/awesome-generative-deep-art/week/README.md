@@ -18,6 +18,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [prompthero/midjourney-v4-diffusion · Hugging Face](https://huggingface.co/prompthero/midjourney-v4-diffusion): Stable Diffusion fine tuned on Midjourney v4 images, by [PromptHero](https://prompthero.com/)
 *   [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/): explained by Jay Alammar (Visualizing machine learning one concept at a time)
 
+### Image Synthesis / Collections
+
+*   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
+
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
 ### Stable Diffusion Inbox

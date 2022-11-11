@@ -40,6 +40,10 @@ Collections of awesome neovim plugins.
 
 *   [NFrid/treesitter-utils (⭐1)](https://github.com/NFrid/treesitter-utils) - Some useful Treesitter methods.
 
+### Split and Window / Diagnostics
+
+*   [nvim-zh/colorful-winsep.nvim (⭐125)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
 ### (requires Neovim 0.5)

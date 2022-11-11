@@ -63,23 +63,91 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Why Web Components Aren't Ready for Production... Yet](https://www.telerik.com/blogs/web-components-arent-ready-production-yet)
 *   [Component Interop With React And Custom Elements](https://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 
-#### [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [5. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Performance
+
+*   [go-instrument (⭐7)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+
+#### [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Split and Window / Diagnostics
+
+*   [nvim-zh/colorful-winsep.nvim (⭐125)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
+
+#### [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Stable Diffusion Inbox
 
 *   \[NEWS][Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel](https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/)
 
-#### [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+##### Image Synthesis / Collections
+
+*   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
+
+#### [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+##### Libraries/Frameworks / Serialization
+
+*   [SalomonBrys/Kotson (⭐714)](https://github.com/SalomonBrys/Kotson) - Gson for Kotlin, Kotson enables you to parse and write JSON with Google's Gson using a conciser and easier syntax.
+
+##### Libraries/Frameworks / Database
+
+*   [x2bool/kuery (⭐205)](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin.
+
+##### Libraries/Frameworks / Http Clients
+
+*   [egorzhdan/networkinkt (⭐31)](https://github.com/egorzhdan/networkinkt) - Multiplatform coroutine-based HTTP client.
+*   [curiousnikhil/Asynkio (⭐82)](https://github.com/curiousnikhil/Asynkio) - Make asynchronous calls painlessly with async/await style.
+
+##### Libraries/Frameworks / Misc
+
+*   [phxql/aleksa (⭐36)](https://github.com/phxql/aleksa) - Aleksa is a small framework for writing Alexa Skills in Kotlin.
+*   [soywiz/klock (⭐681)](https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (JVM, JS and Common).
+*   [korlibs/kds (⭐49)](https://github.com/korlibs/kds) - Optimized Kotlin Data Structures for JVM, JS and Common
+
+##### Libraries/Frameworks / Extensions
+
+*   [Kotlin/kotlinx.support (⭐53)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
+
+##### Libraries/Frameworks / Graphics
+
+*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
+
+##### Libraries/Frameworks / Data Science
+
+*   [thomasnield/kotlin-statistics (⭐842)](https://github.com/thomasnield/kotlin-statistics) - Advanced math and statistical extensions for Kotlin.
+*   [sekwiatkowski/Komputation (⭐297)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
+
+##### Libraries/Frameworks / Mail
+
+*   [bluefireoly/SimpleKotlinMail (⭐53)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+
+##### Projects / Web
+
+*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+
+##### Projects / Build tools
+
+*   [gradle/kotlin-dsl-samples (⭐3.6k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
+*   [nebula-plugins/nebula-kotlin-plugin (⭐58)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+
+##### Projects / Desktop
+
+*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+##### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+
+##### Android / Libraries
+
+*   [OTPComposable (⭐0)](https://github.com/itmaginationdemos/OTPComposable) - A library dedicated to making OTP (One Time Password) components a breeze to implement
 
 ##### Android / Projects
 
 *   [hanjoongcho/aaf-easypassword (⭐31)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-
-#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Performance
-
-*   [go-instrument (⭐7)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+*   [AnkitSuda/Rebound (⭐43)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
 
 ### [Nov 10, 2022](/content/2022/11/10/README.md)
 
@@ -97,7 +165,97 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
 
-#### [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+##### .NET Conf session - Blazor in .NET 7 (November 8, 2022).
+
+*   Live-streaming: What's new for Blazor in .NET 7
+*   Now at #dotNETConf, @stevensanderson gives us a look at the new support for custom elements, improved data binding, handling location changing events, dynamic authentication requests, and more!
+
+##### .NET Conf session - Create native desktop & mobile apps using web skills in Blazor Hybrid (November 8, 2022).
+
+*   Live-streaming for App Devs: Create native desktop & mobile apps using web skills in Blazor Hybrid
+*   @original\_ejl and @JamesMontemagno join #dotNETConf to discuss building world-class apps with native API access with .NET MAUI and Blazor Hybrid.
+
+##### Articles / Others
+
+*   [Release: Blazorise 1.1.3](https://blazorise.com/news/release-notes/113) - November 8, 2022 - This Blazorise version was supposed to be just a minor maintenance release. Instead, we got a few relatively large features and announcements, with .NET 7 support.
+
+#### [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+##### Online
+
+*   [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape.
+
+#### [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+
+##### JupyterLab Extensions
+
+*   [genv (⭐5)](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab.
+
+#### [6. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+
+##### DevOps / Newsletters
+
+*   [Standard (⭐149)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+
+#### [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Cryptocurrencies
+
+*   [cairo-rs (⭐234)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
+
+#### [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+
+##### Online services
+
+*   [testRigor](https://testrigor.com) - E2E functional test automation tool for web, mobile, and desktop tests.
+
+#### [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+
+##### Tools / Vendor supported providers
+
+*   [terraform-diff (⭐46)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
+
+#### [10. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
+
+##### Comments
+
+*   [utterances](https://github.com/utterance) - A lightweight comments widget built on GitHub issues.
+
+##### Live Chat / Provided by the Host
+
+*   [Tiledesk](https://tiledesk.com) - Free Live Chat with open source chatbot builder.
+
+#### [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+
+##### Projects
+
+*   [theiskaa.com (⭐2)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com)
+
+#### [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Utilities / Quality of Life Improvements
+
+*   [DisplayBuddy](https://displaybuddy.app) - Control the brightness, contrast, input source and more of your external display directly from your Mac.
+
+#### [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [bat (⭐0)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐38k)](https://github.com/sharkdp/bat) users.
+
+##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐152k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐8.5k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐8.5k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+
+#### [14. Awesome V](/content/vlang/awesome-v/README.md)
+
+##### Libraries / Text processing
+
+*   [text-processing (⭐3)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
+
+#### [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Programming Languages Support / Diagnostics
 
@@ -115,91 +273,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [hkupty/iron.nvim (⭐518)](https://github.com/hkupty/iron.nvim) - Interactive REPLs of over 30 languages embedded.
 
-#### [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-##### .NET Conf session - Blazor in .NET 7 (November 8, 2022).
-
-*   Live-streaming: What's new for Blazor in .NET 7
-*   Now at #dotNETConf, @stevensanderson gives us a look at the new support for custom elements, improved data binding, handling location changing events, dynamic authentication requests, and more!
-
-##### .NET Conf session - Create native desktop & mobile apps using web skills in Blazor Hybrid (November 8, 2022).
-
-*   Live-streaming for App Devs: Create native desktop & mobile apps using web skills in Blazor Hybrid
-*   @original\_ejl and @JamesMontemagno join #dotNETConf to discuss building world-class apps with native API access with .NET MAUI and Blazor Hybrid.
-
-##### Articles / Others
-
-*   [Release: Blazorise 1.1.3](https://blazorise.com/news/release-notes/113) - November 8, 2022 - This Blazorise version was supposed to be just a minor maintenance release. Instead, we got a few relatively large features and announcements, with .NET 7 support.
-
-#### [5. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
-
-##### Online
-
-*   [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape.
-
-#### [6. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
-
-##### JupyterLab Extensions
-
-*   [genv (⭐5)](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab.
-
-#### [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
-
-##### DevOps / Newsletters
-
-*   [Standard (⭐149)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
-
-#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Cryptocurrencies
-
-*   [cairo-rs (⭐234)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
-
-#### [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
-
-##### Online services
-
-*   [testRigor](https://testrigor.com) - E2E functional test automation tool for web, mobile, and desktop tests.
-
-#### [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
-
-##### Tools / Vendor supported providers
-
-*   [terraform-diff (⭐46)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
-
-#### [11. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
-
-##### Comments
-
-*   [utterances](https://github.com/utterance) - A lightweight comments widget built on GitHub issues.
-
-##### Live Chat / Provided by the Host
-
-*   [Tiledesk](https://tiledesk.com) - Free Live Chat with open source chatbot builder.
-
-#### [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
-
-##### Projects
-
-*   [theiskaa.com (⭐2)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com)
-
-#### [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Utilities / Quality of Life Improvements
-
-*   [DisplayBuddy](https://displaybuddy.app) - Control the brightness, contrast, input source and more of your external display directly from your Mac.
-
-#### [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
-
-##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
-
-*   [bat (⭐0)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐38k)](https://github.com/sharkdp/bat) users.
-
-##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
-
-*   [funkydrac (⭐0)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐152k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐8.5k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐8.5k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
-
-#### [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -208,12 +282,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Stable Diffusion Inbox
 
 *   [prompthero/midjourney-v4-diffusion · Hugging Face](https://huggingface.co/prompthero/midjourney-v4-diffusion): Stable Diffusion fine tuned on Midjourney v4 images, by [PromptHero](https://prompthero.com/)
-
-#### [16. Awesome V](/content/vlang/awesome-v/README.md)
-
-##### Libraries / Text processing
-
-*   [text-processing (⭐3)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 
 ### [Nov 09, 2022](/content/2022/11/09/README.md)
 
@@ -308,23 +376,23 @@ Lists repositories that are similar to the one being viewed
 
 Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
-#### [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [11. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Uncategorized
+
+*   [sitemap-format (⭐0)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
+
+#### [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Stable Diffusion Inbox
 
 *   [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/): explained by Jay Alammar (Visualizing machine learning one concept at a time)
 
-#### [12. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Kotlin Native / Projects
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-#### [13. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Uncategorized
-
-*   [sitemap-format (⭐0)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
 
 ---
 
@@ -353,10 +421,10 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 19. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 9.7K 📝 11&#x2F;09 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 20. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 16K 📝 11&#x2F;04 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open source sysadmin resources.
 21. [Awesome React Components](/content/brillout/awesome-react-components/README.md) - ([Source ⭐ 33K 📝 10&#x2F;28 ](https://github.com/brillout/awesome-react-components)) - Curated List of React Components & Libraries.
-22. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 11K 📝 11&#x2F;07 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-23. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 24K 📝 10&#x2F;29 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
-24. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 20K 📝 10&#x2F;31 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-25. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K 📝 11&#x2F;10 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+22. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K 📝 11&#x2F;11 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+23. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 11K 📝 11&#x2F;07 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+24. [Awesome Electron](/content/sindresorhus/awesome-electron/README.md) - ([Source ⭐ 24K 📝 10&#x2F;29 ](https://github.com/sindresorhus/awesome-electron)) - Useful resources for creating apps with Electron
+25. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 20K 📝 10&#x2F;31 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 26. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 7.1K 📝 11&#x2F;10 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 27. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 34K 📝 10&#x2F;22 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 28. [Awesome Ddd](/content/heynickc/awesome-ddd/README.md) - ([Source ⭐ 9.3K 📝 11&#x2F;04 ](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
@@ -570,7 +638,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K, 📝 11&#x2F;10 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 7.4K, 📝 11&#x2F;11 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 21K, 📝 21&#x2F;11&#x2F;30 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 950, 📝 04&#x2F;30 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!

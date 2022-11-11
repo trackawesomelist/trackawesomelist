@@ -12,6 +12,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   \[NEWS][Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel](https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/)
 
+### Image Synthesis / Collections
+
+*   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
+
 ## [Nov 10, 2022](/content/2022/11/10/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
