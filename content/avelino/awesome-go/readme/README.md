@@ -1985,6 +1985,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 ## Performance
 
+*   [go-instrument (⭐7)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 *   [jaeger (⭐17k)](https://github.com/jaegertracing/jaeger) - A distributed tracing system.
 *   [pixie (⭐4k)](https://github.com/pixie-labs/pixie) - No instrumentation tracing for Golang applications via eBPF.
 *   [profile (⭐1.8k)](https://github.com/pkg/profile) - Simple profiling support package for Go.

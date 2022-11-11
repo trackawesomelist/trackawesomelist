@@ -1446,8 +1446,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [ssh (sunlei) (⭐27)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
 *   [ssh (zpm-zsh) (⭐17)](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
 *   [surf (⭐2)](https://github.com/beardcoder/surf.plugin.zsh) - Add completions for surf.
-*   [symfony (Akollade) (⭐4)](https://github.com/Akollade/symfony.plugin.zsh) - Adds completions for Symfony 3 & 4, including the `bin/console` and `sf` commands.
-*   [symfony (TheGrowingPlant) (⭐4)](https://github.com/TheGrowingPlant/symfony.plugin.zsh) - Autocompletion for Symfony 3 and 4 commands.
+*   [symfony (Akollade) (⭐4)](https://github.com/Akollade/symfony.plugin.zsh) - Adds completions for [Symfony](https://symfony.com/), including the `bin/console` and `sf` commands.
 *   [symfony-complete (⭐0)](https://github.com/voronkovich/symfony-complete.plugin.zsh) - Universal completion for [Symfony](https://symfony.com/doc/current/components/console.html) based CLI applications: `composer`, `php-cs-fix`, `bin/console`, `artisan`, `php-cs-fixer` and etc. This supports autocompletion for subcommands and GNU-style options (`--help`)
 *   [terragrunt (⭐6)](https://github.com/jkavan/terragrunt-oh-my-zsh-plugin) - Tab completion for [Terragrunt (⭐6.3k)](https://github.com/gruntwork-io/terragrunt).
 *   [test-kitchen (⭐7)](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - Add completions for [Test Kitchen (⭐1.8k)](https://github.com/test-kitchen/test-kitchen)).
@@ -1460,6 +1459,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [web-open (⭐0)](https://github.com/AndrewHaluza/zsh-web-open) - Adds alias to open web pages. Only works with Ubuntu 20.
 *   [wsl-notify (⭐0)](https://github.com/masonc15/wsl-notify-zsh) - Uses [wsl-notify-send (⭐56)](https://github.com/stuartleeks/wsl-notify-send) to notify when a command takes longer than 15 seconds. Windows-only.
 *   [yabai (⭐11)](https://github.com/Amar1729/yabai-zsh-completions) - Add completions for macOS [yabai (⭐13k)](https://github.com/koekeishiya/yabai/) tiling window manager.
+*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐413)](https://github.com/lukechilds/zsh-better-npm-completion).
 *   [yarn (⭐555)](https://github.com/g-plane/zsh-yarn-autocompletions) - Add autocompletions for `yarn add`, `yarn remove`, `yarn upgrade`, `yarn why` and `yarn run`.
 *   [yt-dlp (⭐0)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐34k)](https://github.com/yt-dlp/yt-dlp).
 *   [zargparse (⭐9)](https://github.com/ctil/zargparse) - Pass it a script that uses `argparse` and it will write a ZSH completion to your current directory.

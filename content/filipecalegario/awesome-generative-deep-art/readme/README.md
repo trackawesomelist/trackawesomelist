@@ -97,6 +97,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Stable Diffusion Inbox
 
+*   \[NEWS][Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel](https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/)
 *   [prompthero/midjourney-v4-diffusion · Hugging Face](https://huggingface.co/prompthero/midjourney-v4-diffusion): Stable Diffusion fine tuned on Midjourney v4 images, by [PromptHero](https://prompthero.com/)
 *   [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/): explained by Jay Alammar (Visualizing machine learning one concept at a time)
 *   [Img To Music](https://huggingface.co/spaces/fffiloni/img-to-music) a Hugging Face Space by fffiloni

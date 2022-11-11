@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Nov 11, 2022](/content/2022/11/11/README.md)
+
+### Debugging
+
+*   :strawberry: [Sentry plugin (⭐2)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
+
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
 ### Demo
@@ -89,7 +95,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   :strawberry: [ADmad/SocialAuth plugin (⭐45)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐510)](https://github.com/SocialConnect/auth) social sign on library.
+*   :strawberry: [ADmad/SocialAuth plugin (⭐45)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐514)](https://github.com/SocialConnect/auth) social sign on library.
 
 ## [Apr 04, 2021](/content/2021/04/04/README.md)
 
@@ -113,7 +119,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Security
 
-*   :strawberry: [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
+*   :strawberry: [Recaptcha plugin (⭐21)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
 ### Templating
 
@@ -191,29 +197,25 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Asset Management
 
-*   :strawberry: [AssetMix plugin (⭐27)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
-
-### Debugging
-
-*   :strawberry: [Sentry plugin (⭐35)](https://github.com/Connehito/cake-sentry) A plugin to seamlessly integrate Sentry with CakePHP for errors and exceptions.
+*   :strawberry: [AssetMix plugin (⭐26)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
 ## [Jun 05, 2020](/content/2020/06/05/README.md)
 
 ### Testing
 
-*   :strawberry: [CakephpFixtureFactories plugin (⭐69)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintainance of your tests.
+*   :strawberry: [CakephpFixtureFactories plugin (⭐70)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintainance of your tests.
 
 ## [May 18, 2020](/content/2020/05/18/README.md)
 
 ### Queue
 
-*   :strawberry: [CakeQueuesadilla plugin (⭐33)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
+*   :strawberry: [CakeQueuesadilla plugin (⭐34)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
 
 ## [Apr 17, 2020](/content/2020/04/17/README.md)
 
 ### File Manipulation
 
-*   :strawberry: [Josegonzalez/Upload plugin (⭐556)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+*   :strawberry: [Josegonzalez/Upload plugin (⭐557)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
 ## [Apr 16, 2020](/content/2020/04/16/README.md)
 
@@ -251,7 +253,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Architecture
 
-*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐60)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐62)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ## [Mar 19, 2020](/content/2020/03/19/README.md)
 
@@ -317,7 +319,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   :strawberry: [TwoFactorAuth plugin (⭐34)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐886)](https://github.com/RobThree/TwoFactorAuth) library.
+*   :strawberry: [TwoFactorAuth plugin (⭐34)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐893)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [Feb 01, 2020](/content/2020/02/01/README.md)
 
@@ -380,7 +382,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Debugging
 
-*   :strawberry: [DebugKit plugin (⭐856)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   :strawberry: [DebugKit plugin (⭐857)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 
 ### Security
 
@@ -388,7 +390,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Skeleton
 
-*   :strawberry: [Crud plugin (⭐352)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
+*   :strawberry: [Crud plugin (⭐353)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 
 ## [Jan 08, 2020](/content/2020/01/08/README.md)
 
@@ -420,7 +422,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Search
 
-*   :strawberry: [Search plugin (⭐155)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
+*   :strawberry: [Search plugin (⭐156)](https://github.com/FriendsOfCake/search) - Provides easy searching/filtering for paginated views using PRG pattern.
 
 ## [Jan 03, 2020](/content/2020/01/03/README.md)
 
@@ -464,7 +466,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Miscellaneous
 
-*   :strawberry: [CakeDto plugin (⭐24)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
+*   :strawberry: [CakeDto plugin (⭐25)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 
 ## [Dec 28, 2019](/content/2019/12/28/README.md)
 
@@ -484,9 +486,9 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   :strawberry: [Authentication plugin (⭐97)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   :strawberry: [Authorization plugin (⭐62)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   :strawberry: [TinyAuth plugin (⭐123)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
+*   :strawberry: [Authentication plugin (⭐99)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   :strawberry: [Authorization plugin (⭐63)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   :strawberry: [TinyAuth plugin (⭐124)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
@@ -508,14 +510,14 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### ORM / Database / Datamapping
 
-*   :strawberry: [ADmad/Sequence plugin (⭐41)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
-*   :strawberry: [Duplicatable plugin (⭐44)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+*   :strawberry: [ADmad/Sequence plugin (⭐42)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
+*   :strawberry: [Duplicatable plugin (⭐45)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 *   :strawberry: [Muffin/Orderly plugin (⭐21)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 *   :strawberry: [Muffin/Webservices ORM plugin (⭐84)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 
 ### PDF
 
-*   :strawberry: [CakePdf plugin (⭐373)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+*   :strawberry: [CakePdf plugin (⭐372)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ### Security
 
@@ -527,8 +529,8 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Templating
 
-*   :strawberry: [Bake plugin (⭐93)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   :strawberry: [BootstrapUI plugin (⭐318)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
+*   :strawberry: [Bake plugin (⭐94)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   :strawberry: [BootstrapUI plugin (⭐319)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 *   :strawberry: [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [Dec 03, 2019](/content/2019/12/03/README.md)
@@ -549,7 +551,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### REST and API
 
-*   [CrudJsonApi plugin (⭐48)](https://github.com/FriendsOfCake/crud-json-api) - Crud listener for building [JSON API](https://jsonapi.org/) compliant APIs.
+*   [CrudJsonApi plugin (⭐47)](https://github.com/FriendsOfCake/crud-json-api) - Crud listener for building [JSON API](https://jsonapi.org/) compliant APIs.
 
 ### Templating
 
@@ -593,7 +595,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Third Party APIs
 
-*   [Jira plugin (⭐2)](https://github.com/fr3nch13/cakephp-jira) - Provides a helper to allow access to Jira's REST API using [lesstif/php-jira-rest-client (⭐473)](https://github.com/lesstif/php-jira-rest-client) as the Vendor. Currently read-only access.
+*   [Jira plugin (⭐3)](https://github.com/fr3nch13/cakephp-jira) - Provides a helper to allow access to Jira's REST API using [lesstif/php-jira-rest-client (⭐476)](https://github.com/lesstif/php-jira-rest-client) as the Vendor. Currently read-only access.
 
 ## [Oct 16, 2019](/content/2019/10/16/README.md)
 
@@ -686,7 +688,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 ### Development Environment
 
 *   [Mixer (⭐45)](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins.
-*   [Oven (⭐138)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
+*   [Oven (⭐140)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
 ## [Dec 18, 2017](/content/2017/12/18/README.md)
 
@@ -728,7 +730,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Demo
 
-*   [BlogMVC (⭐7)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐214)](https://github.com/Grafikart/BlogMVC).
+*   [BlogMVC (⭐7)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐215)](https://github.com/Grafikart/BlogMVC).
 
 ## [May 12, 2017](/content/2017/05/12/README.md)
 
@@ -961,7 +963,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 *   [CookieAuth plugin (⭐18)](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 *   [HierAuth plugin (⭐6)](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
 *   [Muffin/OAuth2 plugin (⭐25)](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
-*   [MultiTenant plugin (⭐36)](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
+*   [MultiTenant plugin (⭐35)](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 *   [UserPermissions plugin (⭐18)](https://github.com/AlessandroMinoccheri/UserPermissions) -  Allow groups of users or single users to view a specific page.
 
 ### Dependency Injection
@@ -988,7 +990,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 *   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A multi framework Composer library installer.
 *   [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-*   [Graphviz (⭐64)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
+*   [Graphviz (⭐69)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 *   [Rocketeer (⭐2.7k)](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 
 ### Miscellaneous
@@ -1036,7 +1038,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Development Environment
 
-*   [CakePHP.gitignore (⭐140k)](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
+*   [CakePHP.gitignore (⭐141k)](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 
 ### Help
 
@@ -1097,7 +1099,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Imagery
 
-*   [Imagine plugin (⭐139)](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine (⭐4.3k)](https://github.com/avalanche123/Imagine).
+*   [Imagine plugin (⭐138)](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine (⭐4.3k)](https://github.com/avalanche123/Imagine).
 
 ## [Jan 09, 2015](/content/2015/01/09/README.md)
 
@@ -1116,7 +1118,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### File Manipulation
 
-*   [FlyPie plugin (⭐35)](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem.
+*   [FlyPie plugin (⭐36)](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem.
 
 ## [Oct 31, 2014](/content/2014/10/31/README.md)
 

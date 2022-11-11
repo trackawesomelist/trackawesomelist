@@ -6,6 +6,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Nov 11, 2022](/content/2022/11/11/README.md)
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐413)](https://github.com/lukechilds/zsh-better-npm-completion).
+
 ## [Nov 10, 2022](/content/2022/11/10/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
@@ -63,7 +69,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [symfony (Akollade) (⭐4)](https://github.com/Akollade/symfony.plugin.zsh) - Adds completions for Symfony 3 & 4, including the `bin/console` and `sf` commands.
+*   [symfony (Akollade) (⭐4)](https://github.com/Akollade/symfony.plugin.zsh) - Adds completions for [Symfony](https://symfony.com/), including the `bin/console` and `sf` commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -293,7 +299,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [openstack (⭐0)](https://github.com/florentinl/openstack-zsh-plugin) - Add functions and aliases for managing [OpenStack](https://www.openstack.org/).
-*   [symfony (TheGrowingPlant) (⭐4)](https://github.com/TheGrowingPlant/symfony.plugin.zsh) - Autocompletion for Symfony 3 and 4 commands.
 
 ## [Sep 11, 2022](/content/2022/09/11/README.md)
 

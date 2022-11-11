@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [sitemap-format (⭐0)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
 
+### Performance
+
+*   [go-instrument (⭐7)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
 ### Standard CLI

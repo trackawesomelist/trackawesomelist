@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 11, 2022](/content/2022/11/11/README.md)
+
+### Performance
+
+*   [go-instrument (⭐7)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
+
 ## [Nov 09, 2022](/content/2022/11/09/README.md)
 
 ### Uncategorized

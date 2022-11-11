@@ -6,6 +6,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 11, 2022](/content/2022/11/11/README.md)
+
+### Stable Diffusion Inbox
+
+*   \[NEWS][Canva Adds a Free and Unlimited AI Text-to-Image Generator | PetaPixel](https://petapixel.com/2022/11/10/canva-adds-a-free-and-unlimited-ai-text-to-image-generator/)
+
 ## [Nov 10, 2022](/content/2022/11/10/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
