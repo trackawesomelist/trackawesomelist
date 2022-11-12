@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ Daily / [Weekly](/content/gramantin/awesome-rails/week/README.md) / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Nov 12, 2022](/content/2022/11/12/README.md)
+
+### External Resources / Youtube channels
+
+*   [SupeRails](https://www.youtube.com/c/SupeRails/videos)
+
 ## [Nov 11, 2022](/content/2022/11/11/README.md)
 
 ### External Resources / Youtube channels

@@ -297,21 +297,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   :strawberry: [Sentry plugin (⭐2)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
 
-#### [34. Awesome Rails](/content/gramantin/awesome-rails/README.md)
-
-##### External Resources / Youtube channels
-
-*   [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
-
-##### Jobs / Other external resources
-
-*   [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
-
-##### Community / Other external resources
-
-*   [WIP Ruby (Telegram group)](https://t.me/wipruby)
-
-#### [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -330,7 +316,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐135)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 *   [ys (⭐0)](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 
-#### [36. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+#### [35. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ##### Design Systems
 
@@ -357,13 +343,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Why Web Components Aren't Ready for Production... Yet](https://www.telerik.com/blogs/web-components-arent-ready-production-yet)
 *   [Component Interop With React And Custom Elements](https://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 
-#### [37. Awesome V](/content/vlang/awesome-v/README.md)
+#### [36. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Libraries / Text processing
 
 *   [text-processing (⭐3)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 
-#### [38. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [37. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -379,26 +365,83 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
 
-#### [39. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+#### [38. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ##### Resources / Tutorials
 
 *   [Sharded Cluster with Docker Compose (⭐217)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
-#### [40. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+#### [39. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ##### Shell Script Development
 
 *   [Bashmatic (⭐79)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
 
-#### [41. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
+#### [40. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 ### [GitHub Recommender (⭐24)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 Lists repositories that are similar to the one being viewed
 
 Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
-#### [42. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Communication - Social Networks and Forums
+
+*   [Chirpy](https://chirpy.dev) - Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ([Demo](https://chirpy.dev/play), [Source Code (⭐405)](https://github.com/devrsi0n/chirpy)) `AGPL-3.0` `Docker/Nodejs`
+
+##### Software / Pastebins
+
+*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐946)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
+
+##### Software / Software Development - Project Management
+
+*   [Sourcehut](https://sourcehut.org/) - A full web git interface with no javascript. ([Demo](https://sr.ht/), [Source Code](https://git.sr.ht/\~sircmpwn/git.sr.ht/tree)) `GLP-2.0` `Go`
+
+#### [42. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+
+##### Projects / Desktop
+
+*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
+
+##### Projects / Examples
+
+*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
+
+##### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐188)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐157)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+*   [OTPComposable (⭐0)](https://github.com/itmaginationdemos/OTPComposable) - A library dedicated to making OTP (One Time Password) components a breeze to implement
+
+##### Android / Projects
+
+*   [hanjoongcho/aaf-easypassword (⭐31)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
+*   [AnkitSuda/Rebound (⭐43)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
+
+##### Kotlin Native / Projects
+
+*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
+
+#### [43. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+
+##### External Resources / Youtube channels
+
+*   [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
+*   [SupeRails](https://www.youtube.com/c/SupeRails/videos)
+
+##### Jobs / Other external resources
+
+*   [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
+
+##### Community / Other external resources
+
+*   [WIP Ruby (Telegram group)](https://t.me/wipruby)
+
+#### [44. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### (requires Neovim 0.5)
 
@@ -436,49 +479,13 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
 *   [nvim-zh/colorful-winsep.nvim (⭐125)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
-#### [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [45. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
-##### Software / Communication - Social Networks and Forums
+##### Tutorials
 
-*   [Chirpy](https://chirpy.dev) - Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ([Demo](https://chirpy.dev/play), [Source Code (⭐405)](https://github.com/devrsi0n/chirpy)) `AGPL-3.0` `Docker/Nodejs`
+*   [Intro to Storybook with React \[Tutorial & Example\]](https://snipcart.com/blog/storybook-react-tutorial-example) - Learn how to build UI components in Storybook with React for better collaboration from design to implementation.
 
-##### Software / Pastebins
-
-*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐946)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
-
-##### Software / Software Development - Project Management
-
-*   [Sourcehut](https://sourcehut.org/) - A full web git interface with no javascript. ([Demo](https://sr.ht/), [Source Code](https://git.sr.ht/\~sircmpwn/git.sr.ht/tree)) `GLP-2.0` `Go`
-
-#### [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-##### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-##### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-##### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐188)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐157)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-*   [OTPComposable (⭐0)](https://github.com/itmaginationdemos/OTPComposable) - A library dedicated to making OTP (One Time Password) components a breeze to implement
-
-##### Android / Projects
-
-*   [hanjoongcho/aaf-easypassword (⭐31)](https://github.com/hanjoongcho/aaf-easypassword) - A password manager using a single lock pattern for various type passwords management.
-*   [AnkitSuda/Rebound (⭐43)](https://github.com/AnkitSuda/Rebound) - Feature Rich & Highly Customizable Workout Log App.
-
-##### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-#### [45. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [46. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### GUI
 
@@ -532,9 +539,9 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 32. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 10K 📝 11&#x2F;02 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 33. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 5.2K 📝 11&#x2F;08 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 34. [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 44K 📝 10&#x2F;17 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-35. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 3.5K 📝 11&#x2F;10 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform
-36. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.2K 📝 11&#x2F;02 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-37. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.1K 📝 11&#x2F;11 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
+35. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.1K 📝 11&#x2F;12 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
+36. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 3.5K 📝 11&#x2F;10 ](https://github.com/shuaibiyy/awesome-terraform)) - Curated list of resources on HashiCorp's Terraform
+37. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.2K 📝 11&#x2F;02 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 38. [Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md) - ([Source ⭐ 3.7K 📝 11&#x2F;09 ](https://github.com/timofurrer/awesome-asyncio)) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 39. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 13K 📝 10&#x2F;26 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 40. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 224K 📝 09&#x2F;27 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
@@ -568,7 +575,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 - [Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md) - ([Source ⭐ 603, 📝 21&#x2F;08&#x2F;06 ](https://github.com/phalcon/awesome-phalcon)) - A curated list of awesome Phalcon libraries and resources
 - [Awesome Play1](/content/PerfectCarl/awesome-play1/README.md) - ([Source ⭐ 39, 📝 15&#x2F;08&#x2F;07 ](https://github.com/PerfectCarl/awesome-play1)) - A collection of modules, tools and resources for play1 
 - [Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md) - ([Source ⭐ 530, 📝 21&#x2F;07&#x2F;08 ](https://github.com/uralbash/awesome-pyramid)) - A curated list of awesome Pyramid apps, projects and resources.
-- [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.1K, 📝 11&#x2F;11 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
+- [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.1K, 📝 11&#x2F;12 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
 - [Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md) - ([Source ⭐ 2.8K, 📝 18&#x2F;03&#x2F;13 ](https://github.com/hothero/awesome-rails-gem)) - A collection of awesome Ruby Gems for Rails development.
 - [Awesome Serverless](/content/pmuens/awesome-serverless/README.md) - ([Source ⭐ 2.1K, 📝 19&#x2F;05&#x2F;23 ](https://github.com/pmuens/awesome-serverless)) - DEPRECATED: Curated list of resources related to serverless computing and serverless architectures.
 - [Awesome Slim](/content/nekofar/awesome-slim/README.md) - ([Source ⭐ 10, 📝 09&#x2F;03 ](https://github.com/nekofar/awesome-slim)) - A curated list of awesome Slim framework packages and resources.
@@ -807,7 +814,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 - [Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md) - ([Source ⭐ 182, 📝 08&#x2F;25 ](https://github.com/seed-rs/awesome-seed-rs)) - A curated list of awesome things related to Seed
 - [Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md) - ([Source ⭐ 1.6K, 📝 18&#x2F;10&#x2F;30 ](https://github.com/TalAter/awesome-service-workers)) - :nut_and_bolt: A collection of awesome resources for learning Service Workers
 - [Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md) - ([Source ⭐ 1.6K, 📝 11&#x2F;10 ](https://github.com/agarrharr/awesome-static-website-services)) - 📄 🛠 A curated list of awesome static websites services
-- [Awesome Storybook](/content/lauthieb/awesome-storybook/README.md) - ([Source ⭐ 295, 📝 04&#x2F;10 ](https://github.com/lauthieb/awesome-storybook)) - A collection of awesome resources about @storybookjs ecosystem 🎨
+- [Awesome Storybook](/content/lauthieb/awesome-storybook/README.md) - ([Source ⭐ 295, 📝 11&#x2F;12 ](https://github.com/lauthieb/awesome-storybook)) - A collection of awesome resources about @storybookjs ecosystem 🎨
 - [Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md) - ([Source ⭐ 699, 📝 10&#x2F;09 ](https://github.com/TheComputerM/awesome-svelte)) - ⚡ A curated list of awesome Svelte resources
 - [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 9.7K, 📝 11&#x2F;09 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 - [Awesome Text Editing](/content/dok/awesome-text-editing/README.md) - ([Source ⭐ 245, 📝 20&#x2F;06&#x2F;18 ](https://github.com/dok/awesome-text-editing)) - Collection of text editing resources and libraries for the web

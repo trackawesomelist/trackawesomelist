@@ -6,6 +6,12 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 [ [Daily](/content/lauthieb/awesome-storybook/README.md) / Weekly / [Overview](/content/lauthieb/awesome-storybook/readme/README.md) ]
 
+## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
+
+### Tutorials
+
+*   [Intro to Storybook with React \[Tutorial & Example\]](https://snipcart.com/blog/storybook-react-tutorial-example) - Learn how to build UI components in Storybook with React for better collaboration from design to implementation.
+
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
 ### Examples
@@ -17,7 +23,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 
 ### Examples
 
-*   [Qui - Vue 2/3 Design system (⭐196)](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐199)](https://github.com/Qvant-lab/qui-max)
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -62,7 +68,7 @@ A collection of awesome resources about @storybookjs ecosystem 🎨
 ### Community resources
 
 *   [Brand's materials (⭐79)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
-*   [Storybook Deployer (⭐853)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+*   [Storybook Deployer (⭐863)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
 
 ### Blog posts
 

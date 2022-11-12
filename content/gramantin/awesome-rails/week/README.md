@@ -11,6 +11,7 @@ A curated list of awesome things related to Ruby on Rails
 ### External Resources / Youtube channels
 
 *   [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
+*   [SupeRails](https://www.youtube.com/c/SupeRails/videos)
 
 ### Jobs / Other external resources
 

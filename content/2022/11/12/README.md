@@ -1,18 +1,30 @@
 # Awesome List Updates on Nov 12, 2022
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
+
+### Tutorials
+
+*   [Intro to Storybook with React \[Tutorial & Example\]](https://snipcart.com/blog/storybook-react-tutorial-example) - Learn how to build UI components in Storybook with React for better collaboration from design to implementation.
+
+## [2. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+
+### External Resources / Youtube channels
+
+*   [SupeRails](https://www.youtube.com/c/SupeRails/videos)
+
+## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### GUI
 
 *   [Wails](https://wails.io) - Mac, Windows, Linux desktop apps with HTML UI using built-in OS HTML renderer.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
@@ -26,13 +38,13 @@
 
 *   [Sourcehut](https://sourcehut.org/) - A full web git interface with no javascript. ([Demo](https://sr.ht/), [Source Code](https://git.sr.ht/\~sircmpwn/git.sr.ht/tree)) `GLP-2.0` `Go`
 
-## [3. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [5. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Shell Script Development
 
 *   [Bashmatic (⭐79)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
 
-## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Tutorials
 

@@ -44,7 +44,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [DEV.to](https://dev.to/t/storybook)
 *   [Brand's materials (⭐79)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
 *   [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
-*   [Storybook Deployer (⭐853)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+*   [Storybook Deployer (⭐863)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
 *   [Documentation Primitives (⭐34)](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## Tutorials
@@ -54,6 +54,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM) - A tutorial on how to add Storybook in an application generated with Create React App.
 *   [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) - A tutorial on how to create your components and exposing them in a Storybook.
 *   [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - A tutorial on how to integrate Storybook’s dark mode toggle with your React components.
+*   [Intro to Storybook with React \[Tutorial & Example\]](https://snipcart.com/blog/storybook-react-tutorial-example) - Learn how to build UI components in Storybook with React for better collaboration from design to implementation.
 
 ## Presentations
 
@@ -88,7 +89,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [AXA France Design System](https://axaguildev.github.io/react-toolkit/latest/storybook)
 *   [Shared React Components Boilerplate (⭐84)](https://github.com/shared-components/shared-react-components-example)
 *   [Apideck Components](https://www.apideck.design/)
-*   [Qui - Vue 2/3 Design system (⭐196)](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐199)](https://github.com/Qvant-lab/qui-max)
 *   [Mística Design system](https://mistica-web.vercel.app/?path=/story/welcome-welcome--mistica)
 
 ## Addons
