@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
+### GUI
+
+*   [Wails](https://wails.io) - Mac, Windows, Linux desktop apps with HTML UI using built-in OS HTML renderer.
+
 ### Uncategorized
 
 *   [sitemap-format (⭐0)](https://github.com/mingard/sitemap-format) - A simple sitemap generator, with a little syntactic sugar.
@@ -1823,7 +1827,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gowd (⭐384)](https://github.com/dtylman/gowd) - Rapid and simple desktop UI development with GO, HTML, CSS and NW\.js. Cross platform.
 *   [qt (⭐9.5k)](https://github.com/therecipe/qt) - Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).
 *   [ui (⭐8.2k)](https://github.com/andlabs/ui) - Platform-native GUI library for Go. Cross platform.
-*   [Wails](https://wails.app) - Mac, Windows, Linux desktop apps with HTML UI using built-in OS HTML renderer.
 *   [walk (⭐6.2k)](https://github.com/lxn/walk) - Windows application library kit for Go.
 *   [webview (⭐11k)](https://github.com/zserge/webview) - Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux).
 *   [gosx-notifier (⭐575)](https://github.com/deckarep/gosx-notifier) - OSX Desktop Notifications library for Go.

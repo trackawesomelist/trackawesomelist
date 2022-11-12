@@ -1,12 +1,38 @@
 # Awesome List Updates on Nov 07 - Nov 13, 2022
 
-42 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [Chirpy](https://chirpy.dev) - Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ([Demo](https://chirpy.dev/play), [Source Code (⭐405)](https://github.com/devrsi0n/chirpy)) `AGPL-3.0` `Docker/Nodejs`
+
+### Software / Pastebins
+
+*   [Password Pusher](https://pwpush.com) - A dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. ([Source Code (⭐946)](https://github.com/pglombardo/PasswordPusher)) `GPL-3.0` `Docker`
+
+### Software / Software Development - Project Management
+
+*   [Sourcehut](https://sourcehut.org/) - A full web git interface with no javascript. ([Demo](https://sr.ht/), [Source Code](https://git.sr.ht/\~sircmpwn/git.sr.ht/tree)) `GLP-2.0` `Go`
+
+## [2. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+
+### Shell Script Development
+
+*   [Bashmatic (⭐79)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
+
+## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+
+### Resources / Tutorials
+
+*   [Sharded Cluster with Docker Compose (⭐217)](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+
+## [4. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### External Resources / Youtube channels
 
@@ -20,31 +46,31 @@
 
 *   [WIP Ruby (Telegram group)](https://t.me/wipruby)
 
-## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
 *   :strawberry: [Sentry plugin (⭐2)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
 
-## [3. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Libraries / Text processing
 
 *   [text-processing (⭐3)](https://github.com/ArtemkaKun/text-processing) - V text processing library, that contains common tools to manipulate text data.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Quality of Life Improvements
 
 *   [DisplayBuddy](https://displaybuddy.app) - Control the brightness, contrast, input source and more of your external display directly from your Mac.
 
-## [5. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Projects
 
 *   [theiskaa.com (⭐2)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com)
 
-## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [9. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Comments
 
@@ -54,31 +80,31 @@
 
 *   [Tiledesk](https://tiledesk.com) - Free Live Chat with open source chatbot builder.
 
-## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services
 
 *   [testRigor](https://testrigor.com) - E2E functional test automation tool for web, mobile, and desktop tests.
 
-## [8. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [11. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### DevOps / Newsletters
 
 *   [Standard (⭐149)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
-## [9. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [12. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### JupyterLab Extensions
 
 *   [genv (⭐5)](https://github.com/run-ai/jupyterlab_genv) - Extension for managing GPU environments in JupyterLab.
 
-## [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [13. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Online
 
 *   [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### .NET Conf session - Blazor in .NET 7 (November 8, 2022).
 
@@ -94,19 +120,19 @@
 
 *   [Release: Blazorise 1.1.3](https://blazorise.com/news/release-notes/113) - November 8, 2022 - This Blazorise version was supposed to be just a minor maintenance release. Instead, we got a few relatively large features and announcements, with .NET 7 support.
 
-## [12. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### CI/CD
 
 *   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
 
-## [13. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [16. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Playbooks
 
 *   [IR Workflow Gallery](https://www.incidentresponse.org/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow consists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -122,13 +148,13 @@
 
 *   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
 
-## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Tools
 
 *   💼🌍 [Supertweak](https://supertweak.dev) - Visual devtools for Tailwind CSS.
 
-## [16. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
+## [19. Awesome Tdengine](/content/taosdata/awesome-tdengine/week/README.md)
 
 ### IoT
 
@@ -139,7 +165,7 @@
 
 *   [taos-odbc (⭐2)](https://github.com/freemine/taos_odbc) - ODBC Driver for TDengine 3.0, very much early stage.
 
-## [17. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [20. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Programming Language Design Patterns
 
@@ -164,7 +190,11 @@
 *   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice)
 *   [Designing Microservices](https://www.manning.com/books/designing-microservices)
 
-## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### GUI
+
+*   [Wails](https://wails.io) - Mac, Windows, Linux desktop apps with HTML UI using built-in OS HTML renderer.
 
 ### Uncategorized
 
@@ -174,19 +204,19 @@
 
 *   [go-instrument (⭐7)](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 
-## [19. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [22. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
 *   [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor (⭐2k)](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
 
-## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [23. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool) - Climate Mapping for Resilience and Adaptation (CMRA) integrates information from across the federal government to help people consider their local exposure to climate-related hazards. People working in community organizations or for local, Tribal, state, or Federal governments can use the site to help them develop equitable climate resilience plans to protect people, property, and infrastructure. The site also points users to Federal grant funds for climate resilience projects, including those available through the Bipartisan Infrastructure Law. Additional Information: [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
 
-## [21. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
+## [24. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/week/README.md)
 
 ### [GitHub Recommender (⭐24)](https://github.com/IndexStorm/git-rec-ext/) <a href="https://chrome.google.com/webstore/detail/github-recommender/hbiichfklkmlebacdfhkojcpmmakmamk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.mozilla.org/en-US/firefox/addon/github-recommender/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -194,13 +224,13 @@ Lists repositories that are similar to the one being viewed
 
 Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
-## [22. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [25. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### IDEs / Visual Studio
 
 *   [Algorand Visual Studio Extension (⭐7)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
 
-## [23. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### PHP / Laravel
 
@@ -211,7 +241,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 *   [Learn Python 3 (⭐112)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 *   [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
 
-## [24. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [27. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Emulators / Experimental/Proof of Concepts
 
@@ -221,31 +251,31 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
 *   [GBSoundSystem (⭐0)](https://github.com/gbdev/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
 
-## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [28. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [tmux-conf (⭐0)](https://github.com/jaclu/tmux-conf) Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks
 
-## [26. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [29. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Blockchain
 
 *   [Woody3](https://www.woody3.xyz/) - Find your dream non-tech job in Web3
 
-## [27. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Metascience / Science of Science
 
 *   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/\~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
 
-## [28. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [31. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Resources / Tower Defense
 
 *   [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
 
-## [29. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [32. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
@@ -259,7 +289,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
 *   :tada: [OpenRA (⭐12k)](https://github.com/OpenRA/OpenRA)
 
-## [30. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [33. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Design Systems
 
@@ -286,7 +316,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 *   [Why Web Components Aren't Ready for Production... Yet](https://www.telerik.com/blogs/web-components-arent-ready-production-yet)
 *   [Component Interop With React And Custom Elements](https://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
 
-## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -296,7 +326,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
 *   [libreddit (⭐3.6k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
 
-## [32. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Style Guides
 
@@ -314,7 +344,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
 *   [NavigationTransitions (⭐33)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 
-## [33. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [36. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### [Capgo plugins](https://capgo.app/)
 
@@ -322,13 +352,13 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 *   [Native market (⭐3)](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 *   [Camera preview (⭐0)](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
 
-## [34. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [37. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
 *   [danet (⭐73)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 
-## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [38. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Swift programming / iOS
 
@@ -336,52 +366,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 *   [Compile Swift for Raspberry Pi by Xcode](https://medium.com/@programmingpassion/compile-swift-for-raspberry-pi-by-xcode-406ac26b63ec) - Quick tutorial to share the way to help setup compiling Raspberry Pi code with Xcode.
 *   [Setup Swift environment on Raspbian](https://medium.com/@programmingpassion/set-up-swift-environment-on-raspberry-pi-part-2-2-56f7f33b00d) - Quick guide to help setup Swift environment on Raspbian stretch (lite).
 
-## [36. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Serialization
-
-*   [SalomonBrys/Kotson (⭐714)](https://github.com/SalomonBrys/Kotson) - Gson for Kotlin, Kotson enables you to parse and write JSON with Google's Gson using a conciser and easier syntax.
-
-### Libraries/Frameworks / Database
-
-*   [x2bool/kuery (⭐205)](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin.
-
-### Libraries/Frameworks / Http Clients
-
-*   [egorzhdan/networkinkt (⭐31)](https://github.com/egorzhdan/networkinkt) - Multiplatform coroutine-based HTTP client.
-*   [curiousnikhil/Asynkio (⭐82)](https://github.com/curiousnikhil/Asynkio) - Make asynchronous calls painlessly with async/await style.
-
-### Libraries/Frameworks / Misc
-
-*   [phxql/aleksa (⭐36)](https://github.com/phxql/aleksa) - Aleksa is a small framework for writing Alexa Skills in Kotlin.
-*   [soywiz/klock (⭐681)](https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (JVM, JS and Common).
-*   [korlibs/kds (⭐49)](https://github.com/korlibs/kds) - Optimized Kotlin Data Structures for JVM, JS and Common
-
-### Libraries/Frameworks / Extensions
-
-*   [Kotlin/kotlinx.support (⭐53)](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-
-### Libraries/Frameworks / Graphics
-
-*   [GlimpseFramework/glimpse-framework (⭐16)](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
-
-### Libraries/Frameworks / Data Science
-
-*   [thomasnield/kotlin-statistics (⭐842)](https://github.com/thomasnield/kotlin-statistics) - Advanced math and statistical extensions for Kotlin.
-*   [sekwiatkowski/Komputation (⭐297)](https://github.com/sekwiatkowski/Komputation) - A neural network framework written in Kotlin.
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐53)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
-
-### Projects / Web
-
-*   [mariomac/codebuilder (⭐6)](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
-
-### Projects / Build tools
-
-*   [gradle/kotlin-dsl-samples (⭐3.6k)](https://github.com/gradle/kotlin-dsl-samples) - Kotlin language support for Gradle build scripts.
-*   [nebula-plugins/nebula-kotlin-plugin (⭐58)](https://github.com/nebula-plugins/nebula-kotlin-plugin) - Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted.
+## [39. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Desktop
 
@@ -409,13 +394,13 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [37. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [40. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Audio
 
 *   [MoeGoe (⭐734)](https://github.com/CjangCjengh/MoeGoe) - Anime character voice synthesizer. \[English/中文]
 
-## [38. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [41. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -453,7 +438,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
 *   [nvim-zh/colorful-winsep.nvim (⭐125)](https://github.com/nvim-zh/colorful-winsep.nvim) - A configurable color split line.
 
-## [39. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -472,13 +457,13 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 *   [happy-coding (⭐1)](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion (⭐135)](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
 *   [ys (⭐0)](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 
-## [40. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [43. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
 *   [GalvinGao/gofiber-template (⭐3)](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
 
-## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [44. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -489,7 +474,7 @@ Installs: 197 | Stars: 24 | Last update: 10 Aug 2022
 
 *   [DockerDL (⭐10)](https://github.com/matifali/dockerdl) - Ready to use deeplearning docker images.
 
-## [42. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [45. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 

@@ -6,6 +6,12 @@ A curated list of delightful Bash scripts and resources.
 
 [ [Daily](/content/awesome-lists/awesome-bash/README.md) / Weekly / [Overview](/content/awesome-lists/awesome-bash/readme/README.md) ]
 
+## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
+
+### Shell Script Development
+
+*   [Bashmatic (⭐79)](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
+
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### Books and Resources
@@ -16,13 +22,13 @@ A curated list of delightful Bash scripts and resources.
 
 ### Shell Script Development
 
-*   [DevOps-Bash-tools (⭐809)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
+*   [DevOps-Bash-tools (⭐834)](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
 ### Just for fun
 
-*   [pokeget (⭐9)](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal
+*   [pokeget (⭐10)](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -34,19 +40,19 @@ A curated list of delightful Bash scripts and resources.
 
 ### Command-Line Productivity
 
-*   [bashhub-server (⭐249)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+*   [bashhub-server (⭐250)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 
 ## [Nov 29 - Dec 05, 2021](/content/2021/48/README.md)
 
 ### Command-Line Productivity
 
-*   [sshrc (⭐106)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
-*   [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+*   [sshrc (⭐107)](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+*   [zoxide (⭐8.1k)](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ### Shell Script Development
 
 *   [bashly (⭐1.3k)](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
-*   [bash-modules (⭐94)](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+*   [bash-modules (⭐95)](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
@@ -62,26 +68,26 @@ A curated list of delightful Bash scripts and resources.
 
 ### For Developers
 
-*   [mkdkr (⭐303)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
+*   [mkdkr (⭐307)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
 
 ### Shell Script Development
 
-*   [ansi (⭐438)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+*   [ansi (⭐443)](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 *   [argbash (⭐1.2k)](https://github.com/matejak/argbash) - Bash argument parsing code generator
-*   [assert.sh (⭐465)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+*   [assert.sh (⭐466)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 *   [async-bash (⭐116)](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
 *   [bats (⭐7.1k)](https://github.com/sstephenson/bats) - Bash Automated Testing System
-*   [bash3boilerplate (⭐1.9k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
-*   [bashful (⭐567)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+*   [bash3boilerplate (⭐2k)](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
+*   [bashful (⭐569)](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 *   [bashify (⭐95)](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
-*   [bashing (⭐69)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
-*   [bashmanager (⭐85)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+*   [bashing (⭐68)](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+*   [bashmanager (⭐86)](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 *   [BashScriptTestingLibrary (⭐186)](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 *   [Bash Infinity (⭐5.4k)](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
-*   [bash\_unit (⭐518)](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
-*   [mo (⭐463)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
-*   [semver\_bash (⭐226)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
-*   [shfmt (⭐5.1k)](https://github.com/mvdan/sh) - Format bash programs
+*   [bash\_unit (⭐521)](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
+*   [mo (⭐466)](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+*   [semver\_bash (⭐227)](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+*   [shfmt (⭐5.2k)](https://github.com/mvdan/sh) - Format bash programs
 *   [shunit2 (⭐1.4k)](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 
 ## [May 27 - Jun 02, 2019](/content/2019/21/README.md)
@@ -102,17 +108,17 @@ A curated list of delightful Bash scripts and resources.
 *   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming
 *   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 *   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-*   [learnyoubash (⭐663)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
+*   [learnyoubash (⭐664)](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 
 ### Command-Line Productivity
 
-*   [aliases (⭐439)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell
+*   [aliases (⭐440)](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell
 *   [bashhub (⭐1k)](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 *   [bashmarks (⭐1.8k)](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
-*   [commacd (⭐334)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
-*   [has (⭐473)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
+*   [commacd (⭐335)](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+*   [has (⭐480)](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 *   [hstr (⭐3.3k)](https://github.com/dvorka/hstr) - Bash History Suggest Box
-*   [qfc (⭐548)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
+*   [qfc (⭐552)](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 
 ### Customization
 
@@ -122,7 +128,7 @@ A curated list of delightful Bash scripts and resources.
 *   [git-prompt (⭐324)](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
 *   [gittify (⭐60)](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 *   [liquidprompt (⭐4.2k)](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-*   [mysql-colorize (⭐91)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
+*   [mysql-colorize (⭐90)](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 *   [oh-my-git (⭐3.6k)](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 *   [progress-bar.sh (⭐202)](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest ![progress-bar.sh in action](http://pix.toile-libre.org/upload/original/1476311497.gif).
 *   [sexy-bash-prompt (⭐1.1k)](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
@@ -134,21 +140,21 @@ A curated list of delightful Bash scripts and resources.
 
 ### For Developers
 
-*   [bocker (⭐10k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
-*   [git-sh (⭐725)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
+*   [bocker (⭐11k)](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+*   [git-sh (⭐727)](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 
 ### Downloading and Serving
 
 *   [balls (⭐838)](https://github.com/jneen/balls) - Bash on Balls
 *   [bashttpd (⭐1.4k)](https://github.com/avleen/bashttpd) - A web server written in Bash
 *   [Dropbox-Uploader (⭐6.4k)](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
-*   [ngincat (⭐164)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
+*   [ngincat (⭐165)](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 *   [xiringuito (⭐1k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors
 
 ### Applications
 
 *   [bashblog (⭐1.4k)](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
-*   [pushbullet-bash (⭐227)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
+*   [pushbullet-bash (⭐229)](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 *   [todo.sh (⭐5.1k)](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file
 *   [cheapci (⭐176)](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash
 
@@ -166,7 +172,7 @@ A curated list of delightful Bash scripts and resources.
 ### Shell Package Management
 
 *   [bash-it (⭐13k)](https://github.com/Bash-it/bash-it) - A community Bash framework
-*   [basher (⭐971)](https://github.com/basherpm/basher) - A package manager for shell scripts
+*   [basher (⭐973)](https://github.com/basherpm/basher) - A package manager for shell scripts
 *   [bpkg (⭐1.7k)](https://github.com/bpkg/bpkg) - A lightweight bash package manager
 *   [homeshick (⭐1.9k)](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 
@@ -181,4 +187,4 @@ A curated list of delightful Bash scripts and resources.
 
 ### Books and Resources
 
-*   [Pure Bash Bible (⭐32k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+*   [Pure Bash Bible (⭐33k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
