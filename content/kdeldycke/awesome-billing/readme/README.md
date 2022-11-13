@@ -48,6 +48,11 @@
 *   [Taxes](#taxes)
     *   [European VAT](#european-vat)
 *   [Invoice](#invoice)
+    *   [Structure](#structure)
+    *   [Integrity](#integrity)
+    *   [Generators](#generators)
+    *   [Extrators](#extrators)
+    *   [Electronic invoices](#electronic-invoices)
 *   [Payments](#payments)
     *   [Receipt](#receipt)
     *   [Credit Cards](#credit-cards)
@@ -65,7 +70,7 @@
     *   [Data Engineering](#data-engineering)
     *   [Tools](#tools)
 *   [Competitive Analysis](#competitive-analysis)
-*   [Commercial Solutions](#commercial-solutions)
+    *   [Cloud providers](#cloud-providers)
 *   [History](#history)
 
 <!-- mdformat-toc end -->
@@ -78,7 +83,7 @@ In a Stanford class providing an [overview of cloud computing](http://web.stanfo
 
 <!--lint disable double-link-->
 
-This knowledge base cover the first columnar perimeter on the right of the cloud stack. It is one of the transversal pillar of the ecosystem, where customers, products and business meets. The [other pillar being Identity and Access Management (IAM) 👤 (⭐878)](https://github.com/kdeldycke/awesome-iam/).
+This knowledge base cover the first columnar perimeter on the right of the cloud stack. It is one of the transversal pillar of the ecosystem, where customers, products and business meets. The [other pillar being Identity and Access Management (IAM) 👤 (⭐916)](https://github.com/kdeldycke/awesome-iam/).
 
 <!--lint enable double-link-->
 
@@ -90,15 +95,15 @@ Here we set out the big picture: definition and strategic importance of the doma
 
 *   [5 things I learned while developing a billing system](https://arnon.dk/5-things-i-learned-developing-billing-system/) - A great introduction on all the various aspects of a billing system, from currency to invoices, including great illustrations about plans change logic. All these topics are later detailed in dedicated sections below.
 
-*   How to recruit software engineers in this domain? “The trick is to make the accounting/billing/payment department the anti-chamber of data engineering.” ([source](https://twitter.com/kdeldycke/status/1422564355799924736))
+*   How to recruit software engineers in this domain? “The trick is to make the accounting/billing/payment department the antechamber of data engineering.” ([source](https://twitter.com/kdeldycke/status/1422564355799924736))
 
 ## Pricing
 
 From monthly subscription to commodity-like on-the-go consumption, there's plenty of scheme out there to structure your product's pricing. Including the good old shopping-cart funnel.
 
-*   [Don't just roll the dice – Software pricing guide](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) - Not only huge and complete collection of pricing scheme, but also the psychological effect and impact on revenue model.
+*   [Don't just roll the dice – Software pricing guide](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) - Huge and complete collection of pricing scheme, with their psychological effect and impact on revenue model.
 
-*   [Business Model Patterns](https://reasonstreet.co/business-model-library/) - A list of 11 different ways to sell products and services.
+*   [Business Model Patterns](https://reasonstreet.co/business-model-library/) - A list of 15 different ways to sell products and services.
 
 *   [Axial - Business models](https://axial.substack.com/p/axial-business-models) - 38 models for inspiration.
 
@@ -116,6 +121,8 @@ The dynamic scheme for elastic resources.
 
 *   “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://twitter.com/kdeldycke/status/1214160678363246592)) - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlaying concepts.
 
+*   [Octane's Meter Types](https://docs.getoctane.io/docs/meter-types#gauges) - Nice illustrations of the quantization applied to time and value quantums on variable usages.
+
 *   [Riemann sum](https://en.wikipedia.org/wiki/Riemann_sum) - The starting point about quantization of usage.
 
 *   [Allen's interval algebra](https://en.wikipedia.org/wiki/Allen%27s_interval_algebra) - Implementing usage-based pricing is tricky, and this algebra will help you organize temporal reasoning. Also see this [Stack Overflow question with clean schema](https://stackoverflow.com/questions/12069082/allens-interval-algebra-operations-in-sql?rq=1).
@@ -128,7 +135,9 @@ The dynamic scheme for elastic resources.
 
 *   [Subscription-based pricing is dead: Smart SaaS companies are shifting to usage-based models](https://techcrunch.com/2021/01/29/subscription-based-pricing-is-dead-smart-saas-companies-are-shifting-to-usage-based-models/) - Usage-based pricing is more optimal and more fair: it “allows a customer to start at a low cost, minimizing friction to getting started while still preserving the ability to monetize a customer over time”.
 
-*   [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform\&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxanomy of its vocabularity from the International Electrotechnical Commission.
+*   [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform\&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxonomy of its vocabulary from the International Electrotechnical Commission.
+
+*   [Lago (⭐907)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
 
 ### Subscription Plans
 
@@ -136,13 +145,15 @@ Highly popular for SaaS businesses, subscription plans are easy to comprehend.
 
 *   [Pricing low-touch SaaS](https://stripe.com/en-in/atlas/guides/saas-pricing) - “In low-touch SaaS, the most common way packages are presented are as different columns in a pricing grid, with each column corresponding to a plan, offered at a different price, with differential access to features or maximum allowable usage along some axis interesting to the business.”
 
+*   [Lotus (⭐532)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
+
 *   [`f-license`](https://github.com/furkansenharputlu/f-license) - Open-source license key generation and verification tool in Go.
 
 ### Hybrid
 
 Uncommon pricing schemes.
 
-*   [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - Beyond linear pricing, there is a place for an additional platform fee and free-tier component in the pricing structure.
+*   [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - Beyond linear pricing, there is a place for additional platform fees and free-tiers in the pricing structure.
 
 *   [Google Ads API: `BillingCap` enum](https://developers.google.com/ad-manager/api/reference/v201911/CompanyService.BillingCap) - Capped actuals: monthly with rollover, an optimized pricing scheme to limit surprises from customers, in which we more or less sell quotas.
 
@@ -156,6 +167,8 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 *   [The 7 factors to consider when pricing your startup product](https://tomtunguz.com/how-to-price-your-startups-product/) - Pricing is an offensive tool to reinforce your product value and underscore the company core marketing message.
 
+*   [The Anatomy of SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) - Explain how to articulate the pricing of SaaS businesses around the product strategy.
+
 *   [The cup-of-coffee pricing fallacy](https://blog.gingerlime.com/2020/the-cup-of-coffee-pricing-fallacy/) - Explains why it is a sloppy analogy.
 
 ### Market Research
@@ -168,7 +181,7 @@ Survey methods and price discovery technics to find the right price point.
 
 *   [Van Westendorp's Price Sensitivity Meter](https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter) - PSM is a market technique for determining consumer price preferences. Allows for drawing a revenue curve to estimate the price point delivering the maximum revenue.
 
-*   [Pricing niche products](https://kevinlynagh.com/notes/pricing-niche-products/) - “The most compelling argument against simply picking a price, though, is that it limits how much you can learn about your market.” Then the author setup vickrey auction to discover price.
+*   [Pricing niche products](https://kevinlynagh.com/notes/pricing-niche-products/) - “The most compelling argument against simply picking a price, though, is that it limits how much you can learn about your market.” Then the author setup vickrey auctions to discover price.
 
 *   [Finding the max revenue price mark for digital products](https://medium.com/@hovm/finding-the-max-revenue-price-mark-for-digital-products-24cef24f746d) - “To find the optimal price that provides maximum revenue for your product you will need to field-test several price points; you then reconstruct the revenue curve and find the peak.”
 
@@ -180,9 +193,9 @@ The central repository of all available services, products, variants, options an
 
 *   [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - All GCP SKUs available as an API.
 
-*   [Akeneo PIM (⭐861)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐870)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
-*   [Pimcore (⭐2.6k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
+*   [Pimcore (⭐2.7k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
 
 *   [OpenPIM](https://www.openpim.org) - A streamlined open-source project, focusing on PIM-only features.
 
@@ -224,7 +237,7 @@ A marketplace connect supply with demand that lead to a financial transaction. I
 
 *   [Customized Regression Model for Airbnb Dynamic Pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing) - This paper describes the pricing strategy model deployed at Airbnb.
 
-*   [Papers we love: Auctions and Bidding (⭐65k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐66k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 *   [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) \[but] using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
 
@@ -292,6 +305,8 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 *   [So, you want to learn Bookkeeping!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - Focus on the daily operations of recording and maintaining the transactions of a business.
 
+*   [Reconciliation: A game designed to frustrate the player](https://bam.kalzumeus.com/archive/a-game-that-intentionally-frustrates-the-player/) - “Reconciliation is a business process which arises almost entirely because of a lack of structured data in the pipelines that convey money between businesses.” Hacks to streamline the process are: add arbitrary discount to produce unique trailing decimals, setup a couple of virtual bank accounts as proxy,
+
 *   [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 
 *   And a list of graphical accounting tools: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) (C), [Firefly III](https://firefly-iii.org) (PHP).
@@ -302,21 +317,23 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 *   [Luca (⭐61)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
 
-*   [Sequence (⭐425)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐427)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
 *   [Go DB Ledger (⭐451)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
-*   [Ledger (⭐486)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Ledger (⭐517)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
 
-*   [Akaunting (⭐5.6k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Akaunting (⭐5.7k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ### Software design and implementation
 
-Now that you're somewhat familiar with the concepts and practive of accounting, here are some resources to help you implement that knowledge into software systems.
+Now that you're somewhat familiar with the concepts and practice of accounting, here are some resources to help you implement that knowledge into software systems.
 
 *   [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html) - Design decisions behind a billing and accounting system. Key takeaway: some companies still pays by checks; do not use floats; complex customer workflows; date and time issues; mutable data.
 
 *   [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - Explain the basic data model of a double-entry accounting system relying on Google Spanner for internal use at Square.
+
+*   [TigerBeetle (⭐1.4k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 *   [Django Hordak](https://django-hordak.readthedocs.io) - Core functionality of a double entry accounting system for Django.
 
@@ -392,27 +409,43 @@ All the invoicing and payment terms and conditions are materialzed by the contra
 
 The invoice materialize a consumed service or purchased product, waiting to be settled by a payment transaction.
 
-*   [On GCP invoiced billing](https://news.ycombinator.com/item?id=17517479) - [Invoiced billing](https://cloud.google.com/billing/docs/how-to/invoiced-billing) (B2B-friendly payment by the customer after the service is consumed and an invoice issued) is a pain on GCP.
+*   [On GCP invoiced billing](https://news.ycombinator.com/item?id=17517479) - [Invoiced billing](https://cloud.google.com/billing/docs/how-to/invoiced-billing) is a B2B-friendly payment happening after the service is consumed and an invoice issued. It seems to be a pain to setup on GCP but I suspect is a consequence of trying to reduce (costly) fraud.
+
+### Structure
+
+*   [Content of EU invoices](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL#d1e6510-1-1) - The information required on a EU invoice is detailed by Article 226, Section 4 (Content of invoices) of Council Directive 2006/112/EC on the common system of VAT.
+
+### Integrity
+
+Once issued, an invoice must be immutable.
 
 *   [Digital signatures: how Sleek leverages Cloud HSM to guarantee the integrity of legal documents](https://medium.com/google-developers/digital-signatures-how-sleek-leverages-cloud-hsm-to-guarantee-the-integrity-of-legal-documents-a7bd3b82faf6) - Here is a great way to rely on GCP's HSM to digitally sign documents and provide an immutable audit-trail. Might be applied to invoices as well as contract agreements.
 
 *   [OpenTimestamps](https://opentimestamps.org) - Go beyond the solution above, and timestamp immutable document directly on Bitcoin's blockchain.
 
+*   [Credit note](https://en.wikipedia.org/wiki/Credit_note) - Because an invoice is immutable, the only way to fully or partially cancel it is to produce a credit note.
+
+### Generators
+
 *   [Manta (⭐5.2k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
 
 *   [InvoicePlane (⭐2.1k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
-*   [Volcano (⭐151)](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
+*   [Volcano (⭐152)](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
 
-*   [InvoiceGenerator (⭐134)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
+*   [InvoiceGenerator (⭐135)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
 
 *   [Ruby Invoicing Framework (⭐262)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 *   [Refact](http://en.userstudio.fr/projects/refact/) - A design project trying to revamp a phone bill with infographics.
 
+### Extrators
+
 *   [InvoiceNet (⭐2.1k)](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 
-*   [Factur-X (⭐83)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+### Electronic invoices
+
+*   [Factur-X (⭐85)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
@@ -472,13 +505,15 @@ The old-fashioned way of payment: by the way of banks.
 
 *   [Swift Codes](https://bank.codes/swift-code/) - Swift / BIC codes for personal use only.
 
-*   [Swift Codes Repository (⭐151)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐152)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ### Online Payments
 
 The usual money transfer services.
 
 *   [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
+
+*   [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/) - A huge collection of everythings that went wrong, and still is, with payment APIs from the past 2 decades. Any issue exposed in this article that gets unaddressed will end up as stolen money.
 
 *   [The untold story of Stripe](https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook) - In which we learn that “once turnover hit a certain level, Paypal automatically put the business on a 21 to 60 day rolling reserve, meaning that up to 30 per cent of a company's revenue could be locked up for up to two months.”
 
@@ -494,7 +529,7 @@ There's monetary incentives to exploit your business. Be prepared to fight horde
 
 <!--lint disable double-link-->
 
-*   [Awesome List of IAM: Fraud links (⭐878)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐916)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 <!--lint enable double-link-->
 
@@ -526,7 +561,7 @@ Synthetic score based on a collection of signals are often the best proxy of use
 
 *   [Digital Ocean's Update on Customer Shutdown Incident](https://blog.digitalocean.com/an-update-on-last-weeks-customer-shutdown-incident/) - Aggressively shutting down user servers is good from a business point of view to prevent fraudster abusing free resources, until it's not.
 
-*   [Awesome Credit Modeling (⭐65)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐68)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
 
 ### Statistics
 
@@ -582,11 +617,13 @@ Definition and collection of Key Performance Indicators (KPIs) worth monitoring.
 
 ### Customer Lifetime Value
 
-How much net value do you produce per customer? The customer lifetime value (CLV, or LTV) quantify that, and understanding and acting on it is the most important part of your business's sales efforts.
+How much net value do you produce per customer? The Customer Lifetime Value (CLV, or LTV for Life-Time Value) quantify that. Understanding and acting on it is the most important part of your business's sales efforts.
 
-*   [You're all calculating churn rates wrong](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992) - “On the surface, churn rate may seem like a natural proxy for changes in customer lifetimes. Let's dig into why that is not true.” Churn rate is not a meaningful metric to compute CLV, as during the customer lifetime the churn probability is not constant. Most of the time because of your free trial and vouchers.
+*   [You're all calculating churn rates wrong](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992) - “On the surface, churn rate may seem like a natural proxy for changes in customer lifetimes. Let's dig into why that is not true.” Churn rate is not a meaningful metric to compute CLV: during the customer lifetime, the churn probability is not constant. Most of the time because of your free trial and vouchers. This article illustrate the influence of the distribution used to model the probability of a customer quitting.
 
-*   [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - A seminal paper, with a stronger approach compared to the one above: [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319), better suited to monthly contracts.
+*   [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - A seminal paper, with a stronger approach compared to the one above: [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319), which is better suited to discrete time intervals like monthly contracts, the former being more appropriate to continuous time process.
+
+*   [Survival Analysis For Customer Retention](https://two-wrongs.com/survival-analysis-for-customer-retention.html) - Illustrates how retention can be better modelled using a survival function like [Kaplan–Meier survival curves](https://two-wrongs.com/bootstrapping-kaplan-meier-confidence-intervals.html).
 
 *   [RFM (customer value)](https://en.wikipedia.org/wiki/RFM_%28customer_value%29) - A refined model of CLV, used to segment users based on Recency, Frequency and Monetary value.
 
@@ -634,11 +671,11 @@ Software to build visualizations, dashboards, SQL queries and drill down into da
 
 A bunch of resources to keep track of the current status and progress of all companies operating in the domain.
 
+### Cloud providers
+
 *   [AWS Cost Management announcements](https://aws.amazon.com/about-aws/whats-new/aws-cost-management/) - The source of all new features added to the billing perimeter.
 
-*   [AWS reserved instances vs saving plan](https://www.prosperops.com/assets/img/blog/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
-
-*   [EC2 Spot Price Tracker (⭐125)](https://github.com/grosskur/ec2price) - Web app that collects and graphs EC2 Spot Prices.
+*   [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
 
 *   [GCP billing release notes](https://cloud.google.com/billing/docs/release-notes) - Latest changes of GCP billing features.
 
@@ -646,33 +683,9 @@ A bunch of resources to keep track of the current status and progress of all com
 
 *   [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - A wrap-up of recent GCP pricing features.
 
-*   [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - All the latest billing updates on DO.
-
-## Commercial Solutions
-
 *   [Orbitera](https://www.orbitera.com) - GCP's billing subsidiary.
 
-*   [16 Online Subscription Billing Tools](https://www.analyzo.com/search/online-subscription-billing-tools/106) - An up-to-date list of subscription and recurring billing services.
-
-*   [OpenCell](https://opencellsoft.com) - Monetization platform originating from an open-source telco billing project.
-
-*   [Laravel Spark](https://spark.laravel.com) - Package that provides scaffolding for all of the stuff you don't want to code: subscription and team billing, invoices, but also user accounts features.
-
-*   [Bullet Train](https://bullettrain.co) - Same as above, but for Ruby on Rails.
-
-*   [ASP.NET Zero](https://aspnetzero.com) - Multi-tenancy, authentication and authorization, invoices and payments.
-
-*   [Nextless JS](https://nextlessjs.com) - Everything you need to build a SaaS products in Node.js with React and Serverless: Authentication and authorization, invoices and payments.
-
-*   [Chargebee](https://www.chargebee.com) - Subscription billing & revenue operations.
-
-*   [Armatic Billing & Invoicing Software](https://www.armatic.com/billing) - Invoices, accounts receivable.
-
-*   [Sensus Billing Access Application](https://sensus.com/products/billing-access/) - Billing and metering solutions for utility companies.
-
-*   [Quaderno](https://quaderno.io) - Calculate sales tax, VAT, and GST; automate receipts.
-
-*   [keygen](https://keygen.sh) - Sell and manage license keys.
+*   [DigitalOcean Billing changelog](http://docs.digitalocean.com/release-notes/billing/) - All the latest billing updates on DO.
 
 ## History
 
@@ -686,5 +699,5 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Footnotes
 
-The [header image (⭐404)](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) is based on a modified [photo](https://unsplash.com/photos/u2zSzMTwIjQ) by [Denny Müller](https://unsplash.com/@redaquamedia).
+The [header image (⭐414)](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) is based on a modified [photo](https://unsplash.com/photos/u2zSzMTwIjQ) by [Denny Müller](https://unsplash.com/@redaquamedia).
 
