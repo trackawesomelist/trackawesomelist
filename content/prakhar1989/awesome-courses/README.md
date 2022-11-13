@@ -6,6 +6,14 @@
 
 [ Daily / [Weekly](/content/prakhar1989/awesome-courses/week/README.md) / [Overview](/content/prakhar1989/awesome-courses/readme/README.md) ]
 
+## [Nov 13, 2022](/content/2022/11/13/README.md)
+
+### Courses / Programming Languages / Compilers
+
+*   [Corsopl](https://pradella.faculty.polimi.it/PL.html) **Principles of Programming Languages** *Politecnico di Milano*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> - Lecture Notes <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> - Readings
+    *   This course gives an overview of Scheme, Haskell and Erlang while analyzing the languages' similarities and differences. As a result, many important/prevalent concepts and how they manifest differently in different programming languages are explained. Among these are (purely) functional programming, object orientation, type inference and evaluation order.
+    *   Thorough introduction to functional programming with no preknowledge in any functional language required.
+
 ## [Nov 01, 2022](/content/2022/11/01/README.md)
 
 ### Courses / Algorithms
@@ -41,7 +49,7 @@
     *   [Lectures Notes](http://www.cs.berkeley.edu/\~pabbeel/cs287-fa13/#syllabus)
     *   [Assignments](http://www.cs.berkeley.edu/\~pabbeel/cs287-fa13/#assignments)
 *   [Machine Learning: 2014-2015](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
-    *   The course focusses on neural networks and uses the [Torch (⭐8.7k)](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
+    *   The course focusses on neural networks and uses the [Torch (⭐8.8k)](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
     *   [Lectures and Assignments](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     *   [Source code](https://github.com/oxford-cs-ml-2015/)
 *   [10-708](http://www.cs.cmu.edu/\~epxing/Class/10708-14/index.html) **Probabilistic Graphical Models** *Carnegie Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
@@ -619,7 +627,7 @@
 
 *   [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
     *   Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
-    *   [Lecture slides (⭐72)](https://github.com/patricklam/p4p-2015/tree/master/lectures)
+    *   [Lecture slides (⭐71)](https://github.com/patricklam/p4p-2015/tree/master/lectures)
 
 ## [Jul 08, 2016](/content/2016/07/08/README.md)
 
@@ -690,7 +698,7 @@
 
 *   [CIS 198](http://cis198-2016s.github.io/) **Rust Programming** *UPenn* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
     *   This course covers what makes Rust so unique and applies it to practical systems programming problems. Topics covered include traits and generics; memory safety (move semantics, borrowing, and lifetimes); Rust’s rich macro system; closures; and concurrency.
-    *   [Assignments (⭐183)](https://github.com/cis198-2016s/homework)
+    *   [Assignments (⭐184)](https://github.com/cis198-2016s/homework)
 
 ## [Mar 12, 2016](/content/2016/03/12/README.md)
 
@@ -786,14 +794,14 @@
 
 ### Courses / Security
 
-*   [CSCI 4968 (⭐4.9k)](https://github.com/RPISEC/MBE) **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+*   [CSCI 4968 (⭐5k)](https://github.com/RPISEC/MBE) **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
     *   This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
         teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
         Spring 2015. This was a university course developed and run solely by students to teach
         skills in vulnerability research, reverse engineering, and binary exploitation.
     *   [Lectures Notes](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/)
-    *   [Labs (⭐4.9k)](https://github.com/RPISEC/MBE/tree/master/src)
-    *   [Projects (⭐4.9k)](https://github.com/RPISEC/MBE/tree/master/src)
+    *   [Labs (⭐5k)](https://github.com/RPISEC/MBE/tree/master/src)
+    *   [Projects (⭐5k)](https://github.com/RPISEC/MBE/tree/master/src)
 
 ## [Jan 19, 2016](/content/2016/01/19/README.md)
 
@@ -1414,10 +1422,10 @@
     *   [Text Lectures](http://ocw.tufts.edu/Course/75/Learningunits)
     *   [Assignments](http://ocw.tufts.edu/Course/75/Assignments)
     *   [Labs](http://ocw.tufts.edu/Course/75/Labs)
-*   [CS 100 (⭐455)](https://github.com/mikeizbicki/ucr-cs100) **Open Source Software Construction** *UC Riverside* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+*   [CS 100 (⭐456)](https://github.com/mikeizbicki/ucr-cs100) **Open Source Software Construction** *UC Riverside* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   This is a course on how to be a hacker. Your first four homework assignments walk you through the process of building your own unix shell. You'll be developing it as an open source project, and you will collaborate with each other at various points.
-    *   [Github Page (⭐455)](https://github.com/mikeizbicki/ucr-cs100)
-    *   [Assignments (⭐455)](https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/assignments)
+    *   [Github Page (⭐456)](https://github.com/mikeizbicki/ucr-cs100)
+    *   [Assignments (⭐456)](https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/assignments)
 *   [CS 223A](https://see.stanford.edu/Course/CS223A) **Introduction to Robotics** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
 *   [CSE 154](http://courses.cs.washington.edu/courses/cse154/14au/) **Web Programming** *University of Washington* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />

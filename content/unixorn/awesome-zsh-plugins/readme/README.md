@@ -50,6 +50,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
     *   [tzpm](#tzpm)
     *   [uz](#uz)
     *   [yazt](#yazt)
+    *   [zap](#zap)
     *   [zapack](#zapack)
     *   [zcomet](#zcomet)
     *   [zeesh](#zeesh)
@@ -236,6 +237,10 @@ A ZSH micro plugin manager.
 ### [yazt (⭐0)](https://github.com/bashelled/yazt)
 
 **Yazt** is a simple ZSH theme manager in maintence that is compatible with nearly everything. You can use prompts in plugins, mix 'n' match two themes, with a few modifications, you can even use it in `bash`.
+
+### [zap (⭐114)](https://github.com/zap-zsh/zap)
+
+**zap** is a minimal ZSH plugin manager.
 
 ### [zapack (⭐7)](https://github.com/aiya000/zsh-zapack)
 
@@ -1092,6 +1097,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [session-sauce (⭐27)](https://github.com/ChrisPenner/session-sauce) - An [fzf (⭐48k)](https://github.com/junegunn/fzf) interface for tmux session creation and management for all your projects.
 *   [setenv (⭐7)](https://github.com/kalpakrg/setenv) - Runs a script when you change directories.
 *   [shelf (⭐4)](https://github.com/ecmma/shelf) -Utility which can be used to bookmark and access directly any file using mnemonics.
+*   [shell-fns (⭐0)](https://github.com/Hdoc1509/shell-fns) - Includes `git`, `neovim`, `npm`, `pip` extended functionality.
 *   [shellfirm (⭐645)](https://github.com/kaplanelad/shellfirm) - Shellfirm is a handy utility to help avoid running dangerous commands without an extra step of approval. When risky patterns is detected you will immediately get a small prompt challenge that will verify your action.
 *   [shift-select (⭐28)](https://github.com/jirutka/zsh-shift-select) - Emacs shift-select mode for ZSH - select text in the command line using Shift, as in many text editors, browsers and other GUI programs.
 *   [show-path (⭐0)](https://github.com/redxtech/zsh-show-path) - Provides a function shows the `$PATH` line by line.
@@ -1461,7 +1467,7 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [yabai (⭐11)](https://github.com/Amar1729/yabai-zsh-completions) - Add completions for macOS [yabai (⭐13k)](https://github.com/koekeishiya/yabai/) tiling window manager.
 *   [yarn-extra-completion (⭐37)](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion (⭐413)](https://github.com/lukechilds/zsh-better-npm-completion).
 *   [yarn (⭐555)](https://github.com/g-plane/zsh-yarn-autocompletions) - Add autocompletions for `yarn add`, `yarn remove`, `yarn upgrade`, `yarn why` and `yarn run`.
-*   [yt-dlp (⭐0)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐34k)](https://github.com/yt-dlp/yt-dlp).
+*   [yt-dlp (⭐0)](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp (⭐35k)](https://github.com/yt-dlp/yt-dlp).
 *   [zargparse (⭐9)](https://github.com/ctil/zargparse) - Pass it a script that uses `argparse` and it will write a ZSH completion to your current directory.
 
 ## Themes
@@ -1821,7 +1827,6 @@ If you're using [Antigen (⭐7.3k)](https://github.com/zsh-users/antigen), you c
 *   [jhleeeme (⭐2)](https://github.com/JHLeeeMe/JHLeeeMe-Zsh-Theme) - Includes `git` and python virtualenv status decorations, user, pwd,time and system name.
 *   [jnooree (⭐0)](https://github.com/jnooree/jnooree-zsh-theme) - Minimalist theme with colors adapted from the [robbyrussell (⭐152k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme. Includes decorators for `git` status, whether running as non-default user and current working directory.
 *   [jon (⭐1)](https://github.com/Jon-Schneider/jon.zsh-theme) - A simplified [bira (⭐152k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) with the colors of [robbyrussell (⭐152k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme).
-*   [jose (⭐4)](https://github.com/tmjoseantonio/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status.
 *   [jovial (⭐277)](https://github.com/zthxxx/jovial) - Shows decorators for host, user, path, development environment, `git` branch, and which `python` venv is active.
 *   [jpegleg (⭐1)](https://github.com/jpegleg/zshrc) - Similar to dark blood theme, includes timestamp and `git` decorations.
 *   [js-magic (⭐0)](https://github.com/JSextonn/js-magic) - A simplified take on [af-magic (⭐7)](https://github.com/andyfleming/oh-my-zsh/blob/master/themes/af-magic.zsh-theme). Includes current working directory and `git` status decorations.
@@ -2147,7 +2152,7 @@ If you're using [Antigen (⭐7.3k)](https://github.com/zsh-users/antigen), you c
 *   [shocm (⭐0)](https://github.com/ericvanjohnson/shocm-zsh-themes) - Forked from [sixlive (⭐4)](https://github.com/sixlive/sixlive-zsh-theme). Has `git` decorations.
 *   [short-ys (⭐0)](https://github.com/OREOmini/short-ys-zsh-theme) - Based on the [ys (⭐152k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/ys.zsh-theme) theme. Includes `git` and `hg` status decorations.
 *   [shrikant (⭐0)](https://github.com/shr1k4nt/shrikant_zsh_theme) - Includes `git` decorations.
-*   [shrug (⭐4)](https://github.com/tmjoseantonio/shrug-zsh-theme) - Simple theme which includes decorations for the current directory and `git` information.
+*   [shrug (⭐4)](https://github.com/to-var/shrug-zsh-theme) - Inspired by [beer-theme (⭐3)](https://github.com/tcnksm/oh-my-zsh-beer-theme), includes `git` status and current directory decorations.
 *   [shtr0m (⭐0)](https://github.com/kyle-pollock/shtr0m) - Includes `git` status decorations.
 *   [shuttle (⭐1)](https://github.com/Pandademic/Shuttle/) - Written in `golang`. Has decorators for OS, user, current directory, and the exit code of the last command run.
 *   [siegerts (⭐0)](https://github.com/siegerts/zsh-theme) - Includes `git` status decorations in right prompt.

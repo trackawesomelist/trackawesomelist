@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 13, 2022](/content/2022/11/13/README.md)
+
+### Editing Support / Diagnostics
+
+*   [Wansmer/treesj (⭐4)](https://github.com/Wansmer/treesj) - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-Sitter. Inspired by greatest splitjoin.vim.
+
 ## [Nov 11, 2022](/content/2022/11/11/README.md)
 
 ### Split and Window / Diagnostics
@@ -455,7 +461,6 @@ Collections of awesome neovim plugins.
 
 *   [numToStr/Comment.nvim (⭐1.6k)](https://github.com/numToStr/Comment.nvim) - Smart and Powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
 *   [b3nj5m1n/kommentary (⭐521)](https://github.com/b3nj5m1n/kommentary) - Commenting plugin written in Lua.
-*   [glepnir/prodoc.nvim (⭐47)](https://github.com/glepnir/prodoc.nvim) - Comment and support generate annotation.
 *   [gennaro-tedesco/nvim-commaround (⭐40)](https://github.com/gennaro-tedesco/nvim-commaround) - Fast and light commenting plugin written in Lua.
 *   [folke/todo-comments.nvim (⭐1.2k)](https://github.com/folke/todo-comments.nvim) - Highlight, list and search todo comments in your projects.
 *   [terrortylor/nvim-comment (⭐328)](https://github.com/terrortylor/nvim-comment) - Toggle comments using the built-in commentstring option.
@@ -1012,23 +1017,7 @@ Collections of awesome neovim plugins.
 ### Completion / Diagnostics
 
 *   [hrsh7th/nvim-cmp (⭐4.2k)](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
-    *   [hrsh7th/cmp-nvim-lsp (⭐415)](https://github.com/hrsh7th/cmp-nvim-lsp) - A nvim-cmp source builtin LSP client.
-    *   [saadparwaiz1/cmp\_luasnip (⭐261)](https://github.com/saadparwaiz1/cmp_luasnip) - A nvim-cmp source for luasnip completion.
-    *   [quangnguyen30192/cmp-nvim-ultisnips (⭐86)](https://github.com/quangnguyen30192/cmp-nvim-ultisnips) - A nvim-cmp source for UltiSnips.
-    *   [hrsh7th/cmp-path (⭐260)](https://github.com/hrsh7th/cmp-path) - A nvim-cmp source for filesystem paths.
-    *   [petertriho/cmp-git (⭐204)](https://github.com/petertriho/cmp-git) - A nvim-cmp source for Git.
-    *   [hrsh7th/cmp-buffer (⭐252)](https://github.com/hrsh7th/cmp-buffer) - A nvim-cmp source for buffer words.
-    *   [tzachar/cmp-tabnine (⭐197)](https://github.com/tzachar/cmp-tabnine) - A nvim-cmp source for TabNine.
-    *   [tzachar/cmp-fuzzy-buffer (⭐48)](https://github.com/tzachar/cmp-fuzzy-buffer) - A nvim-cmp source for fuzzy buffer words.
-    *   [tzachar/cmp-fuzzy-path (⭐44)](https://github.com/tzachar/cmp-fuzzy-path) - A nvim-cmp source for fuzzy path completion, both in buffers and in command line mode.
-    *   [hrsh7th/cmp-nvim-lua (⭐171)](https://github.com/hrsh7th/cmp-nvim-lua) - A nvim-cmp source for the Neovim Lua API.
-    *   [lukas-reineke/cmp-rg (⭐190)](https://github.com/lukas-reineke/cmp-rg) - A nvim-cmp source for Ripgrep.
-    *   [f3fora/cmp-spell (⭐91)](https://github.com/f3fora/cmp-spell) - A nvim-cmp source for vim's spellsuggest.
-    *   [andersevenrud/cmp-tmux (⭐89)](https://github.com/andersevenrud/cmp-tmux) - A nvim-cmp source for Tmux.
-    *   [David-Kunz/cmp-npm (⭐75)](https://github.com/David-Kunz/cmp-npm) - A nvim-cmp source for NPM.
     *   [lukas-reineke/cmp-under-comparator (⭐100)](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
-    *   [zbirenbaum/copilot-cmp (⭐217)](https://github.com/zbirenbaum/copilot-cmp) - A nvim-cmp source for GitHub copilot.
-    *   [rcarriga/cmp-dap (⭐57)](https://github.com/rcarriga/cmp-dap) - A nvim-cmp source for nvim-dap.
 
 ### Session / Diagnostics
 
