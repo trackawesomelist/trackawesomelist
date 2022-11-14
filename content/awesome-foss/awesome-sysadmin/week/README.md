@@ -6,6 +6,12 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 [ [Daily](/content/awesome-foss/awesome-sysadmin/README.md) / Weekly / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Web / Metric & Metric Collection
+
+*   [Traefik](https://traefik.io/) - Traefik is a leading modern reverse proxy and load balancer.
+
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
 ### Identity Management / Single Sign-On (SSO)
@@ -22,7 +28,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Editors
 
-*   [Atom Community (⭐413)](https://github.com/atom-community/atom) - A fork of [atom (⭐59k)](https://github.com/atom/atom) A hackable text editor from Github.
+*   [Atom Community (⭐428)](https://github.com/atom-community/atom) - A fork of [atom (⭐59k)](https://github.com/atom/atom) A hackable text editor from Github.
 *   [VSCodium (⭐18k)](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
 
 ### Packaging / Metric & Metric Collection
@@ -37,7 +43,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Monitoring / Single Sign-On (SSO)
 
-*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐818)](https://github.com/tribe29/checkmk)) `Python/PHP`
+*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐834)](https://github.com/tribe29/checkmk)) `Python/PHP`
 
 ## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
 
@@ -45,9 +51,9 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 *   [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
-*   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐634)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
+*   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐635)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
 *   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Source Code (⭐1.9k)](https://github.com/allegro/ralph), [Demo (⭐1.9k)](https://github.com/allegro/ralph#live-demo)) `Apache-2.0` `Python/Docker`
-*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐6.9k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
+*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐7k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 
@@ -57,7 +63,7 @@ A curated list of amazingly awesome open source sysadmin resources.
     *   [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
     *   [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
     *   [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-    *   [VictoriaMetrics (⭐7.3k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+    *   [VictoriaMetrics (⭐7.4k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -75,13 +81,13 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Monitoring / Single Sign-On (SSO)
 
-*   [Scrutiny (⭐1.7k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+*   [Scrutiny (⭐1.8k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
 ### VPN / Metric & Metric Collection
 
-*   [Headscale (⭐8.5k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+*   [Headscale (⭐9k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -93,7 +99,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Control Panels
 
-*   Revision Control: see [awesome-selfhosted#project-management (⭐106k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
+*   Revision Control: see [awesome-selfhosted#project-management (⭐108k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
 
 ### VPN / Metric & Metric Collection
 
@@ -103,7 +109,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Identity Management / Tools and web interfaces
 
-*   [ZITADEL (⭐1.6k)](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
+*   [ZITADEL (⭐1.7k)](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
@@ -137,7 +143,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Continuous Integration & Continuous Deployment
 
-*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.3k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
+*   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.4k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
 ## [Jul 06 - Jul 12, 2020](/content/2020/27/README.md)
 
@@ -257,13 +263,13 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐4.9k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 *   [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code (⭐96)](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
 *   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐26k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
-*   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐80)](https://github.com/factor-io/factor)) `MIT` `Ruby`
+*   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐81)](https://github.com/factor-io/factor)) `MIT` `Ruby`
 *   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce) `MIT` `Ruby`
 *   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.6k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
 *   [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code (⭐54)](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
 *   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐20k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐233)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
-*   [PHP Censor (⭐659)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
+*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐236)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
+*   [PHP Censor (⭐658)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 
@@ -271,7 +277,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### Monitoring / Single Sign-On (SSO)
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐128)](https://github.com/netxms/netxms))
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐130)](https://github.com/netxms/netxms))
 
 ## [Dec 24 - Dec 30, 2018](/content/2018/52/README.md)
 
@@ -333,7 +339,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### VPN / Metric & Metric Collection
 
-*   [sshuttle (⭐8.9k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
+*   [sshuttle (⭐9.1k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
 
 ## [Jan 29 - Feb 04, 2018](/content/2018/5/README.md)
 
@@ -385,13 +391,13 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 *   [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
 *   [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
-*   [BorgBackup (⭐8.7k)](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
+*   [BorgBackup (⭐8.8k)](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 *   [Burp](http://burp.grke.org/) - Network backup and restore program.
 *   [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 *   [Elkarbackup (⭐346)](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
 *   [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
 *   [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
-*   [Shield (⭐288)](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
+*   [Shield (⭐289)](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
 *   [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 *   [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 *   [DREBS (⭐35)](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
@@ -405,7 +411,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 ### ChatOps
 
-*   [CloudBot (⭐266)](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
+*   [CloudBot (⭐265)](https://github.com/CloudBotIRC/CloudBot) - The simple, fast, expandable Python IRC bot.
 *   [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
 *   [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
 *   [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
@@ -460,11 +466,11 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐55)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 *   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐93k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
+*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐94k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
 *   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 *   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 *   [Rundeck](http://rundeck.org/) - Simple orchestration tool.
-*   [Spruce (⭐362)](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis (⭐55)](https://github.com/starkandwayne/genesis).
+*   [Spruce (⭐364)](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis (⭐55)](https://github.com/starkandwayne/genesis).
 
 ### Configuration Management
 
@@ -499,12 +505,12 @@ A curated list of amazingly awesome open source sysadmin resources.
     *   [Virtualmin](http://www.virtualmin.com/) - Hosting panel for Linux based on webmin.
 *   DNS
     *   [Atomia DNS](http://atomiadns.com/) - DNS management system.
-    *   [nsedit (⭐187)](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
+    *   [nsedit (⭐189)](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
     *   [PDNS Gui (⭐26)](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
     *   [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring
     *   [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
 *   Virtualization
-    *   [OpenVZ Web Panel (⭐285)](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
+    *   [OpenVZ Web Panel (⭐287)](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
 *   Server
     *   [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
     *   [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
@@ -612,7 +618,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 ### Monitoring / Single Sign-On (SSO)
 
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode (⭐331)](https://github.com/opinkerfi/adagios), [Documentation (⭐331)](https://github.com/opinkerfi/adagios/wiki))
-*   [Alerta (⭐2.1k)](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
+*   [Alerta (⭐2.2k)](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
 *   [bolo](http://bolo.niftylogic.com/) - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
 *   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.3k)](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
 *   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
@@ -637,7 +643,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 *   [rtop (⭐2k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
 *   [Sensu](https://sensuapp.org/) - Monitoring framework.
-*   [ServerStatus BotoX (⭐774)](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
+*   [ServerStatus BotoX (⭐775)](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
 *   [ServerStatus moejda (⭐354)](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
 *   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 *   [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
@@ -686,7 +692,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Firebird](http://www.firebirdsql.org/) - True universal database.
 *   [Galera](http://galeracluster.com/) - Galera Cluster for MySQL is an easy-to-use high-availability solution with high system up-time, no data loss, and scalability for future growth.
 *   [MariaDB](https://mariadb.org/) - Community-developed fork of the MySQL.
-    *   [adminer](https://www.adminer.org/) -  Database management in a single PHP file ([Source code (⭐5.4k)](https://github.com/vrana/adminer))
+    *   [adminer](https://www.adminer.org/) -  Database management in a single PHP file ([Source code (⭐5.5k)](https://github.com/vrana/adminer))
 *   [Percona Server](https://www.percona.com/software) - Enhanced, drop-in MySQL replacement.
 *   [PostgreSQL](http://www.postgresql.org/) - Object-relational database management system (ORDBMS).
 *   [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.

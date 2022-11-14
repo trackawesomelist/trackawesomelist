@@ -6,11 +6,17 @@ Community list of data & technology resources concerning the built environment a
 
 [ [Daily](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md) / Weekly / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Public Data Resources / Resilience and Natural Hazards
+
+*   [Adaptation Clearinghouse](https://www.adaptationclearinghouse.org/) - Maintained by Georgetown's Climate Center, this is an extensive online database and networking site that serves policymakers and others who are working to help communities adapt to climate change.
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
-*   [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool) - Climate Mapping for Resilience and Adaptation (CMRA) integrates information from across the federal government to help people consider their local exposure to climate-related hazards. People working in community organizations or for local, Tribal, state, or Federal governments can use the site to help them develop equitable climate resilience plans to protect people, property, and infrastructure. The site also points users to Federal grant funds for climate resilience projects, including those available through the Bipartisan Infrastructure Law. Additional Information: [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
+*   [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool) - Climate Mapping for Resilience and Adaptation (CMRA) integrates information from across the federal government to help people consider their local exposure to climate-related hazards. People working in community organizations or public agencies can use the site to help them develop equitable climate resilience plans to protect people, property, and infrastructure. Additional Information: [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 

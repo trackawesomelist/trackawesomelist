@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-billing/week/README.md) / [Overview](/content/kdeldycke/awesome-billing/readme/README.md) ]
 
+## [Nov 14, 2022](/content/2022/11/14/README.md)
+
+### Basics
+
+*   [Pricing, my only growth hack at Qonto](https://getlago.substack.com/p/pricing-my-only-growth-hack-at-qonto?s=r) - Most businesses don't know how to iterate over pricing: sales teams dictates them without involvement of the people in charge of implementation, which ends up in frustration for all. That's why you need to recognize billing as a critical function of your organization.
+
 ## [Nov 13, 2022](/content/2022/11/13/README.md)
 
 ### Pricing / Usage-based Pricing
@@ -111,8 +117,11 @@
 
 ### Basics
 
-*   [Open guide to AWS (⭐33k)](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section.
-*   [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - To optimize ROI, keep all regular workload in traditional architecture and reserve cloud computing for elastic and experimental projects.
+*   [Open guide to AWS (⭐33k)](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section which details the broad characteristics of billing for a cloud provider.
+
+### Pricing / Usage-based Pricing
+
+*   [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - The reason usage-based pricing makes even more sense for cloud services: to optimize ROI, keep all regular workload in traditional architecture and reserve cloud computing for elastic and experimental projects.
 
 ### Product Catalog / Market Research
 

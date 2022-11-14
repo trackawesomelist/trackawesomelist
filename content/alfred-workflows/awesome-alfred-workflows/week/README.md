@@ -6,11 +6,17 @@ A curated list of awesome alfred workflows
 
 [ [Daily](/content/alfred-workflows/awesome-alfred-workflows/README.md) / Weekly / [Overview](/content/alfred-workflows/awesome-alfred-workflows/readme/README.md) ]
 
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Developer
+
+*   [Tailwind CSS Docs (⭐38)](https://github.com/techouse/alfred-tailwindcss-docs) - Search the [Tailwind CSS](https://tailwindcss.com/docs/) documentation.
+
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
 ### System
 
-*   [Bluetooth Controller (⭐65)](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth status and device connectivity.
+*   [Bluetooth Controller (⭐68)](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth status and device connectivity.
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
@@ -28,11 +34,11 @@ A curated list of awesome alfred workflows
 
 ### Miscellaneous
 
-*   [Gitmoji (⭐11)](https://github.com/techouse/alfred-gitmoji) - Search for [Gitmojis](https://gitmoji.dev) easily.
+*   [Gitmoji (⭐14)](https://github.com/techouse/alfred-gitmoji) - Search for [Gitmojis](https://gitmoji.dev) easily.
 
 ### Helpers
 
-*   [Alfred Workflow (for Dart) (⭐4)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) for Python.
+*   [Alfred Workflow (for Dart) (⭐5)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) for Python.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
@@ -44,35 +50,35 @@ A curated list of awesome alfred workflows
 
 ### Developer
 
-*   [JetBrains (⭐535)](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' products.
+*   [JetBrains (⭐542)](https://github.com/bchatard/alfred-jetbrains) - Open project with one of JetBrains' products.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
 ### Developer
 
-*   [VSCode (⭐221)](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - An Alfred 4 workflow opening files or folders with Visual Studio Code.
+*   [VSCode (⭐225)](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) - An Alfred 4 workflow opening files or folders with Visual Studio Code.
 
 ### Text Manipulation
 
-*   [VSCodeDiff (⭐10)](https://github.com/logicxd/alfred-vscodediff) - Show the diff of the last 2 items in clipboard history using VSCode.
+*   [VSCodeDiff (⭐9)](https://github.com/logicxd/alfred-vscodediff) - Show the diff of the last 2 items in clipboard history using VSCode.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
 ### Communication
 
 *   [Mailsy (⭐17)](https://github.com/BalliAsghar/mailsy-alfred) - Quickly generate a disposable email.
-*   [Slack (⭐304)](https://github.com/yannickglt/alfred-slack) - Alfred workflow to interact, and perform various functions with the service Slack.
+*   [Slack (⭐306)](https://github.com/yannickglt/alfred-slack) - Alfred workflow to interact, and perform various functions with the service Slack.
 *   [TemporaryEmail (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox.
 
 ### Developer
 
-*   [AWS Console Services (⭐282)](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
-*   [Bootstrap Icons (⭐16)](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - Quickly look up Bootstrap Icons and add the desired one to your clipboard.
-*   [caniuse.rs (⭐7)](https://github.com/robjtede/alfred-caniuse-rs) - Rust feature support and version info from [caniuse.rs](https://caniuse.rs).
+*   [AWS Console Services (⭐287)](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
+*   [Bootstrap Icons (⭐17)](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - Quickly look up Bootstrap Icons and add the desired one to your clipboard.
+*   [caniuse.rs (⭐6)](https://github.com/robjtede/alfred-caniuse-rs) - Rust feature support and version info from [caniuse.rs](https://caniuse.rs).
 
 ### Productivity
 
-*   [Timing (⭐25)](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
+*   [Timing (⭐27)](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
 
 ### Other Lists
 
@@ -82,13 +88,13 @@ A curated list of awesome alfred workflows
 
 ### Productivity
 
-*   [iMessage 2FA (⭐86)](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
+*   [iMessage 2FA (⭐89)](https://github.com/squatto/alfred-imessage-2fa) - Find two-factor authentication codes in your recent iMessage messages.
 
 ## [Nov 11 - Nov 17, 2019](/content/2019/45/README.md)
 
 ### Productivity
 
-*   [Todoist (⭐315)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
+*   [Todoist (⭐316)](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
 
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
 
@@ -106,7 +112,7 @@ A curated list of awesome alfred workflows
 
 ### Miscellaneous
 
-*   [Lorem Ipsum (⭐39)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
+*   [Lorem Ipsum (⭐40)](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - Generate lorem ipsum(...) text from Alfred.
 
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
 
@@ -132,20 +138,20 @@ A curated list of awesome alfred workflows
 
 ### Developer
 
-*   [Fakeum (⭐278)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
-*   [Git Repos (⭐298)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
+*   [Fakeum (⭐280)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
+*   [Git Repos (⭐299)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
 
 ### Scientific
 
-*   [Convert (⭐690)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
+*   [Convert (⭐698)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
 
 ### Productivity
 
-*   [I Sheet You Not (⭐67)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
+*   [I Sheet You Not (⭐66)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 
 ### Security
 
-*   [Password Generator (⭐280)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
+*   [Password Generator (⭐282)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 
 ### System
 
@@ -153,15 +159,15 @@ A curated list of awesome alfred workflows
 
 ### Web
 
-*   [Reddit (⭐203)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
+*   [Reddit (⭐205)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 
 ## [Nov 27 - Dec 03, 2017](/content/2017/48/README.md)
 
 ### Productivity
 
-*   [Google Calendar View (⭐203)](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
-*   [PDF Tools (⭐115)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
-*   [Things (⭐333)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+*   [Google Calendar View (⭐204)](https://github.com/deanishe/alfred-gcal) - View your Google Calendar events.
+*   [PDF Tools (⭐118)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
+*   [Things (⭐335)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
@@ -173,7 +179,7 @@ A curated list of awesome alfred workflows
 
 ### Other Lists
 
-*   [Ctwise Alfred Workflows (⭐463)](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
+*   [Ctwise Alfred Workflows (⭐464)](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 *   [Vítor Galvão’s Alfred Workflows (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
 
 ## [Sep 11 - Sep 17, 2017](/content/2017/37/README.md)
@@ -181,8 +187,8 @@ A curated list of awesome alfred workflows
 ### Helpers
 
 *   [Alfy (⭐2.5k)](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
-*   [AwGo (⭐796)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
-*   [Fuzzy Search (⭐85)](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
+*   [AwGo (⭐805)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
+*   [Fuzzy Search (⭐86)](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.
 
 ## [Jun 05 - Jun 11, 2017](/content/2017/23/README.md)
 
@@ -198,7 +204,7 @@ A curated list of awesome alfred workflows
 
 ### System
 
-*   [Fkill (⭐461)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
+*   [Fkill (⭐462)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
 
 ## [Apr 10 - Apr 16, 2017](/content/2017/15/README.md)
 
@@ -224,7 +230,7 @@ A curated list of awesome alfred workflows
 ### Developer
 
 *   [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-*   [DevDocs (⭐618)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+*   [DevDocs (⭐620)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
 
 ### Text Manipulation
 
@@ -232,7 +238,7 @@ A curated list of awesome alfred workflows
 
 ### Scientific
 
-*   [Scientific Workflow (⭐98)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+*   [Scientific Workflow (⭐99)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 
 ### Miscellaneous
 
@@ -240,7 +246,7 @@ A curated list of awesome alfred workflows
 
 ### System
 
-*   [Swift Windows Switcher (⭐318)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
+*   [Swift Windows Switcher (⭐317)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
 ## [Mar 20 - Mar 26, 2017](/content/2017/12/README.md)
 
@@ -288,7 +294,7 @@ A curated list of awesome alfred workflows
 
 ### Developer
 
-*   [Github (⭐2.7k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
+*   [Github (⭐2.8k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 *   [npms (⭐350)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 
 ## [Jul 18 - Jul 24, 2016](/content/2016/29/README.md)
@@ -307,14 +313,14 @@ A curated list of awesome alfred workflows
 
 ### Text Manipulation
 
-*   [Encode / Decode (⭐510)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+*   [Encode / Decode (⭐514)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 *   [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 *   [HTML Entity Lookup (⭐34)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
 *   [Unicode Text Search (⭐180)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ### Scientific
 
-*   [DOITools (⭐6)](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
+*   [DOITools (⭐7)](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
 *   [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 
 ### Security
@@ -334,7 +340,7 @@ A curated list of awesome alfred workflows
 
 ### Security
 
-*   [LastPass Vault Manager (⭐122)](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
+*   [LastPass Vault Manager (⭐121)](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 
 ## [Feb 15 - Feb 21, 2016](/content/2016/7/README.md)
 
@@ -347,13 +353,13 @@ A curated list of awesome alfred workflows
 *   [caniuse (⭐403)](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
 *   [CDN (⭐65)](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 *   [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
-*   [Font Awesome (⭐795)](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
-*   [Package Managers (⭐686)](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
+*   [Font Awesome (⭐796)](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
+*   [Package Managers (⭐687)](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
 *   [VagrantUP (⭐40)](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
 ### System
 
-*   [Copy Paths to Clipboard (⭐91)](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
+*   [Copy Paths to Clipboard (⭐93)](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
 *   [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 
 ### Other Lists
