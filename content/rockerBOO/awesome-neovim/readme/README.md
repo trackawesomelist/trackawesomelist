@@ -106,7 +106,7 @@ You can find them listed on the [Neovim wiki (⭐59k)](https://github.com/neovim
 *   [wbthomason/packer.nvim (⭐4.5k)](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config.
 *   [savq/paq-nvim (⭐520)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 *   [NTBBloodbath/cheovim (⭐223)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
-*   [chiyadev/dep (⭐29)](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
+*   [chiyadev/dep (⭐34)](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
 
 ### LSP
 
@@ -141,7 +141,7 @@ You can find them listed on the [Neovim wiki (⭐59k)](https://github.com/neovim
 *   [junnplus/nvim-lsp-setup (⭐189)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 *   [amrbashir/nvim-docs-view (⭐56)](https://github.com/amrbashir/nvim-docs-view) - Display LSP hover documentation in a side panel.
 *   [mfussenegger/nvim-jdtls (⭐460)](https://github.com/mfussenegger/nvim-jdtls) - Extensions for the built-in LSP support for eclipse.jdt.ls.
-*   [Kasama/nvim-custom-diagnostic-highlight (⭐32)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
+*   [Kasama/nvim-custom-diagnostic-highlight (⭐35)](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Inline diagnostics popup-highlight much like coc-nvim but based on `vim.diagnostic`.
 *   [MrcJkb/haskell-tools.nvim (⭐89)](https://github.com/MrcJkb/haskell-tools.nvim) - Seamless integration of Neovim with Haskell development tools like haskell-language-server and Hoogle.
 *   [ranjithshegde/ccls.nvim (⭐34)](https://github.com/ranjithshegde/ccls.nvim) - Use off-spec extensions of ccls LSP and browse AST.
 
@@ -213,6 +213,7 @@ You can find them listed on the [Neovim wiki (⭐59k)](https://github.com/neovim
 *   [jbyuki/carrot.nvim (⭐17)](https://github.com/jbyuki/carrot.nvim) - Markdown evaluator Lua code blocks.
 *   [AckslD/nvim-FeMaco.lua (⭐181)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
 *   [NFrid/markdown-togglecheck (⭐1)](https://github.com/NFrid/markdown-togglecheck) - Simple Neovim plugin for toggling check boxes using Treesitter.
+*   [toppair/peek.nvim (⭐141)](https://github.com/toppair/peek.nvim) - Preview markdown in a webview window.
 
 ### Language
 
@@ -246,7 +247,7 @@ You can find them listed on the [Neovim wiki (⭐59k)](https://github.com/neovim
 
 *   [chentoast/marks.nvim (⭐409)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 *   [ThePrimeagen/harpoon (⭐1.4k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
-*   [ofirgall/open.nvim (⭐4)](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthand for example.
+*   [ofirgall/open.nvim (⭐11)](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthand for example.
 
 ### Search
 
@@ -532,8 +533,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [AckslD/messages.nvim (⭐57)](https://github.com/AckslD/messages.nvim) - Capture and show any messages in a customisable (floating) buffer.
 *   [jbyuki/instant.nvim (⭐805)](https://github.com/jbyuki/instant.nvim) - A collaborative editing plugin written in Lua with no dependencies.
 *   [numToStr/BufOnly.nvim (⭐26)](https://github.com/numToStr/BufOnly.nvim) - Lua/Neovim port of BufOnly.vim with some changes.
-*   [zbirenbaum/neodim (⭐90)](https://github.com/zbirenbaum/neodim) - Dimming the highlights of unused functions, variables, parameters, and more.
-*   [bfredl/nvim-miniyank (⭐217)](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
+*   [zbirenbaum/neodim (⭐102)](https://github.com/zbirenbaum/neodim) - Dimming the highlights of unused functions, variables, parameters, and more.
+*   [bfredl/nvim-miniyank (⭐219)](https://github.com/bfredl/nvim-miniyank) - The killring-alike plugin with no default mappings.
 
 ### Terminal Integration
 
@@ -710,6 +711,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [haringsrob/nvim\_context\_vt (⭐260)](https://github.com/haringsrob/nvim_context_vt) - Shows virtual text of the current context.
 *   [nvim-treesitter/nvim-treesitter-context (⭐1.1k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
 *   [mizlan/iswap.nvim (⭐369)](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+*   [Wansmer/sibling-swap.nvim (⭐3)](https://github.com/Wansmer/sibling-swap.nvim) - Different way to swapping arguments and other siblings with Tree-Sitter.
+*   [Wansmer/binary-swap.nvim (⭐3)](https://github.com/Wansmer/binary-swap.nvim) - Swapping operands and operators in binary expressions: comparison and mathematical operations.
 *   [nacro90/numb.nvim (⭐368)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
 *   [ethanholz/nvim-lastplace (⭐174)](https://github.com/ethanholz/nvim-lastplace) - Reopen files at your last edit position.
 *   [Allendang/nvim-expand-expr (⭐31)](https://github.com/AllenDang/nvim-expand-expr) - Expand and repeat expression to multiple lines.
