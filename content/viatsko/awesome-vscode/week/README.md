@@ -6,6 +6,12 @@
 
 [ [Daily](/content/viatsko/awesome-vscode/README.md) / Weekly / [Overview](/content/viatsko/awesome-vscode/readme/README.md) ]
 
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Rust / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
+
+*   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Linting, auto-completion, code formatting, snippets and more
+
 ## [Nov 29 - Dec 05, 2021](/content/2021/48/README.md)
 
 ### C++ / More
@@ -51,7 +57,7 @@
 
 ### C++
 
-*   [CQuery (⭐52)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
+*   [CQuery (⭐51)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
 
@@ -62,10 +68,6 @@
 ### Go / More
 
 *   [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Rich language support for the Go language.
-
-### Rust / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
-
-*   [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
 
 ### Terraform / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
@@ -330,7 +332,7 @@
 
 ### Linters / More
 
-*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.4k)](https://github.com/prettier/prettier-vscode).
+*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.5k)](https://github.com/prettier/prettier-vscode).
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
@@ -370,7 +372,7 @@
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
-*   [Open in Code (⭐844)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+*   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ## [Feb 08 - Feb 14, 2016](/content/2016/6/README.md)
 

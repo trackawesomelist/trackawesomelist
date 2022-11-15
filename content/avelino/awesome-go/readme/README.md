@@ -2,7 +2,7 @@
 
 A curated list of awesome Go frameworks, libraries and software
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/avelino/awesome-go/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 avelino/awesome-go](https://github.com/avelino/awesome-go) · ⭐ 90K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/avelino/awesome-go/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 avelino/awesome-go](https://github.com/avelino/awesome-go) · ⭐ 91K · 🏷️ Programming Languages
 
 [ [Daily](/content/avelino/awesome-go/README.md) / [Weekly](/content/avelino/awesome-go/week/README.md) / Overview ]
 
@@ -340,6 +340,7 @@ Please take a quick gander at the [contribution guidelines (⭐90k)](https://git
 *   [asciigraph (⭐2.1k)](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 *   [aurora (⭐1.3k)](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
 *   [box-cli-maker (⭐296)](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
+*   [bubbletea (⭐16k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 *   [cfmt (⭐90)](https://github.com/mingrammer/cfmt) - Contextual fmt inspired by bootstrap color classes.
 *   [cfmt (⭐52)](https://github.com/i582/cfmt) - Simple and convenient formatted stylized output fully compatible with fmt library.
 *   [chalk (⭐412)](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
@@ -422,7 +423,7 @@ Please take a quick gander at the [contribution guidelines (⭐90k)](https://git
 *   [ts (⭐16)](https://github.com/liujianping/ts) - Timestamp convert & compare tool.
 *   [ukautz/clif (⭐118)](https://github.com/ukautz/clif) - Small command line interface framework.
 *   [urfave/cli (⭐19k)](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
-*   [version (⭐40)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+*   [version (⭐42)](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
 *   [wlog (⭐59)](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency.
 *   [wmenu (⭐178)](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
@@ -688,7 +689,7 @@ additional ordered map implementations.
 *   [Milvus (⭐14k)](https://github.com/milvus-io/milvus) - Milvus is a vector database for embedding management, analytics and search.
 *   [moss (⭐893)](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 *   [nutsdb (⭐2.6k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
-*   [objectbox-go (⭐798)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
+*   [objectbox-go (⭐800)](https://github.com/objectbox/objectbox-go) - High-performance embedded Object Database (NoSQL) with Go API.
 *   [piladb (⭐199)](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures.
 *   [pogreb (⭐961)](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
 *   [prometheus (⭐45k)](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
@@ -963,7 +964,7 @@ additional ordered map implementations.
 *   [mailchain (⭐133)](https://github.com/mailchain/mailchain) - Send encrypted emails to blockchain addresses written in Go.
 *   [mailgun-go (⭐622)](https://github.com/mailgun/mailgun-go) - Go library for sending mail with the Mailgun API.
 *   [MailHog (⭐11k)](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
-*   [Mailpit (⭐59)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
+*   [Mailpit (⭐72)](https://github.com/axllent/mailpit) - Email and SMTP testing tool for developers.
 *   [mailx (⭐6)](https://github.com/valord577/mailx) - Mailx is a library that makes it easier to send email via SMTP. It is an enhancement of the golang standard library `net/smtp`.
 *   [SendGrid (⭐864)](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 *   [smtp (⭐74)](https://github.com/mailhog/smtp) - SMTP server protocol state machine.
@@ -1130,7 +1131,7 @@ additional ordered map implementations.
 *   [go3d (⭐276)](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
 *   [gonet (⭐1.2k)](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
 *   [goworld (⭐2.2k)](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping.
-*   [Harfang3D (⭐219)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev](https://github.com/avelino/awesome-go/blob/main/README.md/github.com/harfang3d/harfang-go)).
+*   [Harfang3D (⭐219)](https://github.com/harfang3d/harfang3d) - 3D engine for the Go language, works on Windows and Linux ([Harfang on Go.dev (⭐7)](https://github.com/harfang3d/harfang-go)).
 *   [Leaf (⭐4.6k)](https://github.com/name5566/leaf) - Lightweight game server framework.
 *   [nano (⭐2.1k)](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 *   [Oak (⭐1.3k)](https://github.com/oakmound/oak) - Pure Go game engine.
@@ -2464,7 +2465,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-yapla](https://git.iglou.eu/Production/go-yapla) - Go client library for the Yapla v2.0 API.
 *   [goagi (⭐5)](https://github.com/staskobzar/goagi) - Go library to build Asterisk PBX agi/fastagi applications.
 *   [goami2 (⭐8)](https://github.com/staskobzar/goami2) - AMI v2 library for Asterisk PBX.
-*   [GoFreeDB (⭐16)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
+*   [GoFreeDB (⭐17)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
 *   [gogtrends (⭐71)](https://github.com/groovili/gogtrends) - Google Trends Unofficial API.
 *   [golang-tmdb (⭐61)](https://github.com/cyruzin/golang-tmdb) - Golang wrapper for The Movie Database API v3.
 *   [golyrics (⭐39)](https://github.com/mamal72/golyrics) - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
@@ -2725,7 +2726,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [validate (⭐78)](https://github.com/gobuffalo/validate) - This package provides a framework for writing validations for Go applications.
 *   [validator (⭐12k)](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 *   [Validator (⭐4)](https://github.com/go-the-way/validator) - A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
-*   [valix (⭐3)](https://github.com/marrow16/valix) Go package for validating requests
+*   [valix (⭐4)](https://github.com/marrow16/valix) Go package for validating requests
 
 **[⬆ back to top](#contents)**
 
@@ -2752,7 +2753,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [gmf (⭐808)](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 *   [go-astisub (⭐417)](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 *   [go-astits (⭐444)](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
-*   [go-m3u8 (⭐7)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
+*   [go-m3u8 (⭐8)](https://github.com/etherlabsio/go-m3u8) - Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.
 *   [go-mpd (⭐14)](https://github.com/unki2aut/go-mpd) - Parser and generator library for MPEG-DASH manifest files.
 *   [goav (⭐1.9k)](https://github.com/giorgisio/goav) - Comprehensive Go bindings for FFmpeg.
 *   [gortsplib (⭐319)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
@@ -2773,7 +2774,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Air (⭐419)](https://github.com/aofei/air) - An ideally refined web framework for Go.
 *   [anoweb (⭐5)](https://github.com/go-the-way/anoweb) - The lightweight and powerful web framework using the new way for Go.Another go the way.
 *   [appy (⭐128)](https://github.com/appist/appy) - An opinionated productive web framework that helps scaling business easier.
-*   [Atreugo (⭐955)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
+*   [Atreugo (⭐956)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
 *   [Banjo (⭐20)](https://github.com/nsheremet/banjo) - Very simple and fast web framework for Go.
 *   [Beego (⭐29k)](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 *   [Buffalo](https://gobuffalo.io) - Bringing the productivity of Rails to Go!

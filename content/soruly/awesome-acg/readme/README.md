@@ -141,7 +141,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Processing
 
-*   [Anime Segmentation](https://github.com/soruly/awesome-acg/blob/master/README.md/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
+*   [Anime Segmentation (⭐53)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
 *   [Anime4K (⭐16k)](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Anime Upscaler. \[English]
 *   [animeloop-cli (⭐93)](https://github.com/moeoverflow/animeloop-cli) - Automatically detect and cut anime loops. \[English]
 *   [cgCompress (⭐13)](https://github.com/spillerrec/cgCompress) - Compression tool tailored for Visual Novel CGs. \[English]

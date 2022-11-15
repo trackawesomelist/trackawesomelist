@@ -10,7 +10,7 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 ### Image Processing
 
-*   [Anime Segmentation](https://github.com/soruly/awesome-acg/blob/master/README.md/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
+*   [Anime Segmentation (⭐53)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 

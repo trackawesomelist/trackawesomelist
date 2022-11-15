@@ -68,6 +68,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
         *   [Markdown All in One](#markdown-all-in-one)
         *   [Markdown Emoji](#markdown-emoji)
     *   [PHP](#php)
+        *   [PHP Tools](#php-tools)
         *   [IntelliSense](#intellisense)
         *   [Laravel](#laravel)
         *   [Twig](#twig)
@@ -234,10 +235,10 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>. <br/> <br/> <
 # Official
 
 *   [Official website](https://code.visualstudio.com/)
-*   [Source code (⭐138k)](https://github.com/microsoft/vscode) on GitHub
+*   [Source code (⭐139k)](https://github.com/microsoft/vscode) on GitHub
 *   [Releases (stable channel)](https://code.visualstudio.com/download)
 *   [Releases (insiders channel)](https://code.visualstudio.com/insiders)
-*   [Monthly iteration plans (⭐138k)](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+)
+*   [Monthly iteration plans (⭐139k)](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93\&q=label%3Aiteration-plan+)
 
 # Syntax
 
@@ -358,7 +359,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 *   [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 *   [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
 *   [C/C++ Clang Command Adapter (⭐118)](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
-*   [CQuery (⭐52)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
+*   [CQuery (⭐51)](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server (⭐2.3k)](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
 #### More
 
@@ -457,7 +458,7 @@ See the difference between these two [here (⭐120)](https://github.com/michaelg
 
 *   [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA (⭐20k)](https://github.com/avajs/ava).
 
-*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.4k)](https://github.com/prettier/prettier-vscode).
+*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.5k)](https://github.com/prettier/prettier-vscode).
 
 *   [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
 
@@ -504,6 +505,12 @@ See the difference between these two [here (⭐120)](https://github.com/michaelg
 ![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
 
 ## PHP
+
+### [PHP Tools](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
+
+> Rich language support for the PHP language: linting, debugging, intellisense, auto-completion, code formatting, refactoring, unit testing, profiling, and more.
+
+![PHP Tools Intellisense demo screenshot](https://raw.githubusercontent.com/DEVSENSE/phptools-docs/master/docs/vscode/imgs/completion-tooltip.gif)
 
 ### IntelliSense
 
@@ -592,7 +599,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Rust
 
-*   [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
+*   [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Linting, auto-completion, code formatting, snippets and more
 
 ## Terraform
 
@@ -1470,7 +1477,7 @@ A list of Twitter accounts for various people in the VS Code Community
 *   [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 *   [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 *   [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-*   [Open in Code (⭐844)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+*   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 

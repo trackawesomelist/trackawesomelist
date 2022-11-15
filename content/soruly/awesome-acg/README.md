@@ -6,11 +6,11 @@ A curated list of awesome technologies related to Anime, Comic and Games
 
 [ Daily / [Weekly](/content/soruly/awesome-acg/week/README.md) / [Overview](/content/soruly/awesome-acg/readme/README.md) ]
 
-## [Nov 14, 2022](/content/2022/11/14/README.md)
+## [Nov 15, 2022](/content/2022/11/15/README.md)
 
 ### Image Processing
 
-*   [Anime Segmentation](https://github.com/soruly/awesome-acg/blob/master/README.md/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
+*   [Anime Segmentation (⭐53)](https://github.com/SkyTNT/anime-segmentation) - High-accuracy segmentation for anime character. \[English]
 
 ## [Nov 07, 2022](/content/2022/11/07/README.md)
 
