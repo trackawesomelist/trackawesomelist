@@ -6,6 +6,42 @@
 
 [ Daily / [Weekly](/content/ramnes/awesome-mongodb/week/README.md) / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
 
+## [Nov 15, 2022](/content/2022/11/15/README.md)
+
+### Resources / Documentation
+
+*   [MongoDB Server Introduction](https://www.mongodb.com/docs/manual/introduction/)
+*   [MongoDB Server Documentation](https://www.mongodb.com/manual/)
+*   [MongoDB Tutorials](https://www.mongodb.com/docs/manual/tutorial/)
+*   [MongoDB Guides](https://www.mongodb.com/docs/guides/)
+*   [MongoDB Developer Center](https://www.mongodb.com/developer/)
+*   [MongoDB Driver Documentation](https://www.mongodb.com/docs/drivers/)
+*   [MongoDB Connectors](https://www.mongodb.com/connectors/)
+
+### Libraries / PHP
+
+*   [PHP Driver (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
+
+### Libraries / Scala
+
+*   [driver-scala (⭐2.5k)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - Official Scala driver
+
+### Tools / Deployment
+
+*   [DockerHub Official Docker Image](https://hub.docker.com/_/mongo/)
+*   [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
+
+### Tools / Development
+
+*   [C# Analyzer (⭐8)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
+*   [VS Code Extension](https://www.mongodb.com/docs/mongodb-vscode/)
+*   [MongoDB Atlas App Services](https://www.mongodb.com/atlas/app-services) - MongoDB Inc. solution to run code without the operational overhead
+
+### Tools / Shell
+
+*   [MongoDB Atlas CLI (⭐133)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+*   [mongosh (⭐212)](https://github.com/mongodb-js/mongosh) - Official command-line client
+
 ## [Nov 12, 2022](/content/2022/11/12/README.md)
 
 ### Resources / Tutorials
@@ -66,10 +102,6 @@
 *   [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) - How to develop effective and optimal data manipulation and analytics pipelines
 
 ## [Jun 24, 2021](/content/2021/06/24/README.md)
-
-### Resources / Documentation
-
-*   [MongoDB developer blog](https://developer.mongodb.com/learn/)
 
 ### Libraries / Rust
 
@@ -133,12 +165,6 @@
 *   [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
 *   [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
 
-## [Aug 14, 2020](/content/2020/08/14/README.md)
-
-### Libraries / Perl
-
-*   [mongo-perl-driver (⭐203)](https://github.com/mongodb-labs/mongo-perl-driver) - Official Perl driver
-
 ## [Jul 24, 2020](/content/2020/07/24/README.md)
 
 ### Resources / Books
@@ -158,7 +184,7 @@
 
 ### Tools / Development
 
-*   [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. development services and SDK
+*   [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. solution for mobile data sync
 
 ### Tools / Monitoring
 
@@ -418,15 +444,9 @@
 ### Libraries / Python
 
 *   [Flask-Stupe (⭐28)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
-*   [Motor (⭐2k)](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
+*   [Motor (⭐2k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
 
 ## [Jan 17, 2018](/content/2018/01/17/README.md)
-
-### Resources / Documentation
-
-*   [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
-*   [MongoDB documentation](https://docs.mongodb.com/manual/)
-*   [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
 
 ### Resources / Articles
 
@@ -445,10 +465,6 @@
 ### Tools / Desktop
 
 *   [MongoHub (⭐2.4k)](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
-
-### Tools / Shell
-
-*   [mongo-hacker (⭐1.8k)](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
 
 ### Tools / Web
 
@@ -577,7 +593,7 @@
 ### Libraries / Python
 
 *   [MongoLog (⭐132)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
-*   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
+*   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 *   [scrapy-mongodb (⭐347)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
 
 ### Libraries / Ruby
@@ -586,7 +602,6 @@
 
 ### Libraries / Scala
 
-*   [mongo-scala-driver (⭐289)](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
 *   [ReactiveMongo (⭐834)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
 
 ### Tools / Administration
@@ -597,7 +612,6 @@
 
 *   [ansible-role-mongodb (⭐325)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
 *   [chef-mongodb (⭐366)](https://github.com/edelight/chef-mongodb) - Chef cookbook
-*   [Dockerfile (⭐315)](https://github.com/dockerfile/mongodb)
 
 ### Tools / Monitoring
 

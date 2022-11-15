@@ -6,6 +6,12 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Nov 15, 2022](/content/2022/11/15/README.md)
+
+### Testing / Barcode
+
+*   [SBTUITestTunnel (⭐278)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
+
 ## [Nov 14, 2022](/content/2022/11/14/README.md)
 
 ### Auto Layout / Barcode

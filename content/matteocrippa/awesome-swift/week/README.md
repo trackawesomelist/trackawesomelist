@@ -12,6 +12,10 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [HypeUI (⭐73)](https://github.com/hyperconnect/HypeUI) - 🌺 HypeUI is a implementation of Apple's SwiftUI DSL style based on UIKit
 
+### Testing / Barcode
+
+*   [SBTUITestTunnel (⭐278)](https://github.com/Subito-it/SBTUITestTunnel) - UI testing library for interact with network requests, stub CLLocationManager and UNUserNotificationCenter, and fine grain scrolling in table/collection/scroll views
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### Style Guides

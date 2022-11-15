@@ -230,6 +230,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Collections
 
+*   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 *   [AI Library](https://library.phygital.plus/): catalog of AI tools and neural networks for creators
 *   [Post Reddit - MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/): List of sites/programs/projects that use OpenAI's CLIP neural network for steering image/video creation to match a text description
 *   [Top 41 AI Art Generators](https://aiartists.org/ai-generated-art-tools): Make AI Art, Paintings & More (2021 GUIDE) — AIArtists.org
@@ -325,6 +326,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Inbox
 
+*   [MubertAI/Mubert-Text-to-Music (⭐2k)](https://github.com/MubertAI/Mubert-Text-to-Music): A simple notebook demonstrating prompt-based music generation via Mubert API
 *   [(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/)
 *   [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
 *   [(9) AK on Twitter: "DreamFusion: Text-to-3D using 2D Diffusion paper: https://t.co/euVCkNPzB0 abs: https://t.co/FO7nqjLrQA project page: https://t.co/BTvt1WQqIi DeepDream on a pretrained 2D diffusion model enables text-to-3D synthesis https://t.co/20zIElXJDN" / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w\&s=33)

@@ -6,6 +6,24 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 [ [Daily](/content/ChristosChristofidis/awesome-deep-learning/README.md) / Weekly / [Overview](/content/ChristosChristofidis/awesome-deep-learning/readme/README.md) ]
 
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Table of Contents / Books
+
+*   [Deep Learning with R, Second Edition](https://www.manning.com/books/deep-learning-with-r-second-edition) - by François Chollet with Tomasz Kalinowski and J. J. Allaire
+*   [Regularization in Deep Learning](https://www.manning.com/books/regularization-in-deep-learning) - by Liu Peng
+*   [Jax in Action](https://www.manning.com/books/jax-in-action) - by Grigory Sapunov
+
+### Table of Contents / Videos and Lectures
+
+*   [Understand what is Deep Learning](https://www.scaler.com/topics/what-is-deep-learning/)
+
+### Researchers / Tools
+
+*   [DVC](https://dvc.org/) - DVC is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
+*   [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
+*   [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
+
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
 ### Table of Contents / Books
@@ -34,21 +52,21 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 ### Researchers / Frameworks
 
 *   [haystack: an open-source neural search framework](https://haystack.deepset.ai/docs/intromd)
-*   [Maze (⭐217)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
-*   [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching (⭐60)](https://github.com/chncwang/InsNet)
+*   [Maze (⭐218)](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
+*   [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching (⭐61)](https://github.com/chncwang/InsNet)
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
 ### Researchers / Tools
 
-*   [Nebullvm (⭐1.4k)](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
+*   [Nebullvm (⭐1.5k)](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
 *   [Netron (⭐20k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
 ### Researchers / Frameworks
 
-*   [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques (⭐5.2k)](https://github.com/hpcaitech/ColossalAI)
+*   [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques (⭐6.5k)](https://github.com/hpcaitech/ColossalAI)
 
 ## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
 
@@ -110,8 +128,8 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Datasets
 
-*   [LLVIP (⭐371)](https://github.com/bupt-ai-cz/LLVIP) - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project\_Page](https://bupt-ai-cz.github.io/LLVIP/)
-*   [MSDA (⭐186)](https://github.com/bupt-ai-cz/Meta-SelfLearning) - Over over 5 million images from 5 different domains for multi-source ocr/text recognition DA research, [Project\_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
+*   [LLVIP (⭐373)](https://github.com/bupt-ai-cz/LLVIP) - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project\_Page](https://bupt-ai-cz.github.io/LLVIP/)
+*   [MSDA (⭐188)](https://github.com/bupt-ai-cz/Meta-SelfLearning) - Over over 5 million images from 5 different domains for multi-source ocr/text recognition DA research, [Project\_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
@@ -145,7 +163,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Tools
 
-*   [hub (⭐4.9k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
+*   [hub (⭐5k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
 
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 
@@ -157,13 +175,13 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Table of Contents / Tutorials
 
-*   [Named Entity Recognition using Reformers (⭐4)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/NER%20using%20Reformer.ipynb)
-*   [Deep N-Gram Models on Shakespeare’s works (⭐4)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/Deep%20N-Gram.ipynb)
-*   [Wide Residual Networks (⭐4)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/vision/illustrated-wideresnet.ipynb)
+*   [Named Entity Recognition using Reformers (⭐5)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/NER%20using%20Reformer.ipynb)
+*   [Deep N-Gram Models on Shakespeare’s works (⭐5)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/Deep%20N-Gram.ipynb)
+*   [Wide Residual Networks (⭐5)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/vision/illustrated-wideresnet.ipynb)
 *   [Fashion MNIST using Flax](https://github.com/SauravMaheshkar/Flax-Examples)
 *   [Fake News Classification (with streamlit deployment) (⭐8)](https://github.com/SauravMaheshkar/Fake-News-Classification)
 *   [Regression Analysis for Primary Biliary Cirrhosis (⭐1)](https://github.com/SauravMaheshkar/CoxPH-Model-for-Primary-Biliary-Cirrhosis)
-*   [Cross Matching Methods for Astronomical Catalogs (⭐1)](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs)
+*   [Cross Matching Methods for Astronomical Catalogs (⭐2)](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs)
 *   [Named Entity Recognition using BiDirectional LSTMs](https://github.com/SauravMaheshkar/Named-Entity-Recognition-)
 *   [Image Recognition App using Tflite and Flutter (⭐5)](https://github.com/SauravMaheshkar/Flutter_Image-Recognition)
 
@@ -173,9 +191,9 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Frameworks
 
-*   [Trax — Deep Learning with Clear Code and Speed (⭐7.1k)](https://github.com/google/trax)
+*   [Trax — Deep Learning with Clear Code and Speed (⭐7.2k)](https://github.com/google/trax)
 *   [Flax - a neural network ecosystem for JAX that is designed for flexibility (⭐3.7k)](https://github.com/google/flax)
-*   [QuickVision (⭐49)](https://github.com/Quick-AI/quickvision)
+*   [QuickVision (⭐50)](https://github.com/Quick-AI/quickvision)
 
 ## [Nov 30 - Dec 06, 2020](/content/2020/48/README.md)
 
@@ -198,7 +216,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Miscellaneous
 
-*   [AI Expert Roadmap (⭐22k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+*   [AI Expert Roadmap (⭐23k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
@@ -216,7 +234,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Table of Contents / Courses
 
-*   [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
+*   [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning university
 
 ### Researchers / Tutorials
 
@@ -327,7 +345,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Frameworks
 
-*   [Hopsworks - A Feature Store for ML and Data-Intensive AI (⭐802)](https://github.com/logicalclocks/hopsworks)
+*   [Hopsworks - A Feature Store for ML and Data-Intensive AI (⭐812)](https://github.com/logicalclocks/hopsworks)
 *   [Feast - A Feature Store for ML for GCP by Gojek/Google (⭐3.7k)](https://github.com/gojek/feast)
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
@@ -370,10 +388,10 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 ### Researchers / Frameworks
 
 *   [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing (⭐3k)](https://github.com/catalyst-team/catalyst)
-*   [garage - A toolkit for reproducible reinforcement learning research (⭐1.5k)](https://github.com/rlworkgroup/garage)
-*   [Detecto - Train and run object detection models with 5-10 lines of code (⭐563)](https://github.com/alankbi/detecto)
+*   [garage - A toolkit for reproducible reinforcement learning research (⭐1.6k)](https://github.com/rlworkgroup/garage)
+*   [Detecto - Train and run object detection models with 5-10 lines of code (⭐566)](https://github.com/alankbi/detecto)
 *   [Karate Club - An unsupervised machine learning library for graph structured data (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub)
-*   [Synapses - A lightweight library for neural networks that runs anywhere (⭐64)](https://github.com/mrdimosthenis/Synapses)
+*   [Synapses - A lightweight library for neural networks that runs anywhere (⭐65)](https://github.com/mrdimosthenis/Synapses)
 *   [TensorForce - A TensorFlow library for applied reinforcement learning (⭐3.2k)](https://github.com/reinforceio/tensorforce)
 
 ### Researchers / Tools
@@ -419,7 +437,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Frameworks
 
-*   [Neuraxle - A general-purpose ML pipelining framework (⭐543)](https://github.com/Neuraxio/Neuraxle)
+*   [Neuraxle - A general-purpose ML pipelining framework (⭐549)](https://github.com/Neuraxio/Neuraxle)
 
 ## [Jul 29 - Aug 04, 2019](/content/2019/30/README.md)
 
@@ -497,7 +515,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Miscellaneous
 
-*   [Torch7 Cheat sheet (⭐8.7k)](https://github.com/torch/torch7/wiki/Cheatsheet)
+*   [Torch7 Cheat sheet (⭐8.8k)](https://github.com/torch/torch7/wiki/Cheatsheet)
 
 ## [Sep 17 - Sep 23, 2018](/content/2018/38/README.md)
 
@@ -561,7 +579,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Datasets
 
-*   [FakeNewsCorpus (⭐332)](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
+*   [FakeNewsCorpus (⭐335)](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 
 ## [Feb 05 - Feb 11, 2018](/content/2018/6/README.md)
 
@@ -696,7 +714,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Frameworks
 
-*   [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne (⭐950)](https://github.com/dnouri/nolearn)
+*   [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne (⭐948)](https://github.com/dnouri/nolearn)
 *   [Sonnet - a library for constructing neural networks by Google's DeepMind (⭐9.4k)](https://github.com/deepmind/sonnet)
 *   [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration (⭐60k)](https://github.com/pytorch/pytorch)
 
@@ -903,7 +921,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 ### Researchers / Frameworks
 
 *   [Veles - Samsung Distributed machine learning platform (⭐898)](https://github.com/Samsung/veles)
-*   [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework (⭐414)](https://github.com/PrincetonVision/marvin)
+*   [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework (⭐416)](https://github.com/PrincetonVision/marvin)
 
 ## [Nov 23 - Nov 29, 2015](/content/2015/47/README.md)
 
@@ -962,7 +980,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Frameworks
 
-*   [Minerva - a fast and flexible tool for deep learning on multi-GPU (⭐682)](https://github.com/dmlc/minerva)
+*   [Minerva - a fast and flexible tool for deep learning on multi-GPU (⭐680)](https://github.com/dmlc/minerva)
 
 ## [Aug 24 - Aug 30, 2015](/content/2015/34/README.md)
 
@@ -1100,7 +1118,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 *   [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/\~dreuw/database.html) - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)
 *   [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
 *   [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) - 4000+ 1536x1024 (16 bit) calibrated outdoor images (Formats: homebrew)
-*   [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/\~schindler/Data) -  2 turntable sequences from ifferent viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
+*   [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/\~schindler/Data) -  2 turntable sequences from different viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
 *   [Institute of Computer Graphics and Vision](http://www.icg.tu-graz.ac.at)
 *   [IEN Image Library](http://www.ien.it/is/vislib/) - 1000+ images, mostly outdoor sequences (Formats: raw, ppm)
 *   [INRIA's Syntim images database](http://www-rocq.inria.fr/\~tarel/syntim/images.html) - 15 color image of simple objects (Formats: gif)
@@ -1331,7 +1349,7 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 *   [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
 *   [Misc from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
 *   [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
-*   [A chess AI that learns to play chess using deep learning. (⭐761)](https://github.com/erikbern/deep-pink)
+*   [A chess AI that learns to play chess using deep learning. (⭐762)](https://github.com/erikbern/deep-pink)
 
 ## [Jan 12 - Jan 18, 2015](/content/2015/2/README.md)
 
@@ -1413,7 +1431,6 @@ A curated list of awesome Deep Learning tutorials, projects and communities.
 
 ### Researchers / Miscellaneous
 
-*   [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
 *   [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer\&searchItems=\&sessionTopic=\&sessionEvent=4\&sessionYear=2014\&sessionFormat=\&submit=\&select=+)
 *   [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
 *   [Word2Vec](https://code.google.com/p/word2vec/)

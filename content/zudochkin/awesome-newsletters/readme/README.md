@@ -16,9 +16,9 @@ Inspired by the `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐3k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐3.1k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors (⭐3k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
+Thanks to all [contributors (⭐3.1k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 *   [Frontend](#frontend)
     *   [General Web Development](#general-web-development)
@@ -248,7 +248,7 @@ Thanks to all [contributors (⭐3k)](https://github.com/zudochkin/awesome-newsle
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐540)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐545)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -389,6 +389,7 @@ Thanks to all [contributors (⭐3k)](https://github.com/zudochkin/awesome-newsle
 *   [Monitoring Weekly](https://monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 *   [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 *   [StatusCode Weekly](https://weekly.statuscode.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
+*   [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
 
 ### Cloud Development
 
@@ -402,6 +403,7 @@ Thanks to all [contributors (⭐3k)](https://github.com/zudochkin/awesome-newsle
 *   [kubelist](https://kubelist.com). Your curated weekly kubernetes information reconciliation loop.
 *   [KubeWeekly](https://kube.news). Interesting weekly news about Kubernetes in the form of a newsletter.
 *   [LWKD](http://lwkd.info). LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting.
+*   [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
 
 ## Mobile
 

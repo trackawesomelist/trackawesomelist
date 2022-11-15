@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 97 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 99 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
@@ -11,6 +11,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Concepts / Theory of Concepts
 
 *   [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***Mapping the mind: Domain specificity in cognition and culture, Cambridge University Press***. \[[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662\&hl=en\&as_sdt=0,5)]. Alison Gopnik's original paper on the theory theory.
+
+### Metascience / Science of Science
+
+*   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 

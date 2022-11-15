@@ -1,8 +1,14 @@
 # Track Awesome Job Boards Updates Weekly
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 671 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 678 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / Weekly / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
@@ -299,7 +305,7 @@
 
 ## [May 20 - May 26, 2019](/content/2019/20/README.md)
 
-### Big Data
+### Artificial Intelligence (AI)
 
 *   [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
 

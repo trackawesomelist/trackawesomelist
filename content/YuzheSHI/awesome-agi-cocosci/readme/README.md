@@ -2,7 +2,7 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 97 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci) · ⭐ 99 · 🏷️ Theory
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / Overview ]
 
@@ -1241,6 +1241,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/\~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
 
 *   [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
+
+*   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
 

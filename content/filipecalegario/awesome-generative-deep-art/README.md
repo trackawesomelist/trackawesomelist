@@ -6,6 +6,16 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 15, 2022](/content/2022/11/15/README.md)
+
+### Image Synthesis / Collections
+
+*   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [MubertAI/Mubert-Text-to-Music (⭐2k)](https://github.com/MubertAI/Mubert-Text-to-Music): A simple notebook demonstrating prompt-based music generation via Mubert API
+
 ## [Nov 13, 2022](/content/2022/11/13/README.md)
 
 ### DreamBooth

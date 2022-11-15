@@ -41,7 +41,6 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
     *   [Julia](#julia)
     *   [Lisp](#lisp)
     *   [Mathematica](#mathematica)
-    *   [Perl](#perl)
     *   [PHP](#php)
     *   [Python](#python)
     *   [R](#r)
@@ -63,10 +62,13 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 ### Documentation
 
-*   [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
-*   [MongoDB documentation](https://docs.mongodb.com/manual/)
-*   [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
-*   [MongoDB developer blog](https://developer.mongodb.com/learn/)
+*   [MongoDB Server Introduction](https://www.mongodb.com/docs/manual/introduction/)
+*   [MongoDB Server Documentation](https://www.mongodb.com/manual/)
+*   [MongoDB Tutorials](https://www.mongodb.com/docs/manual/tutorial/)
+*   [MongoDB Guides](https://www.mongodb.com/docs/guides/)
+*   [MongoDB Developer Center](https://www.mongodb.com/developer/)
+*   [MongoDB Driver Documentation](https://www.mongodb.com/docs/drivers/)
+*   [MongoDB Connectors](https://www.mongodb.com/connectors/)
 
 ### Articles
 
@@ -187,16 +189,13 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 *   [MongoDBLink (⭐18)](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
-### Perl
-
-*   [mongo-perl-driver (⭐203)](https://github.com/mongodb-labs/mongo-perl-driver) - Official Perl driver
-
 ### PHP
 
 *   [Doctrine MongoDB (⭐444)](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
 *   [eloquent-mongodb-repository (⭐18)](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
 *   [laravel-mongodb (⭐6.2k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
 *   [mongodb-repository (⭐9)](https://github.com/nilportugues/mongodb-repository) - Repository implementation
+*   [PHP Driver (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 *   [PHPMongo ODM (⭐239)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
 *   [pecl/mongodb (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
@@ -210,8 +209,8 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 *   [Mongo-Thingy (⭐59)](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
 *   [MongoEngine (⭐3.9k)](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
 *   [MongoLog (⭐132)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
-*   [Motor (⭐2k)](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
-*   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
+*   [Motor (⭐2k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
+*   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
 *   [PyMongoExplain (⭐3)](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
 *   [minimongo (⭐326)](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
 *   [ODMantic (⭐709)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
@@ -234,7 +233,7 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 ### Scala
 
-*   [mongo-scala-driver (⭐289)](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
+*   [driver-scala (⭐2.5k)](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - Official Scala driver
 *   [ReactiveMongo (⭐834)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
 *   [Spark-MongoDB (⭐308)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
@@ -274,9 +273,13 @@ Services:
 
 *   [ansible-role-mongodb (⭐325)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
 *   [chef-mongodb (⭐366)](https://github.com/edelight/chef-mongodb) - Chef cookbook
-*   [Dockerfile (⭐315)](https://github.com/dockerfile/mongodb)
+*   [DockerHub Official Docker Image](https://hub.docker.com/_/mongo/)
 *   [Helm Chart (⭐15k)](https://github.com/helm/charts/tree/master/stable/mongodb)
 *   [puppet-mongodb (⭐92)](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
+
+Services:
+
+*   [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
 
 ### Desktop
 
@@ -297,15 +300,18 @@ Services:
 
 ### Development
 
+*   [C# Analyzer (⭐8)](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
 *   [mgodatagen (⭐279)](https://github.com/feliixx/mgodatagen) - Random data generator
 *   [Mongo Playground](https://mongoplayground.net) - Online query playground
 *   [Mongo Seeding (⭐491)](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
 *   [Mongoeye (⭐148)](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
 *   [Variety (⭐1.7k)](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
+*   [VS Code Extension](https://www.mongodb.com/docs/mongodb-vscode/)
 
 Services:
 
-*   [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. development services and SDK
+*   [MongoDB Atlas App Services](https://www.mongodb.com/atlas/app-services) - MongoDB Inc. solution to run code without the operational overhead
+*   [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. solution for mobile data sync
 
 ### Monitoring
 
@@ -327,7 +333,8 @@ Services:
 
 ### Shell
 
-*   [mongo-hacker (⭐1.8k)](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
+*   [MongoDB Atlas CLI (⭐133)](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+*   [mongosh (⭐212)](https://github.com/mongodb-js/mongosh) - Official command-line client
 
 ### Web
 

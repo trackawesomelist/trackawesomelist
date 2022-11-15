@@ -23,6 +23,10 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 *   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
 
+### Android / Tests
+
+*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+
 ### Kotlin JavaScript / JavaScript
 
 *   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
@@ -213,6 +217,13 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Android / Libraries
 
+*   [PicsArt/stateful (⭐67)](https://github.com/PicsArt/stateful)
+*   [BennyWang/KBinding (⭐412)](https://github.com/BennyWang/KBinding)
+*   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask)
+*   [grandstaish/paperparcel (⭐494)](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
+*   [nitrico/LastAdapter (⭐786)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
+*   [denisidoro/krouter (⭐122)](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
+*   [metalabdesign/AsyncAwait (⭐411)](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
 *   [zserge/anvil (⭐1.4k)](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
 *   [robinchew/mvil (⭐6)](https://github.com/robinchew/mvil) - 'Virtual DOM' for Android inspired by Anvil.
 *   [DanielMartinus/Stepper-Touch (⭐666)](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
@@ -241,6 +252,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [AppIntro/AppIntro (⭐10k)](https://github.com/AppIntro/AppIntro) - Make a cool/material intro for you Android App - Now all in Kotlin!
 *   [CuriousNikhil/gossip (⭐11)](https://github.com/CuriousNikhil/gossip) - Android TextToSpeech Helper to speak any text you want and handle events.
 *   [adrielcafe/PufferDB (⭐96)](https://github.com/adrielcafe/PufferDB) - An Android & JVM key-value storage powered by Protobuf and Coroutines.
+*   [adrielcafe/HAL (⭐72)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
 *   [coil-kt/coil (⭐8.7k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
 *   [levibostian/Shutter-Android (⭐56)](https://github.com/levibostian/Shutter-Android) - an Android library to take photos, record videos, pick images/videos from gallery, with ease. Written in Kotlin.
 *   [rosariopfernandes/firecoil (⭐35)](https://github.com/rosariopfernandes/firecoil) - Display images stored in Cloud Storage for Firebase using Coil.
@@ -260,20 +272,12 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [MackHartley/RoundedProgressBar (⭐509)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
 *   [developingdeveloper-tech/toaster-android (⭐21)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 *   [heart-switch (⭐27)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
-*   [inaka/KillerTask (⭐26)](https://github.com/inaka/KillerTask) - Android AsyncTask wrapper library, written in Kotlin
 *   [MarcinMoskala/KotlinPreferences (⭐50)](https://github.com/MarcinMoskala/KotlinPreferences) - Android Library to make SharedPreferences usage easier.
-*   [PicsArt/stateful (⭐67)](https://github.com/PicsArt/stateful) - Stateful is a Kotlin library which makes Android application development faster and easier.
-*   [adrielcafe/HAL (⭐72)](https://github.com/adrielcafe/HAL) - A non-deterministic finite-state machine for Android & JVM that won't let you down.
 *   [TouK/bubble (⭐100)](https://github.com/TouK/bubble) - Screen orientation detector for android
-*   [denisidoro/krouter (⭐122)](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
 *   [MarcinMoskala/PreferenceHolder (⭐154)](https://github.com/MarcinMoskala/PreferenceHolder) - SharedPreference usage made fun in Kotlin
-*   [metalabdesign/AsyncAwait (⭐411)](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
-*   [BennyWang/KBinding (⭐412)](https://github.com/BennyWang/KBinding) - Android MVVM framework write in kotlin, develop Android has never been so fun.
 *   [MarcinMoskala/ActivityStarter (⭐429)](https://github.com/MarcinMoskala/ActivityStarter) - Simple Android Library, that provides easy way to start the Activities with arguments.
-*   [grandstaish/paperparcel (⭐494)](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
 *   [mcxiaoke/kotlin-koi (⭐515)](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
 *   [chibatching/Kotpref (⭐682)](https://github.com/chibatching/Kotpref) - Kotpref - Android SharedPreferences delegation library for Kotlin
-*   [nitrico/LastAdapter (⭐786)](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
 *   [pawegio/KAndroid (⭐891)](https://github.com/pawegio/KAndroid) - Kotlin library for Android
 
 ### Android / Frameworks
@@ -391,12 +395,12 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ### Android / Libraries
 
-*   [SnowdreamFramework/ToyBricks (⭐34)](https://github.com/SnowdreamFramework/ToyBricks) - Android Library that provide simpler way to achieve modularity.
-*   [rahulchowdhury/Mystique (⭐48)](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
-*   [costular/kotlin-android-utils (⭐51)](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
 *   [andre-artus/AnvilKotlin (⭐15)](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React.
 *   [mathcamp/fiberglass (⭐24)](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library for Android in Kotlin using delegated properties.
 *   [jupf/staticlog (⭐28)](https://github.com/jupf/staticlog) - StaticLog - super lightweight static logging for Kotlin, Java and Android.
+*   [SnowdreamFramework/ToyBricks (⭐34)](https://github.com/SnowdreamFramework/ToyBricks) - Android Library that provide simpler way to achieve modularity.
+*   [rahulchowdhury/Mystique (⭐48)](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
+*   [costular/kotlin-android-utils (⭐51)](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 

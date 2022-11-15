@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Nov 15, 2022](/content/2022/11/15/README.md)
+
+### Kubernetes / Angular
+
+*   [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
+
 ## [Oct 26, 2022](/content/2022/10/26/README.md)
 
 ### Ruby / Angular
@@ -626,7 +632,7 @@ A list of amazing Newsletters
 
 ### R / Angular
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐540)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐545)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Angular
 
