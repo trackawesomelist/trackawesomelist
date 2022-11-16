@@ -111,6 +111,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vue-vite-tw-ts (⭐4)](https://github.com/ChronosMasterOfAllTime/vue-vite-tw-ts) - Vue 3 + Vite + Vitest + Cypress E2E + Naive UI + Pinia + Vue Router.
 *   [vite-vue-box (⭐4)](https://github.com/NelsonYong/vite-vue-box) -  Vite + Vue 3 + Ts + TailWindCss + VueHook Plus + Pinia + Axios + ESLint + Stylelint.
 *   [vite-vue-js-starter-template (⭐12)](https://github.com/ElanYoung/vite-vue-js-starter-template) - Vite + Vue3 + JavaScript + Vue Router + Pinia + TDesign + ESLint + Stylelint + Prettier Simple Template.
+*   [vite-vue3-bootstrap-ts-vitest-starter (⭐0)](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
 
 #### Vue 2
 
@@ -165,6 +166,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [react-vite-ts-boilerplate (⭐29)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 *   [vite-react-universal-template (⭐12)](https://github.com/laoer536/vite3.0-react18-TypeScript-router-dom6-mobx6-Eslint-prettier-template) - React18 + TypeScript + `react-router-dom` + Mobx + ESlint + Prettier+Husky, and APIs auto importing.
 *   [vite-reactts18-eslint-tailwindcss (⭐5)](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
+*   [vite-plugin-react-views (⭐1)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 
 #### Svelte
 
@@ -358,6 +360,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-reverse-proxy (⭐16)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-reverse-proxy) - Sometimes we have to redirect scripts on production environment to debug and solve problems, the plugin will transform the script to be served with the `text/javascript` MIME type to `module` MIME type.
 *   [vite-plugin-patch-env (⭐2)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
 *   [vite-plugin-conditional-compile (⭐4)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
+*   [vite-plugin-debug (⭐2)](https://github.com/hu3dao/vite-plugin-debug) - Base on specific url parameters dynamically enables mobile web page debugging.
 
 #### Testing
 

@@ -6,6 +6,12 @@ A curated list of awesome mathematics resources
 
 [ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Nov 16, 2022](/content/2022/11/16/README.md)
+
+### Analysis / Measure Theory
+
+*   [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA)
+
 ## [Aug 02, 2022](/content/2022/08/02/README.md)
 
 ### Learning Platforms
@@ -33,7 +39,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐299)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐304)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Mar 15, 2022](/content/2022/03/15/README.md)
 
@@ -87,7 +93,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐255k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 19, 2021](/content/2021/08/19/README.md)
 
@@ -716,13 +722,13 @@ A curated list of awesome mathematics resources
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐452)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐454)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [Sep 07, 2016](/content/2016/09/07/README.md)
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐783)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐786)](https://github.com/nelson-brochado/understanding-math)
 
 ## [Aug 09, 2016](/content/2016/08/09/README.md)
 
@@ -893,10 +899,6 @@ A curated list of awesome mathematics resources
 
 *   [Functional Analysis Lecture Notes](http://www.math.hkbu.edu.hk/\~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (University of East Anglia)
 *   [Functional Analysis](http://www.maths.lancs.ac.uk/\~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
-
-### Analysis / Measure Theory
-
-*   [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
 
 ### Probability and Statistics / Probability Theory
 

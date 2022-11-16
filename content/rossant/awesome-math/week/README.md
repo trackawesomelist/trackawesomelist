@@ -6,6 +6,12 @@ A curated list of awesome mathematics resources
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Analysis / Measure Theory
+
+*   [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf) - Terence Tao (UCLA)
+
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
 ### Learning Platforms
@@ -38,7 +44,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐299)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐304)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -85,7 +91,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐255k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
@@ -667,13 +673,13 @@ A curated list of awesome mathematics resources
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐452)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐454)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [Sep 05 - Sep 11, 2016](/content/2016/36/README.md)
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐783)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐786)](https://github.com/nelson-brochado/understanding-math)
 
 ## [Aug 08 - Aug 14, 2016](/content/2016/32/README.md)
 
@@ -890,7 +896,6 @@ A curated list of awesome mathematics resources
 
 ### Analysis / Measure Theory
 
-*   [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
 *   [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/\~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
 *   [Lecture Notes in Measure Theory](http://www.math.chalmers.se/\~borell/MeasureTheory.pdf) - Christer Borell
 *   [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng

@@ -10,6 +10,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / R
 
+*   [tidytransit](https://cran.r-project.org/web/packages/tidytransit/vignettes/introduction.html) - A tidy approach to accessing and manipulating GTFS data, including transit routes, schedules, and stops.
 *   [tidycensus](https://walker-data.com/tidycensus/) - A tidy approach to accessing data from the US Census Bureau API for manipulation or spatial analysis.
 
 ## [Nov 14, 2022](/content/2022/11/14/README.md)

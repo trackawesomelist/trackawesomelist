@@ -8,9 +8,21 @@
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
+### Templates / Vue 3
+
+*   [vite-vue3-bootstrap-ts-vitest-starter (⭐0)](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
+
+### Templates / React
+
+*   [vite-plugin-react-views (⭐1)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
+
 ### Templates / Electron
 
 *   [Vutron (⭐25)](https://github.com/jooy2/vutron) - Electron + Vite + Vue 3 + Pinia (TypeScript) template.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-debug (⭐2)](https://github.com/hu3dao/vite-plugin-debug) - Base on specific url parameters dynamically enables mobile web page debugging.
 
 ### Framework-agnostic Plugins / Testing
 
