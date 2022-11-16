@@ -8,6 +8,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
+### DreamBooth
+
+*   [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth): experiments to analyze the effect of different settings in Dreambooth
+
 ### Image Synthesis / Collections
 
 *   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.

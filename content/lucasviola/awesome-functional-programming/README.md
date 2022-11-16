@@ -2,9 +2,15 @@
 
 :alien: A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 825 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lucasviola/awesome-functional-programming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) · ⭐ 830 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/lucasviola/awesome-functional-programming/week/README.md) / [Overview](/content/lucasviola/awesome-functional-programming/readme/README.md) ]
+
+## [Nov 16, 2022](/content/2022/11/16/README.md)
+
+### Table of Contents / Blog posts
+
+*   [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
 
 ## [Sep 13, 2022](/content/2022/09/13/README.md)
 
@@ -102,7 +108,7 @@
 
 ### Table of Contents / Repos
 
-*   [Bow (⭐608)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+*   [Bow (⭐612)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
 
 ## [Apr 15, 2019](/content/2019/04/15/README.md)
 
@@ -247,7 +253,7 @@
 
 ### Table of Contents / Repos
 
-*   [J-Bob (⭐398)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+*   [J-Bob (⭐400)](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 
 ## [Oct 30, 2015](/content/2015/10/30/README.md)
 

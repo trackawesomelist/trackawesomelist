@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Nov 16, 2022](/content/2022/11/16/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [Vue USWDS (⭐3)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
+
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
 ### Resources / Examples

@@ -16,8 +16,8 @@ Plugins with the ":strawberry:" icon have CakePHP 4 compatible release too.
 
 If you are looking for CakePHP 2.x resources please visit:
 
-*   the [CakePHP 2.x version (⭐868)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) of this awesome list
-*   this wiki with a [list of not-yet upgraded plugins (⭐868)](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
+*   the [CakePHP 2.x version (⭐869)](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) of this awesome list
+*   this wiki with a [list of not-yet upgraded plugins (⭐869)](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
 
 Additional lists you might find useful:
 
@@ -201,7 +201,7 @@ Additional lists you might find useful:
 
 *Plugins for file manipulation.*
 
-*   :strawberry: [FileStorage plugin (⭐203)](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.
+*   :strawberry: [CakeFileStorage plugin (⭐2)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
 *   [FlyPie plugin (⭐36)](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem.
 *   [Image plugin (⭐20)](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior.
 *   :strawberry: [Josbeir/Filesystem plugin (⭐18)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.
@@ -602,5 +602,5 @@ Please see [CONTRIBUTING](https://github.com/FriendsOfCake/awesome-cakephp/blob/
 
 ## Credits
 
-awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors (⭐868)](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.
+awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors (⭐869)](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.
 

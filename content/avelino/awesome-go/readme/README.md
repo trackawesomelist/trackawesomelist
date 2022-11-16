@@ -754,6 +754,7 @@ additional ordered map implementations.
 
 *   [bqb (⭐58)](https://github.com/nullism/bqb) - Lightweight and easy to learn query builder.
 *   [buildsqlx (⭐81)](https://github.com/arthurkushman/buildsqlx) - Go database query builder library for PostgreSQL.
+*   [builq (⭐29)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
 *   [dbq (⭐354)](https://github.com/rocketlaunchr/dbq) - Zero boilerplate database operations for Go.
 *   [Dotsql (⭐651)](https://github.com/gchaincl/dotsql) - Go library that helps you keep sql files in one place and use them with ease.
 *   [gendry (⭐1.4k)](https://github.com/didi/gendry) - Non-invasive SQL builder and powerful data binder.
@@ -2224,7 +2225,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
     *   [covergates (⭐52)](https://github.com/covergates/covergates) - Self-hosted code coverage report review and management service.
     *   [cupaloy (⭐233)](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
     *   [dbcleaner (⭐144)](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
-    *   [diff (⭐0)](https://github.com/terrastruct/diff) - Beautiful Git-style diffs to easily compare expected vs actual.
+    *   [diff (⭐1)](https://github.com/terrastruct/diff) - Beautiful Git-style diffs to easily compare expected vs actual.
     *   [dsunit (⭐42)](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
     *   [embedded-postgres (⭐465)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
     *   [endly (⭐225)](https://github.com/viant/endly) - Declarative end to end functional testing.
@@ -2800,7 +2801,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [GoTuna (⭐42)](https://github.com/gotuna/gotuna) - Minimalistic web framework for Go with mux router, middlewares, sessions, templates, embedded views and static files.
 *   [goweb (⭐33)](https://github.com/twharmon/goweb) - Web framework with routing, websockets, logging, middleware, static file server (optional gzip), and automatic TLS.
 *   [Goyave (⭐1.2k)](https://github.com/go-goyave/goyave) - Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities.
-*   [Hertz (⭐2.3k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+*   [Hertz (⭐2.5k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 *   [hiboot (⭐180)](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.
 *   [Huma (⭐144)](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 *   [Macaron (⭐3.3k)](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.

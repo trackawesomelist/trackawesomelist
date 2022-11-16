@@ -2,9 +2,15 @@
 
 Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/APA-Technology-Division/urban-and-regional-planning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 APA-Technology-Division/urban-and-regional-planning-resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) · ⭐ 114 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/APA-Technology-Division/urban-and-regional-planning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 APA-Technology-Division/urban-and-regional-planning-resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) · ⭐ 115 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
+
+## [Nov 16, 2022](/content/2022/11/16/README.md)
+
+### Planning Coding Resources / R
+
+*   [tidycensus](https://walker-data.com/tidycensus/) - A tidy approach to accessing data from the US Census Bureau API for manipulation or spatial analysis.
 
 ## [Nov 14, 2022](/content/2022/11/14/README.md)
 
@@ -115,7 +121,7 @@ Community list of data & technology resources concerning the built environment a
 *   [HerePy (⭐76)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
 *   [StreetTraffic (⭐24)](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
 *   [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
-*   [city-seer-api](https://cityseer.benchmarkurbanism.com/) - A package for pedestrian-scale network-based urban analysis: network analysis, landuse accessibilities and mixed uses, statistical aggregations.
+*   [city-seer-api](https://cityseer.benchmarkurbanism.com/) - A package for pedestrian-scale network-based urban analysis: network analysis, urban morphology, land use, accessibility, and statistical aggregations.
 
 ### Planning Coding Resources / R
 
@@ -194,7 +200,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Built Environment
 
-*   [CityGML](https://www.ogc.org/standards/citygml) - The CityGML standard defines a conceptual model and exchange format for the representation, storage and exchange of virtual 3D city models. It enables an interdiciplinary common operating platform for civic systems.
+*   [CityGML](https://www.ogc.org/standards/citygml) - The CityGML standard defines a conceptual model and exchange format for the representation, storage and exchange of virtual 3D city models. It enables an interdisciplinary common operating platform for civic systems.
 
 ## [Jan 26, 2022](/content/2022/01/26/README.md)
 
@@ -248,7 +254,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Urban Observation
 
-*   [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occuring in the built environment affordably and quickly.
+*   [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occurring in the built environment affordably and quickly.
 *   [StreetSimplified](https://www.streetsimplified.com/) - Deploys temporary cameras utilizing computer vision to examine various transportation behaviors such as speeding, crossing rule compliance, and red-light running.
 
 ## [Nov 16, 2021](/content/2021/11/16/README.md)
@@ -285,7 +291,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Built Environment
 
-*   [LBCS](https://www.planning.org/lbcs/standards/) - The [American Planning Assoication's](https://www.planning.org/) Land Based Classification Standards classifies land uses across five dimensions (Activity, Function, Structure, Site, and Ownership).
+*   [LBCS](https://www.planning.org/lbcs/standards/) - The [American Planning Association's](https://www.planning.org/) Land Based Classification Standards classifies land uses across five dimensions (Activity, Function, Structure, Site, and Ownership).
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
@@ -423,7 +429,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Public Data Resources / Health
 
-*   [CDC Places](https://www.cdc.gov/places/index.html) - A CDC colloboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
+*   [CDC Places](https://www.cdc.gov/places/index.html) - A CDC collaboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
 
 ### Vendor Data Resources / Travel Behavior
 
@@ -437,7 +443,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Urban Observation
 
-*   [Vade](https://www.vadepark.com/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queriable via web-based API's.
+*   [Vade](https://www.vadepark.com/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's.
 
 ## [Aug 21, 2021](/content/2021/08/21/README.md)
 
@@ -573,7 +579,7 @@ Community list of data & technology resources concerning the built environment a
 ### Vendor Data Resources / Urban Observation
 
 *   [Numina](https://numina.co/) - Utilizes edge computing devices that measures all kinds of curb-level activity. Anonymously and in aggregate, Numina delivers the volume counts, paths, and traffic behaviors of travelers and objects in streets.
-*   [Transoft](https://safety.transoftsolutions.com/) - Transfoft ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
+*   [Transoft](https://safety.transoftsolutions.com/) - Transoft ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 *   [Automotus](https://www.automotus.co/) - Computer vision based platform that helps cities, airports, fleets, and businesses monitor the curb in real time. Enables curbside management policies that increase revenue while making streets less congested, more sustainable, and more equitable.
 
 ## [Jul 18, 2021](/content/2021/07/18/README.md)
@@ -698,7 +704,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Built Environment
 
-*   [BLDS (⭐39)](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested partiesto create a shared data specification for building and construction permit data.
+*   [BLDS (⭐39)](https://github.com/open-data-standards/permitdata.org/wiki/Core-Permits-Dataset-Requirements) - The BLDS data standard is a collaborative effort by civic technology companies, governments and other interested parties to create a shared data specification for building and construction permit data.
 
 ### Planning Data Specifications / Transportation
 
@@ -769,7 +775,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Public Data Resources / OpenStreetMap
 
-*   [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map. This colloborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata.
+*   [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map. This collaborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata.
 *   [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS.
 *   [Overpass Turbo](https://overpass-turbo.eu/) -  Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map.
 

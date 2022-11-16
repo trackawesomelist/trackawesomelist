@@ -2,9 +2,16 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 253K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 255K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/readme/README.md) ]
+
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Persuasive Technology / React.js
+
+*   [Persuasive Technology and Behavioural Design](https://anchor.fm/digital-mindfulness/episodes/DM-20-BJ-Fogg---Persuasive-Technology--Behavioural-Design-eu6onh) - BJ Fogg (podcast)
+*   [Your Undivided Attention](https://www.humanetech.com/podcast) - Tristan Harris and Aza Raskin (podcast)
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -324,7 +331,7 @@
 *   [React Native Radio](https://www.reactnativeradio.com/episodes) - Jamon Holmgren, Robin Heinze, Mazen Chami, Jon Major (podcast)
 *   [React Podcast](https://reactpodcast.simplecast.fm) - Michael Chan (podcast)
 *   [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)
-*   [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources (⭐651)](https://github.com/cassiozen/ReactCasts)
+*   [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources (⭐650)](https://github.com/cassiozen/ReactCasts)
 *   [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, Mike Chudziak, Satyajit Sahoo, Michał Pierzchała, et al. (screencast)
 
 ### Kotlin / React.js

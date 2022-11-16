@@ -21,6 +21,10 @@
 *   [vue-awesome-sidebar (⭐7)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
 *   [vue-web-terminal (⭐43)](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 
+### Components & Libraries / Frameworks
+
+*   [Vue USWDS (⭐3)](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
+
 ### Components & Libraries / Utilities
 
 *   [@skirtle/vue-vnode-utils (⭐1)](https://github.com/skirtles-code/vue-vnode-utils) - Helper functions for working with slot VNodes inside render functions in Vue 3

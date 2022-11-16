@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Nov 16, 2022](/content/2022/11/16/README.md)
+
+### File Manipulation
+
+*   :strawberry: [CakeFileStorage plugin (⭐2)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
+
 ## [Nov 11, 2022](/content/2022/11/11/README.md)
 
 ### Debugging
@@ -288,10 +294,6 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 *   :strawberry: [Alt3/Swagger plugin (⭐61)](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
 
 ## [Feb 22, 2020](/content/2020/02/22/README.md)
-
-### File Manipulation
-
-*   :strawberry: [FileStorage plugin (⭐203)](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.
 
 ### Search
 

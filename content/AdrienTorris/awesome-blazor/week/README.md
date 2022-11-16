@@ -2,21 +2,24 @@
 
 Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AdrienTorris/awesome-blazor/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) · ⭐ 7.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AdrienTorris/awesome-blazor/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) · ⭐ 7.2K · 🏷️ Front-End Development
 
 [ [Daily](/content/AdrienTorris/awesome-blazor/README.md) / Weekly / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Videos / Others
+
+*   [What's new for Blazor in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=evW4Gj4sHsk) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2022 - Blazor in .NET 7 is loaded with many new improvements to make building beautiful interactive web UI easier and more productive. In this session we'll take a look at the new support for custom elements, improved data binding, handling location changing events, showing loading progress, dynamic authentication requests, and more.
+*   [Build an Audio Browser app with Blazor | .NET Conf 2022](https://www.youtube.com/watch?v=2t4VwBeQ9DY) - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2022 - So you’ve heard about new features in .NET 7, but how does it all fit together when you build an app? Join Steve as he quickly builds an end-to-end audio manager app with Blazor WebAssembly using features old and new. This is a moderately advanced talk (it assumes existing Blazor knowledge) full of hints and tips including: cleaner ways to organize JS interop, directly accessing files on an end user’s filesystem, dynamically generating SVGs, creating an elegant “loading” experience, and the performance impact of AOT compilation. Full source code is provided!
+*   [.NET ❤️’s WebAssembly in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=Ru-kO77d3F8) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2022 - .NET 7 introduces powerful new capabilities for running .NET code on WebAssembly. In this session we’ll show how you can run .NET from any JavaScript code using the new and improved JavaScript interop support. We’ll look at debugging and hot reload improvements for .NET on WebAssembly  and show how the .NET WebAssembly build tools in .NET 7 take advantage of the latest WebAssembly features like SIMD and Exception Handling to improve performance. We’ll also check out some upcoming and experimental .NET WebAssembly capabilities like support for multithreading.
+*   [Testing Blazor Applications with Playwright | .NET Conf 2022](https://www.youtube.com/watch?v=gBky9_AskNQ) - ![duration](https://img.shields.io/badge/Duration:%20-24%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2022 - Testing is hard, testing takes time to learn and to write, and time is money. As developers we want to test. We know we should but we don't have time. So how can we get more developers to do testing? We can create better tools. Let me introduce you to Playwright - Reliable end-to-end cross browser testing for modern web apps, by Microsoft and fully open source. Playwright's codegen generates tests for you so now you really have no excuses. It's time to play your tests wright.
+*   [Create native desktop & mobile apps using web skills in Blazor Hybrid | .NET Conf 2022](https://www.youtube.com/watch?v=ojcvL8KCOwo) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2022 - Are you a web developer and need to target iOS, Android, macOS, and Windows? Ship directly to the store and build world class apps with native API access with .NET MAUI and Blazor Hybrid.
+*   [Modernize your WPF and Windows Forms application with Blazor | .NET Conf 2022](https://www.youtube.com/watch?v=niX1DbFwgq4) - ![duration](https://img.shields.io/badge/Duration:%20-24%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2022 - Desktop is not dead and there are a lot of applications written in WPF and Windows Forms that need to be ported to Web, or reuse ready components written by the web team. Blazor can be the answer for both the requirements thanks to Blazor Hybrid. Let’s see how you can use it.
+*   [CSS Techniques for Blazor Developers | .NET Conf 2022](https://www.youtube.com/watch?v=w_x1keHyXAY) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2022 - Does your CSS code remind you of an episode of Hoarders? In this session we’ll explore a variety of CSS related architecture decisions that Blazor developers face. Attendees will learn how and when to use plain CSS, Sass or CSS Isolation with Blazor. Modern CSS techniques like custom CSS properties will be discussed. We’ll explore techniques to build modular and intelligent CSS by leveraging CSS principals and incorporating helper libraries. This session aims to break the dependency on CSS systems like Bootstrap and Tailwind.
+*   [Azure Static Web Apps with Blazor and .NET | .NET Conf 2022](https://www.youtube.com/watch?v=FjGjguW1Xa0) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2022 - Are you a .NET developer who wants to quickly build and deploy full-stack .NET serverless applications? Then this talk is for you! In this session, we will learn how to use Azure Static Web Apps with Blazor and .NET. First, we will explore Azure Static Web Apps. Then take a look at getting started with Blazor WebAssembly paired with the serverless power of .NET Azure Functions or Azure Container Apps. We will continue on to explore other .NET API options now available. And finally, we will discover how to automatically build and deploy to Azure directly from our code repository.
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
-
-### .NET Conf session - Blazor in .NET 7 (November 8, 2022).
-
-*   Live-streaming: What's new for Blazor in .NET 7
-*   Now at #dotNETConf, @stevensanderson gives us a look at the new support for custom elements, improved data binding, handling location changing events, dynamic authentication requests, and more!
-
-### .NET Conf session - Create native desktop & mobile apps using web skills in Blazor Hybrid (November 8, 2022).
-
-*   Live-streaming for App Devs: Create native desktop & mobile apps using web skills in Blazor Hybrid
-*   @original\_ejl and @JamesMontemagno join #dotNETConf to discuss building world-class apps with native API access with .NET MAUI and Blazor Hybrid.
 
 ### Articles / Others
 
@@ -108,11 +111,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   C# / Blazor Wolfenstein - Part 6 - The Basic Raycaster[](https://www.jamesdrandall.com/posts/csharp_blazor_wolfenstein_part_6_the_basic_raycaster/) - September 18, 2022 - Part 6 of the articles explaining how port the game Wolfenstein 3D on C# and Blazor. [Source code (⭐42)](https://github.com/JamesRandall/csharp-wolfenstein) ![stars](https://img.shields.io/github/stars/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JamesRandall/csharp-wolfenstein?style=flat-square\&cacheSeconds=86400).
 
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
-
-### .NET Conf - .NET 7 launch! (November 8-10, 2022).
-
-*   .NET Conf is a free, three-day, virtual developer event that celebrates the major releases of the .NET development platform. It is co-organized by the .NET community and Microsoft, and sponsored by the .NET Foundation and our ecosystem partners. Come celebrate and learn about what you can do with .NET 7.
-*   More info on [dotnetconf.net](https://www.dotnetconf.net/\&utm_source=github).
 
 ### Videos / Others
 

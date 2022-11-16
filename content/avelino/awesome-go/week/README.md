@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [bubbletea (⭐16k)](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
 
+### SQL Query Builders
+
+*   [builq (⭐29)](https://github.com/cristalhq/builq) - Easily build SQL queries in Go.
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### GUI
@@ -68,7 +72,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Web Frameworks
 
 *   [Atreugo (⭐956)](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework with zero memory allocations in hot paths.
-*   [Hertz (⭐2.3k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+*   [Hertz (⭐2.5k)](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 
 ### E-books for purchase / Libraries for creating HTTP middlewares
 
@@ -2593,7 +2597,7 @@ A curated list of awesome Go frameworks, libraries and software
     *   [covergates (⭐52)](https://github.com/covergates/covergates) - Self-hosted code coverage report review and management service.
     *   [cupaloy (⭐233)](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
     *   [dbcleaner (⭐144)](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
-    *   [diff (⭐0)](https://github.com/terrastruct/diff) - Beautiful Git-style diffs to easily compare expected vs actual.
+    *   [diff (⭐1)](https://github.com/terrastruct/diff) - Beautiful Git-style diffs to easily compare expected vs actual.
     *   [dsunit (⭐42)](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
     *   [embedded-postgres (⭐465)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
     *   [endly (⭐225)](https://github.com/viant/endly) - Declarative end to end functional testing.

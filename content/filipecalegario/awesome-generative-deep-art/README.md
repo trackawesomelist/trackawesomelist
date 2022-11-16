@@ -6,6 +6,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 16, 2022](/content/2022/11/16/README.md)
+
+### DreamBooth
+
+*   [Training Stable Diffusion with Dreambooth using Diffusers](https://huggingface.co/blog/dreambooth): experiments to analyze the effect of different settings in Dreambooth
+
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
 ### Image Synthesis / Collections
