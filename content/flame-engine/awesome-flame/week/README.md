@@ -12,9 +12,13 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   Hyper Hexagon - [Android](https://play.google.com/store/apps/details?id=it.cocce.hyperhexagon), [Web](https://thecocce.itch.io/hyper-hexagon) - Hexagonal board game challenge - A classical and futuristic. Inspired by the old classic Hexxagon '90s game. By [TheCocce](https://github.com/thecocce/)
 
+### App Releases / Roguelike
+
+*   Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
-### Resources / Tower Defense
+### Resources / Roguelike
 
 *   [Game UI Database](https://www.gameuidatabase.com/) - The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!
 
@@ -71,7 +75,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
-### Non-English Content / Tower Defense
+### Non-English Content / Roguelike
 
 *   [Spanish (Español) (⭐625)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
@@ -225,7 +229,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 *   [Ant Squash (⭐12)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 
-### Non-English Content / Tower Defense
+### Non-English Content / Roguelike
 
 *   [Mandarin Chinese (中文) (⭐625)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 

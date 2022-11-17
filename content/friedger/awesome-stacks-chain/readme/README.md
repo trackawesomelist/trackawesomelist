@@ -48,15 +48,29 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 *   [Stacks Wallet for Desktop](https://www.hiro.so/wallet/install-desktop) - Desktop wallet application for managing STX and stacking individually or in pools.
 *   [Stacks Wallet for Web](https://www.hiro.so/wallet/install-web) - Web wallet for connecting to Stacks web applications.
-*   [Xverse Wallet](https://www.secretkeylabs.com/) - Mobile wallet application for managing STX and stacking.
+*   [Xverse Wallet](https://www.secretkeylabs.com/) - Mobile wallet application for managing STX and stacking (not open source).
 
 ### Stacks Web Applications
 
 *   [Stacks Explorer](https://explorer.stacks.co/?chain=mainnet) - An application for reviewing transactions on the Stacks blockchain.
 *   [Boom.money](https://boom.money) - A web wallet focused on NFTs, and custom tokens.
-*   [Send Many](https://sendstx.com/) - An application to send STX to many recipients in one transaction.
-*   [MIA Block explorer](http://miamining.com/) - A web application to exolore MIA coin transactions for all and personal accounts.
+*   [Send Many](https://sendstx.com) - An application to send STX to many recipients in one transaction.
+*   [MIA Block explorer](http://miamining.com) - A web application to exolore MIA coin transactions for all and personal accounts.
 *   [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source (⭐6)](https://github.com/friedger/speed-spend)).
+
+#### Blockchain Name System
+
+*   [btc.us](https://btc.us) - An application for .btc names.
+*   [stx.name](https://stx.name) - An application for BNS name registration (not open source).
+*   [BNS search](https://www.bnssearch.com/) - An application to search registered BNS names.
+*   [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
+*   [Owl.link](https://owl.link) - An application to create linking page for BNS names.
+
+#### DeFi
+
+*   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi
+*   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol
+*   [Arkadiko Protocol (⭐54)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans
 
 ## Clarity Resources
 
@@ -65,7 +79,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Clarinet (⭐214)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
 *   [Clarigen (⭐22)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 *   [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
-*   [search-clarity.dev](https://search-clarity.dev) - An application for searching for deployed Clarity contracts.
+*   [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 
 ### Libraries
 
@@ -103,11 +117,12 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 ### Frontend Libraries
 
-*   [Stacks.js (⭐882)](https://github.com/blockstack/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [Stacks.js (⭐882)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [micro-stacks (⭐68)](https://github.com/fungible-systems/micro-stacks/) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 
 ### CLI
 
-*   [@stacks/cli (⭐882)](https://github.com/blockstack/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
+*   [@stacks/cli (⭐882)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
 
 ### Storage
 
@@ -121,6 +136,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 *   [Official Stacks documentation](https://docs.stacks.co/) - Documentation and developer tutorials for learning
     Clarity and developing Stacks apps.
+*   [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers
 *   [Stacks 101](https://stacks101.com) - Community curated STX knowledge.
 
 ### Videos
