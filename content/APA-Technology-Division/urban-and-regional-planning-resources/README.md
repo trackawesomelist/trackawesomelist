@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Nov 17, 2022](/content/2022/11/17/README.md)
+
+### Vendor Data Resources / Resilience and Natural Hazards
+
+*   [RiskFactor](https://firststreet.org/risk-factor/) - Provided by the First Street Foundation, this tool enables users to understand properties' environmental risks from flooding, wildfire and extreme heat. The tool communicates historic events, current risks, and future projections for properties based on peer-reviewed research.  Additional Information: [Access Census Tract Risk Data](https://firststreet.org/data-access/), [First Street Foundation Website](https://firststreet.org/)
+
 ## [Nov 16, 2022](/content/2022/11/16/README.md)
 
 ### Planning Coding Resources / R
@@ -606,10 +612,6 @@ Community list of data & technology resources concerning the built environment a
 ### Vendor Data Resources / Land Use and Land Cover
 
 *   [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada.
-
-### Vendor Data Resources / Resilience and Natural Hazards
-
-*   [FloodFactor](https://firststreet.org/flood-factor/) - Provided by the First Street Foundation, this tool makes it easy to determine if a property has flooded from major events in the past, is currently at risk, and how that risk changes over time. It can also help estimate damage costs associated with flooding.
 
 ### Vendor Data Resources / Travel Behavior
 

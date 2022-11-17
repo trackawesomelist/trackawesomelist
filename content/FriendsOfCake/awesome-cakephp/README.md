@@ -6,11 +6,11 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
-## [Nov 16, 2022](/content/2022/11/16/README.md)
+## [Nov 17, 2022](/content/2022/11/17/README.md)
 
 ### File Manipulation
 
-*   :strawberry: [CakeFileStorage plugin (⭐2)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
+*   :strawberry: [FileStorage plugin (⭐2)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
 
 ## [Nov 11, 2022](/content/2022/11/11/README.md)
 

@@ -2,7 +2,7 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 4.7K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5K · 🏷️ Front-End Development
 
 [ [Daily](/content/markodenic/web-development-resources/README.md) / [Weekly](/content/markodenic/web-development-resources/week/README.md) / Overview ]
 
@@ -92,6 +92,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | <https://edx.org>                                                  |
 | <https://khanacademy.org>                                          |
 | <https://sololearn.com>                                            |
+| <https://www.scaler.com/topics/>                                   |
 | <https://www.theodinproject.com>                                   |
 | <https://javascript.info/>                                         |
 | <https://vueschool.io/>                                            |
@@ -381,23 +382,24 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 ## Color Palettes:
 
-| Website                       |
-| ----------------------------- |
-| <https://coolors.co>          |
-| <https://colorhunt.co>        |
-| <https://paletton.com>        |
-| <https://color-hex.com>       |
-| <https://mycolor.space>       |
-| <https://flatuicolors.com>    |
-| <https://color.adobe.com>     |
-| <https://htmlcolorcodes.com>  |
-| <https://colorsinspo.com>     |
-| <https://uigradients.com>     |
-| <https://www.colorion.co>     |
-| <https://www.gradientos.app>  |
-| <https://www.eggradients.com> |
-| <https://cssgradient.io>      |
-| <https://www.0to255.com>      |
+| Website                        |
+| ------------------------------ |
+| <https://coolors.co>           |
+| <https://colorhunt.co>         |
+| <https://paletton.com>         |
+| <https://color-hex.com>        |
+| <https://mycolor.space>        |
+| <https://flatuicolors.com>     |
+| <https://color.adobe.com>      |
+| <https://htmlcolorcodes.com>   |
+| <https://colorsinspo.com>      |
+| <https://uigradients.com>      |
+| <https://www.colorion.co>      |
+| <https://www.gradientos.app>   |
+| <https://www.eggradients.com>  |
+| <https://cssgradient.io>       |
+| <https://www.0to255.com>       |
+| <https://branition.com/colors> |
 
 [⬆ back to top](#table-of-contents)
 

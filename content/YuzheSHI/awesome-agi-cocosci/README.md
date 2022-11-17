@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Nov 17, 2022](/content/2022/11/17/README.md)
+
+### Meta-Level Considerations / The Aha! Moment
+
+*   [A computational model of scientific insight](https://escholarship.org/uc/item/54x8v354) - ***The nature of creativity: Contemporary psychological perspectives***, 1988. \[[All Versions](https://scholar.google.com/scholar?cluster=13633357571064621019\&hl=en\&as_sdt=0,5)]. A computational account on insights for scientific discovery.
+
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
 ### Metascience / Science of Science

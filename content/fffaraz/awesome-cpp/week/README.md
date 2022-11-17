@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [HEhub (⭐54)](https://github.com/primihub/HEhub) - A library for homomorphic encryption and its applications. \[Apache2]
 
+### Networking
+
+*   [Lithium](https://matt-42.github.io/lithium/) - Build high performance C++ HTTP servers without being a C++ expert. \[MIT]
+
 ### Integrated Development Environment
 
 *   [Embarcadero Dev-CPP (⭐1.8k)](https://github.com/Embarcadero/Dev-Cpp) - A fork of Dev-C++ that comes preinstalled with new themes and modern compilers. \[GPLv2] [website](https://www.embarcadero.com/free-tools/dev-cpp)
@@ -2789,10 +2793,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Math
 
 *   [QuantLib (⭐3.5k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
-
-### Networking
-
-*   [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. \[MIT]
 
 ### Integrated Development Environment
 

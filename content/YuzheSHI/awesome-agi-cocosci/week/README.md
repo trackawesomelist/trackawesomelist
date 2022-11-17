@@ -12,6 +12,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [The Theory Theory](https://psycnet.apa.org/record/1994-97940-009) - ***Mapping the mind: Domain specificity in cognition and culture, Cambridge University Press***. \[[All Versions](https://scholar.google.com/scholar?cluster=9397889700764191662\&hl=en\&as_sdt=0,5)]. Alison Gopnik's original paper on the theory theory.
 
+### Meta-Level Considerations / The Aha! Moment
+
+*   [A computational model of scientific insight](https://escholarship.org/uc/item/54x8v354) - ***The nature of creativity: Contemporary psychological perspectives***, 1988. \[[All Versions](https://scholar.google.com/scholar?cluster=13633357571064621019\&hl=en\&as_sdt=0,5)]. A computational account on insights for scientific discovery.
+
 ### Metascience / Science of Science
 
 *   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).

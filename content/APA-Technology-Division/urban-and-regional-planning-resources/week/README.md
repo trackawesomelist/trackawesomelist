@@ -12,6 +12,10 @@ Community list of data & technology resources concerning the built environment a
 
 *   [Adaptation Clearinghouse](https://www.adaptationclearinghouse.org/) - Maintained by Georgetown's Climate Center, this is an extensive online database and networking site that serves policymakers and others who are working to help communities adapt to climate change.
 
+### Vendor Data Resources / Resilience and Natural Hazards
+
+*   [RiskFactor](https://firststreet.org/risk-factor/) - Provided by the First Street Foundation, this tool enables users to understand properties' environmental risks from flooding, wildfire and extreme heat. The tool communicates historic events, current risks, and future projections for properties based on peer-reviewed research.  Additional Information: [Access Census Tract Risk Data](https://firststreet.org/data-access/), [First Street Foundation Website](https://firststreet.org/)
+
 ### Planning Coding Resources / R
 
 *   [tidytransit](https://cran.r-project.org/web/packages/tidytransit/vignettes/introduction.html) - A tidy approach to accessing and manipulating GTFS data, including transit routes, schedules, and stops.
@@ -545,10 +549,6 @@ Community list of data & technology resources concerning the built environment a
 ### Vendor Data Resources / Land Use and Land Cover
 
 *   [CoStar](https://www.costar.com/) - A commercial real estate information and analytics provider serving the UK, US, and Canada.
-
-### Vendor Data Resources / Resilience and Natural Hazards
-
-*   [FloodFactor](https://firststreet.org/flood-factor/) - Provided by the First Street Foundation, this tool makes it easy to determine if a property has flooded from major events in the past, is currently at risk, and how that risk changes over time. It can also help estimate damage costs associated with flooding.
 
 ### Vendor Data Resources / Travel Behavior
 

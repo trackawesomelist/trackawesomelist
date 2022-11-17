@@ -788,6 +788,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libquic (⭐1.7k)](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. \[BSD]
 *   [librdkafka (⭐6.3k)](https://github.com/edenhill/librdkafka) - Apache Kafka client library for C and C++. \[BSD-2-Clause]
 *   [libwebsockets (⭐3.7k)](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. \[LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
+*   [Lithium](https://matt-42.github.io/lithium/) - Build high performance C++ HTTP servers without being a C++ expert. \[MIT]
 *   [lwIP](http://savannah.nongnu.org/projects/lwip/) - A lightweight TCP/IP stack. \[Modified BSD]
 *   [Mongoose (⭐8.9k)](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. \[GPL2]
 *   [MQTT-C (⭐559)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
@@ -802,7 +803,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [RakNet (⭐3.1k)](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. \[BSD]
 *   [restclient-cpp (⭐1.4k)](https://github.com/mrtazz/restclient-cpp) - Simple REST client for C++. It wraps libcurl for HTTP requests. \[MIT]
 *   [Seasocks (⭐617)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
-*   [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. \[MIT]
 *   [tlse (⭐476)](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library \[BSD-2-Clause]
 *   [Tufão (⭐554)](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. \[LGPL2]
 *   [uriparser (⭐254)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]

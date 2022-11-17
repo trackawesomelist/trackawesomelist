@@ -2,9 +2,15 @@
 
 A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/friedger/awesome-stacks-chain/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain) · ⭐ 72 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/friedger/awesome-stacks-chain/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain) · ⭐ 74 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/friedger/awesome-stacks-chain/week/README.md) / [Overview](/content/friedger/awesome-stacks-chain/readme/README.md) ]
+
+## [Nov 17, 2022](/content/2022/11/17/README.md)
+
+### Learning Resources / Books
+
+*   [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (early preview)
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 
@@ -21,8 +27,8 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 ### Clarity Resources / Developer Tools
 
-*   [Clarinet (⭐211)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
-*   [Clarigen (⭐21)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
+*   [Clarinet (⭐214)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+*   [Clarigen (⭐22)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 
 ### Clarity Resources / Libraries
 
@@ -67,7 +73,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 *   [SWAPR (⭐51)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
 *   [FLEXR (⭐18)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
-*   [ClarityDAO (⭐17)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
+*   [ClarityDAO (⭐18)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
 *   [NFT Marketplace (⭐13)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
 *   [StackStarter (⭐11)](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
 *   [Election Voting (⭐1)](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
@@ -89,17 +95,17 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 ### App Development / Frontend Libraries
 
-*   [Stacks.js (⭐881)](https://github.com/blockstack/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [Stacks.js (⭐882)](https://github.com/blockstack/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 
 ### App Development / CLI
 
-*   [@stacks/cli (⭐881)](https://github.com/blockstack/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
+*   [@stacks/cli (⭐882)](https://github.com/blockstack/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
 
 ### App Development / Storage
 
 *   [CompassDB (⭐31)](https://github.com/eder-ai/compass-db) - A library for managing advanced collections in Gaia storage.
 *   [lens-file-source](https://gitlab.com/MyLens/lens-file-source) - File storage abstraction through mechanisms like caching, transactions, and JSON map aggregation for Gaia.
-*   [GaiaDown (⭐9)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4k)](https://github.com/Level/levelup).
+*   [GaiaDown (⭐10)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4k)](https://github.com/Level/levelup).
 
 ### Learning Resources / Documentation
 
@@ -113,7 +119,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Developer Registry 101](https://www.crowdcast.io/e/clarity-program) - Learn how to build a Clarity smart contract from scratch.
 *   [How Clarity Prevents Common Smart Contract Vulnerabilities](https://www.youtube.com/watch?v=VYXhrwPsBws) - Explanation of Clarity's security princples.
 
-### Community / Videos
+### Community / Books
 
 *   [Discord](https://discord.gg/zrvWsQC) - Stacks ecosystem Discord.
 *   [Twitter](https://twitter.com/stacks) - Stacks ecosystem Twitter.

@@ -201,7 +201,7 @@ Additional lists you might find useful:
 
 *Plugins for file manipulation.*
 
-*   :strawberry: [CakeFileStorage plugin (⭐2)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
+*   :strawberry: [FileStorage plugin (⭐2)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
 *   [FlyPie plugin (⭐36)](https://github.com/WyriHaximus/FlyPie) - Abstract filesystem access using Flysystem.
 *   [Image plugin (⭐20)](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior.
 *   :strawberry: [Josbeir/Filesystem plugin (⭐18)](https://github.com/josbeir/cakephp-filesystem) - Abstract [Flysystem](https://flysystem.thephpleague.com/) + file entity based upload plugin.

@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 17, 2022](/content/2022/11/17/README.md)
+
+### Networking
+
+*   [Lithium](https://matt-42.github.io/lithium/) - Build high performance C++ HTTP servers without being a C++ expert. \[MIT]
+
 ## [Nov 16, 2022](/content/2022/11/16/README.md)
 
 ### Cryptography
@@ -3129,10 +3135,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Math
 
 *   [QuantLib (⭐3.5k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
-
-### Networking
-
-*   [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. \[MIT]
 
 ## [Apr 07, 2015](/content/2015/04/07/README.md)
 
