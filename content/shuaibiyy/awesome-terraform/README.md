@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Nov 18, 2022](/content/2022/11/18/README.md)
+
+### Terraform Enterprise / Vendor supported providers
+
+*   [OTF (⭐95)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
 
 ### Tools / Vendor supported providers

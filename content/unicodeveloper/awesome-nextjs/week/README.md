@@ -6,11 +6,17 @@
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### Extensions
+
+*   [Next-Sitemap (⭐2k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
+
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
 ### Extensions
 
-*   [Destack for Next.js (⭐655)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+*   [Destack for Next.js (⭐680)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
@@ -22,7 +28,7 @@
 
 ### Boilerplates
 
-*   [superplate (⭐2k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
+*   [superplate (⭐2.1k)](https://github.com/pankod/superplate) - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
@@ -38,11 +44,11 @@
 
 ### Boilerplates
 
-*   [next-postgres-graphql (⭐28k)](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
+*   [next-postgres-graphql (⭐29k)](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
 
 ### Apps
 
-*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐280)](https://github.com/kachkaev/njt), thanks to Now integration.
+*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐292)](https://github.com/kachkaev/njt), thanks to Now integration.
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 
@@ -54,13 +60,13 @@
 
 ### Boilerplates
 
-*   [nextjs-starter (⭐399)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
+*   [nextjs-starter (⭐401)](https://github.com/pbteja1998/nextjs-starter) - An SEO Optimized Next.js 10 starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + (GitHub Auth + Passwordless Auth) using (NextAuth.js and Fauna DB), ESLint, Prettier, Pre-commit hook with Husky. Can have different layouts for different pages.
 
 ## [Jan 04 - Jan 10, 2021](/content/2020/53/README.md)
 
 ### Extensions
 
-*   [next-transpile-modules (⭐1k)](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node\_modules. Useful for monorepos.
+*   [next-transpile-modules (⭐1.1k)](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node\_modules. Useful for monorepos.
 
 ## [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)
 
@@ -72,8 +78,8 @@
 
 ### Community
 
-*   [GitHub (⭐94k)](https://github.com/vercel/next.js)
-*   [GitHub discussions for Next.js (⭐94k)](https://github.com/vercel/next.js/discussions)
+*   [GitHub (⭐97k)](https://github.com/vercel/next.js)
+*   [GitHub discussions for Next.js (⭐97k)](https://github.com/vercel/next.js/discussions)
 
 ### Articles
 
@@ -81,7 +87,7 @@
 
 ### Extensions
 
-*   [Next-Pkg (⭐57)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐22k)](https://github.com/vercel/pkg) support.
+*   [Next-Pkg (⭐58)](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg (⭐22k)](https://github.com/vercel/pkg) support.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -91,7 +97,7 @@
 
 ### Boilerplates
 
-*   [Nextatic (⭐41)](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
+*   [Nextatic (⭐42)](https://github.com/tancredi/nextatic) - 🌍 Static website multi-language boilerplate with user-editable pages and navigation using Netlify CMS + Next.js + SCSS + Typescript.
 
 ### Newsletters
 
@@ -135,12 +141,12 @@
 ### Boilerplates
 
 *   [next-boilerplate (⭐1.4k)](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Express.js, Sass, Css, EnvConfig, Reverse Proxy, Bundle
-*   [Next-Postgres-With-Typescript (⭐18)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
+*   [Next-Postgres-With-Typescript (⭐19)](https://github.com/brandontle/next-postgres-with-typescript) - Forum-like fullstack web app with Next 7.0.2 + Sequelize 4/Postgres + Typescript + Redux + Passport Local Auth + Emotion
 *   [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/) - 🚀 The perfect starter code for your blog based on Next.js framework. ⚡️ Made with Next.js, TypeScript, ESLint, Prettier, PostCSS, Tailwind CSS.
 
 ### Extensions
 
-*   [next-joi (⭐107)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
+*   [next-joi (⭐109)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
@@ -153,7 +159,7 @@
 ### Boilerplates
 
 *   [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
-*   [Devii (⭐457)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐458)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ### Extensions
 
@@ -169,8 +175,8 @@
 
 ### Apps
 
-*   [CourseLit (⭐283)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
-*   [Feednext (⭐236)](https://github.com/feednext/feednext) - An open source social media application.
+*   [CourseLit (⭐296)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [Feednext (⭐238)](https://github.com/feednext/feednext) - An open source social media application.
 
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 
@@ -181,17 +187,17 @@
 
 ### Extensions
 
-*   [next-connect (⭐1.2k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+*   [next-connect (⭐1.3k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 
 ### Apps
 
-*   [Tottem (⭐874)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐884)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
 ### Boilerplates
 
-*   [The Knests Stack (⭐277)](https://github.com/tudorconstantin/knests/) - Full stack  boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
+*   [The Knests Stack (⭐278)](https://github.com/tudorconstantin/knests/) - Full stack  boilerplate/hackathon starter with: PostgreSQL, Knex.js, NestJS, Next.js (obviously), GraphQL, React (with hooks and typescript), Material-UI, Docker multistage images for, Docker compose and a Gitlab CI/CD pipeline fully configured.
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
@@ -212,14 +218,14 @@
 
 ### Extensions
 
-*   [next-iron-session (⭐2k)](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data
+*   [next-iron-session (⭐2.1k)](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data
 *   [flow-middleware (⭐16)](https://github.com/piglovesyou/flow-middleware) - Run any of Express middlewares on Next.js without polluting native objects.
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
 
 ### Extensions
 
-*   [Next universal language detector (⭐69)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
+*   [Next universal language detector (⭐70)](https://github.com/UnlyEd/universal-language-detector) - Language detector that works universally (browser + server) - Meant to be used with a universal framework, such as Next.js [DEMO](https://universal-language-detector.now.sh/)
 
 ## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
 
@@ -241,7 +247,7 @@
 
 ### Boilerplates
 
-*   [The-Nextjs-starter (⭐21)](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
+*   [The-Nextjs-starter (⭐22)](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
 
 ## [Dec 30 - Jan 05, 2019](/content/2019/52/README.md)
 
@@ -259,8 +265,8 @@
 
 ### Boilerplates
 
-*   [Nitro 🚀 (⭐245)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
-*   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐82)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
+*   [Nitro 🚀 (⭐246)](https://github.com/williamluke4/nitro) - An Example of a PWA using Nextjs, Material-UI, Typescript and Auth0 💗
+*   [Next Graphql Apollo Typescript\_Boostrap - Pobocha (⭐83)](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) - React + GraphQL + Next.js + Apollo + Scss + Typescript + Prettier & EsLint boilerplate
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
@@ -276,7 +282,7 @@
 
 ### Boilerplates
 
-*   [react-next-boilerplate (⭐290)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+*   [react-next-boilerplate (⭐293)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
 
 ## [Oct 07 - Oct 13, 2019](/content/2019/40/README.md)
 
@@ -301,7 +307,7 @@
 
 ### Extensions
 
-*   [next-session (⭐281)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+*   [next-session (⭐283)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
 ## [Jun 17 - Jun 23, 2019](/content/2019/24/README.md)
 
@@ -319,7 +325,7 @@
 
 ### Extensions
 
-*   [Next UserAgent (⭐301)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
+*   [Next UserAgent (⭐304)](https://github.com/tokuda109/next-useragent) - UserAgent parser for Next.js
 
 ## [Mar 18 - Mar 24, 2019](/content/2019/11/README.md)
 
@@ -352,7 +358,7 @@
 
 ### Boilerplates
 
-*   [Next.js App with AWS Lambda (⭐56)](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
+*   [Next.js App with AWS Lambda (⭐57)](https://github.com/mattdamon108/nextjs-with-lambda) - Deploy a Next.js App to AWS Lambda using Apex Up.
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 
@@ -376,7 +382,7 @@
 
 ### Boilerplates
 
-*   [Nextron (⭐2.1k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐2.2k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
 ## [Oct 29 - Nov 04, 2018](/content/2018/44/README.md)
 
@@ -404,7 +410,7 @@
 
 ### Boilerplates
 
-*   [csprance/next-smrt (⭐53)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
+*   [csprance/next-smrt (⭐54)](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
 
 ## [Aug 27 - Sep 02, 2018](/content/2018/35/README.md)
 
@@ -416,14 +422,14 @@
 
 ### Boilerplates
 
-*   [NextJS TypeScript Starter Kit (⭐345)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
+*   [NextJS TypeScript Starter Kit (⭐344)](https://github.com/deptno/next.js-typescript-starter-kit) - :tada: TypeScript + NextJS, Styled-jsx, Redux, PostCSS, configurable SEO
 *   [Typescript Monorepo Next Example (⭐42)](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 
 ## [Aug 06 - Aug 12, 2018](/content/2018/32/README.md)
 
 ### Extensions
 
-*   [Nextein (⭐897)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
+*   [Nextein (⭐899)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
 
@@ -435,7 +441,7 @@
 
 ### Extensions
 
-*   [Next SEO (⭐5.6k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐5.8k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
@@ -478,15 +484,15 @@
 
 ### Extensions
 
-*   [Next Plugin Graphql (⭐55)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
-*   [Next With Apollo (⭐768)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
+*   [Next Plugin Graphql (⭐54)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
+*   [Next With Apollo (⭐765)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ## [Jan 22 - Jan 28, 2018](/content/2018/4/README.md)
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐355)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
-*   [Staart (⭐317)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
+*   [Next Redux Starter (⭐358)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Staart (⭐316)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 
 ## [Jan 15 - Jan 21, 2018](/content/2018/3/README.md)
 
@@ -507,7 +513,7 @@
 
 ### Apps
 
-*   [Snape (⭐777)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
+*   [Snape (⭐780)](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents.
 *   [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI.
 
 ## [Nov 27 - Dec 03, 2017](/content/2017/48/README.md)
@@ -541,7 +547,7 @@
 
 ### Apps
 
-*   [Gank (⭐125)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+*   [Gank (⭐126)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
 ### Videos
 
@@ -592,7 +598,7 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐889)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐892)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.3k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
 *   [RAN! (⭐2.2k)](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 *   [Next Simple Blog (⭐545)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
@@ -600,15 +606,15 @@
 ### Apps
 
 *   [NextJS GOT (⭐31)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-*   [Relate (⭐331)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+*   [Relate (⭐330)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 *   [Password (⭐111)](https://github.com/dotcypress/password) - One password, right way.
 *   [Next Todos (⭐124)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 *   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 *   [Jet Chat (⭐8)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐50)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐805)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Rauchg Blog (⭐809)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐157)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Mailto (⭐160)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
 *   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 *   [Trello Resume (⭐16)](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.

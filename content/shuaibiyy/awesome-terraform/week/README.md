@@ -12,6 +12,10 @@ Curated list of resources on HashiCorp's Terraform
 
 *   [tfautomv (⭐313)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 
+### Terraform Enterprise / Vendor supported providers
+
+*   [OTF (⭐95)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration.
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### Tools / Vendor supported providers
