@@ -2,7 +2,7 @@
 
 Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/pluja/awesome-privacy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) · ⭐ 7.2K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/pluja/awesome-privacy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) · ⭐ 7.3K · 🏷️ Security
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / [Weekly](/content/pluja/awesome-privacy/week/README.md) / Overview ]
 
@@ -438,7 +438,7 @@ Nintendo [collects user data](https://libreddit.kavin.rocks/r/privacy/comments/q
 
 [![](https://shields.tosdr.org/en_244.svg)](https://tosdr.org/en/service/244)
 
-The game is owned by Microsoft. If this is not enough, you need a Microsoft account to play Minecraft since March 11th, 2022. Microsoft locks accounts some time not long after account creation and [forces the user (⭐3.6k)](https://github.com/MultiMC/Launcher/issues/4093) [to provide](https://libreddit.kavin.rocks/r/privacy/comments/e6x27o/microsoft_forcing_me_to_give_then_my_phone_number/) a **phone number**. See: [Minecraft FAQ](https://help.minecraft.net/hc/en-us/articles/360050865492-Minecraft-Java-Edition-Account-Migration-FAQ), [1](https://libreddit.kavin.rocks/r/Minecraft/comments/sl8pkv/how_can_my_friend_migrate_her_account_to/hvq2sv6/), [2](https://libreddit.kavin.rocks/r/privacy/comments/spcuj4/microsoft_is_going_to_attempt_to_move_everyone_on/)
+The game is owned by Microsoft. If this is not enough, you need a Microsoft account to play Minecraft since March 11th, 2022. Microsoft locks accounts some time not long after account creation and [forces the user (⭐3.7k)](https://github.com/MultiMC/Launcher/issues/4093) [to provide](https://libreddit.kavin.rocks/r/privacy/comments/e6x27o/microsoft_forcing_me_to_give_then_my_phone_number/) a **phone number**. See: [Minecraft FAQ](https://help.minecraft.net/hc/en-us/articles/360050865492-Minecraft-Java-Edition-Account-Migration-FAQ), [1](https://libreddit.kavin.rocks/r/Minecraft/comments/sl8pkv/how_can_my_friend_migrate_her_account_to/hvq2sv6/), [2](https://libreddit.kavin.rocks/r/privacy/comments/spcuj4/microsoft_is_going_to_attempt_to_move_everyone_on/)
 
 The game has [telemetry embeded in it since v21w38a which you can't opt-out](https://bugs.mojang.com/browse/MC-237493). Also, [it is tied](https://www.minecraft.net/en-us/terms) to the [Microsoft privacy terms](https://privacy.microsoft.com/en-us/privacystatement) which are a privacy nightmare.
 
@@ -548,6 +548,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 ### Find My Device
 
 *   [Find My Device](https://gitlab.com/Nulide/findmydevice) - Find your Android Device via SMS.
+*   [GPSlogger (⭐1.6k)](https://github.com/mendhak/gpslogger) - Lightweight GPS Logging Application For Android. No servers, no internet. Saved to a simple file to local storage.
 
 ## Mail Services
 
@@ -1142,8 +1143,8 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Privacy respecting Reddit clients:**
 
-*   [Libreddit (⭐3.6k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
-    *   [Ferrit (⭐66)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
+*   [Libreddit (⭐3.7k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+    *   [Ferrit (⭐65)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
 *   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐2.4k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Dawn (⭐428)](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
@@ -1202,7 +1203,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 **Alternative clients/modifications of Discord:**
 
 > Your IP and messages will still be shared and belong to Discord and they are not encrypted.\
-> Also using any of these modifications/clients [violates](https://nitter.net/discord/status/1006178587731550208#m) the [Discord ToS](https://discord.com/terms) so, we are not responsible of any suspension or termination of your account **but**, this should [not happen **yet** (⭐440)](https://github.com/GooseMod/GooseMod/wiki/FAQ#is-goosemod-against-discord-tos).
+> Also using any of these modifications/clients [violates](https://nitter.net/discord/status/1006178587731550208#m) the [Discord ToS](https://discord.com/terms) so, we are not responsible of any suspension or termination of your account **but**, this should [not happen **yet** (⭐438)](https://github.com/GooseMod/GooseMod/wiki/FAQ#is-goosemod-against-discord-tos).
 
 *   [See this section for Discord mods and alternative clients (⭐7.3k)](https://github.com/pluja/awesome-privacy/blob/main/README.md#alternative-clientsmodifications-of-discord)
 
@@ -1267,7 +1268,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 ##### Alternative clients/modifications of Discord:
 
 > Your IP and messages will still be shared and belong to Discord and they are not encrypted.\
-> Also using any of these modifications/clients [violates](https://nitter.net/discord/status/1006178587731550208#m) the [Discord ToS](https://discord.com/terms) so, we are not responsible of any suspension or termination of your account **but**, this should [not happen **yet** (⭐440)](https://github.com/GooseMod/GooseMod/wiki/FAQ#is-goosemod-against-discord-tos).
+> Also using any of these modifications/clients [violates](https://nitter.net/discord/status/1006178587731550208#m) the [Discord ToS](https://discord.com/terms) so, we are not responsible of any suspension or termination of your account **but**, this should [not happen **yet** (⭐438)](https://github.com/GooseMod/GooseMod/wiki/FAQ#is-goosemod-against-discord-tos).
 
 *   [OpenAsar](https://openasar.dev/) - An open-source alternative of Discord desktop's app.asar that comes with a [No Track (⭐1.2k)](https://github.com/GooseMod/OpenAsar/blob/main/src/noTrack.js) function.
 *   [Vencord (⭐231)](https://github.com/Vendicated/Vencord) - A Discord client mod that does things differently.

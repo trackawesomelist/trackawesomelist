@@ -2,7 +2,7 @@
 
 A collection of interesting new networks and tech aiming at decentralisation (in some form).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/redecentralize/alternative-internet/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) · ⭐ 4.7K · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/redecentralize/alternative-internet/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) · ⭐ 4.8K · 🏷️ Decentralized Systems
 
 [ [Daily](/content/redecentralize/alternative-internet/README.md) / [Weekly](/content/redecentralize/alternative-internet/week/README.md) / Overview ]
 
@@ -31,7 +31,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Cloud and storage
 
-*   [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube (⭐52)](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
+*   [Bitcloud](http://bitcloudproject.org) is an open source distributed cloud storage system and escrow agent based on Tahoe-LAFS that allows publishers to pay storage nodes for storing encrypted data and sharing that data with others. The decentralized nature of Bitcloud allows anyone to publish large amounts of data in a way that is free from censorship, high costs, and proprietary software. The first application for bitcloud will be [WeTube (⭐54)](https://github.com/wetube/wetube-web), a platform for viewing and publishing videos, podcasts, ebooks, music, and other forms of media.
 *   [BitDust](http://bitdust.io) - is decentralized, secure and anonymous on-line storage, where only the owner has access and absolute control over its data. BitDust project is aimed to protect users freedom and provide an alternative way to operate and communicate in the network.
 *   [CloudBank (⭐27)](https://github.com/omgbbqhaxx/cloudbankproject) First ever POWWT (Proof of work with time) consensus algorithm crypto currency with python without fee all miners share constant reward between them.
 *   [Cloudron](http://cloudron.io/) is a platform to run apps on your server. It includes 1-Click app install, automatic backups, updates, Single Sign-On, DNS setup, SSL provisioning and a secure firewall.
@@ -56,7 +56,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 ## Collaborative Web Editors
 
-*   [CodiMD (⭐8.1k)](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js).
+*   [CodiMD (⭐8.2k)](https://github.com/hackmdio/codimd) is a collaborative Editor based on Markdown. CodiMD is the free software version of HackMD, pads are shared via URL and provide additional functionality like editing permissions based on login status and a presentation mode (with reaveal.js).
 *   [Cryptpad](https://cryptpad.fr/) is an open-source online collaborative editor providing collaborative editing in real-time. It features rich text, pictures, code, and kanban editors. Cryptpad applies the *zero knowledge* paradigm, whereby only clients see the plain text while servers see only crypted content which they are not able to decrypt.
 *   [Etherpad](http://etherpad.org/) is an open-source online text editor providing collaborative editing in real-time.
 *   [Kune](http://kune.cc/) is based on Apache Wave and is a free/open source distributed social network focused on collaboration rather than just on communication. That is, it focuses on online real-time collaborative editing, decentralized social networking and web publishing, while focusing on workgroups rather than just on individuals.
@@ -66,7 +66,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 ## Cryptocurrencies and markets
 
 *   [BitCoin](http://bitcoin.org/en/) is a digital currency, a protocol, and a software that enables it. Decentralized crypto-currency
-*   [Bitmarkets (⭐109)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
+*   [Bitmarkets (⭐110)](https://github.com/voluntarynet/bitmarkets) a working decentralized marketplace based on bitcoinj and bitmessage.
 *   [Bitsquare](https://bitsquare.io) Bitsquare is a decentralized bitcoin exchange. It supports national currencies (fiat) with a variety of payment methods as well as alternative cryptocurrencie
 *   [Ethereum](https://ethereum.org/) is an enhanced cryptocurrency with support for Next-Generation Generalized Smart Contract and Smart Property.
 *   [LiteCoin](https://litecoin.org/)  is a peer-to-peer Internet currency that enables instant payments to anyone in the world (was based on Bitcoin)
@@ -76,10 +76,10 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 *   [jIO](http://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages, in a modular way, such as LocalStorage, WebDAV, Amazon S3, you name it.
 *   [Kademlia](http://en.wikipedia.org/wiki/Kademlia) is a distributed hash table for decentralized peer-to-peer computer networks
-*   [OpenDHT (⭐882)](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
+*   [OpenDHT (⭐889)](https://github.com/savoirfairelinux/opendht) is a lightweight C++11 Distributed Hash Table implementation offering a clean and powerful distributed map API. It is used by [Ring](https://ring.cx), is able to listen to value changes and adds a cryptography layer.
 *   [OrbitDB (⭐7.3k)](https://github.com/orbitdb/orbit-db) is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers. It's an eventually consistent database that uses CRDTs for conflict-free database merges making OrbitDB an excellent choice for decentralized apps (dApps), blockchain applications and offline-first web applications.
 *   [RenderJS](http://www.renderjs.org) is a JavaScript library which provides an easy way to define gadgets (aka mashups) in pure HTML5, without requiring any application server. It is suitable for the development of mobile applications, desktop applications.
-*   [P (⭐405)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
+*   [P (⭐406)](https://github.com/unsetbit/p) is a small JavaScript library for creating peer-to-peer applications in browsers. It allows for transitive connections across peers which makes certain network topologies, such mesh networks,easy to establish.
 *   [Shark](http://sharksystem.net/) is an open source framework for building semantic P2P applications in Java. It facilitates building decentralized application based on the notion of ontologies. The name is an acronym for 'Shared Knowledge'.
 *   [Streisand (⭐23k)](https://github.com/jlund/streisand) sets up a new server running L2TP/IPsec, OpenSSH, OpenVPN, Shadowsocks, Stunnel, and a Tor bridge. It also generates custom configuration instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, or fellow activists.
 
@@ -98,7 +98,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 *   [LibreWeb](https://libreweb.org/) is a decentralized and open-source web browser leveraging the IPFS network, using markdown as document source code.
 *   [Peertube](https://joinpeertube.org/) is a distributed and self-hosted video player and platform that uses WebTorrent and ActivityPub.
 *   [YunoHost](https://doc.yunohost.org) is a server operating system aiming to make self-hosting accessible to everyone.
-*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐671)](https://github.com/kr1sp1n/awesome-gemini)
+*   [Gemini Space](https://gemini.circumlunar.space/) is heavier than gopher, lighter than the web, will not replace either, strives for maximum power to weight ratio and takes user privacy very seriously. More [Resources / Awsome Gemini (⭐684)](https://github.com/kr1sp1n/awesome-gemini)
 
 ## Identity
 
@@ -110,11 +110,13 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 *   [aenigma (⭐174)](https://github.com/openspace42/aenigma/): the | state-of-the-art | secure-by-default | one-touch-deployed | XMPP server for everyone. It does for XMPP what Mail-in-a-Box has done for email, Streisand for VPNs, and Easyengine for wordpress.
     The installation takes you on a 15 minute, clearly worded, step-by-step setup and takes care of everything automagically.
 *   [Apoapse](https://apoapse.space/) is dedicated to advancing cybersecurity into general use across the business ecosystem. A variety of open-source solutions are offered, such as Apoapse Pro, a self-hosted collaborative messaging platform, or Apoapse Protocol, a secure message and data sharing C++ network library.
+*   [Berty Messenger](https://berty.tech/) is a distributed peer-to-peer messenger app build on IPFS. Apps are available on iOS and Android, desktop applications are currently under development.
 *   [BitMessage](https://bitmessage.org/wiki/Main_Page) is a P2P communications protocol used to send encrypted messages to another person or to many subscribers. It is decentralized and trustless, meaning that you need-not inherently trust any entities like root certificate authorities. See [whitepaper](https://bitmessage.org/bitmessage.pdf).
 *   The [BriarProject](http://briar.sourceforge.net/) is building secure communication tools to enable journalists, activists and civil society groups to communicate safely without fear of government interference. Our open source mobile and desktop apps will provide a secure, easy-to-use alternative to email, blogs and message boards, where users can exchange private messages with their contacts, create their own blogs and message boards, and subscribe to blogs and boards their contacts have shared
-*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐296)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐512)](https://github.com/cabal-club/cabal), a [desktop client (⭐761)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐147)](https://github.com/cabal-club/cabal-mobile).
+*   [cabal](http://cabal.chat) is a distributed chat platform built ontop of dat's foundational technologies. It's like IRC except you have backscroll when you join, and there are no servers. There is currently a [nodejs library (⭐295)](https://github.com/cabal-club/cabal-core), a [terminal client (⭐513)](https://github.com/cabal-club/cabal), a [desktop client (⭐766)](https://github.com/cabal-club/cabal-desktop), and an experimental [mobile client (⭐147)](https://github.com/cabal-club/cabal-mobile).
 *   [Cables communication](http://dee.su/cables) implements secure and anonymous communication using email-like addresses, pioneered in Liberté Linux. Cables communication is Liberté's pivotal component for enabling anyone to communicate safely and covertly in hostile environments.
 *   [Delta Chat](https://delta.chat) is a free software chat application and ecosystem based on IMAP and SMTP, which leverages end-to-end encryption via [autocrypt](https://autocrypt.org/). It piggybacks on top of the huge, already existing email infrastructure. All you need to get started is an email address. There's a client for Android and clients for iOS and desktop in the works. Follow the development on the [GitHub page](https://github.com/deltachat).
+*   [Jami](https://jami.net/) is a free, DHT based peer-to-peer skype-like app, available on most platforms. It's part of the GNU project.
 *   [Mailpile](http://www.mailpile.is/) is free software, a web-mail program that you run on your own computer, so your data stays under your control. Because it is free software (a.k.a. open source), you can look under the hood and see how it works, or even modify it to make it better suit your particular needs. Mailpile is designed for speed and vast amounts of e-mail, it is flexible and themeable and has support for strong encryption built in from the very start.
 *   [Matrix](http://matrix.org/) is an open standard for decentralised communication, providing simple HTTP APIs and open source reference implementations for securely distributing and persisting JSON over an open federation of servers. You can use Matrix for any project where you need a common data fabric to link together fragmented silos of communication.
 *   [Meshtastic](https://www.meshtastic.org) as an open-source extendable mesh communication and location sharing device.  Based on off-the-shelf $30 modules from various vendors, 8 day battery life. Good for skiers, hikers, protestors, finding lost kids, etc...
@@ -174,8 +176,8 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 *   [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 *   [Synereo](http://www.synereo.com/) is an open source, decentralized **social network**. It is an **attention economy** that rewards popular content and participation with crypto-currency. Content is promoted or advertised in a way that fairly rewards the content's creator and those who choose to engage with that content. An automatic and transparent **reputation economy** assures that you experience content relevant to you. The privacy of your communications and contacts is baked-in to the structure of the network. Synereo is modeled in [π-calculus](https://en.wikipedia.org/wiki/%CE%A0-calculus) and functionally programmed in Scala.
 *   [Tonika](http://pdos.csail.mit.edu/\~petar/5ttt.org/) is a (digital) social network, which (by design) restricts direct communication to pairs of users who are friends, possesses many of the security properties (privacy, anonymity, deniability, resilience to denial-of-service attacks, etc.) that human sociaties implement organically in daily life.
-*   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐172)](https://github.com/TrsstProject/trsst).
-*   [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service (⭐1.4k)](https://github.com/miguelfreitas/twister-core) or [HTML UI (⭐228)](https://github.com/miguelfreitas/twister-html)!
+*   [trsst](http://www.trsst.com/) looks and feels like twitter but encrypted and anonymized and decentralized and only you hold the keys. Protocol implementation draft is available on [github (⭐173)](https://github.com/TrsstProject/trsst).
+*   [Twister](http://twister.net.co) is a secure and fully-decentralized P2P microblogging platform based on concepts and code from Bitcoin and Libtorrent (as described in [this whitepaper](http://arxiv.org/abs/1312.7152)). Feel free to contribute to its [core service (⭐1.4k)](https://github.com/miguelfreitas/twister-core) or [HTML UI (⭐227)](https://github.com/miguelfreitas/twister-html)!
 *   [Vole](http://vole.cc/) is a web-based social network that you use in your browser, without a central server. It's built on the power of Bittorrent, Go and Ember.js. Uses bittorrent sync.
 *   [Yarn.social](https://yarn.social) 🧶 is a decentralized self-hosted social media that has a privacy-first focus. There are no ads, no tracking and no personal information is ever collected or stored. Web and Mobile `Go` `MIT`
 
@@ -223,7 +225,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 *   [git-bug (⭐5.8k)](https://github.com/MichaelMure/git-bug) is a distributed, offline-first bug tracker embedded in git.
 
-*   [git-dit (⭐451)](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
+*   [git-dit (⭐452)](https://github.com/neithernut/git-dit) git-dit - the distributed issue tracker for git.
 
 *   [Grimwire](http://blog.grimwire.com/#2013-04-04-grimwire.md) is a browser OS which uses Web Workers for process isolation, and WebRTC for peer-to-peer communication.
 
@@ -237,7 +239,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 *   [KA Lite (⭐457)](https://github.com/learningequality/ka-lite) is an open-source, lightweight, pure-Python web server and web app for serving Khan Academy content (videos and exercises) -- including progress tracking, coach reports, and gamification -- without needing persistent internet connectivity.
 
-*   [KadNode (⭐387)](http://github.com/mwarning/KadNode) delegates DNS requests (\*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.
+*   [KadNode (⭐388)](http://github.com/mwarning/KadNode) delegates DNS requests (\*.p2p) from any application and tries to resolve it using the BitTorrent Mainline DHT. Own addresses can be announced and combined with public/secret keys. KadNode can be used as a decentralized DynDNS system, but also covers many other use cases.
 
 *   [Keybits](http://keybits.net) makes it easy to run your own personal server. Setup and maintenance is made simple by using Docker and Ansible. (Similar to Sovereign but using Docker to 'containerize' applications.)
 
@@ -331,7 +333,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 *   [Tor](https://www.torproject.org/) protects you by bouncing your communications around a distributed network of relays run by volunteers all around the world: it prevents somebody watching your Internet connection from learning what sites you visit, and it prevents the sites you visit from learning your physical location.
 
-*   [Tribler (⭐4.1k)](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
+*   [Tribler (⭐4.2k)](https://github.com/Tribler/tribler/wiki) Aims to create a censorship-free Internet. Already deployed, used and incrementally improved for 8-years. Tribler uses an upcoming IETF Internet Standard for [video streaming](http://datatracker.ietf.org/doc/draft-ietf-ppsp-peer-protocol/) and is backward compatible with Bittorrent. Future aim is using smartphones to even bypass Internet kill switches. An early proof-of-principle [Tribler-mobile](https://play.google.com/store/apps/details?id=org.tribler.mobile) is available on the Android Market. [Key principle](http://www.foxnews.com/tech/2012/02/10/forget-megaupload-researchers-call-new-file-sharing-network-invincible/): 'the only way to take it down is to take The Internet down'. [Overview paper](http://sigmm.org/records/records1201/featured03.html).
 
 *   [Trovebox](https://github.com/photo) is an open source photo sharing webapp (like Instagram), which you can self-host. iOS and Android apps also open source. Uses cloud or local storage for the actual photos. Originally known as OpenPhoto; see also [theopenphotoproject.org](http://theopenphotoproject.org).
 
@@ -379,7 +381,7 @@ A collection of interesting networks and technology aiming at re-decentralizing 
 
 *   [pump.io](http://pump.io/) Described as "a stream server that does most of what people really want from a social network". It's a social stream with support for federated comunication.
 
-*   [qaul.net (⭐246)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
+*   [qaul.net (⭐249)](https://github.com/WachterJud/qaul.net) implements a redundant, open communication principle, in which wireless-enabled computers and mobile devices can directly form a spontaneous network. Chat functions, file sharing and voice chat is possible independent of internet and cellular networks.
 
 *   [Storj](http://storj.io/) is an open source project actively developing a completely decentralized, secure and efficient cloud storage service that integrates a peer-to-peer protocols based on Bitcoin.
 
