@@ -57,6 +57,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [DevToysMac (⭐6.2k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+#### [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+
+##### Community / Ephemera
+
+*   \#PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
+
 ### [Nov 18, 2022](/content/2022/11/18/README.md)
 
 
@@ -725,7 +731,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 2.6K, 📝 11&#x2F;14 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
 - [Awesome Lidar](/content/szenergy/awesome-lidar/README.md) - ([Source ⭐ 383, 📝 10&#x2F;19 ](https://github.com/szenergy/awesome-lidar)) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md) - ([Source ⭐ 115, 📝 10&#x2F;24 ](https://github.com/delftopenhardware/awesome-open-hardware)) - 🛠Helpful items for making open source hardware projects.
-- [Awesome Plotters](/content/beardicus/awesome-plotters/README.md) - ([Source ⭐ 755, 📝 10&#x2F;04 ](https://github.com/beardicus/awesome-plotters)) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
+- [Awesome Plotters](/content/beardicus/awesome-plotters/README.md) - ([Source ⭐ 768, 📝 11&#x2F;19 ](https://github.com/beardicus/awesome-plotters)) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md) - ([Source ⭐ 2.2K, 📝 09&#x2F;28 ](https://github.com/protontypes/awesome-robotic-tooling)) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [Awesome Robotics](/content/kiloreux/awesome-robotics/README.md) - ([Source ⭐ 3K, 📝 02&#x2F;23 ](https://github.com/kiloreux/awesome-robotics)) - A list of awesome Robotics resources
 - [Guitarspecs](/content/gitfrage/guitarspecs/README.md) - ([Source ⭐ 174, 📝 20&#x2F;12&#x2F;27 ](https://github.com/gitfrage/guitarspecs)) - Overview of the electric guitar's parts specs

@@ -1,12 +1,18 @@
 # Awesome List Updates on Nov 19, 2022
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [1. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+
+### Community / Ephemera
+
+*   \#PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / RSS
 
@@ -16,19 +22,19 @@
 
 *   [DevToysMac (⭐6.2k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
 *   [Ninja-Squad/springmockk (⭐378)](https://github.com/Ninja-Squad/springmockk) - SpringMockK: MockBean and SpyBean, but for MockK instead of Mockito
 
-## [3. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Reporting Systems
 
 *   [NORS](https://wwwn.cdc.gov/norsdashboard/) - A web platform that provides human foodborne, waterborne, and other enteric infectious disease outbreaks  for the United States. Available from 1971.
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -39,7 +45,7 @@
 *   [easytocloud (⭐0)](https://github.com/easytocloud/oh-my-easytocloud) - Based on [agnoster (⭐3.6k)](https://github.com/agnoster/agnoster-zsh-theme), with an added AWS environment decorator.
 *   [malev (⭐0)](https://github.com/mvinan/malev-zsh-theme) - Has minimalist and normal variants. Includes decorators for hostname, directory, `git` status and last command's exit status.
 
-## [5. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Learning / Crash Courses
 
