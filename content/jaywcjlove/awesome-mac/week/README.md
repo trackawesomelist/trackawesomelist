@@ -8,9 +8,17 @@
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
+### Reading and Writing Tools / RSS
+
+*   [Reeder 5](http://reederapp.com) - News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/pl/app/reeder-5/id1529448980?mt=12)
+
 ### Developer Tools / Developer Utilities
 
 *   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / General Tools
+
+*   [DevToysMac (⭐6.2k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
@@ -384,17 +392,13 @@
 
 ## [May 09 - May 15, 2022](/content/2022/19/README.md)
 
-### Reading and Writing Tools / RSS
-
-*   [Reeder 5](http://reederapp.com/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ### Data Recovery Tools / File Sharing
 
 *   [Data Rescue](https://www.prosofteng.com/mac-data-recovery) - Comprehensive and professional data recovery tool for most cases.
 
 ### Utilities / Productivity
 
-*   [Hook for Mac](https://hookproductivity.com/) - Hook files together fast and easily, enabeling you to find anything related with a simple keyboard shortcut.
+*   [Hook for Mac](https://hookproductivity.com/) - Hook files together fast and easily, enabling you to find anything related with a simple keyboard shortcut.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 

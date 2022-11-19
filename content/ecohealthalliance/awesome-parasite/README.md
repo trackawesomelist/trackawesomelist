@@ -2,9 +2,15 @@
 
 A curated list of host-parasite information
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 23 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ecohealthalliance/awesome-parasite/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ecohealthalliance/awesome-parasite](https://github.com/ecohealthalliance/awesome-parasite) · ⭐ 24 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ecohealthalliance/awesome-parasite/week/README.md) / [Overview](/content/ecohealthalliance/awesome-parasite/readme/README.md) ]
+
+## [Nov 19, 2022](/content/2022/11/19/README.md)
+
+### Reporting Systems
+
+*   [NORS](https://wwwn.cdc.gov/norsdashboard/) - A web platform that provides human foodborne, waterborne, and other enteric infectious disease outbreaks  for the United States. Available from 1971.
 
 ## [Oct 18, 2021](/content/2021/10/18/README.md)
 

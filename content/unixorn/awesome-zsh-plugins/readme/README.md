@@ -124,7 +124,7 @@ You can find some interesting performance timing comparisons of various framewor
 
 **Alf** is an out of this world super fast and configurable framework for ZSH; it's modeled after [Prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) and [Antigen (⭐7.3k)](https://github.com/zsh-users/antigen) while utilizing [Oh-My-Zsh](https://ohmyz.sh) under the covers; and offers standard defaults, aliases, functions, auto completion, automated updates and installable prompt themes and plugins.
 
-### [ansible-role-zsh (⭐277)](https://github.com/viasite-ansible/ansible-role-zsh)
+### [ansible-role-zsh (⭐278)](https://github.com/viasite-ansible/ansible-role-zsh)
 
 **ansible-role-zsh** is an ansible role with zero-knowledge installation. It uses [antigen (⭐7.3k)](https://github.com/zsh-users/antigen) to manage bundles and [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/ohmyz.sh). Can load bundles conditionally. By default it includes the powerlevel9k theme, autosuggestions, syntax-highlighting and [fzf-widgets (⭐82)](https://github.com/ytet5uy4/fzf-widgets) and [fzf-marks (⭐420)](https://github.com/urbainvaes/fzf-marks). Fully customizable.
 
@@ -144,7 +144,7 @@ It is fast because it can do things concurrently, and generates an ultra-fast st
 
 It is written natively in ZSH, is well tested, and picks up where [Antibody (⭐1.7k)](https://github.com/getantibody/antibody) left off.
 
-### [antigen-hs (⭐206)](https://github.com/Tarrasch/antigen-hs)
+### [antigen-hs (⭐205)](https://github.com/Tarrasch/antigen-hs)
 
 **antigen-hs** is a replacement for [antigen (⭐7.3k)](https://github.com/zsh-users/antigen) optimized for a low overhead when starting up a `zsh` session. It will automatically clone plugins for you.
 
@@ -152,7 +152,7 @@ It is written natively in ZSH, is well tested, and picks up where [Antibody (⭐
 
 **Antigen** is a small set of functions that help you easily manage your shell (ZSH) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup. Antigen is to ZSH, what Vundle is to vim. Antigen can load oh-my-zsh themes and plugins and will automatically clone them for you.
 
-### [ax-zsh (⭐14)](https://github.com/alexbarton/ax-zsh)
+### [ax-zsh (⭐15)](https://github.com/alexbarton/ax-zsh)
 
 **Ax-ZSH** is a modular configuration system for ZSH. It provides sane defaults and is extendable by plugins.
 
@@ -174,7 +174,7 @@ It is written natively in ZSH, is well tested, and picks up where [Antibody (⭐
 *   Unlike other frameworks, Miniplug does not pollute your `$PATH`
 *   Only does the bare minimum for managing plugins
 
-### [mzpm (⭐4)](https://github.com/Insert-Creative-Name-Here/mzpm)
+### [mzpm (⭐5)](https://github.com/Insert-Creative-Name-Here/mzpm)
 
 **mzpm** is a minimalist plugin manager for ZSH.
 
@@ -202,7 +202,7 @@ The PMS framework also allows you to use the same framework in different shells.
 
 **Pumice** is a lightweight plugin manager for ZSH.
 
-### [sheldon (⭐503)](https://github.com/rossmacarthur/sheldon)
+### [sheldon (⭐524)](https://github.com/rossmacarthur/sheldon)
 
 A fast, configurable, shell plugin manager.
 
@@ -218,7 +218,7 @@ A fast, configurable, shell plugin manager.
 *   Configuration file using [TOML (⭐18k)](https://github.com/toml-lang/toml) syntax.
 *   Uses a lock file for much faster loading of plugins.
 
-### [shplug (⭐17)](https://github.com/dtrugman/shplug)
+### [shplug (⭐18)](https://github.com/dtrugman/shplug)
 
 An easy solution for managing your shell environments. Works with both `bash` and `zsh`. Makes it easy to sync your environment across multiple machines with a `git` repository.
 
@@ -246,7 +246,7 @@ A ZSH micro plugin manager.
 
 **zapack** is a basic fast minimal ZSH plugin loader.
 
-### [zcomet (⭐136)](https://github.com/agkozak/zcomet)
+### [zcomet (⭐140)](https://github.com/agkozak/zcomet)
 
 **zcomet** is a minimalistic ZSH plugin manager that gets you to the prompt surprisingly quickly without caching (see the benchmarks). In addition to loading and updating plugins stored in `git` repositories, it supports lazy-loading plugins (further reducing startup time) as well as downloading and sourcing code snippets.
 
@@ -312,7 +312,7 @@ The project is very active – currently > 3100 commits.
 
 **zlugin** is a very lightweight ZSH plugin manager.
 
-### [znap (⭐648)](https://github.com/marlonrichert/zsh-snap)
+### [znap (⭐756)](https://github.com/marlonrichert/zsh-snap)
 
 **:zap:Znap** is a light-weight plugin manager & `git` repository manager for ZSH that's easy to grok. While tailored for ZSH plugins specifically, **Znap** also functions as a general-pupose utility for managing `git` repositories.
 
@@ -368,7 +368,7 @@ The minuscule ZSH package manager. No frills, no bloat, just 2 kB of 100% ZSH co
 *   **zpm** runs on Linux, macOS, FreeBSD and Android.
 *   **zpm** plugins are compatible with [oh-my-zsh](http://ohmyz.sh/).
 
-### [zr (⭐149)](https://github.com/jedahan/zr)
+### [zr (⭐153)](https://github.com/jedahan/zr)
 
 **zr** is a quick, simple ZSH plugin manager written in Rust and easily installable with `cargo install zr`.
 
@@ -490,7 +490,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 
 ### ZSH on Windows
 
-#### [superconsole (⭐61)](https://github.com/alexchmykhalo/superconsole) - Windows-only.
+#### [superconsole (⭐64)](https://github.com/alexchmykhalo/superconsole) - Windows-only.
 
 *   `ConEmu`/`zsh` out-of-the-box configured to restore previously opened tabs and shell working directories after `ConEmu` restart
 *   Choose between clean and inherited environment when starting new SuperConsole sessions
@@ -1366,8 +1366,9 @@ These plugins add tab completions without adding extra functions or aliases.
 *   [expressvpn (⭐0)](https://github.com/tk7r/zsh-expressvpn) - Adds tab completions for the [expressVPN](https://www.expressvpn.com/support/vpn-setup/app-for-linux/) client.
 *   [extract (le0me55i) (⭐11)](https://github.com/le0me55i/zsh-extract) - Defines a function called extract that extracts the archive file you pass it, and supports a wide variety of archive filetypes.
 *   [extract (thetic) (⭐6)](https://github.com/thetic/extract) - Fork of the oh-my-zsh extract plugin.
-*   [fancy-completions (⭐3)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
+*   [fancy-completions (⭐4)](https://github.com/z-shell/zsh-fancy-completions) - Provides various completions tools, libraries and integrations.
 *   [fly-zsh-autocomplete (⭐1)](https://github.com/Sbodiu-pivotal/fly-zsh-autocomplete-plugin) - Adds autocompletion options for all [Concourse CLI](https://concourse-ci.org/fly.html) commands.
+*   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐9.3k)](https://github.com/Schniz/fnm).
 *   [fzf-gcloud (⭐18)](https://github.com/mbhynes/fzf-gcloud) - Fuzzy completion to navigate and preview all Google Cloud SDK `gcloud` CLI commands
 *   [fzf-tab-completion (⭐332)](https://github.com/lincheney/fzf-tab-completion) - Add tab completion for ZSH, bash & applications using GNU Readline.
 *   [fzf-zsh-completions (⭐95)](https://github.com/chitoku-k/fzf-zsh-completions) - Fuzzy completions for [fzf (⭐48k)](https://github.com/junegunn/fzf) and [ZSH](https://www.zsh.org/) that can be triggered by a trigger sequence that defaults to `**`.
@@ -1547,7 +1548,7 @@ If you're using [Antigen (⭐7.3k)](https://github.com/zsh-users/antigen), you c
 *   [barion (⭐1)](https://github.com/SEbbaDK/barion) - A fast compiled prompt with a compact `git` status overview. Reminiscent of powerline. Requires [Crystal](https://crystal-lang.org/) to build.
 *   [bash (⭐0)](https://github.com/starseekist/bash-zsh-theme) - Looks like the default `bash` prompt.
 *   [bashi (⭐5)](https://github.com/eli-oat/bashi) - Optimized for Ahmet Sülek's [Flat UI Terminal (⭐620)](https://github.com/ahmetsulek/flat-terminal) theme and Pasquale D'Silva's [Saturn Terminal (⭐73)](https://github.com/psql/saturn-colors) theme.
-*   [bashplus (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default bash prompt with decorators for virtualenv and `git` status.
+*   [bashplus (⭐0)](https://github.com/Elagoht/BashPlusZshTheme) - Colorized replica of the default `bash` prompt with decorators for virtualenv and `git` status.
 *   [bastard (⭐2)](https://github.com/jsundqvist/bastard.zsh-theme) - Modified version of [gitster (⭐3)](https://github.com/zimfw/gitster) theme for [ZIM (⭐2.9k)](https://github.com/zimfw/zimfw).
 *   [bearable (⭐0)](https://github.com/JanmanX/bearable-zsh) - Works well with dark terminal backgrounds.
 *   [bearings (⭐178)](https://github.com/liamg/bearings) - A fast, clean, super-customizable shell prompt. Includes decorators for current directory, `git` status, exit code of last command, duration of last command, background jobs & username.
@@ -1682,6 +1683,7 @@ If you're using [Antigen (⭐7.3k)](https://github.com/zsh-users/antigen), you c
 *   [dustmod (⭐2)](https://github.com/bmihaila/dustmod) - Derived from the [dst (⭐152k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/dst.zsh-theme) theme in oh-my-zsh.
 *   [dyzsh (⭐0)](https://github.com/daotoyi/dyzsh-zsh-theme) - Based on astro. Includes decorators for `git` branch & hash, current directory, user, host & time.
 *   [dzhi (⭐3)](https://github.com/pentago/dzhi-zsh-theme) - Optimized for people using [Nord](https://www.nordtheme.com/). Includes `git` status decorations.
+*   [easytocloud (⭐0)](https://github.com/easytocloud/oh-my-easytocloud) - Based on [agnoster (⭐3.6k)](https://github.com/agnoster/agnoster-zsh-theme), with an added AWS environment decorator.
 *   [eckig (⭐0)](https://github.com/fouladi/eckig) - Minimalist theme with utf-8 icons. Includes `git` status decorations and a clock.
 *   [efritas (⭐4)](https://github.com/erikfritas/efritas) - Includes username, hostname, `venv`, `rvm` and `git` status decorations.
 *   [eggshausted (⭐1)](https://github.com/inutano/eggshausted) - A `git`-aware theme for people who are tired of getting errors.
@@ -1910,6 +1912,7 @@ If you're using [Antigen (⭐7.3k)](https://github.com/zsh-users/antigen), you c
 *   [mainnika (⭐0)](https://github.com/mainnika/zsh-theme-mainnika/) - Includes decorators for last command exit status and the 1, 5 and 15 minute load averages.
 *   [maivana (⭐1)](https://github.com/nylo-andry/zsh-themes) - Includes `kubectl` context, `git` status decorations.
 *   [majemoji (⭐1)](https://github.com/metalogica/majemoji) - Adds a random emoji to each session's prompt. Includes `git` status decorations.
+*   [malev (⭐0)](https://github.com/mvinan/malev-zsh-theme) - Has minimalist and normal variants. Includes decorators for hostname, directory, `git` status and last command's exit status.
 *   [materialshell (⭐805)](https://github.com/carloscuesta/materialshell) - A [material design](https://material.io/guidelines/style/color.html) theme for your shell with a good contrast and color pops at the important parts. Designed to be easy on the eyes.
 *   [matrix (⭐7)](https://github.com/pot-code/matrix-zsh-theme) - Variant of [powerlevel9k (⭐13k)](https://github.com/bhilburn/powerlevel9k) styled to look like something in the Matrix movie trilogy. Includes `git` status decorations.
 *   [matter (⭐1)](https://github.com/mrobillard/matter-zsh-theme) - Shows `git` status, AWS vault role, background jobs, exit code of last command & hostname.

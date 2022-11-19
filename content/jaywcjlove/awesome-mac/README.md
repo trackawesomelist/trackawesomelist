@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Nov 19, 2022](/content/2022/11/19/README.md)
+
+### Reading and Writing Tools / RSS
+
+*   [Reeder 5](http://reederapp.com) - News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/pl/app/reeder-5/id1529448980?mt=12)
+
+### Utilities / General Tools
+
+*   [DevToysMac (⭐6.2k)](https://github.com/ObuchiYuki/DevToysMac) - Offline toolbox that helps developers in daily tasks. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
 
 ### Developer Tools / Developer Utilities
@@ -426,12 +436,6 @@
 
 *   [Wavebox](https://wavebox.io) - A revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
 
-## [May 14, 2022](/content/2022/05/14/README.md)
-
-### Reading and Writing Tools / RSS
-
-*   [Reeder 5](http://reederapp.com/) - News reader for Feedbin, Feedly, Feed Wrangler and so on. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ## [May 11, 2022](/content/2022/05/11/README.md)
 
 ### Data Recovery Tools / File Sharing
@@ -440,7 +444,7 @@
 
 ### Utilities / Productivity
 
-*   [Hook for Mac](https://hookproductivity.com/) - Hook files together fast and easily, enabeling you to find anything related with a simple keyboard shortcut.
+*   [Hook for Mac](https://hookproductivity.com/) - Hook files together fast and easily, enabling you to find anything related with a simple keyboard shortcut.
 
 ## [May 08, 2022](/content/2022/05/08/README.md)
 
