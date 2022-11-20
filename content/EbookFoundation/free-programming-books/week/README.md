@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 253K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 255K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/readme/README.md) ]
 ## Related Files
@@ -12,6 +12,30 @@
 - [Free Programming Books (Japanese)](/content/EbookFoundation/free-programming-books/books/free-programming-books-ja/week/README.md)
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
+
+## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
+
+### C++ / Non-X86
+
+*   [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) - Alex Allain
+
+### JavaScript / Wicket
+
+*   [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
+
+### JavaScript / Node.js
+
+*   [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
+*   [Serverless framework getting started](https://www.serverless.com/framework/docs/getting-started)
+
+### SQL (implementation agnostic) / Play Scala
+
+*   [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
+*   [Use The Index, Luke!: A Guide To SQL Database Performance](https://use-the-index-luke.com) - Markus Winand (HTML)
+
+### TypeScript / Angular
+
+*   [Angular Material](https://material.angular.io/guides) (HTML)
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
@@ -992,7 +1016,7 @@
 
 ### SQL (implementation agnostic) / Play Scala
 
-*   [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/)
+*   [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) (HTML, PDF)
 
 ### TypeScript / Deno
 
@@ -1505,7 +1529,6 @@
 *   [Angular 2 Style Guide (⭐24k)](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md) - John Papa (HTML)
 *   [Angular 2+ Notes for Professionals](https://goalkicker.com/Angular2Book/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf))
 *   [Angular Docs](https://angular.io/docs) (HTML)
-*   [Angular Material](https://material.angular.io/guide) (HTML)
 *   [Angular Tutorial](https://angular.io/tutorial) (HTML)
 *   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples (⭐40)](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
 
@@ -2316,7 +2339,7 @@
 
 ### SQL (implementation agnostic) / Play Scala
 
-*   [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison
+*   [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison (PDF)
 
 ### SQL Server / Play Scala
 
@@ -3364,7 +3387,7 @@
 
 ### JavaScript / Node.js
 
-*   [Node Documentation](https://nodejs.org/en/docs/)
+*   [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 
 ## [Jun 26 - Jul 02, 2017](/content/2017/26/README.md)
 
@@ -4168,10 +4191,6 @@
 *   [Exploring Lift](http://exploring.liftweb.net) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
 *   [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
 
-### SQL (implementation agnostic) / Play Scala
-
-*   [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
-
 ### Teradata / Vapor
 
 *   [Teradata Books](http://www.info.teradata.com)
@@ -4773,7 +4792,7 @@
 
 ### SQL (implementation agnostic) / Play Scala
 
-*   [SQL For Web Nerds](http://philip.greenspun.com/sql/)
+*   [SQL For Web Nerds](http://philip.greenspun.com/sql/) - Philip Greenspun (HTML)
 
 ## [Oct 28 - Nov 03, 2013](/content/2013/43/README.md)
 

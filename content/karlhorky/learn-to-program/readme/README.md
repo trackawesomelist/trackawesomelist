@@ -113,6 +113,11 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** teaches programming in Java by creating small applications built step by step\
 *(Java, OOP, Gradle, Maven, Spring Boot)*
 
+#### [Cratecode](https://cratecode.com/)
+
+**Free** online platform that teaches programming through interactive lessons\
+*(JavaScript, TypeScript, HTML, p5.js, Backend Web Development)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
@@ -180,7 +185,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** Learn to code and game at the same time.\
 *(C#, C++, Java, JavaScript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
 
-#### [1 Million Women To Tech Summer of Code (⭐627)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐625)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -212,7 +217,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
-#### [Awesome CS Courses (⭐43k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐44k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*

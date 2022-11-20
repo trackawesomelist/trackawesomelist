@@ -6,6 +6,15 @@ Educational resources to learn to program (Foundation in Web Development)
 
 [ Daily / [Weekly](/content/karlhorky/learn-to-program/week/README.md) / [Overview](/content/karlhorky/learn-to-program/readme/README.md) ]
 
+## [Nov 20, 2022](/content/2022/11/20/README.md)
+
+### Intermediate
+
+#### [Cratecode](https://cratecode.com/)
+
+**Free** online platform that teaches programming through interactive lessons\
+*(JavaScript, TypeScript, HTML, p5.js, Backend Web Development)*
+
 ## [Jun 26, 2022](/content/2022/06/26/README.md)
 
 ### Intermediate
@@ -93,7 +102,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ## [Oct 29, 2019](/content/2019/10/29/README.md)
 
-### Intermediate
+### Beginner
 
 #### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
 
@@ -117,7 +126,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐627)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐625)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -279,7 +288,7 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 **Free** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
-#### [Awesome CS Courses (⭐43k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses (⭐44k)](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*

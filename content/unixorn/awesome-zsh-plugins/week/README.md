@@ -8,6 +8,10 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [cycle-fav-dirs (⭐0)](https://github.com/cibinmathew/cycle-fav-dirs) - A plugin to cycle through your favourite directories
+
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [fnm (⭐0)](https://github.com/zap-zsh/fnm) - Adds tab completions for Fast Node Manager [fnm (⭐9.3k)](https://github.com/Schniz/fnm).

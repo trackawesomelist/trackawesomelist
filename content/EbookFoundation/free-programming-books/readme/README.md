@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 253K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) · ⭐ 255K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/week/README.md) / Overview ]
 
@@ -500,6 +500,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [C++ Programming](https://en.wikibooks.org/wiki/C%2B%2B_Programming) - Panic, et al.
 *   [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
 *   [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
+*   [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) - Alex Allain
 *   [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 *   [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov, Paul McJones (PDF)
 *   [Essential C++](https://www.programming-books.io/essential/cpp/) - Krzysztof Kowalczyk, StackOverflow Contributors
@@ -1064,6 +1065,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite (HTML)
 *   [JavaScript Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/javascript) - Cody Lindley (PDF, Kindle; email address *requested*, not required)
 *   [JavaScript the Right Way (⭐8.5k)](https://github.com/braziljs/js-the-right-way) - William Oliveira, Allan Esquina (HTML)
+*   [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
 *   [JavaScript Wikibook](https://en.wikibooks.org/wiki/JavaScript) - Wikibooks (HTML, PDF)
 *   [jQuery Fundamentals](http://jqfundamentals.com) - Bocoup (HTML)
 *   [JS Robots](https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) - Mark Daggett (PDF) *(:card\_file\_box: archived)*
@@ -1202,11 +1204,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
 *   [Mastering Node (⭐1.8k)](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF (⭐1.8k)](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
 *   [Mixu's Node Book](http://book.mixu.net/node/)
-*   [Node Documentation](https://nodejs.org/en/docs/)
+*   [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 *   [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
+*   [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
 *   [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
 *   [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 *   [Practical Node.js: Building Real-World Scalable Web Apps (⭐3.7k)](https://github.com/azat-co/practicalnode) - Azat Mardan
+*   [Serverless framework getting started](https://www.serverless.com/framework/docs/getting-started)
 *   [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html) - Axel Rauschmayer (HTML)
 *   [The Node Beginner Book](http://nodebeginner.org)
 *   [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
@@ -2220,12 +2224,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/\~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 *   [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 *   [Introduction to SQL (⭐201)](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
-*   [SQL For Web Nerds](http://philip.greenspun.com/sql/)
+*   [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
+*   [SQL For Web Nerds](http://philip.greenspun.com/sql/) - Philip Greenspun (HTML)
 *   [SQL Notes for Professionals](http://goalkicker.com/SQLBook/) - Compiled from StackOverflow Documentation (PDF)
-*   [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison
+*   [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison (PDF)
 *   [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
-*   [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/)
-*   [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
+*   [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) (HTML, PDF)
+*   [Use The Index, Luke!: A Guide To SQL Database Performance](https://use-the-index-luke.com) - Markus Winand (HTML)
 
 ### SQL Server
 
@@ -2328,7 +2333,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 *   [Angular 2 Style Guide (⭐24k)](https://github.com/johnpapa/angular-styleguide/blob/master/a2/README.md) - John Papa (HTML)
 *   [Angular 2+ Notes for Professionals](https://goalkicker.com/Angular2Book/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf))
 *   [Angular Docs](https://angular.io/docs) (HTML)
-*   [Angular Material](https://material.angular.io/guide) (HTML)
+*   [Angular Material](https://material.angular.io/guides) (HTML)
 *   [Angular Tutorial](https://angular.io/tutorial) (HTML)
 *   [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples (⭐40)](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
 

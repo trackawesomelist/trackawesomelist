@@ -66,7 +66,7 @@ A curated list of delightful productivity resources.
 *   [Notion](https://www.notion.so/) - An all-in-one very customizable workspace for notes, tasks, wikis and lists.
 *   [Yana](https://yana.js.org) - Powerful note-taking app with nested documents, full-text search, rich-text editor, code snippet editor and more.
 *   [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
-*   [Preserver (⭐213)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
+*   [Preserver (⭐212)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 *   [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 *   [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 *   [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
@@ -82,7 +82,7 @@ A curated list of delightful productivity resources.
 *   [Microsoft To Do](https://todo.microsoft.com/tasks/) - Microsoft cloud-based task management application based on Wunderlist technology.
 *   [OmniFocus](https://www.omnigroup.com/omnifocus) - A Getting Things Done based task manager for macOS and iOS.
 *   [Paymo](https://www.paymoapp.com/) - Keep your team aligned and engaged. Manage tasks, create team schedules, track work time, and bill your clients from the same platform.
-*   [Pomolectron (⭐558)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐562)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 *   [Remember the Milk](https://www.rememberthemilk.com) - Great at managing tags for to-dos and location based tasks.
 *   [Taskade](https://taskade.com) - Simple and collaborative task lists for teams.
 *   [Taskwarrior](http://taskwarrior.org/) - An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
@@ -91,7 +91,7 @@ A curated list of delightful productivity resources.
 *   [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 *   [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 *   [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
-*   [Topydo (⭐622)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+*   [Topydo (⭐629)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 *   [Trello](https://trello.com) - Kanban method task board.
 *   [Tweek](https://tweek.so) - Super Simple To Do list and Weekly Task Management.
 *   [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
@@ -102,7 +102,7 @@ A curated list of delightful productivity resources.
 *   [Everyday](https://everyday.app/) - Form new habits by doing things every day.
 *   [Habitica](https://habitica.com) - Complete your real life daily goals in a role play game (previously called *HabitRPG*).
 *   [HabitBull](http://www.habitbull.com/) - Premium habit tracker.
-*   [Loop Habit Tracker (⭐5.4k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+*   [Loop Habit Tracker (⭐5.6k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 *   [Waka Time](https://wakatime.com/) -  Open source plugin for knowing exactly how long you spend coding.
 
 ### Task Automation
@@ -121,6 +121,7 @@ A curated list of delightful productivity resources.
 *   [Bitwarden](https://bitwarden.com) - A free, trusted password manager that can store, sync, and generate passwords online or through native apps.
 *   [KeePass](https://keepass.info/) - A free, open source, light-weight password manager with auto-type, browser and plugin support.
 *   [LastPass](https://lastpass.com) - A freemium password manager that stores encrypted passwords online.
+*   [NordPass](https://nordpass.com/) - A freemium password manager created by the team from NordVPN. Store unlimited passwords and access them from anywhere with apps on all platforms.
 
 ### Knowledge Management
 

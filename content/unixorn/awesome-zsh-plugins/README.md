@@ -6,6 +6,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Nov 20, 2022](/content/2022/11/20/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [cycle-fav-dirs (⭐0)](https://github.com/cibinmathew/cycle-fav-dirs) - A plugin to cycle through your favourite directories
+
 ## [Nov 19, 2022](/content/2022/11/19/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.

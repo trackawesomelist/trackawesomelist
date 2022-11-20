@@ -653,6 +653,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [crypto-prices (⭐10)](https://github.com/vincentdnl/zsh-crypto-prices) - Add a [powerlevel9k (⭐13k)](https://github.com/bhilburn/powerlevel9k) segment with the current bitcoin price.
 *   [crystal (⭐28)](https://github.com/veelenga/crystal-zsh) - A plugin for [Crystal (⭐18k)](https://github.com/crystal-lang/crystal).
 *   [cvideo (⭐0)](https://github.com/aubreypwd/zsh-plugin-cvideo) - Quickly compress video with `ffmpeg`.
+*   [cycle-fav-dirs (⭐0)](https://github.com/cibinmathew/cycle-fav-dirs) - A plugin to cycle through your favourite directories
 *   [czhttpd (⭐53)](https://github.com/jsks/czhttpd) - A simple http server written in 99.9% pure ZSH.
 *   [ddev (⭐0)](https://github.com/voronkovich/ddev.plugin.zsh) - A ZSH plugin for the [ddev (⭐1.5k)](https://github.com/drud/ddev) tool for setting up PHP development environments.
 *   [declare-zsh (⭐5)](https://github.com/z-shell/declare-zsh) - A parser for [zinit (⭐1.4k)](https://github.com/zdharma-continuum/zinit) commands in `.zshrc`. It allows you to perform the following actions on `.zshrc` from the command-line - enable and disable plugins add or remove snippets.
