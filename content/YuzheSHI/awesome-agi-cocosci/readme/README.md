@@ -58,7 +58,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
         *   [Pointing & Pantomime](#pointing--pantomime)
         *   [Language Compositionality](#language-compositionality)
     *   [Problem Solving](#problem-solving)
-        *   [Human-Level Problem Solving](#hmprobsol)
+        *   [Human-Level Problem Solving](#human-level-problem-solving)
         *   [Planning](#planning)
         *   [Intrinsic Motivation](#intrinsic-motivation)
         *   [Reinforcement Learning](#reinforcement-learning)
@@ -684,8 +684,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 ### Problem Solving
 
-<span id = "hmprobsol"></span>
-
 #### Human-Level Problem Solving
 
 *   [Elements of a theory of human problem solving](https://psycnet.apa.org/record/1959-07883-001) - ***Psychological Review***, 1958. \[[All Versions](https://scholar.google.com/scholar?cluster=6226995019045187501\&hl=en\&as_sdt=0,5)]. Herbert Simon's original idea on human problem solving.
@@ -1199,6 +1197,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *   [Epiphany](https://en.wikipedia.org/wiki/Epiphany_\(feeling\)) - ***Wikipedia***. Wikipedia on epiphany, the "feeling" when the Aha! moment comes.
 
 *   [A computational model of scientific insight](https://escholarship.org/uc/item/54x8v354) - ***The nature of creativity: Contemporary psychological perspectives***, 1988. \[[All Versions](https://scholar.google.com/scholar?cluster=13633357571064621019\&hl=en\&as_sdt=0,5)]. A computational account on insights for scientific discovery.
+
+*   [What Makes an Insight Problem? The Roles of Heuristics, Goal Conception, and Solution Recoding in Knowledge-Lean Problems](https://www.researchgate.net/profile/Thomas-Ormerod/publication/8909475_What_Makes_an_Insight_Problem_The_Roles_of_Heuristics_Goal_Conception_and_Solution_Recoding_in_Knowledge-Lean_Problems/links/00b7d5159f3c057eb5000000/What-Makes-an-Insight-Problem-The-Roles-of-Heuristics-Goal-Conception-and-Solution-Recoding-in-Knowledge-Lean-Problems.pdf) - ***Journal of Experimental Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=17529631069707671285\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2003-10949-002)].
 
 \*[Back to Top](#c)
 
