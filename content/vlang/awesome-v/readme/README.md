@@ -71,14 +71,13 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Command-line
 
-*   [crepl (⭐11)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+*   [crepl (⭐13)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 *   [HN-top (⭐19)](https://github.com/BafS/hn-top) - A simple command to list most recent news from hacker-news.
 *   [portctl (⭐3)](https://github.com/apoprotsky/portctl) - CLI tool to manage Docker Swarm resources using Portainer API.
 *   [klonol (⭐15)](https://github.com/hungrybluedev/klonol) - CLI tool to help you "clone all" git repositories belonging to you. Works with GitHub and Gitea.
 *   [runner (⭐24)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 *   [symlinker (⭐7)](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 *   [vast (⭐23)](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
-*   [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
 *   [verve (⭐3)](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 *   [vinit (⭐13)](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 *   [vLogQL (⭐13)](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.
@@ -90,7 +89,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [text\_editor (⭐31k)](https://github.com/vlang/v/blob/master/examples/term.ui/text_editor.v) - Small text editor from the official V examples.
 *   [ved (⭐1.1k)](https://github.com/vlang/ved) - 1 MB text editor written in V with hardware accelerated text rendering. Compiles in <1s.
 *   [vee (⭐29)](https://github.com/Larpon/vee) - V Editor Engine. A V module providing the guts of a text editor. Comes with a [TUI editor example (⭐29)](https://github.com/Larpon/vee/blob/master/examples/tuieditor/).
-*   [vPDF (⭐60)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
+*   [vPDF (⭐61)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
 
 ### Games
 
@@ -106,7 +105,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Interpreters/Compilers
 
-*   [stas (⭐23)](https://github.com/l1mey112/stas) - A stack based compiled programming language. Takes inspiration from Forth with a modern syntax.
+*   [stas (⭐23)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
 *   [monkey\_v (⭐33)](https://github.com/Delta456/monkey_v) - Implementation of [Thorsten Ball's Monkey Language](https://interpreterbook.com/) in V.
 *   [vbf (⭐18)](https://github.com/vpervenditti/vbf) - A brainfuck interpreter/compiler.
 *   [vcc (⭐82)](https://github.com/lemoncmd/vcc) - A C compiler written in V.

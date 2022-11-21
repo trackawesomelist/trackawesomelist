@@ -179,7 +179,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
 *   [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here) provided are :
     *   [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free)
-    *   [Codespaces](https://github.com/codespaces) - Development environments that are hosted in the cloud. 120-core hours available for free every month.
+    *   [Codespaces](https://github.com/codespaces) - Development environments that are hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
     *   [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
     *   [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
     *   Project Management & Issue Tracking.
@@ -1506,6 +1506,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month
 *   [Uptrace](https://uptrace.dev) - Distributed Tracing Tool that helps developers pinpoint failures and find performance bottlenecks. Has a free plan, offers a free Personal subscription for open source projects, and has an open source version.
 *   [Microsoft Clarity](https://clarity.microsoft.com/) - Clarity is a free, easy-to-use tool that captures how real people actually use your site.
+*   [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
 
 **[⬆ back to top](#table-of-contents)**
 

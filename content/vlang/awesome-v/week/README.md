@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ [Daily](/content/vlang/awesome-v/README.md) / Weekly / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Applications / Interpreters/Compilers
+
+*   [stas (⭐23)](https://github.com/l1mey112/stas/tree/0.1.0-v-compiler) - A stack based compiled programming language. The bootstrap compiler is written in V.
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### Libraries / Text processing
@@ -16,15 +22,11 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Applications / Command-line
 
-*   [crepl (⭐11)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
+*   [crepl (⭐13)](https://github.com/l1mey112/crepl) - Compile and execute C code on the fly as you type it.
 
 ### Applications / Editors
 
-*   [vPDF (⭐60)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
-
-### Applications / Interpreters/Compilers
-
-*   [stas (⭐23)](https://github.com/l1mey112/stas) - A stack based compiled programming language. Takes inspiration from Forth with a modern syntax.
+*   [vPDF (⭐61)](https://github.com/vlang/pdf) - A module to simplify PDF file creation using the V programming language.
 
 ### Applications / Web
 
@@ -55,7 +57,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [runner (⭐24)](https://github.com/Naheel-Azawy/runner) - A tool that automates running/compiling code written in various programming languages.
 *   [symlinker (⭐7)](https://github.com/serkonda7/symlinker) - A small Linux tool to manage symlinks.
 *   [vast (⭐23)](https://github.com/lydiandy/vast) - A simple tool for vlang, generate v source file to AST json file.
-*   [vcredits](https://github.com/zakuro9715/vcredits) - A tool that creates CREDITS from LICENSE files of dependencies.
 *   [verve (⭐3)](https://github.com/MohammadMD1383/verve) - Simple and fast static file server.
 *   [vinit (⭐13)](https://github.com/pranavbaburaj/vinit) - A tool to generate v projects.
 *   [vLogQL (⭐13)](https://github.com/lmangani/vLogQL) - A tiny command-line utility to query LogQL APIs.

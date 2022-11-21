@@ -618,6 +618,7 @@
 *   [CHIP-8 (⭐88)](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 *   [Games of Coding (⭐1.5k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 *   [Esports (⭐29)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+*   [Learn Gamedev (⭐1.6k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
 
 ## Development Environment
 

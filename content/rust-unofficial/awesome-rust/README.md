@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 21, 2022](/content/2022/11/21/README.md)
+
+### Applications / System tools
+
+*   [qarmin/cakawka (⭐8.7k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+
+### Libraries / Graph algorithms
+
+*   [s1ck/graph (⭐135)](https://github.com/s1ck/graph) - A library for high-performant graph algorithms [![graph CI status](https://img.shields.io/github/workflow/status/s1ck/graph/CI/main?label=CI)](https://github.com/s1ck/graph/actions/workflows/rust.yml)
+
 ## [Nov 10, 2022](/content/2022/11/10/README.md)
 
 ### Applications / Cryptocurrencies
@@ -16,7 +26,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web
 
-*   [libreddit (⭐3.6k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
+*   [libreddit (⭐3.7k)](https://github.com/libreddit/libreddit) - An alternative private front-end to Reddit
 
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
@@ -26,7 +36,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Web Servers
 
-*   [static-web-server (⭐446)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
+*   [static-web-server (⭐461)](https://github.com/static-web-server/static-web-server) — A blazing fast and asynchronous web server for static files-serving. ⚡ [![CI](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml/badge.svg)](https://github.com/static-web-server/static-web-server/actions/workflows/devel.yml?query=branch%3Amaster)
 
 ## [Oct 14, 2022](/content/2022/10/14/README.md)
 
@@ -886,7 +896,7 @@ A curated list of Rust code and resources.
 ### Libraries / Game development
 
 *   [Godot](https://godotengine.org/)
-    *   [godot-rust/godot-rust (⭐3k)](https://github.com/godot-rust/godot-rust) \[[gdnative](https://crates.io/crates/gdnative)] - Rust bindings to the Godot game engine [![CI](https://github.com/godot-rust/godot-rust/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/godot-rust/actions/workflows/full-ci.yml)
+    *   [godot-rust/gdnative (⭐3.1k)](https://github.com/godot-rust/gdnative) \[[gdnative](https://crates.io/crates/gdnative)] - Rust bindings to the Godot game engine [![CI](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml/badge.svg)](https://github.com/godot-rust/gdnative/actions/workflows/full-ci.yml)
 
 ## [Sep 28, 2021](/content/2021/09/28/README.md)
 

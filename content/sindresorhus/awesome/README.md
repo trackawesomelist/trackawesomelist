@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Nov 21, 2022](/content/2022/11/21/README.md)
+
+### Gaming
+
+*   [Learn Gamedev (⭐1.6k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+
 ## [Nov 20, 2022](/content/2022/11/20/README.md)
 
 ### Programming Languages

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Analytics, Events and Statistics
+
+*   [Beampipe.io](https://beampipe.io) - Beampipe is simple, privacy-focussed web analytics. free for up to 5 domains & 10k monthly page views.
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### BaaS
@@ -1953,7 +1959,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Apart from this some other free services(there are much more but we list the main ones here) provided are :
     *   [CI/CD](https://github.com/features/actions)(Free for Public Repos, 2000 min/month for private repos free)
-    *   [Codespaces](https://github.com/codespaces) - Development environments that are hosted in the cloud. 120-core hours available for free every month.
+    *   [Codespaces](https://github.com/codespaces) - Development environments that are hosted in the cloud. 120-core hours and 15 GB codespaces storage available for free every month.
     *   [Static Website Hosting](https://pages.github.com) (Free for Public Repos)
     *   [Package Hosting & Container Registry](https://github.com/features/packages) (Free for public repos,500 MB storage & 1GB bandwidth outside CI/CD free for private repos)
     *   Project Management & Issue Tracking.
