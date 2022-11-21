@@ -39,6 +39,7 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
     *   [Java](#java)
     *   [JavaScript](#javascript)
     *   [Julia](#julia)
+    *   [Kotlin](#kotlin)
     *   [Lisp](#lisp)
     *   [Mathematica](#mathematica)
     *   [PHP](#php)
@@ -86,8 +87,8 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 *   [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
 *   [Builder Book](https://builderbook.org) - Learn how to build a full stack JavaScript web app from scratch
 *   [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
-*   [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) - How to develop effective and optimal data manipulation and analytics pipelines
-*   [The Little MongoDB Book (⭐1.5k)](https://github.com/karlseguin/the-little-mongodb-book) - Basic introduction
+*   [Practical MongoDB Aggregations E-Book](https://www.practical-mongodb-aggregations.com/) - Free e-book: How to develop effective and optimal data manipulation and analytics pipelines
+*   [The Little MongoDB Book (⭐2)](https://github.com/mongodb-developer/the-little-mongodb-book) - Basic introduction
 *   [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
 ### Talks
@@ -105,7 +106,7 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 ### More
 
 *   [MongoDB source code (⭐23k)](https://github.com/mongodb/mongo)
-*   [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
+*   [MongoDB University](https://learn.mongodb.com/) - Certifications and free online courses
 *   [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - Free and self-paced MongoDB courses for beginners
 
 ## Libraries
@@ -179,6 +180,10 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 *   [Mongo.jl (⭐29)](https://github.com/Lytol/Mongo.jl) - C driver bindings
 
+### Kotlin
+
+*   [kmongo (⭐711)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+
 ### Lisp
 
 *   [cl-mongo (⭐134)](https://github.com/fons/cl-mongo) - Community Common Lisp interface
@@ -191,14 +196,12 @@ Inspired by the [awesome (⭐225k)](https://github.com/sindresorhus/awesome) lis
 
 ### PHP
 
-*   [Doctrine MongoDB (⭐444)](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
 *   [eloquent-mongodb-repository (⭐18)](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
 *   [laravel-mongodb (⭐6.2k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
 *   [mongodb-repository (⭐9)](https://github.com/nilportugues/mongodb-repository) - Repository implementation
 *   [PHP Driver (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 *   [PHPMongo ODM (⭐239)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
-*   [pecl/mongodb (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 *   [yadm (⭐83)](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ### Python

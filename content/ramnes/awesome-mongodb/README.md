@@ -6,6 +6,21 @@
 
 [ Daily / [Weekly](/content/ramnes/awesome-mongodb/week/README.md) / [Overview](/content/ramnes/awesome-mongodb/readme/README.md) ]
 
+## [Nov 21, 2022](/content/2022/11/21/README.md)
+
+### Resources / Books
+
+*   [Practical MongoDB Aggregations E-Book](https://www.practical-mongodb-aggregations.com/) - Free e-book: How to develop effective and optimal data manipulation and analytics pipelines
+*   [The Little MongoDB Book (⭐2)](https://github.com/mongodb-developer/the-little-mongodb-book) - Basic introduction
+
+### Resources / More
+
+*   [MongoDB University](https://learn.mongodb.com/) - Certifications and free online courses
+
+### Libraries / Kotlin
+
+*   [kmongo (⭐711)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
 ### Resources / Documentation
@@ -66,12 +81,6 @@
 
 *   [ODMantic (⭐709)](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
 
-## [May 11, 2022](/content/2022/05/11/README.md)
-
-### Resources / Books
-
-*   [The Little MongoDB Book (⭐1.5k)](https://github.com/karlseguin/the-little-mongodb-book) - Basic introduction
-
 ## [Mar 25, 2022](/content/2022/03/25/README.md)
 
 ### Tools / Administration
@@ -94,12 +103,6 @@
 ### Resources / Articles
 
 *   [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
-
-## [Jun 30, 2021](/content/2021/06/30/README.md)
-
-### Resources / Books
-
-*   [Practical MongoDB Aggregations](https://www.practical-mongodb-aggregations.com/) - How to develop effective and optimal data manipulation and analytics pipelines
 
 ## [Jun 24, 2021](/content/2021/06/24/README.md)
 
@@ -540,7 +543,6 @@
 ### Resources / More
 
 *   [MongoDB source code (⭐23k)](https://github.com/mongodb/mongo)
-*   [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
 
 ### Libraries / C
 
@@ -586,9 +588,7 @@
 
 ### Libraries / PHP
 
-*   [Doctrine MongoDB (⭐444)](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
 *   [laravel-mongodb (⭐6.2k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
-*   [pecl/mongodb (⭐792)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Libraries / Python
 
