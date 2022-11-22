@@ -6,6 +6,12 @@ Community list of data & technology resources concerning the built environment a
 
 [ [Daily](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md) / Weekly / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Platforms and Software Resources / Geospatial Data and Visualization
+
+*   [Heavy.AI](https://www.heavy.ai/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Public Data Resources / Resilience and Natural Hazards
@@ -128,7 +134,6 @@ Community list of data & technology resources concerning the built environment a
 *   [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 *   [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
 *   [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data.
-*   [Omnisci](https://www.omnisci.com/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
 *   [BlenderGIS (⭐5.8k)](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms

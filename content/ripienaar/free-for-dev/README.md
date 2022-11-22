@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 22, 2022](/content/2022/11/22/README.md)
+
+### Other Free Resources
+
+*   [SETools.xyz](https://www.setools.xyz/) — This website provide free tools for developers and everyone. We are having tools like base64 encoder, URL Encoder, character counter, SHA256, MD5 Hash.
+
 ## [Nov 21, 2022](/content/2022/11/21/README.md)
 
 ### Analytics, Events and Statistics

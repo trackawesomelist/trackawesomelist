@@ -6,6 +6,12 @@ Curated list of resources on HashiCorp's Terraform
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Tutorials and Blog Posts / How-To
+
+*   [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?sk=495131c5831bc9276369150da5f3bc2c) - How to use Infracost as the guardrail to manage cloud cost during Terraform development.
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Tools / Vendor supported providers

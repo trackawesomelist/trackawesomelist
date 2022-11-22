@@ -60,6 +60,11 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 *   [Webcrunch](https://www.youtube.com/c/Webcrunch/videos)
 *   [CJ Avilla](https://www.youtube.com/playlist?list=PLS6F722u-R6KiuOupokyl8Xnqrot9ukc7)
 *   [SupeRails](https://www.youtube.com/c/SupeRails/videos)
+*   [TypeFast](https://www.youtube.com/@typefastco/videos)
+*   [APPSIMPACT Academy](https://www.youtube.com/@APPSIMPACTAcademy/videos)
+*   [Mix & Go](https://www.youtube.com/@mixandgo/videos)
+*   [Phil Smy](https://www.youtube.com/@PhilSmy/videos)
+*   [David Battersby](https://www.youtube.com/@davidbattersby/videos)
 
 #### Other external resources
 
@@ -83,6 +88,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 *   [rails jobs on web3.career](https://web3.career/ruby-jobs)
 *   [rails jobs on rubyonremote.com](https://rubyonremote.com/)
 *   [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
+*   [rails jobs on RubyJobBoard](https://rubyjobboard.com)
 
 > Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job (⭐23k)](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 

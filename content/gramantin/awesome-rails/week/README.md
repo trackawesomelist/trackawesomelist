@@ -6,6 +6,20 @@ A curated list of awesome things related to Ruby on Rails
 
 [ [Daily](/content/gramantin/awesome-rails/README.md) / Weekly / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### External Resources / Youtube channels
+
+*   [TypeFast](https://www.youtube.com/@typefastco/videos)
+*   [APPSIMPACT Academy](https://www.youtube.com/@APPSIMPACTAcademy/videos)
+*   [Mix & Go](https://www.youtube.com/@mixandgo/videos)
+*   [Phil Smy](https://www.youtube.com/@PhilSmy/videos)
+*   [David Battersby](https://www.youtube.com/@davidbattersby/videos)
+
+### Jobs / Other external resources
+
+*   [rails jobs on RubyJobBoard](https://rubyjobboard.com)
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### External Resources / Youtube channels

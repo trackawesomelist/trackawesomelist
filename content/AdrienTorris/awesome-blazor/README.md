@@ -6,6 +6,24 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 22, 2022](/content/2022/11/22/README.md)
+
+### Templates
+
+*   [Text Editor from scratch with Blazor and C#](https://www.youtube.com/playlist?list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1) - Serie of videos on YouTube who explain how to build your own IDE from scratch with Blazor and .NET. [Starting point repo (⭐5)](https://github.com/huntercfreeman/Blazor.Text.Editor-VideoSeries) ![stars](https://img.shields.io/github/stars/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor-VideoSeries?style=flat-square). [Blazor Studio repo (⭐47)](https://github.com/huntercfreeman/BlazorStudio) ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square).
+
+### Others
+
+*   [Blazor Studio (⭐47)](https://github.com/huntercfreeman/BlazorStudio) - ![stars](https://img.shields.io/github/stars/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/huntercfreeman/BlazorStudio?style=flat-square\&cacheSeconds=86400) A free and open source IDE written using .NET - a Photino host, Blazor UI, and C#.
+*   [Blazor.Text.Editor (⭐9)](https://github.com/huntercfreeman/Blazor.Text.Editor) - ![Last commit](https://img.shields.io/github/last-commit/huntercfreeman/Blazor.Text.Editor?style=flat-square\&cacheSeconds=86400) Blazor.Text.Editor is a Text Editor component library using the Blazor UI Framework for .NET. [Demo](https://hunter-freeman-dev.azurewebsites.net/).
+
+### Videos / Others
+
+*   [Use the IDE to make a Fluxor CRUD Application | Blazor IDE Part 2](https://www.youtube.com/watch?v=r2XaCISF4dQ) - ![duration](https://img.shields.io/badge/Duration:%20-147%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 18, 2022 - Use the IDE to make a Fluxor CRUD Application.
+*   [Make a Text Editor in Blazor from scratch, Blazor Text Editor Part 1.](https://www.youtube.com/watch?v=D5PdeRsV-Hk\&list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-44%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 8, 2022 - Make a Text Editor in Blazor from scratch, Blazor Text Editor Part 1.
+*   [Roslyn Syntax Highlighting | Blazor Text Editor Part 2](https://www.youtube.com/watch?v=ZIt0-mbCgG8\&list=PLG4PTDe2qc0i0COivTxn_rjSN96Xq-_K1\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-36%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 8, 2022 - Roslyn Syntax Highlighting | Blazor Text Editor Part 2.
+*   [Make a Text Editor in Blazor from scratch | Blazor Text Editor Part 1](https://www.youtube.com/watch?v=D5PdeRsV-Hk\&t=0s) - ![duration](https://img.shields.io/badge/Duration:%20-44%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 8, 2022 - Make a Text Editor in Blazor from scratch | Blazor Text Editor Part 1.
+
 ## [Nov 16, 2022](/content/2022/11/16/README.md)
 
 ### Videos / Others
@@ -53,12 +71,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [Skclusive.Material.Components (⭐381)](https://github.com/skclusive/Skclusive.Material.Component) - ![GitHub stars](https://img.shields.io/github/stars/skclusive/Skclusive.Material.Component?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/skclusive/Skclusive.Material.Component?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor ([Dashboard Demo](https://skclusive.github.io/Skclusive.Blazor.Samples/Dashboard/)),  ([Components](https://skclusive.github.io/Skclusive.Material.Docs/)).
+*   [Skclusive.Material.Components (⭐383)](https://github.com/skclusive/Skclusive.Material.Component) - ![GitHub stars](https://img.shields.io/github/stars/skclusive/Skclusive.Material.Component?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/skclusive/Skclusive.Material.Component?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor ([Dashboard Demo](https://skclusive.github.io/Skclusive.Blazor.Samples/Dashboard/)),  ([Components](https://skclusive.github.io/Skclusive.Material.Docs/)).
 *   [Makani (⭐40)](https://github.com/getspacetime/makani) - ![GitHub stars](https://img.shields.io/github/stars/getspacetime/makani?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/getspacetime/makani?style=flat-square) Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. [Demo](https://getspacetime.github.io/makani/).
 
 ### Tools & Utilities / Others
 
-*   [Blazor.FileSystemAccess (⭐173)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
+*   [Blazor.FileSystemAccess (⭐185)](https://github.com/KristofferStrube/Blazor.FileSystemAccess) - ![GitHub stars](https://img.shields.io/github/stars/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/KristofferStrube/Blazor.FileSystemAccess?style=flat-square\&cacheSeconds=86400) A Blazor wrapper for the browser File System Access API.
 
 ### Videos / Others
 
