@@ -41,7 +41,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Inbox: Text and Natural Language Processing](#inbox-text-and-natural-language-processing)
     *   [OpenAI GPT-3](#openai-gpt-3)
 *   [Papers and references for reading and understanding](#papers-and-references-for-reading-and-understanding)
-*   [Interesting Instagram Accounts, Posts and Reels (⭐172)](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md#interesting-instagram-accounts-posts-and-reels)
+*   [Interesting Instagram Accounts, Posts and Reels (⭐193)](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md#interesting-instagram-accounts-posts-and-reels)
 *   [Interesting Youtube Channels](#interesting-youtube-channels)
 *   [Interesting GitHub Repositories](#interesting-github-repositories)
 *   [Artists and Artworks](#artists-and-artworks)
@@ -246,6 +246,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### DALL-E 2
 
+*   [lucidrains/DALLE2-pytorch (⭐8.3k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
 *   [DALL-E 2’s Failures Are the Most Interesting Thing About It - IEEE Spectrum](https://spectrum.ieee.org/openai-dall-e-2): paper by Eliza Strickland
 
 ### Latent Diffusion

@@ -138,7 +138,7 @@ This list is a collection of the best Deno modules and resources.
 ### Frontend framework
 
 *   [aleph.js (⭐4.9k)](https://github.com/postui/aleph.js) - A React framework in Deno, inspired by [Next.js](https://nextjs.org).
-*   [fresh (⭐9.4k)](https://github.com/lucacasonato/fresh) - Preact, but super edgy. The next-gen web framework.
+*   [fresh (⭐9.5k)](https://github.com/denoland/fresh) - The next-gen web framework.
 *   [packup (⭐293)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
 *   [ultra (⭐2.8k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
@@ -282,7 +282,7 @@ This list is a collection of the best Deno modules and resources.
 *   [alosaur (⭐767)](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators.
 *   [attain (⭐78)](https://github.com/aaronwlee/Attain) - A middleware web framework for Deno which is using http standard library inspired by express and Oak. Fast and stable with proper memory usage.
 *   [aqua (⭐219)](https://github.com/l2ig/aqua) - A minimal and fast web framework for Deno.
-*   [danet (⭐73)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+*   [danet (⭐80)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 *   [deno-express (⭐284)](https://github.com/NMathar/deno-express) - Node Express ported to Deno.
 *   [denotrain (⭐103)](https://github.com/Caesar2011/denotrain) - All-in-One web framework like express or fastify for Node.js with middleware support.
 *   [dinatra (⭐403)](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
@@ -297,7 +297,7 @@ This list is a collection of the best Deno modules and resources.
 *   [opine (⭐839)](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework ported from ExpressJS.
     *   [opine-http-proxy (⭐11)](https://github.com/asos-craigmorten/opine-http-proxy) - Proxy middleware for Deno Opine HTTP servers.
 *   [pogo (⭐471)](https://github.com/sholladay/pogo) - Server framework for Deno.
-*   [wren (⭐66)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+*   [wren (⭐68)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ### WebSocket
 

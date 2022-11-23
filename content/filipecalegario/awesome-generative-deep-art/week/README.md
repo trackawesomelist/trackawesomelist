@@ -16,6 +16,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [drawanyone](https://drawanyone.com/): generate drawings based on five input images
 
+### Image Synthesis / DALL-E 2
+
+*   [lucidrains/DALLE2-pytorch (⭐8.3k)](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### DreamBooth

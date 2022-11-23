@@ -24,7 +24,7 @@ A curated list of delightful productivity resources.
     *   [Task Automation](#task-automation)
     *   [Password Manager](#password-manager)
     *   [Knowledge Management](#knowledge-management)
-    *   [Miscellaneous](#miscellaneous)
+    *   [Screen Capture](#screen-capture)
 
 ## Websites
 
@@ -130,7 +130,8 @@ A curated list of delightful productivity resources.
 *   [Scribe](https://scribehow.com/) - Automatically create step-by-step guides for any process. Simply hit “record” and Scribe will generate a detailed guide complete with screenshots based on your actions, ready to share with colleagues, customers, and friends.
 *   [Logseq](https://logseq.com/) - Logseq is a privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. Use it to write, organize and share your thoughts, keep your to-do list, and build your own digital garden.
 
-### Miscellaneous
+### Screen Capture
 
 *   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
+*   [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
 

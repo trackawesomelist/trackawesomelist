@@ -8,6 +8,10 @@ Community list of data & technology resources concerning the built environment a
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
+### Vendor Data Resources / Urban Observation
+
+*   [Vade](https://www.vade.ai/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's.
+
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
 *   [Heavy.AI](https://www.heavy.ai/) - Geotemporal enabled high performance database capable of doing GPU accelerated queries.
@@ -406,10 +410,6 @@ Community list of data & technology resources concerning the built environment a
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Opportunity Atlas](https://www.opportunityatlas.org/) - These [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0\&topic=0\&paper_id=1652#resource-listing) allow you to analyze social mobility and a variety of other outcomes from life expectancy to patent rates by neighborhood, college, parental income level, and racial background.
-
-### Vendor Data Resources / Urban Observation
-
-*   [Vade](https://www.vadepark.com/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's.
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 

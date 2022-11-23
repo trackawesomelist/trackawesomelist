@@ -6,6 +6,12 @@ A curated list of delightful productivity resources.
 
 [ [Daily](/content/jyguyomarch/awesome-productivity/README.md) / Weekly / [Overview](/content/jyguyomarch/awesome-productivity/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Tools and Apps / Screen Capture
+
+*   [Replayable](https://replayable.io) - Rewind your screen. Playback and share exactly what happened with Replayable's desktop replay buffer.
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Tools and Apps / Password Manager
@@ -147,7 +153,7 @@ A curated list of delightful productivity resources.
 
 *   [Obie.ai](https://obie.ai/) - AI platform that brings all knowledge and documentation into one spot.
 
-### Tools and Apps / Miscellaneous
+### Tools and Apps / Screen Capture
 
 *   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
 

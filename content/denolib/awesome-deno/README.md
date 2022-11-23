@@ -6,6 +6,12 @@ Curated list of awesome things related to Deno
 
 [ Daily / [Weekly](/content/denolib/awesome-deno/week/README.md) / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [Nov 23, 2022](/content/2022/11/23/README.md)
+
+### Modules / Frontend framework
+
+*   [fresh (⭐9.5k)](https://github.com/denoland/fresh) - The next-gen web framework.
+
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
 ### Modules / Testing
@@ -20,7 +26,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web framework
 
-*   [danet (⭐73)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
+*   [danet (⭐80)](https://github.com/Savory/Danet) - A Savory web framework for Deno heavily inspired by [Nest.js](https://nestjs.com).
 
 ## [Nov 06, 2022](/content/2022/11/06/README.md)
 
@@ -34,7 +40,7 @@ Curated list of awesome things related to Deno
 
 ### Modules / Web framework
 
-*   [wren (⭐66)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
+*   [wren (⭐68)](https://github.com/zaiste/wren) - A small, but powerful HTTP library with a functional spin for creating composable web apps, built for convenience and simplicity
 
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
@@ -210,7 +216,6 @@ Curated list of awesome things related to Deno
 
 ### Modules / Frontend framework
 
-*   [fresh (⭐9.4k)](https://github.com/lucacasonato/fresh) - Preact, but super edgy. The next-gen web framework.
 *   [ultra (⭐2.8k)](https://github.com/exhibitionist-digital/ultra) - 💎 Modern Streaming React Framework in Deno.
 
 ### Modules / Utils

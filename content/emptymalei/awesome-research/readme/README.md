@@ -132,7 +132,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted (⭐106k)](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted (⭐108k)](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 ### Math and Programming Online
 
@@ -196,7 +196,7 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 
 #### Social Sciences
 
-*   [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/landing.jsp) (`Lookup`)
+*   [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/web/pages/) (`Lookup`)
 *   [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 
 ### Colors
@@ -227,16 +227,15 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 **Sphinx Themes and configurations**
 
 *   [rtd theme (⭐4.2k)](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-*   [Alabaster (⭐660)](https://github.com/bitprophet/alabaster): Clean and simple
-*   [Some beautiful themes](https://github.com/vkvn/sphinx-themes)
+*   [Alabaster (⭐666)](https://github.com/bitprophet/alabaster): Clean and simple
 *   [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
 **Science Books Using Sphinx**
 
 > Here are some examples of how sphinx can be used for research.
 
-*   [Theoretical Physics (⭐195)](https://github.com/certik/theoretical-physics)
-*   [Statistical Physics (⭐35)](https://github.com/emptymalei/statisticalphysics)
+*   [Theoretical Physics (⭐197)](https://github.com/certik/theoretical-physics)
+*   [Statistical Physics (⭐36)](https://github.com/emptymalei/statisticalphysics)
 *   [Neutrino Physics (⭐6)](https://github.com/NeuPhysics/neutrino)
 
 **Writing Tools**
@@ -244,11 +243,11 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 > Just use [Visual Studio Code](https://code.visualstudio.com/).
 
 *   [Hemingway App](https://hemingwayapp.com/): Highlights complex sentences, point out passive voice, and suggests alternative words.
-*   [proselint (⭐4k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
+*   [proselint (⭐4.1k)](https://github.com/amperser/proselint): A linter for English prose using advice from *Garner's Modern American Usage* and more.
 *   [write good (⭐4.7k)](https://github.com/btford/write-good): Naive JavaScript linter for English prose.
-*   [artbollocks-mode (⭐65)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
+*   [artbollocks-mode (⭐66)](https://github.com/sachac/artbollocks-mode): Emacs minor mode for avoiding cliches and bad grammar when writing about art (or other topics).
 *   [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html): Simple Python script to flag redundant words and gives alternative suggestions.
-*   [Rousseau (⭐172)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
+*   [Rousseau (⭐171)](https://github.com/GitbookIO/rousseau): Lightweight proofreader written in JavaScript.
 *   [textlint-rule-rousseau (⭐7)](https://github.com/azu/textlint-rule-rousseau): A textlint rule to check English sentences using Rousseau.
 *   [De-Jargonizer](http://scienceandpublic.com/): Paste your article or upload file to analyze the amount of jargon in your writing.
 
@@ -259,7 +258,6 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 *   [ReadtheDocs](http://readthedocs.org/): Turn your reStructuredText source to HTML, PDF, and epub, all done online.
 *   [GitHub pages](https://pages.github.com/): Integrated with Jekyll and turns markdown posts automatically. Jekyll is a tool for blogging.
 *   [GitHub](http://github.com): Just put markdown, reStructuredText, PDF or IPython/Jupyter notebook files on GitHub. All these formats can be previewed online. **The thing to mention is that the math in IPython notebook can be rendered on GitHub.**
-*   [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 *   [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
 *   [Heroku](https://www.heroku.com/): The one that needs no explanation.
 *   [AWS](https://aws.amazon.com/): Amazon AWS provide student perks.
@@ -318,7 +316,6 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 *   [Penflip](https://www.penflip.com/)(`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
 *   [Authorea](https://www.authorea.com/)(`Cloud`): A much more powerful Markdown and LaTeX online editor that can be used to produce nice academic papers.
 *   [Dillinger](http://dillinger.io/)(`Cloud`): Markdown editor but no math mode.
-*   [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): Just another Markdown editor without math support.
 *   [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Just another Markdown editor with math (MathJax) support.
 *   [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Win`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Win`,`Chrome`) is the Chinese version。
 *   [Madoko](https://www.madoko.net/)(`Cloud`,`Chrome`): A Markdown editor with math support, where images are inserted easily with one click, while your files are saved on Dropbox, GitHub, OneDrive or local disk. It generates pdf and HTML page and works offline using browser's local storage. One can even import LaTeX files.
@@ -326,7 +323,6 @@ A list of tools for research. Also available on <https://tools.kausalflow.com/to
 *   [typora](https://www.typora.io/)(`Mac`,`Win`):  Beautiful UI and in-situ live preview.
 *   [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 *   [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
-*   [Mou](http://25.io/mou/)(`Mac`): Mou used to be the best Markdown editor on Mac. It is not bad but DO NOT preorder Mou 1.0. This project is dead, unofficially. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
 *   [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
 *   [ReText (⭐1.6k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 *   [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** × Markdown ²
@@ -350,7 +346,7 @@ Notebook softwares that you can write in Markdown:
 
 **You can also host one using your own machine.**
 
-*   [Overleaf Source Code (⭐10k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
+*   [Overleaf Source Code (⭐11k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
 *   [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 *   [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
 *   [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX.
@@ -385,7 +381,6 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 **MINDMAP HTML**
 
 *   [gojs](http://gojs.net/latest/samples/mindMap.html)
-*   [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 *   [jsmind (⭐2.6k)](https://github.com/hizzgdev/jsmind)
 *   [jsmind](http://sourceforge.net/projects/jsmind/)
 *   [mindmaps (⭐2.5k)](https://github.com/drichard/mindmaps)
@@ -427,7 +422,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Slideas](https://www.slideas.app/): the easiest way to create a beautiful Markdown Presentation, with all the features you need.
 *   [Google Drive](https://drive.google.com/): no introduction needed
 *   [Sway](https://sway.com/): Microsoft
-*   [Strut (⭐1.6k)](https://github.com/tantaman/Strut)
+*   [Strut (⭐1.7k)](https://github.com/tantaman/Strut)
 *   [Impressionist (⭐586)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.4k)](https://github.com/regebro/hovercraft)
 
@@ -442,14 +437,13 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page (⭐37k)](https://github.com/impress/impress.js/wiki).
 *   [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
 *   [Reveal.js (⭐62k)](https://github.com/hakimel/reveal.js)
-*   [Beckpoke.js (⭐4.6k)](https://github.com/bespokejs/bespoke)
+*   [Beckpoke.js (⭐4.7k)](https://github.com/bespokejs/bespoke)
 *   [CSSS (⭐1.7k)](https://github.com/LeaVerou/CSSS)
 *   [Scrolldeck (⭐679)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
 *   [Shower (⭐4.7k)](https://github.com/shower/shower)
-*   [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
-*   [Slides (⭐495)](https://github.com/briancavalier/slides)
+*   [Slides (⭐494)](https://github.com/briancavalier/slides)
 *   [remark](https://remarkjs.com)
 
 ### IPython/Jupyter Notebook
@@ -547,7 +541,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 ### Add Citations to Your Code
 
-*   [duecredit (⭐215)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
+*   [duecredit (⭐216)](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
 
 ### Open Science
 
@@ -647,7 +641,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 
 **Python**
 
-*   [matplotlib (⭐1.8k)](https://github.com/jbmouret/matplotlib_for_papers)
+*   [matplotlib (⭐1.9k)](https://github.com/jbmouret/matplotlib_for_papers)
 
 *   [seaborn](https://seaborn.pydata.org/): statistical data visualization
 
@@ -671,9 +665,9 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`): A web-tool for generation of box plots.
 *   [Graphviz](https://www.graphviz.org/)(`Linux,Win,Max,Solaris,FreeBSD`): Open source graph visualization software.
 
-> Choose percentually accurate colors for your research plots. Why? ([1 (⭐582)](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
+> Choose percentually accurate colors for your research plots. Why? ([1 (⭐587)](https://github.com/holoviz/colorcet/blob/master/examples/index.ipynb), [2](https://bids.github.io/colormap/))
 
-*   [colorcet (⭐582)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
+*   [colorcet (⭐587)](https://github.com/holoviz/colorcet) can be used to investigate colormaps.
 
 ## LaTeX
 
@@ -713,7 +707,7 @@ For experimental research, eLabFTW made a online labnote system: [eLabFTW](https
 *   [plot in terminal (⭐1.7k)](https://github.com/glamp/bashplotlib)
 *   [asciinema](https://asciinema.org/): Command line recording.
 *   [bashplot (⭐1.7k)](https://github.com/glamp/bashplotlib): plot in terminal.
-*   [fuck (⭐365)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+*   [fuck (⭐366)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ### Free Multimedia
 
