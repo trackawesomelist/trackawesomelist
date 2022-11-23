@@ -20,6 +20,10 @@ A curated list of awesome things related to Ruby on Rails
 
 *   [rails jobs on RubyJobBoard](https://rubyjobboard.com)
 
+### Community / Other external resources
+
+*   [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/)
+
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### External Resources / Youtube channels

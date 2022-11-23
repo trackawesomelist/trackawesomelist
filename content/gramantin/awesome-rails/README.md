@@ -6,6 +6,12 @@ A curated list of awesome things related to Ruby on Rails
 
 [ Daily / [Weekly](/content/gramantin/awesome-rails/week/README.md) / [Overview](/content/gramantin/awesome-rails/readme/README.md) ]
 
+## [Nov 23, 2022](/content/2022/11/23/README.md)
+
+### Community / Other external resources
+
+*   [Ruby on Rails Link (Slack)](https://www.rubyonrails.link/)
+
 ## [Nov 22, 2022](/content/2022/11/22/README.md)
 
 ### External Resources / Youtube channels

@@ -6,6 +6,21 @@
 
 [ [Daily](/content/vuejs/awesome-vue/README.md) / Weekly / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Projects Using Vue.js / Commercial Products
+
+*   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
+
+### Components & Libraries / UI Components
+
+*   [vue2-text-annotation (⭐5)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
+*   [vue-auth-ui (⭐10)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Resources / Examples
@@ -1031,7 +1046,6 @@
 
 *   [v-viewer (⭐2.1k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐6.8k)](https://github.com/fengyuanchen/viewerjs)
 *   [vue-easy-range-date-picker (⭐4)](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
-*   [vue-manual-data-masking (⭐5)](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
 
 ### Components & Libraries / UI Layout
 

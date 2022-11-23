@@ -6,6 +6,21 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Nov 23, 2022](/content/2022/11/23/README.md)
+
+### Projects Using Vue.js / Commercial Products
+
+*   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
+
+### Components & Libraries / UI Components
+
+*   [vue2-text-annotation (⭐5)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
+*   [vue-auth-ui (⭐10)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
+
 ## [Nov 16, 2022](/content/2022/11/16/README.md)
 
 ### Components & Libraries / Frameworks
@@ -1328,7 +1343,6 @@
 ### Components & Libraries / UI Components
 
 *   [vue-easy-range-date-picker (⭐4)](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
-*   [vue-manual-data-masking (⭐5)](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
 
 ## [May 24, 2021](/content/2021/05/24/README.md)
 

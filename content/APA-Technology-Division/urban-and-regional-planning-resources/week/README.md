@@ -8,9 +8,21 @@ Community list of data & technology resources concerning the built environment a
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
+### Public Data Resources / Climate
+
+*   [NOAA Severe Weather Inventory](https://www.ncei.noaa.gov/products/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
+
+### Public Data Resources / Transportation
+
+*   [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
+
 ### Vendor Data Resources / Urban Observation
 
 *   [Vade](https://www.vade.ai/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's.
+
+### Planning Data Specifications / Environmental
+
+*   [EPA Data Standards](https://www.epa.gov/data-standards) - A chart with links to the diversity of data standards adopted by EPA.
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
@@ -176,12 +188,6 @@ Community list of data & technology resources concerning the built environment a
 *   [Encode Plus](https://www.encodeplus.com/) - Software to help modernize planning and zoning ordinances and streamline county or municipal code and by-law management.
 *   [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
 *   [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
-
-## [Apr 18 - Apr 24, 2022](/content/2022/16/README.md)
-
-### Planning Data Specifications / Environmental
-
-*   [EPA Data Standards](https://www.epa.gov/data-standards/epa-data-standards) - A chart with links to the diversity of data standards adopted by EPA.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -449,7 +455,6 @@ Community list of data & technology resources concerning the built environment a
 ### Public Data Resources / Transportation
 
 *   [CTPP](https://ctpp.transportation.org/) - The CTPP Program procures tabulations of American Community Survey (ACS) 5-year (and historical Census decennial) data. The chief differences between ACS data and CTPP data are FLOWS from home to work and WORKPLACE BASED data at small Geographies.
-*   [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
@@ -597,10 +602,6 @@ Community list of data & technology resources concerning the built environment a
 *   [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment.
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
-
-### Public Data Resources / Climate
-
-*   [NOAA Severe Weather Inventory](https://www.ncdc.noaa.gov/severe-weather/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
 
 ### Vendor Data Resources / Travel Behavior
 

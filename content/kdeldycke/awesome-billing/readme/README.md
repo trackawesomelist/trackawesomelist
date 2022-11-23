@@ -2,7 +2,7 @@
 
 💰 Billing & Payments Knowledge for Cloud Platforms
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 409 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 415 · 🏷️ Business
 
 [ [Daily](/content/kdeldycke/awesome-billing/README.md) / [Weekly](/content/kdeldycke/awesome-billing/week/README.md) / Overview ]
 
@@ -87,7 +87,7 @@ Billing is one of the transversal pillar of the ecosystem, where customers, prod
 
 <!--lint enable double-link-->
 
-This highlight the strategic importance of the domain, not only for cloud providers but virtually for any business, especially those who are software-centric.
+This highlight the strategic importance of the domain, not only for cloud providers but virtually any business, especially those who are software-centric.
 
 *   [Pricing, my only growth hack at Qonto](https://getlago.substack.com/p/pricing-my-only-growth-hack-at-qonto?s=r) - Most businesses don't know how to iterate over pricing: sales teams dictates them without involvement of the people in charge of implementation, which ends up in frustration for all. That's why you need to recognize billing as a critical function of your organization.
 
@@ -108,6 +108,8 @@ From monthly subscription to commodity-like on-the-go consumption, there's plent
 *   [Axial - Business models](https://axial.substack.com/p/axial-business-models) - 38 models for inspiration.
 
 *   [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 models of monetization relying on network effect.
+
+*   [The 5 Pillars of PriceOps](https://priceops.org) - A manifesto inspired by the DevOps movement in which pricing is no longer ossified, but is practiced as a responsive iteration process, and implemented as a flexible property of the system.
 
 ### Usage-based Pricing
 
@@ -307,7 +309,7 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 *   [So, you want to learn Bookkeeping!](http://www.dwmbeancounter.com/tutorial/Tutorial.html) - Focus on the daily operations of recording and maintaining the transactions of a business.
 
-*   [Reconciliation: A game designed to frustrate the player](https://bam.kalzumeus.com/archive/a-game-that-intentionally-frustrates-the-player/) - “Reconciliation is a business process which arises almost entirely because of a lack of structured data in the pipelines that convey money between businesses.” Hacks to streamline the process are: add arbitrary discount to produce unique trailing decimals, setup a couple of virtual bank accounts as proxy,
+*   [Reconciliation: A game designed to frustrate the player](https://bam.kalzumeus.com/archive/a-game-that-intentionally-frustrates-the-player/) - “Reconciliation is a business process which arises almost entirely because of a lack of structured data in the pipelines that convey money between businesses”. There are some hack to streamline the process, like adding an arbitrary discount to produce unique trailing decimals, or setup a couple of virtual bank accounts as proxy.
 
 *   [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 
@@ -403,7 +405,11 @@ All the invoicing and payment terms and conditions are materialzed by the contra
 
 *   [How to correctly setup SaaS subscriptions to charge VAT in Europe](https://medium.com/slight-pause/how-to-setup-saas-subscriptions-correctly-to-charge-vat-in-europe-d75d857b5d01) - “If you think you can just setup a simple Stripe integration and move on, like us, you'd be sadly mistaken.”
 
+<!--lint disable double-link-->
+
 *   [Council Directive 2006/112/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL) - European Union reference on the common system of VAT.
+
+<!--lint enable double-link-->
 
 *   [What does the "Reverse Charge" refer to?](https://news.ycombinator.com/item?id=8767388) - Answer: a provision in which a business transfer the responsibility of VAT handling to the customer.
 
@@ -415,7 +421,11 @@ The invoice materialize a consumed service or purchased product, waiting to be s
 
 ### Structure
 
+<!--lint disable double-link-->
+
 *   [Content of EU invoices](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L:2006:347:FULL#d1e6510-1-1) - The information required on a EU invoice is detailed by Article 226, Section 4 (Content of invoices) of Council Directive 2006/112/EC on the common system of VAT.
+
+<!--lint enable double-link-->
 
 ### Integrity
 

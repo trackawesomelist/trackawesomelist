@@ -98,6 +98,7 @@
         *   [Link Preview](#link-preview)
         *   [Tour](#tour)
         *   [Data Masking](#data-masking)
+        *   [Authentication](#authentication)
     *   [UI Layout](#ui-layout)
     *   [Frameworks](#frameworks)
         *   [Responsive](#responsive)
@@ -957,6 +958,7 @@
 *   [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
 *   [NocoDB (⭐32k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
 *   [KodaDot (⭐324)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 
 ### Apps/Websites
 
@@ -1173,6 +1175,7 @@
 *   [httptools.dev](https://httptools.dev/) - Collection of many online checks and tools for web developers, like a JSON formatter, redirect check or URL encoder. Built with Vue3 and vue-router, backend API uses Laravel.
 *   [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs
 *   [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive.
+*   [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
 
 ### Interactive Experiences
 
@@ -2360,7 +2363,11 @@ Tooltips / popovers
 
 #### Data Masking
 
-*   [vue-manual-data-masking (⭐5)](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
+*   [vue2-text-annotation (⭐5)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
+
+#### Authentication
+
+*   [vue-auth-ui (⭐10)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
 
 ### UI Layout
 
