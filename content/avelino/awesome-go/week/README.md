@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Advanced Console UIs
+
+*   [lipgloss (⭐5.3k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Advanced Console UIs
@@ -59,7 +65,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Third-party APIs
 
 *   [GoFreeDB (⭐17)](https://github.com/FreeLeh/GoFreeDB) - Golang library providing common and simple database abstractions on top of Google Sheets.
-*   [swag (⭐21)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
+*   [swag (⭐23)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 
 ### Validation
 
@@ -2334,7 +2340,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-retryablehttp (⭐1.4k)](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go.
 *   [grequests (⭐1.9k)](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library.
 *   [heimdall (⭐2.3k)](https://github.com/gojektech/heimdall) - An enhanced http client with retry and hystrix capabilities.
-*   [httpc (⭐5)](https://github.com/valord577/httpc) - A customizable and simple HTTP client library. Only depend on the stdlib HTTP client.
 *   [httpretry (⭐26)](https://github.com/ybbus/httpretry) - Enriches the default go HTTP client with retry functionality.
 *   [pester (⭐608)](https://github.com/sethgrid/pester) - Go HTTP client calls with retries, backoff, and concurrency.
 *   [request (⭐219)](https://github.com/monaco-io/request) - HTTP client for golang. If you have experience about axios or requests, you will love it. No 3rd dependency.

@@ -12,6 +12,14 @@ Community list of data & technology resources concerning the built environment a
 
 *   [NOAA Severe Weather Inventory](https://www.ncei.noaa.gov/products/severe-weather-data-inventory) - The Severe Weather Data Inventory (SWDI) is an integrated database of severe weather records for the United States. The formats currently supported are Shapefile (for GIS), KMZ (for Google Earth), CSV (comma-separated), and XML.
 
+### Public Data Resources / Education
+
+*   [Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE provides access to demographic and school related geographic data such as locations and districts.
+
+### Public Data Resources / Environment and Ecosystem Services
+
+*   [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
+
 ### Public Data Resources / Transportation
 
 *   [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
@@ -543,7 +551,6 @@ Community list of data & technology resources concerning the built environment a
 ### Public Data Resources / Environment and Ecosystem Services
 
 *   [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
-*   [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
 *   [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities.
 
 ### Public Data Resources / Equity and Environmental Justice

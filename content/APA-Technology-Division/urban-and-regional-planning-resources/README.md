@@ -6,6 +6,16 @@ Community list of data & technology resources concerning the built environment a
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
 
+## [Nov 24, 2022](/content/2022/11/24/README.md)
+
+### Public Data Resources / Education
+
+*   [Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE provides access to demographic and school related geographic data such as locations and districts.
+
+### Public Data Resources / Environment and Ecosystem Services
+
+*   [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
+
 ## [Nov 23, 2022](/content/2022/11/23/README.md)
 
 ### Public Data Resources / Climate
@@ -636,7 +646,6 @@ Community list of data & technology resources concerning the built environment a
 ### Public Data Resources / Environment and Ecosystem Services
 
 *   [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
-*   [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
 *   [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities.
 
 ### Public Data Resources / Equity and Environmental Justice

@@ -6,6 +6,16 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Pokemon
+
+*   [Pokete (⭐2.5k)](https://github.com/lxgr-linux/pokete) - A small terminal based game in the style of a very popular and old game by Gamefreak.
+
+### No email verification, accepting monero
+
+*   [MoneroSMS](https://monerosms.com/) - Virtual numbers for SMS/MMS messaging and verifications. CLI and web app. (Based in United States)
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Find My Device

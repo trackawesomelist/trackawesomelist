@@ -12,6 +12,12 @@ Curated list of resources on HashiCorp's Terraform
 
 *   [Infracost + Terraform + GitHub Actions = Automate Cloud Cost Management](https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834?sk=495131c5831bc9276369150da5f3bc2c) - How to use Infracost as the guardrail to manage cloud cost during Terraform development.
 
+### Tools / Vendor supported providers
+
+*   [terraform-iam-policy-validator (⭐122)](https://github.com/awslabs/terraform-iam-policy-validator) - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
+*   [tfproviderlint (⭐103)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
+*   [tftree (⭐41)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Tools / Vendor supported providers
@@ -26,7 +32,7 @@ Curated list of resources on HashiCorp's Terraform
 
 ### Tools / Vendor supported providers
 
-*   [sato (⭐31)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
+*   [sato (⭐33)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
 *   [terraform-diff (⭐46)](https://github.com/contentful-labs/terraform-diff) - Always know where you need to run Terraform plan & apply!
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)

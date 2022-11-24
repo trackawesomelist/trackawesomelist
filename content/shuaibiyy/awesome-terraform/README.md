@@ -6,6 +6,14 @@ Curated list of resources on HashiCorp's Terraform
 
 [ Daily / [Weekly](/content/shuaibiyy/awesome-terraform/week/README.md) / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Nov 24, 2022](/content/2022/11/24/README.md)
+
+### Tools / Vendor supported providers
+
+*   [terraform-iam-policy-validator (⭐122)](https://github.com/awslabs/terraform-iam-policy-validator) - CLI validates AWS IAM Policies in a Terraform template against AWS IAM best practices.
+*   [tfproviderlint (⭐103)](https://github.com/bflad/tfproviderlint) - Terraform Provider Lint Tool.
+*   [tftree (⭐41)](https://github.com/busser/tftree) - Display your Terraform module call stack in your terminal.
+
 ## [Nov 22, 2022](/content/2022/11/22/README.md)
 
 ### Tutorials and Blog Posts / How-To
@@ -34,7 +42,7 @@ Curated list of resources on HashiCorp's Terraform
 
 ### Tools / Vendor supported providers
 
-*   [sato (⭐31)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
+*   [sato (⭐33)](https://github.com/JamesWoolfenden/sato) - Sato helps you convert your legacy Cloudformation into Terraform.
 
 ## [Oct 19, 2022](/content/2022/10/19/README.md)
 

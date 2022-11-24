@@ -53,6 +53,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Games](#games)
     *   [Mario Kart](#mario-kart)
     *   [Minecraft](#minecraft)
+    *   [Pokémon](#pokemon)
     *   [Sonic the Hedgehog](#sonic-the-hedgehog)
 *   [Home Assistants](#home-assistants)
 *   [Instant Messaging](#instant-messaging)
@@ -454,6 +455,14 @@ If you still want to play Minecraft, you can add some plugins that can help you 
 *   [No-Telemetry (⭐148)](https://github.com/kb-1000/no-telemetry) - Mod that disables the usage data collection, aka telemetry, introduced in Minecraft 1.18 (snapshot 21w38a).
 *   [No-Chat-Reports (⭐815)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
 
+### Pokemon
+
+Nintendo [collects user data](https://libreddit.kavin.rocks/r/privacy/comments/qtj9xt/til_nintendo_collects_data_from_switch_owners/), and if you disable it, they can [turn it back on](https://www.altchar.com/game-news/the-latest-nintendo-switch-update-secretly-turns-on-user-data-sharing-adSyV7t35NPg). Also, it has a paid plan that is not accessible to everyone economically.
+
+<img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
+
+*   [Pokete (⭐2.5k)](https://github.com/lxgr-linux/pokete) - A small terminal based game in the style of a very popular and old game by Gamefreak.
+
 ### Sonic the Hedgehog
 
 *   [Sonic Robo Blast 2](https://www.srb2.org/) - Sonic Robo Blast 2 is a 3D open-source Sonic the Hedgehog fangame built using a modified version of the Doom Legacy port of Doom.
@@ -751,6 +760,7 @@ Many websites require phone number verification. These services offer a way to r
 
 *   [Crypton](https://crypton.sh/) - Secure SMS Sim Card in the cloud. (Based in Iceland)
 *   [Virtualsim](https://virtualsim.net/) - Virtualsim provides physical SIM cards leasing for SMS verifications. (Based in Ukraine)
+*   [MoneroSMS](https://monerosms.com/) - Virtual numbers for SMS/MMS messaging and verifications. CLI and web app. (Based in United States)
 
 ### Email verification required, accepting monero
 

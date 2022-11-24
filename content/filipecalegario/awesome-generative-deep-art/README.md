@@ -6,6 +6,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Nov 24, 2022](/content/2022/11/24/README.md)
+
+### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [steven2358/awesome-generative-ai (⭐31)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
+
 ## [Nov 23, 2022](/content/2022/11/23/README.md)
 
 ### Deforum

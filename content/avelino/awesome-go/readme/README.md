@@ -355,6 +355,7 @@ Please take a quick gander at the [contribution guidelines (⭐90k)](https://git
 *   [gocui (⭐8.6k)](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces.
 *   [gommon/color (⭐471)](https://github.com/labstack/gommon/tree/master/color) - Style terminal text.
 *   [gookit/color (⭐1.2k)](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
+*   [lipgloss (⭐5.3k)](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
 *   [marker (⭐34)](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
 *   [mpb (⭐1.9k)](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications.
 *   [progressbar (⭐2.9k)](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS.
@@ -1901,7 +1902,6 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [go-zoox/fetch (⭐20)](https://github.com/go-zoox/fetch) - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
 *   [grequests (⭐1.9k)](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library.
 *   [heimdall (⭐2.3k)](https://github.com/gojektech/heimdall) - An enhanced http client with retry and hystrix capabilities.
-*   [httpc (⭐5)](https://github.com/valord577/httpc) - A customizable and simple HTTP client library. Only depend on the stdlib HTTP client.
 *   [httpretry (⭐26)](https://github.com/ybbus/httpretry) - Enriches the default go HTTP client with retry functionality.
 *   [pester (⭐608)](https://github.com/sethgrid/pester) - Go HTTP client calls with retries, backoff, and concurrency.
 *   [req (⭐2.8k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
@@ -2505,7 +2505,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [spotify (⭐45)](https://github.com/rapito/go-spotify) - Go Library to access Spotify WEB API.
 *   [steam (⭐29)](https://github.com/sostronk/go-steam) - Go Library to interact with Steam game servers.
 *   [stripe (⭐1.7k)](https://github.com/stripe/stripe-go) - Go client for the Stripe API.
-*   [swag (⭐21)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
+*   [swag (⭐23)](https://github.com/zc2638/swag) - No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 *   [textbelt (⭐18)](https://github.com/dietsche/textbelt) - Go client for the textbelt.com txt messaging API.
 *   [translate (⭐32)](https://github.com/poorny/translate) - Go online translation package.
 *   [Trello (⭐205)](https://github.com/adlio/trello) - Go wrapper for the Trello API.

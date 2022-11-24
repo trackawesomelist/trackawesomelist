@@ -113,7 +113,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 ### Education
 
-\-[Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE provides access to demographic and school related geographic data such as locations and districts.
+*   [Education Demographics & Geographic Estimates (EDGE)](https://nces.ed.gov/programs/edge/Home) - EDGE provides access to demographic and school related geographic data such as locations and districts.
 
 *   [National Center for Educational Statistics](https://nces.ed.gov/datalab/index.aspx) - The National Center for Education Statistics (NCES) is the primary federal entity for collecting and analyzing data related to education. Their data lab provides access to other 30+ education datasets and provides quick reporting and charting functionality for users.
 
@@ -127,7 +127,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 *   [CropScape](https://nassgeodata.gmu.edu/CropScape/) - CropScape displays data from the USDA Cropland Data Layer (CDL), an annual, remote-sensing snapshot of crop cover during the main growing season across the contiguous United States.
 *   [EnviroAtlas](https://www.epa.gov/enviroatlas) - EnviroAtlas is a collection of interactive tools and resources that allows users to explore the many benefits people receive from nature, often referred to as ecosystem services within the United States.
 *   [National Hydrography](https://www.usgs.gov/core-science-systems/ngp/national-hydrography/access-national-hydrography-products) - The NHDPlus High Resolution (NHDPlus HR), National Hydrography Dataset (NHD), and Watershed Boundary Dataset (WBD) are available for download and as map services. These datasets can help inform environmental planning and storm water management efforts in the US.
-*   [National Wetland Inventory](https://www.fws.gov/wetlands/index.html) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
+*   [National Wetland Inventory](https://www.fws.gov/program/national-wetlands-inventory) -  The US Fish & Wildlife Service (FWS) National Wetlands Inventory (NWI) is a publicly available resource that provides detailed information on the abundance, characteristics, and distribution of US wetlands.
 *   [Park Score](https://www.tpl.org/parkscore) - The Trust for Public Land curates a comprehensive evaluation of park access and quality in the 100 largest U.S. cities.
 *   [Tree Canopy](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/) - The U.S. Forest Service (USFS) Geospatial Technology and Applications Center (GTAC) builds and maintains tree canopy cover (TCC) datasets.
 *   [Geospatial Conservation Atlas](https://geospatial.tnc.org/) - The Nature Conservancy's geospatial portal includes web maps, apps, a map gallery, local initiative portals, conservation data, and other resources.

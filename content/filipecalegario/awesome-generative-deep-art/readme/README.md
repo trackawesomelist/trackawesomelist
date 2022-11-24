@@ -337,6 +337,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Inbox
 
+*   [steven2358/awesome-generative-ai (⭐31)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 *   [MubertAI/Mubert-Text-to-Music (⭐2k)](https://github.com/MubertAI/Mubert-Text-to-Music): A simple notebook demonstrating prompt-based music generation via Mubert API
 *   [(5) Deforum notebook v0.5 for Stable Diffusion animations is out! Now with math automation, perspective flips, prompt weights, video masking and waifus! : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xuytx5/deforum_notebook_v05_for_stable_diffusion/)
 *   [CLIPasso](https://clipasso.github.io/clipasso/): Semantically-Aware Object Sketching
