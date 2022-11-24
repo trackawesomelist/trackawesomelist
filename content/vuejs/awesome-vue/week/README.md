@@ -18,6 +18,7 @@
 
 ### Components & Libraries / UI Components
 
+*   [TwicPics (⭐28)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
 *   [vue2-text-annotation (⭐5)](https://github.com/HC200ok/vue2-text-annotation) - A \[Vue 2.x] component for text annotation and manual data masking
 *   [vue-auth-ui (⭐10)](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
 

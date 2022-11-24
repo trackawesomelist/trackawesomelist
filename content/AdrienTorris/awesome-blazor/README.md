@@ -6,6 +6,16 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Nov 24, 2022](/content/2022/11/24/README.md)
+
+### Tutorials
+
+*   [NextTechEvent by Coding After Work](https://www.youtube.com/watch?v=Z2EZXY6G5ZU) - Build "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. [Source code (⭐2)](https://github.com/CodingAfterWork/NextTechEvent) ![stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400).
+
+### Videos / Others
+
+*   [Building "Next Tech Event" using Blazor and RavenDB Part 12](https://www.youtube.com/watch?v=tpF61oKd3-I) - ![duration](https://img.shields.io/badge/Duration:%20-129%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 2, 2022 - Part 12 of the project "NextTechEvent", a site that will help speakers, organizers, and attendees find their next tech event. In this stream, we add search functionality using RavenDB by adding an index. A way for organizers to filter conferences by name, country, location, city, and tags or a combination of them. This way we can see how many conferences are happening in "Stockholm" or all the conferences named "NDC". ![GitHub stars](https://img.shields.io/github/stars/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodingAfterWork/NextTechEvent?style=flat-square\&cacheSeconds=86400)  [Source code (⭐2)](https://github.com/CodingAfterWork/NextTechEvent).
+
 ## [Nov 22, 2022](/content/2022/11/22/README.md)
 
 ### Templates
@@ -71,7 +81,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Component bundles
 
-*   [Skclusive.Material.Components (⭐383)](https://github.com/skclusive/Skclusive.Material.Component) - ![GitHub stars](https://img.shields.io/github/stars/skclusive/Skclusive.Material.Component?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/skclusive/Skclusive.Material.Component?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor ([Dashboard Demo](https://skclusive.github.io/Skclusive.Blazor.Samples/Dashboard/)),  ([Components](https://skclusive.github.io/Skclusive.Material.Docs/)).
 *   [Makani (⭐40)](https://github.com/getspacetime/makani) - ![GitHub stars](https://img.shields.io/github/stars/getspacetime/makani?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/getspacetime/makani?style=flat-square) Lightweight, customizable, and performance oriented component library for Blazor and .NET MAUI Hybrid. Built with TailwindCSS. [Demo](https://getspacetime.github.io/makani/).
 
 ### Tools & Utilities / Others
@@ -369,9 +378,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Others / Others
 
 *   [Fun.Blazor (⭐104)](https://github.com/slaveOftime/Fun.Blazor) - ![stars](https://img.shields.io/github/stars/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/slaveOftime/Fun.Blazor?style=flat-square\&cacheSeconds=86400) This is a project to make F# developer to write blazor easier - Use F# for Blazor, Computation expression (CE) style DSL for internal and third party blazor libraries, Dependency injection, Adaptive and Elmish models, Giraffe style routing, Type safe style.
-*   [Blazor.AdaptiveCards (⭐47)](https://github.com/mikoskinen/Blazor.AdaptiveCards) - ![stars](https://img.shields.io/github/stars/mikoskinen/Blazor.AdaptiveCards?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mikoskinen/Blazor.AdaptiveCards?style=flat-square\&cacheSeconds=86400) Adaptive Cards for Blazor. [Documentation](https://adaptivecardsblazor.com/).
-*   [WebSocketHelper (⭐31)](https://github.com/Lupusa87/BlazorWebSocketHelper) - ![stars](https://img.shields.io/github/stars/Lupusa87/BlazorWebSocketHelper?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorWebSocketHelper?style=flat-square\&cacheSeconds=86400) Helper for Web Socket in Blazor.
-*   [BlazorFileSaver (⭐24)](https://github.com/IvanJosipovic/BlazorFileSaver) - ![stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorFileSaver?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorFileSaver?style=flat-square\&cacheSeconds=86400) Blazor Component wrapper for FileSaver.js ([Demo](https://blazorfilesaver.netlify.com)).
 *   [Blazor.DownloadFileFast (⭐21)](https://github.com/StefH/Blazor.DownloadFileFast) - ![stars](https://img.shields.io/github/stars/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/StefH/Blazor.DownloadFileFast?style=flat-square\&cacheSeconds=86400) Fast download of files to the browser from Blazor without any javascript library reference or dependency. ([Demo](https://stefh.github.io/Blazor.DownloadFileFast/)).
 *   [Blazor.DynamicJavascriptRuntime.Evaluator (⭐11)](https://github.com/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator) - ![stars](https://img.shields.io/github/stars/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jameschch/Blazor.DynamicJavascriptRuntime.Evaluator?style=flat-square\&cacheSeconds=86400) Execute dynamic object expressions as Javascript in Blazor client-side apps.
 
@@ -549,19 +555,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Videos / Others
 
-*   [ASP.NET Community Standup - Blazor WebAssembly on .NET 6](https://www.youtube.com/watch?v=8gwSU3oaMV8) - ![duration](https://img.shields.io/badge/Duration:%20-78%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 11, 2021 - Join Blazor creator Steve Sanderson for a special look at Blazor WebAssembly on .NET 6. [Community links](https://www.theurlist.com/blazor_community_standup_january_2022).
-*   [Blazor Updates in .NET 6 - Hot Reload, Query Parameters, and More](https://www.youtube.com/watch?v=wT9EOfLghlY) - ![duration](https://img.shields.io/badge/Duration:%20-39%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 25, 2021 - There are a lot of changes to Blazor in .NET 6. These are quality of life changes, not major shifts in how Blazor operates. In this video, we are going to look at a number of changes to Blazor that will directly impact and improve how you build Blazor apps.
-
-## [Jan 01, 2022](/content/2022/01/01/README.md)
-
-### Videos / Others
-
-*   [Publish a Blazor WebAssembly app and .NET API with Azure Static Web Apps](https://www.youtube.com/watch?v=bB0bEBiGRVw) - ![duration](https://img.shields.io/badge/Duration:%20-89%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) December 6, 2021 - Automatically deploy and update a Blazor web application and its API from a GitHub repository. In this episode, you will clone and run an existing Blazor web app locally, create an API for the app with Azure Functions and publish the app and its API to Azure Static Web Apps.
-
-### Podcasts / Others
-
-*   [The Future of Blazor, with Daniel Roth](https://dotnetrocks.com/?show=1771) - December 23, 2021 - NET 6 was huge for Blazor - what's next? Carl and Richard talk to Daniel Roth about how Blazor continues to evolve as a C#-centric way to build web applications. Daniel talks about a bunch of the key features from .NET 6, including smaller runtime, Hot Reload, and rending components from JavaScript. The conversation also digs into the evolution of Blazor Fluent UI and MAUI - which also leads to the futures conversation, taking advantage of multithreading, and other great features you can see in the road map on GitHub. More Blazor is coming. Duration: 60 minutes.
-*   [OpenSilver Ships with Giovanni Albani](https://dotnetrocks.com/?show=1771) - December 9, 2021 - OpenSilver reaches V1! Carl and Richard talk to Giovanni Albani about OpenSilver - an open-source, plug-in-free implementation of Silverlight. Giovanni talks about how the client-side of OpenSilver is different from Silverlight, using Web Assembly to eliminate the need for the plug-in. But the developer SDK side is as close to identical as possible. The conversation explores going beyond compatibility with Silverlight 5 from 2011 to more modern capabilities, including the latest versions of .NET and C#. OpenSilver is not just a migration solution - it's a cross-platform development platform that is continuing to grow. Duration: 49 minutes.
+*   [ASP.NET Community Standup - Blazor WebAssembly on .NET 6](https://www.youtube.com/watch?v=8gwSU3oaMV8) - ![duration](https://img.shields.io/badge/Duration:%20-78%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 11, 2022 - Join Blazor creator Steve Sanderson for a special look at Blazor WebAssembly on .NET 6. [Community links](https://www.theurlist.com/blazor_community_standup_january_2022).
 
 ## [Dec 10, 2021](/content/2021/12/10/README.md)
 
@@ -575,20 +569,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [BlazorTemplater (⭐90)](https://github.com/conficient/BlazorTemplater) - ![last-commit](https://img.shields.io/github/last-commit/conficient/BlazorTemplater?style=flat-square\&cacheSeconds=86400) Use `.razor` components to render HTML strings for email content.
 *   [MediaSession.Blazor (⭐3)](https://github.com/zuozishi/MediaSession.Blazor) - ![last-commit](https://img.shields.io/github/last-commit/zuozishi/MediaSession.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Media Session API. The Media Session API provides a way to customize media notifications. ([Demo](https://zuozishi.github.io/MediaSession.Blazor/)).
 
-### Podcasts / Others
-
-*   [Michael Washington on Blazor in .NET 6](http://azuredevopspodcast.clear-measure.com/michael-washington-on-blazor-in-net-6-episode-168) - November 22, 2021 - Hot off the heels of .NET Conf, there is tons to discuss regarding Blazor and .NET 6! Michael shares the key announcement that developers should be looking out for, the announcements he was personally most excited for, and his advice for those looking to just get started with Blazor. He also speaks about some of his recently published books on the topics of Blazor Oqtane and Blazor WebAssembly, speaks about the current state of third-party UI controls and components, and where you can go to take an even deeper dive into everything he discusses today. Duration: 34 minutes.
-*   [.NET 6 and Visual Studio 2022 are here](https://www.mergeconflict.fm/280) - November 15, 2021 - Conversation about the latest in .NET 6, VS 2022, and all of .NET Conf 2021. Duration: 42 minutes.
-
 ## [Nov 28, 2021](/content/2021/11/28/README.md)
 
 ### Hybrid
 
 *   [BlazorInAngularDemo (⭐20)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
-
-### Videos / Others
-
-*   [Web Wednesday: Recapping .NET Conf with Jon Galloway](https://www.youtube.com/watch?v=hP2ZjtXpWyk) - ![duration](https://img.shields.io/badge/Duration:%20-77%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 17, 2021 - .NET Conf is a wrap, but all the goodness revealed during the conference is just getting started. Between Minimal APIs, performance improvements, and enhancements to some of your favorite features there's a lot to talk about. Jon Galloway joins us this week to cover some of the big updates, talk about his favorites, and how to start using some of the cool new toys today.
 
 ## [Nov 24, 2021](/content/2021/11/24/README.md)
 
@@ -596,82 +581,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Umbraco9 & Blazor WASM Starter Site (⭐32)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
 
-### Videos / Others
-
-*   [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=GoRueoEv8NI) - ![duration](https://img.shields.io/badge/Duration:%20-92%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 22, 2021 - Learn how to set up your development environment and build your first web app with Blazor, Visual Studio Code, and C#.
-
-### Articles / Others
-
-*   [Umbraco 9 & Blazor WebAssembly Starterkit on GitHub](https://cornehoskam.com/posts/umbraco-9-blazor-webassembly-starterkit-on-github) - November 24, 2021 - A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts. [Source code (⭐32)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) ![stars](https://img.shields.io/github/stars/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400).
-
-## [Nov 21, 2021](/content/2021/11/21/README.md)
-
-### Videos / Others
-
-*   [Host, deploy and scale ASP.NET Core Blazor Server](https://www.youtube.com/watch?v=pkfsKdiuTdc\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=82) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - Let's discuss Host configuration values, deployment, scalability, SignalR configuration, Azure SignalR Service and more.
-*   [What’s new in bUnit for .NET 6](https://www.youtube.com/watch?v=0l88RIyseqE\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=52) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - In this talk we will go through the latest additions and changes to bUnit that makes it simpler and easier than ever to test Blazor components. This includes the additions related to the new features that are part of the .NET 6 release of Blazor.
-*   [Blazor and GraphQL](https://www.youtube.com/watch?v=hBWYrNTpIhc\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=58) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - GraphQL is a powerful way of querying data. Creating loosely coupled clients using various JavaScript libraries to present data from a GraphQL API has been a popular architecture adopted by developers. How can we consume an GraphQL API in a Blazor WASM app to create rich apps? What if I can make it even better by using the content from a Headless CMS and present it using a Blazor App? In my session, I will make use of the GraphQL API from Umbraco Heartcore, a headless CMS, to create a Harry Potter themed Blazor App and present the data to the user in multiple ways.
-*   [Embedding Power BI Reports in your Blazor 6 site](https://www.youtube.com/watch?v=O8vmnYBUkbc\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=74) - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - In this coding session, we will take a run-of-the-mill Blazor WebAssembly site, create a page with a report published in powerbi.com, we will then show how to use the ASP.NET Core identity services to protect reports from unauthorized eyes.
-*   [Responsive and Adaptive Tactics for Blazor Applications](https://www.youtube.com/watch?v=n53rWnIkbkk\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=68) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - In this session you'll learn about CSS techniques like CSS Grid, Flexbox and media queries. We will also explore techniques for adaptive the user interface at runtime for maximum control. These tactics apply to Blazor WASM, Server, and Blazor Hybrid.
-*   [.NET Conf 2021 Keynote](https://www.youtube.com/watch?v=gYQxBHjRNr0\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-70%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - Join Scott Hunter and team as they show you all the amazing things you can do with .NET 6.
-
 ## [Nov 18, 2021](/content/2021/11/18/README.md)
 
 ### Component bundles
 
 *   [BlazorOcticons (⭐6)](https://github.com/BlazorOcticons/BlazorOcticons) - ![last commit](https://img.shields.io/github/last-commit/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/octicons/) created as a `.razor` components and available via the NuGet package. The project [website](https://blazorocticons.net/) is an example using the generated components.
-
-## [Nov 17, 2021](/content/2021/11/17/README.md)
-
-### Videos / Others
-
-*   [Blazor Azure B2C Authentication and Authorization](https://www.youtube.com/watch?v=ecaiqrU_67k\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=41) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2021 - In this session we will cover how you can use Azure B2C authentication and authorization within your Blazor application to manage your users, and to allow your users to log in using their preferred social and enterprise logins.
-*   [Build cross-platform native apps with .NET MAUI and Blazor](https://www.youtube.com/watch?v=Dr8L7zXxwLI\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=17) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - The power of Blazor is coming to native apps on desktop and mobile devices! Use existing Blazor web components and get the power of native apps, or supercharge your existing native apps with the power and reach of Blazor with the new BlazorWebView control for .NET MAUI, WPF, and WinForms.
-*   [Enterprise-grade Blazor apps with .NET 6](https://www.youtube.com/watch?v=GKu-vRxOWr8) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - Blazor in [.NET 6](https://get.dot.net/6) gives you the functionality you need to build real world apps of any size and complexity. In this session we'll look at the new Blazor features in .NET 6 for practical web app development. We'll look at the new support for Hot Reload, error boundaries, state preservation during prerendering, faster file uploads, query string handling, adding page metadata, and integrating Blazor components into existing JavaScript based apps.
-*   [Next-generation Blazor components with .NET 6](https://www.youtube.com/watch?v=p77UumvZCNM) - ![duration](https://img.shields.io/badge/Duration:%20-31%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - Blazor in [.NET 6](https://get.dot.net/6) enables building even more powerful and flexible web UI components. In this session we'll look at the new improvements to the Blazor component model, including required component parameters, generic type inference from ancestor components, JavaScript initializers, and handling of static web assets.
-*   [Introduction to .NET MAUI](https://www.youtube.com/watch?v=HMYpAw2sl58) - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - .NET MAUI is the best way to build cross platform mobile and desktop apps with .NET and C#. Join Maddy Leger, .NET MAUI Program Manager, to get a first look of .NET MAUI in [.NET 6](https://get.dot.net/6) and learn how you can start using it today.
-
-## [Nov 16, 2021](/content/2021/11/16/README.md)
-
-### Videos / Others
-
-*   [.NET Conf 2021 - Day 1](https://www.youtube.com/watch?v=oPyTZ-HGdn4) - ![duration](https://img.shields.io/badge/Duration:%20-666%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - [.NET Conf](https://www.dotnetconf.net) is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 6 will launch at .NET Conf 2021! Come celebrate and learn about the new release.
-
-### Podcasts / Others
-
-*   [Eilon Lipton on Blazor Desktop](http://azuredevopspodcast.clear-measure.com/eilon-lipton-on-blazor-desktop-episode-166) - November 8, 2021 - In this episode, Eilon is discussing the ins and outs of Blazor Desktop — which is currently 100% of what he’s been working on. He takes listeners on a deep-dive of Blazor Desktop, sharing what they need to know in anticipation of .NET 6 and the GA drop of Visual Studio 2022 coming out. He also touches on WPF, WinForms, MAUI, and the 2021 DEVintersection Conference. Duration: 50 minutes.
-*   [Real World Blazor With Steve Peirce](https://dotnetcore.show/episode-86-real-world-blazor-with-steve-peirce/) - November 5, 2021 - .NET Core Show, Episode 86 - Real World Blazor With Steve Peirce. Duration: 62 minutes.
-
-## [Nov 12, 2021](/content/2021/11/12/README.md)
-
-### Videos / Others
-
-*   [Full-stack .NET with Blazor WebAssembly and Azure Static Web Apps](https://www.youtube.com/watch?v=RZhEScjKVHE) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - With automatic global distribution, custom domains, and free SSL certificates, Azure Static Web Apps has everything you need to deploy modern web applications with serverless APIs. Join us to learn all about how to deploy Blazor WebAssembly apps with .NET Azure Functions to Azure Static Web Apps.
-*   [New Blazor WebAssembly capabilities in .NET 6](https://www.youtube.com/watch?v=kesUNeBZ1Os) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2021 - With [.NET 6](https://get.dot.net/6), the underlying .NET WebAssembly runtime supports entirely new kinds of functionality, and can be faster and more productive than ever before. "Native dependencies" enables embedding libraries from other tech stacks (e.g., a C/C++ database engine, or a Rust media processor). AOT compilation brings truly near-native performance to your .NET code in the browser, and the new build toolchain can now strip out unused native code to ship significantly smaller bundles. This talk explores how you can build new kinds of web apps, while having a more enjoyable and productive experience via instant hot reload and a better Razor editor.
-*   [Minimal APIs in .NET 6](https://www.youtube.com/watch?v=uoVeZzKl6WQ) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2021 - In this talk, Safia and Stephen, developers from the ASP.NET team, will introduce you to minimal APIs, a new, low-ceremony way to build small HTTP APIs using ASP.NET Core. The demo includes a Blazor app.
-*   [Blazor Hot Reload in .NET 6](https://www.youtube.com/watch?v=3LJDMAOm8JU) - ![duration](https://img.shields.io/badge/Duration:%20-5%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - With Blazor Hot Reload, you can save time by seeing your ASP.NET WebAssembly apps changes live! Here, Isadora will demo how to use this time and expense saving feature so you can make your WebAssembly apps even more awesome.
-*   [Smaller & Faster Blazor WebAssembly apps with Runtime Relinking in .NET 6](https://www.youtube.com/watch?v=Jte_VwsSazs) - ![duration](https://img.shields.io/badge/Duration:%20-2%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - The new support for runtime relinking has made Blazor WebAssembly apps smaller and faster to download. In this demo, Daniel Roth will show how runtime relinking works while making the smallest WebAssembly app possible.
-*   [Blazor WebAssembly AOT on Azure Static Web Apps in .NET 6](https://www.youtube.com/watch?v=9RNWAF9SKO0) - ![duration](https://img.shields.io/badge/Duration:%20-3%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - Host your Blazor WebAssembly applications on Azure Static Web Apps. Anthony Chu will demo how to automatically build and deploy your app, utilize [.NET 6](https://get.dot.net/6), and improve your runtime performance with ahead-of-time compilation on Azure Static Web Apps.
-
-## [Nov 08, 2021](/content/2021/11/08/README.md)
-
-### Articles / Others
-
-*   [Announcing ASP.NET Core in .NET 6](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/) - November 8, 2021 - .NET 6 is now released! ASP.NET Core in .NET 6 includes everything you need to build rich modern web UI and powerful back-end services.
-*   [Full-stack .NET 6 Apps with Blazor WebAssembly and Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure/full-stack-net-6-apps-with-blazor-webassembly-and-azure-static/ba-p/2933428) - November 8, 2021 - .NET 6 is the latest version of .NET and it’s generally available today. The Azure Static Web Apps team is excited to announce that you can now run full-stack .NET 6 apps on Static Web Apps.
-
-## [Nov 06, 2021](/content/2021/11/06/README.md)
-
-### Articles / Others
-
-*   [Microsoft Publishes New Documentation for Blazor, ASP.NET Core](https://visualstudiomagazine.com/articles/2021/11/04/new-aspnet-core-docs.aspx) - November 4, 2021 - Microsoft published new documentation for its .NET 6 web-dev component, ASP.NET Core, including the red-hot Blazor framework.
-*   [Blazor Hybrid Web Apps with .NET MAUI](https://www.codemag.com/article/2111092) - October 29, 2021 - Blazor Hybrid Web Apps with .NET MAUI.
-
-## [Nov 05, 2021](/content/2021/11/05/README.md)
-
-### Videos / Others
-
-*   [Web Wednesday: Creating full stack web apps with Blazor](https://www.youtube.com/watch?v=C9WSloRSiIc) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 21, 2021 - Blazor provides an alternative option for building rich client-side web applications using .NET instead of JavaScript. The core of this framework is based on components, similar to JavaScript frameworks like Vue or React. In this session, we'll take a look at how this component model works.
 
 ## [Nov 04, 2021](/content/2021/11/04/README.md)
 
@@ -699,82 +613,37 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [UpBlazor (⭐42)](https://github.com/Hona/UpBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Hona/UpBlazor?style=flat-square\&cacheSeconds=604800) - ![last commit](https://img.shields.io/github/last-commit/Hona/UpBlazor?style=flat-square\&cacheSeconds=86400) Blazor Server integrating with Up bank (an Australian digital bank), to assist users with budgeting and to gain powerful future insights. Uses Clean Architecture and [Marten DB](https://martendb.io/).
 
-### Videos / Others
-
-*   [Blast off with Blazor - Supercharged Enterprise UIs using AntDesign](https://www.youtube.com/watch?v=lJojMo9RpoA) - ![duration](https://img.shields.io/badge/Duration:%20-77%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 20, 2021 - AntBlazor is fully supported by the .NET Foundation and boasts an impressive following. The best part is the awesome documentation and code samples to get you up and running in no time.
-
-## [Oct 27, 2021](/content/2021/10/27/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Blazor Native Interop with SkiaSharp](https://www.youtube.com/watch?v=lVWQkpcVEWQ\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-91%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 26, 2021 - [SkiaSharp (⭐3.1k)](https://github.com/mono/SkiaSharp) is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images. In this edition of the Blazor community standup learn more about SkiaSharp, from Matthew Leibowitz. [Community links](https://www.theurlist.com/blazor_community_standup_october_2021).
-
 ## [Oct 23, 2021](/content/2021/10/23/README.md)
 
 ### Others
 
 *   [WordTester (⭐2)](https://github.com/KamilBugnoKrk/WordTester) - ![last commit](https://img.shields.io/github/last-commit/KamilBugnoKrk/WordTester) An application for learning foreign words using flashcards and spaced repetition.
 
-## [Oct 21, 2021](/content/2021/10/21/README.md)
-
-### Articles / Others
-
-*   [As .NET 6 Nears GA, Blazor WebAssembly Can Now Use Native Dependencies](https://visualstudiomagazine.com/articles/2021/10/15/aspnet-update.aspx) - October 15, 2021 - Less than a month before .NET 6 ships, Microsoft announced Blazor WebAssembly apps can now use native dependencies, allowing developers to tap into native C code, for example, upon jumping through a few hoops.
-
 ## [Oct 18, 2021](/content/2021/10/18/README.md)
 
 ### Games
 
-*   [BlazorGames (⭐170)](https://github.com/exceptionnotfound/BlazorGames) - ![stars](https://img.shields.io/github/stars/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=86400) This project is a Blazor WebAssembly project where we design, model, implement, and play common board and card games. This website is deployed here: [blazorgames.net](https://blazorgames.net/).
-*   [Flappy Blazor Bird (⭐55)](https://github.com/ctrl-alt-d/FlappyBlazorBird) - ![stars](https://img.shields.io/github/stars/ctrl-alt-d/FlappyBlazorBird?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ctrl-alt-d/FlappyBlazorBird?style=flat-square\&cacheSeconds=86400) Blazor Flappy Bird's port. [\[Wasm Demo\]](https://flappyblazorbird.ctrl-alt-d.net) | [\[Multiplayer Demo\]](http://flappymmo.ctrl-alt-d.net/).
 *   [Board Games (⭐58)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐58)](https://github.com/alexyakunin/BoardGames).
-*   [ABlazorPong (⭐11)](https://github.com/marcodiniz/ABlazorPong) - ![last commit](https://img.shields.io/github/last-commit/marcodiniz/ABlazorPong?style=flat-square\&cacheSeconds=86400) A classic Pong in Blazor WebAssembly, with sounds, without a single line of Javascript.  [Demo](https://marcodiniz.github.io/ABlazorPong/).
 
 ### Hybrid
 
 *   [Photino (⭐398)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
-
-## [Oct 15, 2021](/content/2021/10/15/README.md)
-
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Release Candidate 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-2/) - October 12, 2021 - .NET 6 RC2 is very close to the final build of .NET 6 that we expect to ship in November this year in time for .NET Conf 2021. It’s also a “go live” release, so you’re welcome to use it in production. .NET 6 RC2 primarily contains quality improvements and bug fixes, although it does also include a few new features as well.
 
 ## [Oct 12, 2021](/content/2021/10/12/README.md)
 
 ### Component bundles
 
 *   [Majorsoft Blazor Components (⭐231)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐231)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
-*   [LoreSoft.Blazor.Controls (⭐119)](https://github.com/loresoft/LoreSoft.Blazor.Controls) - ![stars](https://img.shields.io/github/stars/loresoft/LoreSoft.Blazor.Controls?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/loresoft/LoreSoft.Blazor.Controls?style=flat-square\&cacheSeconds=86400) Auto-complete (Typeahead) textbox with local and remote data source, for both Client-side and Server-Side Blazor. Also has DateTimePicker and ToggleSwitch. [Demo](https://blazor.loresoft.com/).
 
 ### Individual components / Others
 
 *   [Blazor File Drop Zone (⭐9)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Exploring MudBlazor](https://www.youtube.com/watch?v=GtLIpITqznA\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=5) - ![duration](https://img.shields.io/badge/Duration:%20-76%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 12, 2021 - In this edition of the Blazor community standup learn more about [MudBlazor (⭐4.2k)](https://github.com/MudBlazor/MudBlazor), a Material Design framework for Blazor with co-creators Jonny Larsson & Meinrad Recheis. [Community links](https://www.theurlist.com/blazor_community_standup_october).
-*   [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=qEdVcTZH5bs\&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH\&index=5) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 11, 2021 - Razor is a server-side, page-centric programming model for building webpages with ASP.NET Core. Razor has continued to mature over time, and has expanded to include numerous "quality-of-life" additions to make the developer's life easier. Jon Galloway joins us to talk about MVC and ASP.NET, and walks us through some of his favorite features, tips and tricks.
-*   [Web Wednesday: Blazor Web Apps using GraphQL and EF Core with Jeremy Likness](https://www.youtube.com/watch?v=3B_6bz8JFBE\&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 23, 2021 - Got data? Got Blazor? The “glue” between the client and server is often the weakest link in building enterprise web apps. What if you could use your domain model as the source of truth, generate a database that supports your design and easily move data between the server and your Blazor WebAssembly app with just a few lines of code? Jeremy will show you how to do this and more with the power of Entity Framework Core enhanced by GraphQL.
 
 ## [Oct 01, 2021](/content/2021/10/01/README.md)
 
 ### Component bundles
 
 *   [Blazorise (⭐2.5k)](https://github.com/Megabit/Blazorise) - ![GitHub stars](https://img.shields.io/github/stars/Megabit/Blazorise?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Megabit/Blazorise?style=flat-square\&cacheSeconds=86400) Components for Blazor with support for Bootstrap, Bulma, AntDesign and Material CSS. ([Bootstrap Demo](https://bootstrapdemo.blazorise.com/)), ([Bulma Demo](https://bulmademo.blazorise.com/)), ([AntDesign Demo](https://antdesigndemo.blazorise.com/)), ([Material Demo](https://materialdemo.blazorise.com/)).
-
-## [Sep 30, 2021](/content/2021/09/30/README.md)
-
-### Articles / Others
-
-*   [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/) - September 28, 2021 - Custom deployment layout for Blazor WebAssembly apps.
-*   [Blazor updates for .NET 6 using Visual Studio 2022](https://www.roundthecode.com/dotnet/blazor/blazor-updates-dotnet-6-visual-studio-2022) - September 16, 2021 - Blazor updates for .NET 6 using Visual Studio 2022.
-
-## [Sep 24, 2021](/content/2021/09/24/README.md)
-
-### Podcasts / Others
-
-*   [Daniel Roth on Web Development with .NET 6](http://azuredevopspodcast.clear-measure.com/daniel-roth-on-web-development-with-net-6-episode-158) - September 13, 2021 - Azure DevOps Podcast, episode 158: Daniel Roth on Web Development with .NET 6. Daniel was last on the podcast over two years ago in episode 47 to discuss Blazor DevOps. In this episode, he and Jeffrey discuss web development with .NET 6.0. He shares the high points of what’s coming next for .NET 6.0, the major differences between .NET 5.0 and 6.0, what to look forward to with regards to Blazor, and his insights on WASM tooling, minimal APIs and hosting, and hot reload within .NET 6.0. Duration: 45 minutes.
 
 ## [Sep 14, 2021](/content/2021/09/14/README.md)
 
@@ -787,58 +656,23 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [BlazorWorker (⭐248)](https://github.com/Tewr/BlazorWorker) - ![stars](https://img.shields.io/github/stars/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Tewr/BlazorWorker?style=flat-square\&cacheSeconds=86400) Library for creating DotNet Web Worker threads/multithreading in Blazor. [Live demo](https://tewr.github.io/BlazorWorker).
 *   [Blazor.BrowserExtension (⭐201)](https://github.com/mingyaulee/Blazor.BrowserExtension) - ![stars](https://img.shields.io/github/stars/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mingyaulee/Blazor.BrowserExtension?style=flat-square\&cacheSeconds=86400) Develop browser extensions/addons with Blazor WebAssembly. Tested with Google Chrome, Mozilla Firefox and MS Edge.
 
-### Videos / Others
-
-*   [ASP.NET Community Standup - Blazor in .NET 6 RC1](https://www.youtube.com/watch?v=cpt0Ljs35YA\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=1) - ![duration](https://img.shields.io/badge/Duration:%20-140%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) September 14, 2021 - Find out what's new in Blazor in .NET 6 RC1. [Community links](https://www.theurlist.com/blazor_community_standup_september_2021).
-
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/) - September 14, 2021 - .NET 6 Release Candidate 1 (RC1) is now available and includes many great new improvements to ASP.NET Core.
-
-## [Sep 03, 2021](/content/2021/09/03/README.md)
-
-### Articles / Others
-
-*   [BabylonJS and Blazor - Simple Game State](https://codyanhorn.tech/blog/babylonjs-and-blazor-simple-game-state) - September 2, 2021 - Build a simple game with BabylonJS and Blazor. [Source code (⭐8)](https://github.com/canhorn/BabylonJS.Blazor.Game.Tutorial/tree/step/03_Simple-Game-State) ![stars](https://img.shields.io/github/stars/canhorn/BabylonJS.Blazor.Game.Tutorial?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/canhorn/BabylonJS.Blazor.Game.Tutorial?style=flat-square\&cacheSeconds=86400). [Demo](https://babylonjsblazorstep03.z19.web.core.windows.net/).
-*   [Why build Single Page Apps in Blazor](https://dev.to/dotnet/why-build-single-page-apps-in-blazor-103m) - June 16, 2021 - This post addresses some common Blazor questions. Specifically, the "what?", but more importantly the "why?". Why should I care about Blazor when we've already got Angular, React, Vue, or some other JavaScript framework? Why choose Blazor, and what is WebAssembly all about? We'll cover the history of Microsoft's web application development frameworks and what we see for its bright future.
-
 ## [Sep 02, 2021](/content/2021/09/02/README.md)
 
 ### CMS
 
 *   [Blogifier (⭐1.1k)](https://github.com/blogifierdotnet/Blogifier) - ![GitHub stars](https://img.shields.io/github/stars/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=86400) ![.NET 5](https://img.shields.io/badge/.NET-5-692079.svg?style=flat-square) ASP.NET Core Blogging application with Blazor Admin Dashboard. [Demo](http://blogifier.net/blog).
 
-### Games
-
-*   [Game of Life (⭐5)](https://github.com/mariusmuntean/GameOfLife) - ![last commit](https://img.shields.io/github/last-commit/mariusmuntean/GameOfLife?style=flat-square\&cacheSeconds=86400) Game of life.
-
 ### IoT
 
 *   [Meadow Weather (⭐5)](https://github.com/bradwellsb/blazor-meadow-weather) - ![last commit](https://img.shields.io/github/last-commit/bradwellsb/blazor-meadow-weather?style=flat-square\&cacheSeconds=86400) In this sample, a Meadow microcontroller polls data from a LM35 temperature sensor. That data is sent via HTTP request to an API controller endpoint and stored in a database where it can be visualized in a chart using a Blazor web app.
 
-### Others
-
-*   [Planetary Docs (⭐55)](https://github.com/JeremyLikness/PlanetaryDocs) - ![stars](https://img.shields.io/github/stars/JeremyLikness/PlanetaryDocs?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/JeremyLikness/PlanetaryDocs?style=flat-square\&cacheSeconds=86400) ![.NET 6](https://img.shields.io/badge/.NET-6-692079.svg?style=flat-square) This repository is intended to showcase a full application that supports Create, Read, Update, and Delete operations (CRUD) using Blazor (Server), Entity Framework Core and Azure Cosmos DB. This repository is upgraded to .NET 6 and EF Core 6.
-
 ### Tutorials
 
-*   [Build the Game of Life with Blazor](https://dev.to/mariusmuntean/build-the-game-of-life-with-blazor-4ie9) - August, 2021 - Build the Game of Life with Blazor. [Source code (⭐5)](https://github.com/mariusmuntean/GameOfLife) ![stars](https://img.shields.io/github/stars/mariusmuntean/GameOfLife?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mariusmuntean/GameOfLife?style=flat-square\&cacheSeconds=86400).
 *   [Blazor Meadow Web API Weather Chart.js](https://wellsb.com/csharp/iot/blazor-meadow-web-api-weather-charts/) - June 2021 - Display sensor data using Chart.js in a Blazor application. [Source code (⭐5)](https://github.com/bradwellsb/blazor-meadow-weather) ![stars](https://img.shields.io/github/stars/bradwellsb/blazor-meadow-weather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/bradwellsb/blazor-meadow-weather?style=flat-square\&cacheSeconds=86400).
-*   [Setup Blazor app using ASP.NET Core Empty project template](http://www.binaryintellect.net/articles/1969fdfd-b039-4e3d-81e6-db0526a97637.aspx) - May, 2021 - Setup Blazor app using ASP.NET Core Empty project template.
 
 ### Individual components / Others
 
 *   [MetaMask.Blazor (⭐33)](https://github.com/michielpost/MetaMask.Blazor) - ![last commit](https://img.shields.io/github/last-commit/michielpost/MetaMask.Blazor?style=flat-square\&cacheSeconds=86400) A library that provides an easy helper to use [MetaMask](https://metamask.io/) with Blazor WebAssembly.
-
-### Videos / Others
-
-*   [Let's Learn .NET: Blazor](https://channel9.msdn.com/Shows/lets-learn-dotnet/Lets-Learn-NET-Blazor) - ![duration](https://img.shields.io/badge/Duration:%20-121%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=microsoft) June 7, 2021 - Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries. Together, we will learn all about Blazor and why you would use it to build web apps, and then we will build our first client web app with Blazor and .NET.
-
-## [Aug 31, 2021](/content/2021/08/31/README.md)
-
-### Videos / Others
-
-*   [The .NET Docs Show - Micro frontends with Blazor](https://www.youtube.com/watch?v=8Ac2QMdusrs) - ![duration](https://img.shields.io/badge/Duration:%20-64%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 31, 2021 - In this week's episode, Florian Rappl joins the panel to show us how to build websites using compositional UIs that grow naturally as your application scales.
 
 ## [Aug 30, 2021](/content/2021/08/30/README.md)
 
@@ -848,33 +682,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 
-### Others
-
-*   [Time Mage (⭐4)](https://github.com/DanielRBowen/TimeMage) - ![last commit](https://img.shields.io/github/last-commit/DanielRBowen/TimeMage?style=flat-square\&cacheSeconds=86400) A Blazor PWA which has Timers, a Stopwatch, and Interval Timers. [Demo](https://timemage.azurewebsites.net/intervaltimers).
-
-### Videos / Others
-
-*   [Blazor ListView Component](https://www.youtube.com/watch?v=vRbMU8IanCQ) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 27, 2021 - In this Blazor Components session, Fahad Mullaji aka @Curious Drive walks us through the various functionalities of the Telerik UI for Blazor ListView component. He explores the multiple List templates, focusing on the Header template which allows adding custom Blazor components, and footer template which shows the number of items in the list.
-*   [Getting Started with Blazor Components](https://www.youtube.com/watch?v=gZVGwFa-L1s) - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 26, 2021 - Join the amazing Fahad Mullaji a.k.a @Curious Drive in his "Getting Started with Telerik UI for Blazor" journey. In this video, he goes through five of the most practical and frequently used components – TextBox, DropDownList, AutoComplete, MultiSelect, and CheckBox.
-
-### Articles / Others
-
-*   [How to Localize Error Messages for Blazor WebAssembly Forms](https://phrase.com/blog/posts/localizing-error-messages-blazor-webassembly-forms/) - July 12, 2021 - Want to localize form validation error messages in a Blazor WebAssembly app? Follow this guide to learn everything you need to know.
-
-### Podcasts / Others
-
-*   [Dean Guida on the Future of .NET Components](http://azuredevopspodcast.clear-measure.com/dean-guida-on-the-future-of-net-components-episode-154) - August 16, 2021 - Dean Guida shares his insights on the future of .NET components; lessons he has learned having run a software company for over 30 years; his top recommendations when it comes to managing software teams, DevOps toolchains, preparing for the release of .NET 6, server-side vs. Web Assembly, what .NET developers should be doing today for full system testing, and more! He also gives advice to aspiring entrepreneurial software engineers, an overview of Infragistics’ tools, and what to be looking out for as a software developer today. Duration: 34 minutes.
-
 ### Courses / Others
 
 *   [Getting Started with Blazor](https://codered.eccouncil.org/course/getting-started-with-blazor) - June 2021 - Discover the Core Concepts of Blazor and learn to create web applications with ease.
 
 ## [Aug 25, 2021](/content/2021/08/25/README.md)
-
-### Articles / Others
-
-*   [So Why Doesn't Microsoft Provide Its Own Blazor Component Library?](https://visualstudiomagazine.com/articles/2021/08/13/blazor-components.aspx) - August 13, 2021 - Did you ever wonder why Microsoft doesn't provide a component library for Blazor, its red-hot ASP.NET Core framework for creating web apps primarily with C# instead of JavaScript?
-*   [What's New for Blazor/ASP.NET Core in .NET 6 Preview 6](https://visualstudiomagazine.com/articles/2021/07/15/aspnet-core-preview-6.aspx) - July 15, 2021 - What's New for Blazor/ASP.NET Core in .NET 6 Preview 6.
 
 ### Books / Others
 
@@ -883,23 +695,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Other Languages / Others
 
 *   [ASP.NET Core Blazor 5.0: Blazor WebAssembly und Blazor Server: Moderne Single-Page-Web-Applications mit .NET, C# und Visual Studio](https://www.amazon.de/exec/obidos/ASIN/393427935X/itvisions-21) - German book on Blazor (Published September 15, 2020 with montly Updates).
-
-## [Aug 24, 2021](/content/2021/08/24/README.md)
-
-### Videos / Others
-
-*   [The .NET Docs Show - Blazor component testing with bUnit](https://www.youtube.com/watch?v=JtyVBbcVplY) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 23, 2021 - A new UI framework like Blazor means new unit testing scenarios! In this week's episode, community MVP Egil Hansen shows us bUnit, a unit testing library for Blazor components.
-*   [Planning, designing, and coding a Blazor site from scratch part 6](https://www.youtube.com/watch?v=YXrba8kiqzc\&list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI\&index=6) - ![duration](https://img.shields.io/badge/Duration:%20-101%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 23, 2021 - In this episode, Jessica takes revenge on CSS, but the big question is.... Will she win? Adding responsiveness to the menu using only CSS.
-*   [ASP.NET Community Standup - Exploring Blazorise](https://www.pscp.tv/w/1yoKMAwWQLoKQ) - ![duration](https://img.shields.io/badge/Duration:%20-71%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=) August 17, 2021 - ASP.NET Community Standup - Exploring Blazorise with Mladen Macanović. [Url list](https://www.theurlist.com/blazor_community_standup_august_2021).
-*   [Using SignalR in your Blazor applications](https://www.youtube.com/watch?v=caE5VZD5XNk) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 19, 2021 - In this episode, David Pine joins Jeremy to show off this chat bot enabled demo that's powered by Blazor WASM and SignalR. [Source code (⭐149)](https://github.com/IEvangelist/signalr-chat) ![stars](https://img.shields.io/github/stars/IEvangelist/signalr-chat?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/IEvangelist/signalr-chat?style=flat-square\&cacheSeconds=86400). [Demo](https://blazing-chat.azurewebsites.net/).
-*   [Planning, designing, and coding a Blazor site from scratch part 1](https://www.youtube.com/watch?v=ePc7YroqfPg\&list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI) - ![duration](https://img.shields.io/badge/Duration:%20-67%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 8, 2021 - Set up Azure DevOps, Builds, Release, and Blazor project.
-*   [Building Modern Applications with GraphQL and Blazor](https://www.youtube.com/watch?v=P7y-OxeSkZ8) - ![duration](https://img.shields.io/badge/Duration:%20-72%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 14, 2021 - Building Modern Applications with GraphQL and Blazor at the JetBrains .NET Days Online. After having a fundamental understanding of how GraphQL improves our data fetching needs in web applications, we will move on and build a nice real-time application with Blazor and GraphQL. Let’s build a truly engaging next gen application and push Blazor to the limit. [Slides](https://slides.com/michaelingmarstaib/developer-week-building-modern-applications-with-graphql-and-blazor). [Source code (⭐46)](https://github.com/michaelstaib/PublicSpeaking/tree/master/jetbrains_net_days_2021) ![stars](https://img.shields.io/github/stars/michaelstaib/PublicSpeaking?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/michaelstaib/PublicSpeaking?style=flat-square\&cacheSeconds=86400).
-
-## [Aug 07, 2021](/content/2021/08/07/README.md)
-
-### Games
-
-*   [SoccerPong (⭐2)](https://github.com/mdeclerk/SoccerPong) - ![last commit](https://img.shields.io/github/last-commit/mdeclerk/SoccerPong?style=flat-square\&cacheSeconds=86400) A soccer variant of classic Pong using Blazor WebAssembly. [Demo](https://mdeclerk.github.io/SoccerPong).
 
 ## [Jul 30, 2021](/content/2021/07/30/README.md)
 
@@ -925,68 +720,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [BlazorMergely (⭐5)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.
 
-### Articles / Others
-
-*   [Blazor Debugging Improvements in Rider 2021.2](https://blog.jetbrains.com/dotnet/2021/07/27/blazor-debugging-improvements-in-rider-2021-2/) - July 27, 2021 - The EAP versions of Rider 2021.2 have been released with a major improvement for Blazor developers: debugging WebAssembly (WASM) apps. This has been one of the top requested features since Blazor itself was released. In Rider 2021.2, you can now debug both Blazor Server apps and Blazor WASM apps.
-
-## [Jul 25, 2021](/content/2021/07/25/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Building with Blazor: Powered4.tv](https://www.youtube.com/watch?v=hKxciQMxueI) - ![duration](https://img.shields.io/badge/Duration:%20-78%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 13, 2021 - Powered4.tv is a video-on-demand service that leverages Blazor WASM. In this episode of the Blazor community standup, we'll talk with product engineer Steve Pierce about the successes and stories behind using Blazor WASM for Powered4.tv.
-*   [The .NET Docs Show - Scenario testing Blazor Single-Page Apps](https://www.youtube.com/watch?v=Z9lkKnzJgD8) - ![duration](https://img.shields.io/badge/Duration:%20-66%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 28, 2021 - Cover all the bases and use test scenarios to improve the quality of your test coverage in Blazor applications.
-*   [Let's Learn .NET - Blazor](https://www.youtube.com/watch?v=4Xzx7Cm9ykg) - ![duration](https://img.shields.io/badge/Duration:%20-120%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 25, 2021 - Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries. Together, we will learn all about Blazor and why you would use it to build web apps, and then we will build our first client web app with Blazor and .NET.
-*   [On .NET Live - Building Reactive UIs with Blazor](https://www.youtube.com/watch?v=EUOimtP78jQ) - ![duration](https://img.shields.io/badge/Duration:%20-78%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 24, 2021 - In this live session, Rodney Littles II shows us how to build Blazor applications with the ReactiveUI framework.
-*   [On .NET Live - Building Beautiful Blazor apps with Tailwind CSS](https://www.youtube.com/watch?v=9YdxhhgJvrE) - ![duration](https://img.shields.io/badge/Duration:%20-118%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 17, 2021 - In this session on On .NET Live, Chris Sainty(@chris\_sainty) will be showing us how to style our applications using Tailwind CSS as well as how to integrated the Blazored component libraries.
-*   [Introduction to .NET MAUI Blazor | The Xamarin Show](https://www.youtube.com/watch?v=5fbzxjUUKUM) - ![duration](https://img.shields.io/badge/Duration:%20-19%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 17, 2021 - Blazor enables building client-side web UI with .NET, but sometimes you need more than what the web platform offers. Sometimes you need full access to the native capabilities of the device. You can now host Blazor components in .NET MAUI apps to build cross-platform native apps using web UI. The components run natively in the .NET process and render web UI to an embedded web view control using a local interop channel. This hybrid approach gives you the best of native and the web. Your components can access native functionality through the .NET platform, and they render standard web UI. .NET MAUI Blazor apps can run anywhere .NET MAUI can (Windows, Mac, iOS, and Android) although our primary focus for .NET 6 is on desktop scenarios.
-*   [ASP.NET Community Standup - Build apps for Microsoft Teams with Blazor](https://www.youtube.com/watch?v=Hz8i2HPSPts) - ![duration](https://img.shields.io/badge/Duration:%20-76%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 15, 2021 - Learn how to build apps for Microsoft Teams using the Teams Toolkit, .NET, and Blazor. [Community links](https://www.theurlist.com/aspnet-standup-2021-06-15).
-*   [On .NET Live - Secrets of building Blazor Components](https://www.youtube.com/watch?v=Q4D5NffKTIk) - ![duration](https://img.shields.io/badge/Duration:%20-80%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 10, 2021 - This session with Ed Charbeneau is about building components for Blazor.
-
-## [Jul 21, 2021](/content/2021/07/21/README.md)
-
-### Videos / Others
-
-*   [Building a face recognition app with #Blazor and Azure Cognitive Services](https://www.pscp.tv/w/1LyxBdodYqyGN) - July 20, 2021 - Building a face recognition app with Blazor and Azure Cognitive Services. [Source code (⭐6)](https://github.com/JeremyMorgan/BlazorFaceRec) ![stars](https://img.shields.io/github/stars/JeremyMorgan/BlazorFaceRec?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JeremyMorgan/BlazorFaceRec?style=flat-square\&cacheSeconds=86400).
-*   [Visual Studio 2022 Preview 2 - Overview](https://www.youtube.com/watch?v=eUk8cpQv9Eg\&t=227s) - ![duration](https://img.shields.io/badge/Duration:%20-6%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 14, 2021 - This video shows some the new features in Visual Studio 2022 preview 2.
-
-### Articles / Others
-
-*   [The .NET Stacks #57: Taking a look at Blazor Error Boundaries](https://www.daveabrock.com/2021/07/18/dotnet-stacks-57/) - July 18, 2021 - Let's take a look at Blazor Error Boundaries and Minimal API improvements.
-
-### Podcasts / Others
-
-*   [bUnit, TDD, and Sci-fi with Egil Hansen](http://codingafterwork.com/2021/07/18/episode-59-bunit-tdd-and-sci-fi-with-egil-hansen/) - July 18, 2021 - In this episode, Jimmy and Jessica talk to Egil Hansen about bUnit, test-driven development, and Sci-fi. Duration: 72 minutes.
-*   [Blazor with Chris Sainty](https://unhandledexceptionpodcast.com/posts/0019-blazor/) - July 13, 2021 - In this episode, I was thrilled to be joined by Chris Sainty to chat all about Blazor! Blazor is a new .NET technology allowing you to build SPA-like frontend web UIs in C#! Very focused on developer productivity and componentisation - Blazor is certainly going to become my go-to for frontends moving forward! And chatting with Chris in this episode, has shown me even more reasons why Blazor is becoming so immensely popular.
-
 ## [Jul 19, 2021](/content/2021/07/19/README.md)
 
 ### Tools & Utilities / Others
 
 *   [Fluxor (⭐836)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
-
-### Articles / Others
-
-*   [Blazor Server apps in MVC subfolders](https://www.mistergoodcat.com/post/blazor-server-apps-in-mvc-subfolders) - July 15, 2021 - Were you ever bored and thought to yourself: how could I ruin this perfectly fine evening for me and turn it into a frustrating nightmare? Well, seek no more, I have the best idea for you. Just try to host a Blazor Server app in a sub folder of an existing MVC application, and you're in for some really nerve-wrecking "fun". Admittedly, once you know the solution it's not so hard to understand, but finding a working solution was a rabbit-hole experience for me.
-*   [How to use the button onclick event in Blazor WebAssembly](https://www.roundthecode.com/dotnet/blazor/how-to-use-button-onclick-event-blazor-webassembly) - July 9, 2021 - This article from RoundTheCode explains how to implement the button onclick event in a Blazor Wasm application. We will demonstrate how to set up a Blazor onclick call method and bind it to a HTML element.
-*   [Blazor Anchor Tag Scroll To](https://nu-codyanhorn-tech.azurewebsites.net/blog/blazor-anchor-tag-scroll-to) - July 9, 2021 - This article goes over an issue with Blazor applications and scrolling to a hash anchor on the current page.
-*   [Thoughts on Microsoft, and Blazor](https://www.mistergoodcat.com/post/thoughts-on-microsoft-and-blazor) - July 2, 2021 - Thoughts on Microsoft, and Blazor, by Peter Kuhn aka Mister Goodcat.
-
-## [Jul 18, 2021](/content/2021/07/18/README.md)
-
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-6/) - July 14, 2021 - .NET 6 Preview 6 is now available and includes many great new improvements to ASP.NET Core.
-*   [ML.NET Now Works on ARM Devices and Blazor WebAssembly](https://visualstudiomagazine.com/articles/2021/06/29/mlnet-jun21.aspx) - June 29, 2021 - ML.NET now works on ARM64 and Apple M1 devices, and on Blazor WebAssembly, with some limitations for each.
-
-## [Jul 17, 2021](/content/2021/07/17/README.md)
-
-### Videos / Others
-
-*   [What's new in Blazor in .NET 6 with Daniel Roth](https://www.youtube.com/watch?v=_7pw_63BrLo) - ![duration](https://img.shields.io/badge/Duration:%20-125%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 16, 2021 - Blazor in .NET 6 makes client-side web development faster and more productive than ever before. Let's chat about all the new Blazor features in .NET 6: .NET Hot Reload, WebAssembly ahead-of-time (AOT) compilation, error boundaries, integration with .NET MAUI, and much more.
-*   [Building dynamic applications with blazor](https://www.youtube.com/watch?v=Yc84OHgPwLI) - ![duration](https://img.shields.io/badge/Duration:%20-134%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 10, 2021 - Blazor is a revolutionary single-page app framework for building interactive web apps with .NET Core. Underpinning Blazor's ability to create interactive web UIs using C# instead of JavaScript is a robust component model which offers exciting new opportunities for developers to create dynamic web applications. In this session we will demonstrate dynamic application development using an open source modular application framework for Blazor named Oqtane.
-*   [Intro to Blazing Web Accessibility - Empowered with AI](https://www.youtube.com/watch?v=VDGk0fweHcg) - ![duration](https://img.shields.io/badge/Duration:%20-57%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 5, 2021 - This video shows how you make an accessible website in Blazor, Microsoft’s brand new front-end technology.
-*   [BlazorDay 2021, full video](https://www.youtube.com/watch?v=t_UyOXydnsQ) - ![duration](https://img.shields.io/badge/Duration:%20-372%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 17, 2021 - Blazor Day is the online event around Blazor technologies. #BlazorDay is organized by 3 MVP friends. Their objective is to share their passion for .NET and more particularly Blazor. Joined by the famous Charline to upgrade the event to the next level.
-*   [Next Generation UI with .NET 6](https://www.youtube.com/watch?v=1qOXCpCwmJ4) - ![duration](https://img.shields.io/badge/Duration:%20-47%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 9, 2021 - Tired of Angular, Vue, and React? Ready for the next generation of web user interface that runs everywhere and you can build with your favorite programming language? In this session, Jeff Fritz is going to introduce you to Blazor - the next generation UI framework from the .NET team. We'll see how Blazor works with Web Assembly, webservers, and hybrid applications to deliver a great experience for your users. Blazor is the framework that allows you to build once and run it everywhere.
 
 ## [Jun 30, 2021](/content/2021/06/30/README.md)
 
@@ -1001,21 +739,9 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Blazor Hero (⭐2.9k)](https://github.com/blazorhero/CleanArchitecture) - ![stars](https://img.shields.io/github/stars/blazorhero/CleanArchitecture?style=flat-square) ![last commit](https://img.shields.io/github/last-commit/blazorhero/CleanArchitecture?style=flat-square) - Clean Architecture Solution Template for Blazor WebAssembly built with MudBlazor Components. This project will make your Blazor Learning Process much easier than you anticipate. Blazor Hero is meant to be an Enterprise Level Boilerplate, which comes free of cost, completely open sourced. [Read the Quick Start Guide here](https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/).
 
-### CMS
-
-*   [StartBootstrap.Freelancer.Blazor (⭐16)](https://github.com/petrsvihlik/StartBootstrap.Freelancer.Blazor) - ![Last commit](https://img.shields.io/github/last-commit/petrsvihlik/StartBootstrap.Freelancer.Blazor?style=flat-square\&cacheSeconds=86400) ![.NET 5](https://img.shields.io/badge/.NET-5-692079.svg?style=flat-square) Freelancer is a bootstrap template ideal for small portfolio web sites. It's powered by Kentico Kontent - a headless CMS with a comprehensive ecosystem for .NET developers.
-
-### Hybrid
-
-*   [desktoploveblazorweb (⭐53)](https://github.com/congzhangzh/desktoploveblazorweb) - ![stars](https://img.shields.io/github/stars/congzhangzh/desktoploveblazorweb?style=flat-square) ![last-commit](https://img.shields.io/github/last-commit/congzhangzh/desktoploveblazorweb?style=flat-square) [desktoploveblazorweb (⭐53)](https://github.com/congzhangzh/desktoploveblazorweb) is a cross-platform desktop application template (mobile support in the future) based on Blazor Server, which uses an in-process ASP.NET Core server + in-process OS WebView component.
-
 ### Rapid Development Framework
 
 *   [WalkingTec.Mvvm (WTM) (⭐3.8k)](https://github.com/dotnetcore/WTM) - ![stars](https://img.shields.io/github/stars/dotnetcore/wtm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnetcore/wtm?style=flat-square\&cacheSeconds=86400) A development framework based on .NET Core and EF. It supports Blazor, Vue, React and LayUI with one click code generation for CRUD, Import/Export, etc. [Website](https://wtmdoc.walkingtec.cn).
-
-### Others
-
-*   [Blazor MealPlanner (⭐6)](https://github.com/umairsyed613/UNMealPlanner) - ![last commit](https://img.shields.io/github/last-commit/umairsyed613/UNMealPlanner?style=flat-square\&cacheSeconds=86400) MealPlanner is developed in Blazor Web Assembly PWA (offline), The app is using local storage for storing the meal plans. ([Demo AzureStaticWeb](https://gray-glacier-0cb9f5303.azurestaticapps.net/)) ([Demo Github Pages](https://umairsyed613.github.io/UNMealPlanner/))
 
 ### Component bundles
 
@@ -1045,11 +771,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Tools & Utilities / Others
 
 *   [WebBluetooth (⭐2)](https://github.com/KeudellCoding/Blazor.WebBluetooth) - ![last commit](https://img.shields.io/github/last-commit/KeudellCoding/Blazor.WebBluetooth?style=flat-square\&cacheSeconds=86400) Blazor service for the experimental WebBluetooth functions. Based on [Blazm.Bluetooth (⭐68)](https://github.com/EngstromJimmy/Blazm.Bluetooth).
-*   [XLocalizer (⭐93)](https://github.com/LazZiya/XLocalizer) - ![GitHub Stars](https://img.shields.io/github/stars/LazZiya/XLocalizer?style=flat-square\&cacheSeconds=86400) ![last commit](https://img.shields.io/github/last-commit/LazZiya/XLocalizer?style=flat-square\&cacheSeconds=86400) Easily localize Asp.Net Core web applications with online translation and auto resource creating.
-
-### Others / Others
-
-*   [BlazorZXingJs (⭐10)](https://github.com/kattunga/BlazorZXingJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorZXingJs?style=flat-square\&cacheSeconds=86400) Barcode/QRCode Reader and QRCode writer components. This is a Blazor wrapper around zxing-js library. It supports variety of barcode and 2d code types.
 
 ### Tooling / Others
 
@@ -1061,122 +782,11 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Publish-time Pre-render for Blazor Wasm (⭐136)](https://github.com/jsakamoto/BlazorWasmPreRendering.Build) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/BlazorWasmPreRendering.Build?style=flat-square\&cacheSeconds=86400) When you publish your Blazor WebAssembly app, this package pre-renders and saves the app as static HTML files in your public folder.
 
-## [Apr 30, 2021](/content/2021/04/30/README.md)
-
-### Articles / Others
-
-*   [Modular Blazor App Framework Oqtane Boosts Templates](https://visualstudiomagazine.com/articles/2021/04/29/oqtane-update.aspx) - April 29, 2021 - Modular Blazor App Framework Oqtane Boosts Templates.
-*   [Sands of MAUI: Issue #6](https://www.telerik.com/blogs/sands-of-maui-issue-6) - April 26, 2021 - Sands of MAUI: Issue #6. BlazorWebView for WPF/WinForms.
-
-## [Apr 28, 2021](/content/2021/04/28/README.md)
-
-### Tutorials
-
-*   [Tetris in Blazor](https://exceptionnotfound.net/tetris-in-blazor-webassembly/) - April, 2021 - [Part 1](https://exceptionnotfound.net/tetris-in-blazor-webassembly/), [Part 2](https://exceptionnotfound.net/tetris-in-blazor-part-2-cells-the-grid-and-the-game-state/), [Part 3](https://exceptionnotfound.net/tetris-in-blazor-part-3-tetrominos/), [Part 4](https://exceptionnotfound.net/tetris-in-blazor-part-4-displaying-the-grid-and-a-falling-tetromino/), [Part 5](https://exceptionnotfound.net/tetris-in-blazor-part-5-controls-upcoming-tetrominos-and-clearing-rows/), [Part 6](https://exceptionnotfound.net/tetris-in-blazor-part-6-scoring-levels-music-and-other-features/). [Source code (⭐170)](https://github.com/exceptionnotfound/BlazorGames) ![stars](https://img.shields.io/github/stars/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=86400).
-*   [Using MudBlazor to Create Reach and Functional Product’s Details Page](https://code-maze.com/using-mudblazor-to-create-product-details-page/) - April 27, 2021 - Using MudBlazor to Create Reach and Functional Product’s Details Page.
-*   [Building a Dashboard](https://www.claudiobernasconi.ch/2021/04/23/building-a-dashboard-blazor/) - April 23, 2021 - Tutorial on how to build a dashboard.
-*   [Rendering dynamic content in Blazor Wasm using DynamicComponent](https://blog.elmah.io/rendering-dynamic-content-in-blazor-wasm-using-dynamiccomponent/) - April 20, 2021 - Rendering dynamic content in Blazor Wasm using DynamicComponent.
-*   [Blazor Material Table – Server-Side Paging, Searching, Sorting](https://code-maze.com/blazor-material-table-paging-searching-sorting/) - April 19, 2021 - Blazor Material Table – Server-Side Paging, Searching, Sorting.
-
-### Articles / Others
-
-*   [Setting Up Sass with Blazor](https://edcharbeneau.com/2021-04-24-setting-up-sass-with-blazor/) - April 24, 2021 - Setting Up Sass with Blazor, by Ed Charbeneau.
-*   [IntersectionObserver WebApi](https://codyanhorn.tech/blog/blazor/2021/04/24/Blazor-IntersectionObserver-WebApi.html) - April 24, 2021 - This article will go over the IntersectionObserver WebApi and how to use it within the context of a Blazor application. [Source code (⭐2)](https://github.com/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver) ![stars](https://img.shields.io/github/stars/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver?style=flat-square\&cacheSeconds=86400). [Demo](https://proud-coast-03b6fa410.azurestaticapps.net/).
-*   [Introducing KlipTok](https://jeffreyfritz.com/2021/04/introducing-kliptok/) - April 20, 2021 - Introducing KlipTok – Social Media fun for Twitch Clips.
-*   [An Easier Blazor Debounce](https://blog.jeremylikness.com/blog/an-easier-blazor-debounce/) - April 12, 2021 - Tick-free bouncing. [Source code (⭐9)](https://github.com/JeremyLikness/BlazorDebounce) ![stars](https://img.shields.io/github/stars/JeremyLikness/BlazorDebounce?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JeremyLikness/BlazorDebounce?style=flat-square\&cacheSeconds=86400).
-
-## [Apr 22, 2021](/content/2021/04/22/README.md)
-
-### Videos / Others
-
-*   [Upgrading to .NET 6](https://www.youtube.com/watch?v=5FN4Dzkj-M0) - ![duration](https://img.shields.io/badge/Duration:%20-21%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 21, 2021 - This video shows you how to upgrade your existing .NET 5 Blazor application to .NET 6 Preview 3. It also shows how to upgrade your tests to use the latest release of bunit version 1.0.19 and demos the new hot reload feature in .NET 6 - which is a huge improvement to the engineering experience. [Source code (⭐87)](https://github.com/hassanhabib/OtripleS.Portal) ![stars](https://img.shields.io/github/stars/hassanhabib/OtripleS.Portal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hassanhabib/OtripleS.Portal?style=flat-square\&cacheSeconds=86400).
-
-### Articles / Others
-
-*   [.NET 6 Gets Blazor WebView Controls for WPF, WinForms](https://visualstudiomagazine.com/articles/2021/04/09/blazorwebview.aspx) - April 9, 2021 - .NET 6 Gets Blazor WebView Controls for WPF, WinForms.
-
-## [Apr 21, 2021](/content/2021/04/21/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8) - ![duration](https://img.shields.io/badge/Duration:%20-79%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 20, 2021 - There are a lot of exciting new features for ASP.NET Core developers in .NET 6! Come hear all about it from Daniel Roth, and ask your questions live in the chat. [Community links](https://www.theurlist.com/aspnet-standup-2021-04-20).
-
-### Articles / Others
-
-*   [Will .NET 6 fix Blazor Prerendering?](https://jonhilton.net/blazor-prerendering-net6) - April 19, 2021 - Will .NET 6 fix Blazor Prerendering?
-
-## [Apr 19, 2021](/content/2021/04/19/README.md)
-
-### Videos / Others
-
-*   [WebAPI vs gRPC in Blazor Train](https://www.youtube.com/watch?v=0fAjA6BVVFI) - ![duration](https://img.shields.io/badge/Duration:%20-22%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 16, 2021 - Carl Franklin shows you how to use gRPC in your Blazor apps as an alternative to a more common API layer. You can download all files at[blazortrain.com](https://blazortrain.com/).
-*   [ASP.NET Community Standup - Exploring Oqtane with Shaun Walker](https://www.youtube.com/watch?v=livNmRqDnMI\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-82%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 13, 2021 - In this edition of the Blazor community standup, we sit down with Shaun Walker to discuss all things Oqtane. [Community links](https://www.theurlist.com/april-community-links).
-
-## [Apr 09, 2021](/content/2021/04/09/README.md)
-
-### Videos / Others
-
-*   [Blazor WebAssembly : Cookie Expiration & API Authorization](https://www.youtube.com/watch?v=QOFwpmjEW7g) - ![duration](https://img.shields.io/badge/Duration:%20-18%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 7, 2021 - This video shows how you can set authentication properties for cookie authentication. You can set it's IsPersistent to keep the cookie alive even after the browser is closed. You can also set it's ExpiredUtc property to set expiry date for your cookies.
-
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Preview 3](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-3/) - April 8, 2021 - .NET 6 Preview 3 is now available and includes many great new improvements to ASP.NET Core.
-
-## [Mar 30, 2021](/content/2021/03/30/README.md)
-
-### Videos / Others
-
-*   [Deploying Blazor WebAssembly to GitHub Pages](https://www.youtube.com/watch?v=k2twnElIFzw) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 30, 2021 - The .NET Docs Show - Deploying Blazor WebAssembly to GitHub Pages. What's better than Blazor? How about Blazor and a free place to host your Blazor app? In this episode, community member Niels Swimberghe shows the panel how to deploy Blazor apps to GitHub Pages.
-
-## [Mar 27, 2021](/content/2021/03/27/README.md)
-
-### Videos / Others
-
-*   [Steve Sanderson at the NDC Manchester 2021](https://www.youtube.com/watch?v=5NqXBFn9v20\&t=15636s) - March 25, 2021 - Blazor in 2021: .NET 5, .NET 6 and beyond.
-
-## [Mar 26, 2021](/content/2021/03/26/README.md)
-
-### Videos / Others
-
-*   [Blazor WebAssembly : Creating Chat Application Using SignalR](https://www.youtube.com/watch?v=5VSUX6w5P8g) - ![duration](https://img.shields.io/badge/Duration:%20-20%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 25, 2021 - Blazor WebAssembly : Creating Chat Application Using SignalR.
-
-## [Mar 25, 2021](/content/2021/03/25/README.md)
-
-### Tutorials
-
-*   [Setting dynamic metadata for Blazor Web Assembly](https://damienbod.com/2021/03/23/setting-dynamic-metadata-for-blazor-web-assembly/) - March 23, 2021 - This post shows how HTML header meta data can be dynamically updated or changed for a Blazor Web assembly application routes hosted in ASP.NET Core. This can be usually for changing how URL link previews are displayed when sharing links. [Source code (⭐3)](https://github.com/damienbod/BlazorMetaData) ![stars](https://img.shields.io/github/stars/damienbod/BlazorMetaData?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/damienbod/BlazorMetaData?style=flat-square\&cacheSeconds=86400).
-
-### Videos / Others
-
-*   [Testing Blazor Apps & Components](https://www.youtube.com/watch?v=8So3TXW2QKU) - March 26, 2021 - Blazor Train, episode 43: Testing Blazor Apps & Components.
-*   [Introduction to Dynamic Components in Blazor](https://www.youtube.com/watch?v=Wcc14aoylME) - ![duration](https://img.shields.io/badge/Duration:%20-21%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 22, 2021 - This video shows how you can use one of the most interesting features in Blazor w/ .NET 6.0 preview which is Dynamic Components. Dynamic Components can help you load content from multiple components dynamically in Blazor without too much hassle. [Source code (⭐2)](https://github.com/hassanhabib/DynamicComponentBlazorDemo) ![stars](https://img.shields.io/github/stars/hassanhabib/DynamicComponentBlazorDemo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hassanhabib/DynamicComponentBlazorDemo?style=flat-square\&cacheSeconds=86400).
-
-### Articles / Others
-
-*   [Excluding Files from PWA Asset Cache](https://codyanhorn.tech/blog/blazor/2021/03/24/Blazor-Excluding-Files-from-PWA-Asset-Cache.html) - March 24, 2021 - This article shows how to exclude a files from the Progressive Web Application asset cache.
-*   [AWS Previews Deployment Tool for .NET Web Apps, Blazor WebAssembly](https://visualstudiomagazine.com/articles/2021/03/19/aws-net-deploy.aspx) - March 19, 2021 - Amazon Web Services (AWS) announced a developer preview to ease the process of deploying .NET web apps on the cloud platform, which has become more complex with the advent of tech like Docker and serverless joining the ever-growing .NET ecosystem.
-
-### Podcasts / Others
-
-*   [React, writing a book, and Blazor with Carl Rippon](http://codingafterwork.com/2021/03/22/episode-57-react-writing-a-book-and-blazor-with-carl-rippon/) - March 22, 2021 - Coding after work, episode 57: React, writing a book, and Blazor with Carl Rippon. Duration: 35 minutes.
-
-## [Mar 19, 2021](/content/2021/03/19/README.md)
-
-### Articles / Others
-
-*   [Display a Docker Build Version](https://codyanhorn.tech/blog/2021/03/19/Display-a-Docker-Build-Version.html) - March 19, 2021 - This article shows one way to show the Build or Application version, passing it down through a Docker build.
-*   [The path to .NET 5 and Blazor WebAssembly with some fun sprinkled in](https://devblogs.microsoft.com/dotnet/the-path-to-net-5-and-blazor-webassembly-with-some-fun-sprinkled-in/) - March 17, 2021 - The path to .NET 5 and Blazor WebAssembly with some fun sprinkled in.
-*   [.NET 5 Blazor Powers 'Rock, Paper, Scissors, Lizard, Spock' Game](https://visualstudiomagazine.com/articles/2021/03/17/blazor-rpsls.aspx) - March 17, 2021 - .NET 5 Blazor Powers 'Rock, Paper, Scissors, Lizard, Spock' Game. [Source code (⭐564)](https://github.com/microsoft/RockPaperScissorsLizardSpock) ![stars](https://img.shields.io/github/stars/microsoft/RockPaperScissorsLizardSpock?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/microsoft/RockPaperScissorsLizardSpock?style=flat-square\&cacheSeconds=86400).
-
 ## [Mar 18, 2021](/content/2021/03/18/README.md)
 
 ### Others
 
 *   [Unofficial eShopOnContainers (⭐3)](https://github.com/n-stefan/eshoponcontainers) - ![last commit](https://img.shields.io/github/last-commit/n-stefan/eshoponcontainers?style=flat-square\&cacheSeconds=86400) Unofficial Blazor WebAssembly client for [eShopOnContainers (⭐22k)](https://github.com/dotnet-architecture/eShopOnContainers).
-
-### Articles / Others
-
-*   [.NET 6 Preview 2 Boosts Razor/Blazor in ASP.NET Core](https://visualstudiomagazine.com/articles/2021/03/12/aspnet-preview-2.aspx) - March 12, 2021 - Razor and Blazor received some dev attention in the second preview of Microsoft's .NET 6 landmark release, coming in November to wrap up formerly disparate .NET components into one cross-platform, open source framework for just about any kind of application.
 
 ## [Mar 16, 2021](/content/2021/03/16/README.md)
 
@@ -1185,71 +795,17 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [eShopOnBlazor (⭐338)](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square\&cacheSeconds=86400) Migration of a traditional ASP.NET Web Forms app to Blazor.
 *   [BlazorCRUD (⭐222)](https://github.com/thbst16/BlazorCrud) - ![GitHub stars](https://img.shields.io/github/stars/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/thbst16/BlazorCrud?style=flat-square\&cacheSeconds=86400) Sample line of business application that illustrates key features of Blazor. [Demo](https://becksblazor.azurewebsites.net/).
 
-### Tutorials
-
-*   [How to use gRPC-Web with Blazor WebAssembly on App Service](https://azure.github.io/AppService/2021/03/15/How-to-use-gRPC-Web-with-Blazor-WebAssembly-on-App-Service.html) - March 15, 2021 - How to use gRPC-Web with Blazor WebAssembly on App Service.
-*   [How to deploy Blazor WebAssembly to Cloudflare](https://swimburger.net/blog/dotnet/how-to-deploy-blazor-webassembly-to-cloudflare-pages) - March 14, 2021 - How to deploy Blazor WebAssembly to Cloudflare. [Source code (⭐1)](https://github.com/Swimburger/BlazorWasmCloudflarePages) ![stars](https://img.shields.io/github/stars/Swimburger/BlazorWasmCloudflarePages?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Swimburger/BlazorWasmCloudflarePages?style=flat-square\&cacheSeconds=86400).
-
-### Videos / Others
-
-*   [Building a Blazor WebAssembly chat using SignalR](https://www.youtube.com/watch?v=NFXdSvFQgtg) - March 8, 2021 - ![duration](https://img.shields.io/badge/Duration:%20-34%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) Building a Blazor WebAssembly chat using SignalR, by Coding After Work.
-
-## [Mar 15, 2021](/content/2021/03/15/README.md)
-
-### Podcasts / Others
-
-*   [.NET 6 with Daniel Roth](https://www.dotnetrocks.com/?show=1730) - March 11, 2021 - What's next for .NET? Carl and Richard chat with Dan Roth about all the good things coming this November for .NET. The conversation starts out with some discussion around Blazor, which is no longer an experimental project, but now a key part of .NET. Dan talks about the role of MAUI bringing together UI elements for smartphones, tablets, PCs, and more. There's a lot to look forward to by the end of 2021. Duration: 58 minutes.
-
-## [Mar 12, 2021](/content/2021/03/12/README.md)
-
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Preview 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-2/) - March 11, 2021 - .NET 6 Preview 2 is now available and includes many great new improvements to ASP.NET Core.
-
-### Podcasts / Others
-
-*   [Blazor Keeps Getting Better with Daniel Roth](https://devchat.tv/adventures-in-dotnet/net-059-blazor-keeps-getting-better-with-daniel-roth/) - March 9, 2021 - .NET 059: Blazor Keeps Getting Better with Daniel Roth. Blazor has come a long way since 2018. Blazor WebAssembly was released in 2020 and Blazor was integrated as a full-fledged member of .NET 5. Daniel Roth joins us to discuss the progress and improvements the Blazor team has made over the last year. We also discuss a number of updates coming in 2021 like the new Razor editor. The future of Blazor is bright, indeed. Duration: 61 minutes.
-
-## [Mar 09, 2021](/content/2021/03/09/README.md)
-
-### Articles / Others
-
-*   [Securing Blazor Web Assembly using cookies](https://damienbod.com/2021/03/08/securing-blazor-web-assembly-using-cookies/) - March 8, 2021 - Securing Blazor Web Assembly using cookies. [Source code (⭐48)](https://github.com/damienbod/AzureADAuthRazorUiServiceApiCertificate/tree/main/BlazorBff) ![stars](https://img.shields.io/github/stars/damienbod/AzureADAuthRazorUiServiceApiCertificate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/damienbod/AzureADAuthRazorUiServiceApiCertificate?style=flat-square\&cacheSeconds=86400).
-
 ## [Mar 08, 2021](/content/2021/03/08/README.md)
 
 ### Individual components / Others
 
 *   [BlazorTypewriter (⭐11)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
 
-### Articles / Others
-
-*   [Razor Pages has Components too don't you know](https://jonhilton.net/razor-pages-components/) - March 2, 2021 - Razor Pages has Components too don't you know.
-
 ## [Mar 06, 2021](/content/2021/03/06/README.md)
 
 ### Others
 
 *   [TypinExamples (⭐203)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐203)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
-
-## [Mar 05, 2021](/content/2021/03/05/README.md)
-
-### Articles / Others
-
-*   [Blazor on Desktop](https://www.telerik.com/blogs/blazor-on-desktop) - February 17, 2021 - Blazor on Desktop. This article explores how to make Blazor web apps run on Desktop.
-*   [ASP.NET Core docs: What's new for February 1, 2021 - February 28, 2021](https://docs.microsoft.com/en-us/aspnet/core/whats-new/2021-02?view=aspnetcore-5.0) - March 3, 2021 - Welcome to what's new in the ASP.NET Core docs from February 1, 2021 through February 28, 2021. This article lists some of the major changes to docs during this period.
-*   [Blazor hosting models - mind map](https://twitter.com/konradkokosa/status/1365321620219396100) - February 26, 2021 - Blazor hosting models - mind map update after .NET 6 preview 1 announcement by Konrad Kokosa on Twitter.
-
-### Videos / Others
-
-*   [Multiple Panels with Sliding Splitters](https://www.youtube.com/watch?v=fNDd7moZJ4c) - March 5, 2021 - Blazor Train, episode 40: Multiple Panels with Sliding Splitters.
-*   [Blazor WebAssembly : JavaScript Isolation](https://www.youtube.com/watch?v=tbNgLNZnNWM) - ![duration](https://img.shields.io/badge/Duration:%20-5%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 1, 2021 - Blazor WebAssembly : JavaScript Isolation, by Curious Drive. This video is about how you can isolate JavaScript files in Blazor applications. With JavaScript isolation you can load your JavaScript files only when needed. [Source code (⭐350)](https://github.com/CuriousDrive/BlazingChat) ![stars](https://img.shields.io/github/stars/CuriousDrive/BlazingChat?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CuriousDrive/BlazingChat?style=flat-square\&cacheSeconds=86400).
-
-## [Mar 02, 2021](/content/2021/03/02/README.md)
-
-### Tutorials
-
-*   [Overriding components in Blazor](https://eilevhagen.medium.com/overriding-components-in-blazor-616b6d59c22f) - February 27, 2021 - If you use a component library in your project, you might want to override a component somewhere deep down in the component hierarchy without having to override the whole hierarchy.
 
 ## [Mar 01, 2021](/content/2021/03/01/README.md)
 
@@ -1266,75 +822,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Blazor Help Website](https://blazorhelpwebsite.com/) - Blogs and code samples primarily covering server-side Blazor.
 
-## [Feb 26, 2021](/content/2021/02/26/README.md)
-
-### Videos / Others
-
-*   [.NET Conf 2021 - Focus on Windows: Building .NET Hybrid Apps with Blazor](https://www.youtube.com/watch?v=mZRNjixZEMg\&t=28886s) - February 25, 2021 - .NET Conf: Focus on Windows, session "Building .NET Hybrid Apps with Blazor", by Daniel Roth.
-*   [.NET Conf 2021 - Focus on Windows: Real-Time Desktop Apps with Azure SignalR Service](https://www.youtube.com/watch?v=mZRNjixZEMg\&t=9040s) - February 25, 2021 - .NET Conf: Focus on Windows, session "Real-Time Desktop Apps with Azure SignalR Service".
-*   [.NET Conf 2021 - Focus on Windows](https://www.youtube.com/watch?v=mZRNjixZEMg) - ![duration](https://img.shields.io/badge/Duration:%20-584%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 25, 2021 - .NET Conf: Focus on Windows is a free, one-day livestream event that features speakers from the community and Microsoft teams working on Windows desktop apps and making them fantastic on the latest .NET 5. Learn why and how to upgrade WPF and Windows Forms apps to .NET 5, see Visual Studio tooling improvements, learn how to leverage cloud services from your client apps, and a whole lot more. You'll also see what the future of native device development with .NET will look like in .NET 6. Full schedule: [dotnetconf.net](https://focus.dotnetconf.net).
-
-## [Feb 24, 2021](/content/2021/02/24/README.md)
-
-### Videos / Others
-
-*   [Blazor Train: Options for Mobile Apps](https://www.youtube.com/watch?v=0QgIZLJgfVg\&feature=youtu.be) -  ![duration](https://img.shields.io/badge/Duration:%20-36%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 19, 2021 - Carl Franklin welcomes back Microsoft’s Dan Roth to discuss options for building mobile apps with Blazor.
-
-### Articles / Others
-
-*   [Blazor Layout Components](https://edcharbeneau.com/blazor-layout-components/) - February 22, 2021 - Blazor Layout Components, by Ed Charbeneau.
-
-## [Feb 23, 2021](/content/2021/02/23/README.md)
-
-### Videos / Others
-
-*   [Blazor WebAssembly : Virtualize Component](https://www.youtube.com/watch?v=UtmAlX6U29k\&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-16%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 22, 2021 - Blazor WebAssembly : Virtualize Component, by Curious Drive. This video shows how you can use Virtualize component and load thousands of records in efficient way. We will first check how it actually works then we will map to a web API which gets records which are visible to the users.
-
-## [Feb 19, 2021](/content/2021/02/19/README.md)
-
-### Tutorials
-
-*   [Build a Blazor 'Copy to Clipboard' component with a Markdown editor](https://daveabrock.com/2021/02/18/copy-to-clipboard-markdown-editor) - February 18, 2021 - Let's build a 'Copy to Clipboard' component, where we can copy Markdown content to the clipboard.
-
 ## [Feb 18, 2021](/content/2021/02/18/README.md)
 
 ### General
 
 *   [themesof.net](https://themesof.net/) - .NET 6 planning process.
 
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/) - February 17, 2021 - ASP.NET Core updates in .NET 6 Preview 1.
-*   [Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) - February 17, 2021 - Announcing .NET 6 Preview 1.
-
-## [Feb 17, 2021](/content/2021/02/17/README.md)
-
-### Tutorials
-
-*   [Using source generators to generate a menu component in a Blazor app](https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app) - February 16, 2021 - Using source generators to generate a menu component in a Blazor app.
-*   [The tablet app – part 1](https://mac-digital.blog/2021/02/12/the-tablet-app-part-1/) - February 12, 2021 - Making an espresso machine smart, with .NET and Mobile Blazor Bindings.
-
-### Articles / Others
-
-*   [Blazor Component Testing](https://edcharbeneau.com/Blazor-Component-Testing/) - February 16, 2021 - Blazor Component Testing, by Ed Charbeneau.
-*   [.NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...](https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx) - February 3, 2021 - .NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...
-
 ## [Feb 12, 2021](/content/2021/02/12/README.md)
-
-### Tutorials
-
-*   [Download Files from Azure with .NET Core Web API and Blazor WebAssembly](https://code-maze.com/download-files-from-azure-with-net-core-web-api-and-blazor-webassembly/) - February 9, 2021 - In this article, we are going to learn how to download files from Azure using ASP.NET Core Web API as the server-side project and Blazor WebAssembly as the client-side. This article is a continuation of a previous one where we learned about uploading files to Azure. In that article, we also created Azure storage, so if you don’t have one created, you can do it following the instructions from the mentioned article. [Source code (⭐2)](https://github.com/CodeMazeBlog/download-files-azure-netcore-blazor-wasm) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/download-files-azure-netcore-blazor-wasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/download-files-azure-netcore-blazor-wasm?style=flat-square\&cacheSeconds=86400).
-*   [Using source generators to find all routable components in a Blazor WebAssembly app](https://andrewlock.net/using-source-generators-to-find-all-routable-components-in-a-webassembly-app/) - February 9, 2021 - The [previous post](https://andrewlock.net/finding-all-routable-components-in-a-webassembly-app/) described a way to find all the "routable" components in a Blazor app using reflection. This post shows an alternative approach using a source generator.
-*   [Custom Xamarin Controls with Blazor Mobile Bindings](https://www.telerik.com/blogs/custom-xamarin-controls-blazor-mobile-bindings) - February 8, 2021 - Blazor Mobile Bindings is exciting, but also encourages reusability. We take a look as how to wrap custom Xamarin.Forms UI as Blazor components.
-
-### Videos / Others
-
-*   [Advanced Blazor experiences with Carl Franklin](https://www.youtube.com/watch?v=vx96Zgd7Kes) - ![duration](https://img.shields.io/badge/Duration:%20-83%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 10, 2021 - Advanced Blazor experiences with Carl Franklin, by Coding After Work. Carl Franklin will share a bit more advanced scenarios like using SignalR together with Blazor for cross user communication and data synchronization.
-*   [ASP.NET Community Standup - A Blazor Conversation with Chris Sainty](https://www.youtube.com/watch?v=v8UWYwAhKZA\&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-96%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 9, 2021 - In this standup, we chat with Blazor aficionado and open source community member Chris Sainty about Blazor, his open source work, and more.
-
-### Articles / Others
-
-*   [Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1)](https://www.roundthecode.com/dotnet/blazor/blash-twitter-dashboard-using-blazor-web-api-signalr-twitter-api) - February 5, 2021 - Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1), by Round The Code.
 
 ### Presentations slides / Others
 
@@ -1346,94 +840,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [BlazorIndexedDbJs (⭐11)](https://github.com/kattunga/BlazorIndexedDbJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorIndexedDbJs?style=flat-square\&cacheSeconds=86400) BlazorIndexedDbJs is a wrapper arround IndexedDB DOM API, supports Blazor WASM and Server.
 
-### Videos / Others
-
-*   [Blazor Power Hour: FAQ show #1](https://www.twitch.tv/videos/899338170) - ![duration](https://img.shields.io/badge/Duration:%20-53%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=twitch) February 3, 2021 - Blazor Power Hour: FAQ show 1, with ed Charbeneau.
-
-## [Jan 29, 2021](/content/2021/01/29/README.md)
-
-### Hybrid
-
-*   [GraphQL in ASP.NET Core using HotChocolate (⭐14)](https://github.com/CloudBloq/GraphQLSampleApp) - ![last commit](https://img.shields.io/github/last-commit/CloudBloq/GraphQLSampleApp?style=flat-square\&cacheSeconds=86400) GraphQL in ASP.NET Core using HotChocolate. Source code of this tutorial: [Consuming GraphQL API In ASP.NET Core](https://dev.to/jioophoenix/hotchocolate-introduction-to-graphql-for-asp-net-core-part-1-2e27).
-
-### Tutorials
-
-*   [Consuming GraphQL API In ASP.NET Core](https://dev.to/jioophoenix/hotchocolate-introduction-to-graphql-for-asp-net-core-part-1-2e27) - January, 2021 - Consuming GraphQL API In ASP.NET Core: [Part 1](https://dev.to/jioophoenix/hotchocolate-introduction-to-graphql-for-asp-net-core-part-1-2e27), [Part2](https://dev.to/jioophoenix/consuming-graphql-api-in-asp-net-core-part-2-55ga). [Source code (⭐14)](https://github.com/CloudBloq/GraphQLSampleApp) ![stars](https://img.shields.io/github/stars/CloudBloq/GraphQLSampleApp?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CloudBloq/GraphQLSampleApp?style=flat-square\&cacheSeconds=86400).
-
-### Videos / Others
-
-*   [.NET Frontend day 2021](https://www.youtube.com/watch?v=P-DSBDLnFmc) - January 28, 2021 - ![duration](https://img.shields.io/badge/Duration:%20-381%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) .NET Frontend Day 2021 sessions.
-
-## [Jan 28, 2021](/content/2021/01/28/README.md)
-
-### Videos / Others
-
-*   [Blazor Train: Ask the Engineer](https://www.youtube.com/watch?v=SRxMP-cx2vQ\&feature=youtu.be) - January 29, 2021 - Carl Franklin answers your questions and solves your Blazor puzzlers.
-
-### Articles / Others
-
-*   [Improvements to the new Razor editor in Visual Studio](https://devblogs.microsoft.com/aspnet/improvements-to-the-new-razor-editor-in-visual-studio/) - January 26, 2021 - Improvements to the new Razor editor in Visual Studio, by Daniel Roth from Microsoft.
-*   [Signed HTTP Exchanges: A path for Blazor WebAssembly instant runtime loading](https://daveabrock.com/2021/01/26/signed-http-exchanges-cdn-cache) - January 26, 2021 - This article explores Signed HTTP Exchanges, which may help when loading the .NET runtime in Blazor WebAssembly apps.
-
-## [Jan 26, 2021](/content/2021/01/26/README.md)
-
-### Tutorials
-
-*   [Prerending a Blazor WebAssembly app to static files, without an ASP.NET Core host app](https://andrewlock.net/prerending-a-blazor-webassembly-app-without-an-asp-net-core-host-app/) - January 26, 2021 - This post describes how you can prerender all the pages in a Blazor WebAssembly app, without requiring a host app. That means you can still host your Blazor WebAssembly as static files using GitHub Pages or Netlify, without requiring a backend server. [Source code (⭐340)](https://github.com/andrewlock/blog-examples/tree/master/BlazorPreRender) ![stars](https://img.shields.io/github/stars/andrewlock/blog-examples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/andrewlock/blog-examples?style=flat-square\&cacheSeconds=86400).
-*   [Pre-render Blazor WebAssembly at build time to optimize for search engines](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines) - January 3, 2021 - Pre-render Blazor WebAssembly at build time to optimize for search engines.
-
-## [Jan 25, 2021](/content/2021/01/25/README.md)
-
-### Tutorials
-
-*   [Authentication in Blazor WebAssembly Hosted Applications](https://code-maze.com/authentication-in-blazor-webassembly-hosted-applications/) - January 22, 2021 - Authentication in Blazor WebAssembly Hosted Applications, by Code Maze. [Source code (⭐10)](https://github.com/CodeMazeBlog/blazor-wasm-hosted-security/tree/blazor_wasm_hosted_authentication) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/blazor-wasm-hosted-security?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/blazor-wasm-hosted-security?style=flat-square\&cacheSeconds=86400).
-
-## [Jan 21, 2021](/content/2021/01/21/README.md)
-
-### Articles / Others
-
-*   [Enabling prerendering for Blazor WebAssembly apps](https://andrewlock.net/enabling-prerendering-for-blazor-webassembly-apps/) - January 19, 2021 - This post describes the steps to enable server-prerendering for a Blazor WebAssembly application. This post serves as an introduction to some more interesting prerendering approaches I'll be looking at in future posts. [Source code (⭐340)](https://github.com/andrewlock/blog-examples/tree/master/BlazorPreRender) ![stars](https://img.shields.io/github/stars/andrewlock/blog-examples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/andrewlock/blog-examples?style=flat-square\&cacheSeconds=86400).
-
-## [Jan 20, 2021](/content/2021/01/20/README.md)
-
-### Articles / Others
-
-*   [Displaying lists efficiently in Blazor](https://visualstudiomagazine.com/articles/2021/01/06/blazor-lists.aspx) - January 6, 2021 - Blazor's Virtualize component will let you display long lists faster without writing a lot of code. If you want to take full advantage of the component, however, you'll need a relatively smart repository to back it up.
-
-## [Jan 19, 2021](/content/2021/01/19/README.md)
-
-### Tutorials
-
-*   [Blast Off with Blazor: Build a search-as-you-type box](https://daveabrock.com/2021/01/14/blast-off-blazor-search-box) - January 14, 2021 - This post shows how to build a quick search box that filters our images.
-*   [Blazor WebAssembly I18n from Start to Finish](https://phrase.com/blog/posts/blazor-webassembly-i18n/) - January 7, 2021 - Blazor is a strong C#-based framework from Microsoft that allows us to create an interactive, client-side web user interface (UI) using .NET. In this tutorial, we will explore how to implement internationalization (i18n) in a Blazor WebAssembly app.
-
-### Videos / Others
-
-*   [Blazor Train: Progressive Web Applications](https://www.youtube.com/watch?v=0O-bNuQOQb8\&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-23%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 15, 2021 - Carl Franklin shows you how to create a Blazor PWA and how to configure it for offline access and cached content.
-
-### Articles / Others
-
-*   [How Blazor performs against other Frameworks](https://www.telerik.com/blogs/how-blazor-performs-against-other-frameworks) - January 18, 2021 - How Blazor performs against other Frameworks, by David Grace for Telerik.
-*   [Persisting your users preferences using Blazor and Local Storage](https://jonhilton.net/blazor-tailwind-dark-mode-local-storage/) - January 14, 2021 - Persisting your users preferences using Blazor and Local Storage.
-
-## [Jan 18, 2021](/content/2021/01/18/README.md)
-
-### Articles / Others
-
-*   [Blackjack in Blazor Part 1 - Rules and Modeling the Game](https://exceptionnotfound.net/blackjack-in-blazor-part-1-rules-and-modeling-the-game/) - January 2021, 18 - Blackjack in Blazor Part 1 - Rules and Modeling the Game, on Exception Not Found.
-
-## [Jan 14, 2021](/content/2021/01/14/README.md)
-
-### Videos / Others
-
-*   [.NET Community Standup: Meet the Blazor Team](https://www.youtube.com/watch?v=5enEE3BBGJM\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 12, 2021 - "Meet the Blazor Team"'s [.NET Community Standup](https://dotnet.microsoft.com/live). Meet the people behind the code! Join us for a fun livestream with members of the Blazor team.
-
-### Articles / Others
-
-*   [Microsoft Teams App With Blazor Made Easy Using Blazorade Teams](https://mikaberglund.com/microsoft-teams-app-with-blazor-made-easy-using-blazorade-teams/) - January 10, 2021 - Microsoft Teams App With Blazor Made Easy Using Blazorade Teams. [Source code (⭐32)](https://github.com/Blazorade/Blazorade-Teams) ![stars](https://img.shields.io/github/stars/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=86400).
-*   [How to Use Query Strings in Blazor WebAssembly](https://code-maze.com/query-strings-blazor-webassembly/) - January 7, 2021 - In this article, we are going to learn how to use query strings in Blazor WebAssembly. We are going to show you how to send query strings to the Blazor component and also how to read them inside the component. [Source code (⭐2)](https://github.com/CodeMazeBlog/blazor-wasm-query-strings) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square\&cacheSeconds=86400).
-*   [Introducing Online GZIP de/compressor, built with Blazor WebAssembly](https://swimburger.net/blog/dotnet/introducing-online-gzip-decompressor) - January 1, 2021 - Introducing Online GZIP de/compressor, built with Blazor WebAssembly.
-
 ## [Jan 13, 2021](/content/2021/01/13/README.md)
 
 ### General
@@ -1443,40 +849,9 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [Introduction to ASP.NET Core](https://docs.microsoft.com/aspnet/core/) - Introduction to ASP.NET Core.
 *   [Blazor WebAssembly performance best practices](https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices) - ASP.NET Core Blazor WebAssembly performance best practices, by Pranav Krishnamoorthy and Steve Sanderson.
 
-### Authentication
-
-*   [Blazor-WASM-Identity-gRPC (⭐99)](https://github.com/JeepNL/Blazor-WASM-Identity-gRPC) - ![stars](https://img.shields.io/github/stars/JeepNL/Blazor-WASM-Identity-gRPC?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JeepNL/Blazor-WASM-Identity-gRPC?style=flat-square\&cacheSeconds=86400) Blazor WASM, IdentityServer4 & gRPC with roles authorization.
-*   [Blazor-WASM-Identity-gRPC-Alexa (⭐11)](https://github.com/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa) - ![last commit](https://img.shields.io/github/last-commit/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa?style=flat-square\&cacheSeconds=86400) Blazor WASM, IdentityServer4 , gRPC with roles authorization & Alexa Skill Backend.
-
-### Hybrid
-
-*   [Blazorade Teams (⭐32)](https://github.com/Blazorade/Blazorade-Teams) - ![last commit](https://img.shields.io/github/last-commit/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=86400) A Blazor component library that is designed to be used when building applications for Microsoft Teams. Be sure to also check out the initial announcement for Blazorade Teams.
-
-### Tutorials
-
-*   [Create a Blazor Server app that uses the Microsoft identity platform for authentication](https://docs.microsoft.com/azure/active-directory/develop/tutorial-blazor-server) - October 2020 - Tutorial by Microsoft. Blazor Server provides support for hosting Razor components on the server in an ASP.NET Core app. In this tutorial, you learn how to implement authentication and retrieve data from Microsoft Graph in a Blazor Server app with the Microsoft identity platform.
-
 ### Tools & Utilities / Others
 
 *   [TextCopy (⭐339)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐339)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
-
-## [Jan 12, 2021](/content/2021/01/12/README.md)
-
-### Tutorials
-
-*   [Boids in your Browser with Blazor](https://swharden.com/blog/2021-01-08-blazor-boids) - January 8, 2021 - How to model graphics in C# and render them on a HTML Canvas with JavaScript. [Source code (⭐698)](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-08-blazor-boids/BlazorBoids) ![stars](https://img.shields.io/github/stars/swharden/Csharp-Data-Visualization?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/swharden/Csharp-Data-Visualization?style=flat-square\&cacheSeconds=86400).
-
-## [Jan 11, 2021](/content/2021/01/11/README.md)
-
-### Others
-
-*   [Modulight (⭐5)](https://github.com/StardustDL/delights) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/delights?style=flat-square\&cacheSeconds=86400) A light modular framework aimed to be low intrusive based on dependency injection for Blazor. Support lazy loading and prerendering for javascript, css stylesheets, and assemblies. Built with the new features introduced in .NET 5 such as WebAssembly Lazy Loading and Javascript Isolation.
-
-## [Jan 08, 2021](/content/2021/01/08/README.md)
-
-### Podcasts / Others
-
-*   [Blazor in Action with Chris Sainty](https://dotnetcore.show/episode-67-blazor-in-action-with-chris-sainty/) - January 8, 2021 - Blazor in Action with Chris Sainty in the .NET Core Show, episode 67. Duration: 67 minutes.
 
 ## [Jan 05, 2021](/content/2021/01/05/README.md)
 
@@ -1490,19 +865,10 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [PanoramicData Blazor UI Components (⭐46)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
-### Individual components / Datagrids / tables
-
-*   [WpfGridLayout.Blazor (⭐26)](https://github.com/aboudoux/WpfGridLayout.Blazor) - ![last commit](https://img.shields.io/github/last-commit/aboudoux/WpfGridLayout.Blazor?style=flat-square\&cacheSeconds=86400) Provide a simple way to create a grid layout like WPF in Blazor.
-
-### Individual components / Others
-
-*   [BlazorDialog (⭐27)](https://github.com/stavroskasidis/BlazorDialog) - ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorDialog?style=flat-square\&cacheSeconds=86400) Dialog component as a service for Blazor. [Demo](https://blazor-dialog-demo.azurewebsites.net/).
-
 ## [Nov 30, 2020](/content/2020/11/30/README.md)
 
 ### Component bundles
 
-*   [MatBlazor (⭐2.7k)](https://github.com/SamProf/MatBlazor) - ![GitHub stars](https://img.shields.io/github/stars/SamProf/MatBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/SamProf/MatBlazor?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. ([Demo](https://www.matblazor.com/)).
 *   [Element-Blazor (⭐643)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
 *   [BlazorFluentUI (⭐750)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
 
@@ -1514,8 +880,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ### Individual components / Others
 
-*   [Blazored.Menu (⭐162)](https://github.com/Blazored/Menu) - ![stars](https://img.shields.io/github/stars/Blazored/Menu?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Menu?style=flat-square\&cacheSeconds=86400) A JavaScript free menu library for Blazor and Razor Components applications.
-*   [Blazor LoadingBar (⭐150)](https://github.com/jsakamoto/Toolbelt.Blazor.LoadingBar) - ![GitHub stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.LoadingBar?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.LoadingBar?style=flat-square\&cacheSeconds=86400) Loading bar UI for Client-Side Blazor application.
 *   [Excubo.Blazor.Diagrams (⭐91)](https://github.com/excubo-ag/Blazor.Diagrams) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Diagrams?style=flat-square\&cacheSeconds=86400) Interactive diagram component (flowcharts, UML, BPMN, ...), customizable and extensible according to user needs (node types, styles). [Demo](https://excubo-ag.github.io/Blazor.Diagrams/).
 
 ## [Nov 19, 2020](/content/2020/11/19/README.md)
@@ -1523,7 +887,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Tools & Utilities / Others
 
 *   [BlazorGoogleMaps (⭐198)](https://github.com/rungwiroon/BlazorGoogleMaps) - ![stars](https://img.shields.io/github/stars/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/rungwiroon/BlazorGoogleMaps?style=flat-square\&cacheSeconds=86400) Blazor interop for GoogleMap library.
-*   [Blazor SVG Helper (⭐35)](https://github.com/Lupusa87/BlazorSvgHelper) - ![stars](https://img.shields.io/github/stars/Lupusa87/BlazorSvgHelper?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorSvgHelper?style=flat-square\&cacheSeconds=86400) Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
 *   [BlazorRouter (⭐44)](https://github.com/hez2010/BlazorRouter) - ![stars](https://img.shields.io/github/stars/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hez2010/BlazorRouter?style=flat-square\&cacheSeconds=86400) BlazorRouter is an awesome router inspired by react-router, providing declarative routing for Blazor.
 *   [DataJuggler.Blazor.FileUpload (⭐22)](https://github.com/DataJuggler/BlazorFileUpload) - ![stars](https://img.shields.io/github/stars/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DataJuggler/BlazorFileUpload?style=flat-square\&cacheSeconds=86400) Wrapper for Steve Sanderson's BlazorFileInput component.
 
@@ -1541,10 +904,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [AsteroidsWasm (⭐131)](https://github.com/aesalazar/AsteroidsWasm) - ![stars](https://img.shields.io/github/stars/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aesalazar/AsteroidsWasm?style=flat-square\&cacheSeconds=86400) Collection of .NET 5 C# applications consuming a single .NET Standard project running in:  Blazor Client (WebAssembly), Blazor Server, Electron (via Blazor Server), WPF, WinForms, Xamarin. [Demo](https://aesalazar.github.io/AsteroidsWasm/).
 
 ## [Nov 10, 2020](/content/2020/11/10/README.md)
-
-### Others
-
-*   [BlazorTemplates (⭐20)](https://github.com/blazor-templates/blazor-templates) - ![last commit](https://img.shields.io/github/last-commit/blazor-templates/blazor-templates?style=flat-square\&cacheSeconds=86400) A collection of blazor templates, designed for common use cases for new projects.
 
 ### Others / Others
 
@@ -1567,24 +926,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Individual components / CSS
 
 *   [BlazorSize (⭐249)](https://github.com/EdCharbeneau/BlazorSize) - ![stars](https://img.shields.io/github/stars/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorSize?style=flat-square\&cacheSeconds=86400) BlazorSize is a JavaScript interop library for Blazor that is used to detect the Browser's current size, change in size, and test media queries.
-
-## [Oct 26, 2020](/content/2020/10/26/README.md)
-
-### Individual components / Date & time
-
-*   [FlatpickrBlazor (⭐7)](https://github.com/mathisloge/FlatpickrBlazor) - ![last commit](https://img.shields.io/github/last-commit/mathisloge/FlatpickrBlazor?style=flat-square\&cacheSeconds=86400) Flatpickr Blazor interop.[Demo](https://mathisloge.github.io/FlatpickrBlazorExample/).
-
-## [Oct 25, 2020](/content/2020/10/25/README.md)
-
-### Individual components / API
-
-*   [Canvas (⭐480)](https://github.com/BlazorExtensions/Canvas) - ![stars](https://img.shields.io/github/stars/BlazorExtensions/Canvas?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Canvas?style=flat-square\&cacheSeconds=86400) HTML5 Canvas API implementation for Microsoft Blazor.
-
-## [Oct 21, 2020](/content/2020/10/21/README.md)
-
-### Others
-
-*   [BlazorPowerHour (⭐14)](https://github.com/EdCharbeneau/BlazorPowerHour) - ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorPowerHour?style=flat-square\&cacheSeconds=86400) The Blazor Power Hour show index, by Ed Charbeneau.
 
 ## [Oct 17, 2020](/content/2020/10/17/README.md)
 
@@ -1622,17 +963,7 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Build a web app with Blazor WebAssembly and Visual Studio Code](https://docs.microsoft.com/learn/modules/build-blazor-webassembly-visual-studio-code/) - Build a web app with Blazor WebAssembly and Visual Studio Code, on Microsoft Learn.
 
-## [Sep 16, 2020](/content/2020/09/16/README.md)
-
-### Individual components / Others
-
-*   [AdvancedBlazorSelect2 (⭐10)](https://github.com/KeudellCoding/Blazor.AdvancedBlazorSelect2) - ![last commit](https://img.shields.io/github/last-commit/KeudellCoding/Blazor.AdvancedBlazorSelect2?style=flat-square\&cacheSeconds=86400) Simple wrapper for Select2 with full support of databases and custom web APIs.
-
 ## [Sep 04, 2020](/content/2020/09/04/README.md)
-
-### Component bundles
-
-*   [jQWidgets Blazor UI Components (⭐8)](https://github.com/jqwidgets/blazor) - ![last commit](https://img.shields.io/github/last-commit/jqwidgets/blazor?style=flat-square\&cacheSeconds=86400) Feature-complete UI components including DataGrid, Scheduler, Charting, Pivot and more. [Website](https://blazor.jqwidgets.com).
 
 ### E-Books / Others
 
@@ -1650,27 +981,13 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Quiz manager secured by Auth0 (⭐29)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
 
-### Individual components / Others
-
-*   [BlazorWheelZoom (⭐12)](https://github.com/iso8859/BlazorWheelZoom) - ![last commit](https://img.shields.io/github/last-commit/iso8859/BlazorWheelZoom?style=flat-square\&cacheSeconds=86400) Zoom and move image with Blazor using mouse wheel and mouse drag - minimal javascript. [Demo](https://blazorwheelzoom.m4f.eu/).
-
 ## [Aug 26, 2020](/content/2020/08/26/README.md)
-
-### Individual components / Markdowns
-
-*   [RazorComponents.Markdown (⭐30)](https://github.com/StardustDL/RazorComponents.Markdown) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/RazorComponents.Markdown?style=flat-square\&cacheSeconds=86400) A razor component for Markdown rendering which supports LaTeX, Mermaid diagram, code highlighting and extensions based on Markdig.
-*   [Blazor Markdown (⭐29)](https://github.com/georgemathieson/blazor-markdown) - ![last\_commit](https://img.shields.io/github/last-commit/georgemathieson/blazor-markdown?style=flat-square\&cacheSeconds=86400) A Blazor Markdown component that enables you to include Markdown files in your server-side Blazor apps.
 
 ### Individual components / Others
 
 *   [Stl.Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐130)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
 *   [Blazor-DragDrop (⭐292)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
-*   [Blazor.SignaturePad (⭐62)](https://github.com/Mobsites/Blazor.SignaturePad) - ![stars](https://img.shields.io/github/stars/Mobsites/Blazor.SignaturePad?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Mobsites/Blazor.SignaturePad?style=flat-square\&cacheSeconds=86400) A Blazor component library that utilizes Szymon Nowak's javascript library Signature Pad to implement smooth signature drawing on a HTML5 canvas.
 *   [BlazorTransitionableRoute (⭐118)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
-
-### Tools & Utilities / Others
-
-*   [BracketShow.BlazorNavigationManagerExtensions (⭐6)](https://github.com/bracketshow/blazornavigationmanagerextensions) - ![last commit](https://img.shields.io/github/last-commit/bracketshow/blazornavigationmanagerextensions?style=flat-square\&cacheSeconds=86400) Simple set of extensions for the Navigation Manager to simplify its usage for things we are likely to do in most of our Blazor applications.
 
 ## [Aug 25, 2020](/content/2020/08/25/README.md)
 
@@ -1691,17 +1008,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Tools & Utilities / Others
 
 *   [Blazor.ScriptInjection (⭐17)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
-*   [BlazorX.NavigationState (⭐9)](https://github.com/diegofrata/BlazorX.NavigationState) - ![last commit](https://img.shields.io/github/last-commit/diegofrata/BlazorX.NavigationState?style=flat-square\&cacheSeconds=86400) BlazorX.NavigationState provides a set of utilities that allow you to observe and bind query strings directly to Blazor components.
 
 ## [Aug 04, 2020](/content/2020/08/04/README.md)
 
 ### Hybrid
 
 *   [Blazor + Umbraco Heartcore (⭐12)](https://github.com/umbraco/Umbraco.Headless.Client.Net/tree/master/samples/Umbraco.Headless.Client.Samples.BlazorServer) - ![Last commit](https://img.shields.io/github/last-commit/umbraco/Umbraco.Headless.Client.Net?style=flat-square\&cacheSeconds=86400) Example of using [Umbraco Heartcore](https://umbraco.com/products/umbraco-heartcore/) with Blazor.
-
-### Logging
-
-*   [Logging.Samples (⭐19)](https://github.com/akovac35/Logging.Samples) - ![last-commit](https://img.shields.io/github/last-commit/akovac35/Logging.Samples?style=flat-square\&cacheSeconds=86400) Samples for .NET Core and ASP.NET Core logging using various logger frameworks.
 
 ### Machine Learning
 
@@ -1721,26 +1033,17 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [BlazorChatSample (⭐200)](https://github.com/conficient/blazorchatsample) - ![stars](https://img.shields.io/github/stars/conficient/blazorchatsample?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/conficient/blazorchatsample?style=flat-square\&cacheSeconds=86400) Blazor chat demo using SignalR JS client with interop.
 *   [Money (⭐152)](https://github.com/maraf/Money) - ![stars](https://img.shields.io/github/stars/maraf/Money?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/maraf/Money?style=flat-square\&cacheSeconds=86400) A money manager implemented using CQRS+ES. [Demo](https://app.money.neptuo.com/).
 *   [NethereumBlazor (⭐112)](https://github.com/Nethereum/NethereumBlazor) - ![GitHub stars](https://img.shields.io/github/stars/Nethereum/NethereumBlazor?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/Nethereum/NethereumBlazor?style=flat-square\&cacheSeconds=86400) Ethereum blockchain explorer and simple wallet.
-*   [BlazorDynamicList (⭐50)](https://github.com/conficient/BlazorDynamicList) - ![GitHub stars](https://img.shields.io/github/stars/conficient/BlazorDynamicList?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/conficient/BlazorDynamicList?style=flat-square\&cacheSeconds=86400) Dynamic component binding for a generic list. [Demo](https://blazordynamiclist.azurewebsites.net/).
-*   [WebSocketPage (⭐31)](https://github.com/Lupusa87/BlazorWebSocketHelper) - ![stars](https://img.shields.io/github/stars/Lupusa87/BlazorWebSocketHelper?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorWebSocketHelper?style=flat-square\&cacheSeconds=86400) Web Socket in Blazor. [demo](https://lupblazordemos.z13.web.core.windows.net/WebSocketPage).
 *   [Planning Poker (⭐49)](https://github.com/duracellko/planningpoker4azure) – ![Last commit](https://img.shields.io/github/last-commit/duracellko/planningpoker4azure?style=flat-square\&cacheSeconds=86400) An app to play Planning Poker for distributed teams. The app is implemented using Blazor and shows how to switch between client-side and server-side mode with a configuration change. [Demo](http://planningpoker.duracellko.net).
 *   [C# Regex Tester online (⭐8)](https://github.com/lsvhome/regex-tester) - ![Last commit](https://img.shields.io/github/last-commit/lsvhome/regex-tester?style=flat-square\&cacheSeconds=86400) Online tool for verify .Net regex syntax. ([Demo](https://lsvhome.github.io/regex-tester/)).
 *   [C# Regex Online tool (⭐3)](https://github.com/MichaelSL/blazor-wasm-test-012020) - ![Last commit](https://img.shields.io/github/last-commit/MichaelSL/blazor-wasm-test-012020?style=flat-square\&cacheSeconds=86400) Online tool for verify .Net regex syntax, see splits list, table etc. ([Demo](https://dotnet-regex.com/)).
-*   [Cognitive Studio (⭐21)](https://github.com/jernejk/CognitiveServices.Explorer) - ![last commit](https://img.shields.io/github/last-commit/jernejk/CognitiveServices.Explorer?style=flat-square\&cacheSeconds=86400) PWA enabled app used to showcase what Cognitive Services can do, built-in client-side Blazor. [Demo](https://cognitivestudio.dev/).
 *   [Blazor Wake-on-LAN (⭐19)](https://github.com/georg-jung/BlazorWoL) - ![Last commit](https://img.shields.io/github/last-commit/georg-jung/BlazorWoL?style=flat-square\&cacheSeconds=86400) Wake-on-LAN app for local networks. Blazor Server + EF Core + DI + CI.
-*   [Dcidr (⭐21)](https://github.com/timplourde/dcidr-blazor) - ![Last commit](https://img.shields.io/github/last-commit/timplourde/dcidr-blazor?style=flat-square\&cacheSeconds=86400) Blazor WebAssembly decision-making app with PWA (offline), localstorage, and Excel export. [Demo](https://dcidr.z20.web.core.windows.net/).
 *   [BlazingWaffles (⭐3)](https://github.com/gbiellem/BlazingWaffles) - ![last commit](https://img.shields.io/github/last-commit/gbiellem/BlazingWaffles?style=flat-square\&cacheSeconds=86400) A Blazor app that wraps [Waffle Generator (⭐79)](https://github.com/SimonCropp/WaffleGenerator). The generator outputs readable gibberish that can be used in place of Lorum Ipsum. [Demo](http://wafflegen.azurewebsites.net/).
-*   [Cærostris (⭐39)](https://github.com/tresoneur/Caerostris) - ![last commit](https://img.shields.io/github/last-commit/tresoneur/Caerostris?style=flat-square\&cacheSeconds=86400) A Blazor Spotify client.
 *   [Nethereum Playground (⭐24)](https://github.com/Nethereum/Nethereum.Playground) - ![last commit](https://img.shields.io/github/last-commit/Nethereum/Nethereum.Playground?style=flat-square\&cacheSeconds=86400) Compile and run Nethereum snippets on the browser. You can run it here: <http://playground.nethereum.com/>.
-*   [Realtime chat app with WebAssembly (⭐7)](https://github.com/wsdt/RealtimeChat_WebAssembly) - ![last commit](https://img.shields.io/github/last-commit/wsdt/RealtimeChat_WebAssembly?style=flat-square\&cacheSeconds=86400) Real-time chat application with SignalR, .NET and Blazor/WebAssembly.
-*   [BlazorConduit (⭐55)](https://github.com/JoeyMckenzie/BlazorConduit) - ![last commit](https://img.shields.io/github/last-commit/JoeyMckenzie/BlazorConduit?style=flat-square\&cacheSeconds=86400) The [RealWorld](https://realworld.io) example app written using Blazor. [Demo](https://blazor-conduit.netlify.app/).
 
 ### Tools & Utilities / Others
 
 *   [Blazor PDF (⭐65)](https://github.com/tossnet/Blazor-PDF) - ![stars](https://img.shields.io/github/stars/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/tossnet/Blazor-PDF?style=flat-square\&cacheSeconds=86400) Generate de PDF document with iTextSharp from a Blazor Server App.
 *   [Blazor-Color-Picker (⭐25)](https://github.com/tossnet/Blazor-Color-Picker) - ![last commit](https://img.shields.io/github/last-commit/tossnet/Blazor-Color-Picker?style=flat-square\&cacheSeconds=86400) Opens a palette with the Material colors for Blazor application.
-*   [Blazor\_EmojiFilePicker (⭐0)](https://github.com/wsdt/Blazor_EmojiFilePicker) - ![last commit](https://img.shields.io/github/last-commit/wsdt/Blazor_EmojiFilePicker?style=flat-square\&cacheSeconds=86400) Bootstrap Text-Input with Smiley- and File-Support for Blazor.
-*   [Blazor Library Asset Helper (⭐1)](https://github.com/limefrogyank/BlazorLibraryAssetHelper) - ![last commit](https://img.shields.io/github/last-commit/limefrogyank/BlazorLibraryAssetHelper?style=flat-square\&cacheSeconds=86400) A VISX extension that can list all JS and CSS assets from Nuget package razor libraries you are using in your Blazor app.  It will generate all the `<script>` and `<link>` tags for your HTML page for you to copy/paste. Available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LeeMcPherson.BlazorLibraryAssetHelper\&ssr=false#overview).
 
 ### Others / Others
 
@@ -1755,12 +1058,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [BlazorSourceMangler (⭐1)](https://github.com/Lupusa87/BlazorSourceMangler) - ![GitHub stars](https://img.shields.io/github/stars/Lupusa87/BlazorSourceMangler?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/Lupusa87/BlazorSourceMangler?style=flat-square\&cacheSeconds=86400) A console app to mangle Blazor DLLs. Check this [YouTube video](https://www.youtube.com/watch?v=nlXax81b1UE) for more details. You can also check this [Blazor TODO app](https://lupblazortodo.z20.web.core.windows.net/) to see result of this app (downloaded blazortodos.dll is mangled and decompilation shows uglyfied code).
 *   [WebCompiler (⭐109)](https://github.com/excubo-ag/WebCompiler) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/excubo-ag/WebCompiler?style=flat-square\&cacheSeconds=86400) A dotnet global tool for compilation, minification, and compression of scss, css and js.
 *   [Tracetool (⭐28)](https://github.com/capslock66/Tracetool#Blazor-client--server) - ![GitHub stars](https://img.shields.io/github/stars/capslock66/Tracetool?style=flat-square\&cacheSeconds=604800) ![GitHub last commit](https://img.shields.io/github/last-commit/capslock66/Tracetool?style=flat-square\&cacheSeconds=86400) Tracetool viewer, client Api for Dotnet, Java, Javasvript, C++ , Python, Delphi.
-
-## [Jul 30, 2020](/content/2020/07/30/README.md)
-
-### Individual components / API
-
-*   [BlazorGooglePay (⭐5)](https://github.com/redradist/BlazorGooglePay) - ![last commit](https://img.shields.io/github/last-commit/redradist/BlazorGooglePay?style=flat-square\&cacheSeconds=86400) Blazor wrapper around Js Google Pay, library based on [BrowserInterop (⭐167)](https://github.com/RemiBou/BrowserInterop/).
 
 ## [Jul 29, 2020](/content/2020/07/29/README.md)
 
@@ -1781,8 +1078,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Tools & Utilities / Others
 
 *   [bUnit - a testing library for Blazor components (⭐783)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
-*   [Logging (⭐205)](https://github.com/BlazorExtensions/Logging) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Logging?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Logging?style=flat-square\&cacheSeconds=86400) Microsoft Extension Logging implementation for Blazor.
-*   [Notifications (⭐132)](https://github.com/BlazorExtensions/Notifications) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Notifications?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Notifications?style=flat-square\&cacheSeconds=86400) HTML5 Notifications API implementation for Microsoft Blazor.
 
 ### Others / Others
 
@@ -1808,10 +1103,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ## [Jul 15, 2020](/content/2020/07/15/README.md)
 
-### Cloud
-
-*   [EventGrid Viewer Blazor (⭐22)](https://github.com/azure-samples/eventgrid-viewer-blazor/) - ![stars](https://img.shields.io/github/stars/azure-samples/eventgrid-viewer-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/azure-samples/eventgrid-viewer-blazor?style=flat-square\&cacheSeconds=86400) Blazor Server app that displays EventGrid messages in realtime & allows the ability to secure the app using Azure AD, KeyVault & Managed Identities.
-
 ### Individual components / Others
 
 *   [Blorc.PatternFly (⭐29)](https://github.com/WildGums/Blorc.PatternFly) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.PatternFly?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.PatternFly?style=flat-square\&cacheSeconds=86400) Blazor wrappers for [PatternFly](https://www.patternfly.org). To view the latest develop branch in action, visit the [demo](http://blorc-patternfly.wildgums.com/) app.
@@ -1827,11 +1118,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Authentication
 
 *   [Blazor-WASM-AzureAD-gRPC (⭐15)](https://github.com/StefH/BlazorWasmGrpcWithAADAuth) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAADAuth?style=flat-square\&cacheSeconds=86400) Blazor WASM, Azure AD, REST & gRPC.
-*   [Blazor-WASM-Auth0-gRPC (⭐8)](https://github.com/StefH/BlazorWasmGrpcWithAuth0) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAuth0?style=flat-square\&cacheSeconds=86400) Blazor WASM, [Auth0](https://auth0.com), REST & gRPC.
-
-### Games
-
-*   [BlazorPong (⭐13)](https://github.com/MACEL94/BlazorPong) - ![last commit](https://img.shields.io/github/last-commit/MACEL94/BlazorPong?style=flat-square\&cacheSeconds=86400) - Pong in Blazor server model and Wasm model using SignalR Core. [Server Demo](https://blazorpong-dev-as.azurewebsites.net). [Wasm Demo](https://blazorpongwasm.azurewebsites.net/).
 
 ### Individual components / API
 
@@ -1844,22 +1130,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 *   [Howler.Blazor (⭐25)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
 *   [jsMind.Blazor (⭐11)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 
-## [Jul 01, 2020](/content/2020/07/01/README.md)
-
-### Games
-
-*   [Minesweeper (⭐170)](https://github.com/exceptionnotfound/BlazorGames) - ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=86400) Minesweeper using C# and Blazor WebAssembly.
-
 ## [Jun 29, 2020](/content/2020/06/29/README.md)
 
 ### Authentication
 
 *   [TheIdServer (⭐435)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
 *   [Blorc.OpenIdConnect (⭐48)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
-
-### Individual components / Datagrids / tables
-
-*   [BlazorTable (⭐435)](https://github.com/IvanJosipovic/BlazorTable) - ![stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorTable?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorTable?style=flat-square\&cacheSeconds=86400) A Table Control for Blazor with sorting, paging, filtering and more ([Demo](https://BlazorTable.netlify.com)).
 
 ### Courses / Others
 
@@ -1934,12 +1210,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [ComponentOne Blazor UI Components](https://www.grapecity.com/componentone/blazor-ui-controls) - External link. A fast datagrid, listview, input and other native Blazor components for server and client-side apps.
 
-## [May 01, 2020](/content/2020/05/01/README.md)
-
-### Individual components / Others
-
-*   [Blazor-Dom-Confetti (⭐16)](https://github.com/ctrl-alt-d/blazor-dom-confetti) - ![last commit](https://img.shields.io/github/last-commit/ctrl-alt-d/blazor-dom-confetti?style=flat-square\&cacheSeconds=86400) Celebrate success with dom 🎉confetti🎉 on Blazor projects. Two versions, dom-confetti wrapper and native blazor 100% JS free.
-
 ## [Apr 28, 2020](/content/2020/04/28/README.md)
 
 ### Individual components / Others
@@ -1961,10 +1231,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 ## [Apr 15, 2020](/content/2020/04/15/README.md)
 
-### Tools & Utilities / Others
-
-*   [Cortex.Net (⭐70)](https://github.com/jspuij/Cortex.Net) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/Cortex.Net?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/Cortex.Net?style=flat-square\&cacheSeconds=86400) State management like MobX for .NET and Blazor. [Documentation](https://jspuij.github.io/Cortex.Net.Docs/pages/index.html).
-
 ### Others / Others
 
 *   [BlazorWebView (⭐128)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
@@ -1980,12 +1246,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### E-Books / Others
 
 *   [Using CSLA 5: Blazor and WebAssembly](https://store.lhotka.net/using-csla-5-blazor-and-webassembly) - This book covers the new Blazor UI framework, including how to create server-side and client-side WebAssembly projects, how to implement authentication and authorization, and how to use data binding. It then covers how CSLA .NET supports Blazor, including walking through a complete sample app.
-
-## [Mar 11, 2020](/content/2020/03/11/README.md)
-
-### Individual components / Others
-
-*   [DnetOverlay](https://github.com/amuste/DnetOverlay) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetOverlay?style=flat-square\&cacheSeconds=86400) Agular CDK Overlay implementation for Blazor.
 
 ## [Mar 08, 2020](/content/2020/03/08/README.md)
 
@@ -2010,10 +1270,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 *   [Blazor workshop (⭐3k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
 
-### Individual components / Others
-
-*   [BlazorInputFile (⭐246)](https://github.com/SteveSandersonMS/BlazorInputFile) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorInputFile?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/SteveSandersonMS/BlazorInputFile?style=flat-square\&cacheSeconds=86400) A file input component for Blazor applications, by Steve Sanderson.
-
 ## [Feb 26, 2020](/content/2020/02/26/README.md)
 
 ### Component bundles
@@ -2027,15 +1283,10 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Individual components / Others
 
 *   [Blazored.Typeahead (⭐363)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-*   [TwitterShareButton (⭐3)](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.TwitterShareButton?style=flat-square\&cacheSeconds=86400) A Tweet Button component for Blazor.
-*   [Blazor.LoadingIndicator (⭐78)](https://github.com/h3x4d3c1m4l/Blazor.LoadingIndicator) - ![last commit](https://img.shields.io/github/last-commit/h3x4d3c1m4l/Blazor.LoadingIndicator?style=flat-square\&cacheSeconds=86400) Simple to use loading indicator helper library.
-*   [BlazorTypography (⭐14)](https://github.com/chanan/BlazorTypography) - ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorTypography?style=flat-square\&cacheSeconds=86400) A powerful toolkit for building websites with beautiful design ([Demo](https://chanan.github.io/BlazorTypography/)).
 *   [Razor.SweetAlert2 (⭐123)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
 
 ### Tools & Utilities / Others
 
-*   [SignalR (⭐207)](https://github.com/BlazorExtensions/SignalR) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/SignalR?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/SignalR?style=flat-square\&cacheSeconds=86400) SignalR Core implementation for Blazor. It uses the JavaScript client.
-*   [Storage (⭐219)](https://github.com/BlazorExtensions/Storage) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Storage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Storage?style=flat-square\&cacheSeconds=86400) HTML5 Storage API implementation for Microsoft Blazor.
 *   [Blazor.Polyfill (⭐115)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 
 ## [Feb 23, 2020](/content/2020/02/23/README.md)
@@ -2067,12 +1318,6 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 ### Mobile
 
 *   [Mobile Blazor Bindings](https://aka.ms/mobileblazorbindings) - Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor.
-
-## [Jan 13, 2020](/content/2020/01/13/README.md)
-
-### Authentication
-
-*   [Authentication with client-side Blazor (⭐234)](https://github.com/chrissainty/AuthenticationWithClientSideBlazor) - ![stars](https://img.shields.io/github/stars/chrissainty/AuthenticationWithClientSideBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chrissainty/AuthenticationWithClientSideBlazor?style=flat-square\&cacheSeconds=86400) Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity. [Blog post](https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/).
 
 ## [Jan 10, 2020](/content/2020/01/10/README.md)
 

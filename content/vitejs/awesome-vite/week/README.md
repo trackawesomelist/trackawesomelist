@@ -6,6 +6,36 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Templates / Solid
+
+*   [vite-solid (⭐2)](https://github.com/andreecy/vite-solid) - Vite + Solid starter template.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-assemblyscript-asc (⭐1)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [unplugin-compression (⭐1)](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-version-mark (⭐0)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
+
+### Framework-agnostic Plugins / Testing
+
+*   [vitest-preview (⭐201)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
+
+### Vue / Loaders
+
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-svg-component (⭐1)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
+
+### React / Helpers
+
+*   [vite-plugin-react-inspector (⭐107)](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Templates / Vue 3

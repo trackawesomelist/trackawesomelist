@@ -174,6 +174,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [sttv (⭐98)](https://github.com/srmullen/sttv) - Svelte, Tailwind CSS, TypeScript.
 *   [svelte-vite-ssr (⭐39)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
+#### Solid
+
+*   [vite-solid (⭐2)](https://github.com/andreecy/vite-solid) - Vite + Solid starter template.
+
 #### Electron
 
 *   [electron-vite-vue (⭐1.7k)](https://github.com/electron-vite/electron-vite-vue) - Electron + Vite + Vue template.
@@ -256,6 +260,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-bullet-msg (⭐2)](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
 *   [vite-plugin-virtual-mpa (⭐17)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 *   [tailwindcss-vite-plugin (⭐10)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
+*   [vite-plugin-assemblyscript-asc (⭐1)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
 
 #### Loaders
 
@@ -285,6 +290,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-zip-file (⭐4)](https://github.com/Ssis53/vite-plugin-zip) - Compress files or folders into zip.
 *   [vite-plugin-zip-pack (⭐2)](https://github.com/7th-Cyborg/vite-plugin-zip-pack) - Pack distribution/build folder into a zip file.
 *   [vite-plugin-cp (⭐16)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
+*   [unplugin-compression (⭐1)](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
 
 #### Transformers
 
@@ -323,6 +329,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [@vituum/vite-plugin-posthtml (⭐1)](https://github.com/vituum/vite-plugin-posthtml) - PostHTML support, transforms syntax to `.html`.
 *   [@vituum/vite-plugin-juice (⭐1)](https://github.com/vituum/vite-plugin-juice) - Juice support, transforms `.css` to inline styles in `.html`.
 *   [vite-plugin-setting-css-module (⭐3)](https://github.com/ProgrameBoy/vite-plugin-setting-css-module) - Implementing CSS-Modules with vite modularity rules. Don't need create `xxx.module.css`.
+*   [vite-plugin-version-mark (⭐0)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
 
 #### Helpers
 
@@ -368,6 +375,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vitest (⭐7k)](https://github.com/vitest-dev/vitest) - A Vite-native test framework.
 *   [vitest-mock-extended (⭐27)](https://github.com/eratio08/vitest-mock-extended) - Type safe mocking extensions for Vitest.
 *   [cypress-vite (⭐23)](https://github.com/mammadataei/cypress-vite) - Run Cypress specs using Vite.
+*   [vitest-preview (⭐201)](https://github.com/nvh95/vitest-preview) - Visual debugging experience for Vitest.
 
 <hr>
 
@@ -406,6 +414,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   ![v23] [vite-plugin-md (⭐449)](https://github.com/antfu/vite-plugin-md) - Markdown as Vue components / Vue components in Markdown.
 *   ![v3] [vite-svg-loader (⭐275)](https://github.com/jpkleemans/vite-svg-loader) - Load SVG files as Vue components.
 *   ![v2] [vite-plugin-vue2-svg (⭐9)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
+*   ![v3] [unplugin-svg-component (⭐1)](https://github.com/Jevon617/unplugin-svg-component) - Load SVG files as a Vue component, supporting svg file HMR and Typescript intelligence prompt.
 
 #### SSG
 
@@ -452,6 +461,10 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 *   [vite-plugin-react-pages (⭐296)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 *   [@vitjs/vit (⭐93)](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
+
+#### Helpers
+
+*   [vite-plugin-react-inspector (⭐107)](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
 
 <!--lint ignore double-link-->
 

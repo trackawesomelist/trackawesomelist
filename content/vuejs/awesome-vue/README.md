@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Nov 24, 2022](/content/2022/11/24/README.md)
+
+### Components & Libraries / UI Components
+
+*   [TwicPics (⭐28)](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
+
 ## [Nov 23, 2022](/content/2022/11/23/README.md)
 
 ### Projects Using Vue.js / Commercial Products

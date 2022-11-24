@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Nov 24, 2022](/content/2022/11/24/README.md)
+
+### Web Frameworks
+
+*   [marten (⭐218)](https://github.com/martenframework/marten) - A web framework that makes building web applications easy, productive, and fun
+
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
 
 ### Game Development
