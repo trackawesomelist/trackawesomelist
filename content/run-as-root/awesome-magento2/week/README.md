@@ -6,6 +6,12 @@ Curated list of awesome Magento 2 Extensions, Resources and other Highlights
 
 [ [Daily](/content/run-as-root/awesome-magento2/README.md) / Weekly / [Overview](/content/run-as-root/awesome-magento2/readme/README.md) ]
 
+## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
+
+### Localization
+
+*   [hr\_HR](https://marketplace.magento.com/inchoo-language-hr-hr.html) :croatia: - Croatian Language Package.
+
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Tools
