@@ -35,6 +35,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
 
+*   [chaosreactor/awesome-generative-ai (⭐6)](https://github.com/chaosreactor/awesome-generative-ai): An awesome list of low- and no-code generative AI resources
 *   [steven2358/awesome-generative-ai (⭐31)](https://github.com/steven2358/awesome-generative-ai): A curated list of modern Generative Artificial Intelligence projects and services
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
@@ -227,7 +228,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐3.4k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐4.8k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 
 ### Courses and Educational Materials / References Collection about Stable Diffusion
 

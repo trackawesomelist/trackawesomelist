@@ -101,7 +101,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Boost](https://github.com/boostorg) :zap: - A large collection of generic C++ libraries. \[Boost] [website](http://www.boost.org/)
 *   [BDE (⭐1.4k)](https://github.com/bloomberg/bde) - The BDE Development Environment from Bloomberg Labs. \[Apache2]
 *   [C++ Workflow (⭐9.5k)](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine. \[Apache2]
-*   [CGraph (⭐397)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
+*   [CGraph (⭐422)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
 *   [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding. \[BSD]
 *   [Coost (⭐3.1k)](https://github.com/idealvin/coost) - A tiny boost library in C++11. \[MIT]
 *   [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/) - A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. \[MIT]
@@ -397,6 +397,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [hiberlite (⭐628)](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. \[BSD]
 *   [Hiredis (⭐5.5k)](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. \[BSD]
 *   [LevelDB (⭐31k)](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. \[BSD]
+*   [libpqxx (⭐699)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
 *   [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. \[OpenLDAP]
 *   [LMDB++ (⭐260)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 *   [MongoDB C Driver (⭐748)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
@@ -487,7 +488,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [KlayGE (⭐1.8k)](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. \[GPLv2] [website](http://www.klayge.org/)
 *   [nCine (⭐764)](https://github.com/nCine/nCine) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua. \[MIT] [website](https://ncine.github.io/)
 *   [o3de (⭐5.6k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
-*   [OpenXRay (⭐2.1k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+*   [OpenXRay (⭐2.2k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 *   [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. \[MIT]
 *   [Panda3D (⭐3.6k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 *   [PixelGameEngine (⭐3.3k)](https://github.com/OneLoneCoder/olcPixelGameEngine) - The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects. \[OLC3]
@@ -539,7 +540,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Diligent Engine (⭐2.6k)](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. \[Apache2]
 *   [DirectXTK (⭐2.2k)](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++. \[MIT]
 *   [GLFW (⭐9.8k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
-*   [Harfang 3D (⭐219)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐239)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
 *   [herebedragons (⭐1.7k)](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs. \[MIT] [website](http://simonrodriguez.fr/dragon/)
 *   [Horde3D (⭐1.3k)](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine. \[EPL]
 *   [Ion (⭐1.4k)](https://github.com/google/ion) - A small and efficient set of libraries for building cross-platform client or server applications that use 3D graphics. \[Apache2] [website](https://google.github.io/ion/)
@@ -1021,6 +1022,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [cxx-prettyprint (⭐533)](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. \[Boost]
 *   [icecream-cpp (⭐409)](https://github.com/renatoGarcia/icecream-cpp) - A small printing library for debugging purposes. \[MIT]
 *   [gcc-poison (⭐184)](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
+*   [jwt-cpp (⭐529)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
 *   [Kangaru (⭐363)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 *   [Klib (⭐3.7k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
 *   [libsigc++ (⭐246)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
@@ -1312,7 +1314,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [lists (⭐8.5k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [awesome (⭐225k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐227k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [C++ links (⭐3.3k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 *   [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.

@@ -6,6 +6,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 25, 2022](/content/2022/11/25/README.md)
+
+### Database
+
+*   [libpqxx (⭐699)](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL. \[BSD-3-Clause]
+
+### Miscellaneous
+
+*   [jwt-cpp (⭐529)](https://github.com/Thalhammer/jwt-cpp) - A header only library for creating and validating JSON web tokens in C++. \[MIT]
+
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
 
 ### Networking
@@ -26,7 +36,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Frameworks
 
-*   [CGraph (⭐397)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
+*   [CGraph (⭐422)](https://github.com/ChunelFeng/CGraph) - A cross-platform DAG framework based on C++ without any 3rd-party. \[MIT]
 
 ## [Oct 31, 2022](/content/2022/10/31/README.md)
 
@@ -106,7 +116,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Graphics
 
-*   [Harfang 3D (⭐219)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
+*   [Harfang 3D (⭐239)](https://github.com/harfang3d/harfang3d) 3D visualization library usable in C++, Python, Lua and Go. Based on BGFX. \[GPLv3/LGPLv3/Commercial] [website](https://www.harfang3d.com)
 
 ## [May 25, 2022](/content/2022/05/25/README.md)
 
@@ -1584,7 +1594,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Game Engine
 
-*   [OpenXRay (⭐2.1k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
+*   [OpenXRay (⭐2.2k)](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. \[Modified BSD/non-commercial only]
 
 ### Scripting
 
@@ -2317,7 +2327,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Other Awesome Projects
 
-*   [awesome (⭐225k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐227k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [nothings/single\_file\_libs (⭐7.6k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [Jul 03, 2017](/content/2017/07/03/README.md)

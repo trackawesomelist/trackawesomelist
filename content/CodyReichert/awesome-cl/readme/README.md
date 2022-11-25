@@ -1028,6 +1028,7 @@ See also mito-auth and the Hunchentoot and Clack plugins above.
     Service (S3) and CloudFront service. [BSD][15].
 *   [cl-ses (⭐14)](https://github.com/CodyReichert/cl-ses/) - Library for AWS SES. [Expat][14].
 *   [north](https://shinmera.github.io/north) - The successor to the South (Simple OaUTH) library, implementing the full oAuth 1.0a protocol, both client and server sides. Using North you can easily become an oAuth provider or consumer. [zlib][33].
+*   [Ciao (⭐4)](https://github.com/kjinho/ciao) - an easy-to-use Common Lisp OAuth 2.0 client library. It is a port of the Racket OAuth 2.0 Client to Common Lisp. [LGPL3][9].
 *   [avatar-api (⭐9)](https://github.com/eudoxia0/avatar-api) - Get avatars from Google+, Gravatar and others. [Expat][14].
 *   [chirp (⭐69)](https://github.com/Shinmera/chirp) - A Twitter client library. [zlib][33].
 *   [tooter (⭐22)](https://github.com/Shinmera/tooter) - a client library implementing the full v1 REST API protocol for Mastodon. [zlib][33].

@@ -26,6 +26,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [sendgrid (⭐12)](https://github.com/vindarel/cl-sendgrid) - send emails with Sendgrid's API. [MIT](https://opensource.org/licenses/MIT).
 
+### Others / Third-party APIs
+
+*   [Ciao (⭐4)](https://github.com/kjinho/ciao) - an easy-to-use Common Lisp OAuth 2.0 client library. It is a port of the Racket OAuth 2.0 Client to Common Lisp. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+
 ### Actors pattern / Third-party APIs
 
 *   👍 [Sento (⭐122)](https://github.com/mdbergmann/cl-gserver) - Sento (formerly cl-gserver) is a 'message passing' library/framework with actors similar to Erlang or Akka. It supports creating systems that should work reactive, require parallel computing and event based message handling. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).

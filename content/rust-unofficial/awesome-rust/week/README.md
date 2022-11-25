@@ -8,6 +8,11 @@ A curated list of Rust code and resources.
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
+### Applications / Cryptocurrencies
+
+*   [cairo (⭐164)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
+*   [sigma-rust (⭐51)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
+
 ### Applications / Social networks
 
 *   Mastodon
@@ -59,7 +64,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Cryptocurrencies
 
-*   [ibc-rs (⭐282)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibcprotocol.org/) protocol
+*   [ibc-rs (⭐282)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 
 ### Development tools / Web Servers
 
@@ -2101,7 +2106,7 @@ A curated list of Rust code and resources.
     *   [cobalt-org/cobalt.rs (⭐1.2k)](https://github.com/cobalt-org/cobalt.rs) — Static site generator written in Rust [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build?definitionId=2)
     *   [FuGangqiang/mdblog.rs (⭐48)](https://github.com/FuGangqiang/mdblog.rs) \[[mdblog](https://crates.io/crates/mdblog)] — Static site generator from markdown files.
     *   [getzola/zola (⭐9.7k)](https://github.com/getzola/zola) \[[zola](https://www.getzola.org/)] — An opinionated static site generator with everything built-in. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build)
-    *   [grego/blades (⭐257)](https://github.com/grego/blades) \[[blades](https://getblades.org/)] — Blazing fast dead simple static site generator.
+    *   [grego/blades (⭐260)](https://github.com/grego/blades) \[[blades](https://getblades.org/)] — Blazing fast dead simple static site generator.
     *   [leven-the-blog/leven (⭐55)](https://github.com/leven-the-blog/leven) \[[leven](https://crates.io/crates/leven)] — A simple, parallelized blog generator. [![build badge](https://api.travis-ci.org/quadrupleslap/leven.svg?branch=master)](https://travis-ci.org/quadrupleslap/leven)
 
 ### Resources / Web programming

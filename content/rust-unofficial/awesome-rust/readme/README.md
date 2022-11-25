@@ -163,6 +163,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 
 *   [Akula (⭐725)](https://github.com/akula-bft/akula) - Rust Ethereum Execution Layer (EL) Client (WIP)
 *   [Bitcoin Satoshi's Vision (⭐51)](https://github.com/brentongunning/rust-sv) \[[sv](https://crates.io/crates/sv)] — A Rust library for working with Bitcoin SV .
+*   [cairo (⭐164)](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation. This is also the native language of [StarkNet](https://starknet.io), a ZK-Rollup using STARK proofs ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/starkware-libs/cairo/CI?style=flat-square\&logo=github)
 *   [cairo-rs (⭐234)](https://github.com/lambdaclass/cairo-rs) — Rust implementation of the Cairo VM [![rust](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/lambdaclass/cairo-rs/actions/workflows/rust.yml)
 *   [ChainX (⭐258)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [CITA (⭐1.3k)](https://github.com/citahub/cita) — A high performance blockchain kernel for enterprise users.
@@ -178,7 +179,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [hdwallet (⭐24)](https://github.com/jjyr/hdwallet) \[[hdwallet](https://crates.io/crates/hdwallet)] — BIP-32 HD wallet related key derivation utilities.
 *   [Holochain (⭐726)](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build. [![detect critical check failures](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml/badge.svg)](https://github.com/holochain/holochain/actions/workflows/check_run_detect_release_pr_failure.yml)
-*   [ibc-rs (⭐282)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibcprotocol.org/) protocol
+*   [ibc-rs (⭐282)](https://github.com/informalsystems/hermes) - Rust implementation of the [Interblockchain Communication](https://ibc.cosmos.network/) protocol
 *   [infincia/bip39-rs (⭐48)](https://github.com/infincia/bip39-rs) \[[bip39](https://crates.io/crates/bip39)] — Rust implementation of BIP39.
 *   [interBTC (⭐179)](https://github.com/interlay/interbtc) — Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.
 *   [Joystream (⭐151)](https://github.com/Joystream/joystream) — A user governed video platform [![Build Status](https://api.travis-ci.org/Joystream/joystream.svg?branch=master)](https://travis-ci.org/Joystream/joystream)
@@ -194,6 +195,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 *   [revm (⭐423)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine written in rust.
 *   [rust-bitcoin (⭐1.2k)](https://github.com/rust-bitcoin/rust-bitcoin) — Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
 *   [rust-lightning (⭐815)](https://github.com/lightningdevkit/rust-lightning) [![Crate](https://img.shields.io/crates/v/lightning.svg?logo=rust)](https://crates.io/crates/lightning) — Bitcoin Lightning library written in Rust. The main crate,`lightning`, does not handle networking, persistence, or any other I/O. Thus,it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.po on linking crate.
+*   [sigma-rust (⭐51)](https://github.com/ergoplatform/sigma-rust) — Rust implementation of ErgoTree interpreter and wallet-related features.
 *   [Solana (⭐9.6k)](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
 *   [Substrate (⭐7.6k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 *   [svm-rs (⭐107)](https://github.com/roynalnaruto/svm-rs) - Solidity-Compiler Version Manager.
@@ -1593,7 +1595,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
     *   [cobalt-org/cobalt.rs (⭐1.2k)](https://github.com/cobalt-org/cobalt.rs) — Static site generator written in Rust [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build?definitionId=2)
     *   [FuGangqiang/mdblog.rs (⭐48)](https://github.com/FuGangqiang/mdblog.rs) \[[mdblog](https://crates.io/crates/mdblog)] — Static site generator from markdown files.
     *   [getzola/zola (⭐9.7k)](https://github.com/getzola/zola) \[[zola](https://www.getzola.org/)] — An opinionated static site generator with everything built-in. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build)
-    *   [grego/blades (⭐257)](https://github.com/grego/blades) \[[blades](https://getblades.org/)] — Blazing fast dead simple static site generator.
+    *   [grego/blades (⭐260)](https://github.com/grego/blades) \[[blades](https://getblades.org/)] — Blazing fast dead simple static site generator.
     *   [leven-the-blog/leven (⭐55)](https://github.com/leven-the-blog/leven) \[[leven](https://crates.io/crates/leven)] — A simple, parallelized blog generator. [![build badge](https://api.travis-ci.org/quadrupleslap/leven.svg?branch=master)](https://travis-ci.org/quadrupleslap/leven)
 *   [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
     *   [housleyjk/ws-rs (⭐1.3k)](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets for Rust [![build badge](https://api.travis-ci.org/housleyjk/ws-rs.svg?branch=stable)](https://travis-ci.org/housleyjk/ws-rs)
