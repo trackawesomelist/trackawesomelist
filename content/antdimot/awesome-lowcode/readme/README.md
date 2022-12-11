@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 129 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 139 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -24,6 +24,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Automation](#automation)
 *   [Educational](#educational)
 *   [Flow-based programming](#flow-based-programming)
+*   [Machine Learning](#machine-learning)
+*   [Marketing](#marketing)
 *   [Online database creator apps](#online-database-creator-apps)
 *   [Visual programming](#visual-programming)
 *   [Misc](#misc)
@@ -37,6 +39,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Camunda](https://camunda.com/) - Automate Any Process, Anywhere.
 *   [Data Fetcher for Airtable](https://datafetcher.com/) - Connect Airtable to any API using the Data Fetcher app.
 *   [Make](https://www.make.com) - Make lets you design, build, and automate anything from tasks and workflows to apps and systems.
+*   [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
 *   [Phantombuster](https://phantombuster.com/) - Code free automations and data extraction.
 *   [Reflect](https://reflect.run/) - Automated regression tests without a line of code.
 *   [Stackby](https://stackby.com/) - Automate workflows, build custom tools, collaborate with your team.
@@ -59,6 +62,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [n8n.io](https://n8n.io/) - Extendable workflow automation.
 *   [Node-RED](https://nodered.org/) - A programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 *   [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely.
+*   [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast with no code. And with code-level control when you need it.
+*   [Runnable](https://getrunnable.com/) - A low-code framework for building user-facing internal workflows.
 *   [Stately](https://stately.ai/) - The ideal state of visual application logic.
 *   [Structr](https://structr.com) - The visualization of the data and program structures as a graph accelerates the development and makes the results easily comprehensible for everyone at any time.
 *   [Wayscript](https://wayscript.com) - A rapid scripting platform for developers.
@@ -78,6 +83,12 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Noogata](https://noogata.com/) - AI platform gives companies the impact of data science without the burden of development or the limitations of out-of-the-box solutions.
 *   [SaegMaker](https://aws.amazon.com/sagemaker/) - Machine learning for every data scientist and developer.
 *   [Sas](https://www.sas.com/en_si/software/machine-learning-cloud.html) - On-demand programming access to machine learning algorithms in the cloud.
+*   [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
+
+## Marketing
+
+*   [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
+*   [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
 
 ## Online database creator apps
 
@@ -99,6 +110,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [AppSheet](https://www.appsheet.com/) - The fastest way to build apps and automate work.
 *   [Appsmith](https://www.appsmith.com/) - A powerful open source framework to build internal tools.
 *   [Appwrite](https://appwrite.io/) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers.
+*   [AWS Application Composer](https://aws.amazon.com/application-composer/) - Visually design and build serverless applications quickly.
 *   [Bildr](https://www.bildr.com) - Open-ended, extensible, collaboration-focused website and web app builder.
 *   [Boundlesslabs](https://www.boundlesslabs.com/) - Boundless lets you build the web site of your dreams. No code required.
 *   [bubble](https://bubble.io/) - A code-free programming language that lets you build and host web applications without engineers.
@@ -126,11 +138,6 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Typedream](https://typedream.com) - The new way to make a website.
 *   [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
 
-## Marketing
-
-*   [AppSumo](https://appsumo.com/) - Discover, buy, & sell the products you need to grow your business.
-*   [Bannerbear](https://www.bannerbear.com/) - Auto-generate social media visuals, ecommerce banners, dynamic email images and more with our API and integrations.
-
 ## Misc
 
 *   [Algolia](https://www.algolia.com/) - Flexible Search & Discovery Hosted APIs.
@@ -139,6 +146,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Doppler](https://www.doppler.com/) - Sync environment variables at scale.
 *   [Fibery](https://fibery.io) - Build your own workspace.
 *   [Getstream](https://getstream.io) - Stream powers Chat Messaging and Activity Feeds for billions of global end-users across thousands of different apps.
+*   [Linx](https://linx.software) - General-purpose low-code platform for building custom backends APIs, automations and integrations
 *   [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 *   [NoCodeAPI](https://nocodeapi.com/) - The easiest way to connect with APIs.
 *   [placeid](https://placid.app/) - Generate your social share images automatically.

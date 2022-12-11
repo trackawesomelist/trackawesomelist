@@ -6,18 +6,30 @@ A list of awesome Symfony bundles, utilities and resources.
 
 [ Daily / [Weekly](/content/sitepoint-editors/awesome-symfony/week/README.md) / [Overview](/content/sitepoint-editors/awesome-symfony/readme/README.md) ]
 
+## [Dec 04, 2022](/content/2022/12/04/README.md)
+
+### Miscellaneous
+
+*   [BreadcrumbsBundle (⭐50)](https://github.com/mhujer/BreadcrumbsBundle) - A small breadcrumbs bundle.
+*   [request-object-resolver-bundle (⭐7)](https://github.com/mops1k/request-object-resolver-bundle) - Denormilize and validate incoming request in your DTO objects.
+*   [BabDevPagerfantaBundle (⭐131)](https://github.com/BabDev/BabDevPagerfantaBundle) - Bundle to use Pagerfanta.
+
+### Resources
+
+*   [Modern PHP cheatsheet (⭐1.1k)](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some Php knowledge you will frequently encounter in modern projects.
+
 ## [Oct 26, 2022](/content/2022/10/26/README.md)
 
 ### Administration
 
-*   [TablerBundle (⭐13)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
+*   [TablerBundle (⭐17)](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
 
 ## [Jun 29, 2022](/content/2022/06/29/README.md)
 
 ### Recipes
 
-*   [Symfony Recipes (⭐846)](https://github.com/symfony/recipes) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-*   [Symfony Recipes (Contrib) (⭐466)](https://github.com/symfony/recipes-contrib) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+*   [Symfony Recipes (⭐858)](https://github.com/symfony/recipes) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+*   [Symfony Recipes (Contrib) (⭐470)](https://github.com/symfony/recipes-contrib) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## [Feb 10, 2022](/content/2022/02/10/README.md)
 
@@ -29,19 +41,19 @@ A list of awesome Symfony bundles, utilities and resources.
 
 ### Administration
 
-*   [Umbrella framework (⭐106)](https://github.com/acantepie/umbrella) - Admin components and theme to create administration backends.
+*   [Umbrella framework (⭐112)](https://github.com/acantepie/umbrella) - Admin components and theme to create administration backends.
 
 ## [May 06, 2021](/content/2021/05/06/README.md)
 
 ### Forms
 
-*   [KarserRecaptcha3Bundle (⭐99)](https://github.com/karser/KarserRecaptcha3Bundle) - Integrates Google ReCAPTCHA v3 into Symfony.
+*   [KarserRecaptcha3Bundle (⭐100)](https://github.com/karser/KarserRecaptcha3Bundle) - Integrates Google ReCAPTCHA v3 into Symfony.
 
 ## [Feb 01, 2021](/content/2021/02/01/README.md)
 
 ### Administration
 
-*   [AdminLTEBundle (⭐202)](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
+*   [AdminLTEBundle (⭐204)](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
 
 ### Reading
 
@@ -69,14 +81,14 @@ A list of awesome Symfony bundles, utilities and resources.
 
 ### Miscellaneous
 
-*   [EightPointsGuzzleBundle (⭐420)](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
+*   [EightPointsGuzzleBundle (⭐419)](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
 
 ## [Jul 13, 2017](/content/2017/07/13/README.md)
 
 ### Certification
 
-*   [CLI tool to train certifications (⭐418)](https://github.com/certificationy/certificationy-cli)
-*   [Symfony 3 certification guide (⭐142)](https://github.com/raulconti/symfony-3-certification-guide)
+*   [CLI tool to train certifications (⭐419)](https://github.com/certificationy/certificationy-cli)
+*   [Symfony 3 certification guide (⭐141)](https://github.com/raulconti/symfony-3-certification-guide)
 *   [Symfony certification preparation list (⭐548)](https://github.com/ThomasBerends/symfony-certification-preparation-list)
 
 ## [May 08, 2017](/content/2017/05/08/README.md)
@@ -101,14 +113,14 @@ A list of awesome Symfony bundles, utilities and resources.
 
 ### Ecommerce
 
-*   [Sylius (⭐7k)](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+*   [Sylius (⭐7.1k)](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 
 ## [Mar 15, 2016](/content/2016/03/15/README.md)
 
 ### Administration
 
-*   [AdminCrudBundle (⭐18)](https://github.com/MWSimple/AdminCrudBundle) - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
-*   [AdmingeneratorGeneratorBundle (⭐363)](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) - Admingenerator for Symfony2, parse generator.yml files to build classes
+*   [AdminCrudBundle (⭐19)](https://github.com/MWSimple/AdminCrudBundle) - AdminCrudBundle - Use SensioGeneratorBundle. Extend controller, add paginator, filter, others.
+*   [AdmingeneratorGeneratorBundle (⭐364)](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) - Admingenerator for Symfony2, parse generator.yml files to build classes
 *   [EasyAdminBundle (⭐19)](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
 *   [SonataAdminBundle (⭐2.1k)](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
 
@@ -133,120 +145,119 @@ A list of awesome Symfony bundles, utilities and resources.
 ### Development
 
 *   [AccessibleBundle (⭐13)](https://github.com/antares993/AccessibleBundle) - Define your class' getters, setters and constructor using powerful annotations.
-*   [ApiExceptionBundle (⭐64)](https://github.com/M6Web/ApiExceptionBundle) - Exception API Bundle.
+*   [ApiExceptionBundle (⭐65)](https://github.com/M6Web/ApiExceptionBundle) - Exception API Bundle.
 *   [AvAjaxBundle (⭐1)](https://github.com/AppVentus/AvAjaxBundle) - This bundle offers a simple structure to run ajax actions.
 *   [BeelabTestBundle (⭐14)](https://github.com/Bee-Lab/BeelabTestBundle) - This bundle contains just an opinionated extension of Symfony WebTestCase.
 *   [CacheAdministrationBundle (⭐16)](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
 *   [ControllerExtraBundle (⭐155)](https://github.com/mmoreram/ControllerExtraBundle) - Set of useful Controller annotations.
-*   [DunglasActionBundle (⭐263)](https://github.com/dunglas/DunglasActionBundle) - A replacement for the Symfony controller system based on the Action-Domain-Responder pattern.
+*   [DunglasActionBundle (⭐262)](https://github.com/dunglas/DunglasActionBundle) - A replacement for the Symfony controller system based on the Action-Domain-Responder pattern.
 *   [http-bundle (⭐39)](https://github.com/iltar/http-bundle) - Provides extra HTTP related functionality.
 *   [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - Provides advanced debugging tools.
 *   [LadybugBundle (⭐332)](https://github.com/raulfraile/LadybugBundle) - The Simple and Extensible PHP Dumper.
 *   [LiipCodeBundle (⭐26)](https://github.com/liip/LiipCodeBundle) - A set of Symfony2 console commands to help developers deal with the various ways of identifying classes, templates, bundles, services, etc.
-*   [LiipFunctionalTestBundle (⭐623)](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony 2.
-*   [ListenersDebugCommandBundle (⭐61)](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
+*   [LiipFunctionalTestBundle (⭐622)](https://github.com/liip/LiipFunctionalTestBundle) - Some helper classes for writing functional tests in Symfony 2.
+*   [ListenersDebugCommandBundle (⭐60)](https://github.com/egulias/ListenersDebugCommandBundle) - A console command to debug listeners.
 *   [ParamConverterBundle (⭐16)](https://github.com/jakzal/ParamConverterBundle) - This bundle provides additional param converters for Symfony.
-*   [PhpMetricsCollectorBundle (⭐55)](https://github.com/phpmetrics/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar.
-*   [PsyshBundle (⭐191)](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
-*   [PUGXGeneratorBundle (⭐58)](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
+*   [PhpMetricsCollectorBundle (⭐54)](https://github.com/phpmetrics/PhpMetricsCollectorBundle) - Integrates PhpMetrics in Symfony2 debug toolbar.
+*   [PsyshBundle (⭐194)](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
+*   [PUGXGeneratorBundle (⭐57)](https://github.com/PUGX/PUGXGeneratorBundle) - An enhancement of SensioGeneratorBundle.
 *   [redaktilo-bundle (⭐6)](https://github.com/gnugat/redaktilo-bundle) - Integrates Redaktilo into Symfony 2.
 *   [SandboxBundle (⭐17)](https://github.com/danrevah/sandbox-bundle) - Overriding controller logic & response in a Sandbox environment.
 *   [StatsDClientBundle (⭐164)](https://github.com/liuggio/StatsDClientBundle) - Easily monitor your symfony2 production env., with ready-to-use stats.
 *   [TagDebugCommandBundle (⭐8)](https://github.com/egulias/TagDebugCommandBundle) - Integrate TagDebug library for inspecting and debugging tags.
 *   [TwigReflectionBundle (⭐15)](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
-*   [WebfactoryExceptionsBundle (⭐61)](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
+*   [WebfactoryExceptionsBundle (⭐62)](https://github.com/webfactory/exceptions-bundle) - Easily develop custom, user-friendly error pages.
 *   [WebProfilerExtraBundle (⭐268)](https://github.com/Elao/WebProfilerExtraBundle) - Adding routing, container, assetic & twig information in the web profiler.
-*   [XhprofBundle (⭐212)](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
+*   [XhprofBundle (⭐211)](https://github.com/jonaswouters/XhprofBundle) - XHProf bundle.
 
 ### Distributions
 
-*   [API Platform framework (⭐7.6k)](https://github.com/api-platform/api-platform)
-*   [Kunstmaan Bundles Standard Edition (⭐88)](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
-*   [Symfony CMF Standard Edition (⭐117)](https://github.com/symfony-cmf/standard-edition)
+*   [API Platform framework (⭐7.7k)](https://github.com/api-platform/api-platform)
+*   [Kunstmaan Bundles Standard Edition (⭐89)](https://github.com/Kunstmaan/KunstmaanBundlesStandardEdition)
+*   [Symfony CMF Standard Edition (⭐118)](https://github.com/symfony-cmf/standard-edition)
 *   [Symfony Standard Edition (⭐1.5k)](https://github.com/symfony/symfony-standard)
 
 ### Ecommerce
 
 *   [Bamboo (⭐202)](https://github.com/elcodi/bamboo) -  Full-stack E-commerce application based on Symfony and Elcodi components
-*   [Elcodi (⭐432)](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles
+*   [Elcodi (⭐433)](https://github.com/elcodi/elcodi) - E-commerce PHP Components and Symfony Bundles
 
 ### Forms
 
-*   [CraueFormFlowBundle (⭐704)](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
+*   [CraueFormFlowBundle (⭐705)](https://github.com/craue/CraueFormFlowBundle) - Multi-step forms.
 *   [InfiniteFormBundle (⭐158)](https://github.com/infinite-networks/InfiniteFormBundle) - A collection of useful form types and extensions.
 *   [IvoryCKEditorBundle (⭐338)](https://github.com/egeloen/IvoryCKEditorBundle) - CKEditor integration in Symfony.
-*   [IvoryOrderedFormBundle (⭐51)](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
-*   [LexikFormFilterBundle (⭐380)](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
+*   [IvoryOrderedFormBundle (⭐50)](https://github.com/egeloen/IvoryOrderedFormBundle) - Provides a form ordering support.
+*   [LexikFormFilterBundle (⭐381)](https://github.com/lexik/LexikFormFilterBundle) - Lexik Form Filter bundle.
 
 ### Internationalization
 
 *   [BazingaJsTranslationBundle (⭐551)](https://github.com/willdurand/BazingaJsTranslationBundle) - A pretty nice way to expose your Symfony2 translation messages to your client applications.
 *   [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - Bundle for multilingual websites to support international routes.
 *   [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - Translate your website with ease - extract messages & translate them via a web-based UI.
-*   [LexikTranslationBundle (⭐386)](https://github.com/lexik/LexikTranslationBundle) - Allows to import translation files content into the database and provide a GUI to edit translations.
-*   [LuneticsLocaleBundle (⭐184)](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
+*   [LexikTranslationBundle (⭐388)](https://github.com/lexik/LexikTranslationBundle) - Allows to import translation files content into the database and provide a GUI to edit translations.
+*   [LuneticsLocaleBundle (⭐187)](https://github.com/lunetics/LocaleBundle) - Guess the visitor’s locale from different parameters.
 *   [TimezoneBundle (⭐26)](https://github.com/lunetics/TimezoneBundle) - Serverside Timezone detection.
-*   [TranslationFormBundle (⭐311)](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
+*   [TranslationFormBundle (⭐310)](https://github.com/a2lix/TranslationFormBundle) - Translation field to facilitate the use of the Translatable Doctrine extension.
 
 ### Miscellaneous
 
 *   [AnhTaggableBundle (⭐6)](https://github.com/hilobok/AnhTaggableBundle) - Bundle provides integration of doctrine-extensions-taggable, adds form types for editing tag and tagging.
 *   [AntennaBundle (⭐3)](https://github.com/flint/AntennaBundle) - Makes it easier to integrate Antenna (and through it JWT) authentication.
-*   [APYBreadcrumbTrailBundle (⭐77)](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - This bundle provides annotations and PHP methods to generate a breacrumb trail.
-*   [APYDataGridBundle (⭐475)](https://github.com/APY/APYDataGridBundle) - Datagrid Bundle.
+*   [APYBreadcrumbTrailBundle (⭐79)](https://github.com/Abhoryo/APYBreadcrumbTrailBundle) - This bundle provides annotations and PHP methods to generate a breacrumb trail.
+*   [APYDataGridBundle (⭐477)](https://github.com/APY/APYDataGridBundle) - Datagrid Bundle.
 *   [AvAlertifyBundle (⭐0)](https://github.com/AppVentus/AvAlertifyBundle) - This bundle allows you to easily harmonize alerts and others notifications.
 *   [AviaryBundle (⭐4)](https://github.com/AppVentus/AviaryBundle) - This bundle provides multiple file uploads, based on the BlueImp jQuery file uploader package. It provides also Aviary editing image functionnalities.
 *   [AvListBundle (⭐6)](https://github.com/AppVentus/AvListBundle) - Easily make paginate and orderable list in Symfony2.
-*   [BackupManagerBundle (⭐13)](https://github.com/lhpalacio/BackupManagerBundle) - A simple database backup manager for Symfony2 with support for S3, Rackspace, Dropbox, FTP, SFTP.
-*   [BazingaFakerBundle (⭐279)](https://github.com/willdurand/BazingaFakerBundle) - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
+*   [BackupManagerBundle (⭐14)](https://github.com/lhpalacio/BackupManagerBundle) - A simple database backup manager for Symfony2 with support for S3, Rackspace, Dropbox, FTP, SFTP.
+*   [BazingaFakerBundle (⭐280)](https://github.com/willdurand/BazingaFakerBundle) - Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.
 *   [BazingaGeocoderBundle (⭐295)](https://github.com/geocoder-php/BazingaGeocoderBundle) - Integration of the Geocoder library.
 *   [BCCMyrrixBundle (⭐7)](https://github.com/michelsalib/BCCMyrrixBundle) - Myrrix is a recommendation engine built on Apache Mahout libraries.
-*   [BGBarcodeBundle (⭐21)](https://github.com/paterik/BGBarcodeBundle) - Bundle for barcode rendering using our barcode generator base library.
+*   [BGBarcodeBundle (⭐22)](https://github.com/paterik/BGBarcodeBundle) - Bundle for barcode rendering using our barcode generator base library.
 *   [BlogBundle (⭐33)](https://github.com/stfalcon/BlogBundle) - Simple blog module.
 *   [bootstrap-bundle (⭐403)](https://github.com/braincrafted/bootstrap-bundle) - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
-*   [BreadcrumbsBundle (⭐189)](https://github.com/whiteoctober/BreadcrumbsBundle) - A small breadcrumbs bundle.
 *   [BrowscapBundle (⭐14)](https://github.com/browscap/BrowscapBundle) - Bundle to access the browscap information.
 *   [CacheToolBundle (⭐19)](https://github.com/gordalina/CacheToolBundle) - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).
 *   [CarbonBundle (⭐14)](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
 *   [CheckBundles (⭐25)](https://github.com/wjzijderveld/CheckBundles) - Checks installed but not activated in AppKernel bundles.
 *   [CloudBackupBundle (⭐198)](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
-*   [ConsoleBundle (⭐138)](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
+*   [ConsoleBundle (⭐137)](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
 *   [CsaGuzzleBundle (⭐251)](https://github.com/csarrazi/CsaGuzzleBundle) - Bundle integrating Guzzle >=4.0 in Symfony.
 *   [CsvBundle (⭐9)](https://github.com/EGYG33K/CsvBundle) - An integration for thephpleague/csv into Symfony.
 *   [DomainParserBundle (⭐0)](https://github.com/EGYG33K/DomainParserBundle) - Integration of Domain Parser into Symfony.
 *   [EasyAuditBundle](http://xiidea.github.io/EasyAuditBundle/) - This bundle provides audit logging for your application - works with Doctrine2 entities and allows logging selective events.
 *   [EmbedlyBundle (⭐2)](https://github.com/EmanueleMinotto/EmbedlyBundle) - Bundle for the embed.ly library.
-*   [ExcelBundle (⭐378)](https://github.com/liuggio/ExcelBundle) - Excel integration in Symfony2 thanks to [https://github.com/PHPOffice/PHPExcel (⭐11k)](https://github.com/PHPOffice/PHPExcel) library.
+*   [ExcelBundle (⭐375)](https://github.com/liuggio/ExcelBundle) - Excel integration in Symfony2 thanks to [https://github.com/PHPOffice/PHPExcel (⭐11k)](https://github.com/PHPOffice/PHPExcel) library.
 *   [FeatureToggleBundle (⭐37)](https://github.com/marekkalnik/FeatureToggleBundle) - Configure your feature toggling in Symfony2 by adding some simple tags to twig and extending it's configuration.
 *   [ffmpeg-bundle (⭐56)](https://github.com/pulse00/ffmpeg-bundle) - This bundle provides a simple wrapper for the PHP\_FFmpeg library, exposing the library as a Symfony service.
-*   [FlorianvSwapBundle (⭐54)](https://github.com/florianv/FlorianvSwapBundle) - This Bundle integrates the Swap library.
+*   [FlorianvSwapBundle (⭐55)](https://github.com/florianv/FlorianvSwapBundle) - This Bundle integrates the Swap library.
 *   [FMBbCodeBundle (⭐55)](https://github.com/helios-ag/FMBbCodeBundle) - Adds BBCode support to Symfony project.
-*   [FMElfinderBundle (⭐256)](https://github.com/helios-ag/FMElfinderBundle) - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
+*   [FMElfinderBundle (⭐260)](https://github.com/helios-ag/FMElfinderBundle) - Provides Elfinder filebrowser integration with popular WYSIWYG editors.
 *   [GnugatWizardBundle (⭐22)](https://github.com/gnugat/GnugatWizardBundle) - Magically shrinks bundle installation steps into a single command.
 *   [godfather (⭐25)](https://github.com/PUGX/godfather) - A library for the strategy pattern in PHP.
-*   [guzzle-bundle (⭐101)](https://github.com/misd-service-development/guzzle-bundle) - Integrates Guzzle.
+*   [guzzle-bundle (⭐100)](https://github.com/misd-service-development/guzzle-bundle) - Integrates Guzzle.
 *   [highcharts-bundle (⭐3)](https://github.com/misd-service-development/highcharts-bundle) - Integrates PHP Highcharts.
 *   [HTMLPurifierBundle (⭐4)](https://github.com/arnaud-lb/HTMLPurifierBundle) - HTML Purifier is a standards-compliant HTML filter library written in PHP.
 *   [IbrowsWizardAnnotationBundle (⭐0)](https://github.com/ibrows/IbrowsWizardAnnotationBundle) - Give's a Symfony2 controller a simple wizard/workflow with annotations.
 *   [ImageCropBundle (⭐13)](https://github.com/anacona16/ImageCropBundle) - ImageCrop lets you crop images in Symfony applications, this bundle add a new form field type.
 *   [KayueEssenceBundle (⭐6)](https://github.com/kayue/KayueEssenceBundle) - This bundle integrates the Essence library (an oEmbed library) into Symfony 2.
 *   [KitpagesDataGridBundle (⭐77)](https://github.com/kitpages/KitpagesDataGridBundle) - This bundle provides a simple datagrid bundle.
-*   [KnpMarkdownBundle (⭐421)](https://github.com/KnpLabs/KnpMarkdownBundle) - Wrapper for PHP markdown.
+*   [KnpMarkdownBundle (⭐422)](https://github.com/KnpLabs/KnpMarkdownBundle) - Wrapper for PHP markdown.
 *   [KnpSnappyBundle (⭐1.2k)](https://github.com/KnpLabs/KnpSnappyBundle) - Easily create PDF and images by converting html using webkit.
 *   [LexikMaintenanceBundle (⭐256)](https://github.com/lexik/LexikMaintenanceBundle) - This Symfony2 bundle allows you to place your website in maintenance mode by calling two commands in your console.
 *   [LiipImagineBundle (⭐1.6k)](https://github.com/liip/LiipImagineBundle) - Image manipulation bundle, based on Imagine library.
 *   [LiipUrlAutoConverterBundle (⭐50)](https://github.com/liip/LiipUrlAutoConverterBundle) - Add a Twig Extension for templates with a new filter for automatically converting urls and emails in a string to html links.
 *   [marshaller-bundle (⭐0)](https://github.com/gnugat/marshaller-bundle) - A PHP library that converts from one format to another.
-*   [metrics (⭐313)](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
+*   [metrics (⭐311)](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
 *   [MhorMediaInfoBundle (⭐6)](https://github.com/mhor/MhorMediaInfoBundle) - Integrates php-mediainfo library into the Symfony2 full-stack framework.
 *   [MobileDetectBundle (⭐395)](https://github.com/suncat2000/MobileDetectBundle) - Bundle for detect mobile devices, manage mobile view and redirect to the mobile and tablet version.
 *   [MultiParamBundle (⭐16)](https://github.com/jaytaph/MultiParamBundle) - MultiParam Annotation Bundle.
 *   [ObHighchartsBundle (⭐166)](https://github.com/marcaube/ObHighchartsBundle) - Aims to ease the use of highcharts to display rich graph and charts.
 *   [OneupUploaderBundle (⭐587)](https://github.com/1up-lab/OneupUploaderBundle) - Provides server implementations for several multi file uploader.
-*   [phone-number-bundle (⭐456)](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
+*   [phone-number-bundle (⭐457)](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
 *   [prezent-grid-bundle (⭐6)](https://github.com/Prezent/prezent-grid-bundle) - Integrate the prezent/grid library in Symfony2.
 *   [query-bus-bundle (⭐2)](https://github.com/gnugat/query-bus-bundle) - QueryBus integration in Symfony.
-*   [rss-atom-bundle (⭐136)](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
+*   [rss-atom-bundle (⭐135)](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
 *   [Search-SphinxsearchBundle (⭐42)](https://github.com/timewasted/Search-SphinxsearchBundle) - Sphinx search bundle.
 *   [SettingsBundle (⭐112)](https://github.com/dmishh/SettingsBundle) - Database centric configuration management. Global and per-user settings supported.
 *   [shorturl-bundle (⭐12)](https://github.com/fabstei/shorturl-bundle) - Provides short URLs for your project.
@@ -258,17 +269,16 @@ A list of awesome Symfony bundles, utilities and resources.
 *   [TbbcMoneyBundle (⭐185)](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) - This bundle is used to integrate the Money library from mathiasverraes into a symfony2 project.
 *   [TemplatedUriBundle](https://github.com/hautelook/TemplatedUriBundle) - Expose the hautelook/TemplatedUriRouter.
 *   [ThruwayBundle (⭐97)](https://github.com/voryx/ThruwayBundle) - Bundle for building Real-time Apps in Symfony.
-*   [timeline-bundle (⭐194)](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
+*   [timeline-bundle (⭐192)](https://github.com/stephpy/timeline-bundle) - Symfony2 bundle to make timeline.
 *   [TransmissionBundle (⭐4)](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
-*   [versioning-bundle (⭐106)](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
+*   [versioning-bundle (⭐107)](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
 *   [VisithorBundle (⭐15)](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
-*   [WhiteOctoberPagerfantaBundle (⭐476)](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
 *   [WidopFrameworkExtraBundle (⭐11)](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
 *   [WozbeRedirectBundle (⭐5)](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
 
 ### Monitoring
 
-*   [LiipMonitorBundle (⭐465)](https://github.com/liip/LiipMonitorBundle) - Bundle provides a way to run a series of application related health checks.
+*   [LiipMonitorBundle (⭐464)](https://github.com/liip/LiipMonitorBundle) - Bundle provides a way to run a series of application related health checks.
 *   [SoclozMonitoringBundle (⭐68)](https://github.com/SoCloz/SoclozMonitoringBundle) - A monitoring bundle for production servers
 
 ### Payments Management
@@ -286,7 +296,7 @@ A list of awesome Symfony bundles, utilities and resources.
 *   [GearmanBundle](http://gearmanbundle.readthedocs.org/en/latest/) - A bundle intended to provide an easy way to support developers who need to use job queues.
 *   [HeriJobQueueBundle (⭐15)](https://github.com/heristop/HeriJobQueueBundle) - This Symfony bundle provides the use of Zend Queue from Zend Framework.
 *   [JMSJobQueueBundle](http://jmsyst.com/bundles/JMSJobQueueBundle) - Allows to schedule console commands as jobs.
-*   [LeezyPheanstalkBundle (⭐119)](https://github.com/armetiz/LeezyPheanstalkBundle) - Bundle for Pheanstalk, PHP client for beanstalkd queue.
+*   [LeezyPheanstalkBundle (⭐118)](https://github.com/armetiz/LeezyPheanstalkBundle) - Bundle for Pheanstalk, PHP client for beanstalkd queue.
 *   [qpush-bundle](http://qpush-bundle.readthedocs.org/en/latest/) - The QPush Bundle relies on the Push Queue model of Message Queues to provide asynchronous processing in your application.
 *   [RabbitMqBundle (⭐35)](https://github.com/videlalvaro/RabbitMqBundle) - RabbitMQ bundle.
 *   [RSQueueBundle (⭐52)](https://github.com/mmoreram/RSQueueBundle) - Queues infrastructure based on Redis, with Producer-Consumer and Publisher-Subscriber
@@ -303,8 +313,7 @@ A list of awesome Symfony bundles, utilities and resources.
 
 ### Service Container
 
-*   [CraueConfigBundle (⭐164)](https://github.com/craue/CraueConfigBundle) - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
-*   [JMDSettingsBundle (⭐1)](https://github.com/mops1k/settings-bundle) - Simple service for store configuration in database an accessible via service and twig in your project.
+*   [CraueConfigBundle (⭐165)](https://github.com/craue/CraueConfigBundle) - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
 *   [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - Provides Advanced Dependency Injection Features.
 *   [KutnyAutowiringBundle (⭐12)](https://github.com/kutny/autowiring-bundle) - a bundle providing autowiring for service arguments.
 *   [PHP-DI](http://php-di.org) - The dependency injection container for humans.
@@ -315,7 +324,7 @@ A list of awesome Symfony bundles, utilities and resources.
 *   [AliceFixturesBundle (⭐77)](https://github.com/h4cc/AliceFixturesBundle) - A Symfony2 bundle for using Alice and Faker with data fixtures.
 *   [AvSpoolMailerBundle (⭐7)](https://github.com/AppVentus/AvSpoolMailerBundle) - Store your mails as a spool and send transactionnal direct mails or store it in DB.
 *   [doctrine-routing-bundle (⭐1)](https://github.com/eschmar/doctrine-routing-bundle) - Dynamic database routing.
-*   [DoctrineEncryptBundle (⭐71)](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) - Bundle allows you to create doctrine entities with fields that will be protected by encryption algorithms such as AES.
+*   [DoctrineEncryptBundle (⭐70)](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) - Bundle allows you to create doctrine entities with fields that will be protected by encryption algorithms such as AES.
 *   [DoctrineEnumBundle (⭐447)](https://github.com/fre5h/DoctrineEnumBundle) - Provides support of MySQL ENUM type for Doctrine2.
 *   [DoctrineFixturesBundle (⭐2.3k)](https://github.com/doctrine/DoctrineFixturesBundle) - Integrates the Doctrine2 Data Fixtures library.
 *   [DoctrineMigrationsBundle (⭐4k)](https://github.com/doctrine/DoctrineMigrationsBundle) - Integrates the Doctrine2 Migrations library.
@@ -323,10 +332,10 @@ A list of awesome Symfony bundles, utilities and resources.
 *   [FeedBundle (⭐138)](https://github.com/eko/FeedBundle) - A bundle to build RSS feeds from your entities.
 *   [FPNTagBundle (⭐75)](https://github.com/FabienPennequin/FPNTagBundle) - This bundle adds tagging, with the ability to associate tags with any number of different entities.
 *   [GaufretteBrowserBundle (⭐4)](https://github.com/digitalkaoz/GaufretteBrowserBundle) - This Bundle allows you to browse a Gaufrette Filesystem like a Doctrine Connection.
-*   [KnpGaufretteBundle (⭐699)](https://github.com/KnpLabs/KnpGaufretteBundle) - Integrates Gaufrette.
+*   [KnpGaufretteBundle (⭐702)](https://github.com/KnpLabs/KnpGaufretteBundle) - Integrates Gaufrette.
 *   [MysqlDoctrineFunctions (⭐44)](https://github.com/mapado/MysqlDoctrineFunctions) - MySQL Function for Doctrine : RAND(), ROUND() DATE(), DATE\_FORMAT().
-*   [OneupFlysystemBundle (⭐591)](https://github.com/1up-lab/OneupFlysystemBundle) - Integrates Flysystem.
-*   [RelationBundle (⭐11)](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
+*   [OneupFlysystemBundle (⭐597)](https://github.com/1up-lab/OneupFlysystemBundle) - Integrates Flysystem.
+*   [RelationBundle (⭐10)](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
 *   [SncRedisBundle (⭐1k)](https://github.com/snc/SncRedisBundle) - Bundle to integrate Redis into your app.
 *   [StofDoctrineExtensionsBundle (⭐1.8k)](https://github.com/stof/StofDoctrineExtensionsBundle) - This bundle provides integration for DoctrineExtensions.
 *   [VichGeographicalBundle (⭐105)](https://github.com/dustin10/VichGeographicalBundle) - A bundle which provides geographical features for ORM and ODM entities and object oriented javascript maps rendering.
@@ -337,7 +346,7 @@ A list of awesome Symfony bundles, utilities and resources.
 *   [CgKintBundle (⭐23)](https://github.com/carlos-granados/CgKintBundle) - This bundle lets you use the Kint library in your Twig templates.
 *   [FlashAlertBundle (⭐24)](https://github.com/rasanga/FlashAlertBundle) - Simplified way to handle (add/display) Symfony flash messages.
 *   [GravatarBundle (⭐130)](https://github.com/henrikbjorn/GravatarBundle) - Simple wrapper to gravatar API.
-*   [KnpTimeBundle (⭐524)](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
+*   [KnpTimeBundle (⭐527)](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
 *   [swift-css-inliner-bundle (⭐12)](https://github.com/toretto460/swift-css-inliner-bundle) - A Swiftmailer plugin that provides css inline features.
 *   [TwigCacheBundle (⭐60)](https://github.com/EmanueleMinotto/TwigCacheBundle) - Bundle for asm89/twig-cache-extension.
 *   [TwigExtraBundle (⭐7)](https://github.com/csanquer/TwigExtraBundle) - Twig Extra Tools Extensions.
@@ -348,8 +357,8 @@ A list of awesome Symfony bundles, utilities and resources.
 
 ### Third Party APIs
 
-*   [AlgoliaSearchBundle (⭐188)](https://github.com/algolia/AlgoliaSearchBundle) - Seamless integration of Algolia Search into your Symfony project.
-*   [CoopTilleulsOvhBundle (⭐29)](https://github.com/coopTilleuls/CoopTilleulsOvhBundle) - Send SMS using the OVH API.
+*   [AlgoliaSearchBundle (⭐187)](https://github.com/algolia/AlgoliaSearchBundle) - Seamless integration of Algolia Search into your Symfony project.
+*   [CoopTilleulsOvhBundle (⭐28)](https://github.com/coopTilleuls/CoopTilleulsOvhBundle) - Send SMS using the OVH API.
 *   [GordalinaMixpanelBundle (⭐13)](https://github.com/gordalina/GordalinaMixpanelBundle) - Mixpanel integration in Symfony2.
 *   [SwarrotBundle (⭐92)](https://github.com/swarrot/SwarrotBundle) - A bundle for swarrot integration.
 *   [SwmMailHookBundle (⭐36)](https://github.com/ScullWM/MailHookBundle/) - Bundle to catch API webhook from different mail service (Mailjet, Mandrill, custom)
@@ -357,12 +366,11 @@ A list of awesome Symfony bundles, utilities and resources.
 
 ### User Management
 
-*   [FOSUserBundle (⭐3.3k)](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
 *   [HWIOAuthBundle (⭐2.2k)](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration. Supports both OAuth1.0a and OAuth2.
 *   [JmikolaAutoLoginBundle (⭐82)](https://github.com/jmikola/JmikolaAutoLoginBundle) - This bundle integrates the AutoLogin library with Symfony2, which implements a security firewall listener to authenticate users based on a single query parameter.
 *   [JMSSecurityExtraBundle](http://jmsyst.com/bundles/JMSSecurityExtraBundle) - Enhances the Security Component with several new features.
 *   [SamlBundle (⭐16)](https://github.com/pdias/SamlBundle) - The SamlBundle adds support for SAML 2.0 Service Provider in Symfony2.
-*   [two-factor-bundle (⭐391)](https://github.com/scheb/two-factor-bundle) - This Symfony2 bundle provides two-factor authentication for your website.
+*   [two-factor-bundle (⭐389)](https://github.com/scheb/two-factor-bundle) - This Symfony2 bundle provides two-factor authentication for your website.
 
 ### Validation
 
@@ -373,19 +381,18 @@ A list of awesome Symfony bundles, utilities and resources.
 ### Web Services
 
 *   [api2symfony-bundle (⭐52)](https://github.com/creads/api2symfony-bundle) - Symfony 2 bundle allowing to automatically generate controllers from standard API specifications.
-*   [BazingaHateoasBundle (⭐291)](https://github.com/willdurand/BazingaHateoasBundle) - Integration of the Hateoas library.
+*   [BazingaHateoasBundle (⭐292)](https://github.com/willdurand/BazingaHateoasBundle) - Integration of the Hateoas library.
 *   [DunglasAngularCsrfBundle (⭐150)](https://github.com/dunglas/DunglasAngularCsrfBundle) - Automatic CSRF protection for Symfony APIs used with AngularJS and other major AJAX libraries
-*   [DunglasApiBundle (⭐2.1k)](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
+*   [DunglasApiBundle (⭐2.2k)](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
 *   [FOSOAuthServerBundle (⭐1.1k)](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle.
 *   [FOSRestBundle (⭐2.7k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Provides various tools to rapidly develop RESTful API's & applications.
-*   [JMDRestBundle (⭐2)](https://github.com/mops1k/JMDRestBundle) - Provide fast and simple way to generate REST api for your project entities without editing configs and creating any controllers.
 *   [JMSSerializerBundle (⭐1.7k)](https://github.com/schmittjoh/JMSSerializerBundle) - Easily serialize, and deserialize data of any complexity.
 *   [JSONApiBundle (⭐114)](https://github.com/nilportugues/symfony-jsonapi) - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
 *   [KnpJsonSchemaBundle (⭐72)](https://github.com/KnpLabs/KnpJsonSchemaBundle) - Provide a service which allow you to generate json schema based on validation metadata.
 *   [LemonRestBundle (⭐123)](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities.
 *   [NelmioApiDocBundle (⭐2.1k)](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations.
 *   [NelmioCorsBundle (⭐1.7k)](https://github.com/nelmio/NelmioCorsBundle) - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
-*   [RateLimitBundle (⭐320)](https://github.com/jaytaph/RateLimitBundle) - Add rate limits to your controllers/actions easily through annotations.
+*   [RateLimitBundle (⭐318)](https://github.com/jaytaph/RateLimitBundle) - Add rate limits to your controllers/actions easily through annotations.
 *   [RequestLimitBundle (⭐11)](https://github.com/zim32/Symfony2-RequestLimitBundle) - With this bundle you can easy limit requests to your application.
 *   [ResourceBundle (⭐34)](https://github.com/ProgrammingAreHard/ResourceBundle) - Bundle that helps in developing REST APIs.
 *   [SerializedResponseBundle (⭐5)](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.

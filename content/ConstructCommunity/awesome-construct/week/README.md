@@ -2,9 +2,31 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 50 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 51 · 🏷️ Gaming
 
 [ [Daily](/content/ConstructCommunity/awesome-construct/README.md) / Weekly / [Overview](/content/ConstructCommunity/awesome-construct/readme/README.md) ]
+
+## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
+
+### Community
+
+*   [Stack Overflow](https://stackoverflow.com/questions/tagged/construct-3+or+construct-2)
+
+### Games Showcase
+
+*   [Games on itch.io](https://itch.io/games/tag-construct-2/tag-construct-3) - List of itch.io games made with the engine.
+
+### Hosting
+
+*   [Vercel](https://vercel.com/) - Platform where to host an exported game as a static website or cloud functions - **Free/Paid**.
+
+### Tools
+
+*   [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - Use Construct 2 to develop apps \[in development]
+
+### Export
+
+*   [Chowdren](https://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
 ## [Feb 08 - Feb 14, 2021](/content/2021/6/README.md)
 
@@ -17,7 +39,6 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 ### Export
 
 *   [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW\.js.
-*   [Chowdren](http://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
 ## [Sep 17 - Sep 23, 2018](/content/2018/38/README.md)
 
@@ -26,7 +47,6 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 *   [Discord Server](https://discord.gg/8RJBHbX) - [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214).
 *   [FAQ](https://www.construct.net/forum/construct-2/how-do-i-18/how-do-i-frequently-asked-ques-41236)
 *   [Forums](https://www.construct.net/forum)
-*   [Stack Overflow](http://stackoverflow.com/questions/tagged/construct-2)
 *   [Reddit](https://www.reddit.com/r/construct/)
 *   [Twitter](https://twitter.com/constructteam)
 *   [Facebook](https://www.facebook.com/ConstructTeam/)
@@ -34,14 +54,12 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 ### Games Showcase
 
 *   [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
-*   [Games on itch.io](https://itch.io/games/tag-construct-2) - List of itch.io games made with the engine.
 
 ### Hosting
 
 *   [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
 *   [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**.
 *   [Surge](https://surge.sh/) - Platform where to host an exported game as a static website - **Free/Paid**.
-*   [Now](https://zeit.co/now) - Platform where to host an exported game as a static website, a docker image or a Node.js server - **Free/Paid**.
 *   [Netlify](https://www.netlify.com/) - Platform where to host an exported game as a static website - **Free/Paid**.
 
 ### Tools

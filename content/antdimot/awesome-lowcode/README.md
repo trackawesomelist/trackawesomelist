@@ -2,9 +2,32 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 129 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 139 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Dec 11, 2022](/content/2022/12/11/README.md)
+
+### Automation
+
+*   [OneSimpleAPI](https://onesimpleapi.com/) - A toolbox with all the things you need to get your no-code project to success: PDF generation, Currency Exchange, QR codes, Screenshots, and more.
+
+### Flow-based programming
+
+*   [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast with no code. And with code-level control when you need it.
+*   [Runnable](https://getrunnable.com/) - A low-code framework for building user-facing internal workflows.
+
+### Machine Learning
+
+*   [Vertex-AI](https://cloud.google.com/vertex-ai) - Build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case.
+
+### Visual programming
+
+*   [AWS Application Composer](https://aws.amazon.com/application-composer/) - Visually design and build serverless applications quickly.
+
+### Misc
+
+*   [Linx](https://linx.software) - General-purpose low-code platform for building custom backends APIs, automations and integrations
 
 ## [Nov 17, 2022](/content/2022/11/17/README.md)
 

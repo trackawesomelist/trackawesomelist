@@ -2,7 +2,7 @@
 
 null
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 678 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 691 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / Overview ]
 
@@ -28,6 +28,7 @@ A curated list of awesome niche job boards.
 *   [Remote](#remote)
 *   [Tech](#tech)
 *   [Writing](#writing)
+*   [Various](#various)
 
 ## Artificial Intelligence (AI)
 
@@ -74,7 +75,6 @@ A curated list of awesome niche job boards.
 
 ## DevOps
 
-*   [Jobs For DevOps](https://jobsfordevops.com)
 *   [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
 
 ## Gaming
@@ -151,6 +151,7 @@ A curated list of awesome niche job boards.
 
 ### Python
 
+*   [PyJobs](https://www.pyjobs.com)
 *   [Python Job Board](https://www.python.org/jobs/)
 *   [Django Jobs](https://djangojobs.net/jobs/)
 *   [Python Developer Jobs](https://pythonjob.xyz)
@@ -158,6 +159,7 @@ A curated list of awesome niche job boards.
 ### Ruby
 
 *   [RubyNow](https://jobs.rubynow.com/)
+*   [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
 
 ### Rust
 
@@ -183,6 +185,7 @@ A curated list of awesome niche job boards.
 *   [Werkington](https://www.werkington.com/)
 *   [Just Remote](https://justremote.co/remote-jobs)
 *   [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
+*   [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 
 ### Aggregator
 
@@ -230,4 +233,8 @@ A curated list of awesome niche job boards.
 
 *   [WorkingInContent.com](https://workingincontent.com/) - Jobs in Content Strategy, Content Design, UX Writing and more
 *   [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
+
+## Various
+
+*   [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 

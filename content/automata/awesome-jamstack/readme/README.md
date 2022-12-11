@@ -86,7 +86,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 *   [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 
-*For more resources about Static Web Apps see (Awesome Static Web Apps)\[[https://github.com/staticwebdev/awesome-azure-static-web-apps (⭐67)](https://github.com/staticwebdev/awesome-azure-static-web-apps)].*
+*For more resources about Static Web Apps see (Awesome Static Web Apps)\[[https://github.com/staticwebdev/awesome-azure-static-web-apps (⭐68)](https://github.com/staticwebdev/awesome-azure-static-web-apps)].*
 
 ## No-Code Platforms
 
@@ -144,7 +144,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Prose](https://prose.io) - Prose is a content editor for GitHub designed for managing websites.
 *   [Tipe](https://tipe.io) - Next Generation API-first CMS.
 *   [Forestry](https://forestry.io) - Headless CMS for sites built with static site generators.
-*   [Coisas (⭐311)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+*   [Coisas (⭐312)](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 *   [Cockpit](https://getcockpit.com/) - A self-hosted headless and api-driven CMS.
 *   [HeadlessCMS](https://headlesscms.org/) - A List of Content Management Systems for Jamstack Sites.
 *   [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
@@ -163,7 +163,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 *   [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 *   [Jexia UMS](https://jexia.com) - REST API User management system for your webside with identity provider with JWT + extra functionality.
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐94k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐98k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ### Comments
 
@@ -184,7 +184,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### E-commerce
 
-*   [Astro Snipcart (⭐26)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐30)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 *   [Flatmarket (⭐984)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
@@ -216,7 +216,7 @@ Carefully curated list of awesome Jamstack resources
 ### Automation
 
 *   [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-*   [DataFire (⭐563)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐564)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## Serverless
 
@@ -239,6 +239,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures.
 *   [Cloudinary](https://cloudinary.com/) - Serverless media (images/videos) management platform. Provides SDKs in every popular language and media widgets for Jamstack to make it easy to manage media, CDN, storage, transformations, and more.
 *   [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
+*   [TwicPics](https://twicpics.com/) - Serverless images & videos optimization and transformation service. TwicPics can be plugged into any stack to optimize medias in real-time by giving full control to frontend developers.
 *   [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses.
 
 *For a more complete list see [Awesome Serverless (⭐2.1k)](https://github.com/pmuens/awesome-serverless).*

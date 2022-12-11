@@ -2,9 +2,16 @@
 
 A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/craftcms/awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 craftcms/awesome](https://github.com/craftcms/awesome) · ⭐ 485 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/craftcms/awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 craftcms/awesome](https://github.com/craftcms/awesome) · ⭐ 489 · 🏷️ Content Management Systems
 
 [ Daily / [Weekly](/content/craftcms/awesome/week/README.md) / [Overview](/content/craftcms/awesome/readme/README.md) ]
+
+## [Dec 11, 2022](/content/2022/12/11/README.md)
+
+### Plugins
+
+*   [Craft 4 Plugins](https://plugins.craftcms.com/?craft4)
+*   [Craft 3 Plugins](https://plugins.craftcms.com/?craft3)
 
 ## [May 31, 2022](/content/2022/05/31/README.md)
 
@@ -248,7 +255,7 @@ A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 
 ### Dev Tools / Tutorials
 
-*   [Craft 3 Multi-environment (⭐73)](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version (⭐83)](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
+*   [Craft 3 Multi-environment (⭐72)](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version (⭐83)](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
 
 ## [Aug 02, 2018](/content/2018/08/02/README.md)
 
@@ -425,7 +432,6 @@ A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 
 ### Plugins
 
-*   [Craft 3 Plugins](https://plugins.craftcms.com)
 *   [Submit Craft 3 Plugins](https://id.craftcms.com)
 *   [Craft 2 Plugins](https://craftplug.in/)
 
@@ -435,12 +441,12 @@ A collection of awesome Craft CMS plugins, articles, resources and shiny things.
 *   [Craft CLI (⭐139)](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2.
 *   [Craft CMS Bootstrap (⭐4)](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
 *   [Craft CMS Docker (⭐36)](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker.
-*   [Craft Scripts (⭐359)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
+*   [Craft Scripts (⭐360)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
 *   [Craftman (⭐125)](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly.
 *   [Crafty Vagrant (⭐57)](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects.
 *   [Generator Craft Install (⭐56)](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs.
 *   [Happy Lager Demo Site (⭐8)](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
-*   [Nginx Craft (⭐291)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
+*   [Nginx Craft (⭐294)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
 
 ### Core Technologies
 

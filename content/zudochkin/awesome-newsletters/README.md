@@ -6,6 +6,16 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Dec 11, 2022](/content/2022/12/11/README.md)
+
+### Java / Angular
+
+*   [Baeldung Weekly Review](https://www.baeldung.com/java-web-weekly). Keep up-to-date with the main developments in the Java world through this weekly guide.
+
+### Devops / Angular
+
+*   [Learn Kubernetes weekly](https://learnk8s.io/learn-kubernetes-weekly). Curated articles, tutorials, projects and events with a focus on Kubernetes.
+
 ## [Nov 15, 2022](/content/2022/11/15/README.md)
 
 ### Kubernetes / Angular
@@ -276,12 +286,6 @@ A list of amazing Newsletters
 ### Miscellaneous / Angular
 
 *   [Trending Projects](https://www.trendingprojects.com/). A weekly email showcasing trending projects on GitHub.
-
-## [Mar 07, 2021](/content/2021/03/07/README.md)
-
-### Java / Angular
-
-*   [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/). Keep up-to-date with the main developments in the Java world through this weekly guide.
 
 ## [Mar 05, 2021](/content/2021/03/05/README.md)
 
@@ -632,7 +636,7 @@ A list of amazing Newsletters
 
 ### R / Angular
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐545)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐547)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Angular
 

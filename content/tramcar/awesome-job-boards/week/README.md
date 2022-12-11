@@ -1,8 +1,26 @@
 # Track Awesome Job Boards Updates Weekly
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 678 · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 691 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / Weekly / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
+
+### Programming / Python
+
+*   [PyJobs](https://www.pyjobs.com)
+
+### Programming / Ruby
+
+*   [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
+
+### Remote / WebAssembly
+
+*   [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
+
+### Various / United Kingdom
+
+*   [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
@@ -370,12 +388,6 @@
 ### Blockchain
 
 *   [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
-
-## [Jul 17 - Jul 23, 2017](/content/2017/29/README.md)
-
-### DevOps
-
-*   [Jobs For DevOps](https://jobsfordevops.com)
 
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)
 

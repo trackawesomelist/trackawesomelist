@@ -2,40 +2,46 @@
 
 A curated list of Cheminformatics libraries and software.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hsiaoyi0504/awesome-cheminformatics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hsiaoyi0504/awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) · ⭐ 442 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hsiaoyi0504/awesome-cheminformatics/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 hsiaoyi0504/awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) · ⭐ 458 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md) / [Overview](/content/hsiaoyi0504/awesome-cheminformatics/readme/README.md) ]
+
+## [Dec 11, 2022](/content/2022/12/11/README.md)
+
+### Libraries / Machine Learning
+
+*   [DGL-LifeSci (⭐516)](https://github.com/awslabs/dgl-lifesci) - DGL-LifeSci is a [DGL](https://www.dgl.ai/)-based package for various applications in life science with graph neural network.
 
 ## [Aug 30, 2022](/content/2022/08/30/README.md)
 
 ### Libraries / Machine Learning
 
-*   [olorenchemengine (⭐51)](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
+*   [olorenchemengine (⭐72)](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
     with integrated uncertainty quantification, interpretability, and hyperparameter/architecture tuning.
 
 ## [Jun 17, 2022](/content/2022/06/17/README.md)
 
 ### Libraries / Others
 
-*   [Auto-QChem (⭐48)](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
+*   [Auto-QChem (⭐52)](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 
 ## [Feb 06, 2022](/content/2022/02/06/README.md)
 
 ### Libraries / General Purpose
 
-*   [CGRtools (⭐24)](https://github.com/cimm-kzn/CGRtools) - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
+*   [CGRtools (⭐26)](https://github.com/cimm-kzn/CGRtools) - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
 
 ## [Jan 06, 2022](/content/2022/01/06/README.md)
 
 ### See Also / Books
 
-*   [awesome-small-molecule-ml (⭐83)](https://github.com/benb111/awesome-small-molecule-ml) - A list of papers, data sets, and other resources for machine learning for small-molecule drug discovery.
+*   [awesome-small-molecule-ml (⭐93)](https://github.com/benb111/awesome-small-molecule-ml) - A list of papers, data sets, and other resources for machine learning for small-molecule drug discovery.
 
 ## [Dec 22, 2021](/content/2021/12/22/README.md)
 
 ### Libraries / Format Checking
 
-*   [pdb-tools (⭐220)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
+*   [pdb-tools (⭐230)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
 
 ## [Sep 17, 2021](/content/2021/09/17/README.md)
 
@@ -47,7 +53,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / General Purpose
 
-*   [datamol (⭐249)](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
+*   [datamol (⭐275)](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 
 ### Libraries / Visualization
 
@@ -57,22 +63,22 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Machine Learning
 
-*   [Summit (⭐71)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
+*   [Summit (⭐72)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 
 ## [Dec 26, 2020](/content/2020/12/26/README.md)
 
 ### Libraries / Format Checking
 
-*   [ChEMBL\_Structure\_Pipeline (formerly standardiser) (⭐125)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
+*   [ChEMBL\_Structure\_Pipeline (formerly standardiser) (⭐133)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 
 ### Libraries / Machine Learning
 
-*   [ChemML (⭐120)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
-*   [chemmodlab (⭐11)](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
+*   [ChemML (⭐123)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
+*   [chemmodlab (⭐12)](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
 
 ### Libraries / Others
 
-*   [OPSIN (⭐74)](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
+*   [OPSIN (⭐75)](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
 
 ### Resources / Courses
 
@@ -82,7 +88,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Molecular Descriptors
 
-*   [DescriptaStorus (⭐141)](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
+*   [DescriptaStorus (⭐146)](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
 
 ### Libraries / Docking
 
@@ -92,7 +98,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / General Purpose
 
-*   [MolecularGraph.jl (⭐148)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
+*   [MolecularGraph.jl (⭐151)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 
 ## [May 27, 2020](/content/2020/05/27/README.md)
 
@@ -117,7 +123,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / General Purpose
 
-*   [ChemPy (⭐390)](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
+*   [ChemPy (⭐401)](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
 
 ## [May 17, 2020](/content/2020/05/17/README.md)
 
@@ -129,7 +135,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Machine Learning
 
-*   [OpenChem (⭐483)](https://github.com/Mariewelt/OpenChem) - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
+*   [OpenChem (⭐488)](https://github.com/Mariewelt/OpenChem) - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
 
 ## [May 13, 2020](/content/2020/05/13/README.md)
 
@@ -147,11 +153,11 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Others
 
-*   [Cookiecutter for Computational Molecular Sciences (⭐276)](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
+*   [Cookiecutter for Computational Molecular Sciences (⭐281)](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 
 ### Resources / Courses
 
-*   [Python for chemoinformatics (⭐189)](https://github.com/Mishima-syk/py4chemoinformatics)
+*   [Python for chemoinformatics (⭐192)](https://github.com/Mishima-syk/py4chemoinformatics)
 
 ## [Apr 20, 2020](/content/2020/04/20/README.md)
 
@@ -204,11 +210,11 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Format Checking
 
-*   [rd\_filters (⭐81)](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
+*   [rd\_filters (⭐83)](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
 
 ### Libraries / Machine Learning
 
-*   [DeepChem (⭐3.9k)](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
+*   [DeepChem (⭐4k)](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
 *   [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 
 ## [Jan 05, 2020](/content/2020/01/05/README.md)
@@ -227,7 +233,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Visualization
 
-*   [3Dmol.js (⭐583)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
+*   [3Dmol.js (⭐592)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
 
 ## [Oct 24, 2019](/content/2019/10/24/README.md)
 
@@ -245,7 +251,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Resources / Courses
 
-*   [TeachOpenCADD (⭐393)](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
+*   [TeachOpenCADD (⭐420)](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
 
 ## [Jun 19, 2019](/content/2019/06/19/README.md)
 
@@ -257,7 +263,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Machine Learning
 
-*   [chainer-chemistry (⭐542)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
+*   [chainer-chemistry (⭐547)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 
 ## [Feb 28, 2019](/content/2019/02/28/README.md)
 
@@ -319,7 +325,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Visualization
 
-*   [JChemPaint (⭐88)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
+*   [JChemPaint (⭐91)](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 
 ## [May 04, 2018](/content/2018/05/04/README.md)
 
@@ -329,7 +335,7 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Molecular Dynamics
 
-*   [cclib (⭐252)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
+*   [cclib (⭐258)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
 
 ## [May 03, 2018](/content/2018/05/03/README.md)
 
@@ -351,12 +357,12 @@ A curated list of Cheminformatics libraries and software.
 ### Libraries / General Purpose
 
 *   [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
-*   [Indigo (⭐215)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+*   [Indigo (⭐217)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 *   [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 
 ### Libraries / Format Checking
 
-*   [MolVS (⭐114)](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+*   [MolVS (⭐117)](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 
 ### Libraries / Visualization
 
@@ -364,19 +370,19 @@ A curated list of Cheminformatics libraries and software.
 
 ### Libraries / Molecular Descriptors
 
-*   [mordred (⭐236)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
-*   [mol2vec (⭐194)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
+*   [mordred (⭐246)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
+*   [mol2vec (⭐200)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 
 ### Libraries / Web APIs
 
-*   [webchem (⭐133)](https://github.com/ropensci/webchem) - Chemical Information from the Web.
+*   [webchem (⭐135)](https://github.com/ropensci/webchem) - Chemical Information from the Web.
 *   [Beaker (⭐42)](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
 
 ### Libraries / Molecular Dynamics
 
 *   [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 *   [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-*   [MDTraj (⭐406)](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
+*   [MDTraj (⭐417)](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
 
 ### Resources / Courses
 
@@ -406,4 +412,4 @@ A curated list of Cheminformatics libraries and software.
 
 ### See Also / Books
 
-*   [awesome-python-chemistry (⭐720)](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
+*   [awesome-python-chemistry (⭐758)](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.

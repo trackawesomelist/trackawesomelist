@@ -2,9 +2,30 @@
 
 ✉️ An awesome list of resources to build better emails.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jonathandion/awesome-emails/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) · ⭐ 1.8K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jonathandion/awesome-emails/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) · ⭐ 1.9K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/jonathandion/awesome-emails/week/README.md) / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
+
+## [Dec 11, 2022](/content/2022/12/11/README.md)
+
+### Frameworks
+
+*   [React Email](https://react.email/) - A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript. :fire:
+
+### Templates
+
+*   [Stripo](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
+
+### Tools
+
+*   [Mailing](https://www.mailing.run/) - Build emails in React, send from anywhere.
+*   [Can I Email](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
+*   [MJML Desktop App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
+*   [MailSpice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
+
+### Self-Hosted Services
+
+*   [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
 
 ## [Nov 04, 2022](/content/2022/11/04/README.md)
 
@@ -22,7 +43,7 @@
 
 ### Resources
 
-*   [Email marketing regulations (⭐287)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐289)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
 ## [Oct 26, 2022](/content/2022/10/26/README.md)
 
@@ -60,7 +81,7 @@
 
 ### Tools
 
-*   [email-verifier (⭐528)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+*   [email-verifier (⭐592)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 
 ## [Nov 11, 2020](/content/2020/11/11/README.md)
 
@@ -86,7 +107,7 @@
 
 ### Self-Hosted Services
 
-*   [SimpleLogin (⭐3k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐3.2k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## [Mar 29, 2020](/content/2020/03/29/README.md)
 
@@ -101,7 +122,6 @@
 
 ### Tools
 
-*   [caniemail](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 *   [Bulletproof Background Images](http://backgrounds.cm/) - Create rock-solid background images for your HTML email with some help from VML and CSS.
 
 ## [Dec 11, 2019](/content/2019/12/11/README.md)
@@ -137,12 +157,6 @@
 ### Services
 
 *   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time
-
-## [Oct 08, 2019](/content/2019/10/08/README.md)
-
-### Self-Hosted Services
-
-*   [mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
 
 ## [Sep 23, 2019](/content/2019/09/23/README.md)
 
@@ -234,10 +248,6 @@
 
 ## [Nov 19, 2018](/content/2018/11/19/README.md)
 
-### Templates
-
-*   [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
-
 ### Tools
 
 *   [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.
@@ -304,7 +314,7 @@
 
 ### Learning / More Awesome
 
-*   📚 [Awesome JS Books (⭐52)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   📚 [Awesome JS Books (⭐53)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
 ## [Jun 13, 2017](/content/2017/06/13/README.md)
 
@@ -330,20 +340,12 @@
 
 ## [Apr 29, 2017](/content/2017/04/29/README.md)
 
-### Tools
-
-*   [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
-
 ### Services
 
 *   [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 *   [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
 
 ## [Feb 21, 2017](/content/2017/02/21/README.md)
-
-### Tools
-
-*   [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
 
 ### Blogs
 
@@ -459,7 +461,7 @@
 
 ### Templates
 
-*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
 ### Resources
 
@@ -475,10 +477,10 @@
 
 *   [Mailchimp Email Blueprints (⭐6.9k)](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 *   [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-*   [Responsive Transactional HTML Email Templates (⭐6.7k)](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
+*   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
 *   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐678)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐680)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
 
 ### Tools

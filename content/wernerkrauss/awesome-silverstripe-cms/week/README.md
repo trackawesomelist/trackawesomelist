@@ -6,6 +6,12 @@ Useful resources for Silverstripe CMS and framework
 
 [ [Daily](/content/wernerkrauss/awesome-silverstripe-cms/README.md) / Weekly / [Overview](/content/wernerkrauss/awesome-silverstripe-cms/readme/README.md) ]
 
+## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
+
+### Official Websites
+
+*   [www.s2-hub.com](https://www.s2-hub.com) - S2Hub - European Silverstripe Association.
+
 ## [Jun 21 - Jun 27, 2021](/content/2021/25/README.md)
 
 ### IDE Plugins
@@ -92,23 +98,23 @@ Useful resources for Silverstripe CMS and framework
 
 ### I18N (Internationalisation)
 
-*   [Fluent (⭐93)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
+*   [Fluent (⭐92)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
 *   [Autotranslate (⭐4)](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
 
 ### Site Search
 
 *   [Silverstripe Searchable (⭐13)](https://github.com/i-lateral/silverstripe-searchable) - Adds more complex site searching using the Silverstripe ORM. With dedicated templates for search results across multiple search objects.
 *   [Searchable DataObjects (⭐25)](https://github.com/g4b0/silverstripe-searchable-dataobjects) - Fast and simple MySQL based search. Useful for single language sites.
-*   [Fulltext Search (⭐43)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
+*   [Fulltext Search (⭐44)](https://github.com/silverstripe/silverstripe-fulltextsearch) - Full fledged search interface for Solr4.
 *   [Fulltext Search Local Solr](https://addons.silverstripe.org/add-ons/silverstripe/fulltextsearch-localsolr) - Easy to install Solr4 instance for local development.
 
 ### Development Helpers
 
-*   [Debugbar (⭐50)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
-*   [IdeAnnotator (⭐42)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
+*   [Debugbar (⭐51)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
+*   [IdeAnnotator (⭐43)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
 *   [Populate (⭐22)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 *   [Mock DataObjects (⭐18)](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
-*   [Version Truncator (⭐36)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
+*   [Version Truncator (⭐35)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
 *   [UserSwitcher (⭐15)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
 *   [Masquerade (⭐14)](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 

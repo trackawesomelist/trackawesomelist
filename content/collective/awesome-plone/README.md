@@ -2,9 +2,15 @@
 
 Add-ons and resources for the CMS Plone
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 15 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 19 · 🏷️ Content Management Systems
 
 [ Daily / [Weekly](/content/collective/awesome-plone/week/README.md) / [Overview](/content/collective/awesome-plone/readme/README.md) ]
+
+## [Dec 11, 2022](/content/2022/12/11/README.md)
+
+### Develop
+
+*   [plone.app.debugtoolbar (⭐8)](https://github.com/plone/plone.app.debugtoolbar) - A toolbar that shows a wealth of debug information about a running Plone site and the content you are inspecting. Also includes a interactive python-shell, a TALES-expression evaluator and and code-reload.
 
 ## [Oct 12, 2022](/content/2022/10/12/README.md)
 
@@ -20,7 +26,7 @@ Add-ons and resources for the CMS Plone
 
 ### Searching and Categorizing
 
-*   [collective.elasticsearch (⭐18)](https://github.com/collective/collective.elasticsearch) - Use ElasticSearch as the search backend for Plone.
+*   [collective.elasticsearch (⭐20)](https://github.com/collective/collective.elasticsearch) - Use ElasticSearch as the search backend for Plone.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -69,13 +75,13 @@ Add-ons and resources for the CMS Plone
 
 ### Layout
 
-*   [plone.app.mosaic (⭐30)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
+*   [plone.app.mosaic (⭐31)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
 *   [collective.cover (⭐47)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
 *   [collective.contentsections (⭐4)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 
 ### Tiles
 
-*   [plone.app.standardtiles (⭐7)](https://github.com/plone/plone.app.standardtiles) - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
+*   [plone.app.standardtiles (⭐8)](https://github.com/plone/plone.app.standardtiles) - A set of standard tiles used by Mosaic, but can be used from any other tile manager.
 *   [collective.tiles.carousel (⭐0)](https://github.com/collective/collective.tiles.carousel) - A slider tile for plone.app.mosaic based on the carousel component of Bootstrap 5.
 *   [collective.tiles.advancedstatic (⭐0)](https://github.com/collective/collective.tiles.advancedstatic) - A tile that shows html text (similar to the static text portlet), with some additional configuration like the possibility to add custom css classes.
 *   [collective.tiles.collection (⭐1)](https://github.com/collective/collective.tiles.collection) - A tile that shows a set of collection results with possibility to choose (and develop) custom layouts.
@@ -89,7 +95,7 @@ Add-ons and resources for the CMS Plone
 
 ### Content and utilities for content
 
-*   [collective.folderishtraverse (⭐2)](https://github.com/collective/collective.folderishtraverse) - Traverse to first item in folder.
+*   [collective.folderishtraverse (⭐3)](https://github.com/collective/collective.folderishtraverse) - Traverse to first item in folder.
 *   [collective.folderishtypes (⭐1)](https://github.com/collective/collective.folderishtypes) - Provides the types "Folderish Event", "Folderish News Item" and "Folderish Document" as replacements for default types. Those types are able to hold any other content, like a Folder.
 *   [collective.restrictportlets (⭐0)](https://github.com/collective/collective.restrictportlets) - Allows you to restrict the available portlets that non-Managers can add.
 *   [zopyx.ipsumplone (⭐2)](https://github.com/zopyx/zopyx.ipsumplone) - Creates demo content and demo images for Plone.
@@ -97,7 +103,7 @@ Add-ons and resources for the CMS Plone
 ### Events
 
 *   [collective.easyformplugin.registration (⭐3)](https://github.com/collective/collective.easyformplugin.registration) - Add a behavior to collective.easyform to manage registration forms for events.
-*   [collective.fullcalendar (⭐2)](https://github.com/collective/collective.fullcalendar) - Display events in a nice calendar UI using <https://fullcalendar.io>.
+*   [collective.fullcalendar (⭐3)](https://github.com/collective/collective.fullcalendar) - Display events in a nice calendar UI using <https://fullcalendar.io>.
 *   [collective.venue (⭐3)](https://github.com/collective/collective.venue) - Venue type with geolocation support for use with events or any other location specific content.
 
 ### Forms
@@ -143,8 +149,8 @@ Add-ons and resources for the CMS Plone
 
 ### Export, Import and Migrations
 
-*   [collective.exportimport (⭐11)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
-*   [collective.migrationhelpers (⭐11)](https://github.com/collective/collective.migrationhelpers/) - Helpers and examples to use during migrations.
+*   [collective.exportimport (⭐13)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
+*   [collective.migrationhelpers (⭐13)](https://github.com/collective/collective.migrationhelpers/) - Helpers and examples to use during migrations.
 *   [collective.jsonify (⭐12)](https://github.com/collective/collective.jsonify) - Export Plone content to JSON.
 *   [collective.transmogrifier (⭐5)](https://github.com/collective/collective.transmogrifier) - A configurable pipeline, aimed at transforming content for import and export.
 
@@ -180,7 +186,7 @@ Add-ons and resources for the CMS Plone
 *   [collective.mustread (⭐0)](https://github.com/collective/collective.mustread) - Tracking user views on content that are marked as must-read.
 *   [collective.remoteproxy (⭐1)](https://github.com/collective/collective.remoteproxy) - Proxy for remote content. All remote URLs for which a local proxy was created are replaced in the resulting content.
 *   [collective.richdescription (⭐1)](https://github.com/collective/collective.richdescription) - Formatable description field for Plone.
-*   [collective.workspace (⭐6)](https://github.com/collective/collective.workspace) - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
+*   [collective.workspace (⭐5)](https://github.com/collective/collective.workspace) - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
 *   [plone.pdfexport (⭐2)](https://github.com/plone/plone.pdfexport) - Generic PDF export functionality for Plone content.
 *   [Products.EasyNewsletter (⭐28)](https://github.com/collective/Products.EasyNewsletter) - Powerful newsletter/mailing product for Plone.
 
@@ -194,12 +200,12 @@ Add-ons and resources for the CMS Plone
 *   [collective.solr (⭐20)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
 *   [collective.taxonomy (⭐17)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
 *   [eea.facetednavigation (⭐4)](https://github.com/collective/eea.facetednavigation) - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
-*   [Products.PloneKeywordManager (⭐3)](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
+*   [Products.PloneKeywordManager (⭐4)](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
 
 ### Media
 
 *   [plone.app.imagecropping (⭐9)](https://github.com/collective/plone.app.imagecropping) - Crops Images in Plone manually using cropper JS library.
-*   [plone.gallery (⭐3)](https://github.com/plone/plone.gallery) - Photo gallery view for Plone.
+*   [plone.gallery (⭐4)](https://github.com/plone/plone.gallery) - Photo gallery view for Plone.
 
 ### Authentication
 

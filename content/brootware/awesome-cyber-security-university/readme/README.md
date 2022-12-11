@@ -2,7 +2,7 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 237 · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 278 · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / Overview ]
 
@@ -59,7 +59,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 ## Contributing
 
-Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐238)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
+Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐278)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## Introduction and Pre-Security
 
@@ -195,6 +195,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Windows Fundamentals](https://tryhackme.com/room/windowsfundamentals1xbx) -  Intro to Windows.
 *   [Nessus](https://tryhackme.com/room/rpnessusredux) - Intro to nessus scan.
 *   [Mitre](https://tryhackme.com/room/mitre) -  Intro to Mitre attack framework.
+*   [IntroSIEM](https://tryhackme.com/room/introtosiem) - Introduction to SIEM.
 *   [Yara](https://tryhackme.com/room/yara) -  Intro to yara for malware analysis.
 *   [OpenVAS](https://tryhackme.com/room/openvas) - Intro to openvas.
 *   [Intro to Honeypots](https://tryhackme.com/room/introductiontohoneypots) -  Intro to honeypots.
@@ -215,6 +216,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Splunk Boss of the SOC V1](https://tryhackme.com/room/bpsplunk) - Part of the Blue Primer series, learn how to use Splunk to search through massive amounts of information.
 *   [Splunk Boss of the SOC V2](https://cyberdefenders.org/blueteam-ctf-challenges/16) - Splunk analysis vol 2.
 *   [Splunk Boss of the SOC V3](https://cyberdefenders.org/blueteam-ctf-challenges/8) - Splunk analysis vol 3.
+*   [Hunt Conti with Splunk](https://tryhackme.com/room/contiransomwarehgh) - An Exchange server was compromised with ransomware. Use Splunk to investigate how the attackers compromised the server.
 
 <!--lint disable double-link-->
 

@@ -56,18 +56,6 @@ Electron is an open-source framework for creating desktop apps using web technol
 		</a>
 		<br>
 		<br>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-electron&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
-			</div>
-			<b>All your environment variables, in one place</b>
-			<div>
-				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-				<br>
-				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-			</div>
-		</a>
-		<br>
 		<a href="https://strapi.io/?ref=sindresorhus">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
@@ -137,83 +125,84 @@ Made with Electron.
 
 ###### Featured
 
-*   [WebTorrent (⭐9k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Min (⭐5.5k)](https://github.com/minbrowser/min) - Minimal web browser.
-*   [Hyper (⭐39k)](https://github.com/zeit/hyper) - Terminal.
-*   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐9.1k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Min (⭐6k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Hyper (⭐40k)](https://github.com/zeit/hyper) - Terminal.
+*   [Visual Studio Code (⭐140k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ###### Other
 
-*   [Git-it (⭐4.1k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+*   [Git-it (⭐4.2k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 *   [Caprine (⭐6.5k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 *   [Simplenote (⭐4.2k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.5k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Kap (⭐16k)](https://github.com/wulkano/kap) - Screen recorder with GIF support.
 *   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
 *   [SmartMirror (⭐2.7k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
-*   [Beaker (⭐6.6k)](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
+*   [Beaker (⭐6.7k)](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
 *   [KeeWeb (⭐11k)](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
-*   [Gitify (⭐3.8k)](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
+*   [Gitify (⭐3.9k)](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
 *   [SpaceRadar (⭐1.3k)](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
 *   [Leanote (⭐1.5k)](https://github.com/leanote/desktop-app) - Cloud notepad.
-*   [Loop Drop (⭐814)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
+*   [Loop Drop (⭐815)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 *   [Pomodoro (⭐218)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
 *   [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) - Decentralized file storage system based on cryptocurrency technology.
-*   [MarkRight (⭐907)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
+*   [MarkRight (⭐906)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 *   [Sqlectron (⭐4.1k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 *   [Light Table (⭐12k)](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 *   [Google Play Music Desktop Player (⭐8.4k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
 *   [Chrome DevTools (⭐1.6k)](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
-*   [Proton (⭐153)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
-*   [Hawkpass (⭐57)](https://github.com/kalpetros/hawkpass) - Password generator.
+*   [Proton (⭐155)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Hawkpass (⭐58)](https://github.com/kalpetros/hawkpass) - Password generator.
 *   [Boostnote (⭐17k)](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers.
-*   [Before Dawn (⭐160)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐167)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 *   [Catify (⭐64)](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
-*   [Ansel (⭐340)](https://github.com/m0g/ansel) - Image organizer.
-*   [Tockler (⭐625)](https://github.com/MayGo/tockler) - Tracks your time.
+*   [Ansel (⭐348)](https://github.com/m0g/ansel) - Image organizer.
+*   [Tockler (⭐682)](https://github.com/MayGo/tockler) - Tracks your time.
 *   [Mattermost (⭐1.7k)](https://github.com/mattermost/desktop) - Mattermost client.
-*   [Crypter (⭐441)](https://github.com/HR/Crypter) - Secure encryption client.
-*   [YakYak (⭐3.9k)](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
-*   [Museeks (⭐1.3k)](https://github.com/KeitIG/museeks) - Music player.
+*   [Crypter (⭐442)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [YakYak (⭐3.8k)](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
+*   [Museeks (⭐1.4k)](https://github.com/KeitIG/museeks) - Music player.
 *   [Sabaki (⭐2k)](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
 *   [Wire (⭐1k)](https://github.com/wireapp/wire-desktop) - Messenger and calling app.
 *   [Extraterm (⭐2.1k)](https://github.com/sedwards2009/extraterm) - Terminal.
-*   [Stacer (⭐8k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐8.1k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 *   [Inpad (⭐3.2k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
-*   [Cerebro (⭐7.5k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐7.6k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 *   [LosslessCut (⭐13k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 *   [Buka (⭐1k)](https://github.com/oguzhaninan/Buka) - E-book management.
-*   [Insomnia (⭐24k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+*   [Insomnia (⭐25k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 *   [Tusk (⭐3.1k)](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 *   [Buttercup Desktop (⭐3.9k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
-*   [Mailspring (⭐13k)](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
-*   [Headset (⭐774)](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
-*   [Nuclear (⭐9.4k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Mailspring (⭐14k)](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+*   [Headset (⭐775)](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
+*   [Nuclear (⭐9.6k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 *   [Mark Text (⭐37k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
-*   [Pomotroid (⭐2.7k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
-*   [Netron (⭐20k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [Pomotroid (⭐2.8k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Netron (⭐21k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 *   [Etcher (⭐24k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
-*   [Notable (⭐20k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
-*   [Unsplash Wallpapers (⭐250)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
-*   [Motrix (⭐34k)](https://github.com/agalwood/Motrix) - Download manager.
-*   [Franz (⭐4.2k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
-*   [Gmail Desktop (⭐611)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
-*   [Upcount (⭐302)](https://github.com/madisvain/upcount) - Invoicing.
-*   [ExifCleaner (⭐992)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
+*   [Notable (⭐21k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
+*   [Unsplash Wallpapers (⭐255)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+*   [Motrix (⭐35k)](https://github.com/agalwood/Motrix) - Download manager.
+*   [Franz (⭐4.3k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+*   [Gmail Desktop (⭐633)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Upcount (⭐308)](https://github.com/madisvain/upcount) - Invoicing.
+*   [ExifCleaner (⭐1k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 *   [massCode (⭐2k)](https://github.com/antonreshetov/massCode) - Code snippet manager for developers.
-*   [Swifty (⭐732)](https://github.com/swiftyapp/swifty) - Password manager.
-*   [MQTTX (⭐2.2k)](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
+*   [Swifty (⭐753)](https://github.com/swiftyapp/swifty) - Password manager.
+*   [MQTTX (⭐2.3k)](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
 *   [LightProxy (⭐2.8k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
 *   [Beekeeper Studio (⭐12k)](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager.
-*   [Mouseless (⭐106)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
-*   [Glyphfinder (⭐116)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
-*   [Graviton Editor (⭐932)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
-*   [Yana (⭐179)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
-*   [SpaceEye (⭐276)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
-*   [Heroic Games Launcher (⭐4.1k)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
-*   [VIR (⭐125)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
-*   [Browserosaurus (⭐1.1k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐595)](https://github.com/lostdesign/linked) - Daily journal.
+*   [Mouseless (⭐107)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
+*   [Glyphfinder (⭐121)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
+*   [Graviton Editor (⭐947)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
+*   [Yana (⭐188)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [SpaceEye (⭐281)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+*   [Heroic Games Launcher (⭐4.4k)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
+*   [VIR (⭐130)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
+*   [Browserosaurus (⭐1.2k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
+*   [linked (⭐626)](https://github.com/lostdesign/linked) - Daily journal.
+*   [Sigma File Manager (⭐1k)](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
 
 ### Closed Source
 
@@ -267,7 +256,7 @@ Made with Electron.
 ### Samples
 
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐386)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐387)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 *   [Activity Monitor](https://electronjs.org/blog/simple-samples#activity-monitor) - Shows a doughnut chart of the CPU system, user, and idle activity time.
 *   [Hash](https://electronjs.org/blog/simple-samples#hash) - Shows the hash values of entered text using different algorithms.
 *   [Prices](https://electronjs.org/blog/simple-samples#prices) - Shows the current price of oil, gold, and silver using the Yahoo Finance API.
@@ -275,14 +264,14 @@ Made with Electron.
 ## Boilerplates
 
 *   [electron-boilerplate (⭐1.6k)](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app - by [sindresorhus](http://github.com/sindresorhus).
-*   [generator-electron (⭐714)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
+*   [generator-electron (⭐716)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
 *   [electron-boilerplate (⭐3.1k)](https://github.com/szwacz/electron-boilerplate) - Comprehensive boilerplate which even generates installers - by [szwacz](https://github.com/szwacz).
-*   [electron-react-boilerplate (⭐20k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
+*   [electron-react-boilerplate (⭐21k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 *   [electron-quick-start (⭐10k)](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
-*   [bozon (⭐748)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
-*   [secure-electron-template (⭐1.3k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
-*   [angular-electron (⭐5.2k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
-*   [vite-electron-builder (⭐1.4k)](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
+*   [bozon (⭐752)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [secure-electron-template (⭐1.4k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
+*   [angular-electron (⭐5.3k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+*   [vite-electron-builder (⭐1.5k)](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
 
 ## Tools
 
@@ -290,60 +279,60 @@ Made with Electron.
 
 *   [electron-builder (⭐12k)](https://github.com/electron-userland/electron-builder) - Create installers.
 *   [electron-packager (⭐8.1k)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
-*   [electron-debug (⭐719)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
+*   [electron-debug (⭐718)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 *   [electron-is-dev (⭐405)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐395)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
-*   [fix-path (⭐243)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-dl (⭐995)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
+*   [electron-localshortcut (⭐397)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [fix-path (⭐249)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-dl (⭐1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 *   [electron-release-server (⭐1.7k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-*   [electron-rebuild (⭐900)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐910)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 *   [debug-menu (⭐133)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
-*   [electron-installer-debian (⭐335)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-debian (⭐339)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
 *   [electron-installer-redhat (⭐74)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐455)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-windows (⭐457)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 *   [electron-download (⭐296)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [electron-osx-sign (⭐463)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
-*   [ember-electron (⭐801)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [electron-osx-sign (⭐469)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [ember-electron (⭐803)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 *   [electron-store (⭐3.8k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 *   [electron-context-menu (⭐1.2k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
-*   [RxDB (⭐18k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
-*   [electron-devtools-installer (⭐960)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
+*   [RxDB (⭐19k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
+*   [electron-devtools-installer (⭐973)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 *   [electron-log (⭐1k)](https://github.com/megahertz/electron-log) - Simple logging.
-*   [electron-about-window (⭐396)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
-*   [elemon (⭐71)](https://github.com/manidlou/elemon) - Live-reload your app during development.
+*   [electron-about-window (⭐399)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+*   [elemon (⭐72)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 *   [electron-is-accelerator (⭐15)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
-*   [electron-pdf-window (⭐266)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐265)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 *   [got (⭐12k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
-*   [electron-unhandled (⭐395)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
+*   [electron-unhandled (⭐397)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 *   [electron-util (⭐1.2k)](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
-*   [electron-reloader (⭐555)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
-*   [electron-serve (⭐366)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
-*   [electron-timber (⭐364)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-reloader (⭐561)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-serve (⭐369)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-timber (⭐366)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 *   [chromium-net-errors (⭐20)](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
-*   [run-electron (⭐195)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
-*   [debugtron (⭐827)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-better-ipc (⭐627)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
-*   [electron-chrome-extension (⭐116)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
+*   [run-electron (⭐196)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+*   [debugtron (⭐872)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-better-ipc (⭐634)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-chrome-extension (⭐119)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 *   [trilogy (⭐243)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
-*   [adblocker-electron (⭐563)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
-*   [electronmon (⭐68)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
-*   [electronegativity (⭐781)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
+*   [adblocker-electron (⭐584)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [electronmon (⭐76)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
+*   [electronegativity (⭐803)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 *   [UpdateRocks!](https://www.update.rocks) - Auto-update service. Free for open source projects.
-*   [pluggable-electron (⭐44)](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
+*   [pluggable-electron (⭐47)](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 
 ### Using Electron
 
 *   [nativefier (⭐32k)](https://github.com/jiahaog/nativefier) - Create an app of any website.
-*   [electron-stream (⭐122)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+*   [electron-stream (⭐123)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 *   [electron-pdf (⭐1.2k)](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
 *   [electron-mocha (⭐345)](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
 *   [Reactotron (⭐14k)](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
-*   [jest-electron (⭐138)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
+*   [jest-electron (⭐137)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
 ## Components
 
-*   [menubar (⭐6.3k)](https://github.com/maxogden/menubar) - Menubar app framework.
+*   [menubar (⭐6.4k)](https://github.com/maxogden/menubar) - Menubar app framework.
 *   [React Desktop (⭐9.4k)](https://github.com/gabrielbull/react-desktop) - UI toolkit for macOS and Windows built with React.
 *   [chrome-tabs (⭐1.6k)](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 *   [Xel](https://xel-toolkit.org) - Widget toolkit for building native-like apps.
@@ -416,6 +405,6 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/sin
 
 ## Related
 
-*   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs)
-*   [awesome-electronjs-hacking (⭐408)](https://github.com/doyensec/awesome-electronjs-hacking)
+*   [awesome-nodejs (⭐48k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-electronjs-hacking (⭐423)](https://github.com/doyensec/awesome-electronjs-hacking)
 

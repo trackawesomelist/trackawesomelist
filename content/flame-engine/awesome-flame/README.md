@@ -2,9 +2,22 @@
 
 An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 625 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/flame-engine/awesome-flame/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 flame-engine/awesome-flame](https://github.com/flame-engine/awesome-flame) · ⭐ 634 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
+
+## [Dec 11, 2022](/content/2022/12/11/README.md)
+
+### Articles by   [YayoCode](https://www.yayocode.com "YayoCode")
+
+*   [1. Getting started: Setting up the project](https://yayocode.com/post/XPECczhhAZgJDGcy69AO)
+*   [2. The world, bodies, shapes, and fixtures](https://yayocode.com/post/pD63d2bqXJnaRU8Er80B)
+*   [3. Body types: dynamic, static & kinematic](https://yayocode.com/post/7hp4dLXobT8GJ3NtzVOS)
+*   [4. Friction, density & restitution](https://yayocode.com/post/Gt8E8u7W9ftte6nRp1fu)
+*   [5. Forces, impulses & linear velocity](https://yayocode.com/post/yPFeIgyd6Jnz8Pgby6FU)
+*   [6. Bodies and sprites](https://yayocode.com/post/91HWShtzuHkfaOj9gPP3)
+*   [7. Collisions](https://yayocode.com/post/5eL4tEcqOwlVxrtJV1BD)
+*   [8. Collisions with animated sprites](https://yayocode.com/post/ByfdSu012LCDKkAucB50) - (2022-12-02).
 
 ## [Nov 21, 2022](/content/2022/11/21/README.md)
 
@@ -53,10 +66,6 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 *   [Basics of Game Development using Flame](https://medium.com/simform-engineering/basics-of-game-development-using-flame-bee1b8cf7320)
 *   [Build Collision-Based Game Using Flame in Flutter](https://medium.com/simform-engineering/build-collision-based-game-using-flame-in-flutter-ba1fc86702bd) - (2022-10-09).
 
-### Articles by   [Yayocode](https://www.yayocode.com "Yayocode")
-
-*   [8. Collisions with animated sprites](https://yayocode.blogspot.com/2022/08/flame-collisions-with-animated-sprites.html) - (2022-08-15).
-
 ### Tutorials by   [raywenderlich.com](https://www.raywenderlich.com/)
 
 *   [Building Games in Flutter with Flame: Getting Started](https://www.raywenderlich.com/27407121-building-games-in-flutter-with-flame-getting-started) - By [Vincenzo Guzzi](https://twitter.com/vguzzi_dev) - (2021-10-21).
@@ -83,7 +92,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Non-English Content / Roguelike
 
-*   [Spanish (Español) (⭐625)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
+*   [Spanish (Español) (⭐634)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md)
 
 ## [Sep 13, 2022](/content/2022/09/13/README.md)
 
@@ -93,19 +102,9 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ## [Aug 15, 2022](/content/2022/08/15/README.md)
 
-### Articles by   [Yayocode](https://www.yayocode.com "Yayocode")
-
-*   [1. Getting started: Setting up the project](https://yayocode.blogspot.com/2022/08/flame-getting-started-setting-up-project_4.html)
-*   [2. The world, bodies, shapes, and fixtures](https://yayocode.blogspot.com/2022/08/flame-world-bodies-shapes-and-fixtures.html)
-*   [3. Body types: dynamic, static & kinematic](https://yayocode.blogspot.com/2022/08/flame-body-types-dynamic-static.html)
-*   [4. Friction, density & restitution](https://yayocode.blogspot.com/2022/08/flame-friction-density-restitution.html)
-*   [5. Forces, impulses & linear velocity](https://yayocode.blogspot.com/2022/08/flame-forces-impulses-linear-velocity.html)
-*   [6. Bodies and sprites](https://yayocode.blogspot.com/2022/08/flame-bodies-and-sprites.html)
-*   [7. Collisions](https://yayocode.blogspot.com/2022/08/flame-collisions.html)
-
 ### Open Source / Casual
 
-*   [New Super Jumper (⭐40)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "Yayocode").
+*   [New Super Jumper (⭐43)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "YayoCode").
 
 ## [Jun 29, 2022](/content/2022/06/29/README.md)
 
@@ -123,11 +122,11 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Spacescape (⭐64)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Spacescape (⭐65)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Endless Runner
 
-*   [Dino Run (⭐96)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Dino Run (⭐99)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Platformer
 
@@ -151,7 +150,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### App Releases / Online Multiplayer
 
-*   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐65)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+*   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐66)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
 ## [Jun 05, 2021](/content/2021/06/05/README.md)
 
@@ -221,7 +220,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Official / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [flame\_gamepad (⭐40)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
+*   [flame\_gamepad (⭐41)](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
 *   [flame\_geom (⭐4)](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
 *   [flame\_scrolling\_sprite (⭐17)](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
 
@@ -237,7 +236,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Non-English Content / Roguelike
 
-*   [Mandarin Chinese (中文) (⭐625)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
+*   [Mandarin Chinese (中文) (⭐634)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md)
 
 ## [Jul 06, 2020](/content/2020/07/06/README.md)
 
@@ -250,7 +249,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 ### Other Articles & Tutorials
 
 *   [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
-*   [Flutter Web and Flame (⭐118)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+*   [Flutter Web and Flame (⭐119)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 ### Open Source / Casual
 
@@ -266,7 +265,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [bonfire (⭐765)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+*   [bonfire (⭐781)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
 ## [Jan 19, 2020](/content/2020/01/19/README.md)
 
@@ -278,7 +277,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐245)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐250)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ## [Oct 16, 2019](/content/2019/10/16/README.md)
 
