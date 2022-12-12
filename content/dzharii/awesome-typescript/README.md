@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Dec 12, 2022](/content/2022/12/12/README.md)
+
+### :dollar: Paid Courses / Chrome Extensions
+
+*   [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/) (Udemy)
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Books

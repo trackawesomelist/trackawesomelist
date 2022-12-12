@@ -6,6 +6,16 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   [list of artists for SD v1.4 A-C / D-I / J-N / O-Z](https://rentry.org/artists_sd-v1-4)
+
+### Courses and Educational Materials / References Collection about Stable Diffusion
+
+*   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### DreamBooth

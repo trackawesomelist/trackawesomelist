@@ -6,6 +6,12 @@ A curated list of awesome Dash (plotly) resources
 
 [ [Daily](/content/ucg8j/awesome-dash/README.md) / Weekly / [Overview](/content/ucg8j/awesome-dash/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Tutorials
+
+*   [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-1/) - Walkthrough of building a dashboard of Bigfoot sightings. [Part 2](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-2), [Part 3](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-3/).
+
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
 ### App Examples
@@ -22,7 +28,7 @@ A curated list of awesome Dash (plotly) resources
 
 ### Component Libraries
 
-*   [plotly-resampler (⭐558)](https://github.com/predict-idlab/plotly-resampler) - Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.
+*   [plotly-resampler (⭐592)](https://github.com/predict-idlab/plotly-resampler) - Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
@@ -34,7 +40,7 @@ A curated list of awesome Dash (plotly) resources
 
 ### Component Libraries
 
-*   [Dash Mantine Components (⭐210)](https://github.com/snehilvj/dash-mantine-components) - Collection of 40+ Dash components based on Mantine React Components library.
+*   [Dash Mantine Components (⭐232)](https://github.com/snehilvj/dash-mantine-components) - Collection of 40+ Dash components based on Mantine React Components library.
 
 ### Contributors
 
@@ -44,13 +50,13 @@ A curated list of awesome Dash (plotly) resources
 
 ### Component Libraries
 
-*   [dash-uploader (⭐100)](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
+*   [dash-uploader (⭐102)](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
 
 ## [Apr 12 - Apr 18, 2021](/content/2021/15/README.md)
 
 ### Component Libraries
 
-*   [Dash ECharts Components (⭐45)](https://github.com/mergeforward/dash_echarts) - ECharts(V5) Components for Dash.
+*   [Dash ECharts Components (⭐49)](https://github.com/mergeforward/dash_echarts) - ECharts(V5) Components for Dash.
 
 ### Contributors
 
@@ -72,7 +78,7 @@ A curated list of awesome Dash (plotly) resources
 
 ### App Examples
 
-*   [New York Taxi Rides](https://dash.vaex.io/) - A full year of the YellowCab Taxi company data from their prime, numbering well over 100 million trips. Dash + Vaex dataframe with over a 100 million rows. [Source Code. (⭐107)](https://github.com/vaexio/dash-120million-taxi-app)
+*   [New York Taxi Rides](https://dash.vaex.io/) - A full year of the YellowCab Taxi company data from their prime, numbering well over 100 million trips. Dash + Vaex dataframe with over a 100 million rows. [Source Code. (⭐108)](https://github.com/vaexio/dash-120million-taxi-app)
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
@@ -104,7 +110,7 @@ A curated list of awesome Dash (plotly) resources
 
 ### Idiomatic examples
 
-*   [Dash recipes (⭐934)](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
+*   [Dash recipes (⭐951)](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
 
 ### Cheat sheets
 
@@ -127,8 +133,8 @@ A curated list of awesome Dash (plotly) resources
 
 *   [Dash Bio Components](https://dash.plot.ly/dash-bio) - Suite of bioinformatics components that make it simpler to analyze and visualize bioinformatics data and interact with them in a Dash application.
 *   [Dash Canvas Components](https://dash.plot.ly/canvas) - Module for image annotation and image processing using Dash.
-*   [Awesome React Components (⭐33k)](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components.
-*   [Awesome React (⭐52k)](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components.
+*   [Awesome React Components (⭐34k)](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components.
+*   [Awesome React (⭐53k)](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components.
 *   [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) - Graph visualization component for creating easily customizable, high-performance, interactive, and web-based networks.
 *   [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
 *   [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
@@ -143,7 +149,7 @@ A curated list of awesome Dash (plotly) resources
 
 ### Galleries
 
-*   [Dash Recipes GitHub (⭐934)](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
+*   [Dash Recipes GitHub (⭐951)](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
 
 ## [Dec 24 - Dec 30, 2018](/content/2018/52/README.md)
 
@@ -166,12 +172,12 @@ A curated list of awesome Dash (plotly) resources
 ### Component Libraries
 
 *   [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-*   [Dash Core Components (⭐266)](https://github.com/plotly/dash-core-components)
+*   [Dash Core Components (⭐267)](https://github.com/plotly/dash-core-components)
 *   [Dash HTML Components (⭐155)](https://github.com/plotly/dash-html-components)
 *   [mydcc (⭐34)](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
-*   [sd-material-ui (⭐178)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
+*   [sd-material-ui (⭐179)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
 *   [sd-range-slider (⭐2)](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
-*   [dj-plotly-dash (⭐43)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
+*   [dj-plotly-dash (⭐44)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
 *   [dash-flexbox-grid (⭐19)](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
 
 ### Galleries
@@ -209,7 +215,7 @@ A curated list of awesome Dash (plotly) resources
 
 ### App Examples
 
-*   [Street Quality IDentification \[SQUID\]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code. (⭐18)](https://github.com/amyoshino/SQUID-Syracuse-Dashboard)
+*   [Street Quality IDentification \[SQUID\]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code. (⭐19)](https://github.com/amyoshino/SQUID-Syracuse-Dashboard)
 *   [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code. (⭐37)](https://github.com/lukassnoek/VoxelViz)
 *   [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code. (⭐8)](https://github.com/richard-muir/uk-car-accidents)
 
@@ -221,7 +227,6 @@ A curated list of awesome Dash (plotly) resources
 *   [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - How the MVC model pertains to Dash and a walkthrough of building an app.
 *   [OPS CodeDay: Dash Plotly Map + Graph](https://radumas.info/blog/tutorial/2017/08/10/codeday.html) - How to use Jupyter notebooks in tandom with Dash to create mapping viz.
 *   [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html) - High level overview of how to get started with Dash.
-*   [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html) - Walkthrough of building a dashboard of Bigfoot sightings. [Part 2](https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html), [Part 3](https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html).
 *   [Visualize Earthquakes with Plotly Dash](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/) - Environmental scan of alternatives to Dash followed with a tutorial.
 
 ### Contributors
@@ -238,13 +243,13 @@ A curated list of awesome Dash (plotly) resources
 
 ### App Examples
 
-*   [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code. (⭐176)](https://github.com/plotly/dash-oil-and-gas-demo)
+*   [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code. (⭐179)](https://github.com/plotly/dash-oil-and-gas-demo)
 *   [Uber Rides](https://plot.ly/dash/gallery/uber-rides/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-uber-rides-demo)
-*   [Simple Stock Tickers](https://plot.ly/dash/gallery/stock-tickers/) - Queries data from Google Finance and displays the results as candlestick charts. [Source Code. (⭐127)](https://github.com/plotly/dash-stock-tickers-demo-app)
-*   [Volatility Surface Explorer](https://plot.ly/dash/gallery/volatility-surface) - Fetches CBOE options chain data from Yahoo Finance with Pandas Datareader and calculates the implied volatility of each option visualised in a 3D mesh chart. [Source Code. (⭐71)](https://github.com/plotly/dash-volatility-surface)
+*   [Simple Stock Tickers](https://plot.ly/dash/gallery/stock-tickers/) - Queries data from Google Finance and displays the results as candlestick charts. [Source Code. (⭐130)](https://github.com/plotly/dash-stock-tickers-demo-app)
+*   [Volatility Surface Explorer](https://plot.ly/dash/gallery/volatility-surface) - Fetches CBOE options chain data from Yahoo Finance with Pandas Datareader and calculates the implied volatility of each option visualised in a 3D mesh chart. [Source Code. (⭐76)](https://github.com/plotly/dash-volatility-surface)
 *   [Drug Discovery](https://plot.ly/dash/gallery/drug-explorer/) - Displays a description of the drug as you hover over points in the graph. [Source Code.](https://github.com/plotly/dash-drug-discovery-demo/)
 *   [Recession in 255 Charts](https://plot.ly/dash/gallery/recession-report/) - Adapted from NYTimes's excellent [How the Recession Reshaped the Economy in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html). [Source Code. (⭐15)](https://github.com/plotly/dash-recession-report-demo)
-*   [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code. (⭐35)](https://github.com/plotly/dash-yield-curve)
+*   [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code. (⭐36)](https://github.com/plotly/dash-yield-curve)
 
 ### Contributors
 

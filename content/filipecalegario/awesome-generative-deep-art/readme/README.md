@@ -73,6 +73,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [PromptHero](https://prompthero.com/): Search the best prompts for Stable Diffusion, DALL-E and Midjourney
 *   [promptoMANIA](https://promptomania.com/): AI art community with prompt generator
 *   [Lexica](https://lexica.art/): search over 10M+ Stable Diffusion images and prompts
+*   [list of artists for SD v1.4 A-C / D-I / J-N / O-Z](https://rentry.org/artists_sd-v1-4)
 *   [succinctly/text2image-prompt-generator · Hugging Face](https://huggingface.co/succinctly/text2image-prompt-generator): a GPT-2 model fine-tuned on the succinctly/midjourney-prompts dataset, which contains 250k text prompts that users issued to the Midjourney text-to-image service over a month period
 *   [The Prompter | vicc | Substack](https://theprompter.substack.com/): a newsletter about news, tips and thoughts around prompt engineering
 *   [(19) Nikhil Agrawal 📌 on Twitter](https://twitter.com/HeyNikhila/status/1570005481896255490): 11 AI Images Prompt websites to level up the image quality
@@ -192,6 +193,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Courses and Educational Materials
 
+*   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
 *   [Visual intuition for diffusion models and AI art. #stablediffusionart #aiart #aiartwork #aiartcommunity](https://www.tiktok.com/@ham_made_art/video/7154863972729113899)
 *   [The Illustrated Stable Diffusion by Jay Alammar](https://jalammar.github.io/illustrated-stable-diffusion/): "gentle introduction \[on] how Stable Diffusion works"
 *   \[🔥][johnowhitaker/tglcourse (⭐62)](https://github.com/johnowhitaker/tglcourse): The Generative Landscape - a course on generative modelling (currently unfinished)

@@ -6,6 +6,12 @@
 
 [ [Daily](/content/jaywcjlove/awesome-mac/README.md) / Weekly / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Utilities / System Related Tools
+
+*   [RemoveX](https://removex.io) - RemoveX is an uninstaller tool for Mac computer. RemoveX has a beautifully UI using native design for MacOS. Save hours of time and remove your app in seconds. Do not make you think. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Developer Tools / Command Line Tools

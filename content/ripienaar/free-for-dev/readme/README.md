@@ -1053,7 +1053,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [hostman.com](https://hostman.com) — Deploy up to 3 static sites from your GitHub repository for free.
 *   [Neocities](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
 *   [Netlify](https://www.netlify.com/) — Builds, deploy and hosts static site/app free for, 100 GB data and 100 GB/month bandwidth.
-*   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
+*   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies. No custom domain.
 *   [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
 *   [render.com](https://render.com) — Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
 *   [SourceForge](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
@@ -1159,6 +1159,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 *   [Planetscale](https://planetscale.com/) - PlanetScale is a MySQL compatible, serverless database platform powered by Vitess, 1 databases for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.
 *   [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgresSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.
 *   [filess.io](https://filess.io) - filess.io is a platform where you can create 1 database of the following DBMS for free: MySQL, MariaDB, MongoDB, PostgreSQL.
+*   [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.
 
 **[⬆ back to top](#table-of-contents)**
 
