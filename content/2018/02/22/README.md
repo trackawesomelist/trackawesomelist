@@ -29,7 +29,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Tamiat CMS (⭐526)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
+*   [Tamiat CMS (⭐524)](https://github.com/tamiat/tamiat) - Tamiat is a front-end focused CMS, uses Vue.JS as the frontend and integrates with Firebase for the backend functionality.
 
 ## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Command Line Applications
 
-*   [scribe (⭐259)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
+*   [scribe (⭐260)](https://github.com/codedge-llc/scribe) - Pretty-print tables of Elixir structs and maps. Inspired by hirb.
 
 ### Networking
 
@@ -81,7 +81,7 @@
 
 ### Tools and frameworks
 
-*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐80k)](https://github.com/GoogleChrome/puppeteer).
+*   [Muppeteer (⭐66)](https://github.com/HuddleEng/Muppeteer) - Visual regression testing framework for Chrome using [Mocha](https://mochajs.org/) and [Puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer).
 
 ### Online services
 

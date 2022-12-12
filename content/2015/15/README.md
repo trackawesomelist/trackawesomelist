@@ -36,9 +36,9 @@
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
-### Javascript / Misc
+### JavaScript / Misc
 
-*   [regression-js (⭐875)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
+*   [regression-js (⭐882)](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -116,15 +116,15 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Email
 
-*   [Sup (⭐854)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+*   [Sup (⭐859)](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ### Error Handling
 
-*   [Exception Handler (⭐498)](https://github.com/richpeck/exception_handler) - Custom error pages.
+*   [Exception Handler (⭐501)](https://github.com/richpeck/exception_handler) - Custom error pages.
 
 ### HTML/XML Parsing
 
-*   [Ox (⭐833)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
+*   [Ox (⭐834)](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
 
 ### Performance Monitoring
 
@@ -151,7 +151,7 @@ RewriteRule ^ %1 [R=301,L]
 ### ORM and Datamapping
 
 *   [redo (⭐19)](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
-*   [tirexs (⭐427)](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
+*   [tirexs (⭐428)](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
 
 ### Testing
 
@@ -173,7 +173,7 @@ RewriteRule ^ %1 [R=301,L]
 
 ### Image Processing
 
-*   [Video++ (⭐689)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐690)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Inter-process communication
 
@@ -187,13 +187,9 @@ RewriteRule ^ %1 [R=301,L]
 
 *   [QuantLib (⭐3.5k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
-### Networking
-
-*   [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. \[MIT]
-
 ### Integrated Development Environment
 
-*   [color\_coded (⭐862)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
+*   [color\_coded (⭐863)](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting. \[MIT]
 
 ## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 

@@ -6,29 +6,42 @@
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [Flowdash](https://flowdash.com/) — Automate business workflows. Free tier for up to 3 users, 1000 tasks, and 3 workflows.
-
-## [2. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [1. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Additional Resources / Miscellaneous Tools
 
 *   [Portable Node.js guide (⭐1.3k)](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Note-taking
 
 *   [Noteship](https://noteship.com) - Turn notes into knowledge (spreadsheet view, heading summaries, etc.). Works offline, everything is saved locally. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/noteship/id1571711347?mt=12)
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [scapegoat](https://crates.io/crates/scapegoat): Safe, stack-only alternative to `BTreeSet` and `BTreeMap`. - [![crates.io](https://img.shields.io/crates/v/scapegoat.svg)](https://crates.io/crates/scapegoat)
+
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### Go / Phoenix
+
+*   [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
+*   [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
+
+### HTML and CSS / Spock Framework
+
+*   [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -64,11 +77,11 @@
 
 ### React Tools / React Awesome Components
 
-*   [react-advanced-cropper (⭐123)](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
+*   [react-advanced-cropper (⭐235)](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
 
 ### React Tools / React State Management
 
-*   [react-facet (⭐196)](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
+*   [react-facet (⭐216)](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
 
 ## [11. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 
@@ -86,18 +99,18 @@
 
 ### VSCode / Third-party APIs
 
-*   [alive (⭐116)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
+*   [alive (⭐124)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [rmehri01/onenord.nvim (⭐287)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+*   [rmehri01/onenord.nvim (⭐304)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 
 ### Utility / Diagnostics
 
-*   [saifulapm/chartoggle.nvim (⭐23)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line for Neovim.
+*   [saifulapm/chartoggle.nvim (⭐23)](https://github.com/saifulapm/chartoggle.nvim) - Toggle any character at end of line.
 
 ## [14. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
@@ -128,11 +141,11 @@
 
 ### Templates / React
 
-*   [vital (⭐136)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
+*   [vital (⭐137)](https://github.com/jvidalv/vital) - React, TypeScript, Tailwind (JIT), CSS-Modules, Jest, Atomic Design, Prettier, Husky, Commit-lint.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-sass-dts (⭐43)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+*   [vite-plugin-sass-dts (⭐50)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 
 ## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -87,7 +87,7 @@
 
 ### Authentication
 
-*   [ueberauth\_microsoft (⭐23)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
+*   [ueberauth\_microsoft (⭐25)](https://github.com/swelham/ueberauth_microsoft) - A Microsoft strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
@@ -96,7 +96,7 @@
 
 ### Documentation
 
-*   [phoenix\_api\_docs (⭐26)](https://github.com/smoku/phoenix_api_docs) - Generate API Blueprint documentation from controllers and tests in the Phoenix framework.
+*   [phoenix\_api\_docs (⭐27)](https://github.com/smoku/phoenix_api_docs) - Generate API Blueprint documentation from controllers and tests in the Phoenix framework.
 
 ### Framework Components
 
@@ -150,7 +150,7 @@
 
 ### Data sets
 
-*   [EuroRomCom Data (⭐16)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+*   [EuroRomCom Data (⭐17)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### On Youtube
 

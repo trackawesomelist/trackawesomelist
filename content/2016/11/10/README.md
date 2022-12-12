@@ -32,7 +32,7 @@
 
 ### Calendar / Barcode
 
-*   [DateTimePicker (⭐1.8k)](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
+*   [DateTimePicker (⭐1.9k)](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐644)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐653)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -64,7 +64,7 @@
 
 ### ORM and Datamapping
 
-*   [arbor (⭐208)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐213)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -78,7 +78,7 @@
 
 ### Text and Numbers
 
-*   [abacus (⭐62)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
+*   [abacus (⭐70)](https://github.com/narrowtux/abacus) - Evaluate math terms in Elixir.
 *   [brcpfcnpj (⭐64)](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 
 ## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)

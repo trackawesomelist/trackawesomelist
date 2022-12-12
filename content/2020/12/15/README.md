@@ -45,7 +45,7 @@
 
 ### Data Store / Mouse Events
 
-*   [effector-react (⭐3.9k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
+*   [effector-react (⭐4k)](https://github.com/effector/effector) - React bindings for effector, an effective multi-store state manager.
 
 ### Boilerplate / Mouse Events
 
@@ -90,7 +90,7 @@
 
 ### Crash monitoring
 
-*   [Sentry (⭐592)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
+*   [Sentry (⭐599)](https://github.com/getsentry/sentry-dart) - Sentry provides self-hosted and cloud-based error monitoring that helps all software teams discover, triage, and prioritize errors in real-time.
 
 ## [9. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐174)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐175)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐445)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐464)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`
 
 ---
 

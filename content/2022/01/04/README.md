@@ -42,7 +42,7 @@
 
 ### Responsive / Syntax Highlight
 
-*   [CoreUI for React (⭐493)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
+*   [CoreUI for React (⭐500)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
 ## [6. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Development / Python
 
-*   [pyteal-utils (⭐26)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
+*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
 
 ### IDEs / vim
 
@@ -70,7 +70,7 @@
 
 ### Tools / Docker
 
-*   [Algorand Sandbox (⭐178)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
+*   [Algorand Sandbox (⭐196)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
 
 ### DeFi Platforms / Wallets
 
@@ -90,14 +90,13 @@
 ### Community / Projects
 
 *   [Algodesk](https://www.algodesk.io/) - Create, configure and manage your Assets on Algorand Blockchain.
-*   [algorealm (⭐16)](https://github.com/cusma/algorealm) - Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by [@cusma](https://github.com/cusma).
-*   [minter (⭐8)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
+*   [minter (⭐10)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
 
 ## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Helpers
 
-*   [hump (⭐49)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
+*   [hump (⭐50)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 
 ## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 
@@ -125,11 +124,11 @@
 
 ### Status Bar
 
-*   [tmux-mullvad (⭐3)](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
+*   [tmux-mullvad (⭐5)](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
 
 ### Plugins
 
-*   [tmux-mouse-swipe (⭐4)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
+*   [tmux-mouse-swipe (⭐5)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 
 ## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -151,7 +150,7 @@
 
 ### Bayesian Modeling / Generative Model
 
-*   [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NIPS'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760\&hl=en\&as_sdt=0,5)].
+*   [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NeurIPS'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760\&hl=en\&as_sdt=0,5)].
 
 ### Meta-Level Considerations / Gestalt
 

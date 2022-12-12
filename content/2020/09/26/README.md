@@ -8,10 +8,6 @@
 
 ## [1. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 
-### UI Elements
-
-*   [Creative Designs Guru](https://creativedesignsguru.com) - Themes for React, Nextjs and Eleventy, built with Tailwind CSS.
-
 ### Booking
 
 *   [OnceHub](https://www.oncehub.com/) - Scheduling via ScheduleOnce and meeting management via InviteOnce.
@@ -38,7 +34,7 @@
 
 ### HTTP
 
-*   [finch (⭐971)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+*   [finch (⭐988)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ## [4. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
@@ -98,6 +94,10 @@
 
 ## [10. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
+### Jamstack Sites Showcase
+
+*   [Creative Designs Guru](https://creativedesignsguru.com) - Built on Eleventy.js hosted on Netlify and styled with Tailwind CSS
+
 ### API / Forms
 
 *   [Arengu](https://www.arengu.com) - Build signup and login forms with Arengu, enable social login, add 2FA or use passwordless flows to authenticate users with your API or identity provider.
@@ -107,15 +107,15 @@
 ### Code Analysis
 
 *   Static Type Annotations Generators
-    *   [MonkeyType (⭐4k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
-    *   [pyannotate (⭐1.3k)](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations.
-    *   [pytype (⭐3.9k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
+    *   [MonkeyType (⭐4.1k)](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
+    *   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations.
+    *   [pytype (⭐4k)](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
 ## [12. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ### Audio Tools
 
-*   [Cecilia (⭐146)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
+*   [Cecilia (⭐150)](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
 
 ## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

@@ -187,7 +187,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vesselize (⭐21)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
+*   [vesselize (⭐22)](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
 *   [vue-use-local-storage (⭐4)](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
 ## [13. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)

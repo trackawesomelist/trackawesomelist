@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 11, 2020
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,7 +48,7 @@
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [StringSifter (⭐586)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
+*   [StringSifter (⭐589)](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -75,43 +75,37 @@
 *   [macro\_puzzles (⭐67)](https://github.com/gboehl/macro_puzzles) - A list of puzzles in macroeconomics.
 *   [pydsge (⭐33)](https://github.com/gboehl/pydsge) - Tools to solve, filter, and estimate DSGE models with occasionally binding constraints.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Individual components / Others
-
-*   [DnetOverlay](https://github.com/amuste/DnetOverlay) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetOverlay?style=flat-square\&cacheSeconds=86400) Agular CDK Overlay implementation for Blazor.
-
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Documentaries
 
 *   [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) by Honeypot (Feb 2020)
 
-## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Layout / Syntax Highlight
 
 *   [react-colrow (⭐4)](https://github.com/phphe/react-colrow) - Responsive grid layout components. Based on css flexbox. Support fraction width, auto grow.
 
-## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Boilerplates / Other
 
-*   [secure-electron-template (⭐1.3k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
+*   [secure-electron-template (⭐1.4k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 
-## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [futil-js (⭐780)](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 
-## [12. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### CMS & Blogs
 
 *   [Hummingbird CMS (⭐5)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
 
-## [13. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [12. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Culture / Procrastination
 
@@ -134,11 +128,11 @@
 *   [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - Another set of tips, specifically using the example of a technical paper describing an improvement of an algorithm.
 *   [Writing for Business](https://docs.google.com/document/d/1PqbdAnYM79tLvO3yWCt2QH2T1HuQ58poNUsM7QzuE-c) - Some tips on how to write in a business context.
 
-## [14. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [13. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing
 
-*   [Business Model Patterns](https://reasonstreet.co/business-model-library/) - A list of 11 different ways to sell products and services.
+*   [Business Model Patterns](https://reasonstreet.co/business-model-library/) - A list of 15 different ways to sell products and services.
 *   [Axial - Business models](https://axial.substack.com/p/axial-business-models) - 38 models for inspiration.
 
 ### Pricing / Usage-based Pricing
@@ -147,13 +141,13 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐65k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐66k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Taxes / Currencies
 
 *   [2017 Tax Software Developer's Guides](https://www.mass.gov/lists/2017-tax-software-developers-guides) - A list of test cases for developers to test their tax code against.
 
-### Payments / European VAT
+### Payments / Electronic invoices
 
 *   [The Best Payment Gateway for Startups](http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
 
@@ -173,21 +167,10 @@
 
 *   [Metabase (⭐30k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
 
-### Competitive Analysis / Tools
+### Competitive Analysis / Cloud providers
 
 *   [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - A wrap-up of recent GCP pricing features.
-
-### Commercial Solutions / Tools
-
 *   [Orbitera](https://www.orbitera.com) - GCP's billing subsidiary.
-*   [16 Online Subscription Billing Tools](https://www.analyzo.com/search/online-subscription-billing-tools/106) - An up-to-date list of subscription and recurring billing services.
-*   [Laravel Spark](https://spark.laravel.com) - Package that provides scaffolding for all of the stuff you don't want to code: subscription and team billing, invoices, but also user accounts features.
-*   [Bullet Train](https://bullettrain.co) - Same as above, but for Ruby on Rails.
-*   [ASP.NET Zero](https://aspnetzero.com) - Multi-tenancy, authentication and authorization, invoices and payments.
-*   [Chargebee](https://www.chargebee.com) - Subscription billing & revenue operations.
-*   [Armatic Billing & Invoicing Software](https://www.armatic.com/billing) - Invoices, accounts receivable.
-*   [Sensus Billing Access Application](https://sensus.com/products/billing-access/) - Billing and metering solutions for utility companies.
-*   [Quaderno](https://quaderno.io) - Calculate sales tax, VAT, and GST; automate receipts.
 
 ---
 

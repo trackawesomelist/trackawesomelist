@@ -74,7 +74,7 @@
 
 ### Web Application Framework
 
-*   [facil.io (⭐1.6k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
+*   [facil.io (⭐1.7k)](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. \[MIT] [website](http://facil.io)
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Boilerplates
 
-*   [Nextron (⭐2.1k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
+*   [Nextron (⭐2.2k)](https://github.com/saltyshiomix/nextron) - An Electron with Next.js apps generator ⚡
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

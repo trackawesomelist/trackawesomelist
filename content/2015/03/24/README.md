@@ -16,7 +16,7 @@
 
 ### Implementations/Compilers
 
-*   [JRuby (⭐3.6k)](https://github.com/jruby/jruby) - A Java implementation of the Ruby language.
+*   [JRuby (⭐3.7k)](https://github.com/jruby/jruby) - A Java implementation of the Ruby language.
 *   [MRuby (⭐5k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
 *   [Opal (⭐4.7k)](https://github.com/opal/opal) - Ruby to Javascript compiler.
 *   [Rubinius (⭐3k)](https://github.com/rubinius/rubinius) - An implementation of the Ruby programming language. Rubinius includes a bytecode virtual machine, Ruby syntax parser, bytecode compiler, generational garbage collector, just-in-time (JIT) native machine code compiler, and Ruby Core and Standard libraries.
@@ -35,7 +35,7 @@
 
 ### Single controls
 
-*   [VirtualTreeView (⭐541)](https://github.com/Virtual-TreeView/Virtual-TreeView). `[Delphi]` ([VirtualTreeView-Lazarus (⭐40)](https://github.com/blikblum/VirtualTreeView-Lazarus) port to FPC `[FPC]`). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
+*   [VirtualTreeView (⭐543)](https://github.com/Virtual-TreeView/Virtual-TreeView). `[Delphi]` ([VirtualTreeView-Lazarus (⭐40)](https://github.com/blikblum/VirtualTreeView-Lazarus) port to FPC `[FPC]`). Treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today.
     // *Extremely flexible visual component implementing virtual (callback-based) MVC paradigm. Could be also used as a listview or grid. Used in RAD Studio GUI.*
 
 ### Viewers
@@ -50,17 +50,17 @@
 
 ### Memory managers
 
-*   [FastMM (⭐393)](https://github.com/pleriche/FastMM4). `[Delphi]` Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
+*   [FastMM (⭐395)](https://github.com/pleriche/FastMM4). `[Delphi]` Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
     // *Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.*
 
 ### System
 
-*   [OmniThreadLibrary (⭐403)](https://github.com/gabr42/OmniThreadLibrary). `[Delphi]` Simple to use threading library for Delphi.
+*   [OmniThreadLibrary (⭐405)](https://github.com/gabr42/OmniThreadLibrary). `[Delphi]` Simple to use threading library for Delphi.
     // *Easy integration of async processes in your app*
 
 ### RAD Studio IDE plugins/wizards
 
-*   [DDevExtensions (⭐97)](https://github.com/ahausladen/DDevExtensions). Extends the Delphi/C++Builder IDE by adding some new productivity features.
+*   [DDevExtensions (⭐98)](https://github.com/ahausladen/DDevExtensions). Extends the Delphi/C++Builder IDE by adding some new productivity features.
     // *Many useful IDE tweaks, must have.*
 *   [VCL Fix Pack](https://www.idefixpack.de/blog/bugfix-units/vclfixpack-10/). Delphi unit that fixes VCL and RTL bugs at runtime by patching the original functions. If you want all IDE Fix Pack fixes in your application this unit is what you are looking for. Adding the unit to your project (Delphi and C++Builder) automatically installs the patches that are available for your Delphi/C++Builder version.
     // *Actual for Delphi/C++ 6..2009*

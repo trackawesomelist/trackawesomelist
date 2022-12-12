@@ -10,7 +10,7 @@
 
 ### RPC
 
-*   [BloomRPC (⭐8.7k)](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
+*   [BloomRPC (⭐8.9k)](https://github.com/bloomrpc/bloomrpc) - BloomRPC aims to provide the simplest and most efficient developer experience for exploring and querying your GRPC services.
 
 ## [2. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Development / Engines
 
-*   [Ethereal Engine (⭐510)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [Ethereal Engine (⭐521)](https://github.com/XRFoundation/XREngine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

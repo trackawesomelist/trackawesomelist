@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 28, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,26 +20,32 @@
 
 *   [ngx-filter-pipe (⭐137)](https://github.com/VadimDez/ngx-filter-pipe) Pipe for filtering arrays
 
-## [3. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ruby / Tornado
+
+*   [Learn to Program](http://pine.fm/LearnToProgram/) - Chris Pine
+
+## [4. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Open-source host-it-yourself:
 
 *   [Contact Congress (Open Source) (⭐32)](https://github.com/EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below).
 *   [Call Congress (⭐28)](https://github.com/fightforthefuture/call-congress) - Coordinate call-in days to US Congress, the President, or local or corporate targets. Original project from Fight for the Future and Taskforce.is, but with lots of development from [Mozilla (⭐1)](https://github.com/mozilla/call-congress) and the [EFF (⭐34)](https://github.com/effOrg/call-congress/tree/refactor/master). Frontend looks like this, [https://call.mozilla.org](https://call.mozilla.org/) and the backend looks like [http://callpower.org](http://callpower.org/easy-to-use/). A hosted version is available, and the code is AGPL.
 
-## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Professional services
 
 *   [Langa](http://langa.io) - Agency.
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### API Gateways / Edge Services / Scala
 
 *   [Janus (⭐2.5k)](https://github.com/hellofresh/janus) - An API Gateway written in Go.
 
-## [6. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Image Analysis / Telegram
 
@@ -49,32 +55,32 @@
 
 *   [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 
-## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Migrations
 
 *   [Phinx (⭐4.3k)](https://github.com/cakephp/phinx) - Another database migration library.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Intermediate
 
 *   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 
-## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [10. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### General information
 
 *   [Wikipedia: Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 *   [Survey of screenshot-based CSS testing tools](https://gist.github.com/cvrebert/adf91e429906a4d746cd)
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-3d-model (⭐2.2k)](https://github.com/hujiulong/vue-3d-model) - A 3D model viewer in Vue component.
 
-## [11. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
+## [12. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 
 ### Contents / New papers
 
@@ -84,7 +90,7 @@
 
 *   DeepPose: Human pose estimation via deep neural networks (2014), A. Toshev and C. Szegedy [\[pdf\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.pdf)
 
-## [12. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [13. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Utility / Collection View Layout
 

@@ -70,7 +70,7 @@
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐617)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐618)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [10. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -158,13 +158,9 @@
 
 ## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
-### Tools & Utilities / Others
-
-*   [Cortex.Net (⭐69)](https://github.com/jspuij/Cortex.Net) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/Cortex.Net?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/Cortex.Net?style=flat-square\&cacheSeconds=86400) State management like MobX for .NET and Blazor. [Documentation](https://jspuij.github.io/Cortex.Net.Docs/pages/index.html).
-
 ### Others / Others
 
-*   [BlazorWebView (⭐127)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
+*   [BlazorWebView (⭐128)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
 
 ## [17. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

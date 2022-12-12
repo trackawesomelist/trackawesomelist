@@ -44,11 +44,11 @@ Free (Open Source)
 
 *   [rn-actionsheet-module ★0 (⭐26)](https://github.com/talut/rn-actionsheet-module) - BottomsheetDialog & ActionSheetIOS with same props and usage.
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Researchers / Tools
+### Python / Data Analysis / Data Visualization
 
-*   [TensorWatch (⭐3.3k)](https://github.com/microsoft/tensorwatch) - Debugging and visualization for deep learning
+*   [TensorWatch (⭐3.3k)](https://github.com/microsoft/tensorwatch) - Debugging and visualization tool for machine learning and data science. It extensively leverages Jupyter Notebook to show real-time visualizations of data in running processes such as machine learning training.
 
 ---
 

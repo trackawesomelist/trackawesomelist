@@ -69,7 +69,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐60k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐61k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -114,7 +114,7 @@ git push -u origin <branch_name>
 
 ### Device
 
-*   [UIDeviceComplete (⭐407)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+*   [UIDeviceComplete (⭐408)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ## [15. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md)
 

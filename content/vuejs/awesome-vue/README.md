@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Dec 12, 2022](/content/2022/12/12/README.md)
+
+### Components & Libraries / Scaffold
+
+*   [Vutron (⭐30)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Resources / Podcasts

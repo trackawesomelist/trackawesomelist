@@ -244,12 +244,12 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 ### Open Source / Other
 
-*   [Cerebro (⭐7.5k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐7.6k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Samples / Other
 
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐386)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐387)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -616,7 +616,7 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 ### Applications
 
 *   [Bitmessage](https://bitmessage.org): P2P communications protocol used to send encrypted messages to another person or to many subscribers.
-*   [Dat desktop app (⭐645)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
+*   [Dat desktop app (⭐646)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
 *   [I2P](https://geti2p.net): Anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
 *   [MaidSafe](https://maidsafe.net): Decentralized internet and app infrastructure which rewards users for participating in the network.
 *   [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
@@ -632,8 +632,8 @@ git ls-remote git://git.kernel.org/pub/scm/git/git.git
 
 *   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.1k)](https://github.com/kgryte/awesome-peer-to-peer)
 *   [https://github.com/retrohacker/awesome-p2p (⭐139)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐517)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐181)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐521)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐182)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.5k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>
 
@@ -735,24 +735,24 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐771)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐773)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
 *   [formatador (⭐440)](https://github.com/geemus/formatador) - STDOUT text formatting.
-*   [Ru (⭐404)](https://github.com/tombenner/ru) - Ruby in your shell.
-*   [Terminal Table (⭐1.4k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
+*   [Ru (⭐403)](https://github.com/tombenner/ru) - Ruby in your shell.
+*   [Terminal Table (⭐1.5k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 *   [Tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
 ### Code Highlighting
 
-*   [CodeRay (⭐829)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
-*   [pygments.rb (⭐555)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
-*   [Rouge (⭐3.1k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
+*   [CodeRay (⭐832)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [pygments.rb (⭐558)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+*   [Rouge (⭐3.2k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐719)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐721)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -772,7 +772,7 @@ Free
 
 ### Video
 
-*   [Video Transcoding (⭐2.2k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+*   [Video Transcoding (⭐2.3k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
 ## [45. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 

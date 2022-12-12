@@ -26,7 +26,7 @@
 
 ### Researchers / Datasets
 
-*   [FakeNewsCorpus (⭐332)](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
+*   [FakeNewsCorpus (⭐335)](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [JoyProxy (⭐13)](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
+*   [JoyProxy (⭐12)](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
 *   [activity-automation (⭐4)](https://github.com/mubaidr/activity-automation) - Manage daily activities and get reports on timely basis.
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)

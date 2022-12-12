@@ -42,51 +42,46 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Fleetdm (⭐953)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+*   [Fleetdm (⭐968)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 
 ### IR Tools Collection / Other Tools
 
-*   [MFT Browser (⭐231)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
+*   [MFT Browser (⭐236)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 *   [traceroute-circl (⭐36)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 
-### IR Tools Collection / Playbooks
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-*   [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow consists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
+### C / Non-X86
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Artificial Intelligence
-
-*   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
-*   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
+*   [Coursebook (⭐573)](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
 
 ## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Examples / Hardware Offload
 
-*   [redbpf examples (⭐1.4k)](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
+*   [redbpf examples (⭐1.5k)](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
-*   [redbpf (⭐1.4k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
+*   [redbpf (⭐1.5k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
 ## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Development Tools
 
-*   [jsx-ast-utils (⭐137)](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
+*   [jsx-ast-utils (⭐136)](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐101)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐123)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Libraries and Frameworks
 
-*   [Puppeteer (⭐80k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐81k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 

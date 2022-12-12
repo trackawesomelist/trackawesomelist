@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 27, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -70,51 +70,45 @@
 
 
 
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [Steve Sanderson at the NDC Manchester 2021](https://www.youtube.com/watch?v=5NqXBFn9v20\&t=15636s) - March 25, 2021 - Blazor in 2021: .NET 5, .NET 6 and beyond.
-
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DBaaS
 
 *   [StackBy](https://stackby.com/) — One tool that brings together flexibility of spreadsheets, power of databases and built-in integrations with your favorite business apps. Free plan includes unlimited users, 10 stacks, 2GB attachment per stack.
 
-## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Maintenance
 
 *   [Admin Scripts for Development and Deploying (⭐2)](https://github.com/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) - The additional features for `/admin` folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
-*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐1.1k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
+*   [MediaCMS](https://mediacms.io) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ([Source Code (⭐1.2k)](https://github.com/mediacms-io/mediacms)) `AGPL-3.0` `Python/Docker`
 
-## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Svelte
 
-*   [svelte-vite-ssr (⭐38)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
+*   [svelte-vite-ssr (⭐40)](https://github.com/jiangfengming/svelte-vite-ssr) - Svelte with SSR support.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-radar (⭐56)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
+*   [vite-plugin-radar (⭐60)](https://github.com/stafyniaksacha/vite-plugin-radar) - All in one analytics loader (with 7+ providers supported).
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-imp (⭐172)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
+*   [vite-plugin-imp (⭐183)](https://github.com/onebay/vite-plugin-imp) - Import library component styles on demand, make your app slimmer.
 
-## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Programming Languages / Rust
 
-*   [rust-nix-templater (⭐42)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
+*   [rust-nix-templater (⭐44)](https://github.com/yusdacra/rust-nix-templater) - Generates Nix build and development files for Rust projects.
 
-## [9. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [8. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Cloud platform security / Kubernetes
 
@@ -129,7 +123,7 @@
 
 *   [Qubes OS](https://qubes-os.org/) - Desktop environment built atop the Xen hypervisor project that runs each end-user program in its own virtual machine intended to provide strict security controls to constrain the reach of any successful malware exploit.
 
-## [10. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [9. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Intentionally Vulnerable Systems as Docker Containers
 

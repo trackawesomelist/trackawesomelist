@@ -16,13 +16,13 @@
 
 ### Git / Diagnostics
 
-*   [sindrets/diffview.nvim (⭐1.5k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+*   [sindrets/diffview.nvim (⭐1.7k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Markdown Editor
 
-*   [react-simplemde-editor (⭐643)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.7k)](https://github.com/Ionaru/easy-markdown-editor).
+*   [react-simplemde-editor (⭐647)](https://github.com/RIP21/react-simplemde-editor) - React component wrapper for [EasyMDE (the most fresh SimpleMDE fork) (⭐1.7k)](https://github.com/Ionaru/easy-markdown-editor).
 
 ## [4. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -52,7 +52,6 @@
     *   [mongodb](https://dzone.com/articles/mongodb-design-patterns) - Mongodb design patterns.
     *   [MongoDB Applied Design Patterns](http://shop.oreilly.com/product/0636920027041.do)
     *   [DynamoDB design patterns](https://amazon-dynamodb-labs.com/design-patterns.html)- Advnaced design patterns for Amazon DynamoDB
-    *   [Redis design patterns](https://redislabs.com/redis-best-practices/introduction/)
     *   [Redis applied design patterns](https://redislabs.com/redis-best-practices/introduction/) - Redis Applied Design Patterns book
 *   Storage
     *   [storage patterns](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)- Comparing your on-premises storage patterns with AWS Storage services

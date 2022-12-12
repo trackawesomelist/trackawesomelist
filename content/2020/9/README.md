@@ -8,9 +8,13 @@
 
 ## [1. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
+### CLI
+
+*   [iredis (⭐2.2k)](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
+
 ### GUI
 
-*   [SQLTools (⭐1k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
+*   [SQLTools (⭐1.1k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 
 ## [2. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
@@ -18,11 +22,6 @@
 
 *   [Why not use Double or Float to represent currency?](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040) - Because of precision: floats and doubles cannot accurately represent the base 10 multiples that we use for money.
 *   [European Spreadsheet Risks Interest Group - Horror Stories](http://www.eusprig.org/horror-stories.htm) - A collection of cases in which uncontrolled and untested spreadsheet models led to lost revenue, mispricing, poor decision making, fraud and systemic financial failure.
-
-### Commercial Solutions / Tools
-
-*   [OpenCell](https://opencellsoft.com) - Monetization platform originating from an open-source telco billing project.
-*   [keygen](https://keygen.sh) - Sell and manage license keys.
 
 ## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
@@ -72,7 +71,7 @@
 
 ### Researchers / Frameworks
 
-*   [Hopsworks - A Feature Store for ML and Data-Intensive AI (⭐802)](https://github.com/logicalclocks/hopsworks)
+*   [Hopsworks - A Feature Store for ML and Data-Intensive AI (⭐812)](https://github.com/logicalclocks/hopsworks)
 *   [Feast - A Feature Store for ML for GCP by Gojek/Google (⭐3.7k)](https://github.com/gojek/feast)
 
 ## [10. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
@@ -86,7 +85,7 @@
 
 ### ORM
 
-*   [Permazen (⭐315)](https://github.com/permazen/permazen) - Language-natural persistence layer.
+*   [Permazen (⭐321)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 
 ## [12. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
@@ -126,7 +125,7 @@
 
 ### Samples
 
-*   Sascha Willems's [samples (⭐7.9k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐154)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*   Sascha Willems's [samples (⭐7.9k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐157)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 
 ## [16. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -149,7 +148,7 @@
 
 ### Recruitment / Job Boards
 
-*   [Hiring Without Whiteboards (⭐32k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+*   [Hiring Without Whiteboards (⭐34k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 *   [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
 
 ### Recruitment / Interview
@@ -200,7 +199,7 @@
 
 ### Extensions
 
-*   [Next PWA (⭐2.6k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
+*   [Next PWA (⭐2.7k)](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js with workbox
 
 ## [23. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -239,15 +238,15 @@
 
 ### Accessibility
 
-*   [Capable (⭐227)](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
+*   [Capable (⭐229)](https://github.com/chrs1885/Capable) - Keep track of accessibility settings, leverage high contrast colors, and use scalable fonts to enable users with disabilities to use your app.
 
 ### Colors
 
-*   [SheetyColors (⭐101)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
+*   [SheetyColors (⭐102)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 
 ### UI / Barcode
 
-*   [Partition Kit (⭐229)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
+*   [Partition Kit (⭐230)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
 
 ## [29. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -269,7 +268,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐1.7k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
+*   [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code (⭐1.8k)](https://github.com/gotson/komga)) `MIT` `Java/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -297,7 +296,7 @@
 
 ### Algorithms and Data structures
 
-*   [fzy (⭐33)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
+*   [fzy (⭐35)](https://github.com/hugopl/fzy) - A Crystal port of awesome Fzy project fuzzy finder algorithm
 
 ## [35. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -335,25 +334,20 @@
 
 ### Component bundles
 
-*   [BlazorStrap (⭐832)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
+*   [BlazorStrap (⭐841)](https://github.com/chanan/BlazorStrap) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorStrap?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorStrap?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. Bootstrap 4 components for Blazor ([Demo](https://chanan.github.io/BlazorStrap/)).
 
 ### Individual components / Modal, Toast & Notifications
 
-*   [Blazored.Toast (⭐488)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
+*   [Blazored.Toast (⭐498)](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square\&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
 
 ### Individual components / Others
 
-*   [Blazored.Typeahead (⭐359)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
-*   [TwitterShareButton (⭐3)](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.TwitterShareButton?style=flat-square\&cacheSeconds=86400) A Tweet Button component for Blazor.
-*   [Blazor.LoadingIndicator (⭐76)](https://github.com/h3x4d3c1m4l/Blazor.LoadingIndicator) - ![last commit](https://img.shields.io/github/last-commit/h3x4d3c1m4l/Blazor.LoadingIndicator?style=flat-square\&cacheSeconds=86400) Simple to use loading indicator helper library.
-*   [BlazorTypography (⭐14)](https://github.com/chanan/BlazorTypography) - ![last commit](https://img.shields.io/github/last-commit/chanan/BlazorTypography?style=flat-square\&cacheSeconds=86400) A powerful toolkit for building websites with beautiful design ([Demo](https://chanan.github.io/BlazorTypography/)).
-*   [Razor.SweetAlert2 (⭐120)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
+*   [Blazored.Typeahead (⭐372)](https://github.com/Blazored/Typeahead) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Typeahead?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Typeahead?style=flat-square\&cacheSeconds=86400) Auto-complete textbox with local and remote data source, for both Client-side and Server-Side Blazor.
+*   [Razor.SweetAlert2 (⭐125)](https://github.com/Basaingeal/Razor.SweetAlert2) - ![last commit](https://img.shields.io/github/last-commit/Basaingeal/Razor.SweetAlert2?style=flat-square\&cacheSeconds=86400) Blazor component implementing the popular SweetAlert2 JavaScript Library.
 
 ### Tools & Utilities / Others
 
-*   [SignalR (⭐207)](https://github.com/BlazorExtensions/SignalR) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/SignalR?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/SignalR?style=flat-square\&cacheSeconds=86400) SignalR Core implementation for Blazor. It uses the JavaScript client.
-*   [Storage (⭐219)](https://github.com/BlazorExtensions/Storage) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Storage?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Storage?style=flat-square\&cacheSeconds=86400) HTML5 Storage API implementation for Microsoft Blazor.
-*   [Blazor.Polyfill (⭐114)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
+*   [Blazor.Polyfill (⭐115)](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square\&cacheSeconds=86400) Polyfills for Blazor (for Internet Explorer 11 support and some other browsers).
 
 ## [39. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -371,9 +365,9 @@
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [RHWSL (⭐99)](https://github.com/yosukes-dev/RHWSL) - Red Hat Universal Base Image as a WSL distro. If you have a Red Hat Subscription, you can register and subscribe the system and use it as RHEL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [FedoraWSL (⭐106)](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [AmazonWSL (⭐86)](https://github.com/yosukes-dev/AmazonWSL) - Amazon Linux as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [RHWSL (⭐101)](https://github.com/yosukes-dev/RHWSL) - Red Hat Universal Base Image as a WSL distro. If you have a Red Hat Subscription, you can register and subscribe the system and use it as RHEL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [FedoraWSL (⭐108)](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [AmazonWSL (⭐88)](https://github.com/yosukes-dev/AmazonWSL) - Amazon Linux as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### WSL Tools / X Servers
 
@@ -396,10 +390,6 @@
 *   [Keycloak Open-Shift integration (⭐18)](https://github.com/keycloak/openshift-integration)
 
 ## [43. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Development / Database
-
-*   [iredis (⭐2.2k)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 
 ### Development / Npm
 
@@ -531,7 +521,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [CoreUI Vue Admin Template (⭐3.1k)](https://github.com/coreui/coreui-free-vue-admin-template) - Open Source Admin Template powered by Vue.js
-*   [Akaunting (⭐5.6k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
+*   [Akaunting (⭐5.8k)](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 
 ### Components & Libraries / Utilities
 
@@ -819,9 +809,9 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
-    (C++, GPL 3, [GitHub (⭐448)](https://github.com/Yixin-Hu/TetWild))
+    (C++, GPL 3, [GitHub (⭐457)](https://github.com/Yixin-Hu/TetWild))
 *   [fTetWild](https://arxiv.org/abs/1908.03581) - Same as TetWild, but faster.
-    (C++, MPL 2, [GitHub (⭐219)](https://github.com/wildmeshing/fTetWild))
+    (C++, MPL 2, [GitHub (⭐234)](https://github.com/wildmeshing/fTetWild))
 
 ### Other libraries and tools / Mesh tools
 
@@ -832,7 +822,7 @@
 
 ### Chart
 
-*   [jscharting-react (⭐11)](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
+*   [jscharting-react (⭐13)](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
 
 ### Props from server / Mouse Events
 
@@ -847,17 +837,17 @@
 
 ### Configuration
 
-*   [toml++ (⭐902)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+*   [toml++ (⭐956)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## [53. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐256)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐261)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ### Logging
 
-*   [Logary (⭐514)](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
+*   [Logary (⭐517)](https://github.com/logary/logary) - Logary is a high performance, multi-target logging, metric, tracing and health-check library for Mono and .NET. .NET's answer to DropWizard. Supports many targets, built for micro-services.
 
 ### Mathematics
 
@@ -865,7 +855,7 @@
 
 ### Misc
 
-*   [FluentValidation (⭐7.7k)](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+*   [FluentValidation (⭐7.8k)](https://github.com/FluentValidation/FluentValidation) - A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 
 ### ORM
 
@@ -877,17 +867,17 @@
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐187)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [enginesound (⭐195)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 *   [Spotify TUI (⭐14k)](https://github.com/Rigellute/spotify-tui) — A Spotify client for the terminal written in Rust. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
-*   [Spotifyd (⭐6.5k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
+*   [Spotifyd (⭐6.6k)](https://github.com/Spotifyd/spotifyd) — An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐304)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
+*   [guoxbin/dtool (⭐311)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐2.9k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
+*   [bheisler/criterion.rs (⭐3k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
 
 ## [55. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -905,7 +895,7 @@
 
 ### Libraries / Command line interface (CLI) / Terminal / Shell
 
-*   [lol (⭐14)](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
+*   [lol (⭐15)](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
 
 ## [58. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -931,7 +921,7 @@
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐85)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Formalised Undecidable Problems (⭐88)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
 *   [Regular Language Representations (⭐29)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Package and Build Management
@@ -944,7 +934,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Infotheo (⭐56)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
+*   [Infotheo (⭐59)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
 
 ### Resources / Books
 
@@ -952,7 +942,7 @@
 
 ### Resources / Tutorials and Hints
 
-*   [Coq'Art Exercises and Tutorials (⭐71)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
+*   [Coq'Art Exercises and Tutorials (⭐75)](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book, including additional tutorials.
 
 ## [61. Guides](/content/NARKOZ/guides/week/README.md)
 

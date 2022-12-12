@@ -48,7 +48,7 @@
 
 ### AI
 
-*   [CoreML-Models (⭐5.5k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+*   [CoreML-Models (⭐5.6k)](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 
 ### Concurrency
 
@@ -56,7 +56,7 @@
 
 ### Network / Barcode
 
-*   [NetClient (⭐123)](https://github.com/intelygenz/NetClient-iOS) - Versatile HTTP networking library.
+*   [NetClient (⭐124)](https://github.com/intelygenz/NetClient-iOS) - Versatile HTTP networking library.
 
 ### UITableView / Barcode
 

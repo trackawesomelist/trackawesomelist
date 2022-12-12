@@ -245,6 +245,7 @@ You can find them listed on the [Neovim wiki (⭐60k)](https://github.com/neovim
 
 ### Marks
 
+*   [cbochs/grapple.nvim (⭐83)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 *   [chentoast/marks.nvim (⭐432)](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 *   [ThePrimeagen/harpoon (⭐1.5k)](https://github.com/ThePrimeagen/harpoon) - A per project, auto updating and editable marks utility for fast file navigation.
 *   [ofirgall/open.nvim (⭐15)](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthand for example.

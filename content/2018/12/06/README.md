@@ -72,7 +72,7 @@
 
 *   [Angular Elements Overview](https://angular.io/guide/elements)
 
-### Vue
+### History / 2018
 
 *   [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 

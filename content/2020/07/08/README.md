@@ -60,7 +60,7 @@
 ### Computer Vision
 
 *   [EasyOCR (⭐16k)](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported.
-*   [Kornia (⭐7.3k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
+*   [Kornia (⭐7.5k)](https://github.com/kornia/kornia/) - Open Source Differentiable Computer Vision Library for PyTorch.
 *   [pytesseract (⭐4.5k)](https://github.com/madmaze/pytesseract) - A wrapper for [Google Tesseract OCR](https://github.com/tesseract-ocr).
 
 ## [9. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
@@ -94,7 +94,7 @@
 
 ### Component Libraries
 
-*   [Ketch.UP (⭐8)](https://github.com/smeup/ketchup) - Web components library for Sme.UP.
+*   [Ketch.UP (⭐9)](https://github.com/smeup/ketchup) - Web components library for Sme.UP.
 
 ### Design Systems
 

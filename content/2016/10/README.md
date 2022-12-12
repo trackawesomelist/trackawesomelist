@@ -337,7 +337,7 @@
 
 ### Boilerplates / Outdated Boilerplates
 
-*   [elm-webpack-starter (⭐871)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+*   [elm-webpack-starter (⭐870)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 
 ## [20. Tips](/content/git-tips/tips/week/README.md)
 
@@ -366,9 +366,9 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐335)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-debian (⭐339)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
 *   [electron-installer-redhat (⭐74)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐455)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-windows (⭐457)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [23. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
@@ -599,11 +599,11 @@ Webpage: <http://www.tosci.com/>
 
 ### Email
 
-*   [gmail (⭐46)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
+*   [gmail (⭐47)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
 
 ### Framework Components
 
-*   [scrivener\_headers (⭐46)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
+*   [scrivener\_headers (⭐47)](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
 *   [scrivener\_html (⭐118)](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
 
 ### HTTP
@@ -616,7 +616,7 @@ Webpage: <http://www.tosci.com/>
 
 ### ORM and Datamapping
 
-*   [neo4j\_sips (⭐80)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
+*   [neo4j\_sips (⭐79)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
 *   [neo4j\_sips\_models (⭐5)](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 
 ### Third Party APIs

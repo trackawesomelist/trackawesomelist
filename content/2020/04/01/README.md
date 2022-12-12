@@ -50,7 +50,7 @@
 
 ### Core Data
 
-*   [CloudCore (⭐117)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
+*   [CloudCore (⭐122)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -124,7 +124,7 @@
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐303)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐306)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ---
 

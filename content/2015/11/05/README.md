@@ -52,7 +52,7 @@
 
 ### Packages / Mad science
 
-*   [ipfs (⭐7.1k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+*   [ipfs (⭐7.2k)](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 
 ### Packages / Command-line utilities
 
@@ -60,7 +60,7 @@
 
 ### Packages / Streams
 
-*   [readable-stream (⭐951)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
+*   [readable-stream (⭐965)](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 
 ### Packages / Real-time
 
@@ -80,11 +80,11 @@
 
 ### Packages / Testing
 
-*   [Sinon.JS (⭐9.1k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
+*   [Sinon.JS (⭐9.2k)](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 
 ### Packages / Minifiers
 
-*   [minimize (⭐158)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [minimize (⭐160)](https://github.com/Swaagie/minimize) - HTML minifier.
 *   [imagemin (⭐5.2k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
@@ -93,7 +93,7 @@
 
 ### Packages / Process management
 
-*   [supervisor (⭐3.7k)](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
+*   [supervisor (⭐3.8k)](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 
 ### Resources / Articles
 

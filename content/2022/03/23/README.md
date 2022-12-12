@@ -36,7 +36,7 @@
 
 ### Bit Sets
 
-*   [bitset (⭐984)](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
+*   [bitset (⭐1k)](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
 
 ### Bloom and Cuckoo Filters
 
@@ -96,7 +96,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-icons (⭐5)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+*   [vue-icons (⭐16)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 ## [12. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Status Bar
 
-*   [tmux-packet-loss (⭐6)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
+*   [tmux-packet-loss (⭐7)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Miscellaneous / React
 
-*   [supertest-graphql (⭐17)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐12k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
+*   [supertest-graphql (⭐20)](https://github.com/alexstrat/supertest-graphql) - Extends [supertest (⭐13k)](https://github.com/visionmedia/supertest) to easily test a GraphQL endpoint
 
 ## [16. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 30, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,35 +12,42 @@
 
 *   [aws-dynamodb-examples :fire::fire: (⭐439)](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
 
-## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [2. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+
+### Products / Other
+
+*   [Presentations.ai](https://presentations.ai) Visually stunning presentations
+    that you can design instantly
+
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [oruga (⭐862)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
+*   [oruga (⭐881)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-styled-shadows (⭐7)](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 
-## [3. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [4. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Official
 
 *   [Apphud (⭐138)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
-## [4. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [5. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Tools / App Vulnerability Scanners
 
 *   ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
 
-## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [6. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [GitHub Action Locks (⭐15)](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -56,7 +63,7 @@
 
 
 
-## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### an IMAGE to explain what RSS is
 
@@ -141,13 +148,13 @@
 
 *   [分享你人为值得订阅的内容 by Notion中文社区](https://www.notion.so/cnotion/Notion-Vol-13-89e51bdb621a4e009e7ec60d1cc58c2f)
 
-## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Apps
 
 *   [Slow TV Map](https://slowtvmap.com) - A fun way to discover relaxing virtual experiences. Next.js + Chakra UI + MySQL hosted on Vercel.
 
-## [9. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [10. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Tutorials
 
@@ -158,13 +165,13 @@
 *   [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - Speed up Ansible substantially with Mitogen.
 *   [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
 
-## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [11. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Visual programming
 
 *   [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 
-## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -177,7 +184,7 @@
 
 *   [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology, programming languages, conferences, Linux, Unix, iOS, MacOS, Python, Ruby, Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Email
 

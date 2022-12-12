@@ -14,11 +14,11 @@
 
 ### Images / Barcode
 
-*   [PassportScanner (⭐438)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
+*   [PassportScanner (⭐441)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
 
 ### UI / Barcode
 
-*   [KDInteractiveNavigationController (⭐153)](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
+*   [KDInteractiveNavigationController (⭐154)](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
 
 ## [2. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

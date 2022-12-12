@@ -30,7 +30,7 @@
 
 ### Database Drivers
 
-*   [ruby-pg (⭐630)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
+*   [ruby-pg (⭐642)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
 
 ### Robotics
 
@@ -86,7 +86,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@kouts/vue-modal (⭐94)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
+*   [@kouts/vue-modal (⭐96)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
 
 ## [7. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 

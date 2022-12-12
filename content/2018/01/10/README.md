@@ -39,7 +39,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-ip (⭐25)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
+*   [vue-ip (⭐24)](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -95,7 +95,7 @@
 
 ### HTTP
 
-*   [gun (⭐812)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐818)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Boilerplates / Outdated Boilerplates
 
-*   [elm-webpack-starter (⭐871)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+*   [elm-webpack-starter (⭐870)](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 
 ## [3. Tips](/content/git-tips/tips/README.md)
 
@@ -34,7 +34,7 @@ git config --global rerere.enabled 1
 
 ### ORM and Datamapping
 
-*   [neo4j\_sips (⭐80)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
+*   [neo4j\_sips (⭐79)](https://github.com/florinpatrascu/neo4j_sips) - Neo4j driver for Elixir.
 *   [neo4j\_sips\_models (⭐5)](https://github.com/florinpatrascu/neo4j_sips_models) - Minimalistic Model support for the Neo4j.Sips Elixir driver.
 
 ## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
@@ -51,9 +51,9 @@ git config --global rerere.enabled 1
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐335)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-debian (⭐339)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
 *   [electron-installer-redhat (⭐74)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐455)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-windows (⭐457)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

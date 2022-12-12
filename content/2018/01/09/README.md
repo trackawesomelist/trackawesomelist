@@ -40,17 +40,17 @@
 
 ### Artificial Intelligence
 
-*   [frugally-deep (⭐905)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
+*   [frugally-deep (⭐920)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 
 ### Cryptography
 
-*   [Tiny AES in C (⭐3.3k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
+*   [Tiny AES in C (⭐3.4k)](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C. \[PublicDomain]
 
 ## [3. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Command Line Applications
 
-*   [ex\_prompt (⭐27)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
+*   [ex\_prompt (⭐29)](https://github.com/behind-design/ex_prompt) - Helper package to add interactivity to your command line applications as easy as possible.
 
 ### Cryptography
 
@@ -58,7 +58,7 @@
 
 ### Debugging
 
-*   [rexbug (⭐217)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
+*   [rexbug (⭐218)](https://github.com/nietaki/rexbug) - An Elixir wrapper for the `redbug` production-friendly Erlang tracing debugger.
 
 ### Deployment
 
@@ -66,11 +66,11 @@
 
 ### Framework Components
 
-*   [plug\_checkup (⭐69)](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
+*   [plug\_checkup (⭐70)](https://github.com/ggpasqualino/plug_checkup) - Plug for adding simple health checks to your app.
 
 ### Miscellaneous
 
-*   [licensir (⭐72)](https://github.com/unnawut/licensir) - A mix task that lists the license(s) of all installed packages in your project.
+*   [licensir (⭐73)](https://github.com/unnawut/licensir) - A mix task that lists the license(s) of all installed packages in your project.
 
 ### Networking
 
@@ -78,7 +78,7 @@
 
 ### Templating
 
-*   [calliope (⭐188)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
+*   [calliope (⭐189)](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
 *   [slime (⭐344)](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 
 ### Text and Numbers
@@ -87,7 +87,7 @@
 
 ### Third Party APIs
 
-*   [gringotts (⭐434)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
+*   [gringotts (⭐437)](https://github.com/aviabird/gringotts) - A complete payment library for Elixir and Phoenix Framework similar to [ActiveMerchant (⭐4.5k)](https://github.com/activemerchant/active_merchant) from the Ruby world.
 
 ### Books
 
@@ -95,7 +95,7 @@
 
 ### Editors
 
-*   [vim-mix-format (⭐216)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
+*   [vim-mix-format (⭐215)](https://github.com/mhinz/vim-mix-format) - Async `mix format` for Vim and Neovim.
 
 ### Screencasts
 

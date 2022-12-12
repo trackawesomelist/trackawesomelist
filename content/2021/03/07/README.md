@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,28 +45,22 @@
 
 ### Libraries
 
-*   [RLax (⭐921)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
+*   [RLax (⭐936)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 
-## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
-
-### Java / Angular
-
-*   [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/). Keep up-to-date with the main developments in the Java world through this weekly guide.
-
-## [7. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [6. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Books / TikZ
 
 *   [TeX by Topic (2007)](https://ctan.org/pkg/texbytopic)
 *   [TeX for the Impatient (2020)](https://ctan.org/pkg/impatient)
 
-## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [7. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Competitive Analysis / GDPR
 
-*   [Google Cloud Developer's Cheat Sheet (⭐7k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+*   [Google Cloud Developer's Cheat Sheet (⭐7.1k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
-## [9. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
+## [8. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/README.md)
 
 ### Articles and Talks
 
@@ -133,7 +127,7 @@
 *   [Gatsby Starter - WordPress Twenty Twenty (⭐142)](https://github.com/henrikwirth/gatsby-starter-wordpress-twenty-twenty) - A port of the WordPress Twenty Twenty theme to Gatsby using the new gatsby-source-wordpress\@v4.
 *   [Gatsby Starter Blog (⭐7)](https://github.com/zeevo/gatsby-starter-wordpress-blog) - Blog starter with enough features to be production ready out of the box.
 
-## [10. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [9. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### General Purpose
 
@@ -151,13 +145,13 @@
     [Repo (⭐50k)](https://github.com/semantic-org/semantic-ui)
     \| #LESS
 
-## [11. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Back-End Development
 
-*   [IAM (⭐878)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐947)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
@@ -167,13 +161,13 @@
 
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 
-## [13. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [12. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Yana (⭐179)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [Yana (⭐188)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 
-## [14. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [13. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools
 
@@ -189,19 +183,19 @@
 *   [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
 *   [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.
 
-## [15. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Database
 
 *   Other
     *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
-    *   [Lowdb (⭐18k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-    *   [Keyv (⭐1.9k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
+    *   [Lowdb (⭐19k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+    *   [Keyv (⭐2k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐181)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
-    *   [database-js (⭐55)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐487)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐443)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-    *   [pg-mem (⭐1.1k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+    *   [database-js (⭐57)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+    *   [Mongo Seeding (⭐494)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [@databases (⭐473)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [pg-mem (⭐1.2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ---
 

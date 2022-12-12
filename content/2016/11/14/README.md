@@ -28,7 +28,7 @@
 
 ### Packages / Testing
 
-*   [TestCafe (⭐9.4k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
+*   [TestCafe (⭐9.5k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
 ## [4. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

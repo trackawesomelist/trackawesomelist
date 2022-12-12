@@ -76,7 +76,7 @@
 
 ### Multimedia
 
-*   [TagLib (⭐958)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
+*   [TagLib (⭐971)](https://github.com/taglib/taglib) - A library for reading and editing the metadata of several popular audio formats. \[LGPL/MPL] [website](https://taglib.org/)
 
 ## [10. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Official Documentation Translations
 
-*   [ast\_helper (⭐26)](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
+*   [ast\_helper (⭐27)](https://github.com/bcardiff/crystal-ast-helper) - Helper tool to debug parser and formatter
 
 ## [13. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

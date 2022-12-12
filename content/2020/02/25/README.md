@@ -10,8 +10,8 @@
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [FedoraWSL (⭐106)](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [AmazonWSL (⭐86)](https://github.com/yosukes-dev/AmazonWSL) - Amazon Linux as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [FedoraWSL (⭐108)](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [AmazonWSL (⭐88)](https://github.com/yosukes-dev/AmazonWSL) - Amazon Linux as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -412,9 +412,9 @@
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
-    (C++, GPL 3, [GitHub (⭐448)](https://github.com/Yixin-Hu/TetWild))
+    (C++, GPL 3, [GitHub (⭐457)](https://github.com/Yixin-Hu/TetWild))
 *   [fTetWild](https://arxiv.org/abs/1908.03581) - Same as TetWild, but faster.
-    (C++, MPL 2, [GitHub (⭐219)](https://github.com/wildmeshing/fTetWild))
+    (C++, MPL 2, [GitHub (⭐234)](https://github.com/wildmeshing/fTetWild))
 
 ### Other libraries and tools / Mesh tools
 
@@ -436,13 +436,13 @@
 
 ### Configuration
 
-*   [toml++ (⭐902)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
+*   [toml++ (⭐956)](https://github.com/marzer/tomlplusplus) - Header-only TOML parser and serializer for C++17 and later. \[MIT] [website](https://marzer.github.io/tomlplusplus/)
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
-*   [ASP.NET SAML (⭐256)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+*   [ASP.NET SAML (⭐261)](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
 
 ---
 

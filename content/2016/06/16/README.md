@@ -24,7 +24,7 @@
 
 ### Open Source / Other
 
-*   [YakYak (⭐3.9k)](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
+*   [YakYak (⭐3.8k)](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
 
 ## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

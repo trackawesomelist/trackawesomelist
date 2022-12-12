@@ -103,7 +103,7 @@ $ git config --global merge.tool meld
 
 ### Testing
 
-*   [double (⭐43)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
+*   [double (⭐44)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
 
 ### Utilities
 

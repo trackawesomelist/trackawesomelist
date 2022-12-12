@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 20, 2017
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -57,12 +57,6 @@
 ### Open Source Repos / SQS
 
 *   [phstc/shoryuken :fire::fire::fire::fire: (⭐1.9k)](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
-
-## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### DevOps
-
-*   [Jobs For DevOps](https://jobsfordevops.com)
 
 ---
 

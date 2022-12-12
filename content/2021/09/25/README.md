@@ -58,7 +58,7 @@
 
 ### Tools
 
-*   [Pi-Apps (⭐1k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
+*   [Pi-Apps (⭐1.1k)](https://github.com/Botspot/pi-apps) - The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

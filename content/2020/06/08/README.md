@@ -67,7 +67,7 @@
 
 ### Layout / Barcode
 
-*   [Grid (⭐1.1k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+*   [Grid (⭐1.2k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 
 ### Keyboard / Barcode
 
@@ -77,12 +77,12 @@
 
 ### Plugins / Misc
 
-*   [Only-Error (⭐9)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐115)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Error (⭐11)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
+*   [Only-Warn (⭐122)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐774)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐798)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [11. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -127,7 +127,7 @@
 
 ### Bindings
 
-*   [vulkan (⭐119)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
+*   [vulkan (⭐121)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -318,7 +318,7 @@
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐40)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐44)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 
 ## [22. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

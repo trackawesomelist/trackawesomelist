@@ -62,7 +62,7 @@
 
 ### Tools
 
-*   [shadow-automation-selenium (⭐81)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
+*   [shadow-automation-selenium (⭐84)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 
 ## [8. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Libraries / Telegram
 
-*   [vgram (⭐118)](https://github.com/dariotarantini/vgram) - Telegram bot library.
+*   [vgram (⭐122)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

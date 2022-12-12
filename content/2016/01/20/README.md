@@ -56,7 +56,7 @@
 
 ### Use The Source / HTML+CSS+JS
 
-*   [Beckpoke.js (⭐4.6k)](https://github.com/bespokejs/bespoke)
+*   [Beckpoke.js (⭐4.7k)](https://github.com/bespokejs/bespoke)
 
 ### Softwares / HTML+CSS+JS
 
@@ -70,7 +70,7 @@
 
 ### Terminal / HTML+CSS+JS
 
-*   [fuck (⭐365)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+*   [fuck (⭐366)](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ## [5. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
@@ -410,14 +410,14 @@
 
 ### Courses / Security
 
-*   [CSCI 4968 (⭐4.9k)](https://github.com/RPISEC/MBE) **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+*   [CSCI 4968 (⭐5k)](https://github.com/RPISEC/MBE) **Modern Binary Exploitation** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
     *   This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
         teach Modern Binary Exploitation at [Rensselaer Polytechnic Institute](http://rpi.edu) in
         Spring 2015. This was a university course developed and run solely by students to teach
         skills in vulnerability research, reverse engineering, and binary exploitation.
     *   [Lectures Notes](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/)
-    *   [Labs (⭐4.9k)](https://github.com/RPISEC/MBE/tree/master/src)
-    *   [Projects (⭐4.9k)](https://github.com/RPISEC/MBE/tree/master/src)
+    *   [Labs (⭐5k)](https://github.com/RPISEC/MBE/tree/master/src)
+    *   [Projects (⭐5k)](https://github.com/RPISEC/MBE/tree/master/src)
 
 ## [29. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

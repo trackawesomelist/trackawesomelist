@@ -10,7 +10,7 @@
 
 ### Front-End Development
 
-*   [Inertia.js (⭐183)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+*   [Inertia.js (⭐190)](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 
 ## [2. Awesome Slack](/content/filipelinhares/awesome-slack/README.md)
 
@@ -23,9 +23,9 @@
 ### Resources / Examples
 
 *   💜 [Ping CRM / Laravel (⭐1.7k)](https://github.com/inertiajs/pingcrm/) - Demonstration application made with Laravel and Vue.js.
-*   💜 [Ping CRM / Svelte (⭐135)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
-*   [Ping CRM / Django (⭐38)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
-*   [Ping CRM / React (⭐381)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+*   💜 [Ping CRM / Svelte (⭐140)](https://github.com/inertiajs/pingcrm-svelte) - Demonstration application made with Laravel and Svelte.
+*   [Ping CRM / Django (⭐39)](https://github.com/zodman/django-inertia-demo) - Demonstration application made with Django and Vue.js.
+*   [Ping CRM / React (⭐395)](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 
 ### Resources / Other
 
@@ -35,7 +35,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [Jupyter Book (⭐3.1k)](https://github.com/executablebooks/jupyter-book) - Build publication-quality books and documents from computational material.
+*   [Jupyter Book (⭐3.2k)](https://github.com/executablebooks/jupyter-book) - Build publication-quality books and documents from computational material.
 
 ### Domain-Specific Projects
 
@@ -43,9 +43,9 @@
 
 ## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Editing support / Diagnostics
+### Editing Support / Diagnostics
 
-*   [folke/zen-mode.nvim (⭐574)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding for Neovim.
+*   [folke/zen-mode.nvim (⭐634)](https://github.com/folke/zen-mode.nvim) - Distraction-free coding.
 
 ## [6. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

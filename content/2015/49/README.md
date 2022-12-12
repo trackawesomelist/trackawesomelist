@@ -75,7 +75,7 @@
 
 ### Testing / Barcode
 
-*   [Erik (⭐532)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
+*   [Erik (⭐543)](https://github.com/phimage/Erik) - An headless browser to access and manipulate webpages using javascript allowing to run functional tests.
 
 ## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Music Notation
 
-*   [Ripple (⭐25)](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
+*   [Ripple (⭐26)](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 
 ## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -316,11 +316,11 @@
 
 ### Application Frameworks
 
-*   [peasy (⭐474)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
+*   [peasy (⭐475)](https://github.com/peasy/Peasy.NET) - Peasy is a middle tier framework that offers an easy to use and flexible rules engine and was designed to address common challenges such as concurrency handling, transactional support, fault tolerance, threading, scalability, async and multiple client support, and easy testability, all without a huge learning curve!
 
 ### Database Drivers
 
-*   [RethinkDb.Driver (⭐373)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
+*   [RethinkDb.Driver (⭐372)](https://github.com/bchavez/RethinkDb.Driver/) - A RethinkDB database driver in C# striving for 100% ReQL API compatibility and completeness.
 
 ### IoC
 
@@ -328,7 +328,7 @@
 
 ### ORM
 
-*   [ServiceStack.OrmLite (⭐1.5k)](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM **\[[Free for OSS (⭐1.5k)](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **\[$]**
+*   [ServiceStack.OrmLite (⭐1.6k)](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM **\[[Free for OSS (⭐1.6k)](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **\[$]**
 
 ### Serialization
 
@@ -336,12 +336,12 @@
 
 ### Testing
 
-*   [Bogus (⭐6.3k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
+*   [Bogus (⭐6.5k)](https://github.com/bchavez/Bogus) - A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.
 *   [FsCheck (⭐1k)](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ### Source Generator
 
-*   [C# Algorithms, Data Structures (⭐5.1k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+*   [C# Algorithms, Data Structures (⭐5.2k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
 ## [35. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
@@ -369,7 +369,7 @@
 
 ### Database
 
-*   [LMDB++ (⭐257)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
+*   [LMDB++ (⭐263)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
 ## [38. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

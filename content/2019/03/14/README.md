@@ -48,18 +48,18 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐458)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐466)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ### Components & Libraries / Utilities
 
-*   [vue-direction (⭐36)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
-*   [vue-unique-id (⭐48)](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
+*   [vue-direction (⭐35)](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
+*   [vue-unique-id (⭐47)](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [Restinio (⭐895)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
+*   [Restinio (⭐916)](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. \[BSD]
 
 ### Podcasts
 
@@ -67,7 +67,7 @@
 
 ### Other Awesome Projects
 
-*   [30 Seconds of C++ (⭐1.2k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
+*   [30 Seconds of C++ (⭐1.3k)](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 ---
 

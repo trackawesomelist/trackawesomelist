@@ -10,7 +10,7 @@
 
 ### Downloader
 
-*   [s3cmd (⭐4k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+*   [s3cmd (⭐4.1k)](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -62,10 +62,10 @@
 
 ### Other Awesome Projects
 
-*   [algorithms (⭐4.6k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
-*   [c-algorithms (⭐2.8k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [papers-we-love (⭐65k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [algorithms (⭐4.7k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
+*   [c-algorithms (⭐2.9k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
+*   [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
+*   [papers-we-love (⭐66k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -85,11 +85,11 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐312)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐318)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [sentiment\_classifier (⭐172)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
+*   [sentiment\_classifier (⭐171)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
 *   [jProcessing (⭐142)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
 
 ## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)

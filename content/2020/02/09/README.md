@@ -47,9 +47,9 @@
 
 ### Templates
 
-*   [Create Yew App (⭐130)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
+*   [Create Yew App (⭐134)](https://github.com/jetli/create-yew-app) - Set up a modern Yew web app by running one command, `npx create-yew-app my-app`.
 
-### Books / Wasm
+### Books / Frameworks
 
 *   [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - How to build and work with rust-generated WebAssembly.
 
@@ -57,7 +57,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Snapcast (⭐4.7k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
+*   [Snapcast (⭐4.8k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`
 
 ## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -74,9 +74,9 @@
 
 ### Subtitles and Captions / Web
 
-*   [glut23/webvtt-py (⭐125)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
+*   [glut23/webvtt-py (⭐126)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
 *   [opencoconut/webvtt-ruby (⭐53)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
-*   [osk/node-webvtt (⭐74)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
+*   [osk/node-webvtt (⭐75)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
 
 ### HDR10, HLG, Dolby Vision / Slack Groups
 

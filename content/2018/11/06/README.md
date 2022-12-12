@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2018
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,19 +28,33 @@
 
 *   [Nosqlclient (⭐3.4k)](https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (formerly Mongoclient)
 
-## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Elm
+
+*   [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
+*   [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
+*   [Learn You an Elm](https://learnyouanelm.github.io) (HTML)
+
+## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
 *   [Less Risk Through Greater Humanity - Dave Rensin](https://www.youtube.com/watch?v=0zqBlRW_6jA)
 
-## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [6. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Related projects
 
 *   [Operiant](https://operiant.com) - Connect your event streams to actions.
 
-## [6. Awesome R](/content/qinwf/awesome-R/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+
+### Business Intelligence
+
+*   [FastReport (⭐2.1k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in ASP.NET MVC, Web API applications.
+
+## [8. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Integrated Development Environments
 
@@ -71,11 +85,7 @@
 
 *   [odbc (⭐331)](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
-
-### Frameworks, Libraries and Tools / Reporting
-
-*   [FastReport (⭐2k)](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in MVC, Web API applications.
+## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -102,7 +112,7 @@
 
 *   [Rin (⭐316)](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core. like Glimpse.
 
-## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 

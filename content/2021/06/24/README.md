@@ -10,7 +10,7 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [AWS Incident Response Runbook Samples (⭐657)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
+*   [AWS Incident Response Runbook Samples (⭐661)](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -29,10 +29,6 @@
 
 ## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
-### Resources / Documentation
-
-*   [MongoDB developer blog](https://developer.mongodb.com/learn/)
-
 ### Libraries / Rust
 
 *   [mongodb-rust-driver (⭐1.1k)](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
@@ -46,19 +42,19 @@
 
 ### Math
 
-*   [CXXGraph (⭐172)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
+*   [CXXGraph (⭐182)](https://github.com/ZigRazor/CXXGraph) - free C++(17) graph header-only library for representation and algorithms execution. \[AGPL-3.0]
 
 ## [5. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### validation
 
-*   [gjf (⭐90)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
+*   [gjf (⭐91)](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Integrations
 
-*   [vue-tweet (⭐23)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
+*   [vue-tweet (⭐25)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -70,7 +66,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [gaia (⭐578)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
+*   [gaia (⭐597)](https://github.com/gaia-app/gaia) - A web application to import and run your Terraform modules.
 
 ## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

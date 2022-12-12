@@ -147,7 +147,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Tools / Playground
 
-*   [typed-install (⭐98)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
+*   [typed-install (⭐96)](https://github.com/xavdid/typed-install) - Easily install new dependencies and their typings, no matter where they may be
 
 ## [14. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -215,7 +215,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Network / Barcode
 
-*   [Dots (⭐35)](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
+*   [Dots (⭐37)](https://github.com/iAmrSalman/Dots) - Lightweight Concurrent Networking Framework.
 
 ### Menu / Barcode
 
@@ -340,7 +340,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Plugins
 
-*   [tmux-1password (⭐213)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+*   [tmux-1password (⭐214)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
 ## [30. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -357,12 +357,12 @@ Naver Map: <http://naver.me/FjThMRso>
 ### Projects Using Vue.js / Open Source
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐326)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐331)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ### Components & Libraries / UI Components
 
 *   [v-dialogs (⭐126)](https://github.com/TerryZ/v-dialogs) - A simple and powerful dialog, including Modal, Alert, Mask and Toast modes, based on Vue2.x
-*   [label-edit (⭐22)](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
+*   [label-edit (⭐21)](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 
 ## [32. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -410,7 +410,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Game Engine
 
-*   [EnTT (⭐7.3k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐7.5k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ### Machine Learning
 
@@ -418,7 +418,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Networking
 
-*   [ENet (⭐2.2k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
+*   [ENet (⭐2.3k)](https://github.com/lsalzman/enet) - Reliable UDP networking library. \[MIT] [website](http://enet.bespin.org/)
 
 ## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 

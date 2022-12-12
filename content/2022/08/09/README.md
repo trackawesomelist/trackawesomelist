@@ -140,7 +140,7 @@
 
 ### Development / Python
 
-*   [smart-asa (⭐22)](https://github.com/algorandlabs/smart-asa) - Smart ASA PyTeal reference implementation based on ARC-20.
+*   [smart-asa (⭐23)](https://github.com/algorandlabs/smart-asa) - Smart ASA PyTeal reference implementation based on ARC-20.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -173,13 +173,13 @@
 ### Libraries / Network programming
 
 *   Raknet
-    *   [b23r0/rust-raknet (⭐150)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation by Rust [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
+    *   [b23r0/rust-raknet (⭐153)](https://github.com/b23r0/rust-raknet) — RakNet Protocol implementation by Rust [![Build Status](https://img.shields.io/github/workflow/status/b23r0/rust-raknet/Rust)](https://github.com/b23r0/rust-raknet/actions/workflows/rust.yml)
 
 ## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 
-*   [jwave (⭐33)](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
+*   [jwave (⭐40)](https://github.com/ucl-bug/jwave) - A library for differentiable acoustic simulations <img src="https://img.shields.io/github/stars/ucl-bug/jwave?style=social" align="center">
 
 ## [8. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 
@@ -191,24 +191,24 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [shaunsingh/moonlight.nvim (⭐121)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme for Neovim, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
-*   [rebelot/kanagawa.nvim (⭐1.5k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [shaunsingh/moonlight.nvim (⭐127)](https://github.com/shaunsingh/moonlight.nvim) - Port of VSCode's Moonlight colorscheme, written in Lua with built-in support for native LSP, Tree-sitter and many more plugins.
+*   [rebelot/kanagawa.nvim (⭐1.6k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ### Utility / Diagnostics
 
-*   [rcarriga/nvim-notify (⭐1.6k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for Neovim.
+*   [rcarriga/nvim-notify (⭐1.7k)](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager.
 
-### Editing support / Diagnostics
+### Editing Support / Diagnostics
 
-*   [Pocco81/TrueZen.nvim (⭐647)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing for Neovim.
-*   [Pocco81/HighStr.nvim (⭐192)](https://github.com/Pocco81/HighStr.nvim) - A Neovim plugin for highlighting visual selections like in a normal document editor!
-*   [Pocco81/AutoSave.nvim (⭐296)](https://github.com/Pocco81/AutoSave.nvim) - A Neovim plugin for saving your work before the world collapses or you type :qa!
+*   [Pocco81/TrueZen.nvim (⭐685)](https://github.com/Pocco81/TrueZen.nvim) - Clean and elegant distraction-free writing.
+*   [Pocco81/HighStr.nvim (⭐214)](https://github.com/Pocco81/HighStr.nvim) - Highlight visual selections like in a normal document editor!
+*   [Pocco81/AutoSave.nvim (⭐327)](https://github.com/Pocco81/AutoSave.nvim) - Save your work before the world collapses or you type :qa!
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [Abstract-IDE/Abstract (⭐113)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
-*   [vi-tality/neovitality (⭐49)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
-*   [cstsunfu/.sea.nvim (⭐85)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
+*   [Abstract-IDE/Abstract (⭐128)](https://github.com/Abstract-IDE/Abstract) - Abstract, The Neovim configuration to achieve the power of Modern IDE.
+*   [vi-tality/neovitality (⭐51)](https://github.com/vi-tality/neovitality) - A full-featured Neovim distribution, packaged with Nix Flake for easy installation and reproducibility.
+*   [cstsunfu/.sea.nvim (⭐91)](https://github.com/cstsunfu/.sea.nvim) - A modular Neovim configuration with beautiful UI and some useful features(Pomodoro Clock, Window Number).
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -224,12 +224,12 @@
 
 ### Open Source / Featured
 
-*   [Hyper (⭐39k)](https://github.com/zeit/hyper) - Terminal.
+*   [Hyper (⭐40k)](https://github.com/zeit/hyper) - Terminal.
 
 ### Open Source / Other
 
 *   [Kap (⭐16k)](https://github.com/wulkano/kap) - Screen recorder with GIF support.
-*   [Beaker (⭐6.6k)](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
+*   [Beaker (⭐6.7k)](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
 *   [SpaceRadar (⭐1.3k)](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
 
 ### Closed Source / Featured

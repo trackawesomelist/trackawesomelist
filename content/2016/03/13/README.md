@@ -92,7 +92,7 @@
 
 ### Email
 
-*   [gmail (⭐46)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
+*   [gmail (⭐47)](https://github.com/craigp/elixir-gmail) - A simple Gmail REST API client for Elixir.
 
 ### Logging
 

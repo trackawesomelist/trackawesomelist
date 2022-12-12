@@ -33,7 +33,7 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-summernote (⭐920)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-summernote (⭐928)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ## [3. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Software / Automation
 
-*   [MeTube (⭐1.1k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐1.2k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ## [5. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -134,16 +134,16 @@
 
 ### I18N (Internationalisation)
 
-*   [Fluent (⭐93)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
+*   [Fluent (⭐92)](https://github.com/tractorcow-farm/silverstripe-fluent) - Multi-language translate module for Silverstripe, without having to manage separate site trees.
 *   [Autotranslate (⭐4)](https://github.com/bratiask/silverstripe-autotranslate) -  Creates automatic translations of fields using Google Translate API.
 
 ### Development Helpers
 
-*   [Debugbar (⭐50)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
-*   [IdeAnnotator (⭐42)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
+*   [Debugbar (⭐51)](https://github.com/lekoala/silverstripe-debugbar/) -  Shows debugging statistics in your browser.
+*   [IdeAnnotator (⭐43)](https://github.com/silverleague/silverstripe-ideannotator) -  Auto-generates class annotations on dev/build.
 *   [Populate (⭐22)](https://github.com/dnadesign/silverstripe-populate) -  Populate your database through YAML files.
 *   [Mock DataObjects (⭐18)](https://github.com/unclecheese/silverstripe-mock-dataobjects) -  Allows DataObjects to self-populate intelligently with fake data.
-*   [Version Truncator (⭐36)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
+*   [Version Truncator (⭐35)](https://github.com/axllent/silverstripe-version-truncator) - Automatically delete old SiteTree page versions.
 *   [UserSwitcher (⭐15)](https://github.com/sheadawson/silverstripe-userswitcher) - Adds a small form both in the frontend and backend to quickly login as any user.
 *   [Masquerade (⭐14)](https://github.com/dhensby/silverstripe-masquerade) -  Allows an Administrator to "login" as another "Member". This can be useful for debugging and remote support.
 
@@ -170,7 +170,7 @@
 
 ### C, C++
 
-*   [with-c-syntax (⭐113)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
+*   [with-c-syntax (⭐114)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 
 ### Function extensions
 
@@ -214,12 +214,12 @@
 
 ### Quantification / Clustering
 
-*   **[Cufflinks (⭐267)](https://github.com/cole-trapnell-lab/cufflinks)** - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. \[ [paper-2010](https://www.nature.com/articles/nbt.1621) ]
-*   **[RSEM (⭐330)](https://github.com/deweylab/RSEM)** - A software package for estimating gene and isoform expression levels from RNA-Seq data. \[ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
+*   **[Cufflinks (⭐268)](https://github.com/cole-trapnell-lab/cufflinks)** - Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. \[ [paper-2010](https://www.nature.com/articles/nbt.1621) ]
+*   **[RSEM (⭐332)](https://github.com/deweylab/RSEM)** - A software package for estimating gene and isoform expression levels from RNA-Seq data. \[ [paper-2011](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323) | [web](http://deweylab.github.io/RSEM/) ]
 
 ### VCF File Utilities / Structural variant callers
 
-*   **[bcftools (⭐484)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
+*   **[bcftools (⭐495)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

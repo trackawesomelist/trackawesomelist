@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 26, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,22 +16,22 @@
 
 ### Automation
 
-*   [Runbook (⭐670)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
+*   [Runbook (⭐676)](https://github.com/braintree/runbook) - A framework and Ruby DSL for progressive system automation.
 
 ### Game Development and Graphics
 
-*   [Mittsu (⭐475)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
+*   [Mittsu (⭐479)](https://github.com/jellymann/mittsu) - Mittsu makes 3D graphics easier by providing an abstraction over OpenGL, and is based heavily off of THREE.js.
 
 ### Machine Learning
 
-*   [TensorFlow (⭐328)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
-*   [Torch.rb (⭐458)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
+*   [TensorFlow (⭐336)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
+*   [Torch.rb (⭐466)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
-*   [Reforms.js (⭐10)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
+*   [Reforms.js (⭐11)](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 
 ## [4. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -57,13 +57,7 @@
 
 *   [just (⭐7.4k)](https://github.com/casey/just) - Modern `make`-like command runner.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [Blazor WebAssembly : Creating Chat Application Using SignalR](https://www.youtube.com/watch?v=5VSUX6w5P8g) - ![duration](https://img.shields.io/badge/Duration:%20-20%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 25, 2021 - Blazor WebAssembly : Creating Chat Application Using SignalR.
-
-## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Authentication and Authorization
 
@@ -79,19 +73,19 @@
 
 ### Security
 
-*   :strawberry: [Recaptcha plugin (⭐20)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
+*   :strawberry: [Recaptcha plugin (⭐21)](https://github.com/ctlabvn/Recaptcha) - Simple, lightweight Google Recaptcha v2.
 
 ### Templating
 
 *   :strawberry: [TwigView plugin (⭐11)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
-## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [App Outlet (⭐309)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
+*   :octocat: [App Outlet (⭐321)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -109,17 +103,17 @@
 
 *   [Elementor](https://elementor.com) — WordPress website builder. Free plan available with 40+ Basic Widgets.
 
-## [12. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
+## [11. Awesome Devenv](/content/jondot/awesome-devenv/README.md)
 
 ### Workflow / Extensions
 
 *   [just](https://github/casey/just) - A task runner for conveniently saving and running project-specific commands. Similar to make, but much nicer
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Editing support / Diagnostics
+### Editing Support / Diagnostics
 
-*   [AckslD/nvim-revJ.lua (⭐103)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
+*   [AckslD/nvim-revJ.lua (⭐104)](https://github.com/AckslD/nvim-revJ.lua) - Neovim Lua plugin for doing the opposite of join-line (J) for arguments.
 
 ---
 

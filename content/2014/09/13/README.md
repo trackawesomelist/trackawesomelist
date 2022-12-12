@@ -16,7 +16,7 @@
 
 ### Packages / Debugging / Profiling
 
-*   [stackman (⭐239)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
+*   [stackman (⭐241)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 ### Packages / Hardware
 

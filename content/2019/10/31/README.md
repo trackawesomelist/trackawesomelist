@@ -34,7 +34,7 @@
 
 ### Backports and improvements
 
-*   [typed-ast (⭐214)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
+*   [typed-ast (⭐217)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 *   [typing-extensions (⭐1.3k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 
 ## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
@@ -81,7 +81,7 @@
 
 ### Tools / Misc
 
-*   [Kedro (⭐7.7k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+*   [Kedro (⭐7.8k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
 ## [10. Awesome Actions](/content/sdras/awesome-actions/README.md)
@@ -114,21 +114,17 @@
 
 ## [14. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
-### Client Web App Frameworks
-
-*   [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications.
-
 ### Server Frameworks
 
-*   [Jaguar (⭐443)](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensibility.
+*   [Jaguar (⭐447)](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensibility.
 *   [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     *   There are many packages written for Shelf. By convention they start with [shelf\_](https://pub.dartlang.org/search?q=shelf_).
-*   [Vane (⭐55)](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
-*   [Rikulo Stream (⭐220)](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
+*   [Vane (⭐57)](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
+*   [Rikulo Stream (⭐226)](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 
 ### Game Development
 
-*   [Flame (⭐7k)](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine.
+*   [Flame (⭐7.2k)](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine.
 
 ### Database
 
@@ -137,14 +133,14 @@
 ### Tools
 
 *   [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
-*   [js2dart (⭐58)](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart.
-*   [webdev\_proxy (⭐9)](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev (⭐187)](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+*   [js2dart (⭐60)](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart.
+*   [webdev\_proxy (⭐9)](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev (⭐194)](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 
 ### IDEs, Editors, and Plugins
 
 *   [Sublime Text Package (⭐262)](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package.
-*   [Emacs Plugin (⭐2)](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language.
-*   [Vim Plugin (⭐592)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
+*   [Emacs Plugin (⭐3)](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language.
+*   [Vim Plugin (⭐596)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
 *   [VSCode Plugin](https://dartcode.org/) - Dart support for Visual Studio Code.
 
 ## [15. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)

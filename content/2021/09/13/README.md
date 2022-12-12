@@ -54,7 +54,7 @@
 
 ### Typing
 
-*   👍 [Coalton (⭐603)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Coalton (⭐622)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [6. Awesome Slim](/content/nekofar/awesome-slim/README.md)
 
@@ -122,10 +122,6 @@
 *   [cairo-xlib (⭐0)](https://github.com/edadma/cairo-xlib) - Bindings for the [Cairo](https://www.cairographics.org/) 2D graphics [XLib Surfaces](https://www.cairographics.org/manual/cairo-XLib-Surfaces.html) with bindings for [XLib](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) as well.
 
 ## [12. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
-
-### Standout Projects
-
-*   [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban). Features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode, and more.
 
 ### Art
 

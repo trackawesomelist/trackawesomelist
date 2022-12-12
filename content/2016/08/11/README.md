@@ -25,7 +25,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [MLKit (⭐153)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
+*   [MLKit (⭐152)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Pagination / Barcode
 
-*   [PageController (⭐404)](https://github.com/hirohisa/PageController) - Infinite paging controller.
+*   [PageController (⭐408)](https://github.com/hirohisa/PageController) - Infinite paging controller.
 
 ## [4. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 

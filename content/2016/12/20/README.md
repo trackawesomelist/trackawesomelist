@@ -61,12 +61,12 @@
 ### Samples
 
 *   Google
-    *   [Android port of LunarG samples (⭐440)](https://github.com/googlesamples/vulkan-basic-samples).
-    *   [android tutorials (⭐718)](https://github.com/googlesamples/android-vulkan-tutorials).
-*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐148)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
+    *   [Android port of LunarG samples (⭐439)](https://github.com/googlesamples/vulkan-basic-samples).
+    *   [android tutorials (⭐722)](https://github.com/googlesamples/android-vulkan-tutorials).
+*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐147)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
     *   [gl\_vk\_chopper (⭐199)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
-    *   [gl\_vk\_threaded\_cadscene (⭐148)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
-    *   [gl\_vk\_bk3dthreaded (⭐79)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
+    *   [gl\_vk\_threaded\_cadscene (⭐147)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
+    *   [gl\_vk\_bk3dthreaded (⭐80)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
     *   [gl\_vk\_supersampled (⭐57)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 
 ## [4. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)

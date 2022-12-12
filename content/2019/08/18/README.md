@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18, 2019
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -14,19 +14,19 @@
 
 ### Resources / User Interface
 
-*   [Skin Composer (⭐346)](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
-*   [TenPatch (⭐39)](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
-*   [TypingLabel (⭐134)](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
-*   [VisUI (⭐628)](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
+*   [Skin Composer (⭐353)](https://github.com/raeleus/skin-composer) - Create skins for libGDX scene2d.ui with a graphical interface.
+*   [TenPatch (⭐40)](https://github.com/raeleus/TenPatch) - An alternative to libGDX's 9patch implementation that implements multiple stretch regions.
+*   [TypingLabel (⭐135)](https://github.com/rafaskb/typing-label) - A libGDX Label that appears as if it was being typed in real time.
+*   [VisUI (⭐630)](https://github.com/kotcrab/vis-ui) - Allows to create nice looking UI in libGDX using scene2d.ui. Note this is not a UI editor.
 
 ### Resources / Others
 
-*   [Texture Packer GUI (⭐470)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
+*   [Texture Packer GUI (⭐481)](https://github.com/crashinvaders/gdx-texture-packer-gui) - A simple way to pack and manage texture atlases for libGDX game framework.
 
 ### Tutorials / Getting Started
 
 *   [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) - Video tutorial on using libGDX to make a game launcher.
-*   [Deploying with JPackage (⭐346)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
+*   [Deploying with JPackage (⭐353)](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
 
 ### Tutorials / Advanced
 
@@ -40,17 +40,23 @@
 
 ### Gaming
 
-*   [libGDX (⭐630)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+*   [libGDX (⭐652)](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 ### Health and Social Science
 
-*   [Computational Neuroscience (⭐446)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+*   [Computational Neuroscience (⭐465)](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 ### Miscellaneous
 
-*   [IRC (⭐685)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+*   [IRC (⭐696)](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
-## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ruby / Tornado
+
+*   [I Love Ruby](https://i-love-ruby.gitlab.io)
+
+## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Broccoli
 
@@ -112,17 +118,17 @@
 
 *   [glimmer-hn-pwa (⭐28)](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js.
 
-## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Tutorials / Terraform
 
 *   [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
 
-## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [6. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [wslexec (⭐36)](https://github.com/int128/wslexec) - Execute Linux executables as .exe files on Windows. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslexec (⭐37)](https://github.com/int128/wslexec) - Execute Linux executables as .exe files on Windows. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ---
 

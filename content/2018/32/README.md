@@ -70,7 +70,7 @@
 
 ### Compilers / Experimental/Proof of Concepts
 
-*   [Wiz (⭐363)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
+*   [Wiz (⭐366)](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
 *   [gbforth (⭐99)](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
 *   [gbasm (⭐130)](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Game Boy z80 assembly code.
 *   [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.
@@ -78,7 +78,7 @@
 
 ### Tools / Engines
 
-*   [ZGB (⭐526)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
+*   [ZGB (⭐540)](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 
 ### Tools / Graphics utilities
 
@@ -102,12 +102,12 @@
 ### Component Libraries
 
 *   [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-*   [Dash Core Components (⭐266)](https://github.com/plotly/dash-core-components)
+*   [Dash Core Components (⭐267)](https://github.com/plotly/dash-core-components)
 *   [Dash HTML Components (⭐155)](https://github.com/plotly/dash-html-components)
 *   [mydcc (⭐34)](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
-*   [sd-material-ui (⭐178)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
+*   [sd-material-ui (⭐179)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
 *   [sd-range-slider (⭐2)](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
-*   [dj-plotly-dash (⭐43)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
+*   [dj-plotly-dash (⭐44)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
 *   [dash-flexbox-grid (⭐19)](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
 
 ### Galleries
@@ -135,11 +135,11 @@
 
 ### Packages / Command-line utilities
 
-*   [sparkly (⭐395)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+*   [sparkly (⭐398)](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
 
 ### Packages / Weird
 
-*   [cat-ascii-faces (⭐238)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+*   [cat-ascii-faces (⭐240)](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 
 ## [12. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
@@ -164,14 +164,14 @@ Free
 ### Processes / Other
 
 *   [ch.vorburger.exec (⭐25)](https://github.com/vorburger/ch.vorburger.exec) - Convenient API around Apache Commons Exec.
-*   [zt-exec (⭐803)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
-*   [zt-process-killer (⭐109)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
+*   [zt-exec (⭐808)](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
+*   [zt-process-killer (⭐113)](https://github.com/zeroturnaround/zt-process-killer) - Stops processes started from Java or the system processes via PID.
 
 ## [15. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
-*   [Falcon (⭐8.9k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+*   [Falcon (⭐9k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 
 ## [16. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -194,13 +194,13 @@ Free
 
 ### Extensions
 
-*   [Nextein (⭐897)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
+*   [Nextein (⭐900)](https://github.com/elmasse/nextein) - A static site generator based in Next.js.
 
 ## [19. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Fuse (⭐322)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐319)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ### Content Management Systems
 
@@ -208,7 +208,7 @@ Free
 
 ### Miscellaneous
 
-*   [Jupyter (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
+*   [Jupyter (⭐3k)](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 
 ## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -266,7 +266,7 @@ Free
 
 *   [Everything You Can Do With Windows 10’s New Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
 *   [The Unix Workbench](http://seankross.com/the-unix-workbench/) - A book for anyone to get started with Unix/Linux environments.
-*   [The Art of Command Line (⭐112k)](https://github.com/jlevy/the-art-of-command-line) - Master the command line in one page. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [The Art of Command Line (⭐117k)](https://github.com/jlevy/the-art-of-command-line) - Master the command line in one page. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [Awesome Command Line Apps (⭐3.7k)](https://github.com/herrbischoff/awesome-command-line-apps) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### Using WSL / Programming on WSL
@@ -288,7 +288,7 @@ Free
 *   Learning [programming](https://www.codecademy.com), [computer science](https://www.quora.com/Why-should-computer-science-students-use-the-GNU-Linux-operating-system), and [system administration](https://www.linuxfoundation.org/blog/7-steps-to-start-your-linux-sysadmin-career/) generally.
 *   Building applications for [Azure](https://blogs.technet.microsoft.com/stefan_stranger/2018/03/08/installing-azure-cli-on-debian-gnulinux-for-wsl/), Microsoft's cloud platform.
 *   Leveraging the power of the shell and scripting to automate your personal workflow, like OCRing and sorting PDFs into folders using [Python](https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/).
-*   Replacing Windows shell [with Xfce, Gnome, KDE, or i3. (⭐758)](https://github.com/NathanCastle/BootShellCredentialProvider).
+*   Replacing Windows shell [with Xfce, Gnome, KDE, or i3. (⭐761)](https://github.com/NathanCastle/BootShellCredentialProvider).
 *   Running Linux-based server applications like [OpenFOAM](https://openfoam.org/download/windows-10/) and [Wordpress](https://mkaz.blog/wordpress/install-wordpress-on-windows-subsystem-for-linux/) locally for testing purposes.
 *   Managing your companies' CentOS servers using [Ansible](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux).
 *   [pWSLinux+K8S: The Interop way](https://medium.com/@hoxunn/wslinux-k8s-the-interop-way-2d98e5b88f08)
@@ -313,21 +313,21 @@ Free
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [miniwsl (⭐62)](https://github.com/0xbadfca11/miniwsl) - A mini Linux distribution for WSL powered by [busybox](https://www.busybox.net). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [ArchWSL (⭐4.9k)](https://github.com/yuk7/ArchWSL) - ArchLinux in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [AlpineWSL (⭐361)](https://github.com/yuk7/AlpineWSL) - Alpine in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [miniwsl (⭐63)](https://github.com/0xbadfca11/miniwsl) - A mini Linux distribution for WSL powered by [busybox](https://www.busybox.net). ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [ArchWSL (⭐5k)](https://github.com/yuk7/ArchWSL) - ArchLinux in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [AlpineWSL (⭐366)](https://github.com/yuk7/AlpineWSL) - Alpine in WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [windows-subsystem-linux-fedora](https://gitlab.com/gbraad/windows-subsystem-for-linux-fedora) - Fedora in WSL.
 *   [WSL-Distribution-Switcher (⭐1.7k)](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Scripts to replace the distribution behind WSL with any other Linux distribution published on [Docker Hub](https://hub.docker.com/explore/). Includes alpine, CentOS, Fedora, Clear, and others. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [acme-wsl (⭐38)](https://github.com/elrzn/acme-wsl) - Install acme / plan9port on Debian, Ubuntu, or Kali Linux distributions on WSL.
+*   [acme-wsl (⭐39)](https://github.com/elrzn/acme-wsl) - Install acme / plan9port on Debian, Ubuntu, or Kali Linux distributions on WSL.
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [WSLInstall (⭐221)](https://github.com/Biswa96/WSLInstall) - Install any Linux distribution userspace in WSL with compressed RootFS tarballs (tar.gz) or with Docker containers or with ISO files. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [BootShellCredentialProvider (⭐758)](https://github.com/NathanCastle/BootShellCredentialProvider) - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wsl-dotfiles (⭐240)](https://github.com/Xyene/wsl-dotfiles) - Configuration files and scripts for creating an i3-based environment inside WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSLInstall (⭐224)](https://github.com/Biswa96/WSLInstall) - Install any Linux distribution userspace in WSL with compressed RootFS tarballs (tar.gz) or with Docker containers or with ISO files. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [BootShellCredentialProvider (⭐761)](https://github.com/NathanCastle/BootShellCredentialProvider) - BSCP lets you boot Windows directly into a Linux desktop experience such as xfce4 using Windows native login and a combination of Xming & WSL upon login. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wsl-dotfiles (⭐243)](https://github.com/Xyene/wsl-dotfiles) - Configuration files and scripts for creating an i3-based environment inside WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [EnumWSL (⭐6)](https://github.com/therealkenc/EnumWSL) - Enumerates installed WSL packages. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [WSL-DistroLauncher (⭐1.4k)](https://github.com/Microsoft/WSL-DistroLauncher) - Reference launcher app for developing your own WSL distribution Microsoft Store package. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [WSL\_Reverse (⭐69)](https://github.com/Biswa96/WSL_Reverse) - Reveal hidden COM interface between WSL and Lxss Manager Service. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL\_Reverse (⭐70)](https://github.com/Biswa96/WSL_Reverse) - Reveal hidden COM interface between WSL and Lxss Manager Service. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [wslbridge (⭐353)](https://github.com/rprichard/wslbridge) - wslbridge is a Cygwin program that allows connecting to the WSL command-line environment over TCP sockets, as with ssh, but without the overhead of configuring an SSH server. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 *   [cmd-colors-solarized (⭐1.1k)](https://github.com/neilpa/cmd-colors-solarized) - This is a solarized color scheme for the Windows command prompt that works in WSL.
 
@@ -377,12 +377,12 @@ Free
 
 ### More Awesome / Miscellaneous Tools
 
-*   [Awesome Windows (⭐20k)](https://github.com/Awesome-Windows/Awesome)
+*   [Awesome Windows (⭐21k)](https://github.com/Awesome-Windows/Awesome)
 *   [Awesome VSCode (⭐21k)](https://github.com/viatsko/awesome-vscode)
-*   [Awesome Bash (⭐5.2k)](https://github.com/awesome-lists/awesome-bash)
+*   [Awesome Bash (⭐5.3k)](https://github.com/awesome-lists/awesome-bash)
 *   [Awesome Shell (⭐25k)](https://github.com/alebcay/awesome-shell)
 *   [Awesome Powershell (⭐3.6k)](https://github.com/janikvonrotz/awesome-powershell)
-*   [Awesome Linux (⭐3.5k)](https://github.com/aleksandar-todorovic/awesome-linux)
+*   [Awesome Linux (⭐3.6k)](https://github.com/aleksandar-todorovic/awesome-linux)
 
 ### Thanks / Miscellaneous Tools
 
@@ -440,13 +440,13 @@ Free
 
 ### Configuration
 
-*   [totem (⭐59)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
+*   [totem (⭐60)](https://github.com/icyleaf/totem) - Load and parse a configuration in JSON, YAML, dotenv formats
 
 ## [30. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
-*   [midi2pico (⭐52)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
+*   [midi2pico (⭐55)](https://github.com/gamax92/midi2pico) - A MIDI to PICO-8 converter.
 
 ## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -473,56 +473,56 @@ Free
 
 ### Runtimes/Frontends
 
-*   [docker-stacks (⭐6.9k)](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
+*   [docker-stacks (⭐7k)](https://github.com/jupyter/docker-stacks) - Hierarchical stacks of ready-to-run Jupyter applications in Docker.
 *   [Hydrogen (⭐3.8k)](https://github.com/nteract/hydrogen) - Run code inline in Atom using Jupyter kernels.
-*   [Jupyter Notebook (⭐9.5k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
+*   [Jupyter Notebook (⭐9.6k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 *   [JupyterHub (⭐7k)](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
-*   [JupyterLab (⭐12k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
-*   [kaggle/docker-python (⭐2k)](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
+*   [JupyterLab (⭐13k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
+*   [kaggle/docker-python (⭐2.1k)](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
 *   [nteract (⭐5.9k)](https://github.com/nteract/nteract) - Native desktop notebook frontend.
-*   [Stencila (⭐654)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
+*   [Stencila (⭐658)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ### Collaboration/Education
 
 *   [callgraph (⭐61)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
-*   [jupyter-drive (⭐414)](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
+*   [jupyter-drive (⭐416)](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
 *   [jupyter-edx-grader-xblock (⭐42)](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.
 *   [LTI Launch JupyterHub Authenticator (⭐56)](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 *   [nbautoeval (⭐17)](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
 *   [nbgrader (⭐1.1k)](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
-*   [nbtutor (⭐413)](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
+*   [nbtutor (⭐416)](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
 
 ### Visualization
 
-*   [Altair (⭐7.8k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐3.9k)](https://github.com/vega/vega-lite).
+*   [Altair (⭐7.9k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐3.9k)](https://github.com/vega/vega-lite).
 *   [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 *   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
-*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐53k)](https://github.com/apache/incubator-echarts) visualization library.
-*   [pythreejs (⭐833)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
+*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐54k)](https://github.com/apache/incubator-echarts) visualization library.
+*   [pythreejs (⭐842)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 *   [Qgrid (⭐2.9k)](https://github.com/quantopian/qgrid) - Interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks.
 
 ### Rendering/Publishing/Conversion
 
 *   [Binder](http://mybinder.org) - Turn a GitHub repo into a collection of interactive notebooks.
 *   [Bookbook (⭐95)](https://github.com/takluyver/bookbook) - Bookbook converts a set of notebooks in a directory to HTML or PDF, preserving cross references within and between notebooks.
-*   [nbscan (⭐22)](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
+*   [nbscan (⭐23)](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 *   [Nikola](https://getnikola.com) - Static Site Generator that converts notebooks into websites.
-*   [notedown (⭐833)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
-*   [Papermill (⭐4.9k)](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
-*   [pynb (⭐238)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
+*   [notedown (⭐838)](https://github.com/aaren/notedown/) - Convert Jupyter notebooks to markdown (and back).
+*   [Papermill (⭐5k)](https://github.com/nteract/papermill) - Tool for parameterizing, executing, and analyzing Jupyter notebooks.
+*   [pynb (⭐240)](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 *   [RISE (⭐3.4k)](https://github.com/damianavila/RISE) - Reveal.js Jupyter/IPython Slideshow.
-*   [rst2ipynb (⭐14)](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
+*   [rst2ipynb (⭐15)](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 
 ### Testing
 
-*   [nbval (⭐387)](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
+*   [nbval (⭐392)](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 *   [nosebook (⭐79)](https://github.com/bollwyvl/nosebook) - Nose plugin for finding and running IPython notebooks as nose tests.
 
 ### Domain-Specific Projects
 
 *   [GenePattern Notebook](http://genepattern-notebook.org) - Integrating Genomic Analysis with Interactive Notebooks.
 *   [GeoNotebook (⭐1.1k)](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
-*   [lolviz (⭐780)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
+*   [lolviz (⭐785)](https://github.com/parrt/lolviz) - Data-structure visualization tool for lists of lists, lists, dictionaries.
 *   [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - Jupyter-based platform for financial research.
 *   [vpython-jupyter (⭐65)](https://github.com/BruceSherwood/vpython-jupyter) - VPython 3D engine running in a Jupyter notebook.
 
@@ -550,9 +550,9 @@ Free
 
 *   [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) - Collection of notebooks covering scientific computing.
 *   [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
-*   [Interactive Web Plotting with Bokeh (⭐690)](https://github.com/bokeh/bokeh-notebooks)
+*   [Interactive Web Plotting with Bokeh (⭐695)](https://github.com/bokeh/bokeh-notebooks)
 *   [Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
-*   [Jupyter Notebook Themes (⭐9.3k)](https://github.com/dunovank/jupyter-themes)
+*   [Jupyter Notebook Themes (⭐9.4k)](https://github.com/dunovank/jupyter-themes)
 *   [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 *   [Lectures on scientific computing with Python (⭐3.3k)](https://github.com/jrjohansson/scientific-python-lectures)
 *   [pytudes (⭐19k)](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
@@ -692,7 +692,7 @@ Free
 ### Applications
 
 *   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
-*   [Orion (⭐120)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
+*   [Orion (⭐122)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 
 ## [49. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
@@ -743,7 +743,7 @@ Free
 
 ### Authentication
 
-*   [passwordless\_auth (⭐48)](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
+*   [passwordless\_auth (⭐49)](https://github.com/madebymany/passwordless_auth) - Simple passwordless login or 2-factor / multi-factor authentication for Elixir.
 
 ## [51. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 

@@ -42,10 +42,10 @@
 
 *   Code Linters
     *   [flake8](https://pypi.org/project/flake8/) - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
-        *   [awesome-flake8-extensions (⭐930)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    *   [pylama (⭐938)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
+        *   [awesome-flake8-extensions (⭐982)](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+    *   [pylama (⭐957)](https://github.com/klen/pylama) - A code audit tool for Python and JavaScript.
     *   [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
-    *   [wemake-python-styleguide (⭐2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
+    *   [wemake-python-styleguide (⭐2.1k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever.
 
 ## [7. Awesome Qa](/content/seriousran/awesome-qa/README.md)
 

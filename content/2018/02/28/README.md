@@ -57,7 +57,7 @@
 ### Database Drivers
 
 *   MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
-    *   [mysqlclient (⭐2.1k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
+    *   [mysqlclient (⭐2.2k)](https://github.com/PyMySQL/mysqlclient-python) - MySQL connector with Python 3 support ([mysql-python](https://sourceforge.net/projects/mysql-python/) fork).
     *   [PyMySQL (⭐7.1k)](https://github.com/PyMySQL/PyMySQL) - A pure Python MySQL driver compatible to mysql-python.
 
 ## [8. Awesome Aws](/content/donnemartin/awesome-aws/README.md)

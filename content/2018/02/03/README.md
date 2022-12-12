@@ -14,11 +14,11 @@
 
 ### Alert / Barcode
 
-*   [Alerts Pickers (⭐5.4k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
+*   [Alerts Pickers (⭐5.5k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐228)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐233)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [2. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 

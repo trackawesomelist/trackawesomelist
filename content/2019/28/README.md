@@ -12,7 +12,7 @@
 
 *   [croc (⭐21k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 *   [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
-*   [twtxt (⭐38)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
+*   [twtxt (⭐37)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -245,16 +245,16 @@
 
 ### Packages / Containerization
 
-*   [micro-ROS/docker (⭐31)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
+*   [micro-ROS/docker (⭐32)](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 
 ### Packages / Application layer
 
-*   [apriltag\_ros (⭐40)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
+*   [apriltag\_ros (⭐46)](https://github.com/christianrauch/apriltag_ros) - ROS2 node for AprilTag detection. ![apriltag\_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 
 ### Packages / Driver layer
 
 *   [ros2\_xmlrpc\_interface (⭐0)](https://github.com/aarushsesto/ros2_xmlrpc_interface) - ros2 interface package with xmlrpc, to communicate with a Sesto server using Sesto API. ![ros2\_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
-*   [HRIM (⭐64)](https://github.com/AcutronicRobotics/HRIM) - A standard interface for robot modules.
+*   [HRIM (⭐65)](https://github.com/AcutronicRobotics/HRIM) - A standard interface for robot modules.
 
 ### Packages / DDS communication mechanism implementations
 
@@ -262,15 +262,15 @@
 
 ### Operating systems / Build system (ROS2)
 
-*   [NuttX (⭐73)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
+*   [NuttX (⭐74)](https://github.com/micro-ROS/NuttX) - NuttX fork of the official one for use with micro-ROS.
 
 ### Documentation / Build system (ROS2)
 
-*   [ROS2 CLI cheats sheet (⭐127)](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
+*   [ROS2 CLI cheats sheet (⭐128)](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
 
 ### Services / Robotics Capture the Flag (RCTF)
 
-*   [rctf-list (⭐27)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
+*   [rctf-list (⭐28)](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
 
 ## [18. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -306,17 +306,17 @@
 
 ### Projects
 
-*   [Stratux (⭐904)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
+*   [Stratux (⭐919)](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
-*   [Bow (⭐608)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
+*   [Bow (⭐614)](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming.
 
 ### Misc
 
-*   [Swiftbrew (⭐141)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
+*   [Swiftbrew (⭐142)](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages.
 
 ### Events
 
@@ -332,7 +332,7 @@
 
 ### TextField / Barcode
 
-*   [VKPinCodeView (⭐94)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
+*   [VKPinCodeView (⭐95)](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
 
 ### UITableView / Barcode
 
@@ -604,15 +604,15 @@
 
 ### Debug
 
-*   [dbg-macro (⭐2.1k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
+*   [dbg-macro (⭐2.2k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
 
 ### GUI
 
-*   [Boden (⭐1.5k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Commercial] [website](https://www.boden.io)
+*   [Boden (⭐1.6k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Commercial] [website](https://www.boden.io)
 
 ### JSON
 
-*   [parson (⭐1.1k)](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. \[MIT]
+*   [parson (⭐1.2k)](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. \[MIT]
 
 ### Coding Style Tools
 
@@ -620,7 +620,7 @@
 
 ### Articles
 
-*   [C++Now 2019 Presentations (⭐90)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
+*   [C++Now 2019 Presentations (⭐89)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
 
 ## [40. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -632,7 +632,7 @@
 
 ### IDE
 
-*   [dbKoda (⭐871)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
+*   [dbKoda (⭐874)](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
 *   [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
 *   [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
 
@@ -686,7 +686,7 @@
 
 ### Data validation / Third-party APIs
 
-*   [sanity-clause (⭐35)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [sanity-clause (⭐38)](https://github.com/fisxoj/sanity-clause) - a data serialization/contract library for Common Lisp. Schemas can be property lists or class-based, allowing to check slots' types during `make-instance`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -710,7 +710,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.1k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
+*   [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code (⭐2.3k)](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
 
 ---
 

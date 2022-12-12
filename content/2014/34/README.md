@@ -99,7 +99,7 @@
 
 ### Server Frameworks
 
-*   [Start (⭐520)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
+*   [Start (⭐523)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 
 ### Game Development
 
@@ -117,7 +117,7 @@
 
 ### Database
 
-*   [SQLJockey (⭐20)](https://github.com/jamesots/sqljocky) - MySQL connector.
+*   [SQLJockey (⭐21)](https://github.com/jamesots/sqljocky) - MySQL connector.
 
 ### Package Managers
 
@@ -158,11 +158,11 @@
 
 ### Packages / Streams
 
-*   [multistream (⭐273)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐275)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐239)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐240)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ## [14. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐649)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐654)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [5. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -66,11 +66,17 @@
 
 *   [sn0int (⭐1.3k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
-## [9. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+
+### Packages / Security
+
+*   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
+
+## [10. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Logging
 
-*   [p6spy (⭐1.7k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+*   [p6spy (⭐1.8k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
 
 ### Messaging
 
@@ -94,17 +100,11 @@
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
-
-## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
-
-### Detecting / Server-Side Request Forgery
-
-*   [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 
 ## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -183,7 +183,7 @@
 
 ### Payment Service Provider
 
-*   [PAYONE (⭐26)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
+*   [PAYONE (⭐27)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
 *   [Stripe (⭐45)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
 
 ## [20. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
@@ -267,7 +267,6 @@ Topics: Standards, Web Assembly\
 
 ### Swift programming / iOS
 
-*   [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) - Quick tutorial to share the way to help setup compiling Raspberry Pi code with Xcode.
 *   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 
 ## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
@@ -1271,7 +1270,7 @@ Topics: Standards, Web Assembly\
 
 ### Serialization
 
-*   [nanopb (⭐3.2k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
+*   [nanopb (⭐3.3k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [36. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 

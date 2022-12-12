@@ -16,23 +16,23 @@
 
 ### Contents / Frameworks
 
-*   [Clinical Quality Language (⭐198)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
+*   [Clinical Quality Language (⭐202)](https://github.com/cqframework/clinical_quality_language) - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
 
 ### Contents / Libraries
 
-*   [Android FHIR SDK (⭐254)](https://github.com/google/android-fhir) - The Android FHIR SDK
-*   [FHIRKit Client (⭐132)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
-*   [FHIRModels (⭐130)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
+*   [Android FHIR SDK (⭐289)](https://github.com/google/android-fhir) - The Android FHIR SDK
+*   [FHIRKit Client (⭐138)](https://github.com/Vermonster/fhir-kit-client) - Node FHIR client library.
+*   [FHIRModels (⭐131)](https://github.com/apple/FHIRModels) - FHIRModels is a Swift library for FHIR resource data models.
 
 ### Contents / Integration
 
-*   [Open eHealth Integration Platform (⭐133)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
+*   [Open eHealth Integration Platform (⭐137)](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
 
 ## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [qalendar (⭐28)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+*   [qalendar (⭐39)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 
 ## [4. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐48k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
+*   [fzf (gimbo) (⭐0)](https://github.com/gimbo/fzf.zsh) - Helpers for using [fzf (⭐49k)](https://github.com/junegunn/fzf) in ZSH. Requires [brew.sh](https://brew.sh).
 
 ## [7. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [perwendel/spark-kotlin (⭐970)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
+*   [perwendel/spark-kotlin (⭐974)](https://github.com/perwendel/spark-kotlin) - A DSL in idiomatic Kotlin for the Spark web framework.
 
 ## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -124,13 +124,13 @@
 
 ### Application platforms / Samples
 
-*   [Tooljet (⭐14k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
+*   [Tooljet (⭐15k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Crates / Components
 
-*   [yew-scroll-area (⭐0)](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
+*   [yew-scroll-area (⭐1)](https://github.com/MatchaChoco010/yew-scroll-area) - Custom scroll area for Yew.
 
 ---
 

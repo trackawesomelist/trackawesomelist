@@ -65,15 +65,15 @@
 
 ### C++ / Natural Language Processing
 
-*   [MeTA (⭐652)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+*   [MeTA (⭐658)](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
 
-### Javascript / Data Analysis / Data Visualization
+### JavaScript / Data Analysis / Data Visualization
 
 *   [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 
 ### Python / Computer Vision
 
-*   [Vigranumpy (⭐375)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
+*   [Vigranumpy (⭐378)](https://github.com/ukoethe/vigra) - Python bindings for the VIGRA C++ computer vision library.
 
 ## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -90,7 +90,7 @@
 ### MVVM
 
 *   [MVVMCross (⭐3.7k)](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
-*   [Stylet (⭐839)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
+*   [Stylet (⭐855)](https://github.com/canton7/stylet/) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 
 ## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -274,7 +274,7 @@
 
 ### Date and Time
 
-*   [calendar (⭐447)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
+*   [calendar (⭐449)](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 
 ### Files and Directories
 
@@ -298,11 +298,11 @@
 
 ### Templating Engines / Runner
 
-*   [xtemplate (⭐554)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+*   [xtemplate (⭐553)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ### Control Flow / Runner
 
-*   [ObjectEventTarget (⭐11)](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+*   [ObjectEventTarget (⭐12)](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
 
 ### Scroll / Other
 

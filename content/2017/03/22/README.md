@@ -71,11 +71,11 @@ Webpage: <http://www.lerdevagar.com/>
 *   [vue-masked-input (⭐452)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐25)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐422)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐425)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 
-*   [vue-super (⭐35)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
+*   [vue-super (⭐34)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 
 ## [7. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

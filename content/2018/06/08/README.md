@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,12 +31,12 @@
 *   C++
     *   [design-patterns](http://www.vincehuston.org/dp/)
 *   Kotlin
-    *   [design-patterns (⭐5.4k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+    *   [design-patterns (⭐5.5k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 *   PHP
-    *   [humans (⭐35k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [humans (⭐36k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
 *   Ruby
-    *   [design-patterns (⭐2.1k)](https://github.com/davidgf/design-patterns-in-ruby)
+    *   [design-patterns (⭐2.2k)](https://github.com/davidgf/design-patterns-in-ruby)
 *   Swift
     *   [design-patterns (⭐14k)](https://github.com/ochococo/Design-Patterns-In-Swift)
 *   Vue.js
@@ -44,7 +44,7 @@
 
 ### General Architecture
 
-*   [system-design-primer (⭐201k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+*   [system-design-primer (⭐205k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 
 ### Micro services & Distributed Systems
 
@@ -57,7 +57,7 @@
 
 ### Front-End Development
 
-*   [css-protips (⭐23k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+*   [css-protips (⭐24k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 
 ### Security
 
@@ -69,7 +69,7 @@
 ### Mobile
 
 *   [json-mop (⭐55)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐99)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [arrow-macros (⭐100)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -81,43 +81,49 @@
 
 *   GNU General Public License
 
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Lisp / TeX
+
+*   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+
+## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Cache
 
-*   [Carlos (⭐626)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐628)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
-## [8. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [9. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Client/Server Communication
 
 *   [cljs-ajax (⭐642)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 
-## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Yellow (⭐526)](https://github.com/pret/pokeyellow)
-*   [Pokémon Gold and Silver (⭐339)](https://github.com/pret/pokegold)
-*   [pokegold-spaceworld (⭐281)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
-*   [Link's Awakening DX (⭐356)](https://github.com/mojobojo/LADX-Disassembly)
+*   [Pokémon Yellow (⭐528)](https://github.com/pret/pokeyellow)
+*   [Pokémon Gold and Silver (⭐343)](https://github.com/pret/pokegold)
+*   [pokegold-spaceworld (⭐282)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
+*   [Link's Awakening DX (⭐361)](https://github.com/mojobojo/LADX-Disassembly)
 *   [Oracle of Ages (⭐120)](https://github.com/drenn1/ages-disasm)
 *   [FX Hammer (⭐5)](https://github.com/DevEd2/FXHammer-Disasm)
 *   [Harvest Moon 3 (⭐16)](https://github.com/sanqui/hm3)
 
-## [10. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [11. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
 *   [cmake\_snippets (⭐48)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [11. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [12. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [FluentQuery (⭐145)](https://github.com/MihaelIsaev/FluentQuery) – Build complex raw SQL queries while still using Swift keypaths.
 
-## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [13. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### XSS - Cross-Site Scripting
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 21 - Nov 27, 2016
 
-45 awesome lists updated this week.
+44 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -267,14 +267,7 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 
 *   03.08.2016 [Discover Aurelia with CEO Rob Eisenberg](https://www.youtube.com/watch?v=fi33aDFKvxE)
 
-## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Development tools / FFI
-
-*   Haskell
-    *   [mgattozzi/curryrs (⭐296)](https://github.com/mgattozzi/curryrs) — Bridge the gap between Haskell and Rust
-
-## [14. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [13. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Canvas / Examples
 
@@ -285,20 +278,20 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 *   [Just Canvas](http://raphamorim.io/just-canvas/) \[[show me the code (⭐13)](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
 *   [Raining Day](http://raphamorim.io/raining-day/) \[[show me the code (⭐42)](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 
-## [15. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [14. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [sass-rails (⭐853)](https://github.com/rails/sass-rails) - Ruby on Rails stylesheet engine for Sass.
 
-## [16. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [15. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Detection and Classification / Other Resources
 
 *   [File Scanning Framework (⭐258)](https://github.com/EmersonElectricCo/fsf) -
     Modular, recursive file scanning solution.
 
-## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [16. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -312,13 +305,13 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 
 *   [Brendan Gregg](http://www.brendangregg.com) - Cloud performance, kernel engineer, speaker, author.
 
-## [18. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [17. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Chat Clients
 
 *   [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 
-## [19. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
+## [18. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
 ### More
 
@@ -330,19 +323,19 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 [![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
 
-## [20. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [19. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Community / Other
 
 *   [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *(Russian)*
 
-## [21. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [20. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Runtime Application Self-Protection
 
 *   [Sqreen](https://www.sqreen.io/) - Sqreen is a Runtime Application Self-Protection (RASP) solution for software teams. An in-app agent instruments and monitors the app. Suspicious user activities are reported and attacks are blocked at runtime without code modification or traffic redirection.
 
-## [22. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [21. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Blog & News
 
@@ -354,7 +347,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/nicolesaidy/awesome-web-design&p[images][0]=&p[title]=Awesome%20Web%20Design%20Collection&p[summary]=" target="_blank">Share on Facebook</a>
 
-## [23. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [22. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### RESTful
 
@@ -364,19 +357,19 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [phalcon-vm (⭐43)](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 
-## [24. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
 
-## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
 *   [Math snippets (⭐99)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 
-## [26. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -451,13 +444,13 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 
 
-## [27. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [26. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Smart Home Hardware Interfaces / Firmwares for ESP based Devices
 
 *   [Evohome2mqtt (⭐8)](https://github.com/svrooij/evohome2mqtt) - MQTT Interface for the Honeywell Evohome system.
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [27. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -467,19 +460,19 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [PdfReport.Core (⭐320)](https://github.com/VahidN/PdfReport.Core) - PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries.
 
-## [29. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [28. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Judges / Randomized Algorithms
 
 *   [Snakify](https://snakify.org/) - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (from Russia).
 
-## [30. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [29. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Skale (⭐396)](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 
-## [31. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [30. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Installable Web Apps
 
@@ -491,7 +484,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 *   [RealFaviconGenerator](http://realfavicongenerator.net/) - A great way to generate all the images, favicons, and associated files needed to display your app icon across different browsers.
 *   [Android Asset Studio - Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) - Generate Android style icons.
 
-## [32. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Timeline / Runner
 
@@ -502,19 +495,19 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [notie (⭐6.2k)](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 
-## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Java / Git
 
 *   [keywhiz (⭐2.5k)](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
 
-## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Resources / Books
 
 *   [Express in Action](https://www.manning.com/books/express-in-action)
 
-## [35. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [34. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -692,7 +685,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 
 
-## [36. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [35. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Audio
 
@@ -703,43 +696,43 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
 
-## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [36. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CMS
 
 *   [PushType](http://www.pushtype.org/) - A next generation, open source content management system for Ruby on Rails.
 
-## [38. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / R companies
 
 *   RapidAPI <http://blog.rapidapi.com/>
 
-## [39. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [38. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Frameworks and libraries / Slack
 
 *   [Cog](https://operable.io/) (Any language)
 
-## [40. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [39. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Videos / Video tutorials
 
 *   [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
-## [41. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [40. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
-*   [mbedTLS (⭐3.8k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
+*   [mbedTLS (⭐3.9k)](https://github.com/ARMmbed/mbedtls) - An open source, portable, easy to use, readable and flexible SSL library, previously known as PolarSSL. \[Apache2] [website](https://tls.mbed.org/)
 
-## [42. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [HGCircularSlider (⭐2.4k)](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 
-## [43. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [42. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Micro Frameworks
 
@@ -749,14 +742,14 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 *   [UnifiedArchive (⭐264)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
-## [44. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
+## [43. Awesome Choo](/content/choojs/awesome-choo/week/README.md)
 
 ### Contents / Projects using choo
 
 *   [enviar (⭐34)](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
 *   [kaktus (⭐0)](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 
-## [45. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [44. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Settings
 

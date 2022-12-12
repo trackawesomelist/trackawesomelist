@@ -44,21 +44,11 @@
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
-### Individual components / Markdowns
-
-*   [RazorComponents.Markdown (⭐28)](https://github.com/StardustDL/RazorComponents.Markdown) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/RazorComponents.Markdown?style=flat-square\&cacheSeconds=86400) A razor component for Markdown rendering which supports LaTeX, Mermaid diagram, code highlighting and extensions based on Markdig.
-*   [Blazor Markdown (⭐28)](https://github.com/georgemathieson/blazor-markdown) - ![last\_commit](https://img.shields.io/github/last-commit/georgemathieson/blazor-markdown?style=flat-square\&cacheSeconds=86400) A Blazor Markdown component that enables you to include Markdown files in your server-side Blazor apps.
-
 ### Individual components / Others
 
-*   [Stl.Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐128)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
-*   [Blazor-DragDrop (⭐291)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
-*   [Blazor.SignaturePad (⭐62)](https://github.com/Mobsites/Blazor.SignaturePad) - ![stars](https://img.shields.io/github/stars/Mobsites/Blazor.SignaturePad?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Mobsites/Blazor.SignaturePad?style=flat-square\&cacheSeconds=86400) A Blazor component library that utilizes Szymon Nowak's javascript library Signature Pad to implement smooth signature drawing on a HTML5 canvas.
-*   [BlazorTransitionableRoute (⭐114)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
-
-### Tools & Utilities / Others
-
-*   [BracketShow.BlazorNavigationManagerExtensions (⭐6)](https://github.com/bracketshow/blazornavigationmanagerextensions) - ![last commit](https://img.shields.io/github/last-commit/bracketshow/blazornavigationmanagerextensions?style=flat-square\&cacheSeconds=86400) Simple set of extensions for the Navigation Manager to simplify its usage for things we are likely to do in most of our Blazor applications.
+*   [Stl.Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐131)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
+*   [Blazor-DragDrop (⭐302)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
+*   [BlazorTransitionableRoute (⭐122)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -10,13 +10,13 @@
 
 ### Libraries / New Libraries
 
-*   [JAXFit (⭐10)](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
+*   [JAXFit (⭐11)](https://github.com/dipolar-quantum-gases/jaxfit) - Accelerated curve fitting library for nonlinear least-squares problems (see [arXiv paper](https://arxiv.org/abs/2208.12187)). <img src="https://img.shields.io/github/stars/dipolar-quantum-gases/jaxfit?style=social" align="center">
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Schema Migration
 
-*   [bytebase (⭐4.1k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
+*   [bytebase (⭐4.5k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
@@ -46,13 +46,13 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [archlinux (⭐2)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
+*   [archlinux (⭐3)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Tools / Misc
 
-*   [MLEM (⭐520)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
+*   [MLEM (⭐540)](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -80,13 +80,13 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-admin-sortable2 (⭐539)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+*   [django-admin-sortable2 (⭐542)](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 
 ### Third-Party Packages / Forms
 
 *   [django-bleach (⭐89)](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
 
-### Third-Party Packages / Models
+### Third-Party Packages / Model Fields
 
 *   [django-streamfield (⭐70)](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
 

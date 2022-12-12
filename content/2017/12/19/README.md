@@ -93,7 +93,7 @@
 
 ### Tools and frameworks
 
-*   [Chimp (⭐787)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+*   [Chimp (⭐789)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

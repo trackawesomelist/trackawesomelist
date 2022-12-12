@@ -60,7 +60,7 @@
 
 ### Unions
 
-*   [Freezed (⭐1.3k)](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+*   [Freezed (⭐1.4k)](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ### Tutorials
 
@@ -70,7 +70,7 @@
 
 ### AI
 
-*   [astar (⭐8)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
+*   [astar (⭐9)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
 
 ## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools / XML
 
-*   [denomander (⭐126)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐128)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-dialog (⭐195)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
+*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ## [14. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

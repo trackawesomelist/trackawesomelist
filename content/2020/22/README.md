@@ -35,7 +35,7 @@
 ### Other Articles & Tutorials
 
 *   [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
-*   [Flutter Web and Flame (⭐115)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+*   [Flutter Web and Flame (⭐119)](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 ### Open Source / Casual
 
@@ -83,11 +83,11 @@
 
 ### Networking
 
-*   [Real-Time Communications (⭐199)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+*   [Real-Time Communications (⭐208)](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 
 ### Testing
 
-*   [Playwright (⭐280)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐310)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Schema / Changes
 
-*   [yuniql (⭐326)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+*   [yuniql (⭐335)](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
 ## [11. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -239,12 +239,6 @@ Language: English
 
 ## [17. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
-### :space_invader: Projects Using Prisma / Tutorials with   [NestJS](https://nestjs.com/)
-
-*   [Tottem (⭐874)](https://github.com/poulainv/tottem)
-*   [Tomorrow](https://www.tomorrowapp.io/)
-*   [Predict Covid](https://predictcovid.com/)
-
 ### :books: Docs
 
 *   [Prisma Docs](https://www.prisma.io/docs/)
@@ -293,6 +287,11 @@ Language: English
 *   [Blog](https://prisma.io/blog)
 *   [Slack](https://slack.prisma.io/)
 *   [Twitter](https://twitter.com/prisma)
+
+### :space_invader: Projects Using Prisma / Tutorials with   [NestJS](https://nestjs.com/)
+
+*   [Tomorrow](https://www.tomorrowapp.io/)
+*   [Predict Covid](https://predictcovid.com/)
 
 ## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -379,31 +378,31 @@ Language: English
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb-typescript (⭐855)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
-*   [Wikimedia (⭐19)](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
+*   [Airbnb-typescript (⭐874)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
+*   [Wikimedia (⭐20)](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Canonical (⭐318)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐17)](https://github.com/gajus/canonical).
+*   [Canonical (⭐320)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐17)](https://github.com/gajus/canonical).
 *   [Standard (⭐2.4k)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style (⭐28k)](https://github.com/feross/standard).
-*   [XO (⭐237)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐6.9k)](https://github.com/xojs/xo).
+*   [XO (⭐238)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐7k)](https://github.com/xojs/xo).
 
 ### Configs / Other Configs
 
-*   [Ash-Nazg (⭐5)](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
+*   [Ash-Nazg (⭐6)](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
 *   [Cecilia (⭐5)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
-*   [ES (⭐27)](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
-*   [Hardcore (⭐193)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
+*   [ES (⭐28)](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
+*   [Hardcore (⭐213)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
 *   [Problems (⭐60)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 *   [Supermind (⭐4)](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 
 ### Plugins / Libraries
 
-*   [jQuery (⭐25)](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
+*   [jQuery (⭐26)](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
 
 ### Plugins / Testing Tools
 
-*   [AVA (⭐227)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
+*   [AVA (⭐228)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 *   [Cucumber (⭐6)](https://github.com/darrinholst/eslint-plugin-cucumber) - Linting rules for Cucumber.
 
 ## [30. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
@@ -421,7 +420,7 @@ Language: English
 
 ### Queue
 
-*   [broadway (⭐1.9k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+*   [broadway (⭐2k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ## [32. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
@@ -437,7 +436,7 @@ Language: English
 
 ### Packages / Client libraries
 
-*   [ros2\_rust (⭐443)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
+*   [ros2\_rust (⭐463)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
 ## [34. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
@@ -461,6 +460,10 @@ Language: English
 
 ## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
+### Apps
+
+*   [Tottem (⭐892)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+
 ### Essentials
 
 *   [Blog](https://nextjs.org/blog)
@@ -468,7 +471,7 @@ Language: English
 
 ### Extensions
 
-*   [next-connect (⭐1.2k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+*   [next-connect (⭐1.3k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 
 ## [37. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
@@ -494,7 +497,7 @@ Language: English
 
 ### TextField / Barcode
 
-*   [CHIOTPField (⭐237)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
+*   [CHIOTPField (⭐239)](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 
 ### Video / Barcode
 
@@ -596,7 +599,7 @@ Language: English
 
 ### Communications / MQTT
 
-*   [MQBoard (⭐92)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
+*   [MQBoard (⭐93)](https://github.com/tve/mqboard) - A micro-framework for using MQTT with asyncio on MicroPython boards, primarily on the ESP32.
 *   [sonoff-mqtt by davea (⭐57)](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT.
 *   [micropython-thingspeak-mqtt-esp8266 (⭐26)](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) - Publish and Subscribe to Thingspeak using MQTT with MicroPython running on ESP8266/ESP32 platforms.
 
@@ -606,7 +609,7 @@ Language: English
 
 ### Debugging / SRAM
 
-*   [esp32-backtrace (⭐16)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
+*   [esp32-backtrace (⭐17)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
 ## [45. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -660,11 +663,11 @@ Language: English
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Glosa (⭐75)](https://github.com/glosa/glosa-server) - Open source commentary system easy to integrate with static pages. You can import from Disqus. `GPL-3.0` `Java`
+*   [Glosa (⭐76)](https://github.com/glosa/glosa-server) - Open source commentary system easy to integrate with static pages. You can import from Disqus. `GPL-3.0` `Java`
 
 ### Software / Note-taking & Editors
 
-*   [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code (⭐366)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
+*   [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code (⭐370)](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`
 
 ## [50. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -752,7 +755,7 @@ Language: English
 
 ### Component bundles
 
-*   [DevExpress Blazor UI Components (⭐320)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
+*   [DevExpress Blazor UI Components (⭐321)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
 ## [61. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -814,8 +817,8 @@ Language: English
 
 ### Examples
 
-*   [generic-components (⭐475)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
-*   [howto-components (⭐838)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
+*   [generic-components (⭐477)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
+*   [howto-components (⭐839)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
 *   [vanilla-retro-js (⭐10)](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
 *   [web-components-examples (⭐2.4k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
@@ -835,21 +838,21 @@ Language: English
 
 ### Component Libraries
 
-*   [Apollo Elements (⭐372)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
-*   [Blackstone UI (⭐49)](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
+*   [Apollo Elements (⭐377)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
+*   [Blackstone UI (⭐54)](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
 *   [elements-sk (⭐27)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
-*   [Lume (⭐848)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
+*   [Lume (⭐881)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
 
 ### Design Systems
 
-*   [Bolt Design System (⭐262)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
-*   [Crayons (⭐112)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+*   [Bolt Design System (⭐267)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
+*   [Crayons (⭐121)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 
 ### Starter Kits
 
-*   [custom-element-boilerplate (⭐142)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
-*   [hello-web-components (⭐16)](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
-*   [nutmeg (⭐114)](https://github.com/abraham/nutmeg) - Build, test, and publish vanilla Web Components with a little spice.
+*   [custom-element-boilerplate (⭐145)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
+*   [hello-web-components (⭐18)](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
+*   [nutmeg (⭐113)](https://github.com/abraham/nutmeg) - Build, test, and publish vanilla Web Components with a little spice.
 
 ### Podcasts
 
@@ -865,12 +868,12 @@ Language: English
 
 ### Modules / Automation
 
-*   [autopilot (⭐438)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
+*   [autopilot (⭐440)](https://github.com/divy-work/autopilot-deno) - Autopilot - Cross-platform web automation with Deno.
 
 ### Modules / Utils
 
-*   [deno\_cron (⭐77)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
-*   [rubico (⭐214)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
+*   [deno\_cron (⭐78)](https://github.com/rbrahul/deno_cron) - A cron Job scheduler that allows you to write human readable cron syntax with tons of flexibility
+*   [rubico (⭐218)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
 
 ## [65. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -885,18 +888,18 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [vue-file-toolbar-menu (⭐112)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
+*   [vue-file-toolbar-menu (⭐115)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 *   [vue-text-middle-ellipsis (⭐8)](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
-*   [vuesence-book (⭐48)](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
+*   [vuesence-book (⭐49)](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
 *   [vue-toggles (⭐44)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ### Components & Libraries / Utilities
 
-*   [vue-condition-watcher (⭐41)](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed.
+*   [vue-condition-watcher (⭐42)](https://github.com/runkids/vue-condition-watcher) - 🕶 Vue Composition API for automatic fetch data when condition has been changed.
 
 ### Components & Libraries / Integrations
 
-*   [vue-postgrest (⭐55)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
+*   [vue-postgrest (⭐57)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 
 ---
 

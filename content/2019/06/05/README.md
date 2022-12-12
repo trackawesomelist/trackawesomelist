@@ -33,24 +33,24 @@
 ### React Tutorials / React Interview Questions
 
 *   [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
-*   [List of React interview Questions and Answers (⭐25k)](https://github.com/sudheerj/reactjs-interview-questions)
+*   [List of React interview Questions and Answers (⭐26k)](https://github.com/sudheerj/reactjs-interview-questions)
 
 ### React Tools / React Development Tools
 
-*   [eslint-plugin-jsx-a11y (⭐2.9k)](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
+*   [eslint-plugin-jsx-a11y (⭐3k)](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 
 ### React Tools / React Awesome Components
 
-*   [react-select (⭐25k)](https://github.com/JedWatson/react-select) - The Select Component for React
-*   [react-dnd (⭐18k)](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+*   [react-select (⭐26k)](https://github.com/JedWatson/react-select) - The Select Component for React
+*   [react-dnd (⭐19k)](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 *   [react-grid-layout (⭐17k)](https://github.com/strml/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints
 *   [react-table (⭐20k)](https://github.com/tannerlinsley/react-table/) - A lightweight, fast and extendable datagrid for React
-*   [react-data-grid (⭐5.6k)](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React
-*   [react-draggable (⭐7.9k)](https://github.com/mzabriskie/react-draggable) - React draggable component
-*   [react-resizable (⭐1.9k)](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
+*   [react-data-grid (⭐5.7k)](https://github.com/adazzle/react-data-grid) - Excel-like grid component built with React
+*   [react-draggable (⭐8k)](https://github.com/mzabriskie/react-draggable) - React draggable component
+*   [react-resizable (⭐2k)](https://github.com/strml/react-resizable) - A simple React component that is resizable with a handle
 *   [react-list (⭐1.9k)](https://github.com/orgsync/react-list) - A versatile infinite scroll React component
 *   [react-intl (⭐13k)](https://github.com/yahoo/react-intl) - Internationalize React apps
-*   [react-aria-modal (⭐973)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
+*   [react-aria-modal (⭐978)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 
 ### Video Tutorials / Charts
 

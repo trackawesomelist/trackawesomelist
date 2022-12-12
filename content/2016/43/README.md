@@ -235,7 +235,7 @@
 
 ### Video/Audio / Other
 
-*   [clappr (⭐6k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
+*   [clappr (⭐6.1k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
 ## [22. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -247,11 +247,11 @@
 
 ### Algorithms and Data structures
 
-*   [C# Algorithms (⭐5.1k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
+*   [C# Algorithms (⭐5.2k)](https://github.com/aalhour/C-Sharp-Algorithms) - A C# plug-and-play class-library project of standard Data Structures and Algorithms. It contains 35+ Data Structures and 30+ Algorithms designed as Object-Oriented isolated components.
 
 ### Misc
 
-*   [ByteSize (⭐433)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
+*   [ByteSize (⭐441)](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 
 ### Template Engine
 
@@ -350,7 +350,7 @@
 
 ### Math
 
-*   [Vc (⭐1.2k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
+*   [Vc (⭐1.3k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
 
 ## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -379,11 +379,11 @@
 ### Frameworks
 
 *   [exelli (⭐14)](https://github.com/pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
-*   [kitto (⭐945)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
+*   [kitto (⭐946)](https://github.com/kittoframework/kitto) - A framework for interactive dashboards.
 
 ### Instrumenting / Monitoring
 
-*   [appsignal-elixir (⭐238)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
+*   [appsignal-elixir (⭐241)](https://github.com/appsignal/appsignal-elixir/) - Collects error and performance data from your Elixir applications and sends it to [AppSignal](https://appsignal.com/).
 *   [prometheus-ecto (⭐73)](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.
 *   [prometheus-phoenix (⭐66)](https://github.com/deadtrickster/prometheus-phoenix) - Phoenix instrumenter for prometheus.ex.
 *   [prometheus\_process\_collector (⭐47)](https://github.com/deadtrickster/prometheus_process_collector) - Prometheus collector which exports the current state of process metrics including cpu, memory, file descriptor usage and native threads count as well as the process start and up times.
@@ -398,7 +398,7 @@
 
 ### Testing
 
-*   [tuco\_tuco (⭐57)](https://github.com/stuart/tuco_tuco) - TucoTuco helps you test your web application by running a web browser and simulating user interaction with your application.
+*   [tuco\_tuco (⭐58)](https://github.com/stuart/tuco_tuco) - TucoTuco helps you test your web application by running a web browser and simulating user interaction with your application.
 
 ### Third Party APIs
 
@@ -412,7 +412,7 @@
 
 ### Editors
 
-*   [atom-elixir (⭐413)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
+*   [atom-elixir (⭐412)](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 *   [ElixirSublime (⭐368)](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 
 ## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)

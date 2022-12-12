@@ -12,8 +12,8 @@
 
 *   [graphql-batch (⭐1.3k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐462)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
-*   [graphql-ruby (⭐5.1k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
+*   [graphql-guard (⭐463)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
@@ -188,7 +188,7 @@
 
 ### Markdown / Third-party APIs
 
-*   [3bmd (⭐73)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
+*   [3bmd (⭐74)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
 
 ## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -218,7 +218,7 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐776)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐775)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 
 ---
 

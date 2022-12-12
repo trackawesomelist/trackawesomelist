@@ -10,11 +10,11 @@
 
 ### Algorithms and Data structures
 
-*   [loom (⭐216)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
+*   [loom (⭐217)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 
 ### Debugging
 
-*   [eflame (⭐401)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
+*   [eflame (⭐402)](https://github.com/proger/eflame) - Flame Graph profiler for Erlang.
 
 ### Feeds
 
@@ -26,11 +26,11 @@
 
 ### ORM and Datamapping
 
-*   [datomex (⭐43)](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
+*   [datomex (⭐42)](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 
 ### Testing
 
-*   [blacksmith (⭐180)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
+*   [blacksmith (⭐182)](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 *   [factory\_girl\_elixir (⭐42)](https://github.com/sinetris/factory_girl_elixir) - Minimal implementation of Ruby's factory\_girl in Elixir.
 
 ### Text and Numbers
@@ -47,7 +47,7 @@
 
 ### Python / Natural Language Processing
 
-*   [python-frog (⭐44)](https://github.com/proycon/python-frog) - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER)
+*   [python-frog (⭐46)](https://github.com/proycon/python-frog) - Python binding to Frog, an NLP suite for Dutch. (pos tagging, lemmatisation, dependency parsing, NER)
 
 ### Python / General-Purpose Machine Learning
 

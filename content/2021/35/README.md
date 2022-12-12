@@ -24,7 +24,7 @@
 
 ### data
 
-*   [historical-basemaps (⭐277)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+*   [historical-basemaps (⭐287)](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
@@ -243,23 +243,9 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SwiftPlantUML (⭐237)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftPlantUML (⭐246)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Projects Using Vue.js / Open Source
-
-*   [Interface X (⭐51)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
-
-### Components & Libraries / Frameworks
-
-*   [element-pro-components (⭐135)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
-
-### Components & Libraries / Dev Tools
-
-*   [components-helper (⭐14)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
-
-## [17. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [16. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Chrono CI](http://www.chronoci.com/)
 
@@ -277,14 +263,14 @@
 
 
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [dr\_libs (⭐867)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
-*   [miniaudio (⭐2.5k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
+*   [dr\_libs (⭐893)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
+*   [miniaudio (⭐2.6k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
 
-## [19. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [18. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Maps in the Wild
 
@@ -294,7 +280,7 @@
 
 *   [Map Camp 2021](https://www.mapcamp.co.uk/) - A virtual event on October 13, 2021.
 
-## [20. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [19. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
@@ -302,14 +288,14 @@
 *   [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) by [Juana Nakfour](https://twitter.com/nak4red) and Sanjay Arora
 *   [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
 
-## [21. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [20. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Programming Languages
 
 *   [Clojure](https://clojure.org/) - A functional language making extensive use of **closures** but with a **j** because it's running on the Java virtual machine.
-*   [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - The successor of **C** indicated by the iconic increment operator **++**.
+*   [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - Although C was certainly a bad name, C++ was quite clever. The iconic increment operator **++** indicates that **C++** is the successor.
 
-## [22. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [21. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Clojure / Angular
 
@@ -324,13 +310,13 @@
 
 *   [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff.
 
-## [23. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [22. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Experimentation / NLP
 
 *   [Neptune](https://neptune.ai) - A lightweight ML experiment tracking, results visualization and management tool.
 
-## [24. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [23. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Emails
 
@@ -344,7 +330,7 @@
 
 *   [Falsehoods about garbage collection](https://paul.bone.id.au/blog/2018/10/19/gc-falsehoods/) - Misconceptions about the predictability and performance of garbage collection.
 
-## [25. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [24. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Utilities / Security
 
@@ -353,19 +339,28 @@
 *   [xiringuito (⭐1k)](https://github.com/ivanilves/xiringuito) - SSH-based VPN.
 *   [ots (⭐1.6k)](https://github.com/sniptt-official/ots) - Share secrets with others via a one-time URL.
 
-## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### UI Libraries, Components & Templates
-
-*   📁 [Tailmin (⭐42)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS.
-
-## [27. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [25. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### IDE and Code Editing
 
 *   [Tabnine](https://www.tabnine.com/students) \[FREE] - Tabnine is an AI code completion tool that works on any IDE and supports all programming languages. Tabnine Pro Edition free for 1 year.
 
-## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [Tailmin (⭐43)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
+*   [element-pro-components (⭐153)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
+
+### Projects Using Vue.js / Open Source
+
+*   [Interface X (⭐57)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
+
+### Components & Libraries / Dev Tools
+
+*   [components-helper (⭐16)](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
+
+## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Java / Data Analysis / Data Visualization
 
@@ -373,27 +368,27 @@
 
 ### Tools / Misc
 
-*   More tools to improve the ML lifecycle: [Catalyst (⭐3k)](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/). The following are Github-alike and targeting teams [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
-*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐2.9k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
+*   More tools to improve the ML lifecycle: [Catalyst (⭐3k)](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/). The following are GitHub-alike and targeting teams [Weights & Biases](https://www.wandb.com/), [Neptune.ai](https://neptune.ai/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/), [DAGsHub](https://DAGsHub.com/).
+*   [Weaviate](https://www.semi.technology/developers/weaviate/current/) – Weaviate is an [open source (⭐3k)](https://github.com/semi-technologies/weaviate) vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.
 
-## [29. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [28. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Tools
 
 *   [Neptune](https://neptune.ai/) - Lightweight tool for experiment tracking and results visualization.
 
-## [30. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [29. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / "System" bindings
 
-*   [micro\_ros\_arduino (⭐223)](https://github.com/micro-ROS/micro_ros_arduino) - Integration of micro-ROS into Arduino software platform projects.
-*   [micro\_ros\_zephyr\_module (⭐23)](https://github.com/micro-ROS/micro_ros_zephyr_module) - Integration of micro-ROS in Zeyphr OS based projects.
+*   [micro\_ros\_arduino (⭐241)](https://github.com/micro-ROS/micro_ros_arduino) - Integration of micro-ROS into Arduino software platform projects.
+*   [micro\_ros\_zephyr\_module (⭐28)](https://github.com/micro-ROS/micro_ros_zephyr_module) - Integration of micro-ROS in Zeyphr OS based projects.
 
-## [31. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [30. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Task Queues
 
-*   [celery-exporter (⭐201)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
+*   [celery-exporter (⭐203)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 
 ### Resources / Conferences
 
@@ -404,9 +399,9 @@
 
 ### Projects / Boilerplate
 
-*   [django-base-site (⭐150)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
+*   [django-base-site (⭐155)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
 
-## [32. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [31. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### QubesOS Websites
 
@@ -420,37 +415,37 @@
 
 *   [Forum](https://forum.qubes-os.org/)
 
-## [33. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Spreadsheets and Documents
 
-*   [spreadsheet\_architect (⭐1.2k)](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
+*   [spreadsheet\_architect (⭐1.3k)](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 
-## [34. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [33. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### C / Syntax highlighting packages
 
 *   [Novascape](https://web.archive.org/web/20171002042716/http://ludumdare.com/compo/ludum-dare-34/?action=preview\&uid=6823)
 *   [Burly Bear vs. The Mean Foxes](http://sebastianmihai.com/gameboy-burly-bear.html) ([GBC](http://sebastianmihai.com/gameboy-color-burly-bear.html) port)
 
-## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code (⭐234)](https://github.com/collectiveaccess/providence)) `GPL-3.0-only` `PHP`
+*   [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code (⭐238)](https://github.com/collectiveaccess/providence)) `GPL-3.0-only` `PHP`
 
 ### Software / Automation
 
-*   [Alltube](https://www.alltubedownload.net) - Web interface for [youtube-dl (⭐114k)](https://github.com/ytdl-org/youtube-dl), a program to download videos and audio from [more than 100 websites](https://ytdl-org.github.io/youtube-dl/supportedsites.html). ([Source Code (⭐2.6k)](https://github.com/Rudloff/alltube)) `GPL-3.0` `PHP`
+*   [Alltube](https://www.alltubedownload.net) - Web interface for [youtube-dl (⭐116k)](https://github.com/ytdl-org/youtube-dl), a program to download videos and audio from [more than 100 websites](https://ytdl-org.github.io/youtube-dl/supportedsites.html). ([Source Code (⭐2.6k)](https://github.com/Rudloff/alltube)) `GPL-3.0` `PHP`
 *   [feedmixer (⭐101)](https://github.com/cristoper/feedmixer) - FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON). ([Demo](https://mretc.net/feedmixer/json?f=https://hnrss.org/newest\&f=https://americancynic.net/atom.xml\&n=1)) `WTFPL` `Python`
-*   [homebank-converter (⭐36)](https://github.com/Binnette/homebank-converter) - Web app to convert an export bank file to compatible Homebank csv. ([Demo](https://binnette.github.io/homebank-converter/)) `AGPL-3.0` `HTML5`
+*   [homebank-converter (⭐39)](https://github.com/Binnette/homebank-converter) - Web app to convert an export bank file to compatible Homebank csv. ([Demo](https://binnette.github.io/homebank-converter/)) `AGPL-3.0` `HTML5`
 *   [SickRage](https://www.sickrage.ca) - SickRage is an automatic Video Library Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code (⭐1.5k)](https://github.com/SickRage/SickRage)) `GPL-3.0` `Python`
 *   [WebUI-aria2 (⭐9k)](https://github.com/ziahamza/webui-aria2) - Interface to interact with the aria2 downloader. Very simple to use, just download and open index.html in any web browser. ([Demo](https://ziahamza.github.io/webui-aria2/)) `MIT` `HTML5`
 
 ### Software / Blogging Platforms
 
-*   [Chyrp Lite](https://chyrplite.net) - Extra-awesome, extra-lightweight blog engine. ([Source Code (⭐193)](https://github.com/xenocrat/chyrp-lite)) `BSD-3-Clause` `PHP`
-*   [PluXml](https://pluxml.org) - XML-based blog/CMS platform. ([Source Code (⭐191)](https://github.com/pluxml/PluXml)) `GPL-1.0` `PHP`
+*   [Chyrp Lite](https://chyrplite.net) - Extra-awesome, extra-lightweight blog engine. ([Source Code (⭐199)](https://github.com/xenocrat/chyrp-lite)) `BSD-3-Clause` `PHP`
+*   [PluXml](https://pluxml.org) - XML-based blog/CMS platform. ([Source Code (⭐193)](https://github.com/pluxml/PluXml)) `GPL-1.0` `PHP`
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Servers
 
@@ -462,12 +457,12 @@
 
 *   [Live Helper Chat](https://livehelperchat.com/) - Live Support chat for your website. ([Source Code (⭐1.7k)](https://github.com/LiveHelperChat/livehelperchat)) `Apache-2.0` `PHP`
 *   [Mattermost](https://mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with Gitlab. ([Source Code (⭐24k)](https://github.com/mattermost/mattermost-server)) `AGPL-3.0/Apache-2.0` `Go`
-*   [Spectrum 2](https://spectrum.im/) - Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ([Source Code (⭐341)](https://github.com/SpectrumIM/spectrum2)) `GPL-3.0` `C++`
+*   [Spectrum 2](https://spectrum.im/) - Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ([Source Code (⭐344)](https://github.com/SpectrumIM/spectrum2)) `GPL-3.0` `C++`
 *   [Synapse](https://matrix.org/docs/projects/server/synapse) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code (⭐10k)](https://github.com/matrix-org/synapse)) `Apache-2.0` `Python`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [iRedMail](https://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([Source Code (⭐885)](https://github.com/iredmail/iRedMail)) `GPL-3.0` `Shell`
+*   [iRedMail](https://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([Source Code (⭐914)](https://github.com/iredmail/iRedMail)) `GPL-3.0` `Shell`
 *   [Modoboa](https://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code (⭐2.3k)](https://github.com/modoboa/modoboa)) `ISC` `Python`
 
 ### Software / Communication - Email - Mail Transfer Agents
@@ -477,28 +472,28 @@
 *   [MailCatcher](https://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([Source Code (⭐5.8k)](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
 *   [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([Source Code](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)) `ISC` `C`
 *   [Sendmail](https://www.proofpoint.com/us/products/email-protection/open-source-email-solution) - Message transfer agent (MTA). `Sendmail` `C`
-*   [Slimta](https://www.slimta.org) - Mail Transfer Library built on Python. ([Source Code (⭐162)](https://github.com/slimta/python-slimta)) `MIT` `Python`
+*   [Slimta](https://www.slimta.org) - Mail Transfer Library built on Python. ([Source Code (⭐164)](https://github.com/slimta/python-slimta)) `MIT` `Python`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
-*   [Dada Mail](https://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code (⭐147)](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
+*   [Dada Mail](https://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code (⭐151)](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [Cypht](https://cypht.org) - Feed reader for your email accounts. ([Source Code (⭐759)](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`
+*   [Cypht](https://cypht.org) - Feed reader for your email accounts. ([Source Code (⭐769)](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`
 *   [SquirrelMail](https://squirrelmail.org) - Another browser-based IMAP client. ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`
 
 ### Software / Communication - IRC
 
-*   [Convos](https://convos.chat/) - Always online web IRC client. ([Demo](https://convos.chat/#instant-demo), [Source Code (⭐907)](https://github.com/nordaaker/convos)) `Artistic-2.0` `Perl`
+*   [Convos](https://convos.chat/) - Always online web IRC client. ([Demo](https://convos.chat/#instant-demo), [Source Code (⭐918)](https://github.com/nordaaker/convos)) `Artistic-2.0` `Perl`
 *   [ZNC](https://wiki.znc.in/ZNC) - Advanced IRC bouncer. ([Source Code (⭐1.9k)](https://github.com/znc/znc)) `Apache-2.0` `C++`
 
 ### Software / Communication - SIP
 
 *   [Asterisk](https://www.asterisk.org/) - Easy to use but advanced IP PBX system, VoIP gateway and conference server. `GPL-2.0` `C`
 *   [Freepbx](https://www.freepbx.org) - Web-based open source GUI that controls and manages Asterisk. ([Source Code](https://git.freepbx.org/projects/FREEPBX)) `GPL-2.0` `PHP`
-*   [Kamailio](https://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc). ([Source Code (⭐1.7k)](https://github.com/kamailio/kamailio)) `GPL-2.0` `C`
-*   [Kazoo](https://2600hz.org/) - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. ([Source Code (⭐887)](https://github.com/2600hz/KAZOO)) `MPL-1.1` `Erlang`
+*   [Kamailio](https://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc). ([Source Code (⭐1.8k)](https://github.com/kamailio/kamailio)) `GPL-2.0` `C`
+*   [Kazoo](https://2600hz.org/) - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. ([Source Code (⭐886)](https://github.com/2600hz/KAZOO)) `MPL-1.1` `Erlang`
 *   [SipXcom](https://sipxcom.org/) - Open source unified communications system. ([Source Code (⭐33)](https://github.com/sipXcom/sipxecs)) `AGPL-3.0` `Java`
 *   [Wazo](https://wazo-platform.org/) - Full-featured IPBX solution built atop Asterisk with integrated Web administration interface and REST-ful API. ([Source Code](https://github.com/wazo-platform)) `GPL-3.0` `Python`
 
@@ -506,10 +501,10 @@
 
 *   [Bootcamp](https://trybootcamp.vitorfs.com) - Enterprise social network. ([Source Code (⭐2.2k)](https://github.com/vitorfs/bootcamp)) `MIT` `Python`
 *   [Discourse](https://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Demo](https://try.discourse.org/), [Source Code (⭐37k)](https://github.com/discourse/discourse)) `GPL-2.0` `Ruby`
-*   [Flarum](https://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code (⭐13k)](https://github.com/flarum/flarum)) `MIT` `PHP`
-*   [MyBB](https://mybb.com/) - Free, extensible forum software package. ([Source Code (⭐870)](https://github.com/mybb/mybb)) `LGPL-3.0` `PHP`
-*   [Orange Forum](https://www.goodoldweb.com/) - Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript. ([Source Code (⭐417)](https://github.com/s-gv/orangeforum)) `BSD-3-Clause` `Go`
-*   [PixelFed](https://pixelfed.social) - Pixelfed is an open-source, federated platform alternate to Instagram. ([Source Code (⭐3.9k)](https://github.com/pixelfed/pixelfed)) `AGPL-3.0` `PHP`
+*   [Flarum](https://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code (⭐14k)](https://github.com/flarum/flarum)) `MIT` `PHP`
+*   [MyBB](https://mybb.com/) - Free, extensible forum software package. ([Source Code (⭐891)](https://github.com/mybb/mybb)) `LGPL-3.0` `PHP`
+*   [Orange Forum](https://www.goodoldweb.com/) - Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript. ([Source Code (⭐418)](https://github.com/s-gv/orangeforum)) `BSD-3-Clause` `Go`
+*   [PixelFed](https://pixelfed.social) - Pixelfed is an open-source, federated platform alternate to Instagram. ([Source Code (⭐4.2k)](https://github.com/pixelfed/pixelfed)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - XMPP - Servers
 
@@ -524,35 +519,35 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code (⭐122)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
-*   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐884)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
+*   [Cagette](https://cagette.net/) - Open source web app to help people build a better and sustainable food system. Some people call it a 'foodhub' - a mix between a groupware and a marketplace, helping consumers to order food from local farmers and producers. ([Source Code (⭐125)](https://github.com/CagetteNet/cagette)) `GPL-2.0` `Haxe`
+*   [Open Food Network](https://www.openfoodnetwork.org/) - Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses. ([Source Code (⭐901)](https://github.com/openfoodfoundation/openfoodnetwork)) `AGPL-3.0` `Ruby`
 
 ### Software / Conference Management
 
 *   [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference and event websites built on top of Drupal. ([Source Code](https://git.drupalcode.org/project/cod)) `GPL-1.0` `PHP`
-*   [osem](https://osem.io/) - Event management tailored to free Software conferences. ([Demo](https://demo.osem.io/), [Source Code (⭐746)](https://github.com/openSUSE/osem)) `MIT` `Ruby`
+*   [osem](https://osem.io/) - Event management tailored to free Software conferences. ([Demo](https://demo.osem.io/), [Source Code (⭐751)](https://github.com/openSUSE/osem)) `MIT` `Ruby`
 
 ### Software / Content Management Systems (CMS)
 
 *   [CMS Made Simple](https://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL-1.0` `PHP`
 *   [Cockpit](https://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code (⭐5.3k)](https://github.com/agentejo/cockpit)) `MIT` `PHP`
-*   [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code (⭐708)](https://github.com/concrete5/concrete5)) `MIT` `PHP`
-*   [CouchCMS](https://www.couchcms.com/) - Simple Open-Source CMS for designers. ([Source Code (⭐310)](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`
+*   [Concrete 5 CMS](https://www.concretecms.com) - Open source content management system. ([Source Code (⭐716)](https://github.com/concrete5/concrete5)) `MIT` `PHP`
+*   [CouchCMS](https://www.couchcms.com/) - Simple Open-Source CMS for designers. ([Source Code (⭐312)](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`
 *   [Drupal](https://www.drupal.org/) - Advanced open source content management platform. ([Source Code](https://git.drupalcode.org/project/drupal)) `GPL-2.0` `PHP`
-*   [eLabFTW](https://www.elabftw.net) - Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators…. ([Demo](https://demo.elabftw.net), [Source Code (⭐664)](https://github.com/elabftw/elabftw)) `AGPL-3.0` `PHP`
+*   [eLabFTW](https://www.elabftw.net) - Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators…. ([Demo](https://demo.elabftw.net), [Source Code (⭐679)](https://github.com/elabftw/elabftw)) `AGPL-3.0` `PHP`
 *   [MODX](https://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ([Source Code (⭐1.3k)](https://github.com/modxcms/revolution)) `GPL-2.0` `PHP`
-*   [Omeka](https://omeka.org) - Create complex narratives and share rich collections, adhering to Dublin Core standards with Omeka on your server, designed for scholars, museums, libraries, archives, and enthusiasts. ([Demo](https://omeka.org/classic/showcase/), [Source Code (⭐407)](https://github.com/omeka/Omeka)) `GPL-3.0` `PHP`
+*   [Omeka](https://omeka.org) - Create complex narratives and share rich collections, adhering to Dublin Core standards with Omeka on your server, designed for scholars, museums, libraries, archives, and enthusiasts. ([Demo](https://omeka.org/classic/showcase/), [Source Code (⭐415)](https://github.com/omeka/Omeka)) `GPL-3.0` `PHP`
 *   [Pico](https://picocms.org/) - Stupidly simple, blazing fast, flat file CMS. ([Source Code (⭐3.6k)](https://github.com/picocms/Pico)) `MIT` `PHP`
-*   [PropertyWebBuilder](https://propertywebbuilder.com) - Ultimate Ruby on Rails engine for creating real estate websites. ([Demo](https://propertywebbuilder.herokuapp.com), [Source Code (⭐457)](https://github.com/etewiah/property_web_builder)) `MIT` `Ruby`
+*   [PropertyWebBuilder](https://propertywebbuilder.com) - Ultimate Ruby on Rails engine for creating real estate websites. ([Demo](https://propertywebbuilder.herokuapp.com), [Source Code (⭐466)](https://github.com/etewiah/property_web_builder)) `MIT` `Ruby`
 *   [SilverStripe](https://www.silverstripe.org) - Easy to use CMS with powerful MVC framework underlying. ([Demo](https://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)) `BSD-3-Clause` `PHP`
 *   [SPIP](https://www.spip.net/fr) - Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors. ([Source Code](https://git.spip.net/)) `GPL-3.0` `PHP`
 *   [Squidex](https://squidex.io) - Headless CMS, based on MongoDB, CQRS and Event Sourcing. ([Demo](https://cloud.squidex.io), [Source Code (⭐1.8k)](https://github.com/Squidex/squidex)) `MIT` `.NET`
-*   [Textpattern](https://textpattern.com/) - Flexible, elegant and easy-to-use CMS. ([Demo](https://textpattern.co/demo), [Source Code (⭐698)](https://github.com/textpattern/textpattern)) `GPL-2.0` `PHP`
-*   [WonderCMS](https://www.wondercms.com) - WonderCMS is the smallest flat file CMS since 2008. ([Demo](https://www.wondercms.com/demo), [Source Code (⭐491)](https://github.com/robiso/wondercms)) `MIT` `PHP`
+*   [Textpattern](https://textpattern.com/) - Flexible, elegant and easy-to-use CMS. ([Demo](https://textpattern.co/demo), [Source Code (⭐697)](https://github.com/textpattern/textpattern)) `GPL-2.0` `PHP`
+*   [WonderCMS](https://www.wondercms.com) - WonderCMS is the smallest flat file CMS since 2008. ([Demo](https://www.wondercms.com/demo), [Source Code (⭐505)](https://github.com/robiso/wondercms)) `MIT` `PHP`
 
 ### Software / DNS
 
-*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐209)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
+*   [SPF Toolbox](https://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code (⭐212)](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`
 
 ### Software / Document Management
 
@@ -560,43 +555,43 @@
 
 ### Software / Document Management - E-books
 
-*   [BicBucStriim](https://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library's e-book collection. ([Source Code (⭐387)](https://github.com/rvolz/BicBucStriim)) `MIT` `PHP`
-*   [Tanoshi (⭐292)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
+*   [BicBucStriim](https://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library's e-book collection. ([Source Code (⭐389)](https://github.com/rvolz/BicBucStriim)) `MIT` `PHP`
+*   [Tanoshi (⭐303)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [DSpace](https://duraspace.org/dspace/) - Turnkey repository application providing durable access to digital resources. ([Source Code (⭐672)](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
+*   [DSpace](https://duraspace.org/dspace/) - Turnkey repository application providing durable access to digital resources. ([Source Code (⭐691)](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
 *   [EPrints](https://www.eprints.org/) - Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. ([Demo](http://tryme.demo.eprints-hosting.org/), [Source Code (⭐60)](https://github.com/eprints/eprints)) `GPL-3.0` `Perl`
 
 ### Software / Feed Readers
 
-*   [FreshRSS](https://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](https://demo.freshrss.org/i/), [Source Code (⭐4.9k)](https://github.com/FreshRSS/FreshRSS), [Clients (⭐107)](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP`
+*   [FreshRSS](https://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](https://demo.freshrss.org/i/), [Source Code (⭐5.2k)](https://github.com/FreshRSS/FreshRSS), [Clients (⭐110)](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP`
 *   [Kriss Feed](https://tontof.net/kriss/feed/) - Simple and smart (or stupid) feed reader. ([Demo](https://tontof.net/feed/), [Source Code (⭐268)](https://github.com/tontof/kriss_feed)) `CC0-1.0` `PHP`
-*   [NewsBlur](https://www.newsblur.com/) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. ([Source Code (⭐6.1k)](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`
+*   [NewsBlur](https://www.newsblur.com/) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. ([Source Code (⭐6.2k)](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`
 *   [Selfoss](https://selfoss.aditu.de/) - New multipurpose rss reader, live stream, mashup, aggregation web application. ([Source Code (⭐2.2k)](https://github.com/fossar/selfoss)) `GPL-3.0` `PHP`
-*   [Sismics Reader](https://www.sismics.com/reader/) - Free and open source feeds reader, including all major Google Reader features. ([Demo](https://www.sismics.com/reader/#!/demo), [Source Code (⭐374)](https://github.com/sismics/reader)) `GPL-2.0` `Java`
+*   [Sismics Reader](https://www.sismics.com/reader/) - Free and open source feeds reader, including all major Google Reader features. ([Demo](https://www.sismics.com/reader/#!/demo), [Source Code (⭐377)](https://github.com/sismics/reader)) `GPL-2.0` `Java`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [ProjectSend](https://www.projectsend.org/) - Upload files and assign them to specific clients you create. Give access to those files to your clients. ([Source Code (⭐948)](https://github.com/projectsend/projectsend)) `GPL-2.0` `PHP`
+*   [ProjectSend](https://www.projectsend.org/) - Upload files and assign them to specific clients you create. Give access to those files to your clients. ([Source Code (⭐977)](https://github.com/projectsend/projectsend)) `GPL-2.0` `PHP`
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [DirectoryLister](https://www.directorylister.com/) - Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code (⭐1.7k)](https://github.com/DirectoryLister/DirectoryLister)) `MIT` `PHP`
+*   [DirectoryLister](https://www.directorylister.com/) - Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code (⭐1.8k)](https://github.com/DirectoryLister/DirectoryLister)) `MIT` `PHP`
 
 ### Software / Games
 
-*   [A Dark Room (⭐6k)](https://github.com/doublespeakgames/adarkroom) - Minimalist text adventure game for your browser. ([Demo](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `HTML5`
+*   [A Dark Room (⭐6.1k)](https://github.com/doublespeakgames/adarkroom) - Minimalist text adventure game for your browser. ([Demo](https://adarkroom.doublespeakgames.com/)) `MPL-2.0` `HTML5`
 
 ### Software / Groupware
 
-*   [egroupware](https://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS. ([Source Code (⭐194)](https://github.com/EGroupware/egroupware)) `GPL-2.0` `PHP`
+*   [egroupware](https://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS. ([Source Code (⭐200)](https://github.com/EGroupware/egroupware)) `GPL-2.0` `PHP`
 *   [SuiteCRM](https://suitecrm.com) - The award-winning, enterprise-class open source CRM. ([Source Code (⭐3.2k)](https://github.com/salesagility/SuiteCRM)) `AGPL-3.0` `PHP`
 
 ### Software / Internet of Things (IoT)
 
-*   [Node RED](https://nodered.org/) - Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. ([Source Code (⭐15k)](https://github.com/node-red/node-red)) `Apache-2.0` `Nodejs`
-*   [openHAB](https://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code (⭐700)](https://github.com/openhab/openhab-core)) `EPL-2.0` `Java`
+*   [Node RED](https://nodered.org/) - Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. ([Source Code (⭐16k)](https://github.com/node-red/node-red)) `Apache-2.0` `Nodejs`
+*   [openHAB](https://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code (⭐716)](https://github.com/openhab/openhab-core)) `EPL-2.0` `Java`
 
 ### Software / Knowledge Management Tools
 
@@ -604,42 +599,42 @@
 
 ### Software / Learning and Courses
 
-*   [ILIAS](https://www.ilias.de) - ILIAS is the Learning Management System that can cope with anything you throw at it. ([Demo](https://demo.ilias.de), [Source Code (⭐308)](https://github.com/ILIAS-eLearning/ILIAS)) `GPL-3.0` `PHP`
-*   [Open eClass](https://www.openeclass.org/) - Open eClass is an advanced e-learning solution that can enhance the teaching and learning process. ([Demo](https://demo.openeclass.org/), [Source Code (⭐106)](https://github.com/gunet/openeclass)) `GPL-2.0` `PHP`
+*   [ILIAS](https://www.ilias.de) - ILIAS is the Learning Management System that can cope with anything you throw at it. ([Demo](https://demo.ilias.de), [Source Code (⭐325)](https://github.com/ILIAS-eLearning/ILIAS)) `GPL-3.0` `PHP`
+*   [Open eClass](https://www.openeclass.org/) - Open eClass is an advanced e-learning solution that can enhance the teaching and learning process. ([Demo](https://demo.openeclass.org/), [Source Code (⭐108)](https://github.com/gunet/openeclass)) `GPL-2.0` `PHP`
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [OwnTracks Recorder (⭐639)](https://github.com/owntracks/recorder) `⚠` - Store and access data published by [OwnTracks](https://owntracks.org/) location tracking apps. `GPL-2.0` `C/Lua`
+*   [OwnTracks Recorder (⭐647)](https://github.com/owntracks/recorder) `⚠` - Store and access data published by [OwnTracks](https://owntracks.org/) location tracking apps. `GPL-2.0` `C/Lua`
 *   [TileServer GL](https://tileserver.readthedocs.io/) - Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc. ([Source Code (⭐1.6k)](https://github.com/maptiler/tileserver-gl)) `BSD-2-Clause` `Nodejs`
-*   [TileServer PHP](https://www.maptiler.com/server/) - Serve map tiles from any PHP hosting. ([Source Code (⭐515)](https://github.com/maptiler/tileserver-php)) `BSD-2-Clause` `PHP`
+*   [TileServer PHP](https://www.maptiler.com/server/) - Serve map tiles from any PHP hosting. ([Source Code (⭐516)](https://github.com/maptiler/tileserver-php)) `BSD-2-Clause` `PHP`
 *   [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. ([Demo](https://demo.traccar.org/), [Source Code](https://github.com/traccar)) `Apache-2.0` `Java`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Ampache](https://ampache.org/) - Web based audio/video streaming application. ([Demo](https://play.dogmazic.net/), [Source Code (⭐3.1k)](https://github.com/ampache/ampache)) `AGPL-3.0` `PHP`
+*   [Ampache](https://ampache.org/) - Web based audio/video streaming application. ([Demo](https://play.dogmazic.net/), [Source Code (⭐3.2k)](https://github.com/ampache/ampache)) `AGPL-3.0` `PHP`
 *   [Beets](https://beets.io/) - Music library manager and MusicBrainz tagger (command-line and Web interface). ([Source Code (⭐11k)](https://github.com/beetbox/beets)) `MIT` `Python`
 *   [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm. ([Source Code](https://git.savannah.gnu.org/cgit/librefm.git/)) `AGPL-3.0` `PHP`
-*   [LibreTime](https://libretime.org) - Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime (⭐606)](https://github.com/sourcefabric/Airtime)). ([Source Code (⭐636)](https://github.com/LibreTime/libretime)) `AGPL-3.0` `PHP`
-*   [Mopidy](https://docs.mopidy.com/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source Code (⭐7.5k)](https://github.com/mopidy/mopidy)) `Apache-2.0` `Python`
+*   [LibreTime](https://libretime.org) - Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime (⭐603)](https://github.com/sourcefabric/Airtime)). ([Source Code (⭐646)](https://github.com/LibreTime/libretime)) `AGPL-3.0` `PHP`
+*   [Mopidy](https://docs.mopidy.com/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source Code (⭐7.6k)](https://github.com/mopidy/mopidy)) `Apache-2.0` `Python`
 *   [mpd](https://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. ([Source Code (⭐1.7k)](https://github.com/MusicPlayerDaemon/MPD), [Clients](https://www.musicpd.org/clients/)) `GPL-2.0` `C++`
 *   [mStream](https://mstream.io/) - Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. ([Source Code (⭐1.9k)](https://github.com/IrosTheBeggar/mStream)) `GPL-2.0` `Nodejs`
 
 ### Software / Media Streaming - Video Streaming
 
 *   [CyTube (⭐1.3k)](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](https://cytu.be)) `MIT` `Nodejs`
-*   [SyncTube (⭐152)](https://github.com/RblSb/SyncTube) - Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat. ([Demo](https://synctube-example.herokuapp.com/)) `MIT` `Nodejs/Haxe`
+*   [SyncTube (⭐162)](https://github.com/RblSb/SyncTube) - Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat. ([Demo](https://synctube-example.herokuapp.com/)) `MIT` `Nodejs/Haxe`
 
 ### Software / Miscellaneous
 
-*   [asciiflow](https://asciiflow.com/) - Flow Diagram Drawing Tool. ([Source Code (⭐3.3k)](https://github.com/lewish/asciiflow)) `MIT` `Nodejs`
-*   [Reactive Resume](https://rxresu.me/) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ([Demo](https://rxresu.me/app/dashboard/), [Source Code (⭐7.9k)](https://github.com/AmruthPillai/Reactive-Resume)) `MIT` `Docker/Nodejs`
+*   [asciiflow](https://asciiflow.com/) - Flow Diagram Drawing Tool. ([Source Code (⭐3.4k)](https://github.com/lewish/asciiflow)) `MIT` `Nodejs`
+*   [Reactive Resume](https://rxresu.me/) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ([Demo](https://rxresu.me/app/dashboard/), [Source Code (⭐8.1k)](https://github.com/AmruthPillai/Reactive-Resume)) `MIT` `Docker/Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Economizzer](https://www.economizzer.org/) - An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone. ([Demo (⭐406)](https://github.com/gugoan/economizzer#live-demo), [Source Code (⭐406)](https://github.com/gugoan/economizzer)) `MIT` `PHP`
+*   [Economizzer](https://www.economizzer.org/) - An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone. ([Demo (⭐412)](https://github.com/gugoan/economizzer#live-demo), [Source Code (⭐412)](https://github.com/gugoan/economizzer)) `MIT` `PHP`
 *   [Galette](https://galette.eu/dc/) - Galette is a membership management web application towards non profit organizations. ([Source Code](https://git.tuxfamily.org/galette/galette.git/)) `GPL-3.0` `PHP`
 *   [GRR](https://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies. ([Source Code (⭐60)](https://github.com/JeromeDevome/GRR)) `GPL-2.0` `PHP`
-*   [Hospital Run](https://hospitalrun.io/) - Hospital Run is offline enabled hospital management software. ([Demo](https://hospitalrun.io/demo/), [Source Code (⭐839)](https://github.com/HospitalRun/hospitalrun-server)) `GPL-3.0` `Nodejs`
+*   [Hospital Run](https://hospitalrun.io/) - Hospital Run is offline enabled hospital management software. ([Demo](https://hospitalrun.io/demo/), [Source Code (⭐844)](https://github.com/HospitalRun/hospitalrun-server)) `GPL-3.0` `Nodejs`
 
 ### Software / Note-taking & Editors
 
@@ -647,41 +642,41 @@
 
 ### Software / Office Suites
 
-*   [Etherpad](https://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code (⭐13k)](https://github.com/ether/etherpad-lite)) `Apache-2.0` `Nodejs`
-*   [WebODF](https://webodf.org/) - Tools and libraries to view and edit Open Document Format (ODF) files. ([Source Code (⭐766)](https://github.com/webodf/WebODF)) `AGPL-3.0` `HTML5`
+*   [Etherpad](https://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code (⭐14k)](https://github.com/ether/etherpad-lite)) `Apache-2.0` `Nodejs`
+*   [WebODF](https://webodf.org/) - Tools and libraries to view and edit Open Document Format (ODF) files. ([Source Code (⭐767)](https://github.com/webodf/WebODF)) `AGPL-3.0` `HTML5`
 
 ### Software / Password Managers
 
-*   [sysPass](https://www.syspass.org/) - Multiuser password management system. ([Demo](https://demo.syspass.org/), [Source Code (⭐882)](https://github.com/nuxsmin/sysPass)) `GPL-3.0` `PHP`
-*   [Teampass](https://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP. ([Source Code (⭐1.4k)](https://github.com/nilsteampassnet/TeamPass)) `GPL-3.0` `PHP`
+*   [sysPass](https://www.syspass.org/) - Multiuser password management system. ([Demo](https://demo.syspass.org/), [Source Code (⭐896)](https://github.com/nuxsmin/sysPass)) `GPL-3.0` `PHP`
+*   [Teampass](https://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP. ([Source Code (⭐1.5k)](https://github.com/nilsteampassnet/TeamPass)) `GPL-3.0` `PHP`
 
 ### Software / Pastebins
 
 *   [fiche (⭐1.2k)](https://github.com/solusipse/fiche) - Command line pastebin, all you need is netcat. ([Demo](https://termbin.com/)) `MIT` `C`
-*   [mojopaste](https://metacpan.org/dist/App-mojopaste) - Perl based pastebin. ([Demo](https://p.thorsen.pm/), [Source Code (⭐38)](https://github.com/jhthorsen/app-mojopaste)) `Artistic-2.0` `Perl`
+*   [mojopaste](https://metacpan.org/dist/App-mojopaste) - Perl based pastebin. ([Demo](https://p.thorsen.pm/), [Source Code (⭐39)](https://github.com/jhthorsen/app-mojopaste)) `Artistic-2.0` `Perl`
 
 ### Software / Personal Dashboards
 
-*   [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code (⭐1.9k)](https://github.com/wger-project/wger)) `AGPL-3.0` `Python`
+*   [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code (⭐2k)](https://github.com/wger-project/wger)) `AGPL-3.0` `Python`
 
 ### Software / Photo and Video Galleries
 
-*   [Coppermine](https://coppermine-gallery.net/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.net/demo/cpg15x/), [Source Code (⭐57)](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
+*   [Coppermine](https://coppermine-gallery.net/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.net/demo/cpg15x/), [Source Code (⭐58)](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
 *   [Mediagoblin](https://mediagoblin.org) - Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc. ([Source Code](https://savannah.gnu.org/projects/mediagoblin)) `AGPL-3.0` `Python`
-*   [UberGallery](https://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source Code (⭐204)](https://github.com/UberGallery/UberGallery)) `MIT` `PHP`
-*   [Zenphoto](https://www.zenphoto.org/) - Open-source gallery and CMS project. ([Source Code (⭐268)](https://github.com/zenphoto/zenphoto)) `GPL-2.0` `PHP`
+*   [UberGallery](https://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source Code (⭐205)](https://github.com/UberGallery/UberGallery)) `MIT` `PHP`
+*   [Zenphoto](https://www.zenphoto.org/) - Open-source gallery and CMS project. ([Source Code (⭐272)](https://github.com/zenphoto/zenphoto)) `GPL-2.0` `PHP`
 
 ### Software / Polls and Events
 
-*   [Calagator](https://calagator.org/) - Event aggregator. ([Source Code (⭐407)](https://github.com/calagator/calagator)) `MIT` `Ruby`
-*   [PHPBack](https://www.phpback.org) - The open source feedback system. ([Demo](https://www.phpback.org/demo/), [Source Code (⭐372)](https://github.com/ivandiazwm/phpback)) `GPL-3.0` `PHP`
+*   [Calagator](https://calagator.org/) - Event aggregator. ([Source Code (⭐411)](https://github.com/calagator/calagator)) `MIT` `Ruby`
+*   [PHPBack](https://www.phpback.org) - The open source feedback system. ([Demo](https://www.phpback.org/demo/), [Source Code (⭐371)](https://github.com/ivandiazwm/phpback)) `GPL-3.0` `PHP`
 
 ### Software / Proxy
 
-*   [iodine](https://code.kryo.se/iodine/) - IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code (⭐4.5k)](https://github.com/yarrick/iodine)) `ISC` `C`
+*   [iodine](https://code.kryo.se/iodine/) - IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code (⭐4.7k)](https://github.com/yarrick/iodine)) `ISC` `C`
 *   [Pound](https://www.apsis.ch/pound.html) - Light-weight reverse proxy and load balancer for HTTP/HTTPS. `GPL-2.0` `C`
 *   [Privoxy](https://www.privoxy.org) - Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. `GPL-2.0` `C`
-*   [SWAG (Secure Web Application Gateway) (⭐1.6k)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
+*   [SWAG (Secure Web Application Gateway) (⭐1.7k)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
@@ -694,38 +689,38 @@
 *   [GitLab](https://about.gitlab.com) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby`
 *   [Gitlist](https://gitlist.org/) - Web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs. ([Source Code (⭐2.9k)](https://github.com/klaussilveira/gitlist)) `BSD-3-Clause` `PHP`
 *   [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. ([Source Code (⭐8.1k)](https://github.com/sitaramc/gitolite)) `GPL-2.0` `Perl`
-*   [Lavagna](https://lavagna.io) - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. ([Source Code (⭐597)](https://github.com/digitalfondue/lavagna)) `GPL-3.0` `Java`
+*   [Lavagna](https://lavagna.io) - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. ([Source Code (⭐602)](https://github.com/digitalfondue/lavagna)) `GPL-3.0` `Java`
 *   [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. ([Demo](http://demo.redmine.org/), [Source Code](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`
 *   [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python`
-*   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo.zentao.pm/user-login.html), [Source Code (⭐918)](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
+*   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](https://demo.zentao.pm/user-login.html), [Source Code (⭐953)](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`
 
 ### Software / Software Development - Testing
 
-*   [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code (⭐2.2k)](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
+*   [Selenoid](https://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code (⭐2.3k)](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`
 
 ### Software / Task Management & To-do Lists
 
-*   [myTinyTodo](https://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. ([Demo](https://www.mytinytodo.net/demo/), [Source Code (⭐72)](https://github.com/maxpozdeev/mytinytodo/)) `GPL-2.0` `PHP`
+*   [myTinyTodo](https://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. ([Demo](https://www.mytinytodo.net/demo/), [Source Code (⭐82)](https://github.com/maxpozdeev/mytinytodo/)) `GPL-2.0` `PHP`
 *   [TaskBoard](https://taskboard.matthewross.me/) - Kanban-inspired app for keeping track of things that need to get done. ([Demo](https://taskboard.matthewross.me/demo.html), [Source Code (⭐1.3k)](https://github.com/kiswa/TaskBoard)) `MIT` `PHP`
 *   [Tracks](https://www.getontracks.org/) - Web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. ([Source Code (⭐1.1k)](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`
 
 ### Software / Ticketing
 
 *   [Bumpy Booby](https://bumpy-booby.derivoile.fr/) - Simple, responsive and highly customizable PHP bug tracking system. ([Source Code (⭐28)](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
-*   [Flyspray](https://www.flyspray.org/) - Uncomplicated, web-based bug tracking system. ([Source Code (⭐360)](https://github.com/Flyspray/flyspray)) `GPL-2.0` `PHP`
+*   [Flyspray](https://www.flyspray.org/) - Uncomplicated, web-based bug tracking system. ([Source Code (⭐361)](https://github.com/Flyspray/flyspray)) `GPL-2.0` `PHP`
 *   [osTicket](https://osticket.com/) - Manage, organize and archive all your support requests and responses in one place. ([Source Code (⭐2.6k)](https://github.com/osTicket/osTicket)) `GPL-2.0` `PHP`
 
 ### Software / URL Shorteners
 
-*   [YOURLS](https://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code (⭐8.5k)](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
+*   [YOURLS](https://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code (⭐8.7k)](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
 
 ### Software / Wikis
 
 *   [PmWiki](https://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites. `GPL-3.0` `PHP`
-*   [TiddlyWiki](https://tiddlywiki.com/) - Reusable non-linear personal web notebook. ([Source Code (⭐7k)](https://github.com/Jermolene/TiddlyWiki5)) `BSD-3-Clause` `Nodejs`
+*   [TiddlyWiki](https://tiddlywiki.com/) - Reusable non-linear personal web notebook. ([Source Code (⭐7.1k)](https://github.com/Jermolene/TiddlyWiki5)) `BSD-3-Clause` `Nodejs`
 *   [TWiki](https://twiki.org/) - TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal. ([Demo](https://twiki.org/cgi-bin/view/Sandbox/WebHome), [Source Code](http://svn.twiki.org/svn/twiki/)) `GPL-1.0` `Perl`
 *   [WiKiss](https://wikiss.tuxfamily.org/) - Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn\&path=%2F\&sc=0)) `GPL-2.0` `PHP`
-*   [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://playground.xwiki.org), [Source Code (⭐744)](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java`
+*   [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://playground.xwiki.org), [Source Code (⭐752)](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java`
 
 ### List of Licenses / Wikis
 
@@ -743,19 +738,19 @@
 
 *   Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](https://libreprojects.net/)
 
-## [36. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
+## [35. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/week/README.md)
 
 ### Documentation
 
 *   [Mastering CHIP-8 (⭐210)](https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908) - In-depth overview of the CHIP-8 instruction set.
 
-## [37. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [36. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Libraries
 
-*   [Datamol (⭐249)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
+*   [Datamol (⭐275)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
 
-## [38. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [37. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Articles / Hellonext
 
@@ -769,39 +764,39 @@
 
 *   [Difficult Conversations](https://www.chapters.indigo.ca/en-ca/books/difficult-conversations-how-to-discuss/9780143118442-item.html) - By Douglas Stone.
 
-## [39. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [38. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Health
 
-*   [CDC Places](https://www.cdc.gov/places/index.html) - A CDC colloboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
+*   [CDC Places](https://www.cdc.gov/places/index.html) - A CDC collaboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
 
 ### Vendor Data Resources / Travel Behavior
 
 *   [Teralytics](https://www.teralytics.net/) - Provides data and insights on mobility patterns based on cellular trace data using a global network of telecom providers.
 
-## [40. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / General Purpose
 
-*   [datamol (⭐249)](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
+*   [datamol (⭐275)](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 
 ### Libraries / Visualization
 
 *   [RDKit.js](https://www.npmjs.com/package/@rdkit/rdkit) - Official JavaScript distribution of cheminformatics functionality from the RDKit - a C++ library for cheminformatics.
 
-## [41. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [40. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [WSLackware (⭐44)](https://github.com/Mohsens22/WSLackware) - Slackware as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSLackware (⭐47)](https://github.com/Mohsens22/WSLackware) - Slackware as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [42. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [41. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Machine Learning
 
 *   [clj-synapses (⭐0)](https://github.com/mrdimosthenis/clj-synapses)
 
-## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [42. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -951,11 +946,21 @@
 
 
 
-## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Internationalization
 
 *   [Lens (⭐16)](https://github.com/syeopite/lens) - A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.
+
+## [44. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Arduino
+
+*   [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) (:card\_file\_box: *archived at unglue.it*)
+
+### Linux / TeX
+
+*   [Ubuntu Server Guide](https://help.ubuntu.com/20.04/serverguide/serverguide.pdf) (PDF)
 
 ## [45. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
@@ -1153,41 +1158,21 @@
 
 *   [Blogifier (⭐1.1k)](https://github.com/blogifierdotnet/Blogifier) - ![GitHub stars](https://img.shields.io/github/stars/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/blogifierdotnet/Blogifier?style=flat-square\&cacheSeconds=86400) ![.NET 5](https://img.shields.io/badge/.NET-5-692079.svg?style=flat-square) ASP.NET Core Blogging application with Blazor Admin Dashboard. [Demo](http://blogifier.net/blog).
 
-### Games
-
-*   [Game of Life (⭐4)](https://github.com/mariusmuntean/GameOfLife) - ![last commit](https://img.shields.io/github/last-commit/mariusmuntean/GameOfLife?style=flat-square\&cacheSeconds=86400) Game of life.
-
 ### IoT
 
 *   [Meadow Weather (⭐5)](https://github.com/bradwellsb/blazor-meadow-weather) - ![last commit](https://img.shields.io/github/last-commit/bradwellsb/blazor-meadow-weather?style=flat-square\&cacheSeconds=86400) In this sample, a Meadow microcontroller polls data from a LM35 temperature sensor. That data is sent via HTTP request to an API controller endpoint and stored in a database where it can be visualized in a chart using a Blazor web app.
 
-### Others
-
-*   [Planetary Docs (⭐54)](https://github.com/JeremyLikness/PlanetaryDocs) - ![stars](https://img.shields.io/github/stars/JeremyLikness/PlanetaryDocs?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/JeremyLikness/PlanetaryDocs?style=flat-square\&cacheSeconds=86400) ![.NET 6](https://img.shields.io/badge/.NET-6-692079.svg?style=flat-square) This repository is intended to showcase a full application that supports Create, Read, Update, and Delete operations (CRUD) using Blazor (Server), Entity Framework Core and Azure Cosmos DB. This repository is upgraded to .NET 6 and EF Core 6.
-
 ### Tutorials
 
-*   [Build the Game of Life with Blazor](https://dev.to/mariusmuntean/build-the-game-of-life-with-blazor-4ie9) - August, 2021 - Build the Game of Life with Blazor. [Source code (⭐4)](https://github.com/mariusmuntean/GameOfLife) ![stars](https://img.shields.io/github/stars/mariusmuntean/GameOfLife?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mariusmuntean/GameOfLife?style=flat-square\&cacheSeconds=86400).
 *   [Blazor Meadow Web API Weather Chart.js](https://wellsb.com/csharp/iot/blazor-meadow-web-api-weather-charts/) - June 2021 - Display sensor data using Chart.js in a Blazor application. [Source code (⭐5)](https://github.com/bradwellsb/blazor-meadow-weather) ![stars](https://img.shields.io/github/stars/bradwellsb/blazor-meadow-weather?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/bradwellsb/blazor-meadow-weather?style=flat-square\&cacheSeconds=86400).
-*   [Setup Blazor app using ASP.NET Core Empty project template](http://www.binaryintellect.net/articles/1969fdfd-b039-4e3d-81e6-db0526a97637.aspx) - May, 2021 - Setup Blazor app using ASP.NET Core Empty project template.
 
 ### Individual components / Testing
 
-*   [Verify.Blazor - a snapshot testing library for Blazor components (⭐21)](https://github.com/VerifyTests/Verify.Blazor) - ![stars](https://img.shields.io/github/stars/VerifyTests/Verify.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/VerifyTests/Verify.Blazor?style=flat-square\&cacheSeconds=86400) A snapshot testing library for Blazor Components. Supports rendering Blazor Components to a snapshot file via bunit or via raw Blazor rendering.
+*   [Verify.Blazor - a snapshot testing library for Blazor components (⭐22)](https://github.com/VerifyTests/Verify.Blazor) - ![stars](https://img.shields.io/github/stars/VerifyTests/Verify.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/VerifyTests/Verify.Blazor?style=flat-square\&cacheSeconds=86400) A snapshot testing library for Blazor Components. Supports rendering Blazor Components to a snapshot file via bunit or via raw Blazor rendering.
 
 ### Individual components / Others
 
 *   [MetaMask.Blazor (⭐33)](https://github.com/michielpost/MetaMask.Blazor) - ![last commit](https://img.shields.io/github/last-commit/michielpost/MetaMask.Blazor?style=flat-square\&cacheSeconds=86400) A library that provides an easy helper to use [MetaMask](https://metamask.io/) with Blazor WebAssembly.
-
-### Videos / Others
-
-*   [The .NET Docs Show - Micro frontends with Blazor](https://www.youtube.com/watch?v=8Ac2QMdusrs) - ![duration](https://img.shields.io/badge/Duration:%20-64%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 31, 2021 - In this week's episode, Florian Rappl joins the panel to show us how to build websites using compositional UIs that grow naturally as your application scales.
-*   [Let's Learn .NET: Blazor](https://channel9.msdn.com/Shows/lets-learn-dotnet/Lets-Learn-NET-Blazor) - ![duration](https://img.shields.io/badge/Duration:%20-121%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=microsoft) June 7, 2021 - Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor apps are composed of reusable web UI components implemented using C#, HTML, and CSS. Both client and server code is written in C#, allowing you to share code and libraries. Together, we will learn all about Blazor and why you would use it to build web apps, and then we will build our first client web app with Blazor and .NET.
-
-### Articles / Others
-
-*   [BabylonJS and Blazor - Simple Game State](https://codyanhorn.tech/blog/babylonjs-and-blazor-simple-game-state) - September 2, 2021 - Build a simple game with BabylonJS and Blazor. [Source code (⭐8)](https://github.com/canhorn/BabylonJS.Blazor.Game.Tutorial/tree/step/03_Simple-Game-State) ![stars](https://img.shields.io/github/stars/canhorn/BabylonJS.Blazor.Game.Tutorial?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/canhorn/BabylonJS.Blazor.Game.Tutorial?style=flat-square\&cacheSeconds=86400). [Demo](https://babylonjsblazorstep03.z19.web.core.windows.net/).
-*   [Why build Single Page Apps in Blazor](https://dev.to/dotnet/why-build-single-page-apps-in-blazor-103m) - June 16, 2021 - This post addresses some common Blazor questions. Specifically, the "what?", but more importantly the "why?". Why should I care about Blazor when we've already got Angular, React, Vue, or some other JavaScript framework? Why choose Blazor, and what is WebAssembly all about? We'll cover the history of Microsoft's web application development frameworks and what we see for its bright future.
 
 ## [48. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -1203,19 +1188,19 @@
 
 ### Templates / React
 
-*   [react-ts-vite-template (⭐74)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
+*   [react-ts-vite-template (⭐79)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-content (⭐94)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
+*   [vite-plugin-content (⭐103)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
 
 ### Elm / Integrations
 
-*   [vite-plugin-elm (⭐103)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
+*   [vite-plugin-elm (⭐111)](https://github.com/hmsk/vite-plugin-elm) - A plugin that enables you to compile an Elm module.
 
 ### Vue CLI / Community
 
-*   [webpack-to-vite (⭐541)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
+*   [webpack-to-vite (⭐569)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
 
 ## [50. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 

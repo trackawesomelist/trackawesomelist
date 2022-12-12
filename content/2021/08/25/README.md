@@ -89,11 +89,6 @@
 
 ## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
-### Articles / Others
-
-*   [So Why Doesn't Microsoft Provide Its Own Blazor Component Library?](https://visualstudiomagazine.com/articles/2021/08/13/blazor-components.aspx) - August 13, 2021 - Did you ever wonder why Microsoft doesn't provide a component library for Blazor, its red-hot ASP.NET Core framework for creating web apps primarily with C# instead of JavaScript?
-*   [What's New for Blazor/ASP.NET Core in .NET 6 Preview 6](https://visualstudiomagazine.com/articles/2021/07/15/aspnet-core-preview-6.aspx) - July 15, 2021 - What's New for Blazor/ASP.NET Core in .NET 6 Preview 6.
-
 ### Books / Others
 
 *   [Blazor in Action](https://www.manning.com/books/blazor-in-action) - An example-driven guide to building reusable UI components and web frontends—all with Blazor, C#, and .NET. (Manning Early Access Program began October 2020).
@@ -118,13 +113,13 @@
 
 ### Packages / Ecosystem
 
-*   [ROS2 For Unity (⭐168)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
+*   [ROS2 For Unity (⭐198)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Reinforcement Learning
 
-*   [RLlib (⭐22k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+*   [RLlib (⭐23k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
 ---
 

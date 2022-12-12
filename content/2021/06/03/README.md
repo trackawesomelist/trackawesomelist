@@ -46,7 +46,7 @@
 
 ### Music Notation
 
-*   [OpenSheetMusicDisplay (⭐1k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
+*   [OpenSheetMusicDisplay (⭐1.1k)](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
 
 ## [4. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Sequence Processing
 
-*   **[SeqFu (⭐70)](https://github.com/telatin/seqfu2)** - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. \[ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
+*   **[SeqFu (⭐71)](https://github.com/telatin/seqfu2)** - Sequence manipulation toolkit for FASTA/FASTQ files written in Nim. \[ [paper-2021](https://www.mdpi.com/2306-5354/8/5/59) | [web](https://telatin.github.io/seqfu2/) ]
 
 ## [6. Awesome Internships](/content/lodthe/awesome-internships/README.md)
 

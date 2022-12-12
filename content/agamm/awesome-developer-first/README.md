@@ -208,11 +208,6 @@ A curated list of awesome developer-first tools products.
 
 *   [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant.
 
-### Monitoring
-
-*   [Statuspal](https://statuspal.io) - Public/Private status pages for services with integrations.
-*   [instatus](https://instatus.com) - Minimalist Jamstack status page.
-
 ## [Sep 27, 2021](/content/2021/09/27/README.md)
 
 ### Media
@@ -257,10 +252,6 @@ A curated list of awesome developer-first tools products.
 *   [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
 
 ## [Aug 02, 2021](/content/2021/08/02/README.md)
-
-### Monitoring
-
-*   [Dashbird](https://dashbird.io/) - Serverless realtime monitoring.
 
 ### Scraping
 

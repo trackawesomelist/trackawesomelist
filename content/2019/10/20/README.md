@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2019
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,11 +61,13 @@
 
 *   [Vapor Red](https://vapor.red)
 
-## [8. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
-### React Next Boilerplate   [↗](https://awesomestacks.dev/react-next-boilerplate) / Resources
+### Boilerplates
 
-*   [react-next-boilerplate (⭐290)](https://github.com/react-next-boilerplate/react-next-boilerplate)
+*   [react-next-boilerplate (⭐297)](https://github.com/react-next-boilerplate/react-next-boilerplate) - :rocket: A basis for reducing the configuration of your projects with nextJS, best development practices and popular libraries in the developer community.
+
+## [9. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### React Next Boilerplate   [↗](https://awesomestacks.dev/react-next-boilerplate)
 
@@ -78,7 +80,7 @@
 
 *   [Stackdriver](https://cloud.google.com/stackdriver/) - [🛠️](https://stackshare.io/stackdriver) - Stackdriver Logging allows you to store, search, analyze, monitor, and alert on log data and events.
 
-## [9. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [10. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Social Impact
 
@@ -90,7 +92,7 @@
 
 *   [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 
-## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects / Operating Systems
 
@@ -100,14 +102,14 @@
 
 *   [Kévin Dunglas](https://github.com/sponsors/dunglas) - API Platform, Vulcain, Mercure and Symfony contributions.
 
-## [11. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
+## [12. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### JavaScript / More
 
 *   [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
     ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
-## [12. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Build Automation and Package management
 
@@ -117,7 +119,7 @@
 
 *   [Meander (⭐789)](https://github.com/noprompt/meander)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 
@@ -135,13 +137,13 @@
 
 *   [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
 
-## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Tools
 
-*   [Pwnagotchi (⭐5.2k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
+*   [Pwnagotchi (⭐5.3k)](https://github.com/evilsocket/pwnagotchi) - Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Reading and Writing Tools / Journaling
 
@@ -149,7 +151,7 @@
 
 ### Reading and Writing Tools / Others
 
-*   [bindPDF (⭐74)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [bindPDF (⭐78)](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/vishaltelangre/bindPDF) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Screencapturing Software
 
@@ -163,7 +165,7 @@
 
 *   [Microsoft To-Do](https://todo.microsoft.com/) - Microsoft's successor to Wunderlist. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/de/app/microsoft-to-do/id1274495053?mt=12)
 
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 

@@ -10,7 +10,7 @@
 
 ### Control Flow / Runner
 
-*   [ObjectEventTarget (⭐11)](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+*   [ObjectEventTarget (⭐12)](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
 
 ## [2. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

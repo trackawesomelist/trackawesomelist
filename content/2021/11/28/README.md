@@ -30,11 +30,7 @@
 
 ### Hybrid
 
-*   [BlazorInAngularDemo (⭐19)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
-
-### Videos / Others
-
-*   [Web Wednesday: Recapping .NET Conf with Jon Galloway](https://www.youtube.com/watch?v=hP2ZjtXpWyk) - ![duration](https://img.shields.io/badge/Duration:%20-77%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 17, 2021 - .NET Conf is a wrap, but all the goodness revealed during the conference is just getting started. Between Minimal APIs, performance improvements, and enhancements to some of your favorite features there's a lot to talk about. Jon Galloway joins us this week to cover some of the big updates, talk about his favorites, and how to start using some of the cool new toys today.
+*   [BlazorInAngularDemo (⭐20)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
 
 ## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

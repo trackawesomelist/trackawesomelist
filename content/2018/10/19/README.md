@@ -48,7 +48,7 @@
 
 ### Podcasts / Other
 
-*   [You Don't Know JS (⭐160k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐162k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -116,14 +116,14 @@
 
 ### CLI
 
-*   [ASCII Table (⭐405)](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
+*   [ASCII Table (⭐412)](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
 *   [Airline (⭐847)](https://github.com/airlift/airline) - Annotation-based framework for parsing Git-like command-line arguments.
 *   [args4j](http://args4j.kohsuke.org) - Small library to parse command-line arguments.
-*   [Jansi (⭐941)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Java ASCII Render (⭐138)](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
+*   [Jansi (⭐952)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
+*   [Java ASCII Render (⭐139)](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
 *   [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-*   [JLine (⭐1.1k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
-*   [Text-IO (⭐289)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [JLine (⭐1.2k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
+*   [Text-IO (⭐294)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Security / Other
 
@@ -131,7 +131,7 @@
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐1.6k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐1.7k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
 ## [14. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 

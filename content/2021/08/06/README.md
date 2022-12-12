@@ -17,7 +17,6 @@
 ### Community
 
 *   About code - [GitHub.com/ansible](https://github.com/ansible), [GitHub.com/ansible-collections](https://github.com/ansible-collections) and [GitHub.com/ansible-community](https://github.com/ansible-community).
-*   [IRC](https://docs.ansible.com/ansible/latest/community/communication.html#irc-channels) - #ansible, #ansible-devel and #ansible-community amongst others on [libera.chat](https://libera.chat/).
 *   [reddit.com/r/ansible](https://old.reddit.com/r/ansible/) - The Ansible subreddit.
 *   [Discord](https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - The Ansible discord.
 *   [ansible.com/community](https://ansible.com/community) - Twitter, mailing lists, meetups and more.
@@ -157,10 +156,6 @@
 ### Public Data Resources / Resilience and Natural Hazards
 
 *   [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more.
-
-### Public Data Resources / Transportation
-
-*   [HPMS](https://www.fhwa.dot.gov/policyinformation/hpms.cfm0) - The HPMS is a national level highway information system that includes data on the extent, condition, performance, use and operating characteristics of the nation's highways.
 
 ### Educational and Informational Resources / General Planning Information and News
 

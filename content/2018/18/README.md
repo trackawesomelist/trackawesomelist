@@ -48,7 +48,7 @@
 
 ### Applications
 
-*   [NewNode (⭐374)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+*   [NewNode (⭐378)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -127,7 +127,6 @@
 
 ### Plugins
 
-*   [Craft 3 Plugins](https://plugins.craftcms.com)
 *   [Submit Craft 3 Plugins](https://id.craftcms.com)
 *   [Craft 2 Plugins](https://craftplug.in/)
 
@@ -137,12 +136,12 @@
 *   [Craft CLI (⭐139)](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2.
 *   [Craft CMS Bootstrap (⭐4)](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
 *   [Craft CMS Docker (⭐36)](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker.
-*   [Craft Scripts (⭐359)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
+*   [Craft Scripts (⭐360)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
 *   [Craftman (⭐125)](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly.
 *   [Crafty Vagrant (⭐57)](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects.
 *   [Generator Craft Install (⭐56)](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs.
 *   [Happy Lager Demo Site (⭐8)](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
-*   [Nginx Craft (⭐291)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
+*   [Nginx Craft (⭐294)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
 
 ### Core Technologies
 
@@ -429,23 +428,23 @@
 
 ### Packages / Command-line utilities
 
-*   [oclif (⭐7.8k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
+*   [oclif (⭐7.9k)](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 
 ### Packages / Hardware
 
-*   [gps (⭐219)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
+*   [gps (⭐223)](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐52k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐53k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐6.4k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐6.5k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
-*   [multimath (⭐62)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
+*   [multimath (⭐63)](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 ### Packages / Parsing
 
@@ -453,19 +452,19 @@
 
 ### Packages / Network
 
-*   [netcat (⭐377)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐383)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐4.3k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐4.5k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
-*   [bee-queue (⭐3k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+*   [bee-queue (⭐3.1k)](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 
 ### Packages / Serialization
 
-*   [snappy (⭐477)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
+*   [snappy (⭐478)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 *   [compactr (⭐97)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous
@@ -525,12 +524,12 @@
 ### Libraries / General Purpose
 
 *   [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
-*   [Indigo (⭐215)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+*   [Indigo (⭐217)](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 *   [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 
 ### Libraries / Format Checking
 
-*   [MolVS (⭐114)](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+*   [MolVS (⭐117)](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 
 ### Libraries / Visualization
 
@@ -538,12 +537,12 @@
 
 ### Libraries / Molecular Descriptors
 
-*   [mordred (⭐236)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
-*   [mol2vec (⭐194)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
+*   [mordred (⭐246)](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
+*   [mol2vec (⭐200)](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 
 ### Libraries / Web APIs
 
-*   [webchem (⭐133)](https://github.com/ropensci/webchem) - Chemical Information from the Web.
+*   [webchem (⭐135)](https://github.com/ropensci/webchem) - Chemical Information from the Web.
 *   [PubChemPy](http://pubchempy.readthedocs.io) - Python wrapper for the PubChem PUG REST API.
 *   [ChemSpiPy](http://chemspipy.readthedocs.org) - Python wrapper for the ChemSpider API.
 *   [Beaker (⭐42)](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
@@ -552,8 +551,8 @@
 
 *   [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 *   [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-*   [MDTraj (⭐406)](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
-*   [cclib (⭐252)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
+*   [MDTraj (⭐417)](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
+*   [cclib (⭐258)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
 
 ### Resources / Courses
 
@@ -573,7 +572,7 @@
 
 ### See Also / Books
 
-*   [awesome-python-chemistry (⭐720)](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
+*   [awesome-python-chemistry (⭐758)](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
 
 ## [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
@@ -605,16 +604,78 @@
 
 ### Firmware projects / WIP
 
-*   [anne-key (⭐547)](https://github.com/ah-/anne-key): Alternate keyboard firmware for the Obins ANNE Pro
+*   [anne-key (⭐552)](https://github.com/ah-/anne-key): Alternate keyboard firmware for the Obins ANNE Pro
 
-## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Android
+
+*   [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
+
+### C++ / Non-X86
+
+*   [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
+
+### F Sharp / Phoenix
+
+*   [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) (email address *requested*, not required)
+
+### iOS / Bootstrap
+
+*   [iOS Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) (email address *requested*, not required)
+
+### JavaScript / jQuery
+
+*   [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) (email address *requested*, not required)
+
+### JavaScript / Node.js
+
+*   [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
+
+### Linux / TeX
+
+*   [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
+
+### MATLAB / PicoLisp
+
+*   [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) (email address *requested*, not required)
+
+### Objective-C / PicoLisp
+
+*   [Objective-C Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) (email address *requested*, not required)
+
+### PostgreSQL / Zend
+
+*   [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
+
+### PowerShell / Zend
+
+*   [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) (email address *requested*, not required)
+
+### R / Tornado
+
+*   [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
+
+### Scala / Sinatra
+
+*   [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
+
+### Scala / Play Scala
+
+*   [Essential Play](http://underscore.io/books/essential-play/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
+
+### TypeScript / Vapor
+
+*   [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
+
+## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Apps / Third-party APIs
 
 *   [wiki-lang-detect (⭐28)](https://github.com/vseloved/wiki-lang-detect) -
     Text language identification using Wikipedia data. No license specified.
 
-## [26. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [27. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### SDKs/Tools
 
@@ -708,25 +769,25 @@
 
 *   [Alexa Easter Eggs](https://github.com/miguelmota/awesome-amazon-alexa/blob/master/README.md/EASTER_EGGS.md) - A list of Alexa easter eggs.
 
-## [27. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [28. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Tutorials
 
-*   [Kubernetes examples (⭐5.2k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
+*   [Kubernetes examples (⭐5.3k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
-## [28. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [29. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Database
 
 *   [uxss-db (⭐634)](https://github.com/Metnew/uxss-db) - Collection of UXSS CVEs with PoCs by [@Metnew](https://github.com/Metnew).
 
-## [29. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [30. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Eloquent Filter (⭐1.5k)](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships
 
-## [30. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [31. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Introduction / First Steps
 
@@ -737,13 +798,13 @@
 *   [Tutorials](https://eta-lang.org/docs/tutorials) - Eta tutorials.
 *   [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - Eta reference.
 
-## [31. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
+## [32. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
 ### Community / Social Media
 
 *   [reddit](https://www.reddit.com/r/frege/) - Frege subreddit.
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -753,19 +814,19 @@
 
 *   [RusticSOM (⭐26)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
-## [33. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [34. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Varia / Tutorials
 
 *   [The Small World of Psychopathology](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027407) - Paper on how psychiatric symptoms connec to each other ([code, data and graphs](https://sites.google.com/site/dsmgraphs/Home/files)).
 
-## [34. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [35. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
 *   [Understanding the basics of Linux Binary Exploitation (⭐1.1k)](https://github.com/r0hi7/BinExp)
 
-## [35. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -773,25 +834,19 @@
 
 ### Applications / Operating systems
 
-*   [tock/tock (⭐3.8k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
+*   [tock/tock (⭐4k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
 
 ### Applications / System tools
 
 *   [mmstick/concurr (⭐92)](https://github.com/mmstick/concurr) — Alternative to GNU Parallel w/ a client-server architecture
-*   [mmstick/fontfinder (⭐246)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
-
-## [36. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
-
-### Books
-
-*   [Hands On Next.js](https://www.honext.io/) - A practical fullstack book on universal (server) rendering for react applications.
+*   [mmstick/fontfinder (⭐249)](https://github.com/mmstick/fontfinder) — GTK3 application for previewing and installing Google's fonts
 
 ## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
-*   [libigl (⭐3.6k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
-*   [NanoVG (⭐4.5k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
+*   [libigl (⭐3.7k)](https://github.com/libigl/libigl) - Simple C++ geometry processing library. \[MPL2]
+*   [NanoVG (⭐4.6k)](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. \[Zlib]
 
 ### Build Systems
 
@@ -887,7 +942,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [atvjs (⭐290)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+*   [atvjs (⭐291)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 
 ## [46. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -943,21 +998,21 @@
     *   [cliff](https://docs.openstack.org/developer/cliff/) - A framework for creating command-line programs with multi-level commands.
     *   [docopt](http://docopt.org/) - Pythonic command line arguments parser.
     *   [python-fire (⭐23k)](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
-    *   [python-prompt-toolkit (⭐8k)](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
+    *   [python-prompt-toolkit (⭐8.1k)](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
 
 ### Command-line Tools
 
 *   Productivity Tools
-    *   [copier (⭐739)](https://github.com/pykong/copier) - A library and command-line utility for rendering projects templates.
-    *   [cookiecutter (⭐18k)](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
+    *   [copier (⭐789)](https://github.com/pykong/copier) - A library and command-line utility for rendering projects templates.
+    *   [cookiecutter (⭐19k)](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
     *   [doitlive (⭐3.2k)](https://github.com/sloria/doitlive) - A tool for live presentations in the terminal.
-    *   [howdoi (⭐9.7k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
-    *   [Invoke (⭐3.7k)](https://github.com/pyinvoke/invoke#readme) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
+    *   [howdoi (⭐9.8k)](https://github.com/gleitz/howdoi) - Instant coding answers via the command line.
+    *   [Invoke (⭐3.8k)](https://github.com/pyinvoke/invoke#readme) - A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.
     *   [PathPicker (⭐4.8k)](https://github.com/facebook/PathPicker) - Select files out of bash output.
-    *   [percol (⭐3.1k)](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
-    *   [thefuck (⭐74k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+    *   [percol (⭐3.2k)](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
+    *   [thefuck (⭐75k)](https://github.com/nvbn/thefuck) - Correcting your previous console command.
     *   [tmuxp (⭐3.5k)](https://github.com/tony/tmuxp) - A [tmux (⭐27k)](https://github.com/tmux/tmux) session manager.
-    *   [try (⭐651)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
+    *   [try (⭐655)](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 
 ### GUI Development
 

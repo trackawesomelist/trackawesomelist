@@ -32,7 +32,7 @@
 
 ### Bots
 
-*   [Telegrammer (⭐275)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
+*   [Telegrammer (⭐278)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
 ## [5. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Testing
 
-*   [mass-spec (⭐7)](https://github.com/c910335/mass-spec) - Web API testing library
+*   [mass-spec (⭐8)](https://github.com/c910335/mass-spec) - Web API testing library
 
 ## [7. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-jquery-mask (⭐19)](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin (⭐4.6k)](https://github.com/igorescobar/jQuery-Mask-Plugin)
+*   [vue-jquery-mask (⭐19)](https://github.com/ankurk91/vue-jquery-mask) - Vue.js v2.x component for [jQuery Mask Plugin (⭐4.7k)](https://github.com/igorescobar/jQuery-Mask-Plugin)
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

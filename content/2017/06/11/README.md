@@ -10,7 +10,7 @@
 
 ### Menu / Barcode
 
-*   [FanMenu (⭐712)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
+*   [FanMenu (⭐716)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
 ## [2. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
@@ -30,7 +30,7 @@
 
 ### WPF
 
-*   [Data Grid Extensions (⭐578)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
+*   [Data Grid Extensions (⭐592)](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
 ## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Networking / Hardware
 
-*   [OpenTSPS (⭐193)](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP.
+*   [OpenTSPS (⭐194)](https://github.com/labatrockwell/openTSPS) - TSPS is a cross platform Toolkit for Sensing People in Spaces. It performs openCV operations on live video (Kinect, web camera, etc) and sends it to clients as JSON (via WebSockets), OSC, TUIO, or TCP.
 
 ### Networking / Servers
 

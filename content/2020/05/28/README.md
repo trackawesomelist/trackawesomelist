@@ -67,15 +67,15 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Wikimedia (⭐19)](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
+*   [Wikimedia (⭐20)](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
 
 ### Plugins / Libraries
 
-*   [jQuery (⭐25)](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
+*   [jQuery (⭐26)](https://github.com/wikimedia/eslint-plugin-no-jquery) - Linting rules for jQuery, including versioned configs for deprecated features.
 
 ### Plugins / Testing Tools
 
-*   [AVA (⭐227)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
+*   [AVA (⭐228)](https://github.com/avajs/eslint-plugin-ava) - Linting rules for AVA.
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuesence-book (⭐48)](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
+*   [vuesence-book (⭐49)](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Queue
 
-*   [broadway (⭐1.9k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+*   [broadway (⭐2k)](https://github.com/dashbitco/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 
 ## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Component bundles
 
-*   [DevExpress Blazor UI Components (⭐320)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
+*   [DevExpress Blazor UI Components (⭐321)](https://github.com/DevExpress/RazorComponents) - ![stars](https://img.shields.io/github/stars/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/DevExpress/RazorComponents?style=flat-square\&cacheSeconds=86400) A set of native UI Blazor components (including a Data Grid, Pivot Grid, Scheduler, and Charts) for both Blazor server-side and Blazor client-side platforms.
 
 ## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Design Systems
 
-*   [Crayons (⭐112)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+*   [Crayons (⭐121)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 
 ### Podcasts
 
@@ -132,17 +132,17 @@
 
 ### Extensions
 
-*   [next-connect (⭐1.2k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
+*   [next-connect (⭐1.3k)](https://github.com/hoangvvo/next-connect) - The Express/Connect-compatible router and middleware layer for Next.js.
 
 ### Apps
 
-*   [Tottem (⭐874)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
+*   [Tottem (⭐892)](https://github.com/poulainv/tottem) - Bookmark manager on steroid built with NextJs / Auth0 / Apollo Tools / Prisma2
 
 ## [15. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Client libraries
 
-*   [ros2\_rust (⭐443)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
+*   [ros2\_rust (⭐463)](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2\_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 
 ## [16. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 

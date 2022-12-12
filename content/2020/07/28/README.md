@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 28, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,13 +45,11 @@
 
 ### Individual components / API
 
-*   [Blazor.Canvas (⭐121)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
+*   [Blazor.Canvas (⭐126)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 
 ### Tools & Utilities / Others
 
-*   [bUnit - a testing library for Blazor components (⭐775)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
-*   [Logging (⭐204)](https://github.com/BlazorExtensions/Logging) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Logging?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Logging?style=flat-square\&cacheSeconds=86400) Microsoft Extension Logging implementation for Blazor.
-*   [Notifications (⭐132)](https://github.com/BlazorExtensions/Notifications) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Notifications?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Notifications?style=flat-square\&cacheSeconds=86400) HTML5 Notifications API implementation for Microsoft Blazor.
+*   [bUnit - a testing library for Blazor components (⭐792)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
 
 ### Others / Others
 
@@ -156,7 +154,7 @@
 
 ### UI / Barcode
 
-*   [Streamoji (⭐241)](https://github.com/GetStream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
+*   [Streamoji (⭐243)](https://github.com/GetStream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
 ## [9. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -184,19 +182,43 @@
 
 *   [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
 
-## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [13. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+
+### Demos / Program generation and analysis
+
+*   [Reading code and responding to questions about it](https://twitter.com/amasad/status/1285797739930869761)
+
+### Demos / Content creation
+
+*   [Generating memes](https://twitter.com/wowitsmrinal/status/1287175391040290816)
+
+### Demos / Other
+
+*   [Designing an IVR flow using natural language](https://twitter.com/nutanc/status/1287801677542612992)
+*   [Patient diagnosis from clinical vignettes](https://twitter.com/AndrewLBeam/status/1287772781480820737)
+
+### Articles / Other
+
+*   [GPT-3 and A Typology of Hype](https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype?s=09)
+
+### Github / Other
+
+*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.6k)](https://github.com/shreyashankar/gpt3-sandbox)
+*   [gpt-3-experiments by @minimaxir (⭐676)](https://github.com/minimaxir/gpt-3-experiments)
+
+## [14. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Tools / XML
 
 *   [denofn-selfhosted (⭐23)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
-## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Boilerplate / Mouse Events
 
-*   [express-react-boilerplate (⭐45)](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
+*   [express-react-boilerplate (⭐44)](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
-## [15. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [16. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Application or Binary Hardening
 

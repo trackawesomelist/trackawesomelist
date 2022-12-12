@@ -56,7 +56,7 @@
 
 ### Miscellaneous
 
-*   [bruck (⭐485)](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
+*   [bruck (⭐484)](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
 *   [webcomponents.org](http://webcomponents.org/) - Discuss & share web components.
 
 ## [5. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
@@ -130,8 +130,8 @@
 
 ### For Electron / Other
 
-*   [debugtron (⭐827)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-chrome-extension (⭐116)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
+*   [debugtron (⭐872)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-chrome-extension (⭐119)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Prodmodel (⭐52)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
+*   [Prodmodel (⭐53)](https://github.com/prodmodel/prodmodel) - Build tool for data science pipelines.
 
 ---
 

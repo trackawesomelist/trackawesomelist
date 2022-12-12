@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 23, 2020
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,24 +12,17 @@
 
 *   [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg)](https://github.com/meetfranz/franz) ![Freeware](https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg)
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Presentations slides / Others
-
-*   [Blazor, a new framework for browser-based .NET apps (⭐45)](https://github.com/SteveSandersonMS/presentation-2020-01-NDCLondon) - January 29, 2020 - Source code of the session by Steve Sanderson at the NDC London, "Blazor, a new framework for browser-based .NET apps".
-*   [Blazor in more depth (⭐46)](https://github.com/SteveSandersonMS/presentation-2020-01-NdcBlazorComponentLibraries) - January 28, 2020 - Blazor in more depth by Steve Sanderson and Ryan Nowak at the NDC London 2020. [Presentation of Steve Sanderson (⭐46)](https://github.com/SteveSandersonMS/presentation-2020-01-NdcBlazorComponentLibraries). [Presentation of Ryan Nowak (⭐40)](https://github.com/rynowak/Presentations/tree/master/2020/NDCLondon/blazor).
-
-## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Extensions
 
-*   [Next PurgeCSS (⭐129)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
+*   [Next PurgeCSS (⭐130)](https://github.com/lucleray/next-purgecss) - Easily integrate [Purgecss](https://www.purgecss.com/), which helps you remove unused CSS from your bundle.
 
 ### Books
 
 *   [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Build a frontend React application that transparently handles server-side rendering for you.
 
-## [4. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
+## [3. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
 ### Recruitment / Coding Challenge
 
@@ -49,29 +42,29 @@
 
 *   [Equity Compensation](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 
-## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Node-Powered CMS Frameworks / Runner
 
 *   [Factor (⭐1.3k)](https://github.com/fiction-com/factor) - The Javascript CMS
 
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Cloud Data Warehousing / Playground
 
-*   :sparkles: [Crisp BigQuery (⭐34)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
+*   :sparkles: [Crisp BigQuery (⭐35)](https://github.com/winwiz1/crisp-bigquery) Starter project that delivers Google BigQuery data to end user browsers with cost control. Allows to implement rich data presentation options.
 
 ### CMS / Playground
 
 *   [Factor](https://factor.dev) - The Javascript CMS (TypeScript supported natively)
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Content Management Systems (CMS)
 
-*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐308)](https://github.com/typemill/typemill)) `MIT` `PHP`
+*   [Typemill](https://typemill.net/) - Author-friendly flat-file-cms with a visual markdown editor based on vue.js. ([Source Code (⭐309)](https://github.com/typemill/typemill)) `MIT` `PHP`
 
-## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Cost Forecast / Market Research
 

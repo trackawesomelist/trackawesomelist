@@ -139,7 +139,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ### Modals and Popups / Other
 
-*   [jquery-popup-overlay (⭐515)](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
+*   [jquery-popup-overlay (⭐516)](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 
 ### Podcasts / Other
 

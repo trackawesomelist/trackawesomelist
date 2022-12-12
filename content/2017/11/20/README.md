@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 20, 2017
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,13 +28,13 @@
 
 ### Testing
 
-*   [mockery (⭐83)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
+*   [mockery (⭐84)](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 
 ## [4. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Design
 
-*   [API-Security-Checklist (⭐18k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
+*   [API-Security-Checklist (⭐19k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security
 
 ## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -52,36 +52,30 @@
 
 ### Tools
 
-*   [AWX (⭐11k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
+*   [AWX (⭐12k)](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
 *   [Ansible cmdb (⭐2.2k)](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 
 ### Blog posts and opinions
 
 *   [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
 
-### Playbooks, Roles and Collections / German
+### Playbooks, Roles and Collections / French
 
 *   [Ansible Vagrant Examples by geerlingguy (⭐2k)](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
-
-### E-commerce
-
-*   [saleor](http://getsaleor.com/) - An e-commerce storefront for Django.
-
-## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### ASM / Timings
 
 *   [Video Timing (⭐9)](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)
 
-## [10. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
+## [9. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
 ### Common Utilities
 
 *   [Draft.js AST Importer (⭐13)](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Community
 
@@ -106,31 +100,31 @@
 *   [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) `Manning Publications`
 *   [Angular in Action](https://www.manning.com/books/angular-in-action) `Manning Publications`
 
-## [12. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [11. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
 *   [FireBear Studio](https://firebearstudio.com/)
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [OpenBLAS (⭐4.8k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
+*   [OpenBLAS (⭐4.9k)](https://github.com/xianyi/OpenBLAS) - An optimized BLAS library based on GotoBLAS2 1.13 BSD version. \[BSD 3-clause] [website](http://www.openblas.net/)
 
-## [14. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+## [13. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ### Exploits/Vulnerabilities/Bugs / How to report Security issues
 
 *   [Android Reports and Resources (⭐1.1k)](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
-## [15. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
+## [14. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 
 ### Art
 
 *   [Every Shirt Is Political](https://everyshirtispolitical.com/) - Shirts that are ethically made, hand-printed, and pay what you can priced.
 
-## [16. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
+## [15. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
 ### Resources / Organizations
 

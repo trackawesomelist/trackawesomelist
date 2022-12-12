@@ -10,26 +10,26 @@
 
 ### Libraries / Format Checking
 
-*   [ChEMBL\_Structure\_Pipeline (formerly standardiser) (⭐125)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
+*   [ChEMBL\_Structure\_Pipeline (formerly standardiser) (⭐133)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 
 ### Libraries / Machine Learning
 
-*   [ChemML (⭐120)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
-*   [chemmodlab (⭐11)](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
+*   [ChemML (⭐123)](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
+*   [chemmodlab (⭐12)](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
 
 ### Libraries / Others
 
-*   [OPSIN (⭐74)](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
+*   [OPSIN (⭐75)](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
 
 ### Resources / Courses
 
 *   [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_\(2019\)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of University of Arkansas at Little Rock by Robert Belford
 
-## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
+## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
-### Closed Source / Other
+### Projects Using Vue.js / Commercial Products
 
-*   [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare, and more.
+*   [Coloban](https://www.coloban.com) - All-in-one project management tool with chats, Kanban, Gantt, calls, screenshare and many more.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

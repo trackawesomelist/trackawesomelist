@@ -22,11 +22,11 @@
 
 ### Themes
 
-*   [tmux-power (⭐279)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐285)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐336)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐340)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Adminhtml / Backend
 
-*   [Clean Admin Menu (⭐103)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
+*   [Clean Admin Menu (⭐106)](https://github.com/redchamps/clean-admin-menu) - Merges 3rd party extensions to a single menu.
 
 ## [10. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-snap (⭐145)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
+*   [vue-snap (⭐150)](https://github.com/bartdominiak/vue-snap) - Lightweight Carousel based on Scroll Snap CSS
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -160,18 +160,18 @@
 
 ### Libraries / General Purpose
 
-*   [MolecularGraph.jl (⭐148)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
+*   [MolecularGraph.jl (⭐151)](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 
 ## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### DevOps Tools
 
 *   SSH-style Deployment
-    *   [cuisine (⭐1.2k)](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric.
+    *   [cuisine (⭐1.3k)](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric.
     *   [fabric (⭐14k)](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
     *   [fabtools (⭐1.3k)](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files.
 *   Monitoring
-    *   [psutil (⭐8.8k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
+    *   [psutil (⭐8.9k)](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 *   Backup
     *   [BorgBackup](https://www.borgbackup.org/) - A deduplicating archiver with compression and encryption.
 *   Others
@@ -227,11 +227,11 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐642)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
+*   [moOde Audio](https://moodeaudio.org/) - Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. ([Source Code (⭐683)](https://github.com/moode-player/moode)) `GPL-3.0` `PHP`
 
 ### Software / URL Shorteners
 
-*   [ReducePy (⭐33)](https://github.com/abdullahselek/ReducePy) - URL shortener service using Tornado and Redis runs on Docker and Kubernetes. `MIT` `Python`
+*   [ReducePy (⭐34)](https://github.com/abdullahselek/ReducePy) - URL shortener service using Tornado and Redis runs on Docker and Kubernetes. `MIT` `Python`
 
 ## [28. Public Apis](/content/public-apis/public-apis/week/README.md)
 
@@ -292,7 +292,7 @@
 
 ### Applications
 
-*   [wezterm (⭐6k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
+*   [wezterm (⭐6.5k)](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ## [35. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
@@ -581,7 +581,7 @@
 
 ### Libraries / Telegram
 
-*   [vgram (⭐118)](https://github.com/dariotarantini/vgram) - Telegram bot library.
+*   [vgram (⭐122)](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ## [51. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -681,7 +681,7 @@
 
 ### Tools
 
-*   [shadow-automation-selenium (⭐81)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
+*   [shadow-automation-selenium (⭐84)](https://github.com/sukgu/shadow-automation-selenium) - Shadow DOM automation using Selenium.
 
 ### History / 2012
 
@@ -736,7 +736,7 @@
 
 ### Layout / Barcode
 
-*   [Grid (⭐1.1k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
+*   [Grid (⭐1.2k)](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI.
 
 ### Keyboard / Barcode
 
@@ -744,18 +744,18 @@
 
 ### Mock / Barcode
 
-*   [Mocker (⭐870)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
+*   [Mocker (⭐890)](https://github.com/WeTransfer/Mocker) - Mock Alamofire and URLSession requests without touching your code implementation
 
 ## [60. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Misc
 
-*   [Only-Error (⭐9)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
-*   [Only-Warn (⭐115)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
+*   [Only-Error (⭐11)](https://github.com/davidjbradshaw/eslint-plugin-only-error) - Convert all rules to errors.
+*   [Only-Warn (⭐122)](https://github.com/bfanger/eslint-plugin-only-warn) - Convert all rules to warnings.
 
 ### Plugins / Testing Tools
 
-*   [Testing Library (⭐774)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
+*   [Testing Library (⭐798)](https://github.com/testing-library/eslint-plugin-testing-library) - Linting rules for Testing Library.
 
 ## [61. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -769,7 +769,7 @@
 
 ### Menu
 
-*   [hamburger-react (⭐682)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
+*   [hamburger-react (⭐691)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
 ### Chart
 
@@ -812,7 +812,7 @@
 
 ### Bindings
 
-*   [vulkan (⭐119)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
+*   [vulkan (⭐121)](https://github.com/expipiplus1/vulkan) - Haskell bindings for Vulkan and Vulkan Memory Allocator \[BSD-3-Clause]
 
 ## [67. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -830,7 +830,7 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐161)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐163)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
 ### Official Documentation Translations
 
@@ -1019,7 +1019,7 @@
 
 ### Projects
 
-*   [Yew Fullstack Boilerplate (⭐40)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
+*   [Yew Fullstack Boilerplate (⭐44)](https://github.com/lukidoescode/yew-fullstack-boilerplate) - Highly opinionated boilerplate for creating full stack applications with Rust.
 *   [Chord Quiz (⭐11)](https://github.com/Stigjb/chord-quiz) - Practice recognizing chords in this Rust/Yew/WebAssembly app.
 
 ## [72. Awesome Deno](/content/denolib/awesome-deno/week/README.md)

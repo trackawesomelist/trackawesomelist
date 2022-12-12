@@ -10,7 +10,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Backprop (⭐231)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
+*   [Backprop (⭐228)](https://github.com/backprop-ai/backprop) - Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 
 ## [2. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Modules / CLI utils
 
-*   [chart (⭐50)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
+*   [chart (⭐51)](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -137,7 +137,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   📁 [Resume (⭐88)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
+*   📁 [Resume (⭐93)](https://github.com/Thomashighbaugh/resume) - A stylized resume template built with Tailwind CSS, featuring a nifty hero-pattern background and custom font.
 
 ## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

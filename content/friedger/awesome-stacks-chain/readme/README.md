@@ -23,6 +23,8 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Apps](#apps)
     *   [Wallets](#wallets)
     *   [Stacks Web Applications](#stacks-web-applications)
+    *   [Blockchain Name System](#blockchain-name-system)
+    *   [DeFi](#defi)
 *   [Clarity Resources](#clarity-resources)
     *   [Developer Tools](#developer-tools)
     *   [Libraries](#libraries)
@@ -58,7 +60,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [MIA Block explorer](http://miamining.com) - A web application to exolore MIA coin transactions for all and personal accounts.
 *   [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source (⭐6)](https://github.com/friedger/speed-spend)).
 
-#### Blockchain Name System
+### Blockchain Name System
 
 *   [btc.us](https://btc.us) - An application for .btc names.
 *   [stx.name](https://stx.name) - An application for BNS name registration (not open source).
@@ -66,11 +68,11 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
 *   [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
-#### DeFi
+### DeFi
 
-*   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi
-*   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol
-*   [Arkadiko Protocol (⭐54)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans
+*   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
+*   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
+*   [Arkadiko Protocol (⭐54)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 
 ## Clarity Resources
 
@@ -136,7 +138,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 *   [Official Stacks documentation](https://docs.stacks.co/) - Documentation and developer tutorials for learning
     Clarity and developing Stacks apps.
-*   [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers
+*   [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers.
 *   [Stacks 101](https://stacks101.com) - Community curated STX knowledge.
 
 ### Videos

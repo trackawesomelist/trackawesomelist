@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,20 +10,20 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nixfmt (⭐309)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
+*   [nixfmt (⭐315)](https://github.com/serokell/nixfmt) - A formatter for Nix code, intended to easily apply a uniform style.
 
 ### Development / Newsletters
 
-*   [nix-direnv (⭐664)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
+*   [nix-direnv (⭐675)](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 
 ### Programming Languages / Haskell
 
-*   [cabal2nix (⭐304)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
-*   [haskell.nix (⭐439)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
+*   [cabal2nix (⭐305)](https://github.com/NixOS/cabal2nix) - Converts a Cabal file into a Nix build expression.
+*   [haskell.nix (⭐444)](https://github.com/input-output-hk/haskell.nix) - Alternative Haskell Infrastructure for Nixpkgs.
 
 ### Programming Languages / Python
 
-*   [mach-nix (⭐642)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
+*   [mach-nix (⭐655)](https://github.com/DavHau/mach-nix) - Tool to create highly reproducible python environments.
 *   [pypi2nix (⭐190)](https://github.com/nix-community/pypi2nix) - Generate Nix expressions for Python packages.
 
 ### Overlays / Webinterface
@@ -112,26 +112,28 @@
 
 ### Translations and Internationalizations
 
-*   [linguist (⭐174)](https://github.com/change/linguist) - Elixir Internationalization library.
+*   [linguist (⭐175)](https://github.com/change/linguist) - Elixir Internationalization library.
 
-## [12. Awesome React](/content/enaqx/awesome-react/README.md)
+## [12. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
-### React Tutorials / React Interview Questions
+### Table of Contents / Streaming Engine
 
-*   [React Coding Challenges (⭐2.3k)](https://github.com/alexgurr/react-coding-challenges/)
+*   [HStreamDB (⭐561)](https://github.com/hstreamdb/hstream) \[Haskell] - The streaming database built for IoT data storage and real-time processing.
+*   [Kuiper (⭐823)](https://github.com/emqx/kuiper) \[Golang] - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
 ## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
-### Software / Frameworks
-
-*   [HStreamDB (⭐552)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
-
 ### Software / Middlewares
 
-*   [Kuiper (⭐804)](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
-*   [NanoMQ (⭐572)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
+*   [NanoMQ (⭐617)](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Awesome React](/content/enaqx/awesome-react/README.md)
+
+### React Tutorials / React Interview Questions
+
+*   [React Coding Challenges (⭐2.5k)](https://github.com/alexgurr/react-coding-challenges/)
+
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 

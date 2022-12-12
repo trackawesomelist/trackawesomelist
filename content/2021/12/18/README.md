@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   🧬 [Container Queries (⭐71)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
+*   🧬 [Container Queries (⭐74)](https://github.com/dgknca/tailwindcss-container-query) - Adds CSS Container Query variants.
 
 ## [2. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Projects / Libraries
 
-*   [Interaction Trees (⭐160)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [Interaction Trees (⭐165)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
 
 ### Projects / Tools
 
-*   [Sail (⭐389)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
+*   [Sail (⭐398)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture semantics of processors and generating Coq definitions.
 
 ### Projects / Type Theory and Mathematics
 
@@ -59,7 +59,7 @@
     ![](https://img.shields.io/github/stars/picocss/pico.svg?style=social\&label=Star)
     [Demo](https://picocss.com/#examples),
     [Docs](https://picocss.com/docs/),
-    [Repo (⭐5.8k)](https://github.com/picocss/pico)
+    [Repo (⭐6.1k)](https://github.com/picocss/pico)
     \| #SCSS
 *   [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.\
     ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social\&label=Star)
@@ -71,13 +71,13 @@
     ![](https://img.shields.io/github/stars/canonical-web-and-design/vanilla-framework.svg?style=social\&label=Star)
     [Demo](https://vanillaframework.io/docs/examples),
     [Docs](https://vanillaframework.io/docs/),
-    [Repo (⭐631)](https://github.com/canonical-web-and-design/vanilla-framework)
+    [Repo (⭐647)](https://github.com/canonical-web-and-design/vanilla-framework)
     \| #SCSS
 *   [**PatternFly**](https://www.patternfly.org/) - UI framework for enterprise web applications.\
     ![](https://img.shields.io/github/stars/patternfly/patternfly.svg?style=social\&label=Star)
     [Demo](https://www.patternfly.org/pattern-library/),
     [Docs](https://www.patternfly.org/get-started/),
-    [Repo (⭐519)](https://github.com/patternfly/patternfly)
+    [Repo (⭐533)](https://github.com/patternfly/patternfly)
     \| #SCSS #LESS
 
 ### Specialized
@@ -89,7 +89,7 @@
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Web frameworks / Clack plugins
+### Web development utilities / User login and password management
 
 *   [cl-cas (⭐1)](https://github.com/fferrere/cl-cas) - A library to help [CAS authenticaton](https://apereo.github.io/cas/6.0.x/protocol/CAS-Protocol.html) to Common Lisp web applications. Not in Quicklisp.
     *   [cas-middleware (⭐0)](https://github.com/fferrere/cas-middleware) - CAS authenticaton middleware for Caveman.

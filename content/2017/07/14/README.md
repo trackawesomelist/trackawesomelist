@@ -49,7 +49,7 @@
 
 ### Third-party APIs
 
-*   [awscr-s3 (⭐79)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+*   [awscr-s3 (⭐80)](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -57,12 +57,12 @@
 
 *   [Distributed Machine learning Tool Kit (DMTK)](http://www.dmtk.io/) - A distributed machine learning (parameter server) framework by Microsoft. Enables training models on large data sets across multiple machines. Current tools bundled with it include: LightLDA and Distributed (Multisense) Word Embedding.
 
-### Javascript / General-Purpose Machine Learning
+### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐277)](https://github.com/primaryobjects/lda) - LDA topic modeling for Node.js
-*   [Node-SVM (⭐297)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
+*   [LDA.js (⭐279)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [Node-SVM (⭐296)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
-### Javascript / Misc
+### JavaScript / Misc
 
 *   [simple-statistics (⭐2.8k)](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 

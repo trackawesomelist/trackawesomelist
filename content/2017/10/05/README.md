@@ -10,7 +10,7 @@
 
 ### MVVM
 
-*   [Win Application Framework (WAF) (⭐629)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
+*   [Win Application Framework (WAF) (⭐633)](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 
 ## [2. Awesome Material](/content/sachin1092/awesome-material/README.md)
 
@@ -32,15 +32,15 @@
 
 ### Notebooks / Third-party APIs
 
-*   [Darkmatter (⭐350)](https://github.com/tamamu/darkmatter) - A
+*   [Darkmatter (⭐352)](https://github.com/tamamu/darkmatter) - A
     notebook-style Common Lisp environment. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [SPA-asp.net-api-vuejs- (⭐61)](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
-*   [Book-Trading-Club (⭐21)](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
+*   [SPA-asp.net-api-vuejs- (⭐60)](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
+*   [Book-Trading-Club (⭐20)](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
 *   [vuejs-extension-pack vscode (⭐32)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)

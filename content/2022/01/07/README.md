@@ -53,14 +53,19 @@
 
 ### Form / Checkbox
 
-*   [vest (⭐2k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 *   [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 
-## [5. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Utilities
+
+*   [vest (⭐2k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+
+## [6. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Development Utilities
 
-*   [bitExpert/phpstan-magento (⭐90)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
+*   [bitExpert/phpstan-magento (⭐92)](https://github.com/bitExpert/phpstan-magento) - Magento specific extension for PHPStan
 
 ### Company Blogs / Progressive Web Application
 
@@ -70,23 +75,17 @@
 
 *   [M.academy](https://m.academy/) - The simplest way to learn Magento 2 & Adobe Commerce, with video lessons & courses
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Debug
 
 *   [VLD](https://kinddragon.github.io/vld//) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
 
-## [7. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
+## [8. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
 
 ### Platforms
 
 *   [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
-
-## [8. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Software Architecture
-
-*   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
 
 ## [9. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -114,7 +113,7 @@
 
 ### Overlays / Webinterface
 
-*   [nixpkgs-firefox-darwin (⭐5)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
+*   [nixpkgs-firefox-darwin (⭐8)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
 ## [13. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -209,7 +208,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-remove-console (⭐35)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
+*   [vite-plugin-remove-console (⭐45)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 
 ---
 

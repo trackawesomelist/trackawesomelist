@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 22, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -61,7 +61,7 @@
 
 ### Packages / Parsing
 
-*   [Chevrotain (⭐2k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
+*   [Chevrotain (⭐2.1k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -78,7 +78,7 @@
 ### React Tools / React Libraries
 
 *   [preact](https://git.io/preact) - Fast 3kb React alternative with the same ES6 API.
-*   [reapop (⭐1.3k)](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
+*   [reapop (⭐1.4k)](https://github.com/LouisBarranqueiro/reapop) - A simple and customizable React notifications system
 
 ### React Tools / React State Management
 
@@ -87,10 +87,10 @@
 *   [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
 *   [recoil (⭐18k)](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
 *   [xstate-react (⭐22k)](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
-*   [zustand (⭐23k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
-*   [easy-peasy (⭐4.8k)](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
-*   [hookstate (⭐1.4k)](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
-*   [effector (⭐3.9k)](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
+*   [zustand (⭐24k)](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
+*   [easy-peasy (⭐4.9k)](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
+*   [hookstate (⭐1.5k)](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
+*   [effector (⭐4k)](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
 *   [reactn (⭐1.9k)](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
 
 ### React Tools / Data Managing
@@ -98,7 +98,7 @@
 *   [immer (⭐24k)](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [immutable-js (⭐32k)](https://github.com/immutable-js/immutable-js) - Immutable Data Collections for Javascript
 *   [baobab (⭐3.1k)](https://github.com/Yomguithereal/baobab) - JavaScript & TypeScript persistent and optionally immutable data tree with cursors
-*   [WatermelonDB (⭐8.6k)](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
+*   [WatermelonDB (⭐8.8k)](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 
 ### React Native Boilerplates / Charts
 
@@ -135,11 +135,11 @@
 
 ### GraphQL Implementations / Charts
 
-*   [graphql-ruby (⭐5.1k)](https://github.com/rmosolgo/graphql-ruby) - **Ruby** implementation of GraphQL
-*   [graphql-java (⭐5.6k)](https://github.com/graphql-java/graphql-java) - GraphQL **Java** implementation
-*   [graphene (⭐7.4k)](https://github.com/graphql-python/graphene) - GraphQL framework for **Python**
-*   [graphql-go (⭐8.8k)](https://github.com/graphql-go/graphql) - GraphQL for **Go**
-*   [juniper (⭐4.8k)](https://github.com/graphql-rust/juniper) - GraphQL server library for **Rust**
+*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - **Ruby** implementation of GraphQL
+*   [graphql-java (⭐5.7k)](https://github.com/graphql-java/graphql-java) - GraphQL **Java** implementation
+*   [graphene (⭐7.5k)](https://github.com/graphql-python/graphene) - GraphQL framework for **Python**
+*   [graphql-go (⭐8.9k)](https://github.com/graphql-go/graphql) - GraphQL for **Go**
+*   [juniper (⭐4.9k)](https://github.com/graphql-rust/juniper) - GraphQL server library for **Rust**
 
 ### Database Integration / Charts
 
@@ -159,35 +159,25 @@
 
 *   [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [Upgrading to .NET 6](https://www.youtube.com/watch?v=5FN4Dzkj-M0) - ![duration](https://img.shields.io/badge/Duration:%20-21%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 21, 2021 - This video shows you how to upgrade your existing .NET 5 Blazor application to .NET 6 Preview 3. It also shows how to upgrade your tests to use the latest release of bunit version 1.0.19 and demos the new hot reload feature in .NET 6 - which is a huge improvement to the engineering experience. [Source code (⭐87)](https://github.com/hassanhabib/OtripleS.Portal) ![stars](https://img.shields.io/github/stars/hassanhabib/OtripleS.Portal?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hassanhabib/OtripleS.Portal?style=flat-square\&cacheSeconds=86400).
-
-### Articles / Others
-
-*   [.NET 6 Gets Blazor WebView Controls for WPF, WinForms](https://visualstudiomagazine.com/articles/2021/04/09/blazorwebview.aspx) - April 9, 2021 - .NET 6 Gets Blazor WebView Controls for WPF, WinForms.
-
-## [12. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [11. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Others / Particles
 
 *   [OSG.js](https://cedricpinson.github.io/osgjs-website/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 
-## [13. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+## [12. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ### Generic
 
 *   [css.gg](https://css.gg/) - Open-source CSS, SVG, and Figma UI Icons available in SVG Sprite, styled-components, NPM & API
 
-## [14. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
+## [13. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md)
 
 ### WWDC Students Submissions / Functional Reactive Programming
 
 *   [2021 (⭐167)](https://github.com/wwdc/2021)
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
@@ -197,7 +187,7 @@
 
 *   [UXtweak.com](https://www.uxtweak.com/) — Record and watch how visitors use your web site or app. Free unlimited time for small projects
 
-## [16. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [15. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Trackers / Public Trackers
 
@@ -220,15 +210,15 @@
 
 *   [YouTube Vanced](https://vancedapp.com/) Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 
-## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Observability
 
-*   [Scaphandre (⭐820)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
+*   [Scaphandre (⭐872)](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐2k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐2.1k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ---
 

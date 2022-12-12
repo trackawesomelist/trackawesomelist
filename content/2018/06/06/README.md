@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 06, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -33,7 +33,7 @@
 
 ### Tools
 
-*   [Pieman (⭐193)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
+*   [Pieman (⭐198)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
 ## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Code
 
-*   [CircuitPython GitHub Repository (⭐3.2k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
+*   [CircuitPython GitHub Repository (⭐3.3k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 
 ### Frameworks
 
@@ -54,7 +54,7 @@
 ### Newsletter
 
 *   [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython and CircuitPython, a spam-free list.
-*   [Contribute to newsletter (⭐50)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+*   [Contribute to newsletter (⭐51)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 
 ### News
 
@@ -124,6 +124,20 @@
 ### Tutorials
 
 *   [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
+
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Firefox OS / Phoenix
+
+*   [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
+
+### Julia / Vue.js
+
+*   [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
+
+### Linux / TeX
+
+*   [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
 
 ---
 

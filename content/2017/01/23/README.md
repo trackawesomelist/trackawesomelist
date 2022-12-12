@@ -74,23 +74,23 @@ Free
 
 ### API Builder and Discovery
 
-*   [Spyke (⭐771)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+*   [Spyke (⭐773)](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 
 ### CLI Utilities
 
 *   [formatador (⭐440)](https://github.com/geemus/formatador) - STDOUT text formatting.
-*   [Ru (⭐404)](https://github.com/tombenner/ru) - Ruby in your shell.
+*   [Ru (⭐403)](https://github.com/tombenner/ru) - Ruby in your shell.
 *   [Tmuxinator (⭐12k)](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 
 ### Code Highlighting
 
-*   [CodeRay (⭐829)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
-*   [pygments.rb (⭐555)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
-*   [Rouge (⭐3.1k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
+*   [CodeRay (⭐832)](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
+*   [pygments.rb (⭐558)](https://github.com/tmm1/pygments.rb) - A Ruby wrapper for the Python pygments syntax highlighter.
+*   [Rouge (⭐3.2k)](https://github.com/jneen/rouge) - A pure Ruby code highlighter that is compatible with Pygments.
 
 ### Database Tools
 
-*   [Polo (⭐719)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
+*   [Polo (⭐721)](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
 
 ### Debugging Tools
 
@@ -110,7 +110,7 @@ Free
 
 ### Video
 
-*   [Video Transcoding (⭐2.2k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
+*   [Video Transcoding (⭐2.3k)](https://github.com/donmelton/video_transcoding) - Tools to transcode, inspect and convert videos.
 
 ## [11. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

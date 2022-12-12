@@ -38,10 +38,16 @@
 
 ### Vendor Data Resources / Urban Observation
 
-*   [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occuring in the built environment affordably and quickly.
+*   [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occurring in the built environment affordably and quickly.
 *   [StreetSimplified](https://www.streetsimplified.com/) - Deploys temporary cameras utilizing computer vision to examine various transportation behaviors such as speeding, crossing rule compliance, and red-light running.
 
-## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### CMS
+
+*   [Umbraco9 & Blazor WASM Starter Site (⭐32)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
+
+## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ### Tools / Java
 
@@ -51,32 +57,32 @@
 
 *   [Moon Cloud](https://aerokube.com/moon-cloud/) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
 
-## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
 *   [rcmd](https://lowtechguys.com/rcmd/) - Use the <kbd>⌘ Right Command</kbd> key to switch applications based on their name. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165)
 
-## [8. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼🧬 [Radix (⭐867)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   💼🧬 [Radix (⭐1k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
-## [9. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [10. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [ajeetdsouza/zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Beginner
 
 *   📹 [Common Lisp Programming: from novice to effective developer](https://www.udemy.com/course/common-lisp-programming/?referralCode=2F3D698BBC4326F94358) - A learning video series on the Udemy platform (*full content under paid access*). Teaches the language basics, explains the ecosystem and shows real-world examples. By an active lisper and community contributor (@vindarel).
     > Thanks for supporting my work on Udemy. Also note that I release free coupons from time to time, and that Udemy often proposes drastic promotions, but you can ask me a free coupon too.
 
-## [11. Public Apis](/content/public-apis/public-apis/README.md)
+## [12. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Authentication & Authorization
 
@@ -253,20 +259,6 @@
   CORS: Yes
 
 
-
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### CMS
-
-*   [Umbraco9 & Blazor WASM Starter Site (⭐31)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
-
-### Videos / Others
-
-*   [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=GoRueoEv8NI) - ![duration](https://img.shields.io/badge/Duration:%20-92%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 22, 2021 - Learn how to set up your development environment and build your first web app with Blazor, Visual Studio Code, and C#.
-
-### Articles / Others
-
-*   [Umbraco 9 & Blazor WebAssembly Starterkit on GitHub](https://cornehoskam.com/posts/umbraco-9-blazor-webassembly-starterkit-on-github) - November 24, 2021 - A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts. [Source code (⭐31)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) ![stars](https://img.shields.io/github/stars/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400).
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

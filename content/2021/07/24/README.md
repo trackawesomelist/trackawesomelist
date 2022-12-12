@@ -16,8 +16,8 @@
 
 ### Templates / Vue 3
 
-*   [vitesse-lite (⭐665)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
-*   [vitesse-webext (⭐1.6k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
+*   [vitesse-lite (⭐700)](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.
+*   [vitesse-webext (⭐1.7k)](https://github.com/antfu/vitesse-webext) - WebExtension Vite Starter Template.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -43,9 +43,8 @@
 
 *   [Apache APISIX](https://apisix.apache.org) - Dynamic, real-time, high-performance API gateway.
 *   [Gloo Edge](https://www.solo.io/products/gloo-edge/) - An Envoy Proxy-based API Gateway.
-*   [Goku API Gateway (⭐322)](https://github.com/eolinker/goku) - Golang-based microservice gateway that enables high-performance dynamic routing,service orchestration, multi-tenancy management, API access control, etc.
 *   [Kong API Gateway (⭐33k)](https://github.com/Kong/kong) - Cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.
-*   [KrakenD API Gateway (⭐933)](https://github.com/devopsfaith/krakend-ce) - Ultra-High performance API Gateway with middlewares.
+*   [KrakenD API Gateway (⭐992)](https://github.com/devopsfaith/krakend-ce) - Ultra-High performance API Gateway with middlewares.
 *   [Ocelot (⭐7.3k)](https://github.com/ThreeMammals/Ocelot) - .NET API Gateway.
 *   [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) -  API Gateway built on top of the Spring Ecosystem, including: Spring 5, Spring Boot 2 and Project Reactor.
 

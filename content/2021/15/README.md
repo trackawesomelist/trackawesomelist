@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 12 - Apr 18, 2021
 
-60 awesome lists updated this week.
+61 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -22,7 +22,7 @@
 
 ### Text / Barcode
 
-*   [TextBuilder (⭐178)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+*   [TextBuilder (⭐179)](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 
 ## [4. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
@@ -32,20 +32,20 @@
 
 ### React Tutorials / React Hooks
 
-*   [Awesome React Hooks (⭐8.6k)](https://github.com/rehooks/awesome-react-hooks)
+*   [Awesome React Hooks (⭐8.8k)](https://github.com/rehooks/awesome-react-hooks)
 *   [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 *   [React Hooks Video Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 
 ### React Tools / Forms
 
-*   [formik (⭐31k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
-*   [react-hook-form (⭐31k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
+*   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
+*   [react-hook-form (⭐32k)](https://github.com/react-hook-form/react-hook-form) - React Hooks for forms validation
 *   [react-final-form (⭐7.1k)](https://github.com/final-form/react-final-form) - High performance subscription-based form state management for React
 *   [unform (⭐4.5k)](https://github.com/Rocketseat/unform) - Performance-focused API for React forms
-*   [formily (⭐8.7k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
+*   [formily (⭐8.9k)](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 *   [uniforms (⭐1.7k)](https://github.com/vazco/uniforms) - A React library for building forms from any schema
 *   [formsy-react (⭐752)](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
-*   [react-formal (⭐523)](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
+*   [react-formal (⭐524)](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
 
 ## [5. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -85,11 +85,11 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Darkwire.io (⭐750)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
+*   [Darkwire.io (⭐757)](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐966)](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
+*   [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code (⭐995)](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -97,11 +97,11 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [b2evolution CMS](https://b2evolution.net/) - The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community. ([Source Code (⭐161)](https://github.com/b2evolution/b2evolution)) `GPL-2.0` `PHP`
+*   [b2evolution CMS](https://b2evolution.net/) - The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community. ([Source Code (⭐163)](https://github.com/b2evolution/b2evolution)) `GPL-2.0` `PHP`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [goploader (⭐235)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
+*   [goploader (⭐238)](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`
 
 ### Software / Note-taking & Editors
 
@@ -109,7 +109,7 @@
 
 ### Software / Pastebins
 
-*   [MokinToken (⭐4)](https://github.com/nexus-uw/mokintoken) - Clientside encrypted pastebin using tweetnacl. `Unlicense` `PHP`
+*   [MokinToken (⭐5)](https://github.com/nexus-uw/mokintoken) - Clientside encrypted pastebin using tweetnacl. `Unlicense` `PHP`
 *   [SocksBin (⭐9)](https://github.com/magnumdingusedu/socksbin) - Simple and fast terminal based pastebin, with optional code highlighting. No specific client required, all you need is netcat. `GPL-3.0` `Python`
 
 ### Software / Personal Dashboards
@@ -118,7 +118,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐993)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
+*   [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code (⭐1.1k)](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
 
 ### Software / Software Development - Project Management
 
@@ -132,7 +132,7 @@
 
 ### Projects
 
-*   [Oxfeed (⭐7)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
+*   [Oxfeed (⭐8)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 
 ## [12. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
@@ -200,7 +200,7 @@
 
 ### Component Libraries
 
-*   [Dash ECharts Components (⭐45)](https://github.com/mergeforward/dash_echarts) - ECharts(V5) Components for Dash.
+*   [Dash ECharts Components (⭐49)](https://github.com/mergeforward/dash_echarts) - ECharts(V5) Components for Dash.
 
 ### Contributors
 
@@ -229,16 +229,16 @@
 
 ### Resources / Tutorials
 
-*   [Help you learn more efficiently vue3 source code - mini-vue (⭐8.1k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+*   [Help you learn more efficiently vue3 source code - mini-vue (⭐8.4k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 
 ### Resources / Examples
 
 *   [Vuetify Swipeout (⭐136)](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
-*   [Vuetify Todo PWA (⭐187)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
+*   [Vuetify Todo PWA (⭐188)](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 
 ### Components & Libraries / UI Components
 
-*   [vue-it-bigger (⭐179)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
+*   [vue-it-bigger (⭐181)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 
 ## [23. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
@@ -402,11 +402,11 @@
 ### Scala / General-Purpose Machine Learning
 
 *   [Microsoft ML for Apache Spark (⭐3.8k)](https://github.com/Azure/mmlspark) -> A distributed machine learning framework Apache Spark
-*   [ONNX-Scala (⭐106)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
+*   [ONNX-Scala (⭐108)](https://github.com/EmergentOrder/onnx-scala) - An ONNX (Open Neural Network eXchange) API and backend for typeful, functional deep learning in Scala (3).
 
 ### Scala / Data Analysis / Data Visualization
 
-*   [NDScala (⭐39)](https://github.com/SciScala/NDScala) - N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, tensor/axis labels & numeric data types
+*   [NDScala (⭐41)](https://github.com/SciScala/NDScala) - N-dimensional arrays in Scala 3. Think NumPy ndarray, but with compile-time type-checking/inference over shapes, tensor/axis labels & numeric data types
 
 ## [33. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -450,19 +450,47 @@
 *   [TCRP Synthesis 115 - Open Data: Challenges and Opportunities for Transit Agencies](http://onlinepubs.trb.org/Onlinepubs/tcrp/tcrp_syn_115.pdf) (2015) - A comprehensive report looking at the benefits and challenges of open transit data.
 *   [TCRP Research Report 213: Data Sharing Guidance for Public Transit Agencies – Now and in the Future](http://www.trb.org/Main/Blurbs/180188.aspx) (2020) - A report designed to help agencies make decisions about sharing their data, including how to evaluate benefits, costs, and risks.
 
-## [37. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [37. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Awk / Non-X86
+
+*   [Awk](https://www.grymoire.com/Unix/Awk.html) - Bruce Barnett
+*   [GNU awk](https://learnbyexample.github.io/learn_gnuawk/) - Sundeep Agarwal
+
+### Go / Phoenix
+
+*   [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
+
+### Perl / PicoLisp
+
+*   [Perl one-liners cookbook](https://learnbyexample.github.io/learn_perl_oneliners/) - Sundeep Agarwal
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
+
+### Ruby / Tornado
+
+*   [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal
+
+### Sed / Play Scala
+
+*   [GNU sed](https://learnbyexample.github.io/learn_gnused/) - Sundeep Agarwal
+*   [Sed - An Introduction and Tutorial](https://www.grymoire.com/Unix/Sed.html) - Bruce Barnett
+
+## [38. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
 *   [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) - Encyclopedia of musicians persecuted during the Nazi era.
 
-## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [39. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Bildr](https://www.bildr.com) - Open-ended, extensible, collaboration-focused website and web app builder.
 
-## [39. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [40. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -480,19 +508,19 @@
 
 *   [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
 
-## [40. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [41. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Math
 
 *   [Descriptive statistics in R](https://statsandr.com/blog/descriptive-statistics-in-r/) - This article explains how to compute the main descriptive statistics in R and how to present them graphically. Author - Antoine Soetewey.
 
-## [41. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [42. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [La Marque](https://marque.la/) - Generate & pin content from your phone. Validate "La Marque" assets by verifying received images from others.
 
-## [42. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [43. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
@@ -504,13 +532,13 @@
 
 *   [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)
 
-## [43. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [44. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Strategy
 
-*   [OpenHV (⭐284)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum.
+*   [OpenHV (⭐291)](https://github.com/OpenHV/OpenHV) - Open-source implementation of Hard Vacuum.
 
-## [44. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [45. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Binary Serialization
 
@@ -589,23 +617,23 @@
 
 *   [ajv (⭐12k)](https://github.com/ajv-validator/ajv) - The fastest validator. Supports v5/6 proposals.
 
-## [45. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Logic / Mouse Events
 
-*   [Formily (⭐8.7k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
+*   [Formily (⭐8.8k)](https://github.com/alibaba/formily) - High performance, extensible, and Typescript friendly
 
-## [46. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [47. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Testing
 
-*   [mocha-vite-puppeteer (⭐35)](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
+*   [mocha-vite-puppeteer (⭐36)](https://github.com/larsthorup/mocha-vite-puppeteer) - Run your Mocha front-end tests with the Vite bundler and the Puppeteer browser launcher.
 
 ### React / Framework
 
-*   [@vitjs/vit (⭐92)](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
+*   [@vitjs/vit (⭐94)](https://github.com/vitjs/vit) - React application framework inspired by UmiJS.
 
-## [47. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [48. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -615,7 +643,7 @@
 
 *   [keycloakify: Create Keycloak themes using React (⭐605)](https://github.com/InseeFrLab/keycloakify)
 
-## [48. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [49. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -623,7 +651,7 @@
 
 ### CLI Builder
 
-*   [Runfile (⭐21)](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
+*   [Runfile (⭐22)](https://github.com/DannyBen/runfile) - Build command line applications per project with ease. Rake-inspired, Docopt inside.
 
 ### Core Extensions
 
@@ -633,7 +661,7 @@
 ### Cryptocurrencies and Blockchains
 
 *   [Ciri (⭐127)](https://github.com/ciri-ethereum/ciri) - Ruby implementation of Ethereum.
-*   [MoneyTree (⭐180)](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
+*   [MoneyTree (⭐181)](https://github.com/GemHQ/money-tree) - A Ruby implementation of Bitcoin HD Wallets (Hierarchical Deterministic) BIP32.
 
 ### Data Visualization
 
@@ -641,15 +669,15 @@
 
 ### Decorators
 
-*   [ShowFor (⭐466)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
+*   [ShowFor (⭐468)](https://github.com/heartcombo/show_for) - Quickly show a model information with I18n features. Like form\_for for displaying model data.
 
 ### Email
 
-*   [MailForm (⭐859)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+*   [MailForm (⭐870)](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 
 ### Form Builder
 
-*   [Simple Form (⭐8k)](https://github.com/heartcombo/simple_form) - Rails forms made easy.
+*   [Simple Form (⭐8.1k)](https://github.com/heartcombo/simple_form) - Rails forms made easy.
 
 ### Logging
 
@@ -667,7 +695,7 @@
 
 *   [has\_scope (⭐1.6k)](https://github.com/heartcombo/has_scope) - Has scope allows you to easily create controller filters based on your resources named scopes.
 
-## [49. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [50. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -817,7 +845,7 @@
 
 
 
-## [50. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [51. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Azure
 
@@ -847,7 +875,7 @@
 
 *   [Sitecore Shared Source: Web API Client (⭐7)](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
 
-## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -857,26 +885,26 @@
 
 *   [link-header (⭐1)](https://github.com/spider-gazelle/link-header) - HTTP Link Header Parser
 
-## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [53. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [RRethy/nvim-base16 (⭐277)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
-*   [fenetikm/falcon (⭐607)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
+*   [RRethy/nvim-base16 (⭐292)](https://github.com/RRethy/nvim-base16) - Neovim plugin for building base16 colorschemes. Includes support for Treesitter and LSP highlight groups.
+*   [fenetikm/falcon (⭐612)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 
-## [53. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [54. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Blogs / Participants' solutions
 
 *   [Q# Community](https://qsharp.community)
 
-## [54. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
+## [55. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/week/README.md)
 
 ### JavaScript
 
 *   [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
 
-## [55. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [56. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / France 🇫🇷
 
@@ -888,13 +916,13 @@
 Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 <https://twitter.com/bebraw>
 
-## [56. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [57. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Developer and Requestor Resources / Miscellaneous
 
 *   [Yagna handbook](https://handbook.golem.network/) - Handbook for the Golem, implementation name, Yagna.
 
-## [57. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [58. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Web Application Firewall
 
@@ -904,7 +932,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 *   [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice) - Book that is a practical guide which presents dozens of relevant scenarios in a convenient problem-solution-discussion format.. (early access, published continuously, final release fall 2021)
 
-## [58. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [59. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -918,17 +946,17 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Contents / Imaging
 
-*   [Cornerstone (⭐1.8k)](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
-*   [Drishti (⭐143)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
+*   [Cornerstone (⭐1.9k)](https://github.com/cornerstonejs/cornerstone) - Open source project with a goal to deliver a complete web based medical imaging platform.
+*   [Drishti (⭐147)](https://github.com/nci/drishti/wiki) - Tomography and electron-microscopy data visualizer for both scientists and lay people.
 
 ### Contents / Frameworks
 
-*   [CareKit (⭐2.2k)](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
+*   [CareKit (⭐2.3k)](https://github.com/carekit-apple/CareKit/) - Open source software framework for creating apps that help people better understand and manage their health.
 
 ### Contents / Libraries
 
-*   [Evil-DICOM (⭐139)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
-*   [Python SMART on FHIR client (⭐454)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
+*   [Evil-DICOM (⭐143)](https://github.com/rexcardan/Evil-DICOM) - C# DICOM Library.
+*   [Python SMART on FHIR client (⭐465)](https://github.com/smart-on-fhir/client-py) - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
 
 ### Contents / Applications
 
@@ -936,9 +964,9 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Contents / Datasets
 
-*   [Medical Data for Machine Learning (⭐5.3k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
+*   [Medical Data for Machine Learning (⭐5.4k)](https://github.com/beamandrew/medical-data) - Curated list of medical data for machine learning.
 
-## [59. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [60. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
@@ -950,21 +978,19 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Miscellaneous
 
-*   [Trial (⭐434)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 and libout123 respectively, giving you fast and easy to use mp3 decoding and cross-platform audio output. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Trial (⭐447)](https://github.com/shirakumo/trial) - Trial is an OpenGL game engine with a heavy focus on modularity. It is supposed to provide a large toolkit of useful bits and pieces from which you can create a game. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+    *   the [Kandria](https://kandria.com/) game is built with Trial.
 *   [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – with this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT](https://opensource.org/licenses/MIT).
+*   [virality (⭐76)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT](https://opensource.org/licenses/MIT).
 *   [cl-gamepad](https://shirakumo.github.io/cl-gamepad) - Access to gamepads and joysticks on Windows, Mac OS, and Linux. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-*   [virality (⭐74)](https://github.com/bufferswap/ViralityEngine) - A component-based game engine written in Common Lisp [MIT](https://opensource.org/licenses/MIT).
+*   [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and [cl-out123](https://shirakumo.github.io/cl-out123), bindings libraries for libmpg123 and libout123 respectively, giving you fast and easy to use mp3 decoding and cross-platform audio output. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   👍 [Qtools (⭐195)](https://github.com/Shinmera/qtools/) - A Qt toolkit, based on CommonQt. [zlib](https://directory.fsf.org/wiki/License:Zlib) Also [Qtools-ui (⭐28)](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4\&index=7\&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
-
-### Mobile
-
-*   [dissect](https://shinmera.github.io/dissect) - when a lot of projects use the “trivial-backtrace” system that just gives them a string with a backtrace, Dissect allows you to capture, step, and completely inspect the stack trace on a variety of Lisp implementations. Also very useful for logging and other situations where execution is automatically continued, but the information of the current stack is still useful to store somewhere. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Portability layers
 
 *   [trivial-arguments (⭐18)](https://github.com/Shinmera/trivial-arguments) - A portable library to retrieve the arguments list of a function. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 *   [definitions (⭐12)](https://github.com/Shinmera/definitions) - a general definitions introspection library. It gives you the ability to retrieve definitions or bindings associated with designators such as symbols, packages, and names in general. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [dissect](https://shinmera.github.io/dissect) - when a lot of projects use the “trivial-backtrace” system that just gives them a string with a backtrace, Dissect allows you to capture, step, and completely inspect the stack trace on a variety of Lisp implementations. Also very useful for logging and other situations where execution is automatically continued, but the information of the current stack is still useful to store somewhere. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Iteration
 
@@ -976,7 +1002,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Deployment / Isomorphic web frameworks
 
-*   [deploy](https://shinmera.github.io/deploy) - A toolkit for binary deployment of Lisp applications, with extra support for foreign shared libraries. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   👍 [deploy](https://shinmera.github.io/deploy) - A toolkit for binary deployment of Lisp applications, with extra support for foreign shared libraries. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Matrix libraries / Third-party APIs
 
@@ -989,11 +1015,11 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Writing, running scripts / Third-party APIs
 
-*   [cl-all (⭐14)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [cl-all (⭐15)](https://github.com/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Apps / Third-party APIs
 
-*   [Parachute (⭐67)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Parachute (⭐66)](https://github.com/Shinmera/parachute) - An extensible and cross-compatible testing framework. With test dependencies, conditions, fixtures and restarts. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Data validation / Third-party APIs
 
@@ -1005,11 +1031,13 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 ### Documentation builders / Third-party APIs
 
-*   [Staple (⭐46)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+*   [Staple (⭐48)](https://github.com/Shinmera/staple) - a tool to generate documentation pages using an HTML template. Uses the existing README, adds docstrings, crossreferences and links to the CLHS. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
 ### Files and directories / Third-party APIs
 
 *   [pathname-utils (⭐9)](https://github.com/Shinmera/pathname-utils) - A collection of utilities to help with pathname operations. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+    *   [filesystem-utils (⭐10)](https://github.com/Shinmera/filesystem-utils) - deal with common problems with filesystems, such as listing files, probing file types, determining default directories, etc.
+    *   [file-attributes (⭐8)](https://github.com/Shinmera/file-attributes) -  access to common file attributes (uid, gid, permissions, ctime, mtime, atime).
 
 ### Git / Third-party APIs
 
@@ -1026,7 +1054,7 @@ Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
 
 *   [verbose](https://shinmera.github.io/verbose) - A fast and highly configurable logging framework. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-## [60. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [61. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 

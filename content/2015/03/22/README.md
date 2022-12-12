@@ -22,13 +22,13 @@
 
 ### Game Engine
 
-*   [GamePlay (⭐3.8k)](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. \[Apache2]
+*   [GamePlay (⭐3.9k)](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. \[Apache2]
 *   [Torque2D (⭐1.7k)](https://github.com/GarageGames/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. \[MIT] [website](https://www.garagegames.com/products/torque-2d)
 *   [Torque3D (⭐3.3k)](https://github.com/GarageGames/Torque3D) - An open-source C++ engine built for 3D game development. \[MIT] [website](https://www.garagegames.com/products/torque-3d)
 
 ### Image Processing
 
-*   [libvips (⭐25)](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. \[LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
+*   [libvips (⭐26)](https://github.com/jcupitt/libvips) - A fast image processing library with low memory needs. \[LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 
 ### Inter-process communication
 

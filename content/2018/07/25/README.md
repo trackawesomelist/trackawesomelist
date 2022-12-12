@@ -58,7 +58,7 @@
 
 ### Other Awesomes / Ephemera
 
-*   [awesome-generative-art (⭐1.4k)](https://github.com/kosmos/awesome-generative-art)
+*   [awesome-generative-art (⭐1.5k)](https://github.com/kosmos/awesome-generative-art)
 *   [awesome-creative-coding (⭐10k)](https://github.com/terkelg/awesome-creative-coding)
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)

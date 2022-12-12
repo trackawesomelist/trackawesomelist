@@ -220,7 +220,7 @@
 
 ### Concurrency
 
-*   [cuda-api-wrappers (⭐530)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
+*   [cuda-api-wrappers (⭐543)](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. \[BSD]
 *   [STAPL](http://parasol-lab.gitlab.io/stapl-home/) - A C++ parallel programming framework designed to work on both shared and distributed memory parallel computers. \[BSD]
 
 ## [26. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
@@ -351,8 +351,8 @@
 
 ### React Tools / React Renderers
 
-*   [ink (⭐19k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-*   [react-nil (⭐642)](https://github.com/pmndrs/react-nil) - A react null renderer
+*   [ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+*   [react-nil (⭐648)](https://github.com/pmndrs/react-nil) - A react null renderer
 
 ## [41. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
@@ -390,20 +390,20 @@
 
 ### Algorithms and Data structures
 
-*   [Towel (⭐588)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
+*   [Towel (⭐601)](https://github.com/ZacharyPatten/Towel) - data structures, algorithms, mathematics, metadata, extensions, console, measurements, and other useful stuff
 
 ### GUI
 
-*   [Ookii.Dialogs.Wpf (⭐762)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
-*   [Ookii.Dialogs.WinForms (⭐392)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.Wpf (⭐794)](https://github.com/augustoproiete/ookii-dialogs-wpf) - Enable WPF applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
+*   [Ookii.Dialogs.WinForms (⭐404)](https://github.com/augustoproiete/ookii-dialogs-winforms) - Enable Windows Forms applications to access common Windows dialogs such as task dialogs, credential dialog, progress dialog, folder browser dialog, and more
 
 ### Minification
 
-*   [CompressedStaticFiles (⭐69)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
+*   [CompressedStaticFiles (⭐71)](https://github.com/AnderssonPeter/CompressedStaticFiles) - Send compressed static files to the browser without having to compress on demand, also has support for sending more advanced image formats when the browser indicates that i has support for it.
 
 ### Tools
 
-*   [Downloader (⭐584)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
+*   [Downloader (⭐630)](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 
 ## [45. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -521,18 +521,9 @@
 
 ### Component bundles
 
-*   [MatBlazor (⭐2.7k)](https://github.com/SamProf/MatBlazor) - ![GitHub stars](https://img.shields.io/github/stars/SamProf/MatBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/SamProf/MatBlazor?style=flat-square\&cacheSeconds=86400) Material Design components for Blazor. ([Demo](https://www.matblazor.com/)).
-*   [Element-Blazor (⭐643)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
-*   [BlazorFluentUI (⭐747)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
-*   [PanoramicData Blazor UI Components (⭐45)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
-
-### Individual components / Datagrids / tables
-
-*   [WpfGridLayout.Blazor (⭐26)](https://github.com/aboudoux/WpfGridLayout.Blazor) - ![last commit](https://img.shields.io/github/last-commit/aboudoux/WpfGridLayout.Blazor?style=flat-square\&cacheSeconds=86400) Provide a simple way to create a grid layout like WPF in Blazor.
-
-### Individual components / Others
-
-*   [BlazorDialog (⭐27)](https://github.com/stavroskasidis/BlazorDialog) - ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorDialog?style=flat-square\&cacheSeconds=86400) Dialog component as a service for Blazor. [Demo](https://blazor-dialog-demo.azurewebsites.net/).
+*   [Element-Blazor (⭐647)](https://github.com/Element-Blazor/Element-Blazor/blob/master/README.en.md) - ![GitHub stars](https://img.shields.io/github/stars/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Element-Blazor/Element-Blazor?style=flat-square\&cacheSeconds=86400) A blazor component library using Element UI. API imitates Element, CSS directly uses Element's style, HTML structure directly uses Element's HTML structure. [Blazor WebAssembly Version demo](https://blazorwasm.github.io). [Blazor WebAssembly Version PWA Mode demo](https://pwawasm.github.io).
+*   [BlazorFluentUI (⭐756)](https://github.com/BlazorFluentUI/BlazorFluentUI) - ![stars](https://img.shields.io/github/stars/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorFluentUI/BlazorFluentUI?style=flat-square\&cacheSeconds=86400) Simple port of FluenUI/Office Fabric React components and style to Blazor. [Client-side demo (WebAssembly)](https://www.blazorfluentui.net/). [Server-side demo (SignalR)](https://blazorfluentui.azurewebsites.net/).
+*   [PanoramicData Blazor UI Components (⭐47)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
 ## [55. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
@@ -548,13 +539,13 @@
 
 ### Table of Contents / Tutorials
 
-*   [Named Entity Recognition using Reformers (⭐4)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/NER%20using%20Reformer.ipynb)
-*   [Deep N-Gram Models on Shakespeare’s works (⭐4)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/Deep%20N-Gram.ipynb)
-*   [Wide Residual Networks (⭐4)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/vision/illustrated-wideresnet.ipynb)
+*   [Named Entity Recognition using Reformers (⭐5)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/NER%20using%20Reformer.ipynb)
+*   [Deep N-Gram Models on Shakespeare’s works (⭐5)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/Deep%20N-Gram.ipynb)
+*   [Wide Residual Networks (⭐5)](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/vision/illustrated-wideresnet.ipynb)
 *   [Fashion MNIST using Flax](https://github.com/SauravMaheshkar/Flax-Examples)
 *   [Fake News Classification (with streamlit deployment) (⭐8)](https://github.com/SauravMaheshkar/Fake-News-Classification)
 *   [Regression Analysis for Primary Biliary Cirrhosis (⭐1)](https://github.com/SauravMaheshkar/CoxPH-Model-for-Primary-Biliary-Cirrhosis)
-*   [Cross Matching Methods for Astronomical Catalogs (⭐1)](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs)
+*   [Cross Matching Methods for Astronomical Catalogs (⭐2)](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs)
 *   [Named Entity Recognition using BiDirectional LSTMs](https://github.com/SauravMaheshkar/Named-Entity-Recognition-)
 *   [Image Recognition App using Tflite and Flutter (⭐5)](https://github.com/SauravMaheshkar/Flutter_Image-Recognition)
 
@@ -564,9 +555,9 @@
 
 ### Researchers / Frameworks
 
-*   [Trax — Deep Learning with Clear Code and Speed (⭐7.1k)](https://github.com/google/trax)
+*   [Trax — Deep Learning with Clear Code and Speed (⭐7.2k)](https://github.com/google/trax)
 *   [Flax - a neural network ecosystem for JAX that is designed for flexibility (⭐3.7k)](https://github.com/google/flax)
-*   [QuickVision (⭐49)](https://github.com/Quick-AI/quickvision)
+*   [QuickVision (⭐50)](https://github.com/Quick-AI/quickvision)
 
 ## [57. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 

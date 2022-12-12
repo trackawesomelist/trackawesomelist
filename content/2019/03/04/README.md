@@ -10,11 +10,11 @@
 
 ### DevOps Tools
 
-*   [Sunzi (⭐452)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
+*   [Sunzi (⭐451)](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
 
 ### Machine Learning
 
-*   [AI4R (⭐709)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+*   [AI4R (⭐710)](https://github.com/sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
 *   [ruby-fann (⭐451)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 
 ### Process Management and Monitoring
@@ -25,8 +25,8 @@
 ### Scientific
 
 *   Bindings
-    *   [PyCall (⭐866)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
-    *   [ruby-opencv (⭐807)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
+    *   [PyCall (⭐873)](https://github.com/mrkn/pycall.rb) - Calling Python functions from the Ruby language.
+    *   [ruby-opencv (⭐809)](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 
 ## [2. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 

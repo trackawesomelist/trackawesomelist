@@ -26,7 +26,7 @@
 
 ### Files / Runner
 
-*   [jBinary (⭐524)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+*   [jBinary (⭐527)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Scheduling
 
-*   [QuartzNet (⭐5.3k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+*   [QuartzNet (⭐5.4k)](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 
 ### Template Engine
 

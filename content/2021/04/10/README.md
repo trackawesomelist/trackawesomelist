@@ -10,7 +10,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. ([Source Code (⭐13k)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go`
+*   [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. ([Source Code (⭐14k)](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go`
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -22,19 +22,19 @@
 
 ### Templates / Vue 3
 
-*   [vue-pure-admin (⭐3.8k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
+*   [vue-pure-admin (⭐4.3k)](https://github.com/xiaoxian521/vue-pure-admin) - Background management template based on Vue3, TypeScript, Tailwind CSS, element-plus.
 
 ### Templates / React
 
-*   [vite-reactts-eslint-prettier (⭐294)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
+*   [vite-reactts-eslint-prettier (⭐307)](https://github.com/TheSwordBreaker/vite-reactts-eslint-prettier) - React, TypeScript, ESlint, Prettier, Pre-commit.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-config (⭐27)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
+*   [vite-plugin-html-config (⭐29)](https://github.com/ahwgs/vite-plugin-html-config) - HTML tag configuration, such as script link style meta favicon and more.
 
 ### Vue / Helpers
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐190)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-gql (⭐195)](https://github.com/wheatjs/vite-plugin-vue-gql) - GraphQL Tags for your Vue SFC.
 
 ## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -51,31 +51,31 @@
 
 ### React Tools / React Component Libraries
 
-*   [ant-design (⭐82k)](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
-*   [chakra-ui (⭐29k)](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
+*   [ant-design (⭐83k)](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
+*   [chakra-ui (⭐30k)](https://github.com/chakra-ui/chakra-ui/) - Simple, Modular & Accessible UI Components for your React Applications
 *   [eui (⭐5.4k)](https://github.com/elastic/eui) - Elastic UI Framework
-*   [react-spectrum (⭐7.4k)](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
-*   [ring-ui (⭐3.3k)](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
+*   [react-spectrum (⭐7.7k)](https://github.com/adobe/react-spectrum) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
+*   [ring-ui (⭐3.4k)](https://github.com/JetBrains/ring-ui) - JetBrains Web UI components
 *   [bumbag-ui (⭐1k)](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag
 
 ### React Tools / React Awesome Components
 
-*   [react-popper (⭐2.3k)](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner
-*   [react-tsparticles (⭐4.3k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles animations
-*   [react-spring (⭐24k)](https://github.com/pmndrs/react-spring) - Spring-physics based animation library for React applications
-*   [framer-motion (⭐16k)](https://github.com/framer/motion) - A React library to power production-ready animations
+*   [react-popper (⭐2.4k)](https://github.com/popperjs/react-popper) - Position tooltips and popovers in an elegant, performant manner
+*   [react-tsparticles (⭐4.5k)](https://github.com/matteobruni/tsparticles) - Easily create highly customizable particles animations
+*   [react-spring (⭐25k)](https://github.com/pmndrs/react-spring) - Spring-physics based animation library for React applications
+*   [framer-motion (⭐17k)](https://github.com/framer/motion) - A React library to power production-ready animations
 *   [react-cookie (⭐2.4k)](https://github.com/reactivestack/cookies) - Universal cookies for React
 *   [react-slick (⭐11k)](https://github.com/akiran/react-slick) - Carousel component built with React
-*   [react-gtm-module (⭐576)](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React
-*   [react-device-detect (⭐2.1k)](https://github.com/duskload/react-device-detect) - Detect device for React
-*   [react-colorful (⭐2.3k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component
+*   [react-gtm-module (⭐583)](https://github.com/alinemorelli/react-gtm) - Google Tag Manager Module for React
+*   [react-device-detect (⭐2.2k)](https://github.com/duskload/react-device-detect) - Detect device for React
+*   [react-colorful (⭐2.4k)](https://github.com/omgovich/react-colorful) - A tiny (2,5 KB), dependency-free, fast and accessible color picker component
 *   [react-modal (⭐7.1k)](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 *   [cleave.js (⭐18k)](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 *   [react-fontawesome (⭐3.6k)](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
 
 ### React Tools / React Renderers
 
-*   [react-three-fiber (⭐20k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
+*   [react-three-fiber (⭐21k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js
 *   [react-pdf (⭐11k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
 *   [react-blessed (⭐4.3k)](https://github.com/Yomguithereal/react-blessed) - A React renderer for blessed terminal interface library
 *   [react-sketchapp (⭐15k)](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
@@ -89,9 +89,9 @@
 *   [react-vis (⭐8.4k)](https://github.com/uber/react-vis) - Data Visualization Components
 *   [recharts (⭐19k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 *   [nivo (⭐11k)](https://github.com/plouc/nivo) - Provides a rich set of data visualization components, built on top of the D3 and React libraries
-*   [echarts-for-react (⭐3.8k)](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
-*   [react-apexcharts (⭐999)](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
-*   [chartify (⭐684)](https://github.com/kis/chartify) - React plugin for building charts using CSS
+*   [echarts-for-react (⭐3.9k)](https://github.com/hustcc/echarts-for-react) - Apache ECharts components for React wrapper
+*   [react-apexcharts (⭐1k)](https://github.com/apexcharts/react-apexcharts) - React Component for ApexCharts
+*   [chartify (⭐683)](https://github.com/kis/chartify) - React plugin for building charts using CSS
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -133,15 +133,15 @@
 
 ### Audio
 
-*   [ni-media (⭐197)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
+*   [ni-media (⭐202)](https://github.com/NativeInstruments/ni-media) - C++ library for reading and writing audio files. \[MIT]
 
 ### JSON
 
-*   [yyjson (⭐2.2k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
+*   [yyjson (⭐2.3k)](https://github.com/ibireme/yyjson) - A high performance JSON library written in ANSI C. \[MIT]
 
 ### Networking
 
-*   [cpp-httplib (⭐7.9k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
+*   [cpp-httplib (⭐8.2k)](https://github.com/yhirose/cpp-httplib) - A single file C++11 header-only HTTP/HTTPS server library. \[MIT]
 
 ## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nixpkgs-fmt (⭐350)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+*   [nixpkgs-fmt (⭐363)](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [Lish (⭐63)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+*   [Lish (⭐65)](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)

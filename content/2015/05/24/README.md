@@ -10,7 +10,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐6.3k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐6.6k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## [2. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

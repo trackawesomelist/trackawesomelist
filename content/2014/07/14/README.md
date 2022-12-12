@@ -48,7 +48,7 @@
 
 ### ORM and Datamapping
 
-*   [exredis (⭐356)](https://github.com/artemeff/exredis) - Redis client for Elixir.
+*   [exredis (⭐357)](https://github.com/artemeff/exredis) - Redis client for Elixir.
 
 ### Text and Numbers
 
@@ -124,7 +124,7 @@
 
 ### Data Visualization / Runner
 
-*   [three.js (⭐86k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+*   [three.js (⭐87k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 ### Color / Runner
 
@@ -132,8 +132,8 @@
 
 ### Security / Runner
 
-*   [DOMPurify (⭐9.8k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
-*   [js-xss (⭐4.7k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+*   [DOMPurify (⭐10k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+*   [js-xss (⭐4.8k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ### Loading Status / Runner
 
@@ -156,10 +156,10 @@
 
 ### Podcasts / Other
 
-*   [emijrp/awesome-awesome (⭐2.2k)](https://github.com/emijrp/awesome-awesome)
-*   [bayandin/awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐223k)](https://github.com/sindresorhus/awesome)
-*   [jnv/list (⭐8.5k)](https://github.com/jnv/lists)
+*   [emijrp/awesome-awesome (⭐2.3k)](https://github.com/emijrp/awesome-awesome)
+*   [bayandin/awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness)
+*   [sindresorhus/awesome (⭐229k)](https://github.com/sindresorhus/awesome)
+*   [jnv/list (⭐8.6k)](https://github.com/jnv/lists)
 
 ---
 

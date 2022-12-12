@@ -234,7 +234,7 @@
 
 ### CLI Builder
 
-*   [Optimist (⭐206)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
+*   [Optimist (⭐208)](https://github.com/ManageIQ/optimist) - A commandline option parser for Ruby that just gets out of your way.
 
 ## [5. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Gaming
 
-*   [Haxe Game Development (⭐310)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
+*   [Haxe Game Development (⭐320)](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 
 ## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -282,7 +282,7 @@
 
 ### Tab / Barcode
 
-*   [PolioPager (⭐172)](https://github.com/YuigaWada/PolioPager) - A flexible TabBarController with search tab like SNKRS.
+*   [PolioPager (⭐175)](https://github.com/YuigaWada/PolioPager) - A flexible TabBarController with search tab like SNKRS.
 
 ## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

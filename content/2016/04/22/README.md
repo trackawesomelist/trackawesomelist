@@ -18,7 +18,7 @@
 
 ### Video / Barcode
 
-*   [PlayerView (⭐132)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+*   [PlayerView (⭐131)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
 ## [3. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Miscellaneous
 
-*   [phone (⭐98)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+*   [phone (⭐99)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ## [5. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

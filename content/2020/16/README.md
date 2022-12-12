@@ -56,7 +56,7 @@
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [bonfire (⭐742)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+*   [bonfire (⭐781)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
 ## [9. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
@@ -181,11 +181,11 @@ Language: English
 
 ### Tools and session management
 
-*   [tmux-cssh (⭐59)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+*   [tmux-cssh (⭐60)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 
 ### Status Bar
 
-*   [tmux-cpu-info (⭐7)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
+*   [tmux-cpu-info (⭐8)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 
 ## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -221,7 +221,7 @@ Language: English
 
 ### Applications / Utilities
 
-*   [nomino (⭐434)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
+*   [nomino (⭐452)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 
 ## [16. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -247,7 +247,7 @@ Language: English
 
 ### Tools / Playground
 
-*   [SweetIQ/schemats (⭐978)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
+*   [SweetIQ/schemats (⭐987)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 
 ## [19. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -544,13 +544,13 @@ Language: English
 
 ### File Manipulation
 
-*   :strawberry: [Josegonzalez/Upload plugin (⭐556)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+*   :strawberry: [Josegonzalez/Upload plugin (⭐557)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
 ## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [YoutubeDL-Material (⭐1.6k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
+*   [YoutubeDL-Material (⭐1.7k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
 
 ### Software / Resource Planning - Enterprise Resource Planning
 
@@ -579,13 +579,13 @@ Language: English
 
 ### Resources / Examples
 
-*   [TodoMVC Vue 3 Composition API (⭐119)](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
-*   [TodoMVC Vue (⭐27)](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
-*   [Movie search app with Composition API (⭐40)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
+*   [TodoMVC Vue 3 Composition API (⭐121)](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
+*   [TodoMVC Vue (⭐28)](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
+*   [Movie search app with Composition API (⭐39)](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
 
 ### Projects Using Vue.js / Open Source
 
-*   [Sheiley Shop (⭐43)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
+*   [Sheiley Shop (⭐44)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
 ### Components & Libraries / UI Components
 
@@ -676,7 +676,7 @@ Language: English
 
 ### Ruby / General-Purpose Machine Learning
 
-*   [rumale (⭐617)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
+*   [rumale (⭐618)](https://github.com/yoshoku/rumale) - Rumale is a machine learning library in Ruby
 
 ## [33. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -726,13 +726,12 @@ Language: English
 
 ### Tools & Utilities / Others
 
-*   [Cortex.Net (⭐69)](https://github.com/jspuij/Cortex.Net) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/Cortex.Net?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/Cortex.Net?style=flat-square\&cacheSeconds=86400) State management like MobX for .NET and Blazor. [Documentation](https://jspuij.github.io/Cortex.Net.Docs/pages/index.html).
-*   [Blazor.LazyStyleSheet (⭐11)](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square\&cacheSeconds=86400) Lazy loading for CSS style sheets.
+*   [Blazor.LazyStyleSheet (⭐12)](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square\&cacheSeconds=86400) Lazy loading for CSS style sheets.
 *   [DnetIndexedDb (⭐84)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
 
 ### Others / Others
 
-*   [BlazorWebView (⭐127)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
+*   [BlazorWebView (⭐128)](https://github.com/jspuij/BlazorWebView) - ![GitHub stars](https://img.shields.io/github/stars/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jspuij/BlazorWebView?style=flat-square\&cacheSeconds=86400) Blazor WebView control for WPF, Android, macOS, iOS. Run Blazor on .NET Core and Mono natively inside a Webview. [Documentation](https://jspuij.github.io/BlazorWebView.Docs/pages/index.html).
 
 ## [39. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -773,13 +772,11 @@ Language: English
 ### History / 2018
 
 *   [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
-*   [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 *   [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 
 ### History / 2016
 
 *   [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
-*   [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 
 ### History / 2015
 
@@ -789,10 +786,6 @@ Language: English
 
 *   [The Shadow DOM Diaries](https://gist.github.com/dglazkov/efd2deec54f65aa86f2e)
 *   [A Detailed Introduction To Custom Elements](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)
-
-### History / 2013
-
-*   [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
 ## [40. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
@@ -827,7 +820,7 @@ Language: English
 
 *   [Velodyne](https://velodynelidar.com/) - Velodyne is a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/user/VelodyneLiDAR)
-    *   [ROS driver :octocat: (⭐525)](https://github.com/ros-drivers/velodyne)
+    *   [ROS driver :octocat: (⭐542)](https://github.com/ros-drivers/velodyne)
 *   [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/Ouster-lidar)
     *   [GitHub organization :octocat:](https://github.com/ouster-lidar)
@@ -841,7 +834,7 @@ Language: English
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [TEN (⭐26)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
+*   [TEN (⭐27)](https://github.com/mmontone/ten) - the completness of Djula meets the usability of Eco. [MIT](https://opensource.org/licenses/MIT).
 
 ### Writing, running scripts / Third-party APIs
 
@@ -867,7 +860,7 @@ Language: English
 
 ### System administration / Third-party APIs
 
-*   [Adams (⭐166)](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
+*   [Adams (⭐170)](https://github.com/cl-adams/adams) - UNIX system administration in Common Lisp. Not unlike Ansible, Chef or Puppet. [ISC](https://en.wikipedia.org/wiki/ISC_license).
 
 ### Date and time / Third-party APIs
 
@@ -946,8 +939,8 @@ Language: English
 
 *   [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
 *   [Flow.js](https://flow.org/en/) - A static type checker for JavaScript from Facebook.
-*   [TypL (⭐347)](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
-*   [Hindley Milner Definitions (⭐193)](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
+*   [TypL (⭐352)](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
+*   [Hindley Milner Definitions (⭐194)](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 
 ## [52. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -1006,12 +999,12 @@ Language: English
 
 *   [**Water.css**](https://watercss.kognise.dev/) - Just-add-CSS collection of styles to make simple websites just a little nicer.\
     ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social\&label=Star)
-    [Repo (⭐7.3k)](https://github.com/kognise/water.css)
+    [Repo (⭐7.4k)](https://github.com/kognise/water.css)
     \| #CSS
 *   [**sakura**](https://oxal.org/projects/sakura/) - Minimal classless CSS framework/theme.\
     ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social\&label=Star)
     [Demo](https://oxal.org/projects/sakura/demo/),
-    [Repo (⭐3.5k)](https://github.com/oxalorg/sakura)
+    [Repo (⭐3.6k)](https://github.com/oxalorg/sakura)
     \| #SCSS
 *   [**Tacit**](https://yegor256.github.io/tacit/) - CSS framework for dummies, without classes.\
     ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social\&label=Star)
@@ -1171,11 +1164,11 @@ Language: English
 
 ### Packages / Documentation
 
-*   [Docusaurus (⭐39k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+*   [Docusaurus (⭐40k)](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
 
 ### Packages / Miscellaneous
 
-*   [patch-package (⭐7.7k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+*   [patch-package (⭐7.9k)](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 
 ## [59. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 

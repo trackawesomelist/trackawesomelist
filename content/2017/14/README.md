@@ -425,7 +425,7 @@ $ git config --global merge.tool meld
 
 ### Testing
 
-*   [double (⭐43)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
+*   [double (⭐44)](https://github.com/sonerdy/double) - Create stub dependencies for testing without overwriting global modules.
 
 ### Utilities
 
@@ -517,7 +517,7 @@ $ git config --global merge.tool meld
 ### Developer
 
 *   [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
-*   [DevDocs (⭐618)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
+*   [DevDocs (⭐620)](https://github.com/yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
 
 ### Text Manipulation
 
@@ -525,7 +525,7 @@ $ git config --global merge.tool meld
 
 ### Scientific
 
-*   [Scientific Workflow (⭐98)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+*   [Scientific Workflow (⭐99)](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 
 ### Miscellaneous
 
@@ -533,7 +533,7 @@ $ git config --global merge.tool meld
 
 ### System
 
-*   [Swift Windows Switcher (⭐318)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
+*   [Swift Windows Switcher (⭐317)](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 
 ## [45. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 

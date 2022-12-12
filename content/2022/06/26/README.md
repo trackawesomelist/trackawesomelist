@@ -17,8 +17,8 @@
 
 ### Front-End Development
 
-*   [React (⭐52k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-    *   [Relay (⭐256)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+*   [React (⭐53k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+    *   [Relay (⭐258)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.1k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
@@ -35,7 +35,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [tfedit (⭐66)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
+*   [tfedit (⭐69)](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform.
 
 ### Terraform Enterprise / Vendor supported providers
 
@@ -43,7 +43,7 @@
 
 ### Editor Plugins / Vendor supported providers
 
-*   [Terraform-ls (⭐750)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
+*   [Terraform-ls (⭐759)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -84,19 +84,19 @@
 
 ### Audio
 
-*   [VOICEVOX (⭐1.2k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
+*   [VOICEVOX (⭐1.3k)](https://github.com/VOICEVOX/voicevox) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### UI Animation / Syntax Highlight
 
-*   [react-animatable (⭐9)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
+*   [react-animatable (⭐10)](https://github.com/inokawa/react-animatable) - An animation library using Web Animations API.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [phuslu/log (⭐455)](https://github.com/phuslu/log) - High performance structured logging.
+*   [phuslu/log (⭐463)](https://github.com/phuslu/log) - High performance structured logging.
 
 ---
 

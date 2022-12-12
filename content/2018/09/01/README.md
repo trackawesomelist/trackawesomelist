@@ -258,16 +258,16 @@
 *   Can manage everything
     *   ZSH plugins/UNIX commands on [GitHub](https://github.com) and [Bitbucket](https://bitbucket.org)
     *   Gist files ([gist.github.com](https://gist.github.com/discover))
-    *   Externally managed plugins e.g., [oh-my-zsh (⭐151k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) plugins/themes
+    *   Externally managed plugins e.g., [oh-my-zsh (⭐153k)](https://github.com/ohmyzsh/ohmyzsh) and [prezto (⭐13k)](https://github.com/sorin-ionescu/prezto) plugins/themes
     *   Binary artifacts on [GitHub Releases](https://help.github.com/articles/about-releases/)
     *   Local plugins
-    *   etc. (you can add your [own sources (⭐5.2k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
+    *   etc. (you can add your [own sources (⭐5.3k)](https://github.com/zplug/zplug/blob/master/doc/guide/External-Sources.md)!)
 *   Super-fast parallel installation/update
 *   Support for lazy-loading
 *   Branch/tag/commit support
 *   Post-update, post-load hooks
-*   Interactive interface ([fzf (⭐48k)](https://github.com/junegunn/fzf), [peco (⭐7.1k)](https://github.com/peco/peco), [zaw (⭐527)](https://github.com/zsh-users/zaw), and so on)
-*   Cache mechanism for reducing [the startup time (⭐5.2k)](https://github.com/zplug/zplug#vs)
+*   Interactive interface ([fzf (⭐49k)](https://github.com/junegunn/fzf), [peco (⭐7.2k)](https://github.com/peco/peco), [zaw (⭐529)](https://github.com/zsh-users/zaw), and so on)
+*   Cache mechanism for reducing [the startup time (⭐5.3k)](https://github.com/zplug/zplug#vs)
 
 ## [6. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

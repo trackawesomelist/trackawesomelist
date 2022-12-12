@@ -134,7 +134,7 @@
 
 ### Mods / Technology
 
-*   [Railcraft (⭐492)](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
+*   [Railcraft (⭐496)](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
 
 ### Mods / Utilities
 

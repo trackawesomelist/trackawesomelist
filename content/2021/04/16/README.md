@@ -65,7 +65,7 @@
 
 ### Projects
 
-*   [Oxfeed (⭐7)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
+*   [Oxfeed (⭐8)](https://github.com/sanpii/oxfeed) - A feed reader written in Rust with a Yew frontend.
 
 ## [6. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -90,7 +90,7 @@
 
 ### Resources / Tutorials
 
-*   [Help you learn more efficiently vue3 source code - mini-vue (⭐8.1k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
+*   [Help you learn more efficiently vue3 source code - mini-vue (⭐8.4k)](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 
 ## [10. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

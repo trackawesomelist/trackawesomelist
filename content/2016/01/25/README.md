@@ -14,7 +14,7 @@
 
 ### Images / Barcode
 
-*   [AlamofireImage (⭐3.8k)](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
+*   [AlamofireImage (⭐3.9k)](https://github.com/Alamofire/AlamofireImage) - AlamofireImage is an image component library for Alamofire.
 
 ### UI / Barcode
 
@@ -60,7 +60,7 @@
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐204)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐207)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ## [4. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -104,11 +104,11 @@
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐164)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐165)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 
-*   [Hanami::Model (⭐433)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
+*   [Hanami::Model (⭐435)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 
 ### Web Frameworks
 

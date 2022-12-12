@@ -54,7 +54,7 @@
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Javascript / Misc
+### JavaScript / Misc
 
 *   [Pipcook (⭐2.3k)](https://github.com/alibaba/pipcook) - A JavaScript application framework for machine learning and its engineering.
 

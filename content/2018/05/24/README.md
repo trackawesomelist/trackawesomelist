@@ -14,7 +14,7 @@
 
 ### Alert / Barcode
 
-*   [SwiftEntryKit (⭐6k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
+*   [SwiftEntryKit (⭐6.1k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Scripting
 
-*   [VerySimple.Lua (⭐119)](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
+*   [VerySimple.Lua (⭐121)](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
     // *LUA DLL required*
 
 ### RAD Studio IDE plugins/wizards

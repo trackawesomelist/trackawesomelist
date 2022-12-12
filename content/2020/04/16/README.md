@@ -16,7 +16,7 @@
 
 ### Tools / Playground
 
-*   [SweetIQ/schemats (⭐978)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
+*   [SweetIQ/schemats (⭐987)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -98,13 +98,11 @@
 
 ### History / 2018
 
-*   [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
 *   [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 
 ### History / 2016
 
 *   [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
-*   [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 
 ### History / 2015
 

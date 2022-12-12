@@ -35,7 +35,7 @@
 
 ### serialization
 
-*   [geojson-serializer (⭐5)](https://github.com/ancore/geojson-serializer): serialize Java with annotations as GeoJSON
+*   [geojson-serializer (⭐6)](https://github.com/ancore/geojson-serializer): serialize Java with annotations as GeoJSON
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Authentication / OAuth2 & OpenID
 
-*   [Casdoor (⭐4.4k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
+*   [Casdoor (⭐4.6k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
 ## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Bindings
 
-*   [Vortice.Vulkan (⭐171)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
+*   [Vortice.Vulkan (⭐176)](https://github.com/amerkoleci/Vortice.Vulkan) - .NET Standard 2.0 and .NET5 C# bindings \[MIT]
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -90,12 +90,12 @@
 
 ### Visualization
 
-*   [ipychart (⭐62)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐67)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
-*   [Ganimede (⭐2)](https://github.com/manugraj/ganimede) - Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.
-*   [Voila (⭐4.4k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
+*   [Ganimede (⭐3)](https://github.com/manugraj/ganimede) - Store, version, edit and execute notebooks in sandboxes and integrate them directly via REST interfaces.
+*   [Voila (⭐4.5k)](https://github.com/QuantStack/voila) - Rendering of live Jupyter Notebooks with interactive widgets, allowing dashboarding based on Jupyter Notebooks.
 
 ## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Mods / Performance
 
-*   [Sodium (for Fabric) (⭐3.7k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+*   [Sodium (for Fabric) (⭐3.8k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
 ## [20. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 

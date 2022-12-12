@@ -14,7 +14,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐425)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐429)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
@@ -90,7 +90,7 @@
 
 ### Testing Frameworks / Assertion
 
-*   [chai (⭐7.7k)](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+*   [chai (⭐7.8k)](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -121,9 +121,9 @@
 ### String / Runner
 
 *   [string.js (⭐1.8k)](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
-*   [he (⭐3.1k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
+*   [he (⭐3.2k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 *   [multiline (⭐1.4k)](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
-*   [query-string (⭐6.1k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+*   [query-string (⭐6.2k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
 
 ### Number / Runner
 
@@ -137,8 +137,8 @@
 ### Color / Runner
 
 *   [randomColor (⭐5.9k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
-*   [chroma.js (⭐9.1k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-*   [TinyColor (⭐4.4k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [chroma.js (⭐9.2k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
+*   [TinyColor (⭐4.5k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ### Control Flow / Runner
 
@@ -148,7 +148,7 @@
 ### Routing / Runner
 
 *   [director (⭐5.6k)](https://github.com/flatiron/director) - A tiny and isomorphic URL router for JavaScript.
-*   [page.js (⭐7.5k)](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router (\~1200 bytes).
+*   [page.js (⭐7.6k)](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router (\~1200 bytes).
 
 ### Log / Runner
 
@@ -158,7 +158,7 @@
 
 *   [Spin.js (⭐9.3k)](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 *   [pace (⭐16k)](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
-*   [topbar (⭐355)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+*   [topbar (⭐360)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 *   [nanobar (⭐2.9k)](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
 
 ### Keyboard Wrappers / Runner

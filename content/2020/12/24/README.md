@@ -16,15 +16,15 @@
 
 ### Natural Language Processing (NLP)
 
-*   [Tongue (⭐16)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
+*   [Tongue (⭐17)](https://github.com/dannote/tongue) - Elixir port of Nakatani Shuyo's natural language detector.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [cpp-terminal (⭐240)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
-*   [FTXUI (⭐3.7k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
-*   [imtui (⭐2k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface \[MIT]
+*   [cpp-terminal (⭐265)](https://github.com/jupyter-xeus/cpp-terminal) - Small header only C++ library for writing multiplatform terminal applications. \[MIT]
+*   [FTXUI (⭐3.9k)](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface. \[MIT]
+*   [imtui (⭐2.1k)](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface \[MIT]
 
 ## [4. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -50,12 +50,12 @@
 
 ### Memory managers
 
-*   [FastMM5 (⭐205)](https://github.com/pleriche/FastMM5). `[Delphi]` Fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files. Version 5 is a complete rewrite of FastMM.
+*   [FastMM5 (⭐208)](https://github.com/pleriche/FastMM5). `[Delphi]` Fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files. Version 5 is a complete rewrite of FastMM.
 
 ### Other non-visual
 
-*   [PascalUtils (⭐19)](https://github.com/isemenkov/pascalutils). `[Delphi]` `[FPC]` Delphi and object pascal library of utils data structures
-*   [libPasC-Algorithms (⭐14)](https://github.com/isemenkov/libpasc-algorithms). `[Delphi]` `[FPC]` Delphi and object pascal library of common data structures and algorithms. Library rewritten from c-algorithms repository and other sources.
+*   [PascalUtils (⭐20)](https://github.com/isemenkov/pascalutils). `[Delphi]` `[FPC]` Delphi and object pascal library of utils data structures
+*   [libPasC-Algorithms (⭐16)](https://github.com/isemenkov/libpasc-algorithms). `[Delphi]` `[FPC]` Delphi and object pascal library of common data structures and algorithms. Library rewritten from c-algorithms repository and other sources.
 
 ## [7. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

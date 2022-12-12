@@ -107,7 +107,7 @@
 
 ### Data Visualization / Runner
 
-*   [d3 (⭐103k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
+*   [d3 (⭐104k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
 *   [c3 (⭐9.2k)](https://github.com/c3js/c3) - D3-based reusable chart library.
 
 ### Documentation / Runner
@@ -124,16 +124,16 @@
 
 ### Date / Runner
 
-*   [timeago.js (⭐4.8k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
+*   [timeago.js (⭐4.9k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 
 ### String / Runner
 
-*   [jsurl (⭐504)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
+*   [jsurl (⭐502)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 
 ### Sliders / Runner
 
 *   [impress.js (⭐37k)](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-*   [bespoke.js (⭐4.6k)](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
+*   [bespoke.js (⭐4.7k)](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 
 ### Table/Grid / Other
 
@@ -146,7 +146,7 @@
 ### Podcasts / Other
 
 *   [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
-*   [MaximAbramchuck/awesome-interviews (⭐51k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+*   [MaximAbramchuck/awesome-interviews (⭐52k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## [9. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

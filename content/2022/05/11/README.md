@@ -1,6 +1,6 @@
 # Awesome List Updates on May 11, 2022
 
-6 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -14,33 +14,27 @@
 
 ### Utilities / Productivity
 
-*   [Hook for Mac](https://hookproductivity.com/) - Hook files together fast and easily, enabeling you to find anything related with a simple keyboard shortcut.
+*   [Hook for Mac](https://hookproductivity.com/) - Hook files together fast and easily, enabling you to find anything related with a simple keyboard shortcut.
 
-## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Resources / Books
-
-*   [The Little MongoDB Book (⭐1.5k)](https://github.com/karlseguin/the-little-mongodb-book) - Basic introduction
-
-## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [2. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [react-vite-ssr (⭐9)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr) - Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
+*   [react-vite-ssr (⭐11)](https://github.com/EverSeenTOTOTO/browser-app-boilerplate/tree/react-vite-ssr) - Mobx, Typescript, Eslint, Stylelint, Husky, Lint-staged and Commitlint.
 
-## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Examples
 
 *   [AI model output API based on PMML with Vert.x (⭐1)](https://github.com/immusen/vertx-pmml) - High performance PMML evaluator API based on Vert.x. Supports dynamic routing configuration for multiple PMML models via JSON.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### IDE and Code Editing
 
 *   [code.cs50.io](https://code.cs50.io/) - Visual Studio Code for CS50 is a web app at code.cs50.io that adapts GitHub Codespaces for students and teachers.
 
-## [6. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+## [5. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
 
 ### Books
 

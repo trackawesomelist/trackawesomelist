@@ -108,7 +108,7 @@
 
 ### Testing / Misc
 
-*   [dmg-acid2 (⭐90)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐56)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
+*   [dmg-acid2 (⭐94)](https://github.com/mattcurrie/dmg-acid2) and [cgb-acid2 (⭐58)](https://github.com/mattcurrie/cgb-acid2) - Basic PPU rendering tests.
 
 ## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -157,7 +157,7 @@
 
 *   [**modern-css-reset**](https://github.com/hankchizljaw/modern-css-reset) - Tiny little reset that you can use as the basis of your CSS projects.\
     ![](https://img.shields.io/github/stars/hankchizljaw/modern-css-reset.svg?style=social\&label=Star)
-    [Repo (⭐2.6k)](https://github.com/hankchizljaw/modern-css-reset)
+    [Repo (⭐2.7k)](https://github.com/hankchizljaw/modern-css-reset)
     \| #CSS
 
 ## [11. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
@@ -202,7 +202,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐189)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐197)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

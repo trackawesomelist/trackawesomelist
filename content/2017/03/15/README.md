@@ -22,7 +22,7 @@
 
 ### Packages / Parsing
 
-*   [xlsx-populate (⭐817)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+*   [xlsx-populate (⭐829)](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -42,10 +42,6 @@
 ### RAD Studio IDE plugins/wizards
 
 *   [TestInsight](https://bitbucket.org/sglienke/testinsight/wiki/Home). Unit testing IDE Plugin for Delphi. It supports all versions from XE to 10 Seattle. Supports DUnit, DUnit2, DUnitX frameworks.
-
-### Other
-
-*   [Delphi Unit Tests](https://bitbucket.org/NickHodges/delphi-unit-tests). Set of unit tests for Delphi's libraries. Delphi community members are encouraged to fork the repository, add tests, and create a pull request. Embarcadero employees are particularly encouraged to add tests from the internal tests that are run with official Delphi builds.
 
 ## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

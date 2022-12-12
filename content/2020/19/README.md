@@ -40,7 +40,7 @@
 
 ### Peripherals / Opcodes
 
-*   [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents (⭐376)](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) in the GBE- emulator documentation.
+*   [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents (⭐379)](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) in the GBE- emulator documentation.
     *   [Mobile Adapter GB](https://shonumi.github.io/articles/art14.html) - Internet connectivity and DLC on the Game Boy Color.
     *   [The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
     *   [Pocket Sonar](https://shonumi.github.io/articles/art13.html) - A blue cart with built-in sonar hardware.
@@ -68,12 +68,12 @@
 
 ### Assemblers / Misc
 
-*   [wla-dx (⭐478)](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
+*   [wla-dx (⭐481)](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [Binjgb (⭐384)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
-*   [gbe-plus (⭐376)](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
+*   [Binjgb (⭐397)](https://github.com/binji/binjgb) - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
+*   [gbe-plus (⭐379)](https://github.com/shonumi/gbe-plus) - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
 
 ### ASM / Syntax highlighting packages
 
@@ -138,7 +138,7 @@
 
 ### Imagery
 
-*   [image-comparison (⭐243)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
+*   [image-comparison (⭐246)](https://github.com/romankh3/image-comparison) - Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison. Can be used for automation qa tests.
 
 ## [12. Services Engineering](/content/mmcgrana/services-engineering/week/README.md)
 
@@ -400,7 +400,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [RudderStack (⭐3.3k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
+*   [RudderStack (⭐3.4k)](https://github.com/rudderlabs/rudder-server) \[Go] - an open source customer data infrastructure (segment, mparticle alternative).
 
 ## [25. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -420,6 +420,11 @@
 
 ## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
+### React Tools / React Awesome Components
+
+*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - Minimalistic searchbox
+*   [react-beautiful-dnd (⭐29k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+
 ### React Tools / React Frameworks
 
 *   [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
@@ -436,16 +441,12 @@
 
 *   [rebass (⭐7.8k)](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system
 
-### React Tools / React Awesome Components
-
-*   [react-beautiful-dnd (⭐28k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
-
 ### React Native Awesome Components / Charts
 
 *   [react-native-gifted-chat (⭐12k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
-*   [recyclerlistview (⭐4.6k)](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
+*   [recyclerlistview (⭐4.7k)](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 *   [react-native-largelist (⭐2.3k)](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
-*   [react-native-gesture-handler (⭐5.1k)](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
+*   [react-native-gesture-handler (⭐5.2k)](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
 *   [rn-placeholder (⭐2k)](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
 
 ### React Native Libraries / Charts
@@ -463,13 +464,13 @@
 
 ### CLOS extensions
 
-*   [fast-generic-functions (⭐79)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-generic-functions (⭐80)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
 
 ### Beginner
 
 *   [Lisp Koans (⭐2.9k)](https://github.com/google/lisp-koans) - The project guides the learner progressively through many Common Lisp language features.
 
-### Developer utilities / Third-party APIs
+### Macro helpers / Third-party APIs
 
 *   [trivial-with-current-source-from (⭐25)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -484,7 +485,7 @@
 
 ### Alert / Barcode
 
-*   [PopupView (⭐1.7k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐1.8k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ### Webserver / Barcode
 
@@ -828,13 +829,9 @@
 
 ## [49. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
-### Miscellaneous
-
-*   [react-searchbox-awesome (⭐25)](https://github.com/axmz/react-searchbox-awesome) - [demo](https://axmz.github.io/react-searchbox-awesome-page/) - Minimalistic searchbox.
-
 ### Menu
 
-*   [react-planet (⭐135)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
+*   [react-planet (⭐140)](https://github.com/innFactory/react-planet) - [demo](https://innfactory.github.io/react-planet/) - Create circular menus which looks like planets.
 
 ## [50. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -923,11 +920,11 @@
 
 ### Date and Time Processing
 
-*   [holidays (⭐726)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
+*   [holidays (⭐742)](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 
 ### E-Commerce and Payments
 
-*   [credit\_card\_validations (⭐213)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
+*   [credit\_card\_validations (⭐216)](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 
 ### Security
 
@@ -935,7 +932,7 @@
 
 ### WebSocket
 
-*   [CableReady (⭐634)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
+*   [CableReady (⭐635)](https://github.com/hopsoft/cable_ready) - CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app.
 *   [StimulusReflex (⭐2k)](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 
 ## [54. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
@@ -958,7 +955,7 @@
 
 ### Software / Polls and Events
 
-*   [Feedka (⭐13)](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. ([Demo](https://feedka.herokuapp.com)) `AGPL-3.0` `Ruby`
+*   [Feedka (⭐14)](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. ([Demo](https://feedka.herokuapp.com)) `AGPL-3.0` `Ruby`
 
 ### Software / Task Management & To-do Lists
 

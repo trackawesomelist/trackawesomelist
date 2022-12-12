@@ -10,7 +10,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Next JS Boilerplate (⭐2.6k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
+*   🚀 [Next JS Boilerplate (⭐2.9k)](https://github.com/ixartz/Next-js-Boilerplate) - Boilerplate for Next.js and Tailwind CSS.
 
 ## [2. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -52,39 +52,39 @@
 
 ### Third-Party Packages / Editors
 
-*   [django-business-logic (⭐160)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
-*   [django-quill-editor (⭐136)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
+*   [django-business-logic (⭐161)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
+*   [django-quill-editor (⭐138)](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 *   [django-tinymce (⭐1.1k)](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
 
 ### Third-Party Packages / Forms
 
-*   [django-shapeshifter (⭐167)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
+*   [django-shapeshifter (⭐166)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
 
 ### Resources / Community
 
 *   [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Make / PicoLisp
+
+*   [Makefile tutorial](https://makefiletutorial.com) - Chase Lambert
+
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### GUI
 
-*   [xtd (⭐390)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
-
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Podcasts / Others
-
-*   [Daniel Roth on Web Development with .NET 6](http://azuredevopspodcast.clear-measure.com/daniel-roth-on-web-development-with-net-6-episode-158) - September 13, 2021 - Azure DevOps Podcast, episode 158: Daniel Roth on Web Development with .NET 6. Daniel was last on the podcast over two years ago in episode 47 to discuss Blazor DevOps. In this episode, he and Jeffrey discuss web development with .NET 6.0. He shares the high points of what’s coming next for .NET 6.0, the major differences between .NET 5.0 and 6.0, what to look forward to with regards to Blazor, and his insights on WASM tooling, minimal APIs and hosting, and hot reload within .NET 6.0. Duration: 45 minutes.
+*   [xtd (⭐423)](https://github.com/gammasoft71/xtd) - Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. \[MIT]
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [naive-ui-dashboard-template (⭐33)](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
+*   [naive-ui-dashboard-template (⭐34)](https://github.com/Innei/naive-ui-dashboard-template) - UI friendly, Vue 3 + TSX + TailwindCSS 2 JIT + PostCSS + Naive UI.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-comlink (⭐71)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.1k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+*   [vite-plugin-comlink (⭐76)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐9.2k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 
 ## [9. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
 

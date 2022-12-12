@@ -55,7 +55,7 @@
 
 ### OTP
 
-*   [erlexec (⭐471)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
+*   [erlexec (⭐473)](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 
 ### Queue
 
@@ -64,7 +64,7 @@
 ### Text and Numbers
 
 *   [bencode (⭐16)](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
-*   [elixir-range-extras (⭐7)](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
+*   [elixir-range-extras (⭐8)](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
 
 ### Third Party APIs
 
@@ -72,7 +72,7 @@
 
 ### YAML
 
-*   [fast\_yaml (⭐45)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
+*   [fast\_yaml (⭐47)](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -94,7 +94,7 @@
 
 ### XML
 
-*   [AEXML (⭐966)](https://github.com/tadija/AEXML) - xml wrapper.
+*   [AEXML (⭐973)](https://github.com/tadija/AEXML) - xml wrapper.
 
 ### Images / Barcode
 

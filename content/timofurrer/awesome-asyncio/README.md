@@ -16,7 +16,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Web Frameworks
 
-*   [Quart (⭐1.4k)](https://github.com/pallets/quart) - An asyncio web microframework with the same API as Flask.
+*   [Quart (⭐1.5k)](https://github.com/pallets/quart) - An asyncio web microframework with the same API as Flask.
 
 ### Database Drivers
 
@@ -34,11 +34,11 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Misc
 
-*   [aiochan (⭐121)](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
-*   [aiopath (⭐58)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
-*   [aiosc (⭐25)](https://github.com/artfwo/aiosc) -  Lightweight Open Sound Control implementation.
-*   [kubernetes\_asyncio (⭐241)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
-*   [aiomisc (⭐279)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
+*   [aiochan (⭐125)](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
+*   [aiopath (⭐61)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
+*   [aiosc (⭐26)](https://github.com/artfwo/aiosc) -  Lightweight Open Sound Control implementation.
+*   [kubernetes\_asyncio (⭐243)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
+*   [aiomisc (⭐286)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 
 ### Alternatives to asyncio
 
@@ -183,7 +183,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 ### Talks
 
 *   [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (David Beazley).
-*   [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](http://pgbovine.net/python-async-io-walkthrough.htm) - 8-part code walkthrough (Philip Guo).
+*   [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) - 8-part code walkthrough (Philip Guo).
 
 ## [May 28, 2018](/content/2018/05/28/README.md)
 

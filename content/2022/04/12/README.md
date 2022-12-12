@@ -14,25 +14,25 @@
 
 ### Community / Projects
 
-*   [AlgoWorld-Contracts (⭐29)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
+*   [AlgoWorld-Contracts (⭐30)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
 
 ## [2. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Communication
 
 *   [Mailsy (⭐17)](https://github.com/BalliAsghar/mailsy-alfred) - Quickly generate a disposable email.
-*   [Slack (⭐304)](https://github.com/yannickglt/alfred-slack) - Alfred workflow to interact, and perform various functions with the service Slack.
+*   [Slack (⭐306)](https://github.com/yannickglt/alfred-slack) - Alfred workflow to interact, and perform various functions with the service Slack.
 *   [TemporaryEmail (⭐2.2k)](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox.
 
 ### Developer
 
-*   [AWS Console Services (⭐282)](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
-*   [Bootstrap Icons (⭐16)](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - Quickly look up Bootstrap Icons and add the desired one to your clipboard.
-*   [caniuse.rs (⭐7)](https://github.com/robjtede/alfred-caniuse-rs) - Rust feature support and version info from [caniuse.rs](https://caniuse.rs).
+*   [AWS Console Services (⭐287)](https://github.com/rkoval/alfred-aws-console-services-workflow) - Quickly open up AWS Console Services in your browser or search for entities within them.
+*   [Bootstrap Icons (⭐17)](https://github.com/ruedap/alfred-bootstrap-icons-workflow) - Quickly look up Bootstrap Icons and add the desired one to your clipboard.
+*   [caniuse.rs (⭐6)](https://github.com/robjtede/alfred-caniuse-rs) - Rust feature support and version info from [caniuse.rs](https://caniuse.rs).
 
 ### Productivity
 
-*   [Timing (⭐25)](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
+*   [Timing (⭐27)](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
 
 ### Other Lists
 
@@ -62,7 +62,7 @@
 
 ### Projects
 
-*   [Crabtyper (⭐180)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
+*   [Crabtyper (⭐183)](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 
 ## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -72,12 +72,12 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
+*   [omz-git (⭐0)](https://github.com/aeons/omz-git) - [Oh-My-ZSH](https://ohmyz.sh/)'s [git (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) plugin re-packaged to be standalone.
 *   [silverstein-quotes (⭐0)](https://github.com/silversteinsoftware/silverstein_quotes) - Show a random quote from a Silverstein song during shell startup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
+*   [biratime (⭐2)](https://github.com/vemonet/biratime) - Based on the [bira (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/bira.zsh-theme) theme, but displays the date instead of the username in the prompt.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -95,7 +95,7 @@
 
 ### Problem Solving / Reinforcement Learning
 
-*   [A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html) - ***NIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7721047641895252765\&hl=en\&as_sdt=0,5)].
+*   [A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation](https://proceedings.neurips.cc/paper/2019/hash/4a46fbfca3f1465a27b210f4bdfe6ab3-Abstract.html) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7721047641895252765\&hl=en\&as_sdt=0,5)].
 
 ---
 

@@ -56,7 +56,7 @@
 
 ### Patterns
 
-*   [StateViewController (⭐308)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
+*   [StateViewController (⭐309)](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
 
 ### Concurrency
 
@@ -64,7 +64,7 @@
 
 ### Other Data
 
-*   [CoreXLSX (⭐674)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
+*   [CoreXLSX (⭐683)](https://github.com/CoreOffice/CoreXLSX) - Excel spreadsheet (XLSX) format support.
 
 ### Auto Layout / Barcode
 
@@ -78,7 +78,7 @@
 
 ### Component Libraries
 
-*   [Nightingale (⭐89)](https://github.com/ebi-webcomponents/nightingale) - Data visualisation web components for the life sciences.
+*   [Nightingale (⭐95)](https://github.com/ebi-webcomponents/nightingale) - Data visualisation web components for the life sciences.
 
 ### Talks
 
@@ -197,17 +197,17 @@ Language: English
 
 ### Plugins / Security
 
-*   [no-secrets (⭐94)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
-*   [no-unsanitized (⭐168)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
+*   [no-secrets (⭐98)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
+*   [no-unsanitized (⭐171)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
 *   ScanJS [config (⭐90)](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin (⭐27)](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
-*   [Security (⭐1.8k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
-*   [xss (⭐48)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
+*   [Security (⭐1.9k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
+*   [xss (⭐50)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
 ## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Custom Communication Systems
 
-*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐516)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
+*   [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server. ([Source Code (⭐514)](https://github.com/Canop/miaou)) `MIT` `Nodejs`
 
 ---
 

@@ -146,7 +146,7 @@
 
 ### Animation
 
-*   [ViewAnimator (⭐6.8k)](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
+*   [ViewAnimator (⭐6.9k)](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
 
 ## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

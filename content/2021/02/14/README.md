@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   💼 [Downwind CSS Easings (⭐3)](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
+*   💼 [Downwind CSS Easings (⭐4)](https://github.com/downwindcss/easings) - Extends `transition-timing-function` utilities.
 
 ## [2. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Modules / CLI utils
 
-*   [cliffy (⭐488)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
+*   [cliffy (⭐518)](https://github.com/c4spar/deno-cliffy) - The complete solution for building interactive command-line tools.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [oh-vue-icons (⭐174)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
+*   [oh-vue-icons (⭐182)](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

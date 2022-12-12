@@ -68,7 +68,7 @@
 
 ### Plugins
 
-*   [tmux-fingers (⭐705)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐706)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
@@ -238,7 +238,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐452)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐454)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -285,11 +285,11 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Artificial Intelligence
 
-*   [simple\_bayes (⭐383)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [simple\_bayes (⭐384)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Authentication
 
-*   [doorman (⭐117)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
+*   [doorman (⭐118)](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 
 ### Macros
 
@@ -305,11 +305,11 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Third Party APIs
 
-*   [dnsimple (⭐48)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
+*   [dnsimple (⭐49)](https://github.com/dnsimple/dnsimple-elixir) - Elixir client for the DNSimple API v2.
 
 ### Editors
 
-*   [elixir-tmbundle (⭐259)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
+*   [elixir-tmbundle (⭐260)](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
 
 ## [25. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
@@ -327,7 +327,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### Java / Symfony2
 
-*   [Vertx-Web (⭐991)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
+*   [Vertx-Web (⭐1k)](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
 ## [28. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
@@ -751,14 +751,14 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 ### JavaScript Engines
 
-*   [Jint (⭐2.9k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
-*   [Jurassic (⭐724)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
+*   [Jint (⭐3.1k)](https://github.com/sebastienros/jint) - JavaScript interpreter for .NET which provides full ECMA 5.1 compliance and can run on any .NET platform.
+*   [Jurassic (⭐736)](https://github.com/paulbartrum/jurassic) - A implementation of the ECMAScript language and runtime. It aims to provide the best performing and most standards-compliant implementation of JavaScript for .NET.
 
 ## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
-*   [Open in Code (⭐844)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+*   [Open in Code (⭐846)](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ## [42. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 

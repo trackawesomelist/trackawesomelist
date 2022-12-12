@@ -10,7 +10,7 @@
 
 ### Payment Service Provider
 
-*   [PAYONE (⭐26)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
+*   [PAYONE (⭐27)](https://github.com/PAYONE-GmbH/magento-2) - PAYONE Payment Integration.
 *   [Stripe (⭐45)](https://github.com/pmclain/module-stripe) - Stripe Payments for Magento 2.
 
 ## [2. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
@@ -90,7 +90,6 @@ Topics: Standards, Web Assembly\
 
 ### Swift programming / iOS
 
-*   [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) - Quick tutorial to share the way to help setup compiling Raspberry Pi code with Xcode.
 *   [SwiftyGPIO (⭐1.3k)](https://github.com/uraimo/SwiftyGPIO) - Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.
 
 ## [9. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)

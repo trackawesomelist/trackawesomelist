@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 18, 2020
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,7 @@
 
 ### Pipelines
 
-*   **[Bactopia (⭐197)](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. \[ [web](https://bactopia.github.io/) ]
+*   **[Bactopia (⭐204)](https://github.com/bactopia/bactopia/)** - A flexible pipeline, built with Nextflow, for the complete analysis of bacterial genomes. \[ [web](https://bactopia.github.io/) ]
 
 ## [3. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -24,32 +24,38 @@
 
 *   [Bootstrapping Microservices](https://www.manning.com/books/bootstrapping-microservices-with-docker-kubernetes-and-terraform) by [Ashley Davis](https://twitter.com/ashleydavis75)
 
-## [4. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
+
+## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 
 *   Project Hatch - <https://www.projecthatch.co/your-story/>
 
-## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
 *   [Composer-Symlinker (⭐18)](https://github.com/e-picas/composer-symlinker) - Enables you to load packages from different directories (instead of loading them from /vendor).
 *   [Composer-Compile-Plugin (⭐11)](https://github.com/civicrm/composer-compile-plugin) - Allow PHP libraries to define simple, freeform compilation tasks. Support post-install hooks in any package.
 
-## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Code and Run
 
 *   [Gitpod (⭐9.4k)](https://github.com/gitpod-io/gitpod) - An open source developer platform that automates the provisioning of ready-to-code development environments.
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### API / E-commerce
 
 *   [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 
-## [8. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [9. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Deployment and Operation
 
@@ -59,25 +65,25 @@
 
 *   [An Architectural Risk Analysis Of Machine Learning Systems](https://berryvilleiml.com/docs/ara.pdf)
 
-## [9. Awesome Python](/content/vinta/awesome-python/README.md)
+## [10. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Books
 
 *   [Think Python](https://greenteapress.com/wp/think-python-2e/)
 
-## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Migration
 
 *   :strawberry: [Upgrade app (extended) (⭐20)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 2.x=>3.x, between 3.x and some 4.x snippets.
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Schematics / Components
 
 *   [Threejs (⭐206)](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Major Cloud Providers
 

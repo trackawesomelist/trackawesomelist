@@ -10,13 +10,13 @@
 
 ### Software / Automation
 
-*   [Beehive (⭐5.8k)](https://github.com/muesli/beehive) - Flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters. `AGPL-3.0` `Go`
+*   [Beehive (⭐5.9k)](https://github.com/muesli/beehive) - Flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters. `AGPL-3.0` `Go`
 *   [Headphones (⭐3.2k)](https://github.com/rembo10/headphones) - Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPL-3.0` `Python`
-*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐7.8k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`
+*   [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ([Source Code (⭐8k)](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`
 
 ### Software / Blogging Platforms
 
-*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐60)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
+*   [Antville](https://antville.org) - Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code (⭐58)](https://github.com/antville/antville)) `Apache-2.0` `Javascript`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -34,27 +34,27 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Abilian SBE (⭐61)](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
+*   [Abilian SBE (⭐62)](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
 *   [Elgg](https://elgg.org/) - Powerful open source social networking engine. ([Source Code (⭐1.6k)](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`
-*   [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([Source Code (⭐5.9k)](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
+*   [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([Source Code (⭐6k)](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`
 
 ### Software / Communication - XMPP - Web Clients
 
-*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐672)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
+*   [JSXC](https://jsxc.org) - Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ([Source Code (⭐677)](https://github.com/jsxc/jsxc)) `MIT` `Javascript`
 
 ### Software / Content Management Systems (CMS)
 
 *   [Pagekit](https://pagekit.com/) - New modern CMS to create and share. ([Source Code (⭐5.5k)](https://github.com/pagekit/pagekit)) `MIT` `PHP`
-*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐293)](https://github.com/redaxo/redaxo)) `MIT` `PHP`
-*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐889)](https://github.com/TYPO3/TYPO3.CMS)) `GPL-2.0` `PHP`
+*   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code (⭐294)](https://github.com/redaxo/redaxo)) `MIT` `PHP`
+*   [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community. ([Source Code (⭐895)](https://github.com/TYPO3/TYPO3.CMS)) `GPL-2.0` `PHP`
 
 ### Software / Feed Readers
 
-*   [Temboz (⭐60)](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
+*   [Temboz (⭐61)](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
-*   [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code (⭐7.9k)](https://github.com/transmission/transmission)) `GPL-3.0` `C`
+*   [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code (⭐8.2k)](https://github.com/transmission/transmission)) `GPL-3.0` `C`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -62,18 +62,18 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [FriendsRadio (⭐29)](https://github.com/xouabita/friends-radio) `⚠` - Share music with your friends from Youtube and Soundcloud. ([Demo](https://friends-radio.herokuapp.com/)) `MIT` `Nodejs`
+*   [FriendsRadio (⭐30)](https://github.com/xouabita/friends-radio) `⚠` - Share music with your friends from Youtube and Soundcloud. ([Demo](https://friends-radio.herokuapp.com/)) `MIT` `Nodejs`
 *   [Groove Basin (⭐1.8k)](https://github.com/andrewrk/groovebasin) - Music player server with a web-based user interface inspired by Amarok 1.4. `MIT` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐338)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
-*   [google-webfonts-helper (⭐10k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://google-webfonts-helper.herokuapp.com/)) `MIT` `Nodejs`
+*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐346)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
+*   [google-webfonts-helper (⭐11k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://google-webfonts-helper.herokuapp.com/)) `MIT` `Nodejs`
 
 ### Software / Money, Budgeting & Management
 
-*   [Dot Ledger](https://www.dotledger.com/) - Web-based personal finance management tool. ([Demo](https://demo.dotledger.com/), [Source Code (⭐224)](https://github.com/dotledger/dotledger)) `Apache-2.0` `Ruby`
-*   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐6.7k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
+*   [Dot Ledger](https://www.dotledger.com/) - Web-based personal finance management tool. ([Demo](https://demo.dotledger.com/), [Source Code (⭐225)](https://github.com/dotledger/dotledger)) `Apache-2.0` `Ruby`
+*   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐6.8k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
 
 ### Software / Note-taking & Editors
 
@@ -81,19 +81,19 @@
 
 ### Software / Office Suites
 
-*   [Infinoted (⭐540)](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby (⭐540)](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code (⭐540)](https://github.com/gobby/gobby)) `MIT` `C++`
+*   [Infinoted (⭐543)](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby (⭐543)](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code (⭐543)](https://github.com/gobby/gobby)) `MIT` `C++`
 
 ### Software / Pastebins
 
-*   [Sup3rS3cretMes5age (⭐391)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
+*   [Sup3rS3cretMes5age (⭐393)](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
 
 ### Software / Proxy
 
-*   [PHP-Proxy](https://www.php-proxy.com/) - Web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube. ([Demo](https://unblockvideos.com/), [Source Code (⭐717)](https://github.com/Athlon1600/php-proxy-app)) `MIT` `PHP`
+*   [PHP-Proxy](https://www.php-proxy.com/) - Web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube. ([Demo](https://unblockvideos.com/), [Source Code (⭐727)](https://github.com/Athlon1600/php-proxy-app)) `MIT` `PHP`
 
 ### Software / Software Development - Project Management
 
-*   [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code (⭐33k)](https://github.com/go-gitea/gitea)) `MIT` `Go`
+*   [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code (⭐34k)](https://github.com/go-gitea/gitea)) `MIT` `Go`
 
 ### Software / Ticketing
 
@@ -101,7 +101,7 @@
 
 ### Software / Wikis
 
-*   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. ([Source Code (⭐3.6k)](https://github.com/splitbrain/dokuwiki)) `GPL-2.0` `PHP`
+*   [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code (⭐3.6k)](https://github.com/splitbrain/dokuwiki)) `GPL-2.0` `PHP`
 *   [Gitit (⭐2k)](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`
 *   [Gollum (⭐13k)](https://github.com/gollum/gollum) - Simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
 

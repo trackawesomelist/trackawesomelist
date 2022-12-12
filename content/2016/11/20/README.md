@@ -109,7 +109,7 @@
 
 ### For Electron / Other
 
-*   [electron-pdf-window (⭐266)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐265)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [6. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

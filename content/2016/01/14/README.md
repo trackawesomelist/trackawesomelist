@@ -76,7 +76,7 @@ Webpage: <http://coffeecollective.dk/>
 
 ### Queue
 
-*   [elixir\_nsq (⭐80)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
+*   [elixir\_nsq (⭐82)](https://github.com/wistia/elixir_nsq) - NSQ client library for Elixir.
 
 ## [9. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 

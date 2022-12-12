@@ -36,7 +36,7 @@
 
 ### Libraries/Frameworks / Functional Programming
 
-*   [h0tk3y/kotlin-monads (⭐111)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+*   [h0tk3y/kotlin-monads (⭐113)](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

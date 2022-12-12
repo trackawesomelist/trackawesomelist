@@ -104,11 +104,11 @@
 
 ### Application Frameworks
 
-*   [Mono-Addins (⭐153)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
+*   [Mono-Addins (⭐156)](https://github.com/mono/mono-addins) - Mono.Addins is a generic framework for creating extensible applications, and for creating add-ins which extend those applications
 
 ### Compression
 
-*   [SharpCompress (⭐1.8k)](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
+*   [SharpCompress (⭐1.9k)](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
 
 ### Game
 
@@ -116,7 +116,7 @@
 
 ### Git Tools
 
-*   [NGit (⭐256)](https://github.com/mono/ngit) - NGit is a port of JGit to C#
+*   [NGit (⭐255)](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 
 ### GUI
 
@@ -126,12 +126,12 @@
 ### Interoperability
 
 *   [CppSharp (⭐2.5k)](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
-*   [Sharpen (⭐366)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
+*   [Sharpen (⭐365)](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 *   [CXXI (⭐196)](https://github.com/mono/cxxi) - C++ interop framework
 
 ### Media
 
-*   [TagLib# (⭐1k)](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
+*   [TagLib# (⭐1.1k)](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
     metadata in media files, including video, audio, and photo formats
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)

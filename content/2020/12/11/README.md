@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 11, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,23 +16,23 @@
 
 ### Projects
 
-*   [rust-async-wasm-demo (⭐35)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
+*   [rust-async-wasm-demo (⭐39)](https://github.com/extraymond/rust-async-wasm-demo) - Toy project to learn Rust and async that can be deployed to the web.
 
 ### Crates / Component Libraries
 
-*   [muicss-yew (⭐25)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
-*   [yew-bulma (⭐15)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
-*   [ybc (⭐185)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
-*   [patternfly-yew (⭐66)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
+*   [muicss-yew (⭐28)](https://github.com/AlephAlpha/muicss-yew) - MUI-CSS Components for Yew framework.
+*   [yew-bulma (⭐14)](https://github.com/kellpossible/yew-bulma) - A Rust library providing components based on the bulma css library for projects using Yew.
+*   [ybc (⭐197)](https://github.com/thedodd/ybc) - A Yew component library based on the Bulma CSS framework.
+*   [patternfly-yew (⭐71)](https://github.com/ctron/patternfly-yew) - Patternfly components for Yew.
 
 ### Crates / Components
 
-*   [Yew Form (⭐77)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
+*   [Yew Form (⭐76)](https://github.com/jfbilodeau/yew_form) - Components to simplify handling forms with Yew.
 
 ### Crates / Utils
 
-*   [reacty\_yew (⭐43)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
-*   [styled-yew (⭐25)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+*   [reacty\_yew (⭐46)](https://github.com/hobofan/reacty_yew) - Generate Yew components from React components via Typescript type definitions.
+*   [styled-yew (⭐30)](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 
 ## [3. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Software / Miscellaneous
 
-*   [DailyTxT (⭐76)](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`
+*   [DailyTxT (⭐86)](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -72,19 +72,30 @@
 
 *   [RxPerl](https://metacpan.org/pod/RxPerl) - Perl implementation of [Reactive Extensions](http://reactivex.io) / rxjs
 
-## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Bash / Non-X86
+
+*   [Introduction to Bash Scripting (⭐2.2k)](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
+
+### C++ / Non-X86
+
+*   [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)
+*   [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) - Samy Pesse
+
+## [8. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Reference Projects
 
 *   [continuous-k6k8s (⭐12)](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
 
-## [8. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [9. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Documentation
 
 *   [Log4brains (⭐630)](https://github.com/thomvaill/log4brains) - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Testing / Vendor supported providers
 

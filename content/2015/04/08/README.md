@@ -28,15 +28,11 @@
 
 ### Image Processing
 
-*   [Video++ (⭐689)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
+*   [Video++ (⭐690)](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. \[MIT]
 
 ### Math
 
 *   [QuantLib (⭐3.5k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
-
-### Networking
-
-*   [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. \[MIT]
 
 ## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

@@ -44,7 +44,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-scratchable (⭐48)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
+*   [vue-scratchable (⭐50)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
 
 ## [6. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Projects / Boilerplate
 
-*   [cookiecutter-vue-django (⭐120)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
+*   [cookiecutter-vue-django (⭐121)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Data Manipulation / Data Containers
 
-*   [pandas\_profiling (⭐9.7k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+*   [pandas\_profiling (⭐9.8k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 ### Visualization / Interactive plots
 
@@ -120,7 +120,7 @@
 ### Visualization / Automatic Plotting
 
 *   [HoloViews (⭐2.3k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐971)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [AutoViz (⭐991)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
 *   [SweetViz (⭐2.2k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP

@@ -22,11 +22,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐108)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐120)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐111)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐124)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -124,17 +124,17 @@
 
 ### Programming Languages
 
-*   [C (⭐2.9k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐572)](https://github.com/dlang-community/awesome-d#readme)
+*   [C (⭐3k)](https://github.com/inputsh/awesome-c#readme)
+*   [D (⭐578)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐629)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐630)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐3.1k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-*   [Alfred Workflows (⭐2.5k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+*   [Fish (⭐3.2k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Alfred Workflows (⭐2.6k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
 
@@ -142,16 +142,16 @@
 
 ### Business
 
-*   [Developer-First Products (⭐301)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐327)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐51k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐52k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Miscellaneous
 
-*   [Userscripts (⭐945)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-*   [Agriculture (⭐880)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
+*   [Userscripts (⭐968)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
+*   [Agriculture (⭐899)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
 
 ## [11. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

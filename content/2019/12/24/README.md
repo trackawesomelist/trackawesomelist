@@ -16,7 +16,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Re:Backlogs (⭐154)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
+*   [Re:Backlogs (⭐159)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
 
 ## [3. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Tools
 
-*   [renderdoc (⭐6.8k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
+*   [renderdoc (⭐6.9k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
     *   [RDCtoVkCpp (⭐22)](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
 
 ---

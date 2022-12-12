@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18, 2016
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,13 +12,19 @@
 
 *   [auto-install (⭐1.2k)](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
 
-## [2. Amas](/content/sindresorhus/amas/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Elixir / Non-X86
+
+*   [Getting Started Guide](http://elixir-lang.org/getting-started/introduction.html) (HTML) [(PDF, MOBI, EPUB) (⭐102)](https://github.com/potatogopher/elixir-getting-started)
+
+## [3. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Lindsey Bieda](https://github.com/lindseyb/ama) - Back-end developer, game maker, and hardware hacker.
 
-## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / Fast Packet Processing
 
@@ -29,57 +35,57 @@
 
 *   [Safe (⭐374)](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
 
-## [4. Awesome Choo](/content/choojs/awesome-choo/README.md)
+## [5. Awesome Choo](/content/choojs/awesome-choo/README.md)
 
 ### Contents / Demos
 
 *   [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo (⭐19)](https://github.com/mw222rs/choo-firebase))
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Data Formats / Scala
 
 *   [BSON](http://bsonspec.org/) - Binary JSON (BSON).
 
-## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / SharePoint
 
 *   [Sharepoint Interview Question For Developer](http://www.rajeshg.me/2013/05/sharepoint-developer-2010-interview.html)
 
-## [7. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
+## [8. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/README.md)
 
 ### CacheStorage API
 
 *   [Offline Storage for Progressive Web Apps](https://medium.com/@addyosmani/offline-storage-for-progressive-web-apps-70d52695513c) - The current state of offline storage in the browser
 
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Files and Directories
 
-*   [sizeable (⭐34)](https://github.com/arvidkahl/sizeable) - An Elixir library to make file sizes human-readable.
+*   [sizeable (⭐35)](https://github.com/arvidkahl/sizeable) - An Elixir library to make file sizes human-readable.
 
 ### HTTP
 
-*   [hackney (⭐1.2k)](https://github.com/benoitc/hackney) - Simple HTTP client written in Erlang.
+*   [hackney (⭐1.3k)](https://github.com/benoitc/hackney) - Simple HTTP client written in Erlang.
 
 ### Books
 
 *   [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (2016).
 
-## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Serialization
 
-*   [FileHelpers (⭐1k)](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
+*   [FileHelpers (⭐1.1k)](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
 
-## [10. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [11. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Native
 
 *   [NuProcess (⭐588)](https://github.com/brettwooldridge/NuProcess) - A low-overhead, non-blocking I/O, external Process execution implementation for Java.
 
-## [11. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [12. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Database / Field Validation
 
@@ -92,7 +98,7 @@
 *   [Siren (⭐134)](https://github.com/eggheadgames/Siren) - focused feature set that mimicks the popular iOS library of the same name. Supports Play and Amazon.
 *   [Fit (⭐59)](https://github.com/KeithYokoma/Fit) - version checking callback framework with no UI.
 
-## [12. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [13. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Progressive web apps / Service Workers
 

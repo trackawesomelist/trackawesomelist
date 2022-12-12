@@ -33,7 +33,7 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [Volar (⭐3.9k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+*   [Volar (⭐4.1k)](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
 
 ## [5. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

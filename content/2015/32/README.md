@@ -129,19 +129,13 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 *   **[\[play1-chart\] ](http://sant0s.github.io/play1-chart/) [Play1-Chart (⭐2)](https://github.com/sant0s/play1-chart)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat)](https://github.com/sant0s/play1-chart) The Chart module allows for easy generation of chart images.
 
-## [10. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
-
-### Lists
-
-*   [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)
-
-## [11. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
+## [10. Awesome Knockout](/content/dnbard/awesome-knockout/week/README.md)
 
 ### Examples
 
 *   [WebSockets (⭐87)](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 
-## [12. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -175,17 +169,17 @@ An introduction to developing secure applications targeting version 4.5 of the .
 *   [Soundwaves (⭐141)](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 *   [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 
-## [13. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
+## [12. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/week/README.md)
 
 ### Code Quality
 
 *   [Codecov](https://codecov.io/) - Continuous Code Coverage
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Loaders
 
-*   [modulejs (⭐124)](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
+*   [modulejs (⭐125)](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
 ### Form Widgets / Other
 
@@ -193,13 +187,13 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ### Modals and Popups / Other
 
-*   [jquery-popup-overlay (⭐515)](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
+*   [jquery-popup-overlay (⭐516)](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 
 ### Podcasts / Other
 
 *   [bolshchikov/js-must-watch (⭐13k)](https://github.com/bolshchikov/js-must-watch)
 
-## [15. Tips](/content/git-tips/tips/week/README.md)
+## [14. Tips](/content/git-tips/tips/week/README.md)
 
 ## Saving current state of tracked files without commiting
 
@@ -228,19 +222,19 @@ git stash push -u
 git stash push --include-untracked
 ```
 
-## [16. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [15. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Tutorials and articles
 
 *   [Bringing Meteor’s reactive collections to Backbone](https://mixmax.com/blog/meteor-and-backbone) by Jeff Wear
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### BitTorrent
 
-*   [jech/dht (⭐646)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
+*   [jech/dht (⭐653)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
 *   [libtorrent (⭐4.2k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
-*   [LibTorrent (⭐840)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
+*   [LibTorrent (⭐844)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
 *   [libutp (⭐1k)](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. \[MIT]
 
 ### GUI
@@ -249,17 +243,17 @@ git stash push --include-untracked
 
 ### Image Processing
 
-*   [GD (⭐770)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
+*   [GD (⭐773)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
 
 ### Logging
 
-*   [G3log (⭐782)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
-*   [reckless (⭐441)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
+*   [G3log (⭐796)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
+*   [reckless (⭐444)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
 
 ### Math
 
 *   [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost]
-*   [LibTomMath (⭐536)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
+*   [LibTomMath (⭐541)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
 
 ### Coding Style Tools
 
@@ -270,7 +264,7 @@ git stash push --include-untracked
 
 *   [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
 
-## [18. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [17. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
@@ -280,18 +274,24 @@ git stash push --include-untracked
 
 *   [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
 
-## [19. Amas](/content/sindresorhus/amas/week/README.md)
+## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
 *   [Nick Johnstone (⭐0)](https://github.com/Widdershin/ama) - Web developer from New Zealand, currently working as a Rails developer full-time. As a side project, I'm making a tool for developing games with no coding required.
 
-## [20. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [19. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+
+## [20. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 
 ## [21. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
@@ -304,7 +304,7 @@ git stash push --include-untracked
 
 ### Guides
 
-*   [Honeypot (Dionaea and kippo) setup script (⭐79)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
+*   [Honeypot (Dionaea and kippo) setup script (⭐80)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 
 ## [23. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -364,7 +364,7 @@ git stash push --include-untracked
 *   [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/\~dreuw/database.html) - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)
 *   [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
 *   [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) - 4000+ 1536x1024 (16 bit) calibrated outdoor images (Formats: homebrew)
-*   [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/\~schindler/Data) -  2 turntable sequences from ifferent viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
+*   [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/\~schindler/Data) -  2 turntable sequences from different viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
 *   [Institute of Computer Graphics and Vision](http://www.icg.tu-graz.ac.at)
 *   [IEN Image Library](http://www.ien.it/is/vislib/) - 1000+ images, mostly outdoor sequences (Formats: raw, ppm)
 *   [INRIA's Syntim images database](http://www-rocq.inria.fr/\~tarel/syntim/images.html) - 15 color image of simple objects (Formats: gif)
@@ -479,7 +479,7 @@ git stash push --include-untracked
 
 ### Utility / Barcode
 
-*   [R.swift (⭐8.8k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
+*   [R.swift (⭐8.9k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
 ## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -496,7 +496,7 @@ git stash push --include-untracked
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐718)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐735)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [30. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -574,7 +574,7 @@ git stash push --include-untracked
 
 ### Libraries / Parsing
 
-*   [kevinmehall/rust-peg (⭐1.1k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
+*   [kevinmehall/rust-peg (⭐1.2k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
 
 ## [36. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
@@ -591,7 +591,7 @@ git stash push --include-untracked
 
 ### JSON
 
-*   [json\_web\_token\_ex (⭐138)](https://github.com/garyf/json_web_token_ex) - An Elixir implementation of the JSON Web Token (JWT) Standards Track (RFC 7519).
+*   [json\_web\_token\_ex (⭐139)](https://github.com/garyf/json_web_token_ex) - An Elixir implementation of the JSON Web Token (JWT) Standards Track (RFC 7519).
 
 ---
 

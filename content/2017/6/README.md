@@ -38,7 +38,7 @@
 
 ### services
 
-*   [featureserver (⭐94)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐96)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -54,7 +54,7 @@
 
 ### CMS
 
-*   [Composite C1 (⭐247)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
+*   [Composite C1 (⭐245)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
 
 ### GIS
 
@@ -74,7 +74,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐150)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.5k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐152)](https://github.com/saurvs/nfd-rs) — [nativefiledialog (⭐1.5k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -242,7 +242,7 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐183)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐188)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -328,11 +328,11 @@
 
 ### Templating
 
-*   [exgen (⭐31)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
+*   [exgen (⭐32)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 
 ### Third Party APIs
 
-*   [cashier (⭐44)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
+*   [cashier (⭐46)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 
 ## [39. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -466,7 +466,7 @@
 
 ### Machine Learning
 
-*   [mlpack (⭐4.1k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐4.2k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

@@ -63,13 +63,13 @@ Webpage: <http://ogniwo.org/>
 
 ### Books and Resources
 
-*   [Pure Bash Bible (⭐32k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+*   [Pure Bash Bible (⭐33k)](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Caching
 
-*   [nebulex (⭐931)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
+*   [nebulex (⭐964)](https://github.com/cabol/nebulex) - A fast, flexible and extensible distributed and local caching library for Elixir.
 
 ### Third Party APIs
 
@@ -136,7 +136,7 @@ Webpage: <http://ogniwo.org/>
 
 ### Security / Other
 
-*   [Jwks RSA (⭐153)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
+*   [Jwks RSA (⭐155)](https://github.com/auth0/jwks-rsa-java) - JSON Web Key Set parser.
 
 ---
 

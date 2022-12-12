@@ -34,7 +34,7 @@
 
 ### Resources / Packages
 
-*   [Kakunin (⭐38)](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
+*   [Kakunin (⭐41)](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
 
 ### Resources / Articles
 
@@ -48,7 +48,7 @@
 
 ### Image Processing
 
-*   [python-barcode (⭐400)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
+*   [python-barcode (⭐416)](https://github.com/WhyNotHugo/python-barcode) - Create barcodes in Python with no extra dependencies.
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Miscellaneous
 
-*   [expyplot (⭐27)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
+*   [expyplot (⭐28)](https://github.com/MaxStrange/expyplot) - Elixir interface for Plotting/Graphing library using matplotlib.pyplot.
 
 ## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

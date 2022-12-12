@@ -29,7 +29,7 @@
 
 ### Authentication and OAuth
 
-*   [Rodauth (⭐1.3k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
+*   [Rodauth (⭐1.4k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
 
 ### Documentation
 
@@ -45,7 +45,7 @@
 
 ### Boilerplates / Other
 
-*   [bozon (⭐748)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐752)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 

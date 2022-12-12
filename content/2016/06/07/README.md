@@ -47,7 +47,7 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐441)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐442)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 

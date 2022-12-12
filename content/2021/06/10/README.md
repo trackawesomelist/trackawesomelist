@@ -85,13 +85,13 @@
 
 ### Software / Personal Dashboards
 
-*   [Flame (⭐3.1k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
+*   [Flame (⭐3.2k)](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Apps/Websites / Community
 
-*   [vite-vue3-lowcode (⭐2k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
+*   [vite-vue3-lowcode (⭐2.1k)](https://github.com/buqiyuan/vite-vue3-lowcode) - Low code platform using Vue 3 + TypeScript + Composition API.
 
 ## [9. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Form Components / Markdown Editor
 
-*   [react-md-editor (⭐1.1k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
+*   [react-md-editor (⭐1.2k)](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 
 ---
 

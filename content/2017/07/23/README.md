@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐269)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐270)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Authentication
 
-*   [LoginKit (⭐653)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
+*   [LoginKit (⭐654)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 
 ### UITableView / Barcode
 
@@ -87,7 +87,7 @@
 
 ### Queue
 
-*   [CAP (⭐5.7k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
+*   [CAP (⭐5.8k)](https://github.com/dotnetcore/CAP) - An EventBus with local persistent message functionality for RabbitMQ or Kafka.
 
 ---
 

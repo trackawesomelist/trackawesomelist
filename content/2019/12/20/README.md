@@ -51,7 +51,6 @@
 
 ### Tools
 
-*   [caniemail](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails.
 *   [Bulletproof Background Images](http://backgrounds.cm/) - Create rock-solid background images for your HTML email with some help from VML and CSS.
 
 ## [6. Awesome Indie](/content/mezod/awesome-indie/README.md)
@@ -80,7 +79,7 @@
 
 ### Utilities / Menu Bar Tools
 
-*   [Hidden (⭐7.2k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Hidden (⭐7.5k)](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps hide menu bar icons. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/dwarvesf/hidden) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

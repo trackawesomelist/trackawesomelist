@@ -66,21 +66,21 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [bio (⭐3)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
+*   [bio (⭐4)](https://github.com/yamaton/zsh-completions-bio/) - Completions for bioinformatics tools.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Job Scheduler
 
-*   [goflow (⭐68)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
+*   [goflow (⭐85)](https://github.com/fieldryand/goflow) - A workflow orchestrator and scheduler for rapid prototyping of ETL/ML/AI pipelines.
 
 ### Uncategorized
 
-*   [xz (⭐389)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
+*   [xz (⭐396)](https://github.com/ulikunitz/xz) - Pure golang package for reading and writing xz-compressed files.
 
 ### HTTP Clients
 
-*   [req (⭐2.8k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
+*   [req (⭐2.9k)](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 
 ## [8. Awesome Esports](/content/Strift/awesome-esports/README.md)
 
@@ -113,13 +113,13 @@
 
 ### Security / Zabbix
 
-*   [Inspektor (⭐254)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
+*   [Inspektor (⭐255)](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / CLI utils
 
-*   [with-env (⭐2)](https://github.com/bcheidemann/with-env) - Simple command line utilty for executing commands with one or more .env files.
+*   [with-env (⭐3)](https://github.com/bcheidemann/with-env) - Simple command line utilty for executing commands with one or more .env files.
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Machine Learning and Data Science
 
-*   [F# Data (⭐736)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
+*   [F# Data (⭐741)](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 
 ### Testing
 

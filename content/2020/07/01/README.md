@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2020
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -124,25 +124,19 @@
 
 *   [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Games
-
-*   [Minesweeper (⭐167)](https://github.com/exceptionnotfound/BlazorGames) - ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=86400) Minesweeper using C# and Blazor WebAssembly.
-
-## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Interviewing
 
 *   [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
 
-## [14. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [13. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Twitter
 
 *   [Nations24](https://nations24.com)
 
-## [15. Awesome V](/content/vlang/awesome-v/README.md)
+## [14. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Other / Online IDEs with V
 

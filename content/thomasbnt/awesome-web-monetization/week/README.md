@@ -2,7 +2,7 @@
 
 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/thomasbnt/awesome-web-monetization/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) · ⭐ 234 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/thomasbnt/awesome-web-monetization/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) · ⭐ 237 · 🏷️ Miscellaneous
 
 [ [Daily](/content/thomasbnt/awesome-web-monetization/README.md) / Weekly / [Overview](/content/thomasbnt/awesome-web-monetization/readme/README.md) ]
 
@@ -18,7 +18,7 @@
 
 *   [svelte-monetization](https://github.com/wobsoriano/svelte-monetization) - A minimal and lightweight wrapper for the Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/svelte.png)
 *   [web-monetized-video (⭐14)](https://github.com/Jasmin2895/web-monetized-video) - A web component with has play and pay policy and charges you for the amount of video watched. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [awesome-jsgames (⭐287)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [awesome-jsgames (⭐300)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [mediadisclosures (⭐0)](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-demo (⭐1)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [money-chat (⭐2)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
@@ -68,7 +68,7 @@
 *   [monetize.js (⭐13)](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [types-wm (⭐3)](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/typescript.png)
 *   [ngx-monetization (⭐8)](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/angular.png)
-*   [react-hook-wm (⭐6)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [react-hook-wm (⭐7)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 *   [react-monetize (⭐27)](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 *   [ep\_monetization (⭐0)](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/) - Plugin for applying Coil payment pointer meta tag to WordPress site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/wordpress.png)

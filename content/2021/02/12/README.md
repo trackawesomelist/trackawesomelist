@@ -68,7 +68,13 @@
 
 *   [Tuning the Spark Cassandra Connector](https://www.slideshare.net/DataStax/maximum-overdrive-tuning-the-spark-cassandra-connector-russell-spitzer-datastax-c-summit-2016) - Slides by Russell Spitzer maintainer of the Spark Cassandra connector.
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Presentations slides / Others
+
+*   [Using .NET 5 with the Raspberry Pi](https://www.slideshare.net/PGallagher69/using-net-5-with-the-raspberry-pi) - January 28, 2021 - Using .NET 5 with the Raspberry Pi, on Slideshare.
+
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Video
 
@@ -84,42 +90,21 @@
 
 
 
-## [4. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [5. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Academic Papers and Material / Third Party Hosts
 
 *   [LibGen](https://libgen.fun/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Tutorials
-
-*   [Download Files from Azure with .NET Core Web API and Blazor WebAssembly](https://code-maze.com/download-files-from-azure-with-net-core-web-api-and-blazor-webassembly/) - February 9, 2021 - In this article, we are going to learn how to download files from Azure using ASP.NET Core Web API as the server-side project and Blazor WebAssembly as the client-side. This article is a continuation of a previous one where we learned about uploading files to Azure. In that article, we also created Azure storage, so if you don’t have one created, you can do it following the instructions from the mentioned article. [Source code (⭐2)](https://github.com/CodeMazeBlog/download-files-azure-netcore-blazor-wasm) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/download-files-azure-netcore-blazor-wasm?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/download-files-azure-netcore-blazor-wasm?style=flat-square\&cacheSeconds=86400).
-*   [Using source generators to find all routable components in a Blazor WebAssembly app](https://andrewlock.net/using-source-generators-to-find-all-routable-components-in-a-webassembly-app/) - February 9, 2021 - The [previous post](https://andrewlock.net/finding-all-routable-components-in-a-webassembly-app/) described a way to find all the "routable" components in a Blazor app using reflection. This post shows an alternative approach using a source generator.
-*   [Custom Xamarin Controls with Blazor Mobile Bindings](https://www.telerik.com/blogs/custom-xamarin-controls-blazor-mobile-bindings) - February 8, 2021 - Blazor Mobile Bindings is exciting, but also encourages reusability. We take a look as how to wrap custom Xamarin.Forms UI as Blazor components.
-
-### Videos / Others
-
-*   [Advanced Blazor experiences with Carl Franklin](https://www.youtube.com/watch?v=vx96Zgd7Kes) - ![duration](https://img.shields.io/badge/Duration:%20-83%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 10, 2021 - Advanced Blazor experiences with Carl Franklin, by Coding After Work. Carl Franklin will share a bit more advanced scenarios like using SignalR together with Blazor for cross user communication and data synchronization.
-*   [ASP.NET Community Standup - A Blazor Conversation with Chris Sainty](https://www.youtube.com/watch?v=v8UWYwAhKZA\&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-96%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 9, 2021 - In this standup, we chat with Blazor aficionado and open source community member Chris Sainty about Blazor, his open source work, and more.
-
-### Articles / Others
-
-*   [Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1)](https://www.roundthecode.com/dotnet/blazor/blash-twitter-dashboard-using-blazor-web-api-signalr-twitter-api) - February 5, 2021 - Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1), by Round The Code.
-
-### Presentations slides / Others
-
-*   [Using .NET 5 with the Raspberry Pi](https://www.slideshare.net/PGallagher69/using-net-5-with-the-raspberry-pi) - January 28, 2021 - Using .NET 5 with the Raspberry Pi, on Slideshare.
-
 ## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Cryptocurrencies
 
-*   [Forest (⭐478)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
+*   [Forest (⭐496)](https://github.com/ChainSafe/forest) - Rust Filecoin implementation [![Build Status](https://img.shields.io/circleci/build/gh/ChainSafe/forest/main?branch=master)](https://app.circleci.com/pipelines/github/ChainSafe/forest?branch=main)
 
 ### Libraries / Parsing
 
-*   [softdevteam/grmtools (⭐294)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+*   [softdevteam/grmtools (⭐313)](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -141,7 +126,7 @@
 
 ### Applications / Web
 
-*   [Builder Book App (⭐3.3k)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
+*   [Builder Book App (⭐3.4k)](https://github.com/async-labs/builderbook) - Web app to publish books or documentation built with React and Express
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -153,29 +138,28 @@
 
 ### Templates / Vue 3
 
-*   [Vitesse (⭐6.2k)](https://github.com/antfu/vitesse) - Opinionated starter template.
-*   [vite-vue3-tailwind-starter](https://github.com/web2033/vite-vue3-tailwind-starter) - Vue 3, Vue Router and Tailwind CSS.
-*   [vite-ts-tailwind-starter (⭐272)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
+*   [Vitesse (⭐6.5k)](https://github.com/antfu/vitesse) - Opinionated starter template.
+*   [vite-ts-tailwind-starter (⭐281)](https://github.com/Uninen/vite-ts-tailwind-starter) - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-plugin-rsw (⭐290)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
-*   [vite-imagetools (⭐350)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+*   [vite-plugin-rsw (⭐300)](https://github.com/lencx/vite-plugin-rsw) - Load rust-compiled (wasm-pack) WebAssembly packages.
+*   [vite-imagetools (⭐388)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 ### React / Framework
 
-*   [vite-plugin-react-pages (⭐293)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
+*   [vite-plugin-react-pages (⭐306)](https://github.com/vitejs/vite-plugin-react-pages) - A Vite framework for building React app.
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-image (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
-*   [@rollup/plugin-strip (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
+*   [@rollup/plugin-image (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/image) - Import JPG, PNG, GIF, SVG, and WebP files (needs `enforce: 'pre'`).
+*   [@rollup/plugin-strip (⭐2.9k)](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove debugger statements and functions from your code.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [LogChimp (⭐348)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
+*   [LogChimp (⭐371)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ---
 

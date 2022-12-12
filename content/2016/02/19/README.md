@@ -93,7 +93,7 @@
 
 ### Samples
 
-*   [vkcube (⭐85)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
+*   [vkcube (⭐89)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
@@ -106,11 +106,11 @@
 
 ### Examples and funny stuff
 
-*   [kaisuu (⭐68)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
+*   [kaisuu (⭐67)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐745)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐757)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ## [10. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

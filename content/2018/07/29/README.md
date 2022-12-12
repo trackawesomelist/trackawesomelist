@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@owumaro/vue-date-range-picker (⭐30)](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
+*   [@owumaro/vue-date-range-picker (⭐28)](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
 
 ## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -49,41 +49,34 @@
 
 ## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
-### Basic linear algebra
-
-*   [BLAS](https://www.netlib.org/blas/) - Standard building blocks for performing basic vector and matrix operations.
-    (Fortran, public domain, [GitHub (⭐1k)](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
-*   [LAPACK](https://www.netlib.org/lapack/) - Routines for solving systems of linear equations, linear least-squares, eigenvalue problems, etc.
-    (Fortran, BSD, [GitHub (⭐1k)](https://github.com/Reference-LAPACK/lapack))
-
 ### Multi-purpose toolkits
 
 *   [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
     (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
 *   [SciPy](https://scipy.org) - Python modules for statistics, optimization, integration, linear algebra, etc.
-    (Python, mostly BSD, [GitHub (⭐10k)](https://github.com/scipy/scipy/))
+    (Python, mostly BSD, [GitHub (⭐11k)](https://github.com/scipy/scipy/))
 *   [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
     (Python, BSD, [GitHub (⭐22k)](https://github.com/numpy/numpy))
 
 ### Finite Elements
 
 *   [libMesh](https://libmesh.github.io) - Framework for the numerical simulation of PDEs using unstructured discretizations.
-    (C++, LGPL 2.1, [GitHub (⭐535)](https://github.com/libMesh/libmesh))
+    (C++, LGPL 2.1, [GitHub (⭐541)](https://github.com/libMesh/libmesh))
 *   [deal.II](https://dealii.org) - Software library supporting the creation of finite element codes.
-    (C++, LGPL 2.1, [GitHub (⭐973)](https://github.com/dealii/dealii))
+    (C++, LGPL 2.1, [GitHub (⭐1k)](https://github.com/dealii/dealii))
 *   [Netgen/NGSolve](https://ngsolve.org) - High performance multiphysics finite element software.
-    (C++, LGPL 2.1, [GitHub (⭐184)](https://github.com/NGSolve/netgen))
+    (C++, LGPL 2.1, [GitHub (⭐192)](https://github.com/NGSolve/netgen))
 *   [Firedrake](https://www.firedrakeproject.org) - Automated system for the solution of PDEs using the finite element method.
-    (Python, LGPL 3, [GitHub (⭐365)](https://github.com/firedrakeproject/firedrake))
+    (Python, LGPL 3, [GitHub (⭐380)](https://github.com/firedrakeproject/firedrake))
 
 ### Meshing / Triangular and tetrahedral meshing
 
 *   [Gmsh](https://gmsh.info) - Three-dimensional finite element mesh generator with pre- and post-processing facilities.
     (C++, GPL, [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
 *   [MeshPy](https://mathema.tician.de/software/meshpy/) - Quality triangular and tetrahedral mesh generation.
-    (Python, MIT, [GitHub (⭐388)](https://github.com/inducer/meshpy))
+    (Python, MIT, [GitHub (⭐404)](https://github.com/inducer/meshpy))
 *   [CGAL](https://www.cgal.org) - Algorithms for computational geometry.
-    (C++, mixed LGPL/GPL, [GitHub (⭐3.4k)](https://github.com/CGAL/cgal))
+    (C++, mixed LGPL/GPL, [GitHub (⭐3.5k)](https://github.com/CGAL/cgal))
 *   [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
     (C++, AGPLv3)
 *   [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
@@ -92,17 +85,17 @@
 ### Sparse linear solvers / Mesh tools
 
 *   [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) - Direct solution of large, sparse, nonsymmetric systems of linear equations.
-    (C, mostly BSD, [GitHub (⭐171)](https://github.com/xiaoyeli/superlu))
+    (C, mostly BSD, [GitHub (⭐174)](https://github.com/xiaoyeli/superlu))
 *   [PyAMG](https://pyamg.readthedocs.io/en/latest/) - Algebraic Multigrid Solvers in Python.
-    (Python, MIT, [GitHub (⭐433)](https://github.com/pyamg/pyamg))
+    (Python, MIT, [GitHub (⭐446)](https://github.com/pyamg/pyamg))
 
 ### Other libraries and tools / Mesh tools
 
 *   [FFTW](http://www.fftw.org) - Discrete Fourier transforms in one or more dimensions, of arbitrary input size, real and complex.
-    (C, GPL2, [GitHub (⭐2.2k)](https://github.com/FFTW/fftw3))
+    (C, GPL2, [GitHub (⭐2.3k)](https://github.com/FFTW/fftw3))
 *   [Qhull](http://www.qhull.org) - Convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, etc.
     (C/C++, [custom open source license](http://www.qhull.org/COPYING.txt),
-    [GitHub (⭐544)](https://github.com/qhull/qhull/))
+    [GitHub (⭐552)](https://github.com/qhull/qhull/))
 *   [GSL](https://www.gnu.org/software/gsl/) - Random number generators, special functions, and least-squares fitting etc.
     (C/C++, GPL 3, [Savannah](https://savannah.gnu.org/projects/gsl))
 *   [OpenFOAM](https://www.openfoam.com) - Free, open source CFD (computational fluid dynamics) software.
@@ -110,7 +103,7 @@
 *   [FiPy](https://www.ctcms.nist.gov/fipy/) - Finite-volume PDE solver.
     (Python, [custom open-source
     license](https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications),
-    [GitHub (⭐364)](https://github.com/usnistgov/fipy))
+    [GitHub (⭐376)](https://github.com/usnistgov/fipy))
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -176,11 +169,11 @@
 
 ### Work
 
-*   [Code Review (⭐3.6k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐3.7k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 
-*   [Captcha (⭐895)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Captcha (⭐920)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ---
 

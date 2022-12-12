@@ -16,7 +16,6 @@
 ### Contents / Imaging
 
 *   [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
-*   [GIMIAS](http://www.gimias.org/) - Extensible image computing and simulation software with an emphasis on specific workflows.
 *   [ITK](https://itk.org/) - Toolkit used for the development of image segmentation and image registration programs with leading-edge algorithms in 2 and 3 dimensions.
 *   [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) - Interactive software for 3 dimensional image navigation, annotation, and automatic segmentation with an emphasis on user-friendliness.
 
@@ -85,13 +84,13 @@
 
 ### Contents / Clones
 
-*   [PX8 (⭐875)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
+*   [PX8 (⭐885)](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vodal (⭐374)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
+*   [vodal (⭐375)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
 ---
 

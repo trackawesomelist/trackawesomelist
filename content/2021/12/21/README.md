@@ -21,14 +21,14 @@
 
 ### IR Tools Collection / Other Lists
 
-*   [Awesome Event IDs (⭐382)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
+*   [Awesome Event IDs (⭐392)](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 
 ## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / Data Mapping Solution
 
 *   [JOLT (⭐1.3k)](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java where the "specification" for the transform is itself a JSON document.
-*   [JSLT (⭐489)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
+*   [JSLT (⭐499)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
 
 ## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -54,7 +54,7 @@
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Javascript / General-Purpose Machine Learning
+### JavaScript / General-Purpose Machine Learning
 
 *   [Auto ML (⭐1.6k)](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration- just give it a .csv file! **\[Deprecated]**
 
@@ -91,13 +91,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [ldelossa/litee.nvim (⭐286)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
+*   [ldelossa/litee.nvim (⭐303)](https://github.com/ldelossa/litee.nvim) - Neovim's missing IDE features.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [Jire/Strukt (⭐67)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
+*   [Jire/Strukt (⭐70)](https://github.com/Jire/Strukt) - Value types on the JVM, today!
 
 ## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Applications / Database
 
-*   [vorot93/libmdbx-rs (⭐34)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
+*   [vorot93/libmdbx-rs (⭐40)](https://github.com/vorot93/libmdbx-rs) \[[mdbx-sys](https://crates.io/crates/mdbx-sys)] — Rust bindings for MDBX, a "fast, compact, powerful, embedded, transactional key-value database, with permissive license". This is a fork of mozilla/lmdb-rs with patches to make it work with libmdbx.
 
 ## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -131,7 +131,7 @@
 
 ### SVG / Barcode
 
-*   [SVGView (⭐230)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [SVGView (⭐259)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
 
 ## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -141,7 +141,7 @@
 
 ### Logging
 
-*   [ULogViewer (⭐74)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
+*   [ULogViewer (⭐77)](https://github.com/carina-studio/ULogViewer) - Cross-Platform (Windows/macOS/Linux) Universal Log Viewer which supports reading and parsing various type of logs. You can also define your own profile to parse and show logs.
 
 ## [18. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

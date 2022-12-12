@@ -86,7 +86,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-subslot (⭐11)](https://github.com/privatenumber/vue-subslot) - 💍 Vue component to pick 'n choose what you want from a slot
+*   [vue-subslot (⭐12)](https://github.com/privatenumber/vue-subslot) - 💍 Vue component to pick 'n choose what you want from a slot
 
 ## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Photo / Image
 
-*   [react-particle-image (⭐380)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
+*   [react-particle-image (⭐379)](https://github.com/malerba118/react-particle-image) - [demo](https://malerba118.github.io/react-particle-image-demo/) - Render images as interactive particles.
 
 ---
 

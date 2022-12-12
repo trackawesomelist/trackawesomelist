@@ -16,7 +16,7 @@
 
 ### Packages / Text
 
-*   [StegCloak (⭐2.7k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+*   [StegCloak (⭐2.8k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -109,31 +109,31 @@
 *   [django-grappelli (⭐3.4k)](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
 *   [django-hijack (⭐1.2k)](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials.
 *   [django-import-export (⭐2.5k)](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
-*   [django-admin-honeypot (⭐900)](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
-*   [django-loginas (⭐318)](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
+*   [django-admin-honeypot (⭐904)](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
+*   [django-loginas (⭐319)](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
 
 ### Third-Party Packages / Async
 
 *   [channels (⭐5.4k)](https://github.com/django/channels/) - Async support for Django.
-*   [starlette (⭐7.5k)](https://github.com/encode/starlette) - ASGI framework.
+*   [starlette (⭐7.6k)](https://github.com/encode/starlette) - ASGI framework.
 
 ### Third-Party Packages / Commands
 
 *   [django-extensions (⭐5.9k)](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
 *   [django-click (⭐213)](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library.
-*   [django-dbbackup (⭐659)](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files.
+*   [django-dbbackup (⭐663)](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files.
 
 ### Third-Party Packages / Configuration
 
-*   [confidential (⭐62)](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support).
+*   [confidential (⭐63)](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support).
 *   [django-environ (⭐2.6k)](https://github.com/joke2k/django-environ) - Environment variables.
-*   [django-split-settings (⭐929)](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
+*   [django-split-settings (⭐932)](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
 *   [django-constance (⭐1.5k)](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 
 ### Third-Party Packages / Content Management Systems
 
 *   [mezzanine (⭐4.5k)](https://github.com/stephenmcd/mezzanine) - CMS framework.
-*   [django-cms (⭐8.9k)](https://github.com/divio/django-cms) - CMS for Django.
+*   [django-cms (⭐9k)](https://github.com/divio/django-cms) - CMS for Django.
 *   [puput (⭐524)](https://github.com/APSL/puput) - Blog app features with Wagtail.
 
 ### Third-Party Packages / ECommerce
@@ -145,21 +145,23 @@
 
 ### Third-Party Packages / Files/Images
 
-*   [django-cleanup (⭐809)](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
+*   [django-cleanup (⭐814)](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 
 ### Third-Party Packages / Forms
 
-*   [django-crispy-forms (⭐4.5k)](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
+*   [django-crispy-forms (⭐4.6k)](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 *   [django-widget-tweaks (⭐1.8k)](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 *   [django-autocomplete-light (⭐1.6k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 
-### Third-Party Packages / Models
+### Third-Party Packages / Model Fields
 
-*   [django-fakery (⭐93)](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
-*   [django-lifecycle (⭐1k)](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 *   [django-model-utils (⭐2.3k)](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 *   [django-money (⭐1.3k)](https://github.com/django-money/django-money) - Money fields for forms/models.
 *   [django-phonenumber-field (⭐1.3k)](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers.
+
+### Third-Party Packages / Models
+
+*   [django-lifecycle (⭐1k)](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 *   [django-taggit (⭐2.9k)](https://github.com/jazzband/django-taggit/) - Simple model tags.
 *   [django-reversion (⭐2.8k)](https://github.com/etianen/django-reversion) - Version control for model instances.
 *   [django-simple-history (⭐1.7k)](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
@@ -169,13 +171,13 @@
 *   [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
 *   [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
 *   [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
-*   [django-query-profiler (⭐112)](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries.
-*   [py-spy (⭐9.2k)](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+*   [django-query-profiler (⭐113)](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries.
+*   [py-spy (⭐9.3k)](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 
 ### Third-Party Packages / Search
 
-*   [django-haystack (⭐3.3k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
-*   [django-watson (⭐1k)](https://github.com/etianen/django-watson) - Full-text search plugin.
+*   [django-haystack (⭐3.4k)](https://github.com/django-haystack/django-haystack) - Modular search for Django.
+*   [django-watson (⭐1.1k)](https://github.com/etianen/django-watson) - Full-text search plugin.
 
 ### Third-Party Packages / Static Assets
 
@@ -192,30 +194,31 @@
 
 ### Third-Party Packages / Testing
 
-*   [django-debug-toolbar (⭐7.2k)](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
+*   [django-debug-toolbar (⭐7.3k)](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
 *   [pytest-django (⭐1.1k)](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django.
-*   [django-test-migrations (⭐362)](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
-*   [django-test-plus (⭐536)](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
+*   [django-test-migrations (⭐367)](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
+*   [django-test-plus (⭐543)](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
 *   [factory-boy (⭐3k)](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
-*   [django-waffle (⭐939)](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
-*   [model-bakery (⭐601)](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
+*   [django-waffle (⭐943)](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
+*   [model-bakery (⭐609)](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
+*   [django-fakery (⭐93)](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 
 ### Third-Party Packages / URLs
 
 *   [dj-database-url (⭐1.3k)](https://github.com/jacobian/dj-database-url) - Database URLs.
-*   [urlman (⭐95)](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models.
-*   [django-robots (⭐390)](https://github.com/jazzband/django-robots) - This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.
+*   [urlman (⭐96)](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models.
+*   [django-robots (⭐397)](https://github.com/jazzband/django-robots) - This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.
 
 ### Third-Party Packages / Users
 
-*   [django-allauth (⭐7.5k)](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
+*   [django-allauth (⭐7.6k)](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
 *   [django-organizations (⭐1k)](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
-*   [django-cas-ng (⭐345)](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
+*   [django-cas-ng (⭐346)](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
 
 ### Third-Party Packages / Views
 
-*   [django-braces (⭐1.8k)](https://github.com/brack3t/django-braces) - Reusable, generic mixins.
-*   [django-extra-views (⭐1.2k)](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
+*   [django-braces (⭐1.9k)](https://github.com/brack3t/django-braces) - Reusable, generic mixins.
+*   [django-extra-views (⭐1.3k)](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
 *   [django-vanilla-views (⭐937)](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django.
 *   [django-stronghold (⭐385)](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login\_required.
 
@@ -223,13 +226,13 @@
 
 *   [bleach (⭐2.4k)](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
 *   [black (⭐30k)](https://github.com/psf/black) - Uncompromising Python code formatter.
-*   [coveragepy (⭐2.2k)](https://github.com/nedbat/coveragepy) - Code coverage measurement.
-*   [huey (⭐4.2k)](https://github.com/coleifer/huey) - A little task queue for Python.
+*   [coveragepy (⭐2.3k)](https://github.com/nedbat/coveragepy) - Code coverage measurement.
+*   [huey (⭐4.3k)](https://github.com/coleifer/huey) - A little task queue for Python.
 *   [nplusone (⭐827)](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
 *   [pillow (⭐10k)](https://github.com/python-pillow/Pillow) - Python Imaging Library.
-*   [pytest (⭐9.4k)](https://github.com/pytest-dev/pytest/) - Testing framework.
+*   [pytest (⭐9.5k)](https://github.com/pytest-dev/pytest/) - Testing framework.
 *   [python-slugify (⭐1.3k)](https://github.com/un33k/python-slugify) - Returns unicode slugs.
-*   [sentry-python (⭐1.3k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
+*   [sentry-python (⭐1.4k)](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 *   [whitenoise (⭐2.1k)](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
 
 ### Resources / Official Resources
@@ -244,14 +247,14 @@
 
 ### Projects / Boilerplate
 
-*   [sos-django-template (⭐18)](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings.
+*   [sos-django-template (⭐19)](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings.
 
 ### Projects / Open Source Projects
 
 *   [pythonic-news (⭐444)](https://github.com/sebst/pythonic-news) - Hacker News clone.
 *   [Zulip (⭐17k)](https://github.com/zulip/zulip/) - Open-source team chat.
 *   [Django-CRM (⭐1.4k)](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django.
-*   [django-job-portal (⭐354)](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
+*   [django-job-portal (⭐360)](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
 *   [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
 
 ### Wagtail / Wagtail Resources
@@ -266,13 +269,13 @@
 
 ### Applications / Industrial automation
 
-*   [slowtec/tokio-modbus (⭐209)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
+*   [slowtec/tokio-modbus (⭐221)](https://github.com/slowtec/tokio-modbus) — A [tokio](https://tokio.rs)-based [modbus](https://modbus.org) library. [![Build Status](https://api.travis-ci.org/slowtec/tokio-modbus.svg?branch=master)](https://travis-ci.org/slowtec/tokio-modbus)
 
 ## [12. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Asynchronous Programming
 
-*   [trio (⭐4.9k)](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
+*   [trio (⭐5k)](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
 
 ## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -300,10 +303,10 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Validation / Playground
 
-*   [zod (⭐13k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
+*   [zod (⭐15k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
 *   [runtypes (⭐2.3k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
-*   [ow (⭐3.6k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐6.2k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [ow (⭐3.7k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
+*   [superstruct (⭐6.3k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 
 ## [17. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
@@ -312,7 +315,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [monetize.js (⭐13)](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [types-wm (⭐3)](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/typescript.png)
 *   [ngx-monetization (⭐8)](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/angular.png)
-*   [react-hook-wm (⭐6)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [react-hook-wm (⭐7)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 *   [react-monetize (⭐27)](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 *   [ep\_monetization (⭐0)](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/) - Plugin for applying Coil payment pointer meta tag to WordPress site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/wordpress.png)
@@ -354,11 +357,11 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Back-End Development
 
-*   [FastAPI (⭐4.6k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+*   [FastAPI (⭐4.8k)](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 
 ### Security
 
-*   [DevSecOps (⭐745)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+*   [DevSecOps (⭐796)](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
 ## [19. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
@@ -437,7 +440,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Utilities / General Tools
 
-*   [Ultra TabSaver (⭐223)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
+*   [Ultra TabSaver (⭐226)](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Swift-open-source/UltraTabSaver)
 
 ## [26. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -485,11 +488,11 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Carousel
 
-*   [keen-slider (⭐3.6k)](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
+*   [keen-slider (⭐3.7k)](https://github.com/rcbyr/keen-slider) - [demo](https://keen-slider.io/examples/#examples) - Performant carousel/slider with native touch/swipe behavior.
 
 ### UI Animation / Syntax Highlight
 
-*   [framer-motion (⭐16k)](https://github.com/framer/motion) - An animation and gesture library.
+*   [framer-motion (⭐17k)](https://github.com/framer/motion) - An animation and gesture library.
 
 ## [31. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
@@ -746,17 +749,17 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 *   [**VueChess**](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
 *   [Ngexplorer-vuejs-client (⭐2)](https://github.com/gustaYo/ngexplorer-vuejs-client) - Vue client for `Ngexplorer`
 *   [Vue Simple PWA (⭐195)](https://github.com/BosNaufal/vue-simple-pwa)
-*   [Tour of Heroes (Vue 2.0) (⭐29)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue (⭐2)](https://github.com/revue/revue) (redux bindings for Vue), `vue-router`, [Airbnb eslint (⭐128k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
-*   [ngexplorer-quasar (⭐10)](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of `Ngexplorer` with [quasar framework (⭐22k)](https://github.com/rstoenescu/quasar-framework)
+*   [Tour of Heroes (Vue 2.0) (⭐29)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue (⭐2)](https://github.com/revue/revue) (redux bindings for Vue), `vue-router`, [Airbnb eslint (⭐130k)](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
+*   [ngexplorer-quasar (⭐9)](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of `Ngexplorer` with [quasar framework (⭐23k)](https://github.com/rstoenescu/quasar-framework)
 *   [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with `Phoenix Framework`, **Vue** and **Vue Router** ([***demo***](https://phoenix-vue-auth.herokuapp.com))
 *   [**Real Time Social News App**](https://github.com/Angarsk8/loopa-news) developed with `Phoenix Framework`, **Vue**, **Vue Router** and **Vuex** ([***demo***](https://loopa-news.herokuapp.com))
 *   [**vue-calculator**](https://github.com/CaiYiLiang/simply-calculator-vuejs) a simply calculator built with Vue 2.0, vue-cli(webpack-simple).
 *   [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp).
 *   [Chess Storybook Example (⭐13)](https://github.com/gustaYo/vue-chess-storybook) with Vue 2.0
 *   [X-Flowchart-Vue (⭐1.1k)](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue
-*   [X-WebDesktop-Vue (⭐382)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
+*   [X-WebDesktop-Vue (⭐384)](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue
 *   [**PENV Starter**](https://github.com/jesalg/penv-starter) - A basic example of how to use VueJS, Express and PostgreSQL in conjunction.
-*   [Vue webpack typescript (⭐18)](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
+*   [Vue webpack typescript (⭐19)](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
 
 ### Resources / Blog Posts
 
@@ -775,12 +778,12 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 *   [vue-ads-table-tree (⭐120)](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework `tailwindcss`
 *   [@voerro/vue-notifications (⭐1)](https://github.com/voerro/vue-notifications) - Simple Vue.js 2 notifications plugin with HTML and styling support.
-*   [vue-popperjs (⭐427)](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
-*   [vue-final-modal (⭐475)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-popperjs (⭐428)](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component
+*   [vue-final-modal (⭐511)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 *   [vuerollr (⭐23)](https://github.com/japick/vuerollr) - Mouseover gallery plugin for Vue.js. Supports image and video.
 *   [v-digital-time-picker (⭐11)](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify.
 *   [vuesence-sliding-header (⭐42)](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
-*   [vue-picture-cut (⭐68)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
+*   [vue-picture-cut (⭐69)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 
 ### Components & Libraries / Frameworks
 
@@ -788,12 +791,12 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-lazy-loading (⭐5)](https://github.com/tolking/vue-lazy-loading) - A vue plugin to better supporting native lazy-loading for image and iframe.
-*   [vue-ads-pagination (⭐51)](https://github.com/arnedesmedt/vue-ads-pagination) - A vue pagination component build with the css framework `tailwindcss`
+*   [vue-lazy-loading (⭐7)](https://github.com/tolking/vue-lazy-loading) - A vue plugin to better supporting native lazy-loading for image and iframe.
+*   [vue-ads-pagination (⭐50)](https://github.com/arnedesmedt/vue-ads-pagination) - A vue pagination component build with the css framework `tailwindcss`
 
 ### Components & Libraries / Utilities
 
-*   [vue-concurrency (⭐243)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
+*   [vue-concurrency (⭐264)](https://github.com/MartinMalinda/vue-concurrency) - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
 *   [@icare-jp/vue-props-type (⭐20)](https://github.com/icare-jp-oss/vue-props-type) - Helps to define the props type.
 *   [zipkin-instrumentation-vue-resource (⭐8)](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for `vue-resource` that instruments outgoing HTTP requests with [Zipkin (⭐16k)](https://github.com/openzipkin/zipkin)
 *   [vue-i18n-service (⭐142)](https://github.com/f/vue-i18n-service) - Export and import `vue-i18n`'s SFC translations.
@@ -802,24 +805,24 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Components & Libraries / Integrations
 
-*   [vue-telegram-login (⭐75)](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login)
+*   [vue-telegram-login (⭐74)](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login)
 *   [vue-telegram-passport (⭐5)](https://github.com/vchaptsev/vue-telegram-passport) - Vue Component for [Telegram Passport](https://telegram.org/blog/passport)
 *   [vue-yandex-metrika (⭐65)](https://github.com/vchaptsev/vue-yandex-metrika) - Vue plugin for Yandex Metrika with router integration, plugin options
 
 ### Components & Libraries / Scaffold
 
-*   [Cookiecutter-Django-Vue (⭐546)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
+*   [Cookiecutter-Django-Vue (⭐549)](https://github.com/vchaptsev/cookiecutter-django-vue) - Django+VueJS+Docker customizable project generator with a large number of settings/integrations
 
 ## [51. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next.js Static Blog](https://www.cosmicjs.com/apps/nextjs-static-blog) - Next.js static blog powered by the Cosmic Headless CMS
-*   [Devii (⭐457)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐461)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ### Extensions
 
-*   [next-auth (⭐12k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
+*   [next-auth (⭐13k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
 ## [52. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -840,15 +843,15 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Mock / Barcode
 
-*   [Mockingbird (⭐180)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
+*   [Mockingbird (⭐182)](https://github.com/Farfetch/mockingbird) - Simplify software testing, by easily mocking any system using HTTP/HTTPS, allowing a team to test and develop against a service that is not complete, unstable or just to reproduce planned cases.
 
 ### Events
 
-*   [OpenCombine (⭐2.3k)](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
+*   [OpenCombine (⭐2.4k)](https://github.com/OpenCombine/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
 
 ### Calendar / Barcode
 
-*   [ElegantCalendar (⭐520)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+*   [ElegantCalendar (⭐547)](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 
 ### Label / Barcode
 
@@ -880,30 +883,20 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Authentication
 
-*   [TheIdServer (⭐429)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
-*   [Blorc.OpenIdConnect (⭐48)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
+*   [TheIdServer (⭐512)](https://github.com/Aguafrommars/TheIdServer) - ![stars](https://img.shields.io/github/stars/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Aguafrommars/TheIdServer?style=flat-square\&cacheSeconds=86400) OpenID/Connect server base on IdentityServer4.
+*   [Blorc.OpenIdConnect (⭐51)](https://github.com/WildGums/Blorc.OpenIdConnect) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.OpenIdConnect?style=flat-square\&cacheSeconds=86400) The right way to use OpenID Connect on Blazor.
 *   [Blazor-WASM-AzureAD-gRPC (⭐15)](https://github.com/StefH/BlazorWasmGrpcWithAADAuth) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAADAuth?style=flat-square\&cacheSeconds=86400) Blazor WASM, Azure AD, REST & gRPC.
-*   [Blazor-WASM-Auth0-gRPC (⭐8)](https://github.com/StefH/BlazorWasmGrpcWithAuth0) - ![last commit](https://img.shields.io/github/last-commit/StefH/BlazorWasmGrpcWithAuth0?style=flat-square\&cacheSeconds=86400) Blazor WASM, [Auth0](https://auth0.com), REST & gRPC.
-
-### Games
-
-*   [BlazorPong (⭐13)](https://github.com/MACEL94/BlazorPong) - ![last commit](https://img.shields.io/github/last-commit/MACEL94/BlazorPong?style=flat-square\&cacheSeconds=86400) - Pong in Blazor server model and Wasm model using SignalR Core. [Server Demo](https://blazorpong-dev-as.azurewebsites.net). [Wasm Demo](https://blazorpongwasm.azurewebsites.net/).
-*   [Minesweeper (⭐167)](https://github.com/exceptionnotfound/BlazorGames) - ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=86400) Minesweeper using C# and Blazor WebAssembly.
 
 ### Individual components / API
 
 *   [Head Element Helper (⭐142)](https://github.com/jsakamoto/Toolbelt.Blazor.HeadElement) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.HeadElement?style=flat-square\&cacheSeconds=86400) `<Title>` and `<Meta>` components for changing the document titile and meta elements, with server-side prerendering support for SEO/OGP. ([Demo](https://demo-blazor-headelement.azurewebsites.net/)).
 
-### Individual components / Datagrids / tables
-
-*   [BlazorTable (⭐431)](https://github.com/IvanJosipovic/BlazorTable) - ![stars](https://img.shields.io/github/stars/IvanJosipovic/BlazorTable?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorTable?style=flat-square\&cacheSeconds=86400) A Table Control for Blazor with sorting, paging, filtering and more ([Demo](https://BlazorTable.netlify.com)).
-
 ### Tools & Utilities / Others
 
-*   [Blazor.SpeechSynthesis (⭐56)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
+*   [Blazor.SpeechSynthesis (⭐62)](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.SpeechSynthesis?style=flat-square\&cacheSeconds=86400) A library to provide Speech Synthesis API access for Blazor.
 *   [BlazorState.Redux (⭐28)](https://github.com/BerserkerDotNet/BlazorState.Redux) - ![last commit](https://img.shields.io/github/last-commit/BerserkerDotNet/BlazorState.Redux?style=flat-square\&cacheSeconds=86400) Develop Blazor apps with Redux.
 *   [Howler.Blazor (⭐25)](https://github.com/StefH/Howler.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/Howler.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for Howler.js, an audio library.
-*   [jsMind.Blazor (⭐10)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
+*   [jsMind.Blazor (⭐11)](https://github.com/StefH/jsMind.Blazor) - ![last commit](https://img.shields.io/github/last-commit/StefH/jsMind.Blazor?style=flat-square\&cacheSeconds=86400) A Blazor JSInterop wrapper for jsMind, a MindMapping tool.
 
 ### Courses / Others
 
@@ -1014,7 +1007,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Component Libraries
 
-*   [Pixano Elements (⭐28)](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
+*   [Pixano Elements (⭐31)](https://github.com/pixano/pixano-elements) - Re-usable web components dedicated to data annotation tasks.
 
 ### Presentations
 
@@ -1024,7 +1017,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 ### Software / Personal Dashboards
 
-*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐73)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
+*   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐76)](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`
 
 ### Software / Software Development - Project Management
 

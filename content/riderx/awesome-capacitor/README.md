@@ -87,6 +87,7 @@
 
 *   Google
     *   [Auth (⭐167)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
+    *   [Availability (⭐2)](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
     *   [Fit (⭐17)](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     *   [MlKit Language (⭐2)](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
@@ -95,7 +96,7 @@
 
 ### Other plugins
 
-*   [Apple Pay (⭐14)](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app
+*   [Apple Pay (⭐14)](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app.
 
 ## [Apr 25, 2022](/content/2022/04/25/README.md)
 

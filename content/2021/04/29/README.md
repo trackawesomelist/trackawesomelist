@@ -10,7 +10,7 @@
 
 ### Code Analysis
 
-*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐164)](https://github.com/axelson/dep_viz/)).
+*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐169)](https://github.com/axelson/dep_viz/)).
 
 ## [2. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -229,7 +229,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-next-rx (⭐30)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
+*   [vue-next-rx (⭐32)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

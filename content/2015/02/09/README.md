@@ -10,7 +10,7 @@
 
 ### Loaders
 
-*   [ESL (⭐832)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+*   [ESL (⭐834)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -25,7 +25,7 @@
 
 ### Natural Language Processing
 
-*   [Pragmatic Segmenter (⭐503)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+*   [Pragmatic Segmenter (⭐504)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Examples and funny stuff
 
-*   [dice (⭐14)](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
+*   [dice (⭐15)](https://github.com/stocks29/dice) - Roll the dice, in Elixir.
 
 ### HTTP
 

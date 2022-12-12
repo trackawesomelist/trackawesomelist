@@ -17,60 +17,60 @@
 ### Static type checkers
 
 *   [mypy (⭐14k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐193)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [pyanalyze (⭐207)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
-*   [pytype (⭐3.9k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+*   [pytype (⭐4k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ### Dynamic type checkers
 
-*   [strongtyping (⭐86)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
+*   [strongtyping (⭐88)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 
 ### Stub packages
 
 *   [asgiref (⭐1.1k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.1k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
-*   [typeshed (⭐3.2k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [typeshed (⭐3.3k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
-*   [meiga (⭐28)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
-*   [option (⭐39)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐102)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [meiga (⭐29)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
+*   [option (⭐44)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+*   [phantom-types (⭐114)](https://github.com/antonagestam/phantom-types) - Phantom types.
 *   [returns (⭐2.5k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-*   [safetywrap (⭐27)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
+*   [safetywrap (⭐30)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
 *   [typet (⭐17)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ### Tools / Linters
 
-*   [wemake-python-styleguide (⭐2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
+*   [wemake-python-styleguide (⭐2.1k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### Tools / Working with types
 
-*   [com2ann (⭐121)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [typing-inspect (⭐274)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [com2ann (⭐123)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [typing-inspect (⭐282)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [monkeytype (⭐4k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
-*   [type4py (⭐42)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [monkeytype (⭐4.1k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
+*   [type4py (⭐44)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
 
 ### Integrations / Mypy plugins
 
-*   [mypy-playground (⭐51)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐300)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [mypy-playground (⭐57)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
+*   [mypy-pycharm-plugin (⭐301)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 *   [pylance (⭐1.4k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-restart (⭐79)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐70)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-restart (⭐85)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐74)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 
 ## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [OpenInWSL (⭐61)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [OpenInWSL (⭐66)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [5. Colorful](/content/Siddharth11/Colorful/README.md)
 
@@ -236,7 +236,7 @@
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐45)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐49)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
 ---
 

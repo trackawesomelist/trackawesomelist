@@ -17,8 +17,8 @@
 
 ### Utilities
 
-*   [built\_value (⭐808)](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
-*   [Quiver (⭐879)](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
+*   [built\_value (⭐813)](https://github.com/google/built_value.dart) - Immutable value types, enum classes, and serialization.
+*   [Quiver (⭐899)](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 *   [route\_hierarchical (⭐29)](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
@@ -86,7 +86,7 @@
 
 ### Containers
 
-*   [ring\_span lite (⭐123)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
+*   [ring\_span lite (⭐126)](https://github.com/martinmoene/ring-span-lite) - A simplified implementation of Arthur O'Dwyer's ring\_span implementation ie. a circular buffer view. \[MIT]
 
 ---
 

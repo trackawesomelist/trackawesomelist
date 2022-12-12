@@ -14,11 +14,11 @@
 
 ### Networking
 
-*   [Proxygen (⭐7.6k)](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
+*   [Proxygen (⭐7.7k)](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. \[BSD]
 
 ### Other Awesome Projects
 
-*   [Projects (⭐40k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
+*   [Projects (⭐41k)](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Grid
 
-*   [svelte-flex (⭐67)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
+*   [svelte-flex (⭐68)](https://github.com/himynameisdave/svelte-flex) - A simple and reusable flexbox component for Svelte.
 
 ### Miscellaneous / Checkbox
 
@@ -73,7 +73,7 @@
 
 ### Applications / Security tools
 
-*   [Cherrybomb (⭐621)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
+*   [Cherrybomb (⭐662)](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.
 
 ## [6. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -106,14 +106,14 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tiagovla/tokyodark.nvim (⭐258)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in lua for neovim 0.5 and above.
+*   [tiagovla/tokyodark.nvim (⭐267)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 
 ## [8. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
 *   [Akka Streams (⭐13k)](https://github.com/akka/akka) \[Scala] - stream processing library on Akka Actors.
-*   [Daggy (⭐136)](https://github.com/synacker/daggy) \[C++] - real-time streams aggregation and catching.
+*   [Daggy (⭐139)](https://github.com/synacker/daggy) \[C++] - real-time streams aggregation and catching.
 
 ---
 

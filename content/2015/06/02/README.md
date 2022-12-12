@@ -28,7 +28,7 @@
 
 ### operations
 
-*   [geojson-join (⭐34)](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
+*   [geojson-join (⭐35)](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 
 ## [5. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Visual Studio Plugins
 
-*   [Git Diff Margin (⭐278)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
+*   [Git Diff Margin (⭐277)](https://github.com/laurentkempe/GitDiffMargin) - Displays live Git changes of the currently edited file on Visual Studio margin and scroll bar
 
 ---
 

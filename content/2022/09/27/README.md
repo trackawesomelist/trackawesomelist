@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 27, 2022
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -14,11 +14,11 @@
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
-### [Hacker Tab (⭐332)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+### [Hacker Tab (⭐335)](https://github.com/huchenme/hacker-tab-extension) <a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Replace browser new tab screen with GitHub trending projects.
 
-Installs: 2000 | Stars: 332 | Last update: n/a
+Installs: 2000 | Stars: 335 | Last update: n/a
 
 ## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
@@ -51,7 +51,7 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐5.6k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐5.8k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [7. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -63,19 +63,19 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 ### Tools / Misc
 
-*   [txtai (⭐2.7k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐2.9k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐735)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐772)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Code Runner / Diagnostics
 
-*   [desdic/greyjoy.nvim (⭐11)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
+*   [desdic/greyjoy.nvim (⭐15)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -87,13 +87,7 @@ Installs: 2000 | Stars: 332 | Last update: n/a
 
 *   [freeforcommercialuse.net](https://freeforcommercialuse.net/) — FFCU Worry-free model/property release stock photos
 
-## [12. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
-
-### GUI
-
-*   [TDengineGUI (⭐7)](https://github.com/arielyang/TDengineGUI) - A simple TDengine Desktop Manager.
-
-## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 

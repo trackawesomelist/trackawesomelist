@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 05, 2021
 
-16 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,39 +53,26 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐97)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐103)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐504)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐534)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐154)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐160)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Articles / Others
-
-*   [Blazor on Desktop](https://www.telerik.com/blogs/blazor-on-desktop) - February 17, 2021 - Blazor on Desktop. This article explores how to make Blazor web apps run on Desktop.
-*   [ASP.NET Core docs: What's new for February 1, 2021 - February 28, 2021](https://docs.microsoft.com/en-us/aspnet/core/whats-new/2021-02?view=aspnetcore-5.0) - March 3, 2021 - Welcome to what's new in the ASP.NET Core docs from February 1, 2021 through February 28, 2021. This article lists some of the major changes to docs during this period.
-*   [Blazor hosting models - mind map](https://twitter.com/konradkokosa/status/1365321620219396100) - February 26, 2021 - Blazor hosting models - mind map update after .NET 6 preview 1 announcement by Konrad Kokosa on Twitter.
-
-### Videos / Others
-
-*   [Multiple Panels with Sliding Splitters](https://www.youtube.com/watch?v=fNDd7moZJ4c) - March 5, 2021 - Blazor Train, episode 40: Multiple Panels with Sliding Splitters.
-*   [Blazor WebAssembly : JavaScript Isolation](https://www.youtube.com/watch?v=tbNgLNZnNWM) - ![duration](https://img.shields.io/badge/Duration:%20-5%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 1, 2021 - Blazor WebAssembly : JavaScript Isolation, by Curious Drive. This video is about how you can isolate JavaScript files in Blazor applications. With JavaScript isolation you can load your JavaScript files only when needed. [Source code (⭐347)](https://github.com/CuriousDrive/BlazingChat) ![stars](https://img.shields.io/github/stars/CuriousDrive/BlazingChat?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CuriousDrive/BlazingChat?style=flat-square\&cacheSeconds=86400).
-
-## [8. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
+## [7. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Docker
 
 *   [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
 *   [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)
 
-## [9. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Code Editors:
 
@@ -93,13 +80,13 @@
 
 
 
-## [10. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
+## [9. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
 ### Subscription Kit Services / Help
 
 *   [HackerBoxes](https://hackerboxes.com/) - A monthly surprise box which includes projects, components, modules and tools.
 
-## [11. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [10. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Base / Reset / Normalize
 
@@ -132,25 +119,25 @@
     [Docs (⭐1.1k)](https://github.com/vinibiavatti1/TuiCss/wiki)
     \| #SCSS
 
-## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐100)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐103)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
-*   [angular (⭐84k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-*   [Lucia (⭐688)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
+*   [angular (⭐85k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+*   [Lucia (⭐694)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 
 ### Date / Runner
 
 *   [luxon (⭐13k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
 
-## [14. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [13. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### CMS / Blogs
 
@@ -164,13 +151,13 @@
 
 *   [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
 
-## [15. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [14. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Courses
 
 *   [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley, Coursera Project Network.
 
-## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [15. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Open Source / Angular
 

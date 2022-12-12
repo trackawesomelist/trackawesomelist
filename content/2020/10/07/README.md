@@ -70,7 +70,7 @@
 
 ### Third-Party Packages / Caching
 
-*   [django-cachalot (⭐968)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
+*   [django-cachalot (⭐971)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
 *   [django-cacheops (⭐1.7k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 
 ## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)

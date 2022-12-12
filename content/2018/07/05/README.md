@@ -107,7 +107,7 @@
 
 ### Machine Learning
 
-*   [H2O (⭐6k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
+*   [H2O (⭐6.1k)](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
 
 ## [8. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -115,195 +115,195 @@
 
 *   [Frontend Development (⭐36k)](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 *   [iOS (⭐41k)](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-*   [IoT & Hybrid Apps (⭐485)](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+*   [IoT & Hybrid Apps (⭐489)](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 *   [Electron (⭐24k)](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-*   [Cordova (⭐282)](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
+*   [Cordova (⭐281)](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 *   [watchOS (⭐430)](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
-*   [JVM (⭐1.8k)](https://github.com/deephacks/awesome-jvm#readme)
-*   [Salesforce (⭐608)](https://github.com/mailtoharshit/awesome-salesforce#readme)
+*   [JVM (⭐1.9k)](https://github.com/deephacks/awesome-jvm#readme)
+*   [Salesforce (⭐615)](https://github.com/mailtoharshit/awesome-salesforce#readme)
 *   [Amazon Web Services (⭐11k)](https://github.com/donnemartin/awesome-aws#readme)
-*   [Windows (⭐20k)](https://github.com/Awesome-Windows/Awesome#readme)
-*   [IPFS (⭐3.8k)](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-*   [Heroku (⭐279)](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
+*   [Windows (⭐21k)](https://github.com/Awesome-Windows/Awesome#readme)
+*   [IPFS (⭐3.9k)](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
+*   [Heroku (⭐282)](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
 *   [Raspberry Pi (⭐11k)](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 *   [Qt (⭐1.1k)](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-*   [Smart TV (⭐810)](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-*   [GNOME (⭐719)](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
+*   [Smart TV (⭐837)](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
+*   [GNOME (⭐738)](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
 
 ### Programming Languages
 
 *   [Swift (⭐23k)](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
     *   [Education (⭐5.5k)](https://github.com/hsavit1/Awesome-Swift-Education#readme)
-    *   [Playgrounds (⭐3.7k)](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-*   [Rust (⭐29k)](https://github.com/rust-unofficial/awesome-rust#readme)
+    *   [Playgrounds (⭐3.8k)](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
+*   [Rust (⭐31k)](https://github.com/rust-unofficial/awesome-rust#readme)
 *   [Haskell (⭐2.8k)](https://github.com/krispo/awesome-haskell#readme)
-*   [PureScript (⭐414)](https://github.com/passy/awesome-purescript#readme)
-*   [Go (⭐90k)](https://github.com/avelino/awesome-go#readme)
-*   [Ruby (⭐12k)](https://github.com/markets/awesome-ruby#readme)
-*   [Clojure (⭐2.4k)](https://github.com/razum2um/awesome-clojure#readme)
-*   [ClojureScript (⭐954)](https://github.com/hantuzun/awesome-clojurescript#readme)
+*   [PureScript (⭐421)](https://github.com/passy/awesome-purescript#readme)
+*   [Go (⭐93k)](https://github.com/avelino/awesome-go#readme)
+*   [Ruby (⭐13k)](https://github.com/markets/awesome-ruby#readme)
+*   [Clojure (⭐2.5k)](https://github.com/razum2um/awesome-clojure#readme)
+*   [ClojureScript (⭐961)](https://github.com/hantuzun/awesome-clojurescript#readme)
 *   [Elixir (⭐12k)](https://github.com/h4cc/awesome-elixir#readme)
-*   [Erlang (⭐1.4k)](https://github.com/drobakowski/awesome-erlang#readme)
+*   [Erlang (⭐1.5k)](https://github.com/drobakowski/awesome-erlang#readme)
 *   [Lua (⭐3.2k)](https://github.com/LewisJEllis/awesome-lua#readme)
-*   [Perl (⭐620)](https://github.com/hachiojipm/awesome-perl#readme)
-*   [Groovy (⭐658)](https://github.com/kdabir/awesome-groovy#readme)
+*   [Perl (⭐625)](https://github.com/hachiojipm/awesome-perl#readme)
+*   [Groovy (⭐665)](https://github.com/kdabir/awesome-groovy#readme)
 *   [Dart (⭐2k)](https://github.com/yissachar/awesome-dart#readme)
-*   [Java (⭐34k)](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
+*   [Java (⭐35k)](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
     *   [RxJava (⭐282)](https://github.com/eleventigers/awesome-rxjava#readme)
 *   [Kotlin (⭐10k)](https://github.com/KotlinBy/awesome-kotlin#readme)
 *   [ColdFusion (⭐86)](https://github.com/seancoyne/awesome-coldfusion#readme)
-*   [Fortran (⭐318)](https://github.com/rabbiabram/awesome-fortran#readme)
+*   [Fortran (⭐321)](https://github.com/rabbiabram/awesome-fortran#readme)
 *   [PHP (⭐28k)](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
-    *   [Composer (⭐815)](https://github.com/jakoch/awesome-composer#readme) - Package manager.
+    *   [Composer (⭐816)](https://github.com/jakoch/awesome-composer#readme) - Package manager.
 *   [AutoHotkey (⭐2.1k)](https://github.com/ahkscript/awesome-AutoHotkey#readme)
-*   [AutoIt (⭐753)](https://github.com/J2TeaM/awesome-AutoIt#readme)
-*   [Crystal (⭐3k)](https://github.com/veelenga/awesome-crystal#readme)
+*   [AutoIt (⭐760)](https://github.com/J2TeaM/awesome-AutoIt#readme)
+*   [Crystal (⭐3.1k)](https://github.com/veelenga/awesome-crystal#readme)
 *   [Frege (⭐27)](https://github.com/sfischer13/awesome-frege#readme) - Haskell for the JVM.
 *   [CMake (⭐4.4k)](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
-*   [ActionScript 3 (⭐187)](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
+*   [ActionScript 3 (⭐191)](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
 *   [Eta (⭐59)](https://github.com/sfischer13/awesome-eta#readme) - Functional programming language for the JVM.
-*   [Idris (⭐354)](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+*   [Idris (⭐356)](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 ### Front-End Development
 
 *   [ES6 Tools (⭐3.9k)](https://github.com/addyosmani/es6-tools#readme)
 *   [Web Performance Optimization (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo#readme)
-*   [Web Tools (⭐819)](https://github.com/lvwzhen/tools#readme)
-*   [Web Components (⭐1.9k)](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
-*   [Polymer (⭐392)](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
-*   [Backbone (⭐403)](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
+*   [Web Tools (⭐835)](https://github.com/lvwzhen/tools#readme)
+*   [Web Components (⭐2k)](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
+*   [Polymer (⭐394)](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
+*   [Backbone (⭐402)](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 *   [HTML5 (⭐2.1k)](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 *   [SVG (⭐4.4k)](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
 *   [Canvas (⭐1.2k)](https://github.com/raphamorim/awesome-canvas#readme)
-*   [Inspiration (⭐1k)](https://github.com/NoahBuscher/Inspire#readme)
-*   [Android UI (⭐44k)](https://github.com/wasabeef/awesome-android-ui#readme)
+*   [Inspiration (⭐1.1k)](https://github.com/NoahBuscher/Inspire#readme)
+*   [Android UI (⭐45k)](https://github.com/wasabeef/awesome-android-ui#readme)
 *   [iOS UI (⭐11k)](https://github.com/cjwirth/awesome-ios-ui#readme)
 *   [Meteor (⭐1.4k)](https://github.com/Urigo/awesome-meteor#readme)
-*   [BEM (⭐473)](https://github.com/sturobson/BEM-resources#readme)
+*   [BEM (⭐477)](https://github.com/sturobson/BEM-resources#readme)
 *   [Flexbox (⭐1.1k)](https://github.com/afonsopacifer/awesome-flexbox#readme)
-*   [Web Typography (⭐524)](https://github.com/deanhume/typography#readme)
+*   [Web Typography (⭐527)](https://github.com/deanhume/typography#readme)
 *   [Web Accessibility (⭐1.6k)](https://github.com/brunopulis/awesome-a11y#readme)
-*   [Material Design (⭐592)](https://github.com/sachin1092/awesome-material#readme)
+*   [Material Design (⭐594)](https://github.com/sachin1092/awesome-material#readme)
 *   [D3 (⭐4.9k)](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
-*   [Emails (⭐1.8k)](https://github.com/jonathandion/awesome-emails#readme)
-*   [jQuery (⭐841)](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
+*   [Emails (⭐1.9k)](https://github.com/jonathandion/awesome-emails#readme)
+*   [jQuery (⭐846)](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
     *   [Tips (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
-*   [Web Audio (⭐875)](https://github.com/notthetup/awesome-webaudio#readme)
+*   [Web Audio (⭐884)](https://github.com/notthetup/awesome-webaudio#readme)
 *   [Offline-First (⭐2.9k)](https://github.com/pazguille/offline-first#readme)
-*   [Static Website Services (⭐1.6k)](https://github.com/agarrharr/awesome-static-website-services#readme)
-*   [Cycle.js (⭐825)](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
-*   [Text Editing (⭐243)](https://github.com/dok/awesome-text-editing#readme)
-*   [Motion UI Design (⭐749)](https://github.com/fliptheweb/motion-ui-design#readme)
+*   [Static Website Services (⭐1.7k)](https://github.com/agarrharr/awesome-static-website-services#readme)
+*   [Cycle.js (⭐827)](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
+*   [Text Editing (⭐251)](https://github.com/dok/awesome-text-editing#readme)
+*   [Motion UI Design (⭐753)](https://github.com/fliptheweb/motion-ui-design#readme)
 *   [Vue.js (⭐67k)](https://github.com/vuejs/awesome-vue#readme) - App framework.
-*   [Marionette.js (⭐155)](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
+*   [Marionette.js (⭐154)](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
 *   [Charting (⭐1.8k)](https://github.com/zingchart/awesome-charting#readme)
-*   [Ionic Framework 2 (⭐827)](https://github.com/candelibas/awesome-ionic#readme)
-*   [Chrome DevTools (⭐5.2k)](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
-*   [PostCSS (⭐400)](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
-*   [Draft.js (⭐2.4k)](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
+*   [Ionic Framework 2 (⭐829)](https://github.com/candelibas/awesome-ionic#readme)
+*   [Chrome DevTools (⭐5.3k)](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
+*   [PostCSS (⭐403)](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
+*   [Draft.js (⭐2.5k)](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
 *   [Service Workers (⭐1.6k)](https://github.com/TalAter/awesome-service-workers#readme)
 *   [Progressive Web Apps (⭐1.5k)](https://github.com/TalAter/awesome-progressive-web-apps#readme)
-*   [choo (⭐191)](https://github.com/choojs/awesome-choo#readme) - App framework.
-*   [Redux (⭐363)](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
-*   [Browserify (⭐81)](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
+*   [choo (⭐192)](https://github.com/choojs/awesome-choo#readme) - App framework.
+*   [Redux (⭐365)](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
+*   [Browserify (⭐83)](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
 *   [Sass (⭐1.8k)](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
 *   [Ant Design (⭐2.9k)](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
-*   [Less (⭐51)](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
+*   [Less (⭐55)](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
 *   [WebGL (⭐1.1k)](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
-*   [Progressive Enhancement (⭐88)](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-*   [Next.js (⭐8k)](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
+*   [Progressive Enhancement (⭐93)](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
+*   [Next.js (⭐8.1k)](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
 
 ### Back-End Development
 
-*   [Docker (⭐23k)](https://github.com/veggiemonk/awesome-docker#readme)
-*   [Play1 Framework (⭐38)](https://github.com/PerfectCarl/awesome-play1#readme)
-*   [CakePHP (⭐868)](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
+*   [Docker (⭐24k)](https://github.com/veggiemonk/awesome-docker#readme)
+*   [Play1 Framework (⭐40)](https://github.com/PerfectCarl/awesome-play1#readme)
+*   [CakePHP (⭐869)](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
 *   [Symfony (⭐1.5k)](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
-    *   [Education (⭐316)](https://github.com/pehapkari/awesome-symfony-education#readme)
+    *   [Education (⭐317)](https://github.com/pehapkari/awesome-symfony-education#readme)
 *   [Rails (⭐3.1k)](https://github.com/gramantin/awesome-rails#readme) - Web app framework for Ruby.
     *   [Gems (⭐2.8k)](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
 *   [Useful `.htaccess` Snippets (⭐12k)](https://github.com/phanan/htaccess#readme)
 *   [nginx (⭐3.2k)](https://github.com/fcambus/nginx-resources#readme) - Web server.
-*   [Apache Wicket (⭐65)](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
+*   [Apache Wicket (⭐66)](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
 *   [Vert.x (⭐2k)](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
-*   [Terraform (⭐3.5k)](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+*   [Terraform (⭐3.6k)](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 
 ### Computer Science
 
-*   [University Courses (⭐43k)](https://github.com/prakhar1989/awesome-courses#readme)
+*   [University Courses (⭐44k)](https://github.com/prakhar1989/awesome-courses#readme)
 *   [Data Science (⭐20k)](https://github.com/academic/awesome-datascience#readme)
-    *   [Tutorials (⭐561)](https://github.com/siboehm/awesome-learn-datascience#readme)
-*   [Linguistics (⭐272)](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
-*   [Computer Vision (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+    *   [Tutorials (⭐567)](https://github.com/siboehm/awesome-learn-datascience#readme)
+*   [Linguistics (⭐278)](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
+*   [Computer Vision (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 *   [Deep Learning (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
     *   [TensorFlow (⭐17k)](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
-    *   [TensorFlow.js (⭐137)](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
-    *   [TensorFlow Lite (⭐954)](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
+    *   [TensorFlow.js (⭐141)](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
+    *   [TensorFlow Lite (⭐972)](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
     *   [Papers (⭐24k)](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
     *   [Education (⭐1.5k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Deep Vision (⭐10k)](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Open Source Society University (⭐126k)](https://github.com/ossu/computer-science#readme)
-*   [Functional Programming (⭐820)](https://github.com/lucasviola/awesome-functional-programming#readme)
-*   [Information Retrieval (⭐852)](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+*   [Open Source Society University (⭐129k)](https://github.com/ossu/computer-science#readme)
+*   [Functional Programming (⭐834)](https://github.com/lucasviola/awesome-functional-programming#readme)
+*   [Information Retrieval (⭐860)](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 
 ### Big Data
 
 *   [Public Datasets (⭐52k)](https://github.com/awesomedata/awesome-public-datasets#readme)
 *   [Hadoop (⭐1k)](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
-*   [Data Engineering (⭐4.5k)](https://github.com/igorbarinov/awesome-data-engineering#readme)
+*   [Data Engineering (⭐4.6k)](https://github.com/igorbarinov/awesome-data-engineering#readme)
 *   [Streaming (⭐2.1k)](https://github.com/manuzhang/awesome-streaming#readme)
 *   [Apache Spark (⭐1.4k)](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 
 ### Theory
 
-*   [Papers We Love (⭐65k)](https://github.com/papers-we-love/papers-we-love#readme)
-*   [Talks (⭐5.7k)](https://github.com/JanVanRyswyck/awesome-talks#readme)
+*   [Papers We Love (⭐66k)](https://github.com/papers-we-love/papers-we-love#readme)
+*   [Talks (⭐5.8k)](https://github.com/JanVanRyswyck/awesome-talks#readme)
 *   [Algorithm Visualizations (⭐1.5k)](https://github.com/enjalot/algovis#readme)
-*   [Artificial Intelligence (⭐7.1k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Artificial Intelligence (⭐7.2k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 *   [Search Engine Optimization (⭐2k)](https://github.com/marcobiedermann/search-engine-optimization#readme)
-*   [Competitive Programming (⭐10k)](https://github.com/lnishan/awesome-competitive-programming#readme)
-*   [Math (⭐6.4k)](https://github.com/rossant/awesome-math#readme)
+*   [Competitive Programming (⭐11k)](https://github.com/lnishan/awesome-competitive-programming#readme)
+*   [Math (⭐6.6k)](https://github.com/rossant/awesome-math#readme)
 *   [Recursion Schemes (⭐1.1k)](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
 ### Books
 
-*   [Free Programming Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books#readme)
+*   [Free Programming Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books#readme)
 *   [Go Books (⭐13k)](https://github.com/dariubs/GoBooks#readme)
-*   [R Books (⭐190)](https://github.com/RomanTsegelskyi/rbooks#readme)
-*   [Mind Expanding Books (⭐9.3k)](https://github.com/hackerkid/Mind-Expanding-Books#readme)
-*   [Book Authoring (⭐281)](https://github.com/TalAter/awesome-book-authoring#readme)
+*   [R Books (⭐197)](https://github.com/RomanTsegelskyi/rbooks#readme)
+*   [Mind Expanding Books (⭐9.5k)](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+*   [Book Authoring (⭐283)](https://github.com/TalAter/awesome-book-authoring#readme)
 *   [Elixir Books (⭐1.2k)](https://github.com/sger/ElixirBooks#readme)
 
 ### Editors
 
-*   [Sublime Text (⭐948)](https://github.com/dreikanter/sublime-bookmarks#readme)
+*   [Sublime Text (⭐955)](https://github.com/dreikanter/sublime-bookmarks#readme)
 *   [Vim (⭐15k)](https://github.com/mhinz/vim-galore#readme)
-*   [Emacs (⭐7.3k)](https://github.com/emacs-tw/awesome-emacs#readme)
+*   [Emacs (⭐7.4k)](https://github.com/emacs-tw/awesome-emacs#readme)
 *   [Atom (⭐1.9k)](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
-*   [Visual Studio Code (⭐21k)](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+*   [Visual Studio Code (⭐22k)](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 
 ### Gaming
 
-*   [Game Development (⭐10k)](https://github.com/ellisonleao/magictools#readme)
-*   [Game Talks (⭐917)](https://github.com/hzoo/awesome-gametalks#readme)
+*   [Game Development (⭐11k)](https://github.com/ellisonleao/magictools#readme)
+*   [Game Talks (⭐926)](https://github.com/hzoo/awesome-gametalks#readme)
 *   [Unity (⭐5.4k)](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
-*   [Chess (⭐262)](https://github.com/hkirat/awesome-chess#readme)
+*   [Chess (⭐264)](https://github.com/hkirat/awesome-chess#readme)
 *   [LÖVE (⭐2.5k)](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
-*   [Gideros (⭐22)](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+*   [Gideros (⭐23)](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 
 ### Development Environment
 
 *   [Quick Look Plugins (⭐17k)](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 *   [Dev Env (⭐2.4k)](https://github.com/jondot/awesome-devenv#readme)
-*   [Dotfiles (⭐7.3k)](https://github.com/webpro/awesome-dotfiles#readme)
-*   [Shell (⭐25k)](https://github.com/alebcay/awesome-shell#readme)
-*   [Command-Line Apps (⭐10k)](https://github.com/agarrharr/awesome-cli-apps#readme)
+*   [Dotfiles (⭐7.4k)](https://github.com/webpro/awesome-dotfiles#readme)
+*   [Shell (⭐26k)](https://github.com/alebcay/awesome-shell#readme)
+*   [Command-Line Apps (⭐11k)](https://github.com/agarrharr/awesome-cli-apps#readme)
 *   [ZSH Plugins (⭐12k)](https://github.com/unixorn/awesome-zsh-plugins#readme)
-*   [Git Cheat Sheet & Git Flow (⭐6.1k)](https://github.com/arslanbilal/git-cheat-sheet#readme)
-*   [Git Tips (⭐20k)](https://github.com/git-tips/tips#readme)
+*   [Git Cheat Sheet & Git Flow (⭐6.2k)](https://github.com/arslanbilal/git-cheat-sheet#readme)
+*   [Git Tips (⭐21k)](https://github.com/git-tips/tips#readme)
 *   [Git Add-ons (⭐1.6k)](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
-*   [SSH (⭐2k)](https://github.com/moul/awesome-ssh#readme)
-*   [FOSS for Developers (⭐743)](https://github.com/tvvocold/FOSS-for-Dev#readme)
+*   [SSH (⭐2.1k)](https://github.com/moul/awesome-ssh#readme)
+*   [FOSS for Developers (⭐761)](https://github.com/tvvocold/FOSS-for-Dev#readme)
 *   [Hyper (⭐10k)](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
 *   [PowerShell (⭐3.6k)](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 *   [Terminals Are Sexy (⭐11k)](https://github.com/k4m4/terminals-are-sexy#readme)
@@ -311,169 +311,169 @@
 ### Entertainment
 
 *   [Science Fiction (⭐3.5k)](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
-*   [Fantasy (⭐966)](https://github.com/RichardLitt/awesome-fantasy#readme)
-*   [IT Quotes (⭐439)](https://github.com/victorlaerte/awesome-it-quotes#readme)
+*   [Fantasy (⭐983)](https://github.com/RichardLitt/awesome-fantasy#readme)
+*   [IT Quotes (⭐447)](https://github.com/victorlaerte/awesome-it-quotes#readme)
 
 ### Databases
 
 *   [Database (⭐1k)](https://github.com/numetriclabz/awesome-db#readme)
 *   [SQLAlchemy (⭐2.5k)](https://github.com/dahlia/awesome-sqlalchemy#readme)
-*   [InfluxDB (⭐760)](https://github.com/mark-rushakoff/awesome-influxdb#readme)
-*   [Neo4j (⭐452)](https://github.com/neueda/awesome-neo4j#readme)
-*   [MongoDB (⭐2k)](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
-*   [RethinkDB (⭐108)](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
-*   [TinkerPop (⭐161)](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
-*   [PostgreSQL (⭐8.1k)](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
-*   [CouchDB (⭐148)](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
+*   [InfluxDB (⭐762)](https://github.com/mark-rushakoff/awesome-influxdb#readme)
+*   [Neo4j (⭐455)](https://github.com/neueda/awesome-neo4j#readme)
+*   [MongoDB (⭐2.1k)](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
+*   [RethinkDB (⭐110)](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
+*   [TinkerPop (⭐163)](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
+*   [PostgreSQL (⭐8.2k)](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
+*   [CouchDB (⭐152)](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
 *   [HBase (⭐157)](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
 
 ### Media
 
-*   [Creative Commons Media (⭐458)](https://github.com/shime/creative-commons-media#readme)
-*   [Fonts (⭐1k)](https://github.com/brabadu/awesome-fonts#readme)
-*   [Codeface (⭐5.8k)](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
+*   [Creative Commons Media (⭐463)](https://github.com/shime/creative-commons-media#readme)
+*   [Fonts (⭐1.1k)](https://github.com/brabadu/awesome-fonts#readme)
+*   [Codeface (⭐5.9k)](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
 *   [Stock Resources (⭐11k)](https://github.com/neutraltone/awesome-stock-resources#readme)
-*   [GIF (⭐527)](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
+*   [GIF (⭐537)](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
 *   [Music (⭐1.3k)](https://github.com/ciconia/awesome-music#readme)
 *   [Audio Visualization (⭐4.1k)](https://github.com/willianjusten/awesome-audio-visualization#readme)
 *   [Broadcasting (⭐1.2k)](https://github.com/ebu/awesome-broadcasting#readme)
-*   [Pixel Art (⭐774)](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
+*   [Pixel Art (⭐793)](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
 
 ### Learn
 
-*   [CLI Workshoppers (⭐1.2k)](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
-*   [Learn to Program (⭐2.6k)](https://github.com/karlhorky/learn-to-program#readme)
+*   [CLI Workshoppers (⭐1.3k)](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
+*   [Learn to Program (⭐2.7k)](https://github.com/karlhorky/learn-to-program#readme)
 *   [Speaking (⭐1.3k)](https://github.com/matteofigus/awesome-speaking#readme)
-*   [Tech Videos (⭐577)](https://github.com/lucasviola/awesome-tech-videos#readme)
+*   [Tech Videos (⭐584)](https://github.com/lucasviola/awesome-tech-videos#readme)
 *   [Dive into Machine Learning (⭐11k)](https://github.com/hangtwenty/dive-into-machine-learning#readme)
-*   [Computer History (⭐2.3k)](https://github.com/watson/awesome-computer-history#readme)
-*   [Programming for Kids (⭐895)](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-*   [JavaScript Learning (⭐4.2k)](https://github.com/micromata/awesome-javascript-learning#readme)
+*   [Computer History (⭐2.4k)](https://github.com/watson/awesome-computer-history#readme)
+*   [Programming for Kids (⭐902)](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
+*   [JavaScript Learning (⭐4.4k)](https://github.com/micromata/awesome-javascript-learning#readme)
 
 ### Security
 
 *   [Application Security (⭐5.3k)](https://github.com/paragonie/awesome-appsec#readme)
-*   [Security (⭐9k)](https://github.com/sbilly/awesome-security#readme)
-*   [CTF (⭐7.4k)](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
-*   [Malware Analysis (⭐9.1k)](https://github.com/rshipp/awesome-malware-analysis#readme)
-*   [Android Security (⭐6.4k)](https://github.com/ashishb/android-security-awesome#readme)
-*   [Hacking (⭐9.1k)](https://github.com/carpedm20/awesome-hacking#readme)
-*   [Honeypots (⭐6.4k)](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
-*   [Incident Response (⭐5.6k)](https://github.com/meirwah/awesome-incident-response#readme)
-*   [Vehicle Security and Car Hacking (⭐2.2k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-*   [Web Security (⭐8.8k)](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+*   [Security (⭐9.2k)](https://github.com/sbilly/awesome-security#readme)
+*   [CTF (⭐7.6k)](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+*   [Malware Analysis (⭐9.3k)](https://github.com/rshipp/awesome-malware-analysis#readme)
+*   [Android Security (⭐6.6k)](https://github.com/ashishb/android-security-awesome#readme)
+*   [Hacking (⭐9.4k)](https://github.com/carpedm20/awesome-hacking#readme)
+*   [Honeypots (⭐6.5k)](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+*   [Incident Response (⭐5.7k)](https://github.com/meirwah/awesome-incident-response#readme)
+*   [Vehicle Security and Car Hacking (⭐2.3k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Web Security (⭐9.2k)](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 
 ### Content Management Systems
 
-*   [Refinery CMS (⭐28)](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
-*   [Textpattern (⭐71)](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
-*   [Drupal (⭐78)](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
-*   [Craft CMS (⭐484)](https://github.com/craftcms/awesome#readme) - Content-first CMS.
+*   [Refinery CMS (⭐29)](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
+*   [Textpattern (⭐72)](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
+*   [Drupal (⭐79)](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
+*   [Craft CMS (⭐489)](https://github.com/craftcms/awesome#readme) - Content-first CMS.
 
 ### Hardware
 
 *   [Robotics (⭐3k)](https://github.com/Kiloreux/awesome-robotics#readme)
 *   [Internet of Things (⭐2.6k)](https://github.com/HQarroum/awesome-iot#readme)
-*   [Electric Guitar Specifications (⭐172)](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
+*   [Electric Guitar Specifications (⭐178)](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
 
 ### Business
 
-*   [Open Companies (⭐710)](https://github.com/opencompany/awesome-open-company#readme)
+*   [Open Companies (⭐719)](https://github.com/opencompany/awesome-open-company#readme)
 *   [Places to Post Your Startup (⭐5.1k)](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
 *   [OKR Methodology (⭐1.4k)](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-*   [Leading and Managing (⭐6.3k)](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
-*   [Indie (⭐8k)](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
+*   [Leading and Managing (⭐6.5k)](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
+*   [Indie (⭐8.1k)](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
 
 ### Work
 
-*   [Slack (⭐768)](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
-    *   [Communities (⭐294)](https://github.com/filipelinhares/awesome-slack#readme)
-*   [Remote Jobs (⭐23k)](https://github.com/lukasz-madon/awesome-remote-job#readme)
+*   [Slack (⭐780)](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
+    *   [Communities (⭐296)](https://github.com/filipelinhares/awesome-slack#readme)
+*   [Remote Jobs (⭐24k)](https://github.com/lukasz-madon/awesome-remote-job#readme)
 *   [Productivity (⭐1.7k)](https://github.com/jyguyomarch/awesome-productivity#readme)
-*   [Niche Job Boards (⭐671)](https://github.com/tramcar/awesome-job-boards#readme)
+*   [Niche Job Boards (⭐691)](https://github.com/tramcar/awesome-job-boards#readme)
 
 ### Networking
 
 *   [Software-Defined Networking (⭐1.1k)](https://github.com/sdnds-tw/awesome-sdn#readme)
-*   [Network Analysis (⭐2.8k)](https://github.com/briatte/awesome-network-analysis#readme)
+*   [Network Analysis (⭐2.9k)](https://github.com/briatte/awesome-network-analysis#readme)
 *   [PCAPTools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools#readme)
 
 ### Decentralized Systems
 
-*   [Bitcoin (⭐956)](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
-*   [Ripple (⭐169)](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-*   [Non-Financial Blockchain (⭐573)](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-*   [Mastodon (⭐429)](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+*   [Bitcoin (⭐959)](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
+*   [Ripple (⭐170)](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
+*   [Non-Financial Blockchain (⭐576)](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
+*   [Mastodon (⭐628)](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
 
 ### Miscellaneous
 
 *   [JSON (⭐1.2k)](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
     *   [GeoJSON (⭐1.9k)](https://github.com/tmcw/awesome-geojson#readme)
-    *   [Datasets (⭐2.6k)](https://github.com/jdorfman/awesome-json-datasets#readme)
+    *   [Datasets (⭐2.7k)](https://github.com/jdorfman/awesome-json-datasets#readme)
 *   [Discounts for Student Developers (⭐2.4k)](https://github.com/AchoArnold/discount-for-student-dev#readme)
-*   [Radio (⭐190)](https://github.com/kyleterry/awesome-radio#readme)
-*   [Awesome (⭐223k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
+*   [Radio (⭐193)](https://github.com/kyleterry/awesome-radio#readme)
+*   [Awesome (⭐229k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 *   [REST (⭐3.2k)](https://github.com/marmelab/awesome-rest#readme)
 *   [Services Engineering (⭐3.4k)](https://github.com/mmcgrana/services-engineering#readme)
-*   [Free for Developers (⭐61k)](https://github.com/ripienaar/free-for-dev#readme)
-*   [Answers (⭐718)](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
-*   [Sketch (⭐728)](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
+*   [Free for Developers (⭐63k)](https://github.com/ripienaar/free-for-dev#readme)
+*   [Answers (⭐724)](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
+*   [Sketch (⭐730)](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
 *   [Boilerplate Projects (⭐1k)](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 *   [Readme (⭐13k)](https://github.com/matiassingers/awesome-readme#readme)
 *   [Design and Development Guides (⭐2k)](https://github.com/NARKOZ/guides#readme)
-*   [Software Engineering Blogs (⭐22k)](https://github.com/kilimchoi/engineering-blogs#readme)
-*   [Gulp (⭐592)](https://github.com/alferov/awesome-gulp#readme) - Task runner.
+*   [Software Engineering Blogs (⭐23k)](https://github.com/kilimchoi/engineering-blogs#readme)
+*   [Gulp (⭐598)](https://github.com/alferov/awesome-gulp#readme) - Task runner.
 *   [AMA (⭐1.4k)](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
-    *   [Answers (⭐124)](https://github.com/stoeffel/awesome-ama-answers#readme)
-*   [Open Source Photography (⭐410)](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
-*   [OpenGL (⭐1.7k)](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
+    *   [Answers (⭐125)](https://github.com/stoeffel/awesome-ama-answers#readme)
+*   [Open Source Photography (⭐419)](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
+*   [OpenGL (⭐1.8k)](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
 *   [GraphQL (⭐14k)](https://github.com/chentsulin/awesome-graphql#readme)
-*   [Transit (⭐901)](https://github.com/CUTR-at-USF/awesome-transit#readme)
-*   [Research Tools (⭐1.5k)](https://github.com/emptymalei/awesome-research#readme)
-*   [Microservices (⭐11k)](https://github.com/mfornos/awesome-microservices#readme)
-*   [Unicode (⭐807)](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
-    *   [Code Points (⭐722)](https://github.com/Codepoints/awesome-codepoints#readme)
-*   [Beginner-Friendly Projects (⭐45k)](https://github.com/MunGell/awesome-for-beginners#readme)
-*   [Katas (⭐2k)](https://github.com/gamontal/awesome-katas#readme)
-*   [Tools for Activism (⭐889)](https://github.com/drewrwilson/toolsforactivism#readme)
-*   [Citizen Science (⭐155)](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
-*   [MQTT (⭐1.8k)](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
-*   [For Girls (⭐481)](https://github.com/cristianoliveira/awesome4girls#readme)
+*   [Transit (⭐929)](https://github.com/CUTR-at-USF/awesome-transit#readme)
+*   [Research Tools (⭐1.6k)](https://github.com/emptymalei/awesome-research#readme)
+*   [Microservices (⭐12k)](https://github.com/mfornos/awesome-microservices#readme)
+*   [Unicode (⭐815)](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
+    *   [Code Points (⭐728)](https://github.com/Codepoints/awesome-codepoints#readme)
+*   [Beginner-Friendly Projects (⭐46k)](https://github.com/MunGell/awesome-for-beginners#readme)
+*   [Katas (⭐2.1k)](https://github.com/gamontal/awesome-katas#readme)
+*   [Tools for Activism (⭐894)](https://github.com/drewrwilson/toolsforactivism#readme)
+*   [Citizen Science (⭐162)](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
+*   [MQTT (⭐1.9k)](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
+*   [For Girls (⭐483)](https://github.com/cristianoliveira/awesome4girls#readme)
 *   [Vorpal (⭐134)](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
-*   [Vulkan (⭐2.6k)](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
+*   [Vulkan (⭐2.7k)](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
 *   [LaTeX (⭐1.1k)](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
-*   [Economics (⭐940)](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
-*   [Funny Markov Chains (⭐184)](https://github.com/sublimino/awesome-funny-markov#readme)
-*   [Bioinformatics (⭐2.1k)](https://github.com/danielecook/Awesome-Bioinformatics#readme)
-*   [Colorful (⭐853)](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
-*   [Steam (⭐414)](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
+*   [Economics (⭐969)](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
+*   [Funny Markov Chains (⭐188)](https://github.com/sublimino/awesome-funny-markov#readme)
+*   [Bioinformatics (⭐2.2k)](https://github.com/danielecook/Awesome-Bioinformatics#readme)
+*   [Colorful (⭐871)](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
+*   [Steam (⭐420)](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 *   [Bots (⭐1.1k)](https://github.com/hackerkid/bots#readme) - Building bots.
-*   [Site Reliability Engineering (⭐9.1k)](https://github.com/dastergon/awesome-sre#readme)
+*   [Site Reliability Engineering (⭐9.3k)](https://github.com/dastergon/awesome-sre#readme)
 *   [DTrace (⭐140)](https://github.com/xen0l/awesome-dtrace#readme) - Dynamic tracing framework.
-*   [Pokémon (⭐503)](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
-*   [ChatOps (⭐778)](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
+*   [Pokémon (⭐507)](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
+*   [ChatOps (⭐789)](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
 *   [Falsehood (⭐19k)](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
-*   [Domain-Driven Design (⭐9.2k)](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
+*   [Domain-Driven Design (⭐9.4k)](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
 *   [Quantified Self (⭐1.7k)](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
-*   [SaltStack (⭐486)](https://github.com/hbokh/awesome-saltstack#readme) - Python-based config management system.
+*   [SaltStack (⭐489)](https://github.com/hbokh/awesome-saltstack#readme) - Python-based config management system.
 *   [Web Design (⭐2.1k)](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
 *   [Creative Coding (⭐10k)](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
 *   [No-Login Web Apps (⭐1.9k)](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Web apps that work without login.
 *   [Free Software (⭐1.1k)](https://github.com/johnjago/awesome-free-software#readme) - Free as in freedom.
-*   [Framer (⭐513)](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
-*   [Markdown (⭐610)](https://github.com/BubuAnabelas/awesome-markdown#readme) - Markup language.
-*   [Dev Fun (⭐530)](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - Funny developer projects.
-*   [Magento 2 (⭐995)](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
+*   [Framer (⭐517)](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
+*   [Markdown (⭐624)](https://github.com/BubuAnabelas/awesome-markdown#readme) - Markup language.
+*   [Dev Fun (⭐533)](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - Funny developer projects.
+*   [Magento 2 (⭐1k)](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
 *   [TikZ (⭐1.1k)](https://github.com/xiaohanyu/awesome-tikz#readme) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-*   [Ad-Free (⭐331)](https://github.com/johnjago/awesome-ad-free#readme) - Ad-free alternatives.
-*   [Esolangs (⭐379)](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
+*   [Ad-Free (⭐341)](https://github.com/johnjago/awesome-ad-free#readme) - Ad-free alternatives.
+*   [Esolangs (⭐388)](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 *   [Prometheus (⭐1.2k)](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
-*   [Ledger (⭐125)](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
-*   [Uncopyright (⭐378)](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
-*   [Open Source Supporters (⭐537)](https://github.com/zachflower/awesome-open-source-supporters#readme) - Companies that offer their tools and services for free to open source projects.
-*   [Design Principles (⭐442)](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
-*   [Theravada (⭐109)](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
-*   [inspectIT (⭐21)](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
+*   [Ledger (⭐127)](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
+*   [Uncopyright (⭐387)](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
+*   [Open Source Supporters (⭐546)](https://github.com/zachflower/awesome-open-source-supporters#readme) - Companies that offer their tools and services for free to open source projects.
+*   [Design Principles (⭐453)](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
+*   [Theravada (⭐113)](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
+*   [inspectIT (⭐22)](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
 
 ---
 

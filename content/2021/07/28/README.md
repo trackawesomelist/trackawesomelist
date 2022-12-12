@@ -22,14 +22,14 @@
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐73)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐79)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
 ## [4. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
 ### Clarity Resources / Developer Tools
 
-*   [Clarinet (⭐211)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
-*   [Clarigen (⭐21)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
+*   [Clarinet (⭐214)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+*   [Clarigen (⭐22)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 
 ### Clarity Resources / Libraries
 
@@ -63,10 +63,6 @@
 
 *   [BlazorMergely (⭐5)](https://github.com/akovac35/BlazorMergely) - ![last commit](https://img.shields.io/github/last-commit/akovac35/BlazorMergely?style=flat-square\&cacheSeconds=86400) An implementation of Blazor diff and merge component based on Mergely with server side support.
 
-### Articles / Others
-
-*   [Blazor Debugging Improvements in Rider 2021.2](https://blog.jetbrains.com/dotnet/2021/07/27/blazor-debugging-improvements-in-rider-2021-2/) - July 27, 2021 - The EAP versions of Rider 2021.2 have been released with a major improvement for Blazor developers: debugging WebAssembly (WASM) apps. This has been one of the top requested features since Blazor itself was released. In Rider 2021.2, you can now debug both Blazor Server apps and Blazor WASM apps.
-
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Test Data
@@ -93,7 +89,7 @@
 
 ### Libraries / Cryptography
 
-*   [w3f/schnorrkel (⭐245)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
+*   [w3f/schnorrkel (⭐251)](https://github.com/w3f/schnorrkel) - Schnorr VRFs and signatures on the Ristretto group
 
 ## [10. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 
@@ -117,11 +113,11 @@
 
 ### Media
 
-*   [VLC (⭐60)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
+*   [VLC (⭐66)](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ### Work
 
-*   [Internships (⭐220)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+*   [Internships (⭐242)](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ---
 

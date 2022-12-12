@@ -80,7 +80,7 @@
 
 ### Extensions
 
-*   [next-joi (⭐107)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
+*   [next-joi (⭐109)](https://github.com/codecoolture/next-joi) - Validate Next.js API Routes, with *joi*.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Machine Learning
 
-*   [weka (⭐67)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
+*   [weka (⭐66)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐56)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐57)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -66,13 +66,13 @@
 
 ### Bundlers
 
-*   [Rollup (⭐22k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
+*   [Rollup (⭐23k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 
 ## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Bittorrent
 
-*   [bento (⭐74)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐75)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 

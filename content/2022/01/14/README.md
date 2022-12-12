@@ -215,13 +215,13 @@
 
 ### Applications
 
-*   [zellij (⭐8.5k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
+*   [zellij (⭐9.2k)](https://github.com/zellij-org/zellij) — A terminal multiplexer (workspace) with batteries included
 
 ## [4. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Resources / Examples
 
-*   [Ping CRM / Flask (⭐3)](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
+*   [Ping CRM / Flask (⭐5)](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
 
 ## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -249,7 +249,7 @@
 
 ### Articles and Presentations / Hardware Offload
 
-*   [OpenCSD eBPF SSD offloading (⭐27)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
+*   [OpenCSD eBPF SSD offloading (⭐29)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -261,7 +261,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-babel (⭐14)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
+*   [vite-plugin-babel (⭐17)](https://github.com/owlsdepartment/vite-plugin-babel) - Babel integration for both build and server to support f.ex. decorators or class fields in pure JS/JSX files.
 
 ## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -446,7 +446,7 @@
 
 ### GUI
 
-*   [ocelotgui (⭐53)](https://github.com/ocelot-inc/ocelotgui) - For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.
+*   [ocelotgui (⭐54)](https://github.com/ocelot-inc/ocelotgui) - For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

@@ -51,7 +51,7 @@ Topics: Node, JavaScript, Automation\
 
 ### Bundlers
 
-*   [Parcel (⭐41k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
+*   [Parcel (⭐42k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

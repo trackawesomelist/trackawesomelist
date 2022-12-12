@@ -22,8 +22,8 @@
 
 ### Libraries / New Libraries
 
-*   [JAXopt (⭐582)](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
-*   [PIX (⭐285)](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
+*   [JAXopt (⭐596)](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
+*   [PIX (⭐288)](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -80,10 +80,10 @@
 
 ### Neural Net Models / OpenAI GPT-3
 
-*   [Yuheng-Li/MixNMatch (⭐862)](https://github.com/Yuheng-Li/MixNMatch)
+*   [Yuheng-Li/MixNMatch (⭐907)](https://github.com/Yuheng-Li/MixNMatch)
 *   [lucidrains/lightweight-gan (⭐1.4k)](https://github.com/lucidrains/lightweight-gan): 512x512 flowers after 12 hours of training, 1 gpu 256x256 flowers after 12 hours of training, 1 gpu Implementation of 'lightweight' GAN proposed in ICLR 2021
 *   [VQGAN+CLIP](https://docs.google.com/document/d/1Lu7XPRKlNhBQjcKr8k8qRzUzbBW7kzxb5Vu72GMRn2E/edit): This is a brief tutorial on how to operate VQGAN+CLIP by Katherine Crowson
-*   [rinongal/StyleGAN-nada (⭐955)](https://github.com/rinongal/StyleGAN-nada): Zero-Shot non-adversarial domain adaptation of pre-trained generators
+*   [rinongal/StyleGAN-nada (⭐984)](https://github.com/rinongal/StyleGAN-nada): Zero-Shot non-adversarial domain adaptation of pre-trained generators
 
 ### Latent Space Explorarion / OpenAI GPT-3
 
@@ -91,7 +91,7 @@
 
 ### Other Related Awesome Lists / OpenAI GPT-3
 
-*   [margaretmz/awesome-ai-art-design (⭐18)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
+*   [margaretmz/awesome-ai-art-design (⭐19)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -136,14 +136,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Fluxor (⭐823)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
-
-### Articles / Others
-
-*   [Blazor Server apps in MVC subfolders](https://www.mistergoodcat.com/post/blazor-server-apps-in-mvc-subfolders) - July 15, 2021 - Were you ever bored and thought to yourself: how could I ruin this perfectly fine evening for me and turn it into a frustrating nightmare? Well, seek no more, I have the best idea for you. Just try to host a Blazor Server app in a sub folder of an existing MVC application, and you're in for some really nerve-wrecking "fun". Admittedly, once you know the solution it's not so hard to understand, but finding a working solution was a rabbit-hole experience for me.
-*   [How to use the button onclick event in Blazor WebAssembly](https://www.roundthecode.com/dotnet/blazor/how-to-use-button-onclick-event-blazor-webassembly) - July 9, 2021 - This article from RoundTheCode explains how to implement the button onclick event in a Blazor Wasm application. We will demonstrate how to set up a Blazor onclick call method and bind it to a HTML element.
-*   [Blazor Anchor Tag Scroll To](https://nu-codyanhorn-tech.azurewebsites.net/blog/blazor-anchor-tag-scroll-to) - July 9, 2021 - This article goes over an issue with Blazor applications and scrolling to a hash anchor on the current page.
-*   [Thoughts on Microsoft, and Blazor](https://www.mistergoodcat.com/post/thoughts-on-microsoft-and-blazor) - July 2, 2021 - Thoughts on Microsoft, and Blazor, by Peter Kuhn aka Mister Goodcat.
+*   [Fluxor (⭐866)](https://github.com/mrpmorris/fluxor) - ![GitHub stars](https://img.shields.io/github/stars/mrpmorris/fluxor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/mrpmorris/fluxor?style=flat-square\&cacheSeconds=86400) Zero boilerplate Flux/Redux library for DotNet.
 
 ## [11. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
@@ -192,11 +185,11 @@
 
 ### Reading and Writing Tools / Journaling
 
-*   [linked (⭐595)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
+*   [linked (⭐626)](https://github.com/lostdesign/linked) - Link your thoughts to days, distraction free. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
 
 ### Audio and Video Tools / File Sharing
 
-*   [BlackHole (⭐9.7k)](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ExistentialAudio/BlackHole) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ExistentialAudio/BlackHole)
+*   [BlackHole (⭐10k)](https://github.com/ExistentialAudio/BlackHole) - Freemium, open-source virtual output/input audio driver for recording/routing internal audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ExistentialAudio/BlackHole) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/ExistentialAudio/BlackHole)
 
 ## [16. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

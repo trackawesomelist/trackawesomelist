@@ -16,7 +16,7 @@
 
 ### Cloud Infrastructure and Management
 
-*   [discovery (⭐249)](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
+*   [discovery (⭐250)](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
 
 ### Examples and funny stuff
 
@@ -30,7 +30,7 @@
 ### ORM and Datamapping
 
 *   [ecto\_lazy\_float (⭐6)](https://github.com/joshdholtz/ecto-lazy-float) - Ecto.LazyFloat - An Ecto.Float that accepts binary and integers.
-*   [riak (⭐197)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
+*   [riak (⭐198)](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
 *   [tds\_ecto (⭐56)](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 
 ### Text and Numbers

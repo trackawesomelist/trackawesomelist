@@ -70,7 +70,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐84k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐85k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -90,12 +90,12 @@
 *   [BackstopJS (⭐6.2k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 *   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium).
 *   [CSSCritic (⭐476)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
-*   [Spectre (⭐453)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
-*   [Shoov (⭐31)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
-*   [Hardy (⭐320)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
-*   [TestCafe (⭐9.4k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-*   [Needle (⭐580)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
-*   [grunt-photobox (⭐269)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
+*   [Spectre (⭐455)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
+*   [Shoov (⭐33)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+*   [Hardy (⭐321)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+*   [TestCafe (⭐9.5k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+*   [Needle (⭐583)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
+*   [grunt-photobox (⭐271)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
 
 ### Blog posts
 
@@ -106,9 +106,9 @@
 
 ### Deprecated
 
-*   [trifleJS (⭐820)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
+*   [trifleJS (⭐821)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
 *   [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
-*   [Navalia (⭐952)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
+*   [Navalia (⭐956)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 
 ## [8. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
@@ -427,8 +427,8 @@
 
 ### Miscellaneous
 
-*   [stdman (⭐857)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
-*   [value-category-cheatsheet (⭐398)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
+*   [stdman (⭐862)](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). \[MIT]
+*   [value-category-cheatsheet (⭐399)](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. \[Jank copyleft]
 
 ## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
@@ -530,8 +530,8 @@
 
 *   [graphql-batch (⭐1.3k)](https://github.com/Shopify/graphql-batch) – A query batching executor.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A library for declaring, composing and executing GraphQL queries.
-*   [graphql-guard (⭐462)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
-*   [graphql-ruby (⭐5.1k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
+*   [graphql-guard (⭐463)](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization.
+*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
 ## [31. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
@@ -609,7 +609,7 @@
 
 ### CMS
 
-*   [mojoPortal  (⭐169)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
+*   [mojoPortal  (⭐172)](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 
 ### Code Analysis and Metrics
 
@@ -621,7 +621,7 @@
 
 ### Image Processing
 
-*   [Magick.NET (⭐2.4k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
+*   [Magick.NET (⭐2.5k)](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
 
 ### JavaScript Engines
 
@@ -629,8 +629,8 @@
 
 ### Logging
 
-*   [Essential Diagnostics (⭐61)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
-*   [Semantic Logging Application Block (SLAB) (⭐217)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
+*   [Essential Diagnostics (⭐63)](https://github.com/sgryphon/essential-diagnostics) - Extends the inbuilt features of System.Diagnostics namespace to provide flexible logging
+*   [Semantic Logging Application Block (SLAB) (⭐216)](https://github.com/MicrosoftArchive/semantic-logging) - Extends the inbuilt features of System.Diagnostics.Tracing namespace (EventSource class) to log to several sinks including Azure Tables, Databases, files (JSON, XML, text). Supports in-process and out-of-process logging through ETW, and Rx for real-time filtering/aggregating of events.
 
 ## [33. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -738,7 +738,7 @@
 
 ### Markdown / Third-party APIs
 
-*   [3bmd (⭐73)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
+*   [3bmd (⭐74)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT](https://opensource.org/licenses/MIT).
 
 ## [38. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -784,7 +784,7 @@
 
 ### Notifications / Runner
 
-*   [iziToast (⭐2.4k)](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
+*   [iziToast (⭐2.5k)](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 
 ## [41. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -796,7 +796,7 @@
 
 ### Animation
 
-*   [ChainPageCollectionView (⭐776)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
+*   [ChainPageCollectionView (⭐775)](https://github.com/jindulys/ChainPageCollectionView) - Fancy two-level collection view layout and animation.
 *   [Gemini (⭐3k)](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework.
 
 ### Network / Barcode
@@ -842,7 +842,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-jalaali-datepicker (⭐14)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
+*   [vue-jalaali-datepicker (⭐13)](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 
 ## [48. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

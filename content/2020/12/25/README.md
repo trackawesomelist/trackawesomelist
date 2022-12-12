@@ -11,7 +11,7 @@
 ### ASM / Boilerplates and libraries
 
 *   [gb-boilerplate (⭐50)](https://github.com/ISSOtm/gb-boilerplate) - A template for starting Game Boy projects, providing a Makefile for infrastructure.
-*   [gb-starter-kit (⭐33)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
+*   [gb-starter-kit (⭐34)](https://github.com/ISSOtm/gb-starter-kit) - An expansion on the above, including base library code as well to get started faster.
 
 ## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Notification
 
-*   [react-hot-toast (⭐6k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default.
+*   [react-hot-toast (⭐6.2k)](https://github.com/timolins/react-hot-toast) - [demo](https://react-hot-toast.com/) - Smoking 🔥hot🔥 Notifications for React. Lightweight, customizable and beautiful by default.
 
 ## [6. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

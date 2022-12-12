@@ -10,7 +10,7 @@
 
 ### Templates / React
 
-*   [vite-template-react (⭐33)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
+*   [vite-template-react (⭐35)](https://github.com/SafdarJamal/vite-template-react) - A Create React App-like template.
 
 ## [2. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
@@ -94,15 +94,15 @@
 
 ### Computer Science
 
-*   [Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
-    *   [Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
+*   [Machine Learning (⭐57k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+    *   [Tutorials (⭐13k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
     *   [ML with Ruby (⭐1.8k)](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-    *   [Core ML Models (⭐5.5k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-    *   [H2O (⭐329)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
-    *   [Software Engineering for Machine Learning (⭐997)](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
-    *   [AI in Finance (⭐1.5k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
-    *   [JAX (⭐756)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
-    *   [XAI (⭐52)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
+    *   [Core ML Models (⭐5.6k)](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
+    *   [H2O (⭐337)](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
+    *   [Software Engineering for Machine Learning (⭐1k)](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
+    *   [AI in Finance (⭐1.6k)](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+    *   [JAX (⭐804)](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
+    *   [XAI (⭐54)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 
 ## [8. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 

@@ -74,8 +74,8 @@
 
 ### Recipes
 
-*   [Symfony Recipes (⭐846)](https://github.com/symfony/recipes) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
-*   [Symfony Recipes (Contrib) (⭐466)](https://github.com/symfony/recipes-contrib) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+*   [Symfony Recipes (⭐858)](https://github.com/symfony/recipes) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+*   [Symfony Recipes (Contrib) (⭐470)](https://github.com/symfony/recipes-contrib) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 

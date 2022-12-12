@@ -16,7 +16,7 @@
 
 ### Source Generator
 
-*   [C# Algorithms, Data Structures (⭐5.1k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+*   [C# Algorithms, Data Structures (⭐5.2k)](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 
 ## [3. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Database
 
-*   [LMDB++ (⭐257)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
+*   [LMDB++ (⭐263)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
 ## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

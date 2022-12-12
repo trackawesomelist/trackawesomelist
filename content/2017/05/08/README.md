@@ -16,8 +16,8 @@
 
 ### C bindings
 
-*   [crt.cr (⭐29)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
-*   [duktape.cr (⭐132)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.4k)](https://github.com/svaarala/duktape) javascript engine
+*   [crt.cr (⭐30)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+*   [duktape.cr (⭐134)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.4k)](https://github.com/svaarala/duktape) javascript engine
 *   [gphoto2.cr (⭐14)](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
 *   [libnotify.cr (⭐25)](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
 *   [pcap.cr (⭐22)](https://github.com/maiha/pcap.cr) - Bindings for libpcap
@@ -28,7 +28,7 @@
 
 ### Processes and Threads
 
-*   [neph (⭐194)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
+*   [neph (⭐195)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -71,7 +71,7 @@
 ### Framework Components
 
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
-*   [react\_phoenix (⭐482)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
+*   [react\_phoenix (⭐484)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 
 ### Games
 
@@ -83,11 +83,11 @@
 
 ### Protocols
 
-*   [Sippet (⭐61)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
+*   [Sippet (⭐62)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
 
 ### Static Page Generation
 
-*   [serum (⭐289)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
+*   [serum (⭐291)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

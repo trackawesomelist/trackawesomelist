@@ -158,7 +158,7 @@ Language: English
 
 ### Debugging / SRAM
 
-*   [esp32-backtrace (⭐16)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
+*   [esp32-backtrace (⭐17)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
 ## [11. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
@@ -196,20 +196,20 @@ Language: English
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb-typescript (⭐855)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
+*   [Airbnb-typescript (⭐874)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
 
 ### Configs / Other Prominent Configs (100 stars or so)
 
-*   [Canonical (⭐318)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐17)](https://github.com/gajus/canonical).
+*   [Canonical (⭐320)](https://github.com/gajus/eslint-config-canonical) - Shareable config for [Canonical style guide (⭐17)](https://github.com/gajus/canonical).
 *   [Standard (⭐2.4k)](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style (⭐28k)](https://github.com/feross/standard).
-*   [XO (⭐237)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐6.9k)](https://github.com/xojs/xo).
+*   [XO (⭐238)](https://github.com/xojs/eslint-config-xo) - Shareable config for [XO (⭐7k)](https://github.com/xojs/xo).
 
 ### Configs / Other Configs
 
-*   [Ash-Nazg (⭐5)](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
+*   [Ash-Nazg (⭐6)](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
 *   [Cecilia (⭐5)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
-*   [ES (⭐27)](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
-*   [Hardcore (⭐193)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
+*   [ES (⭐28)](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
+*   [Hardcore (⭐213)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
 *   [Problems (⭐60)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 *   [Supermind (⭐4)](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
 

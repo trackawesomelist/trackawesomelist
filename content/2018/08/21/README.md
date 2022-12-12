@@ -21,11 +21,11 @@
 
 ### Processes and Threads
 
-*   [promise (⭐35)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
+*   [promise (⭐37)](https://github.com/spider-gazelle/promise) - A Promise implementation with type inference
 
 ### Scheduling
 
-*   [tasker (⭐44)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
+*   [tasker (⭐45)](https://github.com/spider-gazelle/tasker) - A high precision scheduler including timezone aware cron jobs
 
 ### Shell plugins
 
@@ -53,13 +53,13 @@
 
 ### Dev Tools / Tutorials
 
-*   [Craft 3 Multi-environment (⭐73)](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version (⭐83)](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
+*   [Craft 3 Multi-environment (⭐72)](https://github.com/nystudio107/craft3-multi-environment) - [Craft 2 Version (⭐83)](https://github.com/nystudio107/craft-multi-environment) - Efficient and flexible multi-environment config for Craft CMS.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
-*   [ATGMediaBrowser (⭐197)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
+*   [ATGMediaBrowser (⭐199)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

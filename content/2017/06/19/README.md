@@ -38,7 +38,7 @@
 
 ### Date
 
-*   [Datify (⭐45)](https://github.com/hemangshah/Datify) - Easypeasy date functions.
+*   [Datify (⭐44)](https://github.com/hemangshah/Datify) - Easypeasy date functions.
 
 ### Auto Layout / Barcode
 
@@ -46,7 +46,7 @@
 
 ### Logging / Barcode
 
-*   [Printer (⭐64)](https://github.com/hemangshah/printer) - A fancy logger for your next app.
+*   [Printer (⭐66)](https://github.com/hemangshah/printer) - A fancy logger for your next app.
 
 ### Button / Barcode
 
@@ -54,7 +54,7 @@
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐116)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐115)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

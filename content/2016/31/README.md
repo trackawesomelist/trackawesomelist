@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 01 - Aug 07, 2016
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -73,7 +73,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Simple Bayes (⭐383)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [Simple Bayes (⭐384)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Elixir / Natural Language Processing
 
@@ -121,7 +121,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Developer
 
-*   [Github (⭐2.7k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
+*   [Github (⭐2.8k)](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 *   [npms (⭐350)](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 
 ## [17. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
@@ -133,7 +133,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### Files / Runner
 
-*   [jsPDF (⭐25k)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
+*   [jsPDF (⭐26k)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 
 ### Boilerplates / Other
 
@@ -329,7 +329,17 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems.
 
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [32. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Elixir / Non-X86
+
+*   [Elixir School](https://elixirschool.com) (HTML)
+
+### IoT / Bootstrap
+
+*   [IoT in five days- V1.1 (⭐148)](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
+
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Third Party APIs
 
@@ -339,7 +349,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [vscode-elixir (⭐4)](https://github.com/mat-mcloughlin/vscode-elixir) - Elixir Support for Visual Studio Code.
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Tab / Barcode
 
@@ -348,13 +358,13 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### TextField / Barcode
 
-*   [PasswordTextField (⭐298)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
+*   [PasswordTextField (⭐300)](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
 
 ### Transition / Barcode
 
 *   [RevealingSplashView (⭐1.2k)](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
 
-## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [35. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -368,7 +378,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 *   [HijriDatePicker (⭐129)](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 
-## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Data Generators
 

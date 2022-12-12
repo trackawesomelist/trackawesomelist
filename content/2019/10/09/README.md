@@ -56,7 +56,7 @@
 
 ### Math
 
-*   [CAI NEURAL API (⭐257)](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
+*   [CAI NEURAL API (⭐256)](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

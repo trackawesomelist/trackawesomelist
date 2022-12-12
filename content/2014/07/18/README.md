@@ -63,7 +63,7 @@
 
 ### Logging
 
-*   [Serilog (⭐5.8k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
+*   [Serilog (⭐5.9k)](https://github.com/serilog/serilog) - A no-nonsense logging library for the NoSQL era. Combines the best of traditional and structured diagnostic logging in an easy-to-use package.
 
 ## [6. Awesome Coldfusion](/content/seancoyne/awesome-coldfusion/README.md)
 

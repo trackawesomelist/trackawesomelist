@@ -11,7 +11,7 @@
 ### Cross-platform development
 
 *   [universal\_io (⭐2)](https://github.com/terrier989/universal_io) - *dart:io* that also works in the browser.
-*   [universal\_html (⭐137)](https://github.com/terrier989/universal_html) - *dart:html* that also works in the VM/Flutter.
+*   [universal\_html (⭐138)](https://github.com/terrier989/universal_html) - *dart:html* that also works in the VM/Flutter.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -22,14 +22,14 @@
 ### Julia / Natural Language Processing
 
 *   [Word Tokenizers (⭐85)](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
-*   [Corpus Loaders (⭐31)](https://github.com/JuliaText/CorpusLoaders.jl) - A julia package providing a variety of loaders for various NLP corpora.
+*   [Corpus Loaders (⭐31)](https://github.com/JuliaText/CorpusLoaders.jl) - A Julia package providing a variety of loaders for various NLP corpora.
 *   [Embeddings (⭐66)](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
 *   [Languages (⭐47)](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
 *   [WordNet (⭐31)](https://github.com/JuliaText/WordNet.jl) - A Julia package for Princeton's WordNet
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DataDeps (⭐121)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
+*   [DataDeps (⭐125)](https://github.com/oxinabox/DataDeps.jl) - Reproducible data setup for reproducible science.
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Libraries / Machine Learning
 
-*   [chainer-chemistry (⭐542)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
+*   [chainer-chemistry (⭐547)](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

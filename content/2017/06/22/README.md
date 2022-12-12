@@ -16,7 +16,7 @@
 
 ### Plugins / Misc
 
-*   [Notice (⭐21)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
+*   [Notice (⭐22)](https://github.com/nickdeis/eslint-plugin-notice) - An eslint rule that checks the top of files and fixes them too!
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -50,13 +50,13 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollactive (⭐532)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
+*   [vue-scrollactive (⭐534)](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Analytics
 
-*   [Umbrella (⭐595)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
+*   [Umbrella (⭐599)](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### XML
 
@@ -64,7 +64,7 @@
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐810)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐813)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Text / Barcode
 
@@ -80,7 +80,7 @@
 
 ### TextField / Barcode
 
-*   [CBPinEntryView (⭐185)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
+*   [CBPinEntryView (⭐183)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 
 ## [8. Awesome Math](/content/rossant/awesome-math/README.md)
 

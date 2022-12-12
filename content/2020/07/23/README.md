@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -45,7 +45,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [LoopBack 4 (⭐4.3k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
+*   :octocat: [LoopBack 4 (⭐4.4k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
 
 ## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -71,48 +71,54 @@
 
 *   [r/fishshell](https://www.reddit.com/r/fishshell)
 
-## [10. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
-
-### IR Tools Collection / Memory Analysis Tools
-
-*   [AVML (⭐571)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
-
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Individual components / Datagrids / tables
-
-*   [Grid.Blazor (⭐566)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
-
-## [12. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [10. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Asset Management
 
-*   :strawberry: [AssetMix plugin (⭐27)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   :strawberry: [AssetMix plugin (⭐26)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
-### Debugging
+## [11. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
-*   :strawberry: [Sentry plugin (⭐35)](https://github.com/Connehito/cake-sentry) A plugin to seamlessly integrate Sentry with CakePHP for errors and exceptions.
+### IR Tools Collection / Memory Analysis Tools
 
-## [13. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+*   [AVML (⭐577)](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
+
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Individual components / Datagrids / tables
+
+*   [Grid.Blazor (⭐585)](https://github.com/gustavnavar/Grid.Blazor) - ![stars](https://img.shields.io/github/stars/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gustavnavar/Grid.Blazor?style=flat-square\&cacheSeconds=86400) Grid component with CRUD forms for Blazor and ASP.NET MVC, supporting filtering, sorting, searching, paging, subgrids and others ([Demo](http://gridblazor.azurewebsites.net)).
+
+## [13. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+
+### Demos / Content creation
+
+*   [Generate a quiz on any topic and evaluate students answers](https://twitter.com/Learn_Awesome/status/1286189729826738176)
+
+### Articles / Other
+
+*   [Longevity, and resets.](https://minutes.substack.com/p/longevity-and-resets)
+
+## [14. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Visualization / Map
 
 *   [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
-*   [geemap (⭐2.3k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
+*   [geemap (⭐2.4k)](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
 *   [Rectangle](https://rectangleapp.com) - Window management app based on Spectacle, written in Swift. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rxhanson/Rectangle) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [15. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+## [16. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Softwares / Libraries
 
-*   [CraftLib (⭐55)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
-*   [MCProtocolLib (⭐608)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
-*   [node-minecraft-protocol (⭐971)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
+*   [CraftLib (⭐57)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
+*   [MCProtocolLib (⭐619)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
+*   [node-minecraft-protocol (⭐1k)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
 
 ---
 

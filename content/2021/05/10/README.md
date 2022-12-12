@@ -18,8 +18,8 @@
 
 ### Tools
 
-*   💼 [Tailwind CSS Figma Kit (⭐707)](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
-*   💼 [Tailwind CSS Figma Plugin (⭐252)](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
+*   💼 [Tailwind CSS Figma Kit (⭐710)](https://github.com/ecklf/tailwindcss-figma-kit) - Figma Kit for Tailwind CSS.
+*   💼 [Tailwind CSS Figma Plugin (⭐253)](https://github.com/ecklf/tailwindcss-figma-plugin) - Figma plugin that integrates Tailwind CSS.
 
 ### Starters & Themes
 
@@ -29,15 +29,11 @@
 
 ### Software / Document Management
 
-*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐108)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
-
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [linx-server (⭐147)](https://github.com/ZizzyDizzyMC/linx-server) - Simple file sharing and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://put.icu/)) `GPL-3.0` `Go`
+*   [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐114)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 
 ### Software / Password Managers
 
-*   [Vaultwarden (⭐19k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`
+*   [Vaultwarden (⭐20k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`
 
 ## [4. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -49,7 +45,7 @@
 
 ### Open Source / Casual
 
-*   [Color Mixer (⭐11)](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
+*   [Color Mixer (⭐12)](https://github.com/androideen/color_mixer_flame) - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
 
 ### Open Source / Platformer
 
@@ -75,14 +71,14 @@
 
 ### Links / Resources
 
-*   [Awesome Kotlin Jobs (⭐15)](https://github.com/vinigmoraes/awesome-kotlin-jobs) - A curated list of companies using Kotlin
+*   [Awesome Kotlin Jobs (⭐16)](https://github.com/vinigmoraes/awesome-kotlin-jobs) - A curated list of companies using Kotlin
 
 ## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Middleware
 
-*   [Eclipse Zenoh (⭐555)](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh>)
-*   [Eclipse Zenoh-Plugin-DDS (⭐74)](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds>)
+*   [Eclipse Zenoh (⭐609)](https://github.com/eclipse-zenoh/zenoh) - [Zenoh](https://zenoh.io) is a scalable and extremely performant protocol that can be used transparently used to interact with [ROS2 applications](https://zenoh.io/blog/2021-04-28-ros2-integration/) as well as for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/). (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh>)
+*   [Eclipse Zenoh-Plugin-DDS (⭐82)](https://github.com/eclipse-zenoh/zenoh-plugin-dds) - This is a [zenoh](https://zenoh.io) plugin that allows to transparently route ROS2/DDS data over zenoh. This is commonly used for [R2X communication](https://zenoh.io/blog/2021-03-23-discovery/) over Wireless network or across the Internet. (<https://img.shields.io/github/stars/eclipse-zenoh/zenoh-plugin-dds>)
 
 ## [9. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 

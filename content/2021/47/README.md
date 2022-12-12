@@ -115,7 +115,7 @@
 
 ### Compressing
 
-*   **[Genozip (⭐97)](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
+*   **[Genozip (⭐99)](https://github.com/divonlan/genozip)** - A compressor of common genomic file formats (BAM, CRAM, FASTQ, VCF etc). \[ [web](https://genozip.com/?utm_source=Awesome-Bioinformatics) | [paper-2021](https://www.researchgate.net/publication/349347156_Genozip_-_A_Universal_Extensible_Genomic_Data_Compressor) ]
 
 ## [10. Awesome Directus](/content/directus-community/awesome-directus/week/README.md)
 
@@ -139,7 +139,7 @@
 
 ### Vue / Loaders
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐9)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [vite-plugin-vue2-svg (⭐10)](https://github.com/pakholeung37/vite-plugin-vue2-svg) - Load SVG files as Vue components.
 
 ## [13. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -162,7 +162,7 @@
 
 ### Vendor Data Resources / Urban Observation
 
-*   [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occuring in the built environment affordably and quickly.
+*   [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occurring in the built environment affordably and quickly.
 *   [StreetSimplified](https://www.streetsimplified.com/) - Deploys temporary cameras utilizing computer vision to examine various transportation behaviors such as speeding, crossing rule compliance, and red-light running.
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms
@@ -173,7 +173,17 @@
 
 *   [Streetsblog](https://www.streetsblog.org/) - Blog for news related to walking, biking, and transit.
 
-## [16. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
+## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### CMS
+
+*   [Umbraco9 & Blazor WASM Starter Site (⭐32)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
+
+### Hybrid
+
+*   [BlazorInAngularDemo (⭐20)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
+
+## [17. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
 ### Tools / Java
 
@@ -183,36 +193,17 @@
 
 *   [Moon Cloud](https://aerokube.com/moon-cloud/) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Window Management
 
 *   [rcmd](https://lowtechguys.com/rcmd/) - Use the <kbd>⌘ Right Command</kbd> key to switch applications based on their name. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/rcmd-app-switcher/id1596283165)
 
-## [18. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [19. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [ajeetdsouza/zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
-
-## [19. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### CMS
-
-*   [Umbraco9 & Blazor WASM Starter Site (⭐31)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) - ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400) A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts.
-
-### Hybrid
-
-*   [BlazorInAngularDemo (⭐19)](https://github.com/Xenoage/BlazorInAngularDemo) - ![last commit](https://img.shields.io/github/last-commit/Xenoage/BlazorInAngularDemo?style=flat-square\&cacheSeconds=86400) Demonstrates how an existing Angular app can be migrated to Blazor gradually by integrating Blazor components, including calling Angular service methods. [Demo](https://xenoage.github.io/BlazorInAngularDemo/).
-
-### Videos / Others
-
-*   [Learn Live - Build a web app with Blazor](https://www.youtube.com/watch?v=GoRueoEv8NI) - ![duration](https://img.shields.io/badge/Duration:%20-92%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 22, 2021 - Learn how to set up your development environment and build your first web app with Blazor, Visual Studio Code, and C#.
-*   [Web Wednesday: Recapping .NET Conf with Jon Galloway](https://www.youtube.com/watch?v=hP2ZjtXpWyk) - ![duration](https://img.shields.io/badge/Duration:%20-77%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 17, 2021 - .NET Conf is a wrap, but all the goodness revealed during the conference is just getting started. Between Minimal APIs, performance improvements, and enhancements to some of your favorite features there's a lot to talk about. Jon Galloway joins us this week to cover some of the big updates, talk about his favorites, and how to start using some of the cool new toys today.
-
-### Articles / Others
-
-*   [Umbraco 9 & Blazor WebAssembly Starterkit on GitHub](https://cornehoskam.com/posts/umbraco-9-blazor-webassembly-starterkit-on-github) - November 24, 2021 - A simple starter site for Umbraco v9, making use of Blazor WebAssembly with Tailwind CSS/UI. A project that I use to play around and experiment with Umbraco 9, Blazor WebAssembly, TailwindCSS, the Block List Editor, and several other concepts. [Source code (⭐31)](https://github.com/cornehoskam/Umbraco9-Blazor-Starterkit) ![stars](https://img.shields.io/github/stars/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cornehoskam/Umbraco9-Blazor-Starterkit?style=flat-square\&cacheSeconds=86400).
 
 ## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -284,18 +275,18 @@
 
 ### CLI
 
-*   [oof (⭐762)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
+*   [oof (⭐771)](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output. \[MIT]
 
 ### Memory Allocation
 
-*   [rpmalloc (⭐1.6k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
-*   [snmalloc (⭐1k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
-*   [TCMalloc (⭐3.1k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
+*   [rpmalloc (⭐1.7k)](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C. \[PublicDomain]
+*   [snmalloc (⭐1.1k)](https://github.com/microsoft/snmalloc) - Message passing based high-performance allocator. \[MIT]
+*   [TCMalloc (⭐3.2k)](https://github.com/google/tcmalloc) - Google's fast, multi-threaded malloc implementation. \[Apache-2.0] [website](https://google.github.io/tcmalloc/)
 
 ### Books
 
-*   [Free C Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
-*   [Free C++ Books (⭐252k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
+*   [Free C Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c) - vhf/free-programming-books/C.
+*   [Free C++ Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#cpp) - vhf/free-programming-books/C++.
 
 ## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -336,8 +327,8 @@
 
 ### Plugins
 
-*   🎨🧬 [Themeable (⭐30)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
-*   💼🧬 [Radix (⭐867)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
+*   🎨🧬 [Themeable (⭐32)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
+*   💼🧬 [Radix (⭐1k)](https://github.com/ecklf/tailwindcss-radix) - Adds utilities and variants for styling Radix UI state.
 
 ### UI Libraries, Components & Templates
 
@@ -347,7 +338,7 @@
 
 ### Books / Misc
 
-*   [Distributed Machine Learning Patterns (⭐151)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
+*   [Distributed Machine Learning Patterns (⭐155)](https://github.com/terrytangyuan/distributed-ml-patterns)  - This book teaches you how to take machine learning models from your personal laptop to large distributed clusters. You’ll explore key concepts and patterns behind successful distributed machine learning systems, and learn technologies like TensorFlow, Kubernetes, Kubeflow, and Argo Workflows directly from a key maintainer and contributor, with real-world scenarios and hands-on projects.
 
 ## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -368,11 +359,11 @@
 
 ### Applications
 
-*   [wasmer (⭐13k)](https://github.com/wasmerio/wasmer) — A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
+*   [wasmer (⭐14k)](https://github.com/wasmerio/wasmer) — A safe and fast WebAssembly runtime supporting WASI and Emscripten [![Build Status](https://github.com/wasmerio/wasmer/workflows/build/badge.svg?style=flat-square)](https://github.com/wasmerio/wasmer/actions)
 
 ### Applications / System tools
 
-*   [sharkdp/fd (⭐25k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐26k)](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
 ### Libraries / Peripherals
 
@@ -672,7 +663,7 @@
 
 ### Resources / Examples
 
-*   [Customizable Vue video chat app (⭐3)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
+*   [Customizable Vue video chat app (⭐5)](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -698,7 +689,7 @@
 ### Algorithms / Semantic segmentation
 
 *   [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
-    *   [GitHub repository :octocat: (⭐366)](https://github.com/PRBonn/LiDAR-MOS)
+    *   [GitHub repository :octocat: (⭐388)](https://github.com/PRBonn/LiDAR-MOS)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
 
 ## [38. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
@@ -717,7 +708,7 @@
 
 ### Tools
 
-*   [Open Capture and Analytics Tool (OCAT) (⭐215)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
+*   [Open Capture and Analytics Tool (OCAT) (⭐219)](https://github.com/GPUOpen-Tools/OCAT) - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
 
 ## [41. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 

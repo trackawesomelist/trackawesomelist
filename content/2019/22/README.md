@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 03 - Jun 09, 2019
 
-67 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,7 +34,7 @@
 
 ### Development tools / Web Servers
 
-*   [Module Linker (⭐244)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
+*   [Module Linker (⭐246)](https://github.com/fiatjaf/module-linker) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
@@ -155,7 +155,7 @@
 
 ### UI / Barcode
 
-*   [BadgeHub (⭐739)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
+*   [BadgeHub (⭐747)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 *   [LoadingShimmer (⭐1.4k)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 
 ## [18. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
@@ -163,14 +163,14 @@
 ### Basic linear algebra
 
 *   [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-    (C and Assembly, BSD, [GitHub (⭐4.8k)](https://github.com/xianyi/OpenBLAS))
+    (C and Assembly, BSD, [GitHub (⭐4.9k)](https://github.com/xianyi/OpenBLAS))
 *   [BLIS (⭐1.4k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
     (C, BSD, GitHub)
 
 ### Finite Elements
 
 *   [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
-    (C++, LGPL 2.1, [GitHub (⭐1k)](https://github.com/idaholab/moose))
+    (C++, LGPL 2.1, [GitHub (⭐1.1k)](https://github.com/idaholab/moose))
 
 ## [19. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -184,32 +184,38 @@
 
 *   [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) - BDD uses human-readable descriptions of software user requirements as the basis for software tests.
 
-## [21. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Oberon / PicoLisp
+
+*   [Algorithms and Data-Structures](https://inf.ethz.ch/personal/wirth/AD.pdf) - Niklaus Wirth (PDF)
+
+## [22. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
 ### Books
 
 *   [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
 *   [Text Mining with R](https://www.tidytextmining.com)
 
-## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Ruby
 
 *   [static-GTFS-manager (⭐122)](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)).  Live demo [here](https://static-gtfs-manager.herokuapp.com/).
 
-## [23. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [GitHub Actions for Python project with poetry (⭐261)](https://github.com/abatilo/actions-poetry)
 
-## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
 *   [EntityFrameworkCore.DataEncryption (⭐208)](https://github.com/Eastrall/EntityFrameworkCore.DataEncryption) - A plugin for Microsoft.EntityFrameworkCore to add support of encrypted fields using built-in or custom encryption providers.
 
-## [25. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [26. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts / Third Party
 
@@ -219,18 +225,23 @@
 
 *   [d3-force-sampled (⭐44)](https://github.com/twosixlabs/d3-force-sampled) - Super fast, linear-time force-directed graph layouts by Random Vertex Sampling
 
-## [26. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
 
-## [27. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [28. Awesome React](/content/enaqx/awesome-react/week/README.md)
+
+### React Tools / React Awesome Components
+
+*   [react-i18next (⭐7.9k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
+*   [Awesome React Components list (⭐34k)](https://github.com/brillout/awesome-react-components)
 
 ### React General Resources
 
 *   [React Official Website](https://reactjs.org/)
-*   [React GitHub (⭐196k)](https://github.com/facebook/react)
+*   [React GitHub (⭐199k)](https://github.com/facebook/react)
 
 ### React Community
 
@@ -268,12 +279,8 @@
 ### React Tutorials / React Internals
 
 *   [Reconciliation](https://reactjs.org/docs/reconciliation.html)
-*   [React Fiber Architecture (⭐9.7k)](https://github.com/acdlite/react-fiber-architecture)
+*   [React Fiber Architecture (⭐9.8k)](https://github.com/acdlite/react-fiber-architecture)
 *   [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
-
-### React Tools / React Awesome Components
-
-*   [Awesome React Components list (⭐33k)](https://github.com/brillout/awesome-react-components)
 
 ### React Tools / React Testing
 
@@ -284,11 +291,11 @@
 
 *   [react-snap (⭐4.8k)](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 *   [Draft.js (⭐22k)](https://github.com/facebook/draft-js) - A React framework for building text editors
-*   [refract (⭐812)](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
+*   [refract (⭐810)](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components
 
 ### React Tools / React Integration
 
-*   [React Rails (⭐6.5k)](https://github.com/reactjs/react-rails)
+*   [React Rails (⭐6.6k)](https://github.com/reactjs/react-rails)
 *   [ReactJS.NET (⭐2.2k)](https://github.com/reactjs/React.NET)
 *   [Express React views (⭐2.7k)](https://github.com/reactjs/express-react-views)
 *   [React Page Middleware (⭐105)](https://github.com/reactjs/react-page-middleware)
@@ -296,7 +303,7 @@
 ### React Native General Resources / Charts
 
 *   [React Native Official Site](https://facebook.github.io/react-native/)
-*   [React Native GitHub (⭐105k)](https://github.com/facebook/react-native)
+*   [React Native GitHub (⭐106k)](https://github.com/facebook/react-native)
 *   [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 *   [React Native Playground](https://rnplay.org/)
 *   [React Native Awesome List (⭐32k)](https://github.com/jondot/awesome-react-native)
@@ -320,16 +327,16 @@
 ### React Native Sample Apps / Charts
 
 *   [HackerNews (⭐3.6k)](https://github.com/iSimar/HackerNews-React-Native)
-*   [Ziliun (⭐288)](https://github.com/sonnylazuardi/ziliun-react-native)
+*   [Ziliun (⭐287)](https://github.com/sonnylazuardi/ziliun-react-native)
 *   [FinanceReactNative (⭐2k)](https://github.com/7kfpun/FinanceReactNative)
 *   [SplashWalls (⭐76)](https://github.com/nashvail/SplashWalls)
-*   [NBAreact (⭐109)](https://github.com/jbkuczma/NBAreact)
+*   [NBAreact (⭐108)](https://github.com/jbkuczma/NBAreact)
 
 ### React Native Awesome Components / Charts
 
 *   [Expo](https://expo.io/) - The Expo platform for making cross-platform mobile apps
 *   [react-navigation](https://reactnavigation.org/) - Routing and navigation for your React Native apps
-*   [react-native-picker-modal-view (⭐193)](https://github.com/pankod/react-native-picker-modal-view)
+*   [react-native-picker-modal-view (⭐196)](https://github.com/pankod/react-native-picker-modal-view)
 
 ### Redux General Resources / Charts
 
@@ -380,42 +387,42 @@
 *   [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 *   [React Conferences](https://reactjs.org/community/conferences.html)
 *   [React Videos](https://reactjs.org/community/videos.html)
-*   [Awesome React Talks (⭐687)](https://github.com/tiaanduplessis/awesome-react-talks)
+*   [Awesome React Talks (⭐688)](https://github.com/tiaanduplessis/awesome-react-talks)
 
 ### Video Tutorials / Charts
 
-*   [hackernews-react-graphql (⭐4.3k)](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
+*   [hackernews-react-graphql (⭐4.4k)](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
 
-## [28. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [29. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Documentation / Opcodes
 
 *   [gb-opcodes](https://gbdev.github.io/gb-opcodes/optables/) - Opcodes table
 
-## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Motrix (⭐34k)](https://github.com/agalwood/Motrix) - Download manager.
+*   [Motrix (⭐35k)](https://github.com/agalwood/Motrix) - Download manager.
 
-## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Job queues
 
 *   [sqs-consumer (⭐1.4k)](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 
-## [31. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [32. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Profiler and Optimization
 
-*   [rbspy (⭐2.3k)](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
+*   [rbspy (⭐2.4k)](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
 
-## [32. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [33. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
-*   [Scala (⭐8.5k)](https://github.com/lauris/awesome-scala#readme)
-    *   [Scala Native (⭐219)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
+*   [Scala (⭐8.6k)](https://github.com/lauris/awesome-scala#readme)
+    *   [Scala Native (⭐222)](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 
 ### Computer Science
 
@@ -423,15 +430,15 @@
 
 ### Miscellaneous
 
-*   [CSV (⭐452)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+*   [CSV (⭐463)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 
-## [33. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [34. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Publishing
 
 *   [release-it (⭐5.7k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
-## [34. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Web Components
 
@@ -445,19 +452,19 @@
 
 *   [ember-dynamic-render-template (⭐14)](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
 
-## [35. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Analytics / Navigation Demos
 
 *   [react-native-flurry-sdk ★15 (⭐40)](https://github.com/flurry/react-native-flurry-sdk) - Official React Native wrapper for Flurry SDK. Supports Android, iOS and tvOS.
 
-## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [37. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
 *   [Keycloak Essentials](https://medium.com/keycloak/keycloak-essentials-86254b2f1872)
 
-## [37. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [38. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Free Content
 
@@ -470,13 +477,13 @@
 *   [Awesome Gradient Boosting Papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
 *   [Awesome Fraud Detection Papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 
-## [38. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [39. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Articles
 
 *   [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
 
-## [39. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [40. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Algorithms and AI
 
@@ -488,48 +495,48 @@
 
 ### Resources / Services
 
-*   [steamworks4j (⭐388)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
+*   [steamworks4j (⭐400)](https://github.com/code-disaster/steamworks4j) - A thin wrapper which allows Java applications to access the Steamworks C++ API.
 
 ### Resources / User Interface
 
-*   [gdx-dialogs (⭐75)](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
-*   [InGameConsole (⭐122)](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
+*   [gdx-dialogs (⭐76)](https://github.com/TomGrill/gdx-dialogs) - Provides cross-platform support for native dialogs.
+*   [InGameConsole (⭐123)](https://github.com/StrongJoshua/libGDX-inGameConsole) - Allows a developer to add a console (similar to how it is featured in Source games) to their game.
 
 ### Resources / Visual Effects
 
-*   [Box2DLights (⭐237)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
-*   [Particle Park (⭐46)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
+*   [Box2DLights (⭐238)](https://github.com/libgdx/box2dlights) - 2D lighting framework that uses Box2D for raycasting and OpenGL ES 2.0 for rendering.
+*   [Particle Park (⭐48)](https://github.com/raeleus/Particle-Park) - A showcase of downloadable particle effects with live previews.
 
 ### Resources / Others
 
 *   [gdxGifRecorder (⭐38)](https://github.com/Anuken/GDXGifRecorder) - A utility class that records a GIF and saves it automatically.
-*   [noise4j (⭐86)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
+*   [noise4j (⭐85)](https://github.com/czyzby/noise4j) - Simple map generators based on various procedural content generation tutorials.
 
-## [40. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [41. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
 *   ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
 
-## [41. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [42. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Tools
 
 *   [Gitpod](https://gitpod.io) Code review pull requests in a full IDE within your browser.
 
-## [42. Tools](/content/lvwzhen/tools/week/README.md)
+## [43. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Response
 
 *   [Polypane](http://polypane.rocks)
 
-## [43. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [44. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Servers
 
-*   [DecSync CC](https://f-droid.org/packages/org.decsync.cc/) - Serverless contacts, calendar synchronization using your own file syncing method i.e Syncthing, Nextcloud etc. ([Source Code (⭐182)](https://github.com/39aldo39/DecSyncCC)) `GPL-3.0` `Kotlin`
+*   [DecSync CC](https://f-droid.org/packages/org.decsync.cc/) - Serverless contacts, calendar synchronization using your own file syncing method i.e Syncthing, Nextcloud etc. ([Source Code (⭐188)](https://github.com/39aldo39/DecSyncCC)) `GPL-3.0` `Kotlin`
 
-## [44. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization / Graph Based approach
 
@@ -537,19 +544,19 @@
 *   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
 *   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
 
-## [45. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [46. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Typography / Storyboard
 
 *   [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - Typography Terms Cheat Sheet.
 
-## [46. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [47. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
 *   :computer: [Should You Learn TypeScript? (Benefits & Resources)](https://snipcart.com/blog/learn-typescript-why-use-ts)
 
-## [47. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [48. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -563,13 +570,13 @@
 
 *   [Matrix (⭐895)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
-## [48. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [49. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Scroll / Other
 
 *   [simpleParallax (⭐1.5k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
-## [49. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
+## [50. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/week/README.md)
 
 ### Games
 
@@ -586,11 +593,11 @@
 *   [awesome snowkit (⭐123)](https://github.com/anissen/awesome-snowkit)
 *   [awesome haxe js (⭐26)](https://github.com/MatthijsKamstra/awesome-haxe-js)
 
-## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [51. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Command Line Tools
 
-*   [dark-mode (⭐627)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [dark-mode (⭐631)](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Taskbook (⭐8.6k)](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/klaussinani/taskbook) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Design and Product / Other Tools
@@ -609,7 +616,7 @@
 
 *   [Manta](https://getmanta.app/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/hql287/Manta) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [51. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [52. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
@@ -631,24 +638,18 @@
 
 *   [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick \*\*\*.
 
-## [52. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [53. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / IoT SDK
 
 *   [Repo for C :fire::fire::fire: (⭐856)](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 
-## [53. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
-
-### i18n / Mouse Events
-
-*   [react-i18next (⭐7.8k)](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
-*   [react-intl (⭐13k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
-*   [react-translate-maker (⭐34)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
+## [54. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Editable data grid / spreadsheet
 
 *   [gigatables-react (⭐131)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐5.6k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [react-data-grid (⭐5.7k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Table
 
@@ -657,9 +658,9 @@
 ### UI / Lazy Load
 
 *   [react-lazyload (⭐5.6k)](https://github.com/jasonslyvia/react-lazyload) - Lazyload your Component, Image or anything matters the performance.
-*   [react-infinite-grid (⭐202)](https://github.com/ggordan/react-infinite-grid) - A React component which renders a grid of elements.
+*   [react-infinite-grid (⭐203)](https://github.com/ggordan/react-infinite-grid) - A React component which renders a grid of elements.
 *   [react-infinite (⭐2.7k)](https://github.com/seatgeek/react-infinite) - A browser-ready efficient scrolling container based on UITableView.
-*   [react-lazy-load (⭐906)](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
+*   [react-lazy-load (⭐914)](https://github.com/loktar00/react-lazy-load) - React component that renders children elements when they enter the viewport.
 *   [react-virtualized (⭐24k)](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 
 ### Infinite Scroll
@@ -668,13 +669,13 @@
 
 ### Overlay
 
-*   [react-aria-modal (⭐973)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
+*   [react-aria-modal (⭐975)](https://github.com/davidtheclark/react-aria-modal) - A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices.
 *   [react-modal (⭐7.1k)](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
 *   [react-skylight (⭐569)](https://github.com/marcio/react-skylight) - A react component for modals and dialogs.
 
 ### Notification
 
-*   🚀 [react-toastify (⭐9.9k)](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
+*   🚀 [react-toastify (⭐10k)](https://github.com/fkhadra/react-toastify) - [demo](https://fkhadra.github.io/react-toastify/) - best bet out there at the moment. Hooks support. No refs.
 *   [reapop (⭐1.3k)](https://github.com/LouisBarranqueiro/reapop) - A React & Redux notifications system.
 
 ### Tooltip
@@ -684,7 +685,7 @@
 ### Menu
 
 *   [react-burger-menu (⭐4.8k)](https://github.com/negomi/react-burger-menu) - An off-canvas sidebar with effects and styles.
-*   [react-offcanvas (⭐37)](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
+*   [react-offcanvas (⭐38)](https://github.com/vutran/react-offcanvas) - Off-canvas menus for React.
 
 ### Sticky
 
@@ -695,11 +696,11 @@
 ### Tabs
 
 *   [react-tabs (⭐2.8k)](https://github.com/reactjs/react-tabs) - React tabs component.
-*   [react-tabtab (⭐384)](https://github.com/ctxhou/react-tabtab) - React, tabs.
+*   [react-tabtab (⭐382)](https://github.com/ctxhou/react-tabtab) - React, tabs.
 
 ### Loader
 
-*   [react-redux-loading-bar (⭐918)](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
+*   [react-redux-loading-bar (⭐920)](https://github.com/mironov/react-redux-loading-bar) - Simple Loading Bar for Redux and React.
 
 ### Carousel
 
@@ -709,24 +710,24 @@
 
 ### Collapse
 
-*   [react-accessible-accordion (⭐735)](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React.
+*   [react-accessible-accordion (⭐739)](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React.
 *   [react-collapse (⭐1.1k)](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion.
 
 ### Chart
 
-*   [chartify (⭐684)](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
-*   [essential js 2 charts (⭐254)](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
-*   [react-chartist (⭐519)](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
+*   [chartify (⭐683)](https://github.com/kirillstepkin/chartify) - React.js plugin for building animated draggable and customizable charts.
+*   [essential js 2 charts (⭐265)](https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts) - Beautiful and interactive charts & graphs for react.
+*   [react-chartist (⭐523)](https://github.com/fraserxu/react-chartist) - React component for Chartist.js.
 *   [react-d3-components (⭐1.6k)](https://github.com/codesuki/react-d3-components) - D3 Components for React.
 *   [react-dazzle (⭐1.4k)](https://github.com/Raathigesh/Dazzle) - Dashboards made easy in React JS.
 *   [react-google-charts (⭐1.3k)](https://github.com/RakanNimer/react-google-charts) - React-google-charts React component.
 *   [react-highcharts (⭐1.2k)](https://github.com/kirjs/react-highcharts) - React-highcharts.
-*   [react-sigmajs (⭐242)](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
+*   [react-sigmajs (⭐243)](https://github.com/dunnock/react-sigma) - Lightweight but powerful library for drawing network graphs built on top of SigmaJS.
 *   [react-sparklines (⭐2.8k)](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component.
-*   [react-timeseries-charts (⭐799)](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
+*   [react-timeseries-charts (⭐801)](https://github.com/esnet/react-timeseries-charts) - Declarative timeseries charts.
 *   [react-vis (⭐8.4k)](https://github.com/uber/react-vis) - Data visualization library based on React and d3.
 *   [recharts (⭐19k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
-*   [rumble-charts (⭐335)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
+*   [rumble-charts (⭐337)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 *   [victory (⭐10k)](https://github.com/FormidableLabs/victory) - Data viz for React.
 
 ### Tree
@@ -741,7 +742,7 @@
 ### Audio / Video
 
 *   [react-dailymotion (⭐14)](https://github.com/u-wave/react-dailymotion) - Dailymotion player component for React.
-*   [react-player (⭐7k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐7.1k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 *   [react-soundplayer (⭐1.5k)](https://github.com/soundblogs/react-soundplayer) - Create custom SoundCloud players with React.
 *   [react-youtube (⭐1.6k)](https://github.com/troybetz/react-youtube) - React.js powered YouTube player component.
 *   [video-react (⭐2.4k)](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
@@ -750,26 +751,26 @@
 
 *   [google-map-react (⭐5.9k)](https://github.com/istarkov/google-map-react) - Universal google map react component, allows render react components on the google map.
 *   [react-geosuggest (⭐1k)](https://github.com/ubilabs/react-geosuggest) - A React autosuggest for the Google Maps Places API.
-*   [react-leaflet (⭐4.3k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
-*   [react-map-gl (⭐6.8k)](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
+*   [react-leaflet (⭐4.4k)](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
+*   [react-map-gl (⭐6.9k)](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js and overlay API.
 *   [react-mapbox-gl (⭐1.8k)](https://github.com/alex3165/react-mapbox-gl) - A React binding of mapbox-gl-js.
 
 ### Time / Date / Age
 
 *   [react-timeago (⭐939)](https://github.com/nmn/react-timeago) - A simple time-ago component for ReactJs.
-*   [timeago-react (⭐389)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐387)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Photo / Image
 
-*   [react-compare-image (⭐240)](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
+*   [react-compare-image (⭐241)](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 *   [react-image-gallery (⭐3.2k)](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
 *   [react-image-lightbox (⭐1.2k)](https://github.com/fritz-c/react-image-lightbox) - React lightbox component.
 *   [react-intense (⭐167)](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close.
-*   [react-svg-pan-zoom (⭐639)](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
+*   [react-svg-pan-zoom (⭐640)](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 
 ### Icons
 
-*   [react-icons (⭐8.7k)](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
+*   [react-icons (⭐8.8k)](https://github.com/gorangajic/react-icons) - Svg react icons of popular icon packs using ES6 imports.
 
 ### Paginator
 
@@ -777,30 +778,30 @@
 
 ### Markdown Viewer
 
-*   [react-markdown (⭐9.4k)](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
+*   [react-markdown (⭐9.5k)](https://github.com/rexxars/react-markdown) - Render Markdown as React components.
 
 ### Miscellaneous
 
 *   [react-blur (⭐439)](https://github.com/javierbyte/react-blur) - React component for blurred backgrounds.
-*   [react-facebook (⭐737)](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
-*   [react-file-reader-input (⭐112)](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
-*   [react-filter-control (⭐32)](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
+*   [react-facebook (⭐739)](https://github.com/CherryProjects/react-facebook) - Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.
+*   [react-file-reader-input (⭐114)](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
+*   [react-filter-control (⭐33)](https://github.com/komarovalexander/react-filter-control) - The React filterbuilder component for building the filter criteria in the UI.
 *   [react-joyride (⭐5k)](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps. Now with standalone tooltips!.
-*   [react-resizable-and-movable (⭐3k)](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
-*   [react-resizable-box (⭐1.8k)](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
+*   [react-resizable-and-movable (⭐3.1k)](https://github.com/bokuweb/react-resizable-and-movable) - Resizable and movable component for React.
+*   [react-resizable-box (⭐1.9k)](https://github.com/bokuweb/react-resizable-box) - Resizable component for React. #reactjs.
 *   [react-split-pane (⭐2.9k)](https://github.com/tomkp/react-split-pane) - React split-pane component.
 *   [typography (⭐3.8k)](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful typography.
 
 ### Form Components / Date / Time picker
 
-*   [react-big-calendar (⭐6.1k)](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
+*   [react-big-calendar (⭐6.2k)](https://github.com/intljusticemission/react-big-calendar) - Gcal/outlook like calendar component.
 *   [react-date-range (⭐2.3k)](https://github.com/Adphorus/react-date-range) - A React component for choosing dates and date ranges.
 *   [react-datepicker (⭐6.9k)](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React.
 *   [react-datetime (⭐2k)](https://github.com/YouCanBookMe/react-datetime) - A lightweight but complete datetime picker react component.
 *   [react-day-picker (⭐4.7k)](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
-*   [react-flatpickr (⭐548)](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
+*   [react-flatpickr (⭐550)](https://github.com/coderhaoxin/react-flatpickr) - Flatpickr for React.
 *   [react-simple-timefield (⭐95)](https://github.com/antonfisher/react-simple-timefield) - [demo](https://antonfisher.com/react-simple-timefield/) - Simple time input field.
-*   [react-yearly-calendar (⭐551)](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
+*   [react-yearly-calendar (⭐550)](https://github.com/BelkaLab/react-yearly-calendar) - React.js Yearly Calendar Component.
 
 ### Form Components / Input Types
 
@@ -809,7 +810,7 @@
 ### Form Components / Autocomplete
 
 *   [react-autosuggest (⭐5.9k)](https://github.com/moroshko/react-autosuggest) - WAI-ARIA compliant React autosuggest component.
-*   [react-typeahead (⭐676)](https://github.com/fmoo/react-typeahead) - Pure react-based typeahead and typeahead-tokenizer.
+*   [react-typeahead (⭐677)](https://github.com/fmoo/react-typeahead) - Pure react-based typeahead and typeahead-tokenizer.
 
 ### Form Components / Select
 
@@ -820,16 +821,16 @@
 ### Form Components / Color Picker
 
 *   [coloreact (⭐82)](https://github.com/elrumordelaluz/coloreact) - A tiny Color Picker for React.
-*   [react-input-color (⭐236)](https://github.com/wangzuo/react-input-color) - React input color component with hsv color picker.
+*   [react-input-color (⭐238)](https://github.com/wangzuo/react-input-color) - React input color component with hsv color picker.
 
 ### Form Components / Toggle
 
-*   [react-ios-switch (⭐125)](https://github.com/clari/react-ios-switch) - React switch component.
-*   [react-toggle (⭐914)](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
+*   [react-ios-switch (⭐124)](https://github.com/clari/react-ios-switch) - React switch component.
+*   [react-toggle (⭐918)](https://github.com/instructure-react/react-toggle) - An elegant, accessible toggle component for React. Also a glorified checkbox.
 
 ### Form Components / Slider
 
-*   [react-slider (⭐775)](https://github.com/mpowaga/react-slider) - Slider component for React.
+*   [react-slider (⭐776)](https://github.com/mpowaga/react-slider) - Slider component for React.
 
 ### Form Components / Radio Button
 
@@ -837,7 +838,7 @@
 
 ### Form Components / Type Select
 
-*   [react-autocomplete-input (⭐142)](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React.
+*   [react-autocomplete-input (⭐144)](https://github.com/yury-dymov/react-autocomplete-input) - Autocomplete input field for React.
 *   [react-mentions (⭐1.9k)](https://github.com/effektif/react-mentions) - Mention people in a textarea.
 
 ### Form Components / Tag Input
@@ -848,25 +849,25 @@
 
 ### Form Components / Autosize Input / Textarea
 
-*   [react-input-autosize (⭐717)](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React.
-*   [react-textarea-autosize (⭐1.7k)](https://github.com/andreypopp/react-textarea-autosize) - \<textarea /> component for React which grows with content.
+*   [react-input-autosize (⭐721)](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React.
+*   [react-textarea-autosize (⭐1.8k)](https://github.com/andreypopp/react-textarea-autosize) - \<textarea /> component for React which grows with content.
 
 ### Form Components / Star Rating
 
-*   [react-star-rating-input (⭐55)](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
+*   [react-star-rating-input (⭐54)](https://github.com/ikr/react-star-rating-input) - React.js component for entering 0-5 (or more) stars.
 
 ### Form Components / Drag and Drop
 
-*   [react-beautiful-dnd (⭐28k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+*   [react-beautiful-dnd (⭐29k)](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 *   [react-dnd (⭐18k)](https://github.com/gaearon/react-dnd) - Drag and Drop for React.
-*   [react-draggable (⭐7.9k)](https://github.com/mzabriskie/react-draggable) - React draggable component.
-*   [react-dragula (⭐976)](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts.
+*   [react-draggable (⭐8k)](https://github.com/mzabriskie/react-draggable) - React draggable component.
+*   [react-dragula (⭐975)](https://github.com/bevacqua/react-dragula) - Drag and drop so simple it hurts.
 *   [react-dropzone (⭐9.3k)](https://github.com/okonet/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
-*   [react-sortable-pane (⭐612)](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
+*   [react-sortable-pane (⭐614)](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
 
 ### Form Components / Sortable List
 
-*   [react-anything-sortable (⭐455)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
+*   [react-anything-sortable (⭐456)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
 
 ### Form Components / Rich Text Editor
 
@@ -877,17 +878,17 @@
 
 ### Form Components / Markdown Editor
 
-*   [react-markdown-editor (⭐211)](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux.
+*   [react-markdown-editor (⭐212)](https://github.com/jrm2k6/react-markdown-editor) - A markdown editor using React/Reflux.
 
 ### Form Components / Image Editing
 
 *   [react-avatar-cropper](https://github.com/DropsOfSerenity/react-avatar-cropper) - Aiming to be a complete solution for avatar cropping in react.
-*   [react-avatar-editor (⭐2k)](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
-*   [react-image-crop (⭐3.2k)](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
+*   [react-avatar-editor (⭐2.1k)](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
+*   [react-image-crop (⭐3.3k)](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React.
 
 ### Form Components / Form Component Collections
 
-*   [formsy-react-components (⭐290)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
+*   [formsy-react-components (⭐289)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 *   [react-input-enhancements (⭐1.4k)](https://github.com/alexkuz/react-input-enhancements) - Set of enhancements for input control.
 
 ### Form Components / Miscellaneous
@@ -898,21 +899,21 @@
 
 *   [autoresponsive-react (⭐1.5k)](https://github.com/xudafeng/autoresponsive-react) - Auto responsive grid layout library.
 *   [react-grid-layout (⭐17k)](https://github.com/STRML/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-*   [react-reflex (⭐515)](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
+*   [react-reflex (⭐524)](https://github.com/leefsmp/Re-Flex) - Flex layout container component for advanced React web applications.
 
 ### UI Animation / Syntax Highlight
 
 *   [react-flip-move (⭐3.9k)](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
-*   [react-gsap-enhancer (⭐720)](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
+*   [react-gsap-enhancer (⭐721)](https://github.com/azazdeaz/react-gsap-enhancer) - Use the full power of React and GSAP together.
 *   [react-motion (⭐21k)](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 *   [react-router-transition (⭐2.6k)](https://github.com/maisano/react-router-transition) - Transitions built for react-router, powered by react-motion.
-*   [react-spark-scroll (⭐353)](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
+*   [react-spark-scroll (⭐354)](https://github.com/gilbox/react-spark-scroll) - Scroll-based actions and animations for react.
 *   [react-track (⭐340)](https://github.com/gilbox/react-track) - Track the position of DOM elements. Create cool animations.
-*   [react-web-animation (⭐295)](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
+*   [react-web-animation (⭐296)](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
 
 ### Parallax / Syntax Highlight
 
-*   [react-parallax-component (⭐156)](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
+*   [react-parallax-component (⭐157)](https://github.com/keske/react-parallax-component) - Easiest way to add scroll parallax effect on the component.
 
 ### Responsive / Syntax Highlight
 
@@ -927,30 +928,30 @@
 ### Component Collections / Material Design
 
 *   [dataminr-react-components (⭐264)](https://github.com/dataminr/react-components) - Collection of reusable React Components and utility functions.
-*   [shards-react (⭐738)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
+*   [shards-react (⭐741)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
 *   [aframe-react (⭐1.3k)](https://github.com/ngokevin/aframe-react) - Build virtual reality experiences with A-Frame and React.
 *   [react-admin (⭐21k)](https://github.com/marmelab/react-admin) - Build admin user experiences on top of REST and GraphQL services.
 
 ### Reporter / Visibility Reporter
 
-*   [react-visibility-sensor (⭐2.2k)](https://github.com/joshwnj/react-visibility-sensor) - Sensor component.
+*   [react-visibility-sensor (⭐2.3k)](https://github.com/joshwnj/react-visibility-sensor) - Sensor component.
 *   [react-waypoint (⭐4k)](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element.
 
 ### Reporter / Measurement Reporter
 
-*   [react-component-queries (⭐183)](https://github.com/ctrlplusb/react-component-queries) - Provide props to your Components based on their Width and/or Height.
-*   [react-container-dimensions (⭐223)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
+*   [react-component-queries (⭐182)](https://github.com/ctrlplusb/react-component-queries) - Provide props to your Components based on their Width and/or Height.
+*   [react-container-dimensions (⭐226)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
 *   [react-dimensions (⭐453)](https://github.com/digidem/react-dimensions) - React higher-order component to get dimensions of container.
-*   [react-height (⭐176)](https://github.com/nkbt/react-height) - Component-wrapper to determine and report children elements height.
+*   [react-height (⭐179)](https://github.com/nkbt/react-height) - Component-wrapper to determine and report children elements height.
 *   [react-measure (⭐1.9k)](https://github.com/souporserious/react-measure) - Compute measurements of a React component.
 *   [react-sizeme (⭐1.9k)](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height.
 
 ### Device Input / Keyboard Events
 
 *   [react-hotkeys (⭐2k)](https://github.com/chrisui/react-hotkeys) - Declarative hotkey and focus area management for React.
-*   [react-key-handler (⭐388)](https://github.com/ayrton/react-key-handler) - React component to handle keyboard events.
-*   [react-keydown (⭐503)](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components.
-*   [react-shortcuts (⭐319)](https://github.com/avocode/react-shortcuts) - Manage keyboard shortcuts from one place.
+*   [react-key-handler (⭐387)](https://github.com/ayrton/react-key-handler) - React component to handle keyboard events.
+*   [react-keydown (⭐502)](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components.
+*   [react-shortcuts (⭐320)](https://github.com/avocode/react-shortcuts) - Manage keyboard shortcuts from one place.
 
 ### Device Input / Scroll Events
 
@@ -966,7 +967,7 @@
 
 ### Meta Tags / Mouse Events
 
-*   [react-document-meta (⭐321)](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
+*   [react-document-meta (⭐320)](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
 *   [react-document-title (⭐1.9k)](https://github.com/gaearon/react-document-title) - Declarative, nested, stateful, isomorphic document.title for React.
 *   [react-helmet (⭐17k)](https://github.com/nfl/react-helmet) - A document head manager for React.
 
@@ -977,7 +978,7 @@
 
 ### Test User Behavior / Mouse Events
 
-*   [react-ab (⭐434)](https://github.com/olahol/react-ab) - Simple declarative and universal A/B testing component for React.
+*   [react-ab (⭐433)](https://github.com/olahol/react-ab) - Simple declarative and universal A/B testing component for React.
 *   [react-experiments (⭐315)](https://github.com/HubSpot/react-experiments) - React components for implementing UI experiments.
 
 ### Data Store / Mouse Events
@@ -985,7 +986,7 @@
 *   [alt (⭐3.5k)](https://github.com/goatslacker/alt) - Isomorphic flux implementation.
 *   [baobab-react (⭐309)](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
 *   [cerebral (⭐2k)](https://github.com/cerebral/cerebral) - A state controller with its own debugger.
-*   [fluorine-lib (⭐287)](https://github.com/philpl/fluorine) - Reactive state and side effect management for React using a single stream of actions.
+*   [fluorine-lib (⭐285)](https://github.com/philpl/fluorine) - Reactive state and side effect management for React using a single stream of actions.
 *   [fluxible (⭐1.8k)](https://github.com/yahoo/fluxible) - A pluggable container for universal flux applications.
 *   [fluxxor (⭐1.7k)](https://github.com/BinaryMuse/fluxxor) - Flux architecture tools for React.
 *   [kea (⭐1.9k)](https://github.com/mariusandra/kea) - High level architecture for React apps.
@@ -1009,9 +1010,9 @@
 
 ### Router / Mouse Events
 
-*   [react-breadcrumbs (⭐411)](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
+*   [react-breadcrumbs (⭐410)](https://github.com/svenanders/react-breadcrumbs) - Automatic breadcrumbs for React-Router.
 *   [react-router-component (⭐870)](https://github.com/STRML/react-router-component) - Declarative router component for React.
-*   [react-router-scroll (⭐847)](https://github.com/taion/react-router-scroll) - React Router scroll management.
+*   [react-router-scroll (⭐846)](https://github.com/taion/react-router-scroll) - React Router scroll management.
 *   [react-router (⭐49k)](https://github.com/reactjs/react-router) - A complete routing library for React.
 *   [redux-router (⭐2.3k)](https://github.com/acdlite/redux-router) - Redux bindings for React Router – keep your router state inside your Redux store.
 *   [universal-router (⭐1.6k)](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps.
@@ -1028,23 +1029,23 @@
 
 ### Communication with server / Mouse Events
 
-*   [adrenaline (⭐721)](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
+*   [adrenaline (⭐719)](https://github.com/gyzerok/adrenaline) - Simple Relay alternative.
 *   [apollo-client (⭐18k)](https://github.com/apollostack/apollo-client) - A simple caching client for any GraphQL server and UI framework.
 *   [react-relay (⭐17k)](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 
 ### CSS / Style / Mouse Events
 
 *   [aphrodite (⭐5.3k)](https://github.com/Khan/aphrodite) - It's inline styles, but they work!.
-*   [inline-style-prefixer (⭐384)](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
+*   [inline-style-prefixer (⭐385)](https://github.com/rofrischmann/inline-style-prefixer) - Run-time Autoprefixer for Inline Style Objects.
 *   [radium (⭐7.4k)](https://github.com/FormidableLabs/radium) - A set of tools to manage inline styles on React elements.
-*   [react-container-query (⭐863)](https://github.com/d6u/react-container-query) - Modular responsive component.
+*   [react-container-query (⭐862)](https://github.com/d6u/react-container-query) - Modular responsive component.
 *   [react-css-modules (⭐5.3k)](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components.
 *   [react-responsive (⭐6.4k)](https://github.com/contra/react-responsive) - Media queries in react for responsive design.
 *   [styled-components (⭐38k)](https://github.com/styled-components/styled-components) - Visual primitives for the component age.
 
 ### HTML Template / Mouse Events
 
-*   [hyperx (⭐993)](https://github.com/substack/hyperx) - Tagged template string virtual dom builder.
+*   [hyperx (⭐994)](https://github.com/substack/hyperx) - Tagged template string virtual dom builder.
 *   [jsx-control-statements (⭐1.6k)](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX.
 
 ### Isomorphic Apps / Mouse Events
@@ -1053,7 +1054,7 @@
 *   [isomorphic-relay (⭐246)](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay.
 *   [isomorphic-style-loader (⭐1.2k)](https://github.com/kriasoft/isomorphic-style-loader) - Isomorphic CSS style loader for Webpack.
 *   [react-server (⭐3.9k)](https://github.com/redfin/react-server) - React framework with server render for blazing fast page load.
-*   [rill (⭐568)](https://github.com/rill-js/rill) - Universal web application framework.
+*   [rill (⭐567)](https://github.com/rill-js/rill) - Universal web application framework.
 *   [webpack-isomorphic-tools (⭐1.3k)](https://github.com/halt-hammerzeit/webpack-isomorphic-tools) - Server-side rendering for your Webpack-built applications (e.g. React).
 
 ### Boilerplate / Mouse Events
@@ -1068,9 +1069,9 @@
 *   [react-hot-boilerplate (⭐3.9k)](https://github.com/gaearon/react-hot-boilerplate) - Minimal live-editing boilerplate for your next ReactJS project.
 *   [react-redux-universal-hot-example (⭐12k)](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
 *   [reactuate (⭐490)](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
-*   [redux-cli (⭐890)](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
-*   [relay-fullstack (⭐993)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
-*   [roc (⭐430)](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
+*   [redux-cli (⭐889)](https://github.com/SpencerCDixon/redux-cli) - An opinionated CLI for building redux/react apps quicker.
+*   [relay-fullstack (⭐992)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
+*   [roc (⭐429)](https://github.com/rocjs/roc) - Modern Application Development Ecosystem.
 *   [universal-redux (⭐462)](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 
 ### Miscellaneous / Mouse Events
@@ -1082,11 +1083,16 @@
 
 ### Utilities / Mouse Events
 
-*   [qrcode.react (⭐3.1k)](https://github.com/zpao/qrcode.react) - A \<QRCode/> component for use with React.
-*   [react-children-utilities (⭐267)](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
+*   [qrcode.react (⭐3.2k)](https://github.com/zpao/qrcode.react) - A \<QRCode/> component for use with React.
+*   [react-children-utilities (⭐269)](https://github.com/fernandopasik/react-children-utilities) - Extended utils for React.Children.
 *   [react-media (⭐2.4k)](https://github.com/ReactTraining/react-media) - A CSS media query component for React.
 *   [react-middle-ellipsis (⭐49)](https://github.com/bluepeter/react-middle-ellipsis) - [demo](https://bluepeter.github.io/react-middle-ellipsis/) - Truncate long strings in the middle instead of the end.
-*   [react-translate-component (⭐324)](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
+*   [react-translate-component (⭐323)](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
+
+### i18n / Mouse Events
+
+*   [react-intl (⭐13k)](https://github.com/yahoo/react-intl) - Internationalize React apps.
+*   [react-translate-maker (⭐34)](https://github.com/CherryProjects/react-translate-maker) - Universal internationalization (i18n) open source library for React.
 
 ### Framework bindings / integrations / Mouse Events
 
@@ -1101,14 +1107,14 @@
 *   [react-on-rails (⭐4.9k)](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails to build Universal (Isomorphic) Apps.
 *   [react-three-renderer (⭐1.5k)](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React.
 *   [reactfire (⭐3.2k)](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration.
-*   [reactive-elements (⭐699)](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component).
+*   [reactive-elements (⭐701)](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component).
 
 ### Integrations with Third Party Services / Mouse Events
 
 *   [react-ga (⭐5k)](https://github.com/react-ga/react-ga) - React Google Analytics Module.
 *   [react-google-analytics (⭐107)](https://github.com/hzdg/react-google-analytics) - Google analytics component.
-*   [react-recaptcha (⭐623)](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
-*   [react-stripe-checkout (⭐968)](https://github.com/azmenak/react-stripe-checkout) - Load stripe's checkout.js as a react component. Easiest way to use checkout with React.
+*   [react-recaptcha (⭐625)](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google.
+*   [react-stripe-checkout (⭐966)](https://github.com/azmenak/react-stripe-checkout) - Load stripe's checkout.js as a react component. Easiest way to use checkout with React.
 *   [redux-segment](https://github.com/rangle/redux-segment) - Segment.io analytics integration for redux.
 
 ### UI / Mouse Events
@@ -1119,17 +1125,17 @@
 
 ### UI / Inspect
 
-*   [react-perf-tool (⭐414)](https://github.com/RamonGebben/react-perf-tool) - Debug performance of your React application.
+*   [react-perf-tool (⭐413)](https://github.com/RamonGebben/react-perf-tool) - Debug performance of your React application.
 *   [react-render-visualizer (⭐830)](https://github.com/redsunsoft/react-render-visualizer) - Render visualizer for ReactJS.
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐899)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 *   [react-lite (⭐1.7k)](https://github.com/Lucifier129/react-lite) - An implementation of React that optimizes for small script size.
 
 ### Test / Lazy Load
 
-*   [chai-enzyme (⭐793)](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme.
+*   [chai-enzyme (⭐792)](https://github.com/producthunt/chai-enzyme) - Chai.js assertions and convenience functions for testing React Components with enzyme.
 *   [enzyme (⭐20k)](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React.
 *   [jest-cli (⭐41k)](https://github.com/facebook/jest) - Painless JavaScript Testing.
 *   [react-unit (⭐194)](https://github.com/pzavolinsky/react-unit) - Lightweight unit test library for ReactJS.
@@ -1138,8 +1144,8 @@
 
 ### Redux / Lazy Load
 
-*   [redux-devtools-chart-monitor (⭐294)](https://github.com/romseguy/redux-devtools-chart-monitor) - A chart monitor for Redux DevTools.
-*   [redux-devtools-dock-monitor (⭐403)](https://github.com/gaearon/redux-devtools-dock-monitor) - A resizable and movable dock for Redux DevTools monitors.
+*   [redux-devtools-chart-monitor (⭐293)](https://github.com/romseguy/redux-devtools-chart-monitor) - A chart monitor for Redux DevTools.
+*   [redux-devtools-dock-monitor (⭐402)](https://github.com/gaearon/redux-devtools-dock-monitor) - A resizable and movable dock for Redux DevTools monitors.
 *   [redux-devtools-filterable-log-monitor (⭐154)](https://github.com/bvaughn/redux-devtools-filterable-log-monitor) - Filterable tree view monitor for Redux DevTools.
 *   [redux-devtools-inspector (⭐240)](https://github.com/alexkuz/redux-devtools-inspector) - Another Redux DevTools Monitor.
 *   [redux-devtools-log-monitor (⭐312)](https://github.com/gaearon/redux-devtools-log-monitor) - The default monitor for Redux DevTools with a tree view.
@@ -1149,19 +1155,19 @@
 ### Inspect / Lazy Load
 
 *   [fluxguard](https://fluxguard.com) - PROD change monitoring that highlights all DOM + design changes.
-*   [react-inspector (⭐646)](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
+*   [react-inspector (⭐651)](https://github.com/xyc/react-inspector) - Power of Browser DevTools inspectors right inside your React app.
 *   [react-json-inspector (⭐291)](https://github.com/Lapple/react-json-inspector) - React JSON inspector component.
 *   [reactotron (⭐14k)](https://github.com/reactotron/reactotron) - A CLI and OS X app for inspecting your React JS and React Native apps.
 
 ### Miscellaneous / Lazy Load
 
-*   [cosmos-js (⭐7.6k)](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
+*   [cosmos-js (⭐7.7k)](https://github.com/skidding/cosmos) - DX tool for designing truly encapsulated React components.
 *   [react-heatpack (⭐351)](https://github.com/insin/react-heatpack) - A 'heatpack' command for quick React development with webpack hot reloading.
 *   [react-styleguidist (⭐11k)](https://github.com/sapegin/react-styleguidist) - React style guide generator.
 *   [standard-react (⭐28k)](https://github.com/feross/standard) - JavaScript Standard Style Guide.
 *   [html-to-react-components (⭐2.1k)](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
-*   [htmltojsx (⭐920)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!.
-*   [jsonx (⭐136)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [htmltojsx (⭐921)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!.
+*   [jsonx (⭐138)](https://github.com/repetere/jsonx) - React JSON Syntax.
 *   [mozaik (⭐3.6k)](https://github.com/plouc/mozaik) - Mozaïk is a tool based on nodejs / react / d3 / stylus to easily craft beautiful dashboards.
 *   [react-blessed (⭐4.3k)](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
 
@@ -1169,13 +1175,13 @@
 
 *   [gatsby (⭐54k)](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
 
-## [54. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [55. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Talks
 
 *   [Next-Generation 3D Graphics on the Web](https://www.youtube.com/watch?v=K2JzIUIHIhc) - Talk at Google I/O 19 from Ricardo Cabello (MrDoob).
 
-## [55. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [56. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
@@ -1185,36 +1191,36 @@
 
 *   [pedquant](http://pedquant.com/) - Public Economic Data and Quantitative Analysis
 
-## [56. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
+## [57. Awesome Msr](/content/dspinellis/awesome-msr/week/README.md)
 
 ### Data Sets
 
 *   [GitHub Bug Dataset](http://www.inf.u-szeged.hu/\~ferenc/papers/GitHubBugDataSet/) - Bug Dataset of 15 Java open-source projects characterized by static source code metrics.
 
-## [57. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
+## [58. Awesome Qsharp](/content/ebraminio/awesome-qsharp/week/README.md)
 
 ### Demos, Samples, and Additional Libraries / Participants' solutions
 
 *   [QuantumPeep (⭐34)](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript.
 
-## [58. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [59. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Command-line Interface Development
 
 *   Terminal Rendering
-    *   [alive-progress (⭐3.9k)](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, eta and very cool animations.
+    *   [alive-progress (⭐4k)](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, eta and very cool animations.
     *   [asciimatics (⭐3.2k)](https://github.com/peterbrittain/asciimatics) - A package to create full-screen text UIs (from interactive forms to ASCII animations).
     *   [bashplotlib (⭐1.7k)](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal.
     *   [colorama](https://pypi.org/project/colorama/) - Cross-platform colored terminal text.
-    *   [rich (⭐40k)](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
-    *   [tqdm (⭐23k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
+    *   [rich (⭐41k)](https://github.com/willmcgugan/rich) - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
+    *   [tqdm (⭐24k)](https://github.com/tqdm/tqdm) - Fast, extensible progress bar for loops and CLI.
 
 ### Data Visualization
 
 *   [Dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
-    *   [awesome-dash (⭐1.6k)](https://github.com/Acrotrend/awesome-dash)
+    *   [awesome-dash (⭐1.7k)](https://github.com/Acrotrend/awesome-dash)
 
-## [59. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [60. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Premium / Game Engine resources
 
@@ -1225,39 +1231,39 @@
 *   [Spacex-Go (⭐750)](https://github.com/jesusrp98/spacex-go) <!--stargazers:jesusrp98/spacex-go--> - Simple yet powerful, open-source SpaceX launch tracker. [jesusrp98](https://twitter.com/jesusrp98).
 *   [Superhero Interaction (⭐218)](https://github.com/pinkeshdarji/SuperHeroInteraction) <!--stargazers:pinkeshdarji/SuperHeroInteraction--> - Cool Superhero interaction animation by [Pinkesh Darji](https://github.com/pinkeshdarji)
 
-## [60. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [61. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [cli (⭐860)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
+*   [cli (⭐881)](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). \[Boost]
 
 ### Containers
 
-*   [robin-hood-hashing (⭐1.2k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐830)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-hood-hashing (⭐1.3k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
+*   [robin-map (⭐858)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### CSV
 
-*   [Fast C++ CSV Parser (⭐1.7k)](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. \[BSD-3-Clause]
+*   [Fast C++ CSV Parser (⭐1.8k)](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. \[BSD-3-Clause]
 
 ### JSON
 
-*   [taoJSON (⭐488)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
+*   [taoJSON (⭐496)](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. \[MIT]
 
 ### Math
 
-*   [GLM (⭐6.9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
-*   [linalg.h (⭐750)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
+*   [GLM (⭐7k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [linalg.h (⭐755)](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. \[Unlicense]
 
 ### Memory Allocation
 
-*   [C Smart Pointers (⭐1.2k)](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. \[MIT]
+*   [C Smart Pointers (⭐1.3k)](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. \[MIT]
 
 ### Networking
 
-*   [libhttpserver (⭐691)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
+*   [libhttpserver (⭐708)](https://github.com/etr/libhttpserver) - C++ library for creating an embedded Rest HTTP server (and more). \[LGPL2.1]
 
-## [61. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [62. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -1271,25 +1277,25 @@
 
 *   [*watchOS by Tutorials* by Ehab Amer, Scott Atkinson, Soheil Azarpour, Matthew Morey, Ben Morrow, Audrey Tam, Jack Wu](https://store.raywenderlich.com/products/watchos-by-tutorials)
 
-## [62. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [63. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Ecommerce
 
 *   [Aimeos](https://aimeos.org/Symfony/) - Ultra fast PHP e-commerce framework for #gigacommerce
 
-## [63. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [64. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Libraries and Frameworks / API libraries
 
 *   [EOSIO/eosjs (⭐1.4k)](https://github.com/EOSIO/eosjs) - Official JavaScript SDK.
 
-## [64. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
+## [65. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/week/README.md)
 
 ### Extensions/Libraries
 
 *   [react-hook-form (⭐31k)](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
 
-## [65. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [66. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Cheat Sheets / Randomized Algorithms
 
@@ -1298,13 +1304,13 @@
 *   [CLRS in short](https://sinon.org/algorithms//#data-structures)
 *   [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 
-## [66. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [67. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Language Support
 
 *   [Php (⭐13)](https://github.com/vert-x-cn/vertx-lang-jphp) - Php support.
 
-## [67. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [68. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### Download Managers / Free Indexers
 

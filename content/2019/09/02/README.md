@@ -72,7 +72,7 @@
 
 ### Audio
 
-*   [Verovio (⭐506)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐515)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ## [8. Awesome Json](/content/burningtree/awesome-json/README.md)
 

@@ -2,7 +2,7 @@
 
 🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/thomasbnt/awesome-web-monetization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) · ⭐ 234 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/thomasbnt/awesome-web-monetization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 thomasbnt/awesome-web-monetization](https://github.com/thomasbnt/awesome-web-monetization) · ⭐ 237 · 🏷️ Miscellaneous
 
 [ [Daily](/content/thomasbnt/awesome-web-monetization/README.md) / [Weekly](/content/thomasbnt/awesome-web-monetization/week/README.md) / Overview ]
 
@@ -56,7 +56,7 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 
 | **Wallets** |                                                                                   |                                                                                      |                                                                                                                     |                                                                                                                                                                                                                   |
 | :---------: | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     Name    | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue ! (⭐232)](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt\&labels=Wallet%2C+%E2%86%94+WM+repository\&template=new-wallet.md\&title=%5BWa%5D) |
+|     Name    | [![Uphold](https://webmonetization.org/img/uphold_logo.svg)](https://uphold.com/) | [![GateHub](https://webmonetization.org/img/gatehub_logo.svg)](https://gatehub.net/) | [![Stronghold](https://webmonetization.org/img/stronghold_logo.svg)](https://stronghold.co/real-time-payments#coil) | [New Wallet ?<br>Create a issue ! (⭐237)](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt\&labels=Wallet%2C+%E2%86%94+WM+repository\&template=new-wallet.md\&title=%5BWa%5D) |
 |     Fees    |                                        None                                       |                SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)               |                                                  $3 withdrawal fee                                                  |                                                                                                                                                                                                                   |
 
 If you are use already XRP Tipbot, [check here to migrate on Uphold](https://webmonetization.org/docs/xrptipbot).
@@ -98,7 +98,7 @@ if (document.monetization) {
 *   [monetize.js (⭐13)](https://github.com/sunchayn/monetize.js) - An event-driven library to manage and simulate Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [types-wm (⭐3)](https://github.com/dacioromero/types-wm) - TypeScript definitions for Web Monetization ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/typescript.png)
 *   [ngx-monetization (⭐8)](https://github.com/CDDelta/ngx-monetization) - Web Monetization API for Angular. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/angular.png)
-*   [react-hook-wm (⭐6)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
+*   [react-hook-wm (⭐7)](https://github.com/dacioromero/react-hook-wm) - React hooks for integrating with Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 *   [react-monetize (⭐27)](https://github.com/guidovizoso/react-monetize) - Helpers and hooks to speed up your integration with Web Monetization API. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/react.png)
 *   [ep\_monetization (⭐0)](https://github.com/ISNIT0/ep_monetization) - Plugin for applying payment pointer meta tag to Etherpad site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [wp-connect-coil](https://wordpress.org/plugins/wp-connect-coil/) - Plugin for applying Coil payment pointer meta tag to WordPress site. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/wordpress.png)
@@ -117,7 +117,7 @@ if (document.monetization) {
 *   [web-monetization-polyfill (⭐2)](https://github.com/immers-space/web-monetization-polyfill/) - Ensure the JavaScript Web Monetization API is available, even in environments with Content Security Policies enabled. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-video-ads](https://www.npmjs.com/package/web-monetization-video-ads) - Linking Web Monetization with video advertising to allow a freemium business model to be implemented for Web Monetization. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-revenue-share](https://www.npmjs.com/package/web-monetization-revenue-share) - Automated redistribution of funds to a community via smart contracts. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
-*   [awesome-jsgames (⭐287)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
+*   [awesome-jsgames (⭐300)](https://github.com/proyecto26/awesome-jsgames) - A curated list of awesome JavaScript Games ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [mediadisclosures (⭐0)](https://github.com/oofdere/mediadisclosures) - An open-source, always evolving, universal content rating system. ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [web-monetization-demo (⭐1)](https://github.com/peter279k/web-monetization-demo) - This is a Web Monetization Demo ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
 *   [money-chat (⭐2)](https://github.com/dfoderick/money-chat) - Web Monetization chat app ![](https://github.com/thomasbnt/awesome-web-monetization/raw/main/assets/small_icons/javascript.png)
@@ -191,7 +191,9 @@ If you want add a new small icon, the height must be **16px**. Put in `assets/sm
 Feel free to help [me](https://github.com/thomasbnt) for the maintenance of this project !
 Thanks to all **Sponsors on GitHub** !
 
-[![Github Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors@1.0/sponsors.svg)](https://github.com/sponsors/thomasbnt)
+[![Github Sponsors](https://cdn.jsdelivr.net/gh/thomasbnt/sponsors/sponsors.svg)](https://github.com/sponsors/thomasbnt)
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?\&style=for-the-badge\&logo=github-sponsors\&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-on%20Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=white)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?\&style=for-the-badge\&logo=github-sponsors\&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-on%20Buy%20Me%20a%20Coffee-white?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=black\&labelColor=%23FFDD00)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt)
+
+[![Deploys by Netlify](https://www.netlify.com/img/global/badges/netlify-dark.svg)](https://netlify.com)
 

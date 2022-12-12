@@ -120,19 +120,19 @@
 
 ### Open Source / Featured
 
-*   [WebTorrent (⭐9k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐9.1k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Visual Studio Code (⭐140k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
-*   [Git-it (⭐4.1k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+*   [Git-it (⭐4.2k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 *   [Caprine (⭐6.5k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 *   [Simplenote (⭐4.2k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.5k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
 *   [SmartMirror (⭐2.7k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 *   [Google Play Music Desktop Player (⭐8.4k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐340)](https://github.com/m0g/ansel) - Image organizer.
+*   [Ansel (⭐348)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -143,11 +143,11 @@
 ### For Electron / Other
 
 *   [electron-is-dev (⭐405)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐395)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
-*   [electron-dl (⭐995)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
+*   [electron-localshortcut (⭐397)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-dl (⭐1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 *   [electron-release-server (⭐1.7k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
 *   [electron-download (⭐296)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [ember-electron (⭐801)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [ember-electron (⭐803)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other
 

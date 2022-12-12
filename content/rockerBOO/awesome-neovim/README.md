@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 12, 2022](/content/2022/12/12/README.md)
+
+### Marks / Diagnostics
+
+*   [cbochs/grapple.nvim (⭐83)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Plugin Manager

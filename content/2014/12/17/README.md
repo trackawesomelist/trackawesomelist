@@ -10,9 +10,9 @@
 
 ### Packages / Command-line apps
 
-*   [empty-trash (⭐122)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+*   [empty-trash (⭐125)](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 *   [is-online (⭐1.1k)](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-*   [public-ip (⭐954)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+*   [public-ip (⭐957)](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 
 ### Packages / Command-line utilities
 
@@ -22,17 +22,17 @@
 
 ### Algorithms and Data structures
 
-*   [cuckoo (⭐40)](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
-*   [graphmath (⭐72)](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
+*   [cuckoo (⭐41)](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
+*   [graphmath (⭐73)](https://github.com/crertel/graphmath) - An Elixir library for performing 2D and 3D mathematics.
 
 ### Authentication
 
-*   [oauth2 (⭐680)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
+*   [oauth2 (⭐685)](https://github.com/scrogson/oauth2) - An OAuth 2.0 client library for Elixir.
 *   [oauth2ex (⭐56)](https://github.com/parroty/oauth2ex) - Another OAuth 2.0 client library for Elixir.
 
 ### Frameworks
 
-*   [relax (⭐121)](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
+*   [relax (⭐122)](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
 
 ### Testing
 

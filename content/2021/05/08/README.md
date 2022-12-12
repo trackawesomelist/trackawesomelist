@@ -22,7 +22,7 @@
 
 ### Containers
 
-*   [C++ B-tree (⭐62)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
+*   [C++ B-tree (⭐64)](https://github.com/algorithm-ninja/cpp-btree) - A template library that implements ordered in-memory containers based on a B-tree data structure. \[Apache2]
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Packages / Application layer
 
-*   [octomap\_server2 (⭐7)](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap. Port of the ROS1 [octomap\_mapping (⭐221)](https://github.com/OctoMap/octomap_mapping) package. ![octomap\_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
+*   [octomap\_server2 (⭐10)](https://github.com/iKrishneel/octomap_server2) - ROS2 stack for mapping with OctoMap. Port of the ROS1 [octomap\_mapping (⭐228)](https://github.com/OctoMap/octomap_mapping) package. ![octomap\_server2](https://img.shields.io/github/stars/iKrishneel/octomap_server2.svg)
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

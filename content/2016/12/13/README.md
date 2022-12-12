@@ -20,7 +20,7 @@
 
 ### Open Source / Other
 
-*   [Stacer (⭐8k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐8.1k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ## [3. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

@@ -23,7 +23,7 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐397)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐408)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -35,7 +35,7 @@
 
 ### PDF / Third-party APIs
 
-*   [cl-typesetting (⭐63)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐99)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-typesetting (⭐64)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐100)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [6. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/README.md)
 

@@ -10,7 +10,7 @@
 
 ### SQL / Über SQL
 
-*   [osquery (⭐19k)](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+*   [osquery (⭐20k)](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 
 ## [2. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -34,16 +34,16 @@
 
 ### Templates / React
 
-*   [reactjs-vite-tailwindcss-boilerplate (⭐138)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Eslint and Prettier.
+*   [reactjs-vite-tailwindcss-boilerplate (⭐147)](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - React 18, TypeScript, Jest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 
 ## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Audio
 
-*   [Spotube (⭐1.7k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
-*   [Spot\* (⭐1.6k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
+*   [Spotube (⭐2.1k)](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client.
+*   [Spot\* (⭐1.7k)](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
 *   [psst\* (⭐7.1k)](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
-*   [ncspot\* (⭐3.2k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
+*   [ncspot\* (⭐3.4k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.ç
 
 ## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -73,22 +73,22 @@
 
 ### Completion / Diagnostics
 
-*   [noib3/nvim-compleet (⭐507)](https://github.com/noib3/nvim-compleet) - A Neovim autocompletion framework written in Rust.
+*   [noib3/nvim-compleet (⭐518)](https://github.com/noib3/nvim-compleet) - A Neovim autocompletion framework written in Rust.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [CanKolay3499/CNvim (⭐15)](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
+*   [CanKolay3499/CNvim (⭐20)](https://github.com/CanKolay3499/CNvim) - A lightweight Neovim config for web development.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Caches
 
-*   [bcache (⭐98)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory  cache Go library.
+*   [bcache (⭐106)](https://github.com/iwanbk/bcache) - Eventually consistent distributed in-memory  cache Go library.
 
 ### Databases Implemented in Go
 
-*   [nutsdb (⭐2.5k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
-*   [unitdb (⭐97)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging  applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
+*   [nutsdb (⭐2.6k)](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
+*   [unitdb (⭐98)](https://github.com/unit-io/unitdb) - Fast timeseries database for IoT, realtime messaging  applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 
 ### File Handling
 
@@ -96,19 +96,19 @@
 
 ### Logging
 
-*   [sqldb-logger (⭐273)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
+*   [sqldb-logger (⭐276)](https://github.com/simukti/sqldb-logger) - A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 
 ### Tokenizers
 
-*   [sentences (⭐335)](https://github.com/neurosnap/sentences) - Sentence tokenizer:  converts text into a list of sentences.
+*   [sentences (⭐338)](https://github.com/neurosnap/sentences) - Sentence tokenizer:  converts text into a list of sentences.
 
 ### Security
 
-*   [secret (⭐20)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
+*   [secret (⭐21)](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 
 ### Utilities
 
-*   [mongo-go-pagination (⭐107)](https://github.com/gobeam/mongo-go-pagination) - Mongodb Pagination for official mongodb/mongo-go-driver package which supports  both normal queries and Aggregation pipelines.
+*   [mongo-go-pagination (⭐110)](https://github.com/gobeam/mongo-go-pagination) - Mongodb Pagination for official mongodb/mongo-go-driver package which supports  both normal queries and Aggregation pipelines.
 
 ### Websites / Libraries for creating HTTP middlewares
 

@@ -74,7 +74,7 @@
 
 ### Utilities
 
-*   [built\_collection (⭐245)](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.
+*   [built\_collection (⭐248)](https://github.com/google/built_collection.dart) - Immutable collections via the builder pattern.
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

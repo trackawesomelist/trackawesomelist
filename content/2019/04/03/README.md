@@ -50,7 +50,7 @@
 
 ### Compression
 
-*   [LZ4 (⭐7.7k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
+*   [LZ4 (⭐7.8k)](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm. \[BSD] [website](http://www.lz4.org/)
 
 ## [4. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Forms
 
-*   [django-bootstrap4 (⭐973)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
+*   [django-bootstrap4 (⭐979)](https://github.com/zostera/django-bootstrap4) - Bootstrap 4 integration with Django.
 
 ## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

@@ -174,7 +174,7 @@
 ### Vert.x Event Bus Clients
 
 *   [Swift (⭐5)](https://github.com/tobias/vertx-swift-eventbus) - Event bus client for [Apple's Swift](https://swift.org) using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
-*   [Python (⭐13)](https://github.com/jaymine/TCP-eventbus-client-Python) - Event bus client for Python using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
+*   [Python (⭐12)](https://github.com/jaymine/TCP-eventbus-client-Python) - Event bus client for Python using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 *   [C# (⭐5)](https://github.com/jaymine/TCP-eventbus-client-C-Sharp) - Event bus client for C# using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 *   [C (⭐5)](https://github.com/jaymine/TCP-eventbus-client-C) - Event bus client for C99 using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
 *   [Go (⭐27)](https://github.com/jponge/vertx-go-tcp-eventbus-bridge)- Event bus client for Go-lang using the [TCP-based protocol (⭐45)](https://github.com/vert-x3/vertx-tcp-eventbus-bridge).
@@ -197,7 +197,7 @@ git fetch origin master:refs/remotes/origin/mymaster
 
 ### UI / Barcode
 
-*   [CostumeKit (⭐299)](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
+*   [CostumeKit (⭐301)](https://github.com/jakemarsh/CostumeKit) - Base types for theming an app.
 
 ## [13. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 

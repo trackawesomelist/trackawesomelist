@@ -32,7 +32,7 @@
 
 ### Queue
 
-*   [Kafunk (⭐162)](https://github.com/jet/kafunk) - F# Kafka client from Jet
+*   [Kafunk (⭐161)](https://github.com/jet/kafunk) - F# Kafka client from Jet
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -66,7 +66,7 @@
 
 *   [CustomSegue (⭐123)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
 *   [SAHistoryNavigationViewController (⭐1.6k)](https://github.com/marty-suzuki/SAHistoryNavigationViewController) - iOS task manager like UI in UINavigationContoller.
-*   [URLEmbeddedView (⭐643)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+*   [URLEmbeddedView (⭐644)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 
 ## [7. Colorful](/content/Siddharth11/Colorful/README.md)
 

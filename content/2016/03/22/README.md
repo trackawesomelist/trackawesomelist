@@ -33,7 +33,7 @@
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐160)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐167)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
 ## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -55,7 +55,7 @@
 
 ### ORM and Datamapping
 
-*   [github\_ecto (⭐117)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
+*   [github\_ecto (⭐118)](https://github.com/wojtekmach/github_ecto) - Ecto adapter for GitHub API.
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

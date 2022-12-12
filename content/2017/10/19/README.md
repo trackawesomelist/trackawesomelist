@@ -16,7 +16,7 @@
 
 ### Networking
 
-*   [Seasocks (⭐609)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
+*   [Seasocks (⭐621)](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. \[BSD]
 
 ## [3. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Apps
 
-*   [Gank (⭐125)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+*   [Gank (⭐127)](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

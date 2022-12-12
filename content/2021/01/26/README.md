@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -31,27 +31,20 @@
 *   [`jmeter` on Gitter](https://gitter.im/aliesbelik/jmeter-chat)
 *   [`#jmeter` on Slack](https://jmeterusers.slack.com/)
 
-## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Tutorials
-
-*   [Prerending a Blazor WebAssembly app to static files, without an ASP.NET Core host app](https://andrewlock.net/prerending-a-blazor-webassembly-app-without-an-asp-net-core-host-app/) - January 26, 2021 - This post describes how you can prerender all the pages in a Blazor WebAssembly app, without requiring a host app. That means you can still host your Blazor WebAssembly as static files using GitHub Pages or Netlify, without requiring a backend server. [Source code (⭐339)](https://github.com/andrewlock/blog-examples/tree/master/BlazorPreRender) ![stars](https://img.shields.io/github/stars/andrewlock/blog-examples?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/andrewlock/blog-examples?style=flat-square\&cacheSeconds=86400).
-*   [Pre-render Blazor WebAssembly at build time to optimize for search engines](https://swimburger.net/blog/dotnet/pre-render-blazor-webassembly-at-build-time-to-optimize-for-search-engines) - January 3, 2021 - Pre-render Blazor WebAssembly at build time to optimize for search engines.
-
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CMS
 
 *   [GraphCMS](https://graphcms.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
 
-## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Websites / Godot version unknown
 
 *   [Godot Shaders](https://godotshaders.com/) - A community-driven shader library for the Godot game engine.
 *   [Gotm.io](https://gotm.io/about) - A website for hosting HTML5 games that were made in Godot.
 
-## [6. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
+## [5. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/README.md)
 
 ### Quotes
 
@@ -71,13 +64,13 @@
 
 
 
-## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) - Leverage the JAMstack with Python and Flask by creating a static site and deploying it to Netlify.
 
-## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [7. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
@@ -93,7 +86,7 @@
 *   [IBM Research](https://www.research.ibm.com/artificial-intelligence)
 *   [Microsoft Research](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Data
 
@@ -109,7 +102,7 @@
 
 
 
-## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / PaaS   *(PostgreSQL as a Service)*
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 03 - Aug 09, 2020
 
-59 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -20,7 +20,7 @@
 
 ### Software / Password Managers
 
-*   [PassWall (⭐663)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
+*   [PassWall (⭐667)](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
 
 ## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -42,15 +42,15 @@
     *   [algorithms (⭐22k)](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
     *   [python-ds (⭐1.9k)](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
     *   [sortedcontainers (⭐2.8k)](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-    *   [TheAlgorithms (⭐147k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
+    *   [TheAlgorithms (⭐150k)](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 
 ### ASGI Servers
 
-*   [uvicorn (⭐5.8k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+*   [uvicorn (⭐5.9k)](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
 
 ### Concurrency and Parallelism
 
-*   [uvloop (⭐8.9k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of `asyncio` event loop on top of `libuv`.
+*   [uvloop (⭐9.1k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of `asyncio` event loop on top of `libuv`.
 *   [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
 
 ### Built-in Classes Enhancement
@@ -65,8 +65,8 @@
 
 *   Static Type Checkers, also see [awesome-python-typing (⭐1.2k)](https://github.com/typeddjango/awesome-python-typing)
     *   [mypy](http://mypy-lang.org/) - Check variable types during compile time.
-    *   [pyre-check (⭐6.1k)](https://github.com/facebook/pyre-check) - Performant type checking.
-    *   [typeshed (⭐3.2k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
+    *   [pyre-check (⭐6.2k)](https://github.com/facebook/pyre-check) - Performant type checking.
+    *   [typeshed (⭐3.3k)](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 
 ### Computer Vision
 
@@ -75,7 +75,7 @@
 
 ### Configuration
 
-*   [hydra (⭐6.4k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
+*   [hydra (⭐6.6k)](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 
 ### Data Analysis
 
@@ -84,7 +84,7 @@
 
 ### Data Visualization
 
-*   [plotnine (⭐3.2k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
+*   [plotnine (⭐3.3k)](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 
 ### Date and Time
 
@@ -93,30 +93,30 @@
 ### DevOps Tools
 
 *   Configuration Management
-    *   [ansible (⭐55k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
+    *   [ansible (⭐56k)](https://github.com/ansible/ansible) - A radically simple IT automation platform.
     *   [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - A multi-distribution package that handles early initialization of a cloud instance.
     *   [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
-    *   [pyinfra (⭐1.6k)](https://github.com/Fizzadar/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
+    *   [pyinfra (⭐2.1k)](https://github.com/Fizzadar/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
     *   [saltstack (⭐13k)](https://github.com/saltstack/salt) - Infrastructure automation and management system.
 *   Process Management
     *   [honcho (⭐1.5k)](https://github.com/nickstenning/honcho) - A Python clone of [Foreman (⭐5.8k)](https://github.com/ddollar/foreman), for managing Procfile-based applications.
-    *   [supervisor (⭐7.5k)](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX.
+    *   [supervisor (⭐7.6k)](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX.
 
 ### Distribution
 
-*   [pyarmor (⭐1.8k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+*   [pyarmor (⭐1.9k)](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ### Downloader
 
-*   [akshare (⭐5.5k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+*   [akshare (⭐5.7k)](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 
 ### E-commerce
 
-*   [forex-python (⭐525)](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion.
+*   [forex-python (⭐534)](https://github.com/MicroPyramid/forex-python) - Foreign exchange rates, Bitcoin price index and currency conversion.
 
 ### Functional Programming
 
-*   [CyToolz (⭐883)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
+*   [CyToolz (⭐890)](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
 
 ### GraphQL
 
@@ -124,7 +124,7 @@
 
 ### Implementations
 
-*   [CLPython (⭐335)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
+*   [CLPython (⭐339)](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
 
 ### Job Scheduler
 
@@ -137,9 +137,9 @@
 ### Package Management
 
 *   [pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
-    *   [pip-tools (⭐6.3k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+    *   [pip-tools (⭐6.5k)](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
     *   [PyPI](https://pypi.org/)
-*   [poetry (⭐22k)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+*   [poetry (⭐23k)](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 
 ### Package Repositories
 
@@ -165,15 +165,15 @@
 
 ### Template Engine
 
-*   [Jinja2 (⭐8.8k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
+*   [Jinja2 (⭐8.9k)](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 
 ### Video
 
-*   [vidgear (⭐2.4k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
+*   [vidgear (⭐2.5k)](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
 
 ### Web Crawling
 
-*   [portia (⭐8.6k)](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
+*   [portia (⭐8.7k)](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
 
 ### Newsletters
 
@@ -183,7 +183,7 @@
 
 ### Animations / Other
 
-*   [particles-bg (⭐546)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
+*   [particles-bg (⭐559)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
 ## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -330,7 +330,7 @@
 
 ### Data Manipulation / Data Containers
 
-*   [pandas\_profiling (⭐9.7k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+*   [pandas\_profiling (⭐9.8k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 ### Visualization / Interactive plots
 
@@ -341,7 +341,7 @@
 ### Visualization / Automatic Plotting
 
 *   [HoloViews (⭐2.3k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐971)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [AutoViz (⭐991)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
 *   [SweetViz (⭐2.2k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP
@@ -509,17 +509,17 @@
 *   [django-rest-framework (⭐24k)](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 *   [django-cors-headers (⭐4.8k)](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 *   [dj-rest-auth (⭐1.1k)](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
-*   [django-rest-knox (⭐838)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
+*   [django-rest-knox (⭐846)](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
 *   [djoser (⭐2.2k)](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
-*   [djaq (⭐49)](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
+*   [djaq (⭐51)](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
 *   [django-rest-framework-simplejwt (⭐3.2k)](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF.
 *   [django-webpack-loader (⭐2.4k)](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
 *   [drf-yasg (⭐2.9k)](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
-*   [graphene-django (⭐3.9k)](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
+*   [graphene-django (⭐4k)](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
 
 ### Projects / Boilerplate
 
-*   [cookiecutter-vue-django (⭐120)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
+*   [cookiecutter-vue-django (⭐121)](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 
 ## [37. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -564,15 +564,12 @@
 
 ### Individual components / API
 
-*   [Blazor.Canvas (⭐121)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
-*   [BlazorGooglePay (⭐5)](https://github.com/redradist/BlazorGooglePay) - ![last commit](https://img.shields.io/github/last-commit/redradist/BlazorGooglePay?style=flat-square\&cacheSeconds=86400) Blazor wrapper around Js Google Pay, library based on [BrowserInterop (⭐167)](https://github.com/RemiBou/BrowserInterop/).
+*   [Blazor.Canvas (⭐126)](https://github.com/excubo-ag/Blazor.Canvas) - ![GitHub stars](https://img.shields.io/github/stars/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Canvas?style=flat-square\&cacheSeconds=86400) Wrapper library around the HTML canvas API written in C# (no JS dependency) ([Demo](https://excubo-ag.github.io/Blazor.Canvas/)).
 
 ### Tools & Utilities / Others
 
-*   [bUnit - a testing library for Blazor components (⭐775)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
-*   [Logging (⭐204)](https://github.com/BlazorExtensions/Logging) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Logging?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Logging?style=flat-square\&cacheSeconds=86400) Microsoft Extension Logging implementation for Blazor.
-*   [Notifications (⭐132)](https://github.com/BlazorExtensions/Notifications) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Notifications?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Notifications?style=flat-square\&cacheSeconds=86400) HTML5 Notifications API implementation for Microsoft Blazor.
-*   [BlazorApplicationInsights (⭐115)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
+*   [bUnit - a testing library for Blazor components (⭐792)](https://github.com/egil/bunit) - ![GitHub stars](https://img.shields.io/github/stars/egil/bunit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/egil/bunit?style=flat-square\&cacheSeconds=86400) A testing library for Blazor Components. You can easily define components under test in C# or Razor syntax and verify outcome using semantic HTML diffing/comparison logic. You can easily interact with and inspect components, trigger event handlers, provide cascading values, inject services, mock IJsRuntime, and perform snapshot testing.
+*   [BlazorApplicationInsights (⭐120)](https://github.com/IvanJosipovic/BlazorApplicationInsights) - ![last commit](https://img.shields.io/github/last-commit/IvanJosipovic/BlazorApplicationInsights?style=flat-square\&cacheSeconds=86400) Application Insights for Blazor web applications.
 
 ### Others / Others
 
@@ -708,7 +705,7 @@
 
 ### UI / Barcode
 
-*   [Streamoji (⭐241)](https://github.com/GetStream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
+*   [Streamoji (⭐243)](https://github.com/GetStream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
 ## [45. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -729,19 +726,43 @@
 
 *   [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
 
-## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [48. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+
+### Demos / Program generation and analysis
+
+*   [Reading code and responding to questions about it](https://twitter.com/amasad/status/1285797739930869761)
+
+### Demos / Content creation
+
+*   [Generating memes](https://twitter.com/wowitsmrinal/status/1287175391040290816)
+
+### Demos / Other
+
+*   [Designing an IVR flow using natural language](https://twitter.com/nutanc/status/1287801677542612992)
+*   [Patient diagnosis from clinical vignettes](https://twitter.com/AndrewLBeam/status/1287772781480820737)
+
+### Articles / Other
+
+*   [GPT-3 and A Typology of Hype](https://pagestlabs.substack.com/p/gpt-3-and-a-typology-of-hype?s=09)
+
+### Github / Other
+
+*   [GPT-3 Sandbox: Turn ideas into demos in a matter of minutes (⭐2.6k)](https://github.com/shreyashankar/gpt3-sandbox)
+*   [gpt-3-experiments by @minimaxir (⭐676)](https://github.com/minimaxir/gpt-3-experiments)
+
+## [49. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Tools / XML
 
 *   [denofn-selfhosted (⭐23)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
-## [49. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [50. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Boilerplate / Mouse Events
 
-*   [express-react-boilerplate (⭐45)](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
+*   [express-react-boilerplate (⭐44)](https://github.com/htdangkhoa/erb) - A tool that helps programmers create Express & React projects easily base on react-cool-starter.
 
-## [50. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [51. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### DevSecOps / Application or Binary Hardening
 
@@ -749,19 +770,19 @@
 *   [DynamoRIO](https://dynamorio.org/) - Runtime code manipulation system that supports code transformations on any part of a program, while it executes, implemented as a process-level virtual machine.
 *   [Valgrind](https://www.valgrind.org/) - Instrumentation framework for building dynamic analysis tools.
 
-## [51. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
+## [52. Awesome Bioie](/content/caufieldjh/awesome-bioie/week/README.md)
 
 ### Datasets / Other Datasets
 
 *   [MIMIC-IV](https://mimic-iv.mit.edu/) - An update to MIMIC-III's multimodal patient data, now covering more recent years of admissions, plus a new data structure, emergency department records, and links to MIMIC-CXR images.
 
-## [52. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [53. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Portuguese
 
 *   [FalaDev](https://anchor.fm/faladev) - Passando a maior parte do tempo escrevendo código, chegou o momento de se reunir e falar sobre o universo da programação.
 
-## [53. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [54. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -771,13 +792,13 @@
 
 *   [Gatsby AWS S3 Deployment (⭐39)](https://github.com/jonelantha/gatsby-s3-action) - Deploy Gatsby to S3 (supports CloudFront).
 
-## [54. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [55. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
 *   [Make Music with the Circuit Playground Express by Rick Leander](https://www.amazon.com/author/rleander) - Twelve projects that make music, sound and noise with Circuit Python.
 
-## [55. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [56. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -807,7 +828,7 @@
 
 
 
-## [56. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [57. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authentication / SAML
 
@@ -818,38 +839,38 @@
 *   [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/) - Moderation of huge social networks is performed by an army of outsourced subcontractors. These people are exposed to the worst and generally ends up with PTSD.
 *   [The Cleaners](https://thoughtmaybe.com/the-cleaners/) - A documentary on these teams of underpaid people removing posts and deleting accounts.
 
-## [57. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [58. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-grid-responsive (⭐27)](https://github.com/andrelmlins/vue-grid-responsive) - Responsive grid system based on Bootstrap for Vue 2.x.
-*   [vue-splash (⭐121)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
-*   [@geospoc/v-mapbox (⭐127)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
+*   [vue-splash (⭐125)](https://github.com/MehdiKhoshnevisz/vue-splash) - A simple and cool splash plugin for vue.js 💦
+*   [@geospoc/v-mapbox (⭐131)](https://github.com/geospoc/v-mapbox) - Combine powers of Vue.js and Mapbox GL JS (Maintained fork of soal's vue-mapbox)
 *   [@geospoc/v-mapbox-geocoder (⭐8)](https://github.com/geospoc/v-mapbox-geocoder) - Geocoder control for your awesome Mapbox library
-*   [ckeditor4-vue (⭐59)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
-*   [vue-scratchable (⭐48)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
+*   [ckeditor4-vue (⭐60)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
+*   [vue-scratchable (⭐50)](https://github.com/sebastianwachter/vue-scratchable) - A Vue.js wrapper component that turns everything into fun scratch cards.
 
 ### Components & Libraries / UI Utilities
 
-*   [v-github-icon (⭐3)](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙
+*   [v-github-icon (⭐6)](https://github.com/vinayakkulkarni/v-github-icon) - easily add "that" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙
 
 ### Components & Libraries / Utilities
 
-*   [vue-use-switch-map (⭐6)](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
-*   [vue-use-infinite-scroll (⭐109)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
-*   [v-intl (⭐13)](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
+*   [vue-use-switch-map (⭐8)](https://github.com/jfet97/vue-use-switch-map) - 👽 The power of the RxJS switchMap operator injected into the Vue composition world.
+*   [vue-use-infinite-scroll (⭐110)](https://github.com/jfet97/vue-use-infinite-scroll) - ♾️ A Vue composition function that makes infinite scroll a breeze.
+*   [v-intl (⭐15)](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
 
 ### Components & Libraries / Scaffold
 
-*   [janak (⭐25)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
+*   [janak (⭐26)](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 
-## [58. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [59. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Database
 
 *   [ObjectBox (⭐376)](https://github.com/objectbox/objectbox-swift) - ObjectBox is a superfast, light-weight object persistence framework.
 
-## [59. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [60. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 

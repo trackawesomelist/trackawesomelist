@@ -35,7 +35,7 @@
 
 ### Development / JavaScript & TypeScript
 
-*   [js-algorand-sdk (⭐248)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+*   [js-algorand-sdk (⭐257)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
 
 ### Development / .NET
 
@@ -43,11 +43,11 @@
 
 ### Development / Rust
 
-*   [rust-algorand-sdk (⭐43)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐52)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
 ### Development / Swift
 
-*   [swift-algorand-sdk (⭐18)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+*   [swift-algorand-sdk (⭐19)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
 ### Tools / Nodes and Indexers
 
@@ -91,11 +91,11 @@
 
 ### Dynamic type checkers
 
-*   [typedpy (⭐11)](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
+*   [typedpy (⭐12)](https://github.com/loyada/typedpy) - Type-safe, strict Python. Works well with standard Python.
 
 ### Stub packages
 
-*   [celery-types (⭐23)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐20k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐495)](https://github.com/celery/django-celery-results), [ampq (⭐281)](https://github.com/celery/py-amqp), [kombu (⭐2.4k)](https://github.com/celery/kombu), [billiard (⭐354)](https://github.com/celery/billiard), [vine (⭐105)](https://github.com/celery/vine) and [ephem (⭐580)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐26)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐21k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐507)](https://github.com/celery/django-celery-results), [ampq (⭐284)](https://github.com/celery/py-amqp), [kombu (⭐2.5k)](https://github.com/celery/kombu), [billiard (⭐356)](https://github.com/celery/billiard), [vine (⭐107)](https://github.com/celery/vine) and [ephem (⭐592)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -117,7 +117,7 @@
 
 ### Chart
 
-*   [SwiftUICharts (⭐616)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
+*   [SwiftUICharts (⭐625)](https://github.com/willdale/SwiftUICharts) - A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -147,12 +147,12 @@
 
 ### Components & Libraries / UI Components
 
-*   [coya (⭐40)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
+*   [coya (⭐42)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 ### Components & Libraries / Frameworks
 
 *   [Inkline (⭐1.1k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-*   [Mosaic - Vue Admin TailwindCSS template (⭐145)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+*   [Mosaic - Vue Admin TailwindCSS template (⭐151)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
 ---
 

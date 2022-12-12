@@ -10,7 +10,7 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐554)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐555)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ## [2. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -30,15 +30,15 @@
 
 ### Front-End Development
 
-*   [Aurelia (⭐307)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐305)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
-*   [Email Newsletters (⭐3k)](https://github.com/zudochkin/awesome-newsletters#readme)
+*   [Email Newsletters (⭐3.1k)](https://github.com/zudochkin/awesome-newsletters#readme)
 
 ### Hardware
 
-*   [Electronics (⭐4.3k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐4.4k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Debug
 
-*   [check (⭐912)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
+*   [check (⭐923)](https://github.com/libcheck/check) - Check is a unit testing framework for C. \[LGPL-2.1] [website](https://libcheck.github.io/check/)
 
 ### Math
 
@@ -77,11 +77,11 @@
 
 ### Boilerplates
 
-*   [iOS project template (⭐389)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+*   [iOS project template (⭐390)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 
 ### Events
 
-*   [Tomorrowland (⭐114)](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
+*   [Tomorrowland (⭐115)](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
 
 ### Utility / Barcode
 

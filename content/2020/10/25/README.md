@@ -18,7 +18,30 @@
 
 *   :octocat: [Injex](https://www.injex.dev/) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 
-## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) - Open Standards Org - [www.open-std.org](http://www.open-std.org) (PDF)
+
+### Mathematica / PicoLisp
+
+*   [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
+*   [Wolfram Mathematica Product Training: Wolfram U](https://www.wolfram.com/wolfram-u/catalog/product-training/mathematica/)
+
+### Maven / PicoLisp
+
+*   [Developing with Eclipse and Maven](https://books.sonatype.com/m2eclipse-book/reference/index.html)
+
+### MySQL / PicoLisp
+
+*   [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
+
+### PowerShell / Zend
+
+*   [Layman’s Guide to PowerShell 2.0 remoting](https://ravichaganti.com/ebooks/AlaymansguidetoPowerShell2remotingv2.pdf) (PDF)
+
+## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Broker
 
@@ -32,13 +55,13 @@
 
 *   [MQTT Joystick Controller (⭐6)](https://github.com/Vincenzo-Petrolo/MQTT-Joystick-Controller) - Open Source Android app that lets you control everything with your smartphone. Download it from Google Play.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [geiger (⭐1k)](https://github.com/rust-secure-code/cargo-geiger) — A program that list statistics related to usage of unsafe Rust code in a Rust crate and all its dependencies [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/rust-secure-code.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1\&branchName=master)
+*   [geiger (⭐1.1k)](https://github.com/rust-secure-code/cargo-geiger) — A program that list statistics related to usage of unsafe Rust code in a Rust crate and all its dependencies [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/rust-secure-code.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1\&branchName=master)
 
-## [5. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [6. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Food
 
@@ -48,7 +71,7 @@
 
 *   [Green Pulse](https://omny.fm/shows/green-pulse-1) - The Straits Times (A Singapore news outlet) analyses the beat of the changing environment, from biodiversity conservation to climate change.
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Currency Exchange
 
@@ -134,29 +157,23 @@
 
 
 
-## [7. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [8. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Tracking / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Exodify (⭐59)](https://github.com/FacettsOpen/exodify) - Wondering if an app is tracking you? Now you can see it directly in the Play store.
 
-## [8. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
+## [9. Awesome Devtools](/content/moimikey/awesome-devtools/README.md)
 
 ### Tools / Deobfuscation/Transformation
 
 *   [JSON ABC](https://novicelab.org/jsonabc/) - Sorts JSON alphabetically
 
-## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩📁 [Jakarta LTE (⭐131)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
-
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Individual components / API
-
-*   [Canvas (⭐478)](https://github.com/BlazorExtensions/Canvas) - ![stars](https://img.shields.io/github/stars/BlazorExtensions/Canvas?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Canvas?style=flat-square\&cacheSeconds=86400) HTML5 Canvas API implementation for Microsoft Blazor.
+*   🧩📁 [Jakarta LTE (⭐138)](https://github.com/zeroblack-c/jakarta-lte) - Admin template using Tailwind CSS.
 
 ## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -242,9 +259,9 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐462)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐463)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
-*   [Public Git Archive (⭐280)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+*   [Public Git Archive (⭐279)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
@@ -254,23 +271,23 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
-*   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness)
-*   [Awesome Machine Learning (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning)
-*   [lists (⭐8.5k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐145k)](https://github.com/vinta/awesome-python)
+*   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness)
+*   [Awesome Machine Learning (⭐57k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [lists (⭐8.6k)](https://github.com/jnv/lists)
+*   [awesome-python (⭐148k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐24k)](https://github.com/donnemartin/data-science-ipython-notebooks)
-*   [awesome-r (⭐5.2k)](https://github.com/qinwf/awesome-R)
+*   [awesome-r (⭐5.3k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐12k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 *   [Machine Learning for Software Engineers (⭐26k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 *   [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
 *   [Awesome Machine Learning On Source Code (⭐5.7k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
-*   [Awesome Community Detection (⭐2k)](https://github.com/benedekrozemberczki/awesome-community-detection)
+*   [Awesome Community Detection (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-community-detection)
 *   [Awesome Graph Classification (⭐4.5k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
-*   [Awesome Decision Tree Papers (⭐2k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+*   [Awesome Decision Tree Papers (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
-*   [Awesome Gradient Boosting Papers (⭐814)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐403)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐486)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Gradient Boosting Papers (⭐834)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+*   [Awesome Computer Vision Models (⭐416)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐491)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.4k)](https://github.com/mhagiwara/100-nlp-papers)
 
@@ -278,7 +295,7 @@
 
 ### Python / Computer Vision
 
-*   [lightly (⭐1.9k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
+*   [lightly (⭐2k)](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 
 ## [15. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -880,11 +897,11 @@
 
 ### Software / Communication - Email - Webmail Clients
 
-*   [Isotope Mail](https://blog.marcnuri.com/isotope-mail-client-introduction/) - Microservice based webmail client built with ReactJS and Spring. ([Source Code (⭐204)](https://github.com/manusa/isotope-mail)) `Apache-2.0` `Docker/Java`
+*   [Isotope Mail](https://blog.marcnuri.com/isotope-mail-client-introduction/) - Microservice based webmail client built with ReactJS and Spring. ([Source Code (⭐208)](https://github.com/manusa/isotope-mail)) `Apache-2.0` `Docker/Java`
 
 ### Software / Note-taking & Editors
 
-*   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐66)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
+*   [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code (⭐68)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 
 ---
 

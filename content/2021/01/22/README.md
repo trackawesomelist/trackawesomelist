@@ -44,23 +44,23 @@
 
 ### Related awesome / Object detection and object tracking
 
-*   [Awesome point cloud analysis :octocat: (⭐3.5k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
+*   [Awesome point cloud analysis :octocat: (⭐3.6k)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
 *   [Awesome robotics :octocat: (⭐3k)](https://github.com/Kiloreux/awesome-robotics#readme)
 *   [Awesome robotics libraries :octocat: (⭐1.6k)](https://github.com/jslee02/awesome-robotics-libraries#readme)
 *   [Awesome ROS2 :octocat: (⭐1.1k)](https://github.com/fkromer/awesome-ros2#readme)
-*   [Awesome artificial intelligence :octocat: (⭐7.1k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
-*   [Awesome computer vision :octocat: (⭐17k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-*   [Awesome machine learning :octocat: (⭐56k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
+*   [Awesome artificial intelligence :octocat: (⭐7.2k)](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+*   [Awesome computer vision :octocat: (⭐18k)](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+*   [Awesome machine learning :octocat: (⭐57k)](https://github.com/josephmisiti/awesome-machine-learning#readme)
 *   [Awesome deep learning :octocat: (⭐20k)](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
-*   [Awesome reinforcement learning :octocat: (⭐7.9k)](https://github.com/aikorea/awesome-rl/#readme)
+*   [Awesome reinforcement learning :octocat: (⭐8k)](https://github.com/aikorea/awesome-rl/#readme)
 *   [Awesome SLAM datasets :octocat: (⭐1.1k)](https://github.com/youngguncho/awesome-slam-datasets#readme)
-*   [Awesome vehicle security and car hacking :octocat: (⭐2.2k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+*   [Awesome vehicle security and car hacking :octocat: (⭐2.3k)](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Node.js management
 
-*   [fnm (⭐9.1k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐9.6k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Misc
 
-*   [Quickenshtein (⭐185)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
+*   [Quickenshtein (⭐203)](https://github.com/Turnerj/Quickenshtein) - An extremely quick and memory efficient Levenshtein Distance calculator with SIMD and Threading support
 
 ## [12. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

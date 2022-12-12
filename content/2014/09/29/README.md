@@ -16,7 +16,7 @@
 
 ### Actors
 
-*   [exactor (⭐668)](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
+*   [exactor (⭐665)](https://github.com/sasa1977/exactor) - Helpers for easier implementation of actors in Elixir.
 *   [poolboy (⭐1.5k)](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 *   [workex (⭐78)](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 
@@ -26,12 +26,12 @@
 
 ### Caching
 
-*   [con\_cache (⭐844)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐846)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
 *   [coverex (⭐98)](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
-*   [excoveralls (⭐743)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
+*   [excoveralls (⭐751)](https://github.com/parroty/excoveralls) - Coverage report tool for Elixir with coveralls.io integration.
 
 ### Date and Time
 
@@ -40,29 +40,29 @@
 
 ### Files and Directories
 
-*   [dir\_walker (⭐38)](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
+*   [dir\_walker (⭐39)](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 
 ### Frameworks
 
 *   [phoenix (⭐19k)](https://github.com/phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
-*   [placid (⭐183)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
-*   [sugar (⭐419)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
+*   [placid (⭐187)](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
+*   [sugar (⭐420)](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 
 ### Geolocation
 
-*   [geo (⭐557)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐563)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Miscellaneous
 
-*   [exquisite (⭐76)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
+*   [exquisite (⭐77)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
 *   [porcelain (⭐891)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐41)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐3)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
 ### Networking
 
-*   [reagent (⭐91)](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
-*   [socket (⭐669)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
+*   [reagent (⭐92)](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
+*   [socket (⭐671)](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
 *   [wpa\_supplicant (⭐5)](https://github.com/fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa\_supplicant.
 
 ### Package Management
@@ -71,7 +71,7 @@
 
 ### Release Management
 
-*   [exrm (⭐926)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
+*   [exrm (⭐925)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 
 ### Static Page Generation
 
@@ -79,13 +79,13 @@
 
 ### Testing
 
-*   [amrita (⭐198)](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
+*   [amrita (⭐199)](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
 *   [excheck (⭐316)](https://github.com/parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 *   [hound (⭐1.3k)](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
 
 ### Other Awesome Lists
 
-*   [Awesome Erlang (⭐1.4k)](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
+*   [Awesome Erlang (⭐1.5k)](https://github.com/drobakowski/awesome-erlang) - A curated list of awesome Erlang libraries, resources and shiny things.
 
 ### Websites
 

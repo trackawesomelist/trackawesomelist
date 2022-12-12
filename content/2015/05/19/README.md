@@ -38,7 +38,7 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐6.7k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐6.8k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 

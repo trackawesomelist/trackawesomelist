@@ -28,7 +28,7 @@
 
 ### Open Source / Other
 
-*   [Gmail Desktop (⭐611)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Gmail Desktop (⭐633)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source / Other
 
@@ -36,17 +36,17 @@
 
 ### For Electron / Other
 
-*   [adblocker-electron (⭐563)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [adblocker-electron (⭐584)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Development Environment
 
-*   [Git Hooks (⭐807)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+*   [Git Hooks (⭐817)](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 
 ### Security
 
-*   [Embedded and IoT Security (⭐944)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+*   [Embedded and IoT Security (⭐997)](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 
 ## [6. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -180,7 +180,7 @@
 
 ### Image Processing
 
-*   [pyvips (⭐447)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+*   [pyvips (⭐465)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
 ## [18. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
@@ -214,14 +214,14 @@
 
 ### Static type checkers
 
-*   [pyright (⭐8.6k)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+*   [pyright (⭐8.9k)](https://github.com/Microsoft/pyright) - Fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 ### Stub packages
 
-*   [django-stubs (⭐1k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐67k)](https://github.com/django/django).
-*   [djangorestframework-stubs (⭐297)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐24k)](https://github.com/encode/django-rest-framework).
-*   [grpc-stubs (⭐25)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐36k)](https://github.com/grpc/grpc).
-*   [ordered-set-stubs (⭐2)](https://github.com/rominf/ordered-set-stubs) - Stubs for [OrderedSet (⭐168)](https://github.com/LuminosoInsight/ordered-set).
+*   [django-stubs (⭐1.1k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐68k)](https://github.com/django/django).
+*   [djangorestframework-stubs (⭐301)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐25k)](https://github.com/encode/django-rest-framework).
+*   [grpc-stubs (⭐26)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐37k)](https://github.com/grpc/grpc).
+*   [ordered-set-stubs (⭐2)](https://github.com/rominf/ordered-set-stubs) - Stubs for [OrderedSet (⭐173)](https://github.com/LuminosoInsight/ordered-set).
 *   [pyspark-stubs (⭐114)](https://github.com/zero323/pyspark-stubs) - Stubs for [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 
 ### Tools / Linters
@@ -230,20 +230,20 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-plugins (⭐69)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+*   [pytest-mypy-plugins (⭐72)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 
 ### Tools / Working with types
 
-*   [mypy-protobuf (⭐502)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+*   [mypy-protobuf (⭐520)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 
 ### Tools / Mypy plugins
 
-*   [mypy-zope (⭐35)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
+*   [mypy-zope (⭐36)](https://github.com/Shoobx/mypy-zope) - Plugin for [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) support.
 *   [mypy/plugins (⭐14k)](https://github.com/python/mypy/tree/master/mypy/plugins) - Plugins already integrated into mypy.
 
 ### Integrations / Mypy plugins
 
-*   [vim-mypy (⭐90)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
+*   [vim-mypy (⭐91)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 
 ### Articles / Third-party articles
 
@@ -256,8 +256,8 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐145k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
-*   [python-typecheckers (⭐55)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
+*   [awesome-python (⭐149k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [python-typecheckers (⭐56)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 ## [22. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -322,12 +322,12 @@
 
 ### Testing Frameworks / Runner
 
-*   [puppeteer (⭐80k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
+*   [puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 
 ### Date / Runner
 
 *   [map-countdown (⭐6)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
-*   [dayjs (⭐41k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
+*   [dayjs (⭐42k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 
 ## [31. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -350,8 +350,7 @@
 
 ### Typing
 
-*   [cl-algebraic-data-type (⭐105)](https://github.com/stylewarning/cl-algebraic-data-type) - A library for defining algebraic data types in a similar spirit to Haskell or ML. [3-clause BSD](https://directory.fsf.org/wiki/License:BSD_3Clause).
-*   👍 [trivial-types (⭐61)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
+*   👍 [trivial-types (⭐62)](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [34. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -500,14 +499,14 @@
 
 ## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
-### Javascript / Demos and Scripts
+### JavaScript / Demos and Scripts
 
 *   [NSFWJS](http://nsfwjs.com) - Indecent content checker with TensorFlow\.js
 *   [Rock Paper Scissors](https://rps-tfjs.netlify.com/) - Rock Paper Scissors trained in the browser with TensorFlow\.js
 
 ### Python / General-Purpose Machine Learning
 
-*   [Cornac (⭐641)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
+*   [Cornac (⭐660)](https://github.com/PreferredAI/cornac) - A comparative framework for multimodal recommender systems with a focus on models leveraging auxiliary data.
 
 ### Python / Neural Networks
 

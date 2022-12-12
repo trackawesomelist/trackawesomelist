@@ -22,7 +22,7 @@
 
 ### C bindings
 
-*   [nlopt.cr (⭐2)](https://github.com/konovod/nlopt.cr) - Bindings for [NLOpt](https://nlopt.readthedocs.io/en/latest/)
+*   [nlopt.cr (⭐3)](https://github.com/konovod/nlopt.cr) - Bindings for [NLOpt](https://nlopt.readthedocs.io/en/latest/)
 
 ### Cryptography
 
@@ -52,7 +52,7 @@
 
 ### APIs, Data and ML
 
-*   [Public-Apis Github Repo (⭐213k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐220k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -95,14 +95,14 @@
 
 ### Graphic
 
-*   [PngComponents (⭐27)](https://github.com/UweRaabe/PngComponents). `[Delphi]` PngComponents is a set of components that allows you to include in your application real PNG files. PNG files on their own do not generate an enourmous advantage, but their support for an alpha-channel does indeed have quite a charm to it.
-*   [PdfiumLib (⭐127)](https://github.com/ahausladen/PdfiumLib). `[Delphi]` Example of a PDF VCL Control using PDFium
+*   [PngComponents (⭐28)](https://github.com/UweRaabe/PngComponents). `[Delphi]` PngComponents is a set of components that allows you to include in your application real PNG files. PNG files on their own do not generate an enourmous advantage, but their support for an alpha-channel does indeed have quite a charm to it.
+*   [PdfiumLib (⭐128)](https://github.com/ahausladen/PdfiumLib). `[Delphi]` Example of a PDF VCL Control using PDFium
 *   [llPDFLib (⭐40)](https://github.com/SybrexSys/llPDFLib). `[Delphi]` Pure Object Pascal library to create PDF documents. This library doesn’t use any DLL or external third-party software to generate PDF files. Library includes TPDFDocument component with properties and methods like Delphi’s TPrinter but is designed to generate a PDF file.
 
 ### Game dev
 
-*   [Castle Game Engine (⭐656)](https://github.com/castle-engine/castle-engine). `[Delphi]` `[FPC]` Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
-*   [Ray4Laz (⭐58)](https://github.com/GuvaCode/Ray4Laz). `[FPC]` A complete header translation (binding) of [raylib 4.0](https://www.raylib.com/) to Pascal.
+*   [Castle Game Engine (⭐668)](https://github.com/castle-engine/castle-engine). `[Delphi]` `[FPC]` Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
+*   [Ray4Laz (⭐62)](https://github.com/GuvaCode/Ray4Laz). `[FPC]` A complete header translation (binding) of [raylib](https://www.raylib.com/) to Pascal.
 
 ### Single controls
 
@@ -115,7 +115,7 @@
 
 ### Viewers
 
-*   [WebView4Delphi (⭐126)](https://github.com/salvadordf/WebView4Delphi). `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.
+*   [WebView4Delphi (⭐135)](https://github.com/salvadordf/WebView4Delphi). `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.
 
 ### Other GUI
 
@@ -130,15 +130,13 @@
 *   [GS.Core (⭐24)](https://github.com/VincentGsell/GS.Core). `[Delphi]` `[FPC]` Core functions shared by several projects.
     // *Thread Pool, file operations, Key<>Value database, JSON lib, etc*
 *   [CocinAsync](https://bitbucket.org/sivv/cocinasync). `[Delphi]` High performance library for Delphi to simplify coding and improve performance of asynchronous and multithreaded applications.
-*   [Delphi LightSaber (⭐4)](https://github.com/GodModeUser/Delphi-LightSaber). `[Delphi]` Lightweight alternative to Jedi library.
-    Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies.  Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
 *   [LAMW (⭐189)](https://github.com/jmpessoa/lazandroidmodulewizard). `[FPC]` Lazarus Android Module Wizard to create JNI Android loadable module (.so) and Android Apk using Lazarus/Free Pascal.
 
 ## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Million (⭐5.3k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
+*   [Million (⭐5.4k)](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 
 ## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -148,9 +146,9 @@
 
 ## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Editing support / Diagnostics
+### Editing Support / Diagnostics
 
-*   [gbprod/cutlass.nvim (⭐81)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
+*   [gbprod/cutlass.nvim (⭐80)](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'.
 
 ## [13. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -160,15 +158,15 @@
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
-### Tooling / Wasm
+### Tooling / Frameworks
 
-*   [trunk-action (⭐14)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
+*   [trunk-action (⭐15)](https://github.com/jetli/trunk-action) - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 
 ## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / General Tools
 
-*   [Equinox (⭐621)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
+*   [Equinox (⭐670)](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/equinox-create-wallpaper/id1591510203)
 
 ## [16. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

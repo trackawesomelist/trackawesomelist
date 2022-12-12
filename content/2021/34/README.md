@@ -10,12 +10,12 @@
 
 ### Libraries / Game development
 
-*   [raylib.v (⭐30)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
+*   [raylib.v (⭐32)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 *   [vraylib (⭐48)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
 
 ### Libraries / Operating system
 
-*   [mmap (⭐4)](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
+*   [mmap (⭐5)](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
 
 ## [2. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Syntax / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-textobjects (⭐892)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
+*   [nvim-treesitter/nvim-treesitter-textobjects (⭐965)](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Create your own textobjects using tree-sitter queries.
 
 ## [8. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
@@ -121,7 +121,7 @@
 
 ## [16. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
-### Authentication
+### Authentication / Identifiers
 
 *   [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
 
@@ -131,7 +131,7 @@
 
 ### Authorization / Open-source policy frameworks
 
-*   [Oso (⭐2.7k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+*   [Oso (⭐2.8k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
 ## [17. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-tauri (⭐92)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
+*   [vite-plugin-tauri (⭐94)](https://github.com/amrbashir/vite-plugin-tauri) - Integrate Tauri in a Vite project to build cross-platform apps.
 
 ## [20. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
@@ -178,11 +178,6 @@
 
 ## [24. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
-### Apps / Stacks Web Applications
-
-*   [Send Many](https://sendstx.com/) - An application to send STX to many recipients in one transaction.
-*   [MIA Block explorer](http://miamining.com/) - A web application to exolore MIA coin transactions for all and personal accounts.
-
 ### Clarity Resources / Contracts
 
 *   [CityCoin (⭐69)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
@@ -191,7 +186,7 @@
 
 ### Modules / Template engine
 
-*   [handlebars (⭐22)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
+*   [handlebars (⭐23)](https://github.com/alosaur/handlebars) - Handlebars template engine for deno
 *   [mustache (⭐7)](https://github.com/alosaur/mustache) - Mustache template engine for deno
 
 ## [26. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
@@ -199,10 +194,6 @@
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Opportunity Atlas](https://www.opportunityatlas.org/) - These [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0\&topic=0\&paper_id=1652#resource-listing) allow you to analyze social mobility and a variety of other outcomes from life expectancy to patent rates by neighborhood, college, parental income level, and racial background.
-
-### Vendor Data Resources / Urban Observation
-
-*   [Vade](https://www.vadepark.com/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queriable via web-based API's.
 
 ## [27. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
@@ -232,20 +223,36 @@
 
 *   [flat.social](https://flat.social/) - Create fun virtual spaces for online meetings, team activities and virtual socials.
 
-## [31. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [31. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Clojure / Non-X86
+
+*   [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) [(:card\_file\_box: *unglued*)](https://unglue.it/work/489419/)
+
+### Fortran / Phoenix
+
+*   [Fortran 90 Tutorial](http://www.cs.mtu.edu/\~shene/COURSES/cs201/NOTES/fortran.html) - C.-K. Shene at Michigan Technological University (HTML)
+*   [Fortran information & resources](https://www.fortranplus.co.uk/fortran-information/) - fortranplus.co.uk (HTML)
+*   [FORTRAN Performance Tuning co-Guide (1998)](https://www.ibiblio.org/pub/languages/fortran/unct.html) - Timothy C. Prince (HTML)
+*   [Introduction to Fortran](https://qc2-teaching.readthedocs.io/en/latest/programming.html) - Sebastian Ehlert, Julius Stückrath, Marcel Mueller, Marcel Stahn (HTML)
+*   [Modern Fortran Tutorial](https://masuday.github.io/fortran_tutorial/) - Yutaka Masuda (HTML)
+*   [Professional Programmer’s Guide to Fortran77 (2005)](https://www.star.le.ac.uk/\~cgp/prof77.pdf) - Clive G. Page (PDF)
+*   [Self Study Guide 2: Programming in Fortran 95](http://www.mrao.cam.ac.uk/\~rachael/compphys/SelfStudyF95.pdf) - Dr Rachael Padman (PDF)
+
+## [32. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Public Domain
 
 *   [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 *   [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 
-## [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [33. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Private Module Registries / Miscellaneous
 
 *   [terraform-registry (⭐43)](https://github.com/philips-labs/terraform-registry) - Serve terraform provider registry backed by GitHub releases.
 
-## [33. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [34. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / MaaS
 
@@ -279,18 +286,12 @@
     *   [Gartner Magic Quadrant for Robotic Process Automation](https://www.gartner.com/doc/code/441474)
     *   [The Forrester Wave: Robotic Process Automation](https://www.forrester.com/go?objectid=RES161538)
 
-## [34. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Internationalization
 
-*   [crystal-i18n (⭐14)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
+*   [crystal-i18n (⭐15)](https://github.com/crystal-i18n/i18n) - An internationalization library inspired by Ruby-I18n
 *   [i18n.cr (⭐24)](https://github.com/vladfaust/i18n.cr) - Internationalization shard
-
-## [35. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
-
-### Swift programming / iOS
-
-*   [Setup Swift environment on Raspbian](https://swiftreviewer.com/2018/12/21/swift-programming-on-raspberry-pi-part-2-3/) - Quick guide to help setup Swift environment on Raspbian stretch (lite).
 
 ## [36. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
@@ -373,54 +374,7 @@
 
 *   [ncurses (⭐1)](https://github.com/edadma/ncurses) - Bindings for the [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
 
-## [45. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
-
-### Responsive / Syntax Highlight
-
-*   [cdbreact (⭐33)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
-
-## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
-
-### Python / Reinforcement Learning
-
-*   [RLlib (⭐22k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
-
-## [47. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
-
-### GTFS Converters / Ruby
-
-*   [gtfs2gps (⭐60)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
-
-### GTFS Data Collection and Maintenance Tools / Ruby
-
-*   [TransitWand (⭐35)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
-
-## [48. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### Others
-
-*   [Time Mage (⭐4)](https://github.com/DanielRBowen/TimeMage) - ![last commit](https://img.shields.io/github/last-commit/DanielRBowen/TimeMage?style=flat-square\&cacheSeconds=86400) A Blazor PWA which has Timers, a Stopwatch, and Interval Timers. [Demo](https://timemage.azurewebsites.net/intervaltimers).
-
-### Videos / Others
-
-*   [Blazor ListView Component](https://www.youtube.com/watch?v=vRbMU8IanCQ) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 27, 2021 - In this Blazor Components session, Fahad Mullaji aka @Curious Drive walks us through the various functionalities of the Telerik UI for Blazor ListView component. He explores the multiple List templates, focusing on the Header template which allows adding custom Blazor components, and footer template which shows the number of items in the list.
-*   [The .NET Docs Show - Blazor component testing with bUnit](https://www.youtube.com/watch?v=JtyVBbcVplY) - ![duration](https://img.shields.io/badge/Duration:%20-62%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 23, 2021 - A new UI framework like Blazor means new unit testing scenarios! In this week's episode, community MVP Egil Hansen shows us bUnit, a unit testing library for Blazor components.
-*   [Getting Started with Blazor Components](https://www.youtube.com/watch?v=gZVGwFa-L1s) - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 26, 2021 - Join the amazing Fahad Mullaji a.k.a @Curious Drive in his "Getting Started with Telerik UI for Blazor" journey. In this video, he goes through five of the most practical and frequently used components – TextBox, DropDownList, AutoComplete, MultiSelect, and CheckBox.
-*   [Planning, designing, and coding a Blazor site from scratch part 6](https://www.youtube.com/watch?v=YXrba8kiqzc\&list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI\&index=6) - ![duration](https://img.shields.io/badge/Duration:%20-101%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 23, 2021 - In this episode, Jessica takes revenge on CSS, but the big question is.... Will she win? Adding responsiveness to the menu using only CSS.
-*   [ASP.NET Community Standup - Exploring Blazorise](https://www.pscp.tv/w/1yoKMAwWQLoKQ) - ![duration](https://img.shields.io/badge/Duration:%20-71%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=) August 17, 2021 - ASP.NET Community Standup - Exploring Blazorise with Mladen Macanović. [Url list](https://www.theurlist.com/blazor_community_standup_august_2021).
-*   [Using SignalR in your Blazor applications](https://www.youtube.com/watch?v=caE5VZD5XNk) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 19, 2021 - In this episode, David Pine joins Jeremy to show off this chat bot enabled demo that's powered by Blazor WASM and SignalR. [Source code (⭐149)](https://github.com/IEvangelist/signalr-chat) ![stars](https://img.shields.io/github/stars/IEvangelist/signalr-chat?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/IEvangelist/signalr-chat?style=flat-square\&cacheSeconds=86400). [Demo](https://blazing-chat.azurewebsites.net/).
-*   [Planning, designing, and coding a Blazor site from scratch part 1](https://www.youtube.com/watch?v=ePc7YroqfPg\&list=PLVtyebq5FL-lC_Dmx1wsEoptYILITM4vI) - ![duration](https://img.shields.io/badge/Duration:%20-67%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 8, 2021 - Set up Azure DevOps, Builds, Release, and Blazor project.
-*   [Building Modern Applications with GraphQL and Blazor](https://www.youtube.com/watch?v=P7y-OxeSkZ8) - ![duration](https://img.shields.io/badge/Duration:%20-72%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) May 14, 2021 - Building Modern Applications with GraphQL and Blazor at the JetBrains .NET Days Online. After having a fundamental understanding of how GraphQL improves our data fetching needs in web applications, we will move on and build a nice real-time application with Blazor and GraphQL. Let’s build a truly engaging next gen application and push Blazor to the limit. [Slides](https://slides.com/michaelingmarstaib/developer-week-building-modern-applications-with-graphql-and-blazor). [Source code (⭐46)](https://github.com/michaelstaib/PublicSpeaking/tree/master/jetbrains_net_days_2021) ![stars](https://img.shields.io/github/stars/michaelstaib/PublicSpeaking?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/michaelstaib/PublicSpeaking?style=flat-square\&cacheSeconds=86400).
-
-### Articles / Others
-
-*   [So Why Doesn't Microsoft Provide Its Own Blazor Component Library?](https://visualstudiomagazine.com/articles/2021/08/13/blazor-components.aspx) - August 13, 2021 - Did you ever wonder why Microsoft doesn't provide a component library for Blazor, its red-hot ASP.NET Core framework for creating web apps primarily with C# instead of JavaScript?
-*   [What's New for Blazor/ASP.NET Core in .NET 6 Preview 6](https://visualstudiomagazine.com/articles/2021/07/15/aspnet-core-preview-6.aspx) - July 15, 2021 - What's New for Blazor/ASP.NET Core in .NET 6 Preview 6.
-*   [How to Localize Error Messages for Blazor WebAssembly Forms](https://phrase.com/blog/posts/localizing-error-messages-blazor-webassembly-forms/) - July 12, 2021 - Want to localize form validation error messages in a Blazor WebAssembly app? Follow this guide to learn everything you need to know.
-
-### Podcasts / Others
-
-*   [Dean Guida on the Future of .NET Components](http://azuredevopspodcast.clear-measure.com/dean-guida-on-the-future-of-net-components-episode-154) - August 16, 2021 - Dean Guida shares his insights on the future of .NET components; lessons he has learned having run a software company for over 30 years; his top recommendations when it comes to managing software teams, DevOps toolchains, preparing for the release of .NET 6, server-side vs. Web Assembly, what .NET developers should be doing today for full system testing, and more! He also gives advice to aspiring entrepreneurial software engineers, an overview of Infragistics’ tools, and what to be looking out for as a software developer today. Duration: 34 minutes.
+## [45. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Books / Others
 
@@ -434,13 +388,35 @@
 
 *   [ASP.NET Core Blazor 5.0: Blazor WebAssembly und Blazor Server: Moderne Single-Page-Web-Applications mit .NET, C# und Visual Studio](https://www.amazon.de/exec/obidos/ASIN/393427935X/itvisions-21) - German book on Blazor (Published September 15, 2020 with montly Updates).
 
+## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Responsive / Syntax Highlight
+
+*   [cdbreact (⭐33)](https://github.com/Devwares-Team/cdbreact) - [demo](https://www.devwares.com/product/contrast) - [docs](https://www.devwares.com/docs/contrast/react/index) - Elegant UI Kit library and reusable components for building mobile-first, responsive websites and web apps.
+
+## [47. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+
+### Python / Reinforcement Learning
+
+*   [RLlib (⭐23k)](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+
+## [48. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### GTFS Converters / Ruby
+
+*   [gtfs2gps (⭐60)](https://github.com/ipeaGIT/gtfs2gps) - An R package that converts public transportation data in GTFS format to GPS-like records in a `data.table`, where each row represents the timestamp of each vehicle at a given spatial resolution.
+
+### GTFS Data Collection and Maintenance Tools / Ruby
+
+*   [TransitWand (⭐35)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
+
 ## [49. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Persistent object databases
 
-*   [bknr.datastore (⭐83)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
+*   [bknr.datastore (⭐84)](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [Manual](https://www.common-lisp.net/project/bknr/html/documentation.html). [licence](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
     *   see also this [good introductory blog post](https://ashok-khanna.medium.com/persistent-in-memory-data-storage-in-common-lisp-b-k-n-r-37f8ae76042f)
-    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐142)](https://github.com/screenshotbot/screenshotbot-oss).
+    *   an example web application using bknr.datastore: [screenshotbot-oss (⭐146)](https://github.com/screenshotbot/screenshotbot-oss).
 
 ### Utils / Third-party APIs
 
@@ -448,7 +424,7 @@
 
 ### Command-line options parsers / Third-party APIs
 
-*   👍 [Clingon (⭐49)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
+*   👍 [Clingon (⭐51)](https://github.com/dnaeon/clingon) - a rich command-line options parser system.
     *   it may have the richest feature set: subcommands, generation of bash completion, support for various kinds of options (integers, booleans, counter, enums…), extensible…
 
 ## [50. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
@@ -789,29 +765,29 @@
 
 ### Packages / Ecosystem
 
-*   [ROS2 For Unity (⭐168)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
+*   [ROS2 For Unity (⭐198)](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Packages / Client libraries
 
-*   [ros2cs (⭐41)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
+*   [ros2cs (⭐46)](https://github.com/RobotecAI/ros2cs) - an alternative to ros2\_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
 ## [59. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
-*   [bottom (⭐5.3k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
+*   [bottom (⭐5.6k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
 
 ### Applications / Task scheduling
 
-*   [delicate (⭐491)](https://github.com/BinChengZhao/delicate) — A lightweight and distributed task scheduling platform written in rust. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
+*   [delicate (⭐517)](https://github.com/BinChengZhao/delicate) — A lightweight and distributed task scheduling platform written in rust. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
 
 ### Applications / Video
 
-*   [harlanc/xiu (⭐538)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![Build Status](https://api.travis-ci.com/harlanc/xiu.svg?branch=master)](https://app.travis-ci.com/github/harlanc/xiu) [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
+*   [harlanc/xiu (⭐573)](https://github.com/harlanc/xiu) — A powerful and secure live server by pure rust (rtmp/httpflv/hls/relay). [![Build Status](https://api.travis-ci.com/harlanc/xiu.svg?branch=master)](https://app.travis-ci.com/github/harlanc/xiu) [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 
 ### Libraries / GUI
 
-*   [emoon/rust\_minifb (⭐734)](https://github.com/emoon/rust_minifb) — minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
+*   [emoon/rust\_minifb (⭐759)](https://github.com/emoon/rust_minifb) — minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
 
 ## [60. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -853,7 +829,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-timer-hook (⭐96)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+*   [vue-timer-hook (⭐110)](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 ### Components & Libraries / UI Layout
 
@@ -861,14 +837,14 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Materio-vuetify-vuejs-admin-template-free (⭐380)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
+*   [Materio-vuetify-vuejs-admin-template-free (⭐428)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 *   [Fes.js (⭐1.1k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
 
 ## [65. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Changes
 
-*   [Bytebase (⭐4.1k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
+*   [Bytebase (⭐4.5k)](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 
 ## [66. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 

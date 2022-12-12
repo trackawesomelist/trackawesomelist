@@ -11,7 +11,7 @@
 ### React Tools / React Component Libraries
 
 *   [react-bulma-components (⭐1.2k)](https://github.com/couds/react-bulma-components) - React components for Bulma framework
-*   [react-bulma (⭐466)](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
+*   [react-bulma (⭐467)](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 *   [trunx (⭐60)](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 
 ## [2. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
@@ -98,12 +98,12 @@
     *   [gensim (⭐14k)](https://github.com/RaRe-Technologies/gensim) - Topic Modeling for Humans.
     *   [langid.py (⭐2k)](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
     *   [nltk](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
-    *   [pattern (⭐8.3k)](https://github.com/clips/pattern) - A web mining module.
+    *   [pattern (⭐8.4k)](https://github.com/clips/pattern) - A web mining module.
     *   [polyglot (⭐2.1k)](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
     *   [pytext (⭐6.4k)](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
     *   [PyTorch-NLP (⭐2.1k)](https://github.com/PetrochukM/PyTorch-NLP) - A toolkit enabling rapid deep learning NLP prototyping for research.
     *   [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
-    *   [Stanza (⭐6.3k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
+    *   [Stanza (⭐6.4k)](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 
 ## [13. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
@@ -148,11 +148,11 @@
 ### Libraries / Encoding
 
 *   JSON
-    *   [importcjj/rust-ajson (⭐86)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
-    *   [maciejhirsz/json-rust (⭐493)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
-    *   [pikkr/pikkr (⭐609)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
-    *   [serde-rs/json (⭐3.4k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.2k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
-    *   [simd-lite/simd-json (⭐704)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
+    *   [importcjj/rust-ajson (⭐90)](https://github.com/importcjj/rust-ajson) [\[ajson\]](https://crates.io/crates/ajson) —  Get JSON values quickly [![build badge](https://api.travis-ci.com/importcjj/rust-ajson.svg?branch=master)](https://app.travis-ci.com/github/importcjj/rust-ajson)
+    *   [maciejhirsz/json-rust (⭐497)](https://github.com/maciejhirsz/json-rust) \[[json](https://crates.io/crates/json)] — JSON implementation in Rust [![build badge](https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master)](https://travis-ci.org/maciejhirsz/json-rust)
+    *   [pikkr/pikkr (⭐610)](https://github.com/pikkr/pikkr) \[[pikkr](https://crates.io/crates/pikkr)] — JSON parser which picks up values directly without performing tokenization in Rust
+    *   [serde-rs/json (⭐3.5k)](https://github.com/serde-rs/json) \[[serde\_json](https://crates.io/crates/serde_json)] — JSON support for [Serde (⭐6.4k)](https://github.com/serde-rs/serde) framework [![build badge](https://api.travis-ci.org/serde-rs/json.svg?branch=master)](https://travis-ci.org/serde-rs/json)
+    *   [simd-lite/simd-json (⭐720)](https://github.com/simd-lite/simd-json) \[[simd-json](https://crates.io/crates/simd-json)] — High performance JSON parser based on a port of simdjson
 
 ## [19. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -280,13 +280,13 @@
 
 ### Applications
 
-*   [Berty (⭐6.2k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+*   [Berty (⭐6.4k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
 
 ## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-thumbs (⭐575)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐578)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [26. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
@@ -591,12 +591,12 @@
 
 ### UI / Barcode
 
-*   [ActivityIndicatorView (⭐906)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ActivityIndicatorView (⭐940)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
 
 ### CSV
 
-*   [CodableCSV (⭐356)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
-*   [CSVParser (⭐85)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
+*   [CodableCSV (⭐366)](https://github.com/dehesa/CodableCSV) :penguin: - Read and write CSV files row-by-row or through Swift's Codable interface.
+*   [CSVParser (⭐86)](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
 
 ## [30. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -872,7 +872,7 @@
 
 ### Architecture
 
-*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐60)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐62)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ### Geolocation
 
@@ -959,7 +959,7 @@
 
 ### Network Protocols
 
-*   [amqp-client.cr (⭐57)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
+*   [amqp-client.cr (⭐59)](https://github.com/cloudamqp/amqp-client.cr) - AMQP 0-9.1, a messaging protocol, implemented by eg. RabbitMQ
 
 ### Web Frameworks
 
@@ -981,7 +981,7 @@
 
 ### Unions
 
-*   [Freezed (⭐1.3k)](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
+*   [Freezed (⭐1.4k)](https://github.com/rrousselGit/freezed) - Code generation for immutable classes that has a simple syntax/API without compromising on the features.
 
 ### Tutorials
 
@@ -991,7 +991,7 @@
 
 ### AI
 
-*   [astar (⭐8)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
+*   [astar (⭐9)](https://github.com/xiejiangzhi/astar) - An other A\* library. Any map(gird, point, mesh or infinite map) and support path cost.
 
 ## [48. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -1013,7 +1013,7 @@
 
 ### Tools / XML
 
-*   [denomander (⭐126)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
+*   [denomander (⭐128)](https://github.com/siokas/denomander) - Deno command-line interfaces inspired from commander.js.
 
 ## [51. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -1027,11 +1027,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐320)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐333)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ### Components & Libraries / UI Components
 
-*   [vuetify-dialog (⭐195)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
+*   [vuetify-dialog (⭐196)](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ## [52. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 

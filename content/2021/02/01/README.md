@@ -38,13 +38,13 @@
 
 ### Testing
 
-*   [Athena Spec (⭐2)](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
+*   [Athena Spec (⭐3)](https://github.com/athena-framework/spec) - Common/helpful [Spec](https://crystal-lang.org/api/Spec.html) compliant testing utilities
 
 ## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Plugins
 
-*   💼 [Scrollbar Hide (⭐100)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
+*   💼 [Scrollbar Hide (⭐112)](https://github.com/reslear/tailwind-scrollbar-hide) - Adds `scrollbar-hide` class for visual hide scrollbar.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -72,13 +72,13 @@
 
 ### Examples / Hardware Offload
 
-*   [ebpf-kill-example (⭐15)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
+*   [ebpf-kill-example (⭐16)](https://github.com/niclashedam/ebpf-kill-example) - A fully documented and tested example of an eBPF probe that logs all force-kills and prints them out in user-space.
 
 ## [11. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
 ### Administration
 
-*   [AdminLTEBundle (⭐202)](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
+*   [AdminLTEBundle (⭐204)](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
 
 ### Reading
 
@@ -88,7 +88,7 @@
 
 ### Data Visualization / Runner
 
-*   [echarts (⭐53k)](https://github.com/apache/echarts) - Enterprise Charts.
+*   [echarts (⭐54k)](https://github.com/apache/echarts) - Enterprise Charts.
 *   [G2 (⭐11k)](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 *   [G2Plot (⭐2.3k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 

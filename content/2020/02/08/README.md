@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2020
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -14,7 +14,7 @@
 
 ### Software / Communication - IRC
 
-*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐690)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
+*   [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support. ([Demo](https://kiwiirc.com/nextclient/), [Source Code (⭐705)](https://github.com/kiwiirc/kiwiirc)) `Apache-2.0` `Nodejs`
 
 ### Software / Conference Management
 
@@ -30,11 +30,11 @@
 
 ### Software / Ticketing
 
-*   [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code (⭐1.4k)](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`
+*   [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code (⭐1.5k)](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`
 
 ### Software / URL Shorteners
 
-*   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐1.6k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP`
+*   [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code (⭐1.7k)](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP`
 
 ### Software / Wikis
 
@@ -51,7 +51,22 @@
 
 *   [wdio-visual-regression (⭐3)](https://github.com/ennjin/wdio-visual-regression) - Visual regression tool for webdriver.io
 
-## [3. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C# / Non-X86
+
+*   [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
+*   [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
+
+### HTML and CSS / Spock Framework
+
+*   [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
+
+### .NET Framework / PicoLisp
+
+*   [Akka.NET Succinctly](https://www.syncfusion.com/ebooks/akka_net_succinctly) - Zoran Maksimovic
+
+## [4. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Fraud / Trust Score
 
@@ -66,19 +81,19 @@
 
 *   [More than 600 million users installed Android 'fleeceware' apps from the Play Store](https://www.zdnet.com/article/more-than-600-million-users-installed-android-fleeceware-apps-from-the-play-store/) - A new kind of fraud, in which apps silently keep charging users after the end of the trial period.
 
-## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulators / Experimental/Proof of Concepts
 
-*   [MetroBoy (⭐988)](https://github.com/aappleby/MetroBoy) - A playable, circuit-level simulation of an entire Game Boy.
+*   [MetroBoy (⭐989)](https://github.com/aappleby/MetroBoy) - A playable, circuit-level simulation of an entire Game Boy.
 
-## [5. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [6. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Text & Rich Content / Navigation Demos
 
 *   [react-native-responsive-fontsize ★83 (⭐534)](https://github.com/heyman333/react-native-responsive-fontsize) - Provide responsive fontsize based on device height in React-Native
 
-## [6. Awesome Gif](/content/davisonio/awesome-gif/README.md)
+## [7. Awesome Gif](/content/davisonio/awesome-gif/README.md)
 
 ### Utilities
 
@@ -88,20 +103,20 @@
 
 *   [Gif-h (⭐415)](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs
 
-## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Docker Container Actions
 
 *   [Apply templates with Jinja2 (⭐36)](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 
-## [8. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
+## [9. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 
 ### Posts and Articles
 
 *   [Why do 87% of data science projects never make it into production?](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/) - Data is not to be overlooked, and communication between teams and data scientists is important to integrate solutions properly.
 *   [The real reason most ML projects fail](https://towardsdatascience.com/what-is-the-main-reason-most-ml-projects-fail-515d409a161f) - Focus on clear business objectives, avoid pivots of algorithms unless you have really clean code, and be able to know when what you coded is "good enough".
 
-## [9. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Online Books
 

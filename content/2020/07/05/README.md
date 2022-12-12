@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Devii (⭐457)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐461)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ## [2. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Packages / Text
 
-*   [StegCloak (⭐2.7k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+*   [StegCloak (⭐2.8k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -116,7 +116,7 @@
 ### Components & Libraries / UI Components
 
 *   [vuesence-sliding-header (⭐42)](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
-*   [vue-picture-cut (⭐68)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
+*   [vue-picture-cut (⭐69)](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 
 ---
 

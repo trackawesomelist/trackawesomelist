@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 19, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,7 +10,7 @@
 
 ### Open-Source Projects
 
-*   [Ubuntu 20.04 (⭐2.6k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
+*   [Ubuntu 20.04 (⭐2.7k)](https://github.com/vivek9patel/vivek9patel.github.io) - An Ubuntu desktop using React.js + Tailwind CSS.
 
 ## [2. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
@@ -73,7 +73,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyGMO](https://esa.github.io/pygmo/) - Massively parallel optimization.
-    (Python/C++, MPL 2, [GitHub (⭐259)](https://github.com/esa/pygmo2))
+    (Python/C++, MPL 2, [GitHub (⭐270)](https://github.com/esa/pygmo2))
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -89,10 +89,6 @@
 
 ## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
-### Global Connectivity Indexes
-
-*   cable.co.uk's Worldwide Broadband Price Comparison - ([2021](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
-
 ### Periodic Global Connectivity Reports
 
 *   ITU Measuring Digital Development: ICT Price Trends - [2019](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/prices2019/ITU_ICTpriceTrends_2019.pdf) - analysis and comparison of price data for mobile-voice services, mobile data and fixed broadband. Replaces the 'Measuring the Information Society Report'.
@@ -101,14 +97,7 @@
 
 *   [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) - Updated:February 28, 2020.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [WebAPI vs gRPC in Blazor Train](https://www.youtube.com/watch?v=0fAjA6BVVFI) - ![duration](https://img.shields.io/badge/Duration:%20-22%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 16, 2021 - Carl Franklin shows you how to use gRPC in your Blazor apps as an alternative to a more common API layer. You can download all files at[blazortrain.com](https://blazortrain.com/).
-*   [ASP.NET Community Standup - Exploring Oqtane with Shaun Walker](https://www.youtube.com/watch?v=livNmRqDnMI\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-82%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 13, 2021 - In this edition of the Blazor community standup, we sit down with Shaun Walker to discuss all things Oqtane. [Community links](https://www.theurlist.com/april-community-links).
-
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -135,29 +124,29 @@
 
 
 
-## [9. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
+## [8. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 
 ### Audio Related Packages / Source Separation
 
 *   [NUSSL](https://interactiveaudiolab.github.io/project/nussl.html) [:octocat: (⭐482)](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Holistic source separation framework including DSP methods and deep learning methods.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
-*   [Vue Todo PWA (⭐13)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
+*   [Vue Todo PWA (⭐14)](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
 
 ### Components & Libraries / UI Components
 
-*   [vue-visual-filter (⭐67)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+*   [vue-visual-filter (⭐71)](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
 
-## [11. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
+## [10. Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md)
 
 ### Lower Elementary
 
 *   [Python Turtle (⭐337)](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
 
-## [12. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
@@ -183,7 +172,7 @@
 *   [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 *   [Top 60+ DevOps Interview Questions & Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
 
-## [13. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
+## [12. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 
 ### Training
 

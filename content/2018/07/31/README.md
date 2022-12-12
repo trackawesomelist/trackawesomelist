@@ -16,7 +16,7 @@
 
 ### Network Protocols
 
-*   [crystal-json-socket (⭐12)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐153)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐3)](https://github.com/foi/ruby-json-socket)
+*   [crystal-json-socket (⭐12)](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by and compatible with [node-json-socket (⭐154)](https://github.com/sebastianseilund/node-json-socket/) and [ruby-json-socket (⭐3)](https://github.com/foi/ruby-json-socket)
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -29,7 +29,7 @@
 ### Related Lists
 
 *   [awesome-pcaptools (⭐2.6k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
-*   [awesome-malware-analysis (⭐9.1k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
+*   [awesome-malware-analysis (⭐9.3k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
 ## [5. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -104,7 +104,6 @@
 ### Cloud Architecture
 
 *   [Azure cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns) - Building reliable, scalable, secure applications in the cloud.
-*   [cloud patterns](http://cloudpatterns.org) - A community site dedicated to documenting a master patterns catalog.
 *   [cloud computing patterns](http://www.cloudcomputingpatterns.org) - Cloud Computing Patterns.
 *   [Google Cloud Solutions](https://gcp.solutions) - Real business cases solutions with diagrams on GCP.
 
@@ -147,7 +146,7 @@
 ### Algorithms and Data structures
 
 *   [jumper (⭐5)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐465)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
+*   [matrex (⭐469)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Chatting
 
@@ -164,7 +163,7 @@
 
 ### Static Page Generation
 
-*   [glayu (⭐72)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
+*   [glayu (⭐73)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 
 ### Third Party APIs
 
@@ -172,7 +171,7 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐374)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐376)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
@@ -199,7 +198,7 @@
 
 ### Utility / Barcode
 
-*   [EtherWalletKit (⭐134)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
+*   [EtherWalletKit (⭐135)](https://github.com/SteadyAction/EtherWalletKit) - Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.
 
 ## [15. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -333,7 +332,7 @@
 
 ### Resources / Examples
 
-*   [Vue + TypeScript Cookbook (⭐270)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
+*   [Vue + TypeScript Cookbook (⭐269)](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 
 ## [23. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

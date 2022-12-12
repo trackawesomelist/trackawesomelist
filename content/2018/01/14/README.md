@@ -10,7 +10,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [TimeMark (⭐15)](https://github.com/MarsZone/TimeMark) - A Time manager which will can record your time and some more function will be developed.
+*   [TimeMark (⭐14)](https://github.com/MarsZone/TimeMark) - A Time manager which will can record your time and some more function will be developed.
 
 ## [2. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 

@@ -86,7 +86,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [Hakatime (⭐374)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
+*   [Hakatime (⭐404)](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`
 
 ## [11. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Logging / Barcode
 
-*   [Gedatsu (⭐517)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+*   [Gedatsu (⭐518)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Hardware
 
-*   [Plotters (⭐753)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+*   [Plotters (⭐787)](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 
 ## [18. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

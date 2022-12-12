@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 26, 2016
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -80,13 +80,6 @@ Webpage: <http://sanktoberholz.de/en/coffee/>
 ### Aurelia Tutorials / Aurelia Videos
 
 *   03.08.2016 [Discover Aurelia with CEO Rob Eisenberg](https://www.youtube.com/watch?v=fi33aDFKvxE)
-
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Development tools / FFI
-
-*   Haskell
-    *   [mgattozzi/curryrs (⭐296)](https://github.com/mgattozzi/curryrs) — Bridge the gap between Haskell and Rust
 
 ---
 

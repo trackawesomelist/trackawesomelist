@@ -58,7 +58,7 @@
 
 ### Code check/review, debug
 
-*   [AsmProfiler (⭐110)](https://github.com/andremussche/asmprofiler). `[Delphi]` Full tracing 32bit profiler (instrumenting and sampling), written in Delphi and some assembly
+*   [AsmProfiler (⭐111)](https://github.com/andremussche/asmprofiler). `[Delphi]` Full tracing 32bit profiler (instrumenting and sampling), written in Delphi and some assembly
 
 ## [8. Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md)
 

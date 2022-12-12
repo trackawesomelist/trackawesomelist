@@ -94,13 +94,13 @@
 
 ### Socket / Barcode
 
-*   [SwiftDSSocket (⭐64)](https://github.com/csujedihy/SwiftDSSocket) - Asynchronous socket framework built atop DispatchSource.
+*   [SwiftDSSocket (⭐65)](https://github.com/csujedihy/SwiftDSSocket) - Asynchronous socket framework built atop DispatchSource.
 
 ## [7. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 
 ### Linters / More
 
-*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.4k)](https://github.com/prettier/prettier-vscode).
+*   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier (⭐4.5k)](https://github.com/prettier/prettier-vscode).
 
 ---
 

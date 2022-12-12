@@ -1,18 +1,24 @@
 # Awesome List Updates on Jul 03, 2016
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C# / Non-X86
+
+*   [Introduction to Rx](http://www.introtorx.com)
+
+## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Command-line apps
 
-*   [atmo (⭐816)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [atmo (⭐812)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
-## [2. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [3. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Design
 
@@ -23,25 +29,25 @@
 *   [httparty (⭐5.6k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
 *   [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 
-## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
+## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 
 ### Libraries Audio
 
 *   [audio-render (⭐40)](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
 
-## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Utilities
 
 *   [Vert.x Cron (⭐59)](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 
-## [5. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [6. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Libraries / Components
 
 *   [tommy-the-runner/cyclejs-ace-editor ★0 (⭐1)](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace (⭐1k)](https://github.com/thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
 
-## [6. Awesome](/content/Awesome-Windows/Awesome/README.md)
+## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
 ### Audio
 
@@ -51,7 +57,7 @@
 
 *   [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 
-## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [8. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Algorithms
 
@@ -77,14 +83,14 @@
     *   [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/readings/)
     *   [Resources](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/download-course-materials/)
 
-## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Emulators
 
 *   [ARChon](https://archon-runtime.github.io)
 *   [Genymotion](https://www.genymotion.com)
 
-## [9. Tips](/content/git-tips/tips/README.md)
+## [10. Tips](/content/git-tips/tips/README.md)
 
 ## Show the author, time and last revision made to each line of a given file
 
@@ -92,7 +98,7 @@
 git blame <file-name>
 ```
 
-## [10. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
+## [11. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
 ### Sysevent provider
 
@@ -130,31 +136,31 @@ git blame <file-name>
     *   [DTrace on FreeBSD](https://www.youtube.com/watch?v=s5PpSiPfSNI\&index=15\&list=PL973D48F273EB0360)
     *   [Barriers to DTrace Adoption](https://www.youtube.com/watch?v=P95LHZ-WOWw\&index=16\&list=PL973D48F273EB0360)
 
-## [11. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [12. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Disassemblers and debuggers
 
 *   [plasma (⭐3k)](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 
-## [12. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [13. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Photography / CC0-license
 
 *   [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
 
-## [13. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [14. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Other Interesting Articles / Polyfills
 
 *   [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
-## [14. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [15. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Tools
 
 *   [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 
-## [15. Awesome R](/content/qinwf/awesome-R/README.md)
+## [16. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### R Development
 

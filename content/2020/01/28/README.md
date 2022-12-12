@@ -160,8 +160,8 @@
 ### Researchers / Frameworks
 
 *   [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing (⭐3k)](https://github.com/catalyst-team/catalyst)
-*   [garage - A toolkit for reproducible reinforcement learning research (⭐1.5k)](https://github.com/rlworkgroup/garage)
-*   [Detecto - Train and run object detection models with 5-10 lines of code (⭐563)](https://github.com/alankbi/detecto)
+*   [garage - A toolkit for reproducible reinforcement learning research (⭐1.6k)](https://github.com/rlworkgroup/garage)
+*   [Detecto - Train and run object detection models with 5-10 lines of code (⭐566)](https://github.com/alankbi/detecto)
 *   [Karate Club - An unsupervised machine learning library for graph structured data (⭐1.8k)](https://github.com/benedekrozemberczki/karateclub)
 
 ### Researchers / Tools

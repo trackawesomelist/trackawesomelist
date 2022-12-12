@@ -53,7 +53,7 @@
 
 ### services
 
-*   [geojsonio-cli (⭐153)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
+*   [geojsonio-cli (⭐155)](https://github.com/mapbox/geojsonio-cli): send geojson features to geojson.io from your command line
 
 ### data
 

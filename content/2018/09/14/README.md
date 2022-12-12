@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [SimpleSignal (⭐142)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
+*   [SimpleSignal (⭐145)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
 ---
 

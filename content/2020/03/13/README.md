@@ -49,9 +49,9 @@
 
 ### Projects
 
-*   [Rust electron yew demo (⭐15)](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
+*   [Rust electron yew demo (⭐17)](https://github.com/Extrawurst/rust-electron-demo) - An example of building a Rust based web app (Yew) into a native app using electron.
 
-### Tooling / Wasm
+### Tooling / Frameworks
 
 *   [wasm-pack-action (⭐33)](https://github.com/jetli/wasm-pack-action) - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 
@@ -70,7 +70,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [MQTTX (⭐2.2k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+*   [MQTTX (⭐2.3k)](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 
 ## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

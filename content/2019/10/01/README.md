@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2019
 
-25 awesome lists updated today.
+26 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -219,7 +219,13 @@
 
 *   [Find Voice Jobs](https://www.findvoicejobs.com) - Website to find jobs in VUI Domain
 
-## [14. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### OpenMP / PicoLisp
+
+*   [OpenMP Application Programming Interface Standard Version 5.0](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf) (PDF)
+
+## [15. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -588,13 +594,13 @@
 | ------: | -------: | ------: |
 |   1 - 4 |       12 | 60-120m |
 
-## [15. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
+## [16. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/README.md)
 
 ### Tools / update
 
 *   [pre-commit (⭐9k)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
-## [16. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [17. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Howtos
 
@@ -617,13 +623,13 @@
 
 *   Chain React 2019: [Playlist](https://www.youtube.com/watch?v=zEjqDWqeDdg\&list=PLFHvL21g9bk2bTWTCP1BueiiIz8q258z9)
 
-## [17. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [18. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### Projects
 
 *   [Smart Security Camera](https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/) - Using OpenCV, Twilio and a WebCam/picam.
 
-## [18. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [19. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Developer Utilities
 
@@ -646,19 +652,19 @@
 
 *   [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 
-## [19. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [20. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Resources / Miscellaneous
 
 *   [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 
-## [20. Awesome Python](/content/vinta/awesome-python/README.md)
+## [21. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Microsoft Windows
 
-*   [PyWin32 (⭐4k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
+*   [PyWin32 (⭐4.1k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
 
-## [21. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
+## [22. Awesome Qlik](/content/ambster-public/awesome-qlik/README.md)
 
 ### Community Resources and Blogs
 
@@ -668,19 +674,19 @@
     *   [/r/QlikSense](https://www.reddit.com/r/qliksense/) - Subreddit about Qlik Sense.
     *   [/r/QlikView](https://www.reddit.com/r/qlikview/) - Subreddit about QlikView.
 
-## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [23. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Nigeria](http://www.laravelnigeria.com/) ([Facebook](https://www.facebook.com/groups/laravelnigeria/))
 
-## [23. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [24. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### External Services / Terraform
 
 *   [Upload files to any OpenStack Swift service provider (⭐1)](https://github.com/iksaku/openstack-swift-action)
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / IDEs
 
@@ -690,7 +696,7 @@
 
 *   [Lungo](https://sindresorhus.com/lungo) - Prevent your Mac from going to sleep. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/lungo/id1263070803)
 
-## [25. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
+## [26. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
 ### Typescript Seed Projects / Aurelia + Electron Examples
 

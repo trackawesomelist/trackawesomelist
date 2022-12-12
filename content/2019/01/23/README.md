@@ -10,7 +10,7 @@
 
 ### Interoperability
 
-*   [PInvoke Interop Assistant (⭐339)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
+*   [PInvoke Interop Assistant (⭐343)](https://github.com/jaredpar/pinvoke-interop-assistant) - Converts C to managed P/Invoke signatures or verse visa.
 
 ### Search
 
@@ -60,7 +60,7 @@
 
 ### Boilerplates
 
-*   [NextJS Headless CMS Powered Blog Starter (⭐131)](https://github.com/ButterCMS/react-cms-blog-with-next-js)
+*   [NextJS Headless CMS Powered Blog Starter (⭐132)](https://github.com/ButterCMS/react-cms-blog-with-next-js)
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Projects / Open Source Projects
 
-*   [Newspaper app with custom user model, full user auth (⭐809)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
+*   [Newspaper app with custom user model, full user auth (⭐822)](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
 *   [Image Sharing Blog (⭐40)](https://github.com/MeNsaaH/soMedia)
 
 ### Django REST Framework / DRF Resources
@@ -136,7 +136,7 @@
 
 ### Download Management Tools / File Sharing
 
-*   [youtube-dl (⭐114k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [youtube-dl (⭐116k)](https://github.com/rg3/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rg3/youtube-dl/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ---
 

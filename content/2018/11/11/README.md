@@ -16,7 +16,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [emel (⭐91)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
+*   [emel (⭐92)](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library written in Elixir.
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -34,8 +34,8 @@
 
 ### Testing
 
-*   [aresponses (⭐93)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.7k)](https://github.com/getsentry/responses) library used for [requests (⭐48k)](https://github.com/requests/requests).
-*   [aioresponses (⭐385)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
+*   [aresponses (⭐92)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.7k)](https://github.com/getsentry/responses) library used for [requests (⭐48k)](https://github.com/requests/requests).
+*   [aioresponses (⭐388)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

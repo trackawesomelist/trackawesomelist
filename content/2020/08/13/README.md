@@ -16,7 +16,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.2k)](https://github.com/plankanban/planka)) `MIT` `Nodejs`
+*   [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code (⭐2.3k)](https://github.com/plankanban/planka)) `MIT` `Nodejs`
 
 ## [3. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -51,7 +51,13 @@
 
 
 
-## [6. Learn to Program](/content/karlhorky/learn-to-program/README.md)
+## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Tools & Utilities / Others
+
+*   [Blazor.ScriptInjection (⭐17)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
+
+## [7. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
 ### Intermediate
 
@@ -59,13 +65,6 @@
 
 **Free** Learn to code and game at the same time.\
 *(C#, C++, Java, JavaScript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
-
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Tools & Utilities / Others
-
-*   [Blazor.ScriptInjection (⭐17)](https://github.com/excubo-ag/Blazor.ScriptInjection) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.ScriptInjection?style=flat-square\&cacheSeconds=86400) Smart script tags in Blazor components, ideal for lazy loading of javascript files.
-*   [BlazorX.NavigationState (⭐9)](https://github.com/diegofrata/BlazorX.NavigationState) - ![last commit](https://img.shields.io/github/last-commit/diegofrata/BlazorX.NavigationState?style=flat-square\&cacheSeconds=86400) BlazorX.NavigationState provides a set of utilities that allow you to observe and bind query strings directly to Blazor components.
 
 ## [8. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

@@ -89,9 +89,13 @@
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
+### GUI
+
+*   [WinApi (⭐746)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+
 ### State machines
 
-*   [LiquidState (⭐219)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+*   [LiquidState (⭐220)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
@@ -269,11 +273,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ChuckNorris (⭐22)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
+*   [ChuckNorris (⭐21)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
 
 ### Components & Libraries / UI Components
 
-*   [vue-pure-lightbox (⭐160)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
+*   [vue-pure-lightbox (⭐159)](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 
 ## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -283,7 +287,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐377)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐385)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [27. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -345,10 +349,6 @@
 
 ## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
-### Frameworks, Libraries and Tools / GUI
-
-*   [WinApi (⭐734)](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
-
 ### Frameworks, Libraries and Tools / IOC
 
 *   [Stashbox (⭐112)](https://github.com/z4kn4fein/stashbox) - A lightweight, portable dependency injection framework for .NET based solutions.
@@ -383,7 +383,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-CoreLocation (⭐5.2k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+*   [ARKit-CoreLocation (⭐5.3k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 
 ### Concurrency
 
@@ -391,12 +391,12 @@
 
 ### UI / Barcode
 
-*   [ShadowView (⭐402)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+*   [ShadowView (⭐404)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 *   [UIPheonix (⭐29)](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 
 ### Button / Barcode
 
-*   [TransitionButton (⭐1.3k)](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
+*   [TransitionButton (⭐1.4k)](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
 
 ### Walkthrough / Barcode
 

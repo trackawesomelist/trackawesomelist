@@ -10,18 +10,18 @@
 
 ### Miscellaneous / React
 
-*   [graphqlgate (⭐53)](https://github.com/oslabs-beta/GraphQL-Gate) - A GraphQL rate-limiting library with query complexity analysis for Node.js
+*   [graphqlgate (⭐54)](https://github.com/oslabs-beta/GraphQL-Gate) - A GraphQL rate-limiting library with query complexity analysis for Node.js
 
 ## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [completions (clarketm) (⭐40)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐5.6k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐88)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐8)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
-*   [completions (zchee) (⭐88)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
-*   [completions (zsh-users) (⭐5.6k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
-*   [fzshell (⭐53)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
+*   [completions (clarketm) (⭐43)](https://github.com/clarketm/zsh-completions) - This includes the zsh-users[completions (⭐5.7k)](https://github.com/zsh-users/zsh-completions), zchee's [completions (⭐91)](https://github.com/zchee/zsh-completions), nilsonholger's [osx-zsh-completions (⭐8)](https://github.com/nilsonholger/osx-zsh-completions) and various other custom completions.
+*   [completions (zchee) (⭐91)](https://github.com/zchee/zsh-completions) - Yet another collection of tab completions.
+*   [completions (zsh-users) (⭐5.7k)](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
+*   [fzshell (⭐55)](https://github.com/mnowotnik/fzshell) - Fetches fuzzy completions from sources predefined by a user.
 *   [osx-zsh-completions (⭐8)](https://github.com/nilsonholger/osx-zsh-completions) - Tab completions for some macOS-specific commands like `launchctl`.
-*   [pipx (⭐1)](https://github.com/omBratteng/zsh-plugin-pipx) - Tab completions for [pipx (⭐5.6k)](https://github.com/pypa/pipx).
+*   [pipx (⭐1)](https://github.com/omBratteng/zsh-plugin-pipx) - Tab completions for [pipx (⭐5.8k)](https://github.com/pypa/pipx).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -31,13 +31,13 @@
 
 ### Components & Libraries / Utilities
 
-*   [intlify/vue-i18n-next (⭐1k)](https://github.com/intlify/vue-i18n-next) -  Vue I18n for Vue 3.
+*   [intlify/vue-i18n-next (⭐1.1k)](https://github.com/intlify/vue-i18n-next) -  Vue I18n for Vue 3.
 
 ## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
 
-*   [baowenbo/DAIN (⭐7.6k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
+*   [baowenbo/DAIN (⭐7.7k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 *   [Dain-App 1.0 \[Nvidia Only\] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
@@ -50,7 +50,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Apache Ballista (⭐328)](https://github.com/apache/arrow-ballista) \[Rust] - distributed compute platform powered by Apache Arrow.
+*   [Apache Ballista (⭐412)](https://github.com/apache/arrow-ballista) \[Rust] - distributed compute platform powered by Apache Arrow.
 
 ---
 

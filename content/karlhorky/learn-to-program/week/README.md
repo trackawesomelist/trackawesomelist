@@ -167,15 +167,6 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 **Free** SQL courses with interactive exercises and quizzes\
 *(SQL, database concepts)*
 
-## [Jun 01 - Jun 07, 2015](/content/2015/22/README.md)
-
-### Beginner
-
-#### [Platzi](https://courses.platzi.com/)
-
-**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.\
-*(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
-
 ## [Mar 09 - Mar 15, 2015](/content/2015/10/README.md)
 
 ### Advanced

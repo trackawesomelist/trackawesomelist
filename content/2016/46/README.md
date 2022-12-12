@@ -121,7 +121,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [somoclu (⭐240)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
+*   [somoclu (⭐239)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 
 ## [7. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -142,7 +142,7 @@
 ### For Electron / Other
 
 *   [electron-is-accelerator (⭐15)](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
-*   [electron-pdf-window (⭐266)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐265)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -334,12 +334,12 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐8.2k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐8.4k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Compilers, Transpilers and Languages
 
 *   [P (⭐2.6k)](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
-*   [Roslyn-linq-rewrite (⭐703)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+*   [Roslyn-linq-rewrite (⭐702)](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ### Visual Studio Plugins
 
@@ -366,7 +366,7 @@
 
 ### Examples and funny stuff
 
-*   [try.cr (⭐26)](https://github.com/maiha/try.cr) - Try monad
+*   [try.cr (⭐27)](https://github.com/maiha/try.cr) - Try monad
 
 ## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -539,7 +539,7 @@
 
 ### Packages / Testing
 
-*   [TestCafe (⭐9.4k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
+*   [TestCafe (⭐9.5k)](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
 ## [39. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 

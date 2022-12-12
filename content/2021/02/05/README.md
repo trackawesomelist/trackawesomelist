@@ -65,15 +65,11 @@ Language: English
 
 *   [BlazorIndexedDbJs (⭐11)](https://github.com/kattunga/BlazorIndexedDbJs) - ![last commit](https://img.shields.io/github/last-commit/kattunga/BlazorIndexedDbJs?style=flat-square\&cacheSeconds=86400) BlazorIndexedDbJs is a wrapper arround IndexedDB DOM API, supports Blazor WASM and Server.
 
-### Videos / Others
-
-*   [Blazor Power Hour: FAQ show #1](https://www.twitch.tv/videos/899338170) - ![duration](https://img.shields.io/badge/Duration:%20-53%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=twitch) February 3, 2021 - Blazor Power Hour: FAQ show 1, with ed Charbeneau.
-
 ## [7. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Table
 
-*   [svelte-simple-datatables (⭐208)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
+*   [svelte-simple-datatables (⭐214)](https://github.com/vincjo/svelte-simple-datatables) - A Datatable component for Svelte
 
 ## [8. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

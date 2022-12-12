@@ -10,7 +10,7 @@
 
 ### GUI
 
-*   [Jailer (⭐1.4k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
+*   [Jailer (⭐1.5k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tree
 
-*   [react-complex-tree (⭐259)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐269)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
 ## [6. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
@@ -98,14 +98,14 @@
 
 ### Dynamic type checkers
 
-*   [pytypes (⭐185)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
+*   [pytypes (⭐188)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
 
 ### Stub packages
 
-*   [botostubs (⭐93)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [data-science-types (⭐193)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐22k)](http://github.com/numpy/numpy), [pandas (⭐36k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐16k)](https://github.com/matplotlib/matplotlib).
-*   [PyQt5-stubs (⭐61)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐507)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐6.1k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [botostubs (⭐94)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
+*   [data-science-types (⭐193)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐22k)](http://github.com/numpy/numpy), [pandas (⭐36k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib).
+*   [PyQt5-stubs (⭐62)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
+*   [sqlalchemy-stubs (⭐516)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐6.4k)](https://github.com/sqlalchemy/sqlalchemy).
 
 ### Backports and improvements
 
@@ -113,27 +113,27 @@
 
 ### Tools / Linters
 
-*   [flake8-pyi (⭐51)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
+*   [flake8-pyi (⭐55)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐215)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐217)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
-*   [merge-pyi (⭐3.9k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
-*   [mypy-silent (⭐7)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
+*   [merge-pyi (⭐4k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+*   [mypy-silent (⭐8)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
 
 ### Tools / Helper tools to add annotations to existing code
 
 *   [pytest-annotate (⭐100)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
-*   [pytest-monkeytype (⭐35)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [typilus (⭐46)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
+*   [pytest-monkeytype (⭐36)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
+*   [typilus (⭐47)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
-*   [loguru-mypy (⭐12)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐13k)](https://github.com/Delgan/loguru) support.
-*   [pynamodb-mypy (⭐1)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2k)](https://github.com/pynamodb/PynamoDB) support.
+*   [loguru-mypy (⭐13)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐14k)](https://github.com/Delgan/loguru) support.
+*   [pynamodb-mypy (⭐1)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.1k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 

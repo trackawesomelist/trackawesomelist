@@ -10,7 +10,7 @@
 
 ### Generators / Other
 
-*   [Docusaurus (⭐39k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
+*   [Docusaurus (⭐40k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 
@@ -128,7 +128,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Concurrency
 
-*   [SObjectizer (⭐300)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
+*   [SObjectizer (⭐310)](https://github.com/Stiffstream/sobjectizer) - An implementation of Actor, Publish-Subscribe, and CSP models in one rather small C++ framework. \[BSD-3-Clause]
 
 ### Miscellaneous
 
@@ -150,7 +150,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Related
 
-*   [Awesome CLI (⭐345)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
+*   [Awesome CLI (⭐358)](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 
 ## [15. Awesome Sdn](/content/sdnds-tw/awesome-sdn/README.md)
 
@@ -178,7 +178,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 ### Projects
 
-*   [caniuse.rs (⭐139)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
+*   [caniuse.rs (⭐151)](https://github.com/jplatte/caniuse.rs) - Rust feature search.
 
 ## [18. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

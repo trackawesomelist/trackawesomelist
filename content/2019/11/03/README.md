@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 03, 2019
 
-19 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -71,12 +71,12 @@
 
 *   Synchronous
     *   [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-        *   [awesome-django (⭐946)](https://github.com/shahraizali/awesome-django)
-        *   [awesome-django (⭐6.2k)](https://github.com/wsvincent/awesome-django)
+        *   [awesome-django (⭐992)](https://github.com/shahraizali/awesome-django)
+        *   [awesome-django (⭐6.3k)](https://github.com/wsvincent/awesome-django)
     *   [Flask](http://flask.pocoo.org/) - A microframework for Python.
         *   [awesome-flask (⭐11k)](https://github.com/humiaozuzu/awesome-flask)
     *   [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-        *   [awesome-pyramid (⭐529)](https://github.com/uralbash/awesome-pyramid)
+        *   [awesome-pyramid (⭐531)](https://github.com/uralbash/awesome-pyramid)
     *   [Masonite (⭐1.9k)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 
 ## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
@@ -91,37 +91,43 @@
 
 *   [Noosfero](https://gitlab.com/noosfero/noosfero) - Noosfero is a web platform for social and solidarity economy networks with blog, e-Portfolios, CMS, RSS, thematic discussion, events agenda and collective intelligence for solidarity economy in the same system. `AGPL-3.0` `Ruby`
 
-## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### ABAP
+
+*   [SAP Code Style Guides - Clean ABAP (⭐1.2k)](https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md)
+
+## [12. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 
 ### Apps / Network
 
 *   [sshpiper (⭐673)](https://github.com/tg123/sshpiper) [![stars](https://img.shields.io/github/stars/tg123/sshpiper.svg?style=social\&label=stars)](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp.
 
-## [12. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
+## [13. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
 ### Email
 
 *   [pyramid\_mailgun (⭐2)](https://github.com/evannook/pyramid_mailgun) - Mailgun integration for Pyramid framework.
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐6.3k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐6.4k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
-## [14. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
+## [15. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
 ### Organizations
 
 *   [Pink Programming](https://www.pinkprogramming.se) - A non-profit organization that organizes code events for the women, transgender, and non-binary communities.
 
-## [15. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [16. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### CLOS extensions
 
 *   [filtered-functions (⭐41)](https://github.com/pcostanza/filtered-functions) - enable the use of arbitrary predicates for selecting and applying methods. [MIT](https://opensource.org/licenses/MIT).
 
-## [16. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [17. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Coordination & Governance / Scala
 
@@ -139,13 +145,13 @@
 
 *   [JSON:API](https://jsonapi.org/) - A specification for how a client should request that resources be fetched or modified, and how a server should respond to those requests.
 
-## [17. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [18. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### HTML/XML Parsing
 
 *   [Oga](https://gitlab.com/yorickpeterse/oga) - An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms.
 
-## [18. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [19. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Anonymity Tools / Tor Tools
 
@@ -160,7 +166,7 @@
 
 *   [Smart Install Exploitation Tool (SIET) (⭐517)](https://github.com/Sab0tag3d/SIET) - Scripts for identifying Cisco Smart Install-enabled switches on a network and then manipulating them.
 
-## [19. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [20. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### HTML Templates / Icons Packages and Collections
 

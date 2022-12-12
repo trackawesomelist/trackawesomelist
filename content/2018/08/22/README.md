@@ -14,15 +14,15 @@
 
 ## [2. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
+### IR Tools Collection / Evidence Collection
+
+*   [Margarita Shotgun (⭐215)](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+
 ### IR Tools Collection / Other Tools
 
 *   [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
 
 ## [3. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
-
-### Incident Response tools / Evidence collection
-
-*   [Margarita Shotgun (⭐214)](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 
 ### Incident Response tools / Sandboxes
 
@@ -50,7 +50,7 @@
 
 ### Reactive programming
 
-*   [Cells (⭐183)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
+*   [Cells (⭐186)](https://github.com/kennytilton/cells) - an implementation of the dataflow programming paradigm, reactive spreadsheet-like expressiveness for CLOS. Used to build an [algebra learning system](http://tiltontec.com/). With [documentation (⭐19)](https://github.com/stefano/cells-doc/). Lisp LGPL.
 
 ### Job processing / Third-party APIs
 

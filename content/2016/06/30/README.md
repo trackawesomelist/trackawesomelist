@@ -86,7 +86,7 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 
 ### Testing
 
-*   [FakeItEasy (⭐1.3k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
+*   [FakeItEasy (⭐1.4k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

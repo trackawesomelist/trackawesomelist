@@ -41,7 +41,7 @@
 
 ### Projects / Frameworks
 
-*   [VCFloat (⭐9)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
+*   [VCFloat (⭐11)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
 
 ### Resources / Community
 
@@ -51,7 +51,7 @@
 
 ### Network Protocols
 
-*   [mqtt-client.cr (⭐3)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
+*   [mqtt-client.cr (⭐4)](https://github.com/84codes/mqtt-client.cr) - A fast and lightweight MQTT client
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [nanika (⭐0)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
+*   [nanika (⭐0)](https://github.com/justforuse/nanika-zsh-theme/) - Optimized variant of [robbyrussell (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell). Includes `git` status decorations.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -73,15 +73,15 @@
 
 ### Projects / Idea Plugins
 
-*   [dkandalov/limited-wip (⭐97)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
+*   [dkandalov/limited-wip (⭐101)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
 *   [dkandalov/pomodoro-tm (⭐126)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
-*   [emedinaa/kotlin-mvvm (⭐453)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
+*   [emedinaa/kotlin-mvvm (⭐462)](https://github.com/emedinaa/kotlin-mvvm) - MVVM(Model View ViewModel) sample in Kotlin using the components ViewModel, LiveData and Retrofit library
 
 ## [9. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Client Libraries
 
-*   [.NET Toolchain/SDK (⭐10)](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET (⭐5)](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
+*   [.NET Toolchain/SDK (⭐11)](https://github.com/ajuna-network/Ajuna.SDK) - Toolchain for Substrate .NET. Pre-generated [SubstrateNET (⭐5)](https://github.com/ajuna-network/SubstrateNET); Maintained by Ajuna Network.
 *   [`go-substrate-gen`](https://github.com/Aphoh/go-substrate-gen) - Generate Go (de)serialization/client code from Substrate metadata.
 
 ### Tools
@@ -94,20 +94,20 @@
 
 *   Database Honeypots
 
-    *   [Delilah (⭐14)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
-    *   [ESPot (⭐23)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
+    *   [Delilah (⭐15)](https://github.com/SecurityTW/delilah) - Elasticsearch Honeypot written in Python (originally from Novetta).
+    *   [ESPot (⭐24)](https://github.com/mycert/ESPot) - Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     *   [ElasticPot](https://gitlab.com/bontchev/elasticpot) - An Elasticsearch Honeypot.
     *   [Elastic honey (⭐171)](https://github.com/jordan-wright/elastichoney) - Simple Elasticsearch Honeypot.
     *   [MongoDB-HoneyProxy (⭐81)](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB honeypot proxy.
-    *   [NoSQLpot (⭐101)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
-    *   [mysql-honeypotd (⭐22)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
-    *   [MysqlPot (⭐22)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
-    *   [pghoney (⭐13)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
+    *   [NoSQLpot (⭐100)](https://github.com/torque59/nosqlpot) - Honeypot framework built on a NoSQL-style database.
+    *   [mysql-honeypotd (⭐23)](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
+    *   [MysqlPot (⭐21)](https://github.com/schmalle/MysqlPot) - MySQL honeypot, still very early stage.
+    *   [pghoney (⭐14)](https://github.com/betheroot/pghoney) - Low-interaction Postgres Honeypot.
     *   [sticky\_elephant (⭐6)](https://github.com/betheroot/sticky_elephant) - Medium interaction postgresql honeypot.
-    *   [RedisHoneyPot (⭐7)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
+    *   [RedisHoneyPot (⭐8)](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 *   SIP
 
-    *   [SentryPeer (⭐115)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
+    *   [SentryPeer (⭐118)](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors.
 
 ## [11. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 
@@ -133,11 +133,11 @@
 
 ### Applications
 
-*   [fend (⭐86)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
+*   [fend (⭐117)](https://github.com/printfn/fend) - Arbitrary-precision unit-aware calculator [![build](https://github.com/printfn/fend/workflows/build/badge.svg)](https://github.com/printfn/fend)
 
 ### Development tools / Formatters
 
-*   [rustfmt (⭐4.7k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo [![build badge](https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master)](https://app.travis-ci.com/github/rust-lang/rustfmt)
+*   [rustfmt (⭐4.8k)](https://github.com/rust-lang/rustfmt) — Rust code formatter maintained by the Rust team and included in cargo [![build badge](https://api.travis-ci.com/rust-lang/rustfmt.svg?branch=master)](https://app.travis-ci.com/github/rust-lang/rustfmt)
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -157,7 +157,7 @@
 
 *   [Concepts](https://plato.stanford.edu/entries/concepts/) - ***Plato Stanford***. A collection of the computational philosophical debates about the concepts.
 *   [Theory-theory](https://en.wikipedia.org/wiki/Theory-theory) - ***Wikipedia***. Wikipedia for the Theory theory, a perspective that contextualizes concepts in theoretical (or empirical) systems.
-*   [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***MIT Press***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735\&hl=en\&as_sdt=0,5)]. Alison Gopnik's book that articulates and defends the" theory theory" of cognitive and semantic development, the idea that infants and young children, like scientists, learn about the world by forming and revising theories-a view of the origins of knowledge and meaning that has broad implications for cognitive science.
+*   [Words, thoughts, and theories](http://library.lol/main/6A8215E9BAEB77F198C98CD75C517E02) - ***MIT Press***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=16726462136203686735\&hl=en\&as_sdt=0,5)]. Alison Gopnik's book that articulates and defends the "theory theory" of cognitive and semantic development, the idea that infants and young children, like scientists, learn about the world by forming and revising theories-a view of the origins of knowledge and meaning that has broad implications for cognitive science.
 
 ### Concepts / AI Concept Representation
 

@@ -127,7 +127,7 @@
 
 ### Third Party APIs
 
-*   [tg\_client (⭐12)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
+*   [tg\_client (⭐13)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
 
 ## [12. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 

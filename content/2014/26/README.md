@@ -10,7 +10,7 @@
 
 ### Date and Time
 
-*   [moment (⭐707)](https://github.com/zachwill/moment) - A Python library for dealing with dates/times. Inspired by [Moment.js](http://momentjs.com/).
+*   [moment (⭐709)](https://github.com/zachwill/moment) - A Python library for dealing with dates/times. Inspired by [Moment.js](http://momentjs.com/).
 
 ### Science
 

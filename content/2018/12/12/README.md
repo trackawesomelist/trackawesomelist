@@ -49,7 +49,7 @@
 
 ### Software / Frameworks
 
-*   [MyController (⭐145)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
+*   [MyController (⭐146)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 
 ## [6. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Physics
 
-*   [Project Chrono (⭐1.5k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
+*   [Project Chrono (⭐1.6k)](https://github.com/projectchrono/chrono) - An open source multi-physics simulation engine. \[BSD-3-Clause] [website](https://projectchrono.org/)
 
 ## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 

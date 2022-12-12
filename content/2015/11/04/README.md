@@ -61,7 +61,7 @@
 
 ### Packages / Command-line apps
 
-*   [Jsome (⭐232)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+*   [Jsome (⭐234)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

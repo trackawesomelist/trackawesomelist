@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 19, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐278)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐286)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
@@ -96,23 +96,7 @@
 
 *   [Deploy a Dockerized FastAPI App to Google Cloud Platform](https://towardsdatascience.com/deploy-a-dockerized-fastapi-app-to-google-cloud-platform-24f72266c7ef) - A short guide to deploying a Dockerized Python app to Google Cloud Platform using Cloud Run and a SQL instance.
 
-## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Tutorials
-
-*   [Blast Off with Blazor: Build a search-as-you-type box](https://daveabrock.com/2021/01/14/blast-off-blazor-search-box) - January 14, 2021 - This post shows how to build a quick search box that filters our images.
-*   [Blazor WebAssembly I18n from Start to Finish](https://phrase.com/blog/posts/blazor-webassembly-i18n/) - January 7, 2021 - Blazor is a strong C#-based framework from Microsoft that allows us to create an interactive, client-side web user interface (UI) using .NET. In this tutorial, we will explore how to implement internationalization (i18n) in a Blazor WebAssembly app.
-
-### Videos / Others
-
-*   [Blazor Train: Progressive Web Applications](https://www.youtube.com/watch?v=0O-bNuQOQb8\&feature=youtu.be) - ![duration](https://img.shields.io/badge/Duration:%20-23%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 15, 2021 - Carl Franklin shows you how to create a Blazor PWA and how to configure it for offline access and cached content.
-
-### Articles / Others
-
-*   [How Blazor performs against other Frameworks](https://www.telerik.com/blogs/how-blazor-performs-against-other-frameworks) - January 18, 2021 - How Blazor performs against other Frameworks, by David Grace for Telerik.
-*   [Persisting your users preferences using Blazor and Local Storage](https://jonhilton.net/blazor-tailwind-dark-mode-local-storage/) - January 14, 2021 - Persisting your users preferences using Blazor and Local Storage.
-
-## [15. Public Apis](/content/public-apis/public-apis/README.md)
+## [14. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Shopping
 
@@ -128,19 +112,19 @@
 
 
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [v-fetch (⭐6)](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 
-## [17. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [16. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Demo
 
 *   [Sitecore MVP (⭐62)](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 
-## [18. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [17. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / S3
 

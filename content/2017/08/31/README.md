@@ -18,11 +18,11 @@
 
 *   [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
 *   [SlimerJS (⭐3k)](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
-*   [Webdriver.io (⭐7.7k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
+*   [Webdriver.io (⭐7.8k)](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
 
 ### Tools and frameworks
 
-*   [gatling (⭐52)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
+*   [gatling (⭐53)](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
 *   [vrtest (⭐11)](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.
 
 ### Online services
@@ -59,7 +59,7 @@
 
 ### Video / Barcode
 
-*   [MMPlayerView (⭐722)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
+*   [MMPlayerView (⭐724)](https://github.com/MillmanY/MMPlayerView) - Custom AVPlayerLayer on view and transition player with good effect like YouTube and Facebook.
 
 ## [6. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 
@@ -153,7 +153,7 @@
 
 ### Microservices
 
-*   [Resilience4j (⭐8.3k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
+*   [Resilience4j (⭐8.4k)](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 
 ## [11. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Packages / Command-line utilities
 
-*   [gradient-string (⭐807)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+*   [gradient-string (⭐842)](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 ## [13. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

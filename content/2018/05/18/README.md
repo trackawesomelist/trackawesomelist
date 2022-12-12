@@ -21,14 +21,14 @@
 ### Schema / Changes
 
 *   [2bass (⭐37)](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
-*   [flyway (⭐6.8k)](https://github.com/flyway/flyway) - Database migration tool.
-*   [liquibase (⭐3.5k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
-*   [Pyrseas (⭐340)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
+*   [flyway (⭐6.9k)](https://github.com/flyway/flyway) - Database migration tool.
+*   [liquibase (⭐3.6k)](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
+*   [Pyrseas (⭐357)](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### API / Samples
 
 *   [Prisma (⭐17k)](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
-*   [PostgREST (⭐19k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
+*   [PostgREST (⭐20k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -41,7 +41,7 @@
 ### Tools and frameworks
 
 *   [ember-visual-test (⭐24)](https://github.com/Cropster/ember-visual-test) - Simple visual regression testing for [Ember](https://emberjs.com/).
-*   [AET (⭐118)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
+*   [AET (⭐121)](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

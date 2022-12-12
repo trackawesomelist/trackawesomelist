@@ -59,7 +59,7 @@
 
 *   [curio (⭐3.9k)](https://github.com/dabeaz/curio) - The coroutine concurrency library.
     *   [Curio-Asyncio Bridge (⭐3.9k)](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge.
-*   [trio (⭐4.9k)](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
+*   [trio (⭐5k)](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
     *   [trio-asyncio (⭐163)](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/week/README.md)
@@ -301,21 +301,21 @@
 
 ### Platforms
 
-*   [IBM Cloud (⭐74)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-*   [Firebase (⭐602)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+*   [IBM Cloud (⭐75)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+*   [Firebase (⭐610)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐426)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐445)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐536)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐544)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Food (⭐114)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-*   [Bitcoin Payment Processors (⭐263)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Food (⭐122)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+*   [Bitcoin Payment Processors (⭐275)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ### Related
 
@@ -325,7 +325,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Espial (⭐549)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
+*   [Espial (⭐583)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -442,7 +442,7 @@
 
 ### API Gateway / Symfony2
 
-*   [Express Gateway (⭐2.7k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
+*   [Express Gateway (⭐2.8k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
 
 ## [42. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -536,7 +536,7 @@
 
 ### Open Source / Other
 
-*   [Notable (⭐20k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
+*   [Notable (⭐21k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
 
 ### Articles / Other
 
@@ -546,7 +546,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐214)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐215)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ### Form / Barcode
 

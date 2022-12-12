@@ -22,7 +22,7 @@
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐3.2k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐3.3k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -30,7 +30,7 @@
 
 *   [Game Boy Link Cable Breakout Board (⭐57)](https://github.com/Palmr/gb-link-cable)
 *   [GBCartFlasher firmware (⭐22)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐383)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [VerilogBoy (⭐386)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

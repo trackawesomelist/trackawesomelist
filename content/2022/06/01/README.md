@@ -10,7 +10,7 @@
 
 ### Cryptography
 
-*   [Paseto.Core (⭐62)](https://github.com/daviddesmet/paseto-dotnet) - A Paseto (Platform-Agnostic Security Tokens) implementation for .NET
+*   [Paseto.Core (⭐67)](https://github.com/daviddesmet/paseto-dotnet) - A Paseto (Platform-Agnostic Security Tokens) implementation for .NET
 
 ## [2. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Thin Backend (⭐1k)](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
+*   :octocat: [Thin Backend (⭐1.1k)](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
 
 ## [6. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 
@@ -65,8 +65,8 @@
 
 ### Java Examples / React
 
-*   [graphql-java-kickstart-federation-example (⭐7)](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
-*   [dgs-federation-example (⭐75)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
+*   [graphql-java-kickstart-federation-example (⭐8)](https://github.com/setchy/graphql-java-kickstart-federation-example) - A GraphQL Java Kickstart federation example.
+*   [dgs-federation-example (⭐79)](https://github.com/Netflix/dgs-federation-example) - A Netflix DGS federation example.
 
 ## [8. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
@@ -130,11 +130,11 @@
 
 ### Stream Processing
 
-*   [goio (⭐51)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
+*   [goio (⭐56)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
 
 ### Parsers/Encoders/Decoders
 
-*   [tokenizer (⭐21)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
+*   [tokenizer (⭐25)](https://github.com/bzick/tokenizer) - Parse any string, slice or infinite buffer to any tokens.
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -155,7 +155,7 @@
 
 ### Projects / Frameworks
 
-*   [ConCert (⭐74)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
+*   [ConCert (⭐77)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
 
 ## [12. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

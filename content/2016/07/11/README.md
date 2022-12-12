@@ -28,11 +28,11 @@
 
 ### Other Awesome Lists
 
-*   [awesome-macOS (⭐13k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
+*   [awesome-macOS (⭐14k)](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
 ### Dependency Injection
 
-*   [Dip (⭐945)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
+*   [Dip (⭐946)](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

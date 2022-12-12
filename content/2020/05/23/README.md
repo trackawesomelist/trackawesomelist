@@ -84,11 +84,11 @@
 
 ### Software / Photo and Video Galleries
 
-*   [Fussel (⭐153)](https://github.com/cbenning/fussel) - Fussel is a static photo gallery generator. Easily generate a reactive gallery and host the optimized static folder of assets. `MIT` `Python`
+*   [Fussel (⭐165)](https://github.com/cbenning/fussel) - Fussel is a static photo gallery generator. Easily generate a reactive gallery and host the optimized static folder of assets. `MIT` `Python`
 
 ### Software / Task Management & To-do Lists
 
-*   [Task Keeper (⭐25)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
+*   [Task Keeper (⭐27)](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`
 
 ## [10. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -121,13 +121,13 @@
 
 ### Job Scheduling
 
-*   [JobRunr (⭐1.2k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
+*   [JobRunr (⭐1.3k)](https://github.com/jobrunr/jobrunr) - Job scheduling library which utilizes lambdas for fire-and-forget, delayed and recurring jobs. Guarantees execution by single scheduler instance using optimistic locking. Has features for persistence, minimal dependencies and is embeddable.
 
 ## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Analytics
 
-*   [micropython-ulab (⭐268)](https://github.com/v923z/micropython-ulab) - A numpy-like fast vector module for MicroPython.
+*   [micropython-ulab (⭐275)](https://github.com/v923z/micropython-ulab) - A numpy-like fast vector module for MicroPython.
 *   [micropython-mtx](https://gitlab.com/nickoala/micropython-mtx) - Fast Matrix Multiplication and Linear Solver on MicroPython.
 *   [micropython-vec](https://gitlab.com/nickoala/micropython-vec) - Vector Operations on MicroPython.
 
@@ -137,7 +137,7 @@
 
 ### Communications / DNS
 
-*   [MicroDNSSrv (⭐48)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
+*   [MicroDNSSrv (⭐49)](https://github.com/jczic/MicroDNSSrv) - A micro DNS server for MicroPython to simply respond to A queries on multi-domains with or without wildcards (used on Pycom modules & ESP32).
 
 ### Communications / IoT
 
@@ -159,12 +159,12 @@
 
 ### Communications / Web
 
-*   [uwebsockets (⭐127)](https://github.com/danni/uwebsockets) - MicroPython websockets implementation for ESP8266.
-*   [microdot (⭐278)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
+*   [uwebsockets (⭐128)](https://github.com/danni/uwebsockets) - MicroPython websockets implementation for ESP8266.
+*   [microdot (⭐296)](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for MicroPython.
 
 ### Display / LCD TFT
 
-*   [st7789py\_mpy (⭐50)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from Ali Express, written in MicroPython.
+*   [st7789py\_mpy (⭐51)](https://github.com/devbis/st7789py_mpy) - Slow MicroPython driver for 240x240 ST7789 display without CS pin from Ali Express, written in MicroPython.
 
 ### Display / LED Segment
 
@@ -193,7 +193,7 @@
 
 ### Sensors / Air Quality
 
-*   [micropython-pms7003 (⭐24)](https://github.com/pkucmus/micropython-pms7003) - MicroPython driver for the PMS7003 Air Quality Sensor.
+*   [micropython-pms7003 (⭐25)](https://github.com/pkucmus/micropython-pms7003) - MicroPython driver for the PMS7003 Air Quality Sensor.
 
 ### Sensors / Gaseous
 
@@ -201,7 +201,7 @@
 
 ### Scheduling / Touch Resistive
 
-*   [micropython-mcron (⭐19)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
+*   [micropython-mcron (⭐20)](https://github.com/fizista/micropython-mcron) - MicroCRON is a time-based task scheduling program for MicroPython.
 
 ### Storage / Database
 
@@ -209,7 +209,7 @@
 
 ### Code Generation / SRAM
 
-*   [micropy-cli (⭐201)](https://github.com/BradenM/micropy-cli) - Micropy Cli is a project management/generation tool for writing MicroPython code in modern IDEs such as VSCode.
+*   [micropy-cli (⭐210)](https://github.com/BradenM/micropy-cli) - Micropy Cli is a project management/generation tool for writing MicroPython code in modern IDEs such as VSCode.
 *   [micropython-stubber (⭐105)](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with vscode and/or pylint.
 
 ### IDEs / SRAM
@@ -224,8 +224,8 @@
 
 ### Shells / On Host
 
-*   [rshell (⭐723)](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal.
-*   [mpfshell (⭐373)](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 and WiPy.
+*   [rshell (⭐730)](https://github.com/dhylands/rshell) - Copy or Sync files to Boards, enter REPL from your terminal.
+*   [mpfshell (⭐375)](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 and WiPy.
 
 ## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 

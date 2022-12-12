@@ -21,7 +21,7 @@
 ### Community resources
 
 *   [Brand's materials (⭐79)](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
-*   [Storybook Deployer (⭐853)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+*   [Storybook Deployer (⭐863)](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
 
 ### Blog posts
 
@@ -81,7 +81,7 @@
 
 ### Functional
 
-*   [haunted (⭐2.4k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
+*   [haunted (⭐2.5k)](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 
 ## [9. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
@@ -97,11 +97,11 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐308)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐321)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 
-*   [RadioGroup (⭐185)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
+*   [RadioGroup (⭐187)](https://github.com/yonat/RadioGroup) - The missing iOS radio buttons group.
 
 ## [11. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 

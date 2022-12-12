@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2015
 
-28 awesome lists updated today.
+29 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -313,8 +313,8 @@
 
 ### Parsers
 
-*   [markdown (⭐341)](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
-*   [PetitParser (⭐364)](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+*   [markdown (⭐348)](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
+*   [PetitParser (⭐380)](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
 *   [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 *   [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 
@@ -376,7 +376,7 @@
 
 ### Biology
 
-*   [Wham (⭐92)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
+*   [Wham (⭐93)](https://github.com/zeeev/wham) - Structural variants (SVs) in Genomes by directly applying association tests to BAM files. \[MIT]
 
 ### Concurrency
 
@@ -389,7 +389,7 @@
 ### Game Engine
 
 *   [Allegro](http://liballeg.org/) - A cross-platform library mainly aimed for video games and multimedia programming. \[zlib]
-*   [Godot (⭐54k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
+*   [Godot (⭐56k)](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. \[MIT]
 
 ### GUI
 
@@ -401,7 +401,7 @@
 
 ### Machine Learning
 
-*   [Minerva (⭐682)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
+*   [Minerva (⭐680)](https://github.com/dmlc/minerva) - A fast and flexible system for deep learning. \[Apache2]
 
 ### Web Application Framework
 
@@ -459,7 +459,7 @@
 
 ### JSON
 
-*   [jsonapi (⭐450)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
+*   [jsonapi (⭐451)](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 
 ### Miscellaneous
 
@@ -467,20 +467,20 @@
 
 ### Networking
 
-*   [sshex (⭐148)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
+*   [sshex (⭐150)](https://github.com/rubencaro/sshex) - Simple SSH helpers for Elixir.
 
 ### ORM and Datamapping
 
-*   [boltun (⭐129)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
-*   [kalecto (⭐141)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
+*   [boltun (⭐130)](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
+*   [kalecto (⭐142)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 
 ### Package Management
 
-*   [rebar3\_hex (⭐89)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
+*   [rebar3\_hex (⭐91)](https://github.com/hexpm/rebar3_hex) - Hex.pm plugin for rebar3.
 
 ### Queue
 
-*   [honeydew (⭐702)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
+*   [honeydew (⭐706)](https://github.com/koudelka/honeydew) - Honeydew is a worker pool library for Elixir.
 
 ### Third Party APIs
 
@@ -599,11 +599,11 @@
 ### Testing Frameworks / Frameworks
 
 *   [jasmine (⭐15k)](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
-*   [prova (⭐336)](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
+*   [prova (⭐335)](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 
 ### Testing Frameworks / Assertion
 
-*   [Sinon.JS (⭐9.1k)](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
+*   [Sinon.JS (⭐9.2k)](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 *   [expect.js (⭐2.1k)](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 
 ### Testing Frameworks / Runner
@@ -612,7 +612,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [vue (⭐200k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
+*   [vue (⭐201k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 *   [canjs (⭐1.9k)](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 *   [derby (⭐4.7k)](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     *   [derby-awesome (⭐14)](https://github.com/russll/awesome-derby) - A collection of awesome derby components
@@ -623,7 +623,7 @@
 
 ### Editors / Runner
 
-*   [CodeMirror (⭐25k)](https://github.com/codemirror/CodeMirror) - In-browser code editor.
+*   [CodeMirror (⭐26k)](https://github.com/codemirror/CodeMirror) - In-browser code editor.
 *   [medium-editor (⭐16k)](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone.
 
 ### Data Structure / Runner
@@ -652,7 +652,7 @@
 
 ### Podcasts / Other
 
-*   [instanceofpro/awesome-backbone (⭐403)](https://github.com/sadcitizen/awesome-backbone)
+*   [instanceofpro/awesome-backbone (⭐402)](https://github.com/sadcitizen/awesome-backbone)
 
 ## [20. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -794,13 +794,169 @@
 *   [Bash Completion (⭐5)](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 *   [Visual Studio Code (⭐40)](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [27. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### ASP.NET
+
+*   [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
+
+### C / Non-X86
+
+*   [Programming in C](http://ee.hawaii.edu/\~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
+*   [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
+
+### C++ / Non-X86
+
+*   [Game Programming Patterns](http://gameprogrammingpatterns.com)
+
+### Clojure / Non-X86
+
+*   [Clojure for the Brave and True](http://www.braveclojure.com)
+*   [Clojure Koans](http://clojurekoans.com)
+*   [ClojureScript Koans](http://clojurescriptkoans.com)
+*   [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
+
+### CoffeeScript / Non-X86
+
+*   [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
+
+### ColdFusion / Non-X86
+
+*   [Learn CF in a Week](http://learncfinaweek.com)
+
+### CUDA / Non-X86
+
+*   [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) (PDF)
+
+### Elixir / Non-X86
+
+*   [Learning Elixir](http://learningelixir.joekain.com) - Joseph Kain Blog (HTML) (:construction: *in process*)
+
+### Embedded Systems / Phoenix
+
+*   [Control and Embedded Systems](http://www.learn-c.com) (HTML)
+
+### Forth / Phoenix
+
+*   [Thinking Forth](http://thinking-forth.sourceforge.net)
+
+### Go / Phoenix
+
+*   [An Introduction to Programming in Go](http://www.golang-book.com)
+*   [Go by Example](https://gobyexample.com)
+
+### Haskell / Spock Framework
+
+*   [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) - Andres Löh (PDF)
+*   [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovača
+
+### HTML and CSS / Spock Framework
+
+*   [A free guide to learn HTML and CSS](http://marksheet.io)
+*   [HTML Dog Tutorials](http://www.htmldog.com)
+*   [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
+*   [Learn CSS Layout](http://learnlayout.com)
+
+### iOS / Bootstrap
+
+*   [Cocoa Dev Central](http://cocoadevcentral.com)
+
+### Java / Bootstrap
+
+*   [3D Programming in Java](http://www.mat.uniroma2.it/\~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
+*   [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
+
+### JavaScript / Node.js
+
+*   [The Node Beginner Book](http://nodebeginner.org)
+
+### Linux / TeX
+
+*   [Getting Started with Ubuntu](http://ubuntu-manual.org)
+*   [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
+*   [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
+*   [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
+
+### Lisp / TeX
+
+*   [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
+*   [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
+
+### MATLAB / PicoLisp
+
+*   [An Interactive Introduction to MATLAB](http://www.science.smith.edu/\~jcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
+
+### NoSQL / PicoLisp
+
+*   [Extracting Data from NoSQL Databases: A Step towards Interactive Visual Analysis of NoSQL Data](http://publications.lib.chalmers.se/records/fulltext/155048.pdf) - Petter Nasholm (PDF)
+*   [Graph Databases](http://graphdatabases.com)
+*   [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
+
+### Perl / PicoLisp
+
+*   [Plack Handbook](http://handbook.plackperl.org)
+
+### PHP / PicoLisp
+
+*   [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
+*   [PHP Best Practices](https://phpbestpractices.org)
+*   [PHP Internals Book](http://www.phpinternalsbook.com)
+*   [PHP: The Right Way](http://www.phptherightway.com)
+
+### Prolog / Zend
+
+*   [Learn Prolog Now!](http://www.learnprolognow.org)
+*   [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
+
+### Prolog / Constraint Logic Programming (extended Prolog)
+
+*   [A Gentle Guide to Constraint Logic Programming via ECLiPSe](http://anclp.pl)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Composing Programs](http://composingprograms.com) (3.x)
+*   [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
+*   [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
+*   [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
+
+### R / Tornado
+
+*   [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
+*   [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
+*   [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
+
+### Ruby / Tornado
+
+*   [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
+*   [Ruby Koans](http://www.rubykoans.com)
+*   [Ruby Learning](http://rubylearning.com)
+*   [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
+
+### Scala / Sinatra
+
+*   [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
+*   [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
+
+### Scala / Lift
+
+*   [Exploring Lift](http://exploring.liftweb.net) (published earlier as "The Definitive Guide to Lift", [PDF](http://groups.google.com/group/the-lift-book))
+*   [Simply Lift](http://simply.liftweb.net/Simply_Lift.pdf) - David Pollak (PDF)
+
+### Teradata / Vapor
+
+*   [Teradata Books](http://www.info.teradata.com)
+
+### TLA / Vapor
+
+*   [Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers](http://research.microsoft.com/en-us/um/people/lamport/tla/book.html) - Leslie Lamport (Postscript or PDF)
+
+## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Geospatial
 
 *   [Georust](https://github.com/georust) — geospatial tools and libraries written in Rust
 
-## [28. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### TypeScript General Resources / Components
 

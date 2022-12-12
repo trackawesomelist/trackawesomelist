@@ -16,7 +16,7 @@
 
 ### Tools
 
-*   [ansible-doc-extractor (⭐12)](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
+*   [ansible-doc-extractor (⭐13)](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
 
 ### Blog posts and opinions
 
@@ -27,7 +27,7 @@
 
 ### Elixir Examples / React
 
-*   [hello\_graphql\_phoenix (⭐100)](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix
+*   [hello\_graphql\_phoenix (⭐99)](https://github.com/graphql-elixir/hello_graphql_phoenix) - Examples of GraphQL Elixir Plug endpoints mounted in Phoenix
 
 ## [4. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 
@@ -41,7 +41,15 @@
 
 *   [majemoji (⭐1)](https://github.com/metalogica/majemoji) - Adds a random emoji to each session's prompt. Includes `git` status decorations.
 
-## [6. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Self-hosted
+
+*   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
+*   [Immich (WIP) (⭐6.2k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐4.9k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+
+## [7. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Websites
 
@@ -91,35 +99,23 @@ A curated list of resources to secure Electron.js-based applications.
 
 Repository with Clojure examples of OWASP top 10 vulnerabilities.
 
-## [7. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
+## [8. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
 ### Free Beginner Blue Team Path / Level 1 - Tools
 
 *   [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
 
-## [8. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
+## [9. Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md)
 
 ### Resources / Visual Effects
 
-*   [gdx-graph (⭐11)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
-
-## [9. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-### 2FA
-
-*   [Gnome Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Open source two-factor authentication for Linux.
-
-### Self-hosted
-
-*   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
-*   [Immich (WIP) (⭐5.5k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐4.7k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [gdx-graph (⭐14)](https://github.com/MarcinSc/gdx-graph) - Provides a GUI to design your rendering pipeline and shaders, and a library to easily incorporate them into your games.
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 
-*   [dotnet-console-games (⭐385)](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.
+*   [dotnet-console-games (⭐418)](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.
 
 ---
 

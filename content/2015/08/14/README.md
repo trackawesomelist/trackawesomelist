@@ -54,30 +54,30 @@
 
 ### HTML Manipulation
 
-*   [html5lib (⭐990)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
+*   [html5lib (⭐998)](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 *   [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 *   [pyquery (⭐2.1k)](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
 *   [xmltodict (⭐5k)](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ### Processes
 
-*   [sh (⭐6.4k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
+*   [sh (⭐6.5k)](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
 
 ### Science
 
 *   [astropy](http://www.astropy.org/) - A community Python library for Astronomy.
-*   [bccb (⭐556)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
+*   [bccb (⭐559)](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
 *   [Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
 *   [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 *   [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
-*   [PyMC (⭐7.1k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
-*   [statsmodels (⭐7.8k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
-*   [SymPy (⭐9.7k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
+*   [PyMC (⭐7.2k)](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
+*   [statsmodels (⭐8k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [SymPy (⭐9.9k)](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 
 ### Third-party APIs
 
-*   [google-api-python-client (⭐6k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
-*   [gspread (⭐6.1k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
+*   [google-api-python-client (⭐6.1k)](https://github.com/google/google-api-python-client) - Google APIs Client Library for Python.
+*   [gspread (⭐6.2k)](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
 *   [twython (⭐1.8k)](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
@@ -151,7 +151,7 @@
 
 ### Machine Learning and Data Science
 
-*   [numl (⭐425)](https://github.com/sethjuarez/numl) - Designed to include the most popular supervised and unsupervised learning algorithms while minimizing the friction involved with creating the predictive models.
+*   [numl (⭐424)](https://github.com/sethjuarez/numl) - Designed to include the most popular supervised and unsupervised learning algorithms while minimizing the friction involved with creating the predictive models.
 
 ## [9. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

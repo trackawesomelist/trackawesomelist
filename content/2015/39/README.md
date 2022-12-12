@@ -8,7 +8,7 @@
 
 ## [1. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
-### Javascript / General-Purpose Machine Learning
+### JavaScript / General-Purpose Machine Learning
 
 *   [ml.js (⭐2.3k)](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 
@@ -538,7 +538,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐328)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml (⭐329)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -649,7 +649,7 @@ Drawing on his unsurpassed experience teaching new users, professional data scie
 
 ### Static Site Generators
 
-*   [Pretzel (⭐595)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
+*   [Pretzel (⭐594)](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
 
 ## [29. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 

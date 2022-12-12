@@ -16,7 +16,7 @@
 
 ### Other
 
-*   [Magic](https://en.wikipedia.org/wiki/Magic_\(programming\)) - A magic program/piece of code is doing it's job but nobody knows how. Like in reality, magic doesn't actually exists. Once you understand it, it's not magic anymore.
+*   [Magic](https://en.wikipedia.org/wiki/Magic_\(programming\)) - A magic program/piece of code is doing it's job but nobody knows how. Like in reality, magic doesn't actually exist. Once you understand it, it's not magic anymore.
 
 ## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

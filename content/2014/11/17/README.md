@@ -15,7 +15,7 @@
 
 ### Images
 
-*   [imagineer (⭐115)](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
+*   [imagineer (⭐117)](https://github.com/SenecaSystems/imagineer) - Image parsing in Elixir.
 
 ### Miscellaneous
 
@@ -27,7 +27,7 @@
 
 ### PDF
 
-*   [gutenex (⭐238)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
+*   [gutenex (⭐239)](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
 
 ### Queue
 
@@ -39,7 +39,7 @@
 
 ### Text and Numbers
 
-*   [elixilorem (⭐8)](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
+*   [elixilorem (⭐9)](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
 *   [pretty\_hex (⭐6)](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 
 ### Third Party APIs

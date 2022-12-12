@@ -74,7 +74,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-final-modal (⭐475)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐511)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 ### Components & Libraries / Utilities
 
@@ -84,7 +84,7 @@
 
 ### Extensions
 
-*   [next-auth (⭐12k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
+*   [next-auth (⭐13k)](https://github.com/iaincollins/next-auth) - Easy authentication for Next.js and Serverless
 
 ---
 

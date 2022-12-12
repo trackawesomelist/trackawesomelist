@@ -14,7 +14,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [v-lazy-component (⭐32)](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
+*   [v-lazy-component (⭐35)](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
 
 ## [2. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Web / Playground
 
-*   :octocat: [feednext.io (⭐236)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+*   :octocat: [feednext.io (⭐241)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -63,25 +63,21 @@
 ### Plotting / Third-party APIs
 
 *   [kai (⭐79)](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp. A wrapper around the [Plotly](https://plotly.com/javascript/) JS library. [MIT](https://opensource.org/licenses/MIT).
-*   [cl-spark (⭐89)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT](https://opensource.org/licenses/MIT).
+*   [cl-spark (⭐91)](https://github.com/tkych/cl-spark) - sparkline strings for the console: `(spark '(1 1 2 3 5 8))` => "▁▁▂▃▅▇". [MIT](https://opensource.org/licenses/MIT).
 
-## [8. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
-
-### UI
-
-*   [psInlineProgress (⭐72)](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
-
-## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
-
-### Design Systems
-
-*   [FAST Components (⭐7.7k)](https://github.com/microsoft/fast/tree/master/packages/web-components/fast-components) - Library of Web Components based on the FAST design language.
+## [8. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### History / 2013
 
 *   [Performance and Custom Elements](https://www.stevesouders.com/blog/2013/11/26/performance-and-custom-elements/)
 *   [Creating Reusable Markup with The HTML Template Element](https://blog.teamtreehouse.com/creating-reusable-markup-with-the-html-template-element)
 *   [Working with Shadow DOM](https://blog.teamtreehouse.com/working-with-shadow-dom)
+
+## [9. Awesome Powershell](/content/janikvonrotz/awesome-powershell/README.md)
+
+### UI
+
+*   [psInlineProgress (⭐72)](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell.
 
 ## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

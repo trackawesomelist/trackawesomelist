@@ -47,7 +47,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [aztfy (⭐836)](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
+*   [aztfy (⭐869)](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management.
 *   [hcldump (⭐3)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
 *   [hclgrep (⭐77)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
 
@@ -55,7 +55,7 @@
 
 ### CLI
 
-*   [SQLLine (⭐534)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
+*   [SQLLine (⭐543)](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
 
 ### Backup / Samples
 
@@ -64,8 +64,8 @@
 
 ### SQL / Language Server Protocol
 
-*   [SQLLanguageServer (⭐377)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
-*   [sqls (⭐664)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+*   [SQLLanguageServer (⭐396)](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+*   [sqls (⭐683)](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -89,14 +89,14 @@
 
 ### Command-Line Productivity
 
-*   [bashhub-server (⭐249)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+*   [bashhub-server (⭐251)](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Development / Python
 
-*   [tinyman-py-sdk (⭐108)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
-*   [algofi-py-sdk (⭐41)](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
+*   [tinyman-py-sdk (⭐109)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [algofi-py-sdk (⭐42)](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
 
 ### Development / JavaScript & TypeScript
 

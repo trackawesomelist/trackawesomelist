@@ -14,20 +14,20 @@
 
 ### Developer
 
-*   [Fakeum (⭐278)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
-*   [Git Repos (⭐298)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
+*   [Fakeum (⭐280)](https://github.com/deanishe/alfred-fakeum) - Generate all kinds of test data.
+*   [Git Repos (⭐299)](https://github.com/deanishe/alfred-repos) - Search and open the Git repos on your system.
 
 ### Scientific
 
-*   [Convert (⭐690)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
+*   [Convert (⭐698)](https://github.com/deanishe/alfred-convert) - Offline conversion of units and (crypto)currencies.
 
 ### Productivity
 
-*   [I Sheet You Not (⭐67)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
+*   [I Sheet You Not (⭐66)](https://github.com/deanishe/i-sheet-you-not) - Generate your own workflows from Excel spreadsheets.
 
 ### Security
 
-*   [Password Generator (⭐280)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
+*   [Password Generator (⭐282)](https://github.com/deanishe/alfred-pwgen) - Configurable offline password generator.
 
 ### System
 
@@ -35,7 +35,7 @@
 
 ### Web
 
-*   [Reddit (⭐203)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
+*   [Reddit (⭐205)](https://github.com/deanishe/alfred-reddit) - Search and browse subreddits and hot posts within Alfred.
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -112,11 +112,11 @@
 
 ### Images / Barcode
 
-*   [LetterAvatarKit (⭐214)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
+*   [LetterAvatarKit (⭐215)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 
 ### Localization / Barcode
 
-*   [L10n-swift (⭐278)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
+*   [L10n-swift (⭐286)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 
 ## [9. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
@@ -302,7 +302,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [node-vue-template (⭐71)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
+*   [node-vue-template (⭐72)](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
 
 ### Components & Libraries / UI Components
 
@@ -322,7 +322,7 @@
 
 ### Articles / iOS
 
-*   [Raspberry Pi A to Z List (⭐922)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
+*   [Raspberry Pi A to Z List (⭐920)](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
 ## [34. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -344,7 +344,7 @@
 
 ### Contents / Imaging
 
-*   [Papaya (⭐462)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
+*   [Papaya (⭐472)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
 
 ## [36. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
@@ -406,14 +406,14 @@
 ### Related projects / Syntax highlighting packages
 
 *   [mGB (⭐170)](https://github.com/trash80/mGB) - A Game Boy cartridge program that enables the Game Boy to act as a full MIDI supported sound module.
-*   [GBVisualizer (⭐24)](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
+*   [GBVisualizer (⭐25)](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Game Boy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
 *   [gbcpu (⭐9)](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Game Boy instruction set and functionality.
 
 ## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### ORM/ODM Extensions
 
-*   [clear (⭐265)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
+*   [clear (⭐267)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
 
 ## [44. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -431,9 +431,9 @@
 ### Concurrency
 
 *   [alpaka (⭐3)](https://github.com/ComputationalRadiationPhysics/alpaka) - Abstraction library for parallel kernel acceleration. \[LGPLv3+]
-*   [concurrentqueue (⭐7.2k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
+*   [concurrentqueue (⭐7.4k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
 *   [cupla (⭐3)](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. \[LGPLv3+]
-*   [readerwriterqueue (⭐2.8k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+*   [readerwriterqueue (⭐2.9k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
 
@@ -441,12 +441,12 @@
 
 ### Graphics
 
-*   [herebedragons (⭐1.6k)](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs. \[MIT] [website](http://simonrodriguez.fr/dragon/)
+*   [herebedragons (⭐1.7k)](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs. \[MIT] [website](http://simonrodriguez.fr/dragon/)
 *   [Ion (⭐1.4k)](https://github.com/google/ion) - A small and efficient set of libraries for building cross-platform client or server applications that use 3D graphics. \[Apache2] [website](https://google.github.io/ion/)
 
 ### Scientific Computing
 
-*   [Torch (⭐8.7k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
+*   [Torch (⭐8.8k)](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. \[BSD-3-Clause] [website](http://torch.ch/)
 
 ### Scripting
 
@@ -454,7 +454,7 @@
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐669)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐674)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

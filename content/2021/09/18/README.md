@@ -72,10 +72,6 @@
 
 ## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
-### Tools / Music drivers and trackers
-
-*   [SoundSystem](https://github.com/gb-archive/GBSoundSystem) - A modernized audio driver for GameBoy Tracker (aka the Paragon 5 music player).
-
 ### ASM / Sources
 
 *   [DeadCScroll (⭐4)](https://github.com/gb-archive/DeadCScroll) - A detailed tutorial on how to make the screen wobble, among other "raster effects"

@@ -41,7 +41,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐261)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐267)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -49,7 +49,7 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐765)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐789)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [4. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐355)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Next Redux Starter (⭐360)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 
 ---
 

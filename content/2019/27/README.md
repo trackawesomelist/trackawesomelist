@@ -39,7 +39,7 @@
 
 ### JSON
 
-*   [cJSON (⭐8k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
+*   [cJSON (⭐8.2k)](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. \[MIT]
 *   [simdjson (⭐16k)](https://github.com/lemire/simdjson) - Extremely fast JSON library that can parse gigabytes of JSON per second. \[Apache-2.0]
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
@@ -570,8 +570,8 @@
 
 ### HTTP
 
-*   [Crawly (⭐626)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
-*   [etag\_plug (⭐19)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
+*   [Crawly (⭐643)](https://github.com/oltarasenko/crawly) - high-level web crawling & scraping framework for Elixir.
+*   [etag\_plug (⭐20)](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 
 ## [15. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -675,19 +675,19 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Rapidbay (⭐398)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+*   [Rapidbay (⭐406)](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
 
 ## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [the-elements-of-statistical-learning (⭐362)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
+*   [the-elements-of-statistical-learning (⭐366)](https://github.com/maitbayev/the-elements-of-statistical-learning) - This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
 ## [31. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [thetool (⭐199)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
+*   [thetool (⭐200)](https://github.com/sfninja/thetool) - Capture different CPU, memory, and other profiles for your app in Chrome DevTools friendly format.
 
 ## [32. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
@@ -736,15 +736,15 @@
 
 ### TOML
 
-*   [TOMLDecoder (⭐57)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
+*   [TOMLDecoder (⭐59)](https://github.com/dduan/TOMLDecoder) - Latest TOML standard, decoded.
 
 ### Files
 
-*   [Pathos (⭐101)](https://github.com/dduan/Pathos) :penguin: - Efficient Unix file management.
+*   [Pathos (⭐104)](https://github.com/dduan/Pathos) :penguin: - Efficient Unix file management.
 
 ### Camera
 
-*   [CameraBackground (⭐62)](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
+*   [CameraBackground (⭐63)](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
 
 ### UI / Barcode
 
@@ -756,11 +756,11 @@
 
 ### UITableView / Barcode
 
-*   [DiffableDataSources (⭐752)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
+*   [DiffableDataSources (⭐761)](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource.
 
 ### Validation / Barcode
 
-*   [ValidatedPropertyKit (⭐857)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
+*   [ValidatedPropertyKit (⭐869)](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers 👮.
 
 ## [36. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -786,7 +786,7 @@
 
 ### React Tools / React Libraries
 
-*   [react-extras (⭐690)](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
+*   [react-extras (⭐692)](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 
 ## [39. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -817,7 +817,7 @@
 
 ### PDF
 
-*   [Open HTML to PDF (⭐1.5k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+*   [Open HTML to PDF (⭐1.6k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
 ## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 

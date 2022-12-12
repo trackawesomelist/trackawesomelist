@@ -66,7 +66,7 @@
 
 ### Server Frameworks
 
-*   [Start (⭐520)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
+*   [Start (⭐523)](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 
 ### Game Development
 
@@ -74,7 +74,7 @@
 
 ### Database
 
-*   [SQLJockey (⭐20)](https://github.com/jamesots/sqljocky) - MySQL connector.
+*   [SQLJockey (⭐21)](https://github.com/jamesots/sqljocky) - MySQL connector.
 
 ### Package Managers
 

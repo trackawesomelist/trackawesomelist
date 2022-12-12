@@ -105,7 +105,7 @@
 
 ### Compression
 
-*   [bit7z (⭐305)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. \[GPLv2]
+*   [bit7z (⭐321)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip DLLs. \[GPLv2]
 
 ## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/README.md)
 
@@ -156,7 +156,7 @@
 *   [Veles (⭐898)](https://github.com/Samsung/veles) - Distributed machine learning platform.
 *   [Jubatus (⭐702)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 *   [DMTK (⭐2.8k)](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
-*   [dask-ml (⭐826)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [dask-ml (⭐829)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Distributed (⭐1.4k)](https://github.com/dask/distributed) - Distributed computation in Python.
 
 ## [11. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)

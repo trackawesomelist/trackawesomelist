@@ -41,7 +41,7 @@
 
 ### Apps/Websites / Community
 
-*   [npmview (⭐108)](https://github.com/pd4d10/npmview) - A web application to view npm package files.
+*   [npmview (⭐119)](https://github.com/pd4d10/npmview) - A web application to view npm package files.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -52,9 +52,9 @@
 ### Python / General-Purpose Machine Learning
 
 *   [ML/DL project template (⭐1k)](https://github.com/PyTorchLightning/deep-learning-project-template)
-*   [PyTorch Lightning (⭐20k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
+*   [PyTorch Lightning (⭐21k)](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research.
 *   [PyTorch Lightning Bolts (⭐1.4k)](https://github.com/PyTorchLightning/pytorch-lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
-*   [Determined (⭐1.9k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
+*   [Determined (⭐2k)](https://github.com/determined-ai/determined) - Scalable deep learning training platform, including integrated support for distributed training, hyperparameter tuning, experiment tracking, and model management.
 
 ## [7. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 

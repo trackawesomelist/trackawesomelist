@@ -10,19 +10,19 @@
 
 ### Apps
 
-*   [CourseLit (⭐283)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
+*   [CourseLit (⭐305)](https://github.com/codelit/courselit) - An open source alternative to Thinkific, Teachable etc.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Content Management Systems
 
-*   [Sitecore (⭐53)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
+*   [Sitecore (⭐54)](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 
 ## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Others / Others
 
-*   [BlazorLazyLoading (⭐89)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
+*   [BlazorLazyLoading (⭐90)](https://github.com/isc30/blazor-lazy-loading) - ![GitHub stars](https://img.shields.io/github/stars/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/isc30/blazor-lazy-loading?style=flat-square\&cacheSeconds=86400) Production ready lazy loading implementation. Full lazy loading support for WASM and Server (pages, components, dlls) with abstractions to implement modularization if you wish (custom endpoints, custom manifests, etc).
 
 ## [4. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -82,7 +82,7 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-testing (⭐20)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
+*   [pytest-mypy-testing (⭐21)](https://github.com/davidfritzsche/pytest-mypy-testing) - Pytest plugin to test mypy static type analysis.
 
 ## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -102,7 +102,7 @@
 
 ### React Tools / React Development Tools
 
-*   [Why Did You Render (⭐9.3k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
+*   [Why Did You Render (⭐9.5k)](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 
 ## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Third-party APIs
 
-*   [stripe.cr (⭐41)](https://github.com/confact/stripe.cr) - Stripe api wrapper
+*   [stripe.cr (⭐42)](https://github.com/confact/stripe.cr) - Stripe api wrapper
 
 ## [14. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -257,7 +257,7 @@ Language: English
 
 ### GUI
 
-*   [implot (⭐2.7k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
+*   [implot (⭐2.8k)](https://github.com/epezent/implot) - Immediate Mode Plotting widgets for imgui. \[MIT]
 
 ## [17. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 

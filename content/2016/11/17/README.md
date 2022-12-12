@@ -150,7 +150,7 @@
 
 ### Code Analysis and Metrics
 
-*   [BenchmarkDotNet (⭐8.2k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
+*   [BenchmarkDotNet (⭐8.4k)](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
 
 ### Visual Studio Plugins
 

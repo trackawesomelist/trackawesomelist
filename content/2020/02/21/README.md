@@ -34,7 +34,7 @@
 
 ### Viewers
 
-*   [CEF4Delphi (⭐989)](https://github.com/salvadordf/CEF4Delphi). `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC
+*   [CEF4Delphi (⭐995)](https://github.com/salvadordf/CEF4Delphi). `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC
 
 ### Database
 
@@ -42,13 +42,13 @@
 
 ### Other non-visual
 
-*   [DelphiPatterns (⭐121)](https://github.com/jimmckeeth/DelphiPatterns). `[Delphi]` Complete set of design patterns implemented in Delphi language
+*   [DelphiPatterns (⭐122)](https://github.com/jimmckeeth/DelphiPatterns). `[Delphi]` Complete set of design patterns implemented in Delphi language
 *   [Markdown Processor for Pascal (⭐149)](https://github.com/grahamegrieve/delphi-markdown). `[Delphi]` `[FPC]` This is a Pascal (Delphi) library that processes to markdown to HTML
 *   [Coroutine-based multithreading library (⭐97)](https://github.com/Purik/AIO). `[Delphi]` AIO implement procedural oriented programming (POP) style in Delphi. It means developer can combine advantages of OOP and POP, splitting logic to multiple state machines, schedule them to threads, connect them by communication channels like in GoLang
 
 ### Other
 
-*   [C-To-Delphi (⭐255)](https://github.com/WouterVanNifterick/C-To-Delphi). `[Delphi]` This tool will convert most of your standard C code.
+*   [C-To-Delphi (⭐256)](https://github.com/WouterVanNifterick/C-To-Delphi). `[Delphi]` This tool will convert most of your standard C code.
 
 ## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -61,7 +61,7 @@
 
 ### For Developers
 
-*   [mkdkr (⭐303)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
+*   [mkdkr (⭐314)](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -83,13 +83,13 @@
 
 ### Software / Games
 
-*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐16k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
+*   [Mindustry](https://mindustrygame.github.io/) - Factorio-like tower defense game. Build production chains to gather more resources, and build complex facilities. ([Source Code (⭐17k)](https://github.com/Anuken/Mindustry)) `GPL-3.0` `Java`
 
 ## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Typescript Project Starters
 
-*   [jsynowiec/node-typescript-boilerplate (⭐1.8k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
+*   [jsynowiec/node-typescript-boilerplate (⭐1.9k)](https://github.com/jsynowiec/node-typescript-boilerplate) Up-to-date, developer ready and comprehensive, yet minimalistic template. Works out of the box for most Node.js projects. All basic tools included and configured. Targets latest Node.js LTS and TypeScript releases.
 
 ## [10. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

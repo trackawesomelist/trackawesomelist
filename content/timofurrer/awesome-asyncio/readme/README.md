@@ -42,7 +42,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *   [Starlette (⭐7.6k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 *   [aiohttp (⭐13k)](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
 *   [sanic (⭐17k)](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
-*   [Quart (⭐1.4k)](https://github.com/pallets/quart) - An asyncio web microframework with the same API as Flask.
+*   [Quart (⭐1.5k)](https://github.com/pallets/quart) - An asyncio web microframework with the same API as Flask.
 *   [autobahn (⭐2.4k)](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 *   [websockets (⭐4.2k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 *   [Tornado](http://www.tornadoweb.org/en/stable/) - Performant web framework and asynchronous networking library.
@@ -118,19 +118,19 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Other awesome asyncio libraries.*
 
-*   [aiochan (⭐121)](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
+*   [aiochan (⭐125)](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
 *   [aiocache (⭐746)](https://github.com/argaen/aiocache) - Cache manager for different backends.
 *   [aiofiles (⭐2.1k)](https://github.com/Tinche/aiofiles/) - File support for asyncio.
-*   [aiopath (⭐58)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
+*   [aiopath (⭐61)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
 *   [aiodebug (⭐56)](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
 *   [aiorun (⭐340)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
-*   [aiosc (⭐25)](https://github.com/artfwo/aiosc) -  Lightweight Open Sound Control implementation.
+*   [aiosc (⭐26)](https://github.com/artfwo/aiosc) -  Lightweight Open Sound Control implementation.
 *   [aioserial (⭐107)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
 *   [aiozipkin (⭐177)](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 *   [asgiref (⭐1.1k)](https://github.com/django/asgiref) - Backend utils for ASGI to WSGI integration, includes sync\_to\_async and async\_to\_sync function wrappers.
 *   [ruia (⭐1.6k)](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
-*   [kubernetes\_asyncio (⭐241)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
-*   [aiomisc (⭐279)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
+*   [kubernetes\_asyncio (⭐243)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
+*   [aiomisc (⭐286)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 
 ## Writings
 
@@ -150,7 +150,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Recordings of awesome talks about asyncio.*
 
 *   [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (David Beazley).
-*   [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](http://pgbovine.net/python-async-io-walkthrough.htm) - 8-part code walkthrough (Philip Guo).
+*   [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) - 8-part code walkthrough (Philip Guo).
 *   [Async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8\&t=132s) - EuroPython 2016 (Yury Selivanov).
 *   [Fear and Awaiting in Async: A Savage Journey to the Heart of the Coroutine Dream](https://www.youtube.com/watch?v=E-1Y4kSsAFc) | [screencast](https://www.youtube.com/watch?v=Bm96RqNGbGo) - PyOhio 2016 keynote (David Beazley).
 *   [Asynchronous Python for the Complete Beginner](https://www.youtube.com/watch?v=iG6fr81xHKA) | [slides](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) - PyCon 2017 (Miguel Grinberg).

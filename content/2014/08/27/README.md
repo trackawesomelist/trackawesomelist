@@ -14,7 +14,7 @@
 
 ### MVVM
 
-*   [ReactiveUI (⭐7.2k)](https://github.com/reactiveui/reactiveui/) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
+*   [ReactiveUI (⭐7.3k)](https://github.com/reactiveui/reactiveui/) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 

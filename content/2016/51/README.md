@@ -361,11 +361,11 @@ git format-patch -M upstream..topic
 
 ### Functional programming
 
-*   [Optional (⭐778)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐791)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ### Serialization
 
-*   [Hyperion (⭐271)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
+*   [Hyperion (⭐269)](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
 
 ### Source Generator
 
@@ -389,12 +389,12 @@ git format-patch -M upstream..topic
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐723)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐726)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐799)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐803)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -515,14 +515,14 @@ git format-patch -M upstream..topic
 ### Samples
 
 *   Google
-    *   [Android port of LunarG samples (⭐440)](https://github.com/googlesamples/vulkan-basic-samples).
-    *   [android tutorials (⭐718)](https://github.com/googlesamples/android-vulkan-tutorials).
-*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐148)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
+    *   [Android port of LunarG samples (⭐439)](https://github.com/googlesamples/vulkan-basic-samples).
+    *   [android tutorials (⭐722)](https://github.com/googlesamples/android-vulkan-tutorials).
+*   [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. \[[LICENSE (⭐147)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
     *   [gl\_vk\_chopper (⭐199)](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
-    *   [gl\_vk\_threaded\_cadscene (⭐148)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
-    *   [gl\_vk\_bk3dthreaded (⭐79)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
+    *   [gl\_vk\_threaded\_cadscene (⭐147)](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using various techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
+    *   [gl\_vk\_bk3dthreaded (⭐80)](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
     *   [gl\_vk\_supersampled (⭐57)](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
-*   [Vulkan-Forward-Plus-Renderer (⭐581)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
+*   [Vulkan-Forward-Plus-Renderer (⭐588)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
 
 ## [27. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
@@ -612,7 +612,7 @@ git format-patch -M upstream..topic
 
 ### Debug
 
-*   [backward-cpp (⭐2.7k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
+*   [backward-cpp (⭐2.8k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
 
 ### GUI
 
@@ -632,7 +632,7 @@ git format-patch -M upstream..topic
 
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐432)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐436)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

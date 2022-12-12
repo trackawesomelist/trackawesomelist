@@ -51,7 +51,7 @@
 
 ### Machine Learning
 
-*   [MeTA (⭐652)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐658)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [8. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.1k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐4.2k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -254,11 +254,11 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Queue
 
-*   [amqp (⭐624)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐625)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 
-*   [exml (⭐23)](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
+*   [exml (⭐24)](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 
 ### Books
 

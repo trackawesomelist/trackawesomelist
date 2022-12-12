@@ -154,7 +154,7 @@
 
 ### JSON
 
-*   [parson (⭐1.1k)](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. \[MIT]
+*   [parson (⭐1.2k)](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. \[MIT]
 
 ---
 

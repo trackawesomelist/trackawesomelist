@@ -25,7 +25,7 @@
 
 ### Plugins / Practices and Specific ES Features
 
-*   [eslint-plugin-hexagonal-architecture (⭐128)](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practices.
+*   [eslint-plugin-hexagonal-architecture (⭐156)](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practices.
 
 ## [3. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -36,27 +36,27 @@
 ### Code generators / Individual Podcast episodes
 
 *   [Elm Bridge (⭐100)](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
-*   [Elm CodeGen (⭐88)](https://github.com/mdgriffith/elm-codegen) - Generate Elm code
-*   [elm-gql (⭐20)](https://github.com/vendrinc/elm-gql) - Generate GraphQl client code from GraphQL queries
-*   [elm-graphql (⭐741)](https://github.com/dillonkearns/elm-graphql) - Generate GraphQl client code from GraphQL schemas
+*   [Elm CodeGen (⭐94)](https://github.com/mdgriffith/elm-codegen) - Generate Elm code
+*   [elm-gql (⭐59)](https://github.com/vendrinc/elm-gql) - Generate GraphQl client code from GraphQL queries
+*   [elm-graphql (⭐747)](https://github.com/dillonkearns/elm-graphql) - Generate GraphQl client code from GraphQL schemas
 *   [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 *   [JSON Schema to Elm (⭐78)](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
-*   [OpenApi Generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
-*   [Quicktype (⭐8.8k)](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
+*   [OpenApi Generator (⭐15k)](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
+*   [Quicktype (⭐9.1k)](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
 *   [Travelm Agency (⭐32)](https://github.com/andreasewering/travelm-agency) - Generate typesafe Elm code from translation files
 
 ### Frameworks / Outdated Boilerplates
 
 *   [elm-spa](https://www.elm-spa.dev/) - Framework for making single page apps in Elm.
 *   [Elm Land](https://elm.land/) - A framework for building Elm applications.
-*   [Spades (⭐293)](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world.
+*   [Spades (⭐297)](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world.
 
 ### Compile and bundle / Outdated Boilerplates
 
 *   [elm-compiler (⭐7k)](https://github.com/elm/compiler) - The official Elm compiler.
-*   [elm-webpack-loader (⭐535)](https://github.com/elm-community/elm-webpack-loader) - Webpack loader Elm.
+*   [elm-webpack-loader (⭐534)](https://github.com/elm-community/elm-webpack-loader) - Webpack loader Elm.
 *   [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel.
-*   [vite-plugin-elm (⭐103)](https://github.com/hmsk/vite-plugin-elm) - Vite plugin for Elm.
+*   [vite-plugin-elm (⭐111)](https://github.com/hmsk/vite-plugin-elm) - Vite plugin for Elm.
 
 ### Community and Support / Games
 
@@ -78,31 +78,31 @@
 
 ### Command-Line Tools / Newsletters
 
-*   [nix-du (⭐174)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
+*   [nix-du (⭐186)](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your Nix store.
 
 ## [7. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
-*   [rails-mermaid\_erd (⭐3)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
+*   [rails-mermaid\_erd (⭐9)](https://github.com/koedame/rails-mermaid_erd) - A gem to interactively generate entity-relationship diagram in image or Markdown format. [:red\_circle:](https://rubygems.org/gems/rails-mermaid_erd)
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Date and Time
 
-*   [go-anytime (⭐1)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
+*   [go-anytime (⭐5)](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
 
 ### Distributed Systems
 
-*   [Kitex (⭐5.2k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
+*   [Kitex (⭐5.4k)](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the performance and extensibility are the main concerns when you develop microservices, Kitex can be a good choice.
 
 ### Embeddable Scripting Languages
 
-*   [starlark-go (⭐1.7k)](https://github.com/google/starlark-go) - Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
+*   [starlark-go (⭐1.8k)](https://github.com/google/starlark-go) - Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [Go in 7 days (⭐105)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
+*   [Go in 7 days (⭐110)](https://github.com/harrytran103/7_days_of_go) - Learn everything about Go in 7 days (from a Nodejs developer).
 *   [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 
 ## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
@@ -110,7 +110,7 @@
 ### Android / Libraries
 
 *   [skydoves/balloon (⭐2.7k)](https://github.com/skydoves/balloon) - A lightweight popup like tooltips, fully customizable with arrow and animations.
-*   [ChuckerTeam/chucker (⭐2.8k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
+*   [ChuckerTeam/chucker (⭐2.9k)](https://github.com/ChuckerTeam/chucker) - An on-device network inspection tool for Android.
 
 ## [10. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -130,7 +130,7 @@
 
 ### Utility / Diagnostics
 
-*   [folke/noice.nvim (⭐1.1k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+*   [folke/noice.nvim (⭐1.6k)](https://github.com/folke/noice.nvim) - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 
 ---
 

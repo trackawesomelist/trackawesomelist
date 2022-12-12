@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [SDropdown (⭐4)](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component.
+*   [SDropdown (⭐5)](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Community / Interfaces to other package managers
 
-*   [MGL (⭐334)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐335)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
 
     <!---->
@@ -97,7 +97,7 @@
 
 ### Community / Projects
 
-*   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐11)](https://github.com/Ripe/algovanity).
+*   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐12)](https://github.com/Ripe/algovanity).
 
 ## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

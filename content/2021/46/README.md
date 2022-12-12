@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 15 - Nov 21, 2021
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,7 +10,7 @@
 
 ### General Libraries
 
-*   [minilib (⭐46)](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgeeSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
+*   [minilib (⭐48)](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgeeSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
@@ -44,15 +44,15 @@
 
 *   [inframap (⭐1.1k)](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 *   [terracognita (⭐1.3k)](https://github.com/cycloidio/terracognita) - Reads from existing Cloud Providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration.
-*   [terracost (⭐142)](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
-*   [terradozer (⭐139)](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
-*   [tfcmt (⭐233)](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
+*   [terracost (⭐143)](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
+*   [terradozer (⭐141)](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
+*   [tfcmt (⭐238)](https://github.com/suzuki-shunsuke/tfcmt) - CLI to notify the result of plan and apply as Pull Request comment.
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Password Managers
 
-*   [Passky](https://passky.org) - Simple, modern and open source password manager with website, browser extension, android and desktop application. ([Demo](https://vault.passky.org), [Source Code (⭐80)](https://github.com/Rabbit-Company/Passky-Server)) `GPL-3.0` `PHP`
+*   [Passky](https://passky.org) - Simple, modern and open source password manager with website, browser extension, android and desktop application. ([Demo](https://vault.passky.org), [Source Code (⭐89)](https://github.com/Rabbit-Company/Passky-Server)) `GPL-3.0` `PHP`
 
 ### Software / Photo and Video Galleries
 
@@ -74,13 +74,13 @@
 
 ### Programming Languages / Scala
 
-*   [sbt-derivation (⭐27)](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
+*   [sbt-derivation (⭐28)](https://github.com/zaninime/sbt-derivation) - mkDerivation for sbt, similar to buildGoModule.
 
 ## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Logging
 
-*   [DRF-API-Logger (⭐157)](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
+*   [DRF-API-Logger (⭐162)](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
 
 ## [11. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -97,16 +97,16 @@
 
 ### Authentication
 
-*   [Cely (⭐163)](https://github.com/cely-tools/Cely) - A Plug-n-Play login framework.
+*   [Cely (⭐164)](https://github.com/cely-tools/Cely) - A Plug-n-Play login framework.
 
 ## [13. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Specifications
 
 *   [GraphQL (⭐14k)](https://github.com/graphql/graphql-spec) - Working draft of the specification for GraphQL.
-*   [GraphQL over HTTP (⭐262)](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification.
+*   [GraphQL over HTTP (⭐274)](https://github.com/graphql/graphql-over-http) - Working draft of "GraphQL over HTTP" specification.
 *   [GraphQL Relay](https://relay.dev/docs/guides/graphql-server-specification/) - Relay-compliant GraphQL server specification.
-*   [OpenCRUD (⭐388)](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
+*   [OpenCRUD (⭐391)](https://github.com/opencrud/opencrud) - OpenCRUD is a GraphQL CRUD API specification for databases.
 *   [Apollo Federation](https://www.apollographql.com/docs/federation/federation-spec/) - Apollo Federation specification
 
 ### Foundations
@@ -120,7 +120,7 @@
 *   [Facebook](https://www.facebook.com/groups/795330550572866/) - Group for discussions, articles and knowledge sharing.
 *   [Twitter](https://twitter.com/search?q=%23GraphQL) - Use the hashtag `#graphql`.
 *   [StackOverflow](https://stackoverflow.com/questions/tagged/graphql) - Questions and answers. Use the tag `graphql`.
-*   [GraphQL APIs (⭐4k)](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs.
+*   [GraphQL APIs (⭐4.1k)](https://github.com/APIs-guru/graphql-apis) - A collective list of public GraphQL APIs.
 *   [/r/GraphQL](https://old.reddit.com/r/graphql/) - A Subreddit for interesting and informative GraphQL content and discussions.
 *   [GraphQL Jobs](https://graphql.jobs) - A list of GraphQL-based jobs in startups all over the world.
 *   [Codever](https://www.codever.land/search?q=graphql) - Dev bookmarks. Use the tag [graphql](https://www.codever.land/bookmarks/t/graphql).
@@ -154,12 +154,12 @@
 ### JavaScript/TypeScript
 
 *   [graphql-js (⭐19k)](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript.
-*   [graphql-jit (⭐897)](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
+*   [graphql-jit (⭐910)](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
 
 ### Clients
 
 *   [apollo-client (⭐18k)](https://github.com/apollographql/apollo-client) - A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-*   [graphql-request (⭐4.9k)](https://github.com/prisma-labs/graphql-request) - A minimal GraphQL client for Node and browsers.
+*   [graphql-request (⭐5k)](https://github.com/prisma-labs/graphql-request) - A minimal GraphQL client for Node and browsers.
 *   [typescript-graphql-request](https://graphql-code-generator.com/docs/plugins/typescript-graphql-request) - Use GraphQL Request as a fully typed SDK.
 *   [graphql-zeus (⭐1.7k)](https://github.com/graphql-editor/graphql-zeus) - GraphQL Zeus creates autocomplete client library for `JavaScript` or `TypeScript` which provides autocompletion for strongly typed queries.
 *   [graphqurl (⭐3.2k)](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
@@ -169,19 +169,19 @@
 
 *   [vue-apollo (⭐5.7k)](https://github.com/vuejs/vue-apollo) - Apollo/GraphQL integration for VueJS.
 *   [apollo-angular (⭐1.4k)](https://github.com/kamilkisiela/apollo-angular) - A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server.
-*   [svelte-apollo (⭐854)](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL.
+*   [svelte-apollo (⭐872)](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL.
 *   [ember-apollo-client (⭐280)](https://github.com/ember-graphql/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL.
-*   [apollo-elements (⭐372)](https://github.com/apollo-elements/apollo-elements) - GraphQL web components that work in any frontend framework.
+*   [apollo-elements (⭐377)](https://github.com/apollo-elements/apollo-elements) - GraphQL web components that work in any frontend framework.
 
 ### Frontend Framework Integrations / React
 
 *   [react-apollo](https://www.apollographql.com/docs/react/) - The core @apollo/client library provides built-in integration with React.
 *   [relay (⭐17k)](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-*   [urql (⭐7.5k)](https://github.com/FormidableLabs/urql) - A simple caching GraphQL client for React.
+*   [urql (⭐7.6k)](https://github.com/FormidableLabs/urql) - A simple caching GraphQL client for React.
 *   [graphql-hooks (⭐1.8k)](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client with caching and server-side rendering support.
 *   [gqless (⭐3.6k)](https://github.com/samdenty/gqless) - A GraphQL client without queries ✨
-*   [mst-gql (⭐655)](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL.
-*   [micro-graphql-react (⭐530)](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
+*   [mst-gql (⭐656)](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL.
+*   [micro-graphql-react (⭐529)](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
 
 ### Servers / React
 
@@ -189,14 +189,14 @@
 *   [express-graphql (⭐6.4k)](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
 *   [hapi-graphql (⭐115)](https://github.com/SimonDegraeve/hapi-graphql) - Create a GraphQL HTTP server with Hapi.
 *   [hapi-plugin-graphiql (⭐20)](https://github.com/rse/hapi-plugin-graphiql) - HAPI plugin for GraphiQL integration.
-*   [graphql-api-koa (⭐50)](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.
-*   [koa-graphql (⭐829)](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
+*   [graphql-api-koa (⭐51)](https://github.com/jaydenseric/graphql-api-koa) - GraphQL Koa middleware that implements GraphQL.js from scratch and supports native ESM.
+*   [koa-graphql (⭐835)](https://github.com/chentsulin/koa-graphql) - GraphQL Koa Middleware.
 *   [graphql-koa-scripts (⭐1)](https://github.com/ryanhs/graphql-koa-scripts) - GraphQL Koa 1 file simplified. usefull for quick test
-*   [gql (⭐150)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
-*   [mercurius (⭐1.9k)](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify.
-*   [graphql-yoga (⭐7.2k)](https://github.com/prisma-labs/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.
+*   [gql (⭐156)](https://github.com/deno-libs/gql) - Universal GraphQL HTTP middleware for Deno.
+*   [mercurius (⭐2k)](https://github.com/mercurius-js/mercurius) - GraphQL plugin for Fastify.
+*   [graphql-yoga (⭐7.3k)](https://github.com/prisma-labs/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience.
 *   [graphitejs (⭐120)](https://github.com/graphitejs/server) - Framework NodeJS for GraphQL.
-*   [graphql-helix (⭐790)](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server.
+*   [graphql-helix (⭐800)](https://github.com/contrawork/graphql-helix) - A highly evolved GraphQL HTTP Server.
 
 ### Databases & ORMs / React
 
@@ -212,23 +212,23 @@
 
 *   [graphql-scalars (⭐1.6k)](https://github.com/Urigo/graphql-scalars) - A library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas.
 *   [graphql-tools-types (⭐47)](https://github.com/rse/graphql-tools-types) - Custom GraphQL types for use with GraphQL-Tools (Void, Int, Float, String, Date, UUID, JSON).
-*   [graphql-java-datetime (⭐116)](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
-*   [graphql-java-extended-scalars (⭐178)](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java.
+*   [graphql-java-datetime (⭐121)](https://github.com/donbeave/graphql-java-datetime) - GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.
+*   [graphql-java-extended-scalars (⭐194)](https://github.com/graphql-java/graphql-java-extended-scalars) - Extended scalars for graphql-java.
 
 ### Type / React
 
 *   [type-graphql (⭐7.5k)](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
-*   [graphql-nexus (⭐3.1k)](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction.
+*   [graphql-nexus (⭐3.2k)](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction.
 
 ### Tools - Miscellaneous / React
 
-*   [graphql-code-generator (⭐9.4k)](https://github.com/dotansimha/graphql-code-generator) - GraphQL code generator based on schema and documents.
-*   [swagger-to-graphql (⭐886)](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
-*   [ts-graphql-plugin (⭐614)](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
-*   [apollo-tracing (⭐468)](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
+*   [graphql-code-generator (⭐9.5k)](https://github.com/dotansimha/graphql-code-generator) - GraphQL code generator based on schema and documents.
+*   [swagger-to-graphql (⭐893)](https://github.com/yarax/swagger-to-graphql) - GraphQL types builder based on REST API described in Swagger. Allows to migrate to GraphQL from REST for 5 minutes
+*   [ts-graphql-plugin (⭐623)](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
+*   [apollo-tracing (⭐470)](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
 *   [json-graphql-server (⭐1.8k)](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
-*   [Prisma (⭐26k)](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
-*   [tuql (⭐688)](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
+*   [Prisma (⭐28k)](https://github.com/prisma/prisma) - Turn your database into a GraphQL API. Prisma lets you design your data model and have a production ready GraphQL API online in minutes.
+*   [tuql (⭐698)](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from any sqlite database.
 *   [Bit (⭐16k)](https://github.com/teambit/bit) - Organize GraphQL API as components to be consumed with NPM or modified from any project, [example-explanation](https://hackernoon.com/make-your-graphql-api-easier-to-adopt-through-components-74b022f195c1)).
 *   [openapi-to-graphql (⭐1.4k)](https://github.com/ibm/openapi-to-graphql) - Take any OpenAPI Specification (OAS) or swagger and create a GraphQL interface - Two minute video and resources [here](https://developer.ibm.com/open/projects/openapi-to-graphql/)
 *   [Retool](https://retool.com/) – Internal tools builder on top of your GraphQL APIs + GraphQL IDE with a schema explorer.
@@ -241,61 +241,61 @@
 *   [graphql-tag (⭐2.2k)](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
 *   [graphql-compose (⭐1.2k)](https://github.com/graphql-compose/graphql-compose) - Tool which allows you to construct flexible graphql schema from different data sources via plugins.
 *   [graphql-modules (⭐1.2k)](https://github.com/Urigo/graphql-modules) - Separate GraphQL server into smaller, reusable parts by modules or features.
-*   [graphql-shield (⭐3.3k)](https://github.com/maticzav/graphql-shield) - A library that helps creating a permission layer for a graphql api.
-*   [graphql-let (⭐442)](https://github.com/piglovesyou/graphql-let) - A webpack loader to import type-protected codegen results directly from GraphQL documents
+*   [graphql-shield (⭐3.4k)](https://github.com/maticzav/graphql-shield) - A library that helps creating a permission layer for a graphql api.
+*   [graphql-let (⭐447)](https://github.com/piglovesyou/graphql-let) - A webpack loader to import type-protected codegen results directly from GraphQL documents
 *   [graphql-config (⭐1.1k)](https://github.com/kamilkisiela/graphql-config) - One configuration for all your GraphQL tools (supported by most tools, editors & IDEs).
 *   [graphql-cli (⭐1.9k)](https://github.com/urigo/graphql-cli) - A command line tool for common GraphQL development workflows.
-*   [graphql-toolkit (⭐169)](https://github.com/ardatan/graphql-toolkit) - A set of utils for faster development of GraphQL tools (Schema and documents loading, Schema merging and more).
-*   [graphql-mesh (⭐2.6k)](https://github.com/urigo/graphql-mesh) - use GraphQL query language to access data in remote APIs that don't run GraphQL (and also ones that do run GraphQL).
-*   [sofa (⭐922)](https://github.com/Urigo/sofa) - Generate REST API from your GraphQL API.
-*   [graphback (⭐396)](https://github.com/aerogear/graphback) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
+*   [graphql-toolkit (⭐168)](https://github.com/ardatan/graphql-toolkit) - A set of utils for faster development of GraphQL tools (Schema and documents loading, Schema merging and more).
+*   [graphql-mesh (⭐2.7k)](https://github.com/urigo/graphql-mesh) - use GraphQL query language to access data in remote APIs that don't run GraphQL (and also ones that do run GraphQL).
+*   [sofa (⭐936)](https://github.com/Urigo/sofa) - Generate REST API from your GraphQL API.
+*   [graphback (⭐400)](https://github.com/aerogear/graphback) - Framework and CLI to add a GraphQLCRUD API layer to a GraphQL server using data models.
 *   [graphql-middleware (⭐1.1k)](https://github.com/maticzav/graphql-middleware) - Split up your GraphQL resolvers in middleware functions.
 *   [graphql-relay-js (⭐1.5k)](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay.
-*   [graphql-normalizr (⭐189)](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state.
+*   [graphql-normalizr (⭐190)](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state.
 *   [babel-plugin-graphql (⭐65)](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.
 *   [eslint-plugin-graphql (⭐1.2k)](https://github.com/apollographql/eslint-plugin-graphql) - An ESLint plugin that checks your GraphQL strings against a schema.
 *   [graphql-ws (⭐1.3k)](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
-*   [graphql-live-query (⭐361)](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript.
-*   [GraphVinci (⭐38)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
+*   [graphql-live-query (⭐370)](https://github.com/n1ru4l/graphql-live-query) - Realtime GraphQL Live Queries with JavaScript.
+*   [GraphVinci (⭐41)](https://github.com/Comcast/graphvinci) - An interactive schema visualizer for GraphQL APIs.
 
 ### JavaScript Examples / React
 
 *   [React Starter Kit (⭐22k)](https://github.com/kriasoft/react-starter-kit) - front-end starter kit using React, Relay, GraphQL, and JAM stack architecture.
 *   [SWAPI GraphQL Wrapper (⭐992)](https://github.com/graphql/swapi-graphql) - A GraphQL schema and server wrapping SWAPI.
-*   [Relay TodoMVC (⭐162)](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
+*   [Relay TodoMVC (⭐163)](https://github.com/taion/relay-todomvc) - Relay TodoMVC with routing.
 *   [Apollo Client documentation](https://www.apollographql.com/react/) - Documentation and example for building GraphQL apps using apollo client.
 *   [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 *   [F8 App 2017 (⭐14k)](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
-*   [Apollo React example for Github GraphQL API (⭐115)](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app.
-*   [Next.js TypeScript and GraphQL Example (⭐94k)](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) under the hood
+*   [Apollo React example for Github GraphQL API (⭐116)](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app.
+*   [Next.js TypeScript and GraphQL Example (⭐98k)](https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql) - A type-protected GraphQL example on Next.js running [graphql-codegen](https://graphql-code-generator.com/) under the hood
 *   [GraphQL StackBlitz Starter](https://stackblitz.com/fork/graphql) – A live, editable demo spinning up in about 2 seconds and running in a browser.
-*   [NAPERG (⭐735)](https://github.com/alan345/naperg) - Fullstack Boilerplate GraphQL. Made with React & Prisma + authentication & roles.
+*   [NAPERG (⭐738)](https://github.com/alan345/naperg) - Fullstack Boilerplate GraphQL. Made with React & Prisma + authentication & roles.
 *   [VulcanJS](http://vulcanjs.org) - The full-stack React+GraphQL framework
 *   [RAN Toolkit (⭐2.2k)](https://github.com/sly777/ran) - Production-ready toolkit/boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 
 ### TypeScript Examples / React
 
-*   [Node.js API Starter (⭐3.6k)](https://github.com/kriasoft/nodejs-api-starter) - Yarn v2 based monorepo template (code-first GraphQL API, PostgreSQL, PnP, Zero-install, serverless).
-*   [Next.js Apollo TypeScript Starter (⭐236)](https://github.com/borisowsky/nextjs-apollo-ts-starter) - Next.js starter project focused on developer experience.
-*   [GraphQL Starter (⭐62)](https://github.com/cerino-ligutom/GraphQL-Starter) - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.
+*   [Node.js API Starter (⭐3.7k)](https://github.com/kriasoft/nodejs-api-starter) - Yarn v2 based monorepo template (code-first GraphQL API, PostgreSQL, PnP, Zero-install, serverless).
+*   [Next.js Apollo TypeScript Starter (⭐240)](https://github.com/borisowsky/nextjs-apollo-ts-starter) - Next.js starter project focused on developer experience.
+*   [GraphQL Starter (⭐64)](https://github.com/cerino-ligutom/GraphQL-Starter) - A boilerplate for TypeScript + Node Express + Apollo GraphQL APIs.
 
 ### Ruby / React
 
-*   [graphql-ruby (⭐5.1k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
+*   [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
 *   [graphql-client (⭐1.1k)](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 *   [graphql-batch (⭐1.3k)](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 *   [graphql-auth (⭐23)](https://github.com/o2web/graphql-auth) - A JWT auth wrapper working with devise.
-*   [agoo (⭐798)](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
+*   [agoo (⭐804)](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
 *   [GQLi (⭐207)](https://github.com/contentful-labs/gqli.rb) - A GraphQL client and DSL. Allowing to write queries in native Ruby.
 
 ### Ruby Examples / React
 
 *   [graphql-ruby-demo (⭐223)](https://github.com/rmosolgo/graphql-ruby-demo) - Use graphql-ruby to expose a Rails app.
-*   [github-graphql-rails-example (⭐277)](https://github.com/github/github-graphql-rails-example) - Example Rails app using GitHub's GraphQL API.
+*   [github-graphql-rails-example (⭐276)](https://github.com/github/github-graphql-rails-example) - Example Rails app using GitHub's GraphQL API.
 *   [relay-on-rails (⭐42)](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
-*   [relay-rails-blog (⭐141)](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
+*   [relay-rails-blog (⭐140)](https://github.com/gauravtiwari/relay-rails-blog) - A graphql, relay and standard rails application powered demo weblog.
 *   [to\_eat\_app (⭐13)](https://github.com/jcdavison/to_eat_app) - A sample graphql/rails/relay application with a related 3-part article series.
-*   [agoo-demo (⭐798)](https://github.com/ohler55/agoo/tree/develop/example/graphql) - Use of the Agoo server to demonstrate a simple GraphQL application.
+*   [agoo-demo (⭐804)](https://github.com/ohler55/agoo/tree/develop/example/graphql) - Use of the Agoo server to demonstrate a simple GraphQL application.
 *   [rails-devise-graphql (⭐277)](https://github.com/zauberware/rails-devise-graphql) - A rails 6 boilerplate with devise, graphql & JWT auth.
 
 ### PHP / React
@@ -304,9 +304,9 @@
 *   [graphql-relay-php (⭐270)](https://github.com/ivome/graphql-relay-php) - Relay helpers for webonyx/graphql-php implementation of GraphQL.
 *   [lighthouse (⭐3k)](https://github.com/nuwave/lighthouse) - A PHP package that allows to serve a GraphQL endpoint from your Laravel application.
 *   [graphql-laravel (⭐1.9k)](https://github.com/rebing/graphql-laravel) - Laravel wrapper for Facebook's GraphQL.
-*   [overblog/graphql-bundle (⭐713)](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
-*   [wp-graphql (⭐3.3k)](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress.
-*   [graphqlite (⭐506)](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
+*   [overblog/graphql-bundle (⭐718)](https://github.com/overblog/GraphQLBundle) - This bundle provides tools to build a complete GraphQL server in your Symfony App. Supports react-relay.
+*   [wp-graphql (⭐3.4k)](https://github.com/wp-graphql/wp-graphql) - GraphQL API for WordPress.
+*   [graphqlite (⭐512)](https://github.com/thecodingmachine/graphqlite) - Framework agnostic library that allows you to write GraphQL server by annotating your PHP classes.
 *   [siler (⭐1.1k)](https://github.com/leocavalcante/siler) - Plain-old functions providing a declarative API for GraphQL servers with Subscriptions support.
 *   [graphql-request-builder (⭐3)](https://github.com/dpauli/php-graphql-request-builder) - Builds request payload in GraphQL structure.
 
@@ -317,21 +317,21 @@
 ### Python / React
 
 *   [graphql-parser (⭐48)](https://github.com/tryolabs/graphql-parser) - GraphQL parser for Python.
-*   [graphql-relay-py (⭐142)](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
+*   [graphql-relay-py (⭐143)](https://github.com/graphql-python/graphql-relay-py) - A library to help construct a graphql-py server supporting react-relay.
 *   [graphql-parser-python (⭐4)](https://github.com/tallstreet/graphql-parser-python) - A python wrapper around libgraphqlparser.
-*   [graphene (⭐7.4k)](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
+*   [graphene (⭐7.5k)](https://github.com/graphql-python/graphene) - A package for creating GraphQL schemas/types in a Pythonic easy way.
 *   [graphene-gae (⭐119)](https://github.com/graphql-python/graphene-gae) - Adds GraphQL support to Google AppEngine (GAE).
 *   [django-graphiql (⭐35)](https://github.com/GraphQL-python-archive/django-graphiql) - Integrate GraphiQL easily into your Django project.
 *   [flask-graphql (⭐1.3k)](https://github.com/graphql-python/flask-graphql) - Adds GraphQL support to your Flask application.
-*   [python-graphql-client (⭐148)](https://github.com/prisma/python-graphql-client) - Simple GraphQL client for Python 2.7+
+*   [python-graphql-client (⭐150)](https://github.com/prisma/python-graphql-client) - Simple GraphQL client for Python 2.7+
 *   [python-graphjoiner (⭐0)](https://github.com/healx/python-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
-*   [graphene-django (⭐3.9k)](https://github.com/graphql-python/graphene-django) - A Django integration for Graphene.
+*   [graphene-django (⭐4k)](https://github.com/graphql-python/graphene-django) - A Django integration for Graphene.
 *   [Flask-GraphQL-Auth (⭐64)](https://github.com/callsign-viper/Flask-GraphQL-Auth) - An authentication library for Flask inspired from flask-jwt-extended.
-*   [tartiflette (⭐833)](https://github.com/dailymotion/tartiflette) - GraphQL Implementation, SDL First, for python 3.6+ / asyncio.
+*   [tartiflette (⭐837)](https://github.com/dailymotion/tartiflette) - GraphQL Implementation, SDL First, for python 3.6+ / asyncio.
 *   [tartiflette-aiohttp (⭐60)](https://github.com/dailymotion/tartiflette-aiohttp) - Wrapper of Tartiflette to expose GraphQL API over HTTP based on aiohttp / 3.6+ / asyncio, [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
 *   [Ariadne (⭐1.9k)](https://github.com/mirumee/ariadne) - library for implementing GraphQL servers using schema-first approach. Asynchronous query execution, batteries included for ASGI, WSGI and popular webframeworks, [fully documented](https://ariadnegraphql.org).
-*   [django-graphql-auth (⭐295)](https://github.com/PedroBern/django-graphql-auth) - Django registration and authentication with GraphQL.
-*   [strawberry (⭐2.7k)](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python.
+*   [django-graphql-auth (⭐301)](https://github.com/PedroBern/django-graphql-auth) - Django registration and authentication with GraphQL.
+*   [strawberry (⭐2.8k)](https://github.com/strawberry-graphql/strawberry) - A new GraphQL library for Python.
 
 ### Python Examples / React
 
@@ -339,85 +339,85 @@
 
 ### Java / React
 
-*   [graphql-java (⭐5.6k)](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
+*   [graphql-java (⭐5.7k)](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation.
 *   [DGS Framework (⭐2.5k)](https://github.com/Netflix/dgs-framework) - A GraphQL server framework for Spring Boot, developed by Netflix.
-*   [graphql-java-generator](https://github.com/graphql-java-generator) - A [Maven plugin (⭐75)](https://github.com/graphql-java-generator/graphql-maven-plugin-project) and a [Gradle plugin (⭐35)](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) that can generate both the **Client** and the **Server** (POJOs and utility classes). The server part is based on graphql-java, and hides all its boilerplate codes.
+*   [graphql-java-generator](https://github.com/graphql-java-generator) - A [Maven plugin (⭐81)](https://github.com/graphql-java-generator/graphql-maven-plugin-project) and a [Gradle plugin (⭐37)](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) that can generate both the **Client** and the **Server** (POJOs and utility classes). The server part is based on graphql-java, and hides all its boilerplate codes.
 *   [gaphql-java-type-generator (⭐37)](https://github.com/graphql-java/graphql-java-type-generator) - Auto-generates types for use with GraphQL Java
 *   [schemagen-graphql (⭐45)](https://github.com/bpatters/schemagen-graphql) - Schema generation and execution package that turns POJO's into a GraphQL Java queryable set of objects. Enables exposing any service as a GraphQL service using Annotations.
 *   [graphql-java-annotations (⭐366)](https://github.com/Enigmatis/graphql-java-annotations) - Provides annotations-based syntax for schema definition with GraphQL Java.
-*   [graphql-java-tools (⭐779)](https://github.com/graphql-java-kickstart/graphql-java-tools) - Schema-first graphql-java convenience library that makes it easy to bring your own implementations as data resolvers. Inspired by [graphql-tools (⭐5k)](https://github.com/apollographql/graphql-tools) for JS.
+*   [graphql-java-tools (⭐780)](https://github.com/graphql-java-kickstart/graphql-java-tools) - Schema-first graphql-java convenience library that makes it easy to bring your own implementations as data resolvers. Inspired by [graphql-tools (⭐5k)](https://github.com/apollographql/graphql-tools) for JS.
 *   [graphql-java-codegen-maven-plugin (⭐17)](https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin) - Schema-first maven plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. Inspired by [swagger-codegen-maven-plugin (⭐15k)](https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen-maven-plugin).
-*   [graphql-java-codegen-gradle-plugin (⭐19)](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin) - Schema-first gradle plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. Inspired by [gradle-swagger-generator-plugin (⭐259)](https://github.com/int128/gradle-swagger-generator-plugin).
-*   [graphql-java-servlet (⭐203)](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
-*   [manifold-graphql (⭐1.4k)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Java example](#example-java) below.
+*   [graphql-java-codegen-gradle-plugin (⭐19)](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin) - Schema-first gradle plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. Inspired by [gradle-swagger-generator-plugin (⭐265)](https://github.com/int128/gradle-swagger-generator-plugin).
+*   [graphql-java-servlet (⭐206)](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
+*   [manifold-graphql (⭐1.5k)](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Java example](#example-java) below.
 *   [spring-graphql-common (⭐132)](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 *   [graphql-spring-boot (⭐1.4k)](https://github.com/graphql-java-kickstart/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 *   [vertx-graphql-service-discovery (⭐50)](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 *   [vertx-dataloader (⭐70)](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments.
-*   [graphql-spqr (⭐996)](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
+*   [graphql-spqr (⭐1k)](https://github.com/leangen/GraphQL-SPQR) - Java 8+ API for rapid development of GraphQL services.
 *   [Light Java GraphQL (⭐30)](https://github.com/networknt/light-graphql-4j): A lightweight, fast microservices framework with all cross-cutting concerns addressed and ready to plug in GraphQL schema.
 *   [Elide](https://elide.io): A Java library that can expose a JPA annotated data model as a GraphQL service over any relational database.
-*   [federation-jvm (⭐189)](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM.
-*   [graphql-java-extended-validation (⭐91)](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java.
+*   [federation-jvm (⭐194)](https://github.com/apollographql/federation-jvm) - Apollo Federation on the JVM.
+*   [graphql-java-extended-validation (⭐93)](https://github.com/graphql-java/graphql-java-extended-validation) - Provides extended validation of fields and field arguments for graphql-java.
 
 ### Java Examples / React
 
-*   [light-java-graphql examples (⭐141)](https://github.com/networknt/light-example-4j/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
+*   [light-java-graphql examples (⭐142)](https://github.com/networknt/light-example-4j/tree/master/graphql) - Examples of Light Java GraphQL and tutorials.
 *   [graphql-spqr-samples (⭐101)](https://github.com/leangen/graphql-spqr-samples) - An example GraphQL server written with Spring MVC and GraphQL-SPQR.
-*   [manifold-graphql sample (⭐15)](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
-*   [graphql-java-kickstart\_samples (⭐95)](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects.
+*   [manifold-graphql sample (⭐16)](https://github.com/manifold-systems/manifold-sample-graphql-app) - A simple application, both client and server, demonstrating the Manifold GraphQL library.
+*   [graphql-java-kickstart\_samples (⭐98)](https://github.com/graphql-java-kickstart/samples) - Samples for using the GraphQL Java Kickstart projects.
 
 ### Kotlin Examples / React
 
-*   [manifold-graphql sample (⭐3)](https://github.com/manifold-systems/manifold-sample-kotlin-app) - A simple GraphQL application, both client and server, demonstrating the Manifold GraphQL library with Kotlin.
+*   [manifold-graphql sample (⭐2)](https://github.com/manifold-systems/manifold-sample-kotlin-app) - A simple GraphQL application, both client and server, demonstrating the Manifold GraphQL library with Kotlin.
 
 ### C/C++ / React
 
 *   [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
 *   [agoo-c (⭐135)](https://github.com/ohler55/agoo-c) - A high performance GraphQL server written in C. [benchmarks (⭐54)](https://github.com/the-benchmarker/graphql-benchmarks)
-*   [cppgraphqlgen (⭐269)](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
-*   [CaffQL (⭐23)](https://github.com/caffeinetv/CaffQL) - Generates C++ client types and request/response serialization from a GraphQL introspection query.
+*   [cppgraphqlgen (⭐273)](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
+*   [CaffQL (⭐24)](https://github.com/caffeinetv/CaffQL) - Generates C++ client types and request/response serialization from a GraphQL introspection query.
 
 ### Go / React
 
-*   [graphql (⭐8.8k)](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
+*   [graphql (⭐8.9k)](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
 *   [graphql-go (⭐4.3k)](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use.
-*   [gqlgen (⭐8.2k)](https://github.com/99designs/gqlgen) - Go generate based graphql server library.
-*   [graphql-relay-go (⭐397)](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
+*   [gqlgen (⭐8.4k)](https://github.com/99designs/gqlgen) - Go generate based graphql server library.
+*   [graphql-relay-go (⭐400)](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 *   [graphjin (⭐2.4k)](https://github.com/dosco/graphjin): Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler.
 
 ### Go Examples / React
 
-*   [golang-relay-starter-kit (⭐135)](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
+*   [golang-relay-starter-kit (⭐134)](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
 *   [todomvc-relay-go (⭐65)](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
-*   [go-graphql-subscription-example (⭐31)](https://github.com/ccamel/go-graphql-subscription-example) - A GraphQL schema and server that demonstrates GraphQL [subscriptions (⭐1.5k)](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) (over Websocket) to consume [Apache Kafka](https://kafka.apache.org/) messages.
+*   [go-graphql-subscription-example (⭐34)](https://github.com/ccamel/go-graphql-subscription-example) - A GraphQL schema and server that demonstrates GraphQL [subscriptions (⭐1.5k)](https://github.com/apollographql/subscriptions-transport-ws/blob/v0.9.4/PROTOCOL.md) (over Websocket) to consume [Apache Kafka](https://kafka.apache.org/) messages.
 
 ### Scala / React
 
 *   [sangria (⭐1.9k)](https://github.com/sangria-graphql/sangria) - Scala GraphQL server implementation.
-*   [sangria-relay (⭐90)](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
-*   [caliban (⭐822)](https://github.com/ghostdogpr/caliban) - Caliban is a purely functional library for creating GraphQL backends in Scala.
+*   [sangria-relay (⭐91)](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
+*   [caliban (⭐836)](https://github.com/ghostdogpr/caliban) - Caliban is a purely functional library for creating GraphQL backends in Scala.
 
 ### Scala Examples / React
 
-*   [sangria-akka-http-example (⭐246)](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](https://sangria-graphql.github.io/)
+*   [sangria-akka-http-example (⭐245)](https://github.com/sangria-graphql/sangria-akka-http-example) - An example GraphQL server written with akka-http and [sangria](https://sangria-graphql.github.io/)
 *   [sangria-playground (⭐85)](https://github.com/sangria-graphql/sangria-playground) - An example of GraphQL server written with Play and sangria.
 
 ### .NET / React
 
 *   [graphql-dotnet (⭐5.4k)](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET.
-*   [graphql-net (⭐882)](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
-*   [Hot Chocolate (⭐3.9k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
-*   [Snowflaqe (⭐147)](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable (⭐2.5k)](https://github.com/fable-compiler/Fable)
+*   [graphql-net (⭐883)](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
+*   [Hot Chocolate (⭐4.1k)](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
+*   [Snowflaqe (⭐148)](https://github.com/Zaid-Ajaj/Snowflaqe) - Type-safe GraphQL code generator for F# and [Fable (⭐2.5k)](https://github.com/fable-compiler/Fable)
 
 ### Elixir / React
 
 *   [absinthe-graphql (⭐4k)](https://github.com/absinthe-graphql/absinthe) - Fully Featured Elixir GraphQL Library.
-*   [graphql-elixir (⭐858)](https://github.com/graphql-elixir/graphql) - GraphQL Elixir. (No longer maintained)
+*   [graphql-elixir (⭐856)](https://github.com/graphql-elixir/graphql) - GraphQL Elixir. (No longer maintained)
 *   [plug\_graphql (⭐127)](https://github.com/graphql-elixir/plug_graphql) - Plug integration for GraphQL Elixir.
 *   [graphql\_relay (⭐35)](https://github.com/graphql-elixir/graphql_relay) - Relay helpers for GraphQL Elixir.
 *   [graphql\_parser (⭐18)](https://github.com/graphql-elixir/graphql_parser) - Elixir bindings for [libgraphqlparser (⭐1k)](https://github.com/graphql/libgraphqlparser)
-*   [graphql (⭐86)](https://github.com/asonge/graphql) - Elixir GraphQL parser.
+*   [graphql (⭐87)](https://github.com/asonge/graphql) - Elixir GraphQL parser.
 *   [plot (⭐29)](https://github.com/peburrows/plot) - GraphQL parser and resolver for Elixir.
 
 ### Haskell / React
@@ -427,18 +427,18 @@
 ### SQL / React
 
 *   [GraphpostgresQL (⭐1.1k)](https://github.com/solidsnack/GraphpostgresQL) - GraphQL for Postgres.
-*   [sql-to-graphql (⭐581)](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
+*   [sql-to-graphql (⭐584)](https://github.com/rexxars/sql-to-graphql) - Generate a GraphQL API based on your SQL database structure.
 *   [PostGraphile (⭐12k)](https://github.com/graphile/postgraphile) - Lightning-fast GraphQL APIs for PostgreSQL: highly customisable; extensible via plugins; realtime.
-*   [Hasura (⭐28k)](https://github.com/hasura/graphql-engine) - Hasura gives Instant Realtime GraphQL APIs over PostgreSQL. Works with an existing database too.
+*   [Hasura (⭐29k)](https://github.com/hasura/graphql-engine) - Hasura gives Instant Realtime GraphQL APIs over PostgreSQL. Works with an existing database too.
 *   [subZero](https://subzero.cloud/) - GraphQL & REST API for your database
 
 ### Lua / React
 
-*   [graphql-lua (⭐171)](https://github.com/bjornbytes/graphql-lua) - GraphQL for Lua.
+*   [graphql-lua (⭐173)](https://github.com/bjornbytes/graphql-lua) - GraphQL for Lua.
 
 ### Elm / React
 
-*   [elm-graphql (⭐741)](https://github.com/dillonkearns/elm-graphql) - GraphQL for Elm.
+*   [elm-graphql (⭐747)](https://github.com/dillonkearns/elm-graphql) - GraphQL for Elm.
 
 ### Clojure / React
 
@@ -448,7 +448,7 @@
 ### ClojureScript / React
 
 *   [graphql-query (⭐67)](https://github.com/district0x/graphql-query) - Clojure(Script) GraphQL query generation.
-*   [re-graph (⭐429)](https://github.com/oliyh/re-graph) - A GraphQL client for ClojureScript with bindings for re-frame applications.
+*   [re-graph (⭐428)](https://github.com/oliyh/re-graph) - A GraphQL client for ClojureScript with bindings for re-frame applications.
 
 ### Clojure Examples / React
 
@@ -456,15 +456,15 @@
 
 ### Swift / React
 
-*   [GraphQL (⭐886)](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
+*   [GraphQL (⭐888)](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
 
 ### OCaml / React
 
-*   [ocaml-graphql-server (⭐614)](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
+*   [ocaml-graphql-server (⭐616)](https://github.com/andreas/ocaml-graphql-server) - GraphQL servers in OCaml.
 
 ### Android Examples / React
 
-*   [apollo-frontpage-android-app (⭐2)](https://github.com/rnitame/apollo-frontpage-android-app) - 📄 Apollo "hello world" app, for Android.
+*   [apollo-frontpage-android-app (⭐1)](https://github.com/rnitame/apollo-frontpage-android-app) - 📄 Apollo "hello world" app, for Android.
 
 ### iOS / React
 
@@ -480,43 +480,43 @@
 
 *   [reason-apollo (⭐558)](https://github.com/apollographql/reason-apollo) - ReasonML binding for Apollo Client.
 *   [ReasonQL (⭐97)](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL Client for ReasonML developers.
-*   [reason-urql (⭐234)](https://github.com/FormidableLabs/reason-urql) - ReasonML binding for urql Client.
+*   [reason-urql (⭐235)](https://github.com/FormidableLabs/reason-urql) - ReasonML binding for urql Client.
 
 ### Dart / React
 
-*   [graphql-flutter (⭐3k)](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
-*   [Artemis (⭐475)](https://github.com/comigor/artemis) - A GraphQL type and query generator for Dart/Flutter.
+*   [graphql-flutter (⭐3.1k)](https://github.com/zino-app/graphql-flutter) - A GraphQL client for Flutter.
+*   [Artemis (⭐481)](https://github.com/comigor/artemis) - A GraphQL type and query generator for Dart/Flutter.
 
 ### Rust / React
 
-*   [async-graphql (⭐2.5k)](https://github.com/async-graphql/async-graphql) - High-performance server-side library that supports all GraphQL specifications.
-*   [juniper (⭐4.8k)](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
-*   [graphql-client (⭐889)](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
-*   [graphql-parser (⭐293)](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
+*   [async-graphql (⭐2.6k)](https://github.com/async-graphql/async-graphql) - High-performance server-side library that supports all GraphQL specifications.
+*   [juniper (⭐4.9k)](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
+*   [graphql-client (⭐908)](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust with WebAssembly (wasm) support.
+*   [graphql-parser (⭐297)](https://github.com/graphql-rust/graphql-parser) - A parser, formatter and AST for the GraphQL query and schema definition language for Rust.
 
 ### Rust Examples / React
 
-*   [Warp GraphQL Juniper Demo (⭐4.8k)](https://github.com/graphql-rust/juniper/tree/master/examples/warp_async)
+*   [Warp GraphQL Juniper Demo (⭐4.9k)](https://github.com/graphql-rust/juniper/tree/master/examples/warp_async)
 
 ### D (dlang) / React
 
-*   [graphqld (⭐33)](https://github.com/burner/graphqld) - GraphQL server library for D.
+*   [graphqld (⭐34)](https://github.com/burner/graphqld) - GraphQL server library for D.
 
 ### R (Rstat) / React
 
-*   [ghql (⭐130)](https://github.com/ropensci/ghql) - General purpose GraphQL R client.
+*   [ghql (⭐131)](https://github.com/ropensci/ghql) - General purpose GraphQL R client.
 *   [graphql (⭐33)](https://github.com/ropensci/graphql) - Bindings to the 'libgraphqlparser' C++ library. Parses GraphQL syntax and exports the AST in JSON format.
-*   [gqlr (⭐57)](https://github.com/schloerke/gqlr) - R GraphQL Implementation.
+*   [gqlr (⭐58)](https://github.com/schloerke/gqlr) - R GraphQL Implementation.
 
 ### Julia / React
 
-*   [Diana.jl (⭐107)](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
-*   [GraphQLClient.jl (⭐35)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
+*   [Diana.jl (⭐108)](https://github.com/codeneomatrix/Diana.jl) - A Julia GraphQL client/server implementation.
+*   [GraphQLClient.jl (⭐36)](https://github.com/DeloitteDigitalAPAC/GraphQLClient.jl) - A Julia GraphQL client for seamless integration with a server.
 
 ### Crystal / React
 
-*   [graphql (⭐107)](https://github.com/graphql-crystal/graphql) - GraphQL server library.
-*   [graphql-crystal (⭐214)](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby (⭐5.1k)](https://github.com/rmosolgo/graphql-ruby) & [go-graphql (⭐249)](https://github.com/playlyfe/go-graphql) & [graphql-parser (⭐195)](https://github.com/graphql-dotnet/parser).
+*   [graphql (⭐115)](https://github.com/graphql-crystal/graphql) - GraphQL server library.
+*   [graphql-crystal (⭐215)](https://github.com/ziprandom/graphql-crystal) - library inspired by [graphql-ruby (⭐5.2k)](https://github.com/rmosolgo/graphql-ruby) & [go-graphql (⭐249)](https://github.com/playlyfe/go-graphql) & [graphql-parser (⭐197)](https://github.com/graphql-dotnet/parser).
 *   [crystal-gql (⭐5)](https://github.com/itsezc/crystal-gql) - GraphQL client shard inspired by Apollo client.
 *   [graphql.cr (⭐1)](https://github.com/garymardell/graphql.cr) - GraphQL shard.
 
@@ -529,7 +529,7 @@
 *   [Insomnia](https://insomnia.rest/) - A full-featured API client with first-party GraphQL query editor.
 *   [Postman](https://learning.postman.com/docs/sending-requests/supported-api-frameworks/graphql/) - An HTTP Client that supports editing GraphQL queries.
 *   [Apollo Sandbox](https://sandbox.apollo.dev/) - The quickest way to navigate and test your GraphQL endpoints.
-*   [GraphQL Birdseye (⭐692)](https://github.com/Novvum/graphql-birdseye) – View any GraphQL schema as a dynamic and interactive graph.
+*   [GraphQL Birdseye (⭐693)](https://github.com/Novvum/graphql-birdseye) – View any GraphQL schema as a dynamic and interactive graph.
 *   [AST Explorer](https://astexplorer.net/) - Select "GraphQL" at the top, explore the GraphQL AST and highlight different parts by clicking in the query.
 *   [Firecamp - GraphQL Playground](https://firecamp.io/graphql) - The fastest collaborative GraphQL playground.
 
@@ -554,13 +554,13 @@
 ### Tools - Docs / React
 
 *   [graphdoc (⭐1.5k)](https://github.com/2fd/graphdoc) - Static page generator for documenting GraphQL Schema.
-*   [gqldoc (⭐158)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL.
+*   [gqldoc (⭐162)](https://github.com/Code-Hex/gqldoc) - The easiest way to make API documents for GraphQL.
 
 ### Tools - Editor Plugins / React
 
 *   [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
-*   [js-graphql-intellij-plugin (⭐806)](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
-*   [vim-graphql (⭐453)](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
+*   [js-graphql-intellij-plugin (⭐810)](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin/) - GraphQL language support for IntelliJ IDEA and WebStorm, including Relay.QL tagged templates in JavaScript and TypeScript.
+*   [vim-graphql (⭐457)](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection and syntax highlighting.
 *   [Apollo Workbench](https://marketplace.visualstudio.com/items?itemName=apollographql.apollo-workbench) - Tooling to help you develop and mock federated schemas using Apollo Federation.
 *   [graphql-autocomplete (⭐47)](https://github.com/orionsoft/atom-graphql-autocomplete) - Autocomplete and lint from a GraphQL endpoint in Atom.
 
@@ -570,7 +570,7 @@
 *   [EdgeDB](https://edgedb.com/) - The next generation object-relational database with native GraphQL support.
 *   [FaunaDB](https://fauna.com) - Relational NoSQL database with [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) Supports joins, indexes, and multi-region ACID transactions with serverless pay-per-use pricing.
 *   [ArangoDB](https://arangodb.com/) - Native multi-model database with [GraphQL integration](https://www.arangodb.com/docs/3.4/foxx-reference-modules-graph-ql.html) via the built-in [Foxx Microservices Framework](https://www.arangodb.com/docs/stable/foxx.html).
-*   [Weaviate (⭐2.9k)](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a [GraphQL interface](https://www.semi.technology/developers/weaviate/current/graphql-references/) built to scale your machine learning models.
+*   [Weaviate (⭐3k)](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a [GraphQL interface](https://www.semi.technology/developers/weaviate/current/graphql-references/) built to scale your machine learning models.
 *   [LunaSec](https://www.lunasec.io/) - Key-Value Database for encrypting/tokenizing sensitive data with [GraphQL support](https://www.lunasec.io/docs/pages/getting-started/dedicated-tokenizer/graphql/) to authorize requests. - [Source Code (⭐1.2k)](https://github.com/lunasec-io/lunasec)
 
 ### Services / React
@@ -581,7 +581,7 @@
 *   [Booster framework](https://booster.cloud/) - An open-source framework that makes you *completely* forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
 *   [Hypi](https://hypi.io/) - Low-code, scalable, serverless backend as a service. Your GraphQL & REST over GraphQL backend in minutes.
 *   [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
-*   [Saleor (⭐17k)](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
+*   [Saleor (⭐18k)](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 
 ### CDN / React
 
@@ -687,7 +687,7 @@
 
 *   [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more.
 *   [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
-*   [learning-graphql (⭐923)](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
+*   [learning-graphql (⭐925)](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 
 ## [14. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
@@ -701,31 +701,37 @@
 
 *   [Benchmarking Cassandra with Local Storage on Azure](https://www.instaclustr.com/benchmarking-cassandra-with-local-storage-on-azure/) - Learn about comparing Cassandra on Azure VMs w/ Local vs. Remote storage.
 
-## [16. Awesome](/content/craftcms/awesome/week/README.md)
+## [16. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### Component bundles
+
+*   [BlazorOcticons (⭐6)](https://github.com/BlazorOcticons/BlazorOcticons) - ![last commit](https://img.shields.io/github/last-commit/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/octicons/) created as a `.razor` components and available via the NuGet package. The project [website](https://blazorocticons.net/) is an example using the generated components.
+
+## [17. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Praises / Tutorials
 
 *   [Craft CMS vs WordPress: A comparison & why we love Craft CMS](https://www.madebybridge.com/blog/craft-cms-vs-wordpress-a-comparison) by Chris Cox/Made by Bridge - `17 Nov 2021`
 
-## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Generic ZSH
 
-*   [ZSH Unplugged (⭐132)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
+*   [ZSH Unplugged (⭐146)](https://github.com/mattmc3/zsh_unplugged) - Good resource if you want to eliminate using a framework but still easily use plugins.
 
-## [18. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / For Managing WSL Installations
 
 *   [WSL GUI Tool (⭐58)](https://github.com/emeric-martineau/wsl-gui-tool) - A graphical tool to manage (run, stop, import, export...) WSL. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [19. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [20. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / oxidebpf
 
-*   [oxidebpf (⭐89)](https://github.com/redcanaryco/oxidebpf) - A pure Rust library for managing eBPF programs, designed for security use cases. The featureset is more limited than other libraries but emphasizes stability across a wide range of kernels and backwards-compatible compile-once-run-most-places.
+*   [oxidebpf (⭐90)](https://github.com/redcanaryco/oxidebpf) - A pure Rust library for managing eBPF programs, designed for security use cases. The featureset is more limited than other libraries but emphasizes stability across a wide range of kernels and backwards-compatible compile-once-run-most-places.
 
-## [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Explanation
 
@@ -778,7 +784,7 @@
 
 ### Communications / Language Compositionality
 
-*   [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html) - ***NIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17308624474306270808\&hl=en\&as_sdt=0,5)].
+*   [Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols](https://proceedings.neurips.cc/paper/2017/hash/70222949cc0db89ab32c9969754d4758-Abstract.html) - ***NeurIPS'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17308624474306270808\&hl=en\&as_sdt=0,5)].
 *   [Emergent communication through negotiation](https://arxiv.org/abs/1804.03980) - ***ICLR'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8825869866742501521\&hl=en\&as_sdt=0,5)].
 *   [The language of generalization](https://psycnet.apa.org/record/2019-07481-001) - ***Psychological Review***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7723877614160376324\&hl=en\&as_sdt=0,5)].
 *   [Compositionality and Generalization in Emergent Languages](https://arxiv.org/abs/2004.09124) - ***ACL'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5792073344743965767\&hl=en\&as_sdt=0,5)].
@@ -818,28 +824,25 @@
 *   [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf) - ***IJCAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7027142960863064076\&hl=en\&as_sdt=0,5)].
 *   [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855) - ***Artificial Intelligence***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11875529139573472578\&hl=en\&as_sdt=0,5)].
 *   [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/pdf/2103.14230v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4172146500538799638\&hl=en\&as_sdt=0,5)].
-*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project (⭐34)](https://github.com/gblackout/NLIL)].
+*   [Learn to explain efﬁciently via neural logic inductive learning](https://openreview.net/pdf?id=SJlh8CEYDB) - ***ICLR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4550874980727321525\&hl=en\&as_sdt=0,5)]. \[[Project (⭐36)](https://github.com/gblackout/NLIL)].
 *   [Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://arxiv.org/abs/2006.06649) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9257372000778020812\&hl=en\&as_sdt=0,5)].
 *   [Generating new concepts with hybrid neuro-symbolic models.](https://arxiv.org/abs/2003.08978) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1912020791698331044)].
 *   [Learning Task-General Representations with Generative Neuro-Symbolic Modeling](https://arxiv.org/abs/2006.14448) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=1335404082385789329)].
-*   [Classification-by-Components: Probabilistic Modeling of Reasoning over a Set of Components](http://papers.nips.cc/paper/8546-classification-by-components-probabilistic-modeling-of-reasoning-over-a-set-of-components.pdf) - ***NIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12691103404451941071\&hl=en\&as_sdt=0,5)].
 *   [Neuro-Symbolic Visual Reasoning: Disentangling “Visual” from “Reasoning”](https://arxiv.org/pdf/2006.11524.pdf) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13160160974887139307\&hl=en\&as_sdt=0,5)].
-*   [Understanding Deep Architectures with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=937882599430270789\&hl=en\&as_sdt=0,5)].
+*   [Understanding Deep Architectures with Reasoning Layer](https://proceedings.neurips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=937882599430270789\&hl=en\&as_sdt=0,5)].
 *   [An Explicitly Relational Neural Network Architecture](https://arxiv.org/pdf/1905.10307.pdf) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=37732747764322837\&hl=en\&as_sdt=0,5)].
-*   [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15612498612943317331\&hl=en\&as_sdt=0,5)].
+*   [Compositional Generalization via Neural-Symbolic Stack Machines](https://arxiv.org/pdf/2008.06662.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=15612498612943317331\&hl=en\&as_sdt=0,5)].
 *   [Stochastic Optimization of Sorting Networks via Continuous Relaxations](https://openreview.net/pdf?id=H1eSS3CcKX) - ***ICLR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=10619362619006891050\&hl=en\&as_sdt=0,5)].
 *   [Program Guided Agent](https://openreview.net/pdf?id=BkxUvnEYDH) - ***ICLR'20***, 2020. \[[All Versions](https://openreview.net/forum?id=BkxUvnEYDH)].
-*   [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=3160670555314650508\&hl=en\&as_sdt=0,5)].
-*   [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9452091824686227240\&hl=en\&as_sdt=0,5)].
+*   [Learning Compositional Rules via Neural Program Synthesis](https://proceedings.neurips.cc/paper/2020/hash/7a685d9edd95508471a9d3d6fcace432-Abstract.html) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=3160670555314650508\&hl=en\&as_sdt=0,5)].
+*   [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9452091824686227240\&hl=en\&as_sdt=0,5)].
 *   [Neural Logic Machines](https://arxiv.org/pdf/1904.11694.pdf) - ***ICLR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=4525183211642569463\&hl=en\&as_sdt=0,5)].
 *   [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf) - ***ICLR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8837128214653317831\&hl=en\&as_sdt=0,5)].
-*   [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/2019/file/98d8a23fd60826a2a474c5b4f5811707-Paper.pdf) - ***NIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1888051343232298875\&hl=en\&as_sdt=0,5)].
 *   [Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning](https://arxiv.org/abs/2103.16564) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16735976343684307244\&hl=en\&as_sdt=0,5)].
 *   [Temporal and Object Quantification Networks](https://jiajunwu.com/papers/toqnet_ijcai.pdf) - ***IJCAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17251222943638414124\&hl=en\&as_sdt=0,5)].
 
 ### Explainability / Explainable Deep Learning
 
-*   [This Looks Like That: Deep Learning for Interpretable Image Recognition](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf) - ***NIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=9461838581952136719\&hl=en\&as_sdt=0,5)].
 *   [Unsupervised learning by competing hidden units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=1228003598355915526\&hl=en\&as_sdt=0,5)].
 
 ### Embodied Intelligence / Explainable Deep Learning
@@ -900,7 +903,7 @@
 ### Analogy / Scientific Writing
 
 *   [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/\~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862\&hl=en\&as_sdt=0,5)].
-*   [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NIPS'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654\&hl=en\&as_sdt=0,5)].
+*   [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NeurIPS'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654\&hl=en\&as_sdt=0,5)].
 *   [Detecting Unseen Visual Relations Using Analogies](https://ieeexplore.ieee.org/document/9010418) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=16686853801653819556\&hl=en\&as_sdt=0,5)].
 *   [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120) - ***ICLR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15521573039503233138\&hl=en\&as_sdt=0,5)].
 *   [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://aclanthology.org/2020.figlang-1.pdf#page=140) - ***ACL'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5747285277687442001\&hl=en\&as_sdt=0,5)].
@@ -970,7 +973,6 @@
 *   [Invariant representation of physical stability in the human brain](https://www.biorxiv.org/content/10.1101/2021.03.19.385641v1.full.pdf) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17431019238600295521\&hl=en\&as_sdt=0,5)].
 *   [Introduction to The Fluent Calculus](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.146.4086\&rep=rep1\&type=pdf) - ***Linkoeping University Electronic Press***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=12069059079023496731\&hl=en\&as_sdt=0,5)].
 *   [From situation calculus to fluent calculus: State update axioms as a solution to the inferential frame problem](https://www.sciencedirect.com/science/article/pii/S0004370299000338) - ***Artificial Intelligence***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10854895617698839149\&hl=en\&as_sdt=0,5)].
-*   [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/\~sczhu/papers/Conf_2013/Learning_AoG_NIPS_2013.pdf) - ***NIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=4354984630817844670)].
 *   [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246\&hl=en\&as_sdt=0,5)].
 *   [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=8852566070856662412)].
 
@@ -1004,10 +1006,10 @@
 *   [Towards Open Set Deep Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=7780542) - ***CVPR'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=3571743951915089896\&hl=en\&as_sdt=0,5)].
 *   [Adversarial Filters of Dataset Biases](https://arxiv.org/pdf/2002.04108.pdf) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=11617966867048191189\&hl=en\&as_sdt=0,5)].
 *   [A Wholistic View of Continual Learning with Deep Neural Networks: Forgotten Lessons and the Bridge to Active and Open World Learning](https://arxiv.org/pdf/2009.01797.pdf) - 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2640432662088551010\&hl=en\&as_sdt=0,5)].
-*   [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576\&hl=en\&as_sdt=0,5)]. \[[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
+*   [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576\&hl=en\&as_sdt=0,5)]. \[[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
 *   [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf) - ***CVPR'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6285495755337309034\&hl=en\&as_sdt=0,5)].
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐876)](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐890)](https://github.com/JosephKJ/OWOD)].
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
 ### Learning with Cognitive Plausibility / Commonsense Knowledgebase
@@ -1020,10 +1022,9 @@
 *   [Language acquisition in the absence of explicit negative evidence: how important is starting small?](https://www.sciencedirect.com/science/article/pii/S0010027799000311) - ***Cognition***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=11813578367725362166\&hl=en\&as_sdt=0,5)].
 *   [Parsing video events with goal inference and intent prediction](https://ieeexplore.ieee.org/document/6126279) - ***ICCV'11***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=5979196784405021658\&hl=en\&as_sdt=0,5)].
 *   [Explainable and Explicit Visual Reasoning over Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Explainable_and_Explicit_Visual_Reasoning_Over_Scene_Graphs_CVPR_2019_paper.pdf) - ***CVPR'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=8517395712319798436\&hl=en\&as_sdt=0,5)].
-*   [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf) - ***NIPS'13***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2410615501856807729\&hl=en\&as_sdt=0,5)].
 *   [Motion Reasoning for Goal-Based Imitation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=9197172) - ***ICRA'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7519230802512388210\&hl=en\&as_sdt=0,5)].
 *   [Action Genome: Actions as Compositions of Spatio-temporal Scene Graphs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=388714326304810525\&hl=en\&as_sdt=0,5)].
-*   [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255\&hl=en\&as_sdt=0,5)].
+*   [Refactoring Policy for Compositional Generalizability using Self-Supervised Object Proposals](https://proceedings.neurips.cc/paper/2020/file/64dcf3c521a00dbb4d2a10a27a95a9d8-Paper.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2255457416066730255\&hl=en\&as_sdt=0,5)].
 *   [Something-Else: Compositional Action Recognition with Spatial-Temporal Interaction Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Materzynska_Something-Else_Compositional_Action_Recognition_With_Spatial-Temporal_Interaction_Networks_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=17469863154797360929\&hl=en\&as_sdt=0,5)].
 *   [Putting visual object recognition in context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Putting_Visual_Object_Recognition_in_Context_CVPR_2020_paper.pdf) - ***CVPR'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=6207193649298787857\&hl=en\&as_sdt=0,5)].
 *   [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884) - 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=16154696122208258147\&hl=en\&as_sdt=0,5)].
@@ -1087,13 +1088,13 @@
 *   [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424\&hl=en\&as_sdt=0,5)].
 *   [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. \[[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350\&hl=en\&as_sdt=0,5)].
 
-## [21. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [22. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
 *   [Modern Code Reviews](https://rethought.se/research/modern-code-reviews/) Arguably belongs in academic paper, but it's a website giving an overview of evidence on code review by facet/context. Links off to a bunch of papers.
 
-## [22. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [23. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Woodpecker](https://woodpecker.laszlo.cloud/)
 
@@ -1111,51 +1112,51 @@
 
 
 
-## [23. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [24. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Official plugins
 
-*   [Action Sheet (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - Provides access to native Action Sheets.
-*   [App Launcher (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - Allows to check if an app can be opened and open it.
-*   [Browser (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - Provides the ability to open an in-app browser and subscribe to browser events.
-*   [Camera (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
-*   [Clipboard (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - Enables copy and pasting to/from the system clipboard.
-*   [Dialog (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
-*   [Geolocation (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
-*   [Haptics (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/haptics) - Provides physical feedback to the user through touch or vibration.
-*   [Keyboard (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
-*   [Local Notifications (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
-*   [Motion (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - Tracks accelerometer and device orientation (compass heading, etc.).
-*   [Network (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - Provides network and connectivity information.
-*   [Push Notifications (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) - Provides access to native push notifications.
-*   [Share (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/share) - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
-*   [Splash Screen (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) - Provides methods for showing or hiding a Splash image.
-*   [Status Bar (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
-*   [Text Zoom (⭐271)](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - Provides the ability to change Web View text size for visual accessibility.
+*   [Action Sheet (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - Provides access to native Action Sheets.
+*   [App Launcher (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - Allows to check if an app can be opened and open it.
+*   [Browser (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - Provides the ability to open an in-app browser and subscribe to browser events.
+*   [Camera (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
+*   [Clipboard (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - Enables copy and pasting to/from the system clipboard.
+*   [Dialog (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
+*   [Geolocation (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
+*   [Haptics (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/haptics) - Provides physical feedback to the user through touch or vibration.
+*   [Keyboard (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
+*   [Local Notifications (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
+*   [Motion (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - Tracks accelerometer and device orientation (compass heading, etc.).
+*   [Network (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - Provides network and connectivity information.
+*   [Push Notifications (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) - Provides access to native push notifications.
+*   [Share (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/share) - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
+*   [Splash Screen (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) - Provides methods for showing or hiding a Splash image.
+*   [Status Bar (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
+*   [Text Zoom (⭐285)](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - Provides the ability to change Web View text size for visual accessibility.
 
 ### Community plugins
 
-*   [Admob (⭐121)](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
-*   [Apple sign in (⭐103)](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
-*   [Background geolocation (⭐98)](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
-*   [Barcode scanner (⭐267)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
-*   [Bluetooth-le (⭐137)](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
+*   [Admob (⭐122)](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
+*   [Apple sign in (⭐102)](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
+*   [Background geolocation (⭐104)](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
+*   [Barcode scanner (⭐276)](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
+*   [Bluetooth-le (⭐143)](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
 *   [Camera preview (⭐134)](https://github.com/capacitor-community/camera-preview) - Camera preview.
-*   [Googlemaps (⭐131)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Plugin using native Maps API for Android and iOS.
+*   [Googlemaps (⭐134)](https://github.com/capacitor-community/capacitor-googlemaps-native) - Plugin using native Maps API for Android and iOS.
 *   [Contacts (⭐80)](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
 *   [Date picker (⭐62)](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
 *   [Facebook Login (⭐65)](https://github.com/capacitor-community/facebook-login) - A native plugin for Facebook Login.
 *   [Flipper (⭐7)](https://github.com/capacitor-community/flipper) - A native plugin for flipper debugger.
-*   [Http (⭐206)](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
+*   [Http (⭐205)](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
 *   [Intercom (⭐37)](https://github.com/capacitor-community/intercom) - Enable Intercom features for Capacitor apps.
-*   [Media (⭐37)](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
-*   [Native audio (⭐55)](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
+*   [Media (⭐38)](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
+*   [Native audio (⭐58)](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 *   [Native market (⭐16)](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 *   [React hooks (⭐203)](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
 *   [Realm (⭐21)](https://github.com/capacitor-community/realm) - A native plugin for MongoDB Realm.
 *   [Speech recognition (⭐34)](https://github.com/capacitor-community/speech-recognition) - A native plugin for speech recognition.
-*   [Sqlite (⭐220)](https://github.com/capacitor-community/sqlite) - Native & electron SQLite databases.
-*   [Stripe (⭐115)](https://github.com/capacitor-community/stripe) - Stripe SDK bindings for Capacitor Applications.
+*   [Sqlite (⭐225)](https://github.com/capacitor-community/sqlite) - Native & electron SQLite databases.
+*   [Stripe (⭐119)](https://github.com/capacitor-community/stripe) - Stripe SDK bindings for Capacitor Applications.
 *   [Tauri (⭐66)](https://github.com/capacitor-community/tauri) - Support for the Tauri platform.
 *   [Text to speech (⭐56)](https://github.com/capacitor-community/text-to-speech) - Synthesizing speech from text.
 *   [Twitter (⭐11)](https://github.com/capacitor-community/twitter) - Enable TwitterKit features for Capacitor.
@@ -1163,20 +1164,20 @@
 
 ### Other plugins
 
-*   [App Tracking Transparency (⭐16)](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
+*   [App Tracking Transparency (⭐17)](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 *   [Brother Print (⭐3)](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android.
-*   [Biometric (⭐85)](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
+*   [Biometric (⭐89)](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
 *   [Dark mode (⭐1)](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
-*   [Email composer (⭐11)](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
+*   [Email composer (⭐12)](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
 *   [Facebook Analytics (⭐5)](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
 *   [File selector (⭐13)](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
 *   [Jitsi (⭐68)](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 *   [Lightsensor (⭐1)](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
-*   [Native settings (⭐18)](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
+*   [Native settings (⭐21)](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
 *   NativeScript
-    *   [NativeScript Capacitor (⭐22)](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
-    *   [Augmented Reality (⭐115)](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
-*   [Navigation bar (⭐15)](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
+    *   [NativeScript Capacitor (⭐24)](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
+    *   [Augmented Reality (⭐114)](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
+*   [Navigation bar (⭐16)](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
 *   [Rate app (⭐80)](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
 *   [Read sms (⭐0)](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
 *   [Screenshot (⭐6)](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
@@ -1187,42 +1188,42 @@
 *   [Square Payments (⭐2)](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 *   [Sumup (⭐1)](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
 
-## [24. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [25. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Datasets
 
 *   [USyd Dataset- The Univerisity of Sydney Campus- Dataset](http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/) - Long-term, large-scale dataset collected over the period of 1.5 years on a weekly basis over the University of Sydney campus and surrounds. It includes multiple sensor modalities and covers various environmental conditions. ROS compatible
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9109704)
 
-## [25. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
+## [26. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
 ### SCALE Codec
 
 *   [C (⭐4)](https://github.com/MatthewDarnell/cScale) - Maintained by Matthew Darnell.
 
-## [26. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [27. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Music drivers and trackers
 
 *   [CBT-FX (⭐9)](https://github.com/datguywitha3ds/CBT-FX) - A GBDK-2020 sound effect driver compatible with FX-Hammer sound effects.
 
-## [27. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
+## [28. Awesome Slim](/content/nekofar/awesome-slim/week/README.md)
 
 ### Miscellaneous
 
 *   [Slim JSON API (⭐269)](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's.
 
-## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [29. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Display / LCD Character
 
-*   [LCM1602-14\_LCD\_Library (⭐8)](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
+*   [LCM1602-14\_LCD\_Library (⭐9)](https://github.com/Bhavithiran97/LCM1602-14_LCD_Library) - driver for AIP31068L [3.3 V I2C and SPI 1602 Serial Character LCDs](https://www.cytron.io/p-3v3-i2c-and-spi-1602-serial-character-lcd).
 
 ### Display / OLED
 
 *   [sh1107-micropython (⭐6)](https://github.com/nemart69/sh1107-micropython) - MicroPython driver for SH1107-based OLED display (64 x 128).
 
-## [29. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [30. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### VLC lua extensions
 
@@ -1232,32 +1233,32 @@
 *   [playlist-youtube-vlc (⭐0)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 *   [vlc-super-skipper (⭐6)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
 
-## [30. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
+## [31. Awesome Evm Security](/content/kareniel/awesome-evm-security/week/README.md)
 
 ### Threats
 
 *   [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 *   [Blockchain Threat Intelligence](https://www.blockthreat.io/) - The latest in blockchain, DeFi and cryptocurrency threat intelligence, vulnerabilities, security tools, and events.
 
-## [31. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
+## [32. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
 ### Apps / VPN
 
 *   [Golem Provider with network access (⭐2)](https://github.com/jedbrooke/golem-network-requestor) - A requstor that acts as a http proxy for running providers, allowing them to access the wider internet.
 
-## [32. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [33. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
 *   [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
-## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [34. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Deployment Hosting
 
 *   [Railway](https://railway.app/) - Out of the box git to deployment with auto scaling, DBs, secrets and rollbacks.
 
-## [34. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [35. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Data
 
@@ -1267,14 +1268,14 @@
 
 *   [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
 
-## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [36. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
 
-*   [aakashjhawar/AvatarGAN (⭐48)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
+*   [aakashjhawar/AvatarGAN (⭐49)](https://github.com/aakashjhawar/AvatarGAN): Generate Cartoon Images using Generative Adversarial Network
 *   [Greg Surma - Portfolio](https://gsurma.github.io/)
 *   [GitHub Repositories of Hugging Face](https://github.com/huggingface)
-*   [AgaMiko/pixel\_character\_generator (⭐86)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
+*   [AgaMiko/pixel\_character\_generator (⭐88)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 
 ### Interesting Instagram Accounts, Posts and Reels / OpenAI GPT-3
 
@@ -1282,53 +1283,33 @@
 
 ### Other Related Awesome Lists / OpenAI GPT-3
 
-*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐245)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
+*   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐244)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 
-## [36. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [37. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Scheme / Play Scala
+
+*   [Scheme 9 from Empty Space - First edition (2007)](https://unglue.it/work/506723/) - Nils M. Holm (PDF)
+
+## [38. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Libraries
 
 *   [Teaful (⭐657)](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
 
-## [37. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### Component bundles
-
-*   [BlazorOcticons (⭐6)](https://github.com/BlazorOcticons/BlazorOcticons) - ![last commit](https://img.shields.io/github/last-commit/BlazorOcticons/BlazorOcticons?style=flat-square\&cacheSeconds=86400) Github [Octicons](https://primer.style/octicons/) created as a `.razor` components and available via the NuGet package. The project [website](https://blazorocticons.net/) is an example using the generated components.
-
-### Videos / Others
-
-*   [Host, deploy and scale ASP.NET Core Blazor Server](https://www.youtube.com/watch?v=pkfsKdiuTdc\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=82) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - Let's discuss Host configuration values, deployment, scalability, SignalR configuration, Azure SignalR Service and more.
-*   [What’s new in bUnit for .NET 6](https://www.youtube.com/watch?v=0l88RIyseqE\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=52) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - In this talk we will go through the latest additions and changes to bUnit that makes it simpler and easier than ever to test Blazor components. This includes the additions related to the new features that are part of the .NET 6 release of Blazor.
-*   [Blazor and GraphQL](https://www.youtube.com/watch?v=hBWYrNTpIhc\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=58) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - GraphQL is a powerful way of querying data. Creating loosely coupled clients using various JavaScript libraries to present data from a GraphQL API has been a popular architecture adopted by developers. How can we consume an GraphQL API in a Blazor WASM app to create rich apps? What if I can make it even better by using the content from a Headless CMS and present it using a Blazor App? In my session, I will make use of the GraphQL API from Umbraco Heartcore, a headless CMS, to create a Harry Potter themed Blazor App and present the data to the user in multiple ways.
-*   [Embedding Power BI Reports in your Blazor 6 site](https://www.youtube.com/watch?v=O8vmnYBUkbc\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=74) - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - In this coding session, we will take a run-of-the-mill Blazor WebAssembly site, create a page with a report published in powerbi.com, we will then show how to use the ASP.NET Core identity services to protect reports from unauthorized eyes.
-*   [Responsive and Adaptive Tactics for Blazor Applications](https://www.youtube.com/watch?v=n53rWnIkbkk\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=68) - ![duration](https://img.shields.io/badge/Duration:%20-27%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 11, 2021 - In this session you'll learn about CSS techniques like CSS Grid, Flexbox and media queries. We will also explore techniques for adaptive the user interface at runtime for maximum control. These tactics apply to Blazor WASM, Server, and Blazor Hybrid.
-*   [Blazor Azure B2C Authentication and Authorization](https://www.youtube.com/watch?v=ecaiqrU_67k\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=41) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 10, 2021 - In this session we will cover how you can use Azure B2C authentication and authorization within your Blazor application to manage your users, and to allow your users to log in using their preferred social and enterprise logins.
-*   [Build cross-platform native apps with .NET MAUI and Blazor](https://www.youtube.com/watch?v=Dr8L7zXxwLI\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=17) - ![duration](https://img.shields.io/badge/Duration:%20-29%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - The power of Blazor is coming to native apps on desktop and mobile devices! Use existing Blazor web components and get the power of native apps, or supercharge your existing native apps with the power and reach of Blazor with the new BlazorWebView control for .NET MAUI, WPF, and WinForms.
-*   [Enterprise-grade Blazor apps with .NET 6](https://www.youtube.com/watch?v=GKu-vRxOWr8) - ![duration](https://img.shields.io/badge/Duration:%20-30%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - Blazor in [.NET 6](https://get.dot.net/6) gives you the functionality you need to build real world apps of any size and complexity. In this session we'll look at the new Blazor features in .NET 6 for practical web app development. We'll look at the new support for Hot Reload, error boundaries, state preservation during prerendering, faster file uploads, query string handling, adding page metadata, and integrating Blazor components into existing JavaScript based apps.
-*   [Next-generation Blazor components with .NET 6](https://www.youtube.com/watch?v=p77UumvZCNM) - ![duration](https://img.shields.io/badge/Duration:%20-31%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - Blazor in [.NET 6](https://get.dot.net/6) enables building even more powerful and flexible web UI components. In this session we'll look at the new improvements to the Blazor component model, including required component parameters, generic type inference from ancestor components, JavaScript initializers, and handling of static web assets.
-*   [Introduction to .NET MAUI](https://www.youtube.com/watch?v=HMYpAw2sl58) - ![duration](https://img.shields.io/badge/Duration:%20-28%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - .NET MAUI is the best way to build cross platform mobile and desktop apps with .NET and C#. Join Maddy Leger, .NET MAUI Program Manager, to get a first look of .NET MAUI in [.NET 6](https://get.dot.net/6) and learn how you can start using it today.
-*   [.NET Conf 2021 - Day 1](https://www.youtube.com/watch?v=oPyTZ-HGdn4) - ![duration](https://img.shields.io/badge/Duration:%20-666%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - [.NET Conf](https://www.dotnetconf.net) is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 6 will launch at .NET Conf 2021! Come celebrate and learn about the new release.
-*   [.NET Conf 2021 Keynote](https://www.youtube.com/watch?v=gYQxBHjRNr0\&list=PLdo4fOcmZ0oVFtp9MDEBNbA2sSqYvXSXO\&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-70%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - Join Scott Hunter and team as they show you all the amazing things you can do with .NET 6.
-
-### Podcasts / Others
-
-*   [Eilon Lipton on Blazor Desktop](http://azuredevopspodcast.clear-measure.com/eilon-lipton-on-blazor-desktop-episode-166) - November 8, 2021 - In this episode, Eilon is discussing the ins and outs of Blazor Desktop — which is currently 100% of what he’s been working on. He takes listeners on a deep-dive of Blazor Desktop, sharing what they need to know in anticipation of .NET 6 and the GA drop of Visual Studio 2022 coming out. He also touches on WPF, WinForms, MAUI, and the 2021 DEVintersection Conference. Duration: 50 minutes.
-*   [Real World Blazor With Steve Peirce](https://dotnetcore.show/episode-86-real-world-blazor-with-steve-peirce/) - November 5, 2021 - .NET Core Show, Episode 86 - Real World Blazor With Steve Peirce. Duration: 62 minutes.
-
-## [38. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [39. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Third-Party Services / Misc
 
 *   [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
 
-## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [40. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [RishabhRD/gruvy (⭐12)](https://github.com/RishabhRD/gruvy) - Gruvbuddy without colorbuddy using Lush.
+*   [RishabhRD/gruvy (⭐14)](https://github.com/RishabhRD/gruvy) - Gruvbuddy without colorbuddy using Lush.
 
-## [40. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
+## [41. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/week/README.md)
 
 ### Tools you'll need / Cloud-based options
 
@@ -1360,13 +1341,13 @@
 
 *   **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
 
-## [41. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [42. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
-*   [tmux-pomodoro-plus (⭐50)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
+*   [tmux-pomodoro-plus (⭐59)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 
-## [42. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [43. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -1379,7 +1360,7 @@
 *   [Slack](https://linktr.ee/flutter_france)
 *   [Newsletter Flutter Digest](https://www.flutter-digest.com/)
 
-## [43. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [44. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Art & Design
 
@@ -1409,15 +1390,15 @@
 
 
 
-## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [45. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [EPadronU/balin (⭐70)](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
+*   [EPadronU/balin (⭐71)](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
 
 ### Libraries/Frameworks / Dependency Injection
 
-*   [sergeshustoff/dikt (⭐121)](https://github.com/sergeshustoff/dikt) - Simple and powerful DI for kotlin multiplatform
+*   [sergeshustoff/dikt (⭐122)](https://github.com/sergeshustoff/dikt) - Simple and powerful DI for kotlin multiplatform
 
 ### Libraries/Frameworks / Misc
 
@@ -1426,7 +1407,7 @@
 *   [spoptchev/scientist (⭐79)](https://github.com/spoptchev/scientist) - A kotlin library for refactoring code. Port of GitHub's scientist.
 *   [kohesive/solr-undertow (⭐96)](https://github.com/kohesive/solr-undertow) - Solr Standalone Tiny and High performant server.
 
-## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [46. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -1434,41 +1415,37 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-flip-countdown (⭐41)](https://github.com/coskuncayemre/vue3-flip-countdown) Customize Countdown timer with Flip Animation for Vue 3.x
+*   [vue3-flip-countdown (⭐52)](https://github.com/coskuncayemre/vue3-flip-countdown) Customize Countdown timer with Flip Animation for Vue 3.x
 
-## [46. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [47. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Graph databases
 
 *   [neo4cl (⭐5)](https://github.com/equill/neo4cl) - a library for interacting with Neo4J. Sends Cypher queries to a Neo4J server, and decodes the responses into something useful for processing in CL. [Apache2](https://directory.fsf.org/wiki/License:Apache2.0).
-    *   and maybe: [cl-neo4j (⭐25)](https://github.com/kraison/cl-neo4j) - a thin neo4j RESTFUL client interface.
-*   [restagraph (⭐14)](https://github.com/equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3](http://www.gnu.org/copyleft/gpl.html).
+    *   and maybe: [cl-neo4j (⭐26)](https://github.com/kraison/cl-neo4j) - a thin neo4j RESTFUL client interface.
+*   [restagraph (⭐16)](https://github.com/equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
 ### Querying HTML/DOM / Isomorphic web frameworks
 
 *   👍 [lquery (⭐76)](https://github.com/Shinmera/lquery) - A jQuery-like HTML/DOM manipulation library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-### Others / Web project skeletons and generators
-
-*   [maiden](https://shirakumo.github.io/maiden) - A bot and chat system framework with support for IRC and more. [zlib](https://directory.fsf.org/wiki/License:Zlib).
-
-## [47. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [48. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### General
 
 *   [Radix Icons (⭐1.3k)](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 
-## [48. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [49. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Styling
 
-*   [vanilla-extract (⭐6.5k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
+*   [vanilla-extract (⭐6.9k)](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
-## [49. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [50. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Builders
 
-*   [Athena Console (⭐9)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
+*   [Athena Console (⭐10)](https://github.com/athena-framework/console) - Allows for the creation of CLI based commands
 
 ### HTML/XML Parsing
 
@@ -1478,7 +1455,7 @@
 
 *   [mollie.cr (⭐14)](https://github.com/wout/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API wrapper (Creditcard, PayPal, Apple Pay, Sofort, Klarna, ...)
 
-## [50. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [51. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Web Hosting
 
@@ -1492,13 +1469,13 @@
 
 *   [maps.stamen.com](http://maps.stamen.com/) - Free map tiles and tile hosting.
 
-## [51. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [52. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Backups
 
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 
-## [52. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [53. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Vendor Data Resources / Travel Behavior
 
@@ -1507,9 +1484,9 @@
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
-*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐136)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
+*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐139)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 
-## [53. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [54. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 

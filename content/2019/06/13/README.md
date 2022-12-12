@@ -42,7 +42,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-backtotop (⭐184)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
+*   [vue-backtotop (⭐183)](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

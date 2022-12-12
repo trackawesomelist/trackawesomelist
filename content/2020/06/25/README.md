@@ -62,8 +62,8 @@
 
 ### Software / Password Managers
 
-*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.2k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
-*   [Shaark (⭐469)](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
+*   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐3.3k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`
+*   [Shaark (⭐476)](https://github.com/MarceauKa/shaark) - All in one platform for your links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`
 
 ## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Walkthrough / Barcode
 
-*   [SuggestionsKit (⭐61)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
+*   [SuggestionsKit (⭐63)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
 
 ## [8. Awesome Prisma](/content/catalinmiron/awesome-prisma/README.md)
 

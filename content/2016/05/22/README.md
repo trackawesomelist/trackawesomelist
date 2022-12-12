@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [doctest (⭐4.3k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐4.4k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Native Implemented Functions
 
-*   [hsnif (⭐24)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
+*   [hsnif (⭐25)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
 
 ---
 

@@ -36,7 +36,7 @@
 
 ### Resources / Official Resources
 
-*   [GitHub Repo (⭐200k)](https://github.com/vuejs/vue)
+*   [GitHub Repo (⭐201k)](https://github.com/vuejs/vue)
 
 ---
 

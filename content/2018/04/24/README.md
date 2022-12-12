@@ -28,7 +28,7 @@
 
 ### Plugins
 
-*   [tmux-1password (⭐213)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+*   [tmux-1password (⭐214)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
 ## [4. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [label-edit (⭐22)](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
+*   [label-edit (⭐21)](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 
 ## [6. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

@@ -22,7 +22,7 @@
 
 ### UI Libraries
 
-*   [attractions (⭐730)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
+*   [attractions (⭐749)](https://github.com/illright/attractions) - A pretty cool and modern UI kit
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [vue-notion (⭐694)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
+*   [vue-notion (⭐712)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 
 ### Components & Libraries / Utilities
 
@@ -50,7 +50,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Booster Framework (⭐297)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐304)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
@@ -66,14 +66,14 @@
 
 ### Crates / Components
 
-*   [yew-component-size (⭐3)](https://github.com/AircastDev/yew-component-size) - A Yew component that emits events when the parent component changes width/height.
-*   [yew-virtual-scroller (⭐4)](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
+*   [yew-component-size (⭐4)](https://github.com/AircastDev/yew-component-size) - A Yew component that emits events when the parent component changes width/height.
+*   [yew-virtual-scroller (⭐5)](https://github.com/AircastDev/yew-virtual-scroller) - A Yew component for virtual scrolling / scroll windowing.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Hardware
 
-*   [LIDAR (⭐379)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+*   [LIDAR (⭐411)](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 
 ---
 

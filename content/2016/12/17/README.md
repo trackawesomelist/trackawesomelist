@@ -32,7 +32,7 @@
 *   Profiler
     *   [line\_profiler (⭐3.6k)](https://github.com/rkern/line_profiler) - Line-by-line profiling.
     *   [memory\_profiler (⭐80)](https://github.com/fabianp/memory_profiler) - Monitor Memory usage of Python code.
-    *   [py-spy (⭐9.2k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
+    *   [py-spy (⭐9.4k)](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
     *   [pyflame (⭐3k)](https://github.com/uber/pyflame) - A ptracing profiler For Python.
     *   [vprof (⭐3.9k)](https://github.com/nvdv/vprof) - Visual Python profiler.
 

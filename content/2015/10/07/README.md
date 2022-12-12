@@ -35,7 +35,7 @@
 
 ### Packages / Logging
 
-*   [console-log-level (⭐94)](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
+*   [console-log-level (⭐98)](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 
 ### Packages / Parsing
 
@@ -45,7 +45,7 @@
 
 ### Geolocation
 
-*   [geocalc (⭐118)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+*   [geocalc (⭐119)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 
 ## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 

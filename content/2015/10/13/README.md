@@ -70,7 +70,7 @@
 
 ### Markdown Processors
 
-*   [CommonMark.NET (⭐983)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
+*   [CommonMark.NET (⭐986)](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
 
 ## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

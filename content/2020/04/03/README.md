@@ -33,7 +33,7 @@
 
 ### Tools / Monitoring
 
-*   [mongotail (⭐176)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
+*   [mongotail (⭐178)](https://github.com/mrsarm/mongotail) - Log all MongoDB queries in a "tail"able way
 
 ### Applications / Web
 
@@ -43,13 +43,13 @@
 
 ### JVM and JDK
 
-*   [Dragonwell8 (⭐3.7k)](https://github.com/alibaba/dragonwell8) - Downstream version of OpenJDK optimized for online e-commerce, financial, logistics applications.
+*   [Dragonwell8 (⭐3.8k)](https://github.com/alibaba/dragonwell8) - Downstream version of OpenJDK optimized for online e-commerce, financial, logistics applications.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
-*   [eCAL (⭐2)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
+*   [eCAL (⭐4)](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). \[Apache2] [website](http://www.ecal.io/)
 
 ## [7. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 

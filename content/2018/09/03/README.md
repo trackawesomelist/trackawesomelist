@@ -106,7 +106,7 @@
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐374)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐381)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Web Applications / Building
 

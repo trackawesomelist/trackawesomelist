@@ -10,7 +10,7 @@
 
 ### Platforms
 
-*   [WebExtensions (⭐964)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+*   [WebExtensions (⭐988)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
 
 ### Programming Languages
 
@@ -18,11 +18,11 @@
 
 ### Front-End Development
 
-*   [Angular (⭐8.5k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Angular (⭐8.6k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 
 ### Back-End Development
 
-*   [Dash (⭐1.6k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
+*   [Dash (⭐1.7k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 
 ### Business
 
@@ -30,14 +30,14 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐221)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
-*   [Crypto Currency Tools & Algorithms (⭐3.6k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
+*   [FOSS Production Apps (⭐225)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [Crypto Currency Tools & Algorithms (⭐3.7k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### HTTP
 
-*   [Cable (⭐106)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
+*   [Cable (⭐109)](https://github.com/cable-cr/cable) - An ActionCable "port" to Crystal, framework agnostic, 100% compatible with the ActionCable JS Client
 
 ## [3. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 
@@ -86,13 +86,13 @@
 ### Sparse linear solvers / Mesh tools
 
 *   [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - Library of high-performance preconditioners and solvers.
-    (C, Apache 2.0/MIT, [GitHub (⭐420)](https://github.com/hypre-space/hypre))
+    (C, Apache 2.0/MIT, [GitHub (⭐436)](https://github.com/hypre-space/hypre))
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Courses / Others
 
-*   [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) - Blazor First Look on LinkedIn Learning. [Source code (⭐14)](https://github.com/Dedac/Beam) ![GitHub stars](https://img.shields.io/github/stars/Dedac/Beam?style=flat-square\&cacheSeconds=604800).
+*   [Blazor First Look on LinkedIn Learning](https://www.linkedin.com/learning/blazor-first-look) - Blazor First Look on LinkedIn Learning. [Source code (⭐15)](https://github.com/Dedac/Beam) ![GitHub stars](https://img.shields.io/github/stars/Dedac/Beam?style=flat-square\&cacheSeconds=604800).
 *   [Free Blazor Training Course](https://www.devexpress.com/support/training/blazor/) - DevExpress Blazor free training course [Source code (⭐52)](https://github.com/DevExpress/blazor-training-samples) ![GitHub stars](https://img.shields.io/github/stars/DevExpress/blazor-training-samples?style=flat-square\&cacheSeconds=604800).
 
 ## [8. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)

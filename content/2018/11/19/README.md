@@ -38,10 +38,6 @@
 
 ## [6. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Templates
-
-*   [Stripo.email](https://stripo.email/templates/) - Rich set of responsive, interactive beautiful email templates with Stripo.
-
 ### Tools
 
 *   [Stripo.email](https://stripo.email/) - Online drag-n-drop and HTML email builder to create professional and responsive email templates fast without any HTML skills.

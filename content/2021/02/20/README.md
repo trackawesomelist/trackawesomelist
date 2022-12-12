@@ -72,7 +72,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dd-form (⭐73)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
+*   [vue-dd-form (⭐74)](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 
 ## [6. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
@@ -85,10 +85,10 @@
 ### Plugins / Languages and Environments
 
 *   JSON
-    *   [JSON (⭐162)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
-    *   [JSON, package.json (⭐34)](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
-    *   [JSON with Comments (⭐63)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
-    *   [JSON Schema (⭐33)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
+    *   [JSON (⭐164)](https://github.com/azeemba/eslint-plugin-json) - Lint your JSON files.
+    *   [JSON, package.json (⭐35)](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
+    *   [JSON with Comments (⭐65)](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
+    *   [JSON Schema (⭐36)](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
 
 ---
 

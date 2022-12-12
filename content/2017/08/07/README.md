@@ -10,7 +10,7 @@
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐132)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐136)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [2. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -47,8 +47,8 @@
 
 ### Web / Playground
 
-*   :octocat: [excaliburjs/Excalibur (⭐1.2k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-*   :octocat: [Bobril (⭐362)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
+*   :octocat: [excaliburjs/Excalibur (⭐1.3k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+*   :octocat: [Bobril (⭐359)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
@@ -84,23 +84,23 @@
 
 ### UI Automation
 
-*   [Atata (⭐441)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+*   [Atata (⭐443)](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 ## [11. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
-*   [Laugh Engine (⭐381)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
+*   [Laugh Engine (⭐382)](https://github.com/jian-ru/laugh_engine) - Vulkan implementation of real-time PBR renderer.
 *   [TLVulkanRenderer (⭐89)](https://github.com/trungtle/TLVulkanRenderer) - Simple Vulkan-based renderer for my master thesis on real-time transparency. \[CC BY-SA 4.0]
 *   [Vulkan-Hpp Samples (⭐300)](https://github.com/jherico/Vulkan) - Fork of Sascha Willems excellent Vulkan examples that uses Vulkan-Hpp.
 
 ### Related lists
 
-*   [awesome (⭐223k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome (⭐225k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *   [awesome-opengl (⭐1.7k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*   [gamedev (⭐10k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*   [gamedev (⭐11k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
-*   [awesome-d3d12 (⭐193)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
+*   [awesome-d3d12 (⭐195)](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

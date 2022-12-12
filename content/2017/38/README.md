@@ -92,7 +92,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐102)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐100)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [12. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -149,17 +149,17 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐853)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐856)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Protocols
 
-*   [FluentFTP (⭐2.3k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+*   [FluentFTP (⭐2.4k)](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 
 ### Tools
 
-*   [Fake JSON Server (⭐337)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
+*   [Fake JSON Server (⭐343)](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 
 ## [15. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
@@ -370,7 +370,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐715)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐721)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [25. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
@@ -382,8 +382,8 @@
 
 ### Hardware
 
-*   [keyboard (⭐3.1k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-*   [mouse (⭐684)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
+*   [keyboard (⭐3.2k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+*   [mouse (⭐710)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 
 ## [27. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 

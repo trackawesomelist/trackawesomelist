@@ -1,6 +1,6 @@
 # Awesome List Updates on May 09 - May 15, 2016
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -296,13 +296,23 @@ git log --first-parent
 
 *   [The Netflix Tech Blog](http://techblog.netflix.com/) - A Netflix blog focused on technology and technology issues.
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
+
+### Java / Bootstrap
+
+*   [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Localization / Barcode
 
 *   [BartyCrouch (⭐1.3k)](https://github.com/Flinesoft/BartyCrouch) - Incrementally update/translate your Strings files from Code and Storyboards/XIBs.
 
-## [26. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [27. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Reproducible Research
 
@@ -327,7 +337,7 @@ git log --first-parent
 *   [R Talk](http://rtalk.org) - News and discussions of statistical software and language R.
     *   [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) and [@Mikhail Popov](https://twitter.com/bearloga).
 
-## [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [28. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -338,35 +348,35 @@ git log --first-parent
 *   [Dora (⭐598)](https://github.com/nathanepstein/dora) - Tools for exploratory data analysis in Python.
 *   [Ruffus](http://www.ruffus.org.uk) - Computation Pipeline library for python.
 
-## [28. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [29. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Examples and funny stuff
 
-*   [oop (⭐281)](https://github.com/wojtekmach/oop) - OOP in Elixir!
+*   [oop (⭐279)](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
 ### Office
 
 *   [xlsxir (⭐190)](https://github.com/kennellroxco/xlsxir) - Xlsx file parser with support for ISO 8601 date formats. Data is extracted to an Erlang Term Storage (ETS) table and is accessed through various functions.
 
-## [29. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [30. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Android
 
 *   [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 
-## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
 *   [picturefill (⭐10k)](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes.
 
-## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Babel Plugins / Components
 
 *   [babel-preset-angular2 (⭐14)](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
 
-## [32. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [33. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Meteor
 
@@ -378,7 +388,7 @@ git log --first-parent
 
 
 
-## [33. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [34. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Massachusetts   <a id="massachusetts">  </a>
 
@@ -440,7 +450,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ------------------ |
 | ask  | ✔     | ✔      | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00 |
 
-## [34. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [35. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
@@ -477,7 +487,7 @@ Webpage: <http://www.pushcartcoffee.com/>
 *   [FPJS-Class (⭐96)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 *   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
-## [35. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [36. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Downloads
 
@@ -489,25 +499,25 @@ Webpage: <http://www.pushcartcoffee.com/>
 *   [Happy Monday](http://makiopolis.com/everyday/026/) - Musical experiment using THREE.MeshLine by David Ronai.
 *   [D159](http://www.simppa.fi/demo/d159/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
 
-## [36. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / S companies
 
 *   Segment <https://segment.com/blog/categories/engineering/>
 
-## [37. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [38. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Testing
 
 *   GUI / Web Testing
     *   [locust (⭐20k)](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
-    *   [PyAutoGUI (⭐7.3k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
+    *   [PyAutoGUI (⭐7.5k)](https://github.com/asweigart/pyautogui) - PyAutoGUI is a cross-platform GUI automation Python module for human beings.
     *   [Schemathesis (⭐1.5k)](https://github.com/kiwicom/schemathesis) - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications.
     *   [Selenium](https://pypi.org/project/selenium/) - Python bindings for [Selenium](http://www.seleniumhq.org/) WebDriver.
     *   [sixpack (⭐1.7k)](https://github.com/seatgeek/sixpack) - A language-agnostic A/B Testing framework.
     *   [splinter (⭐2.6k)](https://github.com/cobrateam/splinter) - Open source tool for testing web applications.
 
-## [38. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [39. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Databases
 
@@ -526,14 +536,14 @@ Webpage: <http://www.pushcartcoffee.com/>
 
 *   [JsonMapper (⭐1.4k)](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 
-## [39. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [40. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
 *   [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 *   [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 
-## [40. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
+## [41. Awesome Rethinkdb](/content/d3viant0ne/awesome-rethinkdb/week/README.md)
 
 ### Community
 

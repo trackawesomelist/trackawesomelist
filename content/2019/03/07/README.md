@@ -74,13 +74,13 @@
 
 ### Software / Note-taking & Editors
 
-*   [Trilium Notes (⭐18k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
+*   [Trilium Notes (⭐19k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`
 
 ## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Go
 
-*   [Bongo (⭐479)](https://github.com/go-bongo/bongo) - ODM based on mgo
+*   [Bongo (⭐481)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
 *   [minquery (⭐60)](https://github.com/icza/minquery) - MongoDB cursor that paginates
 *   [mongo-go-driver (⭐7k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver

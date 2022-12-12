@@ -44,32 +44,23 @@
 
 *   👍 [lquery (⭐76)](https://github.com/Shinmera/lquery) - A jQuery-like HTML/DOM manipulation library. [zlib](https://directory.fsf.org/wiki/License:Zlib).
 
-### Others / Web project skeletons and generators
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-*   [maiden](https://shirakumo.github.io/maiden) - A bot and chat system framework with support for IRC and more. [zlib](https://directory.fsf.org/wiki/License:Zlib).
+### Scheme / Play Scala
 
-## [6. Awesome Preact](/content/preactjs/awesome-preact/README.md)
+*   [Scheme 9 from Empty Space - First edition (2007)](https://unglue.it/work/506723/) - Nils M. Holm (PDF)
+
+## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
 ### Contents / Libraries
 
 *   [Teaful (⭐657)](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
 
-## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Testing
 
-*   [EPadronU/balin (⭐70)](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
-
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [.NET Conf 2021 - Day 1](https://www.youtube.com/watch?v=oPyTZ-HGdn4) - ![duration](https://img.shields.io/badge/Duration:%20-666%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) November 9, 2021 - [.NET Conf](https://www.dotnetconf.net) is a free, three day virtual developer event co-organized by the .NET community and Microsoft. This year .NET 6 will launch at .NET Conf 2021! Come celebrate and learn about the new release.
-
-### Podcasts / Others
-
-*   [Eilon Lipton on Blazor Desktop](http://azuredevopspodcast.clear-measure.com/eilon-lipton-on-blazor-desktop-episode-166) - November 8, 2021 - In this episode, Eilon is discussing the ins and outs of Blazor Desktop — which is currently 100% of what he’s been working on. He takes listeners on a deep-dive of Blazor Desktop, sharing what they need to know in anticipation of .NET 6 and the GA drop of Visual Studio 2022 coming out. He also touches on WPF, WinForms, MAUI, and the 2021 DEVintersection Conference. Duration: 50 minutes.
-*   [Real World Blazor With Steve Peirce](https://dotnetcore.show/episode-86-real-world-blazor-with-steve-peirce/) - November 5, 2021 - .NET Core Show, Episode 86 - Real World Blazor With Steve Peirce. Duration: 62 minutes.
+*   [EPadronU/balin (⭐71)](https://github.com/EPadronU/balin) - Balin is a browser automation library for Kotlin. It's basically a Selenium-WebDriver wrapper library inspired by Geb.
 
 ## [9. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
 
@@ -81,7 +72,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [RishabhRD/gruvy (⭐12)](https://github.com/RishabhRD/gruvy) - Gruvbuddy without colorbuddy using Lush.
+*   [RishabhRD/gruvy (⭐14)](https://github.com/RishabhRD/gruvy) - Gruvbuddy without colorbuddy using Lush.
 
 ## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -99,7 +90,7 @@
 
 ### Status Bar
 
-*   [tmux-pomodoro-plus (⭐50)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
+*   [tmux-pomodoro-plus (⭐59)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 
 ---
 

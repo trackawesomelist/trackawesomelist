@@ -26,7 +26,7 @@
 
 ### UICollectionView / Barcode
 
-*   [CarLensCollectionViewLayout (⭐527)](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation.
+*   [CarLensCollectionViewLayout (⭐529)](https://github.com/netguru/CarLensCollectionViewLayout) - An easy-to-use Collection View Layout for card-like animation.
 
 ---
 

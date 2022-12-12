@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,26 +12,19 @@
 
 *   [Terraform Discuss](https://discuss.hashicorp.com/c/terraform-core/27)
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Articles / Others
-
-*   [Microsoft Publishes New Documentation for Blazor, ASP.NET Core](https://visualstudiomagazine.com/articles/2021/11/04/new-aspnet-core-docs.aspx) - November 4, 2021 - Microsoft published new documentation for its .NET 6 web-dev component, ASP.NET Core, including the red-hot Blazor framework.
-*   [Blazor Hybrid Web Apps with .NET MAUI](https://www.codemag.com/article/2111092) - October 29, 2021 - Blazor Hybrid Web Apps with .NET MAUI.
-
-## [3. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [2. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / NodeJS
 
 *   [Node.js Interview Questions by learning-zone (⭐2.3k)](https://github.com/learning-zone/nodejs-interview-questions)
 
-## [4. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [3. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### Helpful links / Other
 
 *   [Tensorflow-lite-kotlin-samples (⭐25)](https://github.com/SunitRoy2703/Tensorflow-lite-kotlin-samples) - A collection of Tensorflow Lite Android example Apps in Kotlin, to show different kinds of kotlin implementation of the [example apps](https://www.tensorflow.org/lite/examples)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Game development
 
@@ -41,7 +34,7 @@
     *   [tomassedovic/tcod-rs (⭐226)](https://github.com/tomassedovic/tcod-rs) — Libtcod bindings for Rust.
     *   Warning: Not maintained anymore
 
-## [6. Public Apis](/content/public-apis/public-apis/README.md)
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Weather
 
@@ -57,7 +50,7 @@
 
 
 
-## [7. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+## [6. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
 - : [CA Technologies Mineral UI](https://mineral-ui.netlify.app/)
 
@@ -93,23 +86,23 @@
 
 
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐1.7k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metatdata support. ([Demo](https://wiki.kavitareader.com/en/kavita-demo), [Source Code (⭐1.9k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Void (⭐144)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐144)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
+*   [Void (⭐156)](https://github.com/AlphaNecron/Void) - Lightweight, fast and elegant file hosting service for ShareX with Web UI and REST API. ([Source Code (⭐156)](https://github.com/AlphaNecron/Void/)) `MIT` `Nodejs`
 
-## [9. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+## [8. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ### Software and Tools
 
 *   [Scrappie](https://scrappie.app) - E-commerce data monitoring and analysis platform with API integration, WebHooks & ETL processes.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Storage and Media Processing
 

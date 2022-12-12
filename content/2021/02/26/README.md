@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 26, 2021
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,7 +10,7 @@
 
 ### Specs and Standards / MPEG
 
-*   [ISO Base Media File Format Reference Software (⭐83)](https://github.com/MPEGGroup/isobmff)  -
+*   [ISO Base Media File Format Reference Software (⭐84)](https://github.com/MPEGGroup/isobmff)  -
 *   [MPEG About](https://www.mpegstandards.org/about-mpeg/)  -
 *   [MPEG High Efficiency Image File Format (HEIF)](https://nokiatech.github.io/heif/)  -
 *   [MPEG Meetings](https://www.mpegstandards.org/meetings/)  -
@@ -78,21 +78,13 @@
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐211)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
+*   [RoRvsWild (⭐218)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-lunar-calendar-pro (⭐55)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
-
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [.NET Conf 2021 - Focus on Windows: Building .NET Hybrid Apps with Blazor](https://www.youtube.com/watch?v=mZRNjixZEMg\&t=28886s) - February 25, 2021 - .NET Conf: Focus on Windows, session "Building .NET Hybrid Apps with Blazor", by Daniel Roth.
-*   [.NET Conf 2021 - Focus on Windows: Real-Time Desktop Apps with Azure SignalR Service](https://www.youtube.com/watch?v=mZRNjixZEMg\&t=9040s) - February 25, 2021 - .NET Conf: Focus on Windows, session "Real-Time Desktop Apps with Azure SignalR Service".
-*   [.NET Conf 2021 - Focus on Windows](https://www.youtube.com/watch?v=mZRNjixZEMg) - ![duration](https://img.shields.io/badge/Duration:%20-584%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) February 25, 2021 - .NET Conf: Focus on Windows is a free, one-day livestream event that features speakers from the community and Microsoft teams working on Windows desktop apps and making them fantastic on the latest .NET 5. Learn why and how to upgrade WPF and Windows Forms apps to .NET 5, see Visual Studio tooling improvements, learn how to leverage cloud services from your client apps, and a whole lot more. You'll also see what the future of native device development with .NET will look like in .NET 6. Full schedule: [dotnetconf.net](https://focus.dotnetconf.net).
+*   [vue-lunar-calendar-pro (⭐58)](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 
 ---
 

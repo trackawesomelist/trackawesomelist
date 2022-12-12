@@ -10,9 +10,9 @@
 
 ### Tools
 
-*   [ndm (⭐29)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
+*   [ndm (⭐31)](https://github.com/gitbls/ndm) - Command line tool to easily manage DNS and DHCP servers.
 *   [pistrong (⭐34)](https://github.com/gitbls/pistrong) - Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.
-*   [sdm (⭐117)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
+*   [sdm (⭐124)](https://github.com/gitbls/sdm) - Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.
 
 ## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -33,11 +33,11 @@
 
 ### Regular Expression
 
-*   [RegExtract (⭐647)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+*   [RegExtract (⭐659)](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
 
 ### Tools
 
-*   [UnitsNet (⭐1.7k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
+*   [UnitsNet (⭐1.8k)](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 
 ## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
@@ -63,16 +63,16 @@
 
 ### UI
 
-*   [Helium (⭐78)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
+*   [Helium (⭐81)](https://github.com/qeffects/helium) - A modern, customizable, high performance retained UI framework.
 *   [ListBox (⭐14)](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs.
 *   [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
-*   [Plan (⭐13)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
+*   [Plan (⭐15)](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Routing
 
-*   [react-location (⭐2.5k)](https://github.com/TanStack/react-location) - Enterprise Client-Side Routing for React
+*   [react-location (⭐3.9k)](https://github.com/TanStack/react-location) - Enterprise Client-Side Routing for React
 
 ### Redux Tools / Charts
 

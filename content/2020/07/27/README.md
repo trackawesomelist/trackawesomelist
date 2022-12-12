@@ -56,7 +56,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [ckeditor4-vue (⭐59)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
+*   [ckeditor4-vue (⭐60)](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
 
 ## [8. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

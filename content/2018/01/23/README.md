@@ -50,7 +50,7 @@
 
 ### Email
 
-*   [burnex (⭐62)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐63)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

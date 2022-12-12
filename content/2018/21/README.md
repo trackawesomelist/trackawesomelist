@@ -1,6 +1,6 @@
 # Awesome List Updates on May 21 - May 27, 2018
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -84,7 +84,7 @@
 
 ### Mod Loaders / Archives
 
-*   [Minecraft Forge (⭐5.8k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+*   [Minecraft Forge (⭐5.9k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 *   [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 
 ### Mods / Performance
@@ -97,7 +97,7 @@
 
 ### Softwares / Utilities
 
-*   [Minecraft Command Helper (⭐25)](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
+*   [Minecraft Command Helper (⭐24)](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 
 ### Development / Launchers
 
@@ -164,7 +164,7 @@
 
 ### Scripting
 
-*   [VerySimple.Lua (⭐119)](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
+*   [VerySimple.Lua (⭐121)](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
     // *LUA DLL required*
 
 ### RAD Studio IDE plugins/wizards
@@ -297,13 +297,28 @@
 
 *   [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
 
-## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [22. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Assembly Language / Blazor
+
+*   [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/\~ed/x86.html) - Ed Jorgensen (PDF)
+
+### Clojure / Non-X86
+
+*   [Clojure community-driven documentation](http://clojure-doc.org)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
+*   [Python 3 Tutorial (⭐1k)](https://github.com/Akuli/python-tutorial)
+
+## [23. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / S individuals
 
 *   Sergey Zhuk <http://sergeyzhuk.me/>
 
-## [23. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
+## [24. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
 ### Texts / Announcements and Memos
 
@@ -314,19 +329,19 @@
 
 *   [Adobe Photoshop](http://www.computerhistory.org/atchm/adobe-photoshop-source-code/) (1990) - The first version of Adobe Photoshop (written in Pascal)
 
-## [24. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [25. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Monitoring
 
 *   [mongo-monitor (⭐75)](https://github.com/dwmkerr/mongo-monitor) - Simple monitoring CLI
 
-## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Game
 
-*   [BEPUphysics (⭐1.4k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
+*   [BEPUphysics (⭐1.5k)](https://github.com/bepu/bepuphysics2) - BEPUphysics is a pure C# 3D physics library
 
-## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [27. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Patterns
 
@@ -334,8 +349,8 @@
 
 ### Animation
 
-*   [Poi (⭐64)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
-*   [TheAnimation (⭐221)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
+*   [Poi (⭐65)](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
+*   [TheAnimation (⭐222)](https://github.com/marty-suzuki/TheAnimation) - Type-safe CAAnimation wrapper. It makes preventing to set wrong type values.
 
 ### Date
 
@@ -347,21 +362,21 @@
 
 ### Alert / Barcode
 
-*   [SwiftEntryKit (⭐6k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
+*   [SwiftEntryKit (⭐6.1k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
 
-## [27. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [28. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Community and Support / Games
 
 *   [Discourse](https://discourse.elm-lang.org/) - Elm Discourse instance (official forum).
 
-## [28. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [29. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Audio
 
 *   [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+ (⭐6.2k)](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -370,32 +385,32 @@
 ### Projects Using Vue.js / A11y
 
 *   [Vue A11y project](https://github.com/vue-a11y) - Vue.js community project to improve web accessibility.
-*   [vue-skip-to (⭐70)](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
-*   [vue-axe (⭐174)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
-*   [eslint-plugin-vue-a11y (⭐153)](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
-*   [vue-focus-lock (⭐132)](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
-*   [vue-a11y-calendar (⭐252)](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
+*   [vue-skip-to (⭐72)](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
+*   [vue-axe (⭐175)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
+*   [eslint-plugin-vue-a11y (⭐152)](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
+*   [vue-focus-lock (⭐131)](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
+*   [vue-a11y-calendar (⭐253)](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
 
-## [30. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [31. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Identity Management / Tools and web interfaces
 
 *   [OpenID Connect](http://openid.net/developers/libraries/) - A Simple Identity layer on top of OAuth 2.0.
 
-## [31. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [32. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Visualization
 
 *   [wavebell (⭐41)](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone
 
-## [32. Amas](/content/sindresorhus/amas/week/README.md)
+## [33. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Rishi Pithadiya (⭐0)](https://github.com/rishiip/ama) - Full-stack Ruby on Rails developer in India, open source enthusiast.
 *   [Byungjin Park (⭐13)](https://github.com/posquit0/ama) - Software Architect, DevOps Engineer, Hacker, Open Sourcer.
 
-## [33. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [34. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Use The Source / HTML+CSS+JS
 
@@ -424,7 +439,7 @@
 *   [Academicons](https://jpswalsh.github.io/academicons/)
 *   [Phylopic](http://phylopic.org/)
 
-## [34. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [35. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Python
 
@@ -442,7 +457,7 @@
 
 *   [Getting Started with Neo4j](https://neo4j.com/graphacademy/online-training/getting-started-graph-databases-using-neo4j/)
 
-## [35. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [36. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Talks
 
@@ -452,7 +467,7 @@
 
 *   [Arilux\_AL-LC0X (⭐196)](https://github.com/mertenats/Arilux_AL-LC0X) - This is an alternative firmware for Arilux LED controllers which uses MQTT.
 
-## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [37. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / PHP
 
@@ -466,7 +481,7 @@
 
 *   [PostgreSQL Interview Preparation Guide](http://www.globalguideline.com/interview_questions/Questions.php?sc=postgresqk_database_)
 
-## [37. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [38. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Talks
 
@@ -477,19 +492,19 @@
 
 *   [CloudWatch public metrics (⭐27)](https://github.com/RafalWilinski/cloudwatch-public-metrics) - Expose AWS CloudWatch metrics as a public HTML page.
 
-## [38. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [39. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [Game Boy video effects (⭐5)](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - Some little experiments using the STAT interrupt to do funny video manipulations.
 
-## [39. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [40. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
 *   [Tech Ladies](https://www.hiretechladies.com/) - Tech Ladies connects women with the best jobs and opportunities in tech.
 
-## [40. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [41. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Misc
 
@@ -498,7 +513,7 @@
     *   [Assignments](https://cs50.github.io/games/assignments)
     *   [Lecture Videos](https://cs50.github.io/games/lectures)
 
-## [41. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / JavaScript SDK
 

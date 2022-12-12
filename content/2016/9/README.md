@@ -174,14 +174,14 @@
 
 ### Text Manipulation
 
-*   [Encode / Decode (⭐510)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+*   [Encode / Decode (⭐514)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 *   [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 *   [HTML Entity Lookup (⭐34)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
 *   [Unicode Text Search (⭐180)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ### Scientific
 
-*   [DOITools (⭐6)](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
+*   [DOITools (⭐7)](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
 *   [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 
 ### Security
@@ -192,10 +192,6 @@
 
 *   [Keylue (⭐45)](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
 *   [TerminalFinder (⭐1k)](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
-
-### Other Lists
-
-*   [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 
 ## [15. Awesome Computer History](/content/watson/awesome-computer-history/week/README.md)
 
@@ -364,12 +360,12 @@ git log Branch1 ^Branch2
 
 ### Framework Components
 
-*   [absinthe\_plug (⭐241)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
+*   [absinthe\_plug (⭐243)](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 *   [ex\_admin (⭐1.2k)](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐908)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐916)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ### Text and Numbers
 
@@ -409,12 +405,12 @@ git log Branch1 ^Branch2
 
 ### Packages / Command-line utilities
 
-*   [boxen (⭐1.2k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+*   [boxen (⭐1.3k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
 *   [shelljs (⭐14k)](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 
 ### Packages / Text
 
-*   [matcher (⭐518)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐521)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -424,8 +420,8 @@ git log Branch1 ^Branch2
 
 ### Packages / Miscellaneous
 
-*   [mem (⭐977)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-*   [adit (⭐45)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [mem (⭐984)](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+*   [adit (⭐46)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -532,7 +528,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐40)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐41)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [44. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 

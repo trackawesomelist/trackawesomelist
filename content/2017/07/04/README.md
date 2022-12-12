@@ -28,7 +28,7 @@
 
 ### Writing, running scripts / Third-party APIs
 
-*   👍 [Roswell (⭐1.5k)](https://github.com/roswell/roswell#scripting-with-roswell) -
+*   👍 [Roswell (⭐1.6k)](https://github.com/roswell/roswell#scripting-with-roswell) -
     a lisp installer and scripting environment (helper, launcher,
     installer) and more. [MIT](https://opensource.org/licenses/MIT).
 

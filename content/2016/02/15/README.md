@@ -33,13 +33,13 @@
 *   [caniuse (⭐403)](https://github.com/willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
 *   [CDN (⭐65)](https://github.com/willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 *   [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
-*   [Font Awesome (⭐795)](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
-*   [Package Managers (⭐686)](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
+*   [Font Awesome (⭐796)](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
+*   [Package Managers (⭐687)](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
 *   [VagrantUP (⭐40)](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
 ### System
 
-*   [Copy Paths to Clipboard (⭐91)](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
+*   [Copy Paths to Clipboard (⭐93)](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
 *   [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 
 ### Other Lists

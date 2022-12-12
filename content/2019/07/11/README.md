@@ -16,7 +16,7 @@
 
 ### Documentation / Build system (ROS2)
 
-*   [ROS2 CLI cheats sheet (⭐127)](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
+*   [ROS2 CLI cheats sheet (⭐128)](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -42,11 +42,11 @@
 
 ### Debug
 
-*   [dbg-macro (⭐2.1k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
+*   [dbg-macro (⭐2.2k)](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. \[MIT]
 
 ### GUI
 
-*   [Boden (⭐1.5k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Commercial] [website](https://www.boden.io)
+*   [Boden (⭐1.6k)](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. \[GPL/LGPL/Commercial] [website](https://www.boden.io)
 
 ## [7. Awesome Design](/content/gztchan/awesome-design/README.md)
 

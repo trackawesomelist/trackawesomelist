@@ -162,7 +162,7 @@
 
 ### Contents / EHR
 
-*   [Odoo Medical (⭐243)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
+*   [Odoo Medical (⭐245)](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
 *   [openMAXIMS (⭐55)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
 
 ### Contents / Prescribing
@@ -175,7 +175,7 @@
 
 ### Contents / Libraries
 
-*   [Python HL7 (⭐232)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+*   [Python HL7 (⭐236)](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
 
 ### Contents / PHR
 
@@ -191,12 +191,12 @@
 
 ### Contents / Hardware
 
-*   [Gluco (⭐23)](https://github.com/nebulabio/gluco) - Glucometer.
+*   [Gluco (⭐27)](https://github.com/nebulabio/gluco) - Glucometer.
 *   [Murgen](https://hackaday.io/project/9281-murgen-open-source-ultrasound-imaging) - Ultrasound imaging development kit.
 
 ### Contents / Bioinformatics
 
-*   [ADAM (⭐934)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
+*   [ADAM (⭐936)](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
 *   [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
 
 ---

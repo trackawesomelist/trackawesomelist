@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2021
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,7 +34,13 @@
 
 *   [Pandan](https://sindresorhus.com/pandan) - Time awareness in your menu bar. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1569600264)
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Forth / Phoenix
+
+*   [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
+
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Market Analysis
 
@@ -43,7 +49,7 @@
     *   [Gartner Magic Quadrant for Enterprise Integration Platform as a Service](https://www.gartner.com/doc/code/397953)
     *   [The Forrester Wave: Enterprise iPaaS](https://www.forrester.com/report/the-forrester-wave-tm-enterprise-ipaas-q4-2021/RES176201)
 
-## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
+## [7. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
 ### Overview / Imgur
 
@@ -52,30 +58,23 @@
     *   Example album on Imgur.com: <https://imgur.com/a/GD6p5Fi>
     *   Same album on Imgin: <https://imgin.voidnet.tech/a/GD6p5Fi>
 
-## [7. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [8. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [Leaving a Team](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Leaving-a-Team.md)
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐229)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐229)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
-*   [LoreSoft.Blazor.Controls (⭐119)](https://github.com/loresoft/LoreSoft.Blazor.Controls) - ![stars](https://img.shields.io/github/stars/loresoft/LoreSoft.Blazor.Controls?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/loresoft/LoreSoft.Blazor.Controls?style=flat-square\&cacheSeconds=86400) Auto-complete (Typeahead) textbox with local and remote data source, for both Client-side and Server-Side Blazor. Also has DateTimePicker and ToggleSwitch. [Demo](https://blazor.loresoft.com/).
+*   [Majorsoft Blazor Components (⭐235)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐235)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### Individual components / Others
 
-*   [Blazor File Drop Zone (⭐8)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
+*   [Blazor File Drop Zone (⭐9)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
 
-### Videos / Others
-
-*   [ASP.NET Community Standup - Exploring MudBlazor](https://www.youtube.com/watch?v=GtLIpITqznA\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=5) - ![duration](https://img.shields.io/badge/Duration:%20-76%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 12, 2021 - In this edition of the Blazor community standup learn more about [MudBlazor (⭐4.1k)](https://github.com/MudBlazor/MudBlazor), a Material Design framework for Blazor with co-creators Jonny Larsson & Meinrad Recheis. [Community links](https://www.theurlist.com/blazor_community_standup_october).
-*   [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=qEdVcTZH5bs\&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH\&index=5) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 11, 2021 - Razor is a server-side, page-centric programming model for building webpages with ASP.NET Core. Razor has continued to mature over time, and has expanded to include numerous "quality-of-life" additions to make the developer's life easier. Jon Galloway joins us to talk about MVC and ASP.NET, and walks us through some of his favorite features, tips and tricks.
-*   [Web Wednesday: Blazor Web Apps using GraphQL and EF Core with Jeremy Likness](https://www.youtube.com/watch?v=3B_6bz8JFBE\&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 23, 2021 - Got data? Got Blazor? The “glue” between the client and server is often the weakest link in building enterprise web apps. What if you could use your domain model as the source of truth, generate a database that supports your design and easily move data between the server and your Blazor WebAssembly app with just a few lines of code? Jeremy will show you how to do this and more with the power of Entity Framework Core enhanced by GraphQL.
-
-## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### DNS
 
@@ -86,25 +85,25 @@
 *   [Pravatar](https://pravatar.cc/) - Generate random/placeholder fake avatar, which url can be directly hotlinked in your web/app.
 *   [UI Avatars](https://ui-avatars.com/) - Generate avatars with initials from names. Which the urls can be directly hotlinked in your web/app. Support config parameters via the url.
 
-## [10. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
+## [11. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/README.md)
 
 ### Table of Contents / Books
 
 *   [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
 
-## [11. Awesome React](/content/enaqx/awesome-react/README.md)
+## [12. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Development Tools
 
-*   [react-scanner (⭐433)](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
+*   [react-scanner (⭐444)](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-shared-modules (⭐17)](https://github.com/zheeeng/vite-plugin-shared-modules) - Share node\_modules in monorepos.
 
-## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [14. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Supported Distributions / OpenSUSE / SUSE Enterprise Linux
 
@@ -112,7 +111,7 @@
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-153/9n6j06bmcgt3) for OpenSUSE Leap 15.3.
 *   [Windows Store Link](https://www.microsoft.com/en-us/p/opensuse-leap-152/9mzd0n9z4m4h) for OpenSUSE Leap 15.2.
 
-## [14. Public Apis](/content/public-apis/public-apis/README.md)
+## [15. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Government
 

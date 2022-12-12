@@ -10,16 +10,16 @@
 
 ### Cryptography
 
-*   [ed25519 (⭐3)](https://github.com/spider-gazelle/ed25519) - the Ed25519 elliptic curve public-key signature system
+*   [ed25519 (⭐4)](https://github.com/spider-gazelle/ed25519) - the Ed25519 elliptic curve public-key signature system
     described in \[RFC 8032]
 
 ### Data Formats
 
-*   [json-schema (⭐3)](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
+*   [json-schema (⭐4)](https://github.com/spider-gazelle/json-schema) - convert JSON serializable classes into a [JSON Schema](https://json-schema.org/) representation
 
 ### GUI Development
 
-*   [GTK4.cr (⭐51)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
+*   [GTK4.cr (⭐57)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 
 ## [2. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
@@ -43,13 +43,13 @@
 
 ### Plugins
 
-*   [tmux-session-wizard (⭐9)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐48k)](https://github.com/junegunn/fzf) & [zoxide (⭐8k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐11)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐48k)](https://github.com/junegunn/fzf) & [zoxide (⭐8.1k)](https://github.com/ajeetdsouza/zoxide).
 
 ## [6. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [IRIS (⭐531)](https://github.com/dfir-iris/iris-web) - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
+*   [IRIS (⭐542)](https://github.com/dfir-iris/iris-web) - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
 
 ### IR Tools Collection / Books
 
@@ -84,7 +84,7 @@
 
 ### Libraries/Frameworks / API Clients
 
-*   [adamint/spotify-web-api-kotlin (⭐140)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
+*   [adamint/spotify-web-api-kotlin (⭐147)](https://github.com/adamint/spotify-web-api-kotlin) - Spotify Web API wrapper for Kotlin/Android, JVM, JS, and Native targets.
 
 ### Libraries/Frameworks / Logging
 
@@ -94,7 +94,7 @@
 
 ### Tools / Smart Contracts
 
-*   [avm-semantics (⭐6)](https://github.com/runtimeverification/avm-semantics) - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
+*   [avm-semantics (⭐8)](https://github.com/runtimeverification/avm-semantics) - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
 
 ## [11. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -112,7 +112,7 @@
 
 ### Scheduling / Touch Resistive
 
-*   [Schedule (⭐509)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) A scheduler for uasyncio based applications. Schedule events at specified times and dates.
+*   [Schedule (⭐517)](https://github.com/peterhinch/micropython-async/blob/master/v3/docs/SCHEDULE.md) A scheduler for uasyncio based applications. Schedule events at specified times and dates.
 
 ## [14. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
@@ -136,7 +136,6 @@
 ### [GNU/Linux](https://www.linux.com/what-is-linux/)
 
 *   [Fedora](https://getfedora.org/)
-*   [Mint (Cinnamon)](https://linuxmint.com/edition.php?id=292) is a beginner friendly distribution.
 
 ### Other OS:
 
@@ -156,7 +155,7 @@
 
 ### Useful Tools / Alternative clients/modifications of Discord:
 
-*   [Single File (⭐9.4k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
+*   [Single File (⭐9.8k)](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
 
 ## [17. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [tmux-fingers (⭐705)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐706)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [2. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 

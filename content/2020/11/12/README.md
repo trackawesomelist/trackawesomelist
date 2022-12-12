@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 12, 2020
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,7 +16,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐65)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐68)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
 
 ## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -50,11 +50,23 @@
 
 
 
-## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
+## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
-### Social Networks
+### Applications
 
-*   [Mobilizon](https://joinmobilizon.org/) is a federated tool that helps you find, create and organise events.
+*   [Mobilizon](https://joinmobilizon.org/): A federated tool that helps you find, create and organise events.
+
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Android
+
+*   [Codelabs for Advanced Android Development](https://developer.android.com/courses/advanced-training/toc)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
+*   [Python for Everybody](http://py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
+*   [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)
 
 ---
 

@@ -323,7 +323,7 @@
 ### Validation / Runner
 
 *   [jquery-validation (⭐10k)](https://github.com/jzaefferer/jquery-validation) - jQuery Validation Plugin.
-*   [validator.js (⭐20k)](https://github.com/chriso/validator.js) - String validation and sanitization.
+*   [validator.js (⭐21k)](https://github.com/chriso/validator.js) - String validation and sanitization.
 *   [validate.js (⭐2.6k)](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 
 ### Keyboard Wrappers / Runner
@@ -337,7 +337,7 @@
 *   [bootstrap-tour (⭐4.4k)](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
 *   [tourist (⭐1.2k)](https://github.com/easelinc/tourist) - Simple, flexible tours for your app.
 *   [chardin.js (⭐5k)](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
-*   [pageguide (⭐910)](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
+*   [pageguide (⭐911)](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
 *   [hopscotch (⭐4.2k)](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 *   [joyride (⭐1.4k)](https://github.com/zurb/joyride) - jQuery feature tour plugin.
 
@@ -357,7 +357,7 @@
 ### Form Widgets / Input
 
 *   [tag-it (⭐2.5k)](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-*   [Placeholders.js (⭐959)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
+*   [Placeholders.js (⭐958)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 *   [fancyInput (⭐1.9k)](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 *   [jQuery-Tags-Input (⭐2.3k)](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 
@@ -388,7 +388,7 @@
 *   [tipsy (⭐2k)](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 *   [qTip2 (⭐2k)](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 *   [tooltipster (⭐2.8k)](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
-*   [simptip (⭐653)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+*   [simptip (⭐651)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 
 ### Modals and Popups / Other
 

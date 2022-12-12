@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 03 - Sep 09, 2018
 
-41 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -62,7 +62,7 @@
 
 ### Software / URL Shorteners
 
-*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐6.3k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
+*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐6.6k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 
 ## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Tools and session management
 
-*   [tmuxpair (⭐37)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
+*   [tmuxpair (⭐38)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 
 ## [14. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -148,7 +148,7 @@
     ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social\&label=Star)
     [Demo](https://milligram.io/showcase.html),
     [Docs](https://milligram.io/#getting-started),
-    [Repo (⭐9.8k)](https://github.com/milligram/milligram)
+    [Repo (⭐9.9k)](https://github.com/milligram/milligram)
     \| #Sass
 *   [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.\
     ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social\&label=Star)
@@ -158,9 +158,9 @@
     \| #SCSS
 *   [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.\
     ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social\&label=Star)
-    [Demo](https://cdn.rawgit.com/jenil/chota/master/test/index.html),
+    [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
     [Docs](https://jenil.github.io/chota/#docs),
-    [Repo (⭐997)](https://github.com/jenil/chota)
+    [Repo (⭐1k)](https://github.com/jenil/chota)
     \| #CSS
 
 ### General Purpose
@@ -169,7 +169,7 @@
     ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
     [Demo](https://getbootstrap.com/docs/4.0/examples/),
     [Docs](https://getbootstrap.com/docs/4.0/),
-    [Repo (⭐160k)](https://github.com/twbs/bootstrap)
+    [Repo (⭐161k)](https://github.com/twbs/bootstrap)
     \| #SCSS
 *   [**Bulma**](https://bulma.io) - Modern CSS framework based on Flexbox.\
     ![](https://img.shields.io/github/stars/jgthms/bulma.svg?style=social\&label=Star)
@@ -186,7 +186,7 @@
 *   [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.\
     ![](https://img.shields.io/github/stars/primer/css.svg?style=social\&label=Star)
     [Docs](https://primer.style/css/),
-    [Repo (⭐11k)](https://github.com/primer/css)
+    [Repo (⭐12k)](https://github.com/primer/css)
     \| #SCSS
 
 ### Material Design
@@ -195,7 +195,7 @@
     ![](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=social\&label=Star)
     [Demo](https://material.io/components?platform=web),
     [Docs](https://material.io/develop/web/getting-started),
-    [Repo (⭐16k)](https://github.com/material-components/material-components-web)
+    [Repo (⭐17k)](https://github.com/material-components/material-components-web)
     \| #SCSS
 *   [**MUI**](https://www.muicss.com) - Lightweight CSS framework that follows Google's Material Design guidelines.\
     ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social\&label=Star)
@@ -208,14 +208,14 @@
 *   [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
     ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
     [Docs](https://tailwindcss.com/docs),
-    [Repo (⭐62k)](https://github.com/tailwindlabs/tailwindcss)
+    [Repo (⭐63k)](https://github.com/tailwindlabs/tailwindcss)
     \| #CSS
 
 ### Specialized
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐6.9k)](https://github.com/jdan/98.css)
+    [Repo (⭐7.7k)](https://github.com/jdan/98.css)
     \| #CSS
 *   [**Gutenberg**](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.\
     ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social\&label=Star)
@@ -225,7 +225,7 @@
 *   [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.\
     ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social\&label=Star)
     [Docs](https://bojler.slicejack.com/documentation/getting-started/),
-    [Repo (⭐973)](https://github.com/Slicejack/bojler)
+    [Repo (⭐976)](https://github.com/Slicejack/bojler)
     \| #SCSS
 
 ## [18. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
@@ -257,7 +257,7 @@
 
 ### Other Awesome Lists
 
-*   [example-ios-apps (⭐718)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+*   [example-ios-apps (⭐745)](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
 
 ### Tab / Barcode
 
@@ -275,13 +275,23 @@
 
 *   [Finding Elements By Image, Part 2](https://appiumpro.com/editions/33)
 
-## [24. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [24. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Elixir / Non-X86
+
+*   [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
+
+### HTML and CSS / Spock Framework
+
+*   [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
+
+## [25. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
 *   [Taskist (⭐793)](https://github.com/huextrat/Taskist) <!--stargazers:huextrat/Taskist--> - Taskist is a ToDo List app for Task Management by [Hugo EXTRAT](https://github.com/huextrat)
 
-## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -289,13 +299,13 @@
 
 ### Resources / Examples
 
-*   [ASP.NET Core Vue Starter CLI 3.0 (⭐531)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
+*   [ASP.NET Core Vue Starter CLI 3.0 (⭐530)](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.​NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
 
 ### Components & Libraries / UI Utilities
 
 *   [vue2-scrollspy (⭐135)](https://github.com/ibufu/vue2-scrollspy) - A scrollspy plugin and animated scroll-to.
 
-## [26. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [27. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Libraries and Tools / C
 
@@ -305,13 +315,13 @@
 
 *   [CanCat (⭐159)](https://github.com/atlas0fd00m/CanCat) - A "swiss-army knife" for interacting with live CAN data. Primary API interface in Python, but written in C++.
 
-## [27. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [28. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Awareness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [HTTP Leaks (⭐1.7k)](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 
-## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [29. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -321,7 +331,7 @@
 
 *   [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 
-## [29. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Gists
 
@@ -370,7 +380,7 @@
 
 *   [Intercom Screencasts](https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L)
 
-## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -407,7 +417,7 @@
 *   [md2png (⭐24)](https://github.com/weaming/md2png) - Convert markdown to PNG image
 *   [whales (⭐348)](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications
 
-## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [32. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -417,7 +427,7 @@
 
 *   [CppCast](http://cppcast.com) - The first podcast by C++ developers for C++ developers.
 
-## [32. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [33. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / CLI
 
@@ -431,21 +441,21 @@
 
 *   [danilop/yas3fs :fire::fire::fire: (⭐628)](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 
-## [33. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [34. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Blogs
 
 *   [American Monk: Bhante Subhūti](http://americanmonk.org/) - Monk with roots in the Sri Lanka and Myanmar Forest Traditions.
 
-## [34. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [35. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
-*   [itk-jupyter-widgets (⭐468)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
+*   [itk-jupyter-widgets (⭐481)](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive widgets to visualize images in 2D and 3D.
 
 ### Testing
 
-*   [ipytest (⭐238)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
+*   [ipytest (⭐243)](https://github.com/chmp/ipytest) - Test runner for running unit tests from within a notebook.
 
 ### Community Resources
 
@@ -453,11 +463,11 @@
 *   PyPI - [`Framework :: Jupyter`](https://pypi.org/search/?\&c=Framework+%3A%3A+Jupyter)
     is the PyPI trove classifier for Jupyter projects.
 
-## [35. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
-*   [CrOTP (⭐59)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
+*   [CrOTP (⭐60)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
 
 ### Misc
 
@@ -467,14 +477,14 @@
 
 *   [DPPM (⭐105)](https://github.com/DFabric/dppm) - An easy, universal way to install and manage applications as packages (mostly Linux)
 
-## [36. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [37. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
 *   [Cat-or-dog (⭐31)](https://github.com/punksta/Cat-or-dog) - Simple game with drag'n'drops and animations.
 *   [Forex Rates (⭐45)](https://github.com/MicroPyramid/forex-rates-mobile-app) - Foreign exchange rates. currency rate converter. Historical exchange rates. Android and iOS.
 
-## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
@@ -497,7 +507,7 @@
 
 *   [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
 
-## [38. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [39. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Authentication and Authorization
 
@@ -519,19 +529,19 @@
 *   [LiquidState (⭐219)](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET.
 *   [NCrontab (⭐731)](https://github.com/atifaziz/NCrontab) - Crontab for .NET.
 
-## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [bimap (⭐22)](https://github.com/mkaput/elixir-bimap) - Pure Elixir implementation of [bidirectional maps](https://en.wikipedia.org/wiki/Bidirectional_map) and multimaps.
 
-## [40. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [41. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Queues
 
 *   [Enqueue (⭐2.1k)](https://github.com/php-enqueue/enqueue-dev) -  Provides a common way for programs to create, send, read messages. Inspired by Java JMS
 
-## [41. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [42. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Wiki
 
@@ -548,7 +558,7 @@
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐374)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐381)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Mods / Maps
 
@@ -575,8 +585,8 @@
 
 ### Server Plugins / Building
 
-*   [AntiCheatReloaded (⭐93)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
-*   [ViaVersion (⭐855)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+*   [AntiCheatReloaded (⭐95)](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
+*   [ViaVersion (⭐876)](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 *   [AdvancedKitsReloaded (⭐10)](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.
 
 ### Web Applications / Building

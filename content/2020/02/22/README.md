@@ -18,10 +18,6 @@
 
 ## [2. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
-### File Manipulation
-
-*   :strawberry: [FileStorage plugin (⭐203)](https://github.com/burzum/cakephp-file-storage) - Abstract file storage and upload plugin.
-
 ### Search
 
 *   :strawberry: [PlumSearch plugin (⭐20)](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
@@ -44,23 +40,23 @@
 
 ### Testing
 
-*   [treon (⭐283)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
+*   [treon (⭐284)](https://github.com/ReviewNB/treon) - Easy-to-use test framework for Jupyter Notebooks.
 
 ## [5. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ### Packages / Debugging / Profiling
 
-*   [NiM (⭐184)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
+*   [NiM (⭐187)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 
 ### Packages / Testing
 
-*   [Playwright (⭐44k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐45k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐551)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
+*   [basic-ftp (⭐559)](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
 *   [cashify (⭐384)](https://github.com/xxczaki/cashify) - Currency conversion.
-*   [genepi (⭐63)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+*   [genepi (⭐65)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ### Resources / Tools
 
@@ -70,7 +66,7 @@
 
 ### Tools / Misc
 
-*   [m2cgen (⭐2.2k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
+*   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 
 ## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

@@ -21,7 +21,7 @@
 
 ### Packages / Process management
 
-*   [node-linux (⭐403)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
+*   [node-linux (⭐407)](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 

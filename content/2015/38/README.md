@@ -228,8 +228,8 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Packages / URL
 
-*   [url-unshort (⭐96)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-*   [embedza (⭐55)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+*   [url-unshort (⭐98)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [embedza (⭐57)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -462,7 +462,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Natural Language Processing
 
-*   [Words Counted (⭐156)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
+*   [Words Counted (⭐157)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
 ## [22. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -493,7 +493,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐550)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐552)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 

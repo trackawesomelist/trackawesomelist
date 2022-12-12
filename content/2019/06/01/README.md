@@ -11,11 +11,11 @@
 ### React Tutorials / React Internals
 
 *   [Reconciliation](https://reactjs.org/docs/reconciliation.html)
-*   [React Fiber Architecture (⭐9.7k)](https://github.com/acdlite/react-fiber-architecture)
+*   [React Fiber Architecture (⭐9.8k)](https://github.com/acdlite/react-fiber-architecture)
 
 ### React Tools / React Awesome Components
 
-*   [react-i18next (⭐7.8k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
+*   [react-i18next (⭐7.9k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
 
 ### Redux Tools / Charts
 

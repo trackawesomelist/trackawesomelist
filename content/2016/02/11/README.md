@@ -27,7 +27,7 @@
 
 ### JavaScript Clients
 
-*   [raml-client-generator (⭐121)](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
+*   [raml-client-generator (⭐120)](https://github.com/mulesoft/raml-client-generator) - Generates static client libs for js.
 
 ### Python / Symfony2
 

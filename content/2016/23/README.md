@@ -65,7 +65,7 @@
 
 ### Cryptography
 
-*   [Pkcs11Interop (⭐204)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
+*   [Pkcs11Interop (⭐211)](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
 
 ## [9. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Algorithms and Data structures
 
-*   [crystaledge (⭐25)](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
+*   [crystaledge (⭐26)](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
 
 ### Third-party APIs
 
@@ -129,7 +129,7 @@
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐421)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐426)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
 ## [16. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
@@ -147,17 +147,17 @@
 
 ### Artificial Intelligence
 
-*   [ANNetGPGPU (⭐92)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐5.1k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐898)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [ANNetGPGPU (⭐93)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
+*   [Recast/Detour (⭐5.2k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
-*   [SFML (⭐8.1k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
+*   [SFML (⭐8.2k)](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. \[zlib] [website](http://www.sfml-dev.org/)
 
 ### Scripting
 
-*   [Duktape (⭐5.4k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
+*   [Duktape (⭐5.5k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
 
 ### Web Application Framework
 
@@ -166,7 +166,7 @@
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐2.9k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [19. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
@@ -182,7 +182,7 @@
 
 ### Images
 
-*   [cloudex (⭐97)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+*   [cloudex (⭐98)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
 ## [21. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -219,7 +219,7 @@
 
 ### Open Source / Other
 
-*   [Crypter (⭐441)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐442)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -554,7 +554,7 @@ git config core.fileMode false
 
 ### Packages / Debugging / Profiling
 
-*   [ctrace (⭐113)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+*   [ctrace (⭐115)](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 
 ### Resources / Tutorials
 

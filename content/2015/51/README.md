@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 21 - Dec 27, 2015
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -176,7 +176,7 @@
 *   [CookieAuth plugin (⭐18)](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 *   [HierAuth plugin (⭐6)](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
 *   [Muffin/OAuth2 plugin (⭐25)](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
-*   [MultiTenant plugin (⭐36)](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
+*   [MultiTenant plugin (⭐35)](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 *   [UserPermissions plugin (⭐18)](https://github.com/AlessandroMinoccheri/UserPermissions) -  Allow groups of users or single users to view a specific page.
 
 ### Dependency Injection
@@ -204,7 +204,7 @@
 *   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A multi framework Composer library installer.
 *   [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-*   [Graphviz (⭐64)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
+*   [Graphviz (⭐69)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 *   [Rocketeer (⭐2.7k)](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 
 ### Miscellaneous
@@ -252,7 +252,7 @@
 
 ### Development Environment
 
-*   [CakePHP.gitignore (⭐140k)](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
+*   [CakePHP.gitignore (⭐141k)](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 
 ### Help
 
@@ -412,26 +412,56 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [Rest for Haskell (⭐388)](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
 
-## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [28. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Haxe / Spock Framework
+
+*   [HaxeFlixel Handbook](http://haxeflixel.com/documentation/haxeflixel-handbook/) (HTML)
+
+### iOS / Bootstrap
+
+*   [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
+
+### LaTeX / TeX / TeX
+
+*   [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) - Christian Feursänger (PDF)
+*   [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
+
+### Lisp / TeX
+
+*   [Common Lisp Quick Reference](http://clqr.boundp.org)
+*   [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python, Break Python](http://learnpythonbreakpython.com)
+*   [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
+*   [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
+
+### Ruby / Sinatra
+
+*   [Sinatra Book (⭐650)](https://github.com/sinatra/sinatra-book)
+
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Babel Seed Projects / Components
 
 *   [angular2-fullstack-starter (⭐32)](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
 
-## [29. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [30. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Utilities
 
 *   [rxjava-extras (⭐273)](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 *   [RxActions (⭐33)](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 
-## [30. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [31. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
 *   [desk (⭐2.5k)](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 
-## [31. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [32. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Polyfills
 
@@ -453,7 +483,7 @@ git update-index --no-assume-unchanged <file_name>
 *   Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier)
 *   Nicolas [@necolas](https://twitter.com/necolas)
 
-## [32. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [33. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -463,7 +493,7 @@ git update-index --no-assume-unchanged <file_name>
 
 *   [exfavicon (⭐7)](https://github.com/ikeikeikeike/exfavicon) - An Elixir library for discovering favicons.
 
-## [33. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [34. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Hypervisors
 
@@ -487,13 +517,13 @@ git update-index --no-assume-unchanged <file_name>
 *   full privileges -> isolate on kernel level
 *   absolute privileges -> run it in separate vm
 
-## [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [35. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [D3.compose (⭐699)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 
-## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [36. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 

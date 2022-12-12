@@ -204,7 +204,6 @@
 
 ### Datasets / Social Sciences
 
-*   [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/landing.jsp) (`Lookup`)
 *   [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 
 ### Editors / LaTeX
@@ -220,7 +219,7 @@
 
 ### Web Hosting
 
-*   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
+*   [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies. No custom domain.
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -289,7 +288,7 @@
 
 ### Swift / General-Purpose Machine Learning
 
-*   [MLKit (⭐153)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
+*   [MLKit (⭐152)](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -299,7 +298,7 @@
 
 ### Pagination / Barcode
 
-*   [PageController (⭐404)](https://github.com/hirohisa/PageController) - Infinite paging controller.
+*   [PageController (⭐408)](https://github.com/hirohisa/PageController) - Infinite paging controller.
 
 ## [16. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
@@ -356,7 +355,7 @@ git rev-list --count <branch-name>
 
 ### Concurrency
 
-*   [CUB (⭐64)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
+*   [CUB (⭐65)](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. \[New BSD]
 *   [moderngpu (⭐1.4k)](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. \[FreeBSD & Copyright, Sean Baxter]
 *   [NCCL (⭐1.9k)](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. \[BSD]
 
@@ -415,7 +414,7 @@ git rev-list --count <branch-name>
 
 ### Game
 
-*   [MonoGame (⭐8.8k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐9k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ### ORM
 
@@ -677,17 +676,17 @@ git flow init -d
 
 ### Chatting
 
-*   [chatty (⭐35)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
+*   [chatty (⭐34)](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 *   [cog (⭐920)](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
-*   [ExIrc (⭐144)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
+*   [ExIrc (⭐145)](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 *   [Guri (⭐19)](https://github.com/elvio/guri) - Automate tasks using chat messages.
 *   [kaguya (⭐72)](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
 *   [slacker (⭐81)](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
-*   [yocingo (⭐38)](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
+*   [yocingo (⭐39)](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐613)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐618)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Examples and funny stuff
 
@@ -695,7 +694,7 @@ git flow init -d
 
 ### Framework Components
 
-*   [multiverse (⭐89)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
+*   [multiverse (⭐90)](https://github.com/Nebo15/multiverse) - Plug that allows to add version compatibility layers via API Request/Response Gateways.
 
 ### Geolocation
 
@@ -703,15 +702,15 @@ git flow init -d
 
 ### HTTP
 
-*   [Tube (⭐11)](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
+*   [Tube (⭐12)](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
 
 ### Images
 
-*   [ex\_image\_info (⭐85)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
+*   [ex\_image\_info (⭐88)](https://github.com/rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 
 ### Logging
 
-*   [exlager (⭐65)](https://github.com/khia/exlager) - Elixir binding for lager.
+*   [exlager (⭐66)](https://github.com/khia/exlager) - Elixir binding for lager.
 
 ### Release Management
 
@@ -723,7 +722,7 @@ git flow init -d
 
 ### Testing
 
-*   [bypass (⭐861)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐867)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -756,11 +755,11 @@ git flow init -d
 
 ### Configuration
 
-*   [cr-dotenv (⭐92)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+*   [cr-dotenv (⭐93)](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
 
 ### Project Generators
 
-*   [crystal\_lib (⭐138)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+*   [crystal\_lib (⭐136)](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
 
 ### Template Engine
 

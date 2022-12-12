@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 29, 2020
 
-18 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,7 +77,7 @@
 
 ## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
-### Invoice / European VAT
+### Invoice / Electronic invoices
 
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
@@ -155,7 +155,7 @@
 
 ### Editable data grid / spreadsheet
 
-*   [ReactGrid (⭐550)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
+*   [ReactGrid (⭐574)](https://github.com/silevis/reactgrid) - [demo/docs](https://reactgrid.com/docs/) - Add spreadsheet-like behavior to your app
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -163,7 +163,17 @@
 
 *   [zenhub.com](https://www.zenhub.com) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [16. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+
+### Demos / Program generation and analysis
+
+*   [Most Recommended Books: GPT-3 based book recommendations](http://mostrecommendedbooks.com/gpt3)
+
+### Products / Other
+
+*   [Prompts AI](https://prompts.ai): Advanced GPT-3 playground
+
+## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 
@@ -175,15 +185,15 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-scroll-picker (⭐16)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
+*   [vue3-scroll-picker (⭐17)](https://github.com/HJ29/vue3-scroll-picker) - A scroll picker component for Vue 3.
 
-## [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [18. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Open Source / Community
 
-*   [TroisJS (⭐2.9k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
+*   [TroisJS (⭐3k)](https://github.com/troisjs/trois) - Three.js integration with Vite and Vue 3.
 
-## [18. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
+## [19. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md)
 
 ### Past announcements:
 

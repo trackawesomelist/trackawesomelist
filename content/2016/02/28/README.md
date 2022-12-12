@@ -16,7 +16,7 @@
 
 ### Third Party APIs
 
-*   [sendgrid (⭐84)](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
+*   [sendgrid (⭐85)](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
 
 ## [3. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Libraries / JavaScript
 
-*   [Camo (⭐554)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [Camo (⭐552)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
 
 ### Libraries / Scala
 

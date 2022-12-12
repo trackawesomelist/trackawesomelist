@@ -52,7 +52,7 @@
 
 ### Miscellaneous
 
-*   [Parasite (⭐22)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+*   [Parasite (⭐24)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 
 ## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 

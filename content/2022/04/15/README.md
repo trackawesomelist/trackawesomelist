@@ -80,8 +80,8 @@
 
 ### Templates / React
 
-*   [vite-ant-design-pro (⭐38)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
-*   [vite-react-proste (⭐6)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
+*   [vite-ant-design-pro (⭐40)](https://github.com/1247748612/vite-ant-design-pro) - React + antd + ProComponents + ReactQuery + ReactRouter6.
+*   [vite-react-proste (⭐7)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Crates / Component Libraries
 
-*   [tailyew (⭐9)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
+*   [tailyew (⭐11)](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 
 ## [13. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

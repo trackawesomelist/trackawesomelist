@@ -38,7 +38,7 @@
 
 ### Cryptography
 
-*   [libsodium-net (⭐351)](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
+*   [libsodium-net (⭐349)](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
 
 ---
 

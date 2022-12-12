@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 22, 2022
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,7 +10,7 @@
 
 ### Security
 
-*   [Checkov (⭐4.8k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
+*   [Checkov (⭐4.9k)](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [@bridgecrew](https://github.com/bridgecrewio)
 
 ## [2. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/README.md)
 
@@ -40,11 +40,17 @@
     *   [ui-svg](https://flows.nodered.org/node/node-red-contrib-ui-svg) - Show interactive SVG (vector graphics) in the dashboard.
     *   [ui-contextmenu](https://flows.nodered.org/node/node-red-contrib-ui-contextmenu) - Show a popup contextmenu in the dashboard.
 
-## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Third-Party Packages / Database connectors
+### Rust / Sinatra
 
-*   [djongo (⭐1.6k)](https://github.com/doableware/djongo) - Django and MongoDB database connector.
+*   [The Rust Programming Language](http://doc.rust-lang.org/book) - Steve Klabnik, Carol Nichols, et al. (HTML)
+
+## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Database Connectors
+
+*   [djongo (⭐1.7k)](https://github.com/doableware/djongo) - Django and MongoDB database connector.
 
 ### Resources / Books
 
@@ -64,32 +70,32 @@
 
 ### Projects / Boilerplate
 
-*   [django-startproject (⭐76)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
+*   [django-startproject (⭐79)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
 
-## [5. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Misc
 
-*   [justwrote/kjob (⭐53)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
+*   [justwrote/kjob (⭐58)](https://github.com/justwrote/kjob) - A coroutine based persistent background scheduler written in Kotlin.
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Logging
 
-*   [log (⭐13)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
+*   [log (⭐14)](https://github.com/heartwilltell/log) - Simple leveled logging wrapper around standard log package.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [alp (⭐0)](https://github.com/zrut747/alp/) - A simple theme with decorations for current directory, root status, username and host.
 
-## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
 
 *   [CLIP retrieval for laion5B](https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai\&index=laion5B\&useMclip=false): CLIP retrieval using Laion5B. "It works by converting the text query to a CLIP embedding , then using that embedding to query a knn index of clip image embedddings".
-*   [rom1504/clip-retrieval (⭐713)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
+*   [rom1504/clip-retrieval (⭐787)](https://github.com/rom1504/clip-retrieval): Easily compute CLIP embeddings and build a CLIP retrieval system with them
 *   [PromptDesign | Reddit](https://www.reddit.com/r/PromptDesign/): Reddit community for "the art of communicating with natural language models"
 *   [Prompt Engineering and Zero-Shot/Few-Shot Learning \[Guide\] - inovex GmbH](https://www.inovex.de/de/blog/prompt-engineering-guide/): prompt engineering for text generation
 *   [clip-interrogator.ipynb - Colaboratory](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb#scrollTo=rbDEMDGJrJEo): a tool for image-to-prompt
@@ -101,48 +107,48 @@
 *   [Runway ML](http://runwayml.com/): AI video creation suite
 *   [Hotpot.ai - Hotpot.ai](https://hotpot.ai/): set of AI Tools to post-process images
 
-## [9. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Health and Social Science
 
-*   [Biomedical Information Extraction (⭐215)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-*   [Diversity (⭐571)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
-*   [Empathy in Engineering (⭐486)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
+*   [Biomedical Information Extraction (⭐222)](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+*   [Diversity (⭐580)](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
+*   [Empathy in Engineering (⭐490)](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
 *   [Healthcare (⭐2k)](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-*   [Humane Technology (⭐2.8k)](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
+*   [Humane Technology (⭐2.9k)](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 *   [Mental Health (⭐2.5k)](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
-*   [Neuroscience (⭐950)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
+*   [Neuroscience (⭐968)](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 
 ### Miscellaneous
 
-*   [Scientific Writing (⭐453)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐476)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [jim-at-jibba/ariake-vim-colors (⭐24)](https://github.com/jim-at-jibba/ariake-vim-colors) - A port of the great Atom theme. Dark and light with Tree-sitter support.
-*   [Th3Whit3Wolf/onebuddy (⭐89)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
-*   [ofirgall/ofirkai.nvim (⭐26)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
+*   [Th3Whit3Wolf/onebuddy (⭐92)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
+*   [ofirgall/ofirkai.nvim (⭐33)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 
-## [11. Awesome Research](/content/emptymalei/awesome-research/README.md)
+## [12. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
 ### Editors / LaTeX
 
 *   [Overleaf](https://www.overleaf.com/)(`Cloud`): Built in version control, Dropbox and GitHub integration, preview, cooperation, simple UI. It also provides a lot of templates.
-*   [Overleaf Source Code (⭐10k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
+*   [Overleaf Source Code (⭐11k)](https://github.com/overleaf/overleaf): Overleaf open sourced their codes. This is a great move I would say.
 
 ### LaTeX Beamer / HTML+CSS+JS
 
 *   [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home): Shipped with standard LaTeX installations. A lot of themes has been invented. Start editing with one click on [Overleaf](https://www.overleaf.com/)
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
 *   [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [14. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
@@ -150,7 +156,7 @@
 
 ### Open Source / Community
 
-*   [Vituum (⭐67)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
+*   [Vituum (⭐99)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 
 ---
 

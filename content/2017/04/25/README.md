@@ -45,7 +45,7 @@
 
 ### E-Commerce and Payments
 
-*   [Conekta (⭐30)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
+*   [Conekta (⭐31)](https://github.com/conekta/conekta-ruby) - Conekta Ruby bindings.
 
 ## [4. Amas](/content/sindresorhus/amas/README.md)
 

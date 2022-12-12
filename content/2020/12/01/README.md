@@ -55,8 +55,8 @@
 
 ### React Tools / React Renderers
 
-*   [ink (⭐19k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-*   [react-nil (⭐642)](https://github.com/pmndrs/react-nil) - A react null renderer
+*   [ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
+*   [react-nil (⭐648)](https://github.com/pmndrs/react-nil) - A react null renderer
 
 ## [9. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 

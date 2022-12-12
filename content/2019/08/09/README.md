@@ -454,7 +454,7 @@
 
 ### Resources / Visual Effects
 
-*   [Shape Drawer (⭐146)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+*   [Shape Drawer (⭐152)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

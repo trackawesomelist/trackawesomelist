@@ -57,7 +57,7 @@
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Static Hosting (⭐244)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Static Hosting (⭐245)](https://github.com/b-long/awesome-static-hosting)
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -80,7 +80,7 @@
 
 *   [ELKI](https://elki-project.github.io/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
 
-### Javascript / Data Analysis / Data Visualization
+### JavaScript / Data Analysis / Data Visualization
 
 *   [amCharts](https://www.amcharts.com/)
 
@@ -116,7 +116,7 @@
 
 ### Ruby / Misc
 
-*   [Listof (⭐26)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
+*   [Listof (⭐26)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, JSON or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
 
 ### SAS / General-Purpose Machine Learning
 

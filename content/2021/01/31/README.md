@@ -72,7 +72,7 @@
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Daisy UI (⭐15k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
+*   🧩 [Daisy UI (⭐16k)](https://github.com/saadeghi/daisyui) - UI Components for Tailwind CSS.
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -94,13 +94,13 @@
 
 ### Libraries / Date and time
 
-*   [time-rs/time (⭐645)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
+*   [time-rs/time (⭐663)](https://github.com/time-rs/time) — [![build badge](https://github.com/time-rs/time/workflows/Build/badge.svg)](https://github.com/time-rs/time/actions)
 
 ## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Platforms
 
-*   [DOS (⭐280)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+*   [DOS (⭐292)](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
 ---
 

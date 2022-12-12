@@ -16,7 +16,7 @@
 
 ### Image Synthesis / Promptism
 
-*   \[🔥] [altryne/awesome-ai-art-image-synthesis (⭐924)](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+*   \[🔥] [altryne/awesome-ai-art-image-synthesis (⭐973)](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 *   \[🔥🔥🔥] [Ai generative art tools](https://pharmapsychotic.com/tools.html): a massive list of shared Google Colab notebooks and tools organized by [@pharampsychotic](https://twitter.com/pharmapsychotic)
 
 ### Image Synthesis / DALL-E 2
@@ -31,20 +31,20 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-bullet-msg (⭐2)](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
+*   [vite-plugin-bullet-msg (⭐3)](https://github.com/PengBoUESTC/vite-plugin-bullet-msg) - Get the target strings in you source code and show them in browser(or handle them yourself).
 
 ## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [command-not-found (freed-wu) (⭐1)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the command-not-found package for zsh to provide suggested packages to be installed if a command cannot be found.
-*   [command-not-found (tarrasch) (⭐20)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐151k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
+*   [command-not-found (freed-wu) (⭐2)](https://github.com/Freed-Wu/zsh-command-not-found) - Uses the command-not-found package for zsh to provide suggested packages to be installed if a command cannot be found.
+*   [command-not-found (tarrasch) (⭐20)](https://github.com/Tarrasch/zsh-command-not-found) - A mirror of the [oh-my-zsh](https://ohmyz.sh) [command-not-found (⭐153k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/command-not-found) plugin so you don't have to include all of oh-my-zsh.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### CI and CD
 
-*   [microtica.com](https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on Kubernetes for free and support your production workloads. Free tier includes 2 services, 100 build minutes/month and 20 deployments/month on a shared Kubernetes Cluster provided by us.
+*   [microtica.com](https://microtica.com/) - Spin up environments with ready-made infrastructure components, deploy apps on AWS for free and support your production workloads. The free tier includes 1 Environment (on your AWS account), 2 Kubernetes Services, 100 build minutes per month, and 20 deployments per month.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -69,11 +69,11 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-share-modal (⭐5)](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
+*   [vue-share-modal (⭐6)](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
 
 ### Components & Libraries / Runtime
 
-*   [temir (⭐891)](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
+*   [temir (⭐921)](https://github.com/webfansplz/temir) - Vue for interactive command-line apps
 
 ## [10. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Formatting / Diagnostics
 
-*   [MunifTanjim/prettier.nvim (⭐87)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration for Neovim.
+*   [MunifTanjim/prettier.nvim (⭐101)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration.
 
 ---
 

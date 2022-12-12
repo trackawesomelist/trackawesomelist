@@ -99,8 +99,8 @@
 ### Packages / Hardware
 
 *   [onoff (⭐1.2k)](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
-*   [spi-device (⭐112)](https://github.com/fivdi/spi-device) - SPI serial bus access.
-*   [pigpio (⭐878)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+*   [spi-device (⭐111)](https://github.com/fivdi/spi-device) - SPI serial bus access.
+*   [pigpio (⭐881)](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 ## [11. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 

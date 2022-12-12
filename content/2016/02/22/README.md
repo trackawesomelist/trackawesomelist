@@ -16,7 +16,7 @@
 
 ### Security
 
-*   [LastPass Vault Manager (⭐122)](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
+*   [LastPass Vault Manager (⭐121)](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 
 ## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
@@ -34,21 +34,20 @@
 ### Resources / More
 
 *   [MongoDB source code (⭐23k)](https://github.com/mongodb/mongo)
-*   [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
 
 ### Libraries / C
 
-*   [mongo-c-driver (⭐744)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐748)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### Libraries / C++
 
-*   [mongo-cxx-driver (⭐915)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
+*   [mongo-cxx-driver (⭐919)](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### Libraries / C#/.NET
 
 *   [mongo-csharp-driver (⭐2.9k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
-*   [MongoDB Messaging (⭐56)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
-*   [MongoRepository (⭐305)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+*   [MongoDB Messaging (⭐57)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
+*   [MongoRepository (⭐306)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Libraries / Erlang
 
@@ -60,10 +59,10 @@
 
 ### Libraries / Java
 
-*   [Jongo (⭐573)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
+*   [Jongo (⭐572)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
 *   [Hibernate OGM (⭐313)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.5k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
-*   [Mongojack (⭐256)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
+*   [Mongojack (⭐257)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
 *   [Morphium (⭐52)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
 *   [Mungbean (⭐20)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
 
@@ -80,15 +79,13 @@
 
 ### Libraries / PHP
 
-*   [Doctrine MongoDB (⭐443)](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
 *   [laravel-mongodb (⭐6.2k)](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
-*   [pecl/mongodb (⭐789)](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Libraries / Python
 
-*   [MongoLog (⭐133)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
-*   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
-*   [scrapy-mongodb (⭐349)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
+*   [MongoLog (⭐132)](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
+*   [PyMongo (⭐3.7k)](https://github.com/mongodb/mongo-python-driver) - Official Python driver
+*   [scrapy-mongodb (⭐347)](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
 
 ### Libraries / Ruby
 
@@ -96,7 +93,6 @@
 
 ### Libraries / Scala
 
-*   [mongo-scala-driver (⭐289)](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
 *   [ReactiveMongo (⭐834)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
 
 ### Tools / Administration
@@ -107,7 +103,6 @@
 
 *   [ansible-role-mongodb (⭐325)](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
 *   [chef-mongodb (⭐366)](https://github.com/edelight/chef-mongodb) - Chef cookbook
-*   [Dockerfile (⭐314)](https://github.com/dockerfile/mongodb)
 
 ### Tools / Monitoring
 

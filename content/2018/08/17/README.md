@@ -33,14 +33,14 @@
 
 ### Computer Science
 
-*   [Cryptography (⭐4.1k)](https://github.com/sobolevn/awesome-cryptography#readme)
+*   [Cryptography (⭐4.2k)](https://github.com/sobolevn/awesome-cryptography#readme)
     *   [Papers (⭐1.4k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### UITableView / Barcode
 
-*   [SwiftyComments (⭐216)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
+*   [SwiftyComments (⭐219)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 
 ## [4. Awesome Code Review](/content/joho/awesome-code-review/README.md)
 

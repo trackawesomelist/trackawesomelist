@@ -334,7 +334,7 @@
 *   [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
 *   [Misc from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
 *   [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
-*   [A chess AI that learns to play chess using deep learning. (⭐761)](https://github.com/erikbern/deep-pink)
+*   [A chess AI that learns to play chess using deep learning. (⭐762)](https://github.com/erikbern/deep-pink)
 
 ## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -439,7 +439,7 @@
 
 *   Import
     *   [ActiveRecord Import (⭐3.8k)](https://github.com/zdennis/activerecord-import) - a library for bulk inserting data using ActiveRecord.
-    *   [bulk\_insert (⭐823)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
+    *   [bulk\_insert (⭐822)](https://github.com/jamis/bulk_insert) - A little ActiveRecord extension for helping to insert lots of rows in a single insert statement.
     *   [data\_miner (⭐299)](https://github.com/seamusabshere/data_miner) - Download, pull out of a ZIP/TAR/GZ/BZ2 archive, parse, correct, and import XLS, ODS, XML, CSV, HTML, etc. into your ActiveRecord models.
     *   [ferry (⭐245)](https://github.com/cmu-is-projects/ferry) - A ruby gem for easy data transfer.
 
@@ -766,10 +766,10 @@
     *   [Text Lectures](http://ocw.tufts.edu/Course/75/Learningunits)
     *   [Assignments](http://ocw.tufts.edu/Course/75/Assignments)
     *   [Labs](http://ocw.tufts.edu/Course/75/Labs)
-*   [CS 100 (⭐455)](https://github.com/mikeizbicki/ucr-cs100) **Open Source Software Construction** *UC Riverside* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+*   [CS 100 (⭐456)](https://github.com/mikeizbicki/ucr-cs100) **Open Source Software Construction** *UC Riverside* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   This is a course on how to be a hacker. Your first four homework assignments walk you through the process of building your own unix shell. You'll be developing it as an open source project, and you will collaborate with each other at various points.
-    *   [Github Page (⭐455)](https://github.com/mikeizbicki/ucr-cs100)
-    *   [Assignments (⭐455)](https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/assignments)
+    *   [Github Page (⭐456)](https://github.com/mikeizbicki/ucr-cs100)
+    *   [Assignments (⭐456)](https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/assignments)
 *   [CS 223A](https://see.stanford.edu/Course/CS223A) **Introduction to Robotics** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
     *   The purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
 *   [CS 411](http://video.bilkent.edu.tr/course_videos.php?courseid=10) **Software Architecture Design** *Bilkent University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />

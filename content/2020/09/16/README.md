@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 16, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -103,13 +103,7 @@
 
 *   [php-stubs/wp-cli-stubs (⭐12)](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis.
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Individual components / Others
-
-*   [AdvancedBlazorSelect2 (⭐10)](https://github.com/KeudellCoding/Blazor.AdvancedBlazorSelect2) - ![last commit](https://img.shields.io/github/last-commit/KeudellCoding/Blazor.AdvancedBlazorSelect2?style=flat-square\&cacheSeconds=86400) Simple wrapper for Select2 with full support of databases and custom web APIs.
-
-## [14. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Who to Follow
 
@@ -117,13 +111,13 @@
     *   [Youtube](https://www.youtube.com/channel/UCc3g-KhOBoicgOrB4KkMeew)
     *   [Website](https://dalasevrepair.fi/)
 
-## [15. Awesome React](/content/enaqx/awesome-react/README.md)
+## [14. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Frameworks
 
-*   [next.js (⭐94k)](https://github.com/vercel/next.js) - The React Framework
+*   [next.js (⭐98k)](https://github.com/vercel/next.js) - The React Framework
 
-## [16. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [15. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Cryptography
 
@@ -140,13 +134,13 @@
 
 ### Display / GUI
 
-*   [lvgl (⭐149)](https://github.com/lvgl/lv_binding_micropython) - An object oriented component based high-level GUI library with MicroPython binding.
+*   [lvgl (⭐152)](https://github.com/lvgl/lv_binding_micropython) - An object oriented component based high-level GUI library with MicroPython binding.
 *   [micropython-lcd160cr-gui (⭐25)](https://github.com/peterhinch/micropython-lcd160cr-gui) - Simple touch driven event based GUI for the Pyboard and LCD160CR colour display.
 *   [micropython\_ra8875 (⭐7)](https://github.com/peterhinch/micropython_ra8875) - MicroPython device driver and nano-GUI for RA8875 based displays.
 
 ### Sensors / Camera
 
-*   [micropython-camera-driver (⭐236)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
+*   [micropython-camera-driver (⭐241)](https://github.com/lemariva/micropython-camera-driver) - OV2640 camera driver for MicroPython on ESP32.
 
 ### Sensors / Temperature Digital
 
@@ -160,21 +154,21 @@
 
 ### Frameworks / SRAM
 
-*   [micrOS (⭐41)](https://github.com/BxNxM/micrOS) - MicroPython based IoT Framework.
+*   [micrOS (⭐45)](https://github.com/BxNxM/micrOS) - MicroPython based IoT Framework.
 *   [terkin-datalogger (⭐43)](https://github.com/hiveeyes/terkin-datalogger) - Flexible data logger application for MicroPython and CPython.
 
 ### Code Generation / SRAM
 
-*   [micropy-stubs (⭐19)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
+*   [micropy-stubs (⭐20)](https://github.com/BradenM/micropy-stubs) - Automatically Generated Stub Packages for Micropy-Cli and whomever else.
 
-## [17. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [16. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Reference Documentation / eBPF Essentials
 
 *   [ebpf.io](https://ebpf.io/) - A gateway to discover all the basics of eBPF, including a listing of the main related projects and of community resources.
 *   [Cilium's BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) - In-depth documentation about most features and aspects of eBPF.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [17. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 

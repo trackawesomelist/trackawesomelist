@@ -10,7 +10,7 @@
 
 ### Protocols
 
-*   [DNS (⭐359)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
+*   [DNS (⭐361)](https://github.com/kapetan/dns) - A library for parsing and serializing DNS messages. Includes a basic DNS client and server.
 
 ## [2. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

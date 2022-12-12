@@ -1,6 +1,6 @@
 # Awesome List Updates on May 15, 2018
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -16,37 +16,37 @@
 
 ### Packages / Mad science
 
-*   [BitcoinJS (⭐4.7k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
-*   [Bitcore (⭐4.4k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
-*   [NodeOS (⭐6.7k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
-*   [Cytoscape.js (⭐8.7k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
-*   [isomorphic-git (⭐6.5k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+*   [BitcoinJS (⭐4.8k)](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
+*   [Bitcore (⭐4.5k)](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
+*   [NodeOS (⭐6.8k)](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
+*   [Cytoscape.js (⭐8.8k)](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
+*   [isomorphic-git (⭐6.6k)](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
 
 ### Packages / Command-line apps
 
-*   [gh-home (⭐182)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+*   [gh-home (⭐183)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 *   [npm-home (⭐179)](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 *   [trash (⭐2.4k)](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 
 ### Packages / Functional programming
 
-*   [Ramda (⭐22k)](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
+*   [Ramda (⭐23k)](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
 *   [Mout (⭐1.3k)](https://github.com/mout/mout) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 
 ### Packages / Command-line utilities
 
 *   [yargs (⭐10k)](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
-*   [get-stdin (⭐317)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
-*   [Ink (⭐19k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-*   [terminal-link (⭐527)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
-*   [terminal-image (⭐895)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
+*   [get-stdin (⭐319)](https://github.com/sindresorhus/get-stdin) - Easier stdin.
+*   [Ink (⭐20k)](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+*   [terminal-link (⭐538)](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+*   [terminal-image (⭐902)](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
 *   [Inquirer.js (⭐17k)](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 *   [sudo-block (⭐92)](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 *   [term-size (⭐132)](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
 
 ### Packages / Build tools
 
-*   [parcel (⭐41k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
+*   [parcel (⭐42k)](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
 
 ### Packages / Web frameworks
 
@@ -62,9 +62,9 @@
 *   Promises
     *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
     *   [delay (⭐516)](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
-    *   [promise-memoize (⭐57)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
-    *   [valvelet (⭐36)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
-    *   [p-map (⭐910)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+    *   [promise-memoize (⭐56)](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
+    *   [valvelet (⭐37)](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
+    *   [p-map (⭐919)](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
     *   [More… (⭐4.1k)](https://github.com/sindresorhus/promise-fun)
 *   Streams
     *   [Highland.js (⭐3.4k)](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
@@ -73,7 +73,7 @@
 
 *   [Socket.io (⭐57k)](https://github.com/socketio/socket.io) - Enables real-time bidirectional event-based communication.
 *   [Faye (⭐4.4k)](https://github.com/faye/faye) - Real-time client-server message bus, based on Bayeux protocol.
-*   [deepstream.io (⭐290)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
+*   [deepstream.io (⭐291)](https://github.com/deepstreamIO/deepstream.io-client-js) - Scalable real-time microservice framework.
 
 ### Packages / Date
 
@@ -85,7 +85,7 @@
 
 ### Packages / Testing
 
-*   [WebdriverIO (⭐7.7k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
+*   [WebdriverIO (⭐7.8k)](https://github.com/webdriverio/webdriverio) - Automated testing based on the WebDriver protocol.
 
 ### Packages / Benchmarking
 
@@ -102,7 +102,7 @@
 ### Packages / Content management systems
 
 *   [ApostropheCMS (⭐3.9k)](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
-*   [Strapi (⭐49k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
+*   [Strapi (⭐50k)](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 ### Packages / Forum
 
@@ -115,8 +115,8 @@
 
 ### Packages / Miscellaneous
 
-*   [ow (⭐3.6k)](https://github.com/sindresorhus/ow) - Function argument validation for humans.
-*   [semver (⭐4.4k)](https://github.com/npm/node-semver) - Semantic version parser.
+*   [ow (⭐3.7k)](https://github.com/sindresorhus/ow) - Function argument validation for humans.
+*   [semver (⭐4.5k)](https://github.com/npm/node-semver) - Semantic version parser.
 *   [@sindresorhus/is (⭐1.4k)](https://github.com/sindresorhus/is) - Type check values.
 *   [emittery (⭐1.5k)](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 
@@ -124,7 +124,13 @@
 
 *   [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
 
-## [3. Awesome](/content/craftcms/awesome/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### R / Tornado
+
+*   [Introduction to Probability and Statistics Using R (⭐123)](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
+
+## [4. Awesome](/content/craftcms/awesome/README.md)
 
 ### Community
 
@@ -201,19 +207,19 @@
 *   [Sonos](https://www.sonos.com)
 *   [Wildbit](https://wildbit.com)
 
-## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Source Generator
 
-*   [Awesome Roslyn (⭐517)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐530)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 
-## [5. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [6. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Databases
 
 *   [razi (⭐31)](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
 
-## [6. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [7. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Chats
 
@@ -225,7 +231,7 @@
 
 *   [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Testing
 
@@ -235,32 +241,32 @@
 
 *   [riddley (⭐186)](https://github.com/ztellman/riddley)
 
-## [8. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
+## [9. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/README.md)
 
 ### Miscellaneous / Advanced
 
 *   [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
 
-## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [10. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
 *   [cmake\_templates (⭐114)](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). `[NO LICENSE]`
 
-## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [11. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Math / Other
 
 *   [L-systems (⭐20)](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 
-## [11. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [12. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Videos
 
 *   [Chris Krycho: TypeScript and Ember js - Why and How?](https://www.youtube.com/watch?v=fFzxbBrvytU)
 *   [Isaac Lee: Use D3 with Ember](https://www.youtube.com/watch?v=vD7H9O--tu4)
 
-## [12. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / iOS SDK
 

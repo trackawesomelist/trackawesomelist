@@ -10,7 +10,7 @@
 
 ### JupyterLab Extensions
 
-*   [go-to-definition (⭐218)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
+*   [go-to-definition (⭐216)](https://github.com/krassowski/jupyterlab-go-to-definition) - Extension for navigating to the definition of a variable or function in JupyterLab.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

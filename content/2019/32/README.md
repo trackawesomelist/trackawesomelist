@@ -72,7 +72,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [KChat (⭐95)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
+*   [KChat (⭐98)](https://github.com/php-kchat/kchat) - PHP Based Live Chat Application. `Apache-2.0` `PHP`
 
 ### Software / Communication - Email - Mail Transfer Agents
 
@@ -80,7 +80,7 @@
 
 ### Software / Internet of Things (IoT)
 
-*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐279)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
+*   [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code (⭐282)](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -561,7 +561,7 @@
 
 ### Resources / Visual Effects
 
-*   [Shape Drawer (⭐146)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
+*   [Shape Drawer (⭐152)](https://github.com/earlygrey/shapedrawer) - A performant alternative to ShapeRenderer that avoids Batch flushing.
 
 ## [17. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -626,11 +626,11 @@
 
 ### Icons
 
-*   [iconify-react (⭐178)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
+*   [iconify-react (⭐179)](https://github.com/iconify/iconify-react) - Over 40k icons from 50+ icon sets, including all popular icon and emoji sets.
 
 ### Form Components / Star Rating
 
-*   [react-awesome-stars-rating (⭐19)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
+*   [react-awesome-stars-rating (⭐21)](https://github.com/fedoryakubovich/react-awesome-stars-rating) - [demo](https://react-awesome-stars-rating.herokuapp.com/) - The star rating component with accessibility.
 
 ## [22. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -642,7 +642,7 @@
 
 ### General Libraries
 
-*   [Alcinoe](http://sourceforge.net/projects/alcinoe) ([mirror at GH (⭐824)](https://github.com/Zeus64/alcinoe)). `[Delphi]` Library of visual and non-visual components for Delphi.
+*   [Alcinoe](http://sourceforge.net/projects/alcinoe) ([mirror at GH (⭐831)](https://github.com/Zeus64/alcinoe)). `[Delphi]` Library of visual and non-visual components for Delphi.
     // *Network: FTP/Http/NNTP/POP3/SMTP, ISAPI, WinInet Http/FTP clients; DB: Firebird/MySQL/SQLite3/Memcached/MongoDb/SphinxQL; XML/JSON Parser; ZLIB; Cryptography: AES, Blowfish, MD5, SHA, secure keyed MD5/SHA; opengl video player; FireMonkey controls; Other: Self-Balancing Binary Trees, expression evaluator*
 
 ## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
@@ -795,7 +795,7 @@
 
 ### Files / Runner
 
-*   [PDF.js (⭐40k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐41k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [37. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

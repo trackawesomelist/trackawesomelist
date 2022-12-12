@@ -10,26 +10,26 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Flare (⭐4.1k)](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
-*   [Kuiper (⭐531)](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
+*   [Flare (⭐4.2k)](https://github.com/fireeye/flare-vm) - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing.
+*   [Kuiper (⭐543)](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
 *   [Velociraptor (⭐1.5k)](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
 
 ### IR Tools Collection / Evidence Collection
 
-*   [artifactcollector (⭐168)](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
-*   [Forensic Artifacts (⭐781)](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
+*   [artifactcollector (⭐174)](https://github.com/forensicanalysis/artifactcollector) - The artifactcollector project provides a software that collects forensic artifacts on systems.
+*   [Forensic Artifacts (⭐788)](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 *   [Live Response Collection](https://www.brimorlabs.com/tools/) - Automated tool that collects volatile data from Windows, OSX, and \*nix based operating systems.
 
 ### IR Tools Collection / Knowledge Bases
 
-*   [Digital Forensics Artifact Knowledge Base (⭐42)](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
+*   [Digital Forensics Artifact Knowledge Base (⭐43)](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
 *   [Windows Events Attack Samples (⭐1.8k)](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
-*   [Windows Registry Knowledge Base (⭐101)](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
+*   [Windows Registry Knowledge Base (⭐105)](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
 
 ### IR Tools Collection / Log Analysis Tools
 
 *   [LogonTracer (⭐2.1k)](https://github.com/JPCERTCC/LogonTracer) - Tool to investigate malicious Windows logon by visualizing and analyzing Windows event log.
-*   [Sigma (⭐5.6k)](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems already containing an extensive ruleset.
+*   [Sigma (⭐5.7k)](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems already containing an extensive ruleset.
 
 ### IR Tools Collection / Memory Analysis Tools
 
@@ -46,12 +46,12 @@
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [Ghidra (⭐35k)](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
+*   [Ghidra (⭐36k)](https://github.com/NationalSecurityAgency/ghidra) - Software Reverse Engineering Framework.
 *   [Rizin (⭐1.6k)](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset
 
 ### IR Tools Collection / Scanner Tools
 
-*   [Fenrir (⭐491)](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
+*   [Fenrir (⭐494)](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
 *   [Spyre (⭐135)](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
 
 ### IR Tools Collection / Windows Evidence Collection
@@ -108,7 +108,7 @@
 
 ### Visualization
 
-*   [Evidently (⭐2.8k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐2.9k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -120,7 +120,7 @@
 
 ### Libraries / Machine Learning
 
-*   [Summit (⭐71)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
+*   [Summit (⭐72)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

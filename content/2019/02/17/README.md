@@ -10,7 +10,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐7.9k)](https://github.com/gotify/server), [Clients (⭐547)](https://github.com/gotify/android)) `MIT` `Go`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐8.2k)](https://github.com/gotify/server), [Clients (⭐561)](https://github.com/gotify/android)) `MIT` `Go`
 
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Resources in Other Languages / Chinese
 
-*   [《Deno进阶开发笔记》 (⭐669)](https://github.com/chenshenhai/deno_note/)
+*   [《Deno进阶开发笔记》 (⭐668)](https://github.com/chenshenhai/deno_note/)
 
 ## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

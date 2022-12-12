@@ -20,7 +20,7 @@
 
 ### Release Management
 
-*   [eliver (⭐52)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
+*   [eliver (⭐53)](https://github.com/glasnoster/eliver) - Interactive semantic versioning for Elixir packages.
 
 ### Testing
 

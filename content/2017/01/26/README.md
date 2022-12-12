@@ -173,12 +173,12 @@
 
 ### Open Source / Other
 
-*   [Cerebro (⭐7.5k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐7.6k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Samples / Other
 
 *   [Electron API usage (⭐3.8k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐386)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐387)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

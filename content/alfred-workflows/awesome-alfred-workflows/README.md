@@ -2,7 +2,7 @@
 
 A curated list of awesome alfred workflows
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/alfred-workflows/awesome-alfred-workflows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) · ⭐ 2.5K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/alfred-workflows/awesome-alfred-workflows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) · ⭐ 2.6K · 🏷️ Development Environment
 
 [ Daily / [Weekly](/content/alfred-workflows/awesome-alfred-workflows/week/README.md) / [Overview](/content/alfred-workflows/awesome-alfred-workflows/readme/README.md) ]
 
@@ -171,12 +171,6 @@ A curated list of awesome alfred workflows
 *   [PDF Tools (⭐118)](https://github.com/xilopaint/alfred-pdf-tools) - Optimize, encrypt and manipulate PDF files.
 *   [Things (⭐335)](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 
-## [Oct 28, 2017](/content/2017/10/28/README.md)
-
-### Helpers
-
-*   [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
-
 ## [Oct 07, 2017](/content/2017/10/07/README.md)
 
 ### Other Lists
@@ -335,10 +329,6 @@ A curated list of awesome alfred workflows
 
 *   [Keylue (⭐45)](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
 *   [TerminalFinder (⭐1k)](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
-
-### Other Lists
-
-*   [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 
 ## [Feb 22, 2016](/content/2016/02/22/README.md)
 

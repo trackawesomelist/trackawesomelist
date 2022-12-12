@@ -36,7 +36,7 @@
 
 *   [Bootstrappers (⭐312)](https://github.com/xdite/bootstrappers) - Bootstrappers generates a base Rails app using Bootstrap template and other goodies.
 *   [Hobo (⭐102)](https://github.com/Hobo/hobo) - The web app builder for Rails.
-*   [orats (⭐674)](https://github.com/nickjj/orats) - Opinionated rails application templates.
+*   [orats (⭐673)](https://github.com/nickjj/orats) - Opinionated rails application templates.
 *   [Rails Composer (⭐3.4k)](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
 *   [Raygun (⭐207)](https://github.com/carbonfive/raygun) - Builds applications with the common customization stuff already done.
 *   [Suspenders (⭐3.8k)](https://github.com/thoughtbot/suspenders) - Suspenders is the base Rails application used at thoughtbot.

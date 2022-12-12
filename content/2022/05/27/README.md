@@ -10,7 +10,7 @@
 
 ### Code
 
-*   [Tod Kurt's CircuitPython Tips and Tricks (⭐294)](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
+*   [Tod Kurt's CircuitPython Tips and Tricks (⭐324)](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
 
 ## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -28,13 +28,13 @@
 
 ### Search Engines
 
-*   [librengine (⭐32)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [librengine (⭐35)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 
 ## [5. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### VPN / Metric & Metric Collection
 
-*   [Headscale (⭐8.5k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+*   [Headscale (⭐9k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Patterns
 
-*   [SwiftUI Atom Properties (⭐190)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
+*   [SwiftUI Atom Properties (⭐199)](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Libraries/Frameworks / Tools
 
-*   [saveourtool/diktat (⭐403)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
+*   [saveourtool/diktat (⭐410)](https://github.com/saveourtool/diktat) - Strict coding standard for Kotlin and a custom set of rules for detecting and autofixing code smells.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Packages / Driver layer
 
-*   [odrive\_ros2\_control (⭐121)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
+*   [odrive\_ros2\_control (⭐130)](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2\_control.
 
 ## [11. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-easy-data-table (⭐172)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
+*   [vue3-easy-data-table (⭐214)](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 
 ## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Libraries / Community
 
-*   [vavite (⭐191)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
+*   [vavite (⭐204)](https://github.com/cyco130/vavite) - A tool for developing and building server-side applications with live reloading capabilities.
 
 ## [15. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

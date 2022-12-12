@@ -16,7 +16,7 @@
 
 ### Carousel
 
-*   [react-image-magnify (⭐529)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
+*   [react-image-magnify (⭐541)](https://github.com/ethanselzer/react-image-magnify) - [demo](https://ethanselzer.github.io/react-image-magnify/#/external) - Responsive React image carousel zoom component for touch and mouse. Designed for shopping site product detail
 
 ## [3. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -64,7 +64,7 @@
 ### Components & Libraries / Utilities
 
 *   [vue-datatable-url-sync (⭐24)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
-*   [vue-sse (⭐100)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
+*   [vue-sse (⭐102)](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
 
 ## [10. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Projects
 
-*   [Flow.er (⭐42)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
+*   [Flow.er (⭐44)](https://github.com/LighghtEeloo/flow.er) - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
 
 ## [12. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

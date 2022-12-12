@@ -94,12 +94,12 @@
 
 ### Containers
 
-*   [robin-hood-hashing (⭐1.2k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
-*   [robin-map (⭐830)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
+*   [robin-hood-hashing (⭐1.3k)](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++14. \[MIT]
+*   [robin-map (⭐858)](https://github.com/Tessil/robin-map) - Fast hash map and hash set using robin hood hashing. \[MIT]
 
 ### Math
 
-*   [GLM (⭐6.9k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
+*   [GLM (⭐7k)](https://github.com/g-truc/glm) - Header-only C++ math library that matches and inter-operates with OpenGL's GLSL math. \[MIT] [website](https://glm.g-truc.net/)
 
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -127,7 +127,7 @@
 
 ### UI / Barcode
 
-*   [BadgeHub (⭐739)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
+*   [BadgeHub (⭐747)](https://github.com/jogendra/BadgeHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification badge icon to a UIView.
 *   [LoadingShimmer (⭐1.4k)](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 
 ## [16. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
@@ -135,14 +135,14 @@
 ### Basic linear algebra
 
 *   [OpenBLAS](https://www.openblas.net) - Optimized BLAS library based on GotoBLAS2.
-    (C and Assembly, BSD, [GitHub (⭐4.8k)](https://github.com/xianyi/OpenBLAS))
+    (C and Assembly, BSD, [GitHub (⭐4.9k)](https://github.com/xianyi/OpenBLAS))
 *   [BLIS (⭐1.4k)](https://github.com/flame/blis) - High-performance BLAS-like dense linear algebra libraries.
     (C, BSD, GitHub)
 
 ### Finite Elements
 
 *   [MOOSE](https://mooseframework.inl.gov/) - Multiphysics Object Oriented Simulation Environment.
-    (C++, LGPL 2.1, [GitHub (⭐1k)](https://github.com/idaholab/moose))
+    (C++, LGPL 2.1, [GitHub (⭐1.1k)](https://github.com/idaholab/moose))
 
 ## [17. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -154,7 +154,7 @@
 
 ### Component Collections / Material Design
 
-*   [shards-react (⭐738)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
+*   [shards-react (⭐741)](https://github.com/DesignRevision/shards-react) - [docs/demo](https://designrevision.com/docs/shards-react/getting-started) - A beautiful and modern React design system. Freemium 💰
 
 ### Inspect / Lazy Load
 

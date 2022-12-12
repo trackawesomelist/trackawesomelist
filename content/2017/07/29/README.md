@@ -10,7 +10,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Angular (⭐84k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐85k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 
 ## [2. Awesome Theravada](/content/johnjago/awesome-theravada/README.md)
 
@@ -32,12 +32,12 @@
 *   [BackstopJS (⭐6.2k)](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 *   [Galen (⭐1.4k)](https://github.com/galenframework/galen) - Java framework based on [Selenium (⭐25k)](https://github.com/SeleniumHQ/selenium).
 *   [CSSCritic (⭐476)](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
-*   [Spectre (⭐453)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
-*   [Shoov (⭐31)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
-*   [Hardy (⭐320)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
-*   [TestCafe (⭐9.4k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-*   [Needle (⭐580)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
-*   [grunt-photobox (⭐269)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
+*   [Spectre (⭐455)](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
+*   [Shoov (⭐33)](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
+*   [Hardy (⭐321)](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
+*   [TestCafe (⭐9.5k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+*   [Needle (⭐583)](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
+*   [grunt-photobox (⭐271)](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
 
 ### Blog posts
 
@@ -48,9 +48,9 @@
 
 ### Deprecated
 
-*   [trifleJS (⭐820)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
+*   [trifleJS (⭐821)](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer. (last update 2016)
 *   [CasperJS (⭐7.3k)](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS. (archived 2018)
-*   [Navalia (⭐952)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
+*   [Navalia (⭐956)](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 
 ## [5. Awesome Hbase](/content/rayokota/awesome-hbase/README.md)
 

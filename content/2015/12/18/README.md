@@ -58,7 +58,7 @@
 *   [CookieAuth plugin (⭐18)](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 *   [HierAuth plugin (⭐6)](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
 *   [Muffin/OAuth2 plugin (⭐25)](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
-*   [MultiTenant plugin (⭐36)](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
+*   [MultiTenant plugin (⭐35)](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 *   [UserPermissions plugin (⭐18)](https://github.com/AlessandroMinoccheri/UserPermissions) -  Allow groups of users or single users to view a specific page.
 
 ### Dependency Injection
@@ -85,7 +85,7 @@
 *   [Chronos (⭐1.3k)](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A multi framework Composer library installer.
 *   [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
-*   [Graphviz (⭐64)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
+*   [Graphviz (⭐69)](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 *   [Rocketeer (⭐2.7k)](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 
 ### Miscellaneous
@@ -133,7 +133,7 @@
 
 ### Development Environment
 
-*   [CakePHP.gitignore (⭐140k)](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
+*   [CakePHP.gitignore (⭐141k)](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) - The .gitignore file proposals.
 
 ### Help
 

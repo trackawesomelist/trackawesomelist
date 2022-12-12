@@ -43,15 +43,15 @@
 ### Text and Numbers
 
 *   [numero (⭐5)](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
-*   [veritaserum (⭐80)](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
+*   [veritaserum (⭐83)](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
 
 ### Third Party APIs
 
-*   [ethereumex (⭐336)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+*   [ethereumex (⭐344)](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 
 ### XML
 
-*   [meeseeks (⭐281)](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+*   [meeseeks (⭐284)](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 
 ### Books
 

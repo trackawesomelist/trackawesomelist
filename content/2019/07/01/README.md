@@ -16,7 +16,7 @@
 
 ### React Tools / React Libraries
 
-*   [react-extras (⭐690)](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
+*   [react-extras (⭐692)](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React
 
 ## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -41,7 +41,7 @@
 
 ### PDF
 
-*   [Open HTML to PDF (⭐1.5k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+*   [Open HTML to PDF (⭐1.6k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

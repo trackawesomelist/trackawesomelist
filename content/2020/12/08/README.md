@@ -17,7 +17,7 @@
 ### Computer Vision
 
 *   [ImageJ](https://imagej.net/ImageJ) - Medical image processing application with an API.
-*   [JavaCV (⭐6.2k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
+*   [JavaCV (⭐6.3k)](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and much more.
 
 ## [3. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/README.md)
 
@@ -54,13 +54,13 @@
 ### Other non-visual
 
 *   [Keras4Delphi (⭐37)](https://github.com/Pigrecos/Keras4Delphi). `[Delphi]` High-level neural networks API, written in Pascal with Python Binding
-*   [TZDB (⭐70)](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
+*   [TZDB (⭐71)](https://github.com/pavkam/tzdb). `[Delphi]` `[FPC]` IANA Time Zone Database for Delphi/FreePascal
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [qr-code (⭐14)](https://github.com/spider-gazelle/qr-code) - QR Code generator
+*   [qr-code (⭐16)](https://github.com/spider-gazelle/qr-code) - QR Code generator
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Open Source / Other
 
-*   [Hawkpass (⭐57)](https://github.com/kalpetros/hawkpass) - Password generator.
+*   [Hawkpass (⭐58)](https://github.com/kalpetros/hawkpass) - Password generator.
 
 ## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

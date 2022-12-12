@@ -34,13 +34,13 @@
 
 ### CLI Utils
 
-*   [climate (⭐12)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
+*   [climate (⭐13)](https://github.com/Sija/climate.cr) - Tiny tool to make your CLI output 🌈  coloured
 
 ## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
-*   [dmux (⭐227)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐232)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

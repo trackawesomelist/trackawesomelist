@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14 - Oct 20, 2019
 
-82 awesome lists updated this week.
+81 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -24,26 +24,37 @@
 
 *   [litePDF](https://litepdf.sourceforge.io) - Library to create and edit PDF documents that uses GDI functions through a device context to draw the page content. \[LGPL v3 and zlib]
 
-## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
+## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+
+### Emulator Development / Misc
+
+*   [0dmg](https://jeremybanks.github.io/0dmg/2018/05/23/getting-started.html) - Learning Rust by building a partial Game Boy emulator.
+
+### Related projects / Syntax highlighting packages
+
+*   [Work Master OS](https://translate.google.com/translate?hl=\&sl=ru\&tl=en\&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8\&sandbox=1) - Russian multi tasking operating system.
+*   [GBCamcorder (⭐81)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
+
+## [5. Awesome Maintainers](/content/nayafia/awesome-maintainers/week/README.md)
 
 *   [@brianc](https://github.com/brianc), [node-postgres (⭐11k)](https://github.com/brianc/node-postgres)
     *   "Creating and maintaining node-postgres solo" ([interview](https://sourcesort.com/interview/brian-carlson-on-creating-and-maintaing-node-pg-solo))
 *   [@mpdehaan](https://github.com/mpdehaan), [Ansible (⭐55k)](https://github.com/ansible/ansible), [SourceOptics](https://bitbucket.org/laserllama/sourceoptics/src/master/)
     *   "Michael DeHaan on creating Ansible and SourceOptics" ([interview](https://www.sourcesort.com/interview/michael-dehaan-on-creating-ansible-and-sourceoptics))
 
-## [5. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [6. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Hash Cracking Tools / Zealandia
 
 *   [hate\_crack (⭐1.4k)](https://github.com/trustedsec/hate_crack) - Tool for automating cracking methodologies through Hashcat.
 
-## [6. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [7. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Images
 
 *   [Public Icons](https://publicicons.lllllllllllllllll.com/) - Collection of free icons.
 
-## [7. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [8. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Converters
 
@@ -70,7 +81,7 @@
 
 *   [mdp (⭐4.5k)](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: *Like PowerPoint and Vim but with Markdown!* ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux")
 
-## [8. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [9. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Games / Others
 
@@ -86,13 +97,13 @@
 
 *   [Dataflow kit](https://dataflowkit.com/dfk) - Extract structured data from Web pages.
 
-## [9. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
+## [10. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
 
 ### Calculator apps: / Android
 
 *   [Scalar](https://scalarmath.org/) - Powerful math engine and math scripting language, that combines the simplicity of standard calculators with the flexibility of scripting.
 
-## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 
@@ -104,7 +115,7 @@
 *   [URLhaus](https://urlhaus.abuse.ch/) - A project from abuse.ch with the goal
     of sharing malicious URLs that are being used for malware distribution.
 
-## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### System and Customization
 
@@ -115,7 +126,7 @@
 *   [Icon Preview](https://gitlab.gnome.org/World/design/icon-preview) - Simple utility to preview icons.
 *   [Palette](https://gitlab.gnome.org/World/design/palette) - Tool for viewing the GNOME colour palette.
 
-## [12. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [13. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Code
 
@@ -125,38 +136,23 @@
 
 *   [Alcali](https://alcali.dev/) - A web based tool for monitoring and administrating Saltstack Salt.
 
-## [13. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [14. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Devops
 
 *   [isitfit](http://github.com/autofitcloud/isitfit) - Manage AWS EC2 rightsizing.
 
-## [14. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
+## [15. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
 ### Projects Using Seed
 
 *   [benxu.dev/blog (⭐0)](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
-## [15. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
-
-### Hardware / Opcodes
-
-*   [DMG-CPU-Inside (⭐277)](https://github.com/furrtek/DMG-CPU-Inside) - Schematics and annotated overlay for the DMG-CPU-B chip, extracted from die photos.
-
-### Emulator Development / Misc
-
-*   [0dmg](https://jeremybanks.github.io/0dmg/2018/05/23/getting-started.html) - Learning Rust by building a partial Game Boy emulator.
-
-### Related projects / Syntax highlighting packages
-
-*   [Work Master OS](https://translate.google.com/translate?hl=\&sl=ru\&tl=en\&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8\&sandbox=1) - Russian multi tasking operating system.
-*   [GBCamcorder (⭐81)](https://github.com/furrtek/GBCamcorder) - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
-
 ## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐5.9k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
+*   [Homer (⭐6.2k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
 
 ## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -266,16 +262,16 @@
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐618)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐322)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐30k)](https://github.com/psf/black).
+*   [code\_formatter (⭐633)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐327)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐30k)](https://github.com/psf/black).
 *   [python-bytecode (⭐59)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
 *   [quickopen (⭐75)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐203)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐383)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐257)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
-*   [theme-darcula (⭐158)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
-*   [topbar (⭐3)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐926)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [sidecar (⭐208)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐385)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐267)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [theme-darcula (⭐164)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+*   [topbar (⭐4)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
+*   [vim (⭐930)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
 ## [27. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -306,7 +302,7 @@
 
 ### Resources / Learning
 
-*   [Nix Shorts (⭐332)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
+*   [Nix Shorts (⭐333)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 
 ## [30. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -364,19 +360,19 @@
 
 ### Form Components / Date / Time picker
 
-*   [react-timezone-select (⭐80)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
+*   [react-timezone-select (⭐83)](https://github.com/ndom91/react-timezone-select) - [demo](https://ndom91.github.io/react-timezone-select/) - Dynamic, succinct timezone select. Based on `react-select`.
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐293)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐294)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Device Input / Mouse Events
 
-*   [react-hook-mighty-mouse (⭐106)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
+*   [react-hook-mighty-mouse (⭐105)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐31k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐32k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ## [37. Magictools](/content/ellisonleao/magictools/week/README.md)
 
@@ -400,7 +396,7 @@
 
 ### Math
 
-*   [CAI NEURAL API (⭐257)](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
+*   [CAI NEURAL API (⭐256)](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
 
 ## [41. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -832,7 +828,7 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐268)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐272)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [54. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
@@ -858,75 +854,69 @@
 
 ### E-Books / Others
 
-*   [Archives (⭐7.1k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.1k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐7.3k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.3k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ### Courses / Others
 
 *   [Blazor and Razor Components in a nutshell](https://www.udemy.com/course/blazor-and-razor-components-in-a-nutshell/) - October 2019 - Learn how to use a framework that allows you to run your compiled code directly in the browser on top of WebAssembly, a course on Udemy.
 *   [Blazor on ASP.NET Core 3.0](https://www.skillshare.com/site/join?teacherRef=102575464\&t=Blazor-on-ASP.NET-Core-3.0\&sku=1662883580) - October 2019 - Blazor on ASP.NET Core 3.0, a course on SkillShare.
 
-## [57. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
-
-### Self-Hosted Services
-
-*   [mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
-
-## [58. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [57. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Multi-purpose toolkits
 
 *   [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs.
     (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 
-## [59. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [58. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Games
 
-*   [Binbo (⭐93)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐96)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐271)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐272)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
-## [60. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [59. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐11k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐12k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.1k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
-## [61. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [60. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
-### CLI
+### Packages / Command-line apps
 
-*   [npkill (⭐6.3k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐6.6k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
-## [62. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [61. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
 *   [KarelDB (⭐382)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 
-## [63. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [62. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Tech / Aggregator
 
 *   [Free & Open Source Jobs](https://www.fossjobs.net/)
 *   [Relocate.me](https://relocate.me/) - Verified relocation packages
 
-## [64. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [63. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Email
 
 *   [Sender](https://www.sender.net) Up to 15 000 emails/month - Up to 2 500 subscribers
 
-## [65. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [64. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
 
-## [66. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [65. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -955,7 +945,7 @@
 
 *   [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
 
-## [67. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [66. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 
@@ -970,7 +960,7 @@
 
 *   [Laravel Template with Vue (⭐880)](https://github.com/wmhello/laravel_template_with_vue)
 
-## [68. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [67. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Museums & Collections
 
@@ -984,31 +974,31 @@
 
 *   [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html) - Open-access scientific journal of the Polish Parasitological Society, formerly *Wiadomości Parazytologiczne*, that publishes issues quarterly. Open archives start from 2002.
 
-## [69. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [68. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### GUI
 
 *   [trikl (⭐137)](https://github.com/lambdaisland/trikl)
 
-## [70. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [69. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Talks
 
 *   [Burnout And Your Meat Computer - Electromagnetic Field 2018](https://www.youtube.com/watch?v=gcYRhATiyO4) - By Jessica Rose.
 
-## [71. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [70. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [Cortex (⭐7.8k)](https://github.com/cortexlabs/cortex) - Open source platform for deploying machine learning models in production.
 
-## [72. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [71. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Agency Tools
 
 *   [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
 
-## [73. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [72. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -1022,13 +1012,13 @@
 
 *   [StreamPi](https://stream-pi.com/) - A robust alternative to the Elgato Stream Deck, that can launch apps, scripts, websites and control applications like OBS.
 
-## [74. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
+## [73. Awesome Gideros](/content/stetso/awesome-gideros/week/README.md)
 
 ### Useful Lua-Libraries / Plugins
 
 *   [bump (⭐769)](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes (from version 2017.8 onwards Gideros contains a C-port of the library with the same API that should be used instead [cbump](https://wiki.giderosmobile.com/index.php/Bump).
 
-## [75. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [74. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Dictionaries
 
@@ -1114,7 +1104,7 @@
 
 
 
-## [76. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [75. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Markdown Tools
 
@@ -1130,13 +1120,13 @@
 
 ### Utilities / Window Management
 
-*   [yabai (⭐13k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
+*   [yabai (⭐14k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/koekeishiya/yabai/wiki)
 
 ### Utilities / System Related Tools
 
-*   [Background Music (⭐12k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
+*   [Background Music (⭐13k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
 
-## [77. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [76. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -1162,7 +1152,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       12 | 60-90m |
 
-## [78. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
+## [77. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
 
 ### Companies / Materials
 
@@ -1215,7 +1205,7 @@
 
 *   [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
 
-## [79. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [78. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Top / Game Engine resources
 
@@ -1225,7 +1215,7 @@
 
 *   Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
-## [80. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [79. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
@@ -1235,7 +1225,7 @@
 
 *   [HackingLab](https://www.hacking-lab.com/)
 
-## [81. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
+## [80. Terminals Are Sexy](/content/k4m4/terminals-are-sexy/week/README.md)
 
 ### Terminal Emulation Applications
 
@@ -1245,7 +1235,7 @@
 
 *   [kubebox (⭐2k)](https://github.com/astefanutti/kubebox) - Terminal console for Kubernetes.
 
-## [82. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [81. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### How to Use
 

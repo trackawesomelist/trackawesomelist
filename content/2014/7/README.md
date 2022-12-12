@@ -6,11 +6,11 @@
 
 
 
-## [1. Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
-### 1 - Agnósticos / Metodologías de desarrollo de software
+### COBOL / Non-X86
 
-*   [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
+*   [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
 
 ---
 

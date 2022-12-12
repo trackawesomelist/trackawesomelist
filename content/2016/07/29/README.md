@@ -44,7 +44,7 @@
 
 ### Podcasts / Other
 
-*   [How to Write an Open Source JavaScript Library (⭐172)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+*   [How to Write an Open Source JavaScript Library (⭐174)](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 
 ## [5. Citizen Science](/content/dylanrees/citizen-science/README.md)
 

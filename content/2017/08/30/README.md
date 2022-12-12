@@ -61,7 +61,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-messagebox (⭐14)](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
+*   [vue-messagebox (⭐13)](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
 
 ## [8. Awesome CoreML Models](/content/likedan/Awesome-CoreML-Models/README.md)
 

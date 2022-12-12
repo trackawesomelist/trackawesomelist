@@ -1,12 +1,18 @@
 # Awesome List Updates on Dec 03, 2022
 
-1 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [1. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+
+### Github / Other
+
+*   [ChatGPT-wrapper: Use it in python and shell (⭐357)](https://github.com/mmabrouk/chatgpt-wrapper)
+
+## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 

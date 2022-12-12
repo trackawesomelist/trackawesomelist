@@ -22,7 +22,7 @@
 
 ### HTTP Clients
 
-*   [httpx (⭐9.5k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
+*   [httpx (⭐9.8k)](https://github.com/encode/httpx) - A next generation HTTP client for Python.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

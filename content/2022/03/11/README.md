@@ -10,7 +10,7 @@
 
 ### Code Formatting
 
-*   [Standard (⭐2k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
+*   [Standard (⭐2.1k)](https://github.com/testdouble/standard) - Ruby Style Guide, with linter & automatic code fixer
 
 ## [2. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cpea2506/one\_monokai.nvim (⭐30)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme for Neovim written in Lua.
+*   [cpea2506/one\_monokai.nvim (⭐45)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
 
 ## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -86,13 +86,13 @@
 
 ### Tools / Vendor supported providers
 
-*   [atmos (⭐321)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
+*   [atmos (⭐332)](https://github.com/cloudposse/atmos) - A universal tool that converts deep merged YAML to module inputs. :alien:
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-simple-vconsole (⭐3)](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
+*   [vite-plugin-simple-vconsole (⭐4)](https://github.com/venojs/vite-plugin-simple-vconsole) - A debug console view inside your app to make mobile debugging easier, for both SPA and MPA.
 
 ---
 

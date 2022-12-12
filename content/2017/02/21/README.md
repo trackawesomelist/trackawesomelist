@@ -67,10 +67,6 @@
 
 ## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
-### Tools
-
-*   [mailspice analytics](https://mailspice.com) - Email analytics add-on for all email services that provides deep insights into all of your email campaigns (works with all ESPs).
-
 ### Blogs
 
 *   [Spently Blog](https://blog.spently.com/)

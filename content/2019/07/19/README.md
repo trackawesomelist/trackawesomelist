@@ -120,7 +120,7 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐1.7k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐1.8k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 

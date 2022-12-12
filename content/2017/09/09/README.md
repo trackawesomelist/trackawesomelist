@@ -10,7 +10,7 @@
 
 ### Implementations
 
-*   [CPython (⭐48k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
+*   [CPython (⭐49k)](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

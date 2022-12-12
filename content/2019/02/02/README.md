@@ -23,14 +23,14 @@
 *   [**Responsive Boilerplate**](https://responsivebp.com) - Powerful, accessible, developer friendly framework for building responsive websites.\
     ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social\&label=Star)
     [Docs](https://responsivebp.com/getting-started/),
-    [Repo (⭐842)](https://github.com/responsivebp/responsive)
+    [Repo (⭐841)](https://github.com/responsivebp/responsive)
     \| #SCSS
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Examples and funny stuff
 
-*   [blackjack-cr (⭐6)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
+*   [blackjack-cr (⭐7)](https://github.com/gdonald/blackjack-cr) - Console Blackjack
 
 ## [3. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

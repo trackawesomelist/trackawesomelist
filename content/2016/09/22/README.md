@@ -57,7 +57,7 @@
 ### Articles
 
 *   [CppCon 2016 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
-*   [CppCon 2015 Presentation Materials (⭐1.7k)](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
+*   [CppCon 2015 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 *   [CppCon 2014 Presentation Materials (⭐2.2k)](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
 
 ## [5. Awesome Erlang](/content/drobakowski/awesome-erlang/README.md)

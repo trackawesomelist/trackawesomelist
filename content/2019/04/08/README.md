@@ -16,7 +16,7 @@
 
 ### Contents / Frameworks
 
-*   [FHIR Server for Azure (⭐915)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+*   [FHIR Server for Azure (⭐933)](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
 
 ## [3. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/README.md)
 
@@ -25,14 +25,14 @@
 *   AngularJS
     *   [design patterns (⭐1.9k)](https://github.com/mgechev/angularjs-in-patterns)
 *   JavaScript
-    *   [es6 design patterns (⭐237)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
-    *   [humans (⭐3.1k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [es6 design patterns (⭐254)](https://github.com/ziyasal/design-patterns-and-idioms-in-es6)
+    *   [humans (⭐3.2k)](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐1.7k)](https://github.com/nnupoor/js_designpatterns)
     *   [design patterns by addy osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 *   Scala
-    *   [design-patterns (⭐121)](https://github.com/josephguan/scala-design-patterns)
+    *   [design-patterns (⭐131)](https://github.com/josephguan/scala-design-patterns)
 *   TypeScript
-    *   [design-patterns (⭐4.5k)](https://github.com/torokmark/design_patterns_in_typescript)
+    *   [design-patterns (⭐4.6k)](https://github.com/torokmark/design_patterns_in_typescript)
 *   UML
     *   [design-patterns quick reference](http://www.mcdonaldland.info/2007/11/28/40)
     *   [design-patterns cheat-sheet](https://www.slideshare.net/hustwj/design-patterns-cheat-sheet)
@@ -43,7 +43,7 @@
 
 ### DevOps & containers
 
-*   [kubernetes patterns (⭐26)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
+*   [kubernetes patterns (⭐27)](https://github.com/ro14nd-talks/kubernetes-patterns) - Presentation around the book kubernetes paterns.
 
 ## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Platforms
 
-*   [Node.js (⭐47k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐48k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
@@ -89,11 +89,11 @@
 
 ### Boilerplates
 
-*   [Swift Module Template (⭐417)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
+*   [Swift Module Template (⭐419)](https://github.com/fulldecent/swift5-module-template) - An opinionated starting point for awesome, reusable modules.
 
 ### Key Value Store
 
-*   [SecureDefaults (⭐211)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
+*   [SecureDefaults (⭐215)](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults & NSUserDefaults with an extra AES-256 encryption layer.
 
 ---
 

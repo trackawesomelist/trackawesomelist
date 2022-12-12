@@ -16,7 +16,7 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐11)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐26)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ### I18n And L10n / Runner
 
@@ -31,12 +31,12 @@
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐383)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-*   [bcat (⭐325)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+*   [is-up (⭐384)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [bcat (⭐326)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Debugging / Profiling
 
-*   [stackman (⭐239)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
+*   [stackman (⭐241)](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 ### Packages / Build tools
 

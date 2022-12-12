@@ -34,7 +34,7 @@
 
 ### Video/Audio / Other
 
-*   [exifr (⭐731)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
+*   [exifr (⭐762)](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. <https://mutiny.cz/exifr/>
 
 ## [5. Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Pricing
 
-*   [Don't just roll the dice – Software pricing guide](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) - Not only huge and complete collection of pricing scheme, but also the psychological effect and impact on revenue model.
+*   [Don't just roll the dice – Software pricing guide](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) - Huge and complete collection of pricing scheme, with their psychological effect and impact on revenue model.
 
 ### Pricing / Usage-based Pricing
 
@@ -87,7 +87,7 @@
 
 ### Pricing / Hybrid
 
-*   [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - Beyond linear pricing, there is a place for an additional platform fee and free-tier component in the pricing structure.
+*   [The Three Part Tariff](https://tomtunguz.com/three-part-tariffs/) - Beyond linear pricing, there is a place for additional platform fees and free-tiers in the pricing structure.
 *   [Google Ads API: `BillingCap` enum](https://developers.google.com/ad-manager/api/reference/v201911/CompanyService.BillingCap) - Capped actuals: monthly with rollover, an optimized pricing scheme to limit surprises from customers, in which we more or less sell quotas.
 
 ### Pricing / Strategy
@@ -124,7 +124,7 @@
 
 ### Monitoring / Isomorphic web frameworks
 
-*   [cl-sentry-client (⭐18)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-sentry-client (⭐19)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
 
 ## [12. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

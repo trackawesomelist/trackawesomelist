@@ -33,6 +33,8 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 
 *   [Official plugins](#official-plugins)
 *   [Community plugins](#community-plugins)
+*   [Capgo plugins](#capgo-plugins)
+*   [Capawesome plugins](#capawesome-plugins)
 *   [Other plugins](#other-plugins)
 *   [Tools](#tools)
 *   [Learning](#learning)
@@ -152,7 +154,7 @@ Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) a
 
 Independents plugins are listed here.
 
-*   [Apple Pay (⭐14)](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app
+*   [Apple Pay (⭐14)](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app.
 
 *   [App Tracking Transparency (⭐17)](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 
@@ -185,6 +187,7 @@ Independents plugins are listed here.
 
 *   Google
     *   [Auth (⭐167)](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
+    *   [Availability (⭐2)](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
     *   [Fit (⭐17)](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     *   [MlKit Language (⭐2)](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     *   [MlKit Vision (⭐11)](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.

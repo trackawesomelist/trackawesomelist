@@ -29,7 +29,7 @@
 
 ### Packages / Filesystem
 
-*   [move-file (⭐183)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+*   [move-file (⭐185)](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 

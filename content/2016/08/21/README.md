@@ -82,7 +82,7 @@
 
 ### Serialization
 
-*   [FsPickler (⭐320)](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
+*   [FsPickler (⭐321)](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 
 ---
 

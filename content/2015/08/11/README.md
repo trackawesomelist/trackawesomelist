@@ -16,7 +16,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [react-native (⭐105k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
+*   [react-native (⭐106k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
 ## [3. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

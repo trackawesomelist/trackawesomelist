@@ -209,9 +209,9 @@
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Javascript / General-Purpose Machine Learning
+### JavaScript / General-Purpose Machine Learning
 
-*   [Netron (⭐20k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
+*   [Netron (⭐21k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 
 ## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -262,7 +262,7 @@
 
 ### Static Code Analysis
 
-*   [cpplint (⭐1.1k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
+*   [cpplint (⭐1.2k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 
 ## [19. Public Apis](/content/public-apis/public-apis/README.md)
 

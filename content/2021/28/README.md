@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 12 - Jul 18, 2021
 
-52 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -5845,70 +5845,55 @@
 
 
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### Videos / Others
-
-*   [What's new in Blazor in .NET 6 with Daniel Roth](https://www.youtube.com/watch?v=_7pw_63BrLo) - ![duration](https://img.shields.io/badge/Duration:%20-125%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 16, 2021 - Blazor in .NET 6 makes client-side web development faster and more productive than ever before. Let's chat about all the new Blazor features in .NET 6: .NET Hot Reload, WebAssembly ahead-of-time (AOT) compilation, error boundaries, integration with .NET MAUI, and much more.
-*   [Building dynamic applications with blazor](https://www.youtube.com/watch?v=Yc84OHgPwLI) - ![duration](https://img.shields.io/badge/Duration:%20-134%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 10, 2021 - Blazor is a revolutionary single-page app framework for building interactive web apps with .NET Core. Underpinning Blazor's ability to create interactive web UIs using C# instead of JavaScript is a robust component model which offers exciting new opportunities for developers to create dynamic web applications. In this session we will demonstrate dynamic application development using an open source modular application framework for Blazor named Oqtane.
-*   [Intro to Blazing Web Accessibility - Empowered with AI](https://www.youtube.com/watch?v=VDGk0fweHcg) - ![duration](https://img.shields.io/badge/Duration:%20-57%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 5, 2021 - This video shows how you make an accessible website in Blazor, Microsoft’s brand new front-end technology.
-*   [BlazorDay 2021, full video](https://www.youtube.com/watch?v=t_UyOXydnsQ) - ![duration](https://img.shields.io/badge/Duration:%20-372%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 17, 2021 - Blazor Day is the online event around Blazor technologies. #BlazorDay is organized by 3 MVP friends. Their objective is to share their passion for .NET and more particularly Blazor. Joined by the famous Charline to upgrade the event to the next level.
-*   [Next Generation UI with .NET 6](https://www.youtube.com/watch?v=1qOXCpCwmJ4) - ![duration](https://img.shields.io/badge/Duration:%20-47%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 9, 2021 - Tired of Angular, Vue, and React? Ready for the next generation of web user interface that runs everywhere and you can build with your favorite programming language? In this session, Jeff Fritz is going to introduce you to Blazor - the next generation UI framework from the .NET team. We'll see how Blazor works with Web Assembly, webservers, and hybrid applications to deliver a great experience for your users. Blazor is the framework that allows you to build once and run it everywhere.
-
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Preview 6](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-6/) - July 14, 2021 - .NET 6 Preview 6 is now available and includes many great new improvements to ASP.NET Core.
-*   [ML.NET Now Works on ARM Devices and Blazor WebAssembly](https://visualstudiomagazine.com/articles/2021/06/29/mlnet-jun21.aspx) - June 29, 2021 - ML.NET now works on ARM64 and Apple M1 devices, and on Blazor WebAssembly, with some limitations for each.
-
-## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [8. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### WSL Tools / WSL Utilities
 
-*   [OpenInWSL (⭐61)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [OpenInWSL (⭐66)](https://github.com/Opticos/OpenInWSL-Source) - Easily Make WSL Linux Apps Windows File Handlers. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [10. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [9. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [Hexcolorpedia](https://hexcolorpedia.com/) - Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
 
-## [11. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [10. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Libraries
 
 *   [jshn](https://openwrt.org/docs/guide-developer/jshn) - JSON parsing and generation library in for shell scripts (Ash/Bash)
 
-## [12. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
+## [11. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
 ### Clients
 
 *   [gamja](https://sr.ht/\~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/\~emersion/gamja)) `Web`
 
-## [13. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+## [12. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
 ### Office
 
 *   [Apostrophe](https://gitlab.gnome.org/World/apostrophe) - Distraction-free Markdown editor. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-## [14. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Frameworks
 
-*   [Custom Elements (⭐45)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
+*   [Custom Elements (⭐49)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
 
-## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
-*   [Jailer (⭐1.4k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
+*   [Jailer (⭐1.5k)](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 
-## [16. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Networking
 
 *   [SharpPcap (⭐970)](https://github.com/chmorgan/sharppcap) - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices.
 
-## [17. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [16. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Finance
 
@@ -5980,7 +5965,7 @@
 
 
 
-## [18. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [17. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### a WEBPAGE (in English) to explain what RSS is
 
@@ -6119,43 +6104,43 @@
 
 *   [Chris Abraham's Podcast Collection](https://chrisabraham.com/opml/view) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 
-## [19. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [18. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Tree
 
-*   [react-complex-tree (⭐259)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
+*   [react-complex-tree (⭐269)](https://github.com/lukasbach/react-complex-tree) - [demo](https://rct.lukasbach.com/) - [docs](https://rct.lukasbach.com/docs/getstarted) - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search
 
-## [20. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [19. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
 *   [mypy (⭐14k)](https://github.com/python/mypy) - Optional static typing (PEP 484).
-*   [pyanalyze (⭐193)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
+*   [pyanalyze (⭐207)](https://github.com/quora/pyanalyze) - Extensible static analyzer and type checker.
 *   [pycharm](https://www.jetbrains.com/pycharm/) - IDE for Professional Developers.
 *   [pyre](https://pyre-check.org/) - Performant type-checker.
-*   [pytype (⭐3.9k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
+*   [pytype (⭐4k)](https://github.com/google/pytype) - Tool to check and infer types - without requiring type annotations.
 
 ### Dynamic type checkers
 
-*   [pytypes (⭐185)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
-*   [strongtyping (⭐86)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
+*   [pytypes (⭐188)](https://github.com/Stewori/pytypes) - Provides a rich set of utilities for runtime typechecking.
+*   [strongtyping (⭐88)](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 
 ### Stub packages
 
 *   [asgiref (⭐1.1k)](https://github.com/django/asgiref) - ASGI specification, provides [asgiref.typing (⭐1.1k)](https://github.com/django/asgiref/blob/main/asgiref/typing.py) module with type annotations for ASGI servers.
-*   [botostubs (⭐93)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [data-science-types (⭐193)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐22k)](http://github.com/numpy/numpy), [pandas (⭐36k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐16k)](https://github.com/matplotlib/matplotlib).
-*   [PyQt5-stubs (⭐61)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐507)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐6.1k)](https://github.com/sqlalchemy/sqlalchemy).
-*   [typeshed (⭐3.2k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
+*   [botostubs (⭐94)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
+*   [data-science-types (⭐193)](https://github.com/predictive-analytics-lab/data-science-types) - Stubs for [numpy (⭐22k)](http://github.com/numpy/numpy), [pandas (⭐36k)](https://github.com/pandas-dev/pandas), and [matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib).
+*   [PyQt5-stubs (⭐62)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
+*   [sqlalchemy-stubs (⭐516)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐6.4k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [typeshed (⭐3.3k)](https://github.com/python/typeshed) - Collection of library stubs, with static types.
 
 ### Additional types
 
-*   [meiga (⭐28)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
-*   [option (⭐39)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
-*   [phantom-types (⭐102)](https://github.com/antonagestam/phantom-types) - Phantom types.
+*   [meiga (⭐29)](https://github.com/alice-biometrics/meiga) - Simple, typed and monad-based Result type.
+*   [option (⭐44)](https://github.com/MaT1g3R/option) - Rust like Option and Result types.
+*   [phantom-types (⭐114)](https://github.com/antonagestam/phantom-types) - Phantom types.
 *   [returns (⭐2.5k)](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-*   [safetywrap (⭐27)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
+*   [safetywrap (⭐30)](https://github.com/mplanchard/safetywrap) - Fully typesafe, Rust-like Result and Option types.
 *   [typet (⭐17)](https://github.com/contains-io/typet) - Length-bounded types, dynamic object validation.
 
 ### Backports and improvements
@@ -6164,39 +6149,39 @@
 
 ### Tools / Linters
 
-*   [flake8-pyi (⭐51)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
-*   [wemake-python-styleguide (⭐2k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
+*   [flake8-pyi (⭐55)](https://github.com/ambv/flake8-pyi) - Plugin for Flake8 that provides specializations for type hinting stub files.
+*   [wemake-python-styleguide (⭐2.1k)](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated Python linter ever.
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐215)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐217)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
-*   [com2ann (⭐121)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
-*   [merge-pyi (⭐3.9k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
-*   [mypy-silent (⭐7)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
-*   [typing-inspect (⭐274)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
+*   [com2ann (⭐123)](https://github.com/ilevkivskyi/com2ann) - Tool for translation of type comments to type annotations.
+*   [merge-pyi (⭐4k)](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) - Part of pytype toolchain, applies stub files onto source code.
+*   [mypy-silent (⭐8)](https://github.com/whtsky/mypy-silent/) - Silence mypy by adding or removing code comments.
+*   [typing-inspect (⭐282)](https://github.com/ilevkivskyi/typing_inspect) - The typing\_inspect module defines experimental API for runtime inspection of types defined in the `typing` module.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [monkeytype (⭐4k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
+*   [monkeytype (⭐4.1k)](https://github.com/instagram/MonkeyType) - Collects runtime types of function arguments and return values, and can automatically generate stub files or even add draft type annotations directly to your code based on the types collected at runtime.
 *   [pytest-annotate (⭐100)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
-*   [pytest-monkeytype (⭐35)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [type4py (⭐42)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
-*   [typilus (⭐46)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
+*   [pytest-monkeytype (⭐36)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
+*   [type4py (⭐44)](https://github.com/saltudelft/type4py) - Deep Similarity Learning-Based Type Inference.
+*   [typilus (⭐47)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐40)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
-*   [loguru-mypy (⭐12)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐13k)](https://github.com/Delgan/loguru) support.
-*   [pynamodb-mypy (⭐1)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2k)](https://github.com/pynamodb/PynamoDB) support.
+*   [loguru-mypy (⭐13)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐14k)](https://github.com/Delgan/loguru) support.
+*   [pynamodb-mypy (⭐1)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.1k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins
 
 *   [emacs-flycheck-mypy (⭐37)](https://github.com/lbolla/emacs-flycheck-mypy) - Mypy integration for Emacs.
 *   [linter-mypy](https://atom.io/packages/linter-mypy) - Mypy integration for Atom.
-*   [mypy-playground (⭐51)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
-*   [mypy-pycharm-plugin (⭐300)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
+*   [mypy-playground (⭐57)](https://github.com/ymyzk/mypy-playground) - Online playground for mypy.
+*   [mypy-pycharm-plugin (⭐301)](https://github.com/dropbox/mypy-PyCharm-plugin) - Mypy integration for PyCharm.
 *   [pylance (⭐1.4k)](https://github.com/microsoft/pylance-release) - PyRight integration for VSCode.
 
 ### Articles / Third-party articles
@@ -6209,14 +6194,14 @@
 
 *   [TypedDjango](https://gitter.im/mypy-django/Lobby) - Official organisation gitter chat.
 
-## [21. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [20. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Other Lists / Help
 
 *   [Awesome Lattice FPGAs (⭐212)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
 *   [TM90/awesome-hwd-tools (⭐35)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
-## [22. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tools / Plugins
 
@@ -6226,44 +6211,44 @@
 
 *   [Awesome k6 (⭐285)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
-## [23. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [22. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Uncategorized / Twitter
 
 *   [Home Assistant Taskbar Menu (⭐266)](https://github.com/PiotrMachowski/Home-Assistant-Taskbar-Menu) - A client for Windows that can display Lovelace views, control entities and show persistent notifications.
 
-## [24. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [23. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
-*   [NetKet (⭐393)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
+*   [NetKet (⭐397)](https://github.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 
-## [25. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Various Godot versions
 
 *   [AgonesSDK (⭐27)](https://github.com/AndreMicheletti/godot-agones-sdk) - Plugin to add [Agones (⭐4.9k)](https://github.com/googleforgames/agones) SDK functionality to Godot (Godot 3.x).
 *   [StoryTeller Engine (⭐13)](https://github.com/HeavenMercy/StoryTeller-Engine) - Dialog and interactive fiction engine (Godot 3.x).
 
-## [26. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [25. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Image Generation
 
 *   [hololive-fusion-generator (⭐101)](https://github.com/vaexenc/hololive-fusion-generator) - Dynamically generates combinations of names and pictures of Hololive members on the fly. \[English]
 
-## [27. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [26. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Java Libraries
 
 *   [Bitcoin Spring Boot Starter (⭐33)](https://github.com/theborakompanioni/bitcoin-spring-boot-starter) - Bitcoin integration for Spring Boot applications.
 
-## [28. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [27. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
 *   [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.
 
-## [29. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [28. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
@@ -6273,7 +6258,7 @@
 
 *   [Toptal's 21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 
-## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Ebooks
 
@@ -6283,23 +6268,23 @@
 
 *   [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/rustdesk/rustdesk) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [31. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Game Engine
 
-*   [o3de (⭐5.5k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
+*   [o3de (⭐5.7k)](https://github.com/o3de/o3de) - An open-source, real-time, multi-platform 3D engine based on Amazon Lumberyard. \[Apache2] [website](https://o3de.org/)
 
 ### Reflection
 
-*   [config-loader (⭐112)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
+*   [config-loader (⭐119)](https://github.com/netcan/config-loader) - A C++17 static reflection framework, from parse configuration file to native data structure. \[MIT]
 
-## [32. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [31. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools / :gear: Schema Visualization Tools
 
 *   [Prisma ERD Generator (⭐339)](https://github.com/keonik/prisma-erd-generator)
 
-## [33. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [32. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -6310,13 +6295,13 @@
 *   [expect-playwright (⭐135)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
 *   [eslint-plugin-playwright (⭐88)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 
-## [34. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
+## [33. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
 ### Examples
 
-*   [Qui - Vue 2/3 Design system (⭐196)](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐199)](https://github.com/Qvant-lab/qui-max)
 
-## [35. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [34. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
@@ -6326,13 +6311,13 @@
 
 *   [Zotero Robust Links Extension](https://robustlinks.mementoweb.org/zotero/) - A [Zotero](https://www.zotero.org/) extension that submits to and reads from web archives. Source [on GitHub (⭐9)](https://github.com/lanl/Zotero-Robust-Links-Extension). Supercedes [leonkt/zotero-memento (⭐181)](https://github.com/leonkt/zotero-memento).
 
-## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐598)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐651)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
-## [37. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [36. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Miscellaneous / Editor's Draft :black_nib:
 
@@ -6342,23 +6327,39 @@
 
 *   [Zoltán Szőgyényi](https://twitter.com/zoltanszogyenyi) - Web developer, Co-founder at Themesberg. I'm building Glass UI.
 
-## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### On-Call
 
 *   [Incident writeup as sociological storytelling](https://surfingcomplexity.blog/2021/06/11/incident-writeup-as-sociological-storytelling/)
 
-## [39. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Getting Started
 
 *   [iOS Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) - Online program meticulously thought out for iOS developers who want to become world-class senior developers and be part of the highest-paid iOS devs in the world. Focuses on key concepts like Swift, TDD, BDD, DDD, Clean Architecture, Design Patterns, Git, Automation, CI/CD, and Modular Design.
 
-## [40. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [39. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### FIAT
 
-*   [Debitum (⭐55)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐57)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+
+## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Get Started
+
+*   [create-vite (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-restart (⭐85)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
+*   [vite-plugin-full-reload (⭐74)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-tips (⭐46)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
+
+### Libraries / Community
+
+*   [vite-plugin-ssr](https://vite-plugin-ssr.com) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
 
 ## [41. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
@@ -6380,11 +6381,11 @@
 
 ### Assets
 
-*   [Vite Ruby (⭐765)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
+*   [Vite Ruby (⭐800)](https://github.com/elmassimo/vite_ruby) - Use Vite.js as a modern assets pipeline in Ruby and Rails apps.
 
 ### Automation
 
-*   [Neovim (⭐270)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
+*   [Neovim (⭐275)](https://github.com/alexgenco/neovim-ruby) - Ruby bindings for Neovim to make your own neovim editor plugins in Ruby.
 
 ### Data Processing and ETL
 
@@ -6392,45 +6393,25 @@
 
 ### HTTP Clients and tools
 
-*   [Accept Language (⭐35)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
+*   [Accept Language (⭐37)](https://github.com/cyril/accept_language.rb) - A tiny library for parsing the `Accept-Language` header from browsers (as defined in [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616#section-14.4)).
 
 ## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Testing / Barcode
 
-*   [Mussel (⭐63)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
+*   [Mussel (⭐66)](https://github.com/UrbanCompass/Mussel) - A framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 
 ## [44. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Adapters / Server-side
 
 *   [CanJS (⭐14)](https://github.com/cherifGsoul/inertia-can)
-*   [Clojure (⭐81)](https://github.com/prestancedesign/inertia-clojure)
-*   [CodeIgniter (⭐16)](https://github.com/amiranagram/inertia-codeigniter-4)
-*   [Go (⭐64)](https://github.com/petaki/inertia-go)
-*   [PSR-15 (⭐27)](https://github.com/cherifGsoul/inertia-psr15)
+*   [Clojure (⭐82)](https://github.com/prestancedesign/inertia-clojure)
+*   [CodeIgniter (⭐17)](https://github.com/amiranagram/inertia-codeigniter-4)
+*   [Go (⭐69)](https://github.com/petaki/inertia-go)
+*   [PSR-15 (⭐28)](https://github.com/cherifGsoul/inertia-psr15)
 
-## [45. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Get Started
-
-*   [create-vite (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
-
-### Framework-agnostic Plugins / Helpers
-
-*   [vite-plugin-restart (⭐79)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐70)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
-*   [vite-plugin-tips (⭐45)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
-
-### Vue / Ecosystem
-
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-i18n (⭐142)](https://github.com/intlify/bundle-tools/tree/main/packages/vite-plugin-vue-i18n) - Integration for Vue I18n.
-
-### Libraries / Community
-
-*   [vite-plugin-ssr](https://vite-plugin-ssr.com) - Like Nuxt/Next.js but as a do-one-thing-do-it-well plugin. ![react](https://img.shields.io/badge/-React-4ab2cf) ![vue3](https://img.shields.io/badge/-Vue%203-42b883) ![vue2](https://img.shields.io/badge/-Vue%202-42b883) ![svelte](https://img.shields.io/badge/-Svelte-db552a)
-
-## [46. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [45. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Channel History / Newsletters
 
@@ -6438,27 +6419,27 @@
 
 ### Development / Newsletters
 
-*   [devshell (⭐625)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
-*   [flake-utils (⭐483)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+*   [devshell (⭐647)](https://github.com/numtide/devshell) - `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+*   [flake-utils (⭐507)](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
 
-## [47. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [46. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React State Management
 
-*   [react-query (⭐30k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
+*   [react-query (⭐32k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [47. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [XIV ToDo (⭐80)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
+*   [XIV ToDo (⭐86)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 *   [QuickTok (⭐24)](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-tiny-validate (⭐107)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+*   [vue-tiny-validate (⭐110)](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 
-## [49. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -6477,7 +6458,7 @@
 
 *   [Unicorn Platform](https://unicornplatform.com/) - Effortless landing page builder with hosting. 1 website for free.
 
-## [50. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [49. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
@@ -6485,7 +6466,7 @@
 
 ### Software / Search Engines
 
-*   [Whoogle (⭐6.4k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
+*   [Whoogle (⭐6.7k)](https://github.com/benbusby/whoogle-search) `⚠` - A self-hosted, ad-free, privacy-respecting metasearch engine. `MIT` `Python`
 
 ### Software / Task Management & To-do Lists
 
@@ -6495,17 +6476,17 @@
 
 *   [shorturl](https://git.mills.io/prologic/shorturl) - Simple URL shortener with very tiny URLs. ([Demo](https://url.mills.io)) `MIT` `Go`
 
-## [51. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
+## [50. Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/week/README.md)
 
 ### TensorFlow models / Other
 
 *   [Tensorflow detection model zoo (⭐75k)](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) - Pre-trained on COCO, KITTI, AVA v2.1, iNaturalist Species datasets.
 
-## [52. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [51. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
-*   [nominal (⭐42)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
+*   [nominal (⭐45)](https://github.com/Coder-Spirit/nominal) - nominal types & dependent types for Typescript.
 
 ---
 

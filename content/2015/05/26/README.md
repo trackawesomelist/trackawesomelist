@@ -76,7 +76,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 ### Configuration
 
-*   [ENVied (⭐332)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
+*   [ENVied (⭐331)](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

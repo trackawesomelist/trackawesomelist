@@ -10,7 +10,7 @@
 
 ### Miscellaneous
 
-*   [@restpace/schema-form (⭐30)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
+*   [@restpace/schema-form (⭐34)](https://github.com/restspace/schema-form) - [Demo](https://restspace.io/react/schema-form/demo) - Easily build complex forms automatically from a JSON Schema.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -20,14 +20,14 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Tabby (⭐49)](https://github.com/bertvandepoel/tabby) - A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what. `AGPL-3.0-only` `PHP`
+*   [Tabby (⭐58)](https://github.com/bertvandepoel/tabby) - A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what. `AGPL-3.0-only` `PHP`
 
 ## [3. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Awesome Components
 
-*   [react-accessible-accordion (⭐735)](https://github.com/springload/react-accessible-accordion) - React Component for creating an 'Accordion' that adheres to the WAI ARIA spec for accessibility.
-*   [react-truncate-markup (⭐138)](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
+*   [react-accessible-accordion (⭐739)](https://github.com/springload/react-accessible-accordion) - React Component for creating an 'Accordion' that adheres to the WAI ARIA spec for accessibility.
+*   [react-truncate-markup (⭐139)](https://github.com/parsable/react-truncate-markup) - React component for truncating JSX markup.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Packages / Containerization
 
-*   [ros-tooling/cross\_compile (⭐160)](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
+*   [ros-tooling/cross\_compile (⭐165)](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
 
 ## [6. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 

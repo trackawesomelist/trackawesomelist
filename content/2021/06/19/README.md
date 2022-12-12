@@ -16,7 +16,7 @@
 
 ### Libraries/Frameworks / Graphics
 
-*   [kotlin-graphics/glm (⭐106)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
+*   [kotlin-graphics/glm (⭐108)](https://github.com/kotlin-graphics/glm) - g-truck glm port, opengl mathematics library
 
 ## [3. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

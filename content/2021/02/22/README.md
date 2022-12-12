@@ -185,13 +185,13 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [adopt-a-hydrant (⭐613)](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
+*   [adopt-a-hydrant (⭐614)](https://github.com/codeforamerica/adopt-a-hydrant) - A civic infrastructure detection app (using Rails 4.2).
 *   [askaway (⭐33)](https://github.com/askaway/askaway) - Question & answer app specialized in politics (using Rails 4.1).
 *   [brimir (⭐1.4k)](https://github.com/ivaldi/brimir) - An email helpdesk app (using Rails 5.2). (archived).
 *   [canvas-lms (⭐4.6k)](https://github.com/instructure/canvas-lms) - A learning management app (using Rails 5.2).
-*   [ciao (⭐1.5k)](https://github.com/brotandgames/ciao) - A URL status checking app (using Rails 6.0).
+*   [ciao (⭐1.6k)](https://github.com/brotandgames/ciao) - A URL status checking app (using Rails 6.0).
 *   [coRM (⭐28)](https://github.com/SIGIRE/CoRM) - A customer relationship management app - using Rails 3.2 - [:earth\_africa:](http://www.corm.fr)
-*   [coderwall (legacy) (⭐863)](https://github.com/coderwall/coderwall-legacy) - A social network app for software engineers - using Rails 3.2
+*   [coderwall (legacy) (⭐864)](https://github.com/coderwall/coderwall-legacy) - A social network app for software engineers - using Rails 3.2
 *   [coderwall (next) (⭐198)](https://github.com/coderwall/coderwall-next) - A social network app for software engineers - using Rails 5.0
 *   [contribulator (⭐88)](https://github.com/24pullrequests/contribulator) - An open source project finder app - using Rails 5.1
 *   [covoiturage-libre (⭐112)](https://github.com/covoiturage-libre/covoiturage-libre) - A carpooling app - using Rails 5.0 (archived).
@@ -219,12 +219,12 @@
 *   [stackneveroverflow (⭐166)](https://github.com/liaoziyang/stackneveroverflow) - A question asking & answering platform - using Rails 5.0
 *   [teambox (⭐1.9k)](https://github.com/redbooth/teambox) - A collaboration app - using Rails 3.0 - [:earth\_africa:](https://redbooth.com) (archived).
 *   [trado (⭐153)](https://github.com/Jellyfishboy/trado) - An e-commerce platform (using Rails 4.2).
-*   [whitehall (⭐771)](https://github.com/alphagov/whitehall) - A content management app used by UK government - using Rails 7.0
+*   [whitehall (⭐776)](https://github.com/alphagov/whitehall) - A content management app used by UK government - using Rails 7.0
     [Back to top](#table-of-contents)
 
 ### Gems / Other external resources
 
-*   [avo (⭐839)](https://github.com/avo-hq/avo) - Configuration-based, no-maintenance, extendable Ruby on Rails admin panel. [rubygems](https://rubygems.org/gems/avo)
+*   [avo (⭐865)](https://github.com/avo-hq/avo) - Configuration-based, no-maintenance, extendable Ruby on Rails admin panel. [rubygems](https://rubygems.org/gems/avo)
 
 ### DevTools / Other external resources
 
@@ -234,7 +234,7 @@
 
 ### Libraries / New Libraries
 
-*   [imax (⭐29)](https://github.com/4rtemi5/imax) - Image augmentations and transformations. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
+*   [imax (⭐30)](https://github.com/4rtemi5/imax) - Image augmentations and transformations. <img src="https://img.shields.io/github/stars/4rtemi5/imax?style=social" align="center">
 
 ## [8. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

@@ -83,7 +83,7 @@
 
 ### Books
 
-*   [cppbestpractices (⭐6.3k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
+*   [cppbestpractices (⭐6.6k)](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ### Websites
 
@@ -120,7 +120,7 @@
 
 ### Package managers / Individual Podcast episodes
 
-*   [elm-package (⭐215)](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
+*   [elm-package (⭐216)](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
 
 ### More awesome / Games
 
@@ -189,7 +189,7 @@
 
 ### Cryptography
 
-*   [libsodium-net (⭐351)](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
+*   [libsodium-net (⭐349)](https://github.com/adamcaudill/libsodium-net) - libsodium for .NET - A secure cryptographic library
 
 ## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -243,7 +243,7 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐6.7k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐6.8k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 

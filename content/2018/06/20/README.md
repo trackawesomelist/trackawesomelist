@@ -10,7 +10,7 @@
 
 ### Testing / Zabbix
 
-*   [DbFit (⭐214)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+*   [DbFit (⭐218)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 
 ## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -28,7 +28,7 @@
 
 ### ASM / Music drivers and trackers
 
-*   [hardware.inc (⭐88)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
+*   [hardware.inc (⭐90)](https://github.com/tobiasvl/hardware.inc) - Standard include file containing Game Boy hardware definitions for use in RGBDS projects.
 
 ## [5. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Utility / Barcode
 
-*   [swift-protobuf (⭐4k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
+*   [swift-protobuf (⭐4.1k)](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
 
 ## [13. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

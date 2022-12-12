@@ -41,8 +41,8 @@
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Pinball (⭐111)](https://github.com/pret/pokepinball)
-*   [Pokémon TCG (⭐180)](https://github.com/pret/poketcg)
+*   [Pokémon Pinball (⭐112)](https://github.com/pret/pokepinball)
+*   [Pokémon TCG (⭐182)](https://github.com/pret/poketcg)
 
 ## [4. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -54,12 +54,12 @@
 
 ### Libraries / Authentication
 
-*   [Keats/jsonwebtoken (⭐1k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust  [![Build Status](https://api.travis-ci.org/Keats/jsonwebtoken.svg?branch=master)](https://travis-ci.org/Keats/jsonwebtoken)
+*   [Keats/jsonwebtoken (⭐1.1k)](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) lib in rust  [![Build Status](https://api.travis-ci.org/Keats/jsonwebtoken.svg?branch=master)](https://travis-ci.org/Keats/jsonwebtoken)
 
 ### Libraries / Computation
 
 *   Scirust
-    *   [indigits/scirust (⭐239)](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
+    *   [indigits/scirust (⭐241)](https://github.com/indigits/scirust) — scientific computing library in Rust [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
 
 ### Libraries / Logging
 
@@ -67,7 +67,7 @@
 
 ### Resources / Web programming
 
-*   [Rust Design Patterns (⭐6.3k)](https://github.com/rust-unofficial/patterns)
+*   [Rust Design Patterns (⭐6.4k)](https://github.com/rust-unofficial/patterns)
 
 ## [6. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

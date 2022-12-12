@@ -10,7 +10,7 @@
 
 ### Using Electron / Other
 
-*   [electron-stream (⭐122)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+*   [electron-stream (⭐123)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
 ## [2. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -105,7 +105,7 @@
 ### Bindings
 
 *   [dvulkan (⭐16)](https://github.com/ColonelThirtyTwo/dvulkan) - Auto-generated D bindings for Vulkan.
-*   [VulkanSharp (⭐489)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
+*   [VulkanSharp (⭐492)](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. \[MIT]
 *   [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. \[BSD]
 
 ## [11. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
@@ -138,17 +138,17 @@
 
 ### Packages / Text
 
-*   [babelfish (⭐244)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐246)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
-*   [algebra (⭐100)](https://github.com/fibo/algebra) - Algebraic structures.
+*   [algebra (⭐101)](https://github.com/fibo/algebra) - Algebraic structures.
 
 ## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
-*   [AccessGranted (⭐743)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐748)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
@@ -156,11 +156,11 @@
 
 ### CLI Builder
 
-*   [Clamp (⭐405)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐406)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐945)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐951)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ### Git Tools
 
@@ -168,7 +168,7 @@
 
 ### Queues and Messaging
 
-*   [Gush (⭐984)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
+*   [Gush (⭐988)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 

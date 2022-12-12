@@ -101,7 +101,7 @@
 
 ### Packages / Command-line apps
 
-*   [wifi-password (⭐269)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+*   [wifi-password (⭐272)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 
 ## [12. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
@@ -275,7 +275,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_mnesia (⭐238)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
+*   [ecto\_mnesia (⭐237)](https://github.com/Nebo15/ecto_mnesia) - Ecto adapter for Mnesia Erlang term database.
 *   [ecto\_paging (⭐13)](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
 
 ### Utilities
@@ -410,7 +410,7 @@
 ### operations
 
 *   [geojson-flatten (⭐49)](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
-*   [geojson-random (⭐71)](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
+*   [geojson-random (⭐72)](https://github.com/tmcw/geojson-random): generate random geojson points, lines, and polygons
 
 ### editors & viewers
 
@@ -418,12 +418,12 @@
 
 ### conversion
 
-*   [topojson (⭐4.3k)](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
+*   [topojson (⭐4.4k)](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
 
 ### data
 
-*   [world-atlas (⭐927)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-*   [us-atlas (⭐793)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
+*   [world-atlas (⭐936)](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
+*   [us-atlas (⭐803)](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 
 ## [40. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

@@ -30,24 +30,24 @@
 ### Programming Languages / PHP
 
 *   [composer-plugin-nixify (⭐12)](https://github.com/stephank/composer-plugin-nixify) - Composer plugin to help with Nix packaging.
-*   [nix-shell (⭐62)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
+*   [nix-shell (⭐66)](https://github.com/loophp/nix-shell/) - Nix shells for PHP development.
 
 ### NixOS Modules / Scala
 
-*   [base16.nix (⭐72)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐86)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
+*   [base16.nix (⭐73)](https://github.com/SenchoPens/base16.nix) - Flake way to theme programs in [base16 (⭐102)](https://github.com/chriskempson/base16) colorschemes, mustache template support included.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [kubecolor (trejo08) (⭐2)](https://github.com/trejo08/kubecolor-zsh) - Prints colorized outputs from  `kubectl`. Includes helper functions.
+*   [kubecolor (trejo08) (⭐3)](https://github.com/trejo08/kubecolor-zsh) - Prints colorized outputs from  `kubectl`. Includes helper functions.
 *   [kubectl-config-switcher (⭐0)](https://github.com/chmouel/kubectl-config-switcher/) - Switch between config files in `~/.kube` via the `KUBECTL` environment variable.
 
 ## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Data Specifications / Built Environment
 
-*   [CityGML](https://www.ogc.org/standards/citygml) - The CityGML standard defines a conceptual model and exchange format for the representation, storage and exchange of virtual 3D city models. It enables an interdiciplinary common operating platform for civic systems.
+*   [CityGML](https://www.ogc.org/standards/citygml) - The CityGML standard defines a conceptual model and exchange format for the representation, storage and exchange of virtual 3D city models. It enables an interdisciplinary common operating platform for civic systems.
 
 ## [7. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
@@ -352,28 +352,28 @@
 
 ### Plugins / Code Quality
 
-*   [GitHub (⭐194)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
+*   [GitHub (⭐204)](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 *   [@mysticatea/eslint-plugin (⭐25)](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 *   [@brettz9/eslint-plugin (⭐1)](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
 
 ### Plugins / Languages and Environments
 
-*   [eslint-plugin-eslint-plugin (⭐132)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
+*   [eslint-plugin-eslint-plugin (⭐134)](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - An ESLint plugin for linting ESLint plugins.
 
 ### Plugins / Misc
 
-*   [TypeLint (⭐174)](https://github.com/yarax/eslint-plugin-typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
+*   [TypeLint (⭐176)](https://github.com/yarax/eslint-plugin-typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
 
 ### Plugins / Practices and Specific ES Features
 
 *   [Babel (⭐42k)](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) - Adds replacements for built-in rules to include Babel features.
-*   [ESLint Comments (⭐293)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
-*   [eslint-plugin-write-good-comments (⭐14)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
-*   [import (⭐4.4k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+*   [ESLint Comments (⭐298)](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.).
+*   [eslint-plugin-write-good-comments (⭐15)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
+*   [import (⭐4.5k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 
 ### Tools / Testing Tools
 
-*   [eslint-define-config (⭐128)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
+*   [eslint-define-config (⭐157)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
 
 ## [14. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 

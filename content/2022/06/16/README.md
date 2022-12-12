@@ -10,9 +10,9 @@
 
 ### Security
 
-*   [Fingerprinter (⭐246)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐309)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐547)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [Fingerprinter (⭐245)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐332)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐556)](https://github.com/digininja/pipal) - Password analyser and statistics generator
 *   [WhatWeb (⭐4.2k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
@@ -20,7 +20,7 @@
 
 ### Photo / Image
 
-*   [react-photo-album (⭐81)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
+*   [react-photo-album (⭐96)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [scicloj.ml (⭐127)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
+*   [scicloj.ml (⭐137)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
 ## [5. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 
@@ -49,20 +49,6 @@
 *   ### Awesome Collections
     *   📚 [CoolEngines (⭐13)](https://github.com/JohnClarking/CoolEngines) - Awesome list for open source graphic & game engine.
     *   📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - List of game engines along with their platforms and licenses.
-*   ### Commercial
-    *   💰 [AppGameKit Studio](https://www.appgamekit.com/studio) - Easy, quick and powerful programming.
-    *   💸 [Buildbox](https://www.buildbox.com) - Create 3D & 2D video games without coding.
-    *   💸 [Construct](https://www.construct.net/) - Browser based drag and drop game builder. \[[Awesome Construct (⭐50)](https://github.com/ConstructCommunity/awesome-construct#readme)]
-    *   💸 [Felgo](https://felgo.com/games) - Build Cross-Platform 2D Games in Days. Based on the Qt framework.
-    *   💸 [GameMaker Studio](https://www.yoyogames.com/en/gamemaker) - (by YoYo Games) 2D Game Development Environment with large following.
-    *   💸 [GameSalad](https://gamesalad.com) - Sophisticated visual programming interface.
-    *   💸 [MANU](https://manu.co) - Unique animation system helps you create games without coding.
-    *   💸 [NeoAxis](https://www.neoaxis.com) [:octocat: (⭐74)](https://github.com/NeoAxis/NeoAxisEngine) - Versatile real-time platform for making 2D / 3D games and apps.
-    *   💰 [Phaser Editor 2D](https://phasereditor2d.com) [:octocat: (⭐231)](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - Commercial, web based editor for Phaser.
-    *   💸 [PlayCanvas](https://playcanvas.com) [:octocat: (⭐7.8k)](https://github.com/playcanvas/engine) - Popular (Flappy Bird), game engine built on WebGL. \[[Awesome PlayCanvas (⭐172)](https://github.com/playcanvas/awesome-playcanvas#readme)]
-    *   💸 [ShiVa](https://shiva-engine.com) - 3D game and application development suite.
-    *   💸 [Simulation Starter Kit](https://benmorris.itch.io/plugin-based-scene-editor) - Create interactive 3D apps across a range of platforms. \[[Developer Website](http://fireflytech.org)]
-    *   💸 [Stencyl](https://www.stencyl.com/) [:octocat: (⭐169)](https://github.com/Stencyl/stencyl-engine) - Quick and easy game making. Visual scripting similar to [Scratch](https://scratch.mit.edu).
 
 ### Learning
 
@@ -75,8 +61,8 @@
 *   ### Game Development
     *   #### Awesome Collections
         *   📚 [Awesome Gamedev (⭐1.8k)](https://github.com/Calinou/awesome-gamedev#readme) - Collection of free software and free resources for making games.
-        *   📚 [GameDev-Resources (⭐2.7k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of Game Development resources.
-        *   📚 [Magictools (⭐10k)](https://github.com/ellisonleao/magictools#readme) - List of Game Development resources to make magic happen.
+        *   📚 [GameDev-Resources (⭐2.8k)](https://github.com/Kavex/GameDev-Resources) - Wonderful list of Game Development resources.
+        *   📚 [Magictools (⭐11k)](https://github.com/ellisonleao/magictools#readme) - List of Game Development resources to make magic happen.
         *   🌎 [Open Source Libraries](https://opensourcelibs.com) - Massive collection of the world's best open source software.
     *   #### Books
         *   📚 [Art of Game Design](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) - Teaches game design in an accessible manner.
@@ -92,10 +78,10 @@
 *   ### Programming
     *   📚 [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Big-O complexities of algorithms used in computer science.
     *   🌎 [Deadlock Empire](https://deadlockempire.github.io/#menu) - Interactive tutorial to master threads and concurrency.
-    *   📚 [Every Programmer Should Know (⭐64k)](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
-    *   📚 [Games of Coding (⭐1.5k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
+    *   📚 [Every Programmer Should Know (⭐65k)](https://github.com/mtdvio/every-programmer-should-know) - Technical things every developer should know.
+    *   📚 [Games of Coding (⭐1.6k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Games that teach you a programming language.
     *   🌎 [Geeks for Geeks](https://www.geeksforgeeks.org) - Tutorials, articles, courses, coding competitions, jobs and more.
-    *   📚 [Learn to Program (⭐2.6k)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
+    *   📚 [Learn to Program (⭐2.7k)](https://github.com/karlhorky/learn-to-program#readme) - Educational resources to learn to program.
     *   📚 [TIOBE Index](https://www.tiobe.com/tiobe-index/) - Popularity of programming languages, updated once a month.
 
 ## [6. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
@@ -119,7 +105,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐4.6k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐5.3k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 

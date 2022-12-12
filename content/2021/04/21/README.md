@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 21, 2021
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,7 +10,7 @@
 
 ### Server Frameworks
 
-*   [Alfred (⭐419)](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
+*   [Alfred (⭐443)](https://github.com/rknell/alfred) - Minimal ExpressJS-inspired server with routing and middlware.
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -80,29 +80,19 @@
 
 *   [Brute force](https://en.m.wikipedia.org/wiki/Brute-force_search) - Violence is actually almost always a solution but not a very clever one.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8) - ![duration](https://img.shields.io/badge/Duration:%20-79%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) April 20, 2021 - There are a lot of exciting new features for ASP.NET Core developers in .NET 6! Come hear all about it from Daniel Roth, and ask your questions live in the chat. [Community links](https://www.theurlist.com/aspnet-standup-2021-04-20).
-
-### Articles / Others
-
-*   [Will .NET 6 fix Blazor Prerendering?](https://jonhilton.net/blazor-prerendering-net6) - April 19, 2021 - Will .NET 6 fix Blazor Prerendering?
-
-## [11. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
+## [10. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/README.md)
 
 ### Package suites
 
-*   **[(Poly)merase (⭐336)](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
+*   **[(Poly)merase (⭐381)](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 
-## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [11. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Motion / Stepper
 
-*   [ticlib (⭐6)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
+*   [ticlib (⭐7)](https://github.com/jphalip/ticlib) - Driver for Pololu Tic stepper motor controllers.
 
-## [13. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 

@@ -42,7 +42,7 @@
 
 ### Third-party APIs
 
-*   [terjira (⭐801)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
+*   [terjira (⭐811)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 
 ## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md)
 

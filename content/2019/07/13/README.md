@@ -41,7 +41,7 @@
 
 ### Articles
 
-*   [C++Now 2019 Presentations (⭐90)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
+*   [C++Now 2019 Presentations (⭐89)](https://github.com/boostcon/cppnow_presentations_2019) - Presentation materials presented at C++Now 2019.
 
 ## [5. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Debug
 
-*   [UnitTest++ (⭐508)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐509)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [4. Tips](/content/git-tips/tips/README.md)
 
@@ -180,10 +180,6 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 *   [Functional Analysis Lecture Notes](http://www.math.hkbu.edu.hk/\~zeng/Teaching/math3680/FAnotes.pdf) - T.B. Ward (University of East Anglia)
 *   [Functional Analysis](http://www.maths.lancs.ac.uk/\~belton/www/notes/fa_notes.pdf) - Alexander C. R. Belton
-
-### Analysis / Measure Theory
-
-*   [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
 
 ### Probability and Statistics / Probability Theory
 

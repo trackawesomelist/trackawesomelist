@@ -47,7 +47,7 @@
 
 ### Software / Games
 
-*   [piqueserver (⭐147)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐969)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
+*   [piqueserver (⭐157)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐978)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 
 ### Software / Media Streaming - Video Streaming
 
@@ -57,7 +57,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-accessible-modal (⭐18)](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
+*   [vue-accessible-modal (⭐19)](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
 
 ## [9. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 

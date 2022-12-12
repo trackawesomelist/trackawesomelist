@@ -116,7 +116,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [ESLint (⭐21k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
+*   [ESLint (⭐22k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
 
 ## [11. Awesome Math](/content/rossant/awesome-math/README.md)
 

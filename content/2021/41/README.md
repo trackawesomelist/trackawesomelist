@@ -16,7 +16,7 @@
 
 ### Tools / Working with types
 
-*   [pep585-upgrade (⭐53)](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
+*   [pep585-upgrade (⭐54)](https://github.com/snok/pep585-upgrade) - Pre-commit hook configured to automatically upgrade your type hints to the new native types implemented in PEP 585.
 
 ## [3. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Projects
 
-*   [tide-async-graphql-mongodb (⭐31)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
+*   [tide-async-graphql-mongodb (⭐33)](https://github.com/zzy/tide-async-graphql-mongodb) - Clean boilerplate for graphql services, with wasm/yew frontend.
 
 ## [6. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ## [8. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
-### Payments / European VAT
+### Payments / Electronic invoices
 
 *   [moov](https://github.com/moov-io) - Open-source infrastructure for financial technology.
 *   [Fintech Open Source Foundation](https://github.com/finos) - Another set of open-source projects for financial projects.
@@ -182,7 +182,7 @@
 
 ### Code Generators
 
-*   [Record-Builder (⭐336)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
+*   [Record-Builder (⭐354)](https://github.com/Randgalt/record-builder) - Companion builder class, withers and templates for Java records.
 
 ### People / Twitter
 
@@ -222,11 +222,11 @@
 
 ### Applications
 
-*   [datafusion (⭐2.6k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
+*   [datafusion (⭐2.9k)](https://github.com/apache/arrow-datafusion) — Apache Arrow DataFusion and Ballista query engines
 
 ### Applications / Games
 
-*   [SoftbearStudios/mk48 (⭐150)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
+*   [SoftbearStudios/mk48 (⭐161)](https://github.com/SoftbearStudios/mk48) — Mk48.io is an online multiplayer naval combat game
 
 ### Libraries / Web programming
 
@@ -276,7 +276,7 @@
 
 ### Queues and Messaging
 
-*   [GoodJob (⭐1.5k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
+*   [GoodJob (⭐1.6k)](https://github.com/bensheldon/good_job) - GoodJob is a multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.
 
 ## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -333,7 +333,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [cra-template-redux-auth-starter (⭐31)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
+*   [cra-template-redux-auth-starter (⭐32)](https://github.com/Nilanth/cra-template-redux-auth-starter) - A Redux auth starter boilerplate for CRA.
 
 ### Integrations with Third Party Services / Mouse Events
 
@@ -359,7 +359,7 @@
 
 ### Text / Barcode
 
-*   [Regex by sindresorhus (⭐308)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
+*   [Regex by sindresorhus (⭐311)](https://github.com/sindresorhus/Regex) - Swifty regular expressions, fully tested & documented, and with correct Unicode handling.
 
 ## [37. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -555,22 +555,11 @@
 
 ### Component bundles
 
-*   [Majorsoft Blazor Components (⭐229)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐229)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
-*   [LoreSoft.Blazor.Controls (⭐119)](https://github.com/loresoft/LoreSoft.Blazor.Controls) - ![stars](https://img.shields.io/github/stars/loresoft/LoreSoft.Blazor.Controls?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/loresoft/LoreSoft.Blazor.Controls?style=flat-square\&cacheSeconds=86400) Auto-complete (Typeahead) textbox with local and remote data source, for both Client-side and Server-Side Blazor. Also has DateTimePicker and ToggleSwitch. [Demo](https://blazor.loresoft.com/).
+*   [Majorsoft Blazor Components (⭐235)](https://github.com/majorimi/blazor-components) - ![GitHub last commit](https://img.shields.io/github/last-commit/majorimi/blazor-components) ![GitHub Repo stars](https://img.shields.io/github/stars/majorimi/blazor-components) Majorsoft Majorsoft Blazor Components is a set of UI Components and other useful Extensions for Blazor applications. All components are free and available on NuGet. The main goal of this project is to provide an easy to use, feature reach set of customizable components with other useful extensions. [NuGet](https://www.nuget.org/profiles/Blazor.Components) [Demo app](https://blazorextensions.z6.web.core.windows.net/) [Docs (⭐235)](https://github.com/majorimi/blazor-components/tree/master/.github/docs).
 
 ### Individual components / Others
 
-*   [Blazor File Drop Zone (⭐8)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
-
-### Videos / Others
-
-*   [ASP.NET Community Standup - Exploring MudBlazor](https://www.youtube.com/watch?v=GtLIpITqznA\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=5) - ![duration](https://img.shields.io/badge/Duration:%20-76%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 12, 2021 - In this edition of the Blazor community standup learn more about [MudBlazor (⭐4.1k)](https://github.com/MudBlazor/MudBlazor), a Material Design framework for Blazor with co-creators Jonny Larsson & Meinrad Recheis. [Community links](https://www.theurlist.com/blazor_community_standup_october).
-*   [Web Wednesday: ASP.NET Razor tips and tricks with Jon Galloway](https://www.youtube.com/watch?v=qEdVcTZH5bs\&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH\&index=5) - ![duration](https://img.shields.io/badge/Duration:%20-59%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) October 11, 2021 - Razor is a server-side, page-centric programming model for building webpages with ASP.NET Core. Razor has continued to mature over time, and has expanded to include numerous "quality-of-life" additions to make the developer's life easier. Jon Galloway joins us to talk about MVC and ASP.NET, and walks us through some of his favorite features, tips and tricks.
-*   [Web Wednesday: Blazor Web Apps using GraphQL and EF Core with Jeremy Likness](https://www.youtube.com/watch?v=3B_6bz8JFBE\&list=PLlrxD0HtieHjKeRBLVG2ndS9KJq6MBZrH\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) June 23, 2021 - Got data? Got Blazor? The “glue” between the client and server is often the weakest link in building enterprise web apps. What if you could use your domain model as the source of truth, generate a database that supports your design and easily move data between the server and your Blazor WebAssembly app with just a few lines of code? Jeremy will show you how to do this and more with the power of Entity Framework Core enhanced by GraphQL.
-
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Release Candidate 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-2/) - October 12, 2021 - .NET 6 RC2 is very close to the final build of .NET 6 that we expect to ship in November this year in time for .NET Conf 2021. It’s also a “go live” release, so you’re welcome to use it in production. .NET 6 RC2 primarily contains quality improvements and bug fixes, although it does also include a few new features as well.
+*   [Blazor File Drop Zone (⭐9)](https://github.com/jsakamoto/Toolbelt.Blazor.FileDropZone/) - ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.FileDropZone?style=flat-square\&cacheSeconds=86400) Surround an "input type=file" element by this Blazor component to making a zone that accepts drag and drops files ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.FileDropZone/)).
 
 ## [52. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -653,55 +642,105 @@
 
 ### IR Tools Collection / All-In-One Tools
 
-*   [Fleetdm (⭐953)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
+*   [Fleetdm (⭐968)](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continuous updates, features and fast answers to big questions.
 
 ### IR Tools Collection / Other Tools
 
-*   [MFT Browser (⭐231)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
+*   [MFT Browser (⭐236)](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 *   [traceroute-circl (⭐36)](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 
-### IR Tools Collection / Playbooks
+## [61. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
-*   [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow consists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
+### Arduino
 
-## [61. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+*   [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF)
 
-### Artificial Intelligence
+### Bash / Non-X86
 
-*   [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
-*   [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
+*   [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands) - Mark Bates (HTML)
 
-### Blockchain
+### BeanShell / Non-X86
 
-*   [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
-*   [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
-*   [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
-*   [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
+*   [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
+*   [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
 
-### Data Science
+### C / Non-X86
 
-*   [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
+*   [Coursebook (⭐573)](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
+*   [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) (PDF)
 
-### Misc
+### C# / Non-X86
 
-*   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
+*   [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
+
+### C++ / Non-X86
+
+*   [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
+
+### COBOL / Non-X86
+
+*   [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
+
+### Forth / Phoenix
+
+*   [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
+
+### Haskell / Spock Framework
+
+*   [A Gentle Introduction to Haskell Version 98](https://www.haskell.org/tutorial/) - Paul Hudak, John Peterson, Joseph Fasel
+*   [Haskell no panic](http://lisperati.com/haskell/) - Conrad Barski
+*   [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Yann Esposito
+*   [Speeding Through Haskell](http://www.sthaskell.com) - Arya Popescu
+*   [The Haskell School of Music - From Signals to Symphonies](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf) - Paul Hudak (PDF)
+*   [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) - Hal Daum ́e III (PDF)
+
+### NoSQL / PicoLisp
+
+*   [Redis in Action](https://redis.com/ebook/redis-in-action/) - Josiah L. Carlson
+
+### Prolog / Zend
+
+*   [Adventure in Prolog](http://www.amzi.com/AdventureInProlog/) - Dennis Merritt
+*   [Concise Intro to Prolog](https://www.cis.upenn.edu/\~matuszek/Concise%20Guides/Concise%20Prolog.html) - David Matuszek
+*   [Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/) - David Matuszek
+*   [GNU Prolog Manual](http://www.gprolog.org/manual/gprolog.pdf) - Daniel Diaz (PDF)
+*   [Prolog Tutorial](https://www.cpp.edu/\~jrfisher/www/prolog_tutorial/contents.html) - J. R. Fisher
+*   [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space) - Peter Flach
+*   [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
+*   [The Power of Prolog](https://www.metalevel.at/prolog) - Markus Triska
+
+### Ruby / Ruby on Rails
+
+*   [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails) - Abraham Kuri Vargas
+
+### Scratch / Play Scala
+
+*   [Learn to Code with Scratch](https://magpi.raspberrypi.com/books/essentials-scratch-v1) - The MagPi magazine (PDF)
+
+### Swift / Play Scala
+
+*   [Essential Swift](https://www.programming-books.io/essential/swift/) - Krzysztof Kowalczyk (Compiled from StackOverflow Documentation)
+
+### Windows Phone / Vulkan
+
+*   [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](https://web.archive.org/web/20150709045622/http://download.microsoft.com/download/C/4/6/C4635738-5E06-4DF7-904E-BDC22AED2E58/Developing%20an%20Advanced%20Windows%20Phone%207.5%20App%20that%20Connects%20to%20the%20Cloud.pdf) - MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma (PDF) (:card\_file\_box: *archived*)
 
 ## [62. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Examples / Hardware Offload
 
-*   [redbpf examples (⭐1.4k)](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
+*   [redbpf examples (⭐1.5k)](https://github.com/foniod/redbpf/tree/main/examples) - Example programs for using RedBPF to write eBPF programs in Rust.
 
 ### Projects Related to eBPF / Testing in Virtual Environments
 
-*   [redbpf (⭐1.4k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
+*   [redbpf (⭐1.5k)](https://github.com/foniod/redbpf) - Tooling and framework to write eBPF code in Rust efficiently.
 
 ## [63. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Development Tools
 
-*   [jsx-ast-utils (⭐137)](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
-*   [react-scanner (⭐433)](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
+*   [jsx-ast-utils (⭐136)](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
+*   [react-scanner (⭐444)](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
 
 ## [64. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -711,13 +750,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐101)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐123)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [65. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Libraries and Frameworks
 
-*   [Puppeteer (⭐80k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐81k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [66. Public Apis](/content/public-apis/public-apis/week/README.md)
 

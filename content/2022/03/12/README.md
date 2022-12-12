@@ -24,7 +24,7 @@
 
 ### Utility / Diagnostics
 
-*   [jghauser/fold-cycle.nvim (⭐38)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
+*   [jghauser/fold-cycle.nvim (⭐40)](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 
 ## [4. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
 
@@ -54,13 +54,13 @@
 ### Domain
 
 *   [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
-*   [cluster.ws & wip.la (⭐226)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
+*   [cluster.ws & wip.la (⭐261)](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
 
 ## [8. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Tools - Miscellaneous / React
 
-*   [Typetta (⭐57)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
+*   [Typetta (⭐62)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 
 ## [9. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Modules / Web framework
 
-*   [faster (⭐17)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
+*   [faster (⭐18)](https://github.com/hviana/faster) - A fast and optimized middleware server with a set of useful middlwares.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Routers / Libraries for creating HTTP middlewares
 
-*   [goblin (⭐41)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
+*   [goblin (⭐46)](https://github.com/bmf-san/goblin) - A golang http router based on trie tree.
 
 ## [14. GoBooks](/content/dariubs/GoBooks/README.md)
 

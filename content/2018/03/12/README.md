@@ -53,7 +53,7 @@
 
 ### Packages / HTTP
 
-*   [gotql (⭐387)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐12k)](https://github.com/sindresorhus/got).
+*   [gotql (⭐391)](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got (⭐12k)](https://github.com/sindresorhus/got).
 
 ### Packages / Job queues
 

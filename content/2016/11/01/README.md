@@ -51,17 +51,17 @@
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐534)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐540)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Miscellaneous
 
-*   [elixir-browser (⭐84)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
+*   [elixir-browser (⭐85)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 
 ## [7. Awesome Dart](/content/yissachar/awesome-dart/README.md)
 
 ### Database
 
-*   [Postgres (⭐126)](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
+*   [Postgres (⭐127)](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 
 ## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome alfred workflows
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/alfred-workflows/awesome-alfred-workflows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) · ⭐ 2.5K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/alfred-workflows/awesome-alfred-workflows/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) · ⭐ 2.6K · 🏷️ Development Environment
 
 [ [Daily](/content/alfred-workflows/awesome-alfred-workflows/README.md) / [Weekly](/content/alfred-workflows/awesome-alfred-workflows/week/README.md) / Overview ]
 
@@ -144,7 +144,6 @@ A curated list of Awesome Alfred Workflows.
 
 ## Helpers
 
-*   [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
 *   [Alfred Workflow (for Dart) (⭐5)](https://github.com/techouse/alfred_workflow) - Dart library for writing Alfred workflows. Inspired by [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) for Python.
 *   [Alfy (⭐2.5k)](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
 *   [AwGo (⭐805)](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
@@ -155,7 +154,6 @@ A curated list of Awesome Alfred Workflows.
 
 Here are a list of other collections of alfred collections which are useful.
 
-*   [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 *   [Ctwise Alfred Workflows (⭐464)](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 *   [Packal](http://www.packal.org/) - The biggest place to find Workflows.
 *   [PacMax](https://pacmax.org/) – Pacmax was assembled as a way for Alfred lovers to find and share their favorite workflows, snippets, and themes.

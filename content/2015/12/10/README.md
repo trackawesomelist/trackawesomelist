@@ -26,7 +26,7 @@
 
 ### UI / Barcode
 
-*   [FloatRatingView (⭐547)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
+*   [FloatRatingView (⭐546)](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

@@ -70,13 +70,7 @@
 
 *   [Update Maxmind Databases (⭐4)](https://github.com/meetup/maxmind-updater)
 
-## [10. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
-
-### Practical Resources / Librairies and Implementations
-
-*   [Neuraxle (⭐543)](https://github.com/Neuraxio/Neuraxle) - Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.
-
-## [11. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [10. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Conferences
 
@@ -84,7 +78,13 @@
 
 ### Researchers / Frameworks
 
-*   [Neuraxle - A general-purpose ML pipelining framework (⭐543)](https://github.com/Neuraxio/Neuraxle)
+*   [Neuraxle - A general-purpose ML pipelining framework (⭐549)](https://github.com/Neuraxio/Neuraxle)
+
+## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+
+### Python / General-Purpose Machine Learning
+
+*   [Neuraxle (⭐552)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
 
 ---
 

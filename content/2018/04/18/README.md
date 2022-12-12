@@ -116,7 +116,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pomidorus (⭐177)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
+*   [Pomidorus (⭐176)](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 
 ## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)

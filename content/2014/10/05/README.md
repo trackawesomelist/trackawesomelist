@@ -10,7 +10,7 @@
 
 ### Packages / Mad science
 
-*   [peercast (⭐500)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
+*   [peercast (⭐502)](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 
 ---
 

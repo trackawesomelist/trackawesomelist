@@ -59,7 +59,7 @@
     ![](https://img.shields.io/github/stars/milligram/milligram.svg?style=social\&label=Star)
     [Demo](https://milligram.io/showcase.html),
     [Docs](https://milligram.io/#getting-started),
-    [Repo (⭐9.8k)](https://github.com/milligram/milligram)
+    [Repo (⭐9.9k)](https://github.com/milligram/milligram)
     \| #Sass
 *   [**Picnic CSS**](https://picnicss.com) - Lightweight and beautiful library.\
     ![](https://img.shields.io/github/stars/franciscop/picnic.svg?style=social\&label=Star)
@@ -69,9 +69,9 @@
     \| #SCSS
 *   [**Chota**](https://jenil.github.io/chota/) - Really small CSS framework.\
     ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social\&label=Star)
-    [Demo](https://cdn.rawgit.com/jenil/chota/master/test/index.html),
+    [Demo](https://raw.githack.com/jenil/chota/master/test/index.html),
     [Docs](https://jenil.github.io/chota/#docs),
-    [Repo (⭐997)](https://github.com/jenil/chota)
+    [Repo (⭐1k)](https://github.com/jenil/chota)
     \| #CSS
 
 ### General Purpose
@@ -91,7 +91,7 @@
 *   [**Primer**](https://primer.style/) - CSS framework that powers GitHub's front-end design.\
     ![](https://img.shields.io/github/stars/primer/css.svg?style=social\&label=Star)
     [Docs](https://primer.style/css/),
-    [Repo (⭐11k)](https://github.com/primer/css)
+    [Repo (⭐12k)](https://github.com/primer/css)
     \| #SCSS
 
 ### Material Design
@@ -112,7 +112,7 @@
 *   [**Bojler**](https://bojler.slicejack.com) - Email framework for developing responsive and lightweight email templates.\
     ![](https://img.shields.io/github/stars/Slicejack/bojler.svg?style=social\&label=Star)
     [Docs](https://bojler.slicejack.com/documentation/getting-started/),
-    [Repo (⭐973)](https://github.com/Slicejack/bojler)
+    [Repo (⭐976)](https://github.com/Slicejack/bojler)
     \| #SCSS
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)

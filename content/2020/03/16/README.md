@@ -36,7 +36,7 @@
 
 ### Python / Computer Vision
 
-*   [neural-dream (⭐119)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
+*   [neural-dream (⭐121)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -64,17 +64,17 @@
 
 ### Form / Barcode
 
-*   [ObjectForm (⭐174)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
+*   [ObjectForm (⭐175)](https://github.com/haojianzong/ObjectForm) - A simple yet powerful library to build form for your class models.
 
 ## [9. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Time / Date / Age
 
-*   [react-google-flight-datepicker (⭐347)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
+*   [react-google-flight-datepicker (⭐358)](https://github.com/JSLancerTeam/react-google-flight-datepicker) - Google flight date picker implemented in ReactJS.
 
 ### CSS / Style / Mouse Events
 
-*   [aesthetic (⭐199)](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
+*   [aesthetic (⭐198)](https://github.com/milesj/aesthetic) - A powerful type-safe, framework agnostic, CSS-in-JS library for styling components, whether it be plain objects, importing stylesheets, or simply referencing external class names.
 
 ## [10. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/README.md)
 

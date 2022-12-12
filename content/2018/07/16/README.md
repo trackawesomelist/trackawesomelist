@@ -47,7 +47,7 @@
 
 ### ORM
 
-*   [Perfect-CRUD (⭐58)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
+*   [Perfect-CRUD (⭐61)](https://github.com/PerfectlySoft/Perfect-CRUD) :penguin: - CRUD is an object-relational mapping (ORM) system using Codable protocol.
 
 ### Network / Barcode
 
@@ -57,7 +57,7 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [cl-closure-template (⭐71)](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [cl-closure-template (⭐71)](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates, where compiling a template creates a function that generates the result. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ## [6. Awesome Pyramid](/content/uralbash/awesome-pyramid/README.md)
 

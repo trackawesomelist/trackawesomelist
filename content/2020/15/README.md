@@ -356,7 +356,7 @@
 
 ### Go / Data Analysis / Data Visualization
 
-*   [dataframe-go (⭐894)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
+*   [dataframe-go (⭐905)](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 
 ## [12. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/week/README.md)
 
@@ -656,7 +656,7 @@
 
 ### Security / Barcode
 
-*   [SecurePropertyStorage (⭐437)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+*   [SecurePropertyStorage (⭐440)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 
 ### Converters
 
@@ -665,11 +665,11 @@
 
 ### Patterns
 
-*   [Spin (⭐117)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
+*   [Spin (⭐118)](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
 
 ### Animation
 
-*   [Elephant (⭐125)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
+*   [Elephant (⭐126)](https://github.com/s2mr/Elephant) - Elegant SVG animation kit.
 
 ### API
 
@@ -677,7 +677,7 @@
 
 ### App Routing
 
-*   [LightRoute (⭐95)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
+*   [LightRoute (⭐94)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
 ### Multi Database
 
@@ -685,11 +685,11 @@
 
 ### XML
 
-*   [XMLCoder (⭐635)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐654)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 
 ### Images / Barcode
 
-*   [FMPhotoPicker (⭐619)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
+*   [FMPhotoPicker (⭐641)](https://github.com/congnd/FMPhotoPicker) - A modern, simple and zero-dependency photo picker with an elegant and customizable image editor.
 
 ### Layout / Barcode
 
@@ -702,7 +702,7 @@
 ### UI / Barcode
 
 *   [Material Components for iOS (⭐4.6k)](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components.
-*   [YMTreeMap (⭐113)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
+*   [YMTreeMap (⭐118)](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified.
 
 ### UITableView / Barcode
 
@@ -940,11 +940,11 @@
 ### Functional Programming
 
 *   [Coconut (⭐3.6k)](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
-*   [more-itertools (⭐2.7k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
+*   [more-itertools (⭐2.8k)](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 
 ### RPC Servers
 
-*   [RPyC (⭐1.2k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
+*   [RPyC (⭐1.3k)](https://github.com/tomerfiliba/rpyc) (Remote Python Call) - A transparent and symmetric RPC library for Python
 
 ## [49. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
@@ -1022,7 +1022,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [V-Craft (⭐224)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+*   [V-Craft (⭐233)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 
 ## [55. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -1064,27 +1064,27 @@
 
 ### For Electron / Other
 
-*   [RxDB (⭐18k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
+*   [RxDB (⭐19k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
 
 ## [60. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
-*   [Kapitsa (⭐6)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
+*   [Kapitsa (⭐8)](https://github.com/gitjeff05/kapitsa) - CLI to search local Jupyter notebooks.
 
 ### JupyterLab Extensions
 
-*   [debugger (⭐544)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
+*   [debugger (⭐546)](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.
 
 ## [61. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
-*   [CyLR (⭐505)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
+*   [CyLR (⭐511)](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 
 ### IR Tools Collection / Other Tools
 
-*   [PowerSponse (⭐33)](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
+*   [PowerSponse (⭐32)](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
 
 ### IR Tools Collection / Windows Evidence Collection
 

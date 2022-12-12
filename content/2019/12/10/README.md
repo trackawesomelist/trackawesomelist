@@ -16,7 +16,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [CodeceptJS UI (⭐75)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
+*   [CodeceptJS UI (⭐76)](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 
 ## [3. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Science and Data analysis
 
-*   [num.cr (⭐127)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
+*   [num.cr (⭐128)](https://github.com/crystal-data/num.cr) - Numerical computing library supporting N-Dimensional data
 
 ## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

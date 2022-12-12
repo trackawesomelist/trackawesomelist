@@ -52,13 +52,13 @@
 
 ### Data Visualization
 
-*   [diagrams (⭐26k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
+*   [diagrams (⭐27k)](https://github.com/mingrammer/diagrams) - Diagram as Code.
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Template Engine
 
-*   [Water (⭐22)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
+*   [Water (⭐23)](https://github.com/shootingfly/water) - A library for writing HTML in plain Crystal
 
 ## [9. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Build Automation
 
-*   [FlubuCore (⭐816)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+*   [FlubuCore (⭐826)](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 
 ### CLI
 
@@ -97,7 +97,7 @@
 
 ### Compilers, Transpilers and Languages
 
-*   [IronScheme (⭐330)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
+*   [IronScheme (⭐334)](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
 *   [VisualFSharp (⭐3.3k)](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
 
 ### Database
@@ -106,7 +106,7 @@
 
 ### Documentation
 
-*   [SourceBrowser (⭐886)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
+*   [SourceBrowser (⭐899)](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers <https://referencesource.microsoft.com>
 
 ### E-Commerce and Payments
 
@@ -136,7 +136,7 @@
 
 ### Boilerplates
 
-*   [The-Nextjs-starter (⭐21)](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
+*   [The-Nextjs-starter (⭐22)](https://github.com/novellito/the-nextjs-starter) - typescript + redux + styled-components + react-testing-library + eslint + fontawesome
 
 ## [17. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 

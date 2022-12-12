@@ -10,7 +10,7 @@
 
 ### Image Processing
 
-*   [MetadataExtractor (⭐718)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
+*   [MetadataExtractor (⭐735)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Libraries / Parsing
 
-*   [kevinmehall/rust-peg (⭐1.1k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
+*   [kevinmehall/rust-peg (⭐1.2k)](https://github.com/kevinmehall/rust-peg) — Parsing Expression Grammar (PEG) parser generator
 
 ## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -82,7 +82,7 @@
 
 ### JSON
 
-*   [json\_web\_token\_ex (⭐138)](https://github.com/garyf/json_web_token_ex) - An Elixir implementation of the JSON Web Token (JWT) Standards Track (RFC 7519).
+*   [json\_web\_token\_ex (⭐139)](https://github.com/garyf/json_web_token_ex) - An Elixir implementation of the JSON Web Token (JWT) Standards Track (RFC 7519).
 
 ---
 

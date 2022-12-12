@@ -51,11 +51,11 @@
 
 ### Date and Time
 
-*   [good\_times (⭐45)](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
+*   [good\_times (⭐46)](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
 
 ### JSON
 
-*   [jose (⭐263)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐265)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Office
 
-*   [ExcelDna (⭐961)](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
+*   [ExcelDna (⭐978)](https://github.com/Excel-DNA/ExcelDna) - ExcelDna makes it easier to create and deploy Excel Add-Ins using C#, F# or VB .NET
 
 ## [5. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

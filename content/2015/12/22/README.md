@@ -10,7 +10,7 @@
 
 ### Alert / Barcode
 
-*   [Hokusai (⭐428)](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
+*   [Hokusai (⭐430)](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
 
 ## [2. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Boilerplates / Other
 
-*   [electron-react-boilerplate (⭐20k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
+*   [electron-react-boilerplate (⭐21k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 
 ### Videos / Other
 

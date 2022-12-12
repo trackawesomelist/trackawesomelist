@@ -10,13 +10,13 @@
 
 ### Libraries / Text processing
 
-*   [cpc (⭐75)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
+*   [cpc (⭐80)](https://github.com/probablykasper/cpc) - Parses and calculates strings of math with support for units and unit conversion, from `1+2` to `1% of round(1 lightyear / 14!s to km/h)`.
 
 ## [2. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Client-side
 
-*   [Preact (⭐4)](https://github.com/jrson83/inertia-preact)
+*   [Preact (⭐6)](https://github.com/jrson83/inertia-preact)
 
 ## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -109,7 +109,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [bootique/bootique-kotlin (⭐13)](https://github.com/bootique/bootique-kotlin) - Provides extension function and features for smooth development with Bootique and Kotlin.
+*   [bootique/bootique-kotlin (⭐14)](https://github.com/bootique/bootique-kotlin) - Provides extension function and features for smooth development with Bootique and Kotlin.
 
 ## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

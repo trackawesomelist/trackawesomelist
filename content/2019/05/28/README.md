@@ -28,7 +28,7 @@
 
 ### Software / Calendar & Contacts - CalDAV or CardDAV Servers
 
-*   [DecSync CC](https://f-droid.org/packages/org.decsync.cc/) - Serverless contacts, calendar synchronization using your own file syncing method i.e Syncthing, Nextcloud etc. ([Source Code (⭐182)](https://github.com/39aldo39/DecSyncCC)) `GPL-3.0` `Kotlin`
+*   [DecSync CC](https://f-droid.org/packages/org.decsync.cc/) - Serverless contacts, calendar synchronization using your own file syncing method i.e Syncthing, Nextcloud etc. ([Source Code (⭐188)](https://github.com/39aldo39/DecSyncCC)) `GPL-3.0` `Kotlin`
 
 ## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -130,7 +130,7 @@
 ### Editable data grid / spreadsheet
 
 *   [gigatables-react (⭐131)](https://github.com/GigaTables/reactables) - Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.
-*   [react-data-grid (⭐5.6k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
+*   [react-data-grid (⭐5.7k)](https://github.com/adazzle/react-data-grid) - Excel-like grid.
 
 ### Menu
 
@@ -142,19 +142,19 @@
 
 ### Chart
 
-*   [rumble-charts (⭐335)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
+*   [rumble-charts (⭐337)](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts.
 
 ### Audio / Video
 
-*   [react-player (⭐7k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
+*   [react-player (⭐7.1k)](https://github.com/CookPete/react-player) - A react component for playing a variety of URLs, including YouTube.
 
 ### Time / Date / Age
 
-*   [timeago-react (⭐389)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
+*   [timeago-react (⭐387)](https://github.com/hustcc/timeago-react) - Format date with `*** time ago` statement. eg: '3 hours ago'.
 
 ### Miscellaneous
 
-*   [react-file-reader-input (⭐112)](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
+*   [react-file-reader-input (⭐114)](https://github.com/ngokevin/react-file-reader-input) - File input component for control for file reading styling and abstraction.
 
 ### Form Components / Date / Time picker
 
@@ -162,15 +162,15 @@
 
 ### Form Components / Sortable List
 
-*   [react-anything-sortable (⭐455)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
+*   [react-anything-sortable (⭐456)](https://github.com/jasonslyvia/react-anything-sortable) - Sort any children with touch support and IE8 compatibility.
 
 ### Form Components / Image Editing
 
-*   [react-avatar-editor (⭐2k)](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
+*   [react-avatar-editor (⭐2.1k)](https://github.com/mosch/react-avatar-editor) - Facebook-like, avatar / profile picture component.
 
 ### Form Components / Form Component Collections
 
-*   [formsy-react-components (⭐290)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
+*   [formsy-react-components (⭐289)](https://github.com/twisty/formsy-react-components) - A set of React JS components for use in a formsy-react form.
 
 ### Component Collections / Material Design
 
@@ -178,15 +178,15 @@
 
 ### Reporter / Visibility Reporter
 
-*   [react-visibility-sensor (⭐2.2k)](https://github.com/joshwnj/react-visibility-sensor) - Sensor component.
+*   [react-visibility-sensor (⭐2.3k)](https://github.com/joshwnj/react-visibility-sensor) - Sensor component.
 
 ### Reporter / Measurement Reporter
 
-*   [react-container-dimensions (⭐223)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
+*   [react-container-dimensions (⭐226)](https://github.com/okonet/react-container-dimensions) - Wrapper component that detects element resize.
 
 ### Meta Tags / Mouse Events
 
-*   [react-document-meta (⭐321)](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
+*   [react-document-meta (⭐320)](https://github.com/kodyl/react-document-meta) - HTML meta tags for React-based apps.
 
 ### Portal / Mouse Events
 
@@ -214,12 +214,12 @@
 
 *   [generator-starhackit (⭐1.3k)](https://github.com/FredericHeem/starhackit) - Full-stack starter kit.
 *   [react-redux-universal-hot-example (⭐12k)](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp.
-*   [relay-fullstack (⭐993)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
+*   [relay-fullstack (⭐992)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit.
 *   [universal-redux (⭐462)](https://github.com/bdefore/universal-redux) - An npm package that lets you jump right into coding React and Redux.
 
 ### Utilities / Mouse Events
 
-*   [react-translate-component (⭐324)](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
+*   [react-translate-component (⭐323)](https://github.com/martinandert/react-translate-component) - Multi-lingual/localized text content.
 
 ### i18n / Mouse Events
 
@@ -236,7 +236,7 @@
 
 ### App Size / Lazy Load
 
-*   [babel-plugin-transform-react-remove-prop-types (⭐899)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
+*   [babel-plugin-transform-react-remove-prop-types (⭐898)](https://github.com/oliviertassinari/babel-plugin-transform-react-remove-prop-types) - Remove unnecessary React propTypes.
 
 ### Test / Lazy Load
 
@@ -244,7 +244,7 @@
 
 ### Miscellaneous / Lazy Load
 
-*   [jsonx (⭐136)](https://github.com/repetere/jsonx) - React JSON Syntax.
+*   [jsonx (⭐138)](https://github.com/repetere/jsonx) - React JSON Syntax.
 
 ---
 

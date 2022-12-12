@@ -30,7 +30,7 @@
 
 ### ORM and Datamapping
 
-*   [inquisitor (⭐166)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
+*   [inquisitor (⭐167)](https://github.com/dockyard/inquisitor) - Composable query builder for Ecto.
 *   [udpflux (⭐3)](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 
 ## [4. Awesome Computer History](/content/watson/awesome-computer-history/README.md)

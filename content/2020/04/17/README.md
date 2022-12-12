@@ -50,7 +50,7 @@
 
 ### File Manipulation
 
-*   :strawberry: [Josegonzalez/Upload plugin (⭐556)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+*   :strawberry: [Josegonzalez/Upload plugin (⭐557)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
 ## [5. Awesome](/content/Awesome-Windows/Awesome/README.md)
 
@@ -90,10 +90,6 @@
 ### History / 2014
 
 *   [A Detailed Introduction To Custom Elements](https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/)
-
-### History / 2013
-
-*   [HTML's New Template Tag](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
 
 ## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -294,7 +290,7 @@
 
 ### Tools & Utilities / Others
 
-*   [Blazor.LazyStyleSheet (⭐11)](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square\&cacheSeconds=86400) Lazy loading for CSS style sheets.
+*   [Blazor.LazyStyleSheet (⭐12)](https://github.com/excubo-ag/Blazor.LazyStyleSheet) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.LazyStyleSheet?style=flat-square\&cacheSeconds=86400) Lazy loading for CSS style sheets.
 *   [DnetIndexedDb (⭐84)](https://github.com/amuste/DnetIndexedDb) - ![last commit](https://img.shields.io/github/last-commit/amuste/DnetIndexedDb?style=flat-square\&cacheSeconds=86400) Blazor Library for IndexedDB DOM API.
 
 ## [11. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
@@ -320,7 +316,7 @@
 
 ### Applications / Utilities
 
-*   [nomino (⭐434)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
+*   [nomino (⭐452)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

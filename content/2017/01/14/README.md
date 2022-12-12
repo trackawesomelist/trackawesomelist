@@ -55,13 +55,13 @@
 
 ### Packages / Command-line apps
 
-*   [np (⭐6.8k)](https://github.com/sindresorhus/np) - Better `npm publish`.
+*   [np (⭐6.9k)](https://github.com/sindresorhus/np) - Better `npm publish`.
 *   [pageres (⭐9.5k)](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-*   [clipboard-cli (⭐460)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+*   [clipboard-cli (⭐461)](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 *   [Live Server (⭐4k)](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 *   [fkill (⭐6.7k)](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 *   [tmpin (⭐121)](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-*   [dark-mode (⭐627)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+*   [dark-mode (⭐631)](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 
 ### Packages / HTTP
 
@@ -74,17 +74,17 @@
 
 ### Packages / Command-line utilities
 
-*   [ora (⭐8k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+*   [ora (⭐8.1k)](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 *   [listr (⭐3.1k)](https://github.com/samverschueren/listr) - Terminal task list.
-*   [conf (⭐977)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+*   [conf (⭐997)](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 *   [cli-truncate (⭐78)](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 *   [blessed (⭐11k)](https://github.com/chjj/blessed) - Curses-like library.
-*   [insight (⭐552)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+*   [insight (⭐553)](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 
 ### Packages / Build tools
 
 *   [webpack (⭐62k)](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
-*   [rollup (⭐22k)](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
+*   [rollup (⭐23k)](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 *   [Broccoli (⭐3.3k)](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 
 ### Packages / Templating
@@ -96,8 +96,8 @@
 
 *   Observables
     *   [RxJS (⭐28k)](https://github.com/ReactiveX/RxJS) - Reactive programming.
-    *   [observable-to-promise (⭐315)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
-    *   [More… (⭐315)](https://github.com/sindresorhus/awesome-observables)
+    *   [observable-to-promise (⭐319)](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+    *   [More… (⭐319)](https://github.com/sindresorhus/awesome-observables)
 
 ### Packages / Streams
 
@@ -105,11 +105,11 @@
 
 ### Packages / Real-time
 
-*   [MQTT.js (⭐7.3k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+*   [MQTT.js (⭐7.4k)](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 ### Packages / Text
 
-*   [he (⭐3.1k)](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder.
+*   [he (⭐3.2k)](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder.
 
 ### Packages / Date
 
@@ -117,25 +117,25 @@
 
 ### Packages / Parsing
 
-*   [markdown-it (⭐14k)](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
+*   [markdown-it (⭐15k)](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
 *   [csv-parser (⭐1.3k)](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
 
 ### Packages / Compression
 
-*   [yazl (⭐306)](https://github.com/thejoshwolfe/yazl) - Zip.
-*   [yauzl (⭐620)](https://github.com/thejoshwolfe/yauzl) - Unzip.
-*   [decompress (⭐360)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+*   [yazl (⭐307)](https://github.com/thejoshwolfe/yazl) - Zip.
+*   [yauzl (⭐622)](https://github.com/thejoshwolfe/yauzl) - Unzip.
+*   [decompress (⭐362)](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Packages / Database
 
 *   Drivers
     *   [PostgreSQL (⭐11k)](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
-    *   [Redis (⭐11k)](https://github.com/luin/ioredis) - Redis client.
+    *   [Redis (⭐12k)](https://github.com/luin/ioredis) - Redis client.
     *   [LevelUP (⭐4k)](https://github.com/Level/levelup) - LevelDB.
-    *   [MySQL (⭐17k)](https://github.com/mysqljs/mysql) - MySQL client.
-    *   [couchdb-nano (⭐570)](https://github.com/apache/couchdb-nano) - CouchDB client.
-    *   [Aerospike (⭐195)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
-    *   [Couchbase (⭐459)](https://github.com/couchbase/couchnode) - Couchbase client.
+    *   [MySQL (⭐18k)](https://github.com/mysqljs/mysql) - MySQL client.
+    *   [couchdb-nano (⭐575)](https://github.com/apache/couchdb-nano) - CouchDB client.
+    *   [Aerospike (⭐197)](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+    *   [Couchbase (⭐460)](https://github.com/couchbase/couchnode) - Couchbase client.
     *   [MongoDB (⭐9.6k)](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 
 ### Packages / Testing
@@ -161,8 +161,8 @@
 
 ### Packages / Miscellaneous
 
-*   [execa (⭐4.9k)](https://github.com/sindresorhus/execa) - Better `child_process`.
-*   [ssh2 (⭐4.9k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
+*   [execa (⭐5k)](https://github.com/sindresorhus/execa) - Better `child_process`.
+*   [ssh2 (⭐5k)](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 *   [Bottleneck (⭐1.4k)](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 *   [clipboardy (⭐1.5k)](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 

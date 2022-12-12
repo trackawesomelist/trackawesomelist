@@ -16,7 +16,7 @@
 
 ### Applications
 
-*   [Fractalide (⭐777)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
+*   [Fractalide (⭐785)](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 
 ## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -87,11 +87,11 @@
 
 ### API
 
-*   [SwiftlySalesforce (⭐129)](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
+*   [SwiftlySalesforce (⭐131)](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
 
 ### Core Data
 
-*   [AlecrimCoreData (⭐783)](https://github.com/Alecrim/AlecrimCoreData) - Simple Core Data wrapper library.
+*   [AlecrimCoreData (⭐782)](https://github.com/Alecrim/AlecrimCoreData) - Simple Core Data wrapper library.
 *   [CoreStore (⭐3.6k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
 *   [DataKernel (⭐16)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
 *   [Graph (⭐875)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.

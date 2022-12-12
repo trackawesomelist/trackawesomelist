@@ -17,8 +17,8 @@
 
 ### Tools / XML
 
-*   [denopkg (⭐224)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
-*   [elm-live-reload (⭐62)](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+*   [denopkg (⭐226)](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+*   [elm-live-reload (⭐63)](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

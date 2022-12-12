@@ -76,7 +76,7 @@
 
 ### CLI Utilities
 
-*   [Terminal Table (⭐1.4k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
+*   [Terminal Table (⭐1.5k)](https://github.com/tj/terminal-table) - Ruby ASCII Table Generator, simple and feature rich.
 
 ---
 

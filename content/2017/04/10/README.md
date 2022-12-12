@@ -147,7 +147,7 @@
 
 ### Misc
 
-*   [crz (⭐84)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
+*   [crz (⭐86)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
 
 ## [10. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -164,13 +164,13 @@
 
 ### Bindings
 
-*   [vulkan (⭐366)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
+*   [vulkan (⭐372)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
 
 ## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐137)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐139)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 

@@ -28,7 +28,7 @@
 
 ### Software / Office Suites
 
-*   [CryptPad](https://cryptpad.fr/) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐3.9k)](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
+*   [CryptPad](https://cryptpad.fr/) - CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ([Source Code (⭐4.1k)](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Datasets
 
-*   [Brno Urban Dataset :octocat: (⭐120)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
+*   [Brno Urban Dataset :octocat: (⭐125)](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
     *   [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
     *   [YouTube video :red\_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
 
@@ -60,7 +60,7 @@
 
 ### Container Composition
 
-*   [ctk (⭐217)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
+*   [ctk (⭐226)](https://github.com/ctk-hq/ctk) :construction: - Visual composer for container based workloads. By [@corpulent](https://github.com/corpulent)
 
 ## [10. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-build (⭐13)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
+*   [vite-plugin-build (⭐20)](https://github.com/samonxian/vite-plugin-build) - Transfom the whole folder in library mode.
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Git / Third-party APIs
 
-*   [cl-git (⭐51)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+*   [cl-git (⭐52)](https://github.com/russell/cl-git) - a CFFI interface to the libgit2 library. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
 
 ## [13. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 

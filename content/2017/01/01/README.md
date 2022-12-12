@@ -53,7 +53,7 @@
 
 ### Database Drivers
 
-*   [peewee-async (⭐664)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.5k)](https://github.com/coleifer/peewee) and aiopg.
+*   [peewee-async (⭐666)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.6k)](https://github.com/coleifer/peewee) and aiopg.
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -136,7 +136,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-routisan (⭐206)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
+*   [vue-routisan (⭐207)](https://github.com/mikerockett/vue-routisan) - Elegant, fluent route definitions for Vue Router, inspired by Laravel.
 
 ---
 

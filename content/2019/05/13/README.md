@@ -27,13 +27,13 @@
 
 ### Other non-visual
 
-*   [FuzzyWuzzy.pas (⭐9)](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
+*   [FuzzyWuzzy.pas (⭐10)](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Reflection
 
-*   [visit\_struct (⭐380)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
+*   [visit\_struct (⭐391)](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. \[BSL-1.0]
 
 ### Miscellaneous
 
@@ -82,15 +82,15 @@
 
 ### Packages / Filesystem
 
-*   [tempy (⭐363)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+*   [tempy (⭐368)](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
 
 ### Packages / Security
 
-*   [crypto-hash (⭐590)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+*   [crypto-hash (⭐595)](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 
 ### Packages / Miscellaneous
 
-*   [open (⭐2.7k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
+*   [open (⭐2.8k)](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -98,11 +98,11 @@
 
 *   [.NET (⭐16k)](https://github.com/quozd/awesome-dotnet#readme)
     *   [Core (⭐17k)](https://github.com/thangchung/awesome-dotnet-core#readme)
-    *   [Roslyn (⭐517)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
+    *   [Roslyn (⭐530)](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 
 ### Learn
 
-*   [Roadmaps (⭐2.6k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+*   [Roadmaps (⭐2.7k)](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 ---
 

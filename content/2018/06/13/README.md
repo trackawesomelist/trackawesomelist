@@ -113,7 +113,7 @@
 
 ### Application Frameworks
 
-*   [.NET Boxed Framework (⭐633)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
+*   [.NET Boxed Framework (⭐639)](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages
 
 ### Application Templates
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18, 2020
 
-21 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -56,7 +56,7 @@
 
 ### Music Programming
 
-*   [Midica (⭐69)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
+*   [Midica (⭐70)](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Open Source / Other
 
-*   [ExifCleaner (⭐992)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
+*   [ExifCleaner (⭐1k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 
 ## [13. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -99,11 +99,11 @@
 
 ### XML
 
-*   [XMLMapper (⭐107)](https://github.com/gcharita/XMLMapper) - A simple way to map XML to Objects.
+*   [XMLMapper (⭐108)](https://github.com/gcharita/XMLMapper) - A simple way to map XML to Objects.
 
 ### Quality / Barcode
 
-*   [swift-mod (⭐92)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
+*   [swift-mod (⭐95)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 
 ## [16. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -138,13 +138,19 @@
 
 ### Invoice / European VAT
 
-*   [On GCP invoiced billing](https://news.ycombinator.com/item?id=17517479) - [Invoiced billing](https://cloud.google.com/billing/docs/how-to/invoiced-billing) (B2B-friendly payment by the customer after the service is consumed and an invoice issued) is a pain on GCP.
+*   [On GCP invoiced billing](https://news.ycombinator.com/item?id=17517479) - [Invoiced billing](https://cloud.google.com/billing/docs/how-to/invoiced-billing) is a B2B-friendly payment happening after the service is consumed and an invoice issued. It seems to be a pain to setup on GCP but I suspect is a consequence of trying to reduce (costly) fraud.
+
+### Invoice / Integrity
+
 *   [Digital signatures: how Sleek leverages Cloud HSM to guarantee the integrity of legal documents](https://medium.com/google-developers/digital-signatures-how-sleek-leverages-cloud-hsm-to-guarantee-the-integrity-of-legal-documents-a7bd3b82faf6) - Here is a great way to rely on GCP's HSM to digitally sign documents and provide an immutable audit-trail. Might be applied to invoices as well as contract agreements.
 *   [OpenTimestamps](https://opentimestamps.org) - Go beyond the solution above, and timestamp immutable document directly on Bitcoin's blockchain.
+
+### Invoice / Generators
+
 *   [Manta (⭐5.2k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
 *   [InvoicePlane (⭐2.1k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
-### Payments / European VAT
+### Payments / Electronic invoices
 
 *   [How to Build an Insurance Company](https://www.moderntreasury.com/journal/how-to-build-an-insurance-company) - The importance of payment ops architecture.
 *   [EU's Late Payment Directive](https://ec.europa.eu/growth/smes/support/late-payment_en) - European rules on applicable fees for late payments.
@@ -163,7 +169,7 @@
 
 ### Fraud / Online Payments
 
-*   [Awesome List of IAM: Fraud links (⭐878)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐916)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 ### Fraud / Cards
 
@@ -184,9 +190,8 @@
 *   [Apple Subscriptions HIG](https://developer.apple.com/design/human-interface-guidelines/subscriptions/overview/) - Guide and recommendation on how to make [auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) user-friendly.
 *   [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - Focus first on other things in the cart, like easing anxiety and second-guessing by adding reassurance (trust marks, testimonials) near the credit card and completion steps, as well as some guarantee language that you may have used earlier in the product exploration process.
 
-### Competitive Analysis / Tools
+### Competitive Analysis / Cloud providers
 
-*   [EC2 Spot Price Tracker (⭐125)](https://github.com/grosskur/ec2price) - Web app that collects and graphs EC2 Spot Prices.
 *   [GCP billing news](https://www.gcpweekly.com/gcp-resources/tag/billing/) - From the unofficial Google Cloud Platform newsletter.
 
 ## [18. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
@@ -238,12 +243,18 @@
 
 *   [Rector (⭐6.1k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 
-## [21. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Assembly Language / Blazor
+
+*   [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
+
+## [22. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / User Interfaces
 
 *   [Proof General](https://proofgeneral.github.io) - Generic interface for proof assistants based on the extensible, customizable text editor Emacs.
-*   [Jupyter kernel for Coq (⭐73)](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
+*   [Jupyter kernel for Coq (⭐76)](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
 
 ---
 

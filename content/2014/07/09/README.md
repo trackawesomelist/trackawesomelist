@@ -252,18 +252,18 @@
 ### Editors / Runner
 
 *   [ace (⭐25k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐396)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [esprima (⭐397)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 *   [quill (⭐34k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
-*   [pen (⭐4.7k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
+*   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
 *   [ckeditor-releases (⭐520)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 *   [editor (⭐2.8k)](https://github.com/lepture/editor) - A markdown editor. still on development.
 *   [EpicEditor (⭐4.3k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
-*   [jsoneditor (⭐9.9k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
+*   [jsoneditor (⭐10k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 
 ### Color / Runner
 
-*   [colors (⭐9.1k)](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+*   [colors (⭐9.2k)](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 
 ---
 

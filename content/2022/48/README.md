@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 28 - Dec 04, 2022
 
-2 awesome lists updated this week.
+3 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -18,7 +18,13 @@
 
 *   [Modern PHP cheatsheet (⭐1.1k)](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some Php knowledge you will frequently encounter in modern projects.
 
-## [2. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [2. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+
+### Github / Other
+
+*   [ChatGPT-wrapper: Use it in python and shell (⭐357)](https://github.com/mmabrouk/chatgpt-wrapper)
+
+## [3. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 

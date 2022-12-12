@@ -10,7 +10,7 @@
 
 ### API
 
-*   [Telegram.Bot (⭐2.4k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
+*   [Telegram.Bot (⭐2.5k)](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ### Business Intelligence
 
@@ -18,7 +18,7 @@
 
 ### Machine Learning and Data Science
 
-*   [ML.NET (⭐8.1k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
+*   [ML.NET (⭐8.2k)](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
 
 ### Protocols
 
@@ -61,8 +61,8 @@
 
 ### Message Queues
 
-*   [asyncio-nats (⭐582)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
-*   [aiokafka (⭐792)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
+*   [asyncio-nats (⭐591)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
+*   [aiokafka (⭐800)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

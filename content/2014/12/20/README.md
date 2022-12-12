@@ -1,18 +1,24 @@
 # Awesome List Updates on Dec 20, 2014
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C++ / Non-X86
+
+*   [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
+
+## [2. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 
 ### 2014
 
 *   [Ariya Hidayat: **JavaScript and the Browser: Under the Hood**](https://www.youtube.com/watch?v=dibzLw4wPms) \[29:13]
 
-## [2. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
+## [3. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 
 ### Videos
 

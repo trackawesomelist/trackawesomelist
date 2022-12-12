@@ -76,7 +76,7 @@
 
 ### Ecommerce
 
-*   [Sylius (⭐7k)](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+*   [Sylius (⭐7.1k)](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 
 ## [5. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
@@ -323,7 +323,7 @@ git show <branch_name>:<file_name>
 
 ### Frameworks
 
-*   [EASTL (⭐6.7k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐6.8k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ### Machine Learning
 
@@ -376,7 +376,7 @@ git show <branch_name>:<file_name>
 
 ### UI / Barcode
 
-*   [Hexacon (⭐336)](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
+*   [Hexacon (⭐340)](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
 
 ## [26. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -470,7 +470,7 @@ git show <branch_name>:<file_name>
 
 ### ORM and Datamapping
 
-*   [redix (⭐973)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
+*   [redix (⭐980)](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
 *   [riak\_ecto (⭐30)](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
 
 ### Testing
@@ -484,7 +484,7 @@ git show <branch_name>:<file_name>
 
 ### Reading
 
-*   [Elixir Functional Programming (⭐358)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Functional Programming (⭐360)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
 ## [32. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 
@@ -538,7 +538,7 @@ This book is packed with practical recipes, designed to provide you with all the
 
 ### Source Generator
 
-*   [awesome-analyzers (⭐375)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+*   [awesome-analyzers (⭐383)](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## [35. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 

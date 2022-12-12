@@ -124,7 +124,7 @@
 ### Validations
 
 *   [uk\_postcode (⭐9)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
-*   [vex (⭐556)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+*   [vex (⭐558)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ## [9. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Video
 
-*   [Delphi-OpenCV (⭐416)](https://github.com/Laex/Delphi-OpenCV). `[Delphi]` Translation of OpenCV library header files in Delphi
+*   [Delphi-OpenCV (⭐421)](https://github.com/Laex/Delphi-OpenCV). `[Delphi]` Translation of OpenCV library header files in Delphi
     // *Includes FFMPEG headers*
 
 ## [15. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)

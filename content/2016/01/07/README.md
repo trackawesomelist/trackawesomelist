@@ -62,11 +62,11 @@
 
 ### Command Line Applications
 
-*   [table\_rex (⭐185)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐186)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 
-*   [exfile (⭐87)](https://github.com/keichan34/exfile) - File upload handling, persistence, and processing in Elixir and Plug.
+*   [exfile (⭐89)](https://github.com/keichan34/exfile) - File upload handling, persistence, and processing in Elixir and Plug.
 
 ## [10. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

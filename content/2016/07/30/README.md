@@ -41,7 +41,7 @@
 
 *   [ECE 459](http://patricklam.ca/p4p/) **Programming for Performance** *University of Waterloo* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
     *   Learn techniques for profiling, rearchitecting, and implementing software systems that can handle industrial-sized inputs, and to design and build critical software infrastructure. Learn performance optimization through parallelization, multithreading, async I/O, vectorization and GPU programming, and distributed computing.
-    *   [Lecture slides (⭐72)](https://github.com/patricklam/p4p-2015/tree/master/lectures)
+    *   [Lecture slides (⭐71)](https://github.com/patricklam/p4p-2015/tree/master/lectures)
 
 ## [6. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

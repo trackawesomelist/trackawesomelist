@@ -110,7 +110,7 @@
 
 ### Resources / Courses
 
-*   [TeachOpenCADD (⭐393)](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
+*   [TeachOpenCADD (⭐420)](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
 
 ---
 

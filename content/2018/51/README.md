@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 17 - Dec 23, 2018
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,13 +76,19 @@
 
 *   [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) versions
 
-## [3. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+
+### Application Templates
+
+*   [Nucleus (⭐340)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+
+## [4. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [Injured on Vacation? Applying Principles from Site Reliability Engineering to a Travel Emergency](https://www.sidewalksafari.com/2018/12/sre-in-a-travel-emergency.html)
 
-## [4. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [5. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -100,13 +106,13 @@
 
 *   [react-native-form-validator ★0 (⭐14)](https://github.com/srfaytkn/react-native-form-validator) - A simple validation library for react native
 
-## [5. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Types / Playground
 
-*   [typescript-conditional-types (⭐36)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
+*   [typescript-conditional-types (⭐38)](https://github.com/LeDDGroup/typescript-conditional-types) - Helpers for typescript generic types
 
-## [6. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [7. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Communication
 
@@ -135,13 +141,13 @@
 *   [Digital Freedom Foundation](https://en.wikipedia.org/wiki/Digital_Freedom_Foundation) - Promotes access to knowledge via technology.
 *   [Outreachy](https://www.outreachy.org/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
 
-## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [8. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Web Frameworks
 
 *   [FastAPI (⭐51k)](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
 
-## [8. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [9. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Mobile Apps
 
@@ -155,13 +161,13 @@
 *   [Mastodon](https://mastodon.social) - Decentralized microblogging platform similar to Twitter.
 *   [PixelFed](https://pixelfed.social/) - Essentially Instagram without ads, trackers, or modified timelines.
 
-## [9. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [10. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
 *   [Tipe](https://tipe.io) - Next generation serverless CMS.
 
-## [10. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [11. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### References
 
@@ -175,7 +181,7 @@
 
 *   [Mozilla VR](https://mixedreality.mozilla.org/) - Mozilla's official WebVR page.
 
-## [11. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
+## [12. Awesome Cordova](/content/busterc/awesome-cordova/week/README.md)
 
 ### Tools
 
@@ -185,17 +191,17 @@
     *   [cordova-auto-patch (⭐3)](https://github.com/alexshevch/cordova-auto-patch)
     *   [xavtool (⭐32)](https://github.com/gabrielrobert/xavtool)
 
-## [12. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [13. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Document Editors / Markdown
 
 *   [HackMD](https://hackmd.io) - A collaborative, powerful, real-time online markdown editor with preview.
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
-*   [Viewer (⭐531)](https://github.com/3lvis/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images.
+*   [Viewer (⭐532)](https://github.com/3lvis/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images.
 
 ### UITableView / Barcode
 
@@ -203,25 +209,25 @@
 
 ### Utility / Barcode
 
-*   [ApplyStyleKit (⭐201)](https://github.com/shindyu/ApplyStyleKit) - Elegantly, Apply style to UIKit using Method Chain.
+*   [ApplyStyleKit (⭐203)](https://github.com/shindyu/ApplyStyleKit) - Elegantly, Apply style to UIKit using Method Chain.
 
-## [14. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [15. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Anomaly Detection With Isolation Forests Using H2O](https://dzone.com/articles/anomaly-detection-with-isolation-forests-using-h2o-1) Dec 03, 2018
 
-## [15. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [16. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [MindsDB (⭐11k)](https://github.com/mindsdb/mindsdb) - Open Source framework to streamline use of neural networks.
+*   [MindsDB (⭐12k)](https://github.com/mindsdb/mindsdb) - Open Source framework to streamline use of neural networks.
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [Homemade Machine Learning (⭐20k)](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
-## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [17. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / API Gateway
 
@@ -231,17 +237,17 @@
 
 *   [eb-docker-nginx-proxy :fire: (⭐141)](https://github.com/awslabs/eb-docker-nginx-proxy) - Simple PHP app using the PHP-FPM and Nginx Docker images.
 
-## [17. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [18. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### Misc / Case Study
 
 *   [LaravelCollections.com](https://laravelcollections.com)
 
-## [18. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [19. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Audio
 
-*   [KT403A-MP3 (⭐8)](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
+*   [KT403A-MP3 (⭐9)](https://github.com/jczic/KT403A-MP3) - Driver for KT403A, used by DFPlayer Mini and Grove MP3 v2.0.
 *   [micropython-dfplayer (⭐30)](https://github.com/ShrimpingIt/micropython-dfplayer) - Driver for DFPlayer Mini using UART.
 *   [micropython-longwave (⭐5)](https://github.com/MattMatic/micropython-longwave) - WAV player for MicroPython board.
 
@@ -251,7 +257,7 @@
 
 ### Communications / GPS
 
-*   [micropyGPS (⭐271)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
+*   [micropyGPS (⭐272)](https://github.com/inmcm/micropyGPS) - Full featured GPS NMEA sentence parser.
 *   [micropython-gnssl76l (⭐2)](https://github.com/tuupola/micropython-gnssl76l) - MicroPython I2C driver for Quectel GNSS L76-L (GPS).
 
 ### Communications / IR
@@ -270,12 +276,12 @@
 
 ### Communications / RFID
 
-*   [micropython-mfrc522 (⭐129)](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
-*   [micropython-wiegand (⭐19)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
+*   [micropython-mfrc522 (⭐132)](https://github.com/wendlers/micropython-mfrc522) - Driver for NXP MFRC522 RFID reader/writer.
+*   [micropython-wiegand (⭐20)](https://github.com/pjz/micropython-wiegand) - Wiegand protocol reader.
 
 ### Communications / RTC
 
-*   [micropython-tinyrtc-i2c (⭐49)](https://github.com/mcauser/micropython-tinyrtc-i2c) - Driver for DS1307 RTC and AT24C32N EEPROM.
+*   [micropython-tinyrtc-i2c (⭐50)](https://github.com/mcauser/micropython-tinyrtc-i2c) - Driver for DS1307 RTC and AT24C32N EEPROM.
 *   [Micropython\_TinyRTC (⭐3)](https://github.com/AnthonyKNorman/Micropython_TinyRTC) - Driver for DS1307 RTC.
 
 ### Communications / WiFi
@@ -284,7 +290,7 @@
 
 ### Display / E-Paper
 
-*   [micropython-waveshare-epaper (⭐224)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare e-paper modules.
+*   [micropython-waveshare-epaper (⭐229)](https://github.com/mcauser/micropython-waveshare-epaper) - Drivers for various Waveshare e-paper modules.
 
 ### Display / LCD Character
 
@@ -293,12 +299,12 @@
 *   [micropython-charlcd (⭐12)](https://github.com/rdagger/micropython-charlcd) - Driver for HD44780 compatible LCDs.
 *   [micropython-i2c-lcd (⭐17)](https://github.com/Bucknalla/micropython-i2c-lcd) - Driver for I2C 2x16 LCD Screens.
 *   [pyboard-LCD-character-display (⭐1)](https://github.com/scitoast/pyboard-LCD-character-display) - PyBoard driver for HDD44780 compatible 1602 LCDs.
-*   [python\_lcd (⭐246)](https://github.com/dhylands/python_lcd) - Driver for HD44780 compatible dot matrix LCDs.
+*   [python\_lcd (⭐248)](https://github.com/dhylands/python_lcd) - Driver for HD44780 compatible dot matrix LCDs.
 
 ### Display / LCD Graphic
 
 *   [micropython-lcd-AQM1248A (⭐0)](https://github.com/forester3/micropython-lcd-AQM1248A) - ESP8266 driver for AQM1248A graphic LCD.
-*   [micropython-pcd8544 (⭐51)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
+*   [micropython-pcd8544 (⭐52)](https://github.com/mcauser/micropython-pcd8544) - Driver for Nokia 5110 PCD8544 84x48 LCD modules.
 *   [micropython-st7565 (⭐7)](https://github.com/nquest/micropython-st7565) - Driver for ST7565 128x64 LCDs.
 *   [micropython-st7920 (⭐7)](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
 *   [MicroPython\_PCD8544 (⭐3)](https://github.com/AnthonyKNorman/MicroPython_PCD8544) - ESP8266 driver for Nokia 5110 PCD8544.
@@ -307,10 +313,10 @@
 ### Display / LCD TFT
 
 *   [micropython-ili934x (⭐12)](https://github.com/tuupola/micropython-ili934x) - SPI driver for ILI934X series based TFT / LCD displays.
-*   [MicroPython-ST7735 (⭐105)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
+*   [MicroPython-ST7735 (⭐106)](https://github.com/boochow/MicroPython-ST7735) - ESP32 version of GuyCarvers's ST7735 TFT LCD driver.
 *   [micropython-st7735 (⭐25)](https://github.com/hosaka/micropython-st7735) - Driver for ST7735 TFT LCDs.
 *   [MicroPython\_ST7735 (⭐21)](https://github.com/AnthonyKNorman/MicroPython_ST7735) - Driver for ST7735 128x128 TFT.
-*   [ST7735 (⭐91)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
+*   [ST7735 (⭐92)](https://github.com/GuyCarver/MicroPython/blob/master/lib/ST7735.py) - Driver for ST7735 TFT LCDs.
 
 ### Display / LED Matrix
 
@@ -326,7 +332,7 @@
 *   [max7219\_8digit (⭐12)](https://github.com/pdwerryhouse/max7219_8digit) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-max7219 (⭐5)](https://github.com/JulienBacquart/micropython-max7219) - Driver for MAX7219 8-digit 7-segment LED modules.
 *   [micropython-my9221 (⭐5)](https://github.com/mcauser/micropython-my9221) - Driver for MY9221 10-segment LED bar graph modules.
-*   [micropython-tm1637 (⭐109)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
+*   [micropython-tm1637 (⭐111)](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
 *   [micropython-tm1638 (⭐18)](https://github.com/mcauser/micropython-tm1638) - Driver for TM1638 dual quad 7-segment LED modules with switches.
 *   [micropython-tm1640 (⭐12)](https://github.com/mcauser/micropython-tm1640) - Driver for TM1740 8x8 LED matrix modules.
 
@@ -335,7 +341,7 @@
 *   [micropython-morsecode (⭐3)](https://github.com/mampersat/micropython-morsecode) - Blink an LED with morse coded message.
 *   [micropython-p9813 (⭐3)](https://github.com/mcauser/micropython-p9813) - Driver for P9813 RGB LED used in SeeedStudio's Grove Chainable RGB LED.
 *   [micropython-ws2812-7seg (⭐1)](https://github.com/HubertD/micropython-ws2812-7seg) - 7-segment display using WS2812 RGB LEDs.
-*   [micropython-ws2812 (⭐167)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
+*   [micropython-ws2812 (⭐171)](https://github.com/JanBednarik/micropython-ws2812) - Driver for WS2812 RGB LEDs.
 *   [tlc5940-micropython (⭐4)](https://github.com/oysols/tlc5940-micropython) - Driver for TLC5940 16 channel LED driver.
 
 ### Display / OLED
@@ -345,11 +351,11 @@
 *   [micropython-ssd1351 (⭐41)](https://github.com/rdagger/micropython-ssd1351) - Driver for SSD1351 OLED displays.
 *   [MicroPython\_SSD1306 (⭐7)](https://github.com/AnthonyKNorman/MicroPython_SSD1306) - ESP8266 driver for SSD1306 OLED 128x64 displays.
 *   [Official SSD1306 (⭐15k)](https://github.com/micropython/micropython/tree/master/drivers/display) - Driver for SSD1306 128x64 OLED displays.
-*   [SH1106 (⭐98)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
+*   [SH1106 (⭐102)](https://github.com/robert-hh/SH1106) - Driver for the SH1106 OLED display.
 
 ### IO / ADC
 
-*   [ads1x15 (⭐63)](https://github.com/robert-hh/ads1x15) - Driver for the ADS1015/ADS1115 ADC, I2C interface.
+*   [ads1x15 (⭐64)](https://github.com/robert-hh/ads1x15) - Driver for the ADS1015/ADS1115 ADC, I2C interface.
 *   [Micropython\_ADS1115 (⭐4)](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 
 ### IO / DAC
@@ -358,7 +364,7 @@
 
 ### IO / IO-Expander
 
-*   [micropython-mcp230xx (⭐30)](https://github.com/ShrimpingIt/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders.
+*   [micropython-mcp230xx (⭐31)](https://github.com/ShrimpingIt/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders.
 
 ### IO / Joystick
 
@@ -366,15 +372,15 @@
 
 ### IO / Waveform Generator
 
-*   [Micropython-AD9833 (⭐10)](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, spi interface.
+*   [Micropython-AD9833 (⭐11)](https://github.com/KipCrossing/Micropython-AD9833) - Pyboard driver for AD9833, spi interface.
 
 ### Motion / DC Motor
 
-*   [L298N (⭐91)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual h-bridge motor controller.
+*   [L298N (⭐92)](https://github.com/GuyCarver/MicroPython/blob/master/lib/L298N.py) - Driver for the L298N dual h-bridge motor controller.
 
 ### Motion / Stepper
 
-*   [micropython-upybbot (⭐70)](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
+*   [micropython-upybbot (⭐72)](https://github.com/jeffmer/micropython-upybbot) - A4988 driver for bipolar stepper motors.
 
 ### Sensors / Accelerometer Digital
 
@@ -396,7 +402,7 @@
 
 ### Sensors / Camera
 
-*   [micropython-ov2640 (⭐80)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
+*   [micropython-ov2640 (⭐81)](https://github.com/namato/micropython-ov2640) - MicroPython class for OV2640 camera.
 
 ### Sensors / Compass
 
@@ -405,11 +411,11 @@
 ### Sensors / Current
 
 *   [micropythonINA219 (⭐4)](https://github.com/kabel42/micropythonINA219) - Driver for INA219 current sensor.
-*   [pyb\_ina219 (⭐36)](https://github.com/chrisb2/pyb_ina219) - Driver for INA219 current sensor.
+*   [pyb\_ina219 (⭐37)](https://github.com/chrisb2/pyb_ina219) - Driver for INA219 current sensor.
 
 ### Sensors / Distance Ultrasonic
 
-*   [micropython-hcsr04 (⭐107)](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
+*   [micropython-hcsr04 (⭐108)](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
 
 ### Sensors / Energy
 
@@ -418,7 +424,7 @@
 ### Sensors / Gaseous
 
 *   [micropython-MQ (⭐16)](https://github.com/kartun83/micropython-MQ) - Drivers for MQ series gas sensors.
-*   [MQ135 (⭐30)](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
+*   [MQ135 (⭐31)](https://github.com/rubfi/MQ135) - Driver for MQ135 gas sensor.
 
 ### Sensors / Light
 
@@ -428,11 +434,11 @@
 
 ### Sensors / Motion Inertial
 
-*   [micropython-bmx055 (⭐4)](https://github.com/micropython-IMU/micropython-bmx055) - Driver for Bosch BMX055 IMU sensor.
-*   [micropython-bno055 (⭐3)](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
+*   [micropython-bmx055 (⭐5)](https://github.com/micropython-IMU/micropython-bmx055) - Driver for Bosch BMX055 IMU sensor.
+*   [micropython-bno055 (⭐4)](https://github.com/deshipu/micropython-bno055) - Bosch Sensortec BNO055 9DOF IMU sensor, I2C interface.
 *   [micropython-lsm9ds0 (⭐4)](https://github.com/micropython-IMU/micropython-lsm9ds0) - LSM9DS0 g-force linear acceleration, gauss magnetic and dps angular rate sensors.
-*   [micropython-mpu9250 (⭐96)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
-*   [micropython-mpu9x50 (⭐209)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
+*   [micropython-mpu9250 (⭐98)](https://github.com/tuupola/micropython-mpu9250) - I2C driver for MPU9250 9-axis motion tracking device.
+*   [micropython-mpu9x50 (⭐210)](https://github.com/micropython-IMU/micropython-mpu9x50) - Driver for the InvenSense MPU9250 inertial measurement unit.
 *   [MPU6050-ESP8266-MicroPython (⭐71)](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 *   [py-mpu6050 (⭐80)](https://github.com/larsks/py-mpu6050) - ESP8266 driver for MPU6050 accelerometer/gyroscope.
 
@@ -449,11 +455,11 @@
 *   [bme680-mqtt-micropython (⭐13)](https://github.com/robmarkcole/bme680-mqtt-micropython) - Driver for BME680 gas, pressure, temperature and humidity sensor.
 *   [LM75-MicroPython (⭐2)](https://github.com/OldhamMade/LM75-MicroPython) - Driver for LM75 digital temperature sensor, I2C interface.
 *   [micropython-am2320 (⭐22)](https://github.com/mcauser/micropython-am2320) - Aosong AM2320 temperature and humidity sensor, I2C interface.
-*   [micropython-dht12 (⭐16)](https://github.com/mcauser/micropython-dht12) - Aosong DHT12 temperature and humidity sensor, I2C interface.
+*   [micropython-dht12 (⭐15)](https://github.com/mcauser/micropython-dht12) - Aosong DHT12 temperature and humidity sensor, I2C interface.
 *   [micropython-hdc1008 (⭐4)](https://github.com/kfricke/micropython-hdc1008) - Driver for the Texas Instruments HDC1008 humidity and temperature sensor.
 *   [micropython-mcp9808 (⭐4)](https://github.com/kfricke/micropython-mcp9808) - Driver for the Microchip MCP9808 temperature sensor.
 *   [micropython-mpl115a2 (⭐2)](https://github.com/khoulihan/micropython-mpl115a2) - Pyboard driver for the MPL115A2 barometric pressure sensor.
-*   [micropython-sht30 (⭐36)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
+*   [micropython-sht30 (⭐37)](https://github.com/rsc1975/micropython-sht30) - Driver for SHT30 temperature and humidity sensor.
 *   [micropython-sht31 (⭐18)](https://github.com/kfricke/micropython-sht31) - Driver for the SHT31 temperature and humidity sensor.
 *   [micropython-Si7005 (⭐1)](https://github.com/Smrtokvitek/micropython-Si7005) - Driver for Si7005 relative humidity and temperature sensor.
 *   [micropython-si7021 (⭐11)](https://github.com/chrisbalmer/micropython-si7021) - SI7021 Temperature and humidity sensor, I2C interface.
@@ -486,25 +492,25 @@
 *   [MicroPython Kickstarter](https://www.kickstarter.com/projects/214379695/micro-python-python-for-microcontrollers) - 1,931 backers pledged £97,803 to help bring this project to life.
 *   [MicroPython on the ESP8266 Kickstarter](https://www.kickstarter.com/projects/214379695/micropython-on-the-esp8266-beautifully-easy-iot) - 1,399 backers pledged £28,534 to help bring this project to life.
 
-## [19. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [20. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [Sweet IPFS (⭐87)](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
 
-## [20. Awesome](/content/craftcms/awesome/week/README.md)
+## [21. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Organizations Using Craft / Tutorials
 
 *   [City of Marion, IN](https://cityofmarion.in.gov/)
 
-## [21. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [22. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### System
 
 *   [SSH iTerm (⭐12)](https://github.com/hanjm/alfred-ssh-iterm-workflow) - Query `~/.ssh/config` and open ssh host with iTerm badge.
 
-## [22. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [23. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Java / Git
 
@@ -513,30 +519,30 @@
 *   [Keycloak (⭐14k)](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
 *   [Project Kalium](http://abstractj.github.io/kalium/) - Java binding to the Networking and Cryptography (NaCl) library with the awesomeness of libsodium.
 
-## [23. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [24. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Clouds
 
 *   [Nomad](https://www.nomadproject.io/)\
     HashiCorp Nomad is a single binary that schedules applications and services on Linux, Windows, and Mac. It is an open source scheduler that uses a declarative job file for scheduling virtualized, containerized, and standalone applications.
 
-## [24. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [25. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Videos / Miscellaneous
 
 *   [Learn Sass in this Free Crash Course - Give your CSS Superpowers!](https://www.youtube.com/watch?v=roywYSEPSvc)
 *   [The Net Ninja Sass playlist](https://www.youtube.com/watch?v=St5B7hnMLjg\&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
 
-## [25. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
 *   [MXNet (⭐20k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more [website](https://mxnet.apache.org)
-*   [PyTorch (⭐60k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐61k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 
-*   [Wav2Letter++ (⭐6.1k)](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency \[BSD]
+*   [Wav2Letter++ (⭐6.2k)](https://github.com/facebookresearch/wav2letter/) - Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency \[BSD]
 
 ### Image Processing
 
@@ -554,15 +560,15 @@
 
 ### Regular Expression
 
-*   [sregex (⭐598)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
+*   [sregex (⭐599)](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. \[BSD]
 
-## [26. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Flash Elements On Screen While Debugging Appium Tests](https://appiumpro.com/editions/48)
 
-## [27. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [28. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Entry Point
 
@@ -787,7 +793,7 @@
 
 *   [parallel-sim (⭐1)](https://github.com/JulianSchutsch/ParallelSim) - Distributed Simulation of Transport Networks.
 
-## [28. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [29. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### NPM Modules
 
@@ -797,7 +803,7 @@
 
 *   [Jargon Blog](https://jargon.com/blog/) - The Jargon Blog releases weekly updates on voice 101 and product news
 
-## [29. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [30. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Cartridges / Opcodes
 
@@ -813,7 +819,7 @@
 
 ### ASM / Music drivers and trackers
 
-*   [DMGreport (⭐51)](https://github.com/lancekindle/DMGreport) - Game programming tutorials in assembly.
+*   [DMGreport (⭐52)](https://github.com/lancekindle/DMGreport) - Game programming tutorials in assembly.
 
 ### ASM / Sources
 
@@ -824,19 +830,19 @@
 
 *   [Atom language package for RGBASM](https://atom.io/packages/language-rgbasm) - Atom syntax highlighting for RGBDS assembly.
 *   [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
-*   [Vim syntax file for RGBDS (⭐9)](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
+*   [Vim syntax file for RGBDS (⭐10)](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
 *   [Z80 Assembly support for Visual Studio Code (⭐24)](https://github.com/Imanolea/z80asm-vscode)
 *   [minesweepGB (⭐9)](https://github.com/lancekindle/minesweepGB)
-*   [Libbet and the Magic Floor (⭐30)](https://github.com/pinobatch/libbet)
+*   [Libbet and the Magic Floor (⭐31)](https://github.com/pinobatch/libbet)
 
 ### Demos / Syntax highlighting packages
 
-*   [GBVideoPlayer (⭐73)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
+*   [GBVideoPlayer (⭐74)](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Game Boy LCD controller can be hacked to make a Game Boy Color play a full motion video in color, together with music.
 
 ### Reverse Engineering / Syntax highlighting packages
 
 *   [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
-*   [pokemontools (⭐293)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
+*   [pokemontools (⭐297)](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 *   [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Game Boy ROM challenge using radare2.
 *   [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
 *   [Reverse Engineering the GameBoy Tetris (⭐21)](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
@@ -845,7 +851,7 @@
 
 *   [gbos (⭐20)](https://github.com/ekimekim/gbos) - A basic operating system for the Game Boy.
 
-## [30. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Authentication & Authorization
 
@@ -855,7 +861,7 @@
 
 *   [Laravel Collections](https://laravelcollections.com) - Every Laravel Developers Goto Resource Site
 
-## [31. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [32. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Articles
 
@@ -865,22 +871,22 @@
 
 *   [In the Words of Buddha](https://inthewordsofbuddha.wordpress.com/) - Making the authentic teachings of the Buddha accessible to the modern world through textual analysis.
 
-## [32. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [33. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Themes
 
-*   [tmux-base16-statusline (⭐24)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐26)](https://github.com/chriskempson/base16-shell)
+*   [tmux-base16-statusline (⭐24)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐34)](https://github.com/chriskempson/base16-shell)
 *   [tmux-colors-solarized (⭐1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
-*   [tmux-themepack (⭐1.4k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
+*   [tmux-themepack (⭐1.5k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
 *   [tomorrow (⭐31)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐13k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
 
-## [33. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [34. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Apple tvOS / Official resources
 
 *   [TVML](https://developer.apple.com/documentation/tvml) -  Apple TV Markup Language for creating tvOS apps.
 
-## [34. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [35. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -903,17 +909,13 @@
 
 *   [A Keycloak Mobile Implementation using Angular v4 and Ionic v3 (⭐25)](https://github.com/tomjackman/keyonic-v2)
 
-## [35. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [36. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
 *   [Ip Geolocation](https://ipgeolocation.io/) \[DISCOUNT] -  Free for 50K requests and 50% discount on all paid plans for students.
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
-
-### Starter Kits / Workflow
-
-*   [Nucleus (⭐341)](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
+## [37. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### General
 
@@ -927,11 +929,7 @@
 
 *   [NEventStore (⭐1.5k)](https://github.com/NEventStore/NEventStore) - Persistence library used to abstract different storage implementations when using event sourcing as storage mechanism. This library is developed with a specific focus on DDD/CQRS applications.
 
-## [37. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
-
-### Iteration
-
-*   [series (⭐45)](https://github.com/tokenrove/series/wiki) - Functional style without any runtime penalty at all. [MIT](https://opensource.org/licenses/MIT).
+## [38. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Lambda shorthands
 
@@ -947,7 +945,7 @@
 
 ### Event processing / Third-party APIs
 
-*   [event-glue (⭐15)](https://github.com/orthecreedence/event-glue) - simple eventing abstraction. No dependencies. It can be used anywhere you need a generic event handling system. [MIT](https://opensource.org/licenses/MIT).
+*   [event-glue (⭐16)](https://github.com/orthecreedence/event-glue) - simple eventing abstraction. No dependencies. It can be used anywhere you need a generic event handling system. [MIT](https://opensource.org/licenses/MIT).
 
 ### Vim & Neovim / Third-party APIs
 
@@ -955,15 +953,15 @@
 
 ### Eclipse / Third-party APIs
 
-*   [Dandelion (⭐25)](https://github.com/Ragnaroek/dandelion) - a Common Lisp plugin for the Eclipse IDE.
+*   [Dandelion (⭐26)](https://github.com/Ragnaroek/dandelion) - a Common Lisp plugin for the Eclipse IDE.
 
-## [38. Amas](/content/sindresorhus/amas/week/README.md)
+## [39. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Frédéric Harper (⭐0)](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 
-## [39. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
@@ -974,7 +972,7 @@
 
 *   [Pure Mixpanel (⭐24)](https://github.com/seenickcode/pure_mixpanel) <!--stargazers:seenickcode/pure_mixpanel--> - Analytics for the popular [Mixpanel.com](https://mixpanel.com) [Nick Manning](https://twitter.com/seenickcode)
 
-## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [41. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Courses
 
@@ -993,19 +991,19 @@
 *   [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Advice and thoughts on how to get started by Eric Arnebäck.
 *   [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Deep dive into the importance of gamma.
 
-## [41. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [42. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / .NET
 
 *   [ASP.NET Core Interview Questions](https://www.talkingdotnet.com/asp-net-core-interview-questions/)
 
-## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Country Data
 
-*   [validates\_zipcode (⭐116)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+*   [validates\_zipcode (⭐118)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
-## [43. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [44. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
@@ -1043,7 +1041,7 @@
 *   [Satis Server (⭐109)](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
 *   [Release Belt (⭐151)](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
 
-## [44. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [45. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Case Studies
 
@@ -1054,7 +1052,7 @@
 *   [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
 *   [Web Component Essentials](https://leanpub.com/web-component-essentials) - Book by Cory Rylan, early preview edition available at Leanpub.
 
-## [45. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [46. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Self-Hosted Services
 
@@ -1068,19 +1066,19 @@
 
 *   [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 
-## [46. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [47. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Deployment
 
 *   Docker
     *   [emk/rust-musl-builder (⭐1.3k)](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
-    *   [kpcyrd/mini-docker-rust (⭐148)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
-    *   [liuchong/docker-rustup (⭐80)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
-    *   [LukeMathWalker/cargo-chef (⭐758)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [messense/rust-musl-cross (⭐333)](https://github.com/messense/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![build badge](https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master)](https://travis-ci.org/messense/rust-musl-cross)
-    *   [rust-lang-nursery/docker-rust (⭐306)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
+    *   [kpcyrd/mini-docker-rust (⭐150)](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images [![build badge](https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master)](https://travis-ci.org/kpcyrd/mini-docker-rust)
+    *   [liuchong/docker-rustup (⭐83)](https://github.com/liuchong/docker-rustup) — A multiple version (with musl tools) Rust Docker image
+    *   [LukeMathWalker/cargo-chef (⭐820)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+    *   [messense/rust-musl-cross (⭐354)](https://github.com/messense/rust-musl-cross) — Docker images for compiling static Rust binaries using musl-cross [![build badge](https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master)](https://travis-ci.org/messense/rust-musl-cross)
+    *   [rust-lang-nursery/docker-rust (⭐321)](https://github.com/rust-lang/docker-rust) — the official Rust Docker image
 
-## [47. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [48. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -1110,19 +1108,19 @@
 
 ### Contents / Hardware
 
-*   [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs (⭐170)](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
+*   [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs (⭐176)](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
 
 ### Contents / Articles & Posts
 
 *   [Indie Retro News](https://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html) - A great introduction to PICO-8 by [@ABrugsch](https://twitter.com/ABrugsch).
 
-## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [49. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [Gradle buildSrcVersions (⭐1.4k)](https://github.com/jmfayard/buildSrcVersions) - A kotlin dsl to simplify dependencies management
 
-## [49. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [50. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Miscellaneous / Server-Side Request Forgery
 

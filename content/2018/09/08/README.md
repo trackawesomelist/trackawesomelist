@@ -40,7 +40,7 @@
 
 ### Software / URL Shorteners
 
-*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐6.3k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
+*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐6.6k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 
 ## [7. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

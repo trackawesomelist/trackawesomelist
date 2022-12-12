@@ -53,7 +53,7 @@
 
 ### Validations
 
-*   [form (⭐38)](https://github.com/synrc/form) - Document forms and validation library.
+*   [form (⭐39)](https://github.com/synrc/form) - Document forms and validation library.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -98,11 +98,11 @@
 ### Document
 
 *   Khronos
-    *   [Vulkan Guide (⭐1.3k)](https://github.com/KhronosGroup/Vulkan-Guide)
+    *   [Vulkan Guide (⭐1.4k)](https://github.com/KhronosGroup/Vulkan-Guide)
 
 ### Bindings
 
-*   [vulkan-zig (⭐187)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
+*   [vulkan-zig (⭐190)](https://github.com/Snektron/vulkan-zig) - Vulkan binding generator for Zig \[MIT]
 
 ---
 

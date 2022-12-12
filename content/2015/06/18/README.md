@@ -22,7 +22,7 @@
 
 ### Templating Engines / Runner
 
-*   [xtemplate (⭐554)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+*   [xtemplate (⭐553)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

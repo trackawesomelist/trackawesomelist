@@ -202,11 +202,6 @@ A curated list of awesome developer-first tools products.
 
 *   [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
 
-### Monitoring
-
-*   [Statuspal](https://statuspal.io) - Public/Private status pages for services with integrations.
-*   [instatus](https://instatus.com) - Minimalist Jamstack status page.
-
 ### Reports Generation
 
 *   [Carbone](https://carbone.io/) - JSON into PDF, DOCX, XLSX, PPTX, ODS... API.
@@ -241,10 +236,6 @@ A curated list of awesome developer-first tools products.
 
 *   [Lightrun](https://www.lightrun.com) - Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 *   [Rookout](https://www.rookout.com) - Debug production servers via a cloud-based debugger. Supporting Java, .Net, Node.js, Python, and Ruby.
-
-### Monitoring
-
-*   [Dashbird](https://dashbird.io/) - Serverless realtime monitoring.
 
 ### Scraping
 

@@ -42,7 +42,7 @@
 
 ### Logging
 
-*   [Exceptionless (⭐478)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
+*   [Exceptionless (⭐488)](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 
 ## [3. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-db (⭐254)](https://github.com/crystal-lang/crystal-db) - Common db api
+*   [crystal-db (⭐257)](https://github.com/crystal-lang/crystal-db) - Common db api
 
 ---
 

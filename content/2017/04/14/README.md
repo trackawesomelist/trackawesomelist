@@ -10,7 +10,7 @@
 
 ### HTTP Clients
 
-*   [httplib2 (⭐453)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
+*   [httplib2 (⭐457)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
 
 ## [2. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-js-modal (⭐4.1k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
+*   [vue-js-modal (⭐4.2k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
 ## [6. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 

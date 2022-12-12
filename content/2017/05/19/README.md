@@ -90,7 +90,7 @@
 
 ### Localization
 
-*   [sl\_SI (⭐10)](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
+*   [sl\_SI (⭐11)](https://github.com/symfony-si/magento2-sl-si) 🇸🇮 - Slovenian Language Package.
 
 ## [10. Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md)
 

@@ -48,7 +48,7 @@
 
 ### Tools and frameworks
 
-*   [AyeSpy (⭐169)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
+*   [AyeSpy (⭐173)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
 ## [8. Awesome Vscode](/content/viatsko/awesome-vscode/README.md)
 

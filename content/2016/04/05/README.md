@@ -34,7 +34,7 @@
 
 ### Logging
 
-*   [logster (⭐184)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
+*   [logster (⭐186)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
 
 ### Release Management
 
@@ -105,7 +105,7 @@
 
 ### Tools
 
-*   [Myrtille (⭐1.4k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
+*   [Myrtille (⭐1.5k)](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 
 ## [12. Codeface](/content/chrissimpkins/codeface/README.md)
 

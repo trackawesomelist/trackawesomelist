@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 16, 2020
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,21 +26,21 @@
 
 ### Meshing / Triangular and tetrahedral meshing
 
-*   [pygmsh (⭐651)](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
+*   [pygmsh (⭐665)](https://github.com/nschloe/pygmsh) - Python interface for Gmsh.
     (Python, GPL 3, GitHub)
-*   [pygalmesh (⭐417)](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
+*   [pygalmesh (⭐430)](https://github.com/nschloe/pygalmesh) - Python interface for CGAL's 3D meshing capabilities.
     (Python, GPL 3, GitHub)
-*   [dmsh (⭐164)](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
+*   [dmsh (⭐169)](https://github.com/nschloe/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
     (Python, GPL 3, GitHub)
 
 ### Visualization / Mesh tools
 
 *   [vedo](https://vedo.embl.es) - Library for scientific analysis and visualization of 3D objects based on VTK.
-    (Python, MIT, [GitHub (⭐1.4k)](https://github.com/marcomusy/vedo))
+    (Python, MIT, [GitHub (⭐1.5k)](https://github.com/marcomusy/vedo))
 
 ### Other libraries and tools / Mesh tools
 
-*   [quadpy (⭐682)](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python.
+*   [quadpy (⭐695)](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python.
     (Python, GPL 3, GitHub)
 *   [accupy (⭐95)](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
     (Python, GPL 3, GitHub)
@@ -66,7 +66,7 @@
 ### SCALE Codec
 
 *   [AssemblyScript (⭐18)](https://github.com/LimeChain/as-scale-codec) - Maintained by LimeChain.
-*   [Python (⭐49)](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
+*   [Python (⭐51)](https://github.com/polkascan/py-scale-codec) - Maintained by Polkascan Foundation.
 
 ## [7. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
@@ -110,11 +110,11 @@
 
 ### Component bundles
 
-*   [Smart UI for Blazor (⭐34)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
+*   [Smart UI for Blazor (⭐35)](https://github.com/htmlelements/smart-blazor) - ![last commit](https://img.shields.io/github/last-commit/https://github.com/htmlelements/smart-blazor?style=flat-square\&cacheSeconds=86400) Component library for Blazor including Grid, Kanban, Gantt, Chart, Docking, Pivot and more. [Website](https://www.htmlelements.com/blazor/).
 
 ## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
-### Articles / Wasm
+### Articles / Frameworks
 
 *   [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/post/11627-Yew-Rust-WebAsse-frontend-framework)
 
@@ -128,13 +128,13 @@
 
 ### Machine Learning
 
-*   [rumale (⭐617)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐618)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [14. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Web Frameworks
 
-*   [grip (⭐238)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
+*   [grip (⭐242)](https://github.com/grip-framework/grip) - The microframework for writing powerful web applications
 
 ## [15. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -171,6 +171,28 @@
 ### Programming / Functional
 
 *   [Functional Jobs](https://www.functionaljobs.com/) - Job board for functional programmers
+
+## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Assembly Language / Blazor
+
+*   [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/\~thiebaut/ArtOfAssembly/artofasm.html) - Randall Hyde (PDF)
+
+### C / Non-X86
+
+*   [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
+
+### Neo4J / PicoLisp
+
+*   [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) - William Lyon (PDF) *(email requested)*
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)
+
+### Scratch / Play Scala
+
+*   [Scratch Programming Playground](https://inventwithscratch.com/book/) - Al Sweigart (HTML)
 
 ---
 

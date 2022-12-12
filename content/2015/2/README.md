@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12 - Jan 18, 2015
 
-19 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -179,11 +179,17 @@
 *   [lupa (⭐841)](https://github.com/scoder/lupa) - Python bindings to LuaJIT2.
 *   [golua (⭐598)](https://github.com/aarzilli/golua) - Golang bindings to the Lua C API.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Scheme / Play Scala
+
+*   [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
+
+## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### API Builder and Discovery
 
-*   [Blanket (⭐464)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
+*   [Blanket (⭐465)](https://github.com/inf0rmer/blanket) - A dead simple API wrapper.
 
 ### Automation
 
@@ -198,19 +204,19 @@
 *   [Ohm (⭐1.4k)](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
 *   [ROM (⭐2k)](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
-*   [retter (⭐77)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+*   [retter (⭐79)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 
 ### Inter-process communication
 
-*   [libjson-rpc-cpp (⭐821)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
+*   [libjson-rpc-cpp (⭐828)](https://github.com/cinemast/libjson-rpc-cpp) - JSON-RPC framework for C++ servers and clients. \[MIT]
 *   [nanomsg (⭐5.5k)](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". \[MIT] [website](http://nanomsg.org/)
 *   [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. \[BSD]
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Bittorrent
 
@@ -219,7 +225,7 @@
 ### Build Tools
 
 *   [dismake (⭐4)](https://github.com/jarednorman/dismake) - Mix compiler running make.
-*   [reaxt (⭐361)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
+*   [reaxt (⭐363)](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
 
 ### Cryptography
 
@@ -234,9 +240,9 @@
 
 ### Framework Components
 
-*   [plug\_rails\_cookie\_session\_store (⭐94)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
+*   [plug\_rails\_cookie\_session\_store (⭐95)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 *   [plugs (⭐18)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
-*   [plugsnag (⭐65)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
+*   [plugsnag (⭐66)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 
 ### Miscellaneous
 
@@ -256,7 +262,7 @@
 
 ### Testing
 
-*   [pavlov (⭐128)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
+*   [pavlov (⭐129)](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 
 ### Text and Numbers
 
@@ -269,9 +275,9 @@
 *   [digoc (⭐11)](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
 *   [exgrid (⭐7)](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 *   [fluent\_client (⭐8)](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.
-*   [slack (⭐633)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
+*   [slack (⭐635)](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 
-## [17. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [18. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -298,7 +304,7 @@
 
 *   [Brain (⭐8k)](https://github.com/harthur/brain)
 
-## [18. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [19. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -330,7 +336,7 @@
 
 
 
-## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [20. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Alert / Barcode
 

@@ -6,9 +6,9 @@
 
 
 
-## [1. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
-### Frameworks, Libraries and Tools / Misc
+### Misc
 
 *   [YoutubeExplode (⭐2.1k)](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
 
@@ -51,7 +51,7 @@
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Javascript / Misc
+### JavaScript / Misc
 
 *   [stdlib (⭐3.1k)](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 

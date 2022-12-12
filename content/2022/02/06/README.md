@@ -16,7 +16,7 @@
 
 ### Libraries / General Purpose
 
-*   [CGRtools (⭐24)](https://github.com/cimm-kzn/CGRtools) - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
+*   [CGRtools (⭐26)](https://github.com/cimm-kzn/CGRtools) - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
 
 ## [3. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 
@@ -41,11 +41,11 @@
 
 ### Driver crates / Other
 
-*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐2)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
+*   [AHT20-driver](https://crates.io/crates/aht20-driver) - I2C - Humidity and temperature sensor - [Intro blog post](http://www.rawmeat.org/code/20220130-aht20_driver/) - [github (⭐3)](https://github.com/anglerud/aht20-driver) - ![crates.io](https://img.shields.io/crates/v/aht20-driver.svg)
 
 ## [5. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
-### Articles / Wasm
+### Articles / Frameworks
 
 *   [Create a desktop app in Rust using Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe)
 
@@ -77,8 +77,8 @@
 
 ### Open Source / Other
 
-*   [Browserosaurus (⭐1.1k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐595)](https://github.com/lostdesign/linked) - Daily journal.
+*   [Browserosaurus (⭐1.2k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
+*   [linked (⭐626)](https://github.com/lostdesign/linked) - Daily journal.
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

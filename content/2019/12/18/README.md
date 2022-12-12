@@ -23,7 +23,7 @@
 
 ### Resources / Learning
 
-*   [Nix Notes (⭐46)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
+*   [Nix Notes (⭐45)](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 
 ## [4. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Audio
 
-*   [SwiftAudioPlayer (⭐398)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
+*   [SwiftAudioPlayer (⭐409)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
 
 ## [9. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/README.md)
 

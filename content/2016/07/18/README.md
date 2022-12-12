@@ -68,7 +68,7 @@
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐41k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
+*   :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov (⭐42k)](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
 ## [7. Typography](/content/deanhume/typography/README.md)
 

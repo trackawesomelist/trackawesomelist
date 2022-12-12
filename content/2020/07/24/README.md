@@ -1,18 +1,61 @@
 # Awesome List Updates on Jul 24, 2020
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [1. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+
+### Demos / App and layout tools
+
+*   [React todo list](https://twitter.com/sharifshameem/status/1284421499915403264?s=09)
+*   [GPT-3 generating color scales from color name or emojis](https://twitter.com/hturan/status/1282381985642614790)
+
+### Demos / Search and data analysis
+
+*   [Creating charts from a description](https://twitter.com/nutanc/status/1285436266276745221)
+*   [Natural-language interface to spreadsheet by generating code](https://twitter.com/itsyashdani/status/1285695850300219392)
+*   [Generating and iteratively updating graphs](https://twitter.com/plotlygraphs/status/1286688715167936512)
+
+### Demos / Program generation and analysis
+
+*   [Generating database-specific SQL code](https://twitter.com/FaraazNishtar/status/1285934622891667457)
+
+### Demos / Text generation
+
+*   [Translating into several languages](https://www.johnfaben.com/blog/gpt-3-translations)
+*   [Write this like an attorney](https://twitter.com/f_j_j_/status/1283349995144359937)
+*   [Automatically generating Request for Admissions](https://twitter.com/f_j_j_/status/1284050844787200000)
+*   [Writing full emails from key points](https://twitter.com/OthersideAI/status/1285776335638614017)
+*   [Iteratively drafted non-literal poetry translation with annotations](https://imgur.com/a/3rmMVHC)
+*   [Rephrasing sentences to be more polite](https://twitter.com/eturner303/status/1285342431244763136)
+*   [Summarizing famous people thoughts](https://twitter.com/paraschopra/status/1284423233047900161)
+
+### Demos / Content creation
+
+*   [Content creation for marketing](https://twitter.com/Siddharth87/status/1282823354567626754)
+*   [Writing Google ads](https://twitter.com/Siddharth87/status/1282823360825581568)
+*   [Shakespeare-style poetry generation](https://twitter.com/Merzmensch/status/1282957710024159234)
+*   [Generating history questions, with answers](https://twitter.com/mckaywrigley/status/1285827683776004096)
+
+### Demos / General reasoning
+
+*   [Physics questions](https://www.lesswrong.com/posts/L5JSMZQvkBAx9MD5A/to-what-extent-is-gpt-3-capable-of-reasoning)
+*   [GPT-3 doing math](https://twitter.com/kleptid/status/1284069270603866113/photo/1)
+*   [Responding medical questions](https://twitter.com/QasimMunye/status/1278750809094750211)
+*   [Coping with non-sense questions](https://twitter.com/nicklovescode/status/1284050958977130497)
+*   [Reasoning questions](https://www.reddit.com/r/MachineLearning/comments/hvssqn/d_gpt3_demos/fyylreb/)
+*   [Working through questions in multiple steps](https://twitter.com/nnotm/status/1285915609952288770)
+
+## [2. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### TextField & TextView / Collection View Layout
 
 *   [Streamoji (⭐241)](https://github.com/getstream/Streamoji) - Custom emoji rendering library with support for GIFs and images, UITextView extension.
 
-## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Resources / Books
 
@@ -21,7 +64,7 @@
 
 ### Libraries / Elixir
 
-*   [mongodb (⭐537)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
+*   [mongodb (⭐539)](https://github.com/kobil-systems/mongodb) - Community Elixir driver
 *   [mongodb\_ecto (⭐348)](https://github.com/kobil-systems/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Libraries / PHP
@@ -31,13 +74,13 @@
 
 ### Tools / Development
 
-*   [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. development services and SDK
+*   [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. solution for mobile data sync
 
 ### Tools / Monitoring
 
 *   [Solarwindws Database Performance Monitor](https://www.solarwinds.com/database-performance-monitor) - SaaS-based query performance analytics and monitoring
 
-## [3. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Books
 
@@ -47,62 +90,62 @@
 
 *   [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Data Visualization / Runner
 
 *   [Frappe Charts (⭐15k)](https://github.com/frappe/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
-*   [Frappe Gantt (⭐3.3k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
+*   [Frappe Gantt (⭐3.4k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 
-## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Components / Rich Text Editor
 
-*   [ckeditor4-react (⭐78)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
-*   [ckeditor5-react (⭐348)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
+*   [ckeditor4-react (⭐79)](https://github.com/ckeditor/ckeditor4-react) - An official CKEditor 4 rich text editor wrapper.
+*   [ckeditor5-react (⭐352)](https://github.com/ckeditor/ckeditor5-react) - An official CKEditor 5 rich text editor wrapper.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Integrations / Components
 
 *   [ckeditor5-angular (⭐180)](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+
 *   [ckeditor4-angular (⭐43)](https://github.com/ckeditor/ckeditor4-angular) - An official CKEditor 4 rich text editor component for Angular 2+
 
-## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [8. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Articles & Papers / Scala
 
 *   [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/) - Introduction to Uber Engineering generalized approach to microservice architectures, named “Domain-Oriented Microservice Architecture” (DOMA).
 
-## [8. Awesome Corda](/content/chainstack/awesome-corda/README.md)
+## [9. Awesome Corda](/content/chainstack/awesome-corda/README.md)
 
 ### Learning and online courses
 
 *   [Official Corda Training Platform](https://training.corda.net/) - Free training platform maintained by R3 (Corda + SDKs). Self-paced with optional support.
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [How to Introduce Wardley Mapping to Different Strata of the Organization](https://learnwardleymapping.com/2020/07/22/how-to-introduce-wardley-mapping-to-different-strata-of-the-organization/) - What is the best way to introduce Wardley Mapping to different groups? Jul 22, 2020.
 
-## [10. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Sensor Processing / Image Processing
 
 *   [anonymizer (⭐238)](https://github.com/understand-ai/anonymizer) - An anonymizer to obfuscate faces and license plates.
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
-*   [gitui (⭐11k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
+*   [gitui (⭐12k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git written in Rust. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
 
 ### Libraries / Macro
 
-*   [Linq-in-Rust (⭐85)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
+*   [Linq-in-Rust (⭐91)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
 
-## [12. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
+## [13. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
 ### Construct Libraries / Databases
 
@@ -117,13 +160,13 @@
 
 *   [cdk-time-bomb (⭐34)](https://github.com/jmb12686/cdk-time-bomb) - CDK Construct that implodes your AWS CDK Stack after a set amount of time.
 
-## [13. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [14. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Web Frameworks
 
-*   [Cloudopt Next (⭐301)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
+*   [Cloudopt Next (⭐304)](https://github.com/cloudoptlab/cloudopt-next) - Cloudopt Next is a very lightweight and modern, JVM-based, full stack kotlin framework designed for building modular, easily testable JVM applications with support for Java, Kotlin language, crafted from the best of breed Java libraries and standards.
 
-## [14. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [15. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### FReMP: Flask ReactJS MongoDB Python   [↗](https://awesomestacks.dev/fremp-flask-reactjs-mongodb-python) / Resources
 
@@ -138,7 +181,7 @@
 *   [Github](https://github.com/FReMP)
 *   [Boilerplate (⭐13)](https://github.com/FReMP/fremp)
 
-## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [16. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 

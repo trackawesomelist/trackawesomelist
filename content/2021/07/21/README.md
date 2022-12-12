@@ -10,7 +10,7 @@
 
 ### Installation and Setup / Testing Tools
 
-*   [Lintier (⭐9)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
+*   [Lintier (⭐13)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
 
 ## [2. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
@@ -22,35 +22,25 @@
 
 ### Themes
 
-*   [tmux-nova (⭐60)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
+*   [tmux-nova (⭐63)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Using RxJava 2 Tutorial](https://www.vogella.com/tutorials/RxJava/article.html) - Lars Vogel, Simon Scholz (HTML)
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
 *   [Deploy Now](https://deploynow.space) — Deploy smarter. Deploy faster. Deploy Now. - Deploy up to 3 web projects from your GitHub repository for free.
 
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [Building a face recognition app with #Blazor and Azure Cognitive Services](https://www.pscp.tv/w/1LyxBdodYqyGN) - July 20, 2021 - Building a face recognition app with Blazor and Azure Cognitive Services. [Source code (⭐6)](https://github.com/JeremyMorgan/BlazorFaceRec) ![stars](https://img.shields.io/github/stars/JeremyMorgan/BlazorFaceRec?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JeremyMorgan/BlazorFaceRec?style=flat-square\&cacheSeconds=86400).
-*   [Visual Studio 2022 Preview 2 - Overview](https://www.youtube.com/watch?v=eUk8cpQv9Eg\&t=227s) - ![duration](https://img.shields.io/badge/Duration:%20-6%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) July 14, 2021 - This video shows some the new features in Visual Studio 2022 preview 2.
-
-### Articles / Others
-
-*   [The .NET Stacks #57: Taking a look at Blazor Error Boundaries](https://www.daveabrock.com/2021/07/18/dotnet-stacks-57/) - July 18, 2021 - Let's take a look at Blazor Error Boundaries and Minimal API improvements.
-
-### Podcasts / Others
-
-*   [bUnit, TDD, and Sci-fi with Egil Hansen](http://codingafterwork.com/2021/07/18/episode-59-bunit-tdd-and-sci-fi-with-egil-hansen/) - July 18, 2021 - In this episode, Jimmy and Jessica talk to Egil Hansen about bUnit, test-driven development, and Sci-fi. Duration: 72 minutes.
-*   [Blazor with Chris Sainty](https://unhandledexceptionpodcast.com/posts/0019-blazor/) - July 13, 2021 - In this episode, I was thrilled to be joined by Chris Sainty to chat all about Blazor! Blazor is a new .NET technology allowing you to build SPA-like frontend web UIs in C#! Very focused on developer productivity and componentisation - Blazor is certainly going to become my go-to for frontends moving forward! And chatting with Chris in this episode, has shown me even more reasons why Blazor is becoming so immensely popular.
-
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Neovim Lua Development / Diagnostics
 
-*   [MunifTanjim/nui.nvim (⭐610)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
+*   [MunifTanjim/nui.nvim (⭐669)](https://github.com/MunifTanjim/nui.nvim) - UI Component Library.
 
 ## [7. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -140,7 +130,7 @@
 
 ### Integrations / Mypy plugins
 
-*   [nbQA (⭐610)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
+*   [nbQA (⭐634)](https://github.com/nbQA-dev/nbQA) - Run type checkers (e.g. Mypy) on Jupyter Notebooks.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -158,27 +148,27 @@
 
 ### Code generators / Individual Podcast episodes
 
-*   [Elm TS Interop (⭐33)](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
-*   [Elm TypeScript Interop (⭐166)](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
+*   [Elm TS Interop (⭐35)](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
+*   [Elm TypeScript Interop (⭐165)](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
 *   [haskell-to-elm (⭐56)](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
-*   [PostCSS Elm Tailwind (⭐98)](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
+*   [PostCSS Elm Tailwind (⭐100)](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
 
 ### Other tools / Unmaintained
 
 *   [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools.
 *   [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
-*   [Elm Doc Preview (⭐121)](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
+*   [Elm Doc Preview (⭐122)](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
 *   [Elm Format (⭐1.3k)](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-*   [Elm JSON (⭐166)](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
+*   [Elm JSON (⭐167)](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
 *   [Elm Oracle (⭐154)](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-*   [type-o-rama (⭐239)](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+*   [type-o-rama (⭐238)](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 *   [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
-*   [Litvis (⭐349)](https://github.com/gicentre/litvis) - Literate Visualization with Elm
+*   [Litvis (⭐351)](https://github.com/gicentre/litvis) - Literate Visualization with Elm
 
 ### Static analysis / Outdated Boilerplates
 
-*   [Elm Analyse (⭐423)](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
-*   [Elm Review (⭐205)](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
+*   [Elm Analyse (⭐422)](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+*   [Elm Review (⭐213)](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
 
 ### Static site generators / Outdated Boilerplates
 
@@ -221,15 +211,15 @@
 
 ### Editor plugins / Sublime Text
 
-*   [LSP-elm (⭐6)](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
-*   [Elm Language Server (⭐370)](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
+*   [LSP-elm (⭐7)](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
+*   [Elm Language Server (⭐372)](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
 *   [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
 *   [Elm Format on Save (⭐18)](https://github.com/evancz/elm-format-on-save) - Sublime Text plugin to run elm-format on save.
 
 ### Editor plugins / Vim/Neovim
 
 *   [theJian/elm.vim (⭐0)](https://github.com/theJian/elm.vim) - Elm syntax highlighting. Use with [ale or Neoformat for Neovim (⭐1.3k)](https://github.com/avh4/elm-format/issues/610) since ElmCast/elm-vim does not support Elm 0.19.
-*   [ElmCast/elm-vim (⭐578)](https://github.com/ElmCast/elm-vim) - Elm 0.18 mode for Vim/Neovim.
+*   [ElmCast/elm-vim (⭐577)](https://github.com/ElmCast/elm-vim) - Elm 0.18 mode for Vim/Neovim.
 *   [vim-elm-help (⭐7)](https://github.com/hoelzro/vim-elm-help) - Offline Elm documentation access in your editor.
 *   [emmet-vim (⭐6.1k)](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
 

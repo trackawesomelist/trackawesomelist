@@ -16,20 +16,20 @@
 
 ### Packages / Mad science
 
-*   [webcat (⭐424)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
+*   [webcat (⭐427)](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 
 ### Packages / Command-line apps
 
-*   [wallpaper (⭐909)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+*   [wallpaper (⭐915)](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 
 ### Packages / Text
 
-*   [camelcase (⭐590)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+*   [camelcase (⭐599)](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 
 ### Resources / Miscellaneous
 
 *   [node-module-boilerplate (⭐702)](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
-*   [generator-nm (⭐731)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
+*   [generator-nm (⭐733)](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 ## [3. Awesome Open Company](/content/opencompany/awesome-open-company/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Assembly Manipulation
 
-*   [Mono.Cecil (⭐2.3k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
+*   [Mono.Cecil (⭐2.4k)](https://github.com/jbevain/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 
 ## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -67,20 +67,20 @@
 
 ### Build Tools
 
-*   [active (⭐65)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
-*   [mad (⭐174)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
+*   [active (⭐66)](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
+*   [mad (⭐175)](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 
 ### CSV
 
-*   [csv (⭐435)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
+*   [csv (⭐444)](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 
 ### Debugging
 
-*   [eper (⭐440)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
+*   [eper (⭐439)](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 
 ### Files and Directories
 
-*   [fs (⭐216)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
+*   [fs (⭐215)](https://github.com/synrc/fs) - Erlang FileSystem Listener.
 
 ### HTTP
 

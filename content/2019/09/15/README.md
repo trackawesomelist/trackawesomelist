@@ -16,7 +16,7 @@
 
 ### Statistics / NLP
 
-*   [statsmodels (⭐7.8k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+*   [statsmodels (⭐7.9k)](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## [3. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -42,11 +42,11 @@
 
 ### Images / Barcode
 
-*   [YPImagePicker (⭐3.9k)](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
+*   [YPImagePicker (⭐4k)](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
 
 ### Phone Numbers / Barcode
 
-*   [NKVPhonePicker (⭐138)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
+*   [NKVPhonePicker (⭐140)](https://github.com/NikKovIos/NKVPhonePicker) - An UITextField subclass to simplify country code's picking.
 
 ## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 

@@ -20,7 +20,7 @@
 
 ### Resources / Examples
 
-*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐39)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
+*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐38)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
 
 ### Projects Using Vue.js / Open Source
 
@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modaltor (⭐83)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
+*   [vue-modaltor (⭐82)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
 
 ## [3. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
@@ -40,18 +40,18 @@
 
 ### Tools and frameworks
 
-*   [Look-alike (⭐27)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
-*   [Differencify (⭐610)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐80k)](https://github.com/GoogleChrome/puppeteer).
+*   [Look-alike (⭐29)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
+*   [Differencify (⭐613)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer).
 
 ### Blog posts
 
-*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐610)](https://github.com/NimaSoroush/differencify) and how to use it.
+*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐613)](https://github.com/NimaSoroush/differencify) and how to use it.
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
 ### Open Source / Other
 
-*   [Nuclear (⭐9.4k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐9.6k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### Community / Other
 

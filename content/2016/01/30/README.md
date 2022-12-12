@@ -10,7 +10,7 @@
 
 ### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
 
-*   [Writing native (⭐361)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
+*   [Writing native (⭐360)](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
 ## [2. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
@@ -207,7 +207,7 @@
 
 ### Framework Components
 
-*   [params (⭐307)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐309)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐3)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Text and Numbers

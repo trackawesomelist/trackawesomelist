@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 20, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -83,25 +83,19 @@
 
 ### Authentication
 
-*   [phx\_gen\_auth (⭐794)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
+*   [phx\_gen\_auth (⭐791)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
 
 ### Security
 
-*   [Ockam (⭐2.6k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
+*   [Ockam (⭐2.7k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Articles / Others
-
-*   [Displaying lists efficiently in Blazor](https://visualstudiomagazine.com/articles/2021/01/06/blazor-lists.aspx) - January 6, 2021 - Blazor's Virtualize component will let you display long lists faster without writing a lot of code. If you want to take full advantage of the component, however, you'll need a relatively smart repository to back it up.
-
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Web Monetization (⭐232)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
+*   [Web Monetization (⭐237)](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 
-## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tutorials
 
@@ -116,7 +110,7 @@
 
 ### Tools and session management
 
-*   [libtmux (⭐809)](https://github.com/tmux-python/libtmux) Python API for tmux
+*   [libtmux (⭐817)](https://github.com/tmux-python/libtmux) Python API for tmux
 *   [teamocil (⭐2.2k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 *   [tmuxp (⭐3.5k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 
@@ -124,20 +118,20 @@
 
 *   [tmux 2: Productive Mouse-Free Development](https://pragprog.com/book/bhtmux2/tmux-2/)
 
-## [10. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
+## [9. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
 *   Java: [jvppeteer (⭐468)](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java
 *   Go: [Rod (⭐2.9k)](https://github.com/go-rod/rod)
 
-## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
-*   [embassy (⭐1.1k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
+*   [embassy (⭐1.3k)](https://github.com/akiles/embassy): A set of embedded async tools to make async/await a first-class option for embedded development
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Translation Management
 
@@ -147,13 +141,13 @@
 
 *   [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.
 
-## [13. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [12. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Containers
 
 *   [Sitecore Docker Tools (⭐24)](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints which can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
 
-## [14. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [13. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### SDKs and Samples / Unity SDK
 

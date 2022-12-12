@@ -194,7 +194,7 @@
 
 ### Recommender Systems
 
-*   [annoy (⭐10k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
+*   [annoy (⭐11k)](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
 *   [fastFM (⭐1k)](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
 *   [implicit (⭐3k)](https://github.com/benfred/implicit) - A fast Python implementation of collaborative filtering for implicit datasets.
 
@@ -364,7 +364,7 @@
 
 ### Scheduling
 
-*   [schedule.cr (⭐69)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
+*   [schedule.cr (⭐70)](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## [28. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -440,11 +440,11 @@
 
 ### Networking
 
-*   [Breep (⭐111)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
+*   [Breep (⭐110)](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. \[EUPL-1.1 (OSI approved)]
 
 ### Miscellaneous
 
-*   [Kangaru (⭐362)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
+*   [Kangaru (⭐366)](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. \[MIT]
 
 ## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -495,7 +495,7 @@
 
 ### Go / Natural Language Processing
 
-*   [word-embedding (⭐379)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
+*   [word-embedding (⭐382)](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
 
 ### Java / General-Purpose Machine Learning
 
@@ -505,7 +505,7 @@
 
 ### Open Source / Other
 
-*   [Insomnia (⭐24k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+*   [Insomnia (⭐25k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
 ## [41. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 

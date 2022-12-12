@@ -26,7 +26,7 @@
 
 ### Bindings
 
-*   [PasVulkan (⭐159)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
+*   [PasVulkan (⭐161)](https://github.com/BeRo1985/pasvulkan) - Vulkan bindings plus high-level wrapper library for Object Pascal \[Zlib]
 
 ## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -94,13 +94,13 @@
 
 *   [deno.mk (⭐13)](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
 *   maxmcd's [deno-docker (⭐74)](https://github.com/maxmcd/deno-docker) A docker image.
-*   hayd's [deno-docker (⭐698)](https://github.com/hayd/deno-docker) Several docker images.
+*   hayd's [deno-docker (⭐705)](https://github.com/hayd/deno-docker) Several docker images.
 
 ## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Boilerplate / Mouse Events
 
-*   [phoenix (⭐144)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
+*   [phoenix (⭐147)](https://github.com/Sazito/phoenix) - A simple boilerplate that helps you make your react application with Server Side Rendering & Localization support.
 
 ## [16. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -122,13 +122,13 @@
 
 ## [19. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
-### Payments / European VAT
+### Payments / Electronic invoices
 
 *   [Handling system failures during payment communication](https://blogs.dropbox.com/tech/2017/09/handling-system-failures-during-payment-communication/) - Dropbox's experience trying to account for an unreliable payment provider.
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐151)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐152)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ---
 

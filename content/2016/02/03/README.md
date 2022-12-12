@@ -6,9 +6,9 @@
 
 
 
-## [1. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [1. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
-### Web
+### Resources / Discovery
 
 *   [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 
@@ -41,7 +41,7 @@
 
 ### Database Tools
 
-*   [Scenic (⭐3k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
+*   [Scenic (⭐3.1k)](https://github.com/thoughtbot/scenic) - Versioned database views for Rails.
 
 ## [6. Julia.jl](/content/svaksha/Julia.jl/README.md)
 

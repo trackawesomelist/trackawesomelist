@@ -32,7 +32,7 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐606)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐612)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 

@@ -26,9 +26,9 @@
 
 ### Authentication and Authorization
 
-*   :strawberry: [Authentication plugin (⭐97)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   :strawberry: [Authorization plugin (⭐62)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   :strawberry: [TinyAuth plugin (⭐123)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
+*   :strawberry: [Authentication plugin (⭐99)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   :strawberry: [Authorization plugin (⭐63)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   :strawberry: [TinyAuth plugin (⭐124)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
@@ -50,14 +50,14 @@
 
 ### ORM / Database / Datamapping
 
-*   :strawberry: [ADmad/Sequence plugin (⭐41)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
-*   :strawberry: [Duplicatable plugin (⭐44)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+*   :strawberry: [ADmad/Sequence plugin (⭐42)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
+*   :strawberry: [Duplicatable plugin (⭐45)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 *   :strawberry: [Muffin/Orderly plugin (⭐21)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 *   :strawberry: [Muffin/Webservices ORM plugin (⭐84)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 
 ### PDF
 
-*   :strawberry: [CakePdf plugin (⭐373)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+*   :strawberry: [CakePdf plugin (⭐372)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ### Security
 
@@ -69,8 +69,8 @@
 
 ### Templating
 
-*   :strawberry: [Bake plugin (⭐93)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   :strawberry: [BootstrapUI plugin (⭐318)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
+*   :strawberry: [Bake plugin (⭐94)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   :strawberry: [BootstrapUI plugin (⭐319)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 *   :strawberry: [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)

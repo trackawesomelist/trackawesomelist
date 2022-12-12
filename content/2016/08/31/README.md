@@ -26,11 +26,11 @@
 
 ### Miscellaneous
 
-*   [spotify\_ex (⭐140)](https://github.com/jsncmgs1/spotify_ex) - An Elixir wrapper for the Spotify Web API.
+*   [spotify\_ex (⭐143)](https://github.com/jsncmgs1/spotify_ex) - An Elixir wrapper for the Spotify Web API.
 
 ### Statistics
 
-*   [numerix (⭐177)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
+*   [numerix (⭐178)](https://github.com/safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
 
 ### Third Party APIs
 
@@ -38,11 +38,11 @@
 
 ### Utilities
 
-*   [retry (⭐397)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+*   [retry (⭐405)](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ### Video
 
-*   [ffmpex (⭐186)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
+*   [ffmpex (⭐189)](https://github.com/talklittle/ffmpex) - FFmpeg command line wrapper.
 
 ## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 

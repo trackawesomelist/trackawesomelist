@@ -54,7 +54,7 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐943)](https://github.com/PagerDuty/incident-response-docs).
+*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐945)](https://github.com/PagerDuty/incident-response-docs).
 
 ## [8. Awesome Couchdb](/content/quangv/awesome-couchdb/README.md)
 

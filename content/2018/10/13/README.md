@@ -40,7 +40,7 @@
 
 ### Misc
 
-*   [Guard (⭐655)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+*   [Guard (⭐671)](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -56,7 +56,7 @@
 
 ### CSV / Third-party APIs
 
-*   [cl-decimals (⭐18)](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
+*   [cl-decimals (⭐19)](https://github.com/tlikonen/cl-decimals) - Decimal number parser and formatter. Public domain.
 
 ## [9. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -135,8 +135,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐190)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐504)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐194)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐509)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -144,11 +144,11 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐311)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐312)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐475)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐478)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
@@ -156,13 +156,13 @@
 
 ### Packages / Authorization
 
-*   [node-casbin (⭐2k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
+*   [node-casbin (⭐2.1k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 ## [12. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Patterns
 
-*   [CleanArchitectureRxSwift (⭐3.5k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
+*   [CleanArchitectureRxSwift (⭐3.6k)](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
 
 ## [13. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

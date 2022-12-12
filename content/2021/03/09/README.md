@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 09, 2021
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -65,7 +65,7 @@
 
 ### Miscellaneous
 
-*   [Translations (⭐58)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Translations (⭐64)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
 ## [8. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -81,17 +81,17 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-diagram-editor (⭐70)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
+*   [vue-diagram-editor (⭐71)](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
 ## [10. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mpa (⭐149)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
+*   [vite-plugin-mpa (⭐158)](https://github.com/IndexXuan/vite-plugin-mpa) - Out-of-box multi-page application (MPA) integration.
 
 ### Vue CLI / Community
 
-*   [vue-cli-plugin-vite (⭐373)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
+*   [vue-cli-plugin-vite (⭐376)](https://github.com/IndexXuan/vue-cli-plugin-vite) - Use Vite on Vue CLI with minimize codebase modifications.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -99,9 +99,9 @@
 
 *   [QuestDB](https://questdb.io/) A relational column-oriented database designed for real-time analytics on time series and event data.
 
-### Javascript / General-Purpose Machine Learning
+### JavaScript / General-Purpose Machine Learning
 
-*   [WebDNN (⭐1.9k)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network Javascript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
+*   [WebDNN (⭐1.9k)](https://github.com/mil-tokyo/webdnn) - Fast Deep Neural Network JavaScript Framework. WebDNN uses next generation JavaScript API, WebGPU for GPU execution, and WebAssembly for CPU execution.
 
 ## [12. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -121,13 +121,7 @@
 
 *   [pigeon-maps (⭐3.3k)](https://github.com/mariusandra/pigeon-maps) - [demo](https://pigeon-maps.js.org/) - ReactJS Maps without external dependencies.
 
-## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Articles / Others
-
-*   [Securing Blazor Web Assembly using cookies](https://damienbod.com/2021/03/08/securing-blazor-web-assembly-using-cookies/) - March 8, 2021 - Securing Blazor Web Assembly using cookies. [Source code (⭐47)](https://github.com/damienbod/AzureADAuthRazorUiServiceApiCertificate/tree/main/BlazorBff) ![stars](https://img.shields.io/github/stars/damienbod/AzureADAuthRazorUiServiceApiCertificate?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/damienbod/AzureADAuthRazorUiServiceApiCertificate?style=flat-square\&cacheSeconds=86400).
-
-## [16. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [15. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Culture
 
@@ -141,7 +135,7 @@
 
 *   [Writing Your First Postmortem](https://sharpend.io/writing-your-first-postmortem/)
 
-## [17. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [16. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 

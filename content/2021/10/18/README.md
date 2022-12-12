@@ -22,14 +22,11 @@
 
 ### Games
 
-*   [BlazorGames (⭐167)](https://github.com/exceptionnotfound/BlazorGames) - ![stars](https://img.shields.io/github/stars/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=86400) This project is a Blazor WebAssembly project where we design, model, implement, and play common board and card games. This website is deployed here: [blazorgames.net](https://blazorgames.net/).
-*   [Flappy Blazor Bird (⭐55)](https://github.com/ctrl-alt-d/FlappyBlazorBird) - ![stars](https://img.shields.io/github/stars/ctrl-alt-d/FlappyBlazorBird?style=flat-square\&cacheSeconds=604800) ![last-commit](https://img.shields.io/github/last-commit/ctrl-alt-d/FlappyBlazorBird?style=flat-square\&cacheSeconds=86400) Blazor Flappy Bird's port. [\[Wasm Demo\]](https://flappyblazorbird.ctrl-alt-d.net) | [\[Multiplayer Demo\]](http://flappymmo.ctrl-alt-d.net/).
-*   [Board Games (⭐58)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐58)](https://github.com/alexyakunin/BoardGames).
-*   [ABlazorPong (⭐11)](https://github.com/marcodiniz/ABlazorPong) - ![last commit](https://img.shields.io/github/last-commit/marcodiniz/ABlazorPong?style=flat-square\&cacheSeconds=86400) A classic Pong in Blazor WebAssembly, with sounds, without a single line of Javascript.  [Demo](https://marcodiniz.github.io/ABlazorPong/).
+*   [Board Games (⭐59)](https://github.com/alexyakunin/BoardGames) - ![stars](https://img.shields.io/github/stars/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/alexyakunin/BoardGames?style=flat-square\&cacheSeconds=86400) [Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) + Blazor sample and a fully functional web app allowing you to play real-time multiplayer board games. [Demo (⭐59)](https://github.com/alexyakunin/BoardGames).
 
 ### Hybrid
 
-*   [Photino (⭐395)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
+*   [Photino (⭐419)](https://github.com/tryphotino/photino.NET) - ![stars](https://img.shields.io/github/stars/tryphotino/photino.NET?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/tryphotino/photino.NET?style=flat-square\&cacheSeconds=86400) Build native, cross-platform desktop apps that are lighter than light. Photino is a lightweight open-source framework for building native, cross-platform desktop applications with Web UI technology.
 
 ## [4. Awesome Imba](/content/koolamusic/awesome-imba/README.md)
 
@@ -70,7 +67,7 @@
 
 ### Alert / Barcode
 
-*   [Toast-Swift (⭐182)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
+*   [Toast-Swift (⭐214)](https://github.com/BastiaanJansen/Toast-Swift) - An easy to use library to create iOS 14 and newer style toasts.
 
 ## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -82,11 +79,11 @@
 
 ### Applications / System tools
 
-*   [cantino/mcfly (⭐4.5k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! [![build badge](https://api.travis-ci.org/cantino/mcfly.svg?branch=master)](https://travis-ci.org/cantino/mcfly)
+*   [cantino/mcfly (⭐4.7k)](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! [![build badge](https://api.travis-ci.org/cantino/mcfly.svg?branch=master)](https://travis-ci.org/cantino/mcfly)
 
 ### Applications / Web
 
-*   [LemmyNet/lemmy (⭐6.8k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
+*   [LemmyNet/lemmy (⭐7.1k)](https://github.com/LemmyNet/lemmy) — A link aggregator / reddit clone for the fediverse [![Build Status](https://cloud.drone.io/api/badges/LemmyNet/lemmy/status.svg)](https://cloud.drone.io/LemmyNet/lemmy)
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 

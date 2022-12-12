@@ -41,7 +41,7 @@
 
 ### IR Tools Collection / Playbooks
 
-*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐943)](https://github.com/PagerDuty/incident-response-docs).
+*   [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub (⭐945)](https://github.com/PagerDuty/incident-response-docs).
 
 ## [7. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -227,11 +227,11 @@
 
 ### Trading
 
-*   [Lean (⭐6.7k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
+*   [Lean (⭐6.9k)](https://github.com/QuantConnect/Lean) - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. <https://www.quantconnect.com/lean/>
 
 ### Source Generator
 
-*   [ASP.NET Core Library and Framework Support (⭐200)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
+*   [ASP.NET Core Library and Framework Support (⭐202)](https://github.com/jpsingleton/ANCLAFS) - A list of what .NET libraries and frameworks are currently supported by ASP.NET Core and .NET Core).
 
 ## [19. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Packages / Logging
 
-*   [pino (⭐10k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
+*   [pino (⭐11k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 
 ## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -278,7 +278,7 @@
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐806)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐810)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -357,7 +357,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐747)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐755)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [30. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -385,7 +385,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### For Electron / Other
 
-*   [elemon (⭐71)](https://github.com/manidlou/elemon) - Live-reload your app during development.
+*   [elemon (⭐72)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 
 ## [33. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 

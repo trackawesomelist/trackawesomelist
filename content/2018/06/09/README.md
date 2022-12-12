@@ -11,11 +11,11 @@
 ### ASM / Syntax highlighting packages
 
 *   [Tuff (⭐302)](https://github.com/BonsaiDen/Tuff.gb)
-*   [2048-gb (⭐97)](https://github.com/Sanqui/2048-gb)
+*   [2048-gb (⭐98)](https://github.com/Sanqui/2048-gb)
 *   [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
 *   [Lazerpong (⭐13)](https://github.com/huderlem/lazerpong)
-*   [Geometrix (⭐27)](https://github.com/AntonioND/geometrix)
-*   [µCity (⭐348)](https://github.com/AntonioND/ucity)
+*   [Geometrix (⭐28)](https://github.com/AntonioND/geometrix)
+*   [µCity (⭐349)](https://github.com/AntonioND/ucity)
 *   [Carazu (⭐16)](https://github.com/mholtkamp/carazu)
 *   [Snake-gb (⭐15)](https://github.com/DonaldHays/snake-gb)
 *   [GB303 (⭐94)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
@@ -23,8 +23,8 @@
 *   [Flappy-boy-asm (⭐82)](https://github.com/bitnenfer/flappy-boy-asm)
 *   [Adjustris (⭐11)](https://github.com/tbsp/Adjustris)
 *   [exeman (⭐26)](https://github.com/exezin/exeman/)
-*   [Aevilia (⭐54)](https://github.com/ISSOtm/Aevilia-GB)
-*   [GBSlides (⭐23)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
+*   [Aevilia (⭐55)](https://github.com/ISSOtm/Aevilia-GB)
+*   [GBSlides (⭐24)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 *   [Pokered-gbc (⭐102)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
 *   [ToyToy (⭐9)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 *   [StefaN (⭐3)](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone.
@@ -54,7 +54,7 @@
 *   [beach-gbc (⭐12)](https://github.com/vegard/beach-gbc)
 *   [CUTE DEMO (⭐28)](https://github.com/mills32/CUTE_DEMO)
 *   [`10 PRINT` Game Boy](https://github.com/svendahlstrand/10-print-game-boy)
-*   [Roboto Demo (⭐24)](https://github.com/naavis/roboto-demo)
+*   [Roboto Demo (⭐25)](https://github.com/naavis/roboto-demo)
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Other Awesome Lists
 
-*   Other amazingly awesome lists can be found in the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list.
+*   Other amazingly awesome lists can be found in the [awesome (⭐227k)](https://github.com/sindresorhus/awesome) list.
 
 ### Contributing
 
@@ -127,7 +127,7 @@
 ### IDE
 
 *   [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
-*   [DBeaver (⭐29k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+*   [DBeaver (⭐30k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
 ### CLI
 
@@ -136,12 +136,12 @@
 ### API / Samples
 
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
-*   [prest (⭐3.4k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-*   [resquel (⭐105)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+*   [prest (⭐3.5k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+*   [resquel (⭐106)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgmetrics (⭐793)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
+*   [pgmetrics (⭐808)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 

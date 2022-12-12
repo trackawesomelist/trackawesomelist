@@ -103,8 +103,8 @@ Webpage: <https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/>
 
 ### UI / Barcode
 
-*   [Dodo (⭐870)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
-*   [SectionedSlider (⭐357)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+*   [Dodo (⭐873)](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
+*   [SectionedSlider (⭐361)](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

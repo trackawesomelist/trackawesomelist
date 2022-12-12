@@ -71,12 +71,12 @@
 ### Component Libraries
 
 *   [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-*   [Dash Core Components (⭐266)](https://github.com/plotly/dash-core-components)
+*   [Dash Core Components (⭐267)](https://github.com/plotly/dash-core-components)
 *   [Dash HTML Components (⭐155)](https://github.com/plotly/dash-html-components)
 *   [mydcc (⭐34)](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
-*   [sd-material-ui (⭐178)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
+*   [sd-material-ui (⭐179)](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
 *   [sd-range-slider (⭐2)](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
-*   [dj-plotly-dash (⭐43)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
+*   [dj-plotly-dash (⭐44)](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
 *   [dash-flexbox-grid (⭐19)](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
 
 ### Galleries
@@ -98,7 +98,7 @@
 
 ### Visualization
 
-*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐53k)](https://github.com/apache/incubator-echarts) visualization library.
+*   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐54k)](https://github.com/apache/incubator-echarts) visualization library.
 
 ## [10. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

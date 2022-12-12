@@ -20,27 +20,27 @@
 ### CSV
 
 *   [cesso (⭐26)](https://github.com/meh/cesso) - CSV handling library for Elixir.
-*   [csvlixir (⭐32)](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
-*   [ex\_csv (⭐45)](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
+*   [csvlixir (⭐33)](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
+*   [ex\_csv (⭐46)](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 
 ### Hardware
 
-*   [elixir\_ale (⭐338)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
+*   [elixir\_ale (⭐337)](https://github.com/fhunleth/elixir_ale) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI.
 
 ### JSON
 
-*   [jazz (⭐60)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐685)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
-*   [jsxn (⭐27)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
+*   [jazz (⭐61)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
+*   [joken (⭐690)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
+*   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
 
 ### Markdown
 
 *   [discount (⭐20)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐760)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐768)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### OTP
 
-*   [core (⭐43)](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
+*   [core (⭐44)](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
 *   [libex\_config (⭐1)](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.
 
 ### REST and API
@@ -55,7 +55,7 @@
 ### XML
 
 *   [quinn (⭐46)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐157)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [xml\_builder (⭐158)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ---
 

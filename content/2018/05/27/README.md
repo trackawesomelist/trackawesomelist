@@ -100,7 +100,7 @@
 
 ### Mod Loaders / Archives
 
-*   [Minecraft Forge (⭐5.8k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+*   [Minecraft Forge (⭐5.9k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 *   [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 
 ### Mods / Performance
@@ -113,7 +113,7 @@
 
 ### Softwares / Utilities
 
-*   [Minecraft Command Helper (⭐25)](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
+*   [Minecraft Command Helper (⭐24)](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 
 ### Development / Launchers
 

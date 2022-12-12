@@ -61,7 +61,7 @@
 
 ### Device
 
-*   [DeviceKit (⭐3.8k)](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
+*   [DeviceKit (⭐3.9k)](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
 
 ### Styling / Barcode
 
@@ -69,8 +69,8 @@
 
 ### Text / Barcode
 
-*   [BonMot (⭐3.3k)](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
-*   [VEditorKit (⭐467)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
+*   [BonMot (⭐3.4k)](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings for iOS.
+*   [VEditorKit (⭐469)](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 
 ### Label / Barcode
 
@@ -90,7 +90,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [goBrowser (⭐109)](https://github.com/xataz/gobrowser) - Simple http file browser. `GPL-3.0` `Go`
+*   [goBrowser (⭐113)](https://github.com/xataz/gobrowser) - Simple http file browser. `GPL-3.0` `Go`
 
 ### Software / Learning and Courses
 
@@ -183,11 +183,6 @@
 *   [Vegetables](https://gitlab.com/everythingfunctional/vegetables) - For a healthier code base, eat your vegetables
 
 ## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
-
-### Development / Database
-
-*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
-*   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 
 ### Entertainment
 
@@ -750,12 +745,21 @@ Topics: Chrome DevTools, Performance\
 
 ## [28. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
+### CLI / dbcli
+
+*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+*   [pgcli (⭐11k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+*   [athenacli (⭐193)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+*   [litecli (⭐1.7k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
+*   [mssql-cli (⭐1.3k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
+*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
+
 ### IDE
 
 *   [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
 *   [MySQL Workbench](https://www.mysql.com/products/workbench) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs.
 *   [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) - Complete and powerful database management, admin and development tool for PostgreSQL.
-*   [TOra (⭐273)](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
+*   [TOra (⭐275)](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
 *   [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
 
 ### GUI
@@ -765,7 +769,7 @@ Topics: Chrome DevTools, Performance\
 *   [phpLiteAdmin](https://www.phpliteadmin.org) - Web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2.
 *   [psequel](http://www.psequel.com) - PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly.
 *   [Sequel Pro (⭐8.8k)](https://github.com/sequelpro/sequelpro) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
-*   [sqlpad (⭐4.6k)](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
+*   [sqlpad (⭐4.7k)](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
 *   [SQLPro](https://www.macpostgresclient.com) - A simple, powerful Postgres manager for macOS.
 *   [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - Graphical SQL client written in Java that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.
 *   [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI.
@@ -773,14 +777,7 @@ Topics: Chrome DevTools, Performance\
 
 ### CLI
 
-*   [pg\_top (⭐100)](https://github.com/markwkm/pg_top) - 'top' for PostgreSQL.
-
-### CLI / dbcli
-
-*   [athenacli (⭐190)](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
-*   [litecli (⭐1.7k)](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
-*   [mssql-cli (⭐1.2k)](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
-*   [vcli (⭐76)](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
+*   [pg\_top (⭐99)](https://github.com/markwkm/pg_top) - 'top' for PostgreSQL.
 
 ### Schema / Changes
 
@@ -788,7 +785,7 @@ Topics: Chrome DevTools, Performance\
 
 ### API / Samples
 
-*   [Hasura GraphQL Engine (⭐28k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+*   [Hasura GraphQL Engine (⭐29k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -814,15 +811,15 @@ Topics: Chrome DevTools, Performance\
 
 ### Single controls
 
-*   [TChromeTabs (⭐190)](https://github.com/norgepaul/tchrometabs). `[Delphi]` Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi 10.1 Berlin
-*   [TFrameStand (⭐239)](https://github.com/andrea-magni/TFrameStand). `[Delphi]` Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
+*   [TChromeTabs (⭐192)](https://github.com/norgepaul/tchrometabs). `[Delphi]` Comprehensive implementation of Google Chrome's tabs for Delphi 6 - Delphi 10.1 Berlin
+*   [TFrameStand (⭐241)](https://github.com/andrea-magni/TFrameStand). `[Delphi]` Easily use TFrame(s) in your FireMonkey (FMX) applications to gain visual consistency though the whole user experience and easily add modern looking elements like effects and transitions.
 *   [TPrintPreview (⭐18)](https://github.com/landrix/TPrintPreview-for-Delphi). `[Delphi]` Print Preview Component for Delphi Vcl Win32/Win64
-*   [TTreeListView (⭐41)](http://github.com/benibela/treelistview). `[Delphi]` `[FPC]` This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
+*   [TTreeListView (⭐42)](http://github.com/benibela/treelistview). `[Delphi]` `[FPC]` This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
 *   [neTabControl (⭐36)](https://github.com/jkour/neTabControl). `[Delphi]` FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
 ### Editors
 
-*   [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub (⭐164)](https://github.com/TurboPack/SynEdit)). `[Delphi]` Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
+*   [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub (⭐166)](https://github.com/TurboPack/SynEdit)). `[Delphi]` Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
 *   [LazEdit](https://svn.code.sf.net/p/lazarus-ccr/svn/applications/lazedit). `[FPC]` General text editor with syntax highlighting and tools to help edit HTML.
 
 ### Viewers
@@ -830,11 +827,11 @@ Topics: Chrome DevTools, Performance\
 *   [ATImageMap](https://sourceforge.net/projects/atviewer/files/ATImageMap) ([mirror at GitHub (⭐42)](https://github.com/Alexey-T/ATViewer)). `[Delphi]` Component designed to show many images (parts of the whole image) as a single map. For example, you may have array of images, 200 by X, and 100 by Y and control will show them as a single map. Component also allows to draw paths: each path consists of many lines, points, and icons.
 *   [SciDe (⭐67)](https://github.com/da-baranov/SciDe). `[Delphi]` `[FPC]` [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
-### Libraries
+### Python / General-Purpose Machine Learning
 
-*   [StellarGraph (⭐2.5k)](https://github.com/stellargraph/stellargraph) - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+*   [StellarGraph (⭐2.6k)](https://github.com/stellargraph/stellargraph): Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 
 ## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
@@ -857,7 +854,7 @@ Topics: Chrome DevTools, Performance\
 
 ### GUI
 
-*   [AdonisUI (⭐1.3k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
+*   [AdonisUI (⭐1.4k)](https://github.com/benruehl/adonis-ui) - Lightweight UI toolkit for WPF applications offering classic but enhanced Windows visuals.
 
 ### Testing
 
@@ -878,21 +875,21 @@ Topics: Chrome DevTools, Performance\
 
 ### Memory Allocation
 
-*   [memory-allocators (⭐1.3k)](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. \[MIT]
+*   [memory-allocators (⭐1.4k)](https://github.com/mtrebi/memory-allocators) - Custom memory allocators to improve the performance of dynamic memory allocation. \[MIT]
 
 ### Networking
 
-*   [MQTT-C (⭐544)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
+*   [MQTT-C (⭐564)](https://github.com/LiamBindle/MQTT-C) - A portable MQTT C client for embedded systems and PCs alike. \[MIT] [website](https://liambindle.ca/MQTT-C)
 *   [WAFer (⭐693)](https://github.com/riolet/WAFer) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. \[GPL2]
 
 ### Reflection
 
-*   [Better Enums (⭐1.3k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
+*   [Better Enums (⭐1.4k)](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. \[BSD] [website](http://aantron.github.io/better-enums/)
 *   [CPFG (⭐208)](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. \[Apache2] [website](http://www.cpgf.org/)
-*   [CPP-Reflection (⭐541)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
+*   [CPP-Reflection (⭐553)](https://github.com/AustinBrunkhorst/CPP-Reflection) - C++ Reflection using clang. \[MIT]
 *   [Nameof (⭐1.5k)](https://github.com/Neargye/nameof) - Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. \[MIT]
-*   [Ponder (⭐557)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
-*   [RTTR (⭐2.4k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
+*   [Ponder (⭐570)](https://github.com/billyquith/ponder) - A C++11 library for reflection. \[MIT]
+*   [RTTR (⭐2.5k)](https://github.com/rttrorg/rttr) - A C++11 library for reflection. \[MIT] [website](http://www.rttr.org)
 
 ### Static Code Analysis
 

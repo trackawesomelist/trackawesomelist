@@ -29,13 +29,12 @@
 ### Community / Mesh tools
 
 *   [John D. Cook's blog](https://www.johndcook.com/blog/) - Feats of scientific computing.
-*   [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - List of freely available software for the solution of linear algebra problems.
 
 ## [5. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [FIRST Robotics Competition (⭐83)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
+*   [FIRST Robotics Competition (⭐86)](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 
 ## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

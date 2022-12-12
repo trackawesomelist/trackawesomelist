@@ -249,11 +249,6 @@
 
 *   [TobseF/Candy-Crush-Clone (⭐72)](https://github.com/TobseF/Candy-Crush-Clone) - A Kotlin Multiplatform match 3 sample game build to teach, made with KorGE.
 
-### Android / Libraries
-
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
 ### Android / Projects
 
 *   [hanjoongcho/aaf-easyphotomap (⭐37)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
@@ -1218,4 +1213,5 @@
 
 ---
 
-- Next: [Dec 07, 2022](/content/2022/12/07/README.md)
+- Prev: [Dec 12, 2022](/content/2022/12/12/README.md)
+- Next: [Dec 10, 2022](/content/2022/12/10/README.md)

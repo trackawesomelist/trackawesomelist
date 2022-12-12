@@ -49,15 +49,15 @@
 
 ### Single controls
 
-*   [zControls (⭐122)](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
-*   [DzHTMLText (⭐113)](https://github.com/digao-dalpiaz/DzHTMLText). `[Delphi]` `[FPC]` Visual component that allows you to specify a formatted text in a label, using almost the same syntax used in HTML code.
+*   [zControls (⭐124)](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
+*   [DzHTMLText (⭐114)](https://github.com/digao-dalpiaz/DzHTMLText). `[Delphi]` `[FPC]` Visual component that allows you to specify a formatted text in a label, using almost the same syntax used in HTML code.
 
 ### Command-line
 
 *   [TCommandLineReader (⭐24)](https://github.com/benibela/rcmdline). `[Delphi]` `[FPC]` This unit provides an advanced, platform-independent command line parser for Lazarus and Delphi. It checks for allowed options, automatically prints a help with a list of all of them, and - contrary to the parser in the rtl - behaves the same on Windows and Linux.
 *   [CommandLineParser (⭐76)](https://github.com/VSoftTechnologies/VSoft.CommandLineParser). `[Delphi]` Simple Command Line Options Parser - spawned from the DUnitX Project.
-*   [GpCommandLineParser (⭐136)](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). `[Delphi]` Attribute based command line parser.
-*   [JPL.CmdLineParser (⭐44)](https://github.com/jackdp/JPLib/blob/master/Base/JPL.CmdLineParser.pas). `[Delphi]` `[FPC]` Command-line parser for Delphi and Free Pascal
+*   [GpCommandLineParser (⭐140)](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). `[Delphi]` Attribute based command line parser.
+*   [JPL.CmdLineParser (⭐45)](https://github.com/jackdp/JPLib/blob/master/Base/JPL.CmdLineParser.pas). `[Delphi]` `[FPC]` Command-line parser for Delphi and Free Pascal
 
 ### Other non-visual
 
@@ -74,7 +74,7 @@
 
 ### Other
 
-*   [Boss (⭐361)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
+*   [Boss (⭐371)](https://github.com/HashLoad/boss). Dependency Manager for Delphi projects.
 
 ## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

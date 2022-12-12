@@ -10,7 +10,7 @@
 
 ### Machine Learning
 
-*   [shainet (⭐161)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+*   [shainet (⭐163)](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
 
 ## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
@@ -51,14 +51,14 @@
 
 ### General Libraries
 
-*   [GrijjyFoundation (⭐208)](https://github.com/grijjy/GrijjyFoundation). `[Delphi]` Foundation classes and utilities that are used throughout the other Grijjy Repositories.
+*   [GrijjyFoundation (⭐209)](https://github.com/grijjy/GrijjyFoundation). `[Delphi]` Foundation classes and utilities that are used throughout the other Grijjy Repositories.
     // *BSON/JSON, IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.*
 
 ## [8. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Optimization / NLP
 
-*   [Bayesian Optimization (⭐6.3k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
+*   [Bayesian Optimization (⭐6.4k)](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
 
 ### Statistics / NLP
 
@@ -244,7 +244,7 @@
 
 ### Tools and frameworks
 
-*   [Chimp (⭐787)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
+*   [Chimp (⭐789)](https://github.com/xolvio/chimp) - Develop acceptance tests & end-to-end tests with realtime feedback.
 
 ## [25. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -360,12 +360,12 @@
 
 ### Video
 
-*   [Vireo (⭐863)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
+*   [Vireo (⭐873)](https://github.com/twitter/vireo/) - A lightweight and versatile video processing library by Twitter. \[MIT]
 
 ### Articles
 
-*   [C++Now 2017 Presentations (⭐455)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
-*   [C++Now 2016 Presentations (⭐80)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
+*   [C++Now 2017 Presentations (⭐459)](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
+*   [C++Now 2016 Presentations (⭐81)](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
 
 ---
 

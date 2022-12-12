@@ -29,7 +29,7 @@
 
 ### Database Drivers
 
-*   [peewee-async (⭐664)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.5k)](https://github.com/coleifer/peewee) and aiopg.
+*   [peewee-async (⭐666)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.6k)](https://github.com/coleifer/peewee) and aiopg.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -335,11 +335,11 @@
 
 ### Algorithms and Data structures
 
-*   [qex (⭐23)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
+*   [qex (⭐24)](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 
 ### Date and Time
 
-*   [cronex (⭐44)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
+*   [cronex (⭐46)](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 
 ## [30. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 

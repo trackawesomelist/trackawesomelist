@@ -52,7 +52,7 @@
 
 ### Video
 
-*   [Delphi-OpenCV (⭐416)](https://github.com/Laex/Delphi-OpenCV). `[Delphi]` Translation of OpenCV library header files in Delphi
+*   [Delphi-OpenCV (⭐421)](https://github.com/Laex/Delphi-OpenCV). `[Delphi]` Translation of OpenCV library header files in Delphi
     // *Includes FFMPEG headers*
 
 ## [5. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)

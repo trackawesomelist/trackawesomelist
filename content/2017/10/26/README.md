@@ -10,7 +10,7 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐345)](https://github.com/eneko/SourceDocs/) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐349)](https://github.com/eneko/SourceDocs/) - Generate Markdown reference documentation that lives with your code.
 
 ## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐429)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐435)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

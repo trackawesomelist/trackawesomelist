@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06 - Nov 12, 2017
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -99,29 +99,7 @@
 
 *   [Vert.x Dataloader (⭐70)](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
-
-### Code Analysis and Metrics
-
-*   [App.Metrics (⭐2.1k)](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://www.app-metrics.io/) for me details.
-
-### Datetime
-
-*   [NodaTime (⭐2.3k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
-
-### Decompilation
-
-*   [JustDecompile Engine (⭐1.3k)](https://github.com/telerik/JustDecompileEngine) - The decompilation engine of [JustDecompile](https://www.telerik.com/products/decompiler.aspx)
-
-### Office
-
-*   [DocX (⭐1.5k)](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
-
-### Tools
-
-*   [Fiddler](https://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
-
-## [14. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
+## [13. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
 ### Programming
 
@@ -182,13 +160,13 @@
 *   [FIRST Map](https://firstmap.github.io) - Beautiful map of the world's FRC teams.
 *   [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - Chrome extension to fill your New Tab page with a random FRC team, or show the team with a number corresponding to the current time.
 
-## [15. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
+## [14. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 
 ### JavaScript References
 
 *   [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Explains terms used in functional programming in the JavaScript context.
 
-## [16. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [15. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -199,7 +177,7 @@
 *   [Creating Safe Places](https://medium.com/defensible-me/creating-safe-places-59158520c5d8) - By Laura Bell.
 *   [Why More Tech Companies Should Hire People With Disabilities](https://www.inc.com/zoe-henry/aapd-disability-equality-index-2017.html) - By Zoë Henry.
 
-## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### URI handling / Isomorphic web frameworks
 
@@ -207,7 +185,7 @@
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
     utilities,… [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [18. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [17. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Cartridges / Opcodes
 
@@ -215,15 +193,15 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [papiGB (⭐12)](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch.
+*   [papiGB (⭐13)](https://github.com/diegovalverde/papiGB) - Game Boy Classic fully functional FPGA implementation from scratch.
 
-## [19. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
+## [18. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
 ### Profiles And Sensor Configurations
 
 *   [ColdFusion Markup Language Profile (⭐1)](https://github.com/ghedwards/cfml-inspectIT) - Profile for tracking function calls in CFML.
 
-## [20. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [19. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Media Players
 
@@ -233,19 +211,19 @@
 
 *   [Kelvinadon (⭐17)](https://github.com/Streampunk/kelvinadon) - Node.JS pure Javascript module for streaming MXF files to and from JSON.
 
-## [21. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [20. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Blog & News
 
 *   [Morning Reader](https://morningreader.com): Breaking tech news.
 
-## [22. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [21. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Web Frameworks
 
 *   [websockets (⭐4.2k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 
-## [23. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [22. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Quickfix and location lists
 
@@ -253,29 +231,49 @@
     window.
 *   They use slightly different commands for navigation.
 
-## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [23. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
-### Frameworks, Libraries and Tools / API
+### HTTP
 
 *   [RestLess (⭐108)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 
-## [25. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+### Code Analysis and Metrics
+
+*   [App.Metrics (⭐2.1k)](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://www.app-metrics.io/) for me details.
+
+### Datetime
+
+*   [NodaTime (⭐2.3k)](https://github.com/nodatime/nodatime) - Noda Time is an alternative date and time API for .NET. It helps you to think about your data more clearly, and express operations on that data more precisely. <https://nodatime.org/>
+
+### Decompilation
+
+*   [JustDecompile Engine (⭐1.3k)](https://github.com/telerik/JustDecompileEngine) - The decompilation engine of [JustDecompile](https://www.telerik.com/products/decompiler.aspx)
+
+### Office
+
+*   [DocX (⭐1.5k)](https://github.com/xceedsoftware/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
+
+### Tools
+
+*   [Fiddler](https://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
+
+## [24. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### App Examples
 
-*   [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code. (⭐176)](https://github.com/plotly/dash-oil-and-gas-demo)
+*   [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code. (⭐179)](https://github.com/plotly/dash-oil-and-gas-demo)
 *   [Uber Rides](https://plot.ly/dash/gallery/uber-rides/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-uber-rides-demo)
-*   [Simple Stock Tickers](https://plot.ly/dash/gallery/stock-tickers/) - Queries data from Google Finance and displays the results as candlestick charts. [Source Code. (⭐127)](https://github.com/plotly/dash-stock-tickers-demo-app)
-*   [Volatility Surface Explorer](https://plot.ly/dash/gallery/volatility-surface) - Fetches CBOE options chain data from Yahoo Finance with Pandas Datareader and calculates the implied volatility of each option visualised in a 3D mesh chart. [Source Code. (⭐71)](https://github.com/plotly/dash-volatility-surface)
+*   [Simple Stock Tickers](https://plot.ly/dash/gallery/stock-tickers/) - Queries data from Google Finance and displays the results as candlestick charts. [Source Code. (⭐130)](https://github.com/plotly/dash-stock-tickers-demo-app)
+*   [Volatility Surface Explorer](https://plot.ly/dash/gallery/volatility-surface) - Fetches CBOE options chain data from Yahoo Finance with Pandas Datareader and calculates the implied volatility of each option visualised in a 3D mesh chart. [Source Code. (⭐76)](https://github.com/plotly/dash-volatility-surface)
 *   [Drug Discovery](https://plot.ly/dash/gallery/drug-explorer/) - Displays a description of the drug as you hover over points in the graph. [Source Code.](https://github.com/plotly/dash-drug-discovery-demo/)
 *   [Recession in 255 Charts](https://plot.ly/dash/gallery/recession-report/) - Adapted from NYTimes's excellent [How the Recession Reshaped the Economy in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html). [Source Code. (⭐15)](https://github.com/plotly/dash-recession-report-demo)
-*   [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code. (⭐35)](https://github.com/plotly/dash-yield-curve)
+*   [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code. (⭐36)](https://github.com/plotly/dash-yield-curve)
 
 ### Contributors
 
 *   [Aly Sivji](https://alysivji.github.io/)
 
-## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -283,13 +281,13 @@
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐586)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐590)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ### UI / Barcode
 
 *   [SkeletonView (⭐12k)](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 
-## [27. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -312,7 +310,7 @@
 
 *   [postgresDBSamples (⭐251)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 
-## [28. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [27. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Development
 
@@ -324,20 +322,20 @@
 *   [Kubernetes](http://slack.kubernetes.io/)
 *   [DevOps](https://devopschat.co/)
 
-## [29. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [28. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Open Bazaar](https://openbazaar.org): Decentralized network for P2P commerce online - using Bitcoin - that has no fees and no restrictions.
 *   [WebTorrent Desktop](https://webtorrent.io/desktop): WebTorrent Desktop is for streaming torrents. It connects to both BitTorrent and WebTorrent peers.
 
-## [30. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [29. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Cross-platform frameworks / Official resources
 
 *   [react-tv (⭐2k)](https://github.com/raphamorim/react-tv) - React development for TV: renderer for low memory applications and Packager for WebOS, Tizen, Orsay.
 
-## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Articles / Other
 
@@ -347,13 +345,13 @@
 
 *   [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - Includes some good talks on improving app startup time, debugging crashes, etc.
 
-## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [31. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Objective-C / Git
 
 *   [ObjectivePGP (⭐614)](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
 
-## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [32. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Videos
 
@@ -374,19 +372,19 @@
 *   [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU\&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) - Introduction to matrices by Greg Tatum.
 *   [Making Things With Maths](https://acko.net/tv/wdcode/) - Talk by Steven Wittens about bezier curves, procedural generation, physics engines and fractals.
 
-## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
 *   [xRBM (⭐55)](https://github.com/omimo/xRBM) - A library for Restricted Boltzmann Machine (RBM) and its conditional variants in Tensorflow.
 
-## [35. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [34. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Community
 
 *   [OCaml Discourse Web Forum](https://discuss.ocaml.org/)
 
-## [36. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [35. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
@@ -410,13 +408,13 @@
 *   [Pipelines for model deployment](https://www.slideshare.net/rocalabern/digital-origin-pipelines-for-model-deployment) Apr 25, 2017
 *   [Machine learning with H2O.ai](https://speakerdeck.com/szilard/machine-learning-with-h2o-dot-ai-la-h2o-meetup-at-at-and-t-jan-2017) Jan 23, 2017
 
-## [37. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [amazon-kinesis-scaling-utils :fire::fire: (⭐331)](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
 
-## [38. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [37. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Lisbon
 
@@ -428,7 +426,7 @@ Webpage: <http://4sq.com/XuO7me>
 | ---- | ----- | ------------------------------------------------------------------------- | -------------------- |
 | ✔    | ?     | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) | Sun-Sat 7:00 - 20:00 |
 
-## [39. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [38. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Front-end build tools
 
@@ -437,7 +435,7 @@ Webpage: <http://4sq.com/XuO7me>
 *   [Grunt js interview questions for beginners](http://www.talkingdotnet.com/grunt-js-interview-questions/)
 *   [Grunt js interview questions](https://mindmajix.com/grunt-interview-questions)
 
-## [40. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [39. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Example Applications
 
@@ -452,7 +450,7 @@ Webpage: <http://4sq.com/XuO7me>
 
 *   [jeysal/pretty-format-snabbdom ★0 (⭐5)](https://github.com/jeysal/pretty-format-snabbdom) - A [pretty-format (⭐41k)](https://github.com/facebook/jest/tree/master/packages/pretty-format) ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
-## [41. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [40. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### License
 
@@ -468,7 +466,7 @@ Free (pay what you want)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [41. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -479,13 +477,13 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 *   [Hubaga (⭐23)](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
 
-## [43. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [42. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
 *   [Signal](https://signal.org/) - Encrypted, secure chat and video calls.
 
-## [44. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -493,7 +491,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [oauth2\_facebook (⭐4)](https://github.com/chrislaskey/oauth2_facebook) - A Facebook OAuth2 Provider for Elixir.
 *   [oauth2\_github (⭐2)](https://github.com/chrislaskey/oauth2_github) - A GitHub OAuth2 Provider for Elixir.
 *   [phauxth (⭐416)](https://github.com/riverrun/phauxth) - Authentication library for Phoenix 1.3 and other Plug-based apps.
-*   [samly (⭐117)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
+*   [samly (⭐115)](https://github.com/handnot2/samly) - SAML SP SSO made easy ([Doc](https://hexdocs.pm/samly/readme.html)).
 
 ### Command Line Applications
 
@@ -506,7 +504,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Documentation
 
-*   [blue\_bird (⭐52)](https://github.com/KittyHeaven/blue_bird) - BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests.
+*   [blue\_bird (⭐54)](https://github.com/KittyHeaven/blue_bird) - BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests.
 
 ### ECMAScript
 
@@ -521,24 +519,24 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 ### HTTP
 
 *   [Ace (⭐308)](https://github.com/CrowdHailer/Ace) - HTTP web server and client, supports http1 and http2.
-*   [Crawler (⭐869)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
-*   [raxx (⭐393)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
+*   [Crawler (⭐870)](https://github.com/fredwu/crawler) - A high performance web crawler in Elixir.
+*   [raxx (⭐394)](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 
 ### Miscellaneous
 
-*   [ex\_phone\_number (⭐196)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
+*   [ex\_phone\_number (⭐200)](https://github.com/socialpaymentsbv/ex_phone_number) - Format, normalize, and validate phone numbers.
 
 ### ORM and Datamapping
 
-*   [triplex (⭐367)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
+*   [triplex (⭐370)](https://github.com/ateliware/triplex) - Database multitenancy with postgres schemas for Elixir applications!
 
 ### Queue
 
-*   [opq (⭐219)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
+*   [opq (⭐224)](https://github.com/fredwu/opq) - A simple, in-memory queue with worker pooling and rate limiting in Elixir.
 
 ### Testing
 
-*   [chaperon (⭐103)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
+*   [chaperon (⭐106)](https://github.com/polleverywhere/chaperon) - An HTTP service performance & load testing framework written in Elixir.
 
 ### Third Party APIs
 
@@ -547,20 +545,20 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Utilities
 
-*   [async\_with (⭐151)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
+*   [async\_with (⭐152)](https://github.com/fertapric/async_with) - A modifier for Elixir's "with" to execute all its clauses in parallel.
 
 ### Books
 
 *   [Elixir do zero à concorrência](https://www.casadocodigo.com.br/products/livro-elixir) - (Portuguese) The book provides introduction to functional and concurrent programming with Elixir by Tiago Davi(2014).
 *   [Phoenix Inside Out](https://shankardevy.com/phoenix-book/) - The goal of this series is to enable you as a Confident Phoenix developer. There are 3 different editions to address varied needs of devs jumping into Phoenix.
 
-## [45. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [44. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Books
 
 *   [Automation and Monitoring with Hubot](https://leanpub.com/automation-and-monitoring-with-hubot) - An e-book that walks you through building a Hubot driven ChatOps implementation.
 
-## [46. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [45. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### General / UX
 
@@ -568,13 +566,13 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
     Anitas is a group of women engaged with female empowerment in the fields of technology and entrepreneurship, based on the exchange of ideias, knowledge and experience. In order to do so, Anitas organize courses, workshops, talks, and also participate of initiatives which aim at including women in technology and entrepreneurship.
 
-## [47. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [46. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Mobile Development
 
 *   [deviceframe (⭐538)](https://github.com/c0bra/deviceframe) - Put device frames around your mobile/web/progressive app screenshots.
 
-## [48. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [47. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -584,18 +582,18 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 ### Machine Learning
 
-*   [RNNLIB (⭐878)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
+*   [RNNLIB (⭐880)](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. \[GPLv3]
 
 ### Math
 
-*   [CGAL (⭐3.4k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-*   [linmath.h (⭐714)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
+*   [CGAL (⭐3.5k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
+*   [linmath.h (⭐720)](https://github.com/datenwolf/linmath.h) - A lean linear math library, aimed at graphics programming. \[WTFPL]
 
 ### PDF
 
 *   [Poppler](https://poppler.freedesktop.org/) - Open-source multi-backend PDF rendering library based on the xpdf-3.0 code base. \[GPLv2/GPLv3]
 
-## [49. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [48. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Asia / India 🇮🇳
 

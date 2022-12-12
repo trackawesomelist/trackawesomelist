@@ -30,11 +30,11 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [sokomishalov/skraper (⭐163)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
+*   [sokomishalov/skraper (⭐169)](https://github.com/sokomishalov/skraper) - Kotlin/Java library, cli tool and telegram-bot for scraping posts and media from various sources with neither authorization nor full page rendering (Facebook, Instagram, Twitter, Youtube, Tiktok, Telegram, Twitch, Reddit, Pinterest, Flickr, Tumblr, etc.)
 
 ### Libraries/Frameworks / Multiplatform
 
-*   [petertrr/kotlin-multiplatform-diff (⭐37)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
+*   [petertrr/kotlin-multiplatform-diff (⭐38)](https://github.com/petertrr/kotlin-multiplatform-diff) - Multiplatform kotlin library for calculating text differences. Based on java-diff-utils.
 
 ## [4. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
@@ -56,36 +56,36 @@
 
 ### Deep Learning / PyTorch
 
-*   [ChemicalX (⭐571)](https://github.com/AstraZeneca/chemicalx) - A PyTorch based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [ChemicalX (⭐586)](https://github.com/AstraZeneca/chemicalx) - A PyTorch based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Time Series / NLP
 
-*   [darts (⭐4.8k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+*   [darts (⭐5k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
 *   [statsforecast (⭐1.6k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐97)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
-*   [neuralforecast (⭐911)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning based time series forecasting.
+*   [mlforecast (⭐114)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
+*   [neuralforecast (⭐954)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning based time series forecasting.
 *   [greykite (⭐1.6k)](https://github.com/linkedin/greykite) - A flexible, intuitive and fast forecasting librarynext.
-*   [Chaos Genius (⭐485)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+*   [Chaos Genius (⭐495)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ### Experimentation / NLP
 
-*   [envd (⭐1.1k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
+*   [envd (⭐1.2k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### JSON
 
-*   [marshmallow (⭐214)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
+*   [marshmallow (⭐252)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
 
 ## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [vue-ts-starter (⭐26)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
+*   [vue-ts-starter (⭐29)](https://github.com/yugasun/vue-ts-starter) - Vue3 + TypeScript + Vite + Pinia.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-browser-sync (⭐6)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+*   [vite-plugin-browser-sync (⭐10)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 
 ## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -101,8 +101,8 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-redis (⭐2.4k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
-*   [django-dramatiq (⭐250)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
+*   [django-redis (⭐2.5k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
+*   [django-dramatiq (⭐254)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 
 ### Projects / Open Source Projects
 

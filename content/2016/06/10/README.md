@@ -30,29 +30,29 @@ git clone -b <branch-name> --single-branch https://github.com/user/repo.git
 
 ### Images
 
-*   [cloudex (⭐97)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+*   [cloudex (⭐98)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Artificial Intelligence
 
-*   [ANNetGPGPU (⭐92)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Veles (⭐898)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [ANNetGPGPU (⭐93)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
+*   [Veles (⭐897)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Scripting
 
-*   [Duktape (⭐5.4k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
+*   [Duktape (⭐5.5k)](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. \[MIT] [website](http://duktape.org)
 
 ### Other Awesome Projects
 
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-*   [Awesome C (⭐2.9k)](https://github.com/aleksandar-todorovic/awesome-c) 2
+*   [Awesome C (⭐3k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [crystaledge (⭐25)](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
+*   [crystaledge (⭐26)](https://github.com/unn4m3d/crystaledge) - A pure Vector Math library
 
 ### Third-party APIs
 

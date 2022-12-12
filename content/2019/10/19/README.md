@@ -10,7 +10,7 @@
 
 ### Dependency Injection
 
-*   [DIKit (⭐96)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
+*   [DIKit (⭐95)](https://github.com/Liftric/DIKit) - Dependency Injection Framework for Swift, inspired by KOIN.
 
 ### Quality / Barcode
 
@@ -93,7 +93,7 @@
 ### Other libraries and tools / Mesh tools
 
 *   [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) - Wavelet transforms in Python.
-    (Python, MIT, [GitHub (⭐1.5k)](https://github.com/PyWavelets/pywt))
+    (Python, MIT, [GitHub (⭐1.6k)](https://github.com/PyWavelets/pywt))
 
 ## [12. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

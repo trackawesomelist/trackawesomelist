@@ -79,7 +79,7 @@
 
 ### Source Generator
 
-*   [awesome-LINQ (⭐372)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+*   [awesome-LINQ (⭐378)](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 
 ---
 

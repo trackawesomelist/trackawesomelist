@@ -49,7 +49,7 @@
 
 ### Testing
 
-*   [Expecto (⭐577)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
+*   [Expecto (⭐587)](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
 
 ## [6. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -708,7 +708,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Related Lists / Provided by the Host
 
-*   [Awesome Static Hosting (⭐244)](https://github.com/b-long/awesome-static-hosting)
+*   [Awesome Static Hosting (⭐245)](https://github.com/b-long/awesome-static-hosting)
 
 ## [48. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -731,7 +731,7 @@ Webpage: <http://www.denizlihs.org/>
 
 *   [ELKI](https://elki-project.github.io/) - Java toolkit for data mining. (unsupervised: clustering, outlier detection etc.)
 
-### Javascript / Data Analysis / Data Visualization
+### JavaScript / Data Analysis / Data Visualization
 
 *   [amCharts](https://www.amcharts.com/)
 
@@ -767,7 +767,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### Ruby / Misc
 
-*   [Listof (⭐26)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
+*   [Listof (⭐26)](https://github.com/kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, JSON or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
 
 ### SAS / General-Purpose Machine Learning
 

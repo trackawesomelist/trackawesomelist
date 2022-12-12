@@ -69,7 +69,7 @@
 
 ### ORM/ODM Extensions
 
-*   [jennifer.cr (⭐377)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+*   [jennifer.cr (⭐385)](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
 
 ## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Button / Barcode
 
-*   [TransitionButton (⭐1.3k)](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
+*   [TransitionButton (⭐1.4k)](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
 
 ## [8. Awesome Indie](/content/mezod/awesome-indie/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [ChuckNorris (⭐22)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
+*   [ChuckNorris (⭐21)](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
 
 ---
 

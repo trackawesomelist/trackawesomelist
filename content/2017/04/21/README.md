@@ -89,7 +89,7 @@
 
 ### Node.js
 
-*   [Expressa (⭐397)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
+*   [Expressa (⭐401)](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
 
 ## [12. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

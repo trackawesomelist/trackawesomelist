@@ -10,7 +10,7 @@
 
 ### Bindings
 
-*   [vulkan-go (⭐649)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
+*   [vulkan-go (⭐654)](https://github.com/vulkan-go/vulkan) - Go bindings for Vulkan. \[MIT]
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -48,11 +48,17 @@
 
 *   [sn0int (⭐1.3k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
-## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+
+### Packages / Security
+
+*   [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
+
+## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Logging
 
-*   [p6spy (⭐1.7k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
+*   [p6spy (⭐1.8k)](https://github.com/p6spy/p6spy) - Enables logging for all JDBC transactions without changes to the code.
 
 ### Messaging
 
@@ -76,23 +82,17 @@
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
 *   [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for syncing browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync)) `MIT` `Nodejs`
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 
-*   [nanopb (⭐3.2k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
-
-## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
-
-### Detecting / Server-Side Request Forgery
-
-*   [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
+*   [nanopb (⭐3.3k)](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. \[Zlib]
 
 ## [10. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

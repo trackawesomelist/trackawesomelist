@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 29 - Feb 04, 2018
 
-49 awesome lists updated this week.
+50 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -77,11 +77,11 @@
 
 ### Alert / Barcode
 
-*   [Alerts Pickers (⭐5.4k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
+*   [Alerts Pickers (⭐5.5k)](https://github.com/dillidon/alerts-and-pickers) - Advanced usage of UIAlertController with TextField, DatePicker, PickerView, TableView and CollectionView.
 
 ### Video / Barcode
 
-*   [NextLevelSessionExporter (⭐228)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
+*   [NextLevelSessionExporter (⭐233)](https://github.com/NextLevel/NextLevelSessionExporter) - Export and transcode media.
 
 ## [10. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
@@ -118,13 +118,13 @@
 
 ### Tools and frameworks
 
-*   [Look-alike (⭐27)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
-*   [Differencify (⭐610)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐80k)](https://github.com/GoogleChrome/puppeteer).
+*   [Look-alike (⭐29)](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing screenshots.
+*   [Differencify (⭐613)](https://github.com/NimaSoroush/differencify) - A library for visual regression testing using [Puppeteer (⭐81k)](https://github.com/GoogleChrome/puppeteer).
 *   [ResembleJS (⭐4.2k)](https://github.com/Huddle/Resemble.js) - Analyse and compare images with Javascript and HTML5.
 
 ### Blog posts
 
-*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐610)](https://github.com/NimaSoroush/differencify) and how to use it.
+*   [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify (⭐613)](https://github.com/NimaSoroush/differencify) and how to use it.
 
 ### Deprecated
 
@@ -135,11 +135,11 @@
 
 ### Open Source / Other
 
-*   [Nuclear (⭐9.4k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐9.6k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐555)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐561)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ### Community / Other
 
@@ -376,7 +376,7 @@
 
 ### Resources / Examples
 
-*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐39)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
+*   [Vue.js 2.5 with vue-cli v3 including authentication with auth0 (⭐38)](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
 
 ### Projects Using Vue.js / Open Source
 
@@ -384,8 +384,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-modaltor (⭐83)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
-*   [vue-datepicker-local (⭐298)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
+*   [vue-modaltor (⭐82)](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
+*   [vue-datepicker-local (⭐299)](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
 
 ## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -395,7 +395,7 @@
 
 ### Cryptography
 
-*   [digestpp (⭐147)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
+*   [digestpp (⭐149)](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. \[PublicDomain]
 
 ### Scientific Computing
 
@@ -403,7 +403,7 @@
 
 ### Debug
 
-*   [MinUnit (⭐441)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
+*   [MinUnit (⭐453)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
 
 ### Math
 
@@ -415,7 +415,7 @@
 
 ### Serialization
 
-*   [MessagePack (⭐2.5k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
+*   [MessagePack (⭐2.6k)](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. \[Apache2] [website](http://msgpack.org/)
 
 ### Integrated Development Environment
 
@@ -425,11 +425,11 @@
 
 ### Books
 
-*   [List of Free C or C++ Books (⭐41k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
+*   [List of Free C or C++ Books (⭐42k)](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 
 ### Videos
 
-*   [List of C or C++ YouTube Videos (⭐41k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
+*   [List of C or C++ YouTube Videos (⭐42k)](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 
 ### Websites
 
@@ -439,7 +439,7 @@
 
 *   [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
-*   [Awesome interview questions (⭐51k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
+*   [Awesome interview questions (⭐52k)](https://github.com/MaximAbramchuck/awesome-interviews) - A list of lists of interview questions for the most popular technologies, including C and C++.
 
 ## [44. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
@@ -506,6 +506,30 @@
 ### Products/Technologies / S technologies
 
 *   Sketch <https://blog.sketchapp.com/>
+
+## [50. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
+
+### Lisp / TeX
+
+*   [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin
+*   [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev *(Leanpub account or valid email requested)*
+
+### Ruby / Tornado
+
+*   [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
+*   [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
+
+### Ruby / Ruby on Rails
+
+*   [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
+
+### Workflow / Vulkan
+
+*   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
 
 ---
 

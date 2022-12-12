@@ -31,7 +31,7 @@
 
 ### HTTP
 
-*   [RestEase (⭐862)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+*   [RestEase (⭐882)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 
 ### Queue
 
@@ -47,7 +47,7 @@
 
 ### Go / Symfony2
 
-*   [gocrud (⭐312)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+*   [gocrud (⭐311)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 
 ## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

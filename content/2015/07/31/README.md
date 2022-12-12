@@ -46,7 +46,7 @@ git reset <commit-ish>
 
 ### Scripting
 
-*   [SpiderMonkey (⭐719)](https://github.com/synopse/mORMot/blob/master/SynSM.pas). `[Delphi]` `[FPC]` Binding for Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
+*   [SpiderMonkey (⭐724)](https://github.com/synopse/mORMot/blob/master/SynSM.pas). `[Delphi]` `[FPC]` Binding for Mozilla JavaScript engine, including JIT and multi-threading, with easy objects access via Delphi variants.
     // *Spidermonkey DLL required*
 
 ### RAD Studio IDE plugins/wizards

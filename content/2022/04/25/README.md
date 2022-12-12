@@ -44,45 +44,45 @@
 
 ### GUI
 
-*   [Taos.Studio (⭐76)](https://github.com/maikebing/Taos.Studio) - A GUI tool for viewing and editing data for TDengine.
+*   [Taos.Studio (⭐77)](https://github.com/maikebing/Taos.Studio) - A GUI tool for viewing and editing data for TDengine.
 *   [balloonfish (⭐8)](https://github.com/xielaoshi99/balloonfish) - Electron + Vue3 + Vite2.0 based TDengine time-series database visualized management tool.
 *   [tdengine-client (⭐3)](https://github.com/wurong1420/tdengine-client) - A simple TDengine interface.
 
 ### IoT
 
-*   [DG-IoT (⭐255)](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
+*   [DG-IoT (⭐257)](https://github.com/dgiot/dgiot-dashboard) - DG-IoT platform industry application extension plugin.
 *   [dgiot\_tdengine (⭐1)](https://github.com/dgiot/dgiot_tdengine) - TDengine adapter plugin.
-*   [node-red-contrib-tdengine (⭐8)](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
+*   [node-red-contrib-tdengine (⭐9)](https://github.com/kp45-tech/node-red-contrib-tdengine) - TDengine connector plugin for Node-RED.
 
 ### ORM
 
 *   [sqli (⭐1.9k)](https://github.com/x-ream/sqli) - ORM SQL Interface, Criteria, CriteriaBuilder, ResultMapBuilder.
 *   [TDengine ORM Framework (⭐3)](https://github.com/hxshun/TDengineORM) - ORM framework of TAOS Data's time-series database TDengine.
-*   [IoTSharp.EntityFrameworkCore.Taos (⭐141)](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
-*   [crown (⭐31)](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
+*   [IoTSharp.EntityFrameworkCore.Taos (⭐146)](https://github.com/IoTSharp/EntityFrameworkCore.Taos) - Entity, Framework, EF, Core, Data, O/RM, entity-framework-core, TDengine.
+*   [crown (⭐33)](https://github.com/machine-w/crown) - crown is a simple and small ORM for TDengine.
 
 ### Connector
 
-*   [PDO\_TAOS (⭐38)](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
+*   [PDO\_TAOS (⭐39)](https://github.com/bearlord/pdo_taos) - TDengine driver for PDO.
 *   [yii2-tdengine (⭐0)](https://github.com/bearlord/yii2-tdengine) - TDengine for yii2, pdo\_taos needed.
-*   [php-tdengine (⭐60)](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole.
-*   [tdengine-restful-connector (⭐11)](https://github.com/Yurunsoft/tdengine-restful-connector) - PHP extension of TDengine, support Swoole.
+*   [php-tdengine (⭐62)](https://github.com/Yurunsoft/php-tdengine) - PHP extension of TDengine, supports Swoole.
+*   [tdengine-restful-connector (⭐13)](https://github.com/Yurunsoft/tdengine-restful-connector) - PHP extension of TDengine, support Swoole.
 *   [imi-tdengine (⭐4)](https://github.com/imiphp/imi-tdengine) - Encapsulated TDengine connection pools, used in imi framework.
 *   [pytaos (⭐2)](https://github.com/horennel/pytaos) - Python RESTful API of TDengine.
 *   [NestJS TDengine Driver (⭐2)](https://github.com/IricBing/nestjs-tdengine) - NestJS TDengine Driver(RESTful based).
 *   [taos-rs (⭐0)](https://github.com/yuerrd/taos-rs) - TDengine Java RESTful Client.
 *   [TDengine Rust bindings (⭐7)](https://github.com/songtianyi/tdengine-rust-bindings) - It's a Rust bindings project for TDengine.
-*   [TDenginex (⭐0)](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
+*   [TDenginex](https://github.com/lizhaochao/TDenginex) - TDengine Connector for Elixir.
 
 ### Stack
 
 *   [NewLife.Core (⭐1.6k)](https://github.com/NewLifeX/X) - NewLife.Core Database core.
-*   [NewLife.XCode (⭐20)](https://github.com/NewLifeX/NewLife.XCode) - NewLife.XCode Database Middle-ware.
+*   [NewLife.XCode (⭐28)](https://github.com/NewLifeX/NewLife.XCode) - NewLife.XCode Database Middle-ware.
 
 ### Plugin
 
 *   [rsyslog plugin for tdengine (⭐1)](https://github.com/mxmkeep/rsyslog-omtaos) - rsyslog plugin for TDengine.
-*   [HiveMQ TDengine Plugin (⭐5)](https://github.com/huskar-t/hivemq-tdengine-extension) - HiveMQ TDengine Plugin.
+*   [HiveMQ TDengine Plugin (⭐7)](https://github.com/huskar-t/hivemq-tdengine-extension) - HiveMQ TDengine Plugin.
 *   [hivemq-tdengine-jdsl-extension (⭐0)](https://github.com/huskar-t/hivemq-tdengine-jdsl-extension) - HiveMQ TDengine JDSL Plugin.
 *   [HiveMQ-TDengine-Extension (⭐1)](https://github.com/john-bigz/hivemq-tdengine-extension) - A TDengine extension for HiveMQ.
 
@@ -92,7 +92,7 @@
 
 ### Container
 
-*   [TDengine cluster for kubernetes (⭐14)](https://github.com/wwbgo/tdengine-k8s) - TDengine cluster for kubernetes.
+*   [TDengine cluster for kubernetes (⭐16)](https://github.com/wwbgo/tdengine-k8s) - TDengine cluster for kubernetes.
 
 ### Distribution
 
@@ -129,7 +129,7 @@
 
 ### Applications
 
-*   [shuttle (⭐1.2k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
+*   [shuttle (⭐1.4k)](https://github.com/shuttle-hq/shuttle) — A serverless platform built for Rust
 
 ### Development tools / Build system
 
@@ -145,27 +145,27 @@
 
 ### Templates / Vue 3
 
-*   [ViTauri (⭐22)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
+*   [ViTauri (⭐27)](https://github.com/NicolaSpadari/vitauri) - Vite + Tauri + Vue3 + TS + Vue-Router4 + Auto imports.
 
 ## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Inter-process communication
 
-*   [iceoryx (⭐952)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
+*   [iceoryx (⭐1k)](https://github.com/eclipse-iceoryx/iceoryx) - True zero-copy inter-process communication framework for safety critical systems with bindings for C, Rust. Runs on Linux, QNX, Windows, Mac OS, FreeBSD. \[Apache2] [website](https://iceoryx.io/)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [junnplus/nvim-lsp-setup (⭐188)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
+*   [junnplus/nvim-lsp-setup (⭐191)](https://github.com/Junnplus/nvim-lsp-setup) - A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.
 
-### Markdown / LaTeX / Diagnostics
+### Markdown and LaTeX / Diagnostics
 
-*   [frabjous/knap (⭐134)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
+*   [frabjous/knap (⭐152)](https://github.com/frabjous/knap) - Plugin for creating automatic updating-as-you-type previews for markdown, LaTeX and other documents.
 
-### Treesitter based / Diagnostics
+### Treesitter Based / Diagnostics
 
-*   [ziontee113/syntax-tree-surfer (⭐292)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
+*   [ziontee113/syntax-tree-surfer (⭐313)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Treesitter's AST Nodes. Step into, step out, step over, step back.
 
 ---
 

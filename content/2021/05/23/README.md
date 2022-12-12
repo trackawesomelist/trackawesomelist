@@ -10,7 +10,7 @@
 
 ### WSL Tools / Miscellaneous Tools
 
-*   [easyWSL (⭐457)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [easyWSL (⭐464)](https://github.com/redcode-labs/easyWSL) - Use any Docker image as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scrollama (⭐408)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
+*   [vue-scrollama (⭐412)](https://github.com/vgshenoy/vue-scrollama) - A Vue component to easily setup scroll-driven interactions (aka scrollytelling).
 
 ## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Uncategorized
 
-*   [CrowdSec (⭐5.7k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+*   [CrowdSec (⭐5.8k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
 
 ## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -115,9 +115,9 @@
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### (requires Neovim 0.5)
+### Completion / Diagnostics
 
-*   [simrat39/rust-tools.nvim (⭐1.2k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in rust using Neovim's builtin LSP.
+*   [simrat39/rust-tools.nvim (⭐1.4k)](https://github.com/simrat39/rust-tools.nvim) - Tools for better development in Rust using Neovim's builtin LSP.
 
 ## [11. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 

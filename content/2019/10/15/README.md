@@ -26,20 +26,26 @@
 
 *   [aurelia-kis-oidc (⭐8)](https://github.com/kisssdev/aurelia-kis-oidc) \* An Aurelia plugin that encapsulates [oidc-client-js library (⭐2.4k)](https://github.com/IdentityModel/oidc-client-js).
 
-## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code (⭐1.8k)](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
+
+## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Books / Other Resources
 
 *   [Learning Malware Analysis](https://www.packtpub.com/networking-and-servers/learning-malware-analysis) - Learning Malware Analysis: Explore the concepts, tools, and techniques to analuze and investigate Windows malware
 *   [Mastering Reverse Engineering](https://www.packtpub.com/networking-and-servers/mastering-reverse-engineering) - Mastering Reverse Engineering: Re-engineer your ethical hacking skills
 
-## [4. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
+## [5. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 
 ### Tools / Miscellaneous
 
 *   [markcat (⭐34)](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: *`cat` with Markdown highlight.* ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
 
-## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Systems
 
@@ -49,7 +55,7 @@
     *   [Lecture Videos](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
     *   [Lecture Notes](https://webpages.uncc.edu/\~jmconrad/EducationalMaterials/index.html)
 
-## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Introspection
 
@@ -57,7 +63,7 @@
 *   [ReflectASM (⭐1.4k)](https://github.com/EsotericSoftware/reflectasm) - ReflectASM is a very small Java library that provides high performance reflection by using code generation.
 *   [Reflections (⭐4.3k)](https://github.com/ronmamo/reflections) - Reflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project.
 
-## [7. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Official Resources
 
@@ -81,20 +87,20 @@
 *   [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 *   [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 
-## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Server Side Swift
 
 *   [*Server-Side Swift (Vapor Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 *   [*Server-Side Swift (Kitura Edition)* by Paul Hudson](https://www.hackingwithswift.com/store/server-side-swift)
 
-## [9. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Web-tools / Git
 
 *   [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
 
-## [10. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+## [11. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
@@ -119,19 +125,19 @@
 *   [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) - GNU Emacs plugins, maintainer of Ivy/Swiper/Counsel, Hydra, Avy, Lispy, and more.
 *   [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) - Tuist and XcodeProj libraries, articles.
 
-## [11. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Articles & Posts
 
 *   [Currents: The Remote Developer Experience (July 2019)](https://blog.digitalocean.com/currents-july2019/)
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CLI
 
-*   [Lyra (⭐373)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐385)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
-## [13. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [14. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### UK / London
 
@@ -145,7 +151,7 @@
 
 *   [Creative Coding Stockholm](https://www.meetup.com/Creative-Coding-Stockholm/) - Meetup group for anyone interested in creating art using programming languages.
 
-## [14. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [15. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Competition / Other
 
@@ -154,16 +160,6 @@
 ### tools / Other
 
 *   [ebowla (⭐695)](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
-
-## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Blogging Platforms
-
-*   [Plume](https://joinplu.me/) - Federated blogging engine, based on ActivityPub. ([Source Code (⭐1.8k)](https://github.com/Plume-org/Plume)) `AGPL-3.0` `Rust`
-
-### Software / Communication - Social Networks and Forums
-
-*   [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code (⭐1.8k)](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`
 
 ## [16. Public Apis](/content/public-apis/public-apis/README.md)
 

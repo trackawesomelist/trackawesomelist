@@ -19,11 +19,11 @@
 
 *   [Other Todo MVC (⭐1)](https://github.com/shapkarin/imba-todo) - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc (⭐28k)](https://github.com/tastejs/todomvc) rules.
 
-## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [3. Awesome React](/content/enaqx/awesome-react/README.md)
 
-### UI Layout / Syntax Highlight
+### React Tools / React Awesome Components
 
-*   [react-spaces (⭐1.1k)](https://github.com/aeagle/react-spaces) - [demo/docs](https://www.allaneagle.com/react-spaces/demo/) - Nestable anchored, resizable, scrollable components.
+*   [react-spaces (⭐1.1k)](https://github.com/aeagle/react-spaces) - Nestable resizable, anchored, scrollable components
 
 ## [4. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

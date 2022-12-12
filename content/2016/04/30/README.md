@@ -42,13 +42,13 @@
 
 ### UI / Barcode
 
-*   [Hexacon (⭐336)](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
+*   [Hexacon (⭐340)](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
 
 ## [5. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
 ### Ecommerce
 
-*   [Sylius (⭐7k)](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
+*   [Sylius (⭐7.1k)](https://github.com/Sylius/Sylius) - E-Commerce PHP framework built on top of Symfony with component-based architecture and format-agnostic rendering
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

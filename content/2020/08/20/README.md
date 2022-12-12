@@ -16,8 +16,8 @@
 
 ### Framework Components
 
-*   [graphql (⭐107)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
-*   [graphql-crystal (⭐214)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
+*   [graphql (⭐110)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql-crystal (⭐216)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### Unofficial
 
@@ -25,9 +25,9 @@
 
 ## [3. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
-### Playbooks, Roles and Collections / German
+### Playbooks, Roles and Collections / French
 
-*   [Ansible playbook for Linux machine setup (⭐28)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
+*   [Ansible playbook for Linux machine setup (⭐30)](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
 
 ## [4. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -67,7 +67,7 @@
 
 ### Penetration Testing
 
-*   [fsociety (⭐8k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
+*   [fsociety (⭐8.2k)](https://github.com/Manisso/fsociety) - A Penetration testing framework.
 
 ## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

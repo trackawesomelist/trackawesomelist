@@ -129,7 +129,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### React Tools / React Development Tools
 
-*   [@axe-core/react (⭐418)](https://github.com/dequelabs/axe-core-npm) - Accessibility auditing for React applications
+*   [@axe-core/react (⭐431)](https://github.com/dequelabs/axe-core-npm) - Accessibility auditing for React applications
 
 ## [11. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

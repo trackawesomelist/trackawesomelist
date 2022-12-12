@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 06 - Jul 12, 2015
 
-30 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -104,11 +104,11 @@
 
 ### Miscellaneous
 
-*   [html\_entities (⭐77)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
+*   [html\_entities (⭐78)](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 
 ### PDF
 
-*   [pdf2htmlex (⭐81)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
+*   [pdf2htmlex (⭐82)](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
 
 ## [6. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
@@ -193,13 +193,20 @@
 
 *   [Butterfly (⭐410)](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 
-## [14. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Django
+
+*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
+*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
+
+## [15. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Documentation
 
 *   [cycle.js.org](http://cycle.js.org/) - Cycle.js official tutorial and documentation.
 
-## [15. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [16. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -252,7 +259,7 @@ Secure Java programming guidelines straight from Oracle.
 
 Learn from the team that spearheaded the [Node Security Project](https://nodesecurity.io)
 
-## [16. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [17. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Dotfiles
 
@@ -273,7 +280,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 *   [oh-my-zsh (⭐151k)](https://github.com/robbyrussell/oh-my-zsh/) - A community driven framework for managing zsh configuration.
 *   [zsh quickstart kit (⭐579)](https://github.com/unixorn/zsh-quickstart-kit) - Quick intro for getting set up with zsh and zgen
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
@@ -281,20 +288,20 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 ### Database
 
-*   [MongoDB C Driver (⭐744)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
-*   [MongoDB C++ Driver (⭐915)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
-*   [MongoDB Libbson (⭐342)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
+*   [MongoDB C Driver (⭐752)](https://github.com/mongodb/mongo-c-driver) - MongoDB client library for C. \[Apache2]
+*   [MongoDB C++ Driver (⭐927)](https://github.com/mongodb/mongo-cxx-driver) - C++ driver for MongoDB. \[Apache2]
+*   [MongoDB Libbson (⭐344)](https://github.com/mongodb/libbson) - A BSON utility library. \[Apache2]
 
 ### Debug
 
-*   [Celero (⭐721)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
+*   [Celero (⭐723)](https://github.com/DigitalInBlue/Celero) - C++ Benchmarking Framework. \[Apache2]
 
 ### Graphics
 
-*   [GLFW (⭐9.7k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
+*   [GLFW (⭐9.9k)](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. \[zlib/libpng]
 *   [OpenSubdiv (⭐2.7k)](https://github.com/PixarAnimationStudios/OpenSubdiv) - Pixar's library for evaluating and rendering subdivision surfaces on CPU and GPU. \[Modified Apache2]
 *   [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. \[MPL2]
-*   [Partio (⭐408)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
+*   [Partio (⭐410)](https://github.com/wdas/partio) - Library for wrangling particle data, with support for most common file formats. \[Modified BSD]
 
 ### Image Processing
 
@@ -306,20 +313,20 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 *   [log4cplus (⭐1.4k)](https://github.com/log4cplus/log4cplus) - A simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. \[BSD & Apache2]
 
-## [18. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [19. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
 *   [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** \[1:10:14]
 
-## [19. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [20. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Web Frameworks / Bare metal / kernel development
 
 *   [libasync (⭐138)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 *   [libhttp2 (⭐34)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 
-## [20. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [21. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Sharing
 
@@ -350,7 +357,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 *   Baidu / UCLA [\[Paper\]](http://arxiv.org/pdf/1505.05612) [\[Dataset\]](https://github.com/kjw0612/awesome-deep-vision/blob/master/README.md/)
     *   Hauyuan Gao, Junhua Mao, Jie Zhou, Zhiheng Huang, Lei Wang, Wei Xu, Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering, arXiv:1505.05612.
 
-## [21. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [22. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / A companies
 
@@ -368,7 +375,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 *   Jake Yesbeck <http://jakeyesbeck.com/>
 
-## [22. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [23. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -384,7 +391,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 *   [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 *   [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
 
-## [23. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [24. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Charts
 
@@ -394,7 +401,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 *   [mapsense.js (⭐88)](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 
-## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [25. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Compilers, Transpilers and Languages
 
@@ -406,25 +413,25 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 ### HTTP
 
-*   [RestEase (⭐862)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
+*   [RestEase (⭐882)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
 
 ### Queue
 
 *   [Rebus (⭐1.9k)](https://github.com/rebus-org/Rebus) - Rebus is a lean service bus implementation for .NET, similar in nature to NServiceBus and MassTransit, only leaner
 
-## [25. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [26. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Database / ORM
 
 *   [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 
-## [26. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [27. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Go / Symfony2
 
-*   [gocrud (⭐312)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+*   [gocrud (⭐311)](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 
-## [27. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [28. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Introduction to CS
 
@@ -433,13 +440,13 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
     *   \[Lectures] (<http://otfried.org/courses/cs109/index.html>)
     *   \[Assignments] (<http://otfried.org/courses/cs109/index.html>)
 
-## [28. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [29. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Tutorials
 
 *   [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 
-## [29. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [30. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Data Ingestion and Integration
 
@@ -479,7 +486,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
     *   [Beetest (⭐71)](https://github.com/kawaa/Beetest) - A super simple utility for testing Apache Hive scripts locally for non-Java developers.
     *   [Hive\_test (⭐66)](https://github.com/edwardcapriolo/hive_test)- Unit test framework for hive and hive-service
 
-## [30. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [31. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Presentations / Videos
 

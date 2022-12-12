@@ -17,7 +17,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ee-ts (⭐117)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+*   :octocat: [ee-ts (⭐119)](https://github.com/aleclarson/ee-ts) - Typed event emitters
 
 ## [3. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
@@ -35,13 +35,13 @@
 
 ### HTML/XML Parsing
 
-*   [myhtml (⭐150)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
+*   [myhtml (⭐152)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
-*   [SimpleSignal (⭐142)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
+*   [SimpleSignal (⭐145)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
@@ -177,11 +177,11 @@
 
 ### Tools and frameworks
 
-*   [Happo (⭐506)](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
-*   [Wendigo (⭐136)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
+*   [Happo (⭐507)](https://github.com/Galooshi/happo) - Visual diffing in CI for user interfaces.
+*   [Wendigo (⭐138)](https://github.com/angrykoala/wendigo) - Test-oriented browser automation library based on Puppeteer.
 *   [Loki (⭐1.5k)](https://github.com/oblador/loki) - Visual regression testing for Storybook using Chrome in docker et al.
 *   [CodeceptJS (⭐3.8k)](https://github.com/codeception/codeceptjs/) - Modern Era Acceptance Testing Framework for NodeJS.
-*   [FuncUnit (⭐570)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+*   [FuncUnit (⭐572)](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
 *   [Nightwatch (⭐11k)](https://github.com/nightwatchjs/nightwatch) - Automated testing and continuous integration framework based on Node.js and using the Webdriver protocol.
 *   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - E2E test framework for Angular apps.
 
@@ -389,7 +389,7 @@
 
 ### CLI Builder
 
-*   [Terrapin (⭐165)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
+*   [Terrapin (⭐166)](https://github.com/thoughtbot/terrapin) - A small command line library (Formerly Cocaine).
 
 ### Debugging Tools
 
@@ -499,7 +499,7 @@
 
 ### Plugins
 
-*   [tmux-simple-git-status (⭐20)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
+*   [tmux-simple-git-status (⭐21)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 
 ### Miscellaneous / Development and testing
 

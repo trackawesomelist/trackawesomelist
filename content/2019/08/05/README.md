@@ -31,7 +31,7 @@
 
 ### Files / Runner
 
-*   [PDF.js (⭐40k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐41k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

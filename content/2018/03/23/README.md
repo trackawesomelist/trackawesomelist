@@ -28,7 +28,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [MXNet (⭐20k)](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
+*   [MXNet (⭐20k)](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
 
 ## [5. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

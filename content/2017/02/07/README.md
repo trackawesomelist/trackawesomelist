@@ -54,11 +54,11 @@
 
 ### Templating
 
-*   [exgen (⭐31)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
+*   [exgen (⭐32)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 
 ### Third Party APIs
 
-*   [cashier (⭐44)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
+*   [cashier (⭐46)](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 
 ## [7. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

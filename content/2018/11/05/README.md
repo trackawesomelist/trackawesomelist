@@ -35,7 +35,7 @@
 ### CLI
 
 *   [linenoise (⭐3.1k)](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit. \[BSD-2-Clause]
-*   [linenoise-ng (⭐339)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
+*   [linenoise-ng (⭐340)](https://github.com/arangodb/linenoise-ng) - A small, portable GNU readline replacement for Linux, Windows and MacOS which is capable of handling UTF-8 characters. \[BSD]
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 
@@ -52,7 +52,7 @@
 
 ### UICollectionView / Barcode
 
-*   [UICollectionViewSplitLayout (⭐240)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
+*   [UICollectionViewSplitLayout (⭐239)](https://github.com/yahoojapan/UICollectionViewSplitLayout) - UICollectionViewSplitLayout makes collection view more responsive.
 
 ## [8. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
@@ -92,7 +92,7 @@
 
 ### IoC
 
-*   [DryIoc (⭐779)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
+*   [DryIoc (⭐798)](https://github.com/dadhi/DryIoc) - Simple, fast all fully featured IoC container.
 
 ## [13. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

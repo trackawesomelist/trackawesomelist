@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 24, 2014
 
-3 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -41,6 +41,12 @@
 ### Code Review
 
 *   [Codebrag](http://www.codebrag.com/)  Codebrag is a simple code review tool that makes the process work for your team.
+
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ruby / Tornado
+
+*   [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
 ---
 

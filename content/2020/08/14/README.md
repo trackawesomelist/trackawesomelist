@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 14, 2020
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -53,13 +53,7 @@
 
 *   [wheretz (⭐8)](https://github.com/UA3MQJ/wheretz) - Elixir version of Ruby gem for lookup of timezone by georgraphic coordinates.
 
-## [6. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Libraries / Perl
-
-*   [mongo-perl-driver (⭐203)](https://github.com/mongodb-labs/mongo-perl-driver) - Official Perl driver
-
-## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### Django
 
@@ -88,7 +82,7 @@
 
 
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Development Environment / Version Control
 
@@ -98,7 +92,7 @@
 
 *   [dual quaternions ros (⭐27)](https://github.com/Achllle/dual_quaternions_ros) - ROS python package for dual quaternion SLERP.
 
-## [9. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Courses / Build system (ROS2)
 
@@ -116,19 +110,19 @@
     *   [Autoware Course Lecture 11: LGSVL Simulator](https://www.youtube.com/watch?v=OcB6FUbjZXo)
     *   [Autoware Course Lecture 12: Motion Control](https://www.youtube.com/watch?v=fQJpAVRQBrI)
 
-## [10. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [9. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Browser Features
 
 *   [xhr2 (⭐98)](https://github.com/pwnall/node-xhr2) - [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
 
-## [11. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [10. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Java
 
 *   [Spring Interview Questions And Answers](https://www.journaldev.com/2696/spring-interview-questions-and-answers)
 
-## [12. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [11. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### DevSecOps / Service meshes
 

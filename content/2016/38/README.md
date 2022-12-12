@@ -219,7 +219,7 @@ git log --show-notes='*'
 ### Articles
 
 *   [CppCon 2016 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
-*   [CppCon 2015 Presentation Materials (⭐1.7k)](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
+*   [CppCon 2015 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 *   [CppCon 2014 Presentation Materials (⭐2.2k)](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
 
 ## [20. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
@@ -417,7 +417,7 @@ git log --show-notes='*'
 
 ### Packages / Parsing
 
-*   [ref (⭐423)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐425)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [40. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -427,11 +427,11 @@ git log --show-notes='*'
 
 ### Framework Components
 
-*   [filterable (⭐94)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
+*   [filterable (⭐96)](https://github.com/omohokcoj/filterable) - Simple query params filtering for Phoenix framework inspired by Rails has\_scope.
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐499)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐503)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
@@ -444,7 +444,7 @@ git log --show-notes='*'
 
 ### Third Party APIs
 
-*   [tg\_client (⭐12)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
+*   [tg\_client (⭐13)](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
 
 ## [41. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,7 +10,7 @@
 
 ### Compression
 
-*   [Snappy.Sharp (⭐127)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+*   [Snappy.Sharp (⭐129)](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
 ## [2. Awesome Dtrace](/content/xen0l/awesome-dtrace/README.md)
 
@@ -62,7 +62,7 @@
 ### Label / Barcode
 
 *   [ActiveLabel (⭐4.2k)](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://).
-*   [CountdownLabel (⭐894)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
+*   [CountdownLabel (⭐901)](https://github.com/suzuki-0000/CountdownLabel) - Simple countdown UILabel with morphing animation, and some useful function.
 *   [GlitchLabel (⭐1k)](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
 *   [KDEDateLabel (⭐117)](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 *   [NumberMorphView (⭐1.6k)](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
@@ -79,13 +79,19 @@
 
 *   [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** \[54:55]
 
-## [6. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [MaintainableCSS](http://maintainablecss.com)
+
+## [7. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Operating Systems:
 
 *   [Tails](https://tails.boum.org/) - A live media, Linux-based operating system that is designed to allow the use of a computer without leaving a digital footprint.
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Malware Corpora
 
@@ -97,13 +103,13 @@
 *   [Industrial Control System Security (⭐1.1k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 *   [Threat Intelligence (⭐5.5k)](https://github.com/hslatman/awesome-threat-intelligence)
 
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / P companies
 
 *   Panorama Education <http://engineering.panoramaed.com/>
 
-## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 14, 2022
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -43,49 +43,43 @@
 
 ### ORM and Datamapping
 
-*   [ravix (⭐12)](https://github.com/YgorCastor/ravix) - RavenDB Driver for Elixir.
+*   [ravix (⭐14)](https://github.com/YgorCastor/ravix) - RavenDB Driver for Elixir.
 *   [ravix-ecto (⭐4)](https://github.com/YgorCastor/ravix-ecto) - RavenDB Ravix Driver adapter for Ecto.
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-country-code (⭐5)](https://github.com/denfedweb/vue-country-code) - Country Code Select
-
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
 *   [Branition](https://branition.com/colors) - Hand curated color pallets best fitted for brands.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Media / Diagnostics
 
-*   [samodostal/image.nvim (⭐60)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
-*   [adelarsq/image\_preview.nvim (⭐25)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
+*   [samodostal/image.nvim (⭐73)](https://github.com/samodostal/image.nvim) - Image Viewer as ASCII Art.
+*   [adelarsq/image\_preview.nvim (⭐29)](https://github.com/adelarsq/image_preview.nvim) - Image preview based on terminal's Image Protocol support.
 
 ### Game / Diagnostics
 
-*   [rktjmp/shenzhen-solitaire.nvim (⭐13)](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire port.
+*   [rktjmp/shenzhen-solitaire.nvim (⭐21)](https://github.com/rktjmp/shenzhen-solitaire.nvim) - Shenzhen I/O Solitaire port.
 
-## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Java / Angular
 
 *   [Java Newsletter Insights](https://curatedjava.com/java-weekly-newsletter/). A Java newsletter contemplating Java content curated from dozens of sources.
 
-## [10. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [9. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Code generators / Individual Podcast episodes
 
-*   [Protoc Gen Elm (⭐5)](https://github.com/andreasewering/protoc-gen-elm) - Generate Protobuf En/Decoders from .proto files
+*   [Protoc Gen Elm (⭐6)](https://github.com/andreasewering/protoc-gen-elm) - Generate Protobuf En/Decoders from .proto files
 
 ### Examples / Games
 
 *   [TheSpace App (⭐1)](https://github.com/thematters/thespace-app) - A reddit place like DApp with blockchain and canvas(through port) integration in Elm.
 
-## [11. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [10. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
@@ -95,20 +89,32 @@
 
 *   [List (⭐1.6k)](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. Designed to [seamlessly integrate with Ramda (⭐1.6k)](https://github.com/funkia/list#seamless-ramda-integration).
 
-## [12. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Artificial Intelligence
-
-*   [Graph Representational Learning Book](https://www.cs.mcgill.ca/\~wlh/grl_book/) - William L. Hamilton (HTML, PDF)
-
-## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Emulators
 
 *   GameMaker
-    *   [OpenGMK (⭐133)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
+    *   [OpenGMK (⭐143)](https://github.com/OpenGMK/OpenGMK) — OpenGMK is a modern rewrite of the proprietary GameMaker Classic engines, providing a full sourceport of the runner, a decompiler, a TASing framework, and libraries for working with gamedata yourself.
 
-## [14. GoBooks](/content/dariubs/GoBooks/README.md)
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Bash / Non-X86
+
+*   [Linux Shell Scripting With Bash](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) - Ken O. Burtch (PDF) *(:card\_file\_box: archived)*
+
+### JavaScript / Svelte
+
+*   [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Pro Python Advanced coding techniques and tools](https://archive.org/download/python-books/Apress.Pro.Python.Advanced.Coding.Techniques.And.Tools.Jun.2010.ISBN.1430227575.pdf) - Marty Alchin (PDF) *(:card\_file\_box: archived)*
+
+### Ruby / Tornado
+
+*   [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
+
+## [13. GoBooks](/content/dariubs/GoBooks/README.md)
 
 ### **Advanced Books** / [Beyond Effective Go: Part 1 - Achieving High-Performance Code](https://coreyscott.dev/book/)
 

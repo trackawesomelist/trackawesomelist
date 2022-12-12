@@ -97,7 +97,7 @@
 
 ### Image Processing
 
-*   [stb-image (⭐20k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
+*   [stb-image (⭐21k)](https://github.com/nothings/stb/blob/master/stb_image.h) - STB single-header image loading library. \[Public Domain]
 
 ## [13. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
@@ -231,7 +231,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [DynamoDb-GUI-Client (⭐632)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
+*   [DynamoDb-GUI-Client (⭐635)](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 
 ## [23. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
@@ -454,7 +454,7 @@
 
 *   [Angular Elements Overview](https://angular.io/guide/elements)
 
-### Vue
+### History / 2018
 
 *   [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
 
@@ -481,7 +481,7 @@
 
 ### Language Support
 
-*   [EcmaScript (⭐827)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
+*   [EcmaScript (⭐832)](https://github.com/reactiverse/es4x) - EcmaScript >=6 (JavaScript) support.
 
 ## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 

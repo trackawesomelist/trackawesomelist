@@ -28,7 +28,7 @@
 ### Frameworks / UI Frameworks
 
 *   [Flow (⭐29)](https://github.com/artman/Flow) - Layout, effects, data binding and remoting framework to be used instead of Flex.
-*   [Swiz (⭐227)](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
+*   [Swiz (⭐226)](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 
 ### Frameworks / Game Frameworks
 

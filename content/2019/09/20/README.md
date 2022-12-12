@@ -28,7 +28,7 @@
 
 ### Image Processing
 
-*   [pyvips (⭐447)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
+*   [pyvips (⭐465)](https://github.com/libvips/pyvips) - A fast image processing library with low memory needs.
 
 ## [5. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 

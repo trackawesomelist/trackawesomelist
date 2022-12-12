@@ -10,11 +10,11 @@
 
 ### Miscellaneous
 
-*   [countriex (⭐28)](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
+*   [countriex (⭐29)](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
 
 ### Protocols
 
-*   [grpc-elixir (⭐1.1k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
+*   [grpc-elixir (⭐1.2k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
 
 ### Editors
 
@@ -24,7 +24,7 @@
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.1k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐499)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐502)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
 ## [2. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

@@ -14,9 +14,9 @@
     window.
 *   They use slightly different commands for navigation.
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
-### Frameworks, Libraries and Tools / API
+### HTTP
 
 *   [RestLess (⭐108)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 
@@ -35,7 +35,7 @@
 
 ### App Examples
 
-*   [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code. (⭐176)](https://github.com/plotly/dash-oil-and-gas-demo)
+*   [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code. (⭐179)](https://github.com/plotly/dash-oil-and-gas-demo)
 *   [Uber Rides](https://plot.ly/dash/gallery/uber-rides/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-uber-rides-demo)
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
@@ -46,7 +46,7 @@
 
 ### Images / Barcode
 
-*   [AXPhotoViewer (⭐586)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+*   [AXPhotoViewer (⭐590)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 
 ## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

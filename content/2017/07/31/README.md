@@ -32,7 +32,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-CoreLocation (⭐5.2k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+*   [ARKit-CoreLocation (⭐5.3k)](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
 
 ### Concurrency
 

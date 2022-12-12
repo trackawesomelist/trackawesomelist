@@ -65,7 +65,7 @@
 
 ### Open Source / Endless Runner
 
-*   [BGUG (⭐84)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
+*   [BGUG (⭐86)](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
 ## [7. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

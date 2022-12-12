@@ -20,7 +20,7 @@
 
 ### Cryptography
 
-*   [StreamCryptor (⭐122)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
+*   [StreamCryptor (⭐123)](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
 
 ### ORM
 
@@ -67,7 +67,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐702)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐709)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [7. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

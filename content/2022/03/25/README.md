@@ -16,14 +16,14 @@
 
 ### MIDI Tools & Libraries
 
-*   [JJazzLab-X (⭐228)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+*   [JJazzLab-X (⭐234)](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Packages / Containerization
 
-*   [osrf/docker\_images (⭐346)](https://github.com/osrf/docker_images) - Dockerfiles of [Official Library on Docker Hub](https://hub.docker.com/_/ros) and [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
-*   [docker-ros2-desktop-vnc (⭐181)](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
+*   [osrf/docker\_images (⭐362)](https://github.com/osrf/docker_images) - Dockerfiles of [Official Library on Docker Hub](https://hub.docker.com/_/ros) and [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
+*   [docker-ros2-desktop-vnc (⭐194)](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
 
 ## [4. Awesome Evm Security](/content/kareniel/awesome-evm-security/README.md)
 
@@ -37,8 +37,8 @@
 
 ### Tools / Administration
 
-*   [k8s-backup-mongodb (⭐22)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
-*   [mgob (⭐768)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
+*   [k8s-backup-mongodb (⭐24)](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
+*   [mgob (⭐769)](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -55,7 +55,7 @@
 
 ### IoT
 
-*   [Zeus IoT (⭐619)](https://github.com/zmops/zeus-iot) - Zeus IoT is the world's first open source Internet of Things distributed collection platform based on Zabbix, with the ability to collect, analyze, and store data from millions of IoT devices.
+*   [Zeus IoT (⭐634)](https://github.com/zmops/zeus-iot) - Zeus IoT is the world's first open source Internet of Things distributed collection platform based on Zabbix, with the ability to collect, analyze, and store data from millions of IoT devices.
 
 ### Connector
 
@@ -68,7 +68,7 @@
 
 ### Algorithm
 
-*   [PyODDS (⭐204)](https://github.com/datamllab/pyodds) - An End-to-end Outlier Detection System.
+*   [PyODDS (⭐212)](https://github.com/datamllab/pyodds) - An End-to-end Outlier Detection System.
 *   [PYTSDA-TDengine (⭐21)](https://github.com/Shawshank-Smile/PYTSDA-TDengine) - An End-to-end time series data analysis system with TDengine.
 
 ### Observability
@@ -81,7 +81,7 @@
 
 ### Dataset
 
-*   [seedlink2taos\_py (⭐9)](https://github.com/schenton/seedlink2taos_py) - A Python program that fetches seismic waveform data from IRIS and writes to TDengine database.
+*   [seedlink2taos\_py (⭐10)](https://github.com/schenton/seedlink2taos_py) - A Python program that fetches seismic waveform data from IRIS and writes to TDengine database.
 
 ## [8. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
@@ -104,27 +104,27 @@
 
 ### Syntax / Diagnostics
 
-*   [m-demare/hlargs.nvim (⭐204)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [m-demare/hlargs.nvim (⭐237)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
 
 ### Utility / Diagnostics
 
-*   [toppair/reach.nvim (⭐131)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher for Neovim.
+*   [toppair/reach.nvim (⭐146)](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
 
 ## [11. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Web
 
-*   [mvysny/vaadin-on-kotlin (⭐161)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
+*   [mvysny/vaadin-on-kotlin (⭐164)](https://github.com/mvysny/vaadin-on-kotlin) - A simple way to write full-stack database-backed component-oriented web apps
 
 ## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 3
 
-*   [Vue Naive (⭐488)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
+*   [Vue Naive (⭐561)](https://github.com/zclzone/vue-naive-admin) - Admin template, base on Vue 3 + Pinia + Naive UI.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-load-css-module (⭐9)](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
+*   [vite-plugin-load-css-module (⭐10)](https://github.com/jsonz1993/vite-plugin-load-css-module) - Support custom regexp of css modules and use vite internal css plugin, not just `.module.xxx`.
 
 ## [13. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 

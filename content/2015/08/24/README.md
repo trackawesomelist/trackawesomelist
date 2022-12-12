@@ -49,12 +49,12 @@
 
 *   Mock
     *   [doublex](https://pypi.org/project/doublex/) - Powerful test doubles framework for Python.
-    *   [freezegun (⭐3.4k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
-    *   [httmock (⭐446)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
+    *   [freezegun (⭐3.5k)](https://github.com/spulec/freezegun) - Travel through time by mocking the datetime module.
+    *   [httmock (⭐448)](https://github.com/patrys/httmock) - A mocking library for requests for Python 2.6+ and 3.2+.
     *   [httpretty (⭐2k)](https://github.com/gabrielfalcao/HTTPretty) - HTTP request mock tool for Python.
     *   [mock](https://docs.python.org/3/library/unittest.mock.html) - (Python standard library) A mocking and patching library.
-    *   [mocket (⭐244)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
-    *   [responses (⭐3.7k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
+    *   [mocket (⭐249)](https://github.com/mindflayer/python-mocket) - A socket mock framework with gevent/asyncio/SSL support.
+    *   [responses (⭐3.8k)](https://github.com/getsentry/responses) - A utility library for mocking out the requests Python library.
     *   [VCR.py (⭐2.3k)](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 
 ## [6. Awesome Security](/content/sbilly/awesome-security/README.md)

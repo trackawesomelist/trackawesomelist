@@ -70,7 +70,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [Mac-CLI (⭐8.3k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac-CLI (⭐8.4k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -2127,11 +2127,11 @@
 
 ### Testing / Barcode
 
-*   [Nimble (⭐4.5k)](https://github.com/Quick/Nimble) - A matcher framework.
+*   [Nimble (⭐4.6k)](https://github.com/Quick/Nimble) - A matcher framework.
 
 ### Alert / Barcode
 
-*   [Swift-Prompts (⭐735)](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
+*   [Swift-Prompts (⭐736)](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
 
 ## [12. Awesome Framer](/content/podo/awesome-framer/README.md)
 

@@ -34,7 +34,7 @@
 *   [TypeScript Sublime Plugin (⭐1.7k)](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
 *   [Atom TypeScript (⭐1.1k)](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
 *   [TypeScript Interactive Development Environment for Emacs (⭐1.4k)](https://github.com/ananthakumaran/tide) by @ananthakumaran
-*   [TypeScript Syntax for VIM (⭐1.8k)](https://github.com/leafgarland/typescript-vim)
+*   [TypeScript Syntax for VIM (⭐1.9k)](https://github.com/leafgarland/typescript-vim)
 
 ### Online / Playground
 
@@ -56,7 +56,7 @@
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐32k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐33k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
@@ -73,7 +73,7 @@
 
 ### Realm
 
-*   [Realm+JSON (⭐670)](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
+*   [Realm+JSON (⭐669)](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
 
 ### Auto Layout / Barcode
 
@@ -81,11 +81,11 @@
 
 ### HTML / Barcode
 
-*   [Fuzi (⭐979)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
+*   [Fuzi (⭐987)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐838)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐844)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ## [6. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/README.md)
 

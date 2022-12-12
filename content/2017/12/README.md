@@ -256,7 +256,7 @@ git log -S'<a term in the source>'
 
 ### Queue
 
-*   [RabbitMQ.NET (⭐1.7k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
+*   [RabbitMQ.NET (⭐1.8k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 
 ## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -320,15 +320,15 @@ Webpage: <http://www.lerdevagar.com/>
 ### Components & Libraries / UI Components
 
 *   [vuedals (⭐106)](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
-*   [sweet-modal-vue (⭐750)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+*   [sweet-modal-vue (⭐751)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
 *   [vue-masked-input (⭐452)](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
 *   [vue-text-mask (⭐8.2k)](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 *   [vue-ip-input (⭐25)](https://github.com/lakb248/vue-ip-input) - An ip input implemented by vuejs.
-*   [vue-numeric (⭐422)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+*   [vue-numeric (⭐425)](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 
 ### Components & Libraries / Utilities
 
-*   [vue-super (⭐35)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
+*   [vue-super (⭐34)](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 
 ## [31. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
@@ -359,7 +359,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐580)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐583)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [36. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -495,7 +495,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Task management
 
-*   [sam (⭐81)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
+*   [sam (⭐82)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## [46. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

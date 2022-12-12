@@ -34,7 +34,7 @@
 
 ### Tools and Apps / Habit Trackers
 
-*   [Loop Habit Tracker (⭐5.4k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+*   [Loop Habit Tracker (⭐5.6k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
 ---
 

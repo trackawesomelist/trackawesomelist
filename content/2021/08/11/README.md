@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [muxile (⭐67)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
+*   [muxile (⭐71)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Extensions
 
-*   [Destack for Next.js (⭐655)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
+*   [Destack for Next.js (⭐708)](https://github.com/liveduo/destack) - Next.js extension to visually build landing pages locally.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

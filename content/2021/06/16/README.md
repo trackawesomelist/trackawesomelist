@@ -55,14 +55,14 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-semantic-admin (⭐63)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-*   [django-baton (⭐646)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+*   [django-semantic-admin (⭐65)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐657)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Markdown / LaTeX / Diagnostics
+### Markdown and LaTeX / Diagnostics
 
-*   [jubnzv/mdeval.nvim (⭐82)](https://github.com/jubnzv/mdeval.nvim) - A Neovim plugin that evaluates code blocks inside markdown documents.
+*   [jubnzv/mdeval.nvim (⭐102)](https://github.com/jubnzv/mdeval.nvim) - Evaluate code blocks inside markdown documents.
 
 ## [9. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

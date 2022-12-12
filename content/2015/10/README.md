@@ -169,7 +169,7 @@
 
 ### Utility / Barcode
 
-*   [SpriteKit+Spring (⭐242)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
+*   [SpriteKit+Spring (⭐243)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 
 ## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -209,11 +209,11 @@
 
 ### Inter-process communication
 
-*   [gRPC (⭐36k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
+*   [gRPC (⭐37k)](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. \[BSD] [website](http://www.grpc.io/)
 
 ### Compiler
 
-*   [8cc (⭐5.7k)](https://github.com/rui314/8cc) - A Small C Compiler.
+*   [8cc (⭐5.8k)](https://github.com/rui314/8cc) - A Small C Compiler.
 *   [c (⭐2k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 
 ## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)

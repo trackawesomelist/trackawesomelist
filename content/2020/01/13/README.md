@@ -18,13 +18,19 @@
 
 *   [hosts-blocklists (⭐2k)](https://github.com/notracking/hosts-blocklists) - A host and domainname based blocklist specifically designed for use with dnsmasq.
 
-## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Spring Data
+
+*   [Spring Data Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html) - Oliver Gierke, Thomas Darimont, Christoph Strobl, Mark Paluch, Jay Bryant
+
+## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Testing
 
 *   [FluentAssertions (⭐3k)](https://github.com/fluentassertions/fluentassertions) - Set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 
-## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Frameworks
 
@@ -42,7 +48,7 @@
 *   Create a pull request on the official repo.
 *   Once accepted, repeat by merging from the official repo to your fork's master, and re-branch.
 
-## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [6. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Broker
 
@@ -65,7 +71,7 @@
 *   [Sonoff-Tasmota (⭐19k)](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
 *   [WiFi-IoT](https://wifi-iot.com/p/wiki/) - ESP8266/ESP32 firmware builder. Partly in Russian. Free features are limited.
 
-## [6. Awesome V](/content/vlang/awesome-v/README.md)
+## [7. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Libraries / Command line interface (CLI) / Terminal / Shell
 
@@ -77,33 +83,33 @@
 
 ### Libraries / User Interface toolkits
 
-*   [vig (⭐38)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐42k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐39)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐44k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐38)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐13k)](https://github.com/vurtun/nuklear) GUI toolkit.
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Password Managers
 
 *   [Padloc](https://padloc.app/) - A modern, open source password manager for individuals and teams. ([Source Code (⭐2k)](https://github.com/padloc/padloc)) `GPL-3.0` `Nodejs`
 
-## [8. Awesome Python](/content/vinta/awesome-python/README.md)
+## [9. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Email
 
 *   Mail Servers
     *   [modoboa (⭐2.3k)](https://github.com/modoboa/modoboa) - A mail hosting and management platform including a modern Web UI.
-    *   [salmon (⭐570)](https://github.com/moggers87/salmon) - A Python Mail Server.
+    *   [salmon (⭐577)](https://github.com/moggers87/salmon) - A Python Mail Server.
 *   Clients
     *   [imbox (⭐1.1k)](https://github.com/martinrusev/imbox) - Python IMAP for Humans.
     *   [yagmail (⭐2.4k)](https://github.com/kootenpv/yagmail) - Yet another Gmail/SMTP client.
 *   Others
     *   [flanker (⭐1.6k)](https://github.com/mailgun/flanker) - An email address and Mime parsing library.
-    *   [mailer (⭐251)](https://github.com/marrow/mailer) - High-performance extensible mail delivery framework.
+    *   [mailer (⭐253)](https://github.com/marrow/mailer) - High-performance extensible mail delivery framework.
 
 ### HTTP Clients
 
-*   [grequests (⭐4.1k)](https://github.com/spyoungtech/grequests) - requests + gevent for asynchronous HTTP requests.
-*   [requests (⭐48k)](https://github.com/psf/requests) - HTTP Requests for Humans.
+*   [grequests (⭐4.2k)](https://github.com/spyoungtech/grequests) - requests + gevent for asynchronous HTTP requests.
+*   [requests (⭐49k)](https://github.com/psf/requests) - HTTP Requests for Humans.
 
 ### Specific Formats Processing
 
@@ -114,21 +120,21 @@
 
 *   [requests-html (⭐13k)](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
 
-## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Documentaries / Third Party Hosts
 
 *   [Documentary Addict](https://documentaryaddict.com/) A website which scrapes Youtube for documentaries
 *   [iHaveNoTv](https://ihavenotv.com/) Community managed documentary collection
 
-## [10. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [11. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Books / Editors
 
 *   [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - By Sai Matam and Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample)); a simple, practical, step-by-step tutorial to measure the performance of websites.
 *   [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) - By Penny Curich ([Leanpub](https://leanpub.com/advanced_jmeter_testing)), guide to write custom components for Apache JMeter 5.0.
 
-## [11. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Reading
 
@@ -153,7 +159,7 @@
 
 *   [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping\&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
-## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### System Deployment
 
@@ -163,7 +169,7 @@
 
 *   [DataSphere Studio (⭐2.3k)](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
 
-## [13. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [14. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Open source / GPL (no linking exception)
 
@@ -172,12 +178,6 @@
 ### OS and Kernels / Other / unknown licence
 
 *   [havk (⭐21)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
-
-## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Authentication
-
-*   [Authentication with client-side Blazor (⭐233)](https://github.com/chrissainty/AuthenticationWithClientSideBlazor) - ![stars](https://img.shields.io/github/stars/chrissainty/AuthenticationWithClientSideBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/chrissainty/AuthenticationWithClientSideBlazor?style=flat-square\&cacheSeconds=86400) Authentication with client-side Blazor using WebAPI and ASP.NET Core Identity. [Blog post](https://chrissainty.com/securing-your-blazor-apps-authentication-with-clientside-blazor-using-webapi-aspnet-core-identity/).
 
 ## [15. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -198,10 +198,10 @@
 
 ### Projects / Plugins
 
-*   [AAC Tactics (⭐28)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
+*   [AAC Tactics (⭐29)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
 *   [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
 *   [Mtac2 (⭐48)](https://github.com/Mtac2/Mtac2) - Plugin adding typed tactics for backward reasoning.
-*   [SMTCoq (⭐125)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
+*   [SMTCoq (⭐128)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
 
 ### Projects / Tools
 
@@ -209,7 +209,7 @@
 
 ### Projects / Type Theory and Mathematics
 
-*   [Category Theory in Coq (⭐667)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
+*   [Category Theory in Coq (⭐672)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
 *   [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 
 ### Projects / Verified Software
@@ -218,14 +218,14 @@
 
 ### Resources / Community
 
-*   [Mathematical Components wiki (⭐443)](https://github.com/math-comp/math-comp/wiki)
+*   [Mathematical Components wiki (⭐444)](https://github.com/math-comp/math-comp/wiki)
 
 ### Resources / Tutorials and Hints
 
 *   [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) - Introduction to how Coq can be used to define logical concepts and functions and reason about them.
-*   [Lemma Overloading (⭐24)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
+*   [Lemma Overloading (⭐25)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 *   [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
-*   [Tricks in Coq (⭐390)](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
+*   [Tricks in Coq (⭐395)](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
 
 ## [17. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 

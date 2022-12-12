@@ -29,7 +29,7 @@
 
 ### Plugins
 
-*   🎨🧬 [Themeable (⭐30)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
+*   🎨🧬 [Themeable (⭐32)](https://github.com/upupming/tailwindcss-themeable) - Adds multiple themes support for Tailwind CSS.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Writing / Social Sciences
 
-*   [Theoretical Physics (⭐195)](https://github.com/certik/theoretical-physics)
+*   [Theoretical Physics (⭐197)](https://github.com/certik/theoretical-physics)
 
 ### Sharing Slides / HTML+CSS+JS
 
@@ -62,7 +62,6 @@
 *   [my-mind](http://my-mind.github.io/): repo [here (⭐3k)](https://github.com/ondras/my-mind).
 *   [beautiful Mind](http://beautifulmind.io/): repo [here (⭐117)](https://github.com/ierror/BeautifulMind.io)
 *   [mindmaps](http://drichard.org/mindmaps/): repo [here (⭐2.5k)](https://github.com/drichard/mindmaps)
-*   [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 *   [jsmind (⭐2.6k)](https://github.com/hizzgdev/jsmind)
 *   [jsmind](http://sourceforge.net/projects/jsmind/)
 *   [mindmaps (⭐2.5k)](https://github.com/drichard/mindmaps)
@@ -74,7 +73,7 @@
 ### Online Load and Edit / LaTeX
 
 *   [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
-*   [Strut (⭐1.6k)](https://github.com/tantaman/Strut)
+*   [Strut (⭐1.7k)](https://github.com/tantaman/Strut)
 *   [Impressionist (⭐586)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.4k)](https://github.com/regebro/hovercraft)
 
@@ -87,9 +86,8 @@
 *   [Scrolldeck (⭐679)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
 *   [Shower (⭐4.7k)](https://github.com/shower/shower)
-*   [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
-*   [Slides (⭐495)](https://github.com/briancavalier/slides)
+*   [Slides (⭐494)](https://github.com/briancavalier/slides)
 
 ### The Power of SVG / HTML+CSS+JS
 
@@ -145,7 +143,7 @@
 *   [Raphaël](http://raphaeljs.com/) (`js`)
 *   [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html) (`js`)
 *   [Paper.js](http://paperjs.org/) (`js`)
-*   [matplotlib (⭐1.8k)](https://github.com/jbmouret/matplotlib_for_papers)
+*   [matplotlib (⭐1.9k)](https://github.com/jbmouret/matplotlib_for_papers)
 *   [ggplot for python](http://ggplot.yhathq.com/)
 *   [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
 *   [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.
@@ -327,7 +325,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Debug
 
-*   [UnitTest++ (⭐508)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐509)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
 
@@ -765,7 +763,6 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Analysis / Measure Theory
 
-*   [An Introduction to Measure Theory](https://terrytao.files.wordpress.com/2011/01/measure-book1.pdf) - Terence Tao (UCLA)
 *   [Lecture Notes on Measure Theory and Functional Analysis](http://www.mat.uniroma2.it/\~cannarsa/cam_0607.pdf) - P. Cannarsa, T. D’Aprile
 *   [Lecture Notes in Measure Theory](http://www.math.chalmers.se/\~borell/MeasureTheory.pdf) - Christer Borell
 *   [A Crash Course on the Lebesgue Integral and Measure Theory](http://www.gold-saucer.org/math/lebesgue/lebesgue.pdf) - Steve Cheng
@@ -892,11 +889,11 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Office
 
-*   [excellent (⭐23)](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
+*   [excellent (⭐24)](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
 
 ### Text and Numbers
 
-*   [money (⭐672)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐688)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 

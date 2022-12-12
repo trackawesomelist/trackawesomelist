@@ -36,26 +36,26 @@
 
 *   🛑💼 [Caret Color (⭐12)](https://github.com/naoray/tailwind-caret-color) - Adds `caret` color utilities.
 
-## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Articles / Others
-
-*   [Blackjack in Blazor Part 1 - Rules and Modeling the Game](https://exceptionnotfound.net/blackjack-in-blazor-part-1-rules-and-modeling-the-game/) - January 2021, 18 - Blackjack in Blazor Part 1 - Rules and Modeling the Game, on Exception Not Found.
-
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Database
 
 *   [next.jdbc (⭐612)](https://github.com/seancorfield/next-jdbc)
 *   [clojure.java.jdbc (⭐692)](https://github.com/clojure/java.jdbc)
 
-## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [7. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [a16z Podcast](https://a16z.com/podcasts/) - A podcast discusses tech and culture trends, news, and the future.
 *   [Breach](https://www.carbonite.com/podcasts/breach/) - A podcast exploring data breaches and cybersecurity by Carbonite.
 *   [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebook. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
+
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Vue.js
+
+*   [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Gaming
 
-*   [Games of Coding (⭐1.5k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+*   [Games of Coding (⭐1.6k)](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 
 ---
 

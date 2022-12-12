@@ -41,7 +41,7 @@
 
 *   [curio (⭐3.9k)](https://github.com/dabeaz/curio) - The coroutine concurrency library.
     *   [Curio-Asyncio Bridge (⭐3.9k)](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge.
-*   [trio (⭐4.9k)](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
+*   [trio (⭐5k)](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
     *   [trio-asyncio (⭐163)](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio.
 
 ## [5. Awesome Flutter](/content/Solido/awesome-flutter/README.md)

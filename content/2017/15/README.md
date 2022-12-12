@@ -292,7 +292,7 @@
 
 ### HTTP Clients
 
-*   [httplib2 (⭐453)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
+*   [httplib2 (⭐457)](https://github.com/httplib2/httplib2) - Comprehensive HTTP client library.
 
 ## [12. Guitarspecs](/content/gitfrage/guitarspecs/week/README.md)
 
@@ -403,7 +403,7 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [TensorFlow (⭐278)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+*   [TensorFlow (⭐276)](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 ## [17. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
@@ -503,7 +503,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [itunes-remote (⭐421)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [itunes-remote (⭐422)](https://github.com/mischah/itunes-remote) - Software for controlling iTunes via the terminal. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mischah/itunes-remote) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Developer Tools / Databases
 
@@ -599,14 +599,14 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-js-modal (⭐4.1k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
+*   [vue-js-modal (⭐4.2k)](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
 ## [35. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / Frameworks
 
-*   [Intervention Engine FHIR Server (⭐97)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
-*   [Swift-SMART (⭐119)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
+*   [Intervention Engine FHIR Server (⭐98)](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
+*   [Swift-SMART (⭐118)](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ## [36. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -824,7 +824,7 @@
 
 ### Misc
 
-*   [crz (⭐84)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
+*   [crz (⭐86)](https://github.com/dhruvrajvanshi/crz) - Functional programming library
 
 ## [45. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
@@ -859,13 +859,13 @@
 
 ### Bindings
 
-*   [vulkan (⭐366)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
+*   [vulkan (⭐372)](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. \[Apache Licence 2.0]
 
 ## [47. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [NsDepCop (⭐137)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
+*   [NsDepCop (⭐139)](https://github.com/realvizu/NsDepCop) - Static code analysis tool to enforce namespace dependency rules in C# projects.
 
 ### Decompilation
 
@@ -873,7 +873,7 @@
 
 ### Distributed Computing
 
-*   [protoactor-dotnet (⭐1.4k)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
+*   [protoactor-dotnet (⭐1.5k)](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Golang and C#
 
 ---
 

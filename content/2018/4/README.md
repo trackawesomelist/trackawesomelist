@@ -71,7 +71,7 @@
 
 ### Routing
 
-*   [orion (⭐119)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
+*   [orion (⭐120)](https://github.com/obsidian/orion) - A minimal, rails-esque routing library
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Email
 
-*   [burnex (⭐62)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐63)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -258,7 +258,7 @@
 
 ### Misc
 
-*   [DeviceDetector.NET (⭐200)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
+*   [DeviceDetector.NET (⭐209)](https://github.com/totpero/DeviceDetector.NET) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 
 ### Web Frameworks
 
@@ -347,7 +347,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐261)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐267)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -363,7 +363,7 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐765)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐789)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [37. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -431,8 +431,8 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter (⭐355)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
-*   [Staart (⭐317)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
+*   [Next Redux Starter (⭐360)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Staart (⭐315)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 
 ---
 

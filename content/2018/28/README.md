@@ -17,7 +17,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-gallery (⭐64)](https://github.com/TerryZ/v-gallery) - A Vue2 plugin for images show in `gallery` or `carousel`
+*   [v-gallery (⭐63)](https://github.com/TerryZ/v-gallery) - A Vue2 plugin for images show in `gallery` or `carousel`
 
 ## [3. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
@@ -162,7 +162,7 @@
 
 ### Software / Miscellaneous
 
-*   [AlertHub (⭐129)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
+*   [AlertHub (⭐131)](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
 
 ### Software / Pastebins
 
@@ -218,7 +218,7 @@ Webpage: <https://yoghut.com/>
 
 ### Extensions
 
-*   [Next SEO (⭐5.6k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
+*   [Next SEO (⭐5.9k)](https://github.com/garmeeh/next-seo) - SEO made easy for Next.js
 
 ## [26. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -244,14 +244,14 @@ Webpage: <https://yoghut.com/>
 
 ### Math
 
-*   [StatsLib (⭐409)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
+*   [StatsLib (⭐423)](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions. \[Apache2] [website](https://www.kthohr.com/statslib.html)
 
 ## [29. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### Programming Language Design Patterns
 
 *   Go
-    *   [design-patterns (⭐20k)](https://github.com/tmrts/go-patterns)
+    *   [design-patterns (⭐21k)](https://github.com/tmrts/go-patterns)
 
 ## [30. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
@@ -270,7 +270,7 @@ Webpage: <https://yoghut.com/>
 
 ### Utilities / Menu Bar Tools
 
-*   [iGlance (⭐2.1k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Moneypulation/iGlance) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Moneypulation/iGlance)
+*   [iGlance (⭐2.2k)](https://github.com/Moneypulation/iGlance) - macOS System Monitor for the Status Bar. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Moneypulation/iGlance) [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Moneypulation/iGlance)
 
 ## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
@@ -315,7 +315,7 @@ Webpage: <https://yoghut.com/>
 
 ### Board support crates / Texas Instruments
 
-*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐27)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐75)](https://github.com/thejpster/pc-keyboard).
+*   [`monotron`](https://github.com/thejpster/monotron) - A 1980s home-computer style application for the Texas Instruments Stellaris Launchpad. PS/2 keyboard input, text output on a bit-bashed 800x600 VGA signal. Uses [menu (⭐29)](https://github.com/thejpster/menu), [vga-framebuffer (⭐29)](https://github.com/thejpster/vga-framebuffer-rs) and [pc-keyboard (⭐76)](https://github.com/thejpster/pc-keyboard).
 
 ## [36. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 

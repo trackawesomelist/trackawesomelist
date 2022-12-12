@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 28 - Dec 04, 2016
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -105,13 +105,49 @@
 
 *   [Vert.x Spring Verticle Factory (⭐7)](https://github.com/juanavelez/vertx-spring-verticle-factory) - A Vert.x Verticle Factory that makes use of Spring to obtain and configure Verticles.
 
-## [7. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Go / Phoenix
+
+*   [Go for Javascript Developers (⭐1.1k)](https://github.com/bulim/go-for-javascript-developers)
+
+### Linux / TeX
+
+*   [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [SICP in Python](http://www-inst.eecs.berkeley.edu/\~cs61a/sp12/book/) (3.2)
+
+### Python / Pandas
+
+*   [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
+
+### Python / Tornado
+
+*   [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
+
+### R / Tornado
+
+*   [Cookbook for R](http://www.cookbook-r.com) - Winston Chang
+*   [R for Spatial Analysis](http://www.columbia.edu/\~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
+*   [R Language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers) - John D. Cook
+*   [R Packages](http://r-pkgs.had.co.nz) - Hadley Wickham
+*   [R Practicals](http://www.columbia.edu/\~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
+*   [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
+*   [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
+
+### Ruby / Ruby on Rails
+
+*   [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - [Michael Hartl](http://www.michaelhartl.com)
+
+## [8. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Projects
 
 *   [launch (⭐26)](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more
 
-## [8. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [9. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Reference material
 
@@ -139,19 +175,19 @@
 
 *   [rossmcdonald/influxdb (⭐45)](https://github.com/rossmcdonald/influxdb) - Ansible role for installing, configuring, and maintaining InfluxDB
 
-## [9. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
+## [10. Scalable Css Reading List](/content/davidtheclark/scalable-css-reading-list/week/README.md)
 
 ### Authoring Frameworks & Longer Readings
 
 *   [Atomic CSS](http://acss.io/), Yahoo! Inc.
 
-## [10. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [11. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### i18n
 
 *   [xgettext-template (⭐79)](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
-## [11. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [12. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Graph Making / HTML+CSS+JS
 
@@ -161,25 +197,25 @@
 
 *   [On Being a Scientist](https://www.nap.edu/read/12192/): A guide to responsible conduct in research.
 
-## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / PHP Podcasts
 
 *   [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
 
-## [13. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [14. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Experiments
 
 *   [Dancing Torus](http://dancing-torus.s3-website-us-east-1.amazonaws.com/) - Dancing Torus is a WebGL Audio Reactive experience. Choose your favourite song on Soundcloud and start dancing!
 
-## [14. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
+## [15. Awesome Rails Gem](/content/hothero/awesome-rails-gem/week/README.md)
 
 ### Debug / Omniauth
 
 *   [awesome\_print (⭐4k)](https://github.com/awesome-print/awesome_print) - Awesome Print is a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.
 
-## [15. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [16. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Shells
 
@@ -200,46 +236,46 @@
 *   [lumberjack (⭐35)](https://github.com/molovo/lumberjack) - A logging interface for shell scripts
 *   [revolver (⭐128)](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 
-## [16. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [17. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Online Build System
 
 *   [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
 *   [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
 
-## [17. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [18. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blogs
 
 *   [Going Serverless](http://www.goingserverless.com) - Blog about serverless architectures and the Serverless Framework.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/) on SitePoint
 *   [Vue.js 2.0 Fundamentals](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) on YouTube by DevMarketer
 
-## [19. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [20. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 
 *   Speed/accuracy trade-offs for modern convolutional object detectors [\[Paper\]](https://arxiv.org/pdf/1611.10012v1.pdf)
     *   Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy, Google Research, arXiv:1611.10012
 
-## [20. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [21. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Extensions / General Purpose
 
 *   [SublimeFileBrowser (⭐388)](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
 
-## [21. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
+## [22. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
 ### Talks / Technical Talks
 
 *   [Extreme Classification: A New Paradigm for Ranking & Recommendation](https://youtu.be/1X71fTx1LKA) - Manik Verma (Microsoft Research)
 
-## [22. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
+## [23. Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/week/README.md)
 
 ### New to Laravel
 
@@ -417,13 +453,13 @@
 *   [careercup](http://www.careercup.com/)
 *   [LeetCode](https://leetcode.com/)
 
-## [23. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [24. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Authorization
 
 *   [pyramid\_yosai (⭐5)](https://github.com/YosaiProject/pyramid_yosai) - Pyramid integration with security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail <https://yosaiproject.github.io/yosai/>
 
-## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [25. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -1996,13 +2032,13 @@
 *   [Wynyard Group](https://wynyardgroup.com)
 *   [Visual Investigative Scenarios](https://vis.occrp.org)
 
-## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Math / Other
 
 *   [Learning Maths again (⭐188)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 
-## [26. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
+## [27. Awesome Fortran](/content/rabbiabram/awesome-fortran/week/README.md)
 
 ### Graphics Libraries
 
@@ -2029,13 +2065,13 @@
 
 *   [Unoficial Image](https://hub.docker.com/r/baekjoon/onlinejudge-fortran/) - docker image provided by @baekjoon
 
-## [27. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 
-## [28. Amas](/content/sindresorhus/amas/week/README.md)
+## [29. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
@@ -2045,7 +2081,7 @@
 
 *   [Ansible Taiwan (⭐32)](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 
-## [29. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [30. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Language Aware String Manipulation / Constituency Parsing
 
@@ -2065,7 +2101,7 @@
 *   [Reddit](https://www.reddit.com/r/LanguageTechnology/search?q=ruby\&restrict_sr=on)
 *   [Twitter](https://twitter.com/search?q=Ruby%20NLP%20%23ruby%20OR%20%23nlproc%20OR%20%23rubynlp%20OR%20%23nlp\&src=typd\&lang=en)
 
-## [30. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [31. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
@@ -2077,13 +2113,13 @@
 *   [React Start Kit (⭐109)](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design.
 *   [React Boilerplate (⭐19)](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
 
-## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [32. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Videos
 
 *   [Tensorflow and deep learning - without at PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) -  by Martin Görner
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Web Socket
 
@@ -2102,13 +2138,13 @@
 *   Testing
     *   [Selenium with .NET Core](http://www.dotnetcatch.com/2016/11/23/selenium-with-net-core/)
 
-## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [34. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Job queues
 
 *   [idoit (⭐64)](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 
-## [34. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [35. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -2119,7 +2155,7 @@
     *   [Lecture notes](http://web.stanford.edu/class/cs246/handouts.html)
     *   [Readings](http://www.mmds.org/#book)
 
-## [35. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [36. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -2241,21 +2277,21 @@
 *   [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
 *   [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
 
-## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Software-specific
 
 *   *[Data Science and Complex Networks: Real Case Studies with Python](https://global.oup.com/academic/product/data-science-and-complex-networks-9780199639601)*, by Guido Caldarelli and Alessandro Chessa (2016).
 
-## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Miscellaneous
 
-*   [countriex (⭐28)](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
+*   [countriex (⭐29)](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
 
 ### Protocols
 
-*   [grpc-elixir (⭐1.1k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
+*   [grpc-elixir (⭐1.2k)](https://github.com/tony612/grpc-elixir) - The Elixir implementation of gRPC.
 
 ### Editors
 
@@ -2265,15 +2301,15 @@
 ### Styleguides
 
 *   [christopheradams/elixir\_style\_guide (⭐4.1k)](https://github.com/christopheradams/elixir_style_guide) - A community-driven style guide for Elixir.
-*   [lexmag/elixir-style-guide (⭐499)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
+*   [lexmag/elixir-style-guide (⭐502)](https://github.com/lexmag/elixir-style-guide) - An opinionated Elixir style guide.
 
-## [38. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [39. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Resources / Blogs
 
 *   [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
 
-## [39. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [40. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -2291,7 +2327,7 @@
 
 
 
-## [40. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [41. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 

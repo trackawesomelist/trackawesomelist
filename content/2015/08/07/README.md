@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 07, 2015
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,19 +12,13 @@
 
 *   **[\[play1-chart\] ](http://sant0s.github.io/play1-chart/) [Play1-Chart (⭐2)](https://github.com/sant0s/play1-chart)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat)](https://github.com/sant0s/play1-chart) The Chart module allows for easy generation of chart images.
 
-## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/README.md)
-
-### Lists
-
-*   [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)
-
-## [3. Awesome Knockout](/content/dnbard/awesome-knockout/README.md)
+## [2. Awesome Knockout](/content/dnbard/awesome-knockout/README.md)
 
 ### Examples
 
 *   [WebSockets (⭐87)](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 
-## [4. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [3. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
@@ -50,31 +44,31 @@
 *   [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) - Podcast sobre Cocoa y programación.
 *   [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) - Programa de divulgación científica.
 
-## [5. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
+## [4. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
 ### Code Quality
 
 *   [Codecov](https://codecov.io/) - Continuous Code Coverage
 
-## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Loaders
 
-*   [modulejs (⭐124)](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
+*   [modulejs (⭐125)](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
-## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### Table of Contents / Salesforce Developer Free Edition Signup
 
 *   [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
 
-## [8. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
+## [7. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
 ### Videos
 
 *   [Level up Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHGhoGAb2PRKzv4Zw3QoatK-)
 
-## [9. Tips](/content/git-tips/tips/README.md)
+## [8. Tips](/content/git-tips/tips/README.md)
 
 ## Saving current state of tracked files without commiting
 
@@ -103,7 +97,7 @@ git stash push -u
 git stash push --include-untracked
 ```
 
-## [10. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
+## [9. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 
 ### Tutorials and articles
 

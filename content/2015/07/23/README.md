@@ -28,7 +28,7 @@
 
 ### Podcasts / Other
 
-*   [enaqx/awesome-react (⭐52k)](https://github.com/enaqx/awesome-react)
+*   [enaqx/awesome-react (⭐53k)](https://github.com/enaqx/awesome-react)
 
 ## [5. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

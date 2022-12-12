@@ -111,7 +111,7 @@
 
 ## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Javascript / General-Purpose Machine Learning
+### JavaScript / General-Purpose Machine Learning
 
 *   [ml5 (⭐5.8k)](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!
 

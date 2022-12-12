@@ -335,13 +335,13 @@
 
 ### Open Source / Other
 
-*   [Proton (⭐153)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐155)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### SEO
 
-*   [prerender\_rails (⭐353)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
+*   [prerender\_rails (⭐354)](https://github.com/prerender/prerender_rails) - Rails middleware gem for prerendering javascript-rendered pages on the fly for SEO.
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -377,7 +377,7 @@ git config --list
 
 ### Queue
 
-*   [enm (⭐120)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
+*   [enm (⭐121)](https://github.com/basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
 
 ## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 

@@ -21,12 +21,12 @@
 
 ### Table
 
-*   [svelte-generic-crud-table (⭐42)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
+*   [svelte-generic-crud-table (⭐43)](https://github.com/ivosdc/svelte-generic-crud-table) - Agnostic web-component for object-arrays with CRUD functionality. Sort and resize columns. Multiple tables per page.
 *   [svelte-generic-table-pager (⭐4)](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 
 ### Lint / Checkbox
 
-*   [eslint-plugin-svelte (⭐52)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐55)](https://github.com/ota-meshi/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ## [3. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
@@ -44,13 +44,13 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Samaya (⭐4)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
+*   [Samaya (⭐7)](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 
 ## [6. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/README.md)
 
 ### Adapters / Server-side
 
-*   [Adonis (⭐163)](https://github.com/eidellev/inertiajs-adonisjs)
+*   [Adonis (⭐180)](https://github.com/eidellev/inertiajs-adonisjs)
 
 ## [7. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 

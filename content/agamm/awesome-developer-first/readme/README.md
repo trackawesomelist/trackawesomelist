@@ -310,9 +310,6 @@ The definition of developer-first for this repo is:
 *   [KeenIO](https://keen.io/) - Event streaming platform.
 *   [Rollbar](https://rollbar.com/) - Reports errors in production.
 *   [LogRocket](https://logrocket.com/) - Replay bugs users had.
-*   [Dashbird](https://dashbird.io/) - Serverless realtime monitoring.
-*   [Statuspal](https://statuspal.io) - Public/Private status pages for services with integrations.
-*   [instatus](https://instatus.com) - Minimalist Jamstack status page.
 
 ## Natural Language Processing
 
@@ -393,5 +390,5 @@ The definition of developer-first for this repo is:
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐314)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐327)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

@@ -10,7 +10,7 @@
 
 ### Projects
 
-*   [yew-react-example (⭐49)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
+*   [yew-react-example (⭐51)](https://github.com/hobofan/yew-react-example) - This project shows how to create a web app using a React component inside a Yew component.
 
 ### Crates / Wasm
 
@@ -197,9 +197,9 @@
 
 ### Authentication and Authorization
 
-*   :strawberry: [Authentication plugin (⭐97)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
-*   :strawberry: [Authorization plugin (⭐62)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   :strawberry: [TinyAuth plugin (⭐123)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
+*   :strawberry: [Authentication plugin (⭐99)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
+*   :strawberry: [Authorization plugin (⭐63)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+*   :strawberry: [TinyAuth plugin (⭐124)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
 
 ### Code Analysis
 
@@ -225,20 +225,20 @@
 
 ### Miscellaneous
 
-*   :strawberry: [CakeDto plugin (⭐24)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
+*   :strawberry: [CakeDto plugin (⭐25)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 *   :strawberry: [Flash plugin (⭐11)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
 *   :strawberry: [Shim plugin (⭐37)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 
 ### ORM / Database / Datamapping
 
-*   :strawberry: [ADmad/Sequence plugin (⭐41)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
-*   :strawberry: [Duplicatable plugin (⭐44)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
+*   :strawberry: [ADmad/Sequence plugin (⭐42)](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
+*   :strawberry: [Duplicatable plugin (⭐45)](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 *   :strawberry: [Muffin/Orderly plugin (⭐21)](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 *   :strawberry: [Muffin/Webservices ORM plugin (⭐84)](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 
 ### PDF
 
-*   :strawberry: [CakePdf plugin (⭐373)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
+*   :strawberry: [CakePdf plugin (⭐372)](https://github.com/FriendsOfCake/CakePdf) - A plugin around PDF generation.
 
 ### Queue
 
@@ -254,8 +254,8 @@
 
 ### Templating
 
-*   :strawberry: [Bake plugin (⭐93)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   :strawberry: [BootstrapUI plugin (⭐318)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
+*   :strawberry: [Bake plugin (⭐94)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   :strawberry: [BootstrapUI plugin (⭐319)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 3 integration.
 *   :strawberry: [CsvView plugin (⭐175)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
@@ -347,7 +347,7 @@
 *   [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
 *   [circleci.com](https://circleci.com/) — Free for one concurrent build
 *   [deployhq.com](https://www.deployhq.com/) — 1 project with 10 daily deployments (30 build minutes/month)
-*   [ligurio/awesome-ci (⭐3k)](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
+*   [ligurio/awesome-ci (⭐3.1k)](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
 
 ### Testing
 
@@ -430,7 +430,7 @@
 *   [ImprovMX](https://improvmx.com) – Free email forwarding
 *   [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
 *   [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
-*   [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
+*   [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 100 free API requests/month
 *   [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface
 *   [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
 *   [mailkitchen](https://www.mailkitchen.com/) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
@@ -586,7 +586,6 @@
 *   [cocalc.com](https://cocalc.com/) — (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
 *   [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web.
 *   [codesandbox.io](https://codesandbox.io/) — Online Playground for React, Vue, Angular, Preact and more.
-*   [gitpod.io](https://www.gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free for open source.
 *   [ide.goorm.io](https://ide.goorm.io) goormIDE is full IDE on cloud. multi-language support, linux-based container via the fully-featured web-based terminal, port forwarding, custom url, real-time collaboration and chat, share link, Git/Subversion support. There are many more features (free tier includes 1GB RAM and 10GB Storage per container, 5 Container slot).
 *   [JDoodle](https://www.jdoodle.com) — Online compiler and editor for more than 60 programming languages with a free plan for REST API code compiling up to 200 credits per day.
 *   [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools (aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), etc). Free license for students, teachers, Open Source and user groups.
@@ -619,7 +618,7 @@
 
 ### Miscellaneous
 
-*   [ConfigCat](https://configcat.com) - Cross-platform feature flag service. SDKs for all major languages. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month. Unlimited user seats. Students get 100 flags and 100 Million requests per month for free.
+*   [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, awesome support, and a reasonable price tag. Free plan up to 10 flags, 2 environments, 1 product and 5 Million requests per month.
 *   [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
 *   [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
 *   [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
@@ -729,7 +728,7 @@
 
 ### Database
 
-*   [Leaf (⭐5.6k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
+*   [Leaf (⭐5.7k)](https://github.com/Meituan-Dianping/Leaf) - Distributed ID generate service.
 
 ### Messaging
 
@@ -742,7 +741,7 @@
 
 ### REST Frameworks / Other
 
-*   [springdoc-openapi (⭐2.2k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
+*   [springdoc-openapi (⭐2.3k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
 ## [26. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
@@ -754,7 +753,7 @@
 
 ### Software / Software Development - Project Management
 
-*   [Re:Backlogs (⭐154)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
+*   [Re:Backlogs (⭐159)](https://github.com/kaishuu0123/rebacklogs) - Project management and collaboration tool powered by Ruby on Rails & VueJS. ([Demo](https://rebacklogs.saino.me/users/sign_up)) `MIT` `Ruby`
 
 ## [28. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
@@ -797,35 +796,35 @@
 
 ### Tools
 
-*   [renderdoc (⭐6.8k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
+*   [renderdoc (⭐6.9k)](https://github.com/baldurk/renderdoc) - by baldurk, a stand-alone graphics debugging tool. \[MIT]
     *   [RDCtoVkCpp (⭐22)](https://github.com/azhirnov/RDCtoVkCpp) - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
 
 ## [33. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [Percona Monitoring and Management (⭐277)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
+*   [Percona Monitoring and Management (⭐298)](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 
 ### HA/Failover/Sharding / Zabbix
 
-*   [Citus (⭐7.5k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
-*   [patroni (⭐5k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
-*   [Percona XtraDB Cluster (⭐298)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
-*   [stolon (⭐3.9k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
-*   [pg\_auto\_failover (⭐821)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
-*   [pglookout (⭐153)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
-*   [PostgreSQL Automatic Failover (⭐311)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
+*   [Citus (⭐7.7k)](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+*   [patroni (⭐5.1k)](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
+*   [Percona XtraDB Cluster (⭐302)](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
+*   [stolon (⭐4k)](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
+*   [pg\_auto\_failover (⭐848)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+*   [pglookout (⭐156)](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
+*   [PostgreSQL Automatic Failover (⭐316)](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 
 ### Kubernetes / Zabbix
 
 *   [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
-*   [Postgres operator (⭐2.8k)](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
-*   [Spilo (⭐1k)](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
+*   [Postgres operator (⭐3k)](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
+*   [Spilo (⭐1.1k)](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
 *   [StackGres](https://gitlab.com/ongresinc/stackgres) - Enterprise-grade, Full Stack PostgreSQL on Kubernetes.
 
 ### Configuration Tuning / Zabbix
 
-*   [pgtune (⭐992)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
+*   [pgtune (⭐995)](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 
 ## [34. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
@@ -881,7 +880,7 @@
 ### Visualization / Mesh tools
 
 *   [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for VTK.
-    (Python, MIT, [GitHub (⭐1.5k)](https://github.com/pyvista/pyvista))
+    (Python, MIT, [GitHub (⭐1.6k)](https://github.com/pyvista/pyvista))
 
 ## [41. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
@@ -902,7 +901,7 @@
 
 ### 3D
 
-*   [3DreamEngine (⭐231)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
+*   [3DreamEngine (⭐241)](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 
 ## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

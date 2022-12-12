@@ -22,7 +22,7 @@ Free
 
 ### Resources / Examples
 
-*   [Vue.js \[ONE\] client (⭐6)](https://github.com/jasscia/one) - \[ONE] client written with Vue2.5
+*   [Vue.js \[ONE\] client (⭐5)](https://github.com/jasscia/one) - \[ONE] client written with Vue2.5
 
 ## [3. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -95,7 +95,7 @@ Free
 
 ### Data Formats
 
-*   [BinData (⭐38)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
+*   [BinData (⭐39)](https://github.com/spider-gazelle/bindata) - Binary data parser helper with an [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) parser
 
 ## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -235,7 +235,7 @@ Free
 
 ### API
 
-*   [Ocelot (⭐7.3k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+*   [Ocelot (⭐7.4k)](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 
 ## [14. Public Apis](/content/public-apis/public-apis/README.md)
 

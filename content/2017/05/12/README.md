@@ -38,7 +38,7 @@
 
 ### System
 
-*   [Fkill (⭐461)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
+*   [Fkill (⭐462)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
 
 ## [5. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
@@ -50,7 +50,7 @@
 
 ### IDE
 
-*   [RoslynPad (⭐1.7k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
+*   [RoslynPad (⭐1.8k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 
 ## [7. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

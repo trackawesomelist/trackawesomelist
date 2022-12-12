@@ -23,5 +23,5 @@
 
 ---
 
-- Prev: [Dec 26, 2013](/content/2013/12/26/README.md)
+- Prev: [Dec 24, 2013](/content/2013/12/24/README.md)
 - Next: [Dec 20, 2013](/content/2013/12/20/README.md)

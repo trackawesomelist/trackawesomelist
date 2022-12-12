@@ -26,17 +26,35 @@
 
 *   [Golem Completion Engine (⭐1)](https://github.com/krunch3r76/gc__enhanced_completion) - Enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Rust / Sinatra
+
+*   [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro) - Steve J Donovan
+*   [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
+*   [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org)
+*   [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists) - Alexis Beingessner
+*   [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example)
+*   [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)
+*   [Rust for Rubyists](https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book) - Steve Klabnik
+*   [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book)
+*   [The Rust Performance Book](https://nnethercote.github.io/perf-book)
+*   [The Rust RFC Book](https://rust-lang.github.io/rfcs)
+*   [The Rustc Book](https://doc.rust-lang.org/rustc)
+*   [The Rustonomicon](https://doc.rust-lang.org/nomicon)
+*   [Why Rust?](https://www.oreilly.com/content/why-rust)
+
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Configuration
 
-*   [inifile-cpp (⭐175)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
+*   [inifile-cpp (⭐188)](https://github.com/Rookfighter/inifile-cpp) - A header-only and easy to use Ini file parser for C++. \[MIT]
 
 ### Online Compiler
 
 *   [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/) - A simple and easy to use online C++ compiler.
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
@@ -45,13 +63,6 @@
 ### UI Libraries, Components & Templates
 
 *   🧩 [Tailwind Typeahead (⭐14)](https://github.com/basarozcan/vue-tailwindcss-typeahead) - Typeahead/Autocomplete component built with Vue.js and Tailwind CSS.
-
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Articles / Others
-
-*   [Custom deployment layout for Blazor WebAssembly apps](https://devblogs.microsoft.com/aspnet/custom-deployment-layout-for-blazor-webassembly-apps/) - September 28, 2021 - Custom deployment layout for Blazor WebAssembly apps.
-*   [Blazor updates for .NET 6 using Visual Studio 2022](https://www.roundthecode.com/dotnet/blazor/blazor-updates-dotnet-6-visual-studio-2022) - September 16, 2021 - Blazor updates for .NET 6 using Visual Studio 2022.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -90,7 +101,7 @@
 
 ### Modules / Editor framework
 
-*   [Denops (⭐450)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
+*   [Denops (⭐472)](https://github.com/vim-denops/denops.vim) - 🐜 An ecosystem to write Vim/Neovim plugins with Deno.
 
 ---
 

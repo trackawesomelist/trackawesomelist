@@ -10,7 +10,7 @@
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [GentooWSL (⭐32)](https://github.com/imaandrew/GentooWSL) - Gentoo as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [GentooWSL (⭐34)](https://github.com/imaandrew/GentooWSL) - Gentoo as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

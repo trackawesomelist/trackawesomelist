@@ -26,7 +26,7 @@
 
 ### GUI
 
-*   [SQLTools (⭐1k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
+*   [SQLTools (⭐1.1k)](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 
 ### CLI
 
@@ -36,7 +36,7 @@
 
 ### Applications / Audio and Music
 
-*   [enginesound (⭐187)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
+*   [enginesound (⭐195)](https://github.com/DasEtwas/enginesound) — A GUI and command line application used to procedurally generate semi-realistic engine sounds. Featuring in-depth configuration, variable sample rate and a frequency analysis window.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -50,11 +50,6 @@
 
 *   [Why not use Double or Float to represent currency?](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040) - Because of precision: floats and doubles cannot accurately represent the base 10 multiples that we use for money.
 *   [European Spreadsheet Risks Interest Group - Horror Stories](http://www.eusprig.org/horror-stories.htm) - A collection of cases in which uncontrolled and untested spreadsheet models led to lost revenue, mispricing, poor decision making, fraud and systemic financial failure.
-
-### Commercial Solutions / Tools
-
-*   [OpenCell](https://opencellsoft.com) - Monetization platform originating from an open-source telco billing project.
-*   [keygen](https://keygen.sh) - Sell and manage license keys.
 
 ## [7. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

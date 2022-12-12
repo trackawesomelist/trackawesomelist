@@ -6,31 +6,25 @@
 
 
 
-## [1. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
-
-### Plugins / Performance
-
-*   [clean-regex (⭐274)](https://github.com/RunDevelopment/eslint-plugin-clean-regex) - JavaScript regex linter that aims to help write better regular expressions by pointing out errors and suggesting improvements.
-
-## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [1. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Awareness / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Deletion Day](https://deletionday.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/deletionday/site) - A holiday on April 4th focused on the privacy concerns of today’s Internet.
 
-## [3. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [2. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Shell Script Development
 
-*   [shellcheck (⭐30k)](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
+*   [shellcheck (⭐31k)](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
 
-## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
 *   [Keycloak Eventlistener for Google Cloud Pub Sub](https://github.com/acesso-io/keycloak-event-listener-gcpubsub)
 
-## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+## [4. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Cloud platform security / Distributed monitoring
 
@@ -46,11 +40,21 @@
 *   [Consul](https://consul.io/) - Solution to connect and configure applications across dynamic, distributed infrastructure and, with Consul Connect, enabling secure service-to-service communication with automatic TLS encryption and identity-based authorization.
 *   [Istio](https://istio.io/) - Open platform for providing a uniform way to integrate microservices, manage traffic flow across microservices, enforce policies and aggregate telemetry data.
 
-## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### Security
 
 *   [Security Rights Reporting (⭐6)](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
+
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Wicket
+
+*   [JavaScript Interview #35](https://gumroad.com/l/javascript-interview-35) - Coderslang Master (PDF, email address *requested*, not required)
+
+### JavaScript / Node.js
+
+*   [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
 
 ## [7. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -66,7 +70,7 @@
 
 ### Queue
 
-*   [kaffe (⭐134)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐136)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -80,7 +84,7 @@
 
 ### Rendering/Publishing/Conversion
 
-*   [jut (⭐166)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
+*   [jut (⭐168)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 
 ## [11. Awesome Cdk](/content/kalaiser/awesome-cdk/README.md)
 
@@ -138,7 +142,7 @@
 
 ### Miscellaneous
 
-*   [Smooks (⭐347)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
+*   [Smooks (⭐353)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
 ## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

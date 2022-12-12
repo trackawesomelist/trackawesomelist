@@ -161,7 +161,7 @@
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐152)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐157)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
 ## [13. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -187,13 +187,13 @@
 ### Other libraries and tools / Mesh tools
 
 *   [pyMOR](https://pymor.org/) - Model Order Reduction with Python.
-    (Python, 2-clause BSD, [GitHub (⭐191)](https://github.com/pymor/pymor/))
+    (Python, 2-clause BSD, [GitHub (⭐198)](https://github.com/pymor/pymor/))
 
 ## [17. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
-*   [Gears VK (⭐11)](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. \[MIT]
+*   [Gears VK (⭐12)](https://github.com/jeffboody/gearsvk) - Gears VK is a heavily modified port of the famous "gears" demo to Vulkan/Android/Linux. \[MIT]
 
 ---
 

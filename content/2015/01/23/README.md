@@ -22,7 +22,7 @@
 
 ### Imagery
 
-*   [Imagine plugin (⭐139)](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine (⭐4.3k)](https://github.com/avalanche123/Imagine).
+*   [Imagine plugin (⭐138)](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine (⭐4.3k)](https://github.com/avalanche123/Imagine).
 
 ## [4. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

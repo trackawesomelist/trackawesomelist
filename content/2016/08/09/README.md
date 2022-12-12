@@ -47,11 +47,11 @@
 
 ### HTTP
 
-*   [Tube (⭐11)](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
+*   [Tube (⭐12)](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
 
 ### Testing
 
-*   [bypass (⭐861)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
+*   [bypass (⭐867)](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
 
 ### Third Party APIs
 
@@ -75,7 +75,7 @@
 
 ### Game
 
-*   [MonoGame (⭐8.8k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
+*   [MonoGame (⭐9k)](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games
 
 ## [9. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md)
 

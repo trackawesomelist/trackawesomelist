@@ -40,7 +40,7 @@
 
 ### API / E-commerce
 
-*   [Astro Snipcart (⭐26)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐30)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -61,20 +61,20 @@
 *   Low interaction honeypot
 
     *   [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
-    *   [T-Pot (⭐4.1k)](https://github.com/dtag-dev-sec/tpotce) - All in one honeypot appliance from telecom provider T-Mobile
-    *   [beelzebub (⭐30)](https://github.com/mariocandela/beelzebub) - A secure honeypot framework, extremely easy to configure by yaml 🚀
+    *   [T-Pot (⭐4.2k)](https://github.com/dtag-dev-sec/tpotce) - All in one honeypot appliance from telecom provider T-Mobile
+    *   [beelzebub (⭐33)](https://github.com/mariocandela/beelzebub) - A secure honeypot framework, extremely easy to configure by yaml 🚀
 
 ## [8. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### System
 
-*   [Bluetooth Controller (⭐65)](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth status and device connectivity.
+*   [Bluetooth Controller (⭐68)](https://github.com/vegardinho/alfred_bluetooth_controller) - Manage bluetooth status and device connectivity.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐305)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
+*   [Omeka S](https://omeka.org/s/) - Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It consists of a local network of independently curated exhibits sharing a collaboratively built pool of items, media, and their metadata. ([Source Code (⭐311)](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 
 ### Software / E-commerce
 
@@ -83,10 +83,10 @@
 ### Software / Miscellaneous
 
 *   [asciinema (⭐2k)](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`
-*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐2.3k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
-*   [OS.js](https://www.os-js.org/) - Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://demo.os-js.org/), [Source Code (⭐6.1k)](https://github.com/os-js/OS.js)) `BSD-2-Clause` `Nodejs`
+*   [Neko](https://neko.m1k1o.net) - A self hosted virtual browser (rabb.it clone) that runs in Docker. ([Source Code (⭐2.6k)](https://github.com/m1k1o/neko)) `Apache-2.0` `Docker/Go`
+*   [OS.js](https://www.os-js.org/) - Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://demo.os-js.org/), [Source Code (⭐6.2k)](https://github.com/os-js/OS.js)) `BSD-2-Clause` `Nodejs`
 *   [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code (⭐13k)](https://github.com/gravitational/teleport)) `Apache-2.0` `Go`
-*   [TeslaMate (⭐3.2k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir`
+*   [TeslaMate (⭐3.4k)](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir`
 *   [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code (⭐5k)](https://github.com/tmate-io/tmate)) `ISC` `C`
 
 ### Software / Software Development - Project Management
@@ -113,12 +113,12 @@
 
 ### Projects / API Design
 
-*   [Spectral (⭐1.6k)](https://github.com/stoplightio/spectral) - A JSON/YAML linter with out of the box support for OpenAPI 3.0 & 2.0 and AsyncAPI.
+*   [Spectral (⭐1.7k)](https://github.com/stoplightio/spectral) - A JSON/YAML linter with out of the box support for OpenAPI 3.0 & 2.0 and AsyncAPI.
 
 ### Projects / API Documentation
 
 *   [APITree](https://www.apitree.com/) - The central place for managing and sharing API specifications.
-*   [OpenAPI Explorer (⭐159)](https://github.com/Rhosys/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
+*   [OpenAPI Explorer (⭐163)](https://github.com/Rhosys/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
 *   [RapiDoc (⭐1.1k)](https://github.com/rapi-doc/RapiDoc) - Create beautiful, customizable, interactive API documentation from OpenAPI Specification.
 *   [Redoc (⭐19k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
 *   [Slate (⭐35k)](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
@@ -163,7 +163,7 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [miversen33/import.nvim (⭐148)](https://github.com/miversen33/import.nvim) - A safe require replacement with niceties.
+*   [miversen33/import.nvim (⭐165)](https://github.com/miversen33/import.nvim) - A safe require replacement with niceties.
 
 ## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -181,26 +181,26 @@
 
 ### Libraries / Automotive
 
-*   [mbr/socketcan (⭐51)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] — Linux SocketCAN library
+*   [mbr/socketcan (⭐57)](https://github.com/socketcan-rs/socketcan-rs) \[[socketcan](https://crates.io/crates/socketcan)] — Linux SocketCAN library
 
 ### Libraries / Database
 
 *   ORM \[[orm](https://crates.io/keywords/orm)]
-    *   [Brendonovich/prisma-client-rust (⭐676)](https://github.com/Brendonovich/prisma-client-rust) — An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
-    *   [diesel-rs/diesel (⭐9.3k)](https://github.com/diesel-rs/diesel) — an ORM and Query builder for Rust [![Build Status](https://api.travis-ci.org/diesel-rs/diesel.svg?branch=master)](https://travis-ci.org/diesel-rs/diesel)
-    *   [ivanceras/rustorm (⭐232)](https://github.com/ivanceras/rustorm) — an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg?branch=master)](https://travis-ci.org/ivanceras/rustorm)
+    *   [Brendonovich/prisma-client-rust (⭐775)](https://github.com/Brendonovich/prisma-client-rust) — An autogenerated query builder that provides simple and fully type-safe database access using the Prisma ecosystem. [![Test Status](https://img.shields.io/github/workflow/status/Brendonovich/prisma-client-rust/CI?label=tests\&style=flat-square)](https://github.com/Brendonovich/prisma-client-rust/actions)
+    *   [diesel-rs/diesel (⭐9.6k)](https://github.com/diesel-rs/diesel) — an ORM and Query builder for Rust [![Build Status](https://api.travis-ci.org/diesel-rs/diesel.svg?branch=master)](https://travis-ci.org/diesel-rs/diesel)
+    *   [ivanceras/rustorm (⭐236)](https://github.com/ivanceras/rustorm) — an ORM for Rust [![Build Status](https://api.travis-ci.org/ivanceras/rustorm.svg?branch=master)](https://travis-ci.org/ivanceras/rustorm)
     *   [rbatis/rbatis (⭐1.6k)](https://github.com/rbatis/rbatis) — Rust ORM Framework High Performance(JSON based) [![Build Status](https://api.travis-ci.org/zhuxiujia/rbatis.svg?branch=master)](https://travis-ci.org/zhuxiujia/rbatis)
-    *   [SeaQL/sea-orm (⭐3k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM for Rust [![Build Status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
+    *   [SeaQL/sea-orm (⭐3.3k)](https://github.com/SeaQL/sea-orm) — 🐚 An async & dynamic ORM for Rust [![Build Status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
 
 ## [22. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / Vue 2
 
-*   [vitify-admin (⭐41)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
+*   [vitify-admin (⭐50)](https://github.com/kingyue737/vitify-admin) - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-mpa-plus (⭐59)](https://github.com/yzydeveloper/vite-plugin-mpa-plus) - More flexible MPA (multi-page application) supports html templates, path rewriting.
+*   [vite-plugin-mpa-plus (⭐61)](https://github.com/yzydeveloper/vite-plugin-mpa-plus) - More flexible MPA (multi-page application) supports html templates, path rewriting.
 *   [vite-plugin-print-urls (⭐6)](https://github.com/yzydeveloper/vite-plugin-print-urls) - Vite hmr and page reload will print server urls.
 
 ## [23. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -217,23 +217,23 @@
     *   📚 [Skeletons and Inverse Kinematics](https://venturebeat.com/2017/08/09/character-animation-skeletons-and-inverse-kinematics/) - Principles for using skeletons with ik for animation.
 *   ### Color Manipulation
     *   📚 [How to Choose Colors Procedurally](http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/) - Procedural palettes and how to generate them.
-    *   📚 [Red, Yellow, and Blue](https://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat: (⭐63)](https://github.com/bahamas10/ryb) - Convert colors from the paint color wheel to RGB space.
+    *   📚 [Red, Yellow, and Blue](https://daveeddy.com/2014/07/01/red-yellow-and-blue/) [:octocat: (⭐64)](https://github.com/bahamas10/ryb) - Convert colors from the paint color wheel to RGB space.
 *   ### Entity Component Systems
     *   📚 [A Simple Entity Component System](https://austinmorlan.com/posts/entity_component_system/) - Basis for an eneity component system in C++.
     *   📚 [Evolve Your Hierarchy](https://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/) - Overview of EC systems and why to use them, at [Cowboy Programming](https://cowboyprogramming.com).
     *   📚 [Introduction to Component Based Architecture in Games](https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games) - Component based architecture.
-    *   📚 [Nomad Game Engine](https://savas.ca/nomad) [:octocat: (⭐154)](https://github.com/taurheim/NomadECS) - Articles building a basic ECS from the ground up in C++.
+    *   📚 [Nomad Game Engine](https://savas.ca/nomad) [:octocat: (⭐158)](https://github.com/taurheim/NomadECS) - Articles building a basic ECS from the ground up in C++.
     *   📚 [What's an Entity System](http://entity-systems.wikidot.com) - Overview of ECS, how they are used in game development.
 
 ## [25. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [virtual-list (⭐4)](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
+*   [virtual-list (⭐6)](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
 
 ### Components & Libraries / Frameworks
 
-*   [Vitify Admin (⭐41)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
+*   [Vitify Admin (⭐50)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 
 ## [26. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 

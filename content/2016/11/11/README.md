@@ -94,14 +94,14 @@
 
 ### Message Queues
 
-*   [aioamqp (⭐270)](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
+*   [aioamqp (⭐268)](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
 *   [crossbar (⭐2k)](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 
 ### Database Drivers
 
 *   [aiopg (⭐1.3k)](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 *   [aiomysql (⭐1.5k)](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
-*   [aioodbc (⭐251)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+*   [aioodbc (⭐250)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 *   [motor (⭐2k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 *   [aiocouchdb (⭐53)](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 
@@ -111,12 +111,12 @@
 
 ### Testing
 
-*   [asynctest (⭐301)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
+*   [asynctest (⭐302)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
 *   [pytest-asyncio (⭐1k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 
 ### Alternative Loops
 
-*   [uvloop (⭐8.9k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+*   [uvloop (⭐9k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
 ### Misc
 

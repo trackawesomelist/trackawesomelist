@@ -14,13 +14,13 @@
 
 ### no-std crates / WIP
 
-*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐723)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
+*   [`cmsis-dsp-sys`](https://github.com/jacobrosenthal/cmsis-dsp-sys): Rust FFI bindings to the [Arm CMSIS\_5 (⭐779)](https://github.com/ARM-software/CMSIS_5) math library - ![crates.io](https://img.shields.io/crates/v/cmsis-dsp-sys.svg)
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 
-*   [ka-table (⭐401)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
+*   [ka-table (⭐416)](https://github.com/komarovalexander/ka-table) - [demo](https://komarovalexander.github.io/ka-table/#/overview) - Customizable table component with sorting, filtering, grouping, virtualization, editing etc.
 
 ### Loader
 
@@ -30,7 +30,7 @@
 
 ### Utility / Diagnostics
 
-*   [matbme/JABS.nvim (⭐181)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
+*   [matbme/JABS.nvim (⭐196)](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 
 ## [4. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Software / Pastebins
 
-*   [pasty (⭐140)](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go`
+*   [pasty (⭐151)](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go`
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Bindings
 
-*   [Silk.NET (⭐2.2k)](https://github.com/dotnet/Silk.NET) - C# bindings for Vulkan and others. \[MIT]
+*   [Silk.NET (⭐2.3k)](https://github.com/dotnet/Silk.NET) - C# bindings for Vulkan and others. \[MIT]
 
 ## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -66,7 +66,7 @@
 
 *   [GBDK (⭐1.1k)](https://github.com/gbdk-2020/gbdk-2020/) - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
     *   [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
-    *   [Examples (⭐145)](https://github.com/mrombout/gbdk_playground)
+    *   [Examples (⭐146)](https://github.com/mrombout/gbdk_playground)
     *   [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
 
 ### Game Disassemblies / Syntax highlighting packages
@@ -83,8 +83,8 @@
 
 ### Resources / Examples
 
-*   [Google Keep Clone with Vue + Firestore (⭐84)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
-*   [Vue 3 Shopping Cart (⭐68)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
+*   [Google Keep Clone with Vue + Firestore (⭐85)](https://github.com/wobsoriano/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
+*   [Vue 3 Shopping Cart (⭐72)](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

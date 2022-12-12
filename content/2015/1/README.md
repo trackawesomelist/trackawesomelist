@@ -530,7 +530,6 @@
 
 ### Researchers / Miscellaneous
 
-*   [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
 *   [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer\&searchItems=\&sessionTopic=\&sessionEvent=4\&sessionYear=2014\&sessionFormat=\&submit=\&select=+)
 *   [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
 *   [Word2Vec](https://code.google.com/p/word2vec/)
@@ -540,7 +539,7 @@
 
 ### Packages / Humanize
 
-*   [read-art (⭐332)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
+*   [read-art (⭐333)](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
 
 ## [4. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 

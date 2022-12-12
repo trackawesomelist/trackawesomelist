@@ -6,19 +6,15 @@
 
 
 
-## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Containers
+### Bash / Non-X86
 
-*   [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
+*   [Conquer the Command Line](https://magpi.raspberrypi.org/books/command-line-second-edition/pdf/download) - Richard Smedley (PDF)
 
-### Data Science
+### PHP / PicoLisp
 
-*   [Mining of Massive Datasets](http://infolab.stanford.edu/\~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
-
-### Graphical User Interfaces
-
-*   [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
+*   [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -30,7 +26,7 @@
 
 ### Applications
 
-*   [SimpleX chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+*   [SimpleX chat (⭐2k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 
 ## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -42,7 +38,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [FAE (⭐799)](https://github.com/wearefine/fae/) - A modern CMS deveveloped by FINE (using Rails 5.2)
+*   [FAE (⭐802)](https://github.com/wearefine/fae/) - A modern CMS deveveloped by FINE (using Rails 5.2)
 
 ## [6. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -74,11 +70,11 @@
 
 ### (requires Neovim 0.5)
 
-*   [weilbith/nvim-code-action-menu (⭐387)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
+*   [weilbith/nvim-code-action-menu (⭐426)](https://github.com/weilbith/nvim-code-action-menu) - A floating pop-up menu for code actions to show code action information and a diff preview.
 
 ### Snippet / Diagnostics
 
-*   [dcampos/nvim-snippy (⭐125)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.4k)](https://github.com/honza/vim-snippets).
+*   [dcampos/nvim-snippy (⭐144)](https://github.com/dcampos/nvim-snippy) - Snippet plugin written in Lua with support for [vim-snippets (⭐4.4k)](https://github.com/honza/vim-snippets).
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -90,13 +86,13 @@
 
 ### Applications / Text editors
 
-*   [ilai-deutel/kibi (⭐844)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+*   [ilai-deutel/kibi (⭐866)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
 
 ## [10. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Planning Coding Resources / Learning to Code
 
-*   [Urban Informatics & Visualization-Berkeley (⭐216)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
+*   [Urban Informatics & Visualization-Berkeley (⭐215)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
 *   [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/) - This course provides the building blocks you need to use Python. You will create and run scripts using these building blocks, and you can apply them directly inside ArcGIS and to your own workflows.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)

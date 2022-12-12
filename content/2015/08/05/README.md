@@ -16,7 +16,7 @@
 
 ### Guides
 
-*   [Honeypot (Dionaea and kippo) setup script (⭐79)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
+*   [Honeypot (Dionaea and kippo) setup script (⭐80)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 
 ## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -76,7 +76,7 @@
 *   [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/\~dreuw/database.html) - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)
 *   [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
 *   [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) - 4000+ 1536x1024 (16 bit) calibrated outdoor images (Formats: homebrew)
-*   [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/\~schindler/Data) -  2 turntable sequences from ifferent viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
+*   [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/\~schindler/Data) -  2 turntable sequences from different viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
 *   [Institute of Computer Graphics and Vision](http://www.icg.tu-graz.ac.at)
 *   [IEN Image Library](http://www.ien.it/is/vislib/) - 1000+ images, mostly outdoor sequences (Formats: raw, ppm)
 *   [INRIA's Syntim images database](http://www-rocq.inria.fr/\~tarel/syntim/images.html) - 15 color image of simple objects (Formats: gif)

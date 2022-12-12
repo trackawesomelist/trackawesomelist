@@ -44,8 +44,8 @@ git switch -c <branch-name>
 
 ### Third-Party Packages / Security
 
-*   [django-csp (⭐440)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
-*   [django-feature-policy (⭐73)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+*   [django-csp (⭐441)](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
+*   [django-feature-policy (⭐76)](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -77,10 +77,6 @@ git switch -c <branch-name>
 
 *   [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go) - Rich language support for the Go language.
 
-### Rust / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
-
-*   [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
-
 ### Terraform / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
@@ -95,7 +91,7 @@ git switch -c <branch-name>
 
 ### Component Libraries
 
-*   [Shoelace (⭐7.5k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
+*   [Shoelace (⭐7.7k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 
 ## [9. Awesome](/content/craftcms/awesome/README.md)
 

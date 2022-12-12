@@ -10,7 +10,7 @@
 
 ### Packages / Logging
 
-*   [pino (⭐10k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
+*   [pino (⭐11k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐806)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐810)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ---
 

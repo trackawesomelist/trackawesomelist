@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 03, 2021
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,13 +10,13 @@
 
 ### Developer Tools / Developer Utilities
 
-*   [SwiftPlantUML (⭐237)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [SwiftPlantUML (⭐246)](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) - Generate and view class diagrams from Xcode for Swift code. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [Interface X (⭐51)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
+*   [Interface X (⭐57)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
 
 ## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -54,27 +54,20 @@
 
 *   [Dr. Michael Thomas Flanagan's Java Scientific Library.](https://www.ee.ucl.ac.uk/\~mflanaga/java/) **\[Deprecated]**
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Articles / Others
-
-*   [BabylonJS and Blazor - Simple Game State](https://codyanhorn.tech/blog/babylonjs-and-blazor-simple-game-state) - September 2, 2021 - Build a simple game with BabylonJS and Blazor. [Source code (⭐8)](https://github.com/canhorn/BabylonJS.Blazor.Game.Tutorial/tree/step/03_Simple-Game-State) ![stars](https://img.shields.io/github/stars/canhorn/BabylonJS.Blazor.Game.Tutorial?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/canhorn/BabylonJS.Blazor.Game.Tutorial?style=flat-square\&cacheSeconds=86400). [Demo](https://babylonjsblazorstep03.z19.web.core.windows.net/).
-*   [Why build Single Page Apps in Blazor](https://dev.to/dotnet/why-build-single-page-apps-in-blazor-103m) - June 16, 2021 - This post addresses some common Blazor questions. Specifically, the "what?", but more importantly the "why?". Why should I care about Blazor when we've already got Angular, React, Vue, or some other JavaScript framework? Why choose Blazor, and what is WebAssembly all about? We'll cover the history of Microsoft's web application development frameworks and what we see for its bright future.
-
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
 
-*   [dr\_libs (⭐867)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
-*   [miniaudio (⭐2.5k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
+*   [dr\_libs (⭐893)](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C and C++. \[Unlicense]
+*   [miniaudio (⭐2.6k)](https://github.com/mackron/miniaudio) - Single file audio playback and capture library. \[Unlicense] [website](https://miniaud.io/)
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [8. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Events / Doctrine Assessement
 
 *   [Map Camp 2021](https://www.mapcamp.co.uk/) - A virtual event on October 13, 2021.
 
-## [10. Public Apis](/content/public-apis/public-apis/README.md)
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Food & Drink
 
@@ -118,7 +111,7 @@
 
 
 
-## [11. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
+## [10. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
 ### Featured On
 
@@ -126,7 +119,7 @@
 *   [Kubeflow in Action](https://www.manning.com/books/kubeflow-in-action) by [Juana Nakfour](https://twitter.com/nak4red) and Sanjay Arora
 *   [Kubernetes on Windows](https://www.manning.com/books/kubernetes-on-windows) by [Jay Vyas](https://twitter.com/jayunit100) and James Sturtevant
 
-## [12. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [11. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Automation
 

@@ -57,7 +57,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [AmmoBin.ca (⭐18)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
+*   [AmmoBin.ca (⭐17)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
 
 ## [9. Amas](/content/sindresorhus/amas/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Network / Barcode
 
-*   [Conduit (⭐51)](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
+*   [Conduit (⭐52)](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 
 ### Socket / Barcode
 
@@ -87,16 +87,16 @@
 
 ### UI / Barcode
 
-*   [Mandoline (⭐882)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐883)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
-*   [FlowingMenu (⭐972)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
-*   [HHFloatingView (⭐95)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
+*   [FlowingMenu (⭐974)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
+*   [HHFloatingView (⭐94)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐782)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐788)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ---
 

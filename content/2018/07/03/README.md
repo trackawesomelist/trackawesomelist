@@ -10,7 +10,7 @@
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgwatch2 (⭐1.3k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
+*   [pgwatch2 (⭐1.4k)](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
 
 ## [2. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code (⭐3.3k)](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++`
+*   [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code (⭐3.4k)](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++`
 
 ---
 

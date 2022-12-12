@@ -30,7 +30,7 @@
 
 ### Misc
 
-*   [Fugen (⭐64)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
+*   [Fugen (⭐67)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -48,11 +48,11 @@
 
 *   [ShellSpec (⭐772)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
 
-## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Newsletters / Collection View Layout
+### Mobile / Angular
 
-*   [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
+*   [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 
 ## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

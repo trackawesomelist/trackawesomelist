@@ -26,17 +26,17 @@
 
 ### C / General-Purpose Machine Learning
 
-*   [Darknet (⭐23k)](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+*   [Darknet (⭐24k)](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Date and Time
 
-*   [ex\_ical (⭐21)](https://github.com/fazibear/ex_ical) - ICalendar parser.
+*   [ex\_ical (⭐22)](https://github.com/fazibear/ex_ical) - ICalendar parser.
 
 ### Networking
 
-*   [chatter (⭐26)](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
+*   [chatter (⭐27)](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 
 ## [5. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

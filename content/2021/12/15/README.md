@@ -93,13 +93,13 @@
 
 *   [Triangle](https://www.cs.cmu.edu/\~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
     (C, *nonfree software*)
-*   [SeismicMesh (⭐76)](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
+*   [SeismicMesh (⭐80)](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
     (Python and C++, GPL 3, GitHub)
 
 ### Meshing / Quadrilateral and hexahedral meshing
 
 *   [QuadriFlow](https://stanford.edu/\~jingweih/papers/quadriflow/) - Scalable and robust quadrangulation from triangulation.
-    (C++, BSD, [GitHub (⭐501)](https://github.com/hjwdzh/QuadriFlow))
+    (C++, BSD, [GitHub (⭐510)](https://github.com/hjwdzh/QuadriFlow))
 
 ### Meshing / Mesh tools
 
@@ -107,31 +107,26 @@
     (Python, MIT, GitHub)
 *   [MOAB](https://sigma.mcs.anl.gov/moab-library/) - Representing and evaluating mesh data.
     (C++, mostly LGPL 3, [Bitbucket](https://bitbucket.org/fathomteam/moab/))
-*   [optimesh (⭐454)](https://github.com/nschloe/optimesh) - Triangular mesh smoothing.
+*   [optimesh (⭐464)](https://github.com/nschloe/optimesh) - Triangular mesh smoothing.
     (Python, GPL 3, GitHub)
 *   [pmp-library](https://www.pmp-library.org/) - Polygon mesh processing library.
-    (C++, MIT with Employer Disclaimer, [GitHub (⭐858)](https://github.com/pmp-library/pmp-library/))
+    (C++, MIT with Employer Disclaimer, [GitHub (⭐883)](https://github.com/pmp-library/pmp-library/))
 *   [Mmg](https://www.mmgtools.org/) - Robust, open-source & multidisciplinary software for remeshing.
-    (C, LGPL 3, [GitHub (⭐257)](https://github.com/MmgTools/mmg))
-*   [meshplex (⭐96)](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes.
+    (C, LGPL 3, [GitHub (⭐264)](https://github.com/MmgTools/mmg))
+*   [meshplex (⭐98)](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes.
     (Python, GPL 3, GitHub)
-
-### Visualization / Mesh tools
-
-*   [F3D](https://f3d-app.github.io/f3d/) - Cross-platform, fast, and minimalist 3D viewer with scientific visualization tools.
-    (C++, BSD, [GitHub (⭐706)](https://github.com/f3d-app/f3d))
 
 ## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [iter-ops (⭐71)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+*   :octocat: [iter-ops (⭐89)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker-next (⭐57)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
+*   [vue-datepicker-next (⭐64)](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 ## [13. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

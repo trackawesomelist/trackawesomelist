@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12, 2019
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,14 +10,14 @@
 
 ### Deployment Tools / Newsletters
 
-*   [morph (⭐537)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
+*   [morph (⭐544)](https://github.com/DBCDK/morph) - A tool for managing existing NixOS hosts.
 *   [terranix](https://terranix.org) - Use Nix and the NixOS module system to write your Terraform code.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Chart
 
-*   [react-chartjs-2 (⭐5.4k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
+*   [react-chartjs-2 (⭐5.5k)](https://github.com/jerairrest/react-chartjs-2) - Common react charting components using Chart.js 2.0.
 
 ## [3. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
@@ -42,17 +42,28 @@
 
 *   [Awesome Neural Art (⭐72)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
-## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Welcome to Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
+
+### Scala / Sinatra
+
+*   [A Scala Tutorial for Java programmers](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) (PDF)
+*   [Scala By Example](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)
+
+## [7. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Newsletters
 
 *   [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
 
-## [7. Awesome React](/content/enaqx/awesome-react/README.md)
+## [8. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Tools / React Component Libraries
 
-*   [rsuite (⭐7.2k)](https://github.com/rsuite/rsuite) - A suite of React components
+*   [rsuite (⭐7.3k)](https://github.com/rsuite/rsuite) - A suite of React components
 
 ---
 

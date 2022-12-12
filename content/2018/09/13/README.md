@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   [tmux-simple-git-status (⭐20)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
+*   [tmux-simple-git-status (⭐21)](https://github.com/kristijanhusak/tmux-simple-git-status) Show branch and number of changes in current git repository
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

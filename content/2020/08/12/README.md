@@ -91,7 +91,7 @@
 
 ### Projects Using Vue.js / Apps/Websites
 
-*   [n2ex (⭐269)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
+*   [n2ex (⭐270)](https://github.com/OrangeXC/n2ex) - A vue ssr(nuxt) website, use v2ex API
 
 ### Components & Libraries / UI Utilities
 
@@ -107,7 +107,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Tributary (⭐5)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
+*   [Tributary (⭐6)](https://github.com/timkpaine/tributary) \[Python] - A python library for constructing dataflow graphs. Supports synchronous, reactive data streams built using python generators that mimic complex event processors, as well as lazily-evaluated acyclic graphs and functional currying streams.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

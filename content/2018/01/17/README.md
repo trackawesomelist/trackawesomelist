@@ -10,15 +10,9 @@
 
 ### Image Processing
 
-*   [ruby-vips (⭐746)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
+*   [ruby-vips (⭐755)](https://github.com/jcupitt/ruby-vips) - A binding for the libvips image processing library.
 
 ## [2. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
-
-### Resources / Documentation
-
-*   [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
-*   [MongoDB documentation](https://docs.mongodb.com/manual/)
-*   [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
 
 ### Resources / Articles
 
@@ -37,7 +31,7 @@
 ### Development Environment
 
 *   [Mixer (⭐45)](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins.
-*   [Oven (⭐138)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
+*   [Oven (⭐140)](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

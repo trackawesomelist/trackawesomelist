@@ -16,7 +16,7 @@
 
 ### Functional programming
 
-*   [Optional (⭐778)](https://github.com/nlkl/Optional) - A robust option type for C#
+*   [Optional (⭐791)](https://github.com/nlkl/Optional) - A robust option type for C#
 
 ## [3. Awesome Json](/content/burningtree/awesome-json/README.md)
 
@@ -36,12 +36,12 @@
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐723)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐726)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐799)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐803)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 
@@ -111,7 +111,7 @@
 
 ### Samples
 
-*   [Vulkan-Forward-Plus-Renderer (⭐581)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
+*   [Vulkan-Forward-Plus-Renderer (⭐588)](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. \[MIT]
 
 ---
 

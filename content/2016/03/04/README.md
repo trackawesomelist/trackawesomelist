@@ -20,7 +20,7 @@
 
 ### Packages / Miscellaneous
 
-*   [adit (⭐45)](https://github.com/markelog/adit) - SSH tunneling made simple.
+*   [adit (⭐46)](https://github.com/markelog/adit) - SSH tunneling made simple.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -38,7 +38,7 @@
 
 ### ORM and Datamapping
 
-*   [eventstore (⭐908)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
+*   [eventstore (⭐916)](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 
 ## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -68,14 +68,14 @@
 
 ### Text Manipulation
 
-*   [Encode / Decode (⭐510)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+*   [Encode / Decode (⭐514)](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 *   [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 *   [HTML Entity Lookup (⭐34)](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
 *   [Unicode Text Search (⭐180)](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ### Scientific
 
-*   [DOITools (⭐6)](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
+*   [DOITools (⭐7)](https://github.com/hbuschme/doi-tools-alfred-workflow/) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
 *   [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 
 ### Security
@@ -86,10 +86,6 @@
 
 *   [Keylue (⭐45)](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
 *   [TerminalFinder (⭐1k)](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
-
-### Other Lists
-
-*   [AlfredWorkflow.com](http://alfredworkflow.com) - List of Alfred Workflows.
 
 ---
 

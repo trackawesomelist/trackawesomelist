@@ -99,7 +99,7 @@
 
 ### Third-party APIs
 
-*   [crystal-darksky (⭐7)](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
+*   [crystal-darksky (⭐8)](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
 
 ## [11. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

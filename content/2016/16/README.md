@@ -293,7 +293,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### WebSocket
 
-*   [Firehose (⭐724)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐725)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
 ## [14. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
@@ -315,7 +315,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### API
 
-*   [Mobius: C# API for Spark (⭐931)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
+*   [Mobius: C# API for Spark (⭐932)](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 
 ## [17. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
@@ -380,7 +380,7 @@ By the end of this book, you will have learned about text manipulation using str
 ### Miscellaneous
 
 *   [exldap (⭐57)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
-*   [phone (⭐98)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+*   [phone (⭐99)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ### Testing
 
@@ -416,7 +416,7 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Video / Barcode
 
-*   [PlayerView (⭐132)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
+*   [PlayerView (⭐131)](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 
 ## [27. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -569,19 +569,19 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Open Source / Featured
 
-*   [WebTorrent (⭐9k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐138k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐9.1k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Visual Studio Code (⭐140k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
-*   [Git-it (⭐4.1k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+*   [Git-it (⭐4.2k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 *   [Caprine (⭐6.5k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 *   [Simplenote (⭐4.2k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.5k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Medis (⭐11k)](https://github.com/luin/medis) - Redis database management.
 *   [SmartMirror (⭐2.7k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 *   [Google Play Music Desktop Player (⭐8.4k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐340)](https://github.com/m0g/ansel) - Image organizer.
+*   [Ansel (⭐348)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -592,11 +592,11 @@ By the end of this book, you will have learned about text manipulation using str
 ### For Electron / Other
 
 *   [electron-is-dev (⭐405)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐395)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
-*   [electron-dl (⭐995)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
+*   [electron-localshortcut (⭐397)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-dl (⭐1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
 *   [electron-release-server (⭐1.7k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
 *   [electron-download (⭐296)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [ember-electron (⭐801)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [ember-electron (⭐803)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other
 

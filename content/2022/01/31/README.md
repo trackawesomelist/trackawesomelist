@@ -10,13 +10,13 @@
 
 ### Other Frameworks
 
-*   [Rapid Open Hardware Development (ROHD) Framework (⭐226)](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
+*   [Rapid Open Hardware Development (ROHD) Framework (⭐234)](https://github.com/intel/rohd) - A framework for describing and verifying hardware.
 
 ## [2. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
-*   :tada: [macroquad (⭐1.7k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
+*   :tada: [macroquad (⭐1.8k)](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
 
 ## [3. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Control Panels
 
-*   Revision Control: see [awesome-selfhosted#project-management (⭐106k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
+*   Revision Control: see [awesome-selfhosted#project-management (⭐108k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
 
 ### VPN / Metric & Metric Collection
 
@@ -45,18 +45,18 @@
 ### Tools / Smart Contracts
 
 *   [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
-*   [aqua-compiler (⭐0)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
+*   [aqua-compiler (⭐1)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [deepface (⭐4.8k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
-*   [retinaface (⭐433)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
+*   [deepface (⭐5k)](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
+*   [retinaface (⭐456)](https://github.com/serengil/retinaface) - deep learning based cutting-edge facial detector for Python coming with facial landmarks
 
 ### Python / General-Purpose Machine Learning
 
-*   [ChefBoost (⭐357)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
+*   [ChefBoost (⭐368)](https://github.com/serengil/chefboost) - a lightweight decision tree framework for Python with categorical feature support covering regular decision tree algorithms such as ID3, C4.5, CART, CHAID and regression tree; also some advanved bagging and boosting techniques such as gradient boosting, random forest and adaboost.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-promise-dialog (⭐32)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
+*   [vue3-promise-dialog (⭐37)](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

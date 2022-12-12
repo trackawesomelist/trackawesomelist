@@ -26,7 +26,7 @@
 
 ### Debug
 
-*   [doctest (⭐4.3k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
+*   [doctest (⭐4.4k)](https://github.com/onqtam/doctest) - The lightest feature rich C++ single header testing framework. \[MIT]
 
 ## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
@@ -140,8 +140,8 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐621)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
-    *   [mrhooray/torch (⭐124)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
+    *   [llogiq/flame (⭐630)](https://github.com/llogiq/flame) — [![build badge](https://api.travis-ci.org/llogiq/flame.svg?branch=master)](https://travis-ci.org/llogiq/flame)
+    *   [mrhooray/torch (⭐125)](https://github.com/mrhooray/torch) — generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
 
@@ -183,7 +183,7 @@
 *   [TypeScript Sublime Plugin (⭐1.7k)](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
 *   [Atom TypeScript (⭐1.1k)](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
 *   [TypeScript Interactive Development Environment for Emacs (⭐1.4k)](https://github.com/ananthakumaran/tide) by @ananthakumaran
-*   [TypeScript Syntax for VIM (⭐1.8k)](https://github.com/leafgarland/typescript-vim)
+*   [TypeScript Syntax for VIM (⭐1.9k)](https://github.com/leafgarland/typescript-vim)
 
 ### Online / Playground
 
@@ -735,7 +735,7 @@ git rebase --interactive HEAD~2
 
 ### Open Source / Featured
 
-*   [Min (⭐5.5k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐6k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ### Open Source / Other
 
@@ -871,7 +871,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Native Implemented Functions
 
-*   [hsnif (⭐24)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
+*   [hsnif (⭐25)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
 
 ### ORM and Datamapping
 
@@ -897,7 +897,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐32k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐33k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
@@ -914,7 +914,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Realm
 
-*   [Realm+JSON (⭐670)](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
+*   [Realm+JSON (⭐669)](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
 
 ### Auto Layout / Barcode
 
@@ -922,15 +922,15 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Logging / Barcode
 
-*   [WatchdogInspector (⭐509)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
+*   [WatchdogInspector (⭐510)](https://github.com/tapwork/WatchdogInspector) - A logging tool to show the current framerate (fps) in the status bar of your iOS app.
 
 ### HTML / Barcode
 
-*   [Fuzi (⭐979)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
+*   [Fuzi (⭐987)](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support.
 
 ### Menu / Barcode
 
-*   [MenuItemKit (⭐838)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
+*   [MenuItemKit (⭐844)](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 
 ### Utility / Barcode
 

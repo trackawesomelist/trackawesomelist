@@ -34,7 +34,7 @@
 
 ### JupyterLab Extensions
 
-*   [stickyland (⭐249)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
+*   [stickyland (⭐260)](https://github.com/xiaohk/stickyland) - Break the linear presentation of notebooks with sticky cells.
 
 ### Hosted Notebook Solutions
 
@@ -63,7 +63,7 @@
 
 ### Back-End Development
 
-*   [Slim (⭐10)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+*   [Slim (⭐11)](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 
 ## [9. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -73,21 +73,21 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Balancer (⭐111)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
+*   [Balancer (⭐122)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
 
 ### Components & Libraries / UI Components
 
 *   [control-knob (⭐7)](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls.
-*   [vue-nav-tab (⭐3)](https://github.com/kien5436/vue-nav-tab) Tab components for Vue.js 3 project
-*   [vue-dropify (⭐17)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
+*   [vue-nav-tab (⭐2)](https://github.com/kien5436/vue-nav-tab) Tab components for Vue.js 3 project
+*   [vue-dropify (⭐16)](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
 
 ### Components & Libraries / Frameworks
 
-*   [petite-vue (⭐7k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
+*   [petite-vue (⭐7.2k)](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
 
 ### Components & Libraries / Scaffold
 
-*   [electron-vite-template (⭐207)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
+*   [electron-vite-template (⭐229)](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -104,28 +104,28 @@
 
 ### HTTP Clients
 
-*   [go-cleanhttp (⭐268)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
+*   [go-cleanhttp (⭐274)](https://github.com/hashicorp/go-cleanhttp) - Get easily stdlib HTTP client, which does not share any state with other clients.
 
 ### Server Applications
 
-*   [Wish (⭐1.6k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
+*   [Wish (⭐1.7k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 ## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Learning with Cognitive Plausibility / Commonsense Knowledgebase
 
-*   [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801\&hl=en\&as_sdt=0,5)].
+*   [Attention over Learned Object Embeddings Enables Complex Visual Reasoning](https://proceedings.neurips.cc/paper/2021/hash/4c26774d852f62440fc746ea4cdd57f6-Abstract.html) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=127829313460149801\&hl=en\&as_sdt=0,5)].
 
 ## [13. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
-*   [Rust algorithms (⭐21)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms (only sorting algorithms for now).
+*   [Rust algorithms (⭐27)](https://github.com/Jondolf/rust-algorithms) - A website with interactive implementations of various algorithms (only sorting algorithms for now).
 
-### Alternatives / Wasm
+### Alternatives / Frameworks
 
-*   [Dioxus (⭐5k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-*   [Sycamore (⭐1.4k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+*   [Dioxus (⭐5.6k)](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+*   [Sycamore (⭐1.8k)](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
 
 ---
 

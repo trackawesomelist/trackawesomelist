@@ -16,7 +16,7 @@
 
 ### Node.js
 
-*   [Nestjsx/crud (⭐3.2k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
+*   [Nestjsx/crud (⭐3.3k)](https://github.com/nestjsx/crud) - Generate CRUD controllers and services for RESTful API with NestJS and TypeORM.
 
 ## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
@@ -24,7 +24,7 @@
 
 *   [Game Boy Link Cable Breakout Board (⭐57)](https://github.com/Palmr/gb-link-cable)
 *   [GBCartFlasher firmware (⭐22)](https://github.com/Tauwasser/GBCartFlasher)
-*   [VerilogBoy (⭐383)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
+*   [VerilogBoy (⭐386)](https://github.com/zephray/VerilogBoy/) - Game Boy compatible console Verilog RTL implementation.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -172,7 +172,7 @@
 
 ### R / Angular
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐540)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐547)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Angular
 
@@ -539,7 +539,7 @@
 ### Finite Elements
 
 *   [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
-    (Python, BSD, [GitHub (⭐567)](https://github.com/sfepy/sfepy))
+    (Python, BSD, [GitHub (⭐579)](https://github.com/sfepy/sfepy))
 
 ### Meshing / Triangular and tetrahedral meshing
 
@@ -566,7 +566,7 @@
 
 ### Integrations
 
-*   [remount (⭐610)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐618)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
@@ -702,7 +702,7 @@
 
 ### Package Repositories
 
-*   [bandersnatch (⭐327)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+*   [bandersnatch (⭐340)](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 
 ## [32. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
@@ -723,17 +723,17 @@
 
 ### Date and Time Processing
 
-*   [timezone (⭐314)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
+*   [timezone (⭐316)](https://github.com/panthomakos/timezone) - Accurate current and historical timezones and transformations, with support for Geonames and Google latitude - longitude timezone lookups.
 
 ### Process Management and Monitoring
 
-*   [Health Monitor Rails (⭐177)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
+*   [Health Monitor Rails (⭐178)](https://github.com/lbeder/health-monitor-rails) - A mountable Rails plug-in to check health of services (Database, Cache, Sidekiq, Redis, e.t.c.) used by the Rails app.
 
 ## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Realm
 
-*   [RealmWrapper (⭐69)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
+*   [RealmWrapper (⭐72)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
 
 ## [35. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -751,7 +751,7 @@
 
 ### Audio
 
-*   [libsndfile (⭐1k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
+*   [libsndfile (⭐1.1k)](https://github.com/erikd/libsndfile/) - C library with C++ wrapper for reading and writing files containing sampled sound through one standard library interface. \[LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 
 ### GUI
 
@@ -779,15 +779,15 @@
 
 ### E-Commerce and Payments
 
-*   [NopCommerce (⭐7.6k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
+*   [NopCommerce (⭐7.7k)](https://github.com/nopSolutions/nopCommerce) - nopCommerce. Free open-source e-commerce shopping cart (ASP.NET Core)
 
 ### HTTP
 
-*   [Tiny.RestClient (⭐194)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐195)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 
 ### Package Management
 
-*   [Sleet (⭐280)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐286)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [42. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 

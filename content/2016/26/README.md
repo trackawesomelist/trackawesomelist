@@ -1,12 +1,18 @@
 # Awesome List Updates on Jun 27 - Jul 03, 2016
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C# / Non-X86
+
+*   [Introduction to Rx](http://www.introtorx.com)
+
+## [2. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Design
 
@@ -17,19 +23,19 @@
 *   [httparty (⭐5.6k)](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
 *   [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 
-## [2. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [3. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Audio
 
 *   [audio-render (⭐40)](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
 
-## [3. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [4. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Utilities
 
 *   [Vert.x Cron (⭐59)](https://github.com/diabolicallabs/vertx-cron) - Schedule events with cron specifications. Has event bus and Observable versions.
 
-## [4. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [5. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Audio
 
@@ -39,7 +45,7 @@
 
 *   [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 
-## [5. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [6. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Algorithms
 
@@ -65,55 +71,55 @@
     *   [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/readings/)
     *   [Resources](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/download-course-materials/)
 
-## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [7. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Disassemblers and debuggers
 
 *   [plasma (⭐3k)](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 
-## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
 *   [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
 
-## [8. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [9. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Other Interesting Articles / Polyfills
 
 *   [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
-## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Tools
 
 *   [Rollover](http://freshinbox.com/tools/rollover/) - Generates code for a Rollover Image that displays an alternative image when the email recipient hovers the cursor over the image.
 
-## [10. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [11. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### R Development
 
 *   [modules (⭐4)](https://github.com/klmr/modules) - An alternative (Python style) module system for R.
 
-## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [12. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
 *   [Chronix](http://chronix.io/) - a time series storage built to store time series highly compressed and for fast access times.
 
-## [12. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
+## [13. Awesome Ava](/content/avajs/awesome-ava/week/README.md)
 
 ### Articles
 
 *   [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 
-## [13. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Professional Groups / Research Groups (USA)
 
 *   [Duke Network Analysis Center](https://dnac.ssri.duke.edu/).
 
-## [14. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [15. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
@@ -127,7 +133,7 @@
 
 *   [Fizz Buzz in TensorFlow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/) - A joke by Joel Grus
 
-## [15. Empathy in Engineering](/content/KimberlyMunoz/empathy-in-engineering/week/README.md)
+## [16. Empathy in Engineering](/content/KimberlyMunoz/empathy-in-engineering/week/README.md)
 
 ### Words / Empathy for your users
 
@@ -145,19 +151,19 @@
 *   [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/) 📰 - Etsy's Code as Craft blog discusses how they look at mistakes with a perspective of learning through blameless post-mortems.
 *   [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) 📰 - The New York Times synthesizes how Google's data-driven culture discovered that norms centering communication and empathy made better teams.
 
-## [16. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [17. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Plugins / IRC
 
 *   [Composer-Asset-Plugin (⭐900)](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
 
-## [17. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [18. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Network
 
 *   [armeria (⭐4k)](https://github.com/line/armeria) - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.
 
-## [18. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [19. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Internationalization
 
@@ -168,31 +174,31 @@
 *   [MyTested.AspNetCore.Mvc (⭐1.6k)](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing
     framework for ASP.NET Core MVC.
 
-## [19. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [20. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Remote Management / Metric & Metric Collection
 
 *   [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 
-## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [21. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
 *   [Introduction to machine learning with scikit-learn (⭐3.5k)](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 
-## [21. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [22. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm Seeds](https://elmseeds.thaterikperson.com/) - Short screencasts to teach you the Elm programming language from Erik Person.
 
-## [22. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [23. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### More Resources
 
 *   [Purescript Ecosystem (⭐93)](https://github.com/xgrommx/purescript-ecosystem) - Ranked list of popular libraries.
 
-## [23. Tips](/content/git-tips/tips/week/README.md)
+## [24. Tips](/content/git-tips/tips/week/README.md)
 
 ## Retrieve the commit hash of the initial revision.
 
@@ -219,13 +225,13 @@ git log --pretty=oneline --reverse | head -1 | cut -c 1-40
 git blame <file-name>
 ```
 
-## [24. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [25. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Really Simple Forms
 
 *   [Brisk Forms (⭐42)](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 
-## [25. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [26. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -237,7 +243,7 @@ git blame <file-name>
 
 
 
-## [26. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [27. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Sysevent provider
 
@@ -287,13 +293,13 @@ git blame <file-name>
 
 *   [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
 
-## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Clojure SDK
 
 *   [Repo :fire::fire::fire: (⭐968)](https://github.com/mcohen01/amazonica)
 
-## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Emulators
 
@@ -304,7 +310,7 @@ git blame <file-name>
 
 *   [DragListView (⭐654)](https://github.com/woxblom/DragListView) - Drag and drop to reorder items in a list, grid or board.
 
-## [29. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [30. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
@@ -314,25 +320,25 @@ git blame <file-name>
 
 *   [The Psychology of Color in Marketing and Branding](https://medium.com/swlh/the-psychology-of-color-in-marketing-and-branding-ebb2320a2b0)
 
-## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [31. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
 *   Blogfoster <http://engineering.blogfoster.com/>
 
-## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Clojure
 
 *   [Interview cake Clojure solutions (⭐117)](https://github.com/DerekCuevas/interview-cake-clj)
 
-## [32. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [33. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Infomation for people who are new to GitHub
 
 *   [Bingo Board (⭐32)](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
 
-## [33. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [34. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
@@ -342,15 +348,15 @@ git blame <file-name>
 
 *   [tommy-the-runner/cyclejs-ace-editor ★0 (⭐1)](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace (⭐1k)](https://github.com/thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
 
-## [34. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
-*   [Metrics-Net (⭐630)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
+*   [Metrics-Net (⭐629)](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 
 ### Minification
 
-*   [Web Markup Minifier (⭐384)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
+*   [Web Markup Minifier (⭐390)](https://github.com/Taritsyn/WebMarkupMin) - .NET library that contains a set of markup minifiers. The objective of this project is to improve the performance of web applications by reducing the size of HTML, XHTML and XML code.
 
 ### Queue
 
@@ -358,22 +364,22 @@ git blame <file-name>
 
 ### Testing
 
-*   [FakeItEasy (⭐1.3k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
+*   [FakeItEasy (⭐1.4k)](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET <https://fakeiteasy.github.io>
 
-## [35. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [36. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Museeks (⭐1.3k)](https://github.com/KeitIG/museeks) - Music player.
+*   [Museeks (⭐1.4k)](https://github.com/KeitIG/museeks) - Music player.
 
-## [36. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [37. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐2.8k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
-*   [atmo (⭐816)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+*   [jscpd (⭐2.9k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [atmo (⭐812)](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
-## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [38. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Video Tutorials / Components
 
@@ -384,44 +390,44 @@ git blame <file-name>
 
 *   [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
 
-## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [39. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
 *   [Plastic (⭐509)](https://github.com/sleimanx2/plastic) - Fluently mapping and searching Elasticsearch
 
-## [39. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [40. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Functional Mumbo Jumbo – ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html) – A beginner-friendly introduction to Algebraic Data Types.
 
-## [40. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [41. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Notation
 
 *   [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
 *   [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 
-## [41. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [42. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Graph Databases
 
 *   [Graph Databases Use Cases](https://neo4j.com/use-cases/) - Although documents geared towards Neo4j, concepts are applicable to all graph databases.
 
-## [42. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [43. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 
-## [43. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [44. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
 ### Translations / [Demo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 *   [Italiano (⭐23k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
 
-## [44. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [45. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Online Scanners and Sandboxes / Other Resources
 
@@ -466,14 +472,14 @@ git blame <file-name>
 *   [MalSploitBase (⭐496)](https://github.com/misterch0c/malSploitBase) - A database
     containing exploits used by malware.
 
-## [45. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
+## [46. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 
 ### Resources / Articles
 
 *   Roger Clarke: [Open source software and open content as models for eBusiness](http://www.rogerclarke.com/EC/Bled04.html)
 *   Shereef Bishay: [The open enterprise manifesto](http://www.opencompany.org/resources/whitepaper.pdf)
 
-## [46. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [47. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / GitHub
 
@@ -485,7 +491,7 @@ git blame <file-name>
 *   [Greasy Fork](https://greasyfork.org/)
 *   [OpenUserJS](https://openuserjs.org/)
 
-## [47. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [48. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Community
 
@@ -496,7 +502,7 @@ git blame <file-name>
 *   [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
 *   [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
 
-## [48. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
+## [49. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
 ### Languages, Protocols, Browser APIs
 
@@ -506,13 +512,13 @@ git blame <file-name>
 
 *   **[Buttons](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md/user-interface-components/buttons.md)**: The term button refers to any graphical control element that provides the user a simple way to trigger an event, like searching for a query at a search engine, or to interact with dialog boxes, like confirming an action.
 
-## [49. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [50. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Operating systems
 
 *   [Apache Mynewt](https://mynewt.apache.org/) - Apache Mynewt is a real-time, modular operating system for connected IoT devices that need to operate for long periods of time under power, memory, and storage constraints. The first connectivity stack offered is BLE 4.2.
 
-## [50. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [51. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
@@ -522,7 +528,7 @@ git blame <file-name>
 
 *   [SwiftLinkPreview (⭐1.3k)](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 
-## [51. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [52. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Object Detection
 

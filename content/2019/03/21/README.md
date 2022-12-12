@@ -54,7 +54,7 @@
 ### Finite Elements
 
 *   [SfePy](https://sfepy.org) - Simple Finite Elements in Python.
-    (Python, BSD, [GitHub (⭐567)](https://github.com/sfepy/sfepy))
+    (Python, BSD, [GitHub (⭐579)](https://github.com/sfepy/sfepy))
 
 ### Meshing / Triangular and tetrahedral meshing
 
@@ -81,13 +81,13 @@
 
 ### Package Management
 
-*   [Sleet (⭐280)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
+*   [Sleet (⭐286)](https://github.com/emgarten/sleet/) - A NuGet v3 static feed generator with support for AWS S3 and Azure Storage
 
 ## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Integrations
 
-*   [remount (⭐610)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐618)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

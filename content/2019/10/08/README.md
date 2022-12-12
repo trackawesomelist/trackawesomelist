@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 08, 2019
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -27,7 +27,7 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐268)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐272)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [4. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -93,39 +93,33 @@
 
 ### E-Books / Others
 
-*   [Archives (⭐7.1k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.1k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐7.3k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐7.3k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
-## [10. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
-
-### Self-Hosted Services
-
-*   [mailcow](https://mailcow.email/) - The mailserver suite with the 'moo'. An easy to use dockerized selfhosted email solution.
-
-## [11. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
 ### Multi-purpose toolkits
 
 *   [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs.
     (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Games
 
-*   [Binbo (⭐93)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
+*   [Binbo (⭐96)](https://github.com/DOBRO/binbo) - A chess representation written in Erlang using [Bitboards](https://www.chessprogramming.org/Bitboards), ready for use on game servers.
 
 ### Miscellaneous
 
-*   [Apex (⭐271)](https://github.com/bjro/apex) - Awesome Print for Elixir.
+*   [Apex (⭐272)](https://github.com/bjro/apex) - Awesome Print for Elixir.
 
-## [13. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [12. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Dynamic type checkers
 
-*   [pydantic (⭐11k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
-*   [typeguard (⭐1k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
+*   [pydantic (⭐12k)](https://github.com/samuelcolvin/pydantic) - Data parsing using Python type hinting. Supports dataclasses.
+*   [typeguard (⭐1.1k)](https://github.com/agronholm/typeguard) - Another one runtime type checker.
 
-## [14. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
+## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
 ### Companies / Materials
 
@@ -175,19 +169,19 @@
 
 *   [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
 
-## [15. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
-### CLI
+### Packages / Command-line apps
 
-*   [npkill (⭐6.3k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐6.6k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
-## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### NewSQL Databases
 
 *   [KarelDB (⭐382)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 
-## [17. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+## [16. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
 ### Tech / Aggregator
 

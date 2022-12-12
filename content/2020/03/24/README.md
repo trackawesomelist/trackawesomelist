@@ -10,7 +10,7 @@
 
 ### Architecture
 
-*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐60)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   :strawberry: [Burzum/CakeServiceLayer plugin (⭐62)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ## [2. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

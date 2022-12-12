@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 17, 2019
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,7 +38,7 @@
 
 ### Scheduling
 
-*   [Workflow Core (⭐4.2k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
+*   [Workflow Core (⭐4.3k)](https://github.com/danielgerlag/workflow-core) - Lightweight embeddable workflow engine
 
 ## [5. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
@@ -58,22 +58,28 @@
 
 *   [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
 
-## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Android
+
+*   [Google Android Developer Training](https://developer.android.com/guide)
+
+## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Software / Plotter-Specific
 
-*   [MP2300-Tools (⭐4)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
+*   [MP2300-Tools (⭐5)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Math
 
-*   [SymEngine (⭐905)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
+*   [SymEngine (⭐919)](https://github.com/symengine/symengine) - Fast symbolic manipulation library, a rewriting of SymPy's core in C++. \[MIT]
 
 ### Networking
 
-*   [cpp-netlib/uri (⭐126)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[BSL-1.0]
-*   [uriparser (⭐254)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
+*   [cpp-netlib/uri (⭐127)](https://github.com/cpp-netlib/uri) - URI parser/builder library for C++, compatible with RFC 3986 and RFC 3987. \[BSL-1.0]
+*   [uriparser (⭐258)](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. \[BSD-3-Clause]
 
 ---
 

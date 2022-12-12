@@ -36,7 +36,7 @@
 
 ### Vim & Neovim / Third-party APIs
 
-*   [Vlime (⭐363)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
+*   [Vlime (⭐368)](https://github.com/vlime/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -46,11 +46,11 @@
 
 ### UI / Barcode
 
-*   [Windless (⭐938)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
+*   [Windless (⭐939)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
 
 ### 3D / Barcode
 
-*   [Insert3D (⭐82)](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model.
+*   [Insert3D (⭐83)](https://github.com/Viktoo/Insert3D) - The fastest 🚀 way to embed a 3D model.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -71,59 +71,59 @@
 
 ### Adventure
 
-*   [engge (⭐136)](https://github.com/scemino/engge) - Experimental game engine for Thimbleweed Park.
-*   [ResidualVM (⭐383)](https://github.com/residualvm/residualvm) - Game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango and Escape from Monkey Island.
+*   [engge (⭐139)](https://github.com/scemino/engge) - Experimental game engine for Thimbleweed Park.
+*   [ResidualVM (⭐382)](https://github.com/residualvm/residualvm) - Game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango and Escape from Monkey Island.
 
 ### Arcade
 
 *   [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
-*   [Mr.Boom (⭐180)](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
-*   [OpenClonk (⭐280)](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
+*   [Mr.Boom (⭐181)](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
+*   [OpenClonk (⭐281)](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
 
 ### FPS
 
-*   [CatacombGL (⭐75)](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
-*   [DoomRetro (⭐510)](https://github.com/bradharding/doomretro) - Classic, refined DOOM source port for Windows PC.
+*   [CatacombGL (⭐79)](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
+*   [DoomRetro (⭐514)](https://github.com/bradharding/doomretro) - Classic, refined DOOM source port for Windows PC.
 *   [DukeGDX](https://gitlab.com/m210/DukeGDX) - Duke Nukem 3D port.
-*   [ezQuake (⭐227)](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
+*   [ezQuake (⭐228)](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
 *   [GZDoom (⭐1.6k)](https://github.com/coelckers/gzdoom) - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine.
 *   [ioquake3 (⭐2k)](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 *   [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
-*   [Yamagi Quake II (⭐669)](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
+*   [Yamagi Quake II (⭐673)](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
 
 ### RPG
 
-*   [Arx Libertatis (⭐764)](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
-*   [Barony (⭐351)](https://github.com/TurningWheel/Barony) - Open source release of Barony.
+*   [Arx Libertatis (⭐769)](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
+*   [Barony (⭐354)](https://github.com/TurningWheel/Barony) - Open source release of Barony.
 *   [BtBuilder (⭐35)](https://github.com/dulsi/btbuilder) - An open source implementation of the Bard's Tale Construction Set.
 *   [Daggerfall Unity (⭐1.6k)](https://github.com/Interkarma/daggerfall-unity) - Recreation of Daggerfall in the Unity engine.
 *   [Devilution (⭐8.4k)](https://github.com/diasurgical/devilution) - Reconstructed form of Diablo's original source code.
 *   [DevilutionX (⭐6.1k)](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems.
-*   [Exult (⭐374)](https://github.com/exult/exult) - Project to recreate Ultima 7 for modern operating systems.
-*   [Falltergeist (⭐790)](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2 game engine writen in C++ and SDL.
-*   [FreeFT (⭐137)](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
+*   [Exult (⭐375)](https://github.com/exult/exult) - Project to recreate Ultima 7 for modern operating systems.
+*   [Falltergeist (⭐792)](https://github.com/falltergeist/falltergeist) - Crossplatform Fallout 2 game engine writen in C++ and SDL.
+*   [FreeFT (⭐138)](https://github.com/nadult/FreeFT) - Real-time, isometric action game engine inspired by Fallout Tactics.
 *   [OpenDiablo2 (⭐10k)](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
 *   [OpenMW (⭐4.4k)](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
-*   [OpenVIII (⭐561)](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
-*   [REGoth (⭐393)](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
-*   [Riiablo (⭐628)](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX.
-*   [Shockolate (⭐633)](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
+*   [OpenVIII (⭐565)](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
+*   [REGoth (⭐394)](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
+*   [Riiablo (⭐639)](https://github.com/collinsmith/riiablo) - Diablo II remade using Java and LibGDX.
+*   [Shockolate (⭐636)](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
 
 ### Platformer
 
 *   [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games.
-*   [NXEngine-evo (⭐394)](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
-*   [SDLPoP (⭐914)](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
+*   [NXEngine-evo (⭐399)](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
+*   [SDLPoP (⭐923)](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
 *   [VVVVV (⭐6.5k)](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 
 ### Racing
 
 *   [DreeRally (⭐64)](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
-*   [OpenNFS (⭐442)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
+*   [OpenNFS (⭐444)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 
 ### Simulator
 
-*   [FS2Open (⭐324)](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
+*   [FS2Open (⭐326)](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 
 ### Strategy
 
@@ -134,12 +134,12 @@
 *   [KeeperRL (⭐697)](https://github.com/miki151/keeperrl) - Roguelike dungeon builder inspired by Dwarf Fortress.
 *   [openage (⭐11k)](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 *   [OpenHoW (⭐166)](https://github.com/TalonBraveInfo/OpenHoW) - Recreation of Gremlin's Hogs of War.
-*   [OpenLoco (⭐844)](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
+*   [OpenLoco (⭐854)](https://github.com/OpenLoco/OpenLoco) - Reimplementation of Chris Sawyer's Locomotion.
 *   [OpenTTD (⭐4.4k)](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
 *   [Seven Kingdoms: Ancient Adversaries (⭐234)](https://github.com/the3dfxdude/7kaa) - GPL release of the Seven Kingdoms: Ancient Adversaries.
-*   [Sourcehold (⭐207)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
+*   [Sourcehold (⭐209)](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
 *   [VCMI (⭐2.9k)](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
-*   [Wargus (⭐266)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
+*   [Wargus (⭐267)](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
 *   [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
@@ -165,11 +165,11 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Idea Re-Vue (⭐15)](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
+*   [Idea Re-Vue (⭐14)](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
 
 ### Components & Libraries / UI Components
 
-*   [vue2-timepicker (⭐426)](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support. :clock7: (Back and recharged in 2019 :battery:)
+*   [vue2-timepicker (⭐431)](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support. :clock7: (Back and recharged in 2019 :battery:)
 
 ### Components & Libraries / UI Utilities
 

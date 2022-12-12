@@ -10,7 +10,7 @@
 
 ### Books, blogs and training materials / Community Chat Rooms
 
-*   [Writing an embedded OS in Rust on the Raspberry Pi (⭐9.2k)](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
+*   [Writing an embedded OS in Rust on the Raspberry Pi (⭐9.5k)](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) A set of tutorials that give a guided, step-by-step tour of how to write a monolithic Operating System kernel for an embedded system from scratch. Runs on the Raspberry Pi 3 and the Raspberry Pi 4.
 
 ## [2. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Boilerplate / Mouse Events
 
-*   [create-react-dependency (⭐27)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
+*   [create-react-dependency (⭐26)](https://github.com/andrelmlins/create-react-dependency) - Create react dependencies with no build configuration.
 
 ## [6. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

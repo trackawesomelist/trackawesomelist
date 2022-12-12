@@ -24,7 +24,7 @@
 
 ### Image Processing
 
-*   [DotImaging (⭐305)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
+*   [DotImaging (⭐309)](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 
 ## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

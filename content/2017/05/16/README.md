@@ -102,7 +102,7 @@
 ### REST and API
 
 *   [accent (⭐33)](https://github.com/sticksnleaves/accent) - Plug for handling the conversion of JSON API keys to different cases.
-*   [versionary (⭐38)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
+*   [versionary (⭐39)](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
 ## [9. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -166,7 +166,7 @@
 
 ### Samples
 
-*   [vulkantoy (⭐29)](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. \[MIT]
+*   [vulkantoy (⭐30)](https://github.com/jpystynen/vulkantoy) - Shadertoy image shader test app with Vulkan. \[MIT]
 
 ---
 

@@ -50,11 +50,11 @@
 
 ### Software / Miscellaneous
 
-*   [Journal (⭐211)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
+*   [Journal (⭐231)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
 
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐587)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
+*   [OnTrack (⭐603)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
 
 ## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -68,7 +68,7 @@
 
 ## [5. Learn to Program](/content/karlhorky/learn-to-program/README.md)
 
-### Intermediate
+### Beginner
 
 #### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
 
@@ -79,7 +79,7 @@
 
 ### Misc
 
-*   [CodableWrappers (⭐373)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐387)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ## [7. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Optimization / NLP
 
-*   [scikit-opt (⭐3.6k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+*   [scikit-opt (⭐3.7k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 
 ## [13. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -143,7 +143,7 @@
 
 ### Libraries / Visualization
 
-*   [3Dmol.js (⭐583)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
+*   [3Dmol.js (⭐592)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
 
 ## [15. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

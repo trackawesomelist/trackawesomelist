@@ -22,7 +22,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [def (⭐7)](https://github.com/thevinter/def) - Allows you to specify and run a default command in any directory of your choice.
+*   [def (⭐8)](https://github.com/thevinter/def) - Allows you to specify and run a default command in any directory of your choice.
 *   [kubectl (⭐6)](https://github.com/mattbangert/kubectl-zsh-plugin) - ZSH plugin for managing `kubectl`.
 *   [skaffold (⭐1)](https://github.com/todie/skaffold.plugin.zsh) - ZSH integration and completions for [skaffold](https://skaffold.dev) local kubernetes development environment.
 
@@ -58,7 +58,7 @@
 ### WSL Tools / WSL Utilities
 
 *   [wslu (⭐2.5k)](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystem, such as enabling sound in WSL and creating your favorite linux GUI application shortcuts on Windows 10. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
-*   [wslpy (⭐58)](https://github.com/wslutilities/wslpy) - A Python3 library for WSL specific tasks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [wslpy (⭐59)](https://github.com/wslutilities/wslpy) - A Python3 library for WSL specific tasks. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ### WSL Tools / Miscellaneous Tools
 
@@ -81,7 +81,7 @@
 
 *   Firebase
     *   [AppCheck (⭐5)](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
-    *   [Dynamic Links (⭐9)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
+    *   [Dynamic Links (⭐10)](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     *   [Push (⭐26)](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 *   [Photo library (⭐1)](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 
@@ -89,7 +89,7 @@
 
 *   [Docgen (⭐9)](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
 *   [Plugin generator (⭐44)](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
-*   [Assets (⭐326)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
+*   [Assets (⭐337)](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ### Learning / Offical guides
 
@@ -116,8 +116,8 @@
 
 ### Demo apps / Case study
 
-*   [capacitor-testapp (⭐23)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
-*   [capacitor-plugin-demo (⭐35)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+*   [capacitor-testapp (⭐24)](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
+*   [capacitor-plugin-demo (⭐40)](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
 *   [capacitor-firebase-plugin-demo (⭐7)](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 
 ## [7. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
@@ -130,7 +130,7 @@
 
 ### Type / React
 
-*   [pothos (⭐1.3k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
+*   [pothos (⭐1.4k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 
 ## [9. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [apollo-vue-devtools (⭐15)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
+*   [apollo-vue-devtools (⭐17)](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
 
 ## [11. Awesome Tdengine](/content/taosdata/awesome-tdengine/README.md)
 
@@ -152,7 +152,7 @@
 
 ### Dataset
 
-*   [airQuality (⭐3)](https://github.com/233lawliet/airQuality) - 3000+ District air quality metrics: CO2, CO1, PM2.5, PM10 and so on.
+*   [airQuality (⭐4)](https://github.com/233lawliet/airQuality) - 3000+ District air quality metrics: CO2, CO1, PM2.5, PM10 and so on.
 
 ---
 

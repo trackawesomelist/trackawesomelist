@@ -62,7 +62,7 @@
 
 ### Static Site Generators
 
-*   [FsBlog (⭐130)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
+*   [FsBlog (⭐131)](https://github.com/fsprojects/FsBlog/) - Blog aware, static site generation using F#
 
 ### Testing
 
@@ -76,7 +76,7 @@
 
 ### Assets
 
-*   [Emoji (⭐445)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
+*   [Emoji (⭐446)](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 
 ### Authentication and OAuth
 
@@ -89,12 +89,12 @@
 ### DevOps Tools
 
 *   [Backup (⭐4.7k)](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
-*   [Chef (⭐7k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+*   [Chef (⭐7.1k)](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
 *   [Logstash (⭐13k)](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 
 ### Documentation
 
-*   [grape-swagger (⭐1k)](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
+*   [grape-swagger (⭐1.1k)](https://github.com/ruby-grape/grape-swagger) - Add swagger compliant documentation to your Grape API.
 
 ### E-Commerce and Payments
 

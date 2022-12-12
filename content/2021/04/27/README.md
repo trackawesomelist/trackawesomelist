@@ -28,13 +28,13 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-beat (⭐1.2k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
+*   [django-celery-beat (⭐1.3k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
 ## [5. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Native Libraries / Charts
 
-*   [uncompress-react-native (⭐39)](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
+*   [uncompress-react-native (⭐40)](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
 
 ## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

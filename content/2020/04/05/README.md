@@ -32,7 +32,7 @@
 
 ### Form Components / Drag and Drop
 
-*   [react-drag-sizing (⭐12)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
+*   [react-drag-sizing (⭐13)](https://github.com/fritx/react-drag-sizing) - "Drag to resize" (sizing) as React Component.
 
 ### Form Components / Rich Text Editor
 
@@ -90,7 +90,7 @@
 
 ### Tools
 
-*   [glsl\_trace (⭐27)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
+*   [glsl\_trace (⭐29)](https://github.com/azhirnov/glsl_trace) - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
 
 ---
 

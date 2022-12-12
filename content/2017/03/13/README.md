@@ -33,7 +33,7 @@
 
 ### Logging
 
-*   [timber (⭐219)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
+*   [timber (⭐218)](https://github.com/timberio/timber-elixir) - Structured logging platform; turns raw text logs into rich structured events.
 
 ## [5. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

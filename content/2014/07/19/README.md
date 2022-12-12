@@ -16,7 +16,7 @@
 
 ### Packages / Testing
 
-*   [loadtest (⭐2.3k)](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
+*   [loadtest (⭐2.4k)](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 
 ## [3. Awesome Play1](/content/PerfectCarl/awesome-play1/README.md)
 
@@ -343,15 +343,15 @@
 
 ### Build Automation
 
-*   [Invoke-Build (⭐530)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
+*   [Invoke-Build (⭐539)](https://github.com/nightroman/Invoke-Build) - PowerShell build and test automation tool inspired by Psake.
 
 ### Logging
 
-*   [StackExchange.Exceptional (⭐842)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
+*   [StackExchange.Exceptional (⭐846)](https://github.com/NickCraver/StackExchange.Exceptional) - Error handler used for the Stack Exchange network
 
 ### Queue
 
-*   [MassTransit (⭐4.9k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
+*   [MassTransit (⭐5k)](https://github.com/MassTransit/MassTransit) - MassTransit is lean service bus implementation for building loosely coupled applications using the .NET Framework.
 
 ## [8. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

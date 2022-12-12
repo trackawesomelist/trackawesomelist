@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2019
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,7 +29,7 @@
 
 ### HTTP
 
-*   [proxy-fetcher.cr (⭐8)](https://github.com/nbulaj/proxy-fetcher.cr) - Proxy lists fetching & validating library
+*   [proxy-fetcher.cr (⭐9)](https://github.com/nbulaj/proxy-fetcher.cr) - Proxy lists fetching & validating library
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -2985,37 +2985,44 @@
 
 *   [Google Home Theme (⭐105)](https://github.com/liri/lovelace-themes) - Two themes (light and dark) matching the design of Google Home Hub.
 
-## [12. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
+*   [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
+
+## [13. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Articles
 
 *   [Car Hacking in 30 Minutes or Less](https://brysonpayne.com/2018/10/20/start-car-hacking-in-30-minutes-or-less/) - Using VirtualBox and Kali Linux, you can start car hacking using completely free open-source software and tools, including can-utils, ICSim, ScanTool, Wireshark, and tcpdump
 
-## [13. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Mock / Barcode
 
-*   [MockSwift (⭐78)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
+*   [MockSwift (⭐81)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
 
-## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Other Languages / Others
 
 *   [Insights from the oracle](http://blog.ppedv.de/?tag=Blazor) - \[German] Blog about Blazor.
 
-## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Web Servers
 
-*   [scriptisto (⭐226)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+*   [scriptisto (⭐237)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
-## [16. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [17. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Data Manipulation / Data Containers
 
-*   [pandas-log (⭐202)](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
+*   [pandas-log (⭐203)](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
 
-## [17. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [18. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Monitoring / Single Sign-On (SSO)
 

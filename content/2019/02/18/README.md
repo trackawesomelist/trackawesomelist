@@ -98,7 +98,7 @@
 
 ### Open Source / Other
 
-*   [Notable (⭐20k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
+*   [Notable (⭐21k)](https://github.com/fabiospampinato/notable) - Markdown-based note-taking.
 
 ### Articles / Other
 
@@ -108,7 +108,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐214)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐215)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ## [11. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

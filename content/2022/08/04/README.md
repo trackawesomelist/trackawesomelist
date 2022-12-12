@@ -59,21 +59,21 @@
 
 ### Software / Groupware
 
-*   [Horde](https://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. ([Demo](http://demo.horde.org/login.php), [Source Code (⭐46)](https://github.com/horde/base)) `GPL-2.0` `PHP`
+*   [Horde](https://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. ([Demo](http://demo.horde.org/login.php), [Source Code (⭐47)](https://github.com/horde/base)) `GPL-2.0` `PHP`
 
 ### Software / Money, Budgeting & Management
 
-*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐39)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
+*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐44)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
 
 ### Software / Software Development - IDE & Tools
 
-*   [code-server (⭐57k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
+*   [code-server (⭐58k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
 
 ## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
-### Markdown / LaTeX / Diagnostics
+### Markdown and LaTeX / Diagnostics
 
-*   [AckslD/nvim-FeMaco.lua (⭐168)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
+*   [AckslD/nvim-FeMaco.lua (⭐192)](https://github.com/AckslD/nvim-FeMaco.lua) - Catalyze your Fenced Markdown Code-block editing.
 
 ## [11. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
@@ -85,24 +85,24 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Whatsup (⭐125)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
+*   [Whatsup (⭐126)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 
 ### Functional Programming / Runner
 
-*   [ramda (⭐22k)](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers.
+*   [ramda (⭐23k)](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers.
 
 ### Data Structure / Runner
 
-*   [js-sdsl (⭐4)](https://github.com/zly201/js-sdsl) - Refer to the javascript standard data structure library implemented by c++ stl, which supports c++ bidirectional iterator mode.
+*   [js-sdsl (⭐5)](https://github.com/zly201/js-sdsl) - Refer to the javascript standard data structure library implemented by c++ stl, which supports c++ bidirectional iterator mode.
 
 ### API / Runner
 
 *   [SWRV (⭐1.7k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
-*   [Vue Query (⭐945)](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
+*   [Vue Query (⭐968)](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
 
 ### Podcasts / Other
 
-*   [apvarun/awesome-bun (⭐557)](https://github.com/apvarun/awesome-bun)
+*   [apvarun/awesome-bun (⭐586)](https://github.com/apvarun/awesome-bun)
 
 ## [13. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -127,11 +127,11 @@
 
 ### Continuous Integration
 
-*   [go-fuzz-action (⭐6)](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions.
+*   [go-fuzz-action (⭐9)](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions.
 
 ### Caches
 
-*   [cachego (⭐188)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
+*   [cachego (⭐200)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
 
 ### Middlewares / Actual middlewares
 
@@ -139,7 +139,7 @@
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [usestdlibvars (⭐30)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
+*   [usestdlibvars (⭐31)](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 
 ## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -151,11 +151,11 @@
 
 ### Templates / Vue 3
 
-*   [vitequality (⭐5)](https://github.com/cstuncsik/vitequality) - Vue 3 + Typescript + Vue Router + Pinia + Eslint + Jest + Cypress.
+*   [vitequality (⭐6)](https://github.com/cstuncsik/vitequality) - Vue 3 + Typescript + Vue Router + Pinia + Eslint + Jest + Cypress.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-jspm (⭐32)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
+*   [vite-plugin-jspm (⭐33)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
 
 ## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

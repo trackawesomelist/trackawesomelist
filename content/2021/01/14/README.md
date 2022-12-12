@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 14, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-safe-html (⭐14)](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
+*   [vue-safe-html (⭐18)](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -99,19 +99,7 @@
 
 *   :strawberry: [FractalTransformerView plugin (⭐15)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [.NET Community Standup: Meet the Blazor Team](https://www.youtube.com/watch?v=5enEE3BBGJM\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 12, 2021 - "Meet the Blazor Team"'s [.NET Community Standup](https://dotnet.microsoft.com/live). Meet the people behind the code! Join us for a fun livestream with members of the Blazor team.
-
-### Articles / Others
-
-*   [Microsoft Teams App With Blazor Made Easy Using Blazorade Teams](https://mikaberglund.com/microsoft-teams-app-with-blazor-made-easy-using-blazorade-teams/) - January 10, 2021 - Microsoft Teams App With Blazor Made Easy Using Blazorade Teams. [Source code (⭐32)](https://github.com/Blazorade/Blazorade-Teams) ![stars](https://img.shields.io/github/stars/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=86400).
-*   [How to Use Query Strings in Blazor WebAssembly](https://code-maze.com/query-strings-blazor-webassembly/) - January 7, 2021 - In this article, we are going to learn how to use query strings in Blazor WebAssembly. We are going to show you how to send query strings to the Blazor component and also how to read them inside the component. [Source code (⭐2)](https://github.com/CodeMazeBlog/blazor-wasm-query-strings) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square\&cacheSeconds=86400).
-*   [Introducing Online GZIP de/compressor, built with Blazor WebAssembly](https://swimburger.net/blog/dotnet/introducing-online-gzip-decompressor) - January 1, 2021 - Introducing Online GZIP de/compressor, built with Blazor WebAssembly.
-
-## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [10. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### 2D / Godot 3.2+
 

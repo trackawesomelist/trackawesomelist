@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 11, 2019
 
-17 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,31 +28,25 @@
 
 
 
-## [3. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
-
-### Hardware / Opcodes
-
-*   [DMG-CPU-Inside (⭐277)](https://github.com/furrtek/DMG-CPU-Inside) - Schematics and annotated overlay for the DMG-CPU-B chip, extracted from die photos.
-
-## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Device Input / Mouse Events
 
-*   [react-hook-mighty-mouse (⭐106)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
+*   [react-hook-mighty-mouse (⭐105)](https://github.com/mkosir/react-hook-mighty-mouse) - [demo](https://mkosir.github.io/react-hook-mighty-mouse) - Hook that tracks mouse events on selected element.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐5.9k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
+*   [Homer (⭐6.2k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`
 
-## [6. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
+## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
 ### Tools / Other
 
 *   [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [6. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / ReactJS
 
@@ -62,7 +56,7 @@
 
 *   [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
-## [8. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
+## [7. Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md)
 
 ### Arch-based distros / Desktop
 
@@ -78,13 +72,13 @@
 
 *   [Termux Arch](https://termuxarch.github.io/TermuxArch/) - Run Arch Linux ARM on your mobile phone with Termux.
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Javascript / Isomorphic web frameworks
 
 *   [remote-js (⭐33)](https://github.com/ceramic/remote-js) - send JavaScript from Common Lisp to a browser. [MIT](https://opensource.org/licenses/MIT).
 
-## [10. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+## [9. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
 
 ### Tools / Repair or Validate CSV
 
@@ -95,32 +89,32 @@
 *   [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
 *   [CSVY](https://csvy.org/) - A standard for adding a YAML header to CSV files to describe their format
 
-## [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### HAL implementation crates / GigaDevice
 
 *   [`gd32vf103-hal`](https://github.com/luojia65/gd32vf103-hal) - ![crates.io](https://img.shields.io/crates/v/gd32vf103-hal.svg)
     *   (WIP) Hardware abstract layer (HAL) for the GD32VF103 RISC-V microcontroller
 
-## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### 🇮🇩 Indonesia / Misc
 
 *   Telegram [Flutter Indonesia](https://t.me/flutter_id)
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / System Related Tools
 
-*   [Background Music (⭐12k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
+*   [Background Music (⭐13k)](https://github.com/kyleneideck/BackgroundMusic) - Automatically pause your music, set individual apps' volumes and record system audio. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kyleneideck/BackgroundMusic)
 
-## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### UI
 
 *   [radio-buttons-react-native ★11 (⭐76)](https://github.com/sramezani/radio-buttons-react-native) - Animated radio buttons component for react native
 
-## [15. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [14. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### Czech Republic / Prague
 
@@ -130,13 +124,13 @@
 
 *   [p5.js Contributors Conference](https://p5js.org/community/) - Whilst most work happens online, every now and then artists, designers, developers and educators get together to advance the p5.js project.
 
-## [16. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
+## [15. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
 ### Museums & Collections
 
 *   [Invertebrates Collection of the Swedish Museum of Natural History](https://www.nrm.se/english/researchandcollections/zoology/collections/invertebrates.305_en.html) - Swedish Museum with collection of >10,000 flatworms, >2,000 nematodes, and select other parasite groups. Accessible through [GBIF](https://www.gbif.org/dataset/56aa0680-0c60-11dd-84cd-b8a03c50a862).
 
-## [17. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
+## [16. Awesome Ctf](/content/apsdehal/awesome-ctf/README.md)
 
 ### Forensics
 

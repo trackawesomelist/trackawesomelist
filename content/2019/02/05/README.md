@@ -27,7 +27,7 @@
 
 ### Development
 
-*   [SneakyThrow (⭐72)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
+*   [SneakyThrow (⭐73)](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
 
 ## [3. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
@@ -39,7 +39,7 @@
 
 ### ORM and Datamapping
 
-*   [ecto\_shortuuid (⭐23)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐35)](https://github.com/gpedic/ex_shortuuid).
+*   [ecto\_shortuuid (⭐23)](https://github.com/gpedic/ecto_shortuuid) - Ecto type which adds support for [ShortUUIDs (⭐36)](https://github.com/gpedic/ex_shortuuid).
 
 ## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -51,9 +51,9 @@
 
 ### Libraries / PHP
 
-*   [PHPMongo ODM (⭐238)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
+*   [PHPMongo ODM (⭐239)](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
 *   [PHPMongo Migrator (⭐29)](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
-*   [yadm (⭐84)](https://github.com/formapro/yadm) - Fast schemaless ODM
+*   [yadm (⭐83)](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ---
 

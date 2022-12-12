@@ -36,7 +36,7 @@
 
 ### Configuration
 
-*   [Envyable (⭐76)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
+*   [Envyable (⭐78)](https://github.com/philnash/envyable) - The simplest YAML to ENV config loader.
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -54,13 +54,13 @@
 
 ### Network / Barcode
 
-*   [SolarNetwork (⭐101)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
+*   [SolarNetwork (⭐100)](https://github.com/ThreeGayHub/SolarNetwork) - Elegant network abstraction layer.
 
 ## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Directly On Top Of A RMDB
 
-*   [pREST (⭐3.4k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
+*   [pREST (⭐3.5k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
 
 ### Mocking / Symfony2
 

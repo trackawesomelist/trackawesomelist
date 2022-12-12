@@ -49,7 +49,7 @@
 
 ### Packages / Command-line apps
 
-*   [wifi-password (⭐269)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+*   [wifi-password (⭐272)](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 
 ## [8. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

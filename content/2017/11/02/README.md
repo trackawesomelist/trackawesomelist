@@ -225,11 +225,11 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 ### Projects Using Vue.js / Open Source
 
-*   [grid-awesome (⭐22)](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property.
+*   [grid-awesome (⭐24)](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property.
 
 ### Components & Libraries / UI Components
 
-*   [vue-datetime (⭐982)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
+*   [vue-datetime (⭐983)](https://github.com/mariomka/vue-datetime) - Mobile friendly datetime picker for Vue. Supports date, datetime and time modes, i18n and disabling dates.
 
 ---
 

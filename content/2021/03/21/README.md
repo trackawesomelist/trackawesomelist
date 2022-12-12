@@ -10,7 +10,7 @@
 
 ### Libraries / New Libraries
 
-*   [Optimal Transport Tools (⭐218)](https://github.com/google-research/ott) - Toolbox that bundles utilities to solve optimal transport problems.
+*   [Optimal Transport Tools (⭐217)](https://github.com/google-research/ott) - Toolbox that bundles utilities to solve optimal transport problems.
 
 ## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Python / Natural Language Processing
 
-*   [DL Translate (⭐231)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
+*   [DL Translate (⭐237)](https://github.com/xhlulu/dl-translate) - A deep learning-based translation library between 50 languages, built with `transformers`.
 
 ## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-simple-acl (⭐76)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
+*   [vue-simple-acl (⭐84)](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 ---
 

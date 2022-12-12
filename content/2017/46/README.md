@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13 - Nov 19, 2017
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -34,7 +34,7 @@
 
 ### Tools and Apps / Habit Trackers
 
-*   [Loop Habit Tracker (⭐5.4k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+*   [Loop Habit Tracker (⭐5.6k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
 ## [6. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Packages / HTTP
 
-*   [cacheable-request (⭐256)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+*   [cacheable-request (⭐258)](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 ## [13. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -135,10 +135,10 @@
 
 ### Regular Expression
 
-*   [CppVerbalExpressions (⭐361)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
+*   [CppVerbalExpressions (⭐362)](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. \[MIT]
 *   [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. \[BSD]
-*   [RE2 (⭐7.3k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
-*   [SLRE (⭐499)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
+*   [RE2 (⭐7.4k)](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. \[BSD-3-Clause]
+*   [SLRE (⭐503)](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. \[GPLv2/Commercial]
 
 ## [17. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -235,7 +235,7 @@
 
 ### Authentication
 
-*   [ReCaptcha (⭐247)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
+*   [ReCaptcha (⭐250)](https://github.com/fjcaetano/ReCaptcha) - \[In]visible ReCaptcha for iOS.
 
 ### XML
 
@@ -243,7 +243,7 @@
 
 ### Network / Barcode
 
-*   [Conduit (⭐51)](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
+*   [Conduit (⭐52)](https://github.com/mindbody/Conduit) - Robust networking for web APIs.
 
 ### Socket / Barcode
 
@@ -251,16 +251,16 @@
 
 ### UI / Barcode
 
-*   [Mandoline (⭐882)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
+*   [Mandoline (⭐883)](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your 'picking' needs.
 
 ### Menu / Barcode
 
-*   [FlowingMenu (⭐972)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
-*   [HHFloatingView (⭐95)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
+*   [FlowingMenu (⭐974)](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects.
+*   [HHFloatingView (⭐94)](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐782)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐788)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ## [30. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -482,19 +482,29 @@ Topics: WebAPI, Microservices, JavaScript\
 *   [Why TensorFlow will change the Game for AI](https://archive.fo/o9asj)
 *   [Coca-Cola's Image Recognition App](https://developers.googleblog.com/2017/09/how-machine-learning-with-tensorflow.html) Coca-Cola's product code image recognizing neural network with user input feedback loop.
 
-## [43. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [43. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
+
+### Elixir / Non-X86
+
+*   [Joy of Elixir](https://joyofelixir.com) - Ryan Bigg (HTML) - [Source (⭐128)](https://github.com/radar/joyofelixir) (:construction: *in process*)
+
+## [44. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Python / [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
 
 *   [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Linting, Debugging (multi threaded, web apps), Intellisense, auto-completion, code formatting, snippets, unit testing, and more.
 
-## [44. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [45. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### PCB Batching Services / Eagle
 
 *   [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 
-## [45. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [46. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Garbage collectors
 
@@ -513,7 +523,7 @@ Topics: WebAPI, Microservices, JavaScript\
 
 *   [grappa (⭐62)](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 
-## [46. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [47. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Integrated Development Environments
 
@@ -535,17 +545,17 @@ Topics: WebAPI, Microservices, JavaScript\
 
 *   [RStudio Addins (⭐741)](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 
-## [47. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [48. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2014
 
 *   [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) \[40:18]
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [49. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [AmmoBin.ca (⭐18)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
+*   [AmmoBin.ca (⭐17)](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
 *   [vue-webpack-buefy (⭐25)](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 
 ### Components & Libraries / UI Utilities

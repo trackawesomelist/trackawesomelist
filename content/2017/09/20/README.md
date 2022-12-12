@@ -57,7 +57,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-threejs (⭐715)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+*   [vue-threejs (⭐721)](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ## [6. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
@@ -69,8 +69,8 @@
 
 ### Hardware
 
-*   [keyboard (⭐3.1k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-*   [mouse (⭐684)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
+*   [keyboard (⭐3.2k)](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+*   [mouse (⭐710)](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 
 ---
 

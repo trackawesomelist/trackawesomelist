@@ -16,7 +16,7 @@
 
 ### CMS
 
-*   [Composite C1 (⭐247)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
+*   [Composite C1 (⭐245)](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
 
 ### Testing
 

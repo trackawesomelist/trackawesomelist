@@ -26,7 +26,7 @@
 
 ### Others / Third-party APIs
 
-*   [Petalisp (⭐256)](https://github.com/marcoheisig/Petalisp) - an attempt to
+*   [Petalisp (⭐260)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
     JIT-compiling array definitions. It works on a more
     fundamental level than NumPy, by providing even more powerful
@@ -72,7 +72,7 @@
 
 ## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
-### Invoice / European VAT
+### Invoice / Generators
 
 *   [Refact](http://en.userstudio.fr/projects/refact/) - A design project trying to revamp a phone bill with infographics.
 
@@ -121,10 +121,6 @@
 
 *   [Blazor workshop (⭐3k)](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square\&cacheSeconds=604800\&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/), Blazzing Pizza.
 
-### Individual components / Others
-
-*   [BlazorInputFile (⭐246)](https://github.com/SteveSandersonMS/BlazorInputFile) - ![GitHub stars](https://img.shields.io/github/stars/SteveSandersonMS/BlazorInputFile?style=flat-square\&cacheSeconds=604800\&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/SteveSandersonMS/BlazorInputFile?style=flat-square\&cacheSeconds=86400) A file input component for Blazor applications, by Steve Sanderson.
-
 ## [14. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Related / Awesome Lists
@@ -142,9 +138,9 @@
 
 ### Tools / Dolby
 
-*   [slhck/ffmpeg-bitrate-stats (⭐52)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+*   [slhck/ffmpeg-bitrate-stats (⭐55)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
 *   [slhck/ffmpeg-debug-qp (⭐62)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
-*   [slhck/ffmpeg-quality-metrics (⭐200)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
+*   [slhck/ffmpeg-quality-metrics (⭐205)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
 *   [slhck/scenecut-extractor (⭐41)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
 
 ## [17. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
@@ -157,7 +153,7 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐239)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐248)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -169,7 +165,7 @@
 
 ### Math
 
-*   [Klein (⭐621)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐629)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ---
 

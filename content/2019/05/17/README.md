@@ -40,7 +40,7 @@
 
 ### Media
 
-*   [Icons (⭐466)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
+*   [Icons (⭐478)](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
 ## [7. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 

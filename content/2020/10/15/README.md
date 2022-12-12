@@ -85,7 +85,7 @@
 
 ### Serialization
 
-*   [mrpt-serialization (⭐1.5k)](https://github.com/mrpt/mrpt/) - Versioned serialization to binary or text formats. \[BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
+*   [mrpt-serialization (⭐1.6k)](https://github.com/mrpt/mrpt/) - Versioned serialization to binary or text formats. \[BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

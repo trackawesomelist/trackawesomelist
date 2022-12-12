@@ -101,7 +101,7 @@
 
 ### Machine Learning
 
-*   [xgboost (⭐23k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
+*   [xgboost (⭐24k)](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 
 ## [11. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

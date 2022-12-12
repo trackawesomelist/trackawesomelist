@@ -14,11 +14,11 @@
 
 ### Bots
 
-*   [Telegram Bot SDK (⭐349)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+*   [Telegram Bot SDK (⭐350)](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
 
 ### Keychain / Barcode
 
-*   [Latch (⭐57)](https://github.com/endocrimes/Latch) - A simple Keychain Wrapper for iOS.
+*   [Latch (⭐56)](https://github.com/endocrimes/Latch) - A simple Keychain Wrapper for iOS.
 
 ### Thread / Barcode
 

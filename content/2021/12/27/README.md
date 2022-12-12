@@ -117,7 +117,7 @@
 
 ### Tools
 
-*   [CSharpier (⭐404)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐44k)](https://github.com/prettier/prettier) printing process.
+*   [CSharpier (⭐491)](https://github.com/belav/csharpier) - An opinionated code formatter for c# that is based on the [Prettier (⭐44k)](https://github.com/prettier/prettier) printing process.
 
 ## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Audio
 
-*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐3.8k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+*   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [BlackHole (⭐4.1k)](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -165,11 +165,11 @@
 
 ### IR Tools Collection / Incident Management
 
-*   [Catalyst (⭐120)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
+*   [Catalyst (⭐126)](https://github.com/SecurityBrewery/catalyst) - A free SOAR system that helps to automate alert handling and incident response processes.
 
 ### IR Tools Collection / Memory Analysis Tools
 
-*   [Orochi (⭐135)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for collaborative forensic memory dump analysis.
+*   [Orochi (⭐136)](https://github.com/LDO-CERT/orochi) - Orochi is an open source framework for collaborative forensic memory dump analysis.
 
 ## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -181,7 +181,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [luisiacc/gruvbox-baby (⭐191)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
+*   [luisiacc/gruvbox-baby (⭐215)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full treesitter support.
 
 ## [12. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 

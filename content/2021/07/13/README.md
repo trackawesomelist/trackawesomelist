@@ -27,7 +27,7 @@
 
 ### Examples
 
-*   [Qui - Vue 2/3 Design system (⭐196)](https://github.com/Qvant-lab/qui-max)
+*   [Qui - Vue 2/3 Design system (⭐199)](https://github.com/Qvant-lab/qui-max)
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Color / Diagnostics
 
-*   [folke/twilight.nvim (⭐598)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
+*   [folke/twilight.nvim (⭐651)](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using TreeSitter.
 
 ## [6. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
@@ -71,7 +71,7 @@
 
 ### FIAT
 
-*   [Debitum (⭐55)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
+*   [Debitum (⭐57)](https://github.com/Marmo/debitum) - With Debitum you can track all kinds of IOUs, be it money or lent items.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Get Started
 
-*   [create-vite (⭐49k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
+*   [create-vite (⭐50k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 ### Libraries / Community
 

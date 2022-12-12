@@ -95,7 +95,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.2k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -106,7 +106,7 @@
 ### Components & Libraries / UI Components
 
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
-*   [vue-page-guide (⭐49)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+*   [vue-page-guide (⭐48)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
 ## [6. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

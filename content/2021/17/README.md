@@ -16,19 +16,19 @@
 
 ### Asynchronous Event Loop
 
-*   [Ichor (⭐70)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
+*   [Ichor (⭐87)](https://github.com/volt-software/ichor) - An event queue which focuses on thread safety and provides dependency injection. \[MIT]
 
 ## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Databases
 
-*   [Cassandra (⭐200)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
+*   [Cassandra (⭐206)](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Transpiling
 
-*   [perf-monitor-rs (⭐150)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
+*   [perf-monitor-rs (⭐155)](https://github.com/larksuite/perf-monitor-rs) — A toolkit designed to be a foundation for applications to monitor their performance. [![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Form Components / Select
 
-*   [react-column-select (⭐10)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
+*   [react-column-select (⭐11)](https://github.com/chr-ge/react-column-select) - A column select component built for react.
 
 ## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -79,9 +79,9 @@
 
 ### Projects
 
-*   [Fullstack-Rust (⭐56)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
+*   [Fullstack-Rust (⭐62)](https://github.com/vascokk/fullstack-rust) - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
 
-### Books / Wasm
+### Books / Frameworks
 
 *   [Creative Projects for Rust Programmers](https://www.oreilly.com/library/view/creative-projects-for/9781789346220/) - Chapter 5, `Creating a Client-Side WebAssembly App Using Yew`.
 
@@ -108,7 +108,18 @@
 
 *   [nnAudio (⭐736)](https://github.com/KinWaiCheuk/nnAudio) [:octocat: (⭐736)](https://github.com/KinWaiCheuk/nnAudio) [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
 
-## [15. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### App Inventor
+
+*   [Absolute App Inventor 2](https://amerkashi.wordpress.com/2015/02/16/absolute-app-inventor-2-book/) - Hossein Amerkashi
+*   [App Inventor 2](http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
+
+### Bash / Non-X86
+
+*   [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
+
+## [16. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -122,19 +133,19 @@
 
 *   [cdkpatterns/serverless :fire::fire::fire::fire: (⭐1.9k)](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
 
-## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [17. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Code Analysis
 
-*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐164)](https://github.com/axelson/dep_viz/)).
+*   [DepViz](https://depviz.jasonaxelson.com/) - A visual tool to help developers understand Elixir recompilation in their projects. ([Code (⭐169)](https://github.com/axelson/dep_viz/)).
 
-## [17. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [18. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
 *   A4AI Mobile Broadband Data Costs - ([2020](https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni))([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
 
-## [18. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [19. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra History
 
@@ -322,19 +333,19 @@
 
 *   [HAPI Cassandra (⭐5)](https://github.com/victorcouste/hapi-cassandra) - Simple REST API with hapi Node.js framework on top of a Cassandra database.
 
-## [19. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [20. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Visualization
 
 *   [lux (⭐4.3k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 
-## [20. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [21. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Go / Erlang
 
 *   [go-zero (⭐21k)](https://github.com/tal-tech/go-zero) - A web and rpc distributed system development framework.
 
-## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Blogging/news
 
@@ -355,24 +366,24 @@
 
 *   [WesternFriend (⭐31)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
-## [22. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
+## [23. Awesome ad Free](/content/johnjago/awesome-ad-free/week/README.md)
 
 ### Alternatives / Web Apps
 
 *   [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 
-## [23. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [24. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
 *   Other API Interop and Implementations
-    *   [visor (⭐37)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
+    *   [visor (⭐38)](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. \[MIT]
     *   [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. \[Apache License 2.0]
     *   [rostkatze (⭐80)](https://github.com/msiglreith/rostkatze) - C++ implementation of Vulkan sitting on D3D12 🐈\[Apache License 2.0]
     *   [VK9](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
-    *   [VUDA (⭐440)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
-    *   [clspv (⭐493)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
-    *   [MoltenVK (⭐3.6k)](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. \[Apache-2.0]
+    *   [VUDA (⭐443)](https://github.com/jgbit/vuda) - header-only lib that provides a CUDA Runtime API interface. \[MIT]
+    *   [clspv (⭐500)](https://github.com/google/clspv) - prototype compiler for a subset of OpenCL C to Vulkan compute shaders. \[Apache License 2.0]
+    *   [MoltenVK (⭐3.7k)](https://github.com/KhronosGroup/MoltenVK/) - run Vulkan on iOS and macOS. \[Apache-2.0]
     *   [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink) - OpenGL implementation on top of Vulkan, part of Mesa project. \[MIT]
     *   [glo / OpenGL Overload (⭐277)](https://github.com/g-truc/glo) - OpenGL implementation on top of Vulkan.
     *   [gfx-portability (⭐354)](https://github.com/gfx-rs/portability) - Vulkan Portability implementation on Metal and D3D12, based on [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx/).
@@ -381,7 +392,7 @@
 
 *   [gfx-rs (⭐5.2k)](https://github.com/gfx-rs/gfx) - A low-overhead Vulkan-like GPU API for Rust. \[Apache License 2.0]
 
-## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -389,15 +400,15 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-next-rx (⭐30)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
+*   [vue-next-rx (⭐32)](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 
-## [25. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [26. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Application layer
 
-*   [navigation (⭐1.2k)](https://github.com/ros-planning/navigation2/) - ROS2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
+*   [navigation (⭐1.3k)](https://github.com/ros-planning/navigation2/) - ROS2 Navigation stack. ![navigation](https://img.shields.io/github/stars/ros-planning/navigation2.svg)
 
-## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -413,13 +424,13 @@
 
 ### Software / Genealogy
 
-*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐149)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
+*   [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom\&ged=demo), [Source Code (⭐169)](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 ### Software / Miscellaneous
 
-*   [Orchest](https://www.orchest.io/) - A new kind of IDE for Data Science. ([Demo](https://cloud.orchest.io), [Source Code (⭐3.5k)](https://github.com/orchest/orchest)) `AGPL-3.0` `Docker`
+*   [Orchest](https://www.orchest.io/) - A new kind of IDE for Data Science. ([Demo](https://cloud.orchest.io), [Source Code (⭐3.6k)](https://github.com/orchest/orchest)) `AGPL-3.0` `Docker`
 
-## [27. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [28. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Tools / Plugins
 
@@ -429,14 +440,14 @@
 
 *   [gatling.g8 (⭐7)](https://github.com/gatling/gatling.g8) - Giter8 template for Gatling.
 
-## [28. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Tools
 
 *   [SmartCode (⭐526)](https://github.com/Ahoo-Wang/SmartCode) – SmartCode= IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including \[Code generator])
 *   [Typin (⭐203)](https://github.com/adambajguz/Typin) - Simple to use declarative framework for interactive CLI applications and command line tools (direct mode) that has its roots in CliFx.
 
-## [29. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [30. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Finance
 
@@ -458,13 +469,13 @@
 
 *   [Scriptable Supercharges iOS 14 Widgets Like No Other App](https://gizmodo.com/scriptable-supercharges-ios-14-widgets-like-no-other-ap-1845717081) - Guideline for setting up a widget.
 
-## [30. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
+## [31. Awesome Seml](/content/SE-ML/awesome-seml/week/README.md)
 
 ### Governance
 
 *   [A Human-Centered Interpretability Framework Based on Weight of Evidence](https://arxiv.org/pdf/2104.13299.pdf) 🎓
 
-## [31. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [32. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Python
 
@@ -474,30 +485,11 @@
 
 *   [Top 45 Data Science Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/data-science-interview-questions/)
 
-## [32. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### Tutorials
-
-*   [Tetris in Blazor](https://exceptionnotfound.net/tetris-in-blazor-webassembly/) - April, 2021 - [Part 1](https://exceptionnotfound.net/tetris-in-blazor-webassembly/), [Part 2](https://exceptionnotfound.net/tetris-in-blazor-part-2-cells-the-grid-and-the-game-state/), [Part 3](https://exceptionnotfound.net/tetris-in-blazor-part-3-tetrominos/), [Part 4](https://exceptionnotfound.net/tetris-in-blazor-part-4-displaying-the-grid-and-a-falling-tetromino/), [Part 5](https://exceptionnotfound.net/tetris-in-blazor-part-5-controls-upcoming-tetrominos-and-clearing-rows/), [Part 6](https://exceptionnotfound.net/tetris-in-blazor-part-6-scoring-levels-music-and-other-features/). [Source code (⭐167)](https://github.com/exceptionnotfound/BlazorGames) ![stars](https://img.shields.io/github/stars/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/exceptionnotfound/BlazorGames?style=flat-square\&cacheSeconds=86400).
-*   [Using MudBlazor to Create Reach and Functional Product’s Details Page](https://code-maze.com/using-mudblazor-to-create-product-details-page/) - April 27, 2021 - Using MudBlazor to Create Reach and Functional Product’s Details Page.
-*   [Building a Dashboard](https://www.claudiobernasconi.ch/2021/04/23/building-a-dashboard-blazor/) - April 23, 2021 - Tutorial on how to build a dashboard.
-*   [Rendering dynamic content in Blazor Wasm using DynamicComponent](https://blog.elmah.io/rendering-dynamic-content-in-blazor-wasm-using-dynamiccomponent/) - April 20, 2021 - Rendering dynamic content in Blazor Wasm using DynamicComponent.
-*   [Blazor Material Table – Server-Side Paging, Searching, Sorting](https://code-maze.com/blazor-material-table-paging-searching-sorting/) - April 19, 2021 - Blazor Material Table – Server-Side Paging, Searching, Sorting.
-
-### Articles / Others
-
-*   [Modular Blazor App Framework Oqtane Boosts Templates](https://visualstudiomagazine.com/articles/2021/04/29/oqtane-update.aspx) - April 29, 2021 - Modular Blazor App Framework Oqtane Boosts Templates.
-*   [Sands of MAUI: Issue #6](https://www.telerik.com/blogs/sands-of-maui-issue-6) - April 26, 2021 - Sands of MAUI: Issue #6. BlazorWebView for WPF/WinForms.
-*   [Setting Up Sass with Blazor](https://edcharbeneau.com/2021-04-24-setting-up-sass-with-blazor/) - April 24, 2021 - Setting Up Sass with Blazor, by Ed Charbeneau.
-*   [IntersectionObserver WebApi](https://codyanhorn.tech/blog/blazor/2021/04/24/Blazor-IntersectionObserver-WebApi.html) - April 24, 2021 - This article will go over the IntersectionObserver WebApi and how to use it within the context of a Blazor application. [Source code (⭐2)](https://github.com/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver) ![stars](https://img.shields.io/github/stars/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/canhorn/EventHorizon.Blazor.WebApi.IntersectionObserver?style=flat-square\&cacheSeconds=86400). [Demo](https://proud-coast-03b6fa410.azurestaticapps.net/).
-*   [Introducing KlipTok](https://jeffreyfritz.com/2021/04/introducing-kliptok/) - April 20, 2021 - Introducing KlipTok – Social Media fun for Twitch Clips.
-*   [An Easier Blazor Debounce](https://blog.jeremylikness.com/blog/an-easier-blazor-debounce/) - April 12, 2021 - Tick-free bouncing. [Source code (⭐9)](https://github.com/JeremyLikness/BlazorDebounce) ![stars](https://img.shields.io/github/stars/JeremyLikness/BlazorDebounce?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JeremyLikness/BlazorDebounce?style=flat-square\&cacheSeconds=86400).
-
 ## [33. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
-*   [vivu (⭐55)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
+*   [vivu (⭐57)](https://github.com/logustra/vivu) - Opinionated scalable vue boilerplate.
 
 ## [34. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
@@ -525,13 +517,13 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-beat (⭐1.2k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
+*   [django-celery-beat (⭐1.3k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
 ## [38. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Native Libraries / Charts
 
-*   [uncompress-react-native (⭐39)](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
+*   [uncompress-react-native (⭐40)](https://github.com/didisouzacosta/uncompress-react-native) - Simple library to decompress files .zip, .rar, .cbz, .cbr in React Native.
 
 ## [39. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -738,7 +730,7 @@
 
 ### Libraries
 
-*   [Distrax (⭐356)](https://github.com/deepmind/distrax) - Reimplementation of TensorFlow Probability, containing probability distributions and bijectors. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
+*   [Distrax (⭐370)](https://github.com/deepmind/distrax) - Reimplementation of TensorFlow Probability, containing probability distributions and bijectors. <img src="https://img.shields.io/github/stars/deepmind/distrax?style=social" align="center">
 *   [cvxpylayers (⭐1.4k)](https://github.com/cvxgrp/cvxpylayers) - Construct differentiable convex optimization layers. <img src="https://img.shields.io/github/stars/cvxgrp/cvxpylayers?style=social" align="center">
 *   [TensorLy (⭐1.3k)](https://github.com/tensorly/tensorly) - Tensor learning made simple. <img src="https://img.shields.io/github/stars/tensorly/tensorly?style=social" align="center">
 

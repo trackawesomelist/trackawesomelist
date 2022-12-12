@@ -18,7 +18,7 @@
 
 ### Integrations with Third Party Services / Mouse Events
 
-*   [react-firebase-hooks (⭐2.9k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
+*   [react-firebase-hooks (⭐3k)](https://github.com/csfrequency/react-firebase-hooks) - Hooks to integrate firebase in your application.
 
 ## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -38,7 +38,7 @@
 
 ### Authentication and OAuth
 
-*   [keto (⭐3.6k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+*   [keto (⭐3.8k)](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -57,7 +57,7 @@
     *   BigQuery - 1 TB of querying per month, 10 GB of storage each month
     *   Cloud Build - 120 build-minutes per day
     *   Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-    *   [Google Collab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
+    *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
     *   Full, detailed list - <https://cloud.google.com/free>
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
@@ -84,11 +84,11 @@
 
 ### Plugins for Minecraft
 
-*   [No-Chat-Reports (⭐806)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
+*   [No-Chat-Reports (⭐821)](https://github.com/Aizistral-Studios/No-Chat-Reports) - Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account.
 
 ### Audio
 
-*   [Jetispot (⭐143)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
+*   [Jetispot (⭐156)](https://github.com/iTaysonLab/jetispot) - Experimental UNOFFICIAL Spotify client for Android built on librespot-java + Jetpack Compose
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -24,7 +24,7 @@
 
 ### Tools and Apps / Task Management
 
-*   [Pomolectron (⭐558)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐562)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 
 ## [4. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/README.md)
 

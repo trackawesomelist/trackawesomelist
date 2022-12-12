@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 12, 2021
 
-15 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,17 +38,17 @@
 
 ### Arcade
 
-*   [OpenTyrian (⭐276)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
+*   [OpenTyrian (⭐281)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
 
 ### Online
 
-*   [Ryzom Core (⭐256)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+*   [Ryzom Core (⭐259)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐10k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐11k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 ## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [BluetoothCommunicatorExample (⭐34)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐75)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
+*   [BluetoothCommunicatorExample (⭐39)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐83)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 
 ## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -79,7 +79,7 @@
 ### WebAssembly
 
 *   [lumen (⭐3.1k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
-*   [wasmex (⭐293)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+*   [wasmex (⭐305)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -101,22 +101,22 @@
 
 ### React Tools / React Libraries
 
-*   [react-border-wrapper (⭐154)](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
-*   [react-magic (⭐920)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
+*   [react-border-wrapper (⭐155)](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
+*   [react-magic (⭐919)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
 *   [react-toolbox (⭐8.7k)](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification
-*   [tcomb-react (⭐201)](https://github.com/gcanti/tcomb-react) - Library allowing you to check all the props of your React components
-*   [react-responsive (⭐6.4k)](https://github.com/wearefractal/react-responsive) - Media queries in react for responsive design
+*   [tcomb-react (⭐200)](https://github.com/gcanti/tcomb-react) - Library allowing you to check all the props of your React components
+*   [react-responsive (⭐6.5k)](https://github.com/wearefractal/react-responsive) - Media queries in react for responsive design
 *   [riotjs (⭐15k)](https://github.com/muut/riotjs) - A React-like, 3.5KB user interface library
 *   [Maple.js (⭐429)](https://github.com/Wildhoney/Maple.js) - Bringing the concept of web-components to React
-*   [react-i13n (⭐346)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application
-*   [react-icons (⭐8.7k)](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
+*   [react-i13n (⭐361)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application
+*   [react-icons (⭐8.9k)](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
 *   [Keo (⭐225)](https://github.com/Wildhoney/Keo) - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...
 *   [Bit (⭐16k)](https://github.com/teambit/bit) - A virtual repository for managing and using react and other web components across applications
 *   [AtlasKit](https://atlaskit.atlassian.com/) - Atlassian's React UI library
 *   [ReactiveSearch (⭐4.7k)](https://github.com/appbaseio/reactivesearch) - UI components library for Elasticsearch
 *   [Slate (⭐26k)](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 *   [react-json-schema (⭐160)](https://github.com/TechniqueSoftware/react-json-schema) - Construct React elements from JSON by mapping JSON definitions to React components that you expose.
-*   [react-lodash (⭐345)](https://github.com/typicode/react-lodash) - Lodash as React components
+*   [react-lodash (⭐347)](https://github.com/typicode/react-lodash) - Lodash as React components
 *   [react-helmet (⭐17k)](https://github.com/nfl/react-helmet) - A document head manager for React
 *   [react-desktop (⭐9.4k)](https://github.com/gabrielbull/react-desktop) - OS X and Windows UI components built with React
 
@@ -125,16 +125,16 @@
 *   [om (⭐6.7k)](https://github.com/swannodette/om) - ClojureScript interface
 *   [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
 *   [ngReact (⭐2.6k)](https://github.com/davidchang/ngReact) - React Components in Angular
-*   [coffee-react-transform (⭐435)](https://github.com/jsdf/coffee-react-transform) - Provides React JSX support for Coffeescript
+*   [coffee-react-transform (⭐434)](https://github.com/jsdf/coffee-react-transform) - Provides React JSX support for Coffeescript
 *   [sprockets-coffee-react (⭐84)](https://github.com/jsdf/sprockets-coffee-react) - Sprockets preprocessor for CJSX
 *   [react-kup (⭐22)](https://github.com/snd/react-kup) - A simple, non-intrusive alternative to jsx for coffeescript
 *   [turbo-react (⭐276)](https://github.com/ssorallen/turbo-react) - Combine Turbolinks and React to apply DOM diffs
-*   [react-bacon (⭐117)](https://github.com/jamesmacaulay/react-bacon) - A little module for using React with Bacon.js
-*   [msx (⭐367)](https://github.com/insin/msx) - React's JSX Transformer, tweaked to output calls to Mithril
+*   [react-bacon (⭐116)](https://github.com/jamesmacaulay/react-bacon) - A little module for using React with Bacon.js
+*   [msx (⭐366)](https://github.com/insin/msx) - React's JSX Transformer, tweaked to output calls to Mithril
 *   [react-backbone (⭐131)](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react
 *   [NestedReact (⭐79)](https://github.com/Volicon/NestedReact/) - transparent integration with Backbone Views and NestedTypes models
 *   [backbone-reaction (⭐20)](https://github.com/jhudson8/backbone-reaction) - React, Backbone and then some
-*   [react.backbone (⭐843)](https://github.com/usepropeller/react.backbone) - Plugin for React to make Backbone migration easier
+*   [react.backbone (⭐840)](https://github.com/usepropeller/react.backbone) - Plugin for React to make Backbone migration easier
 *   [reactbone (⭐43)](https://github.com/andrejewski/reactbone) - React extensions for Backbone
 *   [backbone-react-ui (⭐18)](https://github.com/securingsincity/backbone-react-ui) - React components for use with backbone and backbone paginator
 *   [react-events (⭐82)](https://github.com/jhudson8/react-events) - Declarative managed event bindings for react components
@@ -143,14 +143,14 @@
 *   [react-topcoat by @arnemart (⭐7)](https://github.com/arnemart/react-topcoat) - A collection of React components for Topcoat
 *   [reactdown (⭐114)](https://github.com/andreypopp/reactdown) - Write React components using markdown syntax
 *   [react-jade (⭐553)](https://github.com/ForbesLindesay/react-jade) - Compile Jade to React JavaScript
-*   [jade-react (⭐152)](https://github.com/duncanbeevers/jade-react) - Compile Jade templates to React.DOM expressions
+*   [jade-react (⭐151)](https://github.com/duncanbeevers/jade-react) - Compile Jade templates to React.DOM expressions
 *   [gulp-jade-react (⭐23)](https://github.com/duncanbeevers/gulp-jade-react) - Compile Jade templates into React de-sugared JSX with Gulp
 *   [sbt-reactjs (⭐79)](https://github.com/ddispaltro/sbt-reactjs) - React SBT Plugin using npm
 *   [scalajs-react (⭐1.6k)](https://github.com/japgolly/scalajs-react) - A guilty affair between Scala.js and Facebook's React
 *   [react-xtags (⭐48)](https://github.com/vjeux/react-xtags/) - Using React to implement xtags
 *   [jreact (⭐166)](https://github.com/KnisterPeter/jreact) - React on server-side Java (with Rhino or Nashorn)
 *   [React.hiccup (⭐77)](https://github.com/lantiga/react.hiccup) - A complete replacement for JSX written in sweet.js
-*   [react-play (⭐214)](https://github.com/ssorallen/react-play) - Rendering React components in the Play Framework with JDK8's Nashorn
+*   [react-play (⭐213)](https://github.com/ssorallen/react-play) - Rendering React components in the Play Framework with JDK8's Nashorn
 *   [rx-react (⭐621)](https://github.com/fdecampredon/rx-react) - Utilities to works with React in a RxJS
 *   [react-with-di (⭐30)](https://github.com/vojtajina/react-with-di) - A hacked prototype of React.js with DI
 *   [reactfire (⭐3.2k)](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration
@@ -159,13 +159,13 @@
 *   [react-packery-mixin (⭐20)](https://github.com/eiriklv/react-packery-mixin) - Standalone mixin for Packery (Metafizzy)
 *   [react-dropzone (⭐9.3k)](https://github.com/paramaggarwal/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 *   [aframe-react (⭐9)](https://github.com/ngokevin/aframe) - A-Frame VR + React
-*   [react-three-fiber (⭐20k)](https://github.com/react-spring/react-three-fiber) - A react reconciler for threejs (web and react-native)
+*   [react-three-fiber (⭐21k)](https://github.com/react-spring/react-three-fiber) - A react reconciler for threejs (web and react-native)
 *   [react-three (⭐1.5k)](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js
 *   [react-three-renderer (⭐1.5k)](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React
 *   [react-threejs (⭐76)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
-*   [react-masonry-css (⭐769)](https://github.com/paulcollett/react-masonry-css) - Fast Masonry layout powered by CSS, dependency free
-*   [react-captcha (⭐623)](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
-*   [reaptcha (⭐379)](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
+*   [react-masonry-css (⭐779)](https://github.com/paulcollett/react-masonry-css) - Fast Masonry layout powered by CSS, dependency free
+*   [react-captcha (⭐626)](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
+*   [reaptcha (⭐384)](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
 *   [react-recaptcha-that-works (⭐14)](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
 
 ### React Tools / Forms
@@ -178,7 +178,7 @@
 *   [react-autocomplete by @eliseumds (⭐102)](https://github.com/eliseumds/react-autocomplete) - Just tasting some ReactJS + RxJS
 *   [react-autocomplete by @prometheusresearch (⭐39)](https://github.com/prometheusresearch/react-autocomplete) - Autocomplete widget based on React
 *   [instatype by @gragland (⭐47)](https://github.com/gragland/instatype) - Simple react autocomplete component
-*   [React Bootstrap Typeahead (⭐918)](https://github.com/ericgio/react-bootstrap-typeahead) - A React-based typeahead that relies on Bootstrap for styling and was originally inspired by Twitter's typeahead.js.
+*   [React Bootstrap Typeahead (⭐923)](https://github.com/ericgio/react-bootstrap-typeahead) - A React-based typeahead that relies on Bootstrap for styling and was originally inspired by Twitter's typeahead.js.
 
 ### React Tools / Graphics
 
@@ -192,24 +192,24 @@
 ### React Tools / Data Managing
 
 *   [ReSub (⭐612)](https://github.com/Microsoft/ReSub) - A library for writing better React components and data stores
-*   [RxDB (⭐18k)](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
+*   [RxDB (⭐19k)](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
 
 ### React Tools / Maps
 
 *   [react-googlemaps (⭐222)](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
 *   [react-maps (⭐44)](https://github.com/matnel/react-maps) - A map component for React
 *   [react-google-maps (⭐4.5k)](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
-*   [react-gmaps (⭐316)](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js
-*   [react-map-gl (⭐6.8k)](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
+*   [react-gmaps (⭐314)](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js
+*   [react-map-gl (⭐6.9k)](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
 *   [google-map-react (⭐5.9k)](https://github.com/istarkov/google-map-react) - Isomorphic google map React component
 *   [react-mapbox-gl (⭐1.8k)](https://github.com/alex3165/react-mapbox-gl) - A mapbox-gl-js wrapper to make the API react friendly
 *   [react-leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
-*   [react-geo (⭐277)](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
+*   [react-geo (⭐283)](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
 *   [pigeon-maps (⭐3.3k)](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
 
 ### React Native Boilerplates / Charts
 
-*   [Ignite (⭐14k)](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+*   [Ignite (⭐15k)](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 
 ### React Native Awesome Components / Charts
 
@@ -220,11 +220,11 @@
 *   [react-native-icons (⭐1.2k)](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native
 *   [react-native-vector-icons (⭐16k)](https://github.com/oblador/react-native-vector-icons) - 3000 Customizable Icons for React Native with support for NavBar/TabBar
 *   [react-native-google-signin (⭐2.6k)](https://github.com/apptailor/react-native-google-signin) - Google Signin for React Native
-*   [react-native-fast-image (⭐7.2k)](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component
+*   [react-native-fast-image (⭐7.3k)](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component
 
 ### Redux Tools / Charts
 
-*   [redux-toolkit (⭐8.7k)](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
+*   [redux-toolkit (⭐8.9k)](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 *   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 *   [redux-undo (⭐2.8k)](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
 
@@ -246,19 +246,13 @@
 *   [graphql-relay-js (⭐1.5k)](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay
 *   [react-router-relay (⭐558)](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router
 *   [relay-local-schema (⭐251)](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server
-*   [relay-codemod (⭐7.9k)](https://github.com/facebook/jscodeshift) - Codemod scripts based for on jsodeshift to update Relay APIs
+*   [relay-codemod (⭐8k)](https://github.com/facebook/jscodeshift) - Codemod scripts based for on jsodeshift to update Relay APIs
 
-## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Tutorials
-
-*   [Boids in your Browser with Blazor](https://swharden.com/blog/2021-01-08-blazor-boids) - January 8, 2021 - How to model graphics in C# and render them on a HTML Canvas with JavaScript. [Source code (⭐690)](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-08-blazor-boids/BlazorBoids) ![stars](https://img.shields.io/github/stars/swharden/Csharp-Data-Visualization?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/swharden/Csharp-Data-Visualization?style=flat-square\&cacheSeconds=86400).
-
-## [15. Awesome List](/content/sindresorhus/awesome/README.md)
+## [14. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Veganism (⭐43)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+*   [Veganism (⭐45)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
 ---
 

@@ -42,7 +42,7 @@
 
 ### Idiomatic examples
 
-*   [Dash recipes (⭐934)](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
+*   [Dash recipes (⭐951)](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
 
 ## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Python / Natural Language Processing
 
-*   [BigARTM (⭐630)](https://github.com/bigartm/bigartm) - topic modelling platform.
+*   [BigARTM (⭐632)](https://github.com/bigartm/bigartm) - topic modelling platform.
 
 ## [6. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

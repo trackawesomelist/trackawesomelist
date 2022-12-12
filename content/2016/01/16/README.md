@@ -16,7 +16,7 @@
 
 ### Files / Runner
 
-*   [diff2html (⭐2.2k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+*   [diff2html (⭐2.3k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
 ## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

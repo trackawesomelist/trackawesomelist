@@ -14,16 +14,16 @@
 
 ### Software / Content Management Systems (CMS)
 
-*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐2.6k)](https://github.com/pimcore/pimcore)) `GPL-3.0-or-later` `PHP`
-*   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐13k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
+*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐2.7k)](https://github.com/pimcore/pimcore)) `GPL-3.0-or-later` `PHP`
+*   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐14k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
 
 ### Software / Internet of Things (IoT)
 
-*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.2k)](https://github.com/domoticz/domoticz), [Clients (⭐98)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`
+*   [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code (⭐3.2k)](https://github.com/domoticz/domoticz), [Clients (⭐96)](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`
 
 ### Software / Pastebins
 
-*   [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code (⭐169)](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
+*   [cryptonote](https://cryptonote.me/) - Simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code (⭐170)](https://github.com/alainmeier/cryptonote)) `MIT` `Ruby`
 
 ### Software / Software Development - Project Management
 

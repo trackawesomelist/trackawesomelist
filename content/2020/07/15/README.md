@@ -162,34 +162,40 @@
 ### Formatters / Testing Tools
 
 *   [badger (⭐4)](https://github.com/brettz9/eslint-formatter-badger) - Make SVG-based badges summarizing ESLint results (e.g., for use on a README).
-*   [git-log (⭐36)](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash.
+*   [git-log (⭐37)](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash.
 *   [github (⭐76)](https://github.com/hipstersmoothie/eslint-formatter-github) - See ESLint errors and warnings directly in pull requests.
 *   [gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - Output ESLint results in the GitLab code quality results.
-*   [mo (⭐31)](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter and also for delightful reading experience.
+*   [mo (⭐35)](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter and also for delightful reading experience.
 *   [summary-chart (⭐7)](https://github.com/davidjbradshaw/eslint-formatter-summary-chart) - Format ESLint output into a bar chart.
 
-## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Individual components / Others
+
+*   [Blorc.PatternFly (⭐30)](https://github.com/WildGums/Blorc.PatternFly) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.PatternFly?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.PatternFly?style=flat-square\&cacheSeconds=86400) Blazor wrappers for [PatternFly](https://www.patternfly.org). To view the latest develop branch in action, visit the [demo](http://blorc-patternfly.wildgums.com/) app.
+
+## [10. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Admin
 
 *   [django-jazzmin (⭐1.1k)](https://github.com/farridav/django-jazzmin) - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy.
 
-## [10. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
+## [11. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 
 ### Modules
 
 *   [mutex-server (⭐22)](https://github.com/samchon/mutex-server) - Critical section controllers, like mutex and semaphore, in the network level.
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [TSTL (⭐505)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
+*   :octocat: [TSTL (⭐513)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
     *   :octocat: [ECol (⭐8)](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
-    *   :octocat: [TGrid (⭐91)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
-    *   :octocat: [Mutex-Server (⭐22)](https://github.com/samchon/mutex-server) - Critical sections controller, like mutex and semaphore, in the network level.
+    *   :octocat: [TGrid (⭐92)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
+    *   :octocat: [Mutex-Server (⭐23)](https://github.com/samchon/mutex-server) - Critical sections controller, like mutex and semaphore, in the network level.
 
-## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [13. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Operating systems / Build system (ROS2)
 
@@ -197,21 +203,11 @@
 *   [Ubuntu Server](https://ubuntu.com/server)
 *   [Zephyr](https://www.zephyrproject.org/) - Linux Foundation Projects RTOS aiming at beeing secure and safe.
 
-## [13. Awesome React Native](/content/jondot/awesome-react-native/README.md)
+## [14. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
 ### Seeds / Navigation Demos
 
 *   [RNStarter (⭐30)](https://github.com/i-mighty/RNStarter) - ✨ A React Native Starter with 10+ commonly used libraries ✨
-
-## [14. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Cloud
-
-*   [EventGrid Viewer Blazor (⭐20)](https://github.com/azure-samples/eventgrid-viewer-blazor/) - ![stars](https://img.shields.io/github/stars/azure-samples/eventgrid-viewer-blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/azure-samples/eventgrid-viewer-blazor?style=flat-square\&cacheSeconds=86400) Blazor Server app that displays EventGrid messages in realtime & allows the ability to secure the app using Azure AD, KeyVault & Managed Identities.
-
-### Individual components / Others
-
-*   [Blorc.PatternFly (⭐29)](https://github.com/WildGums/Blorc.PatternFly) - ![stars](https://img.shields.io/github/stars/WildGums/Blorc.PatternFly?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/WildGums/Blorc.PatternFly?style=flat-square\&cacheSeconds=86400) Blazor wrappers for [PatternFly](https://www.patternfly.org). To view the latest develop branch in action, visit the [demo](http://blorc-patternfly.wildgums.com/) app.
 
 ---
 

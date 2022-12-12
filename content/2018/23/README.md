@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 04 - Jun 10, 2018
 
-58 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -108,7 +108,7 @@
 ### IDE
 
 *   [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
-*   [DBeaver (⭐29k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+*   [DBeaver (⭐30k)](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
 ### CLI
 
@@ -117,12 +117,12 @@
 ### API / Samples
 
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
-*   [prest (⭐3.4k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-*   [resquel (⭐105)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+*   [prest (⭐3.5k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+*   [resquel (⭐106)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
 ### Monitoring/Statistics/Perfomance / Samples
 
-*   [pgmetrics (⭐793)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
+*   [pgmetrics (⭐808)](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 
 ### Monitoring/Statistics/Perfomance / Zabbix
 
@@ -209,11 +209,11 @@
 ### ASM / Syntax highlighting packages
 
 *   [Tuff (⭐302)](https://github.com/BonsaiDen/Tuff.gb)
-*   [2048-gb (⭐97)](https://github.com/Sanqui/2048-gb)
+*   [2048-gb (⭐98)](https://github.com/Sanqui/2048-gb)
 *   [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
 *   [Lazerpong (⭐13)](https://github.com/huderlem/lazerpong)
-*   [Geometrix (⭐27)](https://github.com/AntonioND/geometrix)
-*   [µCity (⭐348)](https://github.com/AntonioND/ucity)
+*   [Geometrix (⭐28)](https://github.com/AntonioND/geometrix)
+*   [µCity (⭐349)](https://github.com/AntonioND/ucity)
 *   [Carazu (⭐16)](https://github.com/mholtkamp/carazu)
 *   [Snake-gb (⭐15)](https://github.com/DonaldHays/snake-gb)
 *   [GB303 (⭐94)](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Game Boy.
@@ -221,8 +221,8 @@
 *   [Flappy-boy-asm (⭐82)](https://github.com/bitnenfer/flappy-boy-asm)
 *   [Adjustris (⭐11)](https://github.com/tbsp/Adjustris)
 *   [exeman (⭐26)](https://github.com/exezin/exeman/)
-*   [Aevilia (⭐54)](https://github.com/ISSOtm/Aevilia-GB)
-*   [GBSlides (⭐23)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
+*   [Aevilia (⭐55)](https://github.com/ISSOtm/Aevilia-GB)
+*   [GBSlides (⭐24)](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 *   [Pokered-gbc (⭐102)](https://github.com/dannye/pokered-gbc) - Pokémon Red remade with full GBC support.
 *   [ToyToy (⭐9)](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 *   [StefaN (⭐3)](https://github.com/tslanina/Retro-GameBoyColor-StefaN) - Fourway Breakout clone.
@@ -252,14 +252,14 @@
 *   [beach-gbc (⭐12)](https://github.com/vegard/beach-gbc)
 *   [CUTE DEMO (⭐28)](https://github.com/mills32/CUTE_DEMO)
 *   [`10 PRINT` Game Boy](https://github.com/svendahlstrand/10-print-game-boy)
-*   [Roboto Demo (⭐24)](https://github.com/naavis/roboto-demo)
+*   [Roboto Demo (⭐25)](https://github.com/naavis/roboto-demo)
 
 ### Game Disassemblies / Syntax highlighting packages
 
-*   [Pokémon Yellow (⭐526)](https://github.com/pret/pokeyellow)
-*   [Pokémon Gold and Silver (⭐339)](https://github.com/pret/pokegold)
-*   [pokegold-spaceworld (⭐281)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
-*   [Link's Awakening DX (⭐356)](https://github.com/mojobojo/LADX-Disassembly)
+*   [Pokémon Yellow (⭐528)](https://github.com/pret/pokeyellow)
+*   [Pokémon Gold and Silver (⭐343)](https://github.com/pret/pokegold)
+*   [pokegold-spaceworld (⭐282)](https://github.com/pret/pokegold-spaceworld) - Pokémon Gold and Silver 1997 Space World demo.
+*   [Link's Awakening DX (⭐361)](https://github.com/mojobojo/LADX-Disassembly)
 *   [Oracle of Ages (⭐120)](https://github.com/drenn1/ages-disasm)
 *   [FX Hammer (⭐5)](https://github.com/DevEd2/FXHammer-Disasm)
 *   [Harvest Moon 3 (⭐16)](https://github.com/sanqui/hm3)
@@ -383,7 +383,7 @@
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [ESLint (⭐21k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
+*   [ESLint (⭐22k)](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Contains the ESLint configuration used for projects maintained by the ESLint team.
 
 ## [31. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -404,12 +404,12 @@
 *   C++
     *   [design-patterns](http://www.vincehuston.org/dp/)
 *   Kotlin
-    *   [design-patterns (⭐5.4k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+    *   [design-patterns (⭐5.5k)](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 *   PHP
-    *   [humans (⭐35k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
+    *   [humans (⭐36k)](https://github.com/kamranahmedse/design-patterns-for-humans) - ultra simplified explanation to design patterns.
     *   [design-patterns (⭐21k)](https://github.com/domnikl/DesignPatternsPHP)
 *   Ruby
-    *   [design-patterns (⭐2.1k)](https://github.com/davidgf/design-patterns-in-ruby)
+    *   [design-patterns (⭐2.2k)](https://github.com/davidgf/design-patterns-in-ruby)
 *   Swift
     *   [design-patterns (⭐14k)](https://github.com/ochococo/Design-Patterns-In-Swift)
 *   Vue.js
@@ -419,7 +419,7 @@
 
 *   [10 common architectural patterns](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013) - 10 Common software architectural patterns in a nutshell.
 *   [reactive design patterns](https://www.reactivedesignpatterns.com/categories.html) - This website accompanies the book Reactive Design Patterns by Roland Kuhn.
-*   [system-design-primer (⭐201k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
+*   [system-design-primer (⭐205k)](https://github.com/donnemartin/system-design-primer) - Design large-scale systems.
 
 ### Cloud Architecture
 
@@ -450,7 +450,7 @@
 
 ### Front-End Development
 
-*   [css-protips (⭐23k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+*   [css-protips (⭐24k)](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 
 ### Security
 
@@ -461,7 +461,7 @@
 
 ### Other Awesome Lists
 
-*   Other amazingly awesome lists can be found in the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) list.
+*   Other amazingly awesome lists can be found in the [awesome (⭐227k)](https://github.com/sindresorhus/awesome) list.
 
 ### Contributing
 
@@ -477,7 +477,7 @@
 
 ### Tools
 
-*   [Pieman (⭐193)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
+*   [Pieman (⭐198)](https://github.com/tolstoyevsky/pieman) - Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.
 
 ## [36. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
@@ -489,7 +489,7 @@
 
 ### Code
 
-*   [CircuitPython GitHub Repository (⭐3.2k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
+*   [CircuitPython GitHub Repository (⭐3.3k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 
 ### Frameworks
 
@@ -498,7 +498,7 @@
 ### Newsletter
 
 *   [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython and CircuitPython, a spam-free list.
-*   [Contribute to newsletter (⭐50)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+*   [Contribute to newsletter (⭐51)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 
 ### News
 
@@ -532,7 +532,7 @@
 ### Mobile
 
 *   [json-mop (⭐55)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
-*   [arrow-macros (⭐99)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [arrow-macros (⭐100)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ### Non-deterministic, logic programming
 
@@ -579,13 +579,31 @@
 
 *   [Motion is Emotion: Prototyping Microinteractions for Apple Watch with Framer Studio](https://web.archive.org/web/20160304015511/https://blog.grandcentrix.net/motion-is-emotion/) - Apple Watch temperature gauge prototype tutorial.
 
-## [45. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [45. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Firefox OS / Phoenix
+
+*   [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
+
+### Julia / Vue.js
+
+*   [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
+
+### Linux / TeX
+
+*   [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
+
+### Lisp / TeX
+
+*   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+
+## [46. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Usage in Production
 
 *   [Patreon](https://www.patreon.com/)
 
-## [46. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [47. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Polyfills
 
@@ -599,7 +617,7 @@
 
 *   [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires.
 
-## [47. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [48. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Subjects / Computer Science
 
@@ -675,7 +693,7 @@
 *   [Python Reference (⭐3.4k)](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
 *   [List of Free Learning Resources (⭐252k)](https://github.com/vhf/free-programming-books) - Freely available programming books
 
-## [48. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [49. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Tutorials / Articles / Automation
 
@@ -683,7 +701,7 @@
 *   [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
 *   [Building Paul The Octopus](https://www.tomango.co.uk/thinks/paul-the-octopus-2018/)
 
-## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [50. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Media
 
@@ -693,19 +711,19 @@
 
 *   [Discover .NET](https://discoverdot.net) - Awesome .NET open source and community resources.
 
-## [50. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [51. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Payments
 
 *   [GNU Taler](https://taler.net) - Cash-like system for online payments. ([GNU GPL](https://taler.net/en/developers.html))
 
-## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Scheduling
 
 *   [crystime](https://gitlab.com/crystallabs/crystime) - Advanced time, calendar, schedule, and remind library
 
-## [52. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [53. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
@@ -719,11 +737,11 @@
 
 *   [Lospec palette list](https://lospec.com/palette-list) - Collection of color palettes for pixel art with examples and artist information.
 
-## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [54. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cache
 
-*   [Carlos (⭐626)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
+*   [Carlos (⭐628)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
 ### UI / Barcode
 
@@ -737,13 +755,13 @@
 
 *   [Differific (⭐127)](https://github.com/zenangst/Differific) - A fast and convenient diffing framework.
 
-## [54. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [55. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### SDKs/Tools
 
 *   [alexa-skills-kit-js (⭐3.1k)](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs) - The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code.
 
-## [55. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [56. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Computer Graphics
 
@@ -753,7 +771,7 @@
     *   [Labs](http://cs.brown.edu/courses/csci1230/labs.html)
     *   [Demos](http://cs.brown.edu/courses/csci1230/demos.html)
 
-## [56. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [57. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
@@ -763,7 +781,7 @@
 
 *   [shallow-backup (⭐968)](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed packages, dotfiles, and more
 
-## [57. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [58. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Training (Includes developer training for automation testers) / Other
 
@@ -775,7 +793,7 @@
 *   [Michael Bolton](http://www.developsense.com/blog/)
 *   [Janet Gregory](http://janetgregory.ca/blog/)
 
-## [58. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [59. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Static Analysis
 

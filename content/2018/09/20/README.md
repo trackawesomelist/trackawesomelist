@@ -10,11 +10,11 @@
 
 ### Software / Money, Budgeting & Management
 
-*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐240)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
+*   [Kresus](https://kresus.org/) - Open source personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐245)](https://github.com/kresusapp/kresus)) `MIT` `Nodejs`
 
 ### Software / Ticketing
 
-*   [FreeScout (⭐1.7k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP`
+*   [FreeScout (⭐1.8k)](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP`
 
 ## [2. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -115,13 +115,13 @@
 
 ### Pagination
 
-*   [Pagy (⭐3.8k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+*   [Pagy (⭐3.9k)](https://github.com/ddnexus/pagy) - Pagy is the ultimate pagination gem that outperforms the others in each and every benchmark and comparison. More details can be found on [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 
 ## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [io-ts (⭐5.8k)](https://github.com/gcanti/io-ts) - Type validation at runtime
+*   :octocat: [io-ts (⭐5.9k)](https://github.com/gcanti/io-ts) - Type validation at runtime
 *   :octocat: [fast-check (⭐3.3k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
 
 ---

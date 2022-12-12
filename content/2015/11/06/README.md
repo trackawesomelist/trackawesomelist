@@ -10,7 +10,7 @@
 
 ### Packages / Command-line utilities
 
-*   [multispinner (⭐284)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
+*   [multispinner (⭐286)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 
 ## [2. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -71,7 +71,7 @@
 
 ### CLI
 
-*   [docopt.cpp (⭐976)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
+*   [docopt.cpp (⭐981)](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. \[MIT/Boost]
 
 ---
 

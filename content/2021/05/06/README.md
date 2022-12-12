@@ -72,7 +72,7 @@
 
 ### Forms
 
-*   [KarserRecaptcha3Bundle (⭐99)](https://github.com/karser/KarserRecaptcha3Bundle) - Integrates Google ReCAPTCHA v3 into Symfony.
+*   [KarserRecaptcha3Bundle (⭐100)](https://github.com/karser/KarserRecaptcha3Bundle) - Integrates Google ReCAPTCHA v3 into Symfony.
 
 ## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

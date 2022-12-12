@@ -10,11 +10,11 @@
 
 ### CLI Builder
 
-*   [Clamp (⭐405)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐406)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
-*   [rgeo (⭐945)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
+*   [rgeo (⭐951)](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ## [2. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 

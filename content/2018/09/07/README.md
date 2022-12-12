@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 07, 2018
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,7 +10,7 @@
 
 ### Tools and session management
 
-*   [tmuxpair (⭐37)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
+*   [tmuxpair (⭐38)](https://github.com/goerz/tmuxpair) Command line script for setting up a temporary tmux session for pair programming
 
 ## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -42,7 +42,13 @@
 
 *   [Khen Daniel (⭐0)](https://github.com/thekhenzie/ama) - Software Engineer. Aspiring Photographer. Hacker.
 
-## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Elixir / Non-X86
+
+*   [The Ultimate Guide To Elixir For Object-Oriented Programmers](http://www.binarywebpark.com/ultimate-guide-elixir-object-oriented-programmers) - Bruce Park (HTML)
+
+## [6. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -51,7 +57,7 @@
 *   [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
 *   [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
 
-## [6. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
+## [7. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
 ### Very Lightweight
 
@@ -68,7 +74,7 @@
     ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=social\&label=Star)
     [Demo](https://getbootstrap.com/docs/4.0/examples/),
     [Docs](https://getbootstrap.com/docs/4.0/),
-    [Repo (⭐160k)](https://github.com/twbs/bootstrap)
+    [Repo (⭐161k)](https://github.com/twbs/bootstrap)
     \| #SCSS
 
 ### Material Design
@@ -77,7 +83,7 @@
     ![](https://img.shields.io/github/stars/material-components/material-components-web.svg?style=social\&label=Star)
     [Demo](https://material.io/components?platform=web),
     [Docs](https://material.io/develop/web/getting-started),
-    [Repo (⭐16k)](https://github.com/material-components/material-components-web)
+    [Repo (⭐17k)](https://github.com/material-components/material-components-web)
     \| #SCSS
 
 ### Utility-based
@@ -85,24 +91,24 @@
 *   [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.\
     ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss.svg?style=social\&label=Star)
     [Docs](https://tailwindcss.com/docs),
-    [Repo (⭐62k)](https://github.com/tailwindlabs/tailwindcss)
+    [Repo (⭐63k)](https://github.com/tailwindlabs/tailwindcss)
     \| #CSS
 
 ### Specialized
 
 *   [**98.css**](https://jdan.github.io/98.css/) - CSS library for building interfaces that look like Windows 98.\
     ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social\&label=Star)
-    [Repo (⭐6.9k)](https://github.com/jdan/98.css)
+    [Repo (⭐7.7k)](https://github.com/jdan/98.css)
     \| #CSS
 
-## [7. Awesome Ava](/content/avajs/awesome-ava/README.md)
+## [8. Awesome Ava](/content/avajs/awesome-ava/README.md)
 
 ### Packages
 
 *   [ava-fixture (⭐5)](https://github.com/unional/ava-fixture) - Run fixture/baseline tests.
 *   [ava-fast-check (⭐44)](https://github.com/dubzzz/ava-fast-check) - Property based testing.
 
-## [8. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
+## [9. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 
 ### Articles
 
@@ -114,13 +120,13 @@
 
 *   [npm.community](https://npm.community/c/support)
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Kinesis
 
 *   [aws-fluent-plugin-kinesis :fire::fire: (⭐282)](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin.
 
-## [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Collaboration and Project Management / Telegram
 

@@ -41,7 +41,7 @@
 
 ### Packages / Application layer
 
-*   [vision\_opencv (⭐393)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
+*   [vision\_opencv (⭐406)](https://github.com/ros-perception/vision_opencv/tree/ros2) - Packages for interfacing ROS2 with OpenCV. ![vision\_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

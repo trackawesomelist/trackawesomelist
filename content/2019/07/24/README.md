@@ -34,7 +34,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [savepad (⭐26)](https://github.com/shelltr/textpad) - Minimalist notepad based on notepad.cc. `MIT` `PHP`
+*   [savepad (⭐28)](https://github.com/shelltr/textpad) - Minimalist notepad based on notepad.cc. `MIT` `PHP`
 
 ### Software / Software Development - IDE & Tools
 

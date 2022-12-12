@@ -41,13 +41,13 @@
 
 ### Software / Pastebins
 
-*   [pb (⭐513)](https://github.com/ptpb/pb) - Lightweight pastebin (and url shortener) built using flask. `GPL-3.0` `Python`
+*   [pb (⭐528)](https://github.com/ptpb/pb) - Lightweight pastebin (and url shortener) built using flask. `GPL-3.0` `Python`
 
 ## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Form Logic / Mouse Events
 
-*   [formik (⭐31k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
+*   [formik (⭐32k)](https://github.com/jaredpalmer/formik) - Build forms without tears and supports Validation in ease.
 
 ---
 

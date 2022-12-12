@@ -16,7 +16,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐26k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐27k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [3. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -75,7 +75,7 @@
 
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
     *   Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
-    *   Block Volume - 4 volumes, 200 GB total (used for compute)
+    *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB
     *   Load balancer - 1 instance with 10 Mbps
     *   Databases - 2 DBs, 20 GB each
@@ -105,7 +105,7 @@
 
 ### Date and Time
 
-*   [open\_hours (⭐40)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
+*   [open\_hours (⭐41)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
 
 ### Macros
 

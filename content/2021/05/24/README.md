@@ -10,7 +10,7 @@
 
 ### FIAT
 
-*   [My Expenses (⭐481)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐495)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-layout-system (⭐31)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
+*   [vue-layout-system (⭐32)](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 
 ## [7. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Tools / Testing Tools
 
-*   [editor-info (⭐4)](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
+*   [editor-info (⭐5)](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
 
 ## [10. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

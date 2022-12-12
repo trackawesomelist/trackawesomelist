@@ -31,7 +31,7 @@
 
 ### Ruby / Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐966)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
+*   [Awesome NLP with Ruby (⭐973)](https://github.com/arbox/nlp-with-ruby) - Curated link list for practical natural language processing in Ruby.
 
 ## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -54,7 +54,7 @@
 
 *   [Axiis (⭐9)](https://github.com/hgupta9/AxiisCharts) - Data visualization framework with line, bar, wedge, column, cluster, area, smith and treemap charts.
 *   [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
-*   [Flare (⭐325)](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
+*   [Flare (⭐327)](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
 *   [redada (⭐3)](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files.
 
 ### Multimedia / Sound

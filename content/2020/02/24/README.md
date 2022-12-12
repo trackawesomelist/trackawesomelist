@@ -10,11 +10,11 @@
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐304)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
+*   [guoxbin/dtool (⭐311)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐2.9k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
+*   [bheisler/criterion.rs (⭐3k)](https://github.com/bheisler/criterion.rs) — Statistics-driven benchmarking library for Rust [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Libraries / Command line interface (CLI) / Terminal / Shell
 
-*   [lol (⭐14)](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
+*   [lol (⭐15)](https://github.com/0xLeif/lol) - V version of lolcat (text/character rainbowizer).
 
 ## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Projects / Libraries
 
-*   [Formalised Undecidable Problems (⭐85)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Formalised Undecidable Problems (⭐88)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
 *   [Regular Language Representations (⭐29)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 
 ### Projects / Plugins

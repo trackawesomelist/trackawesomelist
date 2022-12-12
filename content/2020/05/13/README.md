@@ -17,11 +17,11 @@
 
 ### Calendar
 
-*   [iCal.NET (⭐608)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
+*   [iCal.NET (⭐627)](https://github.com/rianjs/ical.net) iCal.NET is an iCalendar (RFC 5545) class library for .NET aimed at providing RFC 5545 compliance, while providing full compatibility with popular calendaring applications and libraries.
 
 ### Functional programming
 
-*   [Optuple (⭐21)](https://github.com/atifaziz/Optuple) - .NET Standard Library for giving `(bool, T)` Option-like semantics in a non-obtrusive way; this is, there is no new option type dependency for a library or its users.
+*   [Optuple (⭐22)](https://github.com/atifaziz/Optuple) - .NET Standard Library for giving `(bool, T)` Option-like semantics in a non-obtrusive way; this is, there is no new option type dependency for a library or its users.
 
 ### Game
 
@@ -61,7 +61,7 @@
 
 ### IR Tools Collection / Log Analysis Tools
 
-*   [AppCompatProcessor (⭐158)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
+*   [AppCompatProcessor (⭐160)](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
@@ -173,7 +173,7 @@ Free
 
 ### Projects
 
-*   [Freecell (⭐4)](https://github.com/Stigjb/freecell) - A patience game written in Rust and Yew.
+*   [Freecell (⭐5)](https://github.com/Stigjb/freecell) - A patience game written in Rust and Yew.
 
 ## [19. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -195,36 +195,36 @@ Free
 
 ### Front-End Development
 
-*   [Preact (⭐709)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐75)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐725)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐77)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
-*   [Static Analysis & Code Quality (⭐10k)](https://github.com/analysis-tools-dev/static-analysis#readme)
+*   [Static Analysis & Code Quality (⭐11k)](https://github.com/analysis-tools-dev/static-analysis#readme)
 
 ### Learn
 
-*   [Educational Games (⭐663)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐673)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐839)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Bluetooth Beacons (⭐841)](https://github.com/rabschi/awesome-beacon#readme)
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐224)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐234)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.5k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐106k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐156)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Self Hosted (⭐111k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐159)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [22. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vuedt (⭐9)](https://github.com/nkoehring/vuedt) - Crazy lightweight (<5kb!) Vuejs Date and Time picker component with i18n support, nice animations and not too much fuzz.
+*   [vuedt (⭐8)](https://github.com/nkoehring/vuedt) - Crazy lightweight (<5kb!) Vuejs Date and Time picker component with i18n support, nice animations and not too much fuzz.
 
 ## [23. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

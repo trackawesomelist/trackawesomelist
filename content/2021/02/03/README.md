@@ -10,7 +10,7 @@
 
 ### Task Queues
 
-*   [dramatiq (⭐3.3k)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
+*   [dramatiq (⭐3.4k)](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 
 ## [2. Awesome Chip 8](/content/tobiasvl/awesome-chip-8/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Third-Party Packages / Admin
 
-*   [django-related-admin (⭐59)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
+*   [django-related-admin (⭐61)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays accross foreign key relationships.
 
 ## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md)
 
@@ -78,11 +78,11 @@
 
 ### Boilerplates
 
-*   [next-postgres-graphql (⭐28k)](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
+*   [next-postgres-graphql (⭐29k)](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)
 
 ### Apps
 
-*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐280)](https://github.com/kachkaev/njt), thanks to Now integration.
+*   [njt.now.sh](https://njt.now.sh) - npm jump to 🐸 (package navigation shortcuts you dreamed about). Partially statically-rendered, partially deployed as lambda. Automatically updated on each commit to the [github repo (⭐295)](https://github.com/kachkaev/njt), thanks to Now integration.
 
 ## [9. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -131,7 +131,7 @@
 ### Tutorials and Blog Posts / NumPyro
 
 *   [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - Implements different methods for OOD detection.
-*   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐229)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
+*   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐237)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Plugins / Languages and Environments
 
-*   [HTML (⭐76)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
+*   [HTML (⭐82)](https://github.com/yeonjuan/html-eslint) - ESLint plugin for HTML.
 
 ## [16. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -191,7 +191,7 @@
 
 ### Software / Photo and Video Galleries
 
-*   [LibrePhotos (⭐4.7k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
+*   [LibrePhotos (⭐4.9k)](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
 
 ## [22. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

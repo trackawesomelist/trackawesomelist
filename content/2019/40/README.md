@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07 - Oct 13, 2019
 
-81 awesome lists updated this week.
+82 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -139,7 +139,7 @@
 
 ### Data Manipulation / Data Containers
 
-*   [pandas\_flavor (⭐242)](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
+*   [pandas\_flavor (⭐250)](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
 
 ### Natural Language Processing / NLP
 
@@ -162,7 +162,7 @@
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐26k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐27k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
@@ -183,7 +183,7 @@
 *   [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/) - A database that pulls organism associations from NCBI sequences and PubMed. See database and brief analysis in [Wardeh et al. 2015](https://www.nature.com/articles/sdata201549).
 *   [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) - A species interaction repository that can be searched by 'parasite of', 'pathogen of', or 'host of'.
 *   [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) - A database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates.
-*   [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms extracted from the scientific literature maintained by London Natural History Museum. Compilation started in 1922 by Dr H.A. Baylis, with curation through 2003 by LNHM staff. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helminthR (⭐6)](https://github.com/ropensci/helminthR).
+*   [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms extracted from the scientific literature maintained by London Natural History Museum. Compilation started in 1922 by Dr H.A. Baylis, with curation through 2003 by LNHM staff. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helminthR (⭐7)](https://github.com/ropensci/helminthR).
 *   [Olival et al. 2017, Nature](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) - Mammal-virus database with [analysis](https://www.nature.com/articles/nature22975?sf90794030).
 *   [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
 *   [PHI-base](http://www.phi-base.org/index.jsp) - A database with information on specific genes of fungal, Oomycete and bacterial pathogens that affect pathogenicity. Focused on agricultural and medical pathogens of importance.
@@ -195,7 +195,7 @@
 *   [Denver Museum of Nature and Science](https://science.dmns.org/integrative-collections/dmns-zoology-collections/) - Collection of mammalian ecto- and endo- parasites primarily focused on the Rocky Mountain and Great Plains regions of the United States. Accessible through [Arctos](http://arctos.database.museum/SpecimenSearch.cfm).
 *   [Muséum National d'Histoire Naturelle (MNHN - Paris)](https://www.mnhn.fr/en/collections/collection-groups/marine-invertebrates/parasitic-worms-helminths) - Helminth collection with more than 30,000 occurences of helminths with particular focus in tropical regions. Accessible through [GBIF](https://www.gbif.org/dataset/e0ebf2a1-3656-468a-b0b6-1aa93ff43fef#description).
 *   [Ohio State University Acarology Collection](https://acarology.osu.edu/database) - Nearly 70,000 vouchered specimens of mites from around the globe starting from 1864. Information includes host species, collection gps points, collection location (e.g. ear), and collection method. Can also be accessed through [GBIF](https://www.gbif.org/dataset/96b54e8c-f762-11e1-a439-00145eb45e9a).
-*   [South Australian Museum’s Australian Helminthological Collection](http://www.samuseum.sa.gov.au/collections/biological-sciences/parasites/the-australian-helminthological-collection-database) - Downloadable excel document of nearly 50,000 specimens of helminths primarily from Australian vertebrates. Most specimens are Platyhelminths, Acanthocephala, or Nematoda from mammals, birds, or Elasmobranchii. Some specimens are included in the [LNHM database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) and accessible through [helminthR (⭐6)](https://github.com/ropensci/helminthR).
+*   [South Australian Museum’s Australian Helminthological Collection](http://www.samuseum.sa.gov.au/collections/biological-sciences/parasites/the-australian-helminthological-collection-database) - Downloadable excel document of nearly 50,000 specimens of helminths primarily from Australian vertebrates. Most specimens are Platyhelminths, Acanthocephala, or Nematoda from mammals, birds, or Elasmobranchii. Some specimens are included in the [LNHM database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) and accessible through [helminthR (⭐7)](https://github.com/ropensci/helminthR).
 
 ### Reporting Systems
 
@@ -249,7 +249,7 @@
 
 *   [Oracle Cloud](https://www.oracle.com/cloud/)
     *   Compute - 2 x64-based with 1 GB RAM each, 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
-    *   Block Volume - 4 volumes, 200 GB total (used for compute)
+    *   Block Volume - 2 volumes, 200 GB total (used for compute)
     *   Object Storage - 10 GB
     *   Load balancer - 1 instance with 10 Mbps
     *   Databases - 2 DBs, 20 GB each
@@ -263,56 +263,56 @@
 
 ### Applications
 
-*   [CaptainFact (⭐177)](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
+*   [CaptainFact (⭐178)](https://github.com/CaptainFact/captain-fact-api) - A collaborative, real-time video fact-checking platform. ([Docs](https://captainfact.io/)).
 *   [Exon (⭐21)](https://github.com/tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff. ([Docs](https://hexdocs.pm/exon/readme.html)).
 *   [medusa\_server (⭐7)](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images. ([Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
 
 ### Artificial Intelligence
 
-*   [Exnn (⭐95)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
+*   [Exnn (⭐96)](https://github.com/zampino/exnn) - Evolutive Neural Networks framework à la G.Sher written in Elixir. ([Docs](http://zampino.github.io/exnn/)).
 *   [Neat-Ex](https://gitlab.com/onnoowl/Neat-Ex) - An Elixir implementation of the NEAT algorithm. ([Docs](https://hexdocs.pm/neat_ex/Neat.html)).
 
 ### Authentication
 
 *   [coherence (⭐1.2k)](https://github.com/smpallen99/coherence) - Coherence is a full featured, configurable authentication system for Phoenix. ([Docs](https://hexdocs.pm/coherence/Coherence.html)).
-*   [guardian (⭐3.2k)](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications. ([Docs](https://hexdocs.pm/guardian/Guardian.html)).
+*   [guardian (⭐3.3k)](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications. ([Docs](https://hexdocs.pm/guardian/Guardian.html)).
 *   [pow (⭐1.4k)](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system ([Website](https://powauth.com) - [Doc](https://hex.pm/packages/pow)).
 
 ### Authorization
 
 *   [canary (⭐463)](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access. ([Docs](https://hexdocs.pm/canary/api-reference.html)).
-*   [terminator (⭐57)](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
+*   [terminator (⭐58)](https://github.com/MilosMosovsky/terminator) - Database based authorization (ACL), with custom DSL rules for requiring needed permissions. ([Docs](https://hexdocs.pm/terminator/readme.html)).
 
 ### Chatting
 
-*   [ExGram (⭐138)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
-*   [hedwig (⭐637)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
+*   [ExGram (⭐146)](https://github.com/rockneurotiko/ex_gram) - a library to build Telegram Bots, you can use the low-level methods and models or use the really opinionated framework included. ([Docs](https://hexdocs.pm/ex_gram/readme.html)).
+*   [hedwig (⭐642)](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.([Docs](https://hexdocs.pm/hedwig/readme.html)).
 
 ### Cloud Infrastructure and Management
 
-*   [erlcloud (⭐645)](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
-*   [libcluster (⭐1.6k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
+*   [erlcloud (⭐649)](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB). ([Docs](https://hexdocs.pm/erlcloud/)).
+*   [libcluster (⭐1.7k)](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.([Docs](https://hexdocs.pm/libcluster/readme.html)).
 
 ### Code Analysis
 
 *   [credo (⭐4.5k)](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir. ([Docs](https://hexdocs.pm/credo/Credo.html)).
 *   [dialyxir (⭐1.5k)](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.([Docs](https://hexdocs.pm/dialyzex/Mix.Tasks.Dialyzer.html)).
-*   [dogma (⭐473)](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
+*   [dogma (⭐472)](https://github.com/lpil/dogma) - A code style linter for Elixir, powered by shame.([Docs](https://hexdocs.pm/dogma/api-reference.html)).
 
 ### Cryptography
 
-*   [cloak (⭐506)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
+*   [cloak (⭐510)](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.([Docs](https://hexdocs.pm/cloak/readme.html)).
 *   [comeonin (⭐1.2k)](https://github.com/riverrun/comeonin) - Password hashing (argon2, bcrypt, pbkdf2\_sha512) library for Elixir.(<https://hexdocs.pm/comeonin/api-reference.html>).
-*   [ex\_crypto (⭐124)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
+*   [ex\_crypto (⭐125)](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `crypto` and `public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.([Docs](https://hexdocs.pm/ex_crypto/readme.html)).
 
 ### Date and Time
 
-*   [open\_hours (⭐40)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
+*   [open\_hours (⭐41)](https://github.com/hopsor/open_hours) - Time calculations using business hours.
 *   [quantum (⭐2k)](https://github.com/quantum-elixir/quantum-core) - Cron-like job scheduler for Elixir applications.
 
 ### Framework Components
 
-*   [access pass (⭐72)](https://github.com/AppDoctorIo/accesspass) - Authentication framework that can be used with or outside of phoenix. Similar to Addict but geared towards API usage.([Docs](https://hexdocs.pm/access_pass/api-reference.html#content)).
+*   [access pass (⭐73)](https://github.com/AppDoctorIo/accesspass) - Authentication framework that can be used with or outside of phoenix. Similar to Addict but geared towards API usage.([Docs](https://hexdocs.pm/access_pass/api-reference.html#content)).
 
 ### Macros
 
@@ -426,7 +426,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Tensorflex (⭐305)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
+*   [Tensorflex (⭐304)](https://github.com/anshuman23/tensorflex) - Tensorflow bindings for the Elixir programming language.
 
 ### Go / Computer vision
 
@@ -441,7 +441,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Python / Computer Vision
 
-*   [neural-style-pt (⭐746)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
+*   [neural-style-pt (⭐761)](https://github.com/ProGamerGov/neural-style-pt) - A PyTorch implementation of Justin Johnson's neural-style (neural style transfer).
 
 ### Python / Natural Language Processing
 
@@ -455,7 +455,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [Map/Reduce implementations of common ML algorithms (⭐56)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
+*   [Map/Reduce implementations of common ML algorithms (⭐57)](https://github.com/Yannael/BigDataAnalytics_INFOH515): Jupyter notebooks that cover how to implement from scratch different ML algorithms (ordinary least squares, gradient descent, k-means, alternating least squares), using Python NumPy, and how to then make these implementations scalable using Map/Reduce and Spark.
 
 ### Python / Reinforcement Learning
 
@@ -491,7 +491,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Utility / Barcode
 
-*   [DuctTape (⭐170)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
+*   [DuctTape (⭐171)](https://github.com/marty-suzuki/DuctTape) - 📦 KeyPath dynamicMemberLookup based syntax sugar for Swift.
 
 ## [33. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -584,18 +584,18 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Code Analysis
 
-*   [Checkstyle (⭐7.3k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
+*   [Checkstyle (⭐7.4k)](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
 *   [jQAssistant](https://jqassistant.org) - Static code analysis with Neo4J-based query language. (GPL-3.0-only)
-*   [SonarJava (⭐953)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
+*   [SonarJava (⭐970)](https://github.com/SonarSource/sonar-java) - Static analyzer for SonarQube & SonarLint. (LGPL-3.0-only)
 *   [Spotbugs (⭐2.9k)](https://github.com/spotbugs/spotbugs) - Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)
 
 ### Constraint Satisfaction Problem Solver
 
-*   [JaCoP (⭐196)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
+*   [JaCoP (⭐199)](https://github.com/radsz/jacop) - Includes an interface for the FlatZinc language, enabling it to execute MiniZinc models. (AGPL-3.0)
 
 ### Date and Time
 
-*   [Time4J (⭐378)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
+*   [Time4J (⭐381)](https://github.com/MenoData/Time4J) - Advanced date and time library. (LGPL-2.1-only)
 
 ### Dependency Injection
 
@@ -622,7 +622,7 @@ Webpage: <https://https://www.costa.co.uk/>
 ### Formal Verification
 
 *   [Checker Framework](https://checkerframework.org) - Pluggable type systems. Includes nullness types, physical units, immutability types and more. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [Java Path Finder (JPF) (⭐408)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
+*   [Java Path Finder (JPF) (⭐420)](https://github.com/javapathfinder/jpf-core) - JVM formal verification tool containing a model checker and more. Created by NASA.
 
 ### Functional Programming
 
@@ -639,12 +639,12 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Introspection
 
-*   [jOOR (⭐2.6k)](https://github.com/jOOQ/jOOR) - jOOR stands for jOOR Object Oriented Reflection. It is a simple wrapper for the java.lang.reflect package.
+*   [jOOR (⭐2.7k)](https://github.com/jOOQ/jOOR) - jOOR stands for jOOR Object Oriented Reflection. It is a simple wrapper for the java.lang.reflect package.
 
 ### JVM and JDK
 
 *   [Graal (⭐18k)](https://github.com/oracle/graal) - Polyglot embeddable JVM. (GPL-2.0-only WITH Classpath-exception-2.0)
-*   [ParparVM (⭐1.3k)](https://github.com/codenameone/CodenameOne/tree/master/vm) - VM with non-blocking, concurrent GC for iOS. (GPL-2.0-only WITH Classpath-exception-2.0)
+*   [ParparVM (⭐1.4k)](https://github.com/codenameone/CodenameOne/tree/master/vm) - VM with non-blocking, concurrent GC for iOS. (GPL-2.0-only WITH Classpath-exception-2.0)
 *   [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview) - RedHat's OpenJDK distribution. (GPL-2.0-only WITH Classpath-exception-2.0)
 
 ### Logging
@@ -653,7 +653,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Machine Learning
 
-*   [JSAT (⭐751)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
+*   [JSAT (⭐753)](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution. (GPL-3.0-only)
 
 ### Miscellaneous
 
@@ -661,7 +661,7 @@ Webpage: <https://https://www.costa.co.uk/>
 
 ### Natural Language Processing
 
-*   [CogCompNLP (⭐453)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
+*   [CogCompNLP (⭐458)](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
 *   [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis. (GPL-3.0-or-later)
 
 ### Networking
@@ -672,8 +672,8 @@ Webpage: <https://https://www.costa.co.uk/>
 ### PDF
 
 *   [Dynamic Jasper](http://dynamicjasper.com) - Abstraction layer to JasperReports. (LGPL-3.0-only)
-*   [DynamicReports (⭐162)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
-*   [flyingsaucer (⭐1.7k)](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
+*   [DynamicReports (⭐164)](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports. (LGPL-3.0-only)
+*   [flyingsaucer (⭐1.8k)](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer. (LGPL-2.1-or-later)
 *   [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - Complex reporting engine. (LGPL-3.0-only)
 
 ### Reactive libraries / Other
@@ -693,7 +693,7 @@ Webpage: <https://https://www.costa.co.uk/>
 ### Utility / Mocking
 
 *   [CRaSH](http://www.crashub.org) - Provides a shell into a JVM that's running CRaSH. Used by Spring Boot and others. (LGPL-2.1-or-later)
-*   [Gephi (⭐5k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
+*   [Gephi (⭐5.1k)](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 *   [JADE](http://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
 
 ### Web Frameworks / Mocking
@@ -1240,7 +1240,13 @@ Webpage: <https://https://www.costa.co.uk/>
 
 *   [Find Voice Jobs](https://www.findvoicejobs.com) - Website to find jobs in VUI Domain
 
-## [59. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [59. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### OpenMP / PicoLisp
+
+*   [OpenMP Application Programming Interface Standard Version 5.0](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf) (PDF)
+
+## [60. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -1665,13 +1671,13 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | ------: | -------: | ---: |
 |   2 - 8 |       14 |  15m |
 
-## [60. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
+## [61. Awesome Git Hooks](/content/CompSciLauren/awesome-git-hooks/week/README.md)
 
 ### Tools / update
 
 *   [pre-commit (⭐9k)](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 
-## [61. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [62. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -1706,14 +1712,14 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   Chain React 2019: [Playlist](https://www.youtube.com/watch?v=zEjqDWqeDdg\&list=PLFHvL21g9bk2bTWTCP1BueiiIz8q258z9)
 
-## [62. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [63. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) - Baby monitor including custom case, server, and client source code. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 *   [Smart Security Camera](https://www.pyimagesearch.com/2019/03/25/building-a-raspberry-pi-security-camera-with-opencv/) - Using OpenCV, Twilio and a WebCam/picam.
 
-## [63. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [64. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
@@ -1736,19 +1742,19 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [SalesforceWay Podcast](https://salesforceway.com/podcast) - A WEEKLY SALESFORCE DEVELOPER TARGETED PODCAST.
 
-## [64. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
+## [65. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/week/README.md)
 
 ### Resources / Miscellaneous
 
 *   [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 
-## [65. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [66. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Microsoft Windows
 
-*   [PyWin32 (⭐4k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
+*   [PyWin32 (⭐4.1k)](https://github.com/mhammond/pywin32) - Python Extensions for Windows.
 
-## [66. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
+## [67. Awesome Qlik](/content/ambster-public/awesome-qlik/week/README.md)
 
 ### Community Resources and Blogs
 
@@ -1758,44 +1764,44 @@ In Codenames, two teams compete to see who can make contact with all of their ag
     *   [/r/QlikSense](https://www.reddit.com/r/qliksense/) - Subreddit about Qlik Sense.
     *   [/r/QlikView](https://www.reddit.com/r/qlikview/) - Subreddit about QlikView.
 
-## [67. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [68. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Local User Groups
 
 *   [Laravel Nigeria](http://www.laravelnigeria.com/) ([Facebook](https://www.facebook.com/groups/laravelnigeria/))
 
-## [68. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [69. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Typescript Seed Projects / Aurelia + Electron Examples
 
 *   [aurelia-chrome-extension-seed (⭐0)](https://github.com/PraveenGandhi/aurelia-chrome-extension-seed) \* Aurelia chrome extension seed
 
-## [69. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [70. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Dashboards / Themes
 
 *   [Slate (⭐86)](https://github.com/seangreen2/slate_theme) - A dark theme close to the vanila looks from seangreen2.
 
-## [70. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [71. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Talks
 
 *   [Software Art Thou: Debugging The Tech Industry](https://www.youtube.com/watch?v=zjjvaIaYMd0o) - By Lena Reinhard.
 *   [Survival Tips For Women In Tech](https://www.pscp.tv/w/1BdGYepvvLQGX) - By Patricia Aas.
 
-## [71. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [72. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Virtualization / Metric & Metric Collection
 
 *   [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 
-## [72. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [73. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks
 
 *   [basset](https://basset.io) - Open source platform for generating and reviewing visual differences. Supports multiple browsers, integrations for github and slack.
 
-## [73. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [74. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Image / Backend-Driven
 
@@ -1805,38 +1811,38 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   Meetup [Kurdistan](https://www.meetup.com/Flutter-Kurdistan/)
 
-## [74. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [75. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Packages / Penetration testing
 
 *   [aztarna (⭐84)](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
-*   [ros2\_fuzzer (⭐14)](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer.
+*   [ros2\_fuzzer (⭐17)](https://github.com/aliasrobotics/ros2_fuzzer) - ROS2 Topic & Service Fuzzer.
 
 ### Companies / Robotics Capture the Flag (RCTF)
 
 *   [Rover Robotics](https://roverrobotics.com/) - Rugged, industrial-grade robots.
 
-## [75. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [76. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐351)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐350)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
 
 ### Software / Games
 
-*   [piqueserver (⭐147)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐969)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
+*   [piqueserver (⭐157)](https://github.com/piqueserver/piqueserver) - Server for openspades, the first-person shooter in a destructible voxel world. ([Clients (⭐978)](https://github.com/yvt/openspades)) `GPL-3.0` `Python/C++`
 
 ### Software / Media Streaming - Video Streaming
 
 *   [Oddworks](https://gitlab.com/oddnetworks/oddworks/core) - Oddworks is an open source video distribution platform built to destroy the barriers to streaming television with SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV. `MIT` `Nodejs`
 
-## [76. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [77. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-accessible-modal (⭐18)](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
+*   [vue-accessible-modal (⭐19)](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
 
-## [77. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [78. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Books
 
@@ -1851,13 +1857,13 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [CircuitPython 5 release poster](https://www.adafruit.com/product/4365) - CircuitPython release version 5 poster.
 
-## [78. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [79. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### E-Books / Others
 
 *   [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
 
-## [79. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [80. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### Utility / Docker Container Actions
 
@@ -1875,7 +1881,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [Upload files to any OpenStack Swift service provider (⭐1)](https://github.com/iksaku/openstack-swift-action)
 
-## [80. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
+## [81. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/week/README.md)
 
 ### Document
 
@@ -1888,7 +1894,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 *   [Mandy Chan](https://twitter.com/MandyChanNYC) - Developer Advocate for the Actions On Google team.
 
-## [81. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [82. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Office
 

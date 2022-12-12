@@ -26,7 +26,7 @@
 ### Interactive Interpreter
 
 *   [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
-    *   [awesome-jupyter (⭐2.9k)](https://github.com/markusschanta/awesome-jupyter)
+    *   [awesome-jupyter (⭐3k)](https://github.com/markusschanta/awesome-jupyter)
 
 ## [4. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
@@ -39,7 +39,7 @@
 ### Libraries / Python
 
 *   [Flask-Stupe (⭐28)](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
-*   [Motor (⭐2k)](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
+*   [Motor (⭐2k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
 
 ## [6. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Miscellaneous
 
-*   [EightPointsGuzzleBundle (⭐420)](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
+*   [EightPointsGuzzleBundle (⭐419)](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
 
 ## [8. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

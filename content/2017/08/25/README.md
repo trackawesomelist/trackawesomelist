@@ -53,7 +53,7 @@
 
 ### Database
 
-*   [JsonFlatFileDataStore (⭐323)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+*   [JsonFlatFileDataStore (⭐335)](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ---
 

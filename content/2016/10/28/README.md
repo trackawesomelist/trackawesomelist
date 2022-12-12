@@ -28,7 +28,7 @@
 
 ### Math
 
-*   [Vc (⭐1.2k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
+*   [Vc (⭐1.3k)](https://github.com/VcDevel/Vc) - SIMD Vector Classes for C++. \[BSD]
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 

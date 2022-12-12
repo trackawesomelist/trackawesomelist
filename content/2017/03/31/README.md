@@ -19,9 +19,9 @@
 
 ### Contents / Libraries
 
-*   [fhir.js (⭐358)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
-*   [Node HL7 (⭐47)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-*   [Ruby FHIR (⭐136)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+*   [fhir.js (⭐360)](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+*   [Node HL7 (⭐48)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
+*   [Ruby FHIR (⭐137)](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
 *   [Ruby HL7 (⭐96)](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Contents / Applications
@@ -214,7 +214,7 @@
 
 ### URL Manipulation
 
-*   [furl (⭐2.3k)](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy.
+*   [furl (⭐2.4k)](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy.
 
 ---
 

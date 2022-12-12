@@ -12,7 +12,7 @@
 
 *   [Stacks Wallet for Desktop](https://www.hiro.so/wallet/install-desktop) - Desktop wallet application for managing STX and stacking individually or in pools.
 *   [Stacks Wallet for Web](https://www.hiro.so/wallet/install-web) - Web wallet for connecting to Stacks web applications.
-*   [Xverse Wallet](https://www.secretkeylabs.com/) - Mobile wallet application for managing STX and stacking.
+*   [Xverse Wallet](https://www.secretkeylabs.com/) - Mobile wallet application for managing STX and stacking (not open source).
 
 ### Apps / Stacks Web Applications
 
@@ -23,7 +23,6 @@
 ### Clarity Resources / Developer Tools
 
 *   [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
-*   [search-clarity.dev](https://search-clarity.dev) - An application for searching for deployed Clarity contracts.
 
 ### Clarity Resources / Libraries
 
@@ -33,7 +32,7 @@
 
 *   [SWAPR (⭐51)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
 *   [FLEXR (⭐18)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
-*   [ClarityDAO (⭐17)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
+*   [ClarityDAO (⭐18)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
 *   [NFT Marketplace (⭐13)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
 *   [StackStarter (⭐11)](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
 *   [Election Voting (⭐1)](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
@@ -53,19 +52,11 @@
 *   [stacking.club](https://stacking.club) - Stacking information and statistics.
 *   [Friedger pool](https://pool.friedger.de/) - Community stacking pool with no fees.
 
-### App Development / Frontend Libraries
-
-*   [Stacks.js (⭐881)](https://github.com/blockstack/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
-
-### App Development / CLI
-
-*   [@stacks/cli (⭐881)](https://github.com/blockstack/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
-
 ### App Development / Storage
 
 *   [CompassDB (⭐31)](https://github.com/eder-ai/compass-db) - A library for managing advanced collections in Gaia storage.
 *   [lens-file-source](https://gitlab.com/MyLens/lens-file-source) - File storage abstraction through mechanisms like caching, transactions, and JSON map aggregation for Gaia.
-*   [GaiaDown (⭐9)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4k)](https://github.com/Level/levelup).
+*   [GaiaDown (⭐10)](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp (⭐4k)](https://github.com/Level/levelup).
 
 ### Learning Resources / Documentation
 
@@ -79,7 +70,7 @@
 *   [Developer Registry 101](https://www.crowdcast.io/e/clarity-program) - Learn how to build a Clarity smart contract from scratch.
 *   [How Clarity Prevents Common Smart Contract Vulnerabilities](https://www.youtube.com/watch?v=VYXhrwPsBws) - Explanation of Clarity's security princples.
 
-### Community / Videos
+### Community / Books
 
 *   [Discord](https://discord.gg/zrvWsQC) - Stacks ecosystem Discord.
 *   [Twitter](https://twitter.com/stacks) - Stacks ecosystem Twitter.
@@ -96,9 +87,9 @@
 
 ### Programming Languages / PHP
 
-*   [composer2nix (⭐73)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+*   [composer2nix (⭐74)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 *   [composition-c4 (⭐5)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐17)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [nix-phps (⭐20)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -108,21 +99,21 @@
 
 ### CLI Utils
 
-*   [oq (⭐172)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐23k)](https://github.com/stedolan/jq) filters to transform the data
+*   [oq (⭐174)](https://github.com/Blacksmoke16/oq) - A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using [jq (⭐24k)](https://github.com/stedolan/jq) filters to transform the data
 
 ### Database Tools
 
-*   [queryit (⭐20)](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner
+*   [queryit (⭐21)](https://github.com/hugopl/queryit) - A setupless terminal based SQL query runner
 
 ### Dependency Injection
 
-*   [HardWire (⭐18)](https://github.com/jerometwell/hardwire) - A compile-time non-intrusive dependency injection system
+*   [HardWire (⭐19)](https://github.com/jerometwell/hardwire) - A compile-time non-intrusive dependency injection system
 
 ### Framework Components
 
 *   [mochi (⭐23)](https://github.com/awcrotwell/mochi) - Authentication shard inspired by Devise supporting: Authenticable, Confirmable, Invitable & more
 *   [motion.cr (⭐48)](https://github.com/awcrotwell/motion.cr) - Object oriented frontend library for Amber
-*   [tourmaline (⭐135)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
+*   [tourmaline (⭐139)](https://github.com/protoncr/tourmaline) - Telegram bot framework with an API loosely based on [telegraf.js](https://telegraf.js.org/)
 
 ### Misc
 
@@ -134,7 +125,7 @@
 
 ### Queues and Messaging
 
-*   [mosquito (⭐177)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐180)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -148,7 +139,7 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐282)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐297)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
 ## [5. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
@@ -173,7 +164,7 @@
 
 ### Libraries/Frameworks / Web
 
-*   [hexagonkt/hexagon (⭐406)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
+*   [hexagonkt/hexagon (⭐412)](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serialization and storage.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -206,7 +197,7 @@
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-    *   [GitHub repository :octocat: (⭐25)](https://github.com/virtual-vehicle/pointcloudset)
+    *   [GitHub repository :octocat: (⭐29)](https://github.com/virtual-vehicle/pointcloudset)
 
 ## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
@@ -224,7 +215,7 @@
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐514)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within Neovim.
+*   [kdheepak/lazygit.nvim (⭐561)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
 ## [14. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

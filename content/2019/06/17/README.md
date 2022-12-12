@@ -29,7 +29,7 @@
 
 ### Transition / Barcode
 
-*   [PanSlip (⭐100)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
+*   [PanSlip (⭐101)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
@@ -49,11 +49,11 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Applications / Cryptocurrencies
 
-*   [ChainX (⭐255)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+*   [ChainX (⭐259)](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 *   [Grin (⭐5k)](https://github.com/mimblewimble/grin/) — Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1k)](https://github.com/nervosnetwork/ckb) — Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
-*   [Polkadot (⭐6.3k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
-*   [Substrate (⭐7.5k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
+*   [Polkadot (⭐6.4k)](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
+*   [Substrate (⭐7.7k)](https://github.com/paritytech/substrate) — Generic modular blockchain template written in Rust
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -69,7 +69,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Sliders / Runner
 
-*   [Embla Carousel (⭐2.7k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
+*   [Embla Carousel (⭐2.8k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 
 ## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -81,7 +81,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 
 ### Misc
 
-*   [pinger (⭐9)](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
+*   [pinger (⭐10)](https://github.com/spider-gazelle/pinger) - Ping IP addresses and DNS entries without requiring sudo
 
 ### Third-party APIs
 

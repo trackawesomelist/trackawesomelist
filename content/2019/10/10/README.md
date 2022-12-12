@@ -65,16 +65,16 @@
 
 ### JupyterLab Extensions
 
-*   [code\_formatter (⭐618)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
-*   [nb\_black (⭐322)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐30k)](https://github.com/psf/black).
+*   [code\_formatter (⭐633)](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
+*   [nb\_black (⭐327)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐30k)](https://github.com/psf/black).
 *   [python-bytecode (⭐59)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.
 *   [quickopen (⭐75)](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name.
-*   [sidecar (⭐203)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
-*   [sql (⭐383)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
-*   [system-monitor (⭐257)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
-*   [theme-darcula (⭐158)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
-*   [topbar (⭐3)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
-*   [vim (⭐926)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
+*   [sidecar (⭐208)](https://github.com/jupyter-widgets/jupyterlab-sidecar) - A sidecar output widget for JupyterLab.
+*   [sql (⭐385)](https://github.com/pbugnion/jupyterlab-sql) - SQL GUI for JupyterLab.
+*   [system-monitor (⭐267)](https://github.com/jtpio/jupyterlab-system-monitor) - Extension to display system metrics.
+*   [theme-darcula (⭐164)](https://github.com/telamonian/theme-darcula) - A handsome Darcula theme for Jupyterlab.
+*   [topbar (⭐4)](https://github.com/jtpio/jupyterlab-topbar) - Top Bar extension for JupyterLab.
+*   [vim (⭐930)](https://github.com/jwkvam/jupyterlab-vim) - Vim notebook cell bindings.
 
 ## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Resources / Learning
 
-*   [Nix Shorts (⭐332)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
+*   [Nix Shorts (⭐333)](https://github.com/justinwoo/nix-shorts/) - A collection of short notes about Nix.
 
 ## [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
@@ -200,11 +200,11 @@
 
 ### Form Components / Input Types
 
-*   [react-payment-inputs (⭐293)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
+*   [react-payment-inputs (⭐294)](https://github.com/medipass/react-payment-inputs) - [demo](https://medipass.github.io/react-payment-inputs/?path=/story/usepaymentinputs--basic-no-styles) - A zero-dependency container to help with payment card input fields.
 
 ### Form Logic / Mouse Events
 
-*   [react-hook-form (⭐31k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
+*   [react-hook-form (⭐32k)](https://github.com/react-hook-form/react-hook-form) - React hooks for form validation without the hassle.
 
 ---
 

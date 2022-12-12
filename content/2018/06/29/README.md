@@ -31,11 +31,11 @@
 
 ### API / Runner
 
-*   [axios (⭐97k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+*   [axios (⭐98k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 
 ### Animations / Other
 
-*   [particles.js (⭐26k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+*   [particles.js (⭐27k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

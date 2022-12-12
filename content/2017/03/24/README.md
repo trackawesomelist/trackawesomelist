@@ -23,7 +23,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [sweet-modal-vue (⭐750)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+*   [sweet-modal-vue (⭐751)](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Queue
 
-*   [RabbitMQ.NET (⭐1.7k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
+*   [RabbitMQ.NET (⭐1.8k)](https://github.com/rabbitmq/rabbitmq-dotnet-client) - Implementation of an AMQP client library for C#, and a binding exposing AMQP services via WCF
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

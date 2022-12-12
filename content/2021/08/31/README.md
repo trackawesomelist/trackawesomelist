@@ -6,51 +6,45 @@
 
 
 
-## [1. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Videos / Others
-
-*   [The .NET Docs Show - Micro frontends with Blazor](https://www.youtube.com/watch?v=8Ac2QMdusrs) - ![duration](https://img.shields.io/badge/Duration:%20-64%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) August 31, 2021 - In this week's episode, Florian Rappl joins the panel to show us how to build websites using compositional UIs that grow naturally as your application scales.
-
-## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [1. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / General Purpose
 
-*   [datamol (⭐249)](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
+*   [datamol (⭐275)](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 
 ### Libraries / Visualization
 
 *   [RDKit.js](https://www.npmjs.com/package/@rdkit/rdkit) - Official JavaScript distribution of cheminformatics functionality from the RDKit - a C++ library for cheminformatics.
 
-## [3. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [2. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Bindings
 
 *   [libsndfile (⭐2)](https://github.com/edadma/libsndfile) - Bindings for the [Libsndfile](https://tiswww.cwru.edu/php/chet/libsndfile/rltop.html) C library for sampled sound manipulation.
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [3. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [react-ts-vite-template (⭐74)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
+*   [react-ts-vite-template (⭐79)](https://github.com/fabien-ml/react-ts-vite-template) - React, TypeScript, Jest, Testing Library, Cypress, ESLint, Prettier, Husky.
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-content (⭐94)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
+*   [vite-plugin-content (⭐103)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-content) - Convert `yaml`, `xml`, `ini`, `toml`, `csv`, `plist` and `properties` files to ES6 modules.
 
-## [5. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [4. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Unofficial Distributions / AlmaLinux OS
 
-*   [WSLackware (⭐44)](https://github.com/Mohsens22/WSLackware) - Slackware as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSLackware (⭐47)](https://github.com/Mohsens22/WSLackware) - Slackware as a WSL distro. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
-## [6. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Machine Learning
 
 *   [clj-synapses (⭐0)](https://github.com/mrdimosthenis/clj-synapses)
 
-## [7. Public Apis](/content/public-apis/public-apis/README.md)
+## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Sports & Fitness
 
@@ -66,11 +60,21 @@
 
 
 
-## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Internationalization
 
 *   [Lens (⭐16)](https://github.com/syeopite/lens) - A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.
+
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Arduino
+
+*   [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) (:card\_file\_box: *archived at unglue.it*)
+
+### Linux / TeX
+
+*   [Ubuntu Server Guide](https://help.ubuntu.com/20.04/serverguide/serverguide.pdf) (PDF)
 
 ## [9. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 

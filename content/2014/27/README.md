@@ -107,13 +107,13 @@
 
 ### HTTP
 
-*   [cauldron (⭐74)](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
+*   [cauldron (⭐73)](https://github.com/meh/cauldron) - An HTTP/SPDY server as a library.
 *   [httpoison (⭐2.1k)](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
-*   [httpotion (⭐724)](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
+*   [httpotion (⭐723)](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
 
 ### ORM and Datamapping
 
-*   [atlas (⭐212)](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
+*   [atlas (⭐213)](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 *   [dexts (⭐5)](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 *   [exts (⭐7)](https://github.com/meh/exts) - Elixir Terms Storage, ets wrapper.
 
@@ -124,9 +124,9 @@
 ### Text and Numbers
 
 *   [colors (⭐7)](https://github.com/lidashuang/colors) - Colors util written in Elixir.
-*   [decimal (⭐402)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
-*   [inflex (⭐357)](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
-*   [uuid (⭐345)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
+*   [decimal (⭐412)](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
+*   [inflex (⭐365)](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
+*   [uuid (⭐346)](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 
 ### Third Party APIs
 
@@ -162,7 +162,7 @@
 
 *   [peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 *   [raphael (⭐11k)](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
-*   [two.js (⭐7.8k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+*   [two.js (⭐7.9k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 *   [g.raphael (⭐1.5k)](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
 *   [sigma.js (⭐10k)](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
 *   [arbor (⭐2.6k)](https://github.com/samizdatco/arbor) - A graph visualization library using web workers and jQuery.
@@ -171,12 +171,12 @@
 *   [vega (⭐29)](https://github.com/trifacta/vega) - A visualization grammar.
 *   [envisionjs (⭐1.6k)](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization.
 *   [rickshaw (⭐6.5k)](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs.
-*   [flot (⭐6k)](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
+*   [flot (⭐5.9k)](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
 *   [morris.js (⭐7k)](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs.
-*   [svg.js (⭐9.9k)](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
+*   [svg.js (⭐10k)](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
 *   [heatmap.js (⭐5.9k)](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps.
 *   [d3-cloud (⭐3.6k)](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
-*   [d4 (⭐430)](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
+*   [d4 (⭐429)](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 
 ### Date / Runner
 
@@ -190,7 +190,7 @@
 ### Loading Status / Runner
 
 *   [progress.js (⭐2.4k)](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
-*   [PageLoadingEffects (⭐632)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
+*   [PageLoadingEffects (⭐634)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
 
 ## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 

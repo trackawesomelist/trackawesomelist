@@ -10,7 +10,7 @@
 
 ### API / Automation
 
-*   [DataFire (⭐563)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐564)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

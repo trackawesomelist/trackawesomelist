@@ -38,7 +38,7 @@
 
 ### Samples
 
-*   [Simple RTX Vulkan raytracing tutorials (⭐320)](https://github.com/iOrange/rtxON). \[MIT]
+*   [Simple RTX Vulkan raytracing tutorials (⭐322)](https://github.com/iOrange/rtxON). \[MIT]
 
 ## [6. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

@@ -55,7 +55,7 @@
 
 ### Frameworks
 
-*   [trot (⭐404)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐407)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
@@ -66,7 +66,7 @@
 
 ### Testing
 
-*   [proper (⭐838)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
+*   [proper (⭐846)](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 
 ### Third Party APIs
 

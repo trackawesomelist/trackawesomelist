@@ -10,7 +10,7 @@
 
 ### Starters & Themes
 
-*   📟 [Next.js PWA (⭐65)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
+*   📟 [Next.js PWA (⭐66)](https://github.com/msaaddev/create-next-pwa) – CLI that generate boilerplate code of Next.js PWA along with Tailwind CSS integration.
 
 ## [2. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
@@ -26,11 +26,11 @@
 
 ### Plugin Manager
 
-*   [NTBBloodbath/cheovim (⭐215)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
+*   [NTBBloodbath/cheovim (⭐234)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [NTBBloodbath/doom-one.nvim (⭐121)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one for Neovim.
+*   [NTBBloodbath/doom-one.nvim (⭐127)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04 - Nov 10, 2019
 
-73 awesome lists updated this week.
+74 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -42,12 +42,12 @@
 
 *   Synchronous
     *   [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-        *   [awesome-django (⭐946)](https://github.com/shahraizali/awesome-django)
-        *   [awesome-django (⭐6.2k)](https://github.com/wsvincent/awesome-django)
+        *   [awesome-django (⭐992)](https://github.com/shahraizali/awesome-django)
+        *   [awesome-django (⭐6.3k)](https://github.com/wsvincent/awesome-django)
     *   [Flask](http://flask.pocoo.org/) - A microframework for Python.
         *   [awesome-flask (⭐11k)](https://github.com/humiaozuzu/awesome-flask)
     *   [Pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
-        *   [awesome-pyramid (⭐529)](https://github.com/uralbash/awesome-pyramid)
+        *   [awesome-pyramid (⭐531)](https://github.com/uralbash/awesome-pyramid)
     *   [Masonite (⭐1.9k)](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 
 ## [5. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
@@ -222,14 +222,14 @@
 
 ### Backports and improvements
 
-*   [typed-ast (⭐214)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
+*   [typed-ast (⭐217)](https://github.com/python/typed_ast) - Modified fork of CPython's ast module that parses `# type:` comments.
 *   [typing-extensions (⭐1.3k)](https://github.com/python/typing/tree/master/typing_extensions) - Backported and experimental type hints.
 
 ## [23. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐6.3k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐6.4k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ### Python / General-Purpose Machine Learning
 
@@ -237,7 +237,7 @@
 
 ### Tools / Misc
 
-*   [Kedro (⭐7.7k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
+*   [Kedro (⭐7.8k)](https://github.com/quantumblacklabs/kedro/) - Kedro is a data and development workflow framework that implements best practices for data pipelines with an eye towards productionizing machine learning models.
 *   [guild.ai](https://guild.ai/) - Tool to log, analyze, compare and "optimize" experiments. It's cross-platform and framework independent, and provided integrated visualizers such as tensorboard.
 
 ## [24. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
@@ -349,21 +349,17 @@
 
 ## [28. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
-### Client Web App Frameworks
-
-*   [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications.
-
 ### Server Frameworks
 
-*   [Jaguar (⭐443)](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensibility.
+*   [Jaguar (⭐447)](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensibility.
 *   [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     *   There are many packages written for Shelf. By convention they start with [shelf\_](https://pub.dartlang.org/search?q=shelf_).
-*   [Vane (⭐55)](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
-*   [Rikulo Stream (⭐220)](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
+*   [Vane (⭐57)](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system.
+*   [Rikulo Stream (⭐226)](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources.
 
 ### Game Development
 
-*   [Flame (⭐7k)](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine.
+*   [Flame (⭐7.2k)](https://github.com/luanpotter/flame#readme) - A minimalist Flutter game engine.
 
 ### Database
 
@@ -372,14 +368,14 @@
 ### Tools
 
 *   [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript.
-*   [js2dart (⭐58)](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart.
-*   [webdev\_proxy (⭐9)](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev (⭐187)](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
+*   [js2dart (⭐60)](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart.
+*   [webdev\_proxy (⭐9)](https://github.com/Workiva/webdev_proxy) - A proxy wrapper around [webdev (⭐194)](https://github.com/dart-lang/webdev) which adds support for rerouting 404s to the index, allowing for HTML push-based routing while running locally.
 
 ### IDEs, Editors, and Plugins
 
 *   [Sublime Text Package (⭐262)](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package.
-*   [Emacs Plugin (⭐2)](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language.
-*   [Vim Plugin (⭐592)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
+*   [Emacs Plugin (⭐3)](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language.
+*   [Vim Plugin (⭐596)](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim.
 *   [VSCode Plugin](https://dartcode.org/) - Dart support for Visual Studio Code.
 
 ## [29. Awesome Calculators](/content/xxczaki/awesome-calculators/week/README.md)
@@ -550,11 +546,11 @@
 
 ### Software / Miscellaneous
 
-*   [Journal (⭐211)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
+*   [Journal (⭐231)](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`
 
 ### Software / Money, Budgeting & Management
 
-*   [OnTrack (⭐587)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
+*   [OnTrack (⭐603)](https://github.com/inoda/ontrack) - A simple app to track spend and set goals. `MIT` `Ruby/React`
 
 ### List of Licenses / Wikis
 
@@ -576,7 +572,7 @@
 
 ## [47. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
-### Intermediate
+### Beginner
 
 #### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
 
@@ -676,7 +672,7 @@
 
 ### Libraries / Visualization
 
-*   [3Dmol.js (⭐583)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
+*   [3Dmol.js (⭐592)](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
 
 ## [55. Awesome Nlg](/content/accelerated-text/awesome-nlg/week/README.md)
 
@@ -758,7 +754,7 @@
 
 ### HTTP
 
-*   [proxy-fetcher.cr (⭐8)](https://github.com/nbulaj/proxy-fetcher.cr) - Proxy lists fetching & validating library
+*   [proxy-fetcher.cr (⭐9)](https://github.com/nbulaj/proxy-fetcher.cr) - Proxy lists fetching & validating library
 
 ### Template Engine
 
@@ -3883,49 +3879,64 @@
 
 *   [Google Home Theme (⭐105)](https://github.com/liri/lovelace-themes) - Two themes (light and dark) matching the design of Google Home Hub.
 
-## [68. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [68. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### ABAP
+
+*   [SAP Code Style Guides - Clean ABAP (⭐1.2k)](https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md)
+
+### C / Non-X86
+
+*   [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
+*   [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
+
+### F Sharp / Phoenix
+
+*   [Programming Language Concepts for Software Developers](https://archive.org/details/B-001-003-622)
+
+## [69. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Articles
 
 *   [Car Hacking in 30 Minutes or Less](https://brysonpayne.com/2018/10/20/start-car-hacking-in-30-minutes-or-less/) - Using VirtualBox and Kali Linux, you can start car hacking using completely free open-source software and tools, including can-utils, ICSim, ScanTool, Wireshark, and tcpdump
 
-## [69. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [70. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
-*   [CodableWrappers (⭐373)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐387)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ### Mock / Barcode
 
-*   [MockSwift (⭐78)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
+*   [MockSwift (⭐81)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
 
-## [70. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [71. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Insights from the oracle](http://blog.ppedv.de/?tag=Blazor) - \[German] Blog about Blazor.
 
-## [71. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [72. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐5.1k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. [![Build Status](https://api.travis-ci.org/phiresky/ripgrep-all.svg?branch=master)](https://travis-ci.org/phiresky/ripgrep-all)
+*   [phiresky/ripgrep-all (⭐5.2k)](https://github.com/phiresky/ripgrep-all) — ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. [![Build Status](https://api.travis-ci.org/phiresky/ripgrep-all.svg?branch=master)](https://travis-ci.org/phiresky/ripgrep-all)
 
 ### Development tools / Web Servers
 
-*   [scriptisto (⭐226)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+*   [scriptisto (⭐237)](https://github.com/igor-petruk/scriptisto) A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
-## [72. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [73. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Data Manipulation / Data Containers
 
-*   [pandas-log (⭐202)](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
+*   [pandas-log (⭐203)](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
 
 ### Optimization / NLP
 
-*   [scikit-opt (⭐3.6k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+*   [scikit-opt (⭐3.7k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 
-## [73. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [74. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Monitoring / Single Sign-On (SSO)
 

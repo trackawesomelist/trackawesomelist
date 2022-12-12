@@ -104,15 +104,7 @@
 
 ### Component bundles
 
-*   [PanoramicData Blazor UI Components (⭐45)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
-
-### Individual components / Datagrids / tables
-
-*   [WpfGridLayout.Blazor (⭐26)](https://github.com/aboudoux/WpfGridLayout.Blazor) - ![last commit](https://img.shields.io/github/last-commit/aboudoux/WpfGridLayout.Blazor?style=flat-square\&cacheSeconds=86400) Provide a simple way to create a grid layout like WPF in Blazor.
-
-### Individual components / Others
-
-*   [BlazorDialog (⭐27)](https://github.com/stavroskasidis/BlazorDialog) - ![last commit](https://img.shields.io/github/last-commit/stavroskasidis/BlazorDialog?style=flat-square\&cacheSeconds=86400) Dialog component as a service for Blazor. [Demo](https://blazor-dialog-demo.azurewebsites.net/).
+*   [PanoramicData Blazor UI Components (⭐47)](https://github.com/panoramicdata/PanoramicData.Blazor) - ![stars](https://img.shields.io/github/stars/panoramicdata/PanoramicData.Blazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PanoramicData/PanoramicData.Blazor) An open source library of Blazor components including Table, Tree, ToolBar and FileExplorer. [Demo](https://panoramicdata.github.io/PanoramicData.Blazor).
 
 ## [10. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 

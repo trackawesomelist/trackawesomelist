@@ -57,7 +57,7 @@
 
 ### Open Source / Other
 
-*   [Graviton Editor (⭐932)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
+*   [Graviton Editor (⭐947)](https://github.com/Graviton-Code-Editor/Graviton-App) - Cross-platform code editor.
 
 ## [6. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Decentralized Systems
 
-*   [Substrate (⭐581)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+*   [Substrate (⭐615)](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

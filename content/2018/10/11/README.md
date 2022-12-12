@@ -13,7 +13,7 @@
 *   [**Carbon Components**](https://www.carbondesignsystem.com/) - Component library behind IBM's Carbon Design System.\
     ![](https://img.shields.io/github/stars/carbon-design-system/carbon-components.svg?style=social\&label=Star)
     [Docs](https://www.carbondesignsystem.com/components/overview/),
-    [Repo (⭐6k)](https://github.com/carbon-design-system/carbon)
+    [Repo (⭐6.1k)](https://github.com/carbon-design-system/carbon)
     \| #SCSS
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
@@ -26,7 +26,7 @@
 
 ### Patterns
 
-*   [Viperit (⭐496)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
+*   [Viperit (⭐503)](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.
 
 ## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 
@@ -92,7 +92,7 @@
 
 ### XML
 
-*   [Mini-XML (⭐360)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
+*   [Mini-XML (⭐367)](https://github.com/michaelrsweet/mxml) - A small XML parsing library written in ANSI C. \[LGPL2 with exceptions]
 
 ## [14. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

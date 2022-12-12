@@ -322,7 +322,7 @@ A curated list of awesome MicroPython libraries, frameworks, software and resour
 
 ### Communications / Cryptography
 
-*   [ucrypto (⭐8)](https://github.com/dmazzella/ucrypto) - MicroPython package for doing fast elliptic curve cryptography, specifically digital signatures. API design inspired from fastecdsa and implementation based on tomsfastmath.
+*   [ucrypto (⭐8)](https://github.com/dmazzella/ucrypto) - Micropython package for doing fast rsa and elliptic curve cryptography, specifically digital signatures. ECDSA API design inspired from fastecdsa and implementation based on tomsfastmath.
 *   [ucryptoauthlib (⭐32)](https://github.com/dmazzella/ucryptoauthlib) - Lightweight driver for Microchip Crypto Authentication secure elements written in pure python for MicroPython.
 *   [embit (⭐37)](https://github.com/diybitcoinhardware/embit) - A minimal bitcoin library for MicroPython and Python3 with a focus on embedded systems.
 *   [microotp (⭐18)](https://github.com/gdassori/microotp) - A ESP8266 MicroPython OTP Generator.

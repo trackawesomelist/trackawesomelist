@@ -40,7 +40,7 @@
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐47k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐48k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -64,7 +64,7 @@
 
 *   [Mongoop (⭐38)](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
 *   [Motop (⭐67)](https://github.com/tart/motop) - MongoDB top clone
-*   [mtop (⭐50)](https://github.com/beaufour/mtop) - Another top clone
+*   [mtop (⭐51)](https://github.com/beaufour/mtop) - Another top clone
 
 ### Tools / Web
 
@@ -74,7 +74,7 @@
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐919)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐929)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ## [9. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Software / Automation
 
-*   [ActiveWorkflow (⭐616)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
+*   [ActiveWorkflow (⭐633)](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`
 
 ## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

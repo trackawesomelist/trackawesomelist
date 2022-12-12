@@ -10,7 +10,7 @@
 
 ### Error Handling
 
-*   [Bugsnag (⭐226)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
+*   [Bugsnag (⭐229)](https://github.com/bugsnag/bugsnag-ruby) - Error monitoring for Rails, Sinatra, Rack, and plain Ruby apps.
 
 ## [2. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -79,7 +79,7 @@
 
 ### PDF / Barcode
 
-*   [SimplePDF (⭐238)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
+*   [SimplePDF (⭐237)](https://github.com/nRewik/SimplePDF) - Create a simple PDF effortlessly.
 
 ### Streaming / Barcode
 

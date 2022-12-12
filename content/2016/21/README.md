@@ -176,7 +176,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Queues and Messaging
 
-*   [sidekiq.cr (⭐741)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
+*   [sidekiq.cr (⭐747)](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ### Web Frameworks
 
@@ -572,7 +572,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Samples
 
-*   [Stardust from Intel (⭐107)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐107)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
+*   [Stardust from Intel (⭐110)](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. \[[LICENSE (⭐110)](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 
 ### Bindings
 
@@ -640,7 +640,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Authentication and OAuth
 
-*   [Rodauth (⭐1.3k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
+*   [Rodauth (⭐1.4k)](https://github.com/jeremyevans/rodauth) - Authentication and account management framework for Rack applications.
 
 ### Documentation
 
@@ -656,7 +656,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Boilerplates / Other
 
-*   [bozon (⭐748)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐752)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [43. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

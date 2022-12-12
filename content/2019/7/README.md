@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 18 - Feb 24, 2019
 
-59 awesome lists updated this week.
+60 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -48,13 +48,13 @@
 
 ### Entertainment
 
-*   [Podcasts (⭐397)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
+*   [Podcasts (⭐408)](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### PDF / Third-party APIs
 
-*   [cl-typesetting (⭐63)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐99)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
+*   [cl-typesetting (⭐64)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐100)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD](https://directory.fsf.org/wiki?title=License:FreeBSD).
 
 ## [8. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
@@ -120,11 +120,11 @@
 
 ### Status Bar
 
-*   [tmux-battery (⭐392)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+*   [tmux-battery (⭐400)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
 *   [tmux-maildir-counter (⭐30)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
-*   [tmux-mem-cpu-load (⭐880)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
+*   [tmux-mem-cpu-load (⭐890)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
 *   [tmux-online-status (⭐150)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
-*   [tmux-prefix-highlight (⭐437)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+*   [tmux-prefix-highlight (⭐439)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 *   [tmux-weather (⭐33)](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 
 ## [16. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
@@ -158,9 +158,9 @@
 *   [RecastNavigation (⭐19)](https://github.com/Kromster80/RecastNavigationDelphi). `[Delphi]` Navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
 *   [Asphyre aka Platform eXtended Library (PXL)](https://sourceforge.net/projects/asphyre). `[Delphi]` `[FPC]` Cross-platform framework for developing 2D/3D video games, interactive and scientific applications. It aids the developer with mathematics, hardware control, resource management, displaying real-time graphics and text, handle user input and network communication capabilities.
 *   [CrystalPathFinding (⭐39)](https://github.com/d-mozulyov/CrystalPathFinding). `[Delphi]` `[FPC]` Simple and effective library with an open source intended for the searching of the shortest paths by algorithms A\*/WA\* for maps based on tiles with 4 (simple), 8 (diagonal/diagonalex) or 6 (hexagonal) neighbors.
-*   [TileEngine](http://www.tilengine.org). ([GitHub (⭐35)](https://github.com/turric4n/PascalTileEngine)) `[Delphi]` `[FPC]` OOP Pascal Wrapper and bindings for Tilengine 2D retro graphics engine. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
-*   [SDL2](http://www.freepascal-meets-sdl.net/) ([GitHub (⭐111)](https://github.com/ev1313/Pascal-SDL-2-Headers)). `[Delphi]` `[FPC]` Pascal SDL 2 Headers. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
-*   [pasvulkan (⭐159)](https://github.com/BeRo1985/pasvulkan). `[Delphi]` `[FPC]` Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
+*   [TileEngine](http://www.tilengine.org). ([GitHub (⭐36)](https://github.com/turric4n/PascalTileEngine)) `[Delphi]` `[FPC]` OOP Pascal Wrapper and bindings for Tilengine 2D retro graphics engine. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
+*   [SDL2](http://www.freepascal-meets-sdl.net/) ([GitHub (⭐109)](https://github.com/ev1313/Pascal-SDL-2-Headers)). `[Delphi]` `[FPC]` Pascal SDL 2 Headers. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+*   [pasvulkan (⭐161)](https://github.com/BeRo1985/pasvulkan). `[Delphi]` `[FPC]` Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal.
 
 ### Math
 
@@ -183,7 +183,7 @@
 
 ### Monitoring / Single Sign-On (SSO)
 
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐128)](https://github.com/netxms/netxms))
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐130)](https://github.com/netxms/netxms))
 
 ## [23. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
@@ -202,15 +202,15 @@
 
 ### CLI
 
-*   [Clara (⭐651)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[BSL-1.0]
+*   [Clara (⭐650)](https://github.com/catchorg/Clara) - A simple to use, composable, command line parser for C++ 11 and beyond. \[BSL-1.0]
 
 ### Memory Allocation
 
-*   [memory (⭐1.1k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
+*   [memory (⭐1.2k)](https://github.com/foonathan/memory) - STL compatible C++ memory allocator library. \[ZLib]
 
 ### Networking
 
-*   [PcapPlusPlus (⭐2k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
+*   [PcapPlusPlus (⭐2.1k)](https://github.com/seladb/PcapPlusPlus) - a multiplatform C++ network sniffing and packet parsing and crafting framework. \[Unlicense]
 
 ## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -228,7 +228,7 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐7.9k)](https://github.com/gotify/server), [Clients (⭐547)](https://github.com/gotify/android)) `MIT` `Go`
+*   [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code (⭐8.2k)](https://github.com/gotify/server), [Clients (⭐561)](https://github.com/gotify/android)) `MIT` `Go`
 
 ### Software / Learning and Courses
 
@@ -295,22 +295,22 @@
 
 *   [**Vue(2.0) + Node.js: A blog**](https://github.com/FatDong1/vue-blog) by @FatDong1
 *   [vue-todo-list (⭐14)](https://github.com/alexander-elgin/vue-todo-list) ToDo List sample app based on Vue + Vuex + Vuetify + Vee-Validate
-*   [Vue.js and Ionic v4 examples (⭐47)](https://github.com/ModusCreateOrg/ionic-vue-examples/) - A set of examples of how to use Ionic v4 with Vue.js
+*   [Vue.js and Ionic v4 examples (⭐46)](https://github.com/ModusCreateOrg/ionic-vue-examples/) - A set of examples of how to use Ionic v4 with Vue.js
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Org Chart (⭐284)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
-*   [Beep (⭐155)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
-*   [Vue CRUD (⭐767)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
+*   [Vue Org Chart (⭐286)](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
+*   [Beep (⭐154)](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
+*   [Vue CRUD (⭐775)](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 
 ### Components & Libraries / UI Components
 
-*   [vue-date-picker (⭐100)](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
-*   [vue-ctk-date-time-picker (⭐817)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
+*   [vue-date-picker (⭐101)](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
+*   [vue-ctk-date-time-picker (⭐824)](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-scroll-progressbar (⭐85)](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
+*   [vue-scroll-progressbar (⭐84)](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
 
 ## [33. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -482,7 +482,7 @@
 
 ### Misc / Other
 
-*   [ky (⭐8.1k)](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
+*   [ky (⭐8.3k)](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 
 ## [46. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -509,15 +509,21 @@
 
 ### Resources in Other Languages / Chinese
 
-*   [《Deno进阶开发笔记》 (⭐669)](https://github.com/chenshenhai/deno_note/)
+*   [《Deno进阶开发笔记》 (⭐668)](https://github.com/chenshenhai/deno_note/)
 
-## [49. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [49. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [Bare-metal programming for ARM (⭐386)](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
+
+## [50. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 
-## [50. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
+## [51. Awesome Html5](/content/diegocard/awesome-html5/week/README.md)
 
 ### Multimedia capabilities / Audio
 
@@ -531,7 +537,7 @@
 
 *   [HTML5 Please](https://html5please.com/) (Know when HTML5 feature are ready to use)
 
-## [51. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
@@ -541,7 +547,7 @@
 
 *   [webdriver\_pump (⭐3)](https://github.com/bwilczek/webdriver_pump) - Page Object library. Inspired by Ruby's [WatirPump (⭐15)](https://github.com/bwilczek/watir_pump)
 
-## [52. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [53. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Africa / South Africa 🇿🇦
 
@@ -593,14 +599,13 @@ Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 Topics: Terraform, AWS, Devops\
 <https://twitter.com/antonbabenko>
 
-## [53. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [54. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Export
 
 *   [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW\.js.
-*   [Chowdren](http://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
-## [54. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [55. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Microchip
 
@@ -611,7 +616,7 @@ Topics: Terraform, AWS, Devops\
 *   [`stm32f1xx-hal`](https://github.com/stm32-rs/stm32f1xx-hal) - ![crates.io](https://img.shields.io/crates/v/stm32f1xx-hal.svg)
     *   Can be run on boards like the [Blue pill](https://stm32duinoforum.com/forum/wiki_subdomain/index_title_Blue_Pill.html), [Nucleo-F103RB](http://www.st.com/en/evaluation-tools/nucleo-f103rb.html) and similar boards
 
-## [55. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [56. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -621,31 +626,31 @@ Topics: Terraform, AWS, Devops\
 
 *   [react-native-spring-scrollview ★64 (⭐309)](https://github.com/bolan9999/react-native-spring-scrollview) - React Native Spring ScrollView V2 is a high performance cross-platform native bounces ScrollView for React Native.(iOS & Android)
 
-## [56. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [57. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
-*   :octocat: [Clean Code concepts adapted for TypeScript (⭐6.7k)](https://github.com/labs42io/clean-code-typescript)
+*   :octocat: [Clean Code concepts adapted for TypeScript (⭐6.9k)](https://github.com/labs42io/clean-code-typescript)
 
-## [57. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [58. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 
 *   [localstack/localstack :fire::fire::fire::fire::fire: (⭐44k)](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
-## [58. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [59. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Colors
 
-*   [Gradients (⭐755)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
+*   [Gradients (⭐772)](https://github.com/Gradients/Gradients) - A curated collection of splendid 180+ gradients.
 
 ### Camera
 
-*   [CameraKit-iOS (⭐626)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
+*   [CameraKit-iOS (⭐629)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next project.
 
 ### Images / Barcode
 
-*   [JLStickerTextView (⭐476)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
+*   [JLStickerTextView (⭐477)](https://github.com/Textcat/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
 
 ### Auto Layout / Barcode
 
@@ -653,13 +658,13 @@ Topics: Terraform, AWS, Devops\
 
 ### UITableView / Barcode
 
-*   [DTTableViewManager (⭐453)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
+*   [DTTableViewManager (⭐454)](https://github.com/DenTelezhkin/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 
 ### Utility / Barcode
 
 *   [Swiftbot (⭐55)](https://github.com/noppefoxwolf/Swiftbot) - run swift code on slack.
 
-## [59. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [60. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online books
 

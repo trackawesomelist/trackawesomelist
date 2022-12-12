@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2020
 
-22 awesome lists updated today.
+23 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -23,8 +23,8 @@
 
 ### Programming Languages
 
-*   [R (⭐5.2k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-    *   [Learning (⭐381)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+*   [R (⭐5.3k)](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
+    *   [Learning (⭐401)](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 
 ## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -133,7 +133,7 @@ Free (Open Source)
 
 ### IR Tools Collection / Other Tools
 
-*   [rastrea2r (⭐203)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
+*   [rastrea2r (⭐205)](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 
 ### IR Tools Collection / Process Dump Tools
 
@@ -141,19 +141,19 @@ Free (Open Source)
 
 ### IR Tools Collection / Sandboxing/Reversing Tools
 
-*   [CAPEv2 (⭐922)](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
+*   [CAPEv2 (⭐944)](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
 *   [Cuckoo (⭐5.1k)](https://github.com/cuckoosandbox/cuckoo) - Open Source Highly configurable sandboxing tool.
 
 ### IR Tools Collection / Windows Evidence Collection
 
 *   [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - Free tool from Mandiant for collecting host system data and reporting the presence of Indicators of Compromise (IOCs). Support for Windows only. No longer maintained. Only fully supported up to Windows 7 / Windows Server 2008 R2.
-*   [RegRipper (⭐304)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
+*   [RegRipper (⭐308)](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Frameworks
 
-*   [Stellar Admin Boilerplate (⭐14)](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
+*   [Stellar Admin Boilerplate (⭐15)](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 
 ## [14. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -165,7 +165,7 @@ Free (Open Source)
 
 ### WSL Tools / Terminals
 
-*   [Alacritty (⭐42k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
+*   [Alacritty (⭐43k)](https://github.com/alacritty/alacritty) - A terminal emulator with focus on performance and simplicity.
 
 ## [16. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -293,13 +293,46 @@ Free (Open Source)
 
 *   [Quantum Algorithm Implementations for Beginners](https://arxiv.org/pdf/1804.03719.pdf) - A brif survey of 20 different quantum algorithms using qiskit.
 
-## [21. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante (PDF)
+*   [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF)
+*   [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
+
+### C# / Non-X86
+
+*   [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
+
+### C++ / Non-X86
+
+*   [Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) - Alan Ezust, Paul Ezust (PDF)
+*   [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
+*   [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
+*   [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
+
+### HTML and CSS / Spock Framework
+
+*   [DOM Enlightenment](http://domenlightenment.com) - Cody Lindley (HTML)
+*   [HTML5 Quick Learning Guide](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) - HTML5Templates (PDF)
+*   [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat (HTML)
+
+### JavaScript / Wicket
+
+*   [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Matthias Schäfer (HTML, EPUB)
+
+### R / Tornado
+
+*   [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html) - Salvatore S. Mangiafico
+
+## [22. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### CLI & Editor / iOS
 
 *   📖 [Firebase Tools UI (⭐206)](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
 
-## [22. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [23. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles Glimmer
 

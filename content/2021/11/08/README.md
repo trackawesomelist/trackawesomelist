@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 08, 2021
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,20 +12,13 @@
 
 *   [Gramacki et al. - "gtfs2vec - Learning GTFS Embeddings for comparing Public Transport Offer in Microregions"](https://github.com/CUTR-at-USF/awesome-transit/blob/master/README.md/2021) - Methology using Uber's H3 spatial index and machine learning to identify areas of "similar" public transit service quality in cities. Source code available [on GitHub (⭐5)](https://github.com/pwr-inf/gtfs2vec).
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Articles / Others
-
-*   [Announcing ASP.NET Core in .NET 6](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-net-6/) - November 8, 2021 - .NET 6 is now released! ASP.NET Core in .NET 6 includes everything you need to build rich modern web UI and powerful back-end services.
-*   [Full-stack .NET 6 Apps with Blazor WebAssembly and Azure Static Web Apps](https://techcommunity.microsoft.com/t5/apps-on-azure/full-stack-net-6-apps-with-blazor-webassembly-and-azure-static/ba-p/2933428) - November 8, 2021 - .NET 6 is the latest version of .NET and it’s generally available today. The Azure Static Web Apps team is excited to announce that you can now run full-stack .NET 6 apps on Static Web Apps.
-
-## [3. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
+## [2. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 
 ### Filesystem / Web
 
 *   [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) - Multi purpose launcher and file switcher. Website [link](https://www.quickaccesspopup.com/).
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [3. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Test Data
 
@@ -55,7 +48,7 @@
 
 
 
-## [5. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [4. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
 - Name: [Appcircle.io](https://appcircle.io/)
 
@@ -73,23 +66,23 @@
 
 
 
-## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Debugging
 
 *   [Scyther (⭐88)](https://github.com/bstillitano/Scyther) - A full-featured, in-app debugging menu packed full of useful tools including network logging, layout inspection, location spoofing, console logging and so much more.
 
-## [7. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
+## [6. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 
 ### Client Libraries
 
-*   [Subscan Go Utilities (⭐155)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
+*   [Subscan Go Utilities (⭐156)](https://github.com/itering/subscan-essentials) - SS58 and more, developed by Subscan.
 
 ### Tools
 
 *   [SS58 Transform](https://polkadot.subscan.io/tools/ss58_transform) - Display key's addressees with all SS58 prefixes.
 
-## [8. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [7. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Articles
 
@@ -131,23 +124,23 @@
     AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians adding "real-time stress" with k6 and WebSockets.
 *   [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood on load testing a Kubernetes system with k6.
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [8. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Reports Generation
 
 *   [Export SDK](https://exportsdk.com) - PDF generator API with visual template editor.
 
-## [10. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### CBOR
 
-*   [CBORCoding (⭐22)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
+*   [CBORCoding (⭐23)](https://github.com/SomeRandomiOSDev/CBORCoding) :penguin: - Easy CBOR encoding and decoding for iOS, macOS, tvOS and watchOS.
 
-## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [10. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Database
 
-*   [ArangoDB (⭐188)](https://github.com/arangodb/arangodb-java-driver) - ArangoDB Java driver.
+*   [ArangoDB (⭐192)](https://github.com/arangodb/arangodb-java-driver) - ArangoDB Java driver.
 
 ### Miscellaneous
 
@@ -155,24 +148,24 @@
 
 ### Monitoring
 
-*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐885)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐32k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
+*   [Sentry ![c](https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg) (⭐900)](https://github.com/getsentry/sentry-java) - Integration with [Sentry (⭐33k)](https://github.com/getsentry/sentry), an application error tracking and performance analysis platform.
 
 ### Template Engine / Other
 
-*   [Jamal (⭐21)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
-*   [jte (⭐429)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
+*   [Jamal (⭐27)](https://github.com/verhas/jamal) - Extendable template engine embedded into Maven/JavaDoc, supporting multiple extensions (Groovy, Ruby, JavaScript, JShell, PlantUml) with support for snippet handling.
+*   [jte (⭐450)](https://github.com/casid/jte) - Compiles to classes, and uses an easy syntax, several features to make development easier and provides fast execution and a small footprint.
 
 ### People / Other
 
 *   [Groundbreakers](https://apexapps.oracle.com/pls/apex/f?p=119297:3::::::) - Oracle ACEs, Groundbreaker Ambassadors and Java Champions.
 
-## [12. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-require-transform (⭐34)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
+*   [vite-plugin-require-transform (⭐40)](https://github.com/WarrenJones/vite-plugin-require-transform) - Converts the code from require syntax to import.
 
-## [13. Nginx Resources](/content/fcambus/nginx-resources/README.md)
+## [12. Nginx Resources](/content/fcambus/nginx-resources/README.md)
 
 ### Configuration
 
@@ -183,31 +176,31 @@
 
 *   [nginx mirroring tips and tricks](https://alex.dzyoba.com/blog/nginx-mirror/)
 
-## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Companies with "remote DNA"
 
 *   [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
 
-## [15. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [14. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Replay
 
 *   [warc2html (⭐22)](https://github.com/iipc/warc2html) - Converts WARC files to static HTML suitable for browsing offline or rehosting.
 
-## [16. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [15. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS services powered by utilizing GitHub / Outline Processor Markup Language
 
 *   [Bubo reader (⭐65)](https://github.com/georgemandis/bubo-rss): a hyper-minimalist RSS and JSON feed reader you can deploy on Netlify or Glitch [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/georgemandis/bubo-rss)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)([Deploy on Github (⭐17)](https://github.com/kevinfiol/reader)-personal fork)
 
-## [17. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [16. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Integration
 
 *   [Flutter SDK](https://pub.dev/packages/directus) - Flutter SDK to provide interface for Directus API.
 
-## [18. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [17. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Electronics and Mechanics / Version Control
 

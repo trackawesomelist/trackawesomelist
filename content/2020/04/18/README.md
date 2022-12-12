@@ -22,13 +22,13 @@
 
 ### Software / Automation
 
-*   [YoutubeDL-Material (⭐1.6k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
+*   [YoutubeDL-Material (⭐1.7k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs`
 
 ## [4. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Community / Articles by   [Fireslime](https://fireslime.xyz/)
 
-*   [bonfire (⭐742)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+*   [bonfire (⭐781)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
 ## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
@@ -128,7 +128,7 @@ Language: English
 
 ### Projects Using Vue.js / Open Source
 
-*   [Sheiley Shop (⭐43)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
+*   [Sheiley Shop (⭐44)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
 ## [7. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -245,11 +245,11 @@ Language: English
 
 ### Tools and session management
 
-*   [tmux-cssh (⭐59)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+*   [tmux-cssh (⭐60)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 
 ### Status Bar
 
-*   [tmux-cpu-info (⭐7)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
+*   [tmux-cpu-info (⭐8)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 
 ## [12. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 

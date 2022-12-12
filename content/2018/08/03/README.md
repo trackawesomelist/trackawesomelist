@@ -100,8 +100,8 @@
 
 ### Softwares / Launchers
 
-*   [MultiMC (⭐3.6k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-*   [HMCL (⭐4.4k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+*   [MultiMC (⭐3.7k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+*   [HMCL (⭐4.6k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## [9. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Maps / Barcode
 
-*   [LocoKit (⭐1.4k)](https://github.com/sobri909/LocoKit) - A location and activity recording framework for iOS.
+*   [LocoKit (⭐1.5k)](https://github.com/sobri909/LocoKit) - A location and activity recording framework for iOS.
 
 ### Math / Barcode
 
@@ -30,7 +30,7 @@
 
 ### UICollectionView / Barcode
 
-*   [Blueprints (⭐978)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
+*   [Blueprints (⭐982)](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts.
 
 ### Utility / Barcode
 
@@ -81,7 +81,7 @@
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
-*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐158)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
+*   [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. ([Source Code (⭐159)](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## [5. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

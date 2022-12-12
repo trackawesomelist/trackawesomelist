@@ -16,7 +16,7 @@
 
 ### Official Documentation Translations
 
-*   [DeBot (⭐35)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
+*   [DeBot (⭐36)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
 
 ## [3. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

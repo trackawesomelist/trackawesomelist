@@ -561,19 +561,13 @@
 
 *   [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 
-## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Others
-
-*   [BlazorPowerHour (⭐13)](https://github.com/EdCharbeneau/BlazorPowerHour) - ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/BlazorPowerHour?style=flat-square\&cacheSeconds=86400) The Blazor Power Hour show index, by Ed Charbeneau.
-
-## [13. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+## [12. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ### Case studies
 
 *   [Google Developers Case Studies](https://developers.google.com/web/showcase) - Learn why and how other developers have used the web to create amazing web experiences for their users.
 
-## [14. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
+## [13. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 
 ### Broad Overviews
 
@@ -583,20 +577,20 @@
 
 *   [Data Validation for Machine Learning](https://mlsys.org/Conferences/2019/doc/2019/167.pdf) 🎓
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [14. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Transition
 
 *   [DropdownTransition (⭐63)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
 
-## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [bee-grid-table (⭐47)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
-*   [vnodes (⭐71)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
+*   [bee-grid-table (⭐45)](https://github.com/jiahengaa/BeeGridTable) -BeeGridTable , is a Highly Customizable Table UI component library based on Vue.js. Rich functions、More efficient、Easy to use!
+*   [vnodes (⭐75)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 
-## [17. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
+## [16. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 
 ### Open Source Analyzers, Code Fixes, and Refactorings
 
@@ -605,6 +599,16 @@
 ### Source Generators
 
 *   [WrapperValueObject (⭐42)](https://github.com/martinothamar/WrapperValueObject) - Creates boilerplate free wrappers around types. Especially useful for creating [strongly typed wrappers around primitive types](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/).
+
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Spring Boot
+
+*   [Building modern Web Apps with Spring Boot and Vaadin](https://v.vaadin.com/hubfs/Pdfs/Building%20Modern%20Web%20Apps%20with%20Spring%20Boot%20and%20Vaadin.pdf) (PDF)
+
+### JavaScript / Wicket
+
+*   [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
 
 ## [18. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 

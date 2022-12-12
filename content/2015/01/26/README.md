@@ -22,11 +22,11 @@
 
 ### Git Tools
 
-*   [ginatra (⭐529)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
+*   [ginatra (⭐530)](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 
 ### Profiler and Optimization
 
-*   [Rbkit (⭐360)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
+*   [Rbkit (⭐359)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 
 ## [3. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

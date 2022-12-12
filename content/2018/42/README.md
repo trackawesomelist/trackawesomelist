@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 15 - Oct 21, 2018
 
-68 awesome lists updated this week.
+69 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -132,7 +132,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
+*   [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code (⭐7.2k)](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`
 
 ## [10. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -170,7 +170,7 @@
 
 ### Podcasts / Other
 
-*   [You Don't Know JS (⭐160k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐162k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -430,7 +430,7 @@ Topics: Accessibility\
 
 ### Intermediate
 
-#### [1 Million Women To Tech Summer of Code (⭐627)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
+#### [1 Million Women To Tech Summer of Code (⭐625)](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
@@ -463,13 +463,13 @@ Topics: Accessibility\
 
 ### Official Documentation Translations
 
-*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐32)](https://github.com/mamantoha/shards-info)
+*   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐33)](https://github.com/mamantoha/shards-info)
 
 ## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Cryptography
 
-*   [libhydrogen (⭐426)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
+*   [libhydrogen (⭐453)](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library suitable for constrained environments. \[ISC]
 
 ### Game Engine
 
@@ -477,7 +477,7 @@ Topics: Accessibility\
 
 ### Serialization
 
-*   [YAS (⭐576)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
+*   [YAS (⭐585)](https://github.com/niXman/yas) - Very fast **Y**et **A**nother **S**erialization library supports the binary/text/json formats. \[Boost]
 
 ## [35. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -516,7 +516,7 @@ Topics: Accessibility\
 
 ### Web Frameworks
 
-*   [Starlette (⭐7.5k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
+*   [Starlette (⭐7.6k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 
 ### Networking
 
@@ -544,7 +544,13 @@ Topics: Accessibility\
 
 *   [react-native-segment-control ★7 (⭐21)](https://github.com/ainurb/react-native-segment-control) - A swipeable SegmentedControl component for React Native apps.
 
-## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### JavaScript / Ember.js
+
+*   [Ember.js - Getting started](https://guides.emberjs.com/release/)
+
+## [42. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Natural Language Processing
 
@@ -555,13 +561,13 @@ Topics: Accessibility\
 *   [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) for visualizing geospatial data with static maps and [leaflet](https://rstudio.github.io/leaflet/) for interactive maps
 *   [tm](https://www.rdocumentation.org/packages/tm/) and [quanteda](https://quanteda.io/) are the main packages for managing,  analyzing, and visualizing textual data.
 
-## [42. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Lambda
 
 *   [lambda-refarch-iotbackend :fire::fire: (⭐250)](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
 
-## [43. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [44. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -571,7 +577,7 @@ Topics: Accessibility\
     *   [Lecture Notes](https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236)
     *   [Jupyter Notebooks (⭐23k)](https://github.com/fastai/fastai/tree/master/courses/ml1)
 
-## [44. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [45. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -586,22 +592,22 @@ Topics: Accessibility\
 
 *   [Calendar Widget (⭐211)](https://github.com/pinkfish/flutter_calendar) <!--stargazers:pinkfish/flutter_calendar--> - Calendar widget by [David Bennett](https://github.com/pinkfish)
 
-## [45. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [46. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### CLI
 
-*   [ASCII Table (⭐405)](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
+*   [ASCII Table (⭐412)](https://github.com/vdmeer/asciitable) - Library to draw tables in ASCII.
 *   [Airline (⭐847)](https://github.com/airlift/airline) - Annotation-based framework for parsing Git-like command-line arguments.
 *   [args4j](http://args4j.kohsuke.org) - Small library to parse command-line arguments.
-*   [Jansi (⭐941)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
-*   [Java ASCII Render (⭐138)](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
+*   [Jansi (⭐952)](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
+*   [Java ASCII Render (⭐139)](https://github.com/indvd00m/java-ascii-render) - Graphical primitives for the console.
 *   [JCommander](http://jcommander.org) - Command-line argument-parsing framework with custom types and validation via implementing interfaces.
-*   [JLine (⭐1.1k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
-*   [Text-IO (⭐289)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
+*   [JLine (⭐1.2k)](https://github.com/jline/jline3) - Includes features from modern shells like completion or history.
+*   [Text-IO (⭐294)](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 
 ### Networking
 
-*   [TLS Channel (⭐144)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
+*   [TLS Channel (⭐146)](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 
 ### Security / Other
 
@@ -609,22 +615,22 @@ Topics: Accessibility\
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐1.6k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐1.7k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
-## [46. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [47. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Home Assistant (⭐4.1k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+*   [Home Assistant (⭐4.2k)](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
-## [47. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [48. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Resources for Web Publishers
 
 *   [Stanford Libraries' Archivability pages](https://library.stanford.edu/projects/web-archiving/archivability)
 *   The [Archive Ready](http://archiveready.com/) tool, for estimating how likely a web page will be archived successfully.
 
-## [48. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [49. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Framework
 
@@ -634,19 +640,19 @@ Topics: Accessibility\
 
 *   [XamarinControls ★17 (⭐104)](https://github.com/Intelliabb/XamarinControls) - Cross-platform controls for Xamarin and Xamarin.Forms (Checkbox using SkiaSharp).
 
-## [49. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [50. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### GUI-based Applications / Package management and creation tools
 
 *   [Yay (⭐8.4k)](https://github.com/Jguer/yay) (Arch) - Yay is one of the many wrappers to `pacman` which automatically downloads and installs packages from AUR, a full list can be found [here](https://wiki.archlinux.org/index.php/AUR_helpers).
 
-## [50. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [51. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Apps
 
 *   [Urteile & Gesetze (⭐17)](https://github.com/neo-search/urteile-gesetze-web) - German Legal Information System licensed under GPLv3.
 
-## [51. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [52. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### RESTful API
 
@@ -684,19 +690,19 @@ Topics: Accessibility\
 
 *   [Calva (VSCode) (⭐1.2k)](https://github.com/BetterThanTomorrow/calva)
 
-## [52. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [53. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Serverless Framework Plugins
 
 *   [S3 Deploy (⭐58)](https://github.com/funkybob/serverless-s3-deploy) - Plugin to deploy files to an S3 Bucket.
 
-## [53. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [54. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2018
 
 *   [Laurie Voss: **npm and the Future of JavaScript**](https://www.youtube.com/watch?v=Qa4dxW-Qi2s) \[55:00]
 
-## [54. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [55. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -713,7 +719,7 @@ Topics: Accessibility\
 *   [Bullseye (⭐677)](https://github.com/adamralph/bullseye/) - A .NET package for describing and running targets and their dependencies.
 *   [dotnet-env (⭐289)](https://github.com/tonerdo/dotnet-env) - A .NET library to load environment variables from .env files.
 
-## [55. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [56. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Community
 
@@ -731,9 +737,9 @@ Topics: Accessibility\
 ### Components & Libraries / UI Components
 
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
-*   [vue-page-guide (⭐49)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+*   [vue-page-guide (⭐48)](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
-## [56. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [57. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Systems / Subtypes of QA
 
@@ -756,7 +762,7 @@ Topics: Accessibility\
     *   A dataset of short paragraphs and multi-sentence questions
     *   Paper: <http://cogcomp.org/page/publication_view/833>
 
-## [57. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
+## [58. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
 ### Aurelia Examples / Aurelia + Electron Examples
 
@@ -764,13 +770,13 @@ Topics: Accessibility\
 *   [AureliaElectronHappiness (⭐7)](https://github.com/seesharper/AureliaElectronHappiness) \* Sample application that shows how to combine TypeScript, VSCode and Electron.
 *   [electron-aurelia-example (⭐36)](https://github.com/jimschubert/electron-aurelia-example) \* An example desktop application written with Electron and Aurelia.
 
-## [58. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [59. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [JustRemote](https://justremote.co)
 
-## [59. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [60. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -1182,7 +1188,7 @@ Topics: Accessibility\
 *   [Pi-hole](https://pi-hole.net/) Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole
 *   [Anon.to](https://anon.to/) URL shortener to de-referer or null-referer your links.
 
-## [60. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [61. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Business
 
@@ -1441,7 +1447,7 @@ Topics: Accessibility\
 
 
 
-## [61. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [62. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Administration
 
@@ -1469,7 +1475,7 @@ Topics: Accessibility\
 
 *   [GrandNode (⭐1.8k)](https://github.com/grandnode/grandnode) - Multi-platform e-commerce shopping cart built with ASP.NET
 
-## [62. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [63. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authorization
 
@@ -1477,21 +1483,21 @@ Topics: Accessibility\
 
 ### Domain-specific language
 
-*   [JSON-LD.ex (⭐52)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐77)](https://github.com/marcelotto/rdf-ex).
-*   [RDF.ex (⭐77)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
-*   [SPARQL.ex (⭐30)](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
+*   [JSON-LD.ex (⭐57)](https://github.com/marcelotto/jsonld-ex) - An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex (⭐81)](https://github.com/marcelotto/rdf-ex).
+*   [RDF.ex (⭐81)](https://github.com/marcelotto/rdf-ex) - An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir.
+*   [SPARQL.ex (⭐31)](https://github.com/marcelotto/sparql-ex) - An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir.
 
 ### Feature Flags and Toggles
 
-*   [fun\_with\_flags (⭐788)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
+*   [fun\_with\_flags (⭐806)](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
 
 ### HTTP
 
-*   [sparql\_client (⭐23)](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
+*   [sparql\_client (⭐25)](https://github.com/marcelotto/sparql_client) - A [SPARQL protocol](https://www.w3.org/TR/sparql11-protocol/) client for Elixir.
 
 ### Instrumenting / Monitoring
 
-*   [spandex (⭐298)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
+*   [spandex (⭐303)](https://github.com/spandex-project/spandex) - Platform agnostic tracing library originally developed for Datadog APM.
 
 ### Miscellaneous
 
@@ -1499,14 +1505,14 @@ Topics: Accessibility\
 
 ### ORM and Datamapping
 
-*   [ecto\_cassandra (⭐87)](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
-*   [extreme (⭐122)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
+*   [ecto\_cassandra (⭐88)](https://github.com/cafebazaar/ecto-cassandra) - Cassandra DB Adapter for Ecto.
+*   [extreme (⭐123)](https://github.com/exponentially/extreme) - An Elixir library using [Eventstore](https://geteventstore.com) for persistence of events generated by aggregates (CQRS).
 *   [triton (⭐73)](https://github.com/blitzstudios/triton) - Pure Elixir Cassandra ORM built on top of Xandra.
-*   [xandra (⭐307)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
+*   [xandra (⭐313)](https://github.com/lexhide/xandra) - Cassandra driver built natively in Elixir and focused on speed, simplicity, and robustness.
 
 ### Search
 
-*   [elasticsearch (⭐389)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
+*   [elasticsearch (⭐394)](https://github.com/infinitered/elasticsearch-elixir) - A simple, no-nonsense Elasticsearch library for Elixir.
 
 ### Text and Numbers
 
@@ -1515,9 +1521,9 @@ Topics: Accessibility\
 
 ### Third Party APIs
 
-*   [google-cloud (⭐672)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
+*   [google-cloud (⭐683)](https://github.com/GoogleCloudPlatform/elixir-google-api) - This repository contains all the client libraries to interact with Google APIs.
 
-## [63. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [64. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
@@ -1531,7 +1537,7 @@ Topics: Accessibility\
 
 *   [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) - A WEEKLY TECHNOLOGY AND SOFTWARE DEVELOPMENT PODCAST, WITH A STRONG FOCUS ON THE SALESFORCE PLATFORM.
 
-## [64. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [65. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
@@ -1547,8 +1553,8 @@ Topics: Accessibility\
 
 ### Country Data
 
-*   [Phonelib (⭐907)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
-*   [Phony (⭐949)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
+*   [Phonelib (⭐923)](https://github.com/daddyz/phonelib) - Ruby gem for phone validation and formatting using Google libphonenumber library data.
+*   [Phony (⭐955)](https://github.com/floere/phony) - Fast international phone number (E164 standard) normalizing, splitting and formatting.
 
 ### DevOps Tools
 
@@ -1569,14 +1575,14 @@ Topics: Accessibility\
 ### Optimizations
 
 *   [bootsnap (⭐2.6k)](https://github.com/Shopify/bootsnap) - Boot large Ruby/Rails apps faster.
-*   [fast\_blank (⭐595)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
-*   [yajl-ruby (⭐1.4k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
+*   [fast\_blank (⭐596)](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
+*   [yajl-ruby (⭐1.5k)](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
 
 ### Performance Monitoring
 
-*   [Scout (⭐162)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
+*   [Scout (⭐167)](https://github.com/scoutapp/scout_apm_ruby) - Scout Ruby Application Monitoring Agent.
 
-## [65. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [66. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Videos
 
@@ -1585,7 +1591,7 @@ Topics: Accessibility\
 *   [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) - The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
 *   [Textile Build Series - A Free Online Workshop](https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z) - A full Training Program to teach devs on how to build for the Decentralized Web. The series covers a ton of content, touch multiple parts of the IPFS stack and guides devs through building a simple DApp.
 
-## [66. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [67. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Authentication
 
@@ -1593,7 +1599,7 @@ Topics: Accessibility\
 
 ### Key Value Store
 
-*   [Defaults (⭐1.2k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
+*   [Defaults (⭐1.3k)](https://github.com/sindresorhus/Defaults) - Strongly-typed UserDefaults with support for Codable and key observation.
 
 ### Streaming / Barcode
 
@@ -1601,16 +1607,16 @@ Topics: Accessibility\
 
 ### Video / Barcode
 
-*   [Kitsunebi (⭐240)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
+*   [Kitsunebi (⭐242)](https://github.com/noppefoxwolf/Kitsunebi) - Overlay alpha channel video animation player view using OpenGLES.
 
-## [67. Bots](/content/hackerkid/bots/week/README.md)
+## [68. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tutorials / Go
 
 *   [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
 *   [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginners-guide-to-your-first-bot)
 
-## [68. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [69. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Articles
 

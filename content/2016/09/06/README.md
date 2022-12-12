@@ -16,7 +16,7 @@
 
 ### Go Clients
 
-*   [resty (⭐6.8k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+*   [resty (⭐7.1k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

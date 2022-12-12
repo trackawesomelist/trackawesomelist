@@ -26,12 +26,11 @@
 
 ### Writing / Social Sciences
 
-*   [Statistical Physics (⭐35)](https://github.com/emptymalei/statisticalphysics)
+*   [Statistical Physics (⭐36)](https://github.com/emptymalei/statisticalphysics)
 *   [Neutrino Physics (⭐6)](https://github.com/NeuPhysics/neutrino)
 
 ### Hosting / Social Sciences
 
-*   [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 *   [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
 
 ### Static Site Generator / Social Sciences
@@ -46,14 +45,12 @@
 
 *   [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): CMD is a Markdown editor with math (MathJax) support. What is special is that it keeps edit history. (Chinese UI.)
 *   [Penflip](https://www.penflip.com/)(`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
-*   [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): Just another Markdown editor without math support.
 *   [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Just another Markdown editor with math (MathJax) support.
 *   [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Win`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Win`,`Chrome`) is the Chinese version。
 *   [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** × Markdown ²
 *   [typora](https://www.typora.io/)(`Mac`,`Win`):  Beautiful UI and in-situ live preview.
 *   [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 *   [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
-*   [Mou](http://25.io/mou/)(`Mac`): Mou used to be the best Markdown editor on Mac. It is not bad but DO NOT preorder Mou 1.0. This project is dead, unofficially. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
 *   [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
 *   [ReText (⭐1.6k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 

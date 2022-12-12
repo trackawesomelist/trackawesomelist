@@ -10,13 +10,13 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Sklearn-genetic-opt (⭐158)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
+*   [Sklearn-genetic-opt (⭐173)](https://github.com/rodrigo-arenas/Sklearn-genetic-opt): An AutoML package for hyperparameters tuning using evolutionary algorithms, with built-in callbacks, plotting, remote logging and more.
 
 ## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### External Links / Wikis
 
-*   [Awesome Sysadmin (⭐15k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+*   [Awesome Sysadmin (⭐16k)](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
 
 ## [3. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
@@ -41,7 +41,7 @@
 
 *   [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394) - A use-case of badly designed contract management alienating big enterprise customers. See the [associated HN comments](https://news.ycombinator.com/item?id=27053246) on bulk license purchase.
 
-### Invoice / European VAT
+### Invoice / Electronic invoices
 
 *   [EU eInvoicing](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing) - European standard on electronic invoice.
 
@@ -53,7 +53,7 @@
 
 ### Motion / Diagnostics
 
-*   [phaazon/hop.nvim (⭐1.7k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+*   [phaazon/hop.nvim (⭐1.8k)](https://github.com/phaazon/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 *   [ggandor/lightspeed.nvim (⭐1.4k)](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 
 ## [7. Awesome Godot](/content/godotengine/awesome-godot/README.md)

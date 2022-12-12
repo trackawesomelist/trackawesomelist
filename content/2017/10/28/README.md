@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 28, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -17,7 +17,7 @@
 
 ### Misc
 
-*   [aiorun (⭐337)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+*   [aiorun (⭐340)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Misc
 
-*   [DeviceId (⭐475)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐499)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ## [10. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -94,12 +94,6 @@
 
 *   [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
     Will Evans and Sinduja Rangarajan.
-
-## [11. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
-
-### Helpers
-
-*   [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
 
 ---
 

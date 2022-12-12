@@ -64,7 +64,7 @@
 
 ### Third-party APIs
 
-*   [boto3 (⭐7.6k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
+*   [boto3 (⭐7.8k)](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 
 ## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

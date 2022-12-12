@@ -292,7 +292,7 @@ Language: English
 
 ### Python / General-Purpose Machine Learning
 
-*   [Synthia (⭐29)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
+*   [Synthia (⭐30)](https://github.com/dmey/synthia) - Multidimensional synthetic data generation in Python.
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -330,7 +330,7 @@ Language: English
 
 ### Components & Libraries / UI Components
 
-*   [vue-bottom-sheet (⭐109)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+*   [vue-bottom-sheet (⭐114)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 
 ### Components & Libraries / Scaffold
 

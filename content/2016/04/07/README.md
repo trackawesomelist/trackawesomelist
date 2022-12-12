@@ -45,7 +45,7 @@
 
 ### Images
 
-*   [alchemic\_avatar (⭐48)](https://github.com/zhangsoledad/alchemic_avatar) - Elixir library for generating letter avatar from string.
+*   [alchemic\_avatar (⭐49)](https://github.com/zhangsoledad/alchemic_avatar) - Elixir library for generating letter avatar from string.
 
 ---
 

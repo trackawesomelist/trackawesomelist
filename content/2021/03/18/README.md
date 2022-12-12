@@ -32,10 +32,6 @@
 
 *   [Unofficial eShopOnContainers (⭐3)](https://github.com/n-stefan/eshoponcontainers) - ![last commit](https://img.shields.io/github/last-commit/n-stefan/eshoponcontainers?style=flat-square\&cacheSeconds=86400) Unofficial Blazor WebAssembly client for [eShopOnContainers (⭐22k)](https://github.com/dotnet-architecture/eShopOnContainers).
 
-### Articles / Others
-
-*   [.NET 6 Preview 2 Boosts Razor/Blazor in ASP.NET Core](https://visualstudiomagazine.com/articles/2021/03/12/aspnet-preview-2.aspx) - March 12, 2021 - Razor and Blazor received some dev attention in the second preview of Microsoft's .NET 6 landmark release, coming in November to wrap up formerly disparate .NET components into one cross-platform, open source framework for just about any kind of application.
-
 ## [4. Tips](/content/git-tips/tips/README.md)
 
 ## Delete local branches that has been squash and merged in the remote.
@@ -67,7 +63,7 @@ git branch -vv | grep ': gone]' | awk '{print <!-- @doxie.inject start -->}' | x
 
 ### API / Runner
 
-*   [React Query (⭐30k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+*   [React Query (⭐32k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
 ## [9. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

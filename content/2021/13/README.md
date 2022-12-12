@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 29 - Apr 04, 2021
 
-69 awesome lists updated this week.
+68 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -29,7 +29,7 @@
 
 ### Applications / Video
 
-*   [dertuxmalwieder/yaydl (⭐198)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
+*   [dertuxmalwieder/yaydl (⭐201)](https://github.com/dertuxmalwieder/yaydl) \[[yaydl](https://crates.io/crates/yaydl)] - A simple video downloader
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Resources / Editors
 
-*   [HyperLap2D (⭐243)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
+*   [HyperLap2D (⭐255)](https://github.com/rednblackgames/HyperLap2D) - Visual editor for complex 2D worlds and scenes with a runtime for libGDX.
 *   [Spine](http://esotericsoftware.com/) - Skeleton-based animation tool that focuses specifically on 2D animation for games.
 
 ### Tutorials / Getting Started
@@ -70,7 +70,7 @@
 
 ### Platforms
 
-*   [Nix (⭐1k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+*   [Nix (⭐1.1k)](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 
 ## [11. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
@@ -129,9 +129,9 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-dataset (⭐166)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+*   [vue-dataset (⭐171)](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
 *   [vue-virtual-tree (⭐59)](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue3.
-*   [vue3-tabs-chrome (⭐56)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+*   [vue3-tabs-chrome (⭐61)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 
 ## [19. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -141,16 +141,16 @@
 
 ### Colors
 
-*   [ColorKit (⭐554)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
+*   [ColorKit (⭐564)](https://github.com/Boris-Em/ColorKit) - Advanced color manipulation for iOS.
 
 ### Images / Barcode
 
 *   [Brightroom (⭐2.8k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
-*   [Kanvas (⭐260)](https://github.com/tumblr/kanvas-ios) - A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
+*   [Kanvas (⭐267)](https://github.com/tumblr/kanvas-ios) - A iOS library for adding effects, drawings, text, stickers, and making GIFs from existing media or the camera.
 
 ### Network / Barcode
 
-*   [CodyFire (⭐253)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
+*   [CodyFire (⭐252)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 
 ### UI / Barcode
 
@@ -162,15 +162,15 @@
 
 ### Button / Barcode
 
-*   [IGStoryButtonKit (⭐33)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
+*   [IGStoryButtonKit (⭐34)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
 
 ### Permissions / Barcode
 
-*   [SPPermission (⭐5k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
+*   [SPPermission (⭐5.1k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
 
 ### Transition / Barcode
 
-*   [SPLarkController (⭐967)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
+*   [SPLarkController (⭐966)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
 *   [SPStorkController (⭐2.6k)](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 
 ## [20. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
@@ -187,7 +187,7 @@
 
 ### Mobile
 
-*   [cl-json (⭐4)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
+*   [cl-json (⭐5)](https://github.com/sharplispers/cl-json) - A highly customizable JSON encoder and decoder. [MIT](https://directory.fsf.org/wiki/License:Expat).
 
 ### Statistics / Third-party APIs
 
@@ -221,7 +221,7 @@
 
 ### Researchers / Tools
 
-*   [hub (⭐4.9k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
+*   [hub (⭐5k)](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
 
 ## [26. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
@@ -241,7 +241,7 @@
 ### Status Bar
 
 *   [tmux-mpv-info (⭐1)](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
-*   [tmux-spotify-info (⭐73)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
+*   [tmux-spotify-info (⭐74)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
 *   [tmux-spotify-info (⭐3)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
 *   [tmux-weather-info-yr (⭐1)](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 
@@ -261,7 +261,7 @@
 
 ### Crates / Component Libraries
 
-*   [tailwind-yew-builder (⭐51)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
+*   [tailwind-yew-builder (⭐62)](https://github.com/matiu2/tailwind-yew-builder) - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 
 ## [32. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -329,7 +329,7 @@
 
 ### Deployment Tools / Newsletters
 
-*   [Colmena (⭐369)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+*   [Colmena (⭐385)](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
 ### Development / Newsletters
 
@@ -415,12 +415,12 @@
 
 ### Sequence Alignment / Clustering
 
-*   **[MMseqs2 (⭐792)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
+*   **[MMseqs2 (⭐809)](https://github.com/soedinglab/MMseqs2)** - Ultra-fast, sensitive search and clustering suite for protein and nucleotide sequence sets. \[ [paper-2017](https://www.nature.com/articles/nbt.3988) | [paper-2018](https://www.nature.com/articles/s41467-018-04964-5) ]
 
 ### Variant Calling / Clustering
 
 *   **[DeepVariant (⭐2.6k)](https://github.com/google/deepvariant)** - Deep learning-based variant caller \[ [paper-2018](https://rdcu.be/7Dhl) ]
-*   **[Octopus (⭐266)](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. \[ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
+*   **[Octopus (⭐267)](https://github.com/luntergroup/octopus)** - A polymorphic bayesian genotyping model with wide applicability. \[ [paper-2021](https://www.nature.com/articles/s41587-021-00861-3) ]
 
 ## [47. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -434,33 +434,27 @@
 
 *   [Fleek](http://fleek.co/) - Open Web development platform for building, hosting, and storing sites and apps on IPFS, Filecoin, and the Internet Computer. [Source](https://github.com/FleekHQ)
 
-## [49. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### Videos / Others
-
-*   [Deploying Blazor WebAssembly to GitHub Pages](https://www.youtube.com/watch?v=k2twnElIFzw) - ![duration](https://img.shields.io/badge/Duration:%20-60%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 30, 2021 - The .NET Docs Show - Deploying Blazor WebAssembly to GitHub Pages. What's better than Blazor? How about Blazor and a free place to host your Blazor app? In this episode, community member Niels Swimberghe shows the panel how to deploy Blazor apps to GitHub Pages.
-
-## [50. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [49. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
-*   [Xcodes (⭐4.2k)](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/XcodesApp)
+*   [Xcodes (⭐4.5k)](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/XcodesApp)
 
 ### Developer Tools / Command Line Tools
 
-*   [xcodes (⭐2.1k)](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/xcodes)
+*   [xcodes (⭐2.3k)](https://github.com/RobotsAndPencils/xcodes) - A command-line tool to install and switch between multiple versions of Xcode. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/RobotsAndPencils/xcodes)
 
 ### Utilities / Menu Bar Tools
 
 *   [Xbar](https://xbarapp.com/) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot). [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/matryer/xbar)
 
-## [51. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [50. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Reddit
 
 *   [Universal Scammer List](https://universalscammerlist.com/) - This acts as the website-portion for the subreddit /r/universalscammerlist. That subreddit, in conjuction with this website and a reddit bot, manages a list of malicious reddit accounts and minimizes the damage they can deal. This list is referred to as the "USL" for short.
 
-## [52. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
+## [51. Awesome Nosql Guides](/content/erictleung/awesome-nosql-guides/week/README.md)
 
 ### Overview of NoSQL
 
@@ -468,13 +462,7 @@
 *   [Seven Databases in Song (1:43)](https://www.youtube.com/watch?v=jyx8iP5tfCI) - Fun song from 2012 about seven (six are NoSQL) databases with a very condensed overview of how they each work.
 *   [What is NoSQL - Amazon AWS](https://aws.amazon.com/nosql/) - Great high-level overview of NoSQL databases and how they compare to SQL database technologies and terminologies.  Serves as landing page for Amazon's AWS services for NoSQL options of key-value (Amazon DynamoDB), document (Amazon DocumentDB), graph (Amazon Neptune), in-memory (Amazon ElastiCache), and search-engine (Amazon Elasticsearch) database.
 
-## [53. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
-
-### Plugins / Performance
-
-*   [clean-regex (⭐274)](https://github.com/RunDevelopment/eslint-plugin-clean-regex) - JavaScript regex linter that aims to help write better regular expressions by pointing out errors and suggesting improvements.
-
-## [54. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [52. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Privacy / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -488,19 +476,19 @@
 
 *   [Open Sustainable Technology (⭐1.2k)](https://github.com/protontypes/open-sustainable-technology) - Projects preserving stable climate, energy supply and natural resources.
 
-## [55. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [53. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Shell Script Development
 
-*   [shellcheck (⭐30k)](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
+*   [shellcheck (⭐31k)](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
 
-## [56. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [54. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Keycloak Eventlistener for Google Cloud Pub Sub](https://github.com/acesso-io/keycloak-event-listener-gcpubsub)
 
-## [57. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [55. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Cloud platform security / Distributed monitoring
 
@@ -522,7 +510,7 @@
 *   [OPNsense](https://opnsense.org/) - Hardened FreeBSD based firewall and routing platform forked from pfSense.
 *   [pfSense](https://www.pfsense.org/) - FreeBSD firewall and router distribution forked from m0n0wall.
 
-## [58. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [56. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Cache
 
@@ -546,13 +534,44 @@
 
 *   [Security Rights Reporting (⭐6)](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) - A module showing a grid with all users and all their rights in a friendly way with exporting options.
 
-## [59. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [57. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### APL
+
+*   [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
+
+### ASP.NET Core
+
+*   [ASP.NET Core 3.1 Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/asp-net-core-3-1-succinctly) - Simone Chiaretta, Ugo Lattanzi
+*   [ASP.NET Core Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
+
+### ASP.NET Core / Blazor
+
+*   [Blazor: A Beginner's Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - Ed Charbeneau (PDF) (email address *requested*, not required)
+*   [Blazor for ASP.NET Web Forms Developers](https://dotnet.microsoft.com/download/e-book/blazor-for-web-forms-devs/pdf) - Daniel Roth, Jeff Fritz, Taylor Southwick (PDF)
+
+### JavaScript / Wicket
+
+*   [JavaScript Interview #35](https://gumroad.com/l/javascript-interview-35) - Coderslang Master (PDF, email address *requested*, not required)
+
+### JavaScript / Node.js
+
+*   [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
+
+### .NET Core / PicoLisp
+
+*   [Clean Code .NET (⭐5.6k)](https://github.com/thangchung/clean-code-dotnet)
+*   [Entity Framework Core Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/entity-frame-work-core-succinctly) - Ricardo Peres
+*   [.NET documentation - Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/)
+*   [Using .NET Core, Docker, and Kubernetes Succinctly](https://www.syncfusion.com/ebooks/using-netcore-docker-and-kubernetes-succinctly) - Michele Aponte
+
+## [58. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Identity
 
 *   [Affinidi](https://www.affinidi.com) provides building blocks to create portable, interoperable, decentralized identity and verifiable claims and credentials
 
-## [60. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [59. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Artificial Intelligence
 
@@ -560,9 +579,9 @@
 
 ### Queue
 
-*   [kaffe (⭐134)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
+*   [kaffe (⭐136)](https://github.com/spreedly/kaffe) - Kafka client library for Elixir.
 
-## [61. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [60. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -596,19 +615,19 @@
 
 *   [SnapShooter](https://snapshooter.com/) — Backup solution for DigitalOcean, AWS, LightSail, Hetzner and Exoscale, with support for direct database, file system and application backups to s3 based storage. Provides a free plan with daily backups for one resource.
 
-## [62. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [61. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
-*   [jut (⭐166)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
+*   [jut (⭐168)](https://github.com/kracekumar/jut) - CLI to nicely display notebooks in the terminal.
 
-## [63. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [62. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### Tools / Multi-accounts setup
 
 *   [CDK-Dia (⭐571)](https://github.com/pistazie/cdk-dia) - Automatic infrastructure diagrams for AWS CDK.
 
-## [64. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [63. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 
@@ -744,13 +763,13 @@
 
 
 
-## [65. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [64. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Frameworks
 
 *   [Blitz](https://blitzjs.com) - The Fullstack React Framework
 
-## [66. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [65. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -764,19 +783,19 @@
 
 *   [Podcast Addict](https://podcastaddict.com/app) - Android Podcast player
 
-## [67. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [66. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Miscellaneous
 
-*   [Smooks (⭐347)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
+*   [Smooks (⭐353)](https://github.com/smooks/smooks) - Framework for fragment-based message processing. (Apache-2.0 OR LGPL-3.0-or-later)
 
-## [68. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [67. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Diet
 
 *   [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
 
-## [69. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [68. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Decorators / Components
 

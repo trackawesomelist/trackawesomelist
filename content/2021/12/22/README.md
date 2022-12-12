@@ -10,13 +10,13 @@
 
 ### Misc
 
-*   [ToolJet (⭐14k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐15k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
-*   [ipychart (⭐62)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
+*   [ipychart (⭐67)](https://github.com/nicohlr/ipychart) - The power of Chart.js in Jupyter Notebook.
 
 ## [3. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Tools
 
-*   [kics (⭐1.2k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
+*   [kics (⭐1.3k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
 
 ## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Libraries/Frameworks / Database
 
-*   [TouK/krush (⭐230)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
+*   [TouK/krush (⭐232)](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin, based on Exposed. It’s based on a compile-time JPA annotation processor that generates Exposed DSL table and objects mappings from your data classes.
 
 ## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Libraries / Format Checking
 
-*   [pdb-tools (⭐220)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
+*   [pdb-tools (⭐230)](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
 
 ---
 

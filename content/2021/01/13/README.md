@@ -24,16 +24,10 @@
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [cmd (⭐49)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT](https://opensource.org/licenses/MIT).
+*   [cmd (⭐48)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT](https://opensource.org/licenses/MIT).
     *   `uiop:run-program` (synchronous) and `uiop:launch-program` (async) are shipped with ASDF and available on all modern implementations. See the [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
-
-### Components & Libraries / UI Components
-
-*   [vue-wait-for (⭐10)](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
-
-## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### General
 
@@ -42,22 +36,15 @@
 *   [Introduction to ASP.NET Core](https://docs.microsoft.com/aspnet/core/) - Introduction to ASP.NET Core.
 *   [Blazor WebAssembly performance best practices](https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices) - ASP.NET Core Blazor WebAssembly performance best practices, by Pranav Krishnamoorthy and Steve Sanderson.
 
-### Authentication
-
-*   [Blazor-WASM-Identity-gRPC (⭐96)](https://github.com/JeepNL/Blazor-WASM-Identity-gRPC) - ![stars](https://img.shields.io/github/stars/JeepNL/Blazor-WASM-Identity-gRPC?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JeepNL/Blazor-WASM-Identity-gRPC?style=flat-square\&cacheSeconds=86400) Blazor WASM, IdentityServer4 & gRPC with roles authorization.
-*   [Blazor-WASM-Identity-gRPC-Alexa (⭐10)](https://github.com/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa) - ![last commit](https://img.shields.io/github/last-commit/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa?style=flat-square\&cacheSeconds=86400) Blazor WASM, IdentityServer4 , gRPC with roles authorization & Alexa Skill Backend.
-
-### Hybrid
-
-*   [Blazorade Teams (⭐32)](https://github.com/Blazorade/Blazorade-Teams) - ![last commit](https://img.shields.io/github/last-commit/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=86400) A Blazor component library that is designed to be used when building applications for Microsoft Teams. Be sure to also check out the initial announcement for Blazorade Teams.
-
-### Tutorials
-
-*   [Create a Blazor Server app that uses the Microsoft identity platform for authentication](https://docs.microsoft.com/azure/active-directory/develop/tutorial-blazor-server) - October 2020 - Tutorial by Microsoft. Blazor Server provides support for hosting Razor components on the server in an ASP.NET Core app. In this tutorial, you learn how to implement authentication and retrieve data from Microsoft Graph in a Blazor Server app with the Microsoft identity platform.
-
 ### Tools & Utilities / Others
 
-*   [TextCopy (⭐330)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐330)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
+*   [TextCopy (⭐346)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐346)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
+
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-wait-for (⭐10)](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
 
 ## [6. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -73,14 +60,14 @@
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-beep (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
-*   [@rollup/plugin-inject (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
+*   [@rollup/plugin-beep (⭐2.9k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
+*   [@rollup/plugin-inject (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
 
 ## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [Patrowl (⭐508)](https://github.com/Patrowl/PatrowlManager) - Open Source, Smart and Scalable Security Operations Orchestration Platform. `AGPL-3.0` `Python`
+*   [Patrowl (⭐516)](https://github.com/Patrowl/PatrowlManager) - Open Source, Smart and Scalable Security Operations Orchestration Platform. `AGPL-3.0` `Python`
 
 ## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

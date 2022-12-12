@@ -51,7 +51,7 @@
 
 ### Security / Barcode
 
-*   [SecurePropertyStorage (⭐437)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+*   [SecurePropertyStorage (⭐440)](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 
 ### Converters
 
@@ -59,7 +59,7 @@
 
 ### App Routing
 
-*   [LightRoute (⭐95)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
+*   [LightRoute (⭐94)](https://github.com/SpectralDragon/LiteRoute) - Routing between VIPER modules.
 
 ## [8. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 

@@ -109,7 +109,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform\&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxanomy of its vocabularity from the International Electrotechnical Commission.
+*   [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform\&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxonomy of its vocabulary from the International Electrotechnical Commission.
 
 ### Pricing / Market Research
 
@@ -123,11 +123,7 @@
 
 *   [Hacking Scooters: How I Created $100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - A cautionary tale on how promo codes can be exploited to get unlimited free rides.
 
-### Commercial Solutions / Tools
-
-*   [Nextless JS](https://nextlessjs.com) - Everything you need to build a SaaS products in Node.js with React and Serverless: Authentication and authorization, invoices and payments.
-
-### History / Tools
+### History / Cloud providers
 
 *   [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 
@@ -147,7 +143,7 @@
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jrychn/moduleVim (⭐5)](https://github.com/jrychn/ModuleVim) - A very easy to use
+*   [jrychn/moduleVim (⭐4)](https://github.com/jrychn/ModuleVim) - A very easy to use
     for backend and frontend, install lsp automatically.
 
 ## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
@@ -172,11 +168,11 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐575)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.1k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐547)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.2k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐592)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.3k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.1k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐547)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.2k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
-*   [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named "falsehoods about usernames (and other identifiers)".
+*   [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
 
 ## [13. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
@@ -317,11 +313,11 @@
 
 ### Database Tools
 
-*   [rdb (⭐193)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
+*   [rdb (⭐206)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
 
 ### HTTP Clients
 
-*   [go-otelroundtripper (⭐67)](https://github.com/NdoleStudio/go-otelroundtripper) - Go http.RoundTripper that emits open telemetry metrics for HTTP requests.
+*   [go-otelroundtripper (⭐69)](https://github.com/NdoleStudio/go-otelroundtripper) - Go http.RoundTripper that emits open telemetry metrics for HTTP requests.
 
 ---
 

@@ -26,7 +26,7 @@
 
 *   Other Relational Databases
     *   [pymssql](https://pymssql.readthedocs.io/en/latest/) - A simple database interface to Microsoft SQL Server.
-    *   [clickhouse-driver (⭐927)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
+    *   [clickhouse-driver (⭐946)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

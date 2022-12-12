@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 26, 2016
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -113,7 +113,17 @@
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [13. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
+
+### Swift / Play Scala
+
+*   [Hacking with Swift](https://www.hackingwithswift.com)
+
+## [14. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md)
 
 ### Projects
 

@@ -40,7 +40,7 @@
 
 ### Competitive Analysis / GDPR
 
-*   [Google Cloud Developer's Cheat Sheet (⭐7k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
+*   [Google Cloud Developer's Cheat Sheet (⭐7.1k)](https://github.com/gregsramblings/google-cloud-4-words#the-google-cloud-developers-cheat-sheet) - Describe all GCP products in 4 words or less.
 
 ## [5. Awesome Wordpress Gatsby](/content/henrikwirth/awesome-wordpress-gatsby/week/README.md)
 
@@ -113,13 +113,13 @@
 
 ### Back-End Development
 
-*   [IAM (⭐878)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+*   [IAM (⭐947)](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 
 ## [7. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
-*   [Yana (⭐179)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [Yana (⭐188)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 
 ## [8. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
@@ -178,19 +178,19 @@
 
 *   [Website](https://nodejs.org)
 *   [Documentation](https://nodejs.org/dist/latest/docs/api/)
-*   [Repository (⭐91k)](https://github.com/nodejs/node)
+*   [Repository (⭐92k)](https://github.com/nodejs/node)
 
 ### Packages / Database
 
 *   Other
     *   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
-    *   [Lowdb (⭐18k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-    *   [Keyv (⭐1.9k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
+    *   [Lowdb (⭐19k)](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+    *   [Keyv (⭐2k)](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends.
     *   [Finale (⭐181)](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
-    *   [database-js (⭐55)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
-    *   [Mongo Seeding (⭐487)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
-    *   [@databases (⭐443)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
-    *   [pg-mem (⭐1.1k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+    *   [database-js (⭐57)](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+    *   [Mongo Seeding (⭐494)](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+    *   [@databases (⭐473)](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+    *   [pg-mem (⭐1.2k)](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
 
 ### Resources / Videos
 
@@ -253,17 +253,17 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-handlebars (⭐97)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
+*   [vite-plugin-handlebars (⭐103)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 
 ## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐504)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐534)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
-*   [tveskag/nvim-blame-line (⭐154)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
+*   [tveskag/nvim-blame-line (⭐160)](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 
 ## [21. awsm.fish](/content/jorgebucaran/awsm.fish/week/README.md)
 
@@ -335,19 +335,7 @@
     [Repo (⭐50k)](https://github.com/semantic-org/semantic-ui)
     \| #LESS
 
-## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
-
-### MVC Frameworks and Libraries / Runner
-
-*   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
-*   [angular (⭐84k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-*   [Lucia (⭐688)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
-
-### Date / Runner
-
-*   [luxon (⭐13k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
-
-## [26. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [25. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### CMS / Blogs
 
@@ -361,7 +349,7 @@
 
 *   [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X](https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png "Mac OS X") ![Linux](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png "Linux") ![Windows](https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png "Windows")
 
-## [27. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
+## [26. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
 ### Courses
 
@@ -378,48 +366,44 @@
 *   [A Simple Wardley Map of Data Flow](https://medium.com/digital-anatomy/a-simple-wardley-map-of-data-flow-8285676a1eeb) - Building a Wardley Map from a value chain for "real time business automation" by James Urquhart. Dec 30, 2016.
 *   [The data flow value chain](https://medium.com/digital-anatomy/the-data-flow-value-chain-45b0dd3083e8) - Exploring a value chain using a basic architecture of data flow by James Urquhart. Dec 22, 2016.
 
-## [28. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
-
-### Java / Angular
-
-*   [Baeldung Weekly Review](https://www.baeldung.com/category/weekly-review/). Keep up-to-date with the main developments in the Java world through this weekly guide.
+## [27. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Open Source / Angular
 
 *   [BSD Weekly](https://bsdweekly.com/). A free, once–weekly e-mail round-up of BSD news and articles.
 
-## [29. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [28. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Auth
 
 *   [FastAPI Cloud Auth (⭐239)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
-## [30. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [29. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Companies with "remote DNA"
 
 *   [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
 
-## [31. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [30. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Registries / XML
 
 *   [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
 *   [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
 
-## [32. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [31. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Other multimodal data formats / Ruby
 
 *   [shared-row (⭐16)](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
 
-## [33. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [32. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Other Services
 
 *   [Ecotalk](https://www.ecotalk.co.uk) - UK-based mobile network powered by renewable energy. Profits are used to buy land which is then given back to nature.
 
-## [34. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [33. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### C++
 
@@ -435,18 +419,18 @@
 *   [Pilosa (⭐2.3k)](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 *   [TiKV](https://github.com/tikv) - Distributed transactional key-value database.
 
-## [35. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+## [34. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
 
 ### Applications
 
 *   [Ferment ☠️](https://github.com/mmckegg/ferment): P2P audio publishing and streaming application. Like SoundCloud but decentralized. Built using SSB + Webtorrent.
-*   [Hardbin (⭐211)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐215)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 
 *   [ArcBlock](https://arcblock.io/): ArcBlock is a decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.
 
-## [36. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [35. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Anime
 
@@ -476,7 +460,7 @@
 
 
 
-## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [36. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
@@ -486,13 +470,13 @@
 
 *   [OpenStreetMap](https://www.openstreetmap.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/openstreetmap/openstreetmap-website) - A crowdsourced map of the world with many layers, free to use under an open licence.
 
-## [38. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [37. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Other
 
 *   [IP2Trace (⭐12)](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT (⭐12)](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 
-## [39. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
+## [38. Awesome Saltstack](/content/hbokh/awesome-saltstack/week/README.md)
 
 ### Tutorials
 
@@ -506,25 +490,25 @@
 
 *   [Facebook](https://www.facebook.com/SaltProjectOSS/) - Official Salt Project Facebook account.
 
-## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Documentation
 
-*   [GitHub Changelog Generator (⭐6.9k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+*   [GitHub Changelog Generator (⭐7k)](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 
-## [41. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [40. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Libraries Visualization
 
 *   [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser.
 
-## [42. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
+## [41. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/week/README.md)
 
 ### Articles and Documentation
 
 *   [Measuring Network Performance in Mobile Safari](https://csswizardry.com/2021/02/measuring-network-performance-in-mobile-safari/) - An advices on using Mobile Safari for measuring network performance.
 
-## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Blazor
 
@@ -532,49 +516,49 @@
 
 ### Misc
 
-*   [Validot (⭐261)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
+*   [Validot (⭐264)](https://github.com/bartoszlenar/Validot) - Validot is a performance-first, compact library for advanced model validation. Using a simple declarative fluent interface, it efficiently handles classes, structs, nested members, collections, nullables, plus any relation or combination of them. It also supports translations, custom logic extensions with tests, and DI containers.
 
 ### Source Generator
 
-*   [Awesome Microservices .NET Core (⭐2k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
+*   [Awesome Microservices .NET Core (⭐2.1k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 
-## [44. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
+## [43. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/week/README.md)
 
 ### Scientific Journals
 
 *   [Journal of the Egyptian Society of Parasitology](https://jesp.journals.ekb.eg/) - Open-access (2013 - present) scientific journal of The Eyptian Society of Parasitology. Published since the 1970s, their archive is indexed in Pub-Med since 1972 (Index Medicus ISSN: 0253-5890).
 
-## [45. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [44. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Libraries
 
 *   [Filament](https://filamentadmin.com) - The elegant TALL stack admin panel for Laravel artisans.
 
-## [46. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [45. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Dynamic type checkers
 
-*   [beartype (⭐1.3k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
+*   [beartype (⭐1.4k)](https://github.com/beartype/beartype) - Unbearably fast `O(1)` runtime type-checking in pure Python.
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [pyannotate (⭐1.3k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
-*   [pyre infer (⭐6.1k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
-*   [pytype annotate-ast (⭐3.9k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
+*   [pyannotate (⭐1.4k)](https://github.com/dropbox/pyannotate) - Insert annotations into your source code based on call arguments and return types observed at runtime.
+*   [pyre infer (⭐6.2k)](https://github.com/facebook/pyre-check) - Pyre has a powerful feature for migrating codebases to a typed format. The [infer](https://pyre-check.org/docs/pysa-coverage/) command-line option ingests a file or directory, makes educated guesses about the types used, and applies the annotations to the files.
+*   [pytype annotate-ast (⭐4k)](https://github.com/google/pytype/tree/master/pytype/tools/annotate_ast) - A work-in-progress tool to annotate the nodes of an AST with their Python types.
 
-## [47. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Framework bindings / integrations / Mouse Events
 
-*   [react-unity-webgl (⭐1.1k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
+*   [react-unity-webgl (⭐1.2k)](https://github.com/elraccoone/react-unity-webgl) - Unity intergration with two-way communication using a built-in Event System.
 
-## [48. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [47. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### DevOps
 
 *   [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
 
-## [49. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [48. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 3.2+
 
@@ -585,22 +569,37 @@
 
 *   [Speech to Text (⭐26)](https://github.com/menip/godot_speech_to_text) - Captures the user's microphone input and converts it to text.
 
+## [49. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+
+### Misc / Other
+
+*   [FingerprintJS (⭐18k)](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
+
+### MVC Frameworks and Libraries / Runner
+
+*   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
+*   [angular (⭐85k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+*   [Lucia (⭐694)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
+
+### Date / Runner
+
+*   [luxon (⭐13k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+
 ## [50. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Fraud prevention / Online resources
 
-*   [FingerprintJS (⭐18k)](https://github.com/fingerprintjs/fingerprintjs) - Identifies browser and hybrid mobile application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 *   [FingerprintJS Android (⭐320)](https://github.com/fingerprintjs/fingerprint-android) - Identifies Android application users even when they purge data storage. Allows you to detect account takeovers, account sharing and repeated malicious activity.
 
 ## [51. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries
 
-*   [RLax (⭐921)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
+*   [RLax (⭐936)](https://github.com/deepmind/rlax) - Library for implementing reinforcement learning agents. <img src="https://img.shields.io/github/stars/deepmind/rlax?style=social" align="center">
 
 ### Libraries / New Libraries
 
-*   [FlaxVision (⭐38)](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
+*   [FlaxVision (⭐39)](https://github.com/rolandgvc/flaxvision) - Flax version of TorchVision. <img src="https://img.shields.io/github/stars/rolandgvc/flaxvision?style=social" align="center">
 *   [Oryx (⭐3.8k)](https://github.com/tensorflow/probability/tree/master/spinoffs/oryx) - Probabilistic programming language based on program transformations.
 
 ### Videos / NumPyro
@@ -649,7 +648,7 @@
 
 ### Software / Media Streaming - Video Streaming
 
-*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐100)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
+*   [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code (⭐103)](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`
 
 ## [57. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
@@ -677,7 +676,7 @@
 
 ### Tools / Vendor supported providers
 
-*   [regula (⭐790)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
+*   [regula (⭐793)](https://github.com/fugue/regula) - Evaluates Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment.
 
 ## [61. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -699,14 +698,14 @@
 
 ### Tools
 
-*   🌍🔧💼 [Twind (⭐2.9k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
+*   🌍🔧💼 [Twind (⭐3k)](https://github.com/tw-in-js/twind) - Compiler functions that turn Tailwind's classes into CSS at run, serve and build time.
 
 ## [64. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Other libraries and tools / Mesh tools
 
 *   [Dedalus](https://dedalus-project.org/) - Solve partial differential equations with spectral methods.
-    (Python, GPL 3, [GitHub (⭐263)](https://github.com/DedalusProject/dedalus))
+    (Python, GPL 3, [GitHub (⭐289)](https://github.com/DedalusProject/dedalus))
 
 ## [65. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -759,7 +758,7 @@
 
 ### Other Free Resources
 
-*   [github.com — FOSS for Dev (⭐743)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
+*   [github.com — FOSS for Dev (⭐761)](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers.
 *   [Microsoft 365 Developer Program](https://developer.microsoft.com/microsoft-365/dev-program) — Get a free sandbox, tools, and other resources you need to build solutions for the Microsoft 365 platform. The subscription is a 90-day [Microsoft 365 E5 Subscription](https://www.microsoft.com/microsoft-365/enterprise/e5) (Windows excluded) which is renewable. It is renewed if you're active in development(measured using telemetry data & algorithms).
 *   [RedHat for Developers](https://developers.redhat.com) — Free access to Red Hat products including RHEL,OpenShift,CodeReady etc exclusively for developers. Individual plan only. Free e-Books also offered for reference.
 
@@ -796,31 +795,16 @@
 
 ### Others
 
-*   [TypinExamples (⭐203)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐203)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
-
-### Tutorials
-
-*   [Overriding components in Blazor](https://eilevhagen.medium.com/overriding-components-in-blazor-616b6d59c22f) - February 27, 2021 - If you use a component library in your project, you might want to override a component somewhere deep down in the component hierarchy without having to override the whole hierarchy.
-
-### Articles / Others
-
-*   [Blazor on Desktop](https://www.telerik.com/blogs/blazor-on-desktop) - February 17, 2021 - Blazor on Desktop. This article explores how to make Blazor web apps run on Desktop.
-*   [ASP.NET Core docs: What's new for February 1, 2021 - February 28, 2021](https://docs.microsoft.com/en-us/aspnet/core/whats-new/2021-02?view=aspnetcore-5.0) - March 3, 2021 - Welcome to what's new in the ASP.NET Core docs from February 1, 2021 through February 28, 2021. This article lists some of the major changes to docs during this period.
-*   [Blazor hosting models - mind map](https://twitter.com/konradkokosa/status/1365321620219396100) - February 26, 2021 - Blazor hosting models - mind map update after .NET 6 preview 1 announcement by Konrad Kokosa on Twitter.
+*   [TypinExamples (⭐205)](https://github.com/adambajguz/Typin/tree/master/src/TypinExamples) - ![last commit](https://img.shields.io/github/last-commit/adambajguz/Typin?style=flat-square\&cacheSeconds=86400) A sample project that demonstrates the usage of [Typin (⭐205)](https://github.com/adambajguz/Typin/) framework with a Blazor SPA application (Xterm.js and custom web workers implementation in C# to emulate terminal experience in browser). [Live demo](https://adambajguz.github.io/Typin/).
 
 ### Individual components / Tabs
 
-*   [BlazorXTabs (⭐19)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
+*   [BlazorXTabs (⭐22)](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square\&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
 
 ### Individual components / Others
 
-*   [BlazorDownloadFile (⭐131)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
+*   [BlazorDownloadFile (⭐135)](https://github.com/arivera12/BlazorDownloadFile) - ![stars](https://img.shields.io/github/stars/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/arivera12/BlazorDownloadFile?style=flat-square\&cacheSeconds=86400) Blazor download files to the browser from c# without any JavaScript library or dependency. BlazorDownloadFile is the solution to saving files on the client-side, and is perfect for web apps that generates files on the client. However if the file is coming from the server we recommend you to first try to use Content-Disposition attachment response header as it has more cross-browser compatibility.
 *   [BlazorSliders (⭐25)](https://github.com/carlfranklin/BlazorSliders) - ![last commit](https://img.shields.io/github/last-commit/carlfranklin/BlazorSliders?style=flat-square\&cacheSeconds=86400) Create multiple panels separated by sliding splitters.
-
-### Videos / Others
-
-*   [Multiple Panels with Sliding Splitters](https://www.youtube.com/watch?v=fNDd7moZJ4c) - March 5, 2021 - Blazor Train, episode 40: Multiple Panels with Sliding Splitters.
-*   [Blazor WebAssembly : JavaScript Isolation](https://www.youtube.com/watch?v=tbNgLNZnNWM) - ![duration](https://img.shields.io/badge/Duration:%20-5%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 1, 2021 - Blazor WebAssembly : JavaScript Isolation, by Curious Drive. This video is about how you can isolate JavaScript files in Blazor applications. With JavaScript isolation you can load your JavaScript files only when needed. [Source code (⭐347)](https://github.com/CuriousDrive/BlazingChat) ![stars](https://img.shields.io/github/stars/CuriousDrive/BlazingChat?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CuriousDrive/BlazingChat?style=flat-square\&cacheSeconds=86400).
 
 ### Community / Others
 
@@ -830,15 +814,15 @@
 
 ### CSV
 
-*   [FastCSV (⭐400)](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
+*   [FastCSV (⭐410)](https://github.com/osiegmar/FastCSV) - Performance-optimized, dependency-free and RFC 4180 compliant.
 
 ### Financial
 
-*   [ta4j (⭐1.6k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
+*   [ta4j (⭐1.7k)](https://github.com/ta4j/ta4j) - Library for technical analysis.
 
 ### Security / Other
 
-*   [OTP-Java (⭐97)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
+*   [OTP-Java (⭐101)](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 
 ## [73. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 

@@ -25,7 +25,7 @@
 *   [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 *   [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 *   [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
-*   [Movel (⭐126)](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
+*   [Movel (⭐129)](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
 *   [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
 *   [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 

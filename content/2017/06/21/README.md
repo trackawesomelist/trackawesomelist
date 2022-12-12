@@ -28,7 +28,7 @@
 
 ### UITableView / Barcode
 
-*   [ExpyTableView (⭐358)](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
+*   [ExpyTableView (⭐359)](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 
 ## [5. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 

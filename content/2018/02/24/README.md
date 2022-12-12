@@ -22,7 +22,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-tour (⭐2.1k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
+*   [vue-tour (⭐2.2k)](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

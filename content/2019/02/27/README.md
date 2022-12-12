@@ -172,11 +172,11 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐559)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐610)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
-*   [GradientProgressBar (⭐475)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
+*   [GradientProgressBar (⭐483)](https://github.com/fxm90/GradientProgressBar) - An animated gradient progress bar.
 
 ### UITableView / Barcode
 
@@ -293,12 +293,12 @@
 
 ### Front-End Development
 
-*   [CSS (⭐4k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐4.1k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.1k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-    *   [Must-Watch Talks (⭐4.2k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
-    *   [Protips (⭐23k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐5.4k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Must-Watch Talks (⭐4.3k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
+    *   [Protips (⭐24k)](https://github.com/AllThingsSmitty/css-protips#readme)
+    *   [Frameworks (⭐5.6k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 

@@ -10,7 +10,7 @@
 
 ### Researchers / Frameworks
 
-*   [Hopsworks - A Feature Store for ML and Data-Intensive AI (⭐802)](https://github.com/logicalclocks/hopsworks)
+*   [Hopsworks - A Feature Store for ML and Data-Intensive AI (⭐812)](https://github.com/logicalclocks/hopsworks)
 *   [Feast - A Feature Store for ML for GCP by Gojek/Google (⭐3.7k)](https://github.com/gojek/feast)
 
 ## [2. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
@@ -30,7 +30,7 @@
 
 ### ORM
 
-*   [Permazen (⭐315)](https://github.com/permazen/permazen) - Language-natural persistence layer.
+*   [Permazen (⭐321)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 
 ## [5. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -76,13 +76,13 @@
 
 ### Chart
 
-*   [jscharting-react (⭐11)](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
+*   [jscharting-react (⭐13)](https://github.com/jscharting/jscharting-react) – React chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
 
 ## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
-*   Sascha Willems's [samples (⭐7.9k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐154)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+*   Sascha Willems's [samples (⭐7.9k)](https://github.com/SaschaWillems/Vulkan) and [Deferred rendering of Sponza (⭐157)](https://github.com/SaschaWillems/VulkanSponza) and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 
 ## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Recruitment / Job Boards
 
-*   [Hiring Without Whiteboards (⭐32k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
+*   [Hiring Without Whiteboards (⭐34k)](https://github.com/poteto/hiring-without-whiteboards) - List of companies without the kind of CS trivia questions that are associated with bad interview practices.
 *   [TechMeAbroad](https://techmeabroad.com) - List job posts from tech startups and tech companies who will recruit from abroad.
 
 ### Recruitment / Interview

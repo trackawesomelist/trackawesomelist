@@ -10,7 +10,7 @@
 
 ### Software / URL Shorteners
 
-*   [reduc.io (⭐68)](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
+*   [reduc.io (⭐69)](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`
 
 ## [2. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -34,7 +34,7 @@
 
 ### App Examples
 
-*   [Street Quality IDentification \[SQUID\]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code. (⭐18)](https://github.com/amyoshino/SQUID-Syracuse-Dashboard)
+*   [Street Quality IDentification \[SQUID\]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code. (⭐19)](https://github.com/amyoshino/SQUID-Syracuse-Dashboard)
 
 ## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
 
@@ -69,11 +69,11 @@
 
 ### Miscellaneous
 
-*   [opticl (⭐175)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [opticl (⭐177)](https://github.com/slyrus/opticl) - a library for representing and processing images. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### Apps / Third-party APIs
 
-*   [lake (⭐84)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
+*   [lake (⭐85)](https://github.com/takagi/lake) - a GNU make like build utility. [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

@@ -93,7 +93,7 @@
 ### Researchers / Frameworks
 
 *   [Veles - Samsung Distributed machine learning platform (⭐898)](https://github.com/Samsung/veles)
-*   [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework (⭐414)](https://github.com/PrincetonVision/marvin)
+*   [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework (⭐416)](https://github.com/PrincetonVision/marvin)
 
 ---
 

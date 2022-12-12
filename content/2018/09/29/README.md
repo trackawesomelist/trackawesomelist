@@ -11,8 +11,8 @@
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐2.8k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐54k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐56k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐33k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [2. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
@@ -22,7 +22,7 @@
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐280)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐284)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [3. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md)
@@ -54,7 +54,7 @@ Rename Index.txt to Index.html
 
 ### Misc
 
-*   [aioserial (⭐106)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
+*   [aioserial (⭐107)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

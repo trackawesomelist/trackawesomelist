@@ -29,8 +29,8 @@
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐2.8k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐54k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Screensavers (⭐2.9k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐56k)](https://github.com/jaywcjlove/awesome-mac#readme)
     *   [Open Source Apps (⭐33k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [5. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
@@ -40,7 +40,7 @@
 *   [**HiQ**](https://jonathanharrell.github.io/hiq/) - Simple CSS foundation with responsive typography and input styling.\
     ![](https://img.shields.io/github/stars/jonathanharrell/hiq.svg?style=social\&label=Star)
     [Docs](https://jonathanharrell.github.io/hiq/guide/),
-    [Repo (⭐280)](https://github.com/jonathanharrell/hiq/)
+    [Repo (⭐284)](https://github.com/jonathanharrell/hiq/)
     \| #PostCSS
 
 ## [6. Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/week/README.md)
@@ -72,7 +72,7 @@ Rename Index.txt to Index.html
 
 ### Misc
 
-*   [aioserial (⭐106)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
+*   [aioserial (⭐107)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -558,7 +558,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Tools and frameworks
 
-*   [AyeSpy (⭐169)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
+*   [AyeSpy (⭐173)](https://github.com/newsuk/ayespy) - 44 image comparisons in 90 seconds.
 
 ## [41. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
@@ -687,7 +687,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Researchers / Miscellaneous
 
-*   [Torch7 Cheat sheet (⭐8.7k)](https://github.com/torch/torch7/wiki/Cheatsheet)
+*   [Torch7 Cheat sheet (⭐8.8k)](https://github.com/torch/torch7/wiki/Cheatsheet)
 
 ## [47. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -730,7 +730,7 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Chat
 
-*   [InputBarAccessoryView (⭐958)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
+*   [InputBarAccessoryView (⭐961)](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 
 ### Dependency Injection
 
@@ -738,14 +738,14 @@ Webpage: <https://ironcladcoffee.com/>
 
 ### Pagination / Barcode
 
-*   [FlexiblePageControl (⭐721)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
+*   [FlexiblePageControl (⭐730)](https://github.com/shima11/FlexiblePageControl) - A flexible UIPageControl like Instagram.
 
 ## [53. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Hardware / Opcodes
 
 *   [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the implementation of three 8-bit bidirectional parallel ports.
-*   [Related custom hardware (⭐218)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
+*   [Related custom hardware (⭐221)](https://github.com/Gekkio/gb-hardware) - by Gekkio.
 *   [ESP8266 GB Dev Board (⭐18)](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
 *   [ESP8266 GB Printer (⭐39)](https://github.com/applefreak/esp8266-gameboy-printer) - A device that emulates the GB Printer and lets you retrieve images using WiFi.
 *   [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - Page with loads of information on the hardware, custom boards to interface with the console and other related projects.
@@ -774,12 +774,12 @@ Webpage: <https://ironcladcoffee.com/>
 *   [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
 *   [SameSuite (⭐23)](https://github.com/LIJI32/SameSuite)
 *   [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-*   [144p Test Suite (⭐126)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+*   [144p Test Suite (⭐132)](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 
 ### Emulators / Experimental/Proof of Concepts
 
 *   [SameBoy (⭐1.1k)](https://github.com/LIJI32/SameBoy) - Accurate emulator with a wide range of powerful debugging features.
-*   [Mooneye GB (⭐783)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
+*   [Mooneye GB (⭐788)](https://github.com/Gekkio/mooneye-gb) - Research project and emulator in Rust.
 
 ### C / Syntax highlighting packages
 
@@ -793,7 +793,7 @@ Webpage: <https://ironcladcoffee.com/>
 ### Related projects / Syntax highlighting packages
 
 *   [liblsdj (⭐70)](https://github.com/stijnfrishert/liblsdj) - Utility library for interacting with the LSDj save format (.sav), song files (.lsdsng) and more.
-*   [lsdpatch (⭐116)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
+*   [lsdpatch (⭐117)](https://github.com/jkotlinski/lsdpatch) - Tool for modifying samples, fonts and palettes on LSDj ROM images.
 
 ### Directories / Syntax highlighting packages
 

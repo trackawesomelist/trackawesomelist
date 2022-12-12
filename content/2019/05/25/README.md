@@ -33,7 +33,7 @@
 ### Admin Panels
 
 *   [django-grappelli](https://grappelliproject.com/) - A jazzy skin for the Django Admin-Interface.
-*   [django-jet (⭐3.3k)](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality.
+*   [django-jet (⭐3.4k)](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality.
 *   [django-suit](https://djangosuit.com/) - Alternative Django Admin-Interface (free only for Non-commercial use).
 
 ### Caching
@@ -46,7 +46,7 @@
 
 ### Cryptography
 
-*   [paramiko (⭐7.9k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
+*   [paramiko (⭐8k)](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 
 ### Data Visualization
 
@@ -54,7 +54,7 @@
 
 ### E-commerce
 
-*   [money (⭐211)](https://github.com/carlospalol/money) - `Money` class with optional CLDR-backed locale-aware formatting and an extensible currency exchange.
+*   [money (⭐212)](https://github.com/carlospalol/money) - `Money` class with optional CLDR-backed locale-aware formatting and an extensible currency exchange.
 
 ### Editor Plugins and IDEs
 
@@ -71,9 +71,9 @@
 
 ### GUI Development
 
-*   [Eel (⭐5.2k)](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
+*   [Eel (⭐5.3k)](https://github.com/ChrisKnott/Eel) - A library for making simple Electron-like offline HTML/JS GUI apps.
 *   [PySimpleGUI (⭐11k)](https://github.com/PySimpleGUI/PySimpleGUI) - Wrapper for tkinter, Qt, WxPython and Remi.
-*   [pywebview (⭐3.1k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
+*   [pywebview (⭐3.2k)](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 
 ### Game Development
 
@@ -94,10 +94,10 @@
 *   [Cython](http://cython.org/) - Optimizing Static Compiler for Python.
 *   [IronPython (⭐1.9k)](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 *   [Jython](https://hg.python.org/jython) - Implementation of Python programming language written in Java for the JVM.
-*   [MicroPython (⭐15k)](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
+*   [MicroPython (⭐16k)](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
 *   [PeachPy (⭐1.7k)](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 *   [Pyston (⭐4.9k)](https://github.com/dropbox/pyston) - A Python implementation using JIT techniques.
-*   [Stackless Python (⭐860)](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language.
+*   [Stackless Python (⭐881)](https://github.com/stackless-dev/stackless) - An enhanced version of the Python programming language.
 
 ### Job Scheduler
 
@@ -112,7 +112,7 @@
 *   Code Coverage
     *   [coverage](https://pypi.org/project/coverage/) - Code coverage measurement.
 *   Fake Data
-    *   [fake2db (⭐2.1k)](https://github.com/emirozer/fake2db) - Fake database generator.
+    *   [fake2db (⭐2.2k)](https://github.com/emirozer/fake2db) - Fake database generator.
     *   [faker (⭐15k)](https://github.com/joke2k/faker) - A Python package that generates fake data.
     *   [mimesis (⭐3.8k)](https://github.com/lk-geimfari/mimesis) - is a Python library that help you generate fake data.
     *   [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
@@ -122,11 +122,11 @@
 *   General
     *   [chardet (⭐1.8k)](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.
     *   [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
-    *   [ftfy (⭐3.3k)](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
+    *   [ftfy (⭐3.4k)](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
     *   [fuzzywuzzy (⭐8.8k)](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
     *   [Levenshtein (⭐1.2k)](https://github.com/ztane/python-Levenshtein/) - Fast computation of Levenshtein distance and string similarity.
-    *   [pangu.py (⭐193)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
-    *   [pyfiglet (⭐1k)](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
+    *   [pangu.py (⭐194)](https://github.com/vinta/pangu.py) - Paranoid text spacing.
+    *   [pyfiglet (⭐1.1k)](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
     *   [pypinyin (⭐4.1k)](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
     *   [textdistance (⭐3k)](https://github.com/orsinium/textdistance) - Compute distance between sequences with 30+ algorithms.
     *   [unidecode](https://pypi.org/project/Unidecode/) - ASCII transliterations of Unicode text.

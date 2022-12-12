@@ -72,7 +72,7 @@ Webpage: <http://frenesicafe.com>
 
 ### Related projects / Syntax highlighting packages
 
-*   [gb-save-states (⭐94)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
+*   [gb-save-states (⭐97)](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 
 ## [9. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

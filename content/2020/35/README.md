@@ -1,24 +1,31 @@
 # Awesome List Updates on Aug 31 - Sep 06, 2020
 
-57 awesome lists updated this week.
+59 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [1. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+
+### Products / Other
+
+*   [Presentations.ai](https://presentations.ai) Visually stunning presentations
+    that you can design instantly
+
+## [2. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Official
 
 *   [Apphud (⭐138)](https://github.com/apphud/ApphudSDK) - A complete solution to integrate auto-renewable subscriptions and regular in-app purchases in 30 minutes with no server code required.
 
-## [2. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [3. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / App Vulnerability Scanners
 
 *   ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
 
-## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [4. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### an IMAGE to explain what RSS is
 
@@ -103,7 +110,7 @@
 
 *   [分享你人为值得订阅的内容 by Notion中文社区](https://www.notion.so/cnotion/Notion-Vol-13-89e51bdb621a4e009e7ec60d1cc58c2f)
 
-## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [5. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### Topic Areas / Uncategorized
 
@@ -147,19 +154,19 @@
 *   [Not so Standard Deviations](http://nssdeviations.com/) - A data science podcast where Roger Peng and Hilary Parker talk about the latest in data science and data analysis in academia and industry.
 *   [The R-Podcast](https://r-podcast.org/) - Practical advice on how to take advantage of R to accomplish innovative and robust data analyses. Hosted by Eric Nantz.
 
-## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Miscellaneous
 
 *   [Inertia plugin (⭐29)](https://github.com/ishanvyas22/cakephp-inertiajs) - Server side adapter for Inertia.js.
 
-## [6. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [7. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Carbon Reduction
 
 *   [Patch](https://www.usepatch.com) - Patch is the API for negative emissions. Developers can use Patch's API to make any transaction carbon neutral with a wide range of negative emission methods (e.g. direct air carbon capture, bio-oil geosequestration, enhanced weathering, reforestation and more).
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [8. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
@@ -173,22 +180,22 @@
 
 *   [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ\&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 
-## [8. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [9. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learn
 
 *   [Elm patterns](http://sporto.github.io/elm-patterns/index.html) - A collection of common patterns in Elm.
 
-## [9. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / CSS in JS
 
-*   [CSS-modules (⭐128)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
+*   [CSS-modules (⭐130)](https://github.com/atfzl/eslint-plugin-css-modules) - Lint undefined or unused rules for css modules.
 *   Styled Components
     *   [Better Styled Components (⭐55)](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
-    *   [styled-components-a11y (⭐106)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+    *   [styled-components-a11y (⭐108)](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
 
-## [10. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [11. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -218,26 +225,26 @@
 
 
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [12. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Books and Reading / Telegram
 
 *   [MostRecommendedBooks](https://mostrecommendedbooks.com)
 
-## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [13. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
-*   [Materialize (⭐4.6k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/tests)
+*   [Materialize (⭐4.7k)](https://github.com/MaterializeInc/materialize) - Streaming SQL database powered by Timely Dataflow :heavy\_dollar\_sign: [![Build status](https://badge.buildkite.com/97d6604e015bf633d1c2a12d166bb46f3b43a927d3952c999a.svg?branch=main)](https://buildkite.com/materialize/tests)
 
-## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [14. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Emacs (⭐202)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
 *   [Vim (⭐299)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
-## [14. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Angular
 
@@ -247,13 +254,13 @@
 
 *   [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 
-## [15. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [16. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Rendering/Publishing/Conversion
 
-*   [nbdev (⭐3.8k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
+*   [nbdev (⭐3.9k)](https://github.com/fastai/nbdev) - Develop, package and distribute Python packages to PyPI using Jupyter as a [Literate Programing](https://en.wikipedia.org/wiki/Literate_programming) environment.
 
-## [16. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [17. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -285,13 +292,13 @@
 
 
 
-## [17. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [18. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Network / Scanning / Pentesting
 
 *   [monsoon (⭐362)](https://github.com/RedTeamPentesting/monsoon) - Very flexible and fast interactive HTTP enumeration/fuzzing.
 
-## [18. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [19. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -366,25 +373,25 @@
 *   [Automatically Dockerize A Data-Science Repo As A Jupyter Server (⭐117)](https://github.com/jupyterhub/repo2docker-action)
 *   [Azure Machine Learning With GitHub Actions (⭐108)](https://github.com/machine-learning-apps/ml-template-azure)
 
-## [19. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [20. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [omg-curry (⭐133)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 
-## [20. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [21. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Authorization / AWS policy tools
 
 *   [Aardvark and Repokid](https://netflixtechblog.com/introducing-aardvark-and-repokid-53b081bf3a7e) - Netflix tools to enforce least privilege on AWS. The idea is that the default policy on new things is deny all, and then it monitors cloudtrail for privilege failures and reconfigures IAM to allow the smallest possible privilege to get rid of that deny message.
 
-## [21. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Image Processing
 
-*   [ImageProcessing (⭐731)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐738)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
-## [22. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [23. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Official resources
 
@@ -406,13 +413,13 @@
 *   [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
 *   [Excel Ansible Inventory (⭐86)](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 
-## [23. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
+## [24. Awesome Prisma](/content/catalinmiron/awesome-prisma/week/README.md)
 
 ### :safety_vest: Community Prisma Tools
 
 *   [Schematics to add Prisma support to a NestJS application (⭐14)](https://github.com/marcjulian/nestjs-prisma)
 
-## [24. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
+## [25. Awesome Lockpicking](/content/fabacab/awesome-lockpicking/week/README.md)
 
 ### Locksport associations and organizations
 
@@ -422,49 +429,49 @@
 
 *   [SpiKey](https://www.comp.nus.edu.sg/\~junhan/papers/SpiKey_HotMobile20_CamReady.pdf) - Acoustic-based physical key inference.
 
-## [25. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [26. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Science
 
 *   [SimPy](https://gitlab.com/team-simpy/simpy) -  A process-based discrete-event simulation framework.
 
-## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [27. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Testing / Official resources
 
 *   [Suitest](https://suite.st) - Test automation solution for Smart TVs, gaming consoles, streaming sticks etc.
 
-## [27. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [28. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Webshell / Server-Side Request Forgery
 
 *   [PhpSploit (⭐1.8k)](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner by [@nil0x42](https://github.com/nil0x42).
 
-## [28. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [29. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Icons / Icons Packages and Collections
 
 *   [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
 
-## [29. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [30. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Code
 
 *   [ExplainX (⭐320)](https://github.com/explainX/explainx)- ExplainX is a fast, light-weight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 
-## [30. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [31. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Mobile
 
 *   🔌 [FlutterFire (⭐7.2k)](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
 
-## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [iCMD](https://icmd.app) - Fuzzy menubar search and vim/easymotion emulation which works globally for every native MacOS app.
 
-## [32. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [33. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage consumption tools / Linux distributions
 
@@ -475,26 +482,32 @@
 
 *   [mini-qml (⭐45)](https://github.com/patrickelectric/mini-qml) - Minimal Qml application template with deployment for Linux (AppImage), Windows, macOS and WebAssembly.
 
-## [33. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [34. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / Conversion
 
 *   [swaggerjmx (⭐89)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 
-## [34. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
+## [35. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+
+### Blog posts
+
+*   [theheadless.dev](https://theheadless.dev) - Blog with practical guides and runnable examples on Playwright and Puppeteer.
+
+## [36. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/week/README.md)
 
 ### Applications
 
 *   [Nyxo](https://nyxo.app) – Open source sleep tracking and sleep coaching app for iOS and Android.
 *   [Sanvello](https://sanvello.com) - Daily tools for stress, anxiety, and depression alongside a supportive community. Based on cognitive behavioral therapy & mindfulness meditation.
 
-## [35. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [37. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 
 *   [ColorsWall](https://colorswall.com/) - Place to store your color Palettes and generate tool.
 
-## [36. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
+## [38. Awesome Tall Stack](/content/livewire/awesome-tall-stack/week/README.md)
 
 ### Examples
 
@@ -505,13 +518,13 @@
 *   🔓 [novapackages.com](https://novapackages.com) - [repository (⭐315)](https://github.com/tightenco/novapackages) - Discover new Laravel Nova packages.
 *   🔐 [pingping.io](https://pingping.io?ref=awesome-tall-stack) - Website uptime && SSL monitoring.
 
-## [37. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [39. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Geolocation / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Owntracks](https://owntracks.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/owntracks/android) - A privacy-respecting mobile app that allows you to keep track of your own location.
 
-## [38. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
+## [40. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/week/README.md)
 
 ### Career / Presentations
 
@@ -529,7 +542,7 @@
 *   “This is what I loved about working at Netflix. We didn't have performance reviews. It was assumed that your performance was good to excellent, otherwise you wouldn't be working there anymore. You had a constant feedback loop with your manager on performance, but nothing was ever formal.” ([source](https://news.ycombinator.com/item?id=23861960)).
 *   “The system a software developer works in shapes their performance so much more than individual differences.” ([source](https://news.ycombinator.com/item?id=21972033)).
 
-## [39. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [41. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
@@ -539,26 +552,26 @@
 
 *   [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 
-## [40. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [42. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Finance
 
 *   [Bank Git (⭐25)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
 
-## [41. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [43. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
 *   [Alerting issues with Alertmanager](https://ali.sattari.me/posts/2020/alerting-issues-with-alertmanager/) - Addressing alert flapping and duplicates in Alertmanager by [Ali Sattari](https://github.com/ali-sattari).
 
-## [42. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [44. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Manufacturers
 
 *   [Ibeo](https://www.ibeo-as.com/) - Ibeo Automotive Systems GmbH is an automotive industry / environmental detection laserscanner / LIDAR manufacturer, based in Hamburg, Germany.
     *   [YouTube channel :red\_circle:](https://www.youtube.com/c/IbeoAutomotive/)
 
-## [43. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [45. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -586,7 +599,7 @@
 
 *   [woopra.com](https://www.woopra.com/) — Free user analytics platform for 500K actions, 90 day data retention, 30+ one click integration.
 
-## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [46. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / DynamoDB
 
@@ -596,26 +609,26 @@
 
 *   [salesforce/policy\_sentry :fire::fire::fire::fire: (⭐1.7k)](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
 
-## [45. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [47. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Videos
 
 *   [Data warehouse schema design - dimensional modeling and star schema](https://snir.dev/talks/data-warehouse-schema-design) - Introduction to schema design for data warehouse using the star schema method.
 
-## [46. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [48. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Search / Provided by the Host
 
 *   [Jets.js](https://jets.js.org/) - Native CSS search engine
 
-## [47. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [49. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### UI / Barcode
 
 *   [Arale (⭐43)](https://github.com/supercomputra/Arale) - A custom stretchable header view for UIScrollView or any its subclasses with UIActivityIndicatorView support for content reloading.
-*   [BetterSafariView (⭐371)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
+*   [BetterSafariView (⭐385)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 
-## [48. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [50. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -638,14 +651,14 @@
 
 ### Components & Libraries / Frameworks
 
-*   [oruga (⭐862)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
+*   [oruga (⭐881)](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 
 ### Components & Libraries / UI Utilities
 
 *   [vue-lazy (⭐4)](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
 *   [vue-styled-shadows (⭐7)](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 
-## [49. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [51. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Codelabs
 
@@ -672,7 +685,7 @@
 *   [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web component for creating documentation from OpenAPI Specification.
 *   [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - Web component for writing and rendering shaders.
 *   [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
-*   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐5.4k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
+*   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐5.6k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
 
 ### Component Libraries
 
@@ -680,20 +693,20 @@
 
 ### Design Systems
 
-*   [Lyne Components (⭐16)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+*   [Lyne Components (⭐19)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 
 ### Class Based
 
-*   [Panel (⭐234)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
+*   [Panel (⭐238)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 
-## [50. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [52. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Python Libraries
 
 *   [bitcoin\_tools (⭐239)](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
 *   [oogway (⭐10)](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 
-## [51. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
+## [53. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
 ### Frameworks
 
@@ -703,14 +716,13 @@
 
 *   [Unity Labs' Super Science (⭐607)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
 
-## [52. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [54. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Guides
 
-*   [theheadless.dev](https://theheadless.dev) - Practical guides and runnable examples on Playwright (and Puppeteer).
 *   [playwright.tech](https://playwright.tech) - A central home for tutorials, tooling, and showcases of the Playwright ecosystem.
 
-## [53. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [55. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Machine Learning
 
@@ -724,7 +736,7 @@
 
 *   [canopen (⭐335)](https://github.com/christiansandberg/canopen) - A Python implementation of the CANopen standard. The aim of the project is to support the most common parts of the CiA 301 standard in a Pythonic interface.
 
-## [54. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [56. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -742,29 +754,22 @@
 
 *   [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology, programming languages, conferences, Linux, Unix, iOS, MacOS, Python, Ruby, Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) and [Üstün Özgür](https://github.com/ustun).
 
-## [55. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### Individual components / Markdowns
-
-*   [RazorComponents.Markdown (⭐28)](https://github.com/StardustDL/RazorComponents.Markdown) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/RazorComponents.Markdown?style=flat-square\&cacheSeconds=86400) A razor component for Markdown rendering which supports LaTeX, Mermaid diagram, code highlighting and extensions based on Markdig.
-*   [Blazor Markdown (⭐28)](https://github.com/georgemathieson/blazor-markdown) - ![last\_commit](https://img.shields.io/github/last-commit/georgemathieson/blazor-markdown?style=flat-square\&cacheSeconds=86400) A Blazor Markdown component that enables you to include Markdown files in your server-side Blazor apps.
+## [57. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Individual components / Others
 
-*   [Stl.Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐128)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
-*   [Blazor-DragDrop (⭐291)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
-*   [Blazor.SignaturePad (⭐62)](https://github.com/Mobsites/Blazor.SignaturePad) - ![stars](https://img.shields.io/github/stars/Mobsites/Blazor.SignaturePad?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Mobsites/Blazor.SignaturePad?style=flat-square\&cacheSeconds=86400) A Blazor component library that utilizes Szymon Nowak's javascript library Signature Pad to implement smooth signature drawing on a HTML5 canvas.
-*   [BlazorTransitionableRoute (⭐114)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
-*   [Blazor.Grids (⭐20)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
+*   [Stl.Fusion (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion) - ![GitHub stars](https://img.shields.io/github/stars/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/servicetitan/Stl.Fusion?style=flat-square\&cacheSeconds=86400) .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples (⭐131)](https://github.com/servicetitan/Stl.Fusion.Samples). [Overview (⭐1.5k)](https://github.com/servicetitan/Stl.Fusion/blob/master/docs/Overview.md).
+*   [Blazor-DragDrop (⭐302)](https://github.com/Postlagerkarte/blazor-dragdrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/blazor-dragdrop?style=flat-square\&cacheSeconds=86400) Easy-to-use Drag and Drop library for Blazor.
+*   [BlazorTransitionableRoute (⭐122)](https://github.com/JByfordRew/BlazorTransitionableRoute) - ![stars](https://img.shields.io/github/stars/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JByfordRew/BlazorTransitionableRoute?style=flat-square\&cacheSeconds=86400) Allows current and previous route to exist enabling transition animations of UI/UX design systems.
+*   [Blazor.Grids (⭐22)](https://github.com/excubo-ag/Blazor.Grids) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.Grids?style=flat-square\&cacheSeconds=86400) Component library for CSS grids with extra features, such as moving and resizing interactively. Create your own dashboard with ease. ([Demo](https://excubo-ag.github.io/Blazor.Grids/)).
 *   [Blazor.TreeViews (⭐51)](https://github.com/excubo-ag/Blazor.TreeViews) - ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square\&cacheSeconds=86400) Component library for tree views. ([Demo](https://excubo-ag.github.io/Blazor.TreeViews/)).
 
 ### Tools & Utilities / Others
 
-*   [Blazor I18n/Localization Text (⭐171)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
-*   [MvvmBlazor (⭐181)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
-*   [BracketShow.BlazorNavigationManagerExtensions (⭐6)](https://github.com/bracketshow/blazornavigationmanagerextensions) - ![last commit](https://img.shields.io/github/last-commit/bracketshow/blazornavigationmanagerextensions?style=flat-square\&cacheSeconds=86400) Simple set of extensions for the Navigation Manager to simplify its usage for things we are likely to do in most of our Blazor applications.
+*   [Blazor I18n/Localization Text (⭐175)](https://github.com/jsakamoto/Toolbelt.Blazor.I18nText) - ![stars](https://img.shields.io/github/stars/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/Toolbelt.Blazor.I18nText?style=flat-square\&cacheSeconds=86400) Localizing contents text in Blazor ([Demo](https://jsakamoto.github.io/Toolbelt.Blazor.I18nText/)).
+*   [MvvmBlazor (⭐191)](https://github.com/klemmchr/MvvmBlazor) - ![stars](https://img.shields.io/github/stars/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/klemmchr/MvvmBlazor?style=flat-square\&cacheSeconds=86400) BlazorMVVM is a small framework for building Blazor and BlazorServerside apps. With it's simple to use MVVM pattern you can boost up your development speed while minimizing the hazzle to just make it work.
 
-## [56. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [58. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -778,15 +783,15 @@
 
 
 
-## [57. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
+## [59. Awesome Libgdx](/content/rafaskb/awesome-libgdx/week/README.md)
 
 ### Resources / Algorithms and AI
 
-*   [Simple Graphs (⭐32)](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
+*   [Simple Graphs (⭐35)](https://github.com/earlygrey/simple-graphs) - A java library for graph data structures and algorithms (including fast pathfinding).
 
 ### Resources / Physics
 
-*   [jbump (⭐21)](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
+*   [jbump (⭐22)](https://github.com/tommyettinger/jbump) - Easy to implement AABB collision detection useful for platformers and other simple 2D games.
 
 ---
 

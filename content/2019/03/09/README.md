@@ -26,7 +26,7 @@
 
 ### Tools and frameworks
 
-*   [jest-puppeteer-react (⭐66)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
+*   [jest-puppeteer-react (⭐67)](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - Visual regression testing with Jest and puppeteer for React components
 
 ## [4. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 

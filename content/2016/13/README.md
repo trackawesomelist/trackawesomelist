@@ -68,7 +68,7 @@
 
 ### Images / Barcode
 
-*   [UIImageColors (⭐3.1k)](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
+*   [UIImageColors (⭐3.2k)](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
 ## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -91,12 +91,11 @@
 
 ### Writing / Social Sciences
 
-*   [Statistical Physics (⭐35)](https://github.com/emptymalei/statisticalphysics)
+*   [Statistical Physics (⭐36)](https://github.com/emptymalei/statisticalphysics)
 *   [Neutrino Physics (⭐6)](https://github.com/NeuPhysics/neutrino)
 
 ### Hosting / Social Sciences
 
-*   [Aerobatic](https://www.aerobatic.com/): A powerful alternative to GitHub Pages.
 *   [Surge](https://surge.sh/): One command upload your static website to make it live. Surge also integrates GitHub hooks.
 
 ### Static Site Generator / Social Sciences
@@ -111,14 +110,12 @@
 
 *   [CMD markdown](https://www.zybuluo.com/mdeditor)(`Cloud`): CMD is a Markdown editor with math (MathJax) support. What is special is that it keeps edit history. (Chinese UI.)
 *   [Penflip](https://www.penflip.com/)(`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
-*   [Online Kramdown Editor](http://kramdown.herokuapp.com/)(`Cloud`): Just another Markdown editor without math support.
 *   [Pandoc Markdown](http://pandoc.herokuapp.com/)(`Cloud`): Just another Markdown editor with math (MathJax) support.
 *   [Marxico](http://marxi.co/)(`Cloud`,`Mac`,`Win`,`Chrome`): Markdown editor that integrates with Evernote, generates pdf and works offline. [马克飞象](https://maxiang.io/)(`Cloud`,`Mac`,`Win`,`Chrome`) is the Chinese version。
 *   [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** × Markdown ²
 *   [typora](https://www.typora.io/)(`Mac`,`Win`):  Beautiful UI and in-situ live preview.
 *   [Haroopad](http://pad.haroopress.com/)(`Mac`,`Win`,`Linux`): A powerful github flavored markdown editor with useful extensions. Math (mathjax) is supported.
 *   [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
-*   [Mou](http://25.io/mou/)(`Mac`): Mou used to be the best Markdown editor on Mac. It is not bad but DO NOT preorder Mou 1.0. This project is dead, unofficially. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
 *   [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
 *   [ReText (⭐1.6k)](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 
@@ -287,7 +284,7 @@
 
 ### Machine Learning
 
-*   [weka (⭐67)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
+*   [weka (⭐66)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
 
 ## [18. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -326,7 +323,7 @@
 
 ### Bundlers
 
-*   [Rollup (⭐22k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
+*   [Rollup (⭐23k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 
 ### Editors / Runner
 
@@ -340,11 +337,11 @@
 
 ### Loading Status / Runner
 
-*   [css-loaders (⭐6.9k)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+*   [css-loaders (⭐7k)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 
 ### Sliders / Runner
 
-*   [Strut (⭐1.6k)](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
+*   [Strut (⭐1.7k)](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 
 ### Tips / Other
 
@@ -357,13 +354,13 @@
 *   [colorbox (⭐4.8k)](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery.
 *   [fancyBox (⭐7.2k)](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 *   [swipebox (⭐2k)](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
-*   [jBox (⭐1.3k)](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
+*   [jBox (⭐1.4k)](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 
 ### Boilerplates / Other
 
-*   [html5-boilerplate (⭐53k)](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+*   [html5-boilerplate (⭐54k)](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 *   [mobile-boilerplate (⭐3.9k)](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
-*   [webplate (⭐561)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
+*   [webplate (⭐560)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
 *   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
 *   [Fluid-Squares (⭐32)](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
 
@@ -376,22 +373,22 @@
 *   [FlowType.JS (⭐4.6k)](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
 *   [BigText (⭐884)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
 *   [novacancy.js (⭐185)](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
-*   [jquery-responsive-text (⭐124)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
+*   [jquery-responsive-text (⭐123)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
 
 ### Animations / Other
 
 *   [the-cube (⭐10)](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
-*   [animate.css (⭐76k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [animate.css (⭐77k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ### Misc / Other
 
 *   [spoiler-alert (⭐473)](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
-*   [jquery.vibrate.js (⭐143)](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
+*   [jquery.vibrate.js (⭐144)](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
 *   [jquery-match-height (⭐3.1k)](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 
 ### Podcasts / Other
 
-*   [sotayamashita/awesome-css (⭐4k)](https://github.com/sotayamashita/awesome-css)
+*   [sotayamashita/awesome-css (⭐4.1k)](https://github.com/sotayamashita/awesome-css)
 
 ## [23. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
@@ -444,11 +441,11 @@
 ### Development tools / FFI
 
 *   Objective-C
-    *   [SSheldon/rust-objc (⭐332)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
+    *   [SSheldon/rust-objc (⭐335)](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐56)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐57)](https://github.com/saurvs/hypervisor-rs) — Hardware-accelerated virtualization on OS X
 
 ## [25. Tips](/content/git-tips/tips/week/README.md)
 
@@ -485,7 +482,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Bittorrent
 
-*   [bento (⭐74)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+*   [bento (⭐75)](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 
 ### Email
 
@@ -501,7 +498,7 @@ git instaweb [--local] [--httpd=<httpd>] [--port=<port>] [--browser=<browser>]
 
 ### Editors
 
-*   [Alchemist.vim (⭐657)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
+*   [Alchemist.vim (⭐658)](https://github.com/slashmili/alchemist.vim) - Elixir Tooling Integration Into Vim.
 
 ### Websites
 

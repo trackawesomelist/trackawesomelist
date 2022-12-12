@@ -48,11 +48,11 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐250)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐264)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
-*   [jose-simple (⭐54)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+*   [jose-simple (⭐55)](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
 ## [7. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
@@ -139,7 +139,7 @@
 
 ## [15. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
-### Books / Wasm
+### Books / Frameworks
 
 *   [The WebAssembly Book](https://rustwasm.github.io/docs/book/) - Working with the web and producing .wasm files.
 *   [The wasm-bindgen Guide](https://rustwasm.github.io/docs/wasm-bindgen/) - How to bind Rust and JavaScript APIs.

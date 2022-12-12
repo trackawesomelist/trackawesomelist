@@ -10,7 +10,7 @@
 
 ### Driver crates / Other
 
-*   [rainbow-hat-rs](https://crates.io/crates/rainbow-hat-rs) - I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - [github (⭐1)](https://github.com/yannart/rainbow-hat-rs) - ![crates.io](https://img.shields.io/crates/v/rainbow-hat-rs.svg)
+*   [rainbow-hat-rs](https://crates.io/crates/rainbow-hat-rs) - I2C/SPI/GPIO - Pimoroni Rainbow HAT driver for Raspberry Pi - [github (⭐2)](https://github.com/yannart/rainbow-hat-rs) - ![crates.io](https://img.shields.io/crates/v/rainbow-hat-rs.svg)
 
 ## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
@@ -27,31 +27,31 @@
 *   [Performer (⭐26k)](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
 *   [JaxNeRF (⭐26k)](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [*NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis*](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
 *   [Big Transfer (BiT) (⭐1.4k)](https://github.com/google-research/big_transfer) - Implementation of [*Big Transfer (BiT): General Visual Representation Learning*](https://arxiv.org/abs/1912.11370).
-*   [JAX RL (⭐386)](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
+*   [JAX RL (⭐395)](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
 *   [gMLP (⭐2)](https://github.com/SauravMaheshkar/gMLP) - Implementation of [*Pay Attention to MLPs*](https://arxiv.org/abs/2105.08050).
 *   [MLP Mixer (⭐8)](https://github.com/SauravMaheshkar/MLP-Mixer) - Minimal implementation of [*MLP-Mixer: An all-MLP Architecture for Vision*](https://arxiv.org/abs/2105.01601).
 *   [Distributed Shampoo (⭐26k)](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [*Second Order Optimization Made Practical*](https://arxiv.org/abs/2002.09018).
-*   [NesT (⭐164)](https://github.com/google-research/nested-transformer) - Official implementation of [*Aggregating Nested Transformers*](https://arxiv.org/abs/2105.12723).
-*   [XMC-GAN (⭐91)](https://github.com/google-research/xmcgan_image_generation) - Official implementation of [*Cross-Modal Contrastive Learning for Text-to-Image Generation*](https://arxiv.org/abs/2101.04702).
+*   [NesT (⭐166)](https://github.com/google-research/nested-transformer) - Official implementation of [*Aggregating Nested Transformers*](https://arxiv.org/abs/2105.12723).
+*   [XMC-GAN (⭐94)](https://github.com/google-research/xmcgan_image_generation) - Official implementation of [*Cross-Modal Contrastive Learning for Text-to-Image Generation*](https://arxiv.org/abs/2101.04702).
 *   [FNet (⭐26k)](https://github.com/google-research/google-research/tree/master/f_net) - Official implementation of [*FNet: Mixing Tokens with Fourier Transforms*](https://arxiv.org/abs/2105.03824).
 *   [GFSA (⭐26k)](https://github.com/google-research/google-research/tree/master/gfsa) - Official implementation of [*Learning Graph Structure With A Finite-State Automaton Layer*](https://arxiv.org/abs/2007.04929).
 *   [IPA-GNN (⭐26k)](https://github.com/google-research/google-research/tree/master/ipagnn) - Official implementation of [*Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks*](https://arxiv.org/abs/2010.12621).
 *   [Flax Models (⭐26k)](https://github.com/google-research/google-research/tree/master/flax_models) - Collection of models and methods implemented in Flax.
 *   [Protein LM (⭐26k)](https://github.com/google-research/google-research/tree/master/protein_lm) - Implements BERT and autoregressive models for proteins, as described in [*Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences*](https://www.biorxiv.org/content/10.1101/622803v1.full) and [*ProGen: Language Modeling for Protein Generation*](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2).
 *   [Slot Attention (⭐26k)](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection) - Reference implementation for [*Differentiable Patch Selection for Image Recognition*](https://arxiv.org/abs/2104.03059).
-*   [Vision Transformer (⭐6.1k)](https://github.com/google-research/vision_transformer) - Official implementation of [*An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929).
+*   [Vision Transformer (⭐6.2k)](https://github.com/google-research/vision_transformer) - Official implementation of [*An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929).
 *   [FID computation (⭐13)](https://github.com/matthias-wright/jax-fid) - Port of [mseitzer/pytorch-fid (⭐2k)](https://github.com/mseitzer/pytorch-fid) to Flax.
 
 ### Models and Projects / Haiku
 
-*   [AlphaFold (⭐9.3k)](https://github.com/deepmind/alphafold) - Implementation of the inference pipeline of AlphaFold v2.0, presented in [*Highly accurate protein structure prediction with AlphaFold*](https://www.nature.com/articles/s41586-021-03819-2).
+*   [AlphaFold (⭐9.5k)](https://github.com/deepmind/alphafold) - Implementation of the inference pipeline of AlphaFold v2.0, presented in [*Highly accurate protein structure prediction with AlphaFold*](https://www.nature.com/articles/s41586-021-03819-2).
 *   [Adversarial Robustness (⭐11k)](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness) - Reference code for [*Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples*](https://arxiv.org/abs/2010.03593) and [*Fixing Data Augmentation to Improve Adversarial Robustness*](https://arxiv.org/abs/2103.01946).
 *   [Bootstrap Your Own Latent (⭐11k)](https://github.com/deepmind/deepmind-research/tree/master/byol) - Implementation for the paper [*Bootstrap your own latent: A new approach to self-supervised Learning*](https://arxiv.org/abs/2006.07733).
 *   [Gated Linear Networks (⭐11k)](https://github.com/deepmind/deepmind-research/tree/master/gated_linear_networks) - GLNs are a family of backpropagation-free neural networks.
 *   [Glassy Dynamics (⭐11k)](https://github.com/deepmind/deepmind-research/tree/master/glassy_dynamics) - Open source implementation of the paper [*Unveiling the predictive power of static structure in glassy systems*](https://www.nature.com/articles/s41567-020-0842-8).
 *   [MMV (⭐11k)](https://github.com/deepmind/deepmind-research/tree/master/mmv) - Code for the models in [*Self-Supervised MultiModal Versatile Networks*](https://arxiv.org/abs/2006.16228).
 *   [Normalizer-Free Networks (⭐11k)](https://github.com/deepmind/deepmind-research/tree/master/nfnets) - Official Haiku implementation of [*NFNets*](https://arxiv.org/abs/2102.06171).
-*   [NuX (⭐73)](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
+*   [NuX (⭐75)](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
 *   [OGB-LSC (⭐11k)](https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc) - This repository contains DeepMind's entry to the [PCQM4M-LSC](https://ogb.stanford.edu/kddcup2021/pcqm4m/) (quantum chemistry) and [MAG240M-LSC](https://ogb.stanford.edu/kddcup2021/mag240m/) (academic graph)
     tracks of the [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) (OGB-LSC).
 *   [Persistent Evolution Strategies (⭐26k)](https://github.com/google-research/google-research/tree/master/persistent_es) - Code used for the paper [*Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies*](http://proceedings.mlr.press/v139/vicol21a.html).
@@ -59,11 +59,11 @@
 
 ### Models and Projects / Trax
 
-*   [Reformer (⭐7.1k)](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
+*   [Reformer (⭐7.2k)](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
 
 ### Videos / NumPyro
 
-*   [JAX, Flax & Transformers 🤗 (⭐73k)](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
+*   [JAX, Flax & Transformers 🤗 (⭐74k)](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
 
 ## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -94,7 +94,7 @@
 
 ### Plugins
 
-*   🧩 [Perspective (⭐74)](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
+*   🧩 [Perspective (⭐79)](https://github.com/Kamona-WD/tailwindcss-perspective) - Adds `perspective` utilities.
 
 ## [8. Public Apis](/content/public-apis/public-apis/README.md)
 

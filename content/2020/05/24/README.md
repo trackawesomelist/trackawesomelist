@@ -46,7 +46,7 @@
 
 ### API / Runner
 
-*   [FarFetch (⭐51)](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
+*   [FarFetch (⭐53)](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
 
 ## [4. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/README.md)
 

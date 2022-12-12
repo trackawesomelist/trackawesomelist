@@ -35,7 +35,7 @@
 
 ### Third-party APIs
 
-*   [crystal-swapi (⭐3)](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
+*   [crystal-swapi (⭐4)](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
 
 ## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

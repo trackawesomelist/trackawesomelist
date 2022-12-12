@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10, 2017
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -12,7 +12,16 @@
 
 *   [Free GNU/Linux Distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
 
-## [2. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Category wise tutorials - J2EE](https://www.mkyong.com/all-tutorials-on-mkyong-com/) - Yong Mook Kim
+*   [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
+*   [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
+*   [The Java EE6 Tutorial](https://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
+
+## [3. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Algorithms
 
@@ -22,13 +31,13 @@
     *   [Labs](http://www.cs.berkeley.edu/\~jrs/61b/lab/index.html) The link to labs and projects is included in the website.
     *   [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iC2Khb1B5NnbE7SHPQ1-W17)
 
-## [3. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
+## [4. Awesome Neuroscience](/content/analyticalmonk/awesome-neuroscience/README.md)
 
 ### Programming / Python
 
 *   [Brian2 (⭐699)](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 
-## [4. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [5. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### User Interface / Layout
 
@@ -38,13 +47,13 @@
 
 *   [BMFontRenderer (⭐34)](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format.
 
-## [5. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
+## [6. Papers We Love](/content/papers-we-love/papers-we-love/README.md)
 
 ### ![Papers We Love](http://paperswelove.org/images/logo-top.svg) / Chapters
 
 *   [Zürich](https://www.meetup.com/Papers-we-love-Zurich/)
 
-## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

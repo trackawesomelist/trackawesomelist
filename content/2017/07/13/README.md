@@ -22,7 +22,7 @@
 
 ### Researchers / Frameworks
 
-*   [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne (⭐950)](https://github.com/dnouri/nolearn)
+*   [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne (⭐948)](https://github.com/dnouri/nolearn)
 *   [Sonnet - a library for constructing neural networks by Google's DeepMind (⭐9.4k)](https://github.com/deepmind/sonnet)
 *   [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration (⭐60k)](https://github.com/pytorch/pytorch)
 
@@ -41,8 +41,8 @@
 
 ### Certification
 
-*   [CLI tool to train certifications (⭐418)](https://github.com/certificationy/certificationy-cli)
-*   [Symfony 3 certification guide (⭐142)](https://github.com/raulconti/symfony-3-certification-guide)
+*   [CLI tool to train certifications (⭐419)](https://github.com/certificationy/certificationy-cli)
+*   [Symfony 3 certification guide (⭐141)](https://github.com/raulconti/symfony-3-certification-guide)
 *   [Symfony certification preparation list (⭐548)](https://github.com/ThomasBerends/symfony-certification-preparation-list)
 
 ## [4. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
@@ -53,7 +53,7 @@
 
 ### Email
 
-*   [crystal-email (⭐107)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
+*   [crystal-email (⭐110)](https://github.com/arcage/crystal-email) - Simple e-mail sending library
 
 ## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

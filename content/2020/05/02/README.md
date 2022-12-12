@@ -184,7 +184,7 @@
 
 ### Component Collections / Material Design
 
-*   [matrix-card (⭐18)](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
+*   [matrix-card (⭐19)](https://github.com/MehmetKaplan/matrix-card) - [demo](https://mehmetkaplan.github.io/matrix-card/) - Simplest possible component to generate matrix rain style cards.
 
 ## [11. Public Apis](/content/public-apis/public-apis/README.md)
 

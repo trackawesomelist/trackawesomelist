@@ -1,12 +1,26 @@
 # Awesome List Updates on Nov 18 - Nov 24, 2013
 
-2 awesome lists updated this week.
+3 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
+
+### MATLAB / PicoLisp
+
+*   [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
+
+### Ruby / RSpec
+
+*   [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
+
+## [2. Awesome Ripple](/content/vhpoet/awesome-ripple/week/README.md)
 
 ### Gateways / Bridges
 
@@ -38,7 +52,7 @@
 *   [Ripple Lounge](http://www.ripplelounge.com/)
 *   [Rippleusers Google Group](https://groups.google.com/forum/#!forum/rippleusers)
 
-## [2. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [3. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Configuration / Third Party APIs
 
@@ -47,4 +61,4 @@
 ---
 
 - Prev: [Nov 25 - Dec 01, 2013](/content/2013/47/README.md)
-- Next: [Oct 28 - Nov 03, 2013](/content/2013/43/README.md)
+- Next: [Nov 11 - Nov 17, 2013](/content/2013/45/README.md)

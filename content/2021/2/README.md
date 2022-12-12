@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 11 - Jan 17, 2021
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -39,7 +39,7 @@
 
 *   Other Relational Databases
     *   [pymssql](https://pymssql.readthedocs.io/en/latest/) - A simple database interface to Microsoft SQL Server.
-    *   [clickhouse-driver (⭐927)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
+    *   [clickhouse-driver (⭐946)](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
 
 ## [6. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
@@ -97,66 +97,66 @@
 
 ### Caching
 
-*   [Cache Tower (⭐380)](https://github.com/TurnerSoftware/CacheTower) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
+*   [Cache Tower (⭐398)](https://github.com/TurnerSoftware/CacheTower) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
 
 ### CLI
 
-*   [CommandDotNet (⭐440)](https://github.com/bilal-fazlani/commanddotnet) - Model your console app using C# in a composable manner. Define commands with methods. Define subcommands with properties or nested classes. Extensible parsing and command execution.
+*   [CommandDotNet (⭐454)](https://github.com/bilal-fazlani/commanddotnet) - Model your console app using C# in a composable manner. Define commands with methods. Define subcommands with properties or nested classes. Extensible parsing and command execution.
 *   [CommandLineUtils (⭐2k)](https://github.com/natemcmaster/CommandLineUtils) - This is a fork of Microsoft.Extensions.CommandLineUtils, which is no longer under active development.
 
 ### CLR
 
-*   [Runtime (⭐10k)](https://github.com/dotnet/runtime) - Mono and CoreCLR .NET runtimes, as well as the standard library and some higher level components like `System.Linq` and `System.Text.Json`.
+*   [Runtime (⭐11k)](https://github.com/dotnet/runtime) - Mono and CoreCLR .NET runtimes, as well as the standard library and some higher level components like `System.Linq` and `System.Text.Json`.
 
 ### Compilers, Transpilers and Languages
 
-*   [Amplifier.NET (⭐139)](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
+*   [Amplifier.NET (⭐142)](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 
 ### DirectX
 
-*   [Vortice.Windows (⭐706)](https://github.com/amerkoleci/Vortice.Windows) - Cross platform .NET standard libraries for DirectX, WIC, Direct2D1, XInput, XAudio and X3DAudio
+*   [Vortice.Windows (⭐735)](https://github.com/amerkoleci/Vortice.Windows) - Cross platform .NET standard libraries for DirectX, WIC, Direct2D1, XInput, XAudio and X3DAudio
 
 ### Game
 
-*   [UnrealCLR (⭐2.4k)](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
+*   [UnrealCLR (⭐2.5k)](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 
 ### Logging
 
-*   [Rollbar.NET (⭐62)](https://github.com/rollbar/Rollbar.NET) - Simplifies real-time remote error monitoring while using Rollbar.com. Open-source Rollbar Notifier SDK for any .NET-based technology stack. The SDK that can be used in any application built on the following .NET versions: .NET Core 2.0+, .NET Standard 2.0+, .NET Full Framework 4.5.1+, Mono, Xamarin, and, in general, any implementation of the .NET Standard 2.0+. It simplifies building data payloads based on exception data, tracing data, informational messages, and telemetry data and sends the payloads to the Rollbar API for remote monitoring and analysis of the hosting application's behavior.
-*   [ZeroLog (⭐274)](https://github.com/Abc-Arbitrage/ZeroLog) - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
+*   [Rollbar.NET (⭐63)](https://github.com/rollbar/Rollbar.NET) - Simplifies real-time remote error monitoring while using Rollbar.com. Open-source Rollbar Notifier SDK for any .NET-based technology stack. The SDK that can be used in any application built on the following .NET versions: .NET Core 2.0+, .NET Standard 2.0+, .NET Full Framework 4.5.1+, Mono, Xamarin, and, in general, any implementation of the .NET Standard 2.0+. It simplifies building data payloads based on exception data, tracing data, informational messages, and telemetry data and sends the payloads to the Rollbar API for remote monitoring and analysis of the hosting application's behavior.
+*   [ZeroLog (⭐276)](https://github.com/Abc-Arbitrage/ZeroLog) - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
 
 ### Machine Learning and Data Science
 
 *   [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#.
-*   [Synapses (⭐64)](https://github.com/mrdimosthenis/Synapses) - An in-memory neural network library written in F#.
+*   [Synapses (⭐65)](https://github.com/mrdimosthenis/Synapses) - An in-memory neural network library written in F#.
 
 ### Misc
 
-*   [Infinity Crawler (⭐182)](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
+*   [Infinity Crawler (⭐191)](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
 
 ### Networking
 
-*   [NetCoreServer (⭐1.7k)](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution (NETStandard).
+*   [NetCoreServer (⭐1.8k)](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution (NETStandard).
 
 ### Object to object mapping
 
-*   [Mapster (⭐3k)](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
+*   [Mapster (⭐3.2k)](https://github.com/MapsterMapper/Mapster) - A high performance object mapper in .net
 
 ### ORM
 
-*   [MongoFramework (⭐260)](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
+*   [MongoFramework (⭐279)](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 
 ### Serialization
 
-*   [CsvExport (⭐120)](https://github.com/jitbit/CsvExport) - Very simple & lightweight CSV exporter, Excel friendly, escapes text & quotes etc.
+*   [CsvExport (⭐122)](https://github.com/jitbit/CsvExport) - Very simple & lightweight CSV exporter, Excel friendly, escapes text & quotes etc.
 
 ### Strong Naming
 
-*   [.NET Assembly Strong-Name Signer (⭐280)](https://github.com/brutaldev/StrongNameSigner) - Utility software to strong-name sign .NET assemblies, including assemblies you do not have the source code for.
+*   [.NET Assembly Strong-Name Signer (⭐282)](https://github.com/brutaldev/StrongNameSigner) - Utility software to strong-name sign .NET assemblies, including assemblies you do not have the source code for.
 
 ### Testing
 
-*   [Compare-Net-Objects (⭐822)](https://github.com/GregFinzer/Compare-Net-Objects) - Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
+*   [Compare-Net-Objects (⭐839)](https://github.com/GregFinzer/Compare-Net-Objects) - Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
@@ -416,10 +416,23 @@
 
 ### Shells, shells interfaces / Third-party APIs
 
-*   [cmd (⭐49)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT](https://opensource.org/licenses/MIT).
+*   [cmd (⭐48)](https://github.com/ruricolist/cmd) - utility for running external programs. Protects against shell interpolation, built with multi-threaded programs in mind, Windows support. [MIT](https://opensource.org/licenses/MIT).
     *   `uiop:run-program` (synchronous) and `uiop:launch-program` (async) are shipped with ASDF and available on all modern implementations. See the [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
 
-## [23. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [23. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### General
+
+*   [Blazor courses on Microsoft Learn](https://docs.microsoft.com/learn/browse/?expanded=dotnet%2Cazure%2Csurface\&products=dotnet%2Cwindows\&roles=developer\&terms=blazor) - Blazor courses on Microsoft Learn.
+*   [Documentation](https://docs.microsoft.com/aspnet/core/blazor) - Official documentation, by Microsoft.
+*   [Introduction to ASP.NET Core](https://docs.microsoft.com/aspnet/core/) - Introduction to ASP.NET Core.
+*   [Blazor WebAssembly performance best practices](https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices) - ASP.NET Core Blazor WebAssembly performance best practices, by Pranav Krishnamoorthy and Steve Sanderson.
+
+### Tools & Utilities / Others
+
+*   [TextCopy (⭐346)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐346)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
+
+## [24. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / CSS in JS
 
@@ -429,7 +442,7 @@
 
 *   [pure (⭐29)](https://github.com/purely-functional/eslint-plugin-pure) - Enforce pure functions (without side effects).
 
-## [24. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [25. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Rollup Plugins / Presets
 
@@ -437,10 +450,10 @@
 
 ### Rollup Plugins / Compatible with Vite
 
-*   [@rollup/plugin-beep (⭐2.8k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
-*   [@rollup/plugin-inject (⭐2.8k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
+*   [@rollup/plugin-beep (⭐2.9k)](https://github.com/rollup/plugins/tree/master/packages/beep) - System beeps on errors and warnings.
+*   [@rollup/plugin-inject (⭐2.9k)](https://github.com/rollup/plugins/blob/master/packages/inject) - Scan modules for global variables and injects import statements where necessary.
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Component abstraction crates / Other
 
@@ -451,25 +464,25 @@
 
 *   [SRAM23x](https://crates.io/crates/sram23x) - SPI - Microchip 23x series serial SRAM/NVSRAM driver - [Intro blog post](https://blog.a1w.ca/p/rust-embedded-driver-microchip-23x-sram) - ![crates.io](https://img.shields.io/crates/v/sram23x.svg)
 
-## [26. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [27. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Libraries / Others
 
 *   [go-mcu (⭐11)](https://github.com/matiasinsaurralde/go-mcu) - Golang package for interacting with NodeMCU-based boards.
 
-## [27. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [28. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Web Frameworks / Coverage
 
 *   [Kelp](https://metacpan.org/pod/Kelp) - Plack-focused Perl web framework
 
-## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Bundlers
 
 *   [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 
-## [29. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [30. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -479,58 +492,58 @@
 
 *   [Indiesort (⭐13)](https://github.com/mattreecebentley/plf_indiesort) - A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. \[zLib] [website](https://plflib.org/indiesort.htm)
 
-## [30. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
+## [31. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
 ### Books
 
 *   [Pipeline as Code](https://www.manning.com/books/pipeline-as-code) - A book on building CI/CD pipelines with Jenkins for cloud-native applications (including K8s & Serverless apps).
 
-## [31. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [32. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### Arcade
 
-*   [OpenTyrian (⭐276)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
+*   [OpenTyrian (⭐281)](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
 
 ### Online
 
-*   [Ryzom Core (⭐256)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
+*   [Ryzom Core (⭐259)](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 
-## [32. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [33. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Gradio (⭐10k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+*   [Gradio (⭐11k)](https://github.com/gradio-app/gradio) - A Python library for quickly creating and sharing demos of models. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
-## [33. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [34. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### Analytics dashboards
 
 *   [EDA](https://eda.jortilles.com/en/jortilles-english/) - EDA is an user friendly Analtical Tool specially designed for busines users.  ([Source Code (⭐62)](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 
-## [34. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Patrowl (⭐508)](https://github.com/Patrowl/PatrowlManager) - Open Source, Smart and Scalable Security Operations Orchestration Platform. `AGPL-3.0` `Python`
+*   [Patrowl (⭐516)](https://github.com/Patrowl/PatrowlManager) - Open Source, Smart and Scalable Security Operations Orchestration Platform. `AGPL-3.0` `Python`
 
 ### Software / Communication - Custom Communication Systems
 
-*   [BluetoothCommunicatorExample (⭐34)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐75)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
+*   [BluetoothCommunicatorExample (⭐39)](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients (⭐83)](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`
 
-## [35. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [36. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Security
 
 *   [SI Snitch (⭐2)](https://github.com/KayeeNL/SI-Snitch) - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
 
-## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### WebAssembly
 
 *   [lumen (⭐3.1k)](https://github.com/lumen/lumen) - An alternative BEAM implementation, designed for WebAssembly.
-*   [wasmex (⭐293)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
+*   [wasmex (⭐305)](https://github.com/tessi/wasmex/) - Execute WebAssembly / WASM binaries from Elixir.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -541,13 +554,13 @@
 ### Components & Libraries / Utilities
 
 *   [vuex-light (⭐8)](https://github.com/js-cosmos/vuex-light) - State management system with robust typing for Vue 3
-*   [vue-safe-html (⭐14)](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
+*   [vue-safe-html (⭐18)](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
 
 ### Components & Libraries / Scaffold
 
 *   [vue-iview-electron-boilerplate (⭐0)](https://github.com/buyouzzj/vue-iview-electron) - An Electron & Vue.js boilerplate with iview4.x, Vue2.x, electron8.x and webpack4.x
 
-## [38. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [39. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Tools / React Component Libraries
 
@@ -557,22 +570,22 @@
 
 ### React Tools / React Libraries
 
-*   [react-border-wrapper (⭐154)](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
-*   [react-magic (⭐920)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
+*   [react-border-wrapper (⭐155)](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders in React.
+*   [react-magic (⭐919)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React
 *   [react-toolbox (⭐8.7k)](https://github.com/react-toolbox/react-toolbox) - A set of React components implementing Google's Material Design specification
-*   [tcomb-react (⭐201)](https://github.com/gcanti/tcomb-react) - Library allowing you to check all the props of your React components
-*   [react-responsive (⭐6.4k)](https://github.com/wearefractal/react-responsive) - Media queries in react for responsive design
+*   [tcomb-react (⭐200)](https://github.com/gcanti/tcomb-react) - Library allowing you to check all the props of your React components
+*   [react-responsive (⭐6.5k)](https://github.com/wearefractal/react-responsive) - Media queries in react for responsive design
 *   [riotjs (⭐15k)](https://github.com/muut/riotjs) - A React-like, 3.5KB user interface library
 *   [Maple.js (⭐429)](https://github.com/Wildhoney/Maple.js) - Bringing the concept of web-components to React
-*   [react-i13n (⭐346)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application
-*   [react-icons (⭐8.7k)](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
+*   [react-i13n (⭐361)](https://github.com/yahoo/react-i13n) - A performant, scalable and pluggable approach to instrumenting your React application
+*   [react-icons (⭐8.9k)](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
 *   [Keo (⭐225)](https://github.com/Wildhoney/Keo) - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...
 *   [Bit (⭐16k)](https://github.com/teambit/bit) - A virtual repository for managing and using react and other web components across applications
 *   [AtlasKit](https://atlaskit.atlassian.com/) - Atlassian's React UI library
 *   [ReactiveSearch (⭐4.7k)](https://github.com/appbaseio/reactivesearch) - UI components library for Elasticsearch
 *   [Slate (⭐26k)](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 *   [react-json-schema (⭐160)](https://github.com/TechniqueSoftware/react-json-schema) - Construct React elements from JSON by mapping JSON definitions to React components that you expose.
-*   [react-lodash (⭐345)](https://github.com/typicode/react-lodash) - Lodash as React components
+*   [react-lodash (⭐347)](https://github.com/typicode/react-lodash) - Lodash as React components
 *   [react-helmet (⭐17k)](https://github.com/nfl/react-helmet) - A document head manager for React
 *   [react-desktop (⭐9.4k)](https://github.com/gabrielbull/react-desktop) - OS X and Windows UI components built with React
 
@@ -581,16 +594,16 @@
 *   [om (⭐6.7k)](https://github.com/swannodette/om) - ClojureScript interface
 *   [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
 *   [ngReact (⭐2.6k)](https://github.com/davidchang/ngReact) - React Components in Angular
-*   [coffee-react-transform (⭐435)](https://github.com/jsdf/coffee-react-transform) - Provides React JSX support for Coffeescript
+*   [coffee-react-transform (⭐434)](https://github.com/jsdf/coffee-react-transform) - Provides React JSX support for Coffeescript
 *   [sprockets-coffee-react (⭐84)](https://github.com/jsdf/sprockets-coffee-react) - Sprockets preprocessor for CJSX
 *   [react-kup (⭐22)](https://github.com/snd/react-kup) - A simple, non-intrusive alternative to jsx for coffeescript
 *   [turbo-react (⭐276)](https://github.com/ssorallen/turbo-react) - Combine Turbolinks and React to apply DOM diffs
-*   [react-bacon (⭐117)](https://github.com/jamesmacaulay/react-bacon) - A little module for using React with Bacon.js
-*   [msx (⭐367)](https://github.com/insin/msx) - React's JSX Transformer, tweaked to output calls to Mithril
+*   [react-bacon (⭐116)](https://github.com/jamesmacaulay/react-bacon) - A little module for using React with Bacon.js
+*   [msx (⭐366)](https://github.com/insin/msx) - React's JSX Transformer, tweaked to output calls to Mithril
 *   [react-backbone (⭐131)](https://github.com/jhudson8/react-backbone) - Backbone-aware mixins for react
 *   [NestedReact (⭐79)](https://github.com/Volicon/NestedReact/) - transparent integration with Backbone Views and NestedTypes models
 *   [backbone-reaction (⭐20)](https://github.com/jhudson8/backbone-reaction) - React, Backbone and then some
-*   [react.backbone (⭐843)](https://github.com/usepropeller/react.backbone) - Plugin for React to make Backbone migration easier
+*   [react.backbone (⭐840)](https://github.com/usepropeller/react.backbone) - Plugin for React to make Backbone migration easier
 *   [reactbone (⭐43)](https://github.com/andrejewski/reactbone) - React extensions for Backbone
 *   [backbone-react-ui (⭐18)](https://github.com/securingsincity/backbone-react-ui) - React components for use with backbone and backbone paginator
 *   [react-events (⭐82)](https://github.com/jhudson8/react-events) - Declarative managed event bindings for react components
@@ -599,14 +612,14 @@
 *   [react-topcoat by @arnemart (⭐7)](https://github.com/arnemart/react-topcoat) - A collection of React components for Topcoat
 *   [reactdown (⭐114)](https://github.com/andreypopp/reactdown) - Write React components using markdown syntax
 *   [react-jade (⭐553)](https://github.com/ForbesLindesay/react-jade) - Compile Jade to React JavaScript
-*   [jade-react (⭐152)](https://github.com/duncanbeevers/jade-react) - Compile Jade templates to React.DOM expressions
+*   [jade-react (⭐151)](https://github.com/duncanbeevers/jade-react) - Compile Jade templates to React.DOM expressions
 *   [gulp-jade-react (⭐23)](https://github.com/duncanbeevers/gulp-jade-react) - Compile Jade templates into React de-sugared JSX with Gulp
 *   [sbt-reactjs (⭐79)](https://github.com/ddispaltro/sbt-reactjs) - React SBT Plugin using npm
 *   [scalajs-react (⭐1.6k)](https://github.com/japgolly/scalajs-react) - A guilty affair between Scala.js and Facebook's React
 *   [react-xtags (⭐48)](https://github.com/vjeux/react-xtags/) - Using React to implement xtags
 *   [jreact (⭐166)](https://github.com/KnisterPeter/jreact) - React on server-side Java (with Rhino or Nashorn)
 *   [React.hiccup (⭐77)](https://github.com/lantiga/react.hiccup) - A complete replacement for JSX written in sweet.js
-*   [react-play (⭐214)](https://github.com/ssorallen/react-play) - Rendering React components in the Play Framework with JDK8's Nashorn
+*   [react-play (⭐213)](https://github.com/ssorallen/react-play) - Rendering React components in the Play Framework with JDK8's Nashorn
 *   [rx-react (⭐621)](https://github.com/fdecampredon/rx-react) - Utilities to works with React in a RxJS
 *   [react-with-di (⭐30)](https://github.com/vojtajina/react-with-di) - A hacked prototype of React.js with DI
 *   [reactfire (⭐3.2k)](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration
@@ -615,13 +628,13 @@
 *   [react-packery-mixin (⭐20)](https://github.com/eiriklv/react-packery-mixin) - Standalone mixin for Packery (Metafizzy)
 *   [react-dropzone (⭐9.3k)](https://github.com/paramaggarwal/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 *   [aframe-react (⭐9)](https://github.com/ngokevin/aframe) - A-Frame VR + React
-*   [react-three-fiber (⭐20k)](https://github.com/react-spring/react-three-fiber) - A react reconciler for threejs (web and react-native)
+*   [react-three-fiber (⭐21k)](https://github.com/react-spring/react-three-fiber) - A react reconciler for threejs (web and react-native)
 *   [react-three (⭐1.5k)](https://github.com/Izzimach/react-three) - React bindings to create and control a 3D scene using three.js
 *   [react-three-renderer (⭐1.5k)](https://github.com/toxicFork/react-three-renderer) - Render into a three.js canvas using React
 *   [react-threejs (⭐76)](https://github.com/fritx/react-threejs) - Simplest bindings between React & Three.js
-*   [react-masonry-css (⭐769)](https://github.com/paulcollett/react-masonry-css) - Fast Masonry layout powered by CSS, dependency free
-*   [react-captcha (⭐623)](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
-*   [reaptcha (⭐379)](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
+*   [react-masonry-css (⭐779)](https://github.com/paulcollett/react-masonry-css) - Fast Masonry layout powered by CSS, dependency free
+*   [react-captcha (⭐626)](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
+*   [reaptcha (⭐384)](https://github.com/sarneeh/reaptcha) - Clean, modern and simple React wrapper for Google reCAPTCHA
 *   [react-recaptcha-that-works (⭐14)](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
 
 ### React Tools / Forms
@@ -634,7 +647,7 @@
 *   [react-autocomplete by @eliseumds (⭐102)](https://github.com/eliseumds/react-autocomplete) - Just tasting some ReactJS + RxJS
 *   [react-autocomplete by @prometheusresearch (⭐39)](https://github.com/prometheusresearch/react-autocomplete) - Autocomplete widget based on React
 *   [instatype by @gragland (⭐47)](https://github.com/gragland/instatype) - Simple react autocomplete component
-*   [React Bootstrap Typeahead (⭐918)](https://github.com/ericgio/react-bootstrap-typeahead) - A React-based typeahead that relies on Bootstrap for styling and was originally inspired by Twitter's typeahead.js.
+*   [React Bootstrap Typeahead (⭐923)](https://github.com/ericgio/react-bootstrap-typeahead) - A React-based typeahead that relies on Bootstrap for styling and was originally inspired by Twitter's typeahead.js.
 
 ### React Tools / Graphics
 
@@ -648,24 +661,24 @@
 ### React Tools / Data Managing
 
 *   [ReSub (⭐612)](https://github.com/Microsoft/ReSub) - A library for writing better React components and data stores
-*   [RxDB (⭐18k)](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
+*   [RxDB (⭐19k)](https://github.com/pubkey/rxdb) - A realtime Database for JavaScript Applications
 
 ### React Tools / Maps
 
 *   [react-googlemaps (⭐222)](https://github.com/pieterv/react-googlemaps) - React interface to Google maps
 *   [react-maps (⭐44)](https://github.com/matnel/react-maps) - A map component for React
 *   [react-google-maps (⭐4.5k)](https://github.com/tomchentw/react-google-maps) - React.js Google Maps integration component
-*   [react-gmaps (⭐316)](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js
-*   [react-map-gl (⭐6.8k)](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
+*   [react-gmaps (⭐314)](https://github.com/MicheleBertoli/react-gmaps) - A Google Maps component for React.js
+*   [react-map-gl (⭐6.9k)](https://github.com/uber/react-map-gl) - A React wrapper for MapboxGL-js plus overlay API
 *   [google-map-react (⭐5.9k)](https://github.com/istarkov/google-map-react) - Isomorphic google map React component
 *   [react-mapbox-gl (⭐1.8k)](https://github.com/alex3165/react-mapbox-gl) - A mapbox-gl-js wrapper to make the API react friendly
 *   [react-leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps
-*   [react-geo (⭐277)](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
+*   [react-geo (⭐283)](https://github.com/terrestris/react-geo) - A set of geo-related components using react, antd, and ol
 *   [pigeon-maps (⭐3.3k)](https://github.com/mariusandra/pigeon-maps) - ReactJS maps without external dependencies
 
 ### React Native Boilerplates / Charts
 
-*   [Ignite (⭐14k)](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
+*   [Ignite (⭐15k)](https://github.com/infinitered/ignite) - The hottest CLI for React Native, boilerplates, plugins, generators, and more!
 
 ### React Native Awesome Components / Charts
 
@@ -676,11 +689,11 @@
 *   [react-native-icons (⭐1.2k)](https://github.com/corymsmith/react-native-icons) - Quick and easy icons in React Native
 *   [react-native-vector-icons (⭐16k)](https://github.com/oblador/react-native-vector-icons) - 3000 Customizable Icons for React Native with support for NavBar/TabBar
 *   [react-native-google-signin (⭐2.6k)](https://github.com/apptailor/react-native-google-signin) - Google Signin for React Native
-*   [react-native-fast-image (⭐7.2k)](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component
+*   [react-native-fast-image (⭐7.3k)](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component
 
 ### Redux Tools / Charts
 
-*   [redux-toolkit (⭐8.7k)](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
+*   [redux-toolkit (⭐8.9k)](https://github.com/reduxjs/redux-toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 *   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 *   [redux-undo (⭐2.8k)](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
 
@@ -702,25 +715,25 @@
 *   [graphql-relay-js (⭐1.5k)](https://github.com/graphql/graphql-relay-js) - A library to help construct a graphql-js server supporting react-relay
 *   [react-router-relay (⭐558)](https://github.com/relay-tools/react-router-relay) - Relay integration for React Router
 *   [relay-local-schema (⭐251)](https://github.com/relay-tools/relay-local-schema) - Use Relay without a GraphQL server
-*   [relay-codemod (⭐7.9k)](https://github.com/facebook/jscodeshift) - Codemod scripts based for on jsodeshift to update Relay APIs
+*   [relay-codemod (⭐8k)](https://github.com/facebook/jscodeshift) - Codemod scripts based for on jsodeshift to update Relay APIs
 
-## [39. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [40. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Front-End Development
 
-*   [Design systems (⭐487)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+*   [Design systems (⭐501)](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ### Miscellaneous
 
-*   [Veganism (⭐43)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
+*   [Veganism (⭐45)](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
-## [40. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [41. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Transformations
 
 *   [stylops (⭐0)](https://github.com/cruel-intentions/stylops) - CSS subset to JSON conversion. (node.js)
 
-## [41. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [42. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
@@ -728,7 +741,7 @@
 *   [Promotion Text Kata (⭐1)](https://github.com/nealhu/promotion-text-kata)
 *   [Args Kata (⭐0)](https://github.com/nealhu/args-kata)
 
-## [42. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [43. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Table
 
@@ -738,13 +751,13 @@
 
 *   [paginated (⭐20)](https://github.com/makotot/paginated) - React render props & custom hook to build pagination.
 
-## [43. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [44. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### User Groups / Ruby
 
 *   [Worldwide](https://www.meetup.com/worldwide-eventstorming-meetup/) - Specific about EventStorming
 
-## [44. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
+## [45. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
 ### Courses
 
@@ -759,47 +772,6 @@
 *   [Hexapod Robot Simulator (⭐466)](https://github.com/mithi/hexapod) - Solve and visualize hexapod robot inverse kinematics and gaits in the web
 *   [PythonRobotics (⭐17k)](https://github.com/AtsushiSakai/PythonRobotics) - Implementations of various robotics algorithms in python
 
-## [45. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
-
-### General
-
-*   [Blazor courses on Microsoft Learn](https://docs.microsoft.com/learn/browse/?expanded=dotnet%2Cazure%2Csurface\&products=dotnet%2Cwindows\&roles=developer\&terms=blazor) - Blazor courses on Microsoft Learn.
-*   [Documentation](https://docs.microsoft.com/aspnet/core/blazor) - Official documentation, by Microsoft.
-*   [Introduction to ASP.NET Core](https://docs.microsoft.com/aspnet/core/) - Introduction to ASP.NET Core.
-*   [Blazor WebAssembly performance best practices](https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices) - ASP.NET Core Blazor WebAssembly performance best practices, by Pranav Krishnamoorthy and Steve Sanderson.
-
-### Authentication
-
-*   [Blazor-WASM-Identity-gRPC (⭐96)](https://github.com/JeepNL/Blazor-WASM-Identity-gRPC) - ![stars](https://img.shields.io/github/stars/JeepNL/Blazor-WASM-Identity-gRPC?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/JeepNL/Blazor-WASM-Identity-gRPC?style=flat-square\&cacheSeconds=86400) Blazor WASM, IdentityServer4 & gRPC with roles authorization.
-*   [Blazor-WASM-Identity-gRPC-Alexa (⭐10)](https://github.com/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa) - ![last commit](https://img.shields.io/github/last-commit/arjunkrishna/Blazor-WASM-Identity-gRPC-Alexa?style=flat-square\&cacheSeconds=86400) Blazor WASM, IdentityServer4 , gRPC with roles authorization & Alexa Skill Backend.
-
-### Hybrid
-
-*   [Blazorade Teams (⭐32)](https://github.com/Blazorade/Blazorade-Teams) - ![last commit](https://img.shields.io/github/last-commit/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=86400) A Blazor component library that is designed to be used when building applications for Microsoft Teams. Be sure to also check out the initial announcement for Blazorade Teams.
-
-### Others
-
-*   [Modulight (⭐5)](https://github.com/StardustDL/delights) - ![last commit](https://img.shields.io/github/last-commit/StardustDL/delights?style=flat-square\&cacheSeconds=86400) A light modular framework aimed to be low intrusive based on dependency injection for Blazor. Support lazy loading and prerendering for javascript, css stylesheets, and assemblies. Built with the new features introduced in .NET 5 such as WebAssembly Lazy Loading and Javascript Isolation.
-
-### Tutorials
-
-*   [Create a Blazor Server app that uses the Microsoft identity platform for authentication](https://docs.microsoft.com/azure/active-directory/develop/tutorial-blazor-server) - October 2020 - Tutorial by Microsoft. Blazor Server provides support for hosting Razor components on the server in an ASP.NET Core app. In this tutorial, you learn how to implement authentication and retrieve data from Microsoft Graph in a Blazor Server app with the Microsoft identity platform.
-*   [Boids in your Browser with Blazor](https://swharden.com/blog/2021-01-08-blazor-boids) - January 8, 2021 - How to model graphics in C# and render them on a HTML Canvas with JavaScript. [Source code (⭐690)](https://github.com/swharden/Csharp-Data-Visualization/tree/master/examples/2021-01-08-blazor-boids/BlazorBoids) ![stars](https://img.shields.io/github/stars/swharden/Csharp-Data-Visualization?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/swharden/Csharp-Data-Visualization?style=flat-square\&cacheSeconds=86400).
-
-### Tools & Utilities / Others
-
-*   [TextCopy (⭐330)](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square\&cacheSeconds=86400) A cross platform package to copy text to and from the clipboard. [Supports Blazor (⭐330)](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
-
-### Videos / Others
-
-*   [.NET Community Standup: Meet the Blazor Team](https://www.youtube.com/watch?v=5enEE3BBGJM\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=3) - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 12, 2021 - "Meet the Blazor Team"'s [.NET Community Standup](https://dotnet.microsoft.com/live). Meet the people behind the code! Join us for a fun livestream with members of the Blazor team.
-
-### Articles / Others
-
-*   [Microsoft Teams App With Blazor Made Easy Using Blazorade Teams](https://mikaberglund.com/microsoft-teams-app-with-blazor-made-easy-using-blazorade-teams/) - January 10, 2021 - Microsoft Teams App With Blazor Made Easy Using Blazorade Teams. [Source code (⭐32)](https://github.com/Blazorade/Blazorade-Teams) ![stars](https://img.shields.io/github/stars/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazorade/Blazorade-Teams?style=flat-square\&cacheSeconds=86400).
-*   [How to Use Query Strings in Blazor WebAssembly](https://code-maze.com/query-strings-blazor-webassembly/) - January 7, 2021 - In this article, we are going to learn how to use query strings in Blazor WebAssembly. We are going to show you how to send query strings to the Blazor component and also how to read them inside the component. [Source code (⭐2)](https://github.com/CodeMazeBlog/blazor-wasm-query-strings) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/blazor-wasm-query-strings?style=flat-square\&cacheSeconds=86400).
-*   [Introducing Online GZIP de/compressor, built with Blazor WebAssembly](https://swimburger.net/blog/dotnet/introducing-online-gzip-decompressor) - January 1, 2021 - Introducing Online GZIP de/compressor, built with Blazor WebAssembly.
-
 ## [46. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
@@ -807,13 +779,23 @@
 *   [Black Compute HER](https://blackcomputeher.org/) - Dedicated to supporting computing+tech education and workforce development for black women and girls.
 *   [She Can Code](https://shecancode.io/) - An organization with the mission of empower women to enter and remain in the tech industry.
 
-## [47. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [47. Awesome Gpt3](/content/elyase/awesome-gpt3/week/README.md)
+
+### Articles / Other
+
+*   [Can GPT-3 Build a GPT-3 App?](https://medium.com/swlh/can-gpt-3-build-a-gpt-3-app-dc4d17a5b351)
+
+### Products / Other
+
+*   [AirPaper](https://airpaper.ai/): Automated document extraction powered by GPT-3
+
+## [48. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### .Net Libraries
 
 *   [NBitcoin (⭐1.7k)](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 
-## [48. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [49. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Documentation and Presentation
 
@@ -824,13 +806,13 @@
 
 *   [TauLidarCamera (⭐31)](https://github.com/OnionIoT/tau-LiDAR-camera) - The host-side API for building applications with the Tau LiDAR Camera.
 
-## [49. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [50. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Tutorials / iOS
 
 *   [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
 
-## [50. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [51. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### YouTube Channels
 
@@ -842,9 +824,9 @@
 
 ### Preprocessing
 
-*   [svelte-preprocess (⭐1.4k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+*   [svelte-preprocess (⭐1.5k)](https://github.com/sveltejs/svelte-preprocess) - A preprocessor for PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 
-## [51. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [52. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Awesome Lists
 

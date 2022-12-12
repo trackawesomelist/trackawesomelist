@@ -31,7 +31,7 @@
 
 ### Bindings
 
-*   [racket-vulkan (⭐40)](https://github.com/zyrolasting/racket-vulkan) - Racket bindings for Vulkan with [detailed implementation notes](https://sagegerard.com/racket-vulkan-notes-index.html). \[MIT]
+*   [racket-vulkan (⭐41)](https://github.com/zyrolasting/racket-vulkan) - Racket bindings for Vulkan with [detailed implementation notes](https://sagegerard.com/racket-vulkan-notes-index.html). \[MIT]
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
@@ -240,7 +240,8 @@
 
 ### Status Bar
 
-*   [tmux-network-bandwidth (⭐52)](https://github.com/xamut/tmux-network-bandwidth) Show network bandwidth
+*   [tmux-network-bandwidth (⭐53)](https://github.com/xamut/tmux-network-bandwidth) Show
+    network bandwidth
 *   [tmux-weather (⭐40)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [22. Awesome Actions](/content/sdras/awesome-actions/README.md)

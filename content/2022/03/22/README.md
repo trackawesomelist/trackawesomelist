@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 22, 2022
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -26,7 +26,7 @@
 
 ### Apps
 
-*   [DDraceNetwork (⭐356)](https://github.com/ddnet/ddnet/) - Cooperative 2D platformer with optional [Vulkan backend (⭐356)](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib (⭐356)](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
+*   [DDraceNetwork (⭐365)](https://github.com/ddnet/ddnet/) - Cooperative 2D platformer with optional [Vulkan backend (⭐365)](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp). - [zlib (⭐365)](https://github.com/ddnet/ddnet/blob/master/license.txt) [website](https://ddnet.tw/)
 
 ## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -50,25 +50,19 @@
 
 ### Projects
 
-*   [USB Proxy (⭐32)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
+*   [USB Proxy (⭐39)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 
-## [7. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
-
-### Other plugins
-
-*   [Dynamsoft Barcode Reader (⭐3)](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
-
-## [8. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Job Scheduler
 
-*   [cdule (⭐13)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
+*   [cdule (⭐20)](https://github.com/deepaksinghvi/cdule) - Job scheduler library with database support
 
 ### Morphological Analyzers
 
-*   [spelling-corrector (⭐1)](https://github.com/jorelosorio/spellingcorrector) - A spelling corrector for the Spanish language or create your own.
+*   [spelling-corrector (⭐2)](https://github.com/jorelosorio/spellingcorrector) - A spelling corrector for the Spanish language or create your own.
 
-## [9. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [8. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### ArcGIS location services
 
@@ -89,7 +83,7 @@
 *   [awesome-semantic-segmentation (⭐9.6k)](https://github.com/mrgloom/awesome-semantic-segmentation) - Networks by architecture (semantic segmentation, instance aware segmentation, etc.), RNN, GANS, datasets, and more.
 *   [awesome-vector-tiles (⭐1.8k)](https://github.com/mapbox/awesome-vector-tiles) - Implementations of the Mapbox Vector Tile specification: parsers & generators, clients, apps and command line tools, CLI utilities, servers, etc.
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Commonsense / AI Commonsense Reasoning
 

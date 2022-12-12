@@ -48,7 +48,7 @@
 
 ### Misc
 
-*   [aiorun (⭐337)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+*   [aiorun (⭐340)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
@@ -69,26 +69,20 @@
 
 *   [DietPi (⭐3.5k)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 
-## [6. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
-
-### Helpers
-
-*   [Alfred-Workflow (⭐2.9k)](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
-
-## [7. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
+## [6. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
 ### Frameworks
 
 *   [HEML](https://heml.io) - HEML is an open source markup language for building responsive email.
 
-## [8. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Object
 
 *   [merge-objects (⭐2)](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated.
 *   [deep-object-diff (⭐818)](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [8. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Multimedia and File Formats / Directory Navigation
 
@@ -98,7 +92,7 @@
 
 *   [urchin (⭐208)](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 
-## [10. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
+## [9. Awesome Product Design](/content/ttt30ga/awesome-product-design/week/README.md)
 
 ### Methods / Research Plan
 
@@ -244,26 +238,26 @@
 *   [The Tate Collection (⭐489)](https://github.com/tategallery/collection) - Here we present the metadata for around 70,000 artworks.
 *   [NASA](https://open.nasa.gov/open-data/) - We're Setting Data, Code and APIs free.
 
-## [11. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [10. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Tools / Miscellaneous
 
 *   [SharpScss (⭐53)](https://github.com/xoofx/SharpScss) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
 
-## [12. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [11. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### Hybrid Desktop / Resources-websites-projects
 
 *   [MacGap](https://github.com/MacGapProject)
 
-## [13. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [12. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
 *   [hug](http://www.hug.rest/) - Lightweight and fast API Framework.
 *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
 
-## [14. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [13. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Organizations
 
@@ -292,7 +286,7 @@
 *   [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - By
     Will Evans and Sinduja Rangarajan.
 
-## [15. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Books
 
@@ -303,7 +297,7 @@
 *   [The Year Without Pants: WordPress.com and the Future of Work](https://scottberkun.com/yearwithoutpants/).
     by Scott Berkun, 2013.
 
-## [16. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [15. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### IDEs
 
@@ -317,7 +311,7 @@
 
 *   [LightBulb (⭐1.6k)](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
@@ -325,19 +319,19 @@
 
 ### Misc
 
-*   [DeviceId (⭐475)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
+*   [DeviceId (⭐499)](https://github.com/MatthewKing/DeviceId) - Generate a 'device ID' that can be used to uniquely identify a computer.
 
 ### Object to object mapping
 
-*   [AgileMapper (⭐429)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
+*   [AgileMapper (⭐435)](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
-## [18. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [17. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
 *   [123 Essential JavaScript Interview Question (⭐4.1k)](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [18. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -347,19 +341,19 @@
 
 *   [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
 
-## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Integrations / Components
 
 *   [GraphQL + Angular (⭐1.4k)](https://github.com/apollographql/apollo-angular)
 
-## [21. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [20. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### CCU Addons
 
 *   [homematic\_check\_mk (⭐20)](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check\_mk\_agent.
 
-## [22. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
+## [21. Awesome Inspectit](/content/inspectit-labs/awesome-inspectit/week/README.md)
 
 ### Official Resources
 
@@ -374,19 +368,19 @@
 
 *   [Sample Application for inspectIT (⭐7)](https://github.com/inspectit-labs/spring-petclinic-microservices) - Sample application for demonstration purposes, based on the Spring Petclinic.
 
-## [23. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
+## [22. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
 ### ☤ Windows GUI Apps / Physical Coin Wallets
 
 *   [MinerGate](https://minergate.com) - Mine the most profitable cryptocurrency.
 
-## [24. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [23. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### HTTP
 
 *   [stream](http://httpbin.org/stream/10)
 
-## [25. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
+## [24. Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/week/README.md)
 
 ### Learning Swift: Advanced Topics
 
@@ -405,13 +399,13 @@
 
 *   [Duet-Inspired Trail Effect (⭐25)](https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground) - How to get a Duet style trailing effect in SpriteKit.
 
-## [26. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [25. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [ACSTIS (⭐256)](https://github.com/tijme/angularjs-csti-scanner) - ACSTIS helps you to scan certain web applications for AngularJS Client-Side Template Injection (sometimes referred to as CSTI, sandbox escape or sandbox bypass). It supports scanning a single request but also crawling the entire web application for the AngularJS CSTI vulnerability.
 
-## [27. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
+## [26. Awesome It Quotes](/content/victorlaerte/awesome-it-quotes/week/README.md)
 
 ### Quotes
 
@@ -431,7 +425,7 @@
 
 
 
-## [28. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [27. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -441,7 +435,7 @@
 
 
 
-## [29. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [28. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Other Initiatives / Jobs
 
@@ -449,7 +443,7 @@
 
     The Rewriting the Code Fellowship is a year-long program that provides the opportunity to intern in a top tech company across a variety of industries and gain essential personal and confidence-building skills needed to excel in the tech industry.
 
-## [30. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [29. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Articles
 
@@ -459,7 +453,7 @@
 
 *   [Automobile Driver Fingerprinting, 2016](http://www.autosec.org/pubs/fingerprint.pdf)
 
-## [31. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [30. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Python SDK
 
@@ -481,14 +475,14 @@
 
 *   [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - Global one-day events are delivered by AWS Education's technical instructors and are ideal for IT pros, developers and technical managers who would like to learn about how to get started in the AWS Cloud.
 
-## [32. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [31. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### HTTP Servers / Clack plugins
 
 *   [clack-pretend (⭐10)](https://github.com/BnMcGn/clack-pretend) - a testing
     and debugging tool for clack. [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
 
-## [33. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
+## [32. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/week/README.md)
 
 ### Getting started
 
@@ -516,6 +510,16 @@
 *   [npmhub (⭐654)](https://github.com/npmhub/npmhub)
 *   [Hide Files on GitHub (⭐306)](https://github.com/sindresorhus/hide-files-on-github)
 *   [mdn/webextension-examples (⭐3.4k)](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
+
+## [33. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
+
+### Verilog / Deno
+
+*   [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
 
 ## [34. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -658,7 +662,7 @@
 
 ### HTTP
 
-*   [crest (⭐207)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+*   [crest (⭐208)](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
 
 ## [45. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -796,7 +800,7 @@
 
 ### Documentation
 
-*   [SourceDocs (⭐345)](https://github.com/eneko/SourceDocs/) - Generate Markdown reference documentation that lives with your code.
+*   [SourceDocs (⭐349)](https://github.com/eneko/SourceDocs/) - Generate Markdown reference documentation that lives with your code.
 
 ### Transition / Barcode
 

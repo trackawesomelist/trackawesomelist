@@ -27,20 +27,20 @@
 
 ### Software / Genealogy
 
-*   [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code (⭐237)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
+*   [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code (⭐247)](https://github.com/geneweb/geneweb)) `GPL-2.0` `OCaml`
 
 ### Software / Pastebins
 
 *   [0bin (⭐1.3k)](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/)) `WTFPL` `Python`
-*   [Hastebin](https://haste.zneix.eu/about.md) - Open source pastebin. (This is a fork with extended maintenance). ([Demo](https://haste.zneix.eu), [Source Code (⭐77)](https://github.com/zneix/haste-server)) `MIT` `Nodejs`
+*   [Hastebin](https://haste.zneix.eu/about.md) - Open source pastebin. (This is a fork with extended maintenance). ([Demo](https://haste.zneix.eu), [Source Code (⭐79)](https://github.com/zneix/haste-server)) `MIT` `Nodejs`
 
 ### Software / Software Development - IDE & Tools
 
-*   [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code (⭐1.9k)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
+*   [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ([Source Code (⭐2k)](https://github.com/lowdefy/lowdefy)) `Apache-2.0` `Nodejs`
 
 ### Software / Wikis
 
-*   [Outline](https://www.getoutline.com/) `⚠` - An open, extensible, wiki for your team. ([Source Code (⭐17k)](https://github.com/outline/outline)) `BSD-3-Clause` `Nodejs`
+*   [Outline](https://www.getoutline.com/) `⚠` - An open, extensible, wiki for your team. ([Source Code (⭐18k)](https://github.com/outline/outline)) `BSD-3-Clause` `Nodejs`
 
 ---
 

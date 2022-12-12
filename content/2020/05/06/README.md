@@ -23,9 +23,9 @@
 ### React Native Awesome Components / Charts
 
 *   [react-native-gifted-chat (⭐12k)](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native
-*   [recyclerlistview (⭐4.6k)](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
+*   [recyclerlistview (⭐4.7k)](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web!
 *   [react-native-largelist (⭐2.3k)](https://github.com/bolan9999/react-native-largelist) - The best large list component for React Native
-*   [react-native-gesture-handler (⭐5.1k)](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
+*   [react-native-gesture-handler (⭐5.2k)](https://github.com/software-mansion/react-native-gesture-handler) - Declarative API exposing platform native touch and gesture system to React Native
 *   [rn-placeholder (⭐2k)](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native
 
 ### React Native Libraries / Charts
@@ -43,9 +43,9 @@
 
 ### CLOS extensions
 
-*   [fast-generic-functions (⭐79)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
+*   [fast-generic-functions (⭐80)](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance. [MIT](https://opensource.org/licenses/MIT).
 
-### Developer utilities / Third-party APIs
+### Macro helpers / Third-party APIs
 
 *   [trivial-with-current-source-from (⭐25)](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
@@ -125,7 +125,7 @@
 
 ### Alert / Barcode
 
-*   [PopupView (⭐1.7k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+*   [PopupView (⭐1.8k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 
 ## [9. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

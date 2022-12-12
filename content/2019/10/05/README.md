@@ -16,13 +16,13 @@
 
 ### Data Manipulation / Data Containers
 
-*   [pandas\_flavor (⭐242)](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
+*   [pandas\_flavor (⭐250)](https://github.com/Zsailer/pandas_flavor) - A package which allow to write your own flavor of Pandas easily.
 
 ## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - IRC
 
-*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐351)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
+*   [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code (⭐350)](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`
 
 ## [4. Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md)
 
@@ -34,7 +34,7 @@
 *   [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/) - A database that pulls organism associations from NCBI sequences and PubMed. See database and brief analysis in [Wardeh et al. 2015](https://www.nature.com/articles/sdata201549).
 *   [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) - A species interaction repository that can be searched by 'parasite of', 'pathogen of', or 'host of'.
 *   [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) - A database of the parasites of wild ungulates (artiodactyls and perissodactyls), carnivores, and primates.
-*   [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms extracted from the scientific literature maintained by London Natural History Museum. Compilation started in 1922 by Dr H.A. Baylis, with curation through 2003 by LNHM staff. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helminthR (⭐6)](https://github.com/ropensci/helminthR).
+*   [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) - A database of parasitic worms extracted from the scientific literature maintained by London Natural History Museum. Compilation started in 1922 by Dr H.A. Baylis, with curation through 2003 by LNHM staff. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) provides a broad analysis of this database, and you can access data through the R package [helminthR (⭐7)](https://github.com/ropensci/helminthR).
 *   [Olival et al. 2017, Nature](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) - Mammal-virus database with [analysis](https://www.nature.com/articles/nature22975?sf90794030).
 *   [PEARL](http://pearl.berkeley.edu/) - Conservation assessments of macroparasitic invertebrates.
 *   [PHI-base](http://www.phi-base.org/index.jsp) - A database with information on specific genes of fungal, Oomycete and bacterial pathogens that affect pathogenicity. Focused on agricultural and medical pathogens of importance.
@@ -45,7 +45,7 @@
 *   [Biological Collections of Oswaldo Cruz Institute in Rio de Janeiro, Brazil](https://portal.fiocruz.br/en/biological-collections) - scientific institution with the largest [helminth collection](http://chioc.fiocruz.br/catalogue) in Latin America with nearly 40,000 specimens. The institute also houses several other open-access catalogues of [protozoa](http://colprot.fiocruz.br/index?catalogue) and [medically important vector species](http://cavaisc.fiocruz.br/catalogue).
 *   [Muséum National d'Histoire Naturelle (MNHN - Paris)](https://www.mnhn.fr/en/collections/collection-groups/marine-invertebrates/parasitic-worms-helminths) - Helminth collection with more than 30,000 occurences of helminths with particular focus in tropical regions. Accessible through [GBIF](https://www.gbif.org/dataset/e0ebf2a1-3656-468a-b0b6-1aa93ff43fef#description).
 *   [Ohio State University Acarology Collection](https://acarology.osu.edu/database) - Nearly 70,000 vouchered specimens of mites from around the globe starting from 1864. Information includes host species, collection gps points, collection location (e.g. ear), and collection method. Can also be accessed through [GBIF](https://www.gbif.org/dataset/96b54e8c-f762-11e1-a439-00145eb45e9a).
-*   [South Australian Museum’s Australian Helminthological Collection](http://www.samuseum.sa.gov.au/collections/biological-sciences/parasites/the-australian-helminthological-collection-database) - Downloadable excel document of nearly 50,000 specimens of helminths primarily from Australian vertebrates. Most specimens are Platyhelminths, Acanthocephala, or Nematoda from mammals, birds, or Elasmobranchii. Some specimens are included in the [LNHM database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) and accessible through [helminthR (⭐6)](https://github.com/ropensci/helminthR).
+*   [South Australian Museum’s Australian Helminthological Collection](http://www.samuseum.sa.gov.au/collections/biological-sciences/parasites/the-australian-helminthological-collection-database) - Downloadable excel document of nearly 50,000 specimens of helminths primarily from Australian vertebrates. Most specimens are Platyhelminths, Acanthocephala, or Nematoda from mammals, birds, or Elasmobranchii. Some specimens are included in the [LNHM database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) and accessible through [helminthR (⭐7)](https://github.com/ropensci/helminthR).
 
 ### Reporting Systems
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on May 28, 2015
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -10,8 +10,8 @@
 
 ### Template Engine
 
-*   [Nustache (⭐573)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
-*   [DotLiquid (⭐936)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
+*   [Nustache (⭐574)](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+*   [DotLiquid (⭐944)](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 
 ## [2. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 
@@ -27,23 +27,23 @@
 
 ### DevOps Tools
 
-*   [SSHKey (⭐266)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
+*   [SSHKey (⭐268)](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 
 ## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### operations
 
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-rewind (⭐107)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-rewind (⭐109)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 
 ### validation
 
-*   [geojsonhint (⭐245)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+*   [geojsonhint (⭐247)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### serialization
 
-*   [python-geojson (⭐750)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐176)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐757)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐177)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -67,16 +67,7 @@
 *   [Groovy Web Console](http://groovyconsole.appspot.com/)
 *   [Groovy Playground](https://groovy-playground.appspot.com/)
 
-## [7. Learn to Program](/content/karlhorky/learn-to-program/README.md)
-
-### Beginner
-
-#### [Platzi](https://courses.platzi.com/)
-
-**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.\
-*(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
-
-## [8. Awesome R](/content/qinwf/awesome-R/README.md)
+## [7. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### High Performance
 

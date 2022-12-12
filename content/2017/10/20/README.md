@@ -50,11 +50,11 @@
 
 ### Bluetooth
 
-*   [SwiftyBluetooth (⭐170)](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
+*   [SwiftyBluetooth (⭐179)](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
 
 ### Math / Barcode
 
-*   [BigInt (⭐698)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
+*   [BigInt (⭐705)](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
 
 ---
 

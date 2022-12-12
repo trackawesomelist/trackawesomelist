@@ -8,7 +8,7 @@
 
 ## [1. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Javascript / Data Analysis / Data Visualization
+### JavaScript / Data Analysis / Data Visualization
 
 *   [datakit (⭐291)](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
 

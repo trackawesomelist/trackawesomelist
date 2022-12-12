@@ -56,7 +56,7 @@
 
 ### Layout / Barcode
 
-*   [Scaling Header Scroll View (⭐323)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
+*   [Scaling Header Scroll View (⭐380)](https://github.com/exyte/ScalingHeaderScrollView) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Build tools
 
-*   [Vert.x Maven plugin (⭐66)](https://github.com/reactiverse/vertx-maven-plugin)
+*   [Vert.x Maven plugin (⭐67)](https://github.com/reactiverse/vertx-maven-plugin)
 
 ### Middleware
 

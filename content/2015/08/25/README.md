@@ -75,7 +75,7 @@ git remote prune origin
 
 ### Viewers
 
-*   [HtmlViewer (⭐331)](https://github.com/BerndGabriel/HtmlViewer). `[Delphi]` `[FPC]` Delphi/Lazarus HtmlViewer/FrameViewer.
+*   [HtmlViewer (⭐332)](https://github.com/BerndGabriel/HtmlViewer). `[Delphi]` `[FPC]` Delphi/Lazarus HtmlViewer/FrameViewer.
     // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
 ## [8. Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md)
@@ -464,7 +464,7 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ### Templates
 
-*   [Campaign (⭐644)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+*   [Campaign (⭐645)](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 
 ### Resources
 

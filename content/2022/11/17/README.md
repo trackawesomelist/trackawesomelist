@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 17, 2022
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -76,52 +76,13 @@
 
 *   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐188)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐157)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
-
-### Android / Projects
-
-*   [hanjoongcho/aaf-easyphotomap (⭐37)](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-*   [mustafaberkaymutlu/uv-index (⭐65)](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
-
-### Android / Extensions
-
-*   [rosariopfernandes/fireXtensions (⭐29)](https://github.com/rosariopfernandes/fireXtensions) - Unofficial Kotlin Extensions for the Firebase Android SDK.
-
-### Android / Tests
-
-*   [agoda-com/Kakao (⭐1.1k)](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-
-### Kotlin JavaScript / JavaScript
-
-*   [Kotlin/kotlin-fullstack-sample (⭐1.2k)](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
-
-### Kotlin JavaScript / Build Tools
-
-*   [Kotlin/kotlin-frontend-plugin (⭐572)](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐325)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-### Kotlin Native / Projects
-
-*   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
-
-## [9. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Visual programming
 
 *   [SAP Build](https://www.sap.com/products/technology-platform/low-code.html) - Create apps, automate processes, and design business sites with drag-and-drop simplicity.
 
-## [10. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ### Data Structures and Algorithms
 
@@ -132,20 +93,20 @@
 *   [camelCase, snake\_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Use_within_programming_languages) - Different case styles where the name illustrates its appearance.
 *   [Yoda condition](https://eslint.org/docs/latest/rules/yoda) - When you write `if ("red" === color) {` instead of `if (color === "red") {` because it reads as, “if red equals the color”, similar to the way the Star Wars character Yoda speaks.
 
-## [11. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+## [10. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ### Tools
 
 *   [Magento 2 Database Synchronizer (⭐37)](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and Wordpress), based on Magerun2. Keeping development, staging and production in sync easily.
 *   [Subodha Magento2 Gulp Integration (⭐78)](https://github.com/subodha/magento-2-gulp) - Magento 2 Gulp Integration
 
-## [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Vendor Data Resources / Resilience and Natural Hazards
 
 *   [RiskFactor](https://firststreet.org/risk-factor/) - Provided by the First Street Foundation, this tool enables users to understand properties' environmental risks from flooding, wildfire and extreme heat. The tool communicates historic events, current risks, and future projections for properties based on peer-reviewed research.  Additional Information: [Access Census Tract Risk Data](https://firststreet.org/data-access/), [First Street Foundation Website](https://firststreet.org/)
 
-## [13. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [12. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Casual
 
@@ -155,19 +116,19 @@
 
 *   Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
 
-## [14. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [13. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Distribution
 
 *   [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
 
-## [15. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [14. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Charts / Checkbox
 
 *   [Layer Cake (⭐688)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 
-## [16. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [15. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Learning Platforms:
 
@@ -181,14 +142,14 @@
 
 
 
-## [17. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
+## [16. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 
-### Stacks Web Applications
+### Apps / Stacks Web Applications
 
 *   [Send Many](https://sendstx.com) - An application to send STX to many recipients in one transaction.
 *   [MIA Block explorer](http://miamining.com) - A web application to exolore MIA coin transactions for all and personal accounts.
 
-### Stacks Web Applications / Blockchain Name System
+### Apps / Blockchain Name System
 
 *   [btc.us](https://btc.us) - An application for .btc names.
 *   [stx.name](https://stx.name) - An application for BNS name registration (not open source).
@@ -196,34 +157,34 @@
 *   [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
 *   [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
-### Stacks Web Applications / DeFi
+### Apps / DeFi
 
-*   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi
-*   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol
-*   [Arkadiko Protocol (⭐54)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans
+*   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
+*   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
+*   [Arkadiko Protocol (⭐54)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 
-### Developer Tools / DeFi
+### Clarity Resources / Developer Tools
 
 *   [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 
-### Frontend Libraries / DeFi
+### App Development / Frontend Libraries
 
 *   [Stacks.js (⭐882)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 *   [micro-stacks (⭐68)](https://github.com/fungible-systems/micro-stacks/) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 
-### CLI / DeFi
+### App Development / CLI
 
 *   [@stacks/cli (⭐882)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
 
-### Documentation / DeFi
+### Learning Resources / Documentation
 
-*   [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers
+*   [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers.
 
-### Books / DeFi
+### Learning Resources / Books
 
 *   [Clarity of Mind](https://book.clarity-lang.org/) - Writing productive smart contracts that are predictable. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (early preview)
 
-## [18. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [17. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 📖 Articles / 🌱 Third Party
 
@@ -231,13 +192,13 @@
 *   [Building Microservices in Go : Part 2 - Live Reload](https://saadfarhan124.medium.com/building-microservices-in-go-part-2-f9c6c535805c)
 *   [Building Microservices in Go : Part 3 - Database, Models, Migrations](https://saadfarhan124.medium.com/building-microservices-in-go-part-3-database-models-migrations-a4455121bb11)
 
-## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [tfautomv (⭐313)](https://github.com/padok-team/tfautomv) - Generate Terraform `moved` blocks automatically for painless refactoring
 
-## [20. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [19. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### File Manipulation
 
@@ -245,4 +206,5 @@
 
 ---
 
+- Prev: [Nov 18, 2022](/content/2022/11/18/README.md)
 - Next: [Nov 16, 2022](/content/2022/11/16/README.md)

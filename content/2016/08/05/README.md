@@ -115,7 +115,7 @@
 
 ### Elixir / General-Purpose Machine Learning
 
-*   [Simple Bayes (⭐383)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
+*   [Simple Bayes (⭐384)](https://github.com/fredwu/simple_bayes) - A Simple Bayes / Naive Bayes implementation in Elixir.
 
 ### Elixir / Natural Language Processing
 

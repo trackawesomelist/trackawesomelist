@@ -37,7 +37,7 @@
 
 ### Circos Related / Tools
 
-*   **[fujiplot (⭐50)](https://github.com/mkanai/fujiplot)** - A circos representation of multiple GWAS results. \[ [paper-2018](https://www.nature.com/articles/s41588-018-0047-6) ]
+*   **[fujiplot (⭐51)](https://github.com/mkanai/fujiplot)** - A circos representation of multiple GWAS results. \[ [paper-2018](https://www.nature.com/articles/s41588-018-0047-6) ]
 
 ## [5. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
@@ -51,9 +51,9 @@
 
 *   [Forecasting with sktime (⭐5.8k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A tutorial on how to use past data to make temporal forward predictions. And read the [difference between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned above.
 
-### Invoice / European VAT
+### Invoice / Generators
 
-*   [Volcano (⭐151)](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
+*   [Volcano (⭐152)](https://github.com/volcano/volcano) - Flexible, gateway-agnostic billing system.
 
 ## [7. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -63,10 +63,10 @@
 
 ### Notifications
 
-*   [Noticed (⭐1.7k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
+*   [Noticed (⭐1.8k)](https://github.com/excid3/noticed) - ActionMailer-like Notification System for your Ruby on Rails app.
 *   [Ruby Push Notifications (⭐395)](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 *   [Rpush (⭐2.1k)](https://github.com/rpush/rpush) - The push notification service for Ruby which supports Apple Push Notification Service, Google Cloud Messaging, Amazon Device Messaging and Windows Phone Push Notification Service.
-*   [webpush (⭐352)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
+*   [webpush (⭐360)](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Framework Components
 
-*   [Shield (⭐41)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
+*   [Shield (⭐44)](https://github.com/grottopress/shield) - Comprehensive security for *Lucky* framework
 
 ### Misc
 
@@ -112,7 +112,7 @@
 
 ### Third-Party Packages / Security
 
-*   [django-protected-media (⭐44)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
+*   [django-protected-media (⭐45)](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
 
 ### Resources / Conferences
 
@@ -158,7 +158,7 @@
 
 ### CMS
 
-*   [BlazorShop (⭐217)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
+*   [BlazorShop (⭐223)](https://github.com/kalintsenkov/BlazorShop) - ![stars](https://img.shields.io/github/stars/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=604800) ![Last commit](https://img.shields.io/github/last-commit/kalintsenkov/BlazorShop?style=flat-square\&cacheSeconds=86400) Simple shop application built with Blazor WebAssembly.
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -178,7 +178,7 @@
 
 ### Recruitment / Job Boards
 
-*   [Awesome Job Boards (⭐671)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
+*   [Awesome Job Boards (⭐678)](https://github.com/tramcar/awesome-job-boards) - Niche job boards by domains, technology, roles and area.
 
 ### Recruitment / Hiring Process
 
@@ -266,24 +266,24 @@
 
 ### Native
 
-*   [Aparapi (⭐422)](https://github.com/Syncleus/aparapi) - Converts bytecode to OpenCL which allows execution on GPUs.
+*   [Aparapi (⭐424)](https://github.com/Syncleus/aparapi) - Converts bytecode to OpenCL which allows execution on GPUs.
 
 ### PDF
 
-*   [Tabula (⭐1.4k)](https://github.com/tabulapdf/tabula-java) - Extracts tables from PDF files.
+*   [Tabula (⭐1.5k)](https://github.com/tabulapdf/tabula-java) - Extracts tables from PDF files.
 
 ### Science / Other
 
-*   [Chart-FX (⭐370)](https://github.com/GSI-CS-CO/chart-fx) - Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
-*   [LogicNG (⭐100)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
+*   [Chart-FX (⭐377)](https://github.com/GSI-CS-CO/chart-fx) - Scientific charting library with focus on performance optimised real-time data visualisation at 25 Hz update rates for large data sets.
+*   [LogicNG (⭐103)](https://github.com/logic-ng/LogicNG) - Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.
 
 ### Testing / Miscellaneous
 
-*   [LogCaptor (⭐204)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
+*   [LogCaptor (⭐210)](https://github.com/Hakky54/log-captor) - Captures log entries for unit testing purposes.
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Graal (⭐334)](https://github.com/neomatrix369/awesome-graal)
+*   [Awesome Graal (⭐336)](https://github.com/neomatrix369/awesome-graal)
 
 ### People / Twitter
 

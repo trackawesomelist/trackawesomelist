@@ -10,7 +10,7 @@
 
 ### Component Libraries
 
-*   [dash-uploader (⭐100)](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
+*   [dash-uploader (⭐102)](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
 
 ## [2. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-i18n-lite (⭐11)](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API.
+*   [vue-i18n-lite (⭐12)](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API.
 
 ## [4. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Software / Libraries and Tools
 
-*   [United Manufacturing Hub (⭐153)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
+*   [United Manufacturing Hub (⭐157)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

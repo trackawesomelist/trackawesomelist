@@ -52,7 +52,7 @@
 
 ### Utility / Barcode
 
-*   [Solar (⭐486)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
+*   [Solar (⭐491)](https://github.com/ceeK/Solar) - Calculate sunrise and sunset times given a location.
 
 ### Version Manager / Barcode
 

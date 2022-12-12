@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 06, 2020
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -38,7 +38,15 @@
 
 *   [IIPC Slack](https://iipc.slack.com/) - Ask [@netpreserve](https://twitter.com/NetPreserve?s=20) for access.
 
-## [4. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Nim / PicoLisp
+
+*   [Nim Basics](https://narimiran.github.io/nim-basics) - narimiran
+*   [Nim by Example](https://nim-by-example.github.io) - Flaviu Tamas
+*   [Nim Days](https://xmonader.github.io/nimdays) - Ahmed Thabet
+
+## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Open Source Projects
 
@@ -54,43 +62,43 @@
 
 
 
-## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🎨🌍💼 [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
 
-## [6. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Tutorials and Keynotes / Collection View Layout
 
 *   [Learn Swift](https://blog.coursesity.com/best-swift-tutorials/) - Learn Swift - curated list of the top online Swift tutorials and courses.
 
-## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### ORM and Datamapping
 
-*   [mongodb\_driver (⭐156)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
+*   [mongodb\_driver (⭐167)](https://github.com/zookzook/elixir-mongodb-driver) - Alternative driver for MongoDB with support for recent versions of MongoDB and comprehensive feature list.
 
-## [8. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [9. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Account Management
 
-*   [Kratos (⭐7.7k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
+*   [Kratos (⭐7.8k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
 
-## [9. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
+## [10. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 
 ### Books / Miscellaneous Tools
 
 *   [Windows Subsystem for Linux 2 (WSL 2): Tips, Tricks and Techniques by Stuart Leeks](https://www.amazon.co.uk/Windows-Subsystem-Linux-Tricks-Techniques/dp/1800562446/)
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Community / Interfaces to other package managers
 
-*   [clml (⭐245)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
+*   [clml (⭐246)](https://github.com/mmaul/clml) - originally developed by Mathematicl Systems Inc., a Japanese company. With a [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [12. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Proxies / Miscellaneous
 

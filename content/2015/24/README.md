@@ -407,7 +407,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐6.7k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐6.8k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
@@ -415,7 +415,7 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ### Podcasts / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐436)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐522)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [21. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 

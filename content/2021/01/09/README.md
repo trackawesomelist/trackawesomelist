@@ -32,7 +32,7 @@
 
 ### Learn
 
-*   [YouTubers (⭐3.5k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+*   [YouTubers (⭐3.7k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -56,7 +56,7 @@
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐180)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐204)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ## [8. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 

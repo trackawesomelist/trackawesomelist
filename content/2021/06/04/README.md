@@ -38,7 +38,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 
 ### Canvas
 
-*   [react-heat-map (⭐82)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
+*   [react-heat-map (⭐83)](https://github.com/uiwjs/react-heat-map) - A lightweight calendar heatmap react component built on SVG, customizable version of GitHub's contribution graph.
 
 ## [4. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -118,7 +118,7 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 ### Monitoring/Statistics/Perfomance / Prometheus
 
 *   [pgSCV (⭐140)](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
-*   [postgres\_exporter (⭐1.8k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+*   [postgres\_exporter (⭐1.9k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Security / Zabbix
 
@@ -131,21 +131,21 @@ Webpage: <https://espaco-guimaraes.klepierre.pt>
 *   Java
     *   [sourcemaking](https://sourcemaking.com/design_patterns) - patterns and anti patterns.
     *   [oodesign](https://www.oodesign.com/)  - patterns catalog with UML diagrams.
-    *   [design-patterns (⭐78k)](https://github.com/iluwatar/java-design-patterns)
+    *   [design-patterns (⭐79k)](https://github.com/iluwatar/java-design-patterns)
     *   [effective-java patterns (⭐1.2k)](https://github.com/HugoMatilla/Effective-JAVA-Summary) - patterns from the Effective Java book.
     *   [Design patterns implemented in Java](https://java-design-patterns.com/patterns/)
     *   [Effective-Java-3rd-Joshua-Bloch](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997/ref=pd_sim_14_7)
 *   Node
-    *   [Real world design patterns with Node.js (⭐168)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
+    *   [Real world design patterns with Node.js (⭐186)](https://github.com/nimit95/Real-world-Design-Patterns-Node-JS)
     *   [Node.js Design Patterns](https://www.packtpub.com/web-development/nodejs-design-patterns-second-edition)
-*   Object Oriented
-    *   [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books\&ie=UTF8\&qid=1528136036\&sr=1-4\&keywords=design+patterns)
-    *   [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124/ref=pd_sim_14_4)
-    *   [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
 *   Python
-    *   [design-patterns (⭐35k)](https://github.com/faif/python-patterns)
-    *   [PyPattyrn (⭐1.6k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+    *   [design-patterns (⭐36k)](https://github.com/faif/python-patterns)
+    *   [PyPattyrn (⭐1.7k)](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
     *   [Django Design Patterns and Best Practices](https://arunrocks.com/static/book/django-design-patterns-best-practices-2-ed)
+
+### Books
+
+*   [Design-Patterns-Elements-Reusable-Object-Oriented](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_4?s=books\&ie=UTF8\&qid=1528136036\&sr=1-4\&keywords=design+patterns)
 
 ### Serverless Architecture
 

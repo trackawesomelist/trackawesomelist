@@ -44,7 +44,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Native script (⭐4.9k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
+*   [Native script (⭐5k)](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 *   [Vue Native (⭐8.4k)](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 
 ## [6. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
@@ -67,7 +67,7 @@
 
 ### React Native Libraries / Charts
 
-*   [react-native-react-bridge (⭐109)](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
+*   [react-native-react-bridge (⭐121)](https://github.com/inokawa/react-native-react-bridge) - A toolset to run React web app in React Native and handle communication between them.
 
 ## [9. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

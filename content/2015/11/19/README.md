@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 19, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -17,7 +17,7 @@
 ### Contents / Tools
 
 *   [pico2png (⭐20)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
-*   [Pico8Utils (⭐44)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
+*   [Pico8Utils (⭐45)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 
 ## [3. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -27,19 +27,25 @@
 
 Where hackers and security experts come to train.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Haxe / Spock Framework
+
+*   [Haxe and JavaScript](https://matthijskamstra.github.io/haxejs/) - Matthijs Kamstra (wikibook)
+
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Third Party APIs
 
-*   [elixir\_ipfs\_api (⭐45)](https://github.com/zabirauf/elixir-ipfs-api) - IPFS (InterPlanetary File System) API client for Elixir.
+*   [elixir\_ipfs\_api (⭐46)](https://github.com/zabirauf/elixir-ipfs-api) - IPFS (InterPlanetary File System) API client for Elixir.
 
-## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / CLI
 
 *   [psql2csv (⭐171)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
-## [6. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [7. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Unofficial
 

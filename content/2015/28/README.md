@@ -10,7 +10,7 @@
 
 ### Official Documentation Translations
 
-*   [DeBot (⭐35)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
+*   [DeBot (⭐36)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
 
 ## [2. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Sliders / Runner
 
-*   [jcSlider (⭐58)](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
+*   [jcSlider (⭐57)](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
 
 ### Menu / Other
 

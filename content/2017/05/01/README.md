@@ -25,10 +25,6 @@
 
 *   [MongoHub (⭐2.4k)](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
 
-### Tools / Shell
-
-*   [mongo-hacker (⭐1.8k)](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
-
 ### Tools / Web
 
 *   [adminMongo (⭐3.8k)](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs

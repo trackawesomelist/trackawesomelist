@@ -10,7 +10,7 @@
 
 ### Projects / Boilerplate
 
-*   [django-base-site (⭐150)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
+*   [django-base-site (⭐155)](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
 
 ## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Spreadsheets and Documents
 
-*   [spreadsheet\_architect (⭐1.2k)](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
+*   [spreadsheet\_architect (⭐1.3k)](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Tanoshi (⭐292)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
+*   [Tanoshi (⭐303)](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions. `MIT` `Rust`
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -53,13 +53,13 @@
 
 ### Contents / Libraries
 
-*   [Datamol (⭐249)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
+*   [Datamol (⭐275)](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
 
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Vue CLI / Community
 
-*   [webpack-to-vite (⭐541)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
+*   [webpack-to-vite (⭐569)](https://github.com/originjs/webpack-to-vite) - Convert a webpack project to vite project, also provides conversion details to help you migrate smoothly.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Public Data Resources / Health
 
-*   [CDC Places](https://www.cdc.gov/places/index.html) - A CDC colloboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
+*   [CDC Places](https://www.cdc.gov/places/index.html) - A CDC collaboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
 
 ### Vendor Data Resources / Travel Behavior
 

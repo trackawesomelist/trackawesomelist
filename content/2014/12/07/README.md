@@ -16,7 +16,7 @@
 
 ### Packages / Command-line utilities
 
-*   [ascii-charts (⭐231)](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
+*   [ascii-charts (⭐232)](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 
 ## [3. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

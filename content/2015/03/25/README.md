@@ -26,7 +26,7 @@
 
 ### Core Data
 
-*   [JSQCoreDataKit (⭐595)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
+*   [JSQCoreDataKit (⭐596)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 
 ---
 

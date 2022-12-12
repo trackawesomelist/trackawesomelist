@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 25, 2021
 
-21 awesome lists updated today.
+20 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -151,10 +151,10 @@
 ### Tools / Community Chat Rooms
 
 *   [Knurling Tools](https://knurling.ferrous-systems.com/tools/) are developed by [Ferrous Systems](https://ferrous-systems.com) to ease the development process for building, debugging, and testing embedded Rust systems. These tools include:
-    *   [Probe Run (⭐448)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
-    *   [defmt (⭐444)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
-    *   [flip-link (⭐139)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
-    *   [app-template (⭐191)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
+    *   [Probe Run (⭐467)](https://github.com/knurling-rs/probe-run): a cargo runner to flash and run embedded applications just like you would native applications, including backtraces and panicking behavior
+    *   [defmt (⭐464)](https://github.com/knurling-rs/defmt): a highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+    *   [flip-link (⭐146)](https://github.com/knurling-rs/flip-link), a linker wrapper that provides stack overflow protection without an MMU by flipping the standard memory layout of ARM Cortex-M programs
+    *   [app-template (⭐194)](https://github.com/knurling-rs/app-template), a `cargo-generate` powered project template for quickly setting up new projects using the Knurling Tools.
     *   [defmt-test (⭐8)](https://github.com/knurling-rs/defmt-test), an embedded test harness that lets you write and run unit tests as if you were using the built-in `#[test]` attribute, but will run on an embedded target
 
 ### HAL implementation crates / STMicroelectronics
@@ -188,27 +188,7 @@
 
 *   [2021: Vision: NLG Can Help Humanise Data and AI](https://ehudreiter.com/2021/03/17/vision-nlg-can-help-humanise-data-and-ai/)
 
-## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Tutorials
-
-*   [Setting dynamic metadata for Blazor Web Assembly](https://damienbod.com/2021/03/23/setting-dynamic-metadata-for-blazor-web-assembly/) - March 23, 2021 - This post shows how HTML header meta data can be dynamically updated or changed for a Blazor Web assembly application routes hosted in ASP.NET Core. This can be usually for changing how URL link previews are displayed when sharing links. [Source code (⭐3)](https://github.com/damienbod/BlazorMetaData) ![stars](https://img.shields.io/github/stars/damienbod/BlazorMetaData?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/damienbod/BlazorMetaData?style=flat-square\&cacheSeconds=86400).
-
-### Videos / Others
-
-*   [Testing Blazor Apps & Components](https://www.youtube.com/watch?v=8So3TXW2QKU) - March 26, 2021 - Blazor Train, episode 43: Testing Blazor Apps & Components.
-*   [Introduction to Dynamic Components in Blazor](https://www.youtube.com/watch?v=Wcc14aoylME) - ![duration](https://img.shields.io/badge/Duration:%20-21%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) March 22, 2021 - This video shows how you can use one of the most interesting features in Blazor w/ .NET 6.0 preview which is Dynamic Components. Dynamic Components can help you load content from multiple components dynamically in Blazor without too much hassle. [Source code (⭐2)](https://github.com/hassanhabib/DynamicComponentBlazorDemo) ![stars](https://img.shields.io/github/stars/hassanhabib/DynamicComponentBlazorDemo?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/hassanhabib/DynamicComponentBlazorDemo?style=flat-square\&cacheSeconds=86400).
-
-### Articles / Others
-
-*   [Excluding Files from PWA Asset Cache](https://codyanhorn.tech/blog/blazor/2021/03/24/Blazor-Excluding-Files-from-PWA-Asset-Cache.html) - March 24, 2021 - This article shows how to exclude a files from the Progressive Web Application asset cache.
-*   [AWS Previews Deployment Tool for .NET Web Apps, Blazor WebAssembly](https://visualstudiomagazine.com/articles/2021/03/19/aws-net-deploy.aspx) - March 19, 2021 - Amazon Web Services (AWS) announced a developer preview to ease the process of deploying .NET web apps on the cloud platform, which has become more complex with the advent of tech like Docker and serverless joining the ever-growing .NET ecosystem.
-
-### Podcasts / Others
-
-*   [React, writing a book, and Blazor with Carl Rippon](http://codingafterwork.com/2021/03/22/episode-57-react-writing-a-book-and-blazor-with-carl-rippon/) - March 22, 2021 - Coding after work, episode 57: React, writing a book, and Blazor with Carl Rippon. Duration: 35 minutes.
-
-## [16. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [15. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Education
 
@@ -239,7 +219,7 @@
 
 *   [Flutter Browser App (⭐251)](https://github.com/pichillilorenzo/flutter_browser_app) - A Full-Featured Mobile Browser App by [Lorenzo Pichilli](https://github.com/pichillilorenzo)
 
-## [17. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [16. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Courses
 
@@ -272,7 +252,7 @@
 *   [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait)
 *   [Journal of Experimental and Theoretical Artificial Intelligence ](https://www.tandfonline.com/toc/teta20/current)
 
-## [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
@@ -302,13 +282,13 @@
     *   [Bookings](https://zoho.com/bookings)
     *   [Analytics](https://zoho.com/analytics)
 
-## [19. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [18. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### SwiftUI
 
 *   [*Thinking in SwiftUI* by Chris Eidhof, Florian Kugler](https://www.objc.io/books/thinking-in-swiftui/)
 
-## [20. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
 ### Development / Docker
 
@@ -321,12 +301,12 @@
 
 *   [visidata (⭐6.1k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue3-signature (⭐25)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
-*   [vue-signature (⭐184)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
+*   [vue3-signature (⭐28)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+*   [vue-signature (⭐185)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 
 ---
 

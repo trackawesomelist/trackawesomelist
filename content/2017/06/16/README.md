@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 16, 2017
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -28,7 +28,14 @@
 
 *   [IIPC](http://netpreserve.org/about-us/iipc-mailing-list/)
 
-## [4. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
+*   [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
+
+## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Codecs
 
@@ -65,7 +72,7 @@
 
 *   [UPipe (⭐0)](https://github.com/cmassiot/upipe/) - Primarily designed to be the core of a multimedia player, transcoder or streamer.
 
-## [5. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
+## [6. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
 ### Frameworks / Game Frameworks
 
@@ -105,7 +112,7 @@
 
 ### Utilities / Crypto
 
-*   [BlooddyCrypto (⭐86)](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
+*   [BlooddyCrypto (⭐87)](https://github.com/blooddy/blooddy_crypto) - High-performance library for processing binary data. This library contains MD5, SHA-1, SHA-2, Base64, CRC32, JSON, PNG/JPEG encoders.
 *   [AS3corelib (⭐1.5k)](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
 *   [ASCrypt (⭐46)](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages.
 *   [Nexuslib (⭐9)](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more.
@@ -138,13 +145,13 @@
 
 *   [WinDebug](http://www.henke37.cjb.net/windebug/) - Windows ANE to control applications, windows, memory, breakpoints, metadata, registry, etc.
 
-## [6. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Development
 
 *   [Lumo (⭐1.9k)](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 
-## [7. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
+## [8. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 
 ### Database Clients
 

@@ -384,21 +384,21 @@
 
 ### Blockchain
 
-*   [Axentro (⭐194)](https://github.com/Axentro/Axentro) - A custom blockchain platform
+*   [Axentro (⭐193)](https://github.com/Axentro/Axentro) - A custom blockchain platform
 
 ### Validation
 
-*   [Athena Validator (⭐4)](https://github.com/athena-framework/validator) - Robust & flexible validation framework
+*   [Athena Validator (⭐5)](https://github.com/athena-framework/validator) - Robust & flexible validation framework
 
 ### Official Documentation Translations
 
-*   [Invidious (⭐8.6k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [Invidious (⭐8.8k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## [18. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐5.8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐6k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 

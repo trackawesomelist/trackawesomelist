@@ -10,7 +10,7 @@
 
 ### Applications / Database
 
-*   [ParityDB (⭐159)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
+*   [ParityDB (⭐169)](https://github.com/paritytech/parity-db) — Fast and reliable database, optimised for read operation
 
 ## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Misc / Other
 
-*   [iooxa (⭐131)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
+*   [iooxa (⭐139)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 
 ## [6. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 
@@ -57,10 +57,6 @@
 ### React
 
 *   [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
-
-### Vue
-
-*   [Integrate Web Components with Your Vue.js App](https://alligator.io/vuejs/vue-integrate-web-components/)
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -93,7 +89,10 @@
 
 ### Web frameworks / Clack plugins
 
-*   [cl-rest-server (⭐56)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-rest-server (⭐58)](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT](https://opensource.org/licenses/MIT).
+
+### Others / OpenAPI, OData, OpenRPC
+
 *   [cl-odata-client (⭐5)](https://github.com/copyleft/cl-odata-client) - Common Lisp client library for accessing [OData services](https://www.odata.org). [MIT](https://opensource.org/licenses/MIT).
 
 ## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
@@ -157,7 +156,7 @@
 
 ### WSL Tools / WSL Utilities
 
-*   [xclip-xsel-WSL (⭐47)](https://github.com/Konfekt/xclip-xsel-WSL) -  Make `xclip` and `xsel` in `WSL` read and write on the Windows instead of the Linux clipboard.
+*   [xclip-xsel-WSL (⭐50)](https://github.com/Konfekt/xclip-xsel-WSL) -  Make `xclip` and `xsel` in `WSL` read and write on the Windows instead of the Linux clipboard.
     . ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [20. Awesome Cytodata](/content/cytodata/awesome-cytodata/README.md)
@@ -177,7 +176,7 @@
 
 ### Table of Contents / Data Pipeline
 
-*   [Gazette (⭐451)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
+*   [Gazette (⭐452)](https://github.com/gazette/core) \[golang] - Distributed streaming infrastructure built on cloud storage which makes it easy to mix and match batch and streaming paradigms.
 
 ## [23. Public Apis](/content/public-apis/public-apis/README.md)
 

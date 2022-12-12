@@ -1,6 +1,6 @@
 # Awesome List Updates on May 08 - May 14, 2017
 
-50 awesome lists updated this week.
+51 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -100,7 +100,7 @@
 
 ### Scala / Natural Language Processing
 
-*   [Montague (⭐52)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
+*   [Montague (⭐53)](https://github.com/Workday/upshot-montague) - Montague is a semantic parsing library for Scala with an easy-to-use DSL.
 
 ## [9. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -134,7 +134,7 @@
 
 ### System
 
-*   [Fkill (⭐461)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
+*   [Fkill (⭐462)](https://github.com/SamVerschueren/alfred-fkill) - Fabulously search and kill processes.
 
 ## [13. Awesome Opengl](/content/eug/awesome-opengl/week/README.md)
 
@@ -147,41 +147,41 @@
 ### Tools
 
 *   [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
-*   [Pestle (⭐525)](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
+*   [Pestle (⭐526)](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 *   [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
 
 ### Development Utilities
 
-*   [Config ImportExport (⭐129)](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
+*   [Config ImportExport (⭐135)](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
 *   [Whoops Exceptions (⭐89)](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
-*   [Developer Toolbar (⭐293)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
-*   [Advanced Template Hints (⭐243)](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
+*   [Developer Toolbar (⭐294)](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
+*   [Advanced Template Hints (⭐244)](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
 
 ### Localization
 
 *   [de\_CH (⭐6)](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
-*   [fr\_FR (⭐39)](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
+*   [fr\_FR (⭐40)](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
 *   [da\_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 *   [es\_ES (⭐13)](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 *   [pl\_PL (⭐17)](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
-*   [tr\_TR (⭐28)](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
-*   [ro\_RO (⭐7)](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
+*   [tr\_TR (⭐29)](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
+*   [ro\_RO (⭐8)](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
 *   [fi\_FL (⭐0)](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮 - Finnish Language Package.
 *   [ko\_KR (⭐4)](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷 - Korean Language Package.
 *   [sk\_SK (⭐0)](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰 - Slovakian Language Package.
 
 ### Search
 
-*   [Algolia Search Integration (⭐144)](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
-*   [Elastic Suite Integration (⭐721)](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
+*   [Algolia Search Integration (⭐146)](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
+*   [Elastic Suite Integration (⭐722)](https://github.com/Smile-SA/elasticsuite/) - Elastic Suite Integration.
 
 ### Marketing
 
-*   [MagePlaza Seo (⭐120)](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
+*   [MagePlaza Seo (⭐121)](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
 
 ### Adminhtml / Backend
 
-*   [Checkout Tester (⭐71)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
+*   [Checkout Tester (⭐73)](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 
 ### Proprietary Extensions
 
@@ -240,7 +240,7 @@
 
 ### Other Magento 2 related Awesome Lists / Progressive Web Application
 
-*   [Mageres (⭐881)](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
+*   [Mageres (⭐890)](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
 *   [Awesome PHP (⭐28k)](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
 
 ## [15. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
@@ -271,7 +271,28 @@
 
 *   [tensorpack (⭐6.2k)](https://github.com/ppwwyyxx/tensorpack) - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 
-## [19. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF)
+*   [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
+*   [Scipy Lecture Notes](http://scipy-lectures.github.io)
+*   [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
+
+### Python / Django
+
+*   [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
+
+### Python / Pyramid
+
+*   [Quick Tutorial for Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)
+
+### Scheme / Play Scala
+
+*   [Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index-Z-H-1.html)
+
+## [20. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Courses
 
@@ -283,7 +304,7 @@
 
 *   [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
 
-## [20. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
+## [21. Awesome Progressive Web Apps](/content/TalAter/awesome-progressive-web-apps/week/README.md)
 
 ### Must Reads
 
@@ -308,13 +329,13 @@
 *   [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) - A new pattern for structuring and serving Progressive Web Apps, with an emphasis on performance.
 *   [Browser Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Understand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.
 
-## [21. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [22. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Apps / Static site generation
 
 *   [Wagtail-bakery (⭐147)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
-## [22. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [23. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Libraries
 
@@ -324,7 +345,7 @@
 
 *   [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
 
-## [23. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [24. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities
 
@@ -346,13 +367,13 @@
 *   'legal aspects'
 *   'typical mistakes'
 
-## [24. Awesome Less](/content/LucasBassetti/awesome-less/week/README.md)
+## [25. Awesome Less](/content/LucasBassetti/awesome-less/week/README.md)
 
 ### GUIs, Editors and Plugins / Go
 
 *   [Diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 
-## [25. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [26. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -366,7 +387,7 @@
 
 *   [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
 
-## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Approach and Explanation / Components
 
@@ -385,19 +406,19 @@
 
 *   [angular-babel-seed (⭐19)](https://github.com/rbnlffl/angular-babel-seed) The super simple Angular quickstarter with ES6
 
-## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [28. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### For Developers / Directory Navigation
 
 *   [tag (⭐584)](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 
-## [28. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [29. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Utility / Collection View Layout
 
 *   [App-Update-Tracker (⭐24)](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
 
-## [29. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
+## [30. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/week/README.md)
 
 ### Books
 
@@ -422,25 +443,25 @@
 
 *   [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556v6.pdf) - Interesting idea of stacking multiple 3x3 conv+ReLU before pooling for a bigger filter size with just a few parameters. There is also a nice table for "ConvNet Configuration".
 
-## [30. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [31. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Templates / TikZ
 
 *   [Ultimate Beamer Theme List (⭐894)](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
-## [31. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
+## [32. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/week/README.md)
 
 ### Projects / Dedicated
 
 *   [k6 (⭐18k)](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
 
-## [32. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [33. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### JavaScript libs / Programming fonts with ligatures
 
 *   [fontkit (⭐1.1k)](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 
-## [33. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [34. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
@@ -449,7 +470,7 @@
 *   [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
 *   [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
 
-## [34. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [35. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
@@ -460,7 +481,7 @@
 
 *   [Orchid (⭐3.3k)](https://github.com/TheOrchid/Platform)
 
-## [35. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [36. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Distributed Computing
 
@@ -468,41 +489,41 @@
 
 ### IDE
 
-*   [RoslynPad (⭐1.7k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
+*   [RoslynPad (⭐1.8k)](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
 
 ### IoC
 
-*   [VS MEF (⭐334)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
+*   [VS MEF (⭐340)](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
 
 ### ORM
 
-*   [Dapper (⭐15k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
+*   [Dapper (⭐16k)](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 
-## [36. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [37. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Literature / Citizen Science Theory
 
 *   [Whole Earth Catalog](http://www.wholeearth.com/index.php) - A site that contains the remnants of a famous late 1960s and early 1970s maker/ecology magazine.
 
-## [37. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [38. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Colors / Social Sciences
 
 *   [ColorBrewer](http://colorbrewer2.org)
 *   [Paletton](http://paletton.com)
 
-## [38. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [39. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Books
 
 *   [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### C bindings
 
-*   [crt.cr (⭐29)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
-*   [duktape.cr (⭐132)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.4k)](https://github.com/svaarala/duktape) javascript engine
+*   [crt.cr (⭐30)](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+*   [duktape.cr (⭐134)](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape (⭐5.4k)](https://github.com/svaarala/duktape) javascript engine
 *   [gphoto2.cr (⭐14)](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
 *   [icu.cr (⭐11)](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
 *   [libnotify.cr (⭐25)](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
@@ -518,7 +539,7 @@
 
 ### Processes and Threads
 
-*   [neph (⭐194)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
+*   [neph (⭐195)](https://github.com/tbrand/neph) - A modern command line job processor that can execute jobs concurrently
 
 ### Project Generators
 
@@ -526,13 +547,13 @@
 
 ### Routing
 
-*   [router.cr (⭐251)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
+*   [router.cr (⭐252)](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
 
 ### Task management
 
 *   [cake (⭐64)](https://github.com/axvm/cake) - Production-ready Make-like utility tool
 
-## [40. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [41. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Tools / Communication
 
@@ -542,13 +563,13 @@
 
 *   [Trello](https://trello.com/) - Lean project boards.
 
-## [41. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
+## [42. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/week/README.md)
 
 ### Contents / Optimization / Training Techniques
 
 *   **Training very deep networks** (2015), R. Srivastava et al. [\[pdf\]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 
-## [42. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [43. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Symbolic Music - MIDI - Musicology
 
@@ -556,7 +577,7 @@
 *   [Mido](https://mido.readthedocs.io/en/latest/) [:octocat: (⭐1k)](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
 *   [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat: (⭐624)](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - Utility functions for handling MIDI data in a nice/intuitive way.
 
-## [43. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [44. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Authentication
 
@@ -573,7 +594,7 @@
 ### Framework Components
 
 *   [plug\_sigaws (⭐0)](https://github.com/handnot2/plug_sigaws) - AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
-*   [react\_phoenix (⭐482)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
+*   [react\_phoenix (⭐484)](https://github.com/geolessel/react-phoenix) - Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility.
 
 ### Games
 
@@ -585,17 +606,17 @@
 
 ### ORM and Datamapping
 
-*   [elastic (⭐64)](https://github.com/radar/elastic) - A thin-veneer over HTTPotion to help you talk to Elastic Search.
+*   [elastic (⭐65)](https://github.com/radar/elastic) - A thin-veneer over HTTPotion to help you talk to Elastic Search.
 
 ### Protocols
 
-*   [Sippet (⭐61)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
+*   [Sippet (⭐62)](https://github.com/balena/elixir-sippet) - An Elixir library designed to be used as SIP protocol middleware.
 
 ### Static Page Generation
 
-*   [serum (⭐289)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
+*   [serum (⭐291)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
 
-## [44. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [45. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Beginner
 
@@ -618,7 +639,7 @@
 
 *   [ANSI Common Lisp](http://www.paulgraham.com/acl.html) - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats](http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html).
 
-## [45. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [46. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Singapore 🇸🇬 / Outram Park
 
@@ -632,7 +653,7 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------- |
 | ✔    | ✔     | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM |
 
-## [46. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [47. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Communication
 
@@ -654,25 +675,25 @@ Webpage: <https://www.facebook.com/JWCEverton/>
 
 *   [lmgtfy](http://lmgtfy.com/) - When your friends are too lazy to use Google on their own.
 
-## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
 *   [Groot Ipsum](http://grootipsum.com/) - Generates random texts containing "I am Groot".
 
-## [48. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [49. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Community
 
 *   [Slack](https://symfony.com/slack-invite) - Symfony on Slack, platform for team communication.
 
-## [49. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [50. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Glossaries
 
 *   [Lua 5.3 Glossary](https://rawgit.com/dlaurie/lua-notes/master/glossary.html) - A glossary of some essential Lua terms.
 
-## [50. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [51. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Build tools
 

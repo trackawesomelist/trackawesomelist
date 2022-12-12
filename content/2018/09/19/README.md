@@ -83,7 +83,7 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 
 ### For Electron / Other
 
-*   [run-electron (⭐195)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+*   [run-electron (⭐196)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
 ## [10. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 
@@ -92,7 +92,6 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 *   [Discord Server](https://discord.gg/8RJBHbX) - [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214).
 *   [FAQ](https://www.construct.net/forum/construct-2/how-do-i-18/how-do-i-frequently-asked-ques-41236)
 *   [Forums](https://www.construct.net/forum)
-*   [Stack Overflow](http://stackoverflow.com/questions/tagged/construct-2)
 *   [Reddit](https://www.reddit.com/r/construct/)
 *   [Twitter](https://twitter.com/constructteam)
 *   [Facebook](https://www.facebook.com/ConstructTeam/)
@@ -100,14 +99,12 @@ Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda 
 ### Games Showcase
 
 *   [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
-*   [Games on itch.io](https://itch.io/games/tag-construct-2) - List of itch.io games made with the engine.
 
 ### Hosting
 
 *   [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
 *   [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**.
 *   [Surge](https://surge.sh/) - Platform where to host an exported game as a static website - **Free/Paid**.
-*   [Now](https://zeit.co/now) - Platform where to host an exported game as a static website, a docker image or a Node.js server - **Free/Paid**.
 *   [Netlify](https://www.netlify.com/) - Platform where to host an exported game as a static website - **Free/Paid**.
 
 ### Tools

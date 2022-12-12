@@ -10,13 +10,13 @@
 
 ### Performance
 
-*   [AppleCake (⭐11)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
+*   [AppleCake (⭐13)](https://github.com/EngineerSmith/AppleCake) - Profiling library for LÖVE, with detailed profiling and thread support.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Simulation
 
-*   [hEngine (⭐620)](https://github.com/hashintel/hash/tree/main/packages/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
+*   [hEngine (⭐665)](https://github.com/hashintel/hash/tree/main/packages/engine) - A Rust-implemented computational simulation engine, supporting large-scale agent-based modelling, with simulation logic written in JavaScript and Python.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -34,18 +34,18 @@
 
 ### WSL Tools / For Managing WSL Installations
 
-*   [WSL Distro Manager (⭐338)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
+*   [WSL Distro Manager (⭐353)](https://github.com/bostrot/wsl2-distro-manager) - GUI to manage, copy, distribute WSL distros. ![github project](https://raw.githubusercontent.com/sirredbeard/Awesome-WSL/master/github-icon.png)
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Functional
 
-*   [underscore (⭐72)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
+*   [underscore (⭐75)](https://github.com/rjNemo/underscore) - Functional programming helpers for Go 1.18 and beyond.
 
 ### Third-party APIs
 
 *   [dusupay-sdk-go (⭐2)](https://github.com/Kachit/dusupay-sdk-go) - Unofficial Dusupay payment gateway API Client for Go
-*   [newsapi-go (⭐5)](https://github.com/jellydator/newsapi-go) - Go client for [NewsAPI](https://newsapi.org/).
+*   [newsapi-go (⭐6)](https://github.com/jellydator/newsapi-go) - Go client for [NewsAPI](https://newsapi.org/).
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

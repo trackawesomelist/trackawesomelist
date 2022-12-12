@@ -11,7 +11,7 @@
 ### React Tools / React Component Libraries
 
 *   [react-bulma-components (⭐1.2k)](https://github.com/couds/react-bulma-components) - React components for Bulma framework
-*   [react-bulma (⭐466)](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
+*   [react-bulma (⭐467)](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 *   [trunx (⭐60)](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 
 ## [2. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
@@ -71,7 +71,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐320)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐333)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 

@@ -84,7 +84,7 @@
 
 ### Libraries/Frameworks / Testing
 
-*   [skrapeit/skrape.it (⭐566)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
+*   [skrapeit/skrape.it (⭐591)](https://github.com/skrapeit/skrape.it) - A DSL-driven HTML/XML parser-library that enables meaningful testing of rendered HTML templates.
 
 ## [5. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
@@ -108,16 +108,16 @@
 
 ### Standard CLI
 
-*   [carapace (⭐56)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-*   [carapace-bin (⭐91)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+*   [carapace (⭐70)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace-bin (⭐120)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
 
-*   [openapi (⭐9)](https://github.com/neotoolkit/openapi) - OpenAPI 3.x parser.
+*   [openapi (⭐10)](https://github.com/neotoolkit/openapi) - OpenAPI 3.x parser.
 
 ### Server Applications
 
-*   [dummy (⭐162)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
+*   [dummy (⭐164)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
 
 ## [7. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Plugins
 
-*   [tmux-power-zoom (⭐12)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
+*   [tmux-power-zoom (⭐15)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
 
 ---
 

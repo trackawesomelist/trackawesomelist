@@ -10,13 +10,13 @@
 
 ### Testing
 
-*   [Moq.Contrib.HttpClient (⭐134)](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
+*   [Moq.Contrib.HttpClient (⭐141)](https://github.com/maxkagamine/Moq.Contrib.HttpClient) - A set of extension methods for mocking HttpClient and IHttpClientFactory with Moq.
 
 ## [2. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Table
 
-*   [react-table-library (⭐410)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
+*   [react-table-library (⭐435)](https://github.com/table-library/react-table-library) - [demo](https://react-table-library.com/) - React Table Library -- an almost headless table library -- for building better tables.
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Software / Wikis
 
-*   [Cowyo (⭐839)](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`
+*   [Cowyo (⭐854)](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`
 
 ## [6. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

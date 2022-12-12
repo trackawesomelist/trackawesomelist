@@ -10,7 +10,7 @@
 
 ### Testing Frameworks / Frameworks
 
-*   [DalekJS (⭐705)](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
+*   [DalekJS (⭐703)](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
 
 ## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
@@ -26,7 +26,7 @@
 
 ### UI / Barcode
 
-*   [MediumScrollFullScreen (⭐549)](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
+*   [MediumScrollFullScreen (⭐548)](https://github.com/pixyzehn/MediumScrollFullScreen) - Medium scroll style menubar.
 
 ## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

@@ -82,7 +82,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐40)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐41)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [8. Awesome Github](/content/phillipadsmith/awesome-github/README.md)
 

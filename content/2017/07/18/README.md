@@ -69,7 +69,7 @@
 
 ### Build Tools
 
-*   [PlatformIO (⭐6.2k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
+*   [PlatformIO (⭐6.4k)](https://github.com/platformio/platformio-core) - A console tool to build code with different development platforms.
 
 ### CMS
 
@@ -94,11 +94,11 @@
 
 ### Environment Management
 
-*   [pyenv (⭐29k)](https://github.com/pyenv/pyenv) - Simple Python version management.
+*   [pyenv (⭐30k)](https://github.com/pyenv/pyenv) - Simple Python version management.
 
 ### Forms
 
-*   [django-crispy-forms (⭐4.5k)](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
+*   [django-crispy-forms (⭐4.6k)](https://github.com/django-crispy-forms/django-crispy-forms) - A Django app which lets you create beautiful forms in a very elegant and DRY way.
 
 ### GUI Development
 
@@ -120,11 +120,11 @@
 ### RESTful API
 
 *   Pyramid
-    *   [cornice (⭐375)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
+    *   [cornice (⭐376)](https://github.com/Cornices/cornice) - A RESTful framework for Pyramid.
 
 ### Science
 
-*   [ObsPy (⭐952)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
+*   [ObsPy (⭐975)](https://github.com/obspy/obspy/wiki/) - A Python toolbox for seismology.
 *   [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
 ### Specific Formats Processing
@@ -135,13 +135,13 @@
 ### Testing
 
 *   Test Runners
-    *   [green (⭐749)](https://github.com/CleanCut/green) - A clean, colorful test runner.
+    *   [green (⭐755)](https://github.com/CleanCut/green) - A clean, colorful test runner.
     *   [mamba](http://nestorsalceda.github.io/mamba/) - The definitive testing tool for Python. Born under the banner of BDD.
     *   [tox](https://tox.readthedocs.io/en/latest/) - Auto builds and tests distributions in multiple Python versions
 
 ### Third-party APIs
 
-*   [django-wordpress (⭐332)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
+*   [django-wordpress (⭐330)](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -303,7 +303,7 @@
 ### Development Tools / ANE Dev Tools
 
 *   [FreSharp (⭐46)](https://github.com/tuarua/FreSharp) - Build ANEs using C# with this C# wrapper for FlashRuntimeExtensions .
-*   [Swift-IOS-ANE (⭐58)](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 .
+*   [Swift-IOS-ANE (⭐59)](https://github.com/tuarua/Swift-IOS-ANE) - ANE starter kit written in Swift 3 for iOS 10 .
 
 ### Frameworks / MVC Frameworks
 
@@ -358,7 +358,7 @@
 *   [MadComponents (⭐45)](https://github.com/danfreeman/MadComponents) - Popular Mobile UI Framework for AS3 / AIR.
 *   [AsWing (⭐13)](https://github.com/dreamsxin/AsWing) - Open Source Flash ActionScript GUI framework.
 *   [GPUI (⭐67)](https://github.com/inspirit/GPUI) - Tiny GUI Library based on Stage3D (GPU).
-*   [Falcon (⭐20)](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers.
+*   [Falcon (⭐21)](https://github.com/HendrixString/Falcon) - responsive/flexible mobile ui controls for Feathers.
 *   [Flex-maps (⭐13)](https://github.com/igorcosta/flex-maps) - Definitive solution for maps in Apache Flex.
 
 ### User Interface / Starling Components
@@ -403,7 +403,7 @@
 
 *   [Scale9Image (⭐13)](https://github.com/Tibus/Scale9Image) - Optimized scale9Grid image for starling.
 *   [ASImageLib (⭐10)](https://github.com/terrynoya/ASImageLib) - BMP/PNG decoder for actionscript.
-*   [Async-Image-Encoders (⭐19)](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format.
+*   [Async-Image-Encoders (⭐20)](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format.
 *   [Flip-Planes-AS3 (⭐14)](https://github.com/jamesflorentino/Flip-Planes-AS3) - Photo slideshow effects.
 *   [AS3-transitions-lib (⭐12)](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library.
 *   [Inspirit Image (⭐1)](https://github.com/hgupta9/InspiritImage) - FFT, SURF, edge detection, fluid solver, etc.
@@ -450,7 +450,7 @@
 
 ### Multimedia / Video Player
 
-*   [Flowplayer (⭐278)](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web.
+*   [Flowplayer (⭐279)](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web.
 *   [Goplayer (⭐18)](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3.
 *   [OSFlashVideoPlayer (⭐103)](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player.
 *   [F4player (⭐116)](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player.
@@ -578,7 +578,7 @@
 *   [AS3midilib (⭐7)](https://github.com/heyfrench/as3midilib) - Work with MIDI files and MIDI input/output devices.
 *   [AS3glue](https://code.google.com/archive/p/as3glue/) - Communication for Arduino boards.
 *   [AS3-arduino (⭐45)](https://github.com/quetwo/as3-arduino-connector) - Connecting Arduino Prototyping board to Adobe AIR.
-*   [AIRkinect (⭐114)](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples (⭐47)](https://github.com/AS3NUI/airkinect-2-examples)).
+*   [AIRkinect (⭐113)](https://github.com/AS3NUI/airkinect-2-core) - ANE for integrating with Microsoft Kinect. ([examples (⭐46)](https://github.com/AS3NUI/airkinect-2-examples)).
 *   [KinectGate (⭐13)](https://github.com/cleoag/KinectGate) - KinectSDK to AS3 socket gate.
 *   [Kinect-Gestures (⭐51)](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) - AIR Kinect Gesture Library.
 
@@ -604,7 +604,7 @@
 
 ### Networking / HTTP
 
-*   [Hendrix-HTTP (⭐11)](https://github.com/HendrixString/Hendrix-HttP-AiR) - Lightweight HTTP library for ActionScript 3 (as3) inspired by Square's OkHttp.
+*   [Hendrix-HTTP (⭐12)](https://github.com/HendrixString/Hendrix-HttP-AiR) - Lightweight HTTP library for ActionScript 3 (as3) inspired by Square's OkHttp.
 *   [Amazon Web Services (⭐24)](https://github.com/satoshi7/ActionScript-API-for-AWS-Amazon-Web-Services-) - AS3 API for AWS.
 
 ### Networking / P2P
@@ -662,7 +662,7 @@
 
 ### Utilities / Crypto
 
-*   [AS3Crypto (⭐87)](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched (⭐15)](https://github.com/lyokato/as3crypto_patched)).
+*   [AS3Crypto (⭐88)](https://github.com/timkurvers/as3-crypto) - Fork of Henri Torgemane's excellent cryptography library ([patched (⭐15)](https://github.com/lyokato/as3crypto_patched)).
 
 ### Utilities / Geometry
 
@@ -679,7 +679,7 @@
 ### Runtimes / Emulators
 
 *   [NES Emulator (⭐532)](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
-*   [Commodore 64 Emulator (⭐66)](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3.
+*   [Commodore 64 Emulator (⭐65)](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3.
 *   [8080 Emulator (⭐6)](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 *   [8-bit VM (⭐5)](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript.
 
@@ -721,7 +721,7 @@
 *   [TaskbarProgress (⭐12)](https://github.com/tuarua/TaskbarProgressANE) - Display taskbar progress on OSX & Windows 7/8/10 .
 *   [DesktopToast (⭐28)](https://github.com/tuarua/DesktopToastANE) - Display interactive toast notifications in Windows 8/10 and OSX.
 *   [AlarmManager (⭐5)](https://github.com/myflashlab/alarmManager-ANE) - Run a scheduled task even if your AIR app is closed.
-*   [InAppPayments (⭐22)](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase ANE for Android and iOS.
+*   [InAppPayments (⭐21)](https://github.com/myflashlab/inAppPayments-ANE) - Identical in-app-billing and in-app-purchase ANE for Android and iOS.
 *   [PermissionCheck (⭐12)](https://github.com/myflashlab/PermissionCheck-ANE) - Check and request for permissions in your Adobe Air app.
 *   [RateMe (⭐3)](https://github.com/myflashlab/RateMe-ANE) - Ask your users to rate your app in the most efficient way.
 *   [Statusbar (⭐4)](https://github.com/myflashlab/Statusbar-ANE) - Control the Statusbar in your AIR apps in runtime.
@@ -729,7 +729,7 @@
 
 ### AIR Native Extensions / Social ANE
 
-*   [Facebook (⭐31)](https://github.com/myflashlab/facebook-ANE) - Integrate Facebook SDK into your AIR apps.
+*   [Facebook (⭐30)](https://github.com/myflashlab/facebook-ANE) - Integrate Facebook SDK into your AIR apps.
 *   [GCM (⭐2)](https://github.com/myflashlab/GCM-ANE) - Use Google Cloud messaging on Android and iOS. .
 *   [Baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - Baidu ANE for for iOS and Android.
 
@@ -793,30 +793,30 @@
 
 ### Boilerplates
 
-*   [Next Simple Starter (⭐889)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
+*   [Next Simple Starter (⭐896)](https://github.com/ooade/NextSimpleStarter) - Simple PWA boilerplate with Next.js and Redux.
 *   [NextJS Starter (⭐1.3k)](https://github.com/iaincollins/nextjs-starter) - Starter project for Next.js with and email and oAuth authentication.
-*   [Next Simple Blog (⭐545)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
+*   [Next Simple Blog (⭐544)](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 
 ### Apps
 
 *   [NextJS GOT (⭐31)](https://github.com/auth0-blog/nextjs-got) - Simple Next.js application that showcases Game of Thrones Characters.
-*   [Relate (⭐331)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
+*   [Relate (⭐329)](https://github.com/RelateNow/relate) - Mindfulness community - React, GraphQL, Next.js.
 *   [Password (⭐111)](https://github.com/dotcypress/password) - One password, right way.
 *   [Next Todos (⭐124)](https://github.com/lipp/next-todos) - Todo list written in Next.js.
 *   [Hacker News (⭐45)](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 *   [Jet Chat (⭐8)](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 *   [Nextgram (⭐50)](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
-*   [Rauchg Blog (⭐805)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
+*   [Rauchg Blog (⭐814)](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
 *   [Next JPH (⭐34)](https://github.com/renatorib/next-jph) - JsonPlaceholder sample app made with Next.js.
-*   [Mailto (⭐157)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
-*   [Plate (⭐49)](https://github.com/knipferrc/plate) - The task management app to rule them all.
+*   [Mailto (⭐161)](https://github.com/dawsbot/mailto) - HTML mailto's made easy.
+*   [Plate (⭐50)](https://github.com/knipferrc/plate) - The task management app to rule them all.
 *   [Dashboard (⭐1.2k)](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 
 ## [20. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [vue-dialog-drag (⭐170)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
+*   [vue-dialog-drag (⭐172)](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
 
 ### Components & Libraries / Utilities
 

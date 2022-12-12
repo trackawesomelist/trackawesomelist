@@ -10,7 +10,7 @@
 
 ### Office
 
-*   [excellent (⭐23)](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
+*   [excellent (⭐24)](https://github.com/leifg/excellent) - An OpenXL (Excel 2000) Parser for Elixir.
 
 ## [2. Awesome Research](/content/emptymalei/awesome-research/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Writing / Social Sciences
 
-*   [Theoretical Physics (⭐195)](https://github.com/certik/theoretical-physics)
+*   [Theoretical Physics (⭐197)](https://github.com/certik/theoretical-physics)
 
 ### Sharing Slides / HTML+CSS+JS
 
@@ -53,7 +53,6 @@
 *   [my-mind](http://my-mind.github.io/): repo [here (⭐3k)](https://github.com/ondras/my-mind).
 *   [beautiful Mind](http://beautifulmind.io/): repo [here (⭐117)](https://github.com/ierror/BeautifulMind.io)
 *   [mindmaps](http://drichard.org/mindmaps/): repo [here (⭐2.5k)](https://github.com/drichard/mindmaps)
-*   [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
 *   [jsmind (⭐2.6k)](https://github.com/hizzgdev/jsmind)
 *   [jsmind](http://sourceforge.net/projects/jsmind/)
 *   [mindmaps (⭐2.5k)](https://github.com/drichard/mindmaps)
@@ -65,7 +64,7 @@
 ### Online Load and Edit / LaTeX
 
 *   [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
-*   [Strut (⭐1.6k)](https://github.com/tantaman/Strut)
+*   [Strut (⭐1.7k)](https://github.com/tantaman/Strut)
 *   [Impressionist (⭐586)](https://github.com/harish-io/Impressionist)
 *   [hovercraft (⭐1.4k)](https://github.com/regebro/hovercraft)
 
@@ -78,9 +77,8 @@
 *   [Scrolldeck (⭐679)](https://github.com/johnpolacek/scrolldeck.js)
 *   [Deck.js (⭐5.4k)](https://github.com/imakewebthings/deck.js)
 *   [Shower (⭐4.7k)](https://github.com/shower/shower)
-*   [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 *   [Flowtime.js (⭐1.3k)](https://github.com/marcolago/flowtime.js)
-*   [Slides (⭐495)](https://github.com/briancavalier/slides)
+*   [Slides (⭐494)](https://github.com/briancavalier/slides)
 
 ### The Power of SVG / HTML+CSS+JS
 
@@ -136,7 +134,7 @@
 *   [Raphaël](http://raphaeljs.com/) (`js`)
 *   [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/demos.html) (`js`)
 *   [Paper.js](http://paperjs.org/) (`js`)
-*   [matplotlib (⭐1.8k)](https://github.com/jbmouret/matplotlib_for_papers)
+*   [matplotlib (⭐1.9k)](https://github.com/jbmouret/matplotlib_for_papers)
 *   [ggplot for python](http://ggplot.yhathq.com/)
 *   [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
 *   [bokeh](http://bokeh.pydata.org/en/latest/docs/quickstart.html#quickstart):  Internet required, interactive plotting.

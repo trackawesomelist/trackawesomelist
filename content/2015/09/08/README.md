@@ -28,7 +28,7 @@
 
 ### Researchers / Frameworks
 
-*   [Minerva - a fast and flexible tool for deep learning on multi-GPU (⭐682)](https://github.com/dmlc/minerva)
+*   [Minerva - a fast and flexible tool for deep learning on multi-GPU (⭐680)](https://github.com/dmlc/minerva)
 
 ## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -78,7 +78,7 @@
 
 ### Podcasts / Other
 
-*   [peterkokot/awesome-jquery (⭐841)](https://github.com/peterkokot/awesome-jquery)
+*   [peterkokot/awesome-jquery (⭐846)](https://github.com/peterkokot/awesome-jquery)
 
 ## [10. Amas](/content/sindresorhus/amas/README.md)
 

@@ -32,11 +32,6 @@
 
 *   [themesof.net](https://themesof.net/) - .NET 6 planning process.
 
-### Articles / Others
-
-*   [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/) - February 17, 2021 - ASP.NET Core updates in .NET 6 Preview 1.
-*   [Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) - February 17, 2021 - Announcing .NET 6 Preview 1.
-
 ## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### CSV
@@ -48,7 +43,7 @@
 ### React Tools / React Libraries
 
 *   [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) - Adobe's library of React Hooks that provides accessible UI primitives for your design system
-*   [react-uploady (⭐732)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
+*   [react-uploady (⭐764)](https://github.com/rpldy/react-uploady) - Modern file-upload components & hooks for React.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

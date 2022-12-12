@@ -43,12 +43,12 @@
 
 ### Database
 
-*   [iORM (⭐38)](https://github.com/mauriziodm/iORM). `[Delphi]`  Delphi ORM interface based useful to develop desktop and mobile application.
+*   [iORM (⭐39)](https://github.com/mauriziodm/iORM). `[Delphi]`  Delphi ORM interface based useful to develop desktop and mobile application.
 
 ### System
 
 *   [ezthreads (⭐56)](https://github.com/mr-highball/ezthreads). `[FPC]` simple to use threading library
-*   [AsyncCalls (⭐94)](https://github.com/ahausladen/AsyncCalls). `[Delphi]` Asynchronous function call framework
+*   [AsyncCalls (⭐95)](https://github.com/ahausladen/AsyncCalls). `[Delphi]` Asynchronous function call framework
 
 ### Other non-visual
 
@@ -65,7 +65,7 @@
 
 ### API / Runner
 
-*   [Bearer.sh (⭐23)](https://github.com/Bearer/bearer-js) - Universal API client that supports OAuth / API Key / Basic / etc.
+*   [Bearer.sh (⭐22)](https://github.com/Bearer/bearer-js) - Universal API client that supports OAuth / API Key / Basic / etc.
 
 ## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
@@ -77,11 +77,11 @@
 
 ### Programming Languages
 
-*   [Vala (⭐86)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+*   [Vala (⭐91)](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 
 ### Business
 
-*   [Wardley Maps (⭐494)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+*   [Wardley Maps (⭐512)](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
 ### Miscellaneous
 

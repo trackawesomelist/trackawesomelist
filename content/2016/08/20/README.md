@@ -44,11 +44,11 @@
 
 ### Build Automation
 
-*   [Nake (⭐215)](https://github.com/yevhen/Nake) - Magic script-based C# task runner
+*   [Nake (⭐218)](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 
 ### Database
 
-*   [Streamstone (⭐352)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+*   [Streamstone (⭐354)](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 
 ---
 

@@ -53,8 +53,8 @@
 
 ### Source Generator
 
-*   [Awesome .NET Performance (⭐2.8k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
-*   [awesome-ddd (⭐9.2k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+*   [Awesome .NET Performance (⭐2.9k)](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
+*   [awesome-ddd (⭐9.4k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
 ## [7. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
@@ -215,7 +215,7 @@
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐783)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐786)](https://github.com/nelson-brochado/understanding-math)
 
 ## [23. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
@@ -244,7 +244,7 @@
 
 ### Related projects / Syntax highlighting packages
 
-*   [fpgaboy (⭐83)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
+*   [fpgaboy (⭐85)](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
 
 ## [25. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
@@ -339,7 +339,7 @@
 
 ### Go Clients
 
-*   [resty (⭐6.8k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+*   [resty (⭐7.1k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -349,7 +349,7 @@
 
 ### Switch / Barcode
 
-*   [Switch (⭐146)](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
+*   [Switch (⭐145)](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
 
 ## [29. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -466,20 +466,20 @@ Webpage: <http://www.deysbreeker.nl/>
 
 ### Cryptography
 
-*   [rsa\_ex (⭐35)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
+*   [rsa\_ex (⭐34)](https://github.com/anoskov/rsa-ex) - Library for working with RSA keys.
 
 ### Deployment
 
-*   [ansible-elixir-stack (⭐294)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
+*   [ansible-elixir-stack (⭐293)](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
 *   [bottler (⭐38)](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 *   [edeliver (⭐1.9k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐11)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
-*   [gatling (⭐500)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
+*   [gatling (⭐499)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
 *   [heroku-buildpack-elixir (⭐797)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 
-*   [silent\_video (⭐12)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
+*   [silent\_video (⭐13)](https://github.com/talklittle/silent_video) - Convert GIFs and videos to silent videos, optimized for mobile playback.
 
 ## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

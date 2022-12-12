@@ -10,7 +10,7 @@
 
 ### Compression
 
-*   [zlib-ng (⭐11)](https://github.com/Dead2/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
+*   [zlib-ng (⭐12)](https://github.com/Dead2/zlib-ng) - zlib for the "next generation" systems. Drop-In replacement with some serious optimizations. \[zlib]
 
 ## [2. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

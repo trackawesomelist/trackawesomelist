@@ -14,8 +14,8 @@
 
 ### Class Based
 
-*   [DNA (⭐25)](https://github.com/chialab/dna) - Progressive Web Components library.
-*   [Tonic (⭐693)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+*   [DNA (⭐27)](https://github.com/chialab/dna) - Progressive Web Components library.
+*   [Tonic (⭐710)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 
 ## [2. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
@@ -91,11 +91,11 @@
 *   [RealWorld Example App - mongo (⭐369)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.2k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
-## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
-### Machine Learning / General Purpouse Machine Learning
+### Python / General-Purpose Machine Learning
 
-*   [Little Ball of Fur (⭐612)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
+*   [Little Ball of Fur (⭐615)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -125,13 +125,13 @@
 
 ### Queue
 
-*   :strawberry: [CakeQueuesadilla plugin (⭐33)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
+*   :strawberry: [CakeQueuesadilla plugin (⭐34)](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
 
 ## [15. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Algorithms and Data structures
 
-*   [blurhash.cr (⭐13)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐11k)](https://github.com/woltapp/blurhash) implementation
+*   [blurhash.cr (⭐14)](https://github.com/Sija/blurhash.cr) - [BlurHash (⭐12k)](https://github.com/woltapp/blurhash) implementation
 
 ## [16. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 

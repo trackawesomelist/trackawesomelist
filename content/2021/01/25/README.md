@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2021
 
-20 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
@@ -81,7 +81,7 @@
 
 ### Libraries / Automotive
 
-*   [Sensirion/lin-bus (⭐10)](https://github.com/Sensirion/lin-bus-rs) \[[lin-bus](https://crates.io/crates/lin-bus)] — LIN bus driver traits and protocol implementation [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
+*   [Sensirion/lin-bus (⭐12)](https://github.com/Sensirion/lin-bus-rs) \[[lin-bus](https://crates.io/crates/lin-bus)] — LIN bus driver traits and protocol implementation [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
 
 ### Libraries / Configuration
 
@@ -95,7 +95,7 @@
 
 ### Logging / Barcode
 
-*   [Puppy (⭐83)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
+*   [Puppy (⭐90)](https://github.com/sushichop/Puppy) :penguin: - A flexible logging library that supports multiple transports and platforms.
 
 ## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -120,7 +120,7 @@
 ### Tools
 
 *   🌍🔧 [brands-tail-color](https://brands-tail-color.vercel.app/) - Configuration generator using various brands' colors.
-*   💼 [@ngneat/tailwind (⭐599)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
+*   💼 [@ngneat/tailwind (⭐598)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 
 ## [13. Typedb Awesome](/content/vaticle/typedb-awesome/README.md)
 
@@ -135,25 +135,19 @@
 
 *   [GRR Rapid Response (⭐4.2k)](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent. Besides the included Python API client, [PowerGRR (⭐52)](https://github.com/swisscom/PowerGRR) provides an API client library in PowerShell working on Windows, Linux and macOS for GRR automation and scripting.
 
-## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
-
-### Tutorials
-
-*   [Authentication in Blazor WebAssembly Hosted Applications](https://code-maze.com/authentication-in-blazor-webassembly-hosted-applications/) - January 22, 2021 - Authentication in Blazor WebAssembly Hosted Applications, by Code Maze. [Source code (⭐9)](https://github.com/CodeMazeBlog/blazor-wasm-hosted-security/tree/blazor_wasm_hosted_authentication) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/blazor-wasm-hosted-security?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/blazor-wasm-hosted-security?style=flat-square\&cacheSeconds=86400).
-
-## [16. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [15. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### PDF Management / Telegram
 
 *   [PDF Shelter](https://pdfshelter.com/) - Unlimited, privacy-aware, PDF tools running locally on browser
 
-## [17. Awesome Acg](/content/soruly/awesome-acg/README.md)
+## [16. Awesome Acg](/content/soruly/awesome-acg/README.md)
 
 ### Databases / Data Sources
 
-*   [anime-offline-database (⭐547)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
+*   [anime-offline-database (⭐558)](https://github.com/manami-project/anime-offline-database/) - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 
-## [18. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [17. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
@@ -161,13 +155,13 @@
 *   [blog-box (⭐2)](https://github.com/Aveek-Saha/blog-box) - Update a pinned gist to show your latest dev.to blog post.
 *   [medium-stat-box (⭐33)](https://github.com/kylemocode/medium-stat-box) - Update a pinned gist to show your medium stats and latest articles.
 
-## [19. Awesome Python](/content/vinta/awesome-python/README.md)
+## [18. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### WSGI Servers
 
-*   [gunicorn (⭐8.6k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
+*   [gunicorn (⭐8.7k)](https://github.com/benoitc/gunicorn) - Pre-forked, ported from Ruby's Unicorn project.
 
-## [20. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [19. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Animations / Components
 

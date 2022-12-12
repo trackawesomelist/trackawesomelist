@@ -63,7 +63,6 @@
 
 ### Plugins
 
-*   [Craft 3 Plugins](https://plugins.craftcms.com)
 *   [Submit Craft 3 Plugins](https://id.craftcms.com)
 *   [Craft 2 Plugins](https://craftplug.in/)
 
@@ -73,12 +72,12 @@
 *   [Craft CLI (⭐139)](https://github.com/rsanchez/craft-cli) - Command line interface for Craft CMS 2.
 *   [Craft CMS Bootstrap (⭐4)](https://github.com/timkelty/craftcms-bootstrap) - Streamline Craft CMS bootstrapping and configuration.
 *   [Craft CMS Docker (⭐36)](https://github.com/atillay/craftcms3-docker) - Get started playing with Craft CMS 3 in a few command lines with Docker.
-*   [Craft Scripts (⭐359)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
+*   [Craft Scripts (⭐360)](https://github.com/nystudio107/craft-scripts) - Shell scripts to manage common tasks between Craft CMS environments.
 *   [Craftman (⭐125)](https://github.com/gabrielmoreira/craftman) - To help speed set up and start a new Craft CMS installation smoothly.
 *   [Crafty Vagrant (⭐57)](https://github.com/niceandserious/crafty-vagrant) - A boilerplate dev environment for jump-starting Craft CMS projects.
 *   [Generator Craft Install (⭐56)](https://github.com/nystudio107/generator-craftinstall) - Yeoman generator for Craft CMS installs.
 *   [Happy Lager Demo Site (⭐8)](https://github.com/timkelty/HappyLager/tree/neutrino) - A fork of the Craft CMS demo site, updated for Craft 3.
-*   [Nginx Craft (⭐291)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
+*   [Nginx Craft (⭐294)](https://github.com/nystudio107/nginx-craft) - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
 
 ### Core Technologies
 
@@ -337,7 +336,7 @@
 
 ### Applications / Operating systems
 
-*   [tock/tock (⭐3.8k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
+*   [tock/tock (⭐4k)](https://github.com/tock/tock) — A secure embedded operating system for Cortex-M based microcontrollers
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -360,7 +359,7 @@
 
 ### Libraries / Molecular Dynamics
 
-*   [cclib (⭐252)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
+*   [cclib (⭐258)](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
 
 ## [12. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
