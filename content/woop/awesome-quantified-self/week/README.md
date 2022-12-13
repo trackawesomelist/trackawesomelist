@@ -6,6 +6,24 @@
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / Weekly / [Overview](/content/woop/awesome-quantified-self/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Websites and Resources
+
+*   [Quantified Self Institute](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
+
+### Applications and Platforms / Fitness
+
+*   [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
+
+### Applications and Platforms / Habits
+
+*   [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
+
+### Applications and Platforms / Wealth
+
+*   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
+
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
 
 ### Websites and Resources
@@ -96,7 +114,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Awesome Biomarkers (⭐217)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [Awesome Biomarkers (⭐226)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
@@ -115,7 +133,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Heedy (⭐353)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐355)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -149,7 +167,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐809)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐822)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -414,10 +432,6 @@
 
 ## [Oct 24 - Oct 30, 2016](/content/2016/43/README.md)
 
-### Websites and Resources
-
-*   [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
-
 ### Articles & Blogs
 
 *   [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - Stephen Wolfram explores the data he has collected on the use of his time.
@@ -509,4 +523,4 @@
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐142)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Fluxtream (⭐143)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.

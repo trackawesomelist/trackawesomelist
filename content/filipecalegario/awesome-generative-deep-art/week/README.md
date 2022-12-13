@@ -10,10 +10,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
 
+*   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
 *   [list of artists for SD v1.4 A-C / D-I / J-N / O-Z](https://rentry.org/artists_sd-v1-4)
 
 ### Courses and Educational Materials / References Collection about Stable Diffusion
 
+*   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
 *   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)

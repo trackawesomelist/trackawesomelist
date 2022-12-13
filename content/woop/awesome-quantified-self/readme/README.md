@@ -36,7 +36,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
 *   [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 *   [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
-*   [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
+*   [Quantified Self Institute](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
 *   [Biomindmap](https://biomindmap.com/) - Database of interventions from research studies with a network viz option.
 
 ## Articles & Blogs
@@ -75,6 +75,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
 *   [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 *   [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
+*   [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
 
 ### Places & Travel
 
@@ -141,6 +142,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
 *   [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
 *   [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
+*   [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
 
 ### Health
 
@@ -222,6 +224,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Ledger (⭐4.4k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 *   [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 *   [Actual](https://actualbudget.com/) - Personal home budget software.
+*   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 
 ## Devices and Wearables
 
@@ -263,13 +266,13 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 ## Open Source Projects
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Heedy (⭐353)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐355)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-*   [Fluxtream (⭐142)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+*   [Fluxtream (⭐143)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 *   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 *   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
-*   [QS Ledger (⭐809)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
-*   [Awesome Biomarkers (⭐217)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [QS Ledger (⭐822)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [Awesome Biomarkers (⭐226)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 *   [health-records (⭐14)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 ## License

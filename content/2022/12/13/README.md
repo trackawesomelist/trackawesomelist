@@ -1,12 +1,12 @@
-# Awesome List Updates on Dec 12 - Dec 18, 2022
+# Awesome List Updates on Dec 13, 2022
 
-21 awesome lists updated this week.
+13 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [1. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -53,7 +53,7 @@
 
 *   [Fuzzle: Making a Puzzle for Fuzzers, 2022](https://softsec.kaist.ac.kr/\~sangkilc/papers/lee-ase22.pdf)
 
-## [2. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [2. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
@@ -67,13 +67,13 @@
 
 *   [canTot (⭐59)](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
 
-## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
 *   [Feedzai (⭐8)](https://github.com/feedzai/eslint-config-feedzai) - Feedzai's shareable config for JavaScript/React projects.
 
-## [4. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [4. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
@@ -103,7 +103,7 @@
 
 *   [Plutonium Caverns (⭐9)](https://github.com/jani-nykanen/plutonium-caverns) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten (⭐1.1k)](https://github.com/dreamlayers/em-dosbox) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
 
-## [5. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Layout
 
@@ -113,7 +113,7 @@
 
 *   [locheck (⭐72)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
 
-## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -123,13 +123,23 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [7. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [7. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 
 ### Open Source Projects
 
 *   [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
 
-## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
+
+### Courses and Educational Materials / References Collection about Stable Diffusion
+
+*   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
+
+## [9. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Websites and Resources
 
@@ -147,139 +157,30 @@
 
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Ticketing
 
 *   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐257)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
 
-## [10. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [11. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### App Releases / Arcade
 
 *   Oh Dash! - [Android](https://play.google.com/store/apps/details?id=br.arkd.owdash), [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan)
 
-## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
 
-## [12. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
+## [13. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
 ### Courses 🎓 / Articles
 
 *   [Becoming a Social Entrepreneur: Getting Started](https://www.coursera.org/learn/social-entrepreneurship-getting-started) - By University Of Michigan.
 
-## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / Scaffold
-
-*   [Vutron (⭐30)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
-
-## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
-
-### Templates / Vanilla
-
-*   [vite-tailwind-boilerplate-vanilla-js](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
-
-### Templates / Vue 3
-
-*   [vue-xs-admin (⭐10)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
-*   [vue-component-template (⭐16)](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
-
-### Templates / Electron
-
-*   [vite-electron-plugin (⭐22)](https://github.com/electron-vite/vite-electron-plugin) - High-performance, esbuild-based Vite Electron plugin.
-
-### Framework-agnostic Plugins / Loaders
-
-*   [vite-plugin-svgo (⭐0)](https://github.com/r3dDoX/vite-plugin-svgo) - Load SVGs as plain string and transform with SVGO library.
-
-### Framework-agnostic Plugins / Transformers
-
-*   [vite-plugin-css-export (⭐8)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
-
-### Framework-agnostic Plugins / Helpers
-
-*   [vite-plugin-externals-extension (⭐2)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
-
-### Vue / Ecosystem
-
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐148)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
-
-### Preact / Presets
-
-*   [@preact/preset-vite (⭐175)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
-
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### Marks / Diagnostics
-
-*   [cbochs/grapple.nvim (⭐83)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
-
-## [16. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
-
-### Client Web App Frameworks
-
-*   [AngularDart Community](https://github.com/angulardart-community) - Community-maintained AngularDart websites, packages, tools, and more!
-
-### Server Frameworks
-
-*   [Dart Frog (⭐1k)](https://github.com/VeryGoodOpenSource/dart_frog) -  A fast, minimalistic backend framework for Dart.
-
-### Template
-
-*   [mason (⭐609)](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks.
-
-### Utilities
-
-*   [Basics (⭐149)](https://github.com/google/dart-basics) -  A Dart library containing convenient extension methods on basic Dart objects.
-
-### Testing
-
-*   [spec](https://pub.dev/packages/spec) - A streamlined testing framework for Dart & Flutter.
-
-### IDEs, Editors, and Plugins
-
-*   [Dart Barrel File Generator (⭐20)](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
-
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Utilities / System Related Tools
-
-*   [RemoveX](https://removex.io) - RemoveX is an uninstaller tool for Mac computer. RemoveX has a beautifully UI using native design for MacOS. Save hours of time and remove your app in seconds. Do not make you think. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
-
-### Prompt Engineering | Prompt Design | Prompt Craft
-
-*   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
-*   [list of artists for SD v1.4 A-C / D-I / J-N / O-Z](https://rentry.org/artists_sd-v1-4)
-
-### Courses and Educational Materials / References Collection about Stable Diffusion
-
-*   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
-*   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
-
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### DBaaS
-
-*   [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.
-
-## [20. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
-
-### :dollar: Paid Courses / Chrome Extensions
-
-*   [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/) (Udemy)
-
-## [21. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
-
-### Tutorials
-
-*   [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-1/) - Walkthrough of building a dashboard of Bigfoot sightings. [Part 2](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-2), [Part 3](https://timothyrenner.github.io/posts/bigfoot-with-dash-part-3/).
-
 ---
 
-- Next: [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
+- Next: [Dec 12, 2022](/content/2022/12/12/README.md)

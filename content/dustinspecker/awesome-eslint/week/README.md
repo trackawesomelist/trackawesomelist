@@ -6,6 +6,12 @@ A list of awesome ESLint plugins, configs, etc.
 
 [ [Daily](/content/dustinspecker/awesome-eslint/README.md) / Weekly / [Overview](/content/dustinspecker/awesome-eslint/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Configs / Configs by Well-Known Companies/Organizations
+
+*   [Feedzai (⭐8)](https://github.com/feedzai/eslint-config-feedzai) - Feedzai's shareable config for JavaScript/React projects.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Plugins / Libraries
