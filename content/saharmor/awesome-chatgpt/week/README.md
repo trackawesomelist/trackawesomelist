@@ -6,6 +6,12 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ [Daily](/content/saharmor/awesome-chatgpt/README.md) / Weekly / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Using ChatGPT in other apps
+
+*   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Using ChatGPT in other apps

@@ -19,16 +19,17 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ## Using ChatGPT in other apps
 
 1.  [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
-2.  [OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust](https://github.com/sonnylazuardi/chatgpt-desktop)
-3.  [ChatGPT for Mac: access from menu bar](https://github.com/vincelwt/chatgpt-mac)
+2.  [OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust (⭐495)](https://github.com/sonnylazuardi/chatgpt-desktop)
+3.  [ChatGPT for Mac: access from menu bar (⭐2.1k)](https://github.com/vincelwt/chatgpt-mac)
 4.  [ChatGPT Chrome extension](https://twitter.com/kazuki_sf_/status/1598955169576013825)
 5.  [ChatGPT WhatsApp bot](https://twitter.com/danielgross/status/1598735800497119232)
 6.  [ChatGPT Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
-7.  [ChatGPT Twitter bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+7.  [ChatGPT Twitter bot (⭐152)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 8.  [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
 9.  [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
-10. [ChatGPT Discord bot](https://github.com/Zero6992/chatGPT-discord-bot)
-11. [A GPTChat based GitHub robot for dialogue, code reviews, etc.](https://github.com/oceanlvr/ChatGPT-ProBot)
+10. [ChatGPT Discord bot (⭐224)](https://github.com/Zero6992/chatGPT-discord-bot)
+11. [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐171)](https://github.com/oceanlvr/ChatGPT-ProBot)
+12. [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
 
 ## Assistants
 
@@ -39,8 +40,8 @@ Selected ChatGPT demos, tools, articles, and more ✨
 5.  [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs,...)](https://twitter.com/gabe_ragland/status/1599466486422470656)
 6.  [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
 7.  [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
-8.  [Summarize web pages using OpenAI ChatGPT](https://github.com/clmnin/summarize.site)
-9.  [emailGPT - a quick and easy interface to generate emails with ChatGPT](https://github.com/lucasmccabe/emailGPT)
+8.  [Summarize web pages using OpenAI ChatGPT (⭐359)](https://github.com/clmnin/summarize.site)
+9.  [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐82)](https://github.com/lucasmccabe/emailGPT)
 
 ## Coding
 
@@ -56,8 +57,8 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ## ChatGPT API
 
-1.  [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API](https://github.com/acheong08/ChatGPT)
-2.  [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc.](https://github.com/rawandahmad698/PyChatGPT)
+1.  [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API (⭐6.3k)](https://github.com/acheong08/ChatGPT)
+2.  [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc. (⭐1.7k)](https://github.com/rawandahmad698/PyChatGPT)
 3.  [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
 
 ## ChatGPT explainers
@@ -68,7 +69,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ## Conversational
 
 1.  [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
-2.  [ChatGPT-conversation: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
+2.  [ChatGPT-conversation: talk to ChatGPT using your voice (⭐120)](https://github.com/platelminto/chatgpt-conversation)
 
 ## Thought-provoking
 
@@ -80,14 +81,14 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ## Other
 
 1.  [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-2.  [ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+2.  [ChatGPT prompts (⭐4k)](https://github.com/f/awesome-chatgpt-prompts)
 3.  [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 4.  [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 5.  [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
 6.  [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
 7.  [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
 8.  [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-9.  [The Chinese version of AI dungeon using ChatGPT as the storytelling model](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
+9.  [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐624)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
 10. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 11. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
 

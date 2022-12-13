@@ -8,6 +8,10 @@
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
+### Get Started
+
+*   [create-nx-workspace (⭐16k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
+
 ### Templates / Vanilla
 
 *   [vite-tailwind-boilerplate-vanilla-js](https://github.com/sadman-shami/vite-tailwind-boilerplate.git) - Starter template for Tailwindcss.
@@ -16,6 +20,10 @@
 
 *   [vue-xs-admin (⭐10)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
 *   [vue-component-template (⭐16)](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
+
+### Templates / React
+
+*   [react-vite-template (⭐10)](https://github.com/985563349/react-vite-template) - A react project template.
 
 ### Templates / Electron
 
@@ -28,6 +36,7 @@
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-css-export (⭐8)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
+*   [vite-plugin-optimize-css-modules (⭐3)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -40,6 +49,10 @@
 ### Preact / Presets
 
 *   [@preact/preset-vite (⭐175)](https://github.com/preactjs/preset-vite) - Preact preset. HMR, automatic Preact inject, removal of DevTools in prod.
+
+### React / Community
+
+*   [CRA to Nx + Vite tool (⭐16k)](https://github.com/nrwl/nx/tree/master/packages/cra-to-nx) - An automated tool to convert a Create React App project to use Nx + Vite + Vitest.
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 

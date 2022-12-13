@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [cbochs/grapple.nvim (⭐83)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
+### Motion / Diagnostics
+
+*   [cbochs/portal.nvim (⭐98)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Plugin Manager

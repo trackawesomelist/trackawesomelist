@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Dec 13, 2022](/content/2022/12/13/README.md)
+
+### Get Started
+
+*   [create-nx-workspace (⭐16k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
+
+### Templates / React
+
+*   [react-vite-template (⭐10)](https://github.com/985563349/react-vite-template) - A react project template.
+
+### Framework-agnostic Plugins / Transformers
+
+*   [vite-plugin-optimize-css-modules (⭐3)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
+
+### React / Community
+
+*   [CRA to Nx + Vite tool (⭐16k)](https://github.com/nrwl/nx/tree/master/packages/cra-to-nx) - An automated tool to convert a Create React App project to use Nx + Vite + Vitest.
+
 ## [Dec 12, 2022](/content/2022/12/12/README.md)
 
 ### Templates / Vanilla
