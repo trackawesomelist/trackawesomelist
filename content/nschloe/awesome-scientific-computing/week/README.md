@@ -6,6 +6,12 @@
 
 [ [Daily](/content/nschloe/awesome-scientific-computing/README.md) / Weekly / [Overview](/content/nschloe/awesome-scientific-computing/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Visualization / Mesh tools
+
+*   [morphologica (⭐141)](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Basic linear algebra

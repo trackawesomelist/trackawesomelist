@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kdeldycke/awesome-falsehood/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Transportation
+
+*   [The Maddening Mess of Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw) - Having multiple international and national agencies trying to reconcile history, practicality and logistics makes codes follow arcane rules.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Business
@@ -76,7 +82,6 @@
 
 *   Falsehoods about Gender: [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - Gender is part of human identity and has its own subtleties.
 *   [XKCD #327: Exploits of a Mom](https://xkcd.com/327/) - Funny take on how implementation of a falsehood might lead to security holes.
-*   [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 
 ### Phone Numbers
 
@@ -86,6 +91,10 @@
 
 *   [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
 
+### Transportation
+
+*   [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
+
 ## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
 
 ### Business
@@ -94,7 +103,7 @@
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 
-### Business
+### Transportation
 
 *   [Falsehoods about Airline Seat Maps](https://duffel.com/blog/falsehoods-about-seat-maps) - Airline seat maps are far more complex than just neat rows and columns of seats.
 
@@ -116,7 +125,7 @@
 
 ## [Sep 20 - Sep 26, 2021](/content/2021/38/README.md)
 
-### Software Engineering
+### Web
 
 *   [Falsehoods about REST APIs](https://web.archive.org/web/20201112010147/http://slinkp.com/falsehoods-programmers-believe-about-apis.html) - Pitfalls to be mindful of when creating and documenting APIs.
 
@@ -142,7 +151,7 @@
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
-### Networks
+### Web
 
 *   [URLs: It's complicated…](https://www.netmeister.org/blog/urls.html) - There's a lot of components in an URL, and all have their own logic.
 
@@ -163,7 +172,6 @@
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
 *   [Falsehoods about IBANs (⭐425)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
-*   [Falsehoods about Cars (⭐6)](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
 
 ### Dates and Time
 
@@ -231,6 +239,10 @@
 *   [Myths about File Paths](https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/) - Diversity of file-systems and OSes makes file paths a little harder than we might think of.
 *   [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 *   [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There are a few things about `/dev/urandom` and `/dev/random` that are repeated again and again. Still they are false.
+
+### Transportation
+
+*   [Falsehoods about Cars (⭐6)](https://github.com/driveto/falsehoods-about-cars) - Even something as common as defining a car is full of pitfalls.
 
 ### Typography
 
@@ -342,7 +354,7 @@
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
-### Software Engineering
+### Web
 
 *   [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 

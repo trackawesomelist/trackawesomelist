@@ -115,6 +115,10 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-vue3-bootstrap-ts-vitest-starter (⭐0)](https://github.com/marcoarruda/vite-vue3-bootstrap-ts-vitest-starter) - Vue 3 + TypeScript + Vite + Bootstrap Vue 3 + Vitest.
 *   [vue-xs-admin (⭐10)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
 *   [vue-component-template (⭐16)](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
+*   [ionic-vue-vite (⭐0)](https://github.com/reslear/ionic-vue-vite) - Vue 3 + Vue Router + Vite + Ionic.
+*   [ionic-vue-pnpm-monorepo (⭐1)](https://github.com/reslear/ionic-vue-pnpm-monorepo) - Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo.
+*   [ionic-vue-pnpm-express-monorepo (⭐0)](https://github.com/reslear/ionic-vue-pnpm-express-monorepo) - Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo.
+*   [ionic-vue-capacitor (⭐1)](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo.
 
 #### Vue 2
 
@@ -376,6 +380,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-patch-env (⭐2)](https://github.com/KeJunMao/vite-plugin-patch-env) - Patch environment variables from the system into Vite.
 *   [vite-plugin-conditional-compile (⭐6)](https://github.com/KeJunMao/vite-plugin-conditional-compile) - Conditional compilation syntax based on environment variables.
 *   [vite-plugin-debug (⭐2)](https://github.com/hu3dao/vite-plugin-debug) - Base on specific url parameters dynamically enables mobile web page debugging.
+*   [vite-plugin-mock-dev-server (⭐2)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 *   [vite-plugin-externals-extension (⭐2)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 
 #### Testing

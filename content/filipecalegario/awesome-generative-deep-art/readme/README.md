@@ -61,6 +61,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
 *   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
+*   [The Ultimate Stable Diffusion Prompt Guide by PromptHero](https://prompthero.com/stable-diffusion-prompt-guide)
 *   [CLIP Interrogator - a Hugging Face Space by pharma](https://huggingface.co/spaces/pharma/CLIP-Interrogator): image-to-text tool to figure out what a good prompt might be to create new images like an existing one
 *   \[🔥🔥🔥] [Prompt book for data lovers II ❤️ - Google Slides](https://docs.google.com/presentation/d/1V8d6TIlKqB1j5xPFH7cCmgKOV_fMs4Cb4dwgjD5GIsg/edit#slide=id.g1834b964b0f_3_4): An open source exploration on text-to-image and data visualization
 *   [some9000/StylePile (⭐225)](https://github.com/some9000/StylePile): A helper script for AUTOMATIC1111/stable-diffusion-webui. Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
@@ -137,6 +138,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Stable Diffusion Deployed Web Tools
 
+*   [AITWO.CO](https://aitwo.co/): a AI-powered design platform with multiple features
 *   [aiimagegenerator.org](https://www.aiimagegenerator.org/): free AI art generator that supports Stable Diffusion txt2img and img2img generation, drawing and inpainting
 *   [Playground AI](https://playgroundai.com/): frontend for Stable Diffusion with 1000 image generations per day
 *   [Astria](https://www.astria.ai/): tailor-made AI image generation
@@ -422,6 +424,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Inbox: Text and Natural Language Processing
 
+*   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
 *   [Inside language models (from GPT-3 to PaLM) – Dr Alan D. Thompson – Life Architect](https://lifearchitect.ai/models/)
 *   [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom): getting started with BLOOM
 *   [BLOOM](https://thenextweb.com/news/bloom-new-open-source-ai-model-bigger-than-gpt-3-large-language-model-llm): open-source 176-billion-parameter model aims to democratize large-language models

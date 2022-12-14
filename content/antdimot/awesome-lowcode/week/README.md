@@ -6,6 +6,12 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / Weekly / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Flow-based programming
+
+*   [Memberstack](https://www.memberstack.com/) - Authentication & payments for companies who love Webflow, Stripe, & React.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Automation

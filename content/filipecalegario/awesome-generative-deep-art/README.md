@@ -6,6 +6,20 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Dec 14, 2022](/content/2022/12/14/README.md)
+
+### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   [The Ultimate Stable Diffusion Prompt Guide by PromptHero](https://prompthero.com/stable-diffusion-prompt-guide)
+
+### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+
+*   [AITWO.CO](https://aitwo.co/): a AI-powered design platform with multiple features
+
+### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
+
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft

@@ -6,6 +6,19 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Dec 14, 2022](/content/2022/12/14/README.md)
+
+### Templates / Vue 3
+
+*   [ionic-vue-vite (⭐0)](https://github.com/reslear/ionic-vue-vite) - Vue 3 + Vue Router + Vite + Ionic.
+*   [ionic-vue-pnpm-monorepo (⭐1)](https://github.com/reslear/ionic-vue-pnpm-monorepo) - Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo.
+*   [ionic-vue-pnpm-express-monorepo (⭐0)](https://github.com/reslear/ionic-vue-pnpm-express-monorepo) - Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo.
+*   [ionic-vue-capacitor (⭐1)](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-mock-dev-server (⭐2)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
+
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
 ### Get Started

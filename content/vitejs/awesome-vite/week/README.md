@@ -20,6 +20,10 @@
 
 *   [vue-xs-admin (⭐10)](https://github.com/jsxiaosi/vue-xs-admin) - Based on Vue3, Vite3 ElementPlus, TypeScript, Pinia, VueRouter.
 *   [vue-component-template (⭐16)](https://github.com/houtaroy/vue-component-template) - Vue 3, TSX, ESLint, Prettier.
+*   [ionic-vue-vite (⭐0)](https://github.com/reslear/ionic-vue-vite) - Vue 3 + Vue Router + Vite + Ionic.
+*   [ionic-vue-pnpm-monorepo (⭐1)](https://github.com/reslear/ionic-vue-pnpm-monorepo) - Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo.
+*   [ionic-vue-pnpm-express-monorepo (⭐0)](https://github.com/reslear/ionic-vue-pnpm-express-monorepo) - Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo.
+*   [ionic-vue-capacitor (⭐1)](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo.
 
 ### Templates / React
 
@@ -40,6 +44,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
+*   [vite-plugin-mock-dev-server (⭐2)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 *   [vite-plugin-externals-extension (⭐2)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 
 ### Vue / Ecosystem

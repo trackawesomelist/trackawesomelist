@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Dec 14, 2022](/content/2022/12/14/README.md)
+
+### Videos / Others
+
+*   [ASP.NET Community Standup - Blazor .NET 8 Planning](https://www.youtube.com/watch?v=QVkxusemLoo\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=1) - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) December 13, 2022 - Find out our early plans for Blazor in .NET 8. [Community links](https://www.theurlist.com/blazor-community-links).
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### ToDos
