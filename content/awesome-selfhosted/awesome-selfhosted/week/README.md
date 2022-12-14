@@ -8,9 +8,17 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
+### Software / Automation
+
+*   [Accelerated Text (⭐637)](https://github.com/accelerated-text/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐637)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
+
 ### Software / Ticketing
 
 *   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐257)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
+
+### Software / Time Tracking
+
+*   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐565)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -449,7 +457,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [Accelerated Text](https://www.acceleratedtext.com/) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. ([Source Code (⭐637)](https://github.com/accelerated-text/accelerated-text)) `Apache-2.0` `Java`
 *   [feed2toot](https://feed2toot.readthedocs.io/en/latest/) - Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon. ([Source Code](https://gitlab.com/chaica/feed2toot)) `GPL-3.0` `Python`
 *   [Tube Archivist](https://www.tubearchivist.com/) `⚠` - Your self hosted YouTube media server: Subscribe, download, index, search and play your favorite videos. ([Source Code (⭐2k)](https://github.com/tubearchivist/tubearchivist)) `GPL-3.0` `Python`
 
