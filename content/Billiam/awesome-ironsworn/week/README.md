@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsloved murder cases. Rulebook in Polish.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Hacks and homebrew / Ironsworn

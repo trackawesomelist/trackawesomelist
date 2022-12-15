@@ -1027,6 +1027,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [Spy (⭐12)](https://github.com/appunite/Spy) - Lightweight, flexible, multiplatform (iOS, macOS, tvOS, watchOS, Linux) logging utility written in pure Swift that allows you to log on different levels and channels which you can define on your own depending on your needs.
 *   [Diagnostics (⭐766)](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 *   [Gedatsu (⭐518)](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+*   [Pulse (⭐4.8k)](https://github.com/kean/Pulse) - Pulse is a powerful logging system for Apple Platforms. Native. Built with SwiftUI.
 
 ## Machine Learning
 
@@ -1075,6 +1076,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [Expression (⭐738)](https://github.com/nicklockwood/Expression) - A Mac and iOS library for evaluating numeric expressions at runtime.
 *   [Metron (⭐1k)](https://github.com/toineheuvelmans/Metron) - Metron is a comprehensive collection of geometric functions and types that extend the 2D geometric primitives provided by CoreGraphics.
 *   [NumericAnnex (⭐69)](https://github.com/xwu/NumericAnnex) - NumericAnnex supplements the numeric facilities provided in the Swift standard library.
+*   [Matft (⭐79)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
 
 ## Media
 
@@ -1376,6 +1378,7 @@ Also see [push notifications](#push-notifications)
 *   [ThunderRequest (⭐16)](https://github.com/3sidedcube/ThunderRequest) - A simple URLSession wrapper with a generic protocol based request body approach and easy deserialisation of responses.
 *   [ReactiveAPI (⭐79)](https://github.com/sky-uk/ReactiveAPI) - Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.
 *   [Squid (⭐70)](https://github.com/borchero/Squid) - Declarative and reactive networking framework based on Combine and providing means for HTTP requests, transparent pagination, and WebSocket communication.
+*   [Get (⭐733)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
 
 ### Email
 
@@ -1506,6 +1509,7 @@ Most of these are paid services, some have free tiers.
 *   [AcknowledgementsPlist (⭐75)](https://github.com/cats-oss/AcknowledgementsPlist) - AcknowledgementsPlist manages the licenses of libraries that depend on your iOS app.
 *   [CoreXLSX (⭐684)](https://github.com/MaxDesiatov/CoreXLSX) - Excel spreadsheet (XLSX) format support in pure Swift.
 *   [SVGView (⭐259)](https://github.com/exyte/SVGView) - SVG parser and renderer written in SwiftUI.
+*   [CreateAPI (⭐284)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 
 ## Passbook
 
@@ -2286,6 +2290,7 @@ Most of these are paid services, some have free tiers.
 *   [Loaf (⭐987)](https://github.com/schmidyy/Loaf) - A simple framework for easy iOS Toasts.
 *   [SPAlert (⭐1.7k)](https://github.com/IvanVorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 *   [CleanyModal (⭐487)](https://github.com/loryhuz/CleanyModal) - Use nice customized alerts and action sheets with ease, API is similar to native UIAlertController.
+*   [BottomSheet (⭐95)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 
 ### Badge
 
@@ -2409,6 +2414,7 @@ Most of these are paid services, some have free tiers.
 *   [IHKeyboardAvoiding (⭐1.4k)](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - A drop-in universal solution for keeping any UIView visible when the keyboard is being shown - no more UIScrollViews!
 *   [NumPad (⭐80)](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design).
 *   [Ribbon (⭐294)](https://github.com/chriszielinski/Ribbon) - A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+*   [ISEmojiView (⭐450)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
 ### Label
 
@@ -2973,6 +2979,7 @@ Most of these are paid services, some have free tiers.
 *   [ZamzamKit (⭐260)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 *   [DuctTape (⭐171)](https://github.com/marty-suzuki/DuctTape) - KeyPath dynamicMemberLookup based syntax sugar for swift.
 *   [ReviewKit (⭐25)](https://github.com/simonmitchell/ReviewKit) - A framework which helps gatekeep review prompt requests – using SKStoreReviewController – to users who have had a good time using your app by logging positive and negative actions.
+*   [SwiftBoost (⭐117)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
 ## User Consent
 

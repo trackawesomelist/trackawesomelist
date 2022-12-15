@@ -6,6 +6,36 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 [ Daily / [Weekly](/content/vsouza/awesome-ios/week/README.md) / [Overview](/content/vsouza/awesome-ios/readme/README.md) ]
 
+## [Dec 15, 2022](/content/2022/12/15/README.md)
+
+### Logging
+
+*   [Pulse (⭐4.8k)](https://github.com/kean/Pulse) - Pulse is a powerful logging system for Apple Platforms. Native. Built with SwiftUI.
+
+### Math
+
+*   [Matft (⭐79)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
+
+### Networking
+
+*   [Get (⭐733)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
+
+### Other Parsing
+
+*   [CreateAPI (⭐284)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
+
+### Alert & Action Sheet
+
+*   [BottomSheet (⭐95)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
+
+### Keyboard
+
+*   [ISEmojiView (⭐450)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
+
+### Utility / Collection View Layout
+
+*   [SwiftBoost (⭐117)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
 ### Layout

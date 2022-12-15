@@ -294,6 +294,7 @@ You can find them listed on the [Neovim wiki (⭐60k)](https://github.com/neovim
 *   [MunifTanjim/exrc.nvim (⭐43)](https://github.com/MunifTanjim/exrc.nvim) - Secure Project Local Config.
 *   [otavioschwanck/telescope-alternate.nvim (⭐33)](https://github.com/otavioschwanck/telescope-alternate.nvim) - Alternate between common files using telescope.
 *   [gnikdroy/projections.nvim (⭐63)](https://github.com/gnikdroy/projections.nvim) - Tiny project + session manager.
+*   [nyngwang/suave.lua (⭐3)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
 
 ### Color
 
@@ -458,6 +459,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [RRethy/vim-illuminate (⭐1.4k)](https://github.com/RRethy/vim-illuminate) - Highlight the word under the cursor. Neovim's builtin LSP is available, it can be used to highlight more intelligently.
 *   [echasnovski/mini.nvim#mini.cursorword (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-cursorword.md) - Module of `mini.nvim` for automatic highlighting of word under cursor (displayed after customizable delay).
 *   [melkster/modicator.nvim (⭐59)](https://github.com/melkster/modicator.nvim) - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
+*   [nyngwang/murmur.lua (⭐51)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 
 ### Startup
 
@@ -554,6 +556,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [s1n7ax/nvim-terminal (⭐84)](https://github.com/s1n7ax/nvim-terminal) - A simple & easy to use multi-terminal plugin.
 *   [m00qek/baleia.nvim (⭐42)](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor).
 *   [samjwill/nvim-unception (⭐131)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
+*   [nyngwang/NeoTerm.lua (⭐17)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
 
 ### Debugging
 
@@ -569,6 +572,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [kevinhwang91/nvim-bqf (⭐906)](https://github.com/kevinhwang91/nvim-bqf) - The goal of nvim-bqf is to make Neovim's quickfix window better.
 *   [gitlab.com/yorickpeterse/nvim-pqf](https://gitlab.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows.
+*   [nyngwang/NeoWell.lua (⭐3)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
 
 ### Test
 

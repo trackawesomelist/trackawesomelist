@@ -6,6 +6,24 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 15, 2022](/content/2022/12/15/README.md)
+
+### Project / Diagnostics
+
+*   [nyngwang/suave.lua (⭐3)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
+
+### Cursorline / Diagnostics
+
+*   [nyngwang/murmur.lua (⭐51)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
+
+### Terminal Integration / Diagnostics
+
+*   [nyngwang/NeoTerm.lua (⭐17)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+
+### Quickfix / Diagnostics
+
+*   [nyngwang/NeoWell.lua (⭐3)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
+
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
 ### Motion / Diagnostics

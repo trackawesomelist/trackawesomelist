@@ -1165,7 +1165,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [NSubstitute](https://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
 *   [NUnit (⭐2.3k)](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages
 *   [Rhino Mocks (⭐254)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
-*   [TestContainers dotnet (⭐25)](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
+*   [Testcontainers (⭐2.4k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 *   [Shouldly (⭐1.8k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 *   [Snapshooter (⭐209)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 *   [SpecFlow (⭐2k)](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code

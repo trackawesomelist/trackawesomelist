@@ -6,6 +6,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ [Daily](/content/quozd/awesome-dotnet/README.md) / Weekly / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Testing
+
+*   [Testcontainers (⭐2.4k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Mathematics
@@ -26,10 +32,6 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Image Processing
 
 *   [MagicScaler (⭐408)](https://github.com/saucecontrol/PhotoSauce) - High-performance image processing pipeline for .NET, focused on making complex imaging tasks simple.
-
-### Testing
-
-*   [TestContainers dotnet (⭐25)](https://github.com/isen-ng/testcontainers-dotnet) - Testcontainers is a dotnet standard 2.0 library that supports NUnit and XUnit tests, providing lightweight, throwaway instances of common databases or anything else that can run in a Docker container.
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 

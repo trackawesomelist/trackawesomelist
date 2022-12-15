@@ -6,6 +6,12 @@ A curated list of delightful productivity resources.
 
 [ [Daily](/content/jyguyomarch/awesome-productivity/README.md) / Weekly / [Overview](/content/jyguyomarch/awesome-productivity/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Tools and Apps / Task Management
+
+*   [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
+
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
 ### Tools and Apps / Screen Capture
@@ -111,7 +117,7 @@ A curated list of delightful productivity resources.
 *   [Inkdrop](https://www.inkdrop.info/) - A cross-platform note taking application for Markdown lovers.
 *   [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities.
 *   [OneNote](https://www.onenote.com/) - Very good note management solution, but best for Windows users.
-*   [Preserver (⭐212)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
+*   [Preserver (⭐213)](https://github.com/hsbalar/preserver) - Notes organizer desktop application based on Electron.
 *   [Simplenote](https://simplenote.com/) - Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
 *   [Standard Notes](https://standardnotes.org/) - A simple and private notes application.
 *   [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
@@ -133,7 +139,7 @@ A curated list of delightful productivity resources.
 *   [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 *   [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 *   [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
-*   [Topydo (⭐629)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+*   [Topydo (⭐638)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 *   [Trello](https://trello.com) - Kanban method task board.
 *   [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
@@ -192,13 +198,13 @@ A curated list of delightful productivity resources.
 
 ### Tools and Apps / Task Management
 
-*   [Pomolectron (⭐562)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐566)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 
 ## [Nov 13 - Nov 19, 2017](/content/2017/46/README.md)
 
 ### Tools and Apps / Habit Trackers
 
-*   [Loop Habit Tracker (⭐5.6k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+*   [Loop Habit Tracker (⭐5.7k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
 ## [Nov 06 - Nov 12, 2017](/content/2017/45/README.md)
 

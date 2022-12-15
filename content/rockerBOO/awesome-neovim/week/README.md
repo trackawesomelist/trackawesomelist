@@ -12,6 +12,22 @@ Collections of awesome neovim plugins.
 
 *   [cbochs/grapple.nvim (⭐83)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
+### Project / Diagnostics
+
+*   [nyngwang/suave.lua (⭐3)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
+
+### Cursorline / Diagnostics
+
+*   [nyngwang/murmur.lua (⭐51)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
+
+### Terminal Integration / Diagnostics
+
+*   [nyngwang/NeoTerm.lua (⭐17)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
+
+### Quickfix / Diagnostics
+
+*   [nyngwang/NeoWell.lua (⭐3)](https://github.com/nyngwang/NeoWell.lua) - Sometimes you will want to fix some lines later. Store lines into qf with some note so you know what to do when you really want to fix it.
+
 ### Motion / Diagnostics
 
 *   [cbochs/portal.nvim (⭐98)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).

@@ -6,6 +6,16 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Dec 15, 2022](/content/2022/12/15/README.md)
+
+### Cloud Infrastructure and Management
+
+*   [vercel (⭐3)](https://github.com/Bounceapp/elixir-vercel) - An Elixir wrapper for Vercel's API.
+
+### Miscellaneous
+
+*   [passbook (⭐2)](https://github.com/Bounceapp/ex_passbook) - Elixir library to create Apple Wallet (.pkpass) files.
+
 ## [Oct 18, 2022](/content/2022/10/18/README.md)
 
 ### Artificial Intelligence
