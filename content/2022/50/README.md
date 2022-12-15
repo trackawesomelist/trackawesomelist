@@ -1,18 +1,37 @@
 # Awesome List Updates on Dec 12 - Dec 18, 2022
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [1. Awesome Food](/content/jzarca01/awesome-food/week/README.md)
+
+### Food-related projects
+
+*   [RasPiBrew (⭐181)](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
+
+### Cookbooks
+
+*   [El Fuego Viviente Chili Open Sauce (⭐1.7k)](https://github.com/aweijnitz/recipe-el_fuego_viviente) - Fermented Chili "Open Sauce".
+*   [Chowdown (⭐524)](https://github.com/clarklab/chowdown) - A simple, plaintext markdown recipe database for hackers.
+*   [Cooking-Recipes (⭐23)](https://github.com/Donearm/Cooking-Recipes) - Mostly italian recipes.
+*   [bagels (⭐21)](https://github.com/andrewkern/bagels) - open source bagel recipe; let's raise the quality of bagels worldwide !
+
+### Addresses
+
+*   [awesome-kacchi (⭐21)](https://github.com/s4kibs4mi/awesome-kacchi) - A curated list of awesome Kacchi Biryani available throughout the world.
+*   [awesome-berlin (⭐20)](https://github.com/AwesomeCities/awesome-berlin) - A curated list of Berlin's awesomeness.
+*   [Berlín para mexicanos (⭐12)](https://github.com/carlosyslas/berlin-para-mexicanos) - Berlin guide for mexicans.
+
+## [2. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Task Management
 
 *   [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [3. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Cloud Infrastructure and Management
 
@@ -22,62 +41,70 @@
 
 *   [passbook (⭐2)](https://github.com/Bounceapp/ex_passbook) - Elixir library to create Apple Wallet (.pkpass) files.
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Testing
 
 *   [Testcontainers (⭐2.4k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 
-## [4. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [5. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna) - Become a police officer assigned to crack unsloved murder cases. Rulebook in Polish.
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [6. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [colors (⭐1)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
 *   [monke (⭐2)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 
-## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Flow-based programming
 
 *   [Memberstack](https://www.memberstack.com/) - Authentication & payments for companies who love Webflow, Stripe, & React.
 
-## [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [8. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Visualization / Mesh tools
 
 *   [morphologica (⭐141)](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
 
-## [8. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [9. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Transportation
 
 *   [The Maddening Mess of Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw) - Having multiple international and national agencies trying to reconcile history, practicality and logistics makes codes follow arcane rules.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
 *   [ASP.NET Community Standup - Blazor .NET 8 Planning](https://www.youtube.com/watch?v=QVkxusemLoo\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=1) - ![duration](https://img.shields.io/badge/Duration:%20-74%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) December 13, 2022 - Find out our early plans for Blazor in .NET 8. [Community links](https://www.theurlist.com/blazor-community-links).
 
-## [10. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [11. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Open Source Rails Apps / Other external resources
 
 *   [retrospring (⭐115)](https://github.com/retrospring/retrospring) - A social network following the Q/A (question and answer) principle - [:earth\_africa:](https://retrospring.net)
 
-## [11. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [12. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### Using ChatGPT in other apps
 
 *   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
 
-## [12. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+### Conversational
+
+*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+
+### Other
+
+*   [ChatGPT prompts](https://prompts.chat/)
+
+## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Relocation Incentives
 
@@ -87,7 +114,7 @@
 
 *   [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [14. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -98,7 +125,7 @@
 *   [shasht (⭐23)](https://github.com/yitzchak/shasht) -  Common Lisp JSON reading and writing for the Kzinti. [MIT](https://directory.fsf.org/wiki/License:Expat).
     *   " Shasht is one of the two new libraries that I particularly like and is already in quicklisp. It is fast, it handles null correctly, it encodes CLOS objects, structures and hash-tables. It can also do incremental encoding." Sabra Colleton.
 
-## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Web Worker / Runner
 
@@ -113,14 +140,14 @@
 *   [workerpool (⭐1.4k)](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser.
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - Clooney is an actor library for the web. Use workers without thinking about workers.
 
-## [15. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [16. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [dbt-labs/dbt-core (⭐6.2k)](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
 *   [refinedev/refine (⭐6.1k)](https://github.com/refinedev/refine#readme) - Clean project logo. Brief description at top. Multiple badges. Usage description and examples. Use cases and demo links. Screenshots. Key Features. Contributors. Stargazers. Contribution guidelines.
 
-## [16. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [17. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Containers
 
@@ -166,13 +193,13 @@
 
 *   [Sitecore Services Client Publish (⭐1)](https://github.com/peplau/SscPublish) - A Web API method to securely trigger a Sitecore publish of an item or tree.
 
-## [17. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [18. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Vendor supported providers
 
 *   [AIaC (⭐119)](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator
 
-## [18. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [19. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / The Network and Distributed System Security Symposium (NDSS)
 
@@ -219,7 +246,7 @@
 
 *   [Fuzzle: Making a Puzzle for Fuzzers, 2022](https://softsec.kaist.ac.kr/\~sangkilc/papers/lee-ase22.pdf)
 
-## [19. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [20. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Presentations
 
@@ -233,13 +260,13 @@
 
 *   [canTot (⭐59)](https://github.com/shipcod3/canTot) - A python-based cli framework based on sploitkit and is easy to use because it similar to working with Metasploit. This similar to an exploit framework but focused on known CAN Bus vulnerabilities or fun CAN Bus hacks.
 
-## [20. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [21. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
 *   [Feedzai (⭐8)](https://github.com/feedzai/eslint-config-feedzai) - Feedzai's shareable config for JavaScript/React projects.
 
-## [21. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [22. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
@@ -269,7 +296,7 @@
 
 *   [Plutonium Caverns (⭐9)](https://github.com/jani-nykanen/plutonium-caverns) - Overhead puzzle game written in C. Web version uses [DOSBox ported to Emscripten (⭐1.1k)](https://github.com/dreamlayers/em-dosbox) to embed DOSBox into HTML5. However, the original executable is also downloadable and buildable with Open Watcom.
 
-## [22. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [23. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Layout
 
@@ -307,7 +334,7 @@
 
 *   [SwiftBoost (⭐117)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
 
-## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -317,13 +344,13 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [24. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [25. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
 
-## [25. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [26. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Websites and Resources
 
@@ -341,7 +368,7 @@
 
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 
-## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -355,13 +382,13 @@
 
 *   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐565)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
-## [27. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [28. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Arcade
 
 *   Oh Dash! - [Android](https://play.google.com/store/apps/details?id=br.arkd.owdash), [iOS](https://apps.apple.com/br/app/oh-dash/id6443688260) - Play a fast paced arcade game by dodging various hazards and try to be top player on the world! - By [Davi Bispo](https://github.com/arcadekenan)
 
-## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [29. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -372,19 +399,19 @@
 *   [gitneko (⭐1)](https://github.com/gynamics/zsh-gitneko/) - Has a neko `(^>ω<^)` prompt with `git` status information.
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
 
-## [29. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
+## [30. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/week/README.md)
 
 ### Courses 🎓 / Articles
 
 *   [Becoming a Social Entrepreneur: Getting Started](https://www.coursera.org/learn/social-entrepreneurship-getting-started) - By University Of Michigan.
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [31. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Scaffold
 
 *   [Vutron (⭐30)](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 
-## [31. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [32. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Get Started
 
@@ -437,7 +464,7 @@
 
 *   [CRA to Nx + Vite tool (⭐16k)](https://github.com/nrwl/nx/tree/master/packages/cra-to-nx) - An automated tool to convert a Create React App project to use Nx + Vite + Vitest.
 
-## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Marks / Diagnostics
 
@@ -463,7 +490,7 @@
 
 *   [cbochs/portal.nvim (⭐98)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
-## [33. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [34. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Client Web App Frameworks
 
@@ -489,13 +516,13 @@
 
 *   [Dart Barrel File Generator (⭐20)](https://github.com/mikededo/dartBarrelFileGenerator) - VSCode extension that generates barrel files for Dart projects.
 
-## [34. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [35. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / System Related Tools
 
 *   [RemoveX](https://removex.io) - RemoveX is an uninstaller tool for Mac computer. RemoveX has a beautifully UI using native design for MacOS. Save hours of time and remove your app in seconds. Do not make you think. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [36. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -512,23 +539,45 @@
 *   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
 *   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
 
+### Text-to-video / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [THUDM/CogVideo (⭐2.2k)](https://github.com/THUDM/CogVideo): Text-to-video generation
+
+### Inbox: Music-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
+*   [Dance Diffusion](https://huggingface.co/spaces/harmonai/dance-diffusion): the Hugging Face Space by harmonai
+*   [DDSP-VST](https://magenta.tensorflow.org/ddsp-vst-blog): Neural Audio Synthesis for All
+*   [Jukebox](https://openai.com/blog/jukebox/): "a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles"
+*   [Magenta](https://magenta.tensorflow.org/): Music and Art Generation with Machine Intelligence
+*   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
+*   [archinetai/audio-diffusion-pytorch (⭐534)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
+
 ### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
 
-## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [37. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### DBaaS
 
 *   [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.
 
-## [37. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+### Design and UI
+
+*   [Circum Icons](https://circumicons.com) - Consistent open source icons as SVG for React, Vue and Svelte.
+
+### Design Inspiration
+
+*   [Refero](https://refero.design/) - \[Web screenshots] Tagged and searchable collection of design references from great web applications.
+
+## [38. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions
 
 *   [Mastering TypeScript - 2022 Edition](https://www.udemy.com/course/learn-typescript/) (Udemy)
 
-## [38. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [39. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Tutorials
 

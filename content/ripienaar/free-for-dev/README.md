@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 15, 2022](/content/2022/12/15/README.md)
+
+### Design and UI
+
+*   [Circum Icons](https://circumicons.com) - Consistent open source icons as SVG for React, Vue and Svelte.
+
+### Design Inspiration
+
+*   [Refero](https://refero.design/) - \[Web screenshots] Tagged and searchable collection of design references from great web applications.
+
 ## [Dec 12, 2022](/content/2022/12/12/README.md)
 
 ### DBaaS

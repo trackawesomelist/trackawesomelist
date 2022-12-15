@@ -104,6 +104,61 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Bordio](https://bordio.com/) - Daily planner for managing tasks and events on one board.
 
+#### [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Design and UI
+
+*   [Circum Icons](https://circumicons.com) - Consistent open source icons as SVG for React, Vue and Svelte.
+
+##### Design Inspiration
+
+*   [Refero](https://refero.design/) - \[Web screenshots] Tagged and searchable collection of design references from great web applications.
+
+#### [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Text-to-video / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [THUDM/CogVideo (⭐2.2k)](https://github.com/THUDM/CogVideo): Text-to-video generation
+
+##### Inbox: Music-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
+*   [Dance Diffusion](https://huggingface.co/spaces/harmonai/dance-diffusion): the Hugging Face Space by harmonai
+*   [DDSP-VST](https://magenta.tensorflow.org/ddsp-vst-blog): Neural Audio Synthesis for All
+*   [Jukebox](https://openai.com/blog/jukebox/): "a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles"
+*   [Magenta](https://magenta.tensorflow.org/): Music and Art Generation with Machine Intelligence
+*   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
+*   [archinetai/audio-diffusion-pytorch (⭐534)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
+
+#### [10. Awesome Food](/content/jzarca01/awesome-food/README.md)
+
+##### Food-related projects
+
+*   [RasPiBrew (⭐181)](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
+
+##### Cookbooks
+
+*   [El Fuego Viviente Chili Open Sauce (⭐1.7k)](https://github.com/aweijnitz/recipe-el_fuego_viviente) - Fermented Chili "Open Sauce".
+*   [Chowdown (⭐524)](https://github.com/clarklab/chowdown) - A simple, plaintext markdown recipe database for hackers.
+*   [Cooking-Recipes (⭐23)](https://github.com/Donearm/Cooking-Recipes) - Mostly italian recipes.
+*   [bagels (⭐21)](https://github.com/andrewkern/bagels) - open source bagel recipe; let's raise the quality of bagels worldwide !
+
+##### Addresses
+
+*   [awesome-kacchi (⭐21)](https://github.com/s4kibs4mi/awesome-kacchi) - A curated list of awesome Kacchi Biryani available throughout the world.
+*   [awesome-berlin (⭐20)](https://github.com/AwesomeCities/awesome-berlin) - A curated list of Berlin's awesomeness.
+*   [Berlín para mexicanos (⭐12)](https://github.com/carlosyslas/berlin-para-mexicanos) - Berlin guide for mexicans.
+
+#### [11. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+
+##### Conversational
+
+*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+
+##### Other
+
+*   [ChatGPT prompts](https://prompts.chat/)
+
 ### [Dec 14, 2022](/content/2022/12/14/README.md)
 
 
@@ -149,7 +204,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The Maddening Mess of Airport Codes](https://www.youtube.com/watch?v=jfOUVYQnuhw) - Having multiple international and national agencies trying to reconcile history, practicality and logistics makes codes follow arcane rules.
 
-#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [6. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
+
+##### Visualization / Mesh tools
+
+*   [morphologica (⭐141)](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
+
+#### [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+
+##### Flow-based programming
+
+*   [Memberstack](https://www.memberstack.com/) - Authentication & payments for companies who love Webflow, Stripe, & React.
+
+#### [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
+
+##### Modules / Utils
+
+*   [colors (⭐1)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
+*   [monke (⭐2)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
+
+#### [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -162,25 +236,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
-
-#### [7. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
-
-##### Visualization / Mesh tools
-
-*   [morphologica (⭐141)](https://github.com/ABRG-Models/morphologica) - Header-only, modern OpenGL code to visualize numerical simulations at runtime. (C++, Apache 2.0, GitHub)
-
-#### [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
-
-##### Flow-based programming
-
-*   [Memberstack](https://www.memberstack.com/) - Authentication & payments for companies who love Webflow, Stripe, & React.
-
-#### [9. Awesome Deno](/content/denolib/awesome-deno/README.md)
-
-##### Modules / Utils
-
-*   [colors (⭐1)](https://github.com/retraigo/colors) - Color conversions and operations in TypeScript.
-*   [monke (⭐2)](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 
 ### [Dec 13, 2022](/content/2022/12/13/README.md)
 
@@ -414,19 +469,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
 
-#### [15. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
-
-##### Using ChatGPT in other apps
-
-*   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
-
-#### [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Ticketing
 
 *   [ITFlow](https://itflow.org) - Client IT Documentation, Ticketing, Invoicing and Accounting Web Application for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code (⭐257)](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
 
-#### [17. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [16. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Get Started
 
@@ -444,29 +493,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CRA to Nx + Vite tool (⭐16k)](https://github.com/nrwl/nx/tree/master/packages/cra-to-nx) - An automated tool to convert a Create React App project to use Nx + Vite + Vitest.
 
-#### [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
-
-##### Prompt Engineering | Prompt Design | Prompt Craft
-
-*   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
-
-##### Courses and Educational Materials / References Collection about Stable Diffusion
-
-*   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
-
-#### [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
 
-#### [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Motion / Diagnostics
 
 *   [cbochs/portal.nvim (⭐98)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
-#### [21. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [19. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Android / Libraries
 
@@ -476,7 +515,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-#### [22. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+#### [20. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ##### Layout
 
@@ -485,6 +524,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Localization
 
 *   [locheck (⭐72)](https://github.com/Asana/locheck) - Validate .strings, .stringsdict, and strings.xml files for correctness to avoid crashes and bad translations.
+
+#### [21. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+##### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
+
+##### Courses and Educational Materials / References Collection about Stable Diffusion
+
+*   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
+
+#### [22. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+
+##### Using ChatGPT in other apps
+
+*   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
 
 ---
 
@@ -496,9 +551,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 258K 📝 12&#x2F;06 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 149K 📝 12&#x2F;11 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
 4. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 111K 📝 12&#x2F;14 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-5. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 93K 📝 12&#x2F;11 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-6. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K 📝 12&#x2F;12 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-7. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 63K 📝 12&#x2F;12 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 63K 📝 12&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+6. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 93K 📝 12&#x2F;11 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K 📝 12&#x2F;12 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 8. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 56K 📝 12&#x2F;12 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 9. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 41K 📝 12&#x2F;15 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 10. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 53K 📝 12&#x2F;11 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
@@ -614,7 +669,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Chatgpt](/content/humanloop/awesome-chatgpt/README.md) - ([Source ⭐ 1.5K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/humanloop/awesome-chatgpt)) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md) - ([Source ⭐ 223, 📝 12&#x2F;10 ](https://github.com/Kamigami55/awesome-chatgpt)) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
-- [Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md) - ([Source ⭐ 116, 📝 12&#x2F;13 ](https://github.com/saharmor/awesome-chatgpt)) - Selected ChatGPT demos, tools, articles, and more ✨
+- [Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md) - ([Source ⭐ 116, 📝 12&#x2F;15 ](https://github.com/saharmor/awesome-chatgpt)) - Selected ChatGPT demos, tools, articles, and more ✨
 - [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 4K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/f/awesome-chatgpt-prompts)) - This repo includes ChatGPT promt curation to use ChatGPT better.
 
 ### Computer Science
@@ -966,14 +1021,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md) - ([Source ⭐ 382, 📝 01&#x2F;29 ](https://github.com/angrykoala/awesome-esolangs)) - Curated list of awesome Esoteric languages and resources
 - [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 19K, 📝 12&#x2F;14 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
 - [Awesome Flutter](/content/Solido/awesome-flutter/README.md) - ([Source ⭐ 44K, 📝 10&#x2F;17 ](https://github.com/Solido/awesome-flutter)) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [Awesome Food](/content/jzarca01/awesome-food/README.md) - ([Source ⭐ 117, 📝 03&#x2F;13 ](https://github.com/jzarca01/awesome-food)) - A curated list of food related projects on Github
+- [Awesome Food](/content/jzarca01/awesome-food/README.md) - ([Source ⭐ 123, 📝 12&#x2F;15 ](https://github.com/jzarca01/awesome-food)) - A curated list of food related projects on Github
 - [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 45K, 📝 09&#x2F;26 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 - [Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md) - ([Source ⭐ 222, 📝 08&#x2F;13 ](https://github.com/DataDaoDe/awesome-foss-apps)) - A curated list of awesome production grade free and open source software organized by category
 - [Awesome Framer](/content/podo/awesome-framer/README.md) - ([Source ⭐ 515, 📝 18&#x2F;06&#x2F;06 ](https://github.com/podo/awesome-framer)) - A curated list of awesome things related to Framer prototyping tool
 - [Awesome Frc](/content/andrewda/awesome-frc/README.md) - ([Source ⭐ 85, 📝 21&#x2F;10&#x2F;19 ](https://github.com/andrewda/awesome-frc)) - A curated list of packages and resources regarding the FIRST Robotics Competition.
 - [Awesome Free Software](/content/johnjago/awesome-free-software/README.md) - ([Source ⭐ 1.1K, 📝 06&#x2F;22 ](https://github.com/johnjago/awesome-free-software)) - Curated list of free as in freedom software
 - [Awesome Funny Markov](/content/sublimino/awesome-funny-markov/README.md) - ([Source ⭐ 186, 📝 09&#x2F;13 ](https://github.com/sublimino/awesome-funny-markov)) - A curated list of delightfully amusing and facetious Markov chain output.
-- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 216, 📝 12&#x2F;14 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of generative deep learning tools, works, models, etc. for artistic uses
+- [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 216, 📝 12&#x2F;15 ](https://github.com/filipecalegario/awesome-generative-deep-art)) - A curated list of generative deep learning tools, works, models, etc. for artistic uses
 - [Awesome Geojson](/content/tmcw/awesome-geojson/README.md) - ([Source ⭐ 1.9K, 📝 12&#x2F;11 ](https://github.com/tmcw/awesome-geojson)) - GeoJSON utilities that will make your life easier.
 - [Awesome Git Addons](/content/stevemao/awesome-git-addons/README.md) - ([Source ⭐ 1.6K, 📝 21&#x2F;10&#x2F;02 ](https://github.com/stevemao/awesome-git-addons)) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 14K, 📝 12&#x2F;11 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
@@ -1057,7 +1112,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 857, 📝 10&#x2F;18 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.4K, 📝 07&#x2F;14 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 22K, 📝 07&#x2F;29 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 63K, 📝 12&#x2F;12 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 63K, 📝 12&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2K, 📝 07&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 9.4K, 📝 08&#x2F;07 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Books everyone should read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 2.6K, 📝 09&#x2F;02 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:

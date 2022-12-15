@@ -23,6 +23,20 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Welcome to the 🤗 Deep Reinforcement Learning Course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt): a Hugging Face Course on Deep Reinforcement Learning
 *   [Crash course in AI art generation by PromptHero](https://prompthero.com/academy): paid ($99) course focused on prompt engineering
 
+### Text-to-video / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [THUDM/CogVideo (⭐2.2k)](https://github.com/THUDM/CogVideo): Text-to-video generation
+
+### Inbox: Music-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
+*   [Dance Diffusion](https://huggingface.co/spaces/harmonai/dance-diffusion): the Hugging Face Space by harmonai
+*   [DDSP-VST](https://magenta.tensorflow.org/ddsp-vst-blog): Neural Audio Synthesis for All
+*   [Jukebox](https://openai.com/blog/jukebox/): "a neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles"
+*   [Magenta](https://magenta.tensorflow.org/): Music and Art Generation with Machine Intelligence
+*   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
+*   [archinetai/audio-diffusion-pytorch (⭐534)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
+
 ### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
@@ -98,9 +112,9 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
 
-*   [MubertAI/Mubert-Text-to-Music (⭐2.2k)](https://github.com/MubertAI/Mubert-Text-to-Music): A simple notebook demonstrating prompt-based music generation via Mubert API
+*   [MubertAI/Mubert-Text-to-Music (⭐2.2k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
@@ -145,11 +159,6 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 ### Stable Diffusion Inbox
 
 *   [TheLastBen/fast-stable-diffusion (⭐2.8k)](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth
-
-### Inbox for Related References / OpenAI GPT-3
-
-*   [archinetai/audio-diffusion-pytorch: Audio generation using diffusion models, in PyTorch. (⭐534)](https://github.com/archinetai/audio-diffusion-pytorch)
-*   [Dance Diffusion - a Hugging Face Space by harmonai](https://huggingface.co/spaces/harmonai/dance-diffusion)
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -359,14 +368,6 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [\~200 CLIP+VQGAN keywords on 4 subjects, by @kingdomakrillic  - Imgur](https://imgur.com/a/SALxbQm)
 *   [Experimentando o VQGAN+CLIP: gerador de imagens a partir de textos - YouTube Filipe Calegario](https://www.youtube.com/watch?v=Yy5NMTkN-Qc)
 
-### Image Synthesis / Famous models by big players
-
-*   [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
-*   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
-*   [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
-*   [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
-*   [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
-
 ### Image Synthesis / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [VQGAN + CLIP + Gumbel](https://colab.research.google.com/drive/1tim3xTsZXafK-A2rOUsevckdl4OitIiw)
@@ -411,11 +412,14 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [cleanup.pictures](https://cleanup.pictures/): remove objects, people, text and defects from any picture for free
 *   [remove.bg](https://www.remove.bg/): remove background from images
 *   [Quick, Draw!](https://quickdraw.withgoogle.com/): Can a neural network learn to recognize doodling? A game to help NL by adding users drawing
-*   [LOVO AI](https://www.lovo.ai/): AI Voiceover & Text to Speech Platform with human-like voices
-*   [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
 
 ### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
 
+*   [Imagen](https://imagen.research.google/): Google's Text-to-Image Diffusion Models
+*   [Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation/): Meta's creative control for AI image generation
+*   [DALL·E 2](https://openai.com/dall-e-2/): OpenAI system, evolution of the DALL-E launched in Jan 2021, that can create realistic images and art from a description in natural language.
+*   [Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement): Stability.Ai's text-to-image model that is a breakthrough in speed and quality meaning that it can run on consumer GPUs
+*   [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 *   [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 *   [These Bored Apes Do Not Exist: GAN to NFT Pipeline | Medium](https://medium.com/@nathancooperjones/these-bored-apes-do-not-exist-6bed2c73f02c)
 *   \[🔥] [hive/notebooks at main · pollinations/hive (⭐43)](https://github.com/pollinations/hive/tree/main/notebooks): collection of notebooks used by Pollinations.AI
@@ -427,6 +431,11 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   \[🔥] [Vadim Epstein’s Aphantasia library (⭐687)](https://github.com/eps696/aphantasia): CLIP + FFT/DWT/RGB = text to image/video
 *   \[🔥] [dvschultz/stylegan3 (⭐82)](https://github.com/dvschultz/stylegan3): Forked by Schultz from Stylegan3
 *   \[🚀] [StyleGAN-NADA](https://stylegan-nada.github.io/): CLIP-Guided Domain Adaptation of Image Generators
+
+### Inbox: Music-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [LOVO AI](https://www.lovo.ai/): AI Voiceover & Text to Speech Platform with human-like voices
+*   [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
 
 ### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
 
@@ -539,7 +548,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
-### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [AI Image to sound \[Melobytes.com\]](https://melobytes.com/en/app/ai_image2sound)
 
@@ -575,10 +584,6 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [ouhenio/StyleGAN3-CLIP-notebooks (⭐173)](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks): A collection of Jupyter notebooks to play with NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
 *   [k-l-lambda/stylegan-web (⭐149)](https://github.com/k-l-lambda/stylegan-web): A web porting for NVlabs' StyleGAN.
 
-### How did they do it? / Text-to-image Google Colab Notebooks (Multiple Models)
-
-*   [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
-
 ### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [Rytr](https://rytr.me/): Rytr is an AI writing assistant that helps creating content
@@ -592,6 +597,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Artists and Artworks / OpenAI GPT-3
 
+*   \[🔥] [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
 *   [Confluence](https://deviparikh.github.io/confluence/): a generative art project by Devi Parikh on BrainDrops.
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)

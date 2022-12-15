@@ -12,6 +12,14 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 *   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
 
+### Conversational
+
+*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+
+### Other
+
+*   [ChatGPT prompts](https://prompts.chat/)
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Using ChatGPT in other apps
@@ -78,7 +86,6 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Other
 
 *   [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-*   [ChatGPT prompts (⭐4k)](https://github.com/f/awesome-chatgpt-prompts)
 *   [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 *   [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 *   [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)

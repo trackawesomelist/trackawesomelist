@@ -70,6 +70,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 1.  [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
 2.  [ChatGPT-conversation: talk to ChatGPT using your voice (⭐120)](https://github.com/platelminto/chatgpt-conversation)
+3.  [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
 
 ## Thought-provoking
 
@@ -81,7 +82,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ## Other
 
 1.  [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-2.  [ChatGPT prompts (⭐4k)](https://github.com/f/awesome-chatgpt-prompts)
+2.  [ChatGPT prompts](https://prompts.chat/)
 3.  [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 4.  [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 5.  [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)

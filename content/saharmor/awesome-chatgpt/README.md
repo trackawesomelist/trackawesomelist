@@ -6,6 +6,16 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ Daily / [Weekly](/content/saharmor/awesome-chatgpt/week/README.md) / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Dec 15, 2022](/content/2022/12/15/README.md)
+
+### Conversational
+
+*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+
+### Other
+
+*   [ChatGPT prompts](https://prompts.chat/)
+
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
 ### Using ChatGPT in other apps
@@ -78,7 +88,6 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Other
 
-*   [ChatGPT prompts (⭐4k)](https://github.com/f/awesome-chatgpt-prompts)
 *   [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 *   [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 *   [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
