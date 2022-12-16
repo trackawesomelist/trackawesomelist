@@ -1002,6 +1002,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [mini-yaml (⭐155)](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. \[MIT]
 *   [yaml-cpp (⭐3.8k)](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++ \[MIT]
+*   [rapidyaml (⭐377)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML \[MIT]
 
 ## Miscellaneous
 

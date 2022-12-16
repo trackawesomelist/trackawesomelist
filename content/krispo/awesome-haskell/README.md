@@ -6,6 +6,12 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 
 [ Daily / [Weekly](/content/krispo/awesome-haskell/week/README.md) / [Overview](/content/krispo/awesome-haskell/readme/README.md) ]
 
+## [Dec 16, 2022](/content/2022/12/16/README.md)
+
+### *Basics*
+
+*   [GHCup](https://www.haskell.org/ghcup) - GHCup is the main installer for the general purpose language Haskell.
+
 ## [Jul 12, 2022](/content/2022/07/12/README.md)
 
 ### Languages
@@ -22,7 +28,7 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 
 ### Messaging
 
-*   [SimpleX Chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
+*   [SimpleX Chat (⭐2k)](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
 
 ## [Aug 04, 2021](/content/2021/08/04/README.md)
 
@@ -31,13 +37,13 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 *   [Robotics](http://hackage.haskell.org/packages/#cat:Robotics) - a collaborative Hackage list.
 
     ***
-*   [m2cgen (⭐2.2k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
+*   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
 
 ## [Mar 22, 2021](/content/2021/03/22/README.md)
 
 ### Streaming Processing
 
-*   [HStreamDB (⭐552)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐569)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
 ## [Dec 30, 2020](/content/2020/12/30/README.md)
 
@@ -61,7 +67,7 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 
 ### Configuration
 
-*   [Dhall (⭐828)](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
+*   [Dhall (⭐837)](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
 
 ## [Feb 14, 2019](/content/2019/02/14/README.md)
 
@@ -196,7 +202,7 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 
 ### *Basics*
 
-*   [Stackage (⭐488)](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
+*   [Stackage (⭐495)](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 
 ### Websites
 
@@ -402,7 +408,6 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 *   [GHCi](https://downloads.haskell.org/\~ghc/latest/docs/html/users_guide/ghci.html) - a bytecode interpreter and interactive REPL environment for Haskell.
 *   [Haddock](https://www.haskell.org/haddock/) - a tool for automatically generating documentation from annotated Haskell source code.
 *   [Happy](https://www.haskell.org/happy/) - The Parser Generator for Haskell.
-*   [The Haskell Platform](https://www.haskell.org/platform/contents.html) - a comprehensive, robust development environment for programming in Haskell.
 
 ### Compilers
 
@@ -465,7 +470,7 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 
 ### *Basics*
 
-*   [hsenv (⭐123)](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
+*   [hsenv (⭐122)](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 *   [Stack (⭐3.8k)](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
 
 ## [Nov 06, 2014](/content/2014/11/06/README.md)
@@ -587,8 +592,8 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 *   [Web](http://hackage.haskell.org/packages/#cat:Web) - a collaborative Hackage list of frameworks, libraries, ...
 
     ***
-*   [HTTP (⭐170)](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
-*   [hoauth2 (⭐120)](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
+*   [HTTP (⭐171)](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
+*   [hoauth2 (⭐123)](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
 
 ### Messaging
 
@@ -627,8 +632,8 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 
 ### Streaming Processing
 
-*   [Conduit (⭐834)](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
-*   [Pipes (⭐466)](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
+*   [Conduit (⭐845)](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
+*   [Pipes (⭐471)](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
 
 ### Websites
 

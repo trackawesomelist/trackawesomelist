@@ -6,6 +6,13 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 16, 2022](/content/2022/12/16/README.md)
+
+### Utility / Diagnostics
+
+*   [chrisgrieser/nvim-genghis (⭐46)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
+*   [chrisgrieser/nvim-recorder (⭐2)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
+
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 
 ### Project / Diagnostics

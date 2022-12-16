@@ -8,6 +8,18 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
+### Getting Started
+
+*   [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Free collection of videos and tutorials updated for iOS 15 and Swift 5.5.
+
+### Camera
+
+*   [ExyteMediaPicker (⭐31)](https://github.com/exyte/mediapicker) - Customizable media picker
+
+### Location
+
+*   [AsyncLocationKit (⭐77)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
+
 ### Layout
 
 *   [ScalingHeaderScrollView](https://github.com/exyte/ScalingHeaderScrollView.git) - A scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
@@ -24,6 +36,10 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 *   [Matft (⭐79)](https://github.com/jjjkkkjjj/Matft) - Matft is Numpy-like library in Swift. Matft allows us to handle n-dimensional array easily in Swift.
 
+### Image
+
+*   [Harbeth (⭐185)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.🔥💥
+
 ### Networking
 
 *   [Get (⭐733)](https://github.com/kean/Get) - A modern Swift web API client built using async/await.
@@ -31,6 +47,19 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 ### Other Parsing
 
 *   [CreateAPI (⭐284)](https://github.com/CreateAPI/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
+
+### UI
+
+*   [Popovers (⭐876)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
+
+### Activity Indicator
+
+*   [ProgressIndicatorView (⭐74)](https://github.com/exyte/ProgressIndicatorView) - A number of preset progress indicators created with SwiftUI.
+
+### Transition
+
+*   [NavigationTransitions (⭐51)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
+*   [LiquidSwipe (⭐270)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
 
 ### Alert & Action Sheet
 
@@ -40,9 +69,33 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 *   [ISEmojiView (⭐450)](https://github.com/isaced/ISEmojiView) - Emoji Keyboard for iOS
 
+### Table View / Collection View / Collection View
+
+*   [StableCollectionViewLayout (⭐53)](https://github.com/aimalygin/StableCollectionViewLayout) - This layout adjusts a content offset if the collection view is updated. You can insert, delete or reload items and StableCollectionViewLayout will take care of the content offset.
+
 ### Utility / Collection View Layout
 
 *   [SwiftBoost (⭐117)](https://github.com/sparrowcode/SwiftBoost) - Collection of Swift-extensions to boost development process.
+
+### Reference / Collection View Layout
+
+*   [Awesome-ios](https://kandi.openweaver.com/swift/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem.
+
+### Tutorials and Keynotes / Collection View Layout
+
+*   [SwiftUI Tutorials](https://JaneshSwift.com) - Learn SwiftUI & Swift for FREE.
+
+### iOS UI Template / Collection View Layout
+
+*   [iOS 11 iPhone GUI from Design at Meta](https://design.facebook.com/toolsandresources/ios-11-iphone-gui/)
+
+### Newsletters / Collection View Layout
+
+*   [Indie Watch](https://indie.watch/) - A weekly newsletter featuring the best apps made by indie iOS developers.
+
+### Other Awesome Lists / Collection View Layout
+
+*   [awesome-ios-books (⭐177)](https://github.com/bystritskiy/awesome-ios-books) - A list of books for iOS developers.
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
@@ -3502,7 +3555,6 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 *   [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)
 *   [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
-*   [iOS GUI by Facebook Design Resources](https://facebook.design/)
 
 ### Prototyping / Collection View Layout
 

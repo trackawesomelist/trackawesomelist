@@ -2,9 +2,15 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 6.5K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 6.6K · 🏷️ Theory
 
 [ [Daily](/content/rossant/awesome-math/README.md) / Weekly / [Overview](/content/rossant/awesome-math/readme/README.md) ]
+
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Tools
+
+*   [CopyPasteMathjax](https://www.copypastemathjax.com/)
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
@@ -44,7 +50,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐304)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐312)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -91,7 +97,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐255k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐258k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
@@ -673,13 +679,13 @@ A curated list of awesome mathematics resources
 
 ### Algebra / Linear Algebra
 
-*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐454)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐459)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [Sep 05 - Sep 11, 2016](/content/2016/36/README.md)
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐786)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐791)](https://github.com/nelson-brochado/understanding-math)
 
 ## [Aug 08 - Aug 14, 2016](/content/2016/32/README.md)
 

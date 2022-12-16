@@ -6,6 +6,12 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 [ [Daily](/content/coq-community/awesome-coq/README.md) / Weekly / [Overview](/content/coq-community/awesome-coq/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Resources / Course Material
+
+*   [MathComp School (⭐5)](https://github.com/gares/math-comp-school-2022) - Coq sources for lessons and exercises that introduce the SSReflect proof language and the Mathematical Components library.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Resources / Course Material

@@ -201,6 +201,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [Classpert - A list of 500 iOS Development courses (free and paid), from top e-learning platforms](https://classpert.com/ios-development) - Complete catalog of courses from Udacity, Pluralsight, Coursera, Edx, Treehouse and Skillshare.
 *   [iOS Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) - Online program meticulously thought out for iOS developers who want to become world-class senior developers and be part of the highest-paid iOS devs in the world. Focuses on key concepts like Swift, TDD, BDD, DDD, Clean Architecture, Design Patterns, Git, Automation, CI/CD, and Modular Design.
 *   [ARHeadsetKit Tutorials (⭐78)](https://github.com/philipturner/ARHeadsetKit) - Interactive guides to a high-level framework for experimenting with AR.
+*   [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - Free collection of videos and tutorials updated for iOS 15 and Swift 5.5.
 
 ## Accessibility
 
@@ -857,6 +858,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [TakeASelfie (⭐36)](https://github.com/abdullahselek/TakeASelfie) - An iOS framework that uses the front camera, detects your face and takes a selfie.
 *   [HybridCamera (⭐192)](https://github.com/eonist/HybridCamera) - Video and photo camera for iOS, similar to the SnapChat camera.
 *   [CameraKit-iOS (⭐629)](https://github.com/CameraKit/camerakit-ios) - Massively increase camera performance and ease of use in your next iOS project.
+*   [ExyteMediaPicker (⭐31)](https://github.com/exyte/mediapicker) - Customizable media picker
 
 ### Force Touch
 
@@ -881,6 +883,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 *Location monitoring, detect motion and geofencing libraries*
 
+*   [AsyncLocationKit (⭐77)](https://github.com/AsyncSwift/AsyncLocationKit) - Wrapper for Apple CoreLocation framework with Modern Concurrency Swift (async/await).
 *   [IngeoSDK (⭐99)](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
 *   [LocationManager (⭐2.6k)](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
 *   [SwiftLocation (⭐3.2k)](https://github.com/malcommac/SwiftLocation) - Location & Beacon Monitoring in Swift.
@@ -1221,6 +1224,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [ImageDetect (⭐298)](https://github.com/Feghal/ImageDetect) - Detect and crop faces, barcodes and texts inside of your image, with iOS 11 Vision api.
 *   [THTiledImageView (⭐28)](https://github.com/TileImageTeamiOS/THTiledImageView) - Provide ultra-high-quality images through tiling techniques.
 *   [GPUImage3 (⭐2.4k)](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed Swift framework for GPU-accelerated video and image processing using Metal.
+*   [Harbeth (⭐185)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.🔥💥
 *   [Gallery (⭐1.4k)](https://github.com/hyperoslo/Gallery) - Your next favorite image and video picker.
 *   [ATGMediaBrowser (⭐199)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and ability to create new transitions with ease.
 *   [Pixel (⭐2.8k)](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
@@ -2043,6 +2047,7 @@ Most of these are paid services, some have free tiers.
 *   [ClassicKit (⭐2.2k)](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components for iOS.
 *   [Sejima (⭐63)](https://github.com/MoveUpwards/Sejima) - A collection of User Interface components for iOS.
 *   [UI Fabric by Microsoft (⭐582)](https://github.com/OfficeDev/ui-fabric-ios) - UI framework based on [Fluent Design System](https://www.microsoft.com/design/fluent/#/ios) by Microsoft.
+*   [Popovers (⭐876)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
 
 ### Activity Indicator
 
@@ -2106,6 +2111,7 @@ Most of these are paid services, some have free tiers.
 *   [RHPlaceholder (⭐238)](https://github.com/robertherdzik/RHPlaceholder) - Simple library which give you possibility to add Facebook like loading state for your views.
 *   [IHProgressHUD (⭐200)](https://github.com/Swiftify-Corp/IHProgressHUD) - Simple HUD, thread safe, supports iOS, tvOS and App Extensions.
 *   [ActivityIndicatorView (⭐940)](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI.
+*   [ProgressIndicatorView (⭐74)](https://github.com/exyte/ProgressIndicatorView) - A number of preset progress indicators created with SwiftUI.
 
 ### Animation
 
@@ -2219,6 +2225,8 @@ Most of these are paid services, some have free tiers.
 *   [SPStorkController (⭐2.6k)](https://github.com/IvanVorobei/SPStorkController) - Very similar to the controllers displayed in Apple Music, Podcasts and Mail Apple's applications.
 *   [AppstoreTransition (⭐544)](https://github.com/appssemble/appstore-card-transition) - Simulates the appstore card animation transition.
 *   [DropdownTransition (⭐63)](https://github.com/nugmanoff/DropdownTransition) - Simple and elegant Dropdown Transition for presenting controllers from top to bottom.
+*   [NavigationTransitions (⭐51)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
+*   [LiquidSwipe (⭐270)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
 
 ### Alert & Action Sheet
 
@@ -2785,6 +2793,7 @@ Most of these are paid services, some have free tiers.
 *   [Carbon (⭐1.2k)](https://github.com/ra1028/Carbon) - 🚴 A declarative library for building component-based user interfaces in UITableView and UICollectionView.
 *   [ThunderCollection (⭐4)](https://github.com/3sidedcube/ThunderCollection) - A simple declarative approach to UICollectionViewController management using a protocol-based approach.
 *   [DiffableDataSources (⭐761)](https://github.com/ra1028/DiffableDataSources) - A library for backporting UITableView/UICollectionViewDiffableDataSource.
+*   [StableCollectionViewLayout (⭐53)](https://github.com/aimalygin/StableCollectionViewLayout) - This layout adjusts a content offset if the collection view is updated. You can insert, delete or reload items and StableCollectionViewLayout will take care of the content offset.
 
 #### Expandable Cell
 
@@ -3267,6 +3276,7 @@ Most of these are paid services, some have free tiers.
 *   [App Store Checklist (⭐32)](https://github.com/whitef0x0/app-store-checklist) - A checklist of what to look for before submitting your app to the App Store.
 *   [whats-new-in-swift-4 (⭐1.8k)](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 *   [WWDC-Recap](https://erenkabakci.github.io/WWDC-Recap/) - A collection of session summaries in markdown format, from WWDC 19 & 17.
+*   [Awesome-ios](https://kandi.openweaver.com/swift/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem.
 
 ## Style Guides
 
@@ -3334,6 +3344,7 @@ Most of these are paid services, some have free tiers.
 *   [Awesome-Swift-Education (⭐5.5k)](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift.
 *   [Awesome-Swift-Playgrounds (⭐3.8k)](https://github.com/uraimo/Awesome-Swift-Playgrounds) - A List of Awesome Swift Playgrounds!
 *   [learn-swift (⭐783)](https://github.com/nettlep/learn-swift) - Learn Apple's Swift programming language interactively through these playgrounds.
+*   [SwiftUI Tutorials](https://JaneshSwift.com) - Learn SwiftUI & Swift for FREE.
 *   [Treehouse's iOS Courses and Workshops](https://teamtreehouse.com/library/topic:ios) - Topics for beginner and advanced developers in both Objective-C and Swift.
 *   [The Swift Summary Book (⭐1.7k)](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language written on Playgrounds.
 *   [Hacking With Swift](https://www.hackingwithswift.com) - Learn to code iPhone and iPad apps with 3 Swift tutorials.
@@ -3348,7 +3359,7 @@ Most of these are paid services, some have free tiers.
 
 *   [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)
 *   [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
-*   [iOS GUI by Facebook Design Resources](https://facebook.design/)
+*   [iOS 11 iPhone GUI from Design at Meta](https://design.facebook.com/toolsandresources/ios-11-iphone-gui/)
 
 ### Prototyping
 
@@ -3371,6 +3382,7 @@ Most of these are paid services, some have free tiers.
 *   [iOS Cookies Newsletter](https://us11.campaign-archive.com/home/?u=cd1f3ed33c6527331d82107ba\&id=532dc7fb64) - A weekly digest of new iOS libraries written in Swift.
 *   [Swift Developments](https://andybargh.com/swiftdevelopments/) - A weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, WatchOS and AppleTV apps using Swift.
 *   [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
+*   [Indie Watch](https://indie.watch/) - A weekly newsletter featuring the best apps made by indie iOS developers.
 
 ### Medium
 
@@ -3454,6 +3466,7 @@ Most of these are paid services, some have free tiers.
 *   [Awesome iOS Interview question list (⭐986)](https://github.com/dashvlas/awesome-ios-interview) - Guide for interviewers and interviewees. Review these iOS interview questions - and get some practical tips along the way.
 *   [Top App Developers (⭐1.4k)](https://github.com/app-developers/top) - A list of top iOS app developers.
 *   [awesome-ios-developer (⭐653)](https://github.com/jphong1111/awesome-ios-developer) - Useful knowledges and stuff for ios developer.
+*   [awesome-ios-books (⭐177)](https://github.com/bystritskiy/awesome-ios-books) - A list of books for iOS developers.
 
 ## Contributing and License
 

@@ -10,7 +10,7 @@ A collection of awesome Haskell links, frameworks, libraries and software. Inspi
 
 # Awesome Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome (⭐223k)](https://github.com/sindresorhus/awesome) projects line.
+An auxiliary list of awesome Haskell links, frameworks, libraries and software. The part of the [awesome (⭐229k)](https://github.com/sindresorhus/awesome) projects line.
 
 *   [Awesome Haskell](#awesome-haskell)
     *   [*Basics*](#basics)
@@ -61,15 +61,15 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 *   [Cabal](https://www.haskell.org/cabal/) - a system for building and packaging Haskell libraries and programs.
 *   [GHC](https://www.haskell.org/ghc/) - the state-of-the-art optimizing native code compiler for Haskell.
 *   [GHCi](https://downloads.haskell.org/\~ghc/latest/docs/html/users_guide/ghci.html) - a bytecode interpreter and interactive REPL environment for Haskell.
+*   [GHCup](https://www.haskell.org/ghcup) - GHCup is the main installer for the general purpose language Haskell.
 *   [Hackage](http://hackage.haskell.org/) - the Haskell community's central package archive.
 *   [Haddock](https://www.haskell.org/haddock/) - a tool for automatically generating documentation from annotated Haskell source code.
 *   [Happy](https://www.haskell.org/happy/) - The Parser Generator for Haskell.
 *   [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
 *   [Hoogle](https://www.haskell.org/hoogle/) - a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
-*   [hsenv (⭐123)](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
+*   [hsenv (⭐122)](https://github.com/Paczesiowa/hsenv/) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 *   [Stack (⭐3.8k)](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
-*   [Stackage (⭐488)](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
-*   [The Haskell Platform](https://www.haskell.org/platform/contents.html) - a comprehensive, robust development environment for programming in Haskell.
+*   [Stackage (⭐495)](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 
 ## Algorithmics
 
@@ -145,7 +145,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 ## Configuration
 
 *   [Deiko-config](http://hackage.haskell.org/package/deiko-config) - small typesafe library that uses [HOCON (⭐5.8k)](https://github.com/lightbend/config#features-of-hocon) config format
-*   [Dhall (⭐828)](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
+*   [Dhall (⭐837)](https://github.com/dhall-lang/dhall-haskell) - A configuration language guaranteed to terminate
 *   [Configurator](http://hackage.haskell.org/package/configurator) - A configuration management library which supports automatic, dynamic reloading in response to modifications to configuration files.
 
 ## Cryptography & Hashing
@@ -194,7 +194,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 *Additional libraries*
 
-*   [m2cgen (⭐2.2k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
+*   [m2cgen (⭐2.3k)](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
 
 ## Data Structures
 
@@ -306,8 +306,8 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 *Additional libraries*
 
-*   [HTTP (⭐170)](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
-*   [hoauth2 (⭐120)](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
+*   [HTTP (⭐171)](https://github.com/haskell/HTTP) - Haskell HTTP package. Supports client-side web programming in Haskell.
+*   [hoauth2 (⭐123)](https://github.com/freizl/hoauth2) - a lightweight oauth2 haskell binding.
 
 ## Text Processing
 
@@ -315,7 +315,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
-*   [SimpleX Chat (⭐1.8k)](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
+*   [SimpleX Chat (⭐2k)](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
 *   [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 *   [amqp (⭐122)](https://github.com/hreinhardt/amqp) - client library for AMQP servers (currently only RabbitMQ).
 *   [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
@@ -388,10 +388,10 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Streaming Processing
 
-*   [Conduit (⭐834)](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
+*   [Conduit (⭐845)](https://github.com/snoyberg/conduit) - a streaming data library. [Resources](http://hackage.haskell.org/packages/#cat:Conduit).
 *   [IO-Streams](http://hackage.haskell.org/packages/#cat:IO-Streams) - a collaborative Hackage list.
-*   [Pipes (⭐466)](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
-*   [HStreamDB (⭐552)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [Pipes (⭐471)](https://github.com/Gabriel439/Haskell-Pipes-Library) - is a clean and powerful stream processing library that lets you build and connect reusable streaming components. [Resources](http://hackage.haskell.org/packages/#cat:Pipes).
+*   [HStreamDB (⭐569)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
 # Resources
 

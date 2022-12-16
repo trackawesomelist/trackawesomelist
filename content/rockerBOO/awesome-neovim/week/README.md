@@ -20,6 +20,11 @@ Collections of awesome neovim plugins.
 
 *   [nyngwang/murmur.lua (⭐51)](https://github.com/nyngwang/murmur.lua) - Super-fast cursor word highlighting with callbacks(I call them murmurs) included.
 
+### Utility / Diagnostics
+
+*   [chrisgrieser/nvim-genghis (⭐46)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
+*   [chrisgrieser/nvim-recorder (⭐2)](https://github.com/chrisgrieser/nvim-recorder) - Simplifying and improving how you interact with macros.
+
 ### Terminal Integration / Diagnostics
 
 *   [nyngwang/NeoTerm.lua (⭐17)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.

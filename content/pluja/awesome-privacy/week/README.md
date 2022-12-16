@@ -6,6 +6,16 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### 2FA
+
+*   [ente Auth](https://ente.io/auth) - A free, cross platform, end-to-end encrypted and open source app for managing your 2-step verification tokens. From the makers of [ente Photos](https://ente.io), and uses the same battle tested infrastructure. Needs an ente.io account.
+
+### Decentralized social networks
+
+*   [Nostr (⭐1.8k)](https://github.com/nostr-protocol/nostr) - Simplest open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works.
+
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
 ### Pokemon
@@ -401,7 +411,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   Bit.ly
 *   [MagLit](https://maglit.me) - An encrypted and privacy respecting Link Shortener service that also supports Magnet Links.
 
-### Twitter
+### Alternative Twitter Frontends
 
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
 
@@ -411,13 +421,13 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Whoami Project (⭐1.5k)](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.
 
-### Twitter
+### Decentralized social networks
 
+*   [Mastodon](https://joinmastodon.org/) 🧩 - Free, federated microblogging social network built on open protocols.
+    *   [Mastodon Apps](https://joinmastodon.org/apps) - List of Mastodon apps for Android, iOS, Web and Desktop.
 *   [Pleroma](https://pleroma.social/) 🧩 - Pleroma is a free, federated social networking server built on open protocols.
     *   [Soapbox](https://gitlab.com/soapbox-pub/soapbox-fe) - A frontend for Pleroma with a focus on custom branding and ease of use.
     *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Husky](https://git.sr.ht/\~captainepoch/husky) - Android client for Pleroma and Mastodon.
-*   [Mastodon](https://joinmastodon.org/) 🧩 - Free, federated microblogging social network built on open protocols.
-    *   [Mastodon Apps](https://joinmastodon.org/apps) - List of Mastodon apps for Android, iOS, Web and Desktop.
 
 ### Video and Audio Conferencing / Alternative clients/modifications of Discord:
 
@@ -569,7 +579,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Beatbump (⭐487)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
 
-### Twitter
+### Alternative Twitter Frontends
 
 *   [Nitter (⭐6.4k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐983)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
@@ -618,7 +628,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Budget Zen](https://budgetzen.net) - Simple and Encrypted Budget Management.
 
-### Twitter
+### Alternative Twitter Frontends
 
 *   [Kizie](https://kizie.co) - Cleaner, better and privacy focussed Twitter client for Web.
 
