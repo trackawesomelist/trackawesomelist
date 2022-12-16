@@ -15,6 +15,11 @@ Collections of awesome neovim plugins.
 ### Project / Diagnostics
 
 *   [nyngwang/suave.lua (⭐3)](https://github.com/nyngwang/suave.lua) - Multi-tabs project session automation.
+*   [desdic/telescope-rooter.nvim (⭐7)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [ramojus/mellifluous.nvim (⭐51)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
 
 ### Cursorline / Diagnostics
 
@@ -762,7 +767,6 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [meliora-theme/neovim (⭐49)](https://github.com/meliora-theme/neovim) - Warm and cozy theme.
 *   [lewpoly/sherbet.nvim (⭐38)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and tree-sitter.
 
 ### Utility / Diagnostics

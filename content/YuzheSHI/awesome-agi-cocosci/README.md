@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 16, 2022](/content/2022/12/16/README.md)
+
+### System 1 & System 2 / Neural-Symbolic AI
+
+*   [Fast Abductive Learning by Similarity-based Consistency Optimization](https://proceedings.neurips.cc/paper/2021/hash/df7e148cabfd9b608090fa5ee3348bfe-Abstract.html) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8539963460239876225\&hl=en\&as_sdt=0,5)]. An approach for accelerating the convergence of Abductive Learning.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Concepts / Human Concept Representation

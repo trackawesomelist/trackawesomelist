@@ -870,6 +870,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Abductive Knowledge Induction From Raw Data](https://arxiv.org/pdf/2010.03514.pdf) - ***IJCAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7027142960863064076\&hl=en\&as_sdt=0,5)].
 
+*   [Fast Abductive Learning by Similarity-based Consistency Optimization](https://proceedings.neurips.cc/paper/2021/hash/df7e148cabfd9b608090fa5ee3348bfe-Abstract.html) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8539963460239876225\&hl=en\&as_sdt=0,5)]. An approach for accelerating the convergence of Abductive Learning.
+
 *   [Learning by Abstraction: The Neural State Machine](https://proceedings.neurips.cc/paper/2019/file/c20a7ce2a627ba838cfbff082db35197-Paper.pdf) - ***NeurIPS'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7361406080192630148\&hl=en\&as_sdt=0,5)].
 
 *   [Making sense of sensory input](https://www.sciencedirect.com/science/article/pii/S0004370220301855) - ***Artificial Intelligence***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11875529139573472578\&hl=en\&as_sdt=0,5)].
@@ -969,8 +971,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *   [Individual differences among deep neural network models](https://kriegeskortelab.zuckermaninstitute.columbia.edu/sites/default/files/content/MehrerKietzmann_2020_NatureComms.pdf) - ***Nature Communications***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=8259893575188417318\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 \*[Back to Top](#c)
-
-<span id = "ei"></span>
 
 ### Embodied Intelligence
 
@@ -1375,8 +1375,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 
 \*[Back to Top](#c)
-
-<span id = "anl"></span>
 
 ### Analogy
 

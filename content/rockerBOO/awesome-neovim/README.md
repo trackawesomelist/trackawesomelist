@@ -8,6 +8,14 @@ Collections of awesome neovim plugins.
 
 ## [Dec 16, 2022](/content/2022/12/16/README.md)
 
+### Project / Diagnostics
+
+*   [desdic/telescope-rooter.nvim (⭐7)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [ramojus/mellifluous.nvim (⭐51)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
+
 ### Utility / Diagnostics
 
 *   [chrisgrieser/nvim-genghis (⭐46)](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations, written in Lua.
@@ -885,12 +893,6 @@ Collections of awesome neovim plugins.
 ### Resource / Diagnostics
 
 *   [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching specific plugins and guides for building plugins in Lua.
-
-## [Jul 18, 2022](/content/2022/07/18/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [meliora-theme/neovim (⭐49)](https://github.com/meliora-theme/neovim) - Warm and cozy theme.
 
 ## [Jul 14, 2022](/content/2022/07/14/README.md)
 
