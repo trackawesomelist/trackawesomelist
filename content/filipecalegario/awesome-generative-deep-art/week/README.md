@@ -31,6 +31,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [pyttitools-PYTTI.ipynb - Colaboratory](https://colab.research.google.com/github/pytti-tools/pytti-notebook/blob/main/pyttitools-PYTTI.ipynb)
 
+### Online Tools and Applications / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
+
 ### Inbox / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [Scenario AI](https://www.scenario.gg/): AI-generated game assets
@@ -53,6 +57,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 ### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [HyperWrite](https://hyperwriteai.com/): a personal writing assistant with suggestions and sentence completions
+
+### Papers and references for reading and understanding / OpenAI GPT-3
+
+*   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 

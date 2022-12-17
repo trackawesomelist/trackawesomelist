@@ -6,6 +6,16 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Dec 17, 2022](/content/2022/12/17/README.md)
+
+### Online Tools and Applications / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [AnimalAI](https://animalai.co/): custom AI-generated animal portraits (profits are directed to various wildlife conservation organizations)
+
+### Papers and references for reading and understanding / OpenAI GPT-3
+
+*   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
+
 ## [Dec 16, 2022](/content/2022/12/16/README.md)
 
 ### Stable Diffusion Inbox

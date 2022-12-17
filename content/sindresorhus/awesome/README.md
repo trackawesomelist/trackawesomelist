@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Dec 17, 2022](/content/2022/12/17/README.md)
+
+### Business
+
+*   [Engineering Strategy (⭐153)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Front-End Development
