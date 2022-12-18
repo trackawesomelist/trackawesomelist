@@ -772,6 +772,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [mcauley-penney/tidy.nvim (⭐75)](https://github.com/mcauley-penney/tidy.nvim) - Clear trailing whitespace and empty lines at end of file on every save.
 *   [MunifTanjim/prettier.nvim (⭐101)](https://github.com/MunifTanjim/prettier.nvim) - Prettier integration.
 *   [echasnovski/mini.nvim#mini.align (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-align.md) - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
+*   [emileferreira/nvim-strict (⭐1)](https://github.com/emileferreira/nvim-strict) - Strictly enforce configurable, best-practice code style by exposing deep nesting, overlong lines, trailing whitespace, trailing empty lines and inconsistent indentation.
 
 #### Indent
 

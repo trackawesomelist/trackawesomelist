@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Dec 18, 2022](/content/2022/12/18/README.md)
+
+### Databases
+
+*   [Supabase (⭐104)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+
 ## [Dec 17, 2022](/content/2022/12/17/README.md)
 
 ### Business

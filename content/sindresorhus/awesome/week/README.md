@@ -8,6 +8,10 @@
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
+### Databases
+
+*   [Supabase (⭐104)](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+
 ### Business
 
 *   [Engineering Strategy (⭐153)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.

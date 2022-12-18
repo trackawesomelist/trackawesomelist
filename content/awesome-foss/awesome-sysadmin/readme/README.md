@@ -16,7 +16,11 @@ A curated list of amazingly awesome open source sysadmin resources.
 
 # Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Pull Request template](https://github.com/awesome-foss/awesome-sysadmin/blob/master/README.md/./.github/PULL_REQUEST_TEMPLATE.md) if you wish to add software and consider [donating (⭐21)](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
+**A curated list of amazingly awesome Free and Open-Source sysadmin resources.** Please read the [Pull Request template](https://github.com/awesome-foss/awesome-sysadmin/blob/master/README.md/./.github/PULL_REQUEST_TEMPLATE.md) if you wish to add software and consider [donating (⭐22)](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
+
+***
+
+## Table of contents
 
 *   [Awesome Sysadmin](#awesome-sysadmin)
     *   [Automation](#automation)
@@ -27,9 +31,9 @@ A curated list of amazingly awesome open source sysadmin resources.
     *   [Cloning](#cloning)
     *   [Cloud Computing](#cloud-computing)
     *   [Cloud Orchestration](#cloud-orchestration)
-    *   Cloud Storage: [see awesome-selfhosted#file-transfersynchronization (⭐108k)](https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization)
+    *   Cloud Storage: [see awesome-selfhosted#file-transfersynchronization (⭐112k)](https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization)
     *   [Code Review](#code-review)
-    *   Collaborative Software: [see awesome-selfhosted#groupware (⭐108k)](https://github.com/Kickball/awesome-selfhosted#groupware)
+    *   Collaborative Software: [see awesome-selfhosted#groupware (⭐112k)](https://github.com/Kickball/awesome-selfhosted#groupware)
     *   [Configuration Management Database](#configuration-management-database)
     *   [Configuration Management](#configuration-management)
     *   [Continuous Integration & Continuous Deployment](#continuous-integration--continuous-deployment)
@@ -44,7 +48,7 @@ A curated list of amazingly awesome open source sysadmin resources.
     *   [IT Asset Management](#it-asset-management)
     *   [Log Management](#log-management)
     *   [Mail Clients](#mail-clients)
-    *   Mail servers/webmail: [see awesome-selfhosted#email (⭐107k)](https://github.com/kickball/awesome-selfhosted#email)
+    *   Mail servers/webmail: [see awesome-selfhosted#email (⭐112k)](https://github.com/kickball/awesome-selfhosted#email)
     *   [Monitoring](#monitoring)
     *   [Metric & Metric Collection](#metric--metric-collection)
     *   [Network Configuration Management](#network-configuration-management)
@@ -55,20 +59,20 @@ A curated list of amazingly awesome open source sysadmin resources.
     *   [Queuing](#queuing)
     *   [RDBMS](#rdbms)
     *   [Remote Management](#remote-management)
-    *   Security: [see awesome-security (⭐9.1k)](https://github.com/sbilly/awesome-security)
+    *   Security: [see awesome-security (⭐9.2k)](https://github.com/sbilly/awesome-security)
     *   [Service Discovery](#service-discovery)
     *   [Software Containers](#software-containers)
-    *   SSH: [see awesome-ssh (⭐2k)](https://github.com/moul/awesome-ssh)
-    *   Statistics: [see awesome-selfhosted#analytics (⭐108k)](https://github.com/Kickball/awesome-selfhosted#analytics)
+    *   SSH: [see awesome-ssh (⭐2.1k)](https://github.com/moul/awesome-ssh)
+    *   Statistics: [see awesome-selfhosted#analytics (⭐112k)](https://github.com/Kickball/awesome-selfhosted#analytics)
     *   [Status Pages](#status-pages)
-    *   Ticketing systems: [see awesome-selfhosted#ticketing (⭐108k)](https://github.com/Kickball/awesome-selfhosted#ticketing)
+    *   Ticketing systems: [see awesome-selfhosted#ticketing (⭐112k)](https://github.com/Kickball/awesome-selfhosted#ticketing)
     *   [Troubleshooting](#troubleshooting)
     *   [Version control](#version-control)
     *   [Virtualization](#virtualization)
     *   [VPN](#vpn)
-    *   XMPP: [see awesome-selfhosted#xmpp (⭐108k)](https://github.com/Kickball/awesome-selfhosted#xmpp)
+    *   XMPP: [see awesome-selfhosted#xmpp (⭐112k)](https://github.com/Kickball/awesome-selfhosted#xmpp)
     *   [Web](#web)
-    *   Wiki Software: [see awesome-selfhosted#wikis (⭐108k)](https://github.com/Kickball/awesome-selfhosted#wikis), Sysadmin Wikis: [see #wikis](#wikis)
+    *   Wiki Software: [see awesome-selfhosted#wikis (⭐112k)](https://github.com/Kickball/awesome-selfhosted#wikis), Sysadmin Wikis: [see #wikis](#wikis)
 *   [Resources](#resources)
     *   [Blogs](#blogs)
     *   [Books](#books)
@@ -78,7 +82,11 @@ A curated list of amazingly awesome open source sysadmin resources.
     *   [Websites](#websites)
     *   [Wikis](#wikis)
 
-## Automation
+***
+
+## Software
+
+### Automation
 
 *Automation build.*
 
@@ -90,31 +98,31 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Rake (⭐2.2k)](https://github.com/ruby/rake) - Build automation tool similar to Make, written in and extensible in Ruby.
 *   [Bolt](https://puppet.com/products/bolt) - You can use Bolt to run one-off tasks, scripts to automate the provisioning and management of some nodes, you can use Bolt to move a step beyond scripts, and make them shareable.
 
-## Backups
+### Backups
 
-*Backup software.* Also see [Restic's list of Linux backup software (⭐515)](https://github.com/restic/others).
+*Backup software.* Also see [Restic's list of Linux backup software (⭐530)](https://github.com/restic/others).
 
 *   [Amanda](http://www.amanda.org/) - Client-server model backup tool.
 *   [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
 *   [BackupPC](https://backuppc.github.io/backuppc/) - BackupPC is a high-performance system for backing up to disk.
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system.
 *   [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
-*   [BorgBackup (⭐8.8k)](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
+*   [BorgBackup (⭐8.9k)](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
 *   [Burp](http://burp.grke.org/) - Network backup and restore program.
 *   [Duplicati](http://www.duplicati.com) - Multiple backends, encryption, web-ui and multi-OS backup tool.
 *   [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
-*   [Elkarbackup (⭐346)](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
+*   [Elkarbackup (⭐353)](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
 *   [rclone](https://rclone.org/) - a command line program to sync files and directories to and from several cloud storage systems/providers.
 *   [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
 *   [Restic](https://restic.net/) - Secure, remote backup tool. Designed to be easy, fast, verifiable and efficient.
 *   [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
-*   [Shield (⭐289)](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
+*   [Shield (⭐291)](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
 *   [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
 *   [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
 *   [DREBS (⭐35)](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
 *   [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
-## Build and software organization tools
+### Build and software organization tools
 
 *Build and software organization tools.*
 
@@ -123,7 +131,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) - HPCBIOS is an effort to setup a common, well-documented and reproducible, environment spanning across multiple HPC systems & sites, *inclusive* of documentation.
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
-## ChatOps
+### ChatOps
 
 *Conversation-driven development and management. See <https://www.reddit.com/r/chatops> for more information.*
 
@@ -135,7 +143,7 @@ A curated list of amazingly awesome open source sysadmin resources.
 *   [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
 *   [Abot (⭐2.2k)](https://github.com/itsabot/abot) - A digital assistant framework in Go.
 
-## Client management
+### Client management
 
 Managing software on desktop computers.
 
@@ -147,14 +155,14 @@ Managing software on desktop computers.
 *   [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) - Network-wide (un)installation, configuration and upgrades of Windows based software.
 *   [WPKG](http://wpkg.org/) - Software deployment, upgrade and removal program for Windows.
 
-## Cloning
+### Cloning
 
 *Cloning software.*
 
 *   [Clonezilla](http://clonezilla.org/) - Partition and disk imaging/cloning program.
 *   [Fog](https://www.fogproject.org/) - Another computer cloning solution.
 
-## Cloud Computing
+### Cloud Computing
 
 *   [AppScale (⭐2.4k)](https://github.com/AppScale/appscale) - Cloud software with Google App Engine compatibility.
 *   [Archipel](http://archipelproject.org/) - Manage and supervise virtual machines using Libvirt.
@@ -169,7 +177,7 @@ Managing software on desktop computers.
 *   [The Foreman](http://theforeman.org/) - Complete lifecycle management tool for physical and virtual servers. FOSS.
 *   [Tsuru](https://tsuru.io) - Tsuru is an extensible Platform as a Service software.
 
-## Cloud Orchestration
+### Cloud Orchestration
 
 *   [BOSH](http://bosh.io/docs/) - IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 *   [Cloud Foundry](https://www.cloudfoundry.org/) - A Platform-as-a-Service suite to provide the orchestration services that make distributed apps a powerhouse of awesomeness.
@@ -177,17 +185,17 @@ Managing software on desktop computers.
 *   [CloudSlang](http://www.cloudslang.io/) - Flow-based orchestration tool for managing deployed applications, with Docker capabilities.
 *   [Genesis (⭐55)](https://github.com/starkandwayne/genesis) - A template framework for multi-environment BOSH deployments.
 *   [Juju](https://jujucharms.com/) - Cloud orchestration tool which manages services as charms, YAML configuration and deployment script bundles.
-*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐94k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache` `Go`
+*   [Kubernetes](http://kubernetes.io/) - Orchestration system for Docker containers - ([Source Code (⭐94k)](https://github.com/kubernetes/kubernetes), [Documentation](http://kubernetes.io/docs/)) `Apache-2.0` `Go`
 *   [MCollective](https://puppet.com/mcollective) - Ruby framework to manage server orchestration, developed by Puppet labs.
 *   [Nomad](https://www.nomadproject.io) - Simple and flexible orchestrator for Docker, Podman, executables, Java, and QEMU - ([Source Code (⭐13k)](https://github.com/hashicorp/nomad), [Documentation](https://www.nomadproject.io/docs)) `MPL-2.0` `Go`
 *   [Overcast](http://andrewchilds.github.io/overcast/) - Deploy VMs across different cloud providers, and run commands and scripts across any or all of them in parallel via SSH.
 *   [Rundeck](http://rundeck.org/) - Simple orchestration tool.
 *   [Salt](http://saltstack.com/) - Fast, scalable and flexible systems management software written in Python/ZeroMQ.
-*   [Spruce (⭐364)](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis (⭐55)](https://github.com/starkandwayne/genesis).
+*   [Spruce (⭐369)](https://github.com/geofffranks/spruce) - A tool that merges separate YAML files into one.  Works well with [Genesis (⭐55)](https://github.com/starkandwayne/genesis).
 *   [StackStorm](https://stackstorm.com/) - Event Driven Operations and ChatOps platform for infrastructure management. Written in Python.
 *   [Terraform](https://www.terraform.io/) - Terraform works with many cloud providers and creates infrastructure from code.
 
-## Code Review
+### Code Review
 
 *Web Based collaborative code review system.*
 
@@ -195,7 +203,7 @@ Managing software on desktop computers.
 *   [Phabricator](http://phabricator.org/) - Code review tool build by facebook and used by WikiMedia, FB, dropbox etc. Comes with an integrated wiki, bug tracker, VC integration and a CLI tool called arcanist.
 *   [Review Board](https://www.reviewboard.org/) - Available as free software under the MIT License.
 
-## Configuration Management Database
+### Configuration Management Database
 
 Configuration management database (CMDB) software.
 
@@ -203,11 +211,11 @@ Configuration management database (CMDB) software.
 
 *   [i-doit](http://www.i-doit.org/) - IT Documentation and CMDB.
 *   [iTop](http://www.combodo.com/itop-193) - Complete ITIL web based service management tool.
-*   [Clusto (⭐289)](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
+*   [Clusto (⭐290)](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 *   [Collins](http://tumblr.github.io/collins/) - At Tumblr, it's the infrastructure source of truth and knowledge.
-*   [netbox (⭐11k)](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool
+*   [netbox (⭐12k)](https://github.com/digitalocean/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool
 
-## Configuration Management
+### Configuration Management
 
 *Configuration management tools.*
 
@@ -218,27 +226,27 @@ Configuration management database (CMDB) software.
 *   [Puppet](https://puppet.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
 *   [Salt](http://saltstack.com/) - It's written in Python.
 
-## Continuous Integration & Continuous Deployment
+### Continuous Integration & Continuous Deployment
 
 *Continuous integration/deployment software.*
 
-*   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐4.9k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
+*   [Buildbot](http://buildbot.net/) - Python-based toolkit for continuous integration. ([Source Code (⭐5k)](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 *   [CapsuleCD](https://analogj.github.io/capsulecd-slides/) - CD script for automating package/library releases (npm, cookbooks, gems, pip, jars, etc). ([Source Code (⭐96)](https://github.com/AnalogJ/capsulecd)) `MIT` `Go`
-*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform  ([Source Code (⭐4k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
-*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐6.6k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
+*   [CDS](https://ovh.github.io/cds/) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform. ([Source Code (⭐4k)](https://github.com/ovh/cds)) `BSD-3-Clause` `Go`
+*   [Concourse](https://concourse-ci.org/) - Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ([Demo](https://ci.concourse-ci.org/), [Source Code (⭐6.7k)](https://github.com/concourse/concourse)) `Apache-2.0` `Go`
 *   [drone](https://drone.io/) - Drone is a Continuous Delivery platform built on Docker, written in Go. ([Source Code (⭐26k)](https://github.com/drone/drone)) `Apache-2.0` `Go`
-*   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐81)](https://github.com/factor-io/factor)) `MIT` `Ruby`
-*   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce) `MIT` `Ruby`
-*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.6k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
+*   [Factor](http://www.factor.io/) - Programmatically define and run workflows to connect configuration management, source code management, build, continuous integration, continuous deployment and communication tools. ([Source Code (⭐82)](https://github.com/factor-io/factor)) `MIT` `Ruby`
+*   [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Gitlab's built-in, full-featured CI/CD solution. ([Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`
+*   [GoCD](http://www.go.cd/) - Continuous delivery server. ([Source Code (⭐6.7k)](https://github.com/gocd/gocd)) `Apache-2.0` `Java/Ruby`
 *   [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code (⭐54)](https://github.com/golangci/golangci)) `AGPL-3.0` `Go`
 *   [Jenkins](https://jenkins-ci.org/) - Continuous Integration Server. ([Source Code (⭐20k)](https://github.com/jenkinsci/jenkins/)) `MIT` `Java`
-*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐236)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
-*   [PHP Censor (⭐658)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
+*   [Laminar](http://laminar.ohwg.net) - Fast, lightweight, simple and flexible Continuous Integration. ([Source Code (⭐241)](https://github.com/ohwgiles/laminar)) `GPL-3.0` `C++`
+*   [PHP Censor (⭐660)](https://github.com/php-censor/php-censor) - Open source self-hosted continuous integration server for PHP projects. `BSD-2-Clause` `PHP`
 *   [PHPCI](https://www.phptesting.org/) - Free and open source continuous integration specifically designed for PHP. ([Source Code (⭐2.4k)](https://github.com/block8/phpci)) `BSD-2-Clause` `PHP`
 *   [Strider](http://strider-cd.github.io/) - Open Source Continuous Deployment / Continuous Integration platform. ([Source Code (⭐4.6k)](https://github.com/Strider-CD/strider)) `MIT` `Nodejs`
 *   [werf](https://werf.io/) - Open Source CI/CD tool for building Docker images and deploying to Kubernetes via GitOps. ([Source Code (⭐3.4k)](https://github.com/werf/werf)) `Apache-2.0` `Go`
 
-## Control Panels
+### Control Panels
 
 *Web hosting and server or service control panels.*
 
@@ -254,15 +262,14 @@ Configuration management database (CMDB) software.
     *   [PDNS Gui (⭐26)](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
     *   [Pi-hole](https://pi-hole.net/) - A blackhole for Internet Advertisements with a gui for managing and monitoring
     *   [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
-*   Revision Control: see [awesome-selfhosted#project-management (⭐108k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
 *   Virtualization
-    *   [OpenVZ Web Panel (⭐287)](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
+    *   [OpenVZ Web Panel (⭐288)](https://github.com/sibprogrammer/owp) - Web panel to control OpenVZ virtual machines.
 *   Server
     *   [Ajenti](http://ajenti.org/) - Control panel for Linux and BSD.
     *   [Cockpit](http://cockpit-project.org/) - New multi-server web interface for Linux servers written in C.
     *   [Webmin](http://www.webmin.com/) - Linux server control panel.
 
-## Deployment Automation
+### Deployment Automation
 
 *Tools and scripts to support deployments to your servers.*
 
@@ -272,9 +279,9 @@ Configuration management database (CMDB) software.
 *   [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
 *   [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 *   [sup (⭐2.4k)](https://github.com/pressly/sup/) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
-*   [Vlad the Deployer (⭐351)](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
+*   [Vlad the Deployer (⭐352)](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
 
-## Diagramming
+### Diagramming
 
 *Tools used to create diagrams of networks, flows, etc.*
 
@@ -282,7 +289,7 @@ Configuration management database (CMDB) software.
 *   [Mermaid](https://mermaid-js.github.io/mermaid-live-editor/) - Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana.
 *   [Diagrams.net](https://app.diagrams.net/) - A.K.A. [Draw.io](https://app.diagrams.net/). Easy to use Diagram UI with a plethora of templates.
 
-## Distributed Filesystems
+### Distributed Filesystems
 
 *Network distributed filesystems.*
 
@@ -290,10 +297,10 @@ Configuration management database (CMDB) software.
 *   [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
 *   [LeoFS](http://leo-project.net) - Unstructured object/data storage and a highly available, distributed, eventually consistent storage system.
 *   [GlusterFS](http://www.gluster.org/) - Scale-out network-attached storage file system.
-*   [Go IPFS (⭐14k)](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
+*   [Go IPFS (⭐15k)](https://github.com/ipfs/go-ipfs) - Implementation of [IPFS](http://ipfs.io/), a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
 *   [HDFS](http://hadoop.apache.org/) - Distributed, scalable, and portable file-system written in Java for the Hadoop framework.
 *   [Lustre](http://lustre.org/) - Parallel distributed file system, generally used for large-scale cluster computing.
-*   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐36k)](https://github.com/minio/minio)) `Apache-2.0` `Go`
+*   [Minio](https://minio.io/) - Minio is an open source object storage server compatible with Amazon S3 APIs. ([Source Code (⭐37k)](https://github.com/minio/minio)) `Apache-2.0` `Go`
 *   [MooseFS](http://www.moosefs.org/) - Fault tolerant, network distributed file system.
 *   [OpenAFS](http://www.openafs.org/) - Distributed network file system with read-only replicas and multi-OS support.
 *   [Ori Filesystem](http://ori.scs.stanford.edu/) - A Secure Distributed File System built for offline operation.
@@ -303,7 +310,7 @@ Configuration management database (CMDB) software.
 *   [TahoeLAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - secure, decentralized, fault-tolerant, peer-to-peer distributed data store and distributed file system.
 *   [XtreemFS](http://www.xtreemfs.org/) - XtreemFS is a fault-tolerant distributed file system for all storage needs.
 
-## DNS
+### DNS
 
 *DNS servers.*
 
@@ -318,7 +325,7 @@ Configuration management database (CMDB) software.
 *   [Unbound](http://unbound.net/) - Validating, recursive, and caching DNS resolver.
 *   [Yadifa](http://www.yadifa.eu/) - Lightweight authoritative Name Server with DNSSEC capabilities powering the .eu top-level domain.
 
-## Domains
+### Domains
 
 *Domain management.*
 
@@ -326,11 +333,11 @@ Configuration management database (CMDB) software.
 *   [DomainMOD](https://domainmod.org) - Manage your domains and other internet assets in a central location.
 *   [octoDNS (⭐2.5k)](https://github.com/github/octodns) - Set of tools and patterns that make it easy to manage your DNS records across multiple providers.
 
-## Editors
+### Editors
 
 *Open source code editors.*
 
-*   [Atom Community (⭐428)](https://github.com/atom-community/atom) - A fork of [atom (⭐59k)](https://github.com/atom/atom) A hackable text editor from Github.
+*   [Atom Community (⭐502)](https://github.com/atom-community/atom) - A fork of [atom (⭐59k)](https://github.com/atom/atom) A hackable text editor from Github.
 *   [Brackets](http://brackets.io/) - Code editor for web designers and front-end developers.
 *   [Eclipse](http://www.eclipse.org/) - IDE written in Java with an extensible plug-in system.
 *   [Geany](http://www.geany.org/) - GTK2 text editor.
@@ -344,14 +351,14 @@ Configuration management database (CMDB) software.
 *   [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
 *   [TextMate (⭐14k)](https://github.com/textmate/textmate/) - A graphical text editor for OS X.
 *   [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
-*   [VSCodium (⭐18k)](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
+*   [VSCodium (⭐19k)](https://github.com/VSCodium/vscodium) - An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
 *   [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
 
-## Identity Management
+### Identity Management
 
 *LDAP servers and other tools to manage accounts and identities.*
 
-### LDAP
+### Identity Management - LDAP
 
 *   [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
 *   [Apache Directory Server](http://directory.apache.org/) - Apache Software Foundation project written in Java.
@@ -361,7 +368,7 @@ Configuration management database (CMDB) software.
 *   [OpenLDAP](http://www.OpenLDAP.org/) - Developed by the OpenLDAP Project.
 *   [FreeIPA](http://www.freeipa.org/) - Based on 389-DS. Includes Kerberos, DNS, as well as host based access control.
 
-### Tools and web interfaces
+### Identity Management - Tools and web interfaces
 
 *   [Fusion Directory](https://www.fusiondirectory.org) - Improve the Management of the services and the company directory based on OpenLDAP.
 *   [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
@@ -372,33 +379,33 @@ Configuration management database (CMDB) software.
 *   [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
 *   [Samba](https://www.samba.org/) – Active Directory and CIFS protocol implementation.
 *   [BounCA](https://bounca.org/) - A personal SSL Key / Certificate Authority web-based tool for creating self-signed certificates.
-*   [easy-rsa (⭐3.3k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
+*   [easy-rsa (⭐3.4k)](https://github.com/OpenVPN/easy-rsa) - bash script to build and manage a PKI CA.
 *   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management.
-*   [ZITADEL (⭐1.7k)](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
+*   [ZITADEL (⭐1.8k)](https://github.com/caos/zitadel) - Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management.
 
-### Single Sign-On (SSO)
+### Identity Management - Single Sign-On (SSO)
 
-*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management ([Source Code (⭐14k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
+*   [KeyCloak](https://www.keycloak.org) - Open Source Identity and Access Management. ([Source Code (⭐14k)](https://github.com/keycloak/keycloak)) `Apache-2.0` `Java`
 
-## IT Asset Management
+### IT Asset Management
 
 *IT Assets Management software.*
 
 *   [GLPI](https://www.glpi-project.org/) - Information Resource-Manager with an additional Administration Interface.
 *   [OCS Inventory NG](https://ocsinventory-ng.org/) - Asset management and deployment solution for all devices in your IT Department. ([Source Code](https://github.com/OCSInventory-NG)) `GPL-2.0` `PHP/Perl`
 *   [OPSI](http://www.opsi.org) - Hardware and software inventory, client management, deployment, and patching for Linux and Windows. ([Source Code](https://github.com/opsi-org/)) `GPL-3.0/AGPL-3.0` `OVF/Python`
-*   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐635)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
+*   [RackTables](http://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Source Code (⭐639)](https://github.com/RackTables/racktables), [Demo](https://www.racktables.org/demo.php)) `GPL-2.0` `PHP`
 *   [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Source Code (⭐1.9k)](https://github.com/allegro/ralph), [Demo (⭐1.9k)](https://github.com/allegro/ralph#live-demo)) `Apache-2.0` `Python/Docker`
-*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐7k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
+*   [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code (⭐7.1k)](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
 
-## Log Management
+### Log Management
 
 *Log management tools: collect, parse, visualize ...*
 
 *   [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 *   [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
 *   [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
-*   [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐15k)](https://github.com/allinurl/goaccess)) `MIT` `C`
+*   [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code (⭐16k)](https://github.com/allinurl/goaccess)) `MIT` `C`
 *   [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
 *   [Hindsight](http://mozilla-services.github.io/hindsight/) - Stream processing system which may be used for log aggregation (Replaces Heka).
 *   [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
@@ -406,7 +413,7 @@ Configuration management database (CMDB) software.
 *   [Loki](https://grafana.com/oss/loki/) - horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 *   [Octopussy](http://www.octopussy.pm) - Log Management Solution (Visualize / Alert / Report).
 
-## Mail Clients
+### Mail Clients
 
 *   [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
 *   [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
@@ -415,19 +422,19 @@ Configuration management database (CMDB) software.
 *   [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
 *   [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
-## Monitoring
+### Monitoring
 
 *Monitoring software.*
 
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface, [SourceCode (⭐331)](https://github.com/opinkerfi/adagios), [Documentation (⭐331)](https://github.com/opinkerfi/adagios/wiki))
 *   [Alerta (⭐2.2k)](https://github.com/guardian/alerta) - Distributed, scaleable and flexible monitoring system.
-*   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPLv3` `Perl`
+*   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. `GPL-3.0` `Perl`
 *   [bolo](http://bolo.niftylogic.com/) - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
 *   [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code (⭐3.3k)](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
 *   [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
 *   [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-*   [cadvisor (⭐14k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code (⭐14k)](https://github.com/google/cadvisor)) `Apache` `Go`
-*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐834)](https://github.com/tribe29/checkmk)) `Python/PHP`
+*   [cadvisor (⭐14k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code (⭐14k)](https://github.com/google/cadvisor)) `Apache-2.0` `Go`
+*   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐865)](https://github.com/tribe29/checkmk)) `Python/PHP`
 *   [Dash (⭐10k)](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 *   [EdMon (⭐4)](https://github.com/Edraens/EdMon) - A command-line monitoring application helping you to check that your hosts and services are available, with notifications support. `MIT` `Java`
 *   [ElastiFlow (⭐2.4k)](https://github.com/robcowart/elastiflow) - Network flow Monitoring (Netflow, sFlow and IPFIX) with the Elastic Stack.
@@ -441,7 +448,7 @@ Configuration management database (CMDB) software.
 *   [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
 *   [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
 *   [Netdata](https://www.netdata.cloud/) - Distributed, real-time, performance and health monitoring for systems and applications. Runs on Linux, FreeBSD, and MacOS.
-*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐130)](https://github.com/netxms/netxms))
+*   [NetXMS](https://www.netxms.org/) - Open Source network and infrastructure monitoring and management. ([Source Code (⭐131)](https://github.com/netxms/netxms))
 *   [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
 *   [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
 *   [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework.
@@ -451,10 +458,10 @@ Configuration management database (CMDB) software.
 *   [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
 *   [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 *   [rtop (⭐2k)](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
-*   [Scrutiny (⭐1.8k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+*   [Scrutiny (⭐2.2k)](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 *   [Sensu](https://sensuapp.org/) - Monitoring framework.
-*   [ServerStatus BotoX (⭐775)](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
-*   [ServerStatus moejda (⭐354)](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
+*   [ServerStatus BotoX (⭐782)](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
+*   [ServerStatus moejda (⭐355)](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
 *   [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
 *   [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
 *   [Vector (⭐3.6k)](https://github.com/Netflix/vector/) - An on-host performance monitoring framework.
@@ -464,7 +471,7 @@ Configuration management database (CMDB) software.
 
 ### Status Pages
 
-**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐108k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
+**Please visit [awesome-selfhosted/Status / Uptime Pages (⭐111k)](https://github.com/awesome-selfhosted/awesome-selfhosted#status--uptime-pages)**
 
 ### Metric & Metric Collection
 
@@ -474,7 +481,7 @@ Configuration management database (CMDB) software.
     *   [Diamond (⭐1.7k)](https://github.com/python-diamond/Diamond) - Python based statistic collection daemon.
     *   [Collectd](http://collectd.org/) - System statistic collection daemon.
     *   [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
-    *   [PGObserver (⭐310)](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
+    *   [PGObserver (⭐313)](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
     *   [Statsd (⭐17k)](https://github.com/etsy/statsd/) - Application statistic listener.
     *   [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
     *   [Telegraf (⭐12k)](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
@@ -496,9 +503,9 @@ Configuration management database (CMDB) software.
     *   [Graphite](http://graphite.readthedocs.org/en/latest/) - Scalable graphing server.
     *   [Packetbeat](https://www.elastic.co/products/beats) - Captures network traffic and displays it in a custom Kibana dashboard for easy viewing.
     *   [Prometheus](http://prometheus.io/) - Service monitoring system and time series database.
-    *   [VictoriaMetrics (⭐7.4k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
+    *   [VictoriaMetrics (⭐7.5k)](https://github.com/VictoriaMetrics/VictoriaMetrics) - Service monitoring system and time series database.
 
-## Network Configuration Management
+### Network Configuration Management
 
 *Network configuration management tools.*
 
@@ -507,9 +514,9 @@ Configuration management database (CMDB) software.
 *   [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
 *   [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
 *   [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
-*   [trigger (⭐547)](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
+*   [trigger (⭐548)](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
 
-## Newsletters
+### Newsletters
 
 *Newsletter software.*
 
@@ -518,7 +525,7 @@ Configuration management database (CMDB) software.
 *   [LibreMailer (⭐24)](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
 *   [Lewsnetter (⭐315)](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
-## NoSQL
+### NoSQL
 
 *NoSQL databases.*
 
@@ -543,19 +550,21 @@ Configuration management database (CMDB) software.
 
 Comparison of NoSQL servers: <http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis>
 
-## Packaging
+### Packaging
 
-*   [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code (⭐2.2k)](https://github.com/aptly-dev/aptly)) `MIT` `Go`
+*   [aptly](https://www.aptly.info/) - Swiss army knife for Debian repository management. ([Source Code (⭐2.3k)](https://github.com/aptly-dev/aptly)) `MIT` `Go`
 *   [fpm (⭐11k)](https://github.com/jordansissel/fpm) - Versatile multi format package creator.
 *   [omnibus-ruby (⭐1.2k)](https://github.com/chef/omnibus) - Full stack, cross distro packaging software (Ruby).
 *   [packman](http://packman.readthedocs.org) - Full stack, cross distro packaging software (Python).
 *   [tito (⭐354)](https://github.com/dgoodwin/tito) - Builds RPMs for git-based projects.
 
-## Project Management
+### Project Management
 
-*Web-based project management and bug tracking systems*: see [https://github.com/awesome-selfhosted/awesome-selfhosted#project-management (⭐108k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)
+*Web-based project management and bug tracking systems*
 
-## Queuing
+**Please visit [awesome-selfhosted/Project Management (⭐111k)](https://github.com/awesome-selfhosted/awesome-selfhosted#project-management)**
+
+### Queuing
 
 *   [ActiveMQ](https://activemq.apache.org/) - Java message broker.
 *   [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
@@ -565,7 +574,7 @@ Comparison of NoSQL servers: <http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-
 *   [RabbitMQ](http://www.rabbitmq.com/) - Robust, fully featured, cross distro queuing system.
 *   [ZeroMQ](http://zeromq.org/) - Lightweight queuing system.
 
-## RDBMS
+### RDBMS
 
 *Relational DBMS.*
 
@@ -578,20 +587,20 @@ Comparison of NoSQL servers: <http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-
 *   [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.
 *   [SQLite](http://sqlite.org/) - Library that implements a self-contained, serverless, zero-configuration, transactional SQL DBS.
 
-## Remote Management
+### Remote Management
 
 *   [Remmina](http://www.remmina.org/wp/) - A Feature rich remote desktop application for linux  and other unixes.
 *   [Tiger VNC](http://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC (Virtual Network Computing), a client/server application that allows users to launch and interact with graphical applications on remote machines.
 *   [X2go](http://wiki.x2go.org/doku.php) - X2Go is an open source remote desktop software for Linux that uses the NX technology protocol.
 
-## Service Discovery
+### Service Discovery
 
 *   [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 *   [Doozerd (⭐3.3k)](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
 *   [etcd (⭐42k)](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
 *   [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
-## Software Containers
+### Software Containers
 
 *Operating system–level virtualization.*
 
@@ -603,18 +612,18 @@ Comparison of NoSQL servers: <http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-
     *   [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 *   [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
 
-## Troubleshooting
+### Troubleshooting
 
 *Troubleshooting Tools.*
 
 *   [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
 *   [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 *   [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
-*   [perf-tools (⭐8.7k)](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace.
+*   [perf-tools (⭐8.8k)](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace.
 *   [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 *   [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
 
-## Version control
+### Version control
 
 *Software versioning and revision control.*
 
@@ -625,7 +634,7 @@ Comparison of NoSQL servers: <http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-
 *   [Subversion](http://subversion.apache.org/) - Client-server revision control system.
 *   [Darcs](http://darcs.net/) - Patch-based distributed version control (more info: [wiki](http://darcs.net/Theory/PekkaPatchTheory))
 
-## Virtualization
+### Virtualization
 
 *Virtualization software.*
 
@@ -644,23 +653,23 @@ Comparison of NoSQL servers: <http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-
 *   [XCP-ng](http://www.xcp-ng.org/) - Based on Citrix XenServer, XCP-ng is a fully open source virtualization platform.
 *   [Xen](http://www.xenproject.org/) - Virtual machine monitor for 32/64 bit Intel / AMD (IA 64) and PowerPC 970 architectures.
 
-## VPN
+### VPN
 
 *VPN software.*
 
 *   [Firezone](https://www.firez.one/) - WireGuard based VPN Server and Firewall.
-*   [Headscale (⭐9k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
+*   [Headscale (⭐9.7k)](https://github.com/juanfont/headscale) - Self-hostable fork of [Tailscale](https://tailscale.com), cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.
 *   [ocserv](http://www.infradead.org/ocserv/) - Cisco AnyConnect-compatible VPN server
 *   [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
 *   [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
 *   [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
-*   [sshuttle (⭐9.1k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
+*   [sshuttle (⭐9.3k)](https://github.com/sshuttle/sshuttle) - Poor man's VPN.
 *   [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
 *   [tinc](http://www.tinc-vpn.org/) - Distributed p2p VPN.
 *   [WireGuard](https://www.wireguard.com/) - Very fast VPN based on elliptic curve and public key crypto.
 *   [Nebula (⭐11k)](https://github.com/slackhq/nebula) - A scalable p2p VPN with a focus on performance, simplicity and security.
 
-## Web
+### Web
 
 *Web servers.*
 
@@ -679,7 +688,22 @@ Comparison of NoSQL servers: <http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-
 *   [Traefik](https://traefik.io/) - Traefik is a leading modern reverse proxy and load balancer.
 *   [Varnish](https://www.varnish-cache.org/) - HTTP based web application accelerator focusing on optimizing caching and compression.
 
-# Resources
+***
+
+## List of Licenses
+
+*   `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
+*   `Apache-2.0` - [Apache, Version 2.0](https://www.apache.org/licenses/)
+*   `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://opensource.org/licenses/BSD-2-Clause)
+*   `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause)
+*   `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+*   `GPL-3.0` - [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+*   `MIT` - [MIT License](https://opensource.org/licenses/MIT)
+*   `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+
+***
+
+## External links
 
 Various resources, such as books, websites and articles, for improving your skills and knowledge.
 
@@ -724,13 +748,7 @@ Various resources, such as books, websites and articles, for improving your skil
 *Software package repositories.*
 
 *   [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
-
-### Debian-based distributions
-
 *   [deb.sury.org](https://deb.sury.org/) - Repository with LAMP updated packages for Debian and Ubuntu.
-
-### RPM-based distributions
-
 *   [ElRepo](http://elrepo.org/tiki/tiki-index.php) - Community Repo for Enterprise Linux (RHEL, CentOS, etc).
 *   [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
 *   [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
@@ -751,6 +769,8 @@ Various resources, such as books, websites and articles, for improving your skil
 
 *   [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki which has really nice written articles valid for other distros.
 *   [Gentoo Wiki](https://wiki.gentoo.org/) - Gentoo Linux Wiki with a lot in-detail description of Linux components.
+
+***
 
 ## License
 

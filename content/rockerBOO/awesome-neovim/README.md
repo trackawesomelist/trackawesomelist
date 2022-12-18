@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 18, 2022](/content/2022/12/18/README.md)
+
+### Formatting / Diagnostics
+
+*   [emileferreira/nvim-strict (⭐1)](https://github.com/emileferreira/nvim-strict) - Strictly enforce configurable, best-practice code style by exposing deep nesting, overlong lines, trailing whitespace, trailing empty lines and inconsistent indentation.
+
 ## [Dec 17, 2022](/content/2022/12/17/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics

@@ -47,6 +47,10 @@ Collections of awesome neovim plugins.
 
 *   [shortcuts/no-neck-pain.nvim (⭐54)](https://github.com/shortcuts/no-neck-pain.nvim) - Center the currently focused buffer to the middle of your terminal.
 
+### Formatting / Diagnostics
+
+*   [emileferreira/nvim-strict (⭐1)](https://github.com/emileferreira/nvim-strict) - Strictly enforce configurable, best-practice code style by exposing deep nesting, overlong lines, trailing whitespace, trailing empty lines and inconsistent indentation.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Plugin Manager
