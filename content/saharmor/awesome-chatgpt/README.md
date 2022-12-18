@@ -6,6 +6,21 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ Daily / [Weekly](/content/saharmor/awesome-chatgpt/week/README.md) / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Dec 18, 2022](/content/2022/12/18/README.md)
+
+### Using ChatGPT in other apps
+
+*   [ChatGPT for Slack bot (⭐56)](https://github.com/pedrorito/ChatGPTSlackBot)
+
+### Coding
+
+*   [Explain runtime error message with ChatGPT (⭐267)](https://github.com/shobrook/stackexplain)
+*   [PR code review using ChatGPT (⭐86)](https://github.com/kxxt/chatgpt-action)
+
+### Other
+
+*   [Share your wildest ChatGPT conversations with one click (⭐186)](https://github.com/domeccleston/sharegpt)
+
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 
 ### Conversational

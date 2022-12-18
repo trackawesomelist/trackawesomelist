@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 18, 2022](/content/2022/12/18/README.md)
+
+### Authentication, Authorization and User Management
+
+*   [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
+
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 
 ### Design and UI
@@ -1832,7 +1838,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Log Management
 
-*   [logflare.app](https://logflare.app/) — Free for upto 12,960,000 enteries per app per month, 3 days retention
+*   [logflare.app](https://logflare.app/) — Free for upto 12,960,000 entries per app per month, 3 days retention
 
 ## [Sep 09, 2021](/content/2021/09/09/README.md)
 
@@ -4141,7 +4147,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### IDE and Code Editing
 
-*   [Atom](https://atom.io/) - Atom is a hackable text editor built on Electron.
 *   [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages.
 *   [cocalc.com](https://cocalc.com/) — (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc.
 *   [codepen.io](https://codepen.io/) — CodePen is a playground for the front end side of the web.

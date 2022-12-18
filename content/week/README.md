@@ -427,21 +427,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [awesome-berlin (⭐20)](https://github.com/AwesomeCities/awesome-berlin) - A curated list of Berlin's awesomeness.
 *   [Berlín para mexicanos (⭐12)](https://github.com/carlosyslas/berlin-para-mexicanos) - Berlin guide for mexicans.
 
-#### [31. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
-
-##### Using ChatGPT in other apps
-
-*   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
-
-##### Conversational
-
-*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
-
-##### Other
-
-*   [ChatGPT prompts](https://prompts.chat/)
-
-#### [32. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+#### [31. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ##### Getting Started
 
@@ -532,7 +518,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [awesome-ios-books (⭐177)](https://github.com/bystritskiy/awesome-ios-books) - A list of books for iOS developers.
 
-#### [33. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+#### [32. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ##### APIs and SDKs
 
@@ -543,25 +529,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) - Guides, sample codes and API reference to build mobile and desktop apps.
 *   [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Guides, sample codes and API reference to build mobile apps using Swift.
 
-#### [34. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
+#### [33. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
 ##### *Basics*
 
 *   [GHCup](https://www.haskell.org/ghcup) - GHCup is the main installer for the general purpose language Haskell.
 
-#### [35. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [34. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Yaml
 
 *   [rapidyaml (⭐377)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML \[MIT]
 
-#### [36. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+#### [35. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ##### Resources / Course Material
 
 *   [MathComp School (⭐5)](https://github.com/gares/math-comp-school-2022) - Coq sources for lessons and exercises that introduce the SSReflect proof language and the Mathematical Components library.
 
-#### [37. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
+#### [36. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ##### Security monitoring / Network Security Monitoring (NSM)
 
@@ -571,19 +557,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Firezone](https://www.firezone.dev/) - Self-hosted VPN server built on WireGuard that supports MFA and SSO.
 
-#### [38. Awesome Math](/content/rossant/awesome-math/README.md)
+#### [37. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ##### Tools
 
 *   [CopyPasteMathjax](https://www.copypastemathjax.com/)
 
-#### [39. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+#### [38. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ##### Fraud / Online Payments
 
 *   [Awesome Fraud Detection Research Papers (⭐1.2k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Papers sourced from several conferences on all sort of fraud: credit card, payment transactions, loans, customs inspections, money laundering networks, and more.
 
-#### [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+#### [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ##### Videos / Others
 
@@ -593,7 +579,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The Future of .NET with WASM](https://blog.jetbrains.com/dotnet/2022/12/15/the-future-of-net-with-wasm/) - December 15, 2022 - This post is about the benefits of using WASM outside the browser and its potential as a transformative technology on the server.
 
-#### [41. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [40. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### 2FA
 
@@ -603,7 +589,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Nostr (⭐1.8k)](https://github.com/nostr-protocol/nostr) - Open protocol that is able to create a censorship-resistant global "social" network. It doesn't rely on any trusted central server, hence it is resilient; it is based on cryptographic keys and signatures, so it is tamperproof; it does not rely on P2P techniques, therefore it works. **Note**: Nostr is a protocol, so it is capable of offering much more than a Twitter alternative.
 
-#### [42. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [41. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -615,13 +601,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [gitneko (⭐1)](https://github.com/gynamics/zsh-gitneko/) - Has a neko `(^>ω<^)` prompt with `git` status information.
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
 
-#### [43. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [42. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### 2D / Godot 3.2+
 
 *   [Falling Square (⭐2)](https://github.com/EmilienLeroy/FallingSquare) - A simple mobile game to test your reflex.
 
-#### [44. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [43. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Prompt Engineering | Prompt Design | Prompt Craft
 
@@ -677,19 +663,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
 
-#### [45. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [44. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Deployment Tools / Newsletters
 
 *   [Nixinate (⭐71)](https://github.com/MatthewCroughan/nixinate) - A Nix flake library to provide app outputs for managing existing NixOS hosts over SSH.
 
-#### [46. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+#### [45. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ##### REST and API
 
 *   :strawberry: [CRUD plugin (⭐355)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production ready code.
 
-#### [47. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [46. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### Visual Changes / Design Tooling
 
@@ -699,7 +685,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Relm4](https://relm4.org/) - Building native applications with Rust and GTK4
 
-#### [48. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+#### [47. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ##### Deep Learning / PyTorch
 
@@ -744,13 +730,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [qiskit](https://github.com/krzjoa/awesome-python-data-science/blob/master/README.md/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
 *   [cirq (⭐3.6k)](https://github.com/quantumlib/Cirq) - A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
 
-#### [49. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [48. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### System 1 & System 2 / Neural-Symbolic AI
 
 *   [Fast Abductive Learning by Similarity-based Consistency Optimization](https://proceedings.neurips.cc/paper/2021/hash/df7e148cabfd9b608090fa5ee3348bfe-Abstract.html) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8539963460239876225\&hl=en\&as_sdt=0,5)]. An approach for accelerating the convergence of Abductive Learning.
 
-#### [50. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+#### [49. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ##### List of Licenses / Web
 
@@ -763,7 +749,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   `MIT` - [MIT License](https://opensource.org/licenses/MIT)
 *   `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
 
-#### [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [50. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Marks / Diagnostics
 
@@ -808,7 +794,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [emileferreira/nvim-strict (⭐1)](https://github.com/emileferreira/nvim-strict) - Strictly enforce configurable, best-practice code style by exposing deep nesting, overlong lines, trailing whitespace, trailing empty lines and inconsistent indentation.
 
-#### [52. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+#### [51. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ##### Emulator Development / Misc
 
@@ -819,7 +805,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [evscript (⭐2)](https://github.com/eievui5/evscript) - A scripting language for the Game Boy, useful for enemy AI, dialogue, animations, and coroutines.
 *   [evunit (⭐6)](https://github.com/eievui5/evunit) - A unit testing program for assembly code.
 
-#### [53. Awesome List](/content/sindresorhus/awesome/README.md)
+#### [52. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ##### Databases
 
@@ -829,21 +815,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Engineering Strategy (⭐153)](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
 
-#### [54. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### DBaaS
-
-*   [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.
-
-##### Design and UI
-
-*   [Circum Icons](https://circumicons.com) - Consistent open source icons as SVG for React, Vue and Svelte.
-
-##### Design Inspiration
-
-*   [Refero](https://refero.design/) - \[Web screenshots] Tagged and searchable collection of design references from great web applications.
-
-#### [55. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [53. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Automation
 
@@ -869,7 +841,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Traggo](https://traggo.net/) - Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code (⭐565)](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
 
-#### [56. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [54. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -880,17 +852,56 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Atom](https://github.blog/2022-06-08-sunsetting-atom/)
     *   [rust-lang/atom-ide-rust (⭐238)](https://github.com/rust-lang/atom-ide-rust) — Rust IDE support for Atom, powered by the Rust Language Server (RLS) [![Build Status](https://api.travis-ci.com/rust-lang/atom-ide-rust.svg?branch=master)](https://app.travis-ci.com/grust-lang/atom-ide-rust)
 
-#### [57. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+#### [55. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ##### Algorithms and Data structures
 
 *   [Goban (⭐7)](https://github.com/soya-daizu/goban) - A fast and efficient QR Code implementation
 
-#### [58. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+#### [56. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ##### Misc libraries
 
 *   [kassane/libvlc-zig (⭐5)](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
+
+#### [57. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Authentication, Authorization and User Management
+
+*   [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
+
+##### DBaaS
+
+*   [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. Free-forever tier is sufficient for hobby developers which comes with 3 units of Xata, please refer to website for unit definition.
+
+##### Design and UI
+
+*   [Circum Icons](https://circumicons.com) - Consistent open source icons as SVG for React, Vue and Svelte.
+
+##### Design Inspiration
+
+*   [Refero](https://refero.design/) - \[Web screenshots] Tagged and searchable collection of design references from great web applications.
+
+#### [58. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+
+##### Using ChatGPT in other apps
+
+*   [ChatGPT for Slack bot (⭐56)](https://github.com/pedrorito/ChatGPTSlackBot)
+*   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
+
+##### Coding
+
+*   [Explain runtime error message with ChatGPT (⭐267)](https://github.com/shobrook/stackexplain)
+*   [PR code review using ChatGPT (⭐86)](https://github.com/kxxt/chatgpt-action)
+
+##### Conversational
+
+*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+
+##### Other
+
+*   [ChatGPT prompts](https://prompts.chat/)
+*   [Share your wildest ChatGPT conversations with one click (⭐186)](https://github.com/domeccleston/sharegpt)
 
 ---
 
@@ -902,7 +913,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 111K 📝 12&#x2F;16 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 258K 📝 12&#x2F;06 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 4. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 149K 📝 12&#x2F;11 ](https://github.com/vinta/awesome-python)) - A curated list of awesome Python frameworks, libraries, software and resources
-5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 63K 📝 12&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 63K 📝 12&#x2F;18 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 6. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 93K 📝 12&#x2F;11 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K 📝 12&#x2F;12 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 8. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 42K 📝 12&#x2F;16 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -1020,7 +1031,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Awesome Chatgpt](/content/humanloop/awesome-chatgpt/README.md) - ([Source ⭐ 1.5K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/humanloop/awesome-chatgpt)) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [Awesome Chatgpt](/content/Kamigami55/awesome-chatgpt/README.md) - ([Source ⭐ 223, 📝 12&#x2F;10 ](https://github.com/Kamigami55/awesome-chatgpt)) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
-- [Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md) - ([Source ⭐ 116, 📝 12&#x2F;15 ](https://github.com/saharmor/awesome-chatgpt)) - Selected ChatGPT demos, tools, articles, and more ✨
+- [Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md) - ([Source ⭐ 116, 📝 12&#x2F;18 ](https://github.com/saharmor/awesome-chatgpt)) - Selected ChatGPT demos, tools, articles, and more ✨
 - [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 4K, 📝 70&#x2F;01&#x2F;01 ](https://github.com/f/awesome-chatgpt-prompts)) - This repo includes ChatGPT promt curation to use ChatGPT better.
 
 ### Computer Science
@@ -1463,7 +1474,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 857, 📝 10&#x2F;18 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.4K, 📝 07&#x2F;14 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 22K, 📝 07&#x2F;29 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 63K, 📝 12&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 63K, 📝 12&#x2F;18 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2K, 📝 07&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 9.4K, 📝 08&#x2F;07 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Books everyone should read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 2.6K, 📝 09&#x2F;02 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:

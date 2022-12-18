@@ -295,7 +295,13 @@
 
 ### Using ChatGPT in other apps
 
+*   [ChatGPT for Slack bot (⭐56)](https://github.com/pedrorito/ChatGPTSlackBot)
 *   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
+
+### Coding
+
+*   [Explain runtime error message with ChatGPT (⭐267)](https://github.com/shobrook/stackexplain)
+*   [PR code review using ChatGPT (⭐86)](https://github.com/kxxt/chatgpt-action)
 
 ### Conversational
 
@@ -304,6 +310,7 @@
 ### Other
 
 *   [ChatGPT prompts](https://prompts.chat/)
+*   [Share your wildest ChatGPT conversations with one click (⭐186)](https://github.com/domeccleston/sharegpt)
 
 ## [33. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
@@ -855,6 +862,10 @@
 *   [Aman's AI Journal • Papers List](https://aman.ai/papers/): set of seminal AI/ML papers curated by Aman Chadha
 
 ## [56. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Authentication, Authorization and User Management
+
+*   [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
 
 ### DBaaS
 

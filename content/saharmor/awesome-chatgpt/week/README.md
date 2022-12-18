@@ -10,7 +10,13 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Using ChatGPT in other apps
 
+*   [ChatGPT for Slack bot (⭐56)](https://github.com/pedrorito/ChatGPTSlackBot)
 *   [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
+
+### Coding
+
+*   [Explain runtime error message with ChatGPT (⭐267)](https://github.com/shobrook/stackexplain)
+*   [PR code review using ChatGPT (⭐86)](https://github.com/kxxt/chatgpt-action)
 
 ### Conversational
 
@@ -19,6 +25,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Other
 
 *   [ChatGPT prompts](https://prompts.chat/)
+*   [Share your wildest ChatGPT conversations with one click (⭐186)](https://github.com/domeccleston/sharegpt)
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 

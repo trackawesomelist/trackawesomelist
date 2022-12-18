@@ -24,12 +24,13 @@ Selected ChatGPT demos, tools, articles, and more ✨
 4.  [ChatGPT Chrome extension](https://twitter.com/kazuki_sf_/status/1598955169576013825)
 5.  [ChatGPT WhatsApp bot](https://twitter.com/danielgross/status/1598735800497119232)
 6.  [ChatGPT Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
-7.  [ChatGPT Twitter bot (⭐152)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
-8.  [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
-9.  [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
-10. [ChatGPT Discord bot (⭐224)](https://github.com/Zero6992/chatGPT-discord-bot)
-11. [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐171)](https://github.com/oceanlvr/ChatGPT-ProBot)
-12. [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
+7.  [ChatGPT for Slack bot (⭐56)](https://github.com/pedrorito/ChatGPTSlackBot)
+8.  [ChatGPT Twitter bot (⭐152)](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+9.  [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
+10. [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
+11. [ChatGPT Discord bot (⭐224)](https://github.com/Zero6992/chatGPT-discord-bot)
+12. [A GPTChat based GitHub robot for dialogue, code reviews, etc. (⭐171)](https://github.com/oceanlvr/ChatGPT-ProBot)
+13. [GPT-3.5 powered terminal commands (⭐82)](https://github.com/Methexis-Inc/terminal-copilot)
 
 ## Assistants
 
@@ -54,6 +55,8 @@ Selected ChatGPT demos, tools, articles, and more ✨
 7.  [Explaining complex regex without any context](https://twitter.com/jwblackwell/status/1598090447854792705)
 8.  [A tutorial on how to use ChatGPT to create a wrapper R package](https://twitter.com/IsinAltinkaya/status/1599440535529623552)
 9.  [Generate an entire WordPress plugin based on a simple description](https://twitter.com/johnofhousejohn/status/1599932681076473856)
+10. [Explain runtime error message with ChatGPT (⭐267)](https://github.com/shobrook/stackexplain)
+11. [PR code review using ChatGPT (⭐86)](https://github.com/kxxt/chatgpt-action)
 
 ## ChatGPT API
 
@@ -92,4 +95,5 @@ Selected ChatGPT demos, tools, articles, and more ✨
 9.  [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐624)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
 10. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 11. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
+12. [Share your wildest ChatGPT conversations with one click (⭐186)](https://github.com/domeccleston/sharegpt)
 
