@@ -108,6 +108,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 *   [viz.rs (⭐3)](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
 *   [theiskaa.com (⭐3)](https://github.com/theiskaa/theiskaa.com) - A real world implementation of Yew framework. [Live at theiskaa.com](https://theiskaa.com).
 *   [live-ask.com (⭐52)](https://github.com/liveask/liveask) - Realtime Event/Meetup Q\&A Platform. [Live at live-ask.com](https://live-ask.com).
+*   [Sumi (⭐1)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
 
 ## Templates
 

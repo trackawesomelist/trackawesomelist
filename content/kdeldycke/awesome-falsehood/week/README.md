@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kdeldycke/awesome-falsehood/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Networks
+
+*   [IDN is crazy](https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/) - International characters in domain names mean support of homographs and heterographs.
+
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### Transportation

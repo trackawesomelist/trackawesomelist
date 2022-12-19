@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jetli/awesome-yew/week/README.md) / [Overview](/content/jetli/awesome-yew/readme/README.md) ]
 
+## [Dec 19, 2022](/content/2022/12/19/README.md)
+
+### Projects
+
+*   [Sumi (⭐1)](https://github.com/vgwidt/sumi) - Multi-user issue tracking and knowledge base app built with Yew & Actix.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Projects

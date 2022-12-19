@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### APIs, Data and ML
+
+*   [Weights & Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
+
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### Authentication, Authorization and User Management

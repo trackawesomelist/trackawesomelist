@@ -6,6 +6,21 @@ Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關�
 
 [ [Daily](/content/Kamigami55/awesome-chatgpt/README.md) / Weekly / [Overview](/content/Kamigami55/awesome-chatgpt/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Use ChatGPT Anywhere / Editors
+
+*   [intellij-chatgpt (⭐8)](https://github.com/LiLittleCat/intellij-chatgpt): A ChatGPT plugin for JetBrains IDEs.
+
+### Use ChatGPT Anywhere / Chatbots
+
+*   [chatbot-telegram (⭐9)](https://github.com/Ciyou/chatbot-telegram): ChatGPT Telegram Bot powered by `Deno` and `TypeScript`.
+*   [gpt-ai-assistant (⭐390)](https://github.com/memochou1993/gpt-ai-assistant) (Chinese content): Run your own GPT LINE bot on Vercel in 10 minutes.
+
+### Applications / Reverse Proxy
+
+*   [StackExplain (⭐267)](https://github.com/shobrook/stackexplain): CLI tool to explain your error message with ChatGPT.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Official Resource
