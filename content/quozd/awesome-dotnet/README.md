@@ -6,6 +6,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Dec 19, 2022](/content/2022/12/19/README.md)
+
+### IDE
+
+*   [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET **\[Free for OSS]**
+
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 
 ### Testing

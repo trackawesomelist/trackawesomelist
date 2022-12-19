@@ -6,6 +6,20 @@
 
 [ [Daily](/content/markets/awesome-ruby/README.md) / Weekly / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Social Networking
+
+*   [Retrospring (⭐115)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
+
+### Testing
+
+*   WebDrivers
+    *   [Ferrum (⭐1.4k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
+    *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
+    *   [Selenium WebDriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
+    *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Game Development and Graphics
@@ -2666,11 +2680,6 @@
     *   [SmtpMock (⭐56)](https://github.com/mocktools/ruby-smtp-mock) - Ruby SMTP mock. Mimic any SMTP server behaviour for your test environment with fake SMTP server.
     *   [TestXml (⭐30)](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
     *   [WebMock (⭐3.7k)](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
-*   WebDrivers
-    *   [Selenium WebDriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
-    *   [API Taster (⭐733)](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
-    *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
-    *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
 ### Third-party APIs
 

@@ -6,6 +6,12 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ [Daily](/content/saharmor/awesome-chatgpt/README.md) / Weekly / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Using ChatGPT in other apps
+
+*   [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
+
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### Using ChatGPT in other apps

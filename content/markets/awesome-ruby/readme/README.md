@@ -1194,6 +1194,7 @@ Online tools, services and APIs to simplify development.
 *   [Discourse (⭐37k)](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 *   [Mailboxer (⭐1.6k)](https://github.com/mailboxer/mailboxer) - A private message system for Rails applications.
 *   [Mastodon (⭐4)](https://github.com/Gargron/mastodon) - A GNU Social-compatible microblogging server.
+*   [Retrospring (⭐115)](https://github.com/Retrospring/retrospring) - A social network following the Q/A (question and answer) principle.
 *   [Social Shares (⭐331)](https://github.com/Timrael/social_shares) - A gem to check how many times url was shared in social networks.
 *   [Thredded (⭐1.5k)](https://github.com/thredded/thredded) - Rails 4.2+ forums/messageboards engine. Its goal is to be as simple and feature rich as possible.
 
@@ -1272,9 +1273,9 @@ Online tools, services and APIs to simplify development.
     *   [TestXml (⭐30)](https://github.com/alovak/test_xml) - TestXml is a small extension for testing XML/HTML.
     *   [WebMock (⭐3.7k)](https://github.com/bblimke/webmock) - Library for stubbing and setting expectations on HTTP requests.
 *   WebDrivers
-    *   [Selenium WebDriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
-    *   [API Taster (⭐733)](https://github.com/fredwu/api_taster) - A quick and easy way to visually test your Rails application's API.
+    *   [Ferrum (⭐1.4k)](https://github.com/rubycdp/ferrum) - High-level API to control Chrome in Ruby.
     *   [Poltergeist (⭐2.5k)](https://github.com/teampoltergeist/poltergeist) - A PhantomJS driver for Capybara.
+    *   [Selenium WebDriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 *   Extra
     *   [Appraisal (⭐1.2k)](https://github.com/thoughtbot/appraisal) - Appraisal integrates with bundler and rake to test your library against different versions of dependencies.

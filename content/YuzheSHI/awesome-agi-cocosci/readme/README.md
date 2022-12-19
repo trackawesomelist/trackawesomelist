@@ -1268,6 +1268,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454\&hl=en\&as_sdt=0,5)].
 
+*   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)].
+
 \*[Back to Top](#c)
 
 #### Literature Visualization
@@ -1420,8 +1422,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 \*[Back to Top](#c)
 
-<span id = "caus"></span>
-
 ### Causality
 
 *   [Causality](https://en.wikipedia.org/wiki/Causality) - ***Wikipedia***. Wikipedia on causality, which is influence by which one event, process, state, or object (a cause) contributes to the production of another event, process, state, or object (an effect) where the cause is partly responsible for the effect, and the effect is partly dependent on the cause.
@@ -1531,8 +1531,6 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 *   [Acquiring Comparative Commonsense Knowledge from the Web](https://people.mpi-inf.mpg.de/\~ntandon/papers/aaai-2014-tandon.pdf) - ***AAAI'14***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=16641273554706459553\&hl=en\&as_sdt=0,5)].
 
 \*[Back to Top](#c)
-
-<span id = "lp"></span>
 
 ### Inductive Logic & Program Synthesis
 
