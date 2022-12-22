@@ -20,6 +20,10 @@
 
 *   [Virlow Flutter Recorder (⭐10)](https://github.com/virlow-voice/virlow-flutter-recorder) - Voice recording and transcription plus it includes TL;DR, Short Hand Notes, and a rich text editor by \[Virlow Voice]\(<https://github.com/proninyaroslav](https://github.com/virlow-voice)>
 
+### Contents / Tools
+
+*   [RSA Encryption (⭐21)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
 
 ### Contents / Games

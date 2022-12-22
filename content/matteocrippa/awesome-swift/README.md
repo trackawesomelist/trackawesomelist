@@ -6,6 +6,44 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 [ Daily / [Weekly](/content/matteocrippa/awesome-swift/week/README.md) / [Overview](/content/matteocrippa/awesome-swift/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Algorithm
+
+*   [swift-algorithm-club (⭐27k)](https://github.com/kodecocodes/swift-algorithm-club) - Algorithms and data structures, with explanations.
+
+### Chart
+
+*   [SwiftCharts (⭐2.4k)](https://github.com/ivanschuetz/SwiftCharts) - Highly customizable charts for iOS.
+
+### MongoDB
+
+*   [MongoKitten (⭐646)](https://github.com/orlandos-nl/MongoKitten) :penguin: - MongoDB Connector.
+
+### Realm
+
+*   [Realm (⭐16k)](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite.
+
+### Documentation
+
+*   [SourceDocs (⭐349)](https://github.com/SourceDocs/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+
+### Events
+
+*   [OneWay (⭐41)](https://github.com/DevYeom/OneWay) - State management with unidirectional data flow.
+
+### Fonts
+
+*   [SwiftIconFont (⭐1.1k)](https://github.com/segecey/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
+
+### Localization / Barcode
+
+*   [BartyCrouch (⭐1.3k)](https://github.com/FlineDev/BartyCrouch) - Incrementally update/translate your Strings files from Code and Storyboards/XIBs.
+
+### UI / Barcode
+
+*   [NextGrowingTextView (⭐1.7k)](https://github.com/FluidGroup/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Camera
@@ -2346,10 +2384,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ## [Dec 09, 2017](/content/2017/12/09/README.md)
 
-### Chart
-
-*   [SwiftCharts (⭐2.4k)](https://github.com/i-schuetz/SwiftCharts) - Highly customizable charts for iOS.
-
 ### Images / Barcode
 
 *   [LetterAvatarKit (⭐215)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
@@ -2479,12 +2513,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Utility / Barcode
 
 *   [LifetimeTracker (⭐2.8k)](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
-
-## [Oct 26, 2017](/content/2017/10/26/README.md)
-
-### Documentation
-
-*   [SourceDocs (⭐349)](https://github.com/eneko/SourceDocs/) - Generate Markdown reference documentation that lives with your code.
 
 ## [Oct 23, 2017](/content/2017/10/23/README.md)
 
@@ -2948,7 +2976,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Algorithm
 
 *   [Algorithm (⭐820)](https://github.com/CosmicMind/Algorithm) - A toolset for writing algorithms and probability models.
-*   [swift-algorithm-club (⭐27k)](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
 *   [SwiftLCS (⭐214)](https://github.com/Frugghi/SwiftLCS) :penguin: - implementation of the longest common subsequence (LCS) algorithm.
 
 ### Animation
@@ -3044,7 +3071,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ### MongoDB
 
-*   [MongoKitten (⭐646)](https://github.com/OpenKitten/MongoKitten) :penguin: - MongoDB Connector.
 *   [Perfect-MongoDB (⭐54)](https://github.com/PerfectlySoft/Perfect-MongoDB) :penguin: - A stand-alone wrapper around the mongo-c client library, enabling access to MongoDB servers.
 
 ### ORM
@@ -3054,10 +3080,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Other Data
 
 *   [Pencil (⭐88)](https://github.com/naru-jpn/pencil) - Write any value to file.
-
-### Realm
-
-*   [Realm (⭐16k)](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite.
 
 ### SQL drivers
 
@@ -3132,7 +3154,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 *   [IoniconsKit (⭐313)](https://github.com/keitaoouchi/IoniconsKit) - Use ionicons as UIImage / UIFont in your projects.
 *   [OcticonsKit (⭐52)](https://github.com/keitaoouchi/OcticonsKit) - Use Octicons as UIImage / UIFont in your projects.
 *   [OpenSansSwift (⭐42)](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans.
-*   [SwiftIconFont (⭐1.1k)](https://github.com/0x73/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
 *   [SwiftIcons (⭐781)](https://github.com/ranesr/SwiftIcons) - Library for Font Icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather.
 
 ### Games
@@ -3889,12 +3910,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 *   [SwiftTweaks (⭐1.4k)](https://github.com/khan/swifttweaks) - Tweak your iOS app without recompiling.
 
-## [May 11, 2016](/content/2016/05/11/README.md)
-
-### Localization / Barcode
-
-*   [BartyCrouch (⭐1.3k)](https://github.com/Flinesoft/BartyCrouch) - Incrementally update/translate your Strings files from Code and Storyboards/XIBs.
-
 ## [May 07, 2016](/content/2016/05/07/README.md)
 
 ### Utility / Barcode
@@ -4056,12 +4071,6 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 ### Alert / Barcode
 
 *   [Hokusai (⭐430)](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
-
-## [Dec 21, 2015](/content/2015/12/21/README.md)
-
-### UI / Barcode
-
-*   [NextGrowingTextView (⭐1.7k)](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 
 ## [Dec 14, 2015](/content/2015/12/14/README.md)
 

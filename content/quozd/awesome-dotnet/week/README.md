@@ -11,6 +11,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### IDE
 
 *   [vvvv](https://visualprogramming.net) A visual live-programming environment for .NET **\[Free for OSS]**
+*   *   [CSharp Analyzer by MongoDB (⭐8)](https://github.com/mongodb/mongo-csharp-analyzer) A free Visual Studio Extension for MongoDB users, helping translate your code into MongoDB queries
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 

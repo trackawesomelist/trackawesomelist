@@ -6,6 +6,12 @@ A curated list of Cheminformatics libraries and software.
 
 [ Daily / [Weekly](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md) / [Overview](/content/hsiaoyi0504/awesome-cheminformatics/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### See Also / Books
+
+*   [awesome-molecular-docking (⭐29)](https://github.com/yangnianzu0515/awesome-molecular-docking) - A curated list of molecular docking software, datasets, and other closely related resources.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Libraries / Machine Learning

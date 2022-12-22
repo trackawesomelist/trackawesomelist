@@ -132,12 +132,15 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Quickbase](https://www.quickbase.com) - Application development platform that unites business and IT teams.
 *   [Sanity](https://www.sanity.io/) - The unified content platform.
 *   [SAP Build](https://www.sap.com/products/technology-platform/low-code.html) - Create apps, automate processes, and design business sites with drag-and-drop simplicity.
+*   [Shuffle](https://shuffle.dev/) - Create teamplate in minutes.
 *   [Softr](https://www.softr.io) - From zero to a website in 5 minutes, using building blocks.
 *   [Stacker](https://stacker.app) - Turn your spreadsheets into applications.
 *   [Storybook](https://storybook.js.org) - Build component driven UIs faster.
 *   [Super](https://super.so) - Build websites with the simplicity of Notion.
 *   [Typedream](https://typedream.com) - The new way to make a website.
+*   [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 *   [Webflow](https://webflow.com) - Build better business websites, faster. Without coding.
+*   [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
 
 ## Misc
 

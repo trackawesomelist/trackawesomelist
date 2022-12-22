@@ -6,6 +6,13 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 [ [Daily](/content/vsouza/awesome-ios/README.md) / Weekly / [Overview](/content/vsouza/awesome-ios/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Getting Started
+
+*   [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+*   [Stanford - Developing apps for iOS](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774) - Stanford's iTunes U course.
+
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### Getting Started
@@ -162,12 +169,6 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 ### Deployment / Distribution / Collection View Layout
 
 *   [Codemagic](https://codemagic.io) - Build, test and deliver iOS apps 20% faster with Codemagic CI/CD.
-
-## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
-
-### Getting Started
-
-*   [iOS Lead Essentials Program](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials) - Online program meticulously thought out for iOS developers who want to become world-class senior developers and be part of the highest-paid iOS devs in the world. Focuses on key concepts like Swift, TDD, BDD, DDD, Clean Architecture, Design Patterns, Git, Automation, CI/CD, and Modular Design.
 
 ## [Jul 05 - Jul 11, 2021](/content/2021/27/README.md)
 
@@ -398,10 +399,6 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 ## [May 11 - May 17, 2020](/content/2020/19/README.md)
 
-### Getting Started
-
-*   [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/course/arkit-beginner-to-professional/)
-
 ### Analytics
 
 *   [MOCA Analytics](https://www.mocaplatform.com/features) - Paid cross-platform analytics backend.
@@ -604,12 +601,6 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 *   [Clean Architecture for SwiftUI + Combine (⭐3.9k)](https://github.com/nalexn/clean-architecture-swiftui) - A demo project showcasing the production setup of the SwiftUI app with Clean Architecture.
 
-## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
-
-### Getting Started
-
-*   [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-
 ## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
 
 ### Alert & Action Sheet
@@ -696,21 +687,6 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [ViewInspector (⭐1.4k)](https://github.com/nalexn/ViewInspector) - Runtime inspection and unit testing of SwiftUI views
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
-
-### Getting Started
-
-*   [Apple- Start Developing with iOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/) - Apple Guide.
-*   [Apple - Object-Oriented Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
-*   [Apple - Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-*   [CodeProject](https://www.codeproject.com/articles/88929/getting-started-with-iphone-and-ios-development) - Getting Started with iPhone and iOS Development.
-*   [Lifehacker](https://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175) - I Want to Write iOS Apps. Where Do I Start?
-*   [Ray Wenderlich](https://www.raywenderlich.com/2690-learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
-*   [Stanford - Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/us/course/developing-ios-7-apps-for-iphone-and-ipad/id733644550)
-*   [Stanford - Developing iOS 10 Apps with Swift](https://itunes.apple.com/in/course/developing-ios-10-apps-swift/id1198467120) - Stanford's 2017 iTunes U course.
-*   [Stanford - Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) - Stanford's 2017 iTunes U course updated for iOS 11 and Swift.
-*   [Swifteducation - Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
-*   [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
-*   [ARStarter (⭐470)](https://github.com/codePrincess/ARStarter) - Get started with ARKit - A little exercise for beginners.
 
 ### Accessibility
 
@@ -1035,6 +1011,13 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [JustPersist (⭐167)](https://github.com/justeat/JustPersist) - JustPersist is the easiest and safest way to do persistence on iOS with Core Data support out of the box.
 *   [PrediKit (⭐542)](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS, macOS, tvOS, & watchOS. Inspired by SnapKit and lovingly written in Swift.
 *   [PredicateFlow (⭐103)](https://github.com/andreadelfante/PredicateFlow) - Write amazing, strong-typed and easy-to-read NSPredicate, allowing you to write flowable NSPredicate, without guessing attribution names, predicate operation or writing wrong arguments type.
+
+### Getting Started
+
+*   [Apple - Object-Oriented Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html)
+*   [ARStarter (⭐470)](https://github.com/codePrincess/ARStarter) - Get started with ARKit - A little exercise for beginners.
+*   [Ray Wenderlich](https://www.raywenderlich.com/2690-learn-to-code-ios-apps-1-welcome-to-programming) - Learn to code iOS Apps.
+*   [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Udacity free course. Make Your First iPhone App.
 
 ### Database
 
@@ -1471,7 +1454,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 *   [Swift-Brain (⭐331)](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI.
 *   [AIToolbox (⭐775)](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
-*   [Tensorflow-iOS (⭐169k)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - The official Google-built powerful neural network library port for iOS.
+*   [Tensorflow-iOS (⭐170k)](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - The official Google-built powerful neural network library port for iOS.
 *   [Bender (⭐1.7k)](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks. Use TensorFlow models. Metal under the hood.
 *   [CoreML-samples (⭐39)](https://github.com/ytakzk/CoreML-samples) - Sample code for Core ML using ResNet50 provided by Apple and a custom model generated by coremltools.
 *   [Revolver (⭐27)](https://github.com/petrmanek/Revolver) - A framework for building fast genetic algorithms in Swift. Comes with modular architecture, pre-implemented operators and loads of examples.

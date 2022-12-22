@@ -20,6 +20,10 @@
     *   [Selenium WebDriver (⭐25k)](https://github.com/SeleniumHQ/selenium/tree/master/rb) - Ruby bindings for WebDriver.
     *   [Watir (⭐1.5k)](https://github.com/watir/watir/) - Web application testing in Ruby.
 
+### View components
+
+*   [Phlex (⭐637)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Game Development and Graphics
@@ -421,7 +425,7 @@
 
 ### Machine Learning
 
-*   [rumale (⭐618)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐620)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -1373,7 +1377,7 @@
 
 ### Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐973)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
+*   [Awesome NLP with Ruby (⭐977)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Ruby Natural Language Processing Resources (⭐1.2k)](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
 
 ## [Jan 02 - Jan 08, 2017](/content/2017/1/README.md)

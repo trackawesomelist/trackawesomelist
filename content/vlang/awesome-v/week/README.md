@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ [Daily](/content/vlang/awesome-v/README.md) / Weekly / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Applications / Web
+
+*   [Heroku Buildpack for V (⭐0)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Libraries / Text processing
@@ -112,7 +118,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Applications / Web
 
-*   [Heroku Buildpack for V (⭐20)](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
 *   [vblog (⭐15)](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 *   [Vebview.JS (⭐33)](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
 *   [Vieter (⭐5)](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.

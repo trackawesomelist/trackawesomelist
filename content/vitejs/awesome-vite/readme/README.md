@@ -119,6 +119,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [ionic-vue-pnpm-monorepo (⭐1)](https://github.com/reslear/ionic-vue-pnpm-monorepo) - Vue 3 + Vue Router + Vite + Ionic + pnpm monorepo.
 *   [ionic-vue-pnpm-express-monorepo (⭐0)](https://github.com/reslear/ionic-vue-pnpm-express-monorepo) - Frontend: Vue 3 + Vue Router + Vite + Ionic, Backend: express + pnpm monorepo.
 *   [ionic-vue-capacitor (⭐1)](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo.
+*   [ultimate-vite-ts-less-template (⭐1)](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
 
 #### Vue 2
 
@@ -185,6 +186,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 #### Solid
 
 *   [vite-solid (⭐3)](https://github.com/andreecy/vite-solid) - Vite + Solid starter template.
+*   [vitesse-solid (⭐5)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
 
 #### Electron
 
@@ -270,6 +272,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-virtual-mpa (⭐20)](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin, with html template engine and virtual files support, which generate multiple files using only one template.
 *   [tailwindcss-vite-plugin (⭐14)](https://github.com/await-ovo/tailwindcss-webpack-plugin) - Tailwind CSS integration.
 *   [vite-plugin-assemblyscript-asc (⭐2)](https://github.com/krymel/vite-plugin-assemblyscript-asc) - AssemblyScript integration with full support for HMR, ESM import bindings, and source maps.
+*   [vite-plugin-solid-markdown (⭐2)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 
 #### Loaders
 
@@ -382,6 +385,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-debug (⭐2)](https://github.com/hu3dao/vite-plugin-debug) - Base on specific url parameters dynamically enables mobile web page debugging.
 *   [vite-plugin-mock-dev-server (⭐2)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 *   [vite-plugin-externals-extension (⭐2)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
+*   [vite-plugin-api (⭐1)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 
 #### Testing
 
@@ -479,6 +483,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 #### Helpers
 
 *   [vite-plugin-react-inspector (⭐108)](https://github.com/sudongyuer/vite-plugin-react-inspector) - Jump to local IDE source code while click the element of browser.
+*   [vite-plugin-react-click-to-component (⭐3)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
 
 <!--lint ignore double-link-->
 

@@ -364,7 +364,7 @@
 *   [React (⭐53k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
     *   [Relay (⭐258)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.1k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
-*   [Web Components (⭐2k)](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
+*   [Web Components (⭐2k)](https://github.com/web-padawan/awesome-web-components#readme)
 *   [Polymer (⭐394)](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 *   [Angular (⭐8.6k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 *   [Backbone (⭐402)](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
@@ -483,7 +483,7 @@
     *   [XAI (⭐54)](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 *   [Speech and Natural Language Processing (⭐2.1k)](https://github.com/edobashira/speech-language-processing#readme)
     *   [Spanish (⭐305)](https://github.com/dav009/awesome-spanish-nlp#readme)
-    *   [NLP with Ruby (⭐973)](https://github.com/arbox/nlp-with-ruby#readme)
+    *   [NLP with Ruby (⭐977)](https://github.com/arbox/nlp-with-ruby#readme)
     *   [Question Answering (⭐710)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
     *   [Natural Language Generation (⭐391)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 *   [Linguistics (⭐278)](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)

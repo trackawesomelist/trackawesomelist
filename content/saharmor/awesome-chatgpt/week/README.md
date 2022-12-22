@@ -11,6 +11,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Using ChatGPT in other apps
 
 *   [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
+*   [GPT AI Assistant using LINE and Vercel (⭐390)](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 

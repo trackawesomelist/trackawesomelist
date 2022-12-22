@@ -6,6 +6,28 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Templates / Vue 3
+
+*   [ultimate-vite-ts-less-template (⭐1)](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
+
+### Templates / Solid
+
+*   [vitesse-solid (⭐5)](https://github.com/xbmlz/vitesse-solid) - Opinionated Vite + SolidJS Starter Template. Includes TypeScript, ESLint, Prettier, UnoCSS, HopeUI and more.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-solid-markdown (⭐2)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-api (⭐1)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
+
+### React / Helpers
+
+*   [vite-plugin-react-click-to-component (⭐3)](https://github.com/ArnaudBarre/vite-plugin-react-click-to-component) - Uses Vite's launch middleware to enable alt+click to go to component.
+
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### Get Started

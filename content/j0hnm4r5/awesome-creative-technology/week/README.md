@@ -2,9 +2,125 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 191 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 202 · 🏷️ Miscellaneous
 
 [ [Daily](/content/j0hnm4r5/awesome-creative-technology/README.md) / Weekly / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Collectives & Practices
+
+- Name: [**Taller Estampa**](https://www.tallerestampa.com)
+
+  Locations: ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat)
+
+  Keywords: group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments.
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.tallerestampa.com)
+
+
+
+### Experiential Spaces & Experiences
+
+- Name: [**Cascade**](https://cascadeshow.com/)
+
+  Locations: ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat)
+
+  Keywords: interactive art experience
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fcascadeshow.com%2F)
+
+
+
+### Creative Agencies
+
+- Name: [**SuperUber**](https://www.superuber.com/)
+
+  Locations: ![Rio de Janeiro](https://img.shields.io/badge/-Rio%20de%20Janeiro-lightgrey?style=flat) ![São Paulo](https://img.shields.io/badge/-S%C3%A3o%20Paulo-lightgrey?style=flat)
+
+  Keywords: experiences that blend art, technology, architecture and design
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.superuber.com%2F)
+
+
+
+### Festivals & Conferences
+
+- Name: [**Eyeo**](https://www.eyeofestival.com/)
+
+  Locations: ![Melbourne](https://img.shields.io/badge/-Melbourne-lightgrey?style=flat)
+
+  Keywords: a gathering for the creative technology community
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.eyeofestival.com%2F)
+
+
+- Name: [**ISEA**](https://isea2022.isea-international.org/)
+
+  Locations: ![Barcelona](https://img.shields.io/badge/-Barcelona-lightgrey?style=flat) ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+
+  Keywords: the crossroads where art, design, science, technology and society meet
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fisea2022.isea-international.org%2F)
+
+
+- Name: [**SXSW**](https://www.sxsw.com/)
+
+  Locations: ![Austin](https://img.shields.io/badge/-Austin-lightgrey?style=flat)
+
+  Keywords: film, music, interactive arts
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.sxsw.com%2F)
+
+
+
+### Education
+
+- Name: [**Goldsmiths**](https://www.gold.ac.uk/pg/ma-computational-arts/)
+
+  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+
+  Keywords: a degree which develops your arts practice through the expressive world of creative computation
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.gold.ac.uk%2Fpg%2Fma-computational-arts%2F)
+
+
+- Name: [**ITP**](https://tisch.nyu.edu/itp)
+
+  Locations: ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
+
+  Keywords: ITP/IMA offers four programs focused on creative and meaningful application of interactive tools and media.
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Ftisch.nyu.edu%2Fitp)
+
+
+- Name: [**MIT Medialab**](https://media.mit.edu/)
+
+  Locations: ![Boston](https://img.shields.io/badge/-Boston-lightgrey?style=flat)
+
+  Keywords: art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fmedia.mit.edu%2F)
+
+
+- Name: [**Paris College of Art**](https://www.paris.edu/programs/graduate/master-transdisciplinary-new-media/)
+
+  Locations: ![Paris](https://img.shields.io/badge/-Paris-lightgrey?style=flat)
+
+  Keywords: designed for those who are interested in exploring the wide-ranging creative field of New Media
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.paris.edu%2Fprograms%2Fgraduate%2Fmaster-transdisciplinary-new-media%2F)
+
+
+- Name: [**University of the Arts**](https://www.arts.ac.uk/subjects/creative-computing/postgraduate/mres-creative-computing)
+
+  Locations: ![London](https://img.shields.io/badge/-London-lightgrey?style=flat)
+
+  Keywords: computational technologies in the context of creative computing research
+
+  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.arts.ac.uk%2Fsubjects%2Fcreative-computing%2Fpostgraduate%2Fmres-creative-computing)
+
+
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
@@ -123,20 +239,11 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=http%3A%2F%2Fwww.blu-blu.com%2F)
 
 
-- Name: [**Blue Cadet**](https://www.bluecadet.com/)
-
-  Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
-
-  Keywords: experience design across digital and physical environments, visitor centers
-
-  up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.bluecadet.com%2F)
-
-
 - Name: [**Bluecadet**](https://www.bluecadet.com/)
 
   Locations: ![Philadelphia](https://img.shields.io/badge/-Philadelphia-lightgrey?style=flat) ![NYC](https://img.shields.io/badge/-NYC-lightgrey?style=flat)
 
-  Keywords: digital products and environments
+  Keywords: experience design across digital and physical environments, visitor centers
 
   up?: ![](https://img.shields.io/website?down_color=%2300000000\&down_message=%E2%9D%8C\&label=%20\&style=flat-square\&up_color=%2300000000\&up_message=%F0%9F%8C%90\&url=https%3A%2F%2Fwww.bluecadet.com%2F)
 
@@ -251,7 +358,7 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
 
 - Name: [**Dimensional Innovations**](https://dimin.com/)
 
-  Locations: ![Kansas City](https://img.shields.io/badge/-Kansas%20City-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat) ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat) ![Los Angeles](https://img.shields.io/badge/-Los%20Angeles-lightgrey?style=flat) ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
+  Locations: ![Kansas City](https://img.shields.io/badge/-Kansas%20City-lightgrey?style=flat) ![Atlanta](https://img.shields.io/badge/-Atlanta-lightgrey?style=flat) ![Minneapolis](https://img.shields.io/badge/-Minneapolis-lightgrey?style=flat) ![Denver](https://img.shields.io/badge/-Denver-lightgrey?style=flat) ![LA](https://img.shields.io/badge/-LA-lightgrey?style=flat) ![Pittsburgh](https://img.shields.io/badge/-Pittsburgh-lightgrey?style=flat)
 
   Keywords: experience design, interactive experiences, brand activation
 

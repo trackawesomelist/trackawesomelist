@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/tortuvshin/open-source-flutter-apps/week/README.md) / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Contents / Tools
+
+*   [RSA Encryption (⭐21)](https://github.com/vellt/RSA-Encryption-Flutter) - A simple UI for encrypting messages by [vellt](https://github.com/vellt).
+
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
 ### Contents / Education

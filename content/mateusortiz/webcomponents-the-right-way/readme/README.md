@@ -8,11 +8,14 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ---
 
-# Web Components the Right Way
+# Awesome Web Components
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome Web Components resources.
+A curated list of awesome Web Components resources.
+
+> **Note**
+> This project was previously named "Web Components the Right Way"
 
 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) — a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.
 
@@ -69,9 +72,8 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
     *   [Polyfills](#polyfills)
     *   [History](#history)
 *   [Who to follow](#who-to-follow)
+*   [Maintainers](#maintainers)
 *   [License](#license)
-
-> Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Introduction
 
@@ -269,6 +271,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 *   [`<range-slider>`](https://github.com/andreruffert/range-slider-element) - Accessible range slider custom element with keyboard support.
 *   [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web component for creating documentation from OpenAPI Specification.
 *   [`<shader-doodle>`](https://github.com/halvves/shader-doodle) - Web component for writing and rendering shaders.
+*   [`<theme-switch>`](https://github.com/mahozad/theme-switch) - Animated toggle button to switch between light, dark, and system theme.
 *   [`<trix-editor>`](https://github.com/basecamp/trix) - Rich text editor custom element for everyday writing.
 *   [`<vime-player>`](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player.
 *   [`<web-vitals>`](https://github.com/stefanjudis/web-vitals-element) - Bring [web vitals (⭐5.6k)](https://github.com/GoogleChrome/web-vitals) quickly into your page using custom elements.
@@ -802,12 +805,12 @@ These materials are here for historical reasons only, they are grouped by years 
   <tbody>
 </table>
 
+## Maintainers
+
+*   Created by [@mateusortiz](https://github.com/mateusortiz) in 2014.
+*   Maintained by [@web-padawan](https://github.com/web-padawan) since 2018.
+
 ## License
 
-Copyright 2014-2018, All rights reserved.
-
-Code licensed under the:
-[MIT license](http://mateusortiz.mit-license.org)
-
-@author Mateus Ortiz [mteusortiz@gmail.com](https://github.com/mateusortiz/webcomponents-the-right-way/blob/master/README.md/mailto:mteusortiz@gmail.com)
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 

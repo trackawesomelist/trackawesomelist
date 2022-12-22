@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/thibmaek/awesome-raspberry-pi/week/README.md) / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Tools
+
+*   [rpi-cookstrap (⭐5)](https://github.com/heeplr/rpi-cookstrap) - A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Articles / iOS

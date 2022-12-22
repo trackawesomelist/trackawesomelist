@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Dec 20, 2022](/content/2022/12/20/README.md)
+
+### Books
+
+*   :books: [Advanced TypeScript 3 Programming Projects](https://www.packtpub.com/product/advanced-typescript-3-programming-projects/9781789133042) by Peter O'Hanlon
+
 ## [Dec 12, 2022](/content/2022/12/12/README.md)
 
 ### :dollar: Paid Courses / Chrome Extensions

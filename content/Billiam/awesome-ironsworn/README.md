@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Snow Forged](https://drive.google.com/file/d/1--u-E0RiBN-1kw8opo4JfPNlXNz7QBoe/view?usp=sharing) - A stripped-down ruleset for playing short, fun, Christmas-themed adventures
+
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
 ### Hacks and homebrew / Ironsworn

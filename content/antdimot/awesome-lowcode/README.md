@@ -6,6 +6,14 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Visual programming
+
+*   [Shuffle](https://shuffle.dev/) - Create teamplate in minutes.
+*   [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
+*   [Wized](https://www.wized.io) - Rapidly build real web applications without coding.
+
 ## [Dec 14, 2022](/content/2022/12/14/README.md)
 
 ### Flow-based programming

@@ -6,6 +6,17 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Components
+
+*   [`<theme-switch>`](https://github.com/mahozad/theme-switch) - Animated toggle button to switch between light, dark, and system theme.
+
+### Maintainers / 2011
+
+*   Created by [@mateusortiz](https://github.com/mateusortiz) in 2014.
+*   Maintained by [@web-padawan](https://github.com/web-padawan) since 2018.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Introduction

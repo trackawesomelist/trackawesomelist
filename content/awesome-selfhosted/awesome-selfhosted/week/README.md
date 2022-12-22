@@ -8,6 +8,10 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
+### Software / Communication - Email - Complete Solutions
+
+*   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐12k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
+
 ### Software / Communication - Video Conferencing
 
 *   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐42)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
@@ -2164,10 +2168,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Email - Complete Solutions
 
 *   [Maddy Mail Server (⭐3.6k)](https://github.com/foxcpp/maddy) - All-in-one mail server that implements SMTP (both MTA and MX) and IMAP. Replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC with single daemon. `GPL-3.0` `Go`
-
-### Software / Communication - Email - Mailing Lists and Newsletters
-
-*   [Postal](https://postal.atech.media/) - Fully featured open source mail delivery platform for incoming and outgoing e-mail. ([Source Code (⭐12k)](https://github.com/postalhq/postal)) `MIT` `Ruby`
 
 ### Software / Communication - SIP
 

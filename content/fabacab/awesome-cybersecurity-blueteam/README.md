@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md) / [Overview](/content/fabacab/awesome-cybersecurity-blueteam/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Host-based tools / Tarpits
+
+*   [USB Keystroke Injection Protection (⭐427)](https://github.com/google/ukip) - Daemon for blocking USB keystroke injection devices on Linux systems.
+
 ## [Dec 16, 2022](/content/2022/12/16/README.md)
 
 ### Security monitoring / Network Security Monitoring (NSM)

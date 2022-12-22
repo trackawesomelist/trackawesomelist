@@ -6,6 +6,18 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 21, 2022](/content/2022/12/21/README.md)
+
+### Preconfigured Configuration / Diagnostics
+
+*   [jonathandion/web-dev.nvim (⭐27)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+
+## [Dec 20, 2022](/content/2022/12/20/README.md)
+
+### Editing Support / Diagnostics
+
+*   [debugloop/telescope-undo.nvim (⭐42)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+
 ## [Dec 18, 2022](/content/2022/12/18/README.md)
 
 ### Formatting / Diagnostics

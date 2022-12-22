@@ -135,7 +135,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Web
 
 *   [Gitly (⭐1.1k)](https://github.com/vlang/gitly) - A light and fast SCM alternative to GitHub/GitLab written in V.
-*   [Heroku Buildpack for V (⭐20)](https://github.com/louis77/heroku-buildpack-v) - Deploy V apps on Heroku.
+*   [Heroku Buildpack for V (⭐0)](https://github.com/zztkm/heroku-buildpack-v) - Deploy V apps on Heroku.
 *   [vblog (⭐15)](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 *   [Vebview.JS (⭐33)](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
 *   [Vieter (⭐5)](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.

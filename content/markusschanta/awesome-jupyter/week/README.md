@@ -6,6 +6,12 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ [Daily](/content/markusschanta/awesome-jupyter/README.md) / Weekly / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### JupyterLab Extensions
+
+*   [jupyter-panel-proxy (⭐6)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Visualization
@@ -63,7 +69,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### JupyterLab Extensions
 
-*   [lineapy (⭐433)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐444)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
@@ -164,7 +170,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [ipychart (⭐67)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 
 ### Rendering/Publishing/Conversion
 
@@ -175,7 +181,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [Evidently (⭐2.9k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐3k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
@@ -370,7 +376,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Runtimes/Frontends
 
-*   [ML Workspace (⭐2.8k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
+*   [ML Workspace (⭐2.9k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 
 ### Hosted Notebook Solutions
 
@@ -489,7 +495,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [Altair (⭐7.9k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐3.9k)](https://github.com/vega/vega-lite).
+*   [Altair (⭐8k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐3.9k)](https://github.com/vega/vega-lite).
 *   [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 *   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
 *   [pyecharts (⭐13k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐54k)](https://github.com/apache/incubator-echarts) visualization library.

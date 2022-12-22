@@ -2,9 +2,15 @@
 
 👻 A curated list of awesome VLC and LibVLC resources. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mfkl/awesome-vlc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc) · ⭐ 62 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mfkl/awesome-vlc/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mfkl/awesome-vlc](https://github.com/mfkl/awesome-vlc) · ⭐ 66 · 🏷️ Media
 
 [ Daily / [Weekly](/content/mfkl/awesome-vlc/week/README.md) / [Overview](/content/mfkl/awesome-vlc/readme/README.md) ]
+
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Bindings
+
+*   [libvlc-zig (⭐5)](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC.
 
 ## [Oct 05, 2022](/content/2022/10/05/README.md)
 
@@ -23,7 +29,7 @@
 ### VLC lua extensions
 
 *   [VideoLAN addons website](https://addons.videolan.org/browse/) - VideoLAN addons website.
-*   [vlc-delete (⭐39)](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
+*   [vlc-delete (⭐40)](https://github.com/surrim/vlc-delete) - VLC extension to remove videos from the hard disk.
 *   [TraktForVLC (⭐294)](https://github.com/XaF/TraktForVLC) - Automatically trakt.tv what you're watching on VLC.
 *   [playlist-youtube-vlc (⭐0)](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 *   [vlc-super-skipper (⭐6)](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
@@ -32,7 +38,7 @@
 
 ### VLC native plugins
 
-*   [vlc-win10smtc (⭐8)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
+*   [vlc-win10smtc (⭐13)](https://github.com/spmn/vlc-win10smtc) - Plugin that integrates VLC Media Player with Windows 10 System Media Transport Controls (SMTC).
 
 ## [Jun 30, 2021](/content/2021/06/30/README.md)
 
@@ -73,7 +79,7 @@
 
 *   [VLCKit](https://code.videolan.org/videolan/VLCKit) - The libvlc bindings for macOS, iOS, iPadOS and tvOS in Objective-C.
 *   [libvlcjni](https://code.videolan.org/videolan/vlc-android/-/tree/master/libvlc) - The libvlc bindings for the Android platform.
-*   [flutter\_vlc\_player (⭐374)](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
+*   [flutter\_vlc\_player (⭐386)](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
 
 ## [Apr 08, 2021](/content/2021/04/08/README.md)
 
@@ -96,9 +102,9 @@
 
 ### VLC native plugins
 
-*   [vlc-pause-click-plugin (⭐651)](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click.
+*   [vlc-pause-click-plugin (⭐674)](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click.
 *   [vlc-tip-plugin (⭐43)](https://github.com/aklexel/vlc-tip-plugin) - TIP (translate it, please) is a plugin for VLC media player that helps you to study languages by watching videos.
-*   [vlc-bittorrent (⭐337)](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
+*   [vlc-bittorrent (⭐345)](https://github.com/johang/vlc-bittorrent) - A bittorrent plugin for VLC.
 
 ### Apps
 
@@ -109,9 +115,9 @@
 ### Bindings
 
 *   [vlc-unity](https://code.videolan.org/videolan/vlc-unity) - Unity3D integration for VLC.
-*   [python-vlc (⭐297)](https://github.com/oaubert/python-vlc) - Python vlc bindings.
-*   [vlcj (⭐936)](https://github.com/caprica/vlcj) -  Java framework for the vlc media player (desktop).
+*   [python-vlc (⭐312)](https://github.com/oaubert/python-vlc) - Python vlc bindings.
+*   [vlcj (⭐953)](https://github.com/caprica/vlcj) -  Java framework for the vlc media player (desktop).
 *   [LibVLCSharp (⭐1.1k)](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC.
-*   [libvlc-go (⭐320)](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
+*   [libvlc-go (⭐326)](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
 *   [libvlcpp](https://code.videolan.org/videolan/libvlcpp/) - C++ bindings for libvlc.
-*   [dart\_vlc (⭐384)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
+*   [dart\_vlc (⭐416)](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.

@@ -99,6 +99,7 @@ A categorized collection of high-quality [Ironsworn](https://www.ironswornrpg.co
 *   [Pinkysworn](https://www.drivethrurpg.com/product/405015/Pinkysworn) - Ironcampers swear pinky promises in a summercamp-themed abbreviation of the Ironsworn rules
 *   [Ringsworn](https://www.dropbox.com/s/72tq31pxzqc7bx0/Ringsworn.pdf?dl=0) - Ironsworn rules grafted onto The One Ring dice mechanics
 *   [Silently Sworn](https://silentlysworn.wordpress.com/) - A cosmic horror supplement
+*   [Snow Forged](https://drive.google.com/file/d/1--u-E0RiBN-1kw8opo4JfPNlXNz7QBoe/view?usp=sharing) - A stripped-down ruleset for playing short, fun, Christmas-themed adventures
 *   [Solar Crown Online](https://umbralaeronaut.itch.io/solar-crown-online) - Undertake perilous quests in the world of Solar Crown Online, a wildly-popular MMORPG
 *   [Spiritbound](https://mstrocks.itch.io/spiritbound) - A Studio Ghibli hack of Ironsworn
 *   [Starforged Oracles for Fantasy Settings](https://www.patreon.com/posts/starforged-for-73094405) - Numerous oracles for fantasy settings in Starforged

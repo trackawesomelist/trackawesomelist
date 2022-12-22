@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sindresorhus/awesome/README.md) / Weekly / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Front-End Development
+
+*   [Web Components (⭐2k)](https://github.com/web-padawan/awesome-web-components#readme)
+
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### Databases
@@ -168,7 +174,7 @@
 
 *   [Speech and Natural Language Processing (⭐2.1k)](https://github.com/edobashira/speech-language-processing#readme)
     *   [Spanish (⭐305)](https://github.com/dav009/awesome-spanish-nlp#readme)
-    *   [NLP with Ruby (⭐973)](https://github.com/arbox/nlp-with-ruby#readme)
+    *   [NLP with Ruby (⭐977)](https://github.com/arbox/nlp-with-ruby#readme)
     *   [Question Answering (⭐710)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
     *   [Natural Language Generation (⭐391)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
 
@@ -1249,7 +1255,6 @@
 *   [ES6 Tools (⭐3.9k)](https://github.com/addyosmani/es6-tools#readme)
 *   [Web Performance Optimization (⭐7.7k)](https://github.com/davidsonfellipe/awesome-wpo#readme)
 *   [Web Tools (⭐835)](https://github.com/lvwzhen/tools#readme)
-*   [Web Components (⭐2k)](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 *   [Polymer (⭐394)](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 *   [Backbone (⭐402)](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 *   [HTML5 (⭐2.1k)](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.

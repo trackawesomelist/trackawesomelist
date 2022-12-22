@@ -11,6 +11,7 @@ An awesome list of awesome Ironsworn projects
 ### Hacks and homebrew / Ironsworn
 
 *   [Ironcrunch](https://www.patreon.com/LudicPen/posts?filters%5Btag%5D=Ironcrunch) - A crunchy Ironsworn supplement
+*   [Snow Forged](https://drive.google.com/file/d/1--u-E0RiBN-1kw8opo4JfPNlXNz7QBoe/view?usp=sharing) - A stripped-down ruleset for playing short, fun, Christmas-themed adventures
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 

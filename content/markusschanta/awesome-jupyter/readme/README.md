@@ -67,7 +67,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [JupyterLab (⭐13k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 *   [JupyterWith (⭐400)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
 *   [kaggle/docker-python (⭐2.1k)](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
-*   [ML Workspace (⭐2.8k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
+*   [ML Workspace (⭐2.9k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 *   [nteract (⭐5.9k)](https://github.com/nteract/nteract) - Native desktop notebook frontend.
 *   [Stencila (⭐658)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 *   [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) - Native desktop notebook frontend.
@@ -89,12 +89,12 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## Visualization
 
-*   [Altair (⭐7.9k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐3.9k)](https://github.com/vega/vega-lite).
+*   [Altair (⭐8k)](https://github.com/altair-viz/altair) - Declarative visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite (⭐3.9k)](https://github.com/vega/vega-lite).
 *   [Bokeh](https://bokeh.pydata.org/en/latest/) - Interactive visualization library that targets modern web browsers for presentation.
 *   [bqplot (⭐3.4k)](https://github.com/bloomberg/bqplot) - Grammar of Graphics-based interactive plotting framework for Jupyter.
-*   [Evidently (⭐2.9k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐3k)](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring.
 *   [hvplot](https://hvplot.holoviz.org/) - A familiar and high-level API for data exploration and visualization in Jupyter.
-*   [ipychart (⭐67)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
+*   [ipychart (⭐68)](https://github.com/nicohlr/ipychart) - Interactive Chart.js plots in Jupyter.
 *   [ipycytoscape (⭐213)](https://github.com/cytoscape/ipycytoscape) - Widget for interactive graph visualization in Jupyter using cytoscape.js. <!--lint disable double-link-->
 *   [ipydagred3 (⭐44)](https://github.com/timkpaine/ipydagred3) - [ipywidgets (⭐2.7k)](https://github.com/jupyter-widgets/ipywidgets) library for drawing directed acyclic graphs in jupyterlab using dagre-d3.  <!--lint enable double-link-->
 *   [ipyleaflet (⭐1.3k)](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
@@ -171,6 +171,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [google-drive (⭐381)](https://github.com/jupyterlab/jupyterlab-google-drive) - Extension for Google Drive integration.
 *   [jupyter-fs (⭐128)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
 *   [jupyter-notify (⭐568)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
+*   [jupyter-panel-proxy (⭐6)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server.
 *   [jupyterlab-executor (⭐6)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
 *   [jupyterlab-kyso (⭐1)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
 *   [jupyterlab-notifications (⭐42)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
@@ -182,7 +183,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [jupyterlab\_miami\_nights (⭐76)](https://github.com/timkpaine/jupyterlab_miami_nights) - Combination of VS Code's SynthWave '84 and JupyterLab's Neon Night themes.
 *   [jupyterlab\_templates (⭐319)](https://github.com/jpmorganchase/jupyterlab_templates) - Notebook templates in JupyterLab.
 *   [latex (⭐537)](https://github.com/jupyterlab/jupyterlab-latex) - Extension for live editing of LaTeX documents.
-*   [lineapy (⭐433)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
+*   [lineapy (⭐444)](https://github.com/LineaLabs/lineapy) - Extension for transforming messy Jupyter notebooks to production-ready pipelines with two lines of code.
 *   [lsp (⭐17)](https://github.com/krassowski/jupyterlab-lsp) - IDE-like features (code navigation, hover suggestions, linters, diagnostics, kernel-less autocompletion etc.)
 *   [nb\_black (⭐327)](https://github.com/dnanhkhoa/nb_black) - Extension to keep Python code automatically formatted using [black (⭐30k)](https://github.com/psf/black).
 *   [python-bytecode (⭐59)](https://github.com/jtpio/jupyterlab-python-bytecode) - Explore CPython Bytecode in JupyterLab.

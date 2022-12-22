@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Dec 22, 2022](/content/2022/12/22/README.md)
+
+### Software / Communication - Email - Complete Solutions
+
+*   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐12k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
+
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
 ### Software / Communication - Video Conferencing
@@ -2390,10 +2396,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Custom Communication Systems
 
 *   [PushBits (⭐204)](https://github.com/pushbits/server) - Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. `ISC` `Go`
-
-### Software / Communication - Email - Mailing Lists and Newsletters
-
-*   [Postal](https://postal.atech.media/) - Fully featured open source mail delivery platform for incoming and outgoing e-mail. ([Source Code (⭐12k)](https://github.com/postalhq/postal)) `MIT` `Ruby`
 
 ### Software / Communication - Social Networks and Forums
 
