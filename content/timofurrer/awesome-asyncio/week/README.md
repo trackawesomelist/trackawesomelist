@@ -2,15 +2,21 @@
 
 A curated list of awesome Python asyncio frameworks, libraries, software and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/timofurrer/awesome-asyncio/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) · ⭐ 3.7K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/timofurrer/awesome-asyncio/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) · ⭐ 3.8K · 🏷️ Programming Languages
 
 [ [Daily](/content/timofurrer/awesome-asyncio/README.md) / Weekly / [Overview](/content/timofurrer/awesome-asyncio/readme/README.md) ]
+
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Web Frameworks
+
+*   [Django](https://www.djangoproject.com/) - An established, high-level Python web framework with a huge community and ecosystem.
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### Database Drivers
 
-*   [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor (⭐2k)](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
+*   [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor (⭐2.1k)](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
@@ -21,12 +27,12 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 ### Database Drivers
 
 *   [redis-py (⭐11k)](https://github.com/redis/redis-py) - Redis Python Client (which includes [aioreadis (⭐2.2k)](https://github.com/aio-libs/aioredis) now).
-*   [Prisma Client Python (⭐858)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
-*   [Piccolo (⭐878)](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
+*   [Prisma Client Python (⭐908)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
+*   [Piccolo (⭐910)](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
 
 ### Networking
 
-*   [aioping (⭐67)](https://github.com/stellarbit/aioping) - Fast asyncio implementation of ICMP (ping) protocol.
+*   [aioping (⭐68)](https://github.com/stellarbit/aioping) - Fast asyncio implementation of ICMP (ping) protocol.
 
 ### GraphQL
 
@@ -34,11 +40,11 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Misc
 
-*   [aiochan (⭐125)](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
-*   [aiopath (⭐61)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
+*   [aiochan (⭐127)](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
+*   [aiopath (⭐68)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
 *   [aiosc (⭐26)](https://github.com/artfwo/aiosc) -  Lightweight Open Sound Control implementation.
-*   [kubernetes\_asyncio (⭐243)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
-*   [aiomisc (⭐286)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
+*   [kubernetes\_asyncio (⭐249)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
+*   [aiomisc (⭐293)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 
 ### Alternatives to asyncio
 
@@ -60,7 +66,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Misc
 
-*   [aiocache (⭐746)](https://github.com/argaen/aiocache) - Cache manager for different backends.
+*   [aiocache (⭐760)](https://github.com/argaen/aiocache) - Cache manager for different backends.
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 
@@ -73,7 +79,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Networking
 
-*   [httpx (⭐9.6k)](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests (⭐48k)](https://github.com/psf/requests) compatible API.
+*   [httpx (⭐9.8k)](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests (⭐49k)](https://github.com/psf/requests) compatible API.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 
@@ -107,14 +113,14 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
-*   [Databases (⭐3.1k)](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
+*   [Databases (⭐3.2k)](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 
 ### Message Queues
 
 *   [pyzmq (⭐3.2k)](https://github.com/zeromq/pyzmq) - Python bindings for ZeroMQ.
-*   [aiozmq (⭐389)](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
+*   [aiozmq (⭐393)](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
 
 ### Writings
 
@@ -124,26 +130,26 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
-*   [Tortoise ORM (⭐3.2k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
+*   [Tortoise ORM (⭐3.3k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 
 ## [Dec 17 - Dec 23, 2018](/content/2018/51/README.md)
 
 ### Web Frameworks
 
-*   [FastAPI (⭐51k)](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
+*   [FastAPI (⭐52k)](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
 
 ## [Nov 05 - Nov 11, 2018](/content/2018/45/README.md)
 
 ### Testing
 
-*   [aresponses (⭐92)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.7k)](https://github.com/getsentry/responses) library used for [requests (⭐48k)](https://github.com/requests/requests).
-*   [aioresponses (⭐388)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
+*   [aresponses (⭐93)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.8k)](https://github.com/getsentry/responses) library used for [requests (⭐49k)](https://github.com/requests/requests).
+*   [aioresponses (⭐398)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
 
 ## [Oct 29 - Nov 04, 2018](/content/2018/44/README.md)
 
 ### Web Frameworks
 
-*   [uvicorn (⭐5.8k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+*   [uvicorn (⭐5.9k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
 
 ## [Oct 22 - Oct 28, 2018](/content/2018/43/README.md)
 
@@ -155,24 +161,24 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Web Frameworks
 
-*   [Starlette (⭐7.6k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
+*   [Starlette (⭐7.7k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 
 ### Networking
 
-*   [aiodns (⭐465)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
+*   [aiodns (⭐470)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
 
 ## [Sep 24 - Sep 30, 2018](/content/2018/39/README.md)
 
 ### Misc
 
-*   [aioserial (⭐107)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
+*   [aioserial (⭐109)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
 
 ## [Aug 20 - Aug 26, 2018](/content/2018/34/README.md)
 
 ### Message Queues
 
-*   [asyncio-nats (⭐591)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
-*   [aiokafka (⭐800)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
+*   [asyncio-nats (⭐606)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
+*   [aiokafka (⭐814)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
 
 ## [Jul 16 - Jul 22, 2018](/content/2018/29/README.md)
 
@@ -197,13 +203,13 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
-*   [aioinflux (⭐157)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
+*   [aioinflux (⭐158)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 
 ## [Mar 05 - Mar 11, 2018](/content/2018/10/README.md)
 
 ### Database Drivers
 
-*   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.7k)](https://github.com/MagicStack/asyncpg) dialect.
+*   [GINO (⭐2.5k)](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg (⭐5.8k)](https://github.com/MagicStack/asyncpg) dialect.
 
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
 
@@ -221,13 +227,13 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Web Frameworks
 
-*   [websockets (⭐4.2k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+*   [websockets (⭐4.3k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 
 ## [Oct 23 - Oct 29, 2017](/content/2017/43/README.md)
 
 ### Misc
 
-*   [aiorun (⭐340)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+*   [aiorun (⭐345)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 
 ## [Aug 07 - Aug 13, 2017](/content/2017/32/README.md)
 
@@ -239,7 +245,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
-*   [asyncpgsa (⭐403)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
+*   [asyncpgsa (⭐404)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
 
 ## [Jan 30 - Feb 05, 2017](/content/2017/5/README.md)
 
@@ -251,13 +257,13 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
-*   [peewee-async (⭐666)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.6k)](https://github.com/coleifer/peewee) and aiopg.
+*   [peewee-async (⭐665)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.6k)](https://github.com/coleifer/peewee) and aiopg.
 
 ## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
 
 ### Database Drivers
 
-*   [asyncpg (⭐5.7k)](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
+*   [asyncpg (⭐5.8k)](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
 *   [aioes (⭐97)](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
 
 ## [Nov 07 - Nov 13, 2016](/content/2016/45/README.md)
@@ -277,8 +283,8 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 *   [aiopg (⭐1.3k)](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 *   [aiomysql (⭐1.5k)](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
-*   [aioodbc (⭐250)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
-*   [motor (⭐2k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+*   [aioodbc (⭐253)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+*   [motor (⭐2.1k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 *   [aiocouchdb (⭐53)](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 
 ### Networking
@@ -287,12 +293,12 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Testing
 
-*   [asynctest (⭐302)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
-*   [pytest-asyncio (⭐1k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+*   [asynctest (⭐301)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
+*   [pytest-asyncio (⭐1.1k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 
 ### Alternative Loops
 
-*   [uvloop (⭐9k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+*   [uvloop (⭐9.1k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
 ### Misc
 

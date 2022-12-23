@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Dec 23, 2022](/content/2022/12/23/README.md)
+
+### Security / Angular
+
+*   [RTC Security Newsletter](https://www.rtcsec.com/newsletter/). A monthly newsletter of real-time communication security news, research, and occasional updates by Enable Security.
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Java / Angular

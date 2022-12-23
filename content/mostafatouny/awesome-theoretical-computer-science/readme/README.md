@@ -2,7 +2,7 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 300 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 316 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / Overview ]
 
@@ -481,6 +481,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 *   [Weinberg. Four Golden Lessons](https://www.nature.com/articles/426389a) - Lessons for students and researchers given by Steven Weinberg.
 *   [Princeton's Companion. Advice to a Young Mathematician](http://assets.press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf) - Five contributors draw on their experiences of mathematical life and research, and to offer advice that they might have liked to receive when they were just setting-out on their careers.
 *   [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
+*   [Igor Pak. How to Start a Paper](https://igorpak.wordpress.com/2022/10/26/how-to-start-a-paper/) - Why should you introduce a conceptual preliminary motivating the story of your paper.
 
 ## Special Magazines and Workshops<a name=other_resources_special_magazines_and_workshops></a>
 
@@ -510,8 +511,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Related Awesome Lists<a name=related_awesome_lists></a>
 
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Mathematics (⭐6.4k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   [Cryptography (⭐4.1k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Mathematics (⭐6.6k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   [Cryptography (⭐4.2k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 *   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
-*   P.S. See also [Math (⭐1.8k)](https://github.com/ossu/math) and [CS (⭐126k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   P.S. See also [Math (⭐1.9k)](https://github.com/ossu/math) and [CS (⭐129k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 

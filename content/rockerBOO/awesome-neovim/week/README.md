@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
+### Utility / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.animate (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+
 ### Editing Support / Diagnostics
 
 *   [debugloop/telescope-undo.nvim (⭐42)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.

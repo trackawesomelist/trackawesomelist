@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 23, 2022](/content/2022/12/23/README.md)
+
+### Utility / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.animate (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-animate.md) - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+
 ## [Dec 21, 2022](/content/2022/12/21/README.md)
 
 ### Preconfigured Configuration / Diagnostics

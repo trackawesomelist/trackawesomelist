@@ -2,7 +2,7 @@
 
 Curated list of everything awesome around pixel art.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 779 · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 799 · 🏷️ Media
 
 [ [Daily](/content/Siilwyn/awesome-pixel-art/README.md) / [Weekly](/content/Siilwyn/awesome-pixel-art/week/README.md) / Overview ]
 
@@ -74,6 +74,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 *   [Stardew Valley](https://stardewvalley.net/) - Manage a farm from a top-down perspective and engage with a charming and cheerful world in 16-bit.
 *   [Starbound](https://playstarbound.com/) - Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
 *   [Void Golf](https://cactusmancer.itch.io/void-golf) - Shoot giant pieces of space rock into black holes, using gravitational fields, physics-defying walls and wormholes in a minimalist top-down view.
+*   [Minit](https://www.devolverdigital.com/games/minit) - With a minimalistic design (only two colors palette). Minit is an adventure where each exploration journey is limited to 60 seconds.
 
 ### Videos
 

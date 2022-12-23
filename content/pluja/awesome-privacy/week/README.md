@@ -12,6 +12,10 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 *   [Memos (⭐4.3k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
+### Blogging platforms (Medium)
+
+*   [Scribe](https://git.sr.ht/\~edwardloveall/scribe/) - Medium alternative forntend inspired by Invidious.
+
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### 2FA
@@ -118,7 +122,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **Blogger** - Google owned, has google trackers and ads.
 *   [Plume (⭐1.8k)](https://github.com/Plume-org/Plume) 🧩 - Federated blogging application, thanks to ActivityPub.
 *   [WriteFreely](https://writefreely.org/) 🧩 - An open source platform for building a writing space on the web.
-*   [Scribe](https://sr.ht/\~edwardloveall/scribe/) - Medium alternative forntend inspired by Invidious.
 
 ### Instagram
 

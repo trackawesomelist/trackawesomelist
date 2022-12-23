@@ -48,7 +48,7 @@ A tangible way to give back to the open source community!
 *   [DIGImend](https://www.patreon.com/spbnick) - Improving Linux support for (non-Wacom) graphics tablets.
 *   [DokuWiki](https://www.patreon.com/dokuwiki) - Wiki application.
 *   [Duplicati](https://opencollective.com/duplicati) - Backup client.
-*   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/) - An installable catalogue of FOSS applications for the Android platform.
+*   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - An installable catalogue of FOSS applications for the Android platform.
 *   [Firezone](https://github.com/orgs/firezone/sponsoring) - Self-hosted VPN server using WireGuard.
 *   [Flarum](https://opencollective.com/flarum/) - Forum platform.
 *   [FreeCAD](https://freecadweb.org/wiki/Donate) - Parametric 3D modeler made primarily to design real-life objects of any size.
@@ -100,7 +100,7 @@ A tangible way to give back to the open source community!
 *   [Retrospring](https://patreon.com/retrospring), [#2](https://opencollective.com/retrospring), [#3](https://github.com/sponsors/Retrospring) - A social network following the Q/A (question and answer) principle.
 *   [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 *   [ShareX Team](https://www.patreon.com/ShareX) - Screen capture and screen sharing tool.
-*   [Synfig](https://www.patreon.com/synfig) - 2D animation software.
+*   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 *   [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 *   [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 *   [The Lounge](https://opencollective.com/thelounge) - Modern web IRC client.
@@ -113,7 +113,7 @@ A tangible way to give back to the open source community!
 *   [Weblate](https://liberapay.com/Weblate) - Localization tool with tight version control integration.
 *   [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 *   [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
-*   [WireGuard](https://www.patreon.com/zx2c4) - Next generation secure network tunnel.
+*   [WireGuard](https://www.patreon.com/zx2c4), [#2](https://github.com/sponsors/zx2c4) - Next generation secure network tunnel.
 *   [Xfce](https://opencollective.com/xfce) [#2](https://opencollective.com/xfce-eu) - Desktop environment for UNIX-like operating systems.
 *   [Zig](https://www.patreon.com/andrewrk) [#2](https://github.com/sponsors/ziglang) - System programming language which prioritizes robustness, optimality, and clarity.
 *   [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
@@ -176,8 +176,11 @@ A tangible way to give back to the open source community!
 *   [Citybound](https://www.patreon.com/citybound) - City building game.
 *   [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - Xbox emulator for Windows.
 *   [Eigengrau's Generator](https://www.patreon.com/EigengrausGenerator) - TTRPG/Dungeons and Dragons Town and NPC Generator.
+*   [Fheroes2](https://www.patreon.com/fheroes2) - Free Heroes of Might and Magic II engine.
+*   [Heroic Games Launcher](https://www.patreon.com/heroicgameslauncher), [#2](https://github.com/sponsors/Heroic-Games-Launcher), [#3](https://ko-fi.com/heroicgames) - Open source GOG and Epic Games launcher.
 *   [Libretro Team](https://www.patreon.com/libretro) - Libretro, RetroArch and Lakka.
-*   [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
+*   [Lutris](https://www.patreon.com/lutris), [#2](https://liberapay.com/Lutris) - Game launcher & platform.
+*   [MelonDS](https://www.patreon.com/m/Arisotura) - Nintendo DS emulator.
 *   [Play!](https://www.patreon.com/jpd002) - PS2 emulator.
 *   [Rpcs3](https://www.patreon.com/Nekotekina) - PS3 emulator.
 *   [Ryujinx](https://www.patreon.com/ryujinx) - Nintendo Switch emulator.

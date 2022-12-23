@@ -6,6 +6,14 @@ A curated list of awesome programmers and software projects you can support!
 
 [ [Daily](/content/uraimo/awesome-software-patreons/README.md) / Weekly / [Overview](/content/uraimo/awesome-software-patreons/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Open Source Projects / Games
+
+*   [Fheroes2](https://www.patreon.com/fheroes2) - Free Heroes of Might and Magic II engine.
+*   [Heroic Games Launcher](https://www.patreon.com/heroicgameslauncher), [#2](https://github.com/sponsors/Heroic-Games-Launcher), [#3](https://ko-fi.com/heroicgames) - Open source GOG and Epic Games launcher.
+*   [MelonDS](https://www.patreon.com/m/Arisotura) - Nintendo DS emulator.
+
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### Open Source Projects
@@ -172,7 +180,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects
 
-*   [WireGuard](https://www.patreon.com/zx2c4) - Next generation secure network tunnel.
+*   [WireGuard](https://www.patreon.com/zx2c4), [#2](https://github.com/sponsors/zx2c4) - Next generation secure network tunnel.
 
 ### Open Source Projects / Libraries
 
@@ -212,7 +220,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects
 
-*   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/) - An installable catalogue of FOSS applications for the Android platform.
+*   [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/), [#3](https://opencollective.com/f-droid-euro) - An installable catalogue of FOSS applications for the Android platform.
 *   [MyPaint](https://opencollective.com/mypaint) - Painting and drawing program that works nicely with pressure-sensitive tablets, and its dynamic brush engine library.
 *   [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) - A distributed and secure peer-to-peer protocol and social network.
 
@@ -465,7 +473,7 @@ A curated list of awesome programmers and software projects you can support!
 
 ### Open Source Projects / Games
 
-*   [Lutris](https://www.patreon.com/lutris) - Game launcher & platform.
+*   [Lutris](https://www.patreon.com/lutris), [#2](https://liberapay.com/Lutris) - Game launcher & platform.
 *   [Xenia](https://www.patreon.com/xenia_project) - Xbox 360 emulator.
 
 ### People Doing Open Source Work / Hardware related
@@ -502,7 +510,7 @@ A curated list of awesome programmers and software projects you can support!
 *   [PlantUML](https://www.patreon.com/plantuml) - UML diagram creation software.
 *   [Project Lombok](https://www.patreon.com/lombok) - Java editor plugin.
 *   [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) - Reddit browser extension.
-*   [Synfig](https://www.patreon.com/synfig) - 2D animation software.
+*   [Synfig](https://www.patreon.com/synfig), [#2](https://opencollective.com/synfig) - 2D animation software.
 *   [SysV init](https://www.patreon.com/sysvinit) - System V init implementation.
 *   [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor.
 *   [Transmission](https://transmissionbt.com/donate/) - BitTorrent client.

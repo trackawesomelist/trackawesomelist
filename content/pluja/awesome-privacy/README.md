@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ Daily / [Weekly](/content/pluja/awesome-privacy/week/README.md) / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Dec 23, 2022](/content/2022/12/23/README.md)
+
+### Blogging platforms (Medium)
+
+*   [Scribe](https://git.sr.ht/\~edwardloveall/scribe/) - Medium alternative forntend inspired by Invidious.
+
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 
 ### Self-hosted
@@ -131,7 +137,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   **Blogger** - Google owned, has google trackers and ads.
 *   [Plume (⭐1.8k)](https://github.com/Plume-org/Plume) 🧩 - Federated blogging application, thanks to ActivityPub.
 *   [WriteFreely](https://writefreely.org/) 🧩 - An open source platform for building a writing space on the web.
-*   [Scribe](https://sr.ht/\~edwardloveall/scribe/) - Medium alternative forntend inspired by Invidious.
 
 ### Instagram
 
