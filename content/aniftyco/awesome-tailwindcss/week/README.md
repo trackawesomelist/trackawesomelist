@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📚 [Vanilla Components](https://vanilla-components.com) - Set of fully customizable Vue components.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Tools

@@ -17,6 +17,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Honda Civic Type R](https://www.honda.co.jp/CIVICTYPE-R/configurator/) - Configurator (Japanese).
 
+### Blockchain/Crypto/NFT
+
+*   [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
+
 ## [Sep 12 - Sep 18, 2022](/content/2022/37/README.md)
 
 ### Automotive

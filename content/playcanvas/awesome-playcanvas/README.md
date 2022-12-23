@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Dec 23, 2022](/content/2022/12/23/README.md)
+
+### Blockchain/Crypto/NFT
+
+*   [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
+
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 
 ### IO Games

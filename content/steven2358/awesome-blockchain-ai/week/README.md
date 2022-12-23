@@ -2,9 +2,16 @@
 
 A curated list of Blockchain projects for Artificial Intelligence and Machine Learning
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 538 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/steven2358/awesome-blockchain-ai/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 steven2358/awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) · ⭐ 545 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/steven2358/awesome-blockchain-ai/README.md) / Weekly / [Overview](/content/steven2358/awesome-blockchain-ai/readme/README.md) ]
+
+## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
+
+### Recommended reading / Blockchain, AI and Machine Learning
+
+*   [How the Blockchain Could Break Big Tech's Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - New York Times, October 20, 2018.
+*   [The convergence of AI and Blockchain: what's the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) - Francesco Corea, December 1, 2017.
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
 
@@ -80,8 +87,8 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 ### Blockchains for AI algorithms / Blockchain projects for AI algorithms
 
-*   [Danku (⭐127)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
-*   [Decentralized & Collaborative AI on Blockchain (⭐471)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+*   [Danku (⭐143)](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+*   [Decentralized & Collaborative AI on Blockchain (⭐476)](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ### Blockchains for AI in medicine / Blockchain projects for AI algorithms
 
@@ -109,7 +116,7 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 ### Foundations / Blockchain, AI and Machine Learning
 
-*   [Decentralized AI Alliance (DAIA).](https://daia.foundation/) DAIA is an alliance of serious participants in the AI & blockchain related ecosystem, coming together to collectively solve common challenges and create an amazing future.
+*   [Decentralized AI Alliance (DAIA).](https://daia.foundation/) - DAIA is an alliance of serious participants in the AI & blockchain related ecosystem, coming together to collectively solve common challenges and create an amazing future.
 
 ### Blockchains for data / Blockchain projects for AI algorithms
 
@@ -119,9 +126,9 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 ### Recommended reading / Wikipedia
 
-*   [Blockchain](https://en.wikipedia.org/wiki/Blockchain): "A blockchain is a growing list of records, called blocks, which are linked using cryptography."
-*   [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence): "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
-*   [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning): "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead."
+*   [Blockchain](https://en.wikipedia.org/wiki/Blockchain) - "A blockchain is a growing list of records, called blocks, which are linked using cryptography."
+*   [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) - "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
+*   [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) - "Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead."
 
 ## [Dec 03 - Dec 09, 2018](/content/2018/49/README.md)
 
@@ -137,9 +144,7 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 ### Recommended reading / Blockchain, AI and Machine Learning
 
-*   [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - New York Times, October 20, 2018.
 *   [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) - Hacker Noon, June 7, 2018.
-*   [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) - Francesco Corea, December 1, 2017.
 
 ### Blockchains for AI in finance / Blockchain projects for AI algorithms
 
@@ -170,10 +175,6 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 *   [Intuition Fabric](https://intuitionfabric.com) - The goal of Intuition Fabric is to democratize access to AI through a network of deep learning models that are stored on the interplanetary file system and accessed through the Ethereum blockchain.
 *   [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Neuromation](https://neuromation.io/) - Synthetic datasets generation and algorithm training platform.
 
 ### Blockchains for computation / Blockchain projects for AI algorithms
 
