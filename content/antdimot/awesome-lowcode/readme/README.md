@@ -97,6 +97,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Amplication](https://amplication.com/) - Build production-ready Node.js applications without wasting time on repetitive coding.
 *   [Baserow](https://baserow.io/) - Open source no-code database and Airtable alternative.
 *   [Caspio](https://www.caspio.com/) - Building online database applications without coding.
+*   [Claris](https://www.claris.com/) - Quickly build custom apps yourself that you can’t find anywhere else.
 *   [Coda](https://coda.io/) - All-in-one doc.
 *   [Hasura](https://hasura.io/) - From your databases to a unified GraphQL API in just one minute.
 *   [NocoDB](https://nocodb.com/) - NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet.
@@ -124,6 +125,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Honeycode](https://www.honeycode.aws/) - Build a better way to work.
 *   [Insomnia](https://insomnia.rest) - Build APIs that work.
 *   [Jotform App](https://www.jotform.com/products/apps/) - Create apps for your business.
+*   [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
 *   [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 *   [Plasmic](https://www.plasmic.app/) - The visual builder for your tech stack.
 *   [Potion](https://www.potion.so/) - Create custom websitesin minutes. All on [Notion](https://www.notion.so/).

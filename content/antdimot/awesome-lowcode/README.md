@@ -6,6 +6,16 @@ A collection of Awesome low-code development platform (LCDP).
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
 
+## [Dec 24, 2022](/content/2022/12/24/README.md)
+
+### Online database creator apps
+
+*   [Claris](https://www.claris.com/) - Quickly build custom apps yourself that you can’t find anywhere else.
+
+### Visual programming
+
+*   [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
+
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 
 ### Visual programming

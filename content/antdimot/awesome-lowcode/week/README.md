@@ -8,8 +8,13 @@ A collection of Awesome low-code development platform (LCDP).
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
+### Online database creator apps
+
+*   [Claris](https://www.claris.com/) - Quickly build custom apps yourself that you can’t find anywhere else.
+
 ### Visual programming
 
+*   [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
 *   [Shuffle](https://shuffle.dev/) - Create teamplate in minutes.
 *   [Versoly](https://versoly.com/) - The no-code website builder that everyone loves to use.
 *   [Wized](https://www.wized.io) - Rapidly build real web applications without coding.

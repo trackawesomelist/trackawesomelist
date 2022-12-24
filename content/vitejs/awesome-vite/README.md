@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Dec 24, 2022](/content/2022/12/24/README.md)
+
+### Templates / React
+
+*   [react-xs-admin (⭐1)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+
+### Laravel / Community
+
+*   [Laravel Vite Plugin (⭐577)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+
 ## [Dec 20, 2022](/content/2022/12/20/README.md)
 
 ### Templates / Vue 3

@@ -176,6 +176,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-reactts18-eslint-tailwindcss (⭐8)](https://github.com/dserranoc/vite-reactts18-eslint-tailwindcss) - React 18 + TypeScript + ESLint + TailwindCSS.
 *   [vite-plugin-react-views (⭐5)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 *   [react-vite-template (⭐10)](https://github.com/985563349/react-vite-template) - A react project template.
+*   [react-xs-admin (⭐1)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 
 #### Svelte
 
@@ -640,6 +641,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 *   [Laravel Vite (⭐583)](https://github.com/innocenzi/laravel-vite) - Integration for the Laravel framework.
 *   [Laravel Livewire Plugin (⭐186)](https://github.com/def-studio/vite-livewire-plugin) - Enable hot reloading of Laravel Livewire components without losing state.
+*   [Laravel Vite Plugin (⭐577)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ### CakePHP
 
