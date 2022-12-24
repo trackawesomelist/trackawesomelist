@@ -6,11 +6,17 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ Daily / [Weekly](/content/markusschanta/awesome-jupyter/week/README.md) / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Dec 24, 2022](/content/2022/12/24/README.md)
+
+### Runtimes/Frontends
+
+*   [PaneLite](https://panelite.holoviz.org) - A distribution of [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) that works with [Panel](https://panel.holoviz.org) and the [HoloViz](https://holoviz.org) ecosystem. <!--lint enable double-link-->
+
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 
 ### JupyterLab Extensions
 
-*   [jupyter-panel-proxy (⭐6)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server.
+*   [jupyter-panel-proxy (⭐6)](https://github.com/holoviz/jupyter-panel-proxy) - Automatically serve notebooks as [Panel](https://panel.holoviz.org) data apps at the `/panel` endpoint of your Jupyter server. <!--lint enable double-link-->
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -102,7 +108,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 ### JupyterLab Extensions
 
 *   [jupyter-fs (⭐128)](https://github.com/jpmorganchase/jupyter-fs) - A filesystem-like content manager for multiple backends in Jupyter.
-*   [jupyter-notify (⭐568)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion.
+*   [jupyter-notify (⭐568)](https://github.com/ShopRunner/jupyter-notify) - Cell magic for browser notification of cell completion. <!--lint disable double-link-->
 *   [jupyterlab-executor (⭐6)](https://github.com/gavincyi/jupyterlab-executor) - Extension to execute scripts from the Jupyterlab file browser. <!--lint disable double-link-->
 *   [jupyterlab-kyso (⭐1)](https://github.com/kyso-io/jupyterlab-extension) - Extension to publish notebooks to the [Kyso](https://kyso.io) platform from Jupyterlab. <!--lint enable double-link-->
 *   [jupyterlab-notifications (⭐42)](https://github.com/mwakaba2/jupyterlab-notifications) - Customizable notebook cell completion browser notifications for JupyterLab.
@@ -527,7 +533,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 *   [JupyterHub (⭐7k)](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 *   [JupyterLab (⭐13k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 *   [kaggle/docker-python (⭐2.1k)](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
-*   [nteract (⭐5.9k)](https://github.com/nteract/nteract) - Native desktop notebook frontend.
+*   [nteract (⭐5.9k)](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
 *   [Stencila (⭐658)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ### Collaboration/Education

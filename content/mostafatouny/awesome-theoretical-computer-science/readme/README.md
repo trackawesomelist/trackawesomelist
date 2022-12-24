@@ -28,7 +28,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
         *   [Introductory](#theory_of_computation_computational_complexity_introductory)
             *   [Lecture Videos Playlists](#theory_of_computation_computational_complexity_introductory_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_introductory_lecture_notes) | [Books](#theory_of_computation_computational_complexity_introductory_books)
         *   [Communication Complexity](#theory_of_computation_computational_complexity_communication_complexity)
-            *   [Books](#theory_of_computation_computational_complexity_communication_complexity_books)
+            *   [Lecture Notes](#theory_of_computation_computational_complexity_communication_complexity_lecture_notes) | [Books](#theory_of_computation_computational_complexity_communication_complexity_books)
         *   [Circuit Complexity](#theory_of_computation_computational_complexity_circuit_complexity)
             *   [Books](#theory_of_computation_computational_complexity_circuit_complexity_books)
         *   [Quantum Complexity](#theory_of_computation_computational_complexity_quantum_complexity)
@@ -143,6 +143,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 *   [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html) - Body of knowledge for studying the performance and limitations of computer algorithms. Among topics covered are: reductions and NP-completeness, cryptography and protocols, randomized algorithms, and approximability of optimization problems, circuit complexity, the structural aspects of the P=NP question, parallel computation, and the polynomial hierarchy.
 
 ### Communication Complexity<a name=theory_of_computation_computational_complexity_communication_complexity></a>
+
+#### Lecture Notes<a name=theory_of_computation_computational_complexity_communication_complexity_lecture_notes></a>
+
+*   [Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/) - A graduate course which introduces the fundamental results and techniques in the area and some research frontier questions. Themes include: Communication models and the communication complexity zoo, Information vs. communication, Query-to-communication lifting, and Applications
 
 #### Books<a name=theory_of_computation_computational_complexity_communication_complexity_books></a>
 

@@ -8,6 +8,10 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
+### Communication Complexity / Lecture Notes
+
+*   [Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/) - A graduate course which introduces the fundamental results and techniques in the area and some research frontier questions. Themes include: Communication models and the communication complexity zoo, Information vs. communication, Query-to-communication lifting, and Applications
+
 ### Blog Posts and Essays / Monograph
 
 *   [Igor Pak. How to Start a Paper](https://igorpak.wordpress.com/2022/10/26/how-to-start-a-paper/) - Why should you introduce a conceptual preliminary motivating the story of your paper.

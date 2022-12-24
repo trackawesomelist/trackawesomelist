@@ -1,12 +1,31 @@
 # Awesome List Updates on Dec 24, 2022
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [1. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+
+### Runtimes/Frontends
+
+*   [PaneLite](https://panelite.holoviz.org) - A distribution of [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) that works with [Panel](https://panel.holoviz.org) and the [HoloViz](https://holoviz.org) ecosystem. <!--lint enable double-link-->
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Low-code Platform
+
+*   [appsmith](https://www.appsmith.com/) — Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+*   [ToolJet](https://www.tooljet.com/) — Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder.
+
+## [3. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+
+### Communication Complexity / Lecture Notes
+
+*   [Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/) - A graduate course which introduces the fundamental results and techniques in the area and some research frontier questions. Themes include: Communication models and the communication complexity zoo, Information vs. communication, Query-to-communication lifting, and Applications
+
+## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Make your life easier
 
@@ -16,7 +35,7 @@
 
 *   [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
-## [2. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [5. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Online database creator apps
 
@@ -26,7 +45,7 @@
 
 *   [Mendix](https://www.mendix.com/) - Accelerate enterprise app development.
 
-## [3. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
+## [6. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
 - : [AWS Cloudscape Design System](https://cloudscape.design/)
 
@@ -161,13 +180,13 @@
 
 
 
-## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Responsive / Syntax Highlight
 
 *   [flowbite-react (⭐593)](https://github.com/themesberg/flowbite-react) - Open-source UI component library based on React, Tailwind CSS, and Flowbite.
 
-## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [8. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
@@ -177,7 +196,7 @@
 
 *   [Laravel Vite Plugin (⭐577)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
-## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [9. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In Portuguese
 

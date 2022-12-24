@@ -6,6 +6,12 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 [ Daily / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
 
+## [Dec 24, 2022](/content/2022/12/24/README.md)
+
+### Communication Complexity / Lecture Notes
+
+*   [Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/) - A graduate course which introduces the fundamental results and techniques in the area and some research frontier questions. Themes include: Communication models and the communication complexity zoo, Information vs. communication, Query-to-communication lifting, and Applications
+
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
 
 ### Blog Posts and Essays / Monograph
