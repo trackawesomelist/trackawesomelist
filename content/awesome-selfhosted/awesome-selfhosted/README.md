@@ -6,6 +6,20 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Dec 25, 2022](/content/2022/12/25/README.md)
+
+### Software / Communication - Social Networks and Forums
+
+*   [Akkoma](https://akkoma.social/) - Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility. ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir`
+
+### Software / Photo and Video Galleries
+
+*   [Chevereto (⭐45)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐45)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+
+### Software / URL Shorteners
+
+*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang `MIT` `Go`
+
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
 
 ### Software / Games - Administrative Utilities & Control Panels
@@ -1128,10 +1142,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Task Management & To-do Lists
 
 *   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐6.9k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
-
-### Software / URL Shorteners
-
-*   [goshorly](https://git.ucode.space/Phil/goshorly) - An easy self-hosted Link shortener in Golang with Redis <3. `MIT` `Go`
 
 ## [Jun 07, 2022](/content/2022/06/07/README.md)
 
@@ -2305,7 +2315,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/)) `MIT` `C#`
 *   [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code (⭐9.4k)](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP`
-*   [IHateToBudget (⭐127)](https://github.com/bminusl/ihatetobudget) - A simple web app to understand and control your expenses. `GPL-3.0` `Docker/Python`
 
 ### Software / Note-taking & Editors
 

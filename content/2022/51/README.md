@@ -485,6 +485,7 @@
 
 ### Runtimes/Frontends
 
+*   [Panel (⭐2.5k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 *   [PaneLite](https://panelite.holoviz.org) - A distribution of [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) that works with [Panel](https://panel.holoviz.org) and the [HoloViz](https://holoviz.org) ecosystem. <!--lint enable double-link-->
 
 ### JupyterLab Extensions
@@ -835,6 +836,10 @@
 
 *   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐12k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
 
+### Software / Communication - Social Networks and Forums
+
+*   [Akkoma](https://akkoma.social/) - Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility. ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir`
+
 ### Software / Communication - Video Conferencing
 
 *   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐42)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
@@ -847,9 +852,17 @@
 
 *   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐0)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 
+### Software / Photo and Video Galleries
+
+*   [Chevereto (⭐45)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐45)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+
 ### Software / Software Development - Low Code
 
 *   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐332)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
+
+### Software / URL Shorteners
+
+*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang `MIT` `Go`
 
 ## [53. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 

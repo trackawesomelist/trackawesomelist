@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Postal](https://docs.postalserver.io/) - A complete and fully featured mail server for use by websites & web servers. ([Source Code (⭐12k)](https://github.com/postalserver/postal)) `MIT` `Docker/Ruby`
 
+### Software / Communication - Social Networks and Forums
+
+*   [Akkoma](https://akkoma.social/) - Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility. ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir`
+
 ### Software / Communication - Video Conferencing
 
 *   [MiroTalk C2C](https://c2c.mirotalk.com) - Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ([Source Code (⭐42)](https://github.com/miroslavpejic85/mirotalkc2c)) `MIT` `Nodejs/Docker`
@@ -24,9 +28,17 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [POMjs](https://password.oppetmoln.se/) - Random Password Generator. ([Source Code (⭐0)](https://github.com/joho1968/POMjs)) `GPL-2.0` `Javascript`
 
+### Software / Photo and Video Galleries
+
+*   [Chevereto (⭐45)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐45)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
+
 ### Software / Software Development - Low Code
 
 *   [Hadmean](https://hadmean.com) - Don't build in hours but generate in seconds your fully functional admin apps without any technical knowledge with just a single command `npx hadmean`. ([Demo](http://demo.hadmean.com) [Source Code (⭐332)](https://github.com/hadmean/hadmean)) `AGPL-3.0` `Nodejs`
+
+### Software / URL Shorteners
+
+*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang `MIT` `Go`
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -1007,10 +1019,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Kanboard](https://kanboard.org/) - Simple and open source visual task board. ([Source Code (⭐6.9k)](https://github.com/kanboard/kanboard)) `MIT` `PHP`
 *   [Restyaboard (⭐1.9k)](https://github.com/RestyaPlatform/board/) - Open source Trello-like kanban board. `OSL-3.0` `PHP`
-
-### Software / URL Shorteners
-
-*   [goshorly](https://git.ucode.space/Phil/goshorly) - An easy self-hosted Link shortener in Golang with Redis <3. `MIT` `Go`
 
 ### Software / Wikis
 
@@ -2102,7 +2110,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [BTCPay Server](https://btcpayserver.org/) - A self-hosted Bitcoin and other cryptocurrencies payment processor. ([Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/)) `MIT` `C#`
 *   [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code (⭐9.4k)](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP`
-*   [IHateToBudget (⭐127)](https://github.com/bminusl/ihatetobudget) - A simple web app to understand and control your expenses. `GPL-3.0` `Docker/Python`
 
 ### Software / Note-taking & Editors
 

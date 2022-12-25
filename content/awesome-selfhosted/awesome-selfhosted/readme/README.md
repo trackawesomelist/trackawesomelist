@@ -501,6 +501,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 [Social Networking](https://en.wikipedia.org/wiki/Social_networking_service) and [Forum](https://en.wikipedia.org/wiki/Internet_forum) software.
 
 *   [Abilian SBE (⭐62)](https://github.com/abilian/abilian-sbe) - Open Source Collaboration and Social Networking framework and platform. `LGPL-2.1` `Python`
+*   [Akkoma](https://akkoma.social/) - Federated microblogging server with Mastodon, GNU social, and ActivityPub compatibility. ([Source Code](https://akkoma.dev/AkkomaGang/akkoma)) `AGPL-3.0` `Elixir`
 *   [Anahita](https://www.getanahita.com/) - Open Source Social Networking Framework and Platform. ([Source Code (⭐409)](https://github.com/anahitasocial/anahita)) `GPL-3.0` `PHP`
 *   [AsmBB](https://board.asm32.info) - A fast, SQLite-powered forum engine written in ASM. ([Source Code](https://asm32.info/fossil/asmbb/index)) `EUPL-1.2` `Assembly`
 *   [bbPress](https://bbpress.org/) - Forum software with a twist from the creators of WordPress. Easily setup discussion forums inside your WordPress.org powered site. ([Source Code](https://bbpress.trac.wordpress.org/browser/trunk)) `GPL-2.0` `PHP`
@@ -1316,7 +1317,6 @@ Software that does not fit in another section.
 *   [Hospital Run](https://hospitalrun.io/) - Hospital Run is offline enabled hospital management software. ([Demo](https://hospitalrun.io/demo/), [Source Code (⭐844)](https://github.com/HospitalRun/hospitalrun-server)) `GPL-3.0` `Nodejs`
 *   [Hub20](https://hub20.io/) - A self-hosted payment processor for Ethereum and ERC20 Tokens. ([Source Code](https://gitlab.com/mushroomlabs/hub20/)) `AGPL-3.0` `Docker/Python`
 *   [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. ([Demo](https://ihatemoney.org/demo/), [Source Code (⭐820)](https://github.com/spiral-project/ihatemoney)) `BSD-3-Clause` `Docker/Python`
-*   [IHateToBudget (⭐127)](https://github.com/bminusl/ihatetobudget) - A simple web app to understand and control your expenses. `GPL-3.0` `Docker/Python`
 *   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐359)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
 *   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Source Code (⭐2.2k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 *   [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code (⭐6.8k)](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`
@@ -1495,6 +1495,7 @@ Dashboards for accessing information and applications.
 
 A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that helps the user publish or share photos, pictures, videos or other digital media.
 
+*   [Chevereto (⭐45)](https://github.com/chevereto/chevereto) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. ([Source Code (⭐45)](https://github.com/chevereto/chevereto)) `AGPL-3.0` `PHP`
 *   [Coppermine](https://coppermine-gallery.net/) - Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ([Demo](https://coppermine-gallery.net/demo/cpg15x/), [Source Code (⭐58)](https://github.com/coppermine-gallery/cpg1.6.x)) `GPL-3.0` `PHP`
 *   [Damselfly](https://damselfly.info) - Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. `GPL-3.0` `C#/.NET`
 *   [Fussel (⭐165)](https://github.com/cbenning/fussel) - Fussel is a static photo gallery generator. Easily generate a reactive gallery and host the optimized static folder of assets. `MIT` `Python`
@@ -1933,7 +1934,7 @@ Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_
 
 *   [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code (⭐148)](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs`
 *   [Clink](https://short.swurl.xyz/) - Dead-simple, super minimal URL shortener in C. ([Source Code](https://git.swurl.xyz/swirl/clink)) `AGPL-3.0` `C`
-*   [goshorly](https://git.ucode.space/Phil/goshorly) - An easy self-hosted Link shortener in Golang with Redis <3. `MIT` `Go`
+*   [goshorly](https://gitea.hackmi.ch/Phil/goshorly) - An easy self-hosted Link shortener in Golang `MIT` `Go`
 *   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. ([Source Code (⭐6.6k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`
 *   [liteshort](https://git.ikl.sh/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. `MIT` `Python`
 *   [Lstu (⭐183)](https://github.com/ldidry/lstu) - Lightweight URL shortener. `WTFPL` `Perl`

@@ -6,6 +6,12 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ Daily / [Weekly](/content/markusschanta/awesome-jupyter/week/README.md) / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Dec 25, 2022](/content/2022/12/25/README.md)
+
+### Runtimes/Frontends
+
+*   [Panel (⭐2.5k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
+
 ## [Dec 24, 2022](/content/2022/12/24/README.md)
 
 ### Runtimes/Frontends

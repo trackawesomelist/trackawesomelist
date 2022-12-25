@@ -10,6 +10,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Runtimes/Frontends
 
+*   [Panel (⭐2.5k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 *   [PaneLite](https://panelite.holoviz.org) - A distribution of [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) that works with [Panel](https://panel.holoviz.org) and the [HoloViz](https://holoviz.org) ecosystem. <!--lint enable double-link-->
 
 ### JupyterLab Extensions
