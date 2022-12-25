@@ -1,18 +1,24 @@
 # Awesome List Updates on Dec 25, 2022
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [1. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+
+### Code Analysis and Linters
+
+*   [coq-of-ocaml (⭐184)](https://github.com/formal-land/coq-of-ocaml) - Translator from OCaml to Coq to formally verify OCaml code.
+
+## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Runtimes/Frontends
 
 *   [Panel (⭐2.5k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
 
-## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - Social Networks and Forums
 
