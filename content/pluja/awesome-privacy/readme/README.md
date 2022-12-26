@@ -178,7 +178,7 @@ Preinstalled file managers and third-party file manager apps found on the play s
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
-*   [Simple File Manager (⭐1.1k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
+*   [Simple File Manager (⭐1.2k)](https://github.com/SimpleMobileTools/Simple-File-Manager) - A simple file manager for browsing and editing files and directories.
 *   [Amaze File Manager (⭐4.2k)](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
 *   [Material Files (⭐2.9k)](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
 *   [Ghost Commander](https://f-droid.org/packages/com.ghostsq.commander/) - Dual-panel file manager.
@@ -193,7 +193,7 @@ Preinstalled file managers and third-party file manager apps found on the play s
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Instead use**
 
 *   [OpenBoard (⭐1.9k)](https://github.com/dslul/openboard) - 100% FOSS keyboard, based on AOSP.
-*   [FlorisBoard (⭐3.6k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
+*   [FlorisBoard (⭐3.7k)](https://github.com/florisboard/florisboard) - FlorisBoard is a free and open-source keyboard for Android 6.0+ devices. It aims at being modern, user-friendly and customizable while fully respecting your privacy. Currently in early-beta state.
 *   [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - The only Android keyboard you'll ever need. Free as in speech and Free as in beer.
 *   [Indic Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indic Keyboard is a versatile keyboard for Android users who wish to use Indic and Indian languages to type messages, compose emails and generally prefer to use them in addition to English on their phone.
 *   [Simple Keyboard (⭐677)](https://github.com/rkkr/simple-keyboard) - Simply keyboard and nothing more.
@@ -229,7 +229,7 @@ Third-party launchers found on the play store. They may contain ads/trackers and
 *   [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
 *   [Shiori (⭐6.8k)](https://github.com/go-shiori/shiori)
 *   [LinkAce (⭐1.7k)](https://github.com/Kovah/LinkAce)
-*   [LinkDing (⭐2.6k)](https://github.com/sissbruecker/linkding)
+*   [LinkDing (⭐2.7k)](https://github.com/sissbruecker/linkding)
 
 ### Book and web annotations/highlights management
 
@@ -344,6 +344,7 @@ Apps such as Tinder collect and sell your personal intimate information. Tinder 
 Remember: Without strong encryption, you will be spied on systematically by lots of people.
 
 *   [Veracrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, macOS and Linux.
+*   [Shufflecake](https://shufflecake.net/index.html) - Free open source, plausible deniability for multiple hidden filesystems on Linux
 *   [Hat.sh](https://hat.sh/) - A Free, Fast, Secure and Serverless File Encryption.
 *   [Cryptomator](https://cryptomator.org/) - Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
 *   [Stegcloak](https://stegcloak.surge.sh/) - Hide secrets with invisible characters in plain text securely using passwords.
@@ -372,7 +373,7 @@ Remember: Without strong encryption, you will be spied on systematically by lots
 *   [Magic Wormhole (⭐15k)](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 *   [QRcp (⭐8.9k)](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 *   [Snapdrop (⭐14k)](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing inspired by Apple's Airdrop.
-*   [Paperless-ngx (⭐4.8k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
+*   [Paperless-ngx (⭐4.9k)](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless based on paperless-ng
     *   [Paperless-ng (⭐5.2k)](https://github.com/jonaswinkler/paperless-ng) - \[inactive] A supercharged version of paperless: scan, index and archive all your physical documents.
         *   [Paperless (⭐7.7k)](https://github.com/the-paperless-project/paperless) - \[Now archived] Scan, index, and archive all of your paper documents.
 *   [OnionShare (⭐5.4k)](https://github.com/micahflee/onionshare) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network.
@@ -586,7 +587,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 
 *   [Mail-in-a-box (⭐12k)](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 *   [Docker mail server (⭐10k)](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
-*   [Mailcow: dockerized (⭐5.8k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐5.9k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ### Clients
 
@@ -604,7 +605,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 With email aliases, you can finally create a different identity for each website. Defend against spams, phishing and data breach. You can choose self-hosting any of the following options or you can also use their own platform as a service.
 
 *   [SimpleLogin (⭐3.2k)](https://github.com/simple-login/app)
-*   [AnonAddy (⭐2k)](https://github.com/anonaddy/anonaddy)
+*   [AnonAddy (⭐2.1k)](https://github.com/anonaddy/anonaddy)
 
 ## Maps and Navigation
 
@@ -675,7 +676,7 @@ With email aliases, you can finally create a different identity for each website
 **Youtube Music alternative clients**
 
 *   [Beatbump (⭐487)](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
-*   [ViMusic (⭐2.1k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
+*   [ViMusic (⭐2.3k)](https://github.com/vfsfitvnm/ViMusic) - A Jetpack Compose Android application for streaming music from YouTube Music.
 
 **Deezer alternative clients**
 
@@ -713,9 +714,9 @@ These providers offer apps and services filled with data trackers. Also, most of
 
 *   [AppFlowy](https://www.appflowy.io/) - Open Source Notion Alternative. You are in charge of your data and customizations.
 *   [HedgeDoc](https://hedgedoc.org/) - Formerly CodiMD (community). An awesome platform to write and share markdown.
-*   [Joplin (⭐33k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
+*   [Joplin (⭐34k)](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronisation and encryption capabilities.
 *   [Logseq](https://logseq.com/) - A privacy-first alternative to WorkFlowy.
-*   [Memos (⭐4.3k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐5.1k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 *   [Nextcloud Notes (⭐482)](https://github.com/nextcloud/notes/) - The Notes app is a distraction free notes taking app for Nextcloud.
     *   [Nextcloud Notes app (⭐756)](https://github.com/stefan-niedermann/nextcloud-notes) - An android client for Nextcloud Notes.
 *   [Notally (⭐1k)](https://github.com/OmGodse/Notally) - A beautiful notes app (local only, no sync).
@@ -849,7 +850,7 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
 *   [Bitwarden](https://bitwarden.com) - An open source cloud based password manager.
-    *   [vaultwarden (⭐20k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
+    *   [vaultwarden (⭐21k)](https://github.com/dani-garcia/vaultwarden/) - Unofficial Bitwarden compatible self-hosted server, formerly known as bitwarden\_rs.
 *   [KeepassXC](https://keepassxc.org/) - Securely store passwords using industry standard encryption, no sync just storage.
     *   [KeepassDX](https://www.keepassdx.com/) for Android.
     *   [Strongbox](https://strongboxsafe.com/) for iOS.
@@ -862,7 +863,7 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
 
 These tools are useful when sharing secrets, code snippets or any other kind of text with others in a private way.
 
-*   [PrivateBin (⭐4.5k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+*   [PrivateBin (⭐4.6k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 *   [Yopass (⭐1k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.
 
 ## Payments
@@ -921,8 +922,8 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 #### Desktop
 
 *   [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
-*   [Krita (⭐4.4k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
-*   [Czkawka (⭐8.9k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
+*   [Krita (⭐4.5k)](https://github.com/KDE/krita) - Krita is a free and open source digital painting application
+*   [Czkawka (⭐9k)](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates and similar images etc.
 *   [DigiKam](https://www.digikam.org/) - Awesome Professional Photo Management with the Power of Open Source.
 *   [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images.
 *   [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
@@ -945,8 +946,8 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 ### Self-hosted
 
-*   [Immich (WIP) (⭐6.2k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐4.9k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [Immich (WIP) (⭐6.5k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐5k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.7k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
 *   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
 *   [Photoprism](https://photoprism.app) - Feature rich server-based application for browsing, organizing and sharing your personal photo collection. The most similar to Google Photos.
 *   [Pigallery2](http://bpatrik.github.io/pigallery2/) - A self-hosted directory-first photo gallery website.
@@ -1008,8 +1009,8 @@ This section is dedicated to some tools that may help users analyze the privacy 
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
-*   [Whoogle Search (⭐6.7k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
-*   [librengine (⭐35)](https://github.com/liameno/librengine) - Privacy Web Search Engine
+*   [Whoogle Search (⭐6.8k)](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
+*   [librengine (⭐36)](https://github.com/liameno/librengine) - Privacy Web Search Engine
 *   [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
     *   [SearxNG (⭐3.7k)](https://github.com/searxng/searxng) - Free internet metasearch engine which aggregates results from various search services and databases.
 *   [DuckDuckGo](https://duckduckgo.com) - A privacy respecting search engine.
@@ -1044,7 +1045,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Alternatives:**
 
-*   [Plume (⭐1.8k)](https://github.com/Plume-org/Plume) 🧩 - Federated blogging application, thanks to ActivityPub.
+*   [Plume (⭐1.9k)](https://github.com/Plume-org/Plume) 🧩 - Federated blogging application, thanks to ActivityPub.
 *   [WriteFreely](https://writefreely.org/) 🧩 - An open source platform for building a writing space on the web.
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Alternative Medium frontends:**
@@ -1094,7 +1095,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **YouTube alternative frontends (web-based):**
 
-*   [Invidious (⭐9k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
+*   [Invidious (⭐9.1k)](https://github.com/iv-org/invidious) - Alternative and privacy respecting YouTube frontend.
 *   [Piped (⭐3.5k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
     *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [LibreTube (⭐3.8k)](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 *   [ViewTube (⭐618)](https://github.com/viewtube/viewtube-vue) - ViewTube is an alternative privacy-friendly YouTube frontend written in Vue.js
@@ -1127,7 +1128,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 #### Self-hosted
 
-*   [Memos (⭐4.3k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+*   [Memos (⭐5.1k)](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 
 #### Decentralized
 
@@ -1143,7 +1144,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 #### Alternative Frontends
 
-*   [Nitter (⭐6.4k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
+*   [Nitter (⭐6.5k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐983)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android.
 *   [Feetter](https://codeberg.org/pluja/Feetter) - Create, sync and manage Nitter feeds without registration from any device.
 *   [Kizie](https://kizie.co) - Cleaner, better and privacy focussed Twitter client for Web.
@@ -1157,13 +1158,13 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Reddit alternatives:**
 
 *   [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
-*   [Kbin (⭐70)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
+*   [Kbin (⭐75)](https://github.com/ernestwisniewski/kbin) 🧩 - A reddit-like content aggregator and micro-blogging platform for the fediverse.
 *   [Lemmy](https://join.lemmy.ml/) 🧩 - A federated and open alternative to Reddit in Rust.
 *   [SaidIt](https://saidit.net/) - Open source Reddit clone.
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img> **Privacy respecting Reddit clients:**
 
-*   [Libreddit (⭐3.8k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
+*   [Libreddit (⭐3.9k)](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
     *   [Ferrit (⭐63)](https://github.com/ferritreader/ferrit) - Private front-end for Reddit. Continuation of spikecodes/libreddit.
 *   [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
 *   <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/android.png"> [Infinity (⭐2.5k)](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
