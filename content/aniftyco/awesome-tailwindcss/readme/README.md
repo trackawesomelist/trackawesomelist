@@ -241,6 +241,7 @@
 *   💼 [@ngneat/tailwind (⭐598)](https://github.com/ngneat/tailwind) - Tailwind CSS integration for Angular.
 *   💼 [Gust](https://www.getgust.com) - Drag and drop page builder for WordPress.
 *   💼 [clb (⭐81)](https://github.com/crswll/clb) - clb (class list builder) is a utility function that builds a class list based on a [Stitches](https://stitches.dev/) like API.
+*   💼 [react-with-class (⭐4)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
 *   💼🌍 [Inspect Flow](https://inspectflow.io) - The complete developer tool for Tailwind CSS.
 *   💼 [twined-components (⭐6)](https://github.com/lowfront/twined-components) - Extended component of a styled-components that prioritizes class names for use in Tailwind CSS.
 *   💼 [Tails Devtools (⭐150)](https://github.com/vechai/tails-devtools) - All-in-one browser extension for Tailwind CSS.

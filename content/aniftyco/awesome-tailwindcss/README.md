@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/aniftyco/awesome-tailwindcss/week/README.md) / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Dec 26, 2022](/content/2022/12/26/README.md)
+
+### Tools
+
+*   💼 [react-with-class (⭐4)](https://github.com/antomics/react-with-class) - Utility function for creating primitive React components with a set of classes, props or variants.
+
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
 
 ### UI Libraries, Components & Templates

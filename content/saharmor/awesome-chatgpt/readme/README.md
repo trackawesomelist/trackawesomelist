@@ -16,7 +16,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt\&left_color=green\&right_color=red)
 
-This list is up to date. Last update: 12/18/22
+This list is up to date. Last update: 12/25/22
 
 ## Using ChatGPT in other apps
 
@@ -100,4 +100,5 @@ This list is up to date. Last update: 12/18/22
 10. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 11. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
 12. [Share your wildest ChatGPT conversations with one click (⭐186)](https://github.com/domeccleston/sharegpt)
+13. [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
 
