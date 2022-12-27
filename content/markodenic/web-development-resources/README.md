@@ -6,6 +6,23 @@ Awesome Web Development Resources.
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
 
+## [Dec 27, 2022](/content/2022/12/27/README.md)
+
+### Remote Jobs:
+
+- Website: <https://remotefrontendjobs.com>
+
+
+- Website: <https://www.remotescout.ch>
+
+
+
+### UI Inspiration:
+
+- Website: <https://landings.dev>
+
+
+
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### UI Inspiration:

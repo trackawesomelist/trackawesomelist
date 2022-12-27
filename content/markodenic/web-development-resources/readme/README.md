@@ -32,6 +32,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 *   [Freelancing platforms](#freelancing-platforms)
 *   [Remote Jobs](#remote-jobs)
 *   [Photos](#photos)
+*   [Videos](#videos)
 *   [Illustrations](#illustrations)
 *   [Icons](#icons)
 *   [Fonts](#fonts)
@@ -176,6 +177,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website                           |
 | --------------------------------- |
+| <https://remotefrontendjobs.com>  |
 | <https://jobboardsearch.com>      |
 | <https://flexjobs.com>            |
 | <https://remote.co/remote-jobs>   |
@@ -192,6 +194,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | <https://angel.co>                |
 | <https://www.smartremotejobs.com> |
 | <https://www.remotehub.com>       |
+| <https://www.remotescout.ch>      |
 
 [⬆ back to top](#table-of-contents)
 
@@ -417,6 +420,7 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | <https://onepagelove.com>  |
 | <https://www.behance.net>  |
 | <https://tympanus.net>     |
+| <https://landings.dev>     |
 
 [⬆ back to top](#table-of-contents)
 
