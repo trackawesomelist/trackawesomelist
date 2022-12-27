@@ -6,6 +6,12 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
 
+## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
+
+### Transition To Pure Rigour Math / Monograph
+
+*   Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
+
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
 ### Communication Complexity / Lecture Notes
@@ -60,8 +66,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Network Groups / Monograph
 
-*   [Mathematics (⭐6.6k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐1.9k)](https://github.com/ossu/math) and [CS (⭐129k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   [Mathematics (⭐6.7k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
+*   P.S. See also [Math (⭐1.9k)](https://github.com/ossu/math) and [CS (⭐130k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -329,7 +335,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Transition To Pure Rigour Math / Monograph
 
-*   It is already curated [here](https://github.com/mostafatouny/awesome-pure-math#transition-to-pure-rigour-math) - Introductory proofs and mathematical maturity.
 *   [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
 *   [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/\~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
 *   [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
@@ -407,5 +412,5 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 *   [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
 *   [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
 *   [Algorithms (⭐13k)](https://github.com/tayllan/awesome-algorithms) - Awesome list for design and analysis of algorithms
-*   [Cryptography (⭐4.2k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
+*   [Cryptography (⭐4.3k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 *   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
