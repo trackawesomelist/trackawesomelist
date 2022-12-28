@@ -1,12 +1,42 @@
 # Awesome List Updates on Dec 28, 2022
 
-3 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Community / Interfaces to other package managers
+
+*   [alien-works-delivery (⭐12)](https://github.com/borodust/alien-works-delivery) - WIP system for delivering Common Lisp applications as executable bundles. For now it only supports AppImage format for Linux and MSIX for Windows, but .APK for Android and later MacOSX and iOS bundle formats are planned too.
+
+## [2. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### Social media
+
+*   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Data Visualization on Maps
+
+*   [locationiq.com](https://locationiq.com/) — Geocoding, Maps, and Routing APIs. 5000 requests/day for free.
+
+### Other Free Resources
+
+*   [Free Code Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.
+
+## [4. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Remote Jobs:
+
+- Website: <https://remotescout.ch>
+
+
+
+## [5. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Memory managers
 
@@ -16,13 +46,13 @@
 
 *   [DIGPAK sound drivers source code (⭐20)](https://github.com/jratcliff63367/digpak) - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
 
-## [2. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [6. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [SnowForged](https://mmcv.itch.io/ironsworn-snowforged) - A stripped-down ruleset for playing short, fun, Christmas-themed adventures
 
-## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

@@ -13,7 +13,7 @@ Awesome Web Development Resources.
 - Website: <https://remotefrontendjobs.com>
 
 
-- Website: <https://www.remotescout.ch>
+- Website: <https://remotescout.ch>
 
 
 

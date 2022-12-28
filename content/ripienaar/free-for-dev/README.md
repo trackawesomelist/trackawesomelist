@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 28, 2022](/content/2022/12/28/README.md)
+
+### Data Visualization on Maps
+
+*   [locationiq.com](https://locationiq.com/) — Geocoding, Maps, and Routing APIs. 5000 requests/day for free.
+
+### Other Free Resources
+
+*   [Free Code Tools](https://freecodetools.org/) — Effective code tools which are 100% free. Markdown editor, Code minifier/beautifier, QR code generator, Open Graph Generator, Twitter card Generator and more.
+
 ## [Dec 26, 2022](/content/2022/12/26/README.md)
 
 ### Tools for Teams and Collaboration
@@ -3834,10 +3844,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Monitoring
 
 *   [letsmonitor.org](https://letsmonitor.org) - SSL monitoring, free for up to 5 monitors
-
-### DBaaS
-
-*   [Quickmetrics](https://www.quickmetrics.io/) — Timeseries database with dashboard included, free up to 10,000 events/day and total of 5 metrics.
 
 ### Design and UI
 

@@ -2,9 +2,15 @@
 
 A collection of awesome Qubes OS links
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 12 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 14 · 🏷️ Miscellaneous
 
 [ [Daily](/content/xn0px90/Awesome-Qubes-OS/README.md) / Weekly / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
+
+## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
+
+### Social media
+
+*   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
@@ -15,7 +21,7 @@ A collection of awesome Qubes OS links
 
 ### Networking Server
 
-*   [qubes-network-server (⭐76)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
+*   [qubes-network-server (⭐78)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
@@ -44,19 +50,19 @@ A collection of awesome Qubes OS links
 *   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
 *   [Qubes OS.onion](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
 *   [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
-*   [Qubes OS github docs (⭐282)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs.
+*   [Qubes OS github docs (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
 
 ### Templates
 
-*   [Win7 (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
-*   [Win10 (⭐261)](https://github.com/elliotkillick/qvm-create-windows-qube)
-*   [CentOS (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
-*   [Gentoo (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
-*   [NetBSD (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
-*   [Ubuntu (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
+*   [Win7 (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
+*   [Win10 (⭐267)](https://github.com/elliotkillick/qvm-create-windows-qube)
+*   [CentOS (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
+*   [Gentoo (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
+*   [NetBSD (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
+*   [Ubuntu (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
 *   [ParrotSec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
-*   [Pentesting (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
+*   [Pentesting (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
 
 ### Remote-Desktop
 
@@ -64,9 +70,9 @@ A collection of awesome Qubes OS links
 
 ### VPN
 
-*   [How To make a VPN Gateway in Qubes (⭐181)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+*   [How To make a VPN Gateway in Qubes (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
 *   [qubes-tunnel (⭐15)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
-*   [WireGuard (⭐181)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
+*   [WireGuard (⭐196)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
 
 ### Videos
 
@@ -86,7 +92,6 @@ A collection of awesome Qubes OS links
 *   [Facebook](https://www.facebook.com/QubesOS/)
 *   [LinkedIn](https://www.linkedin.com/company/qubes-os/)
 *   [Discord](https://discord.gg/YMUbTt7ZRG)
-*   [Matrix Discord Bridge](https://matrix.to/#/!ThZAMWzWEzqEJctycy:matrix.org?via=matrix.org\&via=t2bot.io\&via=nordgedanken.dev)
 *   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
 *   [Matrix:Qubes OS Unofficial](https://matrix.to/#/!LEdnbfkEStLztPInMH:matrix.org?via=matrix.org\&via=privacytools.io\&via=librem.one)
 *   `#qubes` channel on libera.chat via traditional IRC clients
