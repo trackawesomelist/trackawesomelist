@@ -2000,6 +2000,7 @@
 - [Days](daily/README.md)
   - [2022](2022/month/README.md)
     - [12](2022/12/day/README.md)
+      - [Dec 28, 2022](2022/12/28/README.md)
       - [Dec 27, 2022](2022/12/27/README.md)
       - [Dec 26, 2022](2022/12/26/README.md)
       - [Dec 25, 2022](2022/12/25/README.md)
