@@ -38,6 +38,11 @@ A collection of awesome Qubes OS links
 *   [ParrotSec](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
 *   [Pentesting (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting.md)
 
+## VM-Hardening
+
+*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+
 ## Networking Server
 
 *   [qubes-network-server (⭐78)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
@@ -56,6 +61,10 @@ A collection of awesome Qubes OS links
 *   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
 *   [qubes-tunnel (⭐15)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 *   [WireGuard (⭐196)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
+
+## TOR
+
+*   [Whonix](https://www.whonix.org/wiki/Qubes)
 
 ## Videos
 

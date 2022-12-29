@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 29, 2022](/content/2022/12/29/README.md)
+
+### Project / Diagnostics
+
+*   [natecraddock/workspaces.nvim (⭐115)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+
 ## [Dec 27, 2022](/content/2022/12/27/README.md)
 
 ### Plugin Manager
@@ -87,13 +93,13 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [cbochs/portal.nvim (⭐98)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+*   [cbochs/portal.nvim (⭐106)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
 ## [Dec 12, 2022](/content/2022/12/12/README.md)
 
 ### Marks / Diagnostics
 
-*   [cbochs/grapple.nvim (⭐83)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+*   [cbochs/grapple.nvim (⭐105)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 

@@ -1,18 +1,53 @@
 # Awesome List Updates on Dec 29, 2022
 
-5 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Geographic
+
+*   [H3 (⭐207)](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+
+## [2. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
+
+### Tools / CLIs
+
+*   [OIDrage (⭐3)](https://github.com/patrickscottbest/OIDrage) - A lightweight standalone SNMPd mimic server based on any snmpwalk output. Easily scales to mock thousands of servers.
+
+## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+
+### RSSHub / Outline Processor Markup Language
+
+*   <https://rsshub.ktachibana.party> by [@KTachibanaM](https://github.com/KTachibanaM) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frsshub.ktachibana.party)
+
+## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### VM-Hardening
+
+*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+
+### TOR
+
+*   [Whonix](https://www.whonix.org/wiki/Qubes)
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Project / Diagnostics
+
+*   [natecraddock/workspaces.nvim (⭐115)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [pspsdk (⭐654)](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. \[BSD/GNU GPL3]
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -22,7 +57,7 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [3. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
+## [8. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 
 ### Databases / Genome
 
@@ -30,7 +65,7 @@
 *   [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
 *   [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
 
-## [4. Awesome Directus](/content/directus-community/awesome-directus/README.md)
+## [9. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
 ### Integration
 
@@ -46,7 +81,7 @@
 *   [Learn Directus](https://learndirectus.com/)
 *   [How to Work With Many to Many Relationships (M2M) On Directus](https://medium.com/@bianperotti/how-i-made-a-many-to-many-relationship-on-directus-b158ff55de7e)
 
-## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 

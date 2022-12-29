@@ -8,6 +8,15 @@ A collection of awesome Qubes OS links
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
+### VM-Hardening
+
+*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+
+### TOR
+
+*   [Whonix](https://www.whonix.org/wiki/Qubes)
+
 ### Social media
 
 *   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)

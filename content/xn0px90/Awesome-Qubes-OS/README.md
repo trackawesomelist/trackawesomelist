@@ -6,6 +6,17 @@ A collection of awesome Qubes OS links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Dec 29, 2022](/content/2022/12/29/README.md)
+
+### VM-Hardening
+
+*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+
+### TOR
+
+*   [Whonix](https://www.whonix.org/wiki/Qubes)
+
 ## [Dec 28, 2022](/content/2022/12/28/README.md)
 
 ### Social media
