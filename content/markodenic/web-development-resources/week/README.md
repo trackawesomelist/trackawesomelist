@@ -13,6 +13,9 @@ Awesome Web Development Resources.
 - Website: <https://remotefrontendjobs.com>
 
 
+- Website: <https://startup.jobs/remote>
+
+
 - Website: <https://remotescout.ch>
 
 

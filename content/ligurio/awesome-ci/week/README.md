@@ -2,9 +2,27 @@
 
 List of Continuous Integration services
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ligurio/awesome-ci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) · ⭐ 3K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ligurio/awesome-ci/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) · ⭐ 3.1K · 🏷️ Development Environment
 
 [ [Daily](/content/ligurio/awesome-ci/README.md) / Weekly / [Overview](/content/ligurio/awesome-ci/readme/README.md) ]
+
+## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
+
+- Name: [mvoCI](https://www.mvoci.de)
+
+  Description: Self-Hosted, Open Source CI
+
+  Features: CI Building, Release Upload to Gitea, REST-API
+
+  Supported repositories: Gitlab, Bitbucket, Gitbucket, Gitea, Gogs, Forgejo, Github
+
+  Documentation: [Documentation](https://codeberg.org/snaums/mvoCI)
+
+  Price: [Open Source](https://codeberg.org/snaums/mvoCI)
+
+  Stars: 
+
+
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
@@ -32,7 +50,7 @@ List of Continuous Integration services
 
   Features: It consists of Tekton Pipelines, which provides the building blocks (as Kubernetes Custom Resources you can use to create your pipelines), and of supporting components, such as Tekton CLI and Tekton Catalog, that make Tekton a complete ecosystem
 
-  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐442)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
+  Supported repositories: GitHub, Gitlab, Bitbucket... [See triggers-examples (⭐456)](https://github.com/tektoncd/triggers/tree/main/examples/v1beta1), but extensible/customizable to support others
 
   Documentation: [Documentation](https://tekton.dev/docs/)
 
@@ -269,7 +287,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://kraken.ci/docs/)
 
-  Price: [Open Source (⭐83)](https://github.com/kraken-ci/kraken)
+  Price: [Open Source (⭐85)](https://github.com/kraken-ci/kraken)
 
   Stars: [![Stars](https://img.shields.io/github/stars/kraken-ci/kraken)](https://github.com/kraken-ci/kraken)
 
@@ -303,9 +321,9 @@ List of Continuous Integration services
 
   Supported repositories: GitHub, GitLab, Gitee, Gogs
 
-  Documentation: [Documentation (⭐736)](https://github.com/flowci/docs)
+  Documentation: [Documentation (⭐735)](https://github.com/flowci/docs)
 
-  Price: [Open Source (⭐413)](https://github.com/flowci/docker-install)
+  Price: [Open Source (⭐412)](https://github.com/flowci/docker-install)
 
   Stars: [![Stars](https://img.shields.io/github/stars/flowci)](https://github.com/flowci)
 
@@ -379,7 +397,7 @@ List of Continuous Integration services
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
-- Name: [Abstruse CI (⭐853)](https://github.com/bleenco/abstruse)
+- Name: [Abstruse CI (⭐860)](https://github.com/bleenco/abstruse)
 
   Description: Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker.
 
@@ -387,7 +405,7 @@ List of Continuous Integration services
 
   Supported repositories: GitHub, GitLab, BitBucket, Gogs
 
-  Documentation: [Documentation (⭐853)](https://github.com/bleenco/abstruse/tree/master/docs)
+  Documentation: [Documentation (⭐860)](https://github.com/bleenco/abstruse/tree/master/docs)
 
   Price: [Open Source](https://abstruse.bleenco.io)
 
@@ -428,7 +446,7 @@ List of Continuous Integration services
 
   Description: Automated post-deployment testing and web service monitoring
 
-  Features: [Example Integrations (⭐10)](https://github.com/assertible/deployments)
+  Features: [Example Integrations (⭐11)](https://github.com/assertible/deployments)
 
   Supported repositories: GitHub
 
@@ -486,7 +504,7 @@ List of Continuous Integration services
 
   Description: Mobile Continuous Integration and Delivery.
 
-  Features: [Source code (⭐757)](https://github.com/bitrise-io/bitrise) is available
+  Features: [Source code (⭐765)](https://github.com/bitrise-io/bitrise) is available
 
   Supported repositories: GitHub, BitBucket, Gitlab, Custom
 
@@ -516,7 +534,7 @@ List of Continuous Integration services
 
   Description: A build automation platform which gives you complete control, without the pain of running your own CI system.
 
-  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐690)](https://github.com/buildkite/agent)
+  Features: Languages: Ruby, Python, Node.js, JavaScript, PHP, Go, Rust, Erlang, Elixir, Java, Clojure, Scala, C/C++, Objective-C, Swift, .NET/C#<br />Source code is available: [Buildkite Agent (⭐704)](https://github.com/buildkite/agent)
 
   Supported repositories: GitHub, Bitbucket, GitLab, Custom
 
@@ -527,7 +545,7 @@ List of Continuous Integration services
   Stars: [![Stars](https://img.shields.io/github/stars/buildkite/agent.svg)](https://github.com/buildkite/agent)
 
 
-- Name: [CDS (⭐4k)](https://github.com/ovh/cds)
+- Name: [CDS (⭐4.1k)](https://github.com/ovh/cds)
 
   Description: Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 
@@ -537,7 +555,7 @@ List of Continuous Integration services
 
   Documentation: [Documentation](https://ovh.github.io/cds/)
 
-  Price: [Free Open Source (⭐4k)](https://github.com/ovh/cds)
+  Price: [Free Open Source (⭐4.1k)](https://github.com/ovh/cds)
 
   Stars: [![Stars](https://img.shields.io/github/stars/ovh/cds.svg)](https://github.com/ovh/cds)
 
@@ -677,7 +695,7 @@ List of Continuous Integration services
   Stars: 
 
 
-- Name: [Evergreen (⭐367)](https://github.com/evergreen-ci/evergreen)
+- Name: [Evergreen (⭐371)](https://github.com/evergreen-ci/evergreen)
 
   Description: Evergreen is a distributed continuous integration system built by MongoDB. It dynamically allocates hosts to run tasks in parallel across many machines.
 
@@ -685,7 +703,7 @@ List of Continuous Integration services
 
   Supported repositories: GitHub
 
-  Documentation: [Documentation (⭐367)](https://github.com/evergreen-ci/evergreen/wiki)
+  Documentation: [Documentation (⭐371)](https://github.com/evergreen-ci/evergreen/wiki)
 
   Price: 
 

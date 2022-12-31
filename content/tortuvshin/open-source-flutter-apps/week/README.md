@@ -6,6 +6,16 @@
 
 [ [Daily](/content/tortuvshin/open-source-flutter-apps/README.md) / Weekly / [Overview](/content/tortuvshin/open-source-flutter-apps/readme/README.md) ]
 
+## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
+
+### Contents / Finance
+
+*   [MMAS: Money Tracker (⭐121)](https://github.com/floranguyen0/mmas-money-tracker) - An optimized application for daily expense tracking and finance management by [Flora](https://github.com/floranguyen0).
+
+### Contents / Personalization
+
+*   [Spooky (⭐49)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
+
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
 ### Contents / Education

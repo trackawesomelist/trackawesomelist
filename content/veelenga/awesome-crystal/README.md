@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/veelenga/awesome-crystal/week/README.md) / [Overview](/content/veelenga/awesome-crystal/readme/README.md) ]
 
+## [Dec 31, 2022](/content/2022/12/31/README.md)
+
+### Image processing
+
+*   [ffmpeg (⭐10)](https://github.com/spider-gazelle/ffmpeg) - FFmpeg bindings that works with StumpyPNG to extract frames
+
+### Third-party APIs
+
+*   [amazonite (⭐0)](https://github.com/rjnienaber/amazonite) - An unofficial SDK supporting popular AWS APIs
+
 ## [Dec 18, 2022](/content/2022/12/18/README.md)
 
 ### Algorithms and Data structures
@@ -320,7 +330,7 @@
 
 ### Official Documentation Translations
 
-*   [Invidious (⭐9k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [Invidious (⭐9.1k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## [Nov 01, 2020](/content/2020/11/01/README.md)
 
@@ -397,7 +407,7 @@
 
 ### Framework Components
 
-*   [graphql (⭐115)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
+*   [graphql (⭐116)](https://github.com/graphql-crystal/graphql) - Type-safe [GraphQL](http://graphql.org) server implementation
 *   [graphql-crystal (⭐215)](https://github.com/ziprandom/graphql-crystal) - [GraphQL](http://graphql.org) implementation
 
 ### Unofficial
@@ -653,7 +663,7 @@
 
 ### Machine Learning
 
-*   [Cadmium (⭐194)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐9.9k)](https://github.com/NaturalNode/natural)
+*   [Cadmium (⭐194)](https://github.com/cadmiumcr/cadmium) - NLP library based heavily on [natural (⭐10k)](https://github.com/NaturalNode/natural)
 
 ## [Dec 30, 2019](/content/2019/12/30/README.md)
 
@@ -1133,7 +1143,7 @@
 
 ### Converters
 
-*   [money (⭐25)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.5k)](https://github.com/RubyMoney/money))
+*   [money (⭐25)](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney (⭐2.6k)](https://github.com/RubyMoney/money))
 
 ## [Jun 20, 2018](/content/2018/06/20/README.md)
 

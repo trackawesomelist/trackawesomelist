@@ -6,6 +6,12 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 [ [Daily](/content/steven2358/awesome-blockchain-ai/README.md) / Weekly / [Overview](/content/steven2358/awesome-blockchain-ai/readme/README.md) ]
 
+## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
+
+### Blockchains for computation / Blockchain projects for AI algorithms
+
+*   [Nunet](https://www.nunet.io/) - A globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources.
+
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
 ### Recommended reading / Blockchain, AI and Machine Learning
@@ -18,11 +24,6 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 ### Recommended reading / Blockchain, AI and Machine Learning
 
 *   [Decentralizing AI: Dreamers vs. Pragmatists.](https://www.linkedin.com/pulse/decentralizing-ai-dreamers-vs-pragmatists-jesus-rodriguez) - Jesus Rodriguez, May 23, 2019.
-
-### Deadpool / Blockchain projects for AI algorithms
-
-*   [Decentralized Machine Learning](https://decentralizedml.com/) - DML aims to create a blockchain-based decentralized machine learning protocol and ecosystem.
-*   [Computable](https://www.computable.io/) - A decentralized data marketplace for artificial intelligence applications.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
@@ -56,32 +57,11 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 *   [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 
-## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
-
-### Deadpool / Blockchain projects for AI algorithms
-
-*   [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models.
-*   [Fitchain](https://fitchain.io/) - Fitchain is a blockchain-based machine learning factory that allows data scientists to train models, tracing them from inception and throughout their lifetime.
-*   [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
-*   [Pandora Boxchain](https://pandoraboxchain.ai/) - A marketplace for AI kernels, computations and big data powered by Proof of Cognitive Work (PoCW).
-
 ## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
 
 *   [MATRIX AI](https://www.matrix.io/) - The Matrix AI Network is a public chain that combines AI technology with blockchain technology to solve the major challenges currently stifling the development and adoption of blockchain technology. Matrix is poised to revolutionize and democratize the field of Artificial Intelligence using a blockchain-powered decentralized computing platform.
-
-## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Cyber](http://cyber.page/) - A decentralized search engine, able to learn from knowledge graphs and provide predictive models.
-
-## [Oct 28 - Nov 03, 2019](/content/2019/43/README.md)
-
-### Blockchains for AI in medicine / Blockchain projects for AI algorithms
-
-*   [Vytalyx](https://vytalyx.io/) - Vytalyx is a health technology company that plans to use AI and blockchain to store and analyse medical data.
 
 ## [Sep 16 - Sep 22, 2019](/content/2019/37/README.md)
 
@@ -100,28 +80,6 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 *   [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 
-## [Jun 10 - Jun 16, 2019](/content/2019/23/README.md)
-
-### Blockchains for computation / Blockchain projects for AI algorithms
-
-*   [AI Crypto](https://aicrypto.ai/) - AI Crypto is a blockchain-based ecosystem where AI resources such as GPU, models, and data are distributed in order to lower the cost of AI development.
-
-### Deadpool / Blockchain projects for AI algorithms
-
-*   [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
-*   [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
-*   [starmine AI](http://starmine.ai/) - Starmine is a robust and highly scalable platform for constructing, trading and exchanging advanced algorithmically generated on-demand datasets for machine learning and artificial intelligence efforts.
-
-## [May 27 - Jun 02, 2019](/content/2019/21/README.md)
-
-### Foundations / Blockchain, AI and Machine Learning
-
-*   [Decentralized AI Alliance (DAIA).](https://daia.foundation/) - DAIA is an alliance of serious participants in the AI & blockchain related ecosystem, coming together to collectively solve common challenges and create an amazing future.
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Neuromation.](https://neuromation.io/) - Distributed synthetic data platform for Deep Learning Applications.
-
 ## [Feb 25 - Mar 03, 2019](/content/2019/8/README.md)
 
 ### Recommended reading / Wikipedia
@@ -135,10 +93,6 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 ### Recommended reading / Blockchain, AI and Machine Learning
 
 *   [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) - Fred Ehrsam, March 13, 2018.
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [Synapse AI](https://blog.synapse.ai/) - A decentralized global data marketplace built on the Ethereum blockchain.
 
 ## [Nov 12 - Nov 18, 2018](/content/2018/46/README.md)
 
@@ -156,12 +110,6 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 *   [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 
-## [Apr 02 - Apr 08, 2018](/content/2018/14/README.md)
-
-### Blockchains for data / Blockchain projects for AI algorithms
-
-*   [BOTTOS AI](https://bottos.org/) - A decentralized AI data sharing network that uses a consensus-based application platform to allow AI projects to gather training data.
-
 ## [Mar 19 - Mar 25, 2018](/content/2018/12/README.md)
 
 ### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
@@ -175,10 +123,6 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 *   [Intuition Fabric](https://intuitionfabric.com) - The goal of Intuition Fabric is to democratize access to AI through a network of deep learning models that are stored on the interplanetary file system and accessed through the Ethereum blockchain.
 *   [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
-
-### Blockchains for computation / Blockchain projects for AI algorithms
-
-*   [Neureal](https://neureal.net/) - Open source, peer-to-peer AI supercomputing powered by blockchain.
 
 ## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
 
@@ -196,7 +140,6 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 ### Blockchains for AI in finance / Blockchain projects for AI algorithms
 
-*   [Napoleon X](https://www.napoleonx.ai/) - Napoleon X is an open online computer driven asset management platform selecting quantitative strategies (trading bots) from world class traders, where each crypto-fund dedicated to a specific Asset Class.
 *   [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators.
 
 ### Blockchains for AI in medicine / Blockchain projects for AI algorithms
