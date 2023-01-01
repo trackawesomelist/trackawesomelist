@@ -6,6 +6,12 @@ A curated list of podcasts we like to listen to.
 
 [ [Daily](/content/ayr-ton/awesome-geek-podcasts/README.md) / Weekly / [Overview](/content/ayr-ton/awesome-geek-podcasts/readme/README.md) ]
 
+## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
+
+### In English
+
+*   [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/) - Interviews about how to build reliable, maintainable and scaleable software people love.
+
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
 ### In Portuguese
