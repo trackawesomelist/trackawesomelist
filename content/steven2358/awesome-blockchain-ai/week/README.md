@@ -8,6 +8,10 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
+### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
+
+*   [Oraichain](https://orai.io/) - Oraichain is the world's first intelligent and secure solution for emerging Web3, scalable Dapps, and decentralized AI.
+
 ### Blockchains for computation / Blockchain projects for AI algorithms
 
 *   [Nunet](https://www.nunet.io/) - A globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources.

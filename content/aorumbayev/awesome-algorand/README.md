@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Jan 01, 2023](/content/2023/01/01/README.md)
+
+### Wallets
+
+*   [Defly Wallet](https://defly.app/) - Defly is an Algorand wallet with great suit of integrated DeFi features.
+*   [Exodus](https://www.exodus.com/) - Exodus is a multi-cryptocurrency wallet that supports Algorand.
+
+### Languages / JavaScript & TypeScript
+
+*   [defly-connect (⭐3)](https://github.com/blockshake-io/defly-connect) - JavaScript SDK for integrating Defly Wallet to web applications.
+
 ## [Dec 27, 2022](/content/2022/12/27/README.md)
 
 ### Blockchain Explorers

@@ -6,6 +6,12 @@ A curated list of Blockchain projects for Artificial Intelligence and Machine Le
 
 [ Daily / [Weekly](/content/steven2358/awesome-blockchain-ai/week/README.md) / [Overview](/content/steven2358/awesome-blockchain-ai/readme/README.md) ]
 
+## [Jan 01, 2023](/content/2023/01/01/README.md)
+
+### Blockchains for AI algorithms / Blockchain, AI and Machine Learning
+
+*   [Oraichain](https://orai.io/) - Oraichain is the world's first intelligent and secure solution for emerging Web3, scalable Dapps, and decentralized AI.
+
 ## [Dec 30, 2022](/content/2022/12/30/README.md)
 
 ### Blockchains for computation / Blockchain projects for AI algorithms
