@@ -6,6 +6,12 @@ JAX - A curated list of resources https://github.com/google/jax
 
 [ [Daily](/content/n2cholas/awesome-jax/README.md) / Weekly / [Overview](/content/n2cholas/awesome-jax/readme/README.md) ]
 
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### Libraries / New Libraries
+
+*   [SPU (⭐68)](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation). <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
+
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Libraries

@@ -6,6 +6,12 @@
 
 [ [Daily](/content/aniftyco/awesome-tailwindcss/README.md) / Weekly / [Overview](/content/aniftyco/awesome-tailwindcss/readme/README.md) ]
 
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
+
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Plugins

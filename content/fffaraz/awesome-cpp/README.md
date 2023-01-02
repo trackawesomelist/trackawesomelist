@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Jan 02, 2023](/content/2023/01/02/README.md)
+
+### Videos
+
+*   [Caleb Curry's C Programming Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) - An all-in-one playlist of tutorials for C programming.
+
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 
 ### Miscellaneous
@@ -16,7 +22,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Yaml
 
-*   [rapidyaml (⭐377)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML \[MIT]
+*   [rapidyaml (⭐384)](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML \[MIT]
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
