@@ -2,6 +2,33 @@
 
 Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 
+- [Track Awesome Chatgpt Updates Daily](#track-awesome-chatgpt-updates-daily)
+  - [Dec 19, 2022](#dec-19-2022)
+    - [Use ChatGPT Anywhere / Editors](#use-chatgpt-anywhere--editors)
+    - [Use ChatGPT Anywhere / Chatbots](#use-chatgpt-anywhere--chatbots)
+    - [Applications / Reverse Proxy](#applications--reverse-proxy)
+  - [Dec 10, 2022](#dec-10-2022)
+    - [Use ChatGPT Anywhere / Reverse Proxy](#use-chatgpt-anywhere--reverse-proxy)
+  - [Dec 09, 2022](#dec-09-2022)
+    - [Use ChatGPT Anywhere / Chatbots](#use-chatgpt-anywhere--chatbots-1)
+    - [Extend ChatGPT Feature / Reverse Proxy](#extend-chatgpt-feature--reverse-proxy)
+    - [Applications / Reverse Proxy](#applications--reverse-proxy-1)
+    - [Development Tools (API, SDK) / Reverse Proxy](#development-tools-api-sdk--reverse-proxy)
+  - [Dec 07, 2022](#dec-07-2022)
+    - [Use ChatGPT Anywhere / Chatbots](#use-chatgpt-anywhere--chatbots-2)
+  - [Dec 06, 2022](#dec-06-2022)
+    - [Official Resource](#official-resource)
+    - [Use ChatGPT Anywhere / Browser Extensions](#use-chatgpt-anywhere--browser-extensions)
+    - [Use ChatGPT Anywhere / Desktop Applications](#use-chatgpt-anywhere--desktop-applications)
+    - [Use ChatGPT Anywhere / Editors](#use-chatgpt-anywhere--editors-1)
+    - [Use ChatGPT Anywhere / Launcher Extensions](#use-chatgpt-anywhere--launcher-extensions)
+    - [Use ChatGPT Anywhere / Chatbots](#use-chatgpt-anywhere--chatbots-3)
+    - [Extend ChatGPT Feature / Reverse Proxy](#extend-chatgpt-feature--reverse-proxy-1)
+    - [Applications / Reverse Proxy](#applications--reverse-proxy-2)
+    - [Prompts / Reverse Proxy](#prompts--reverse-proxy)
+    - [Development Tools (API, SDK) / Reverse Proxy](#development-tools-api-sdk--reverse-proxy-1)
+    - [Experiments / Reverse Proxy](#experiments--reverse-proxy)
+
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Kamigami55/awesome-chatgpt/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) · ⭐ 223 · 🏷️ ChatGPT
 
 [ Daily / [Weekly](/content/Kamigami55/awesome-chatgpt/week/README.md) / [Overview](/content/Kamigami55/awesome-chatgpt/readme/README.md) ]
