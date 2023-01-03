@@ -1,12 +1,30 @@
 # Awesome List Updates on Jan 03, 2023
 
-12 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [1. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+### Boilerplates
+
+*   [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Pretter, Eslint etc. configs. ✨
+
+## [2. Tools](/content/lvwzhen/tools/README.md)
+
+### Color
+
+*   [Branding Colors](https://branition.com/colors)
+
+## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [lsd (⭐0)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐8.9k)](https://github.com/Peltoche/lsd).
+
+## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -16,13 +34,13 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
+## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Runtimes/Frontends
 
 *   [JupyterLab Desktop (⭐2.1k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
 
-## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [6. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### System Requirements
 
@@ -171,58 +189,63 @@
 ### Social media
 
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
+*   `#qubes-os` channel on irc.anonops.com via traditional IRC clients
 
-## [4. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [7. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Templates / TikZ
 
 *   [LaTeX Beamer Theme Overview (⭐9)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
 *   [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. [Source Code](https://gitlab.com/fdroid/fdroidserver) `AGPL-3.0` `Python/Docker`
 
-## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
+## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
 *   [RestQA (⭐55)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Interactive Experiences
 
 *   [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 *   [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 
-## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [11. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### 3D / Godot 3.2+
 
 *   [Boom (⭐2)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### ToDos
 
 *   [ididit! (⭐68)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
 
-## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+### Articles / Others
+
+*   [Build Your Own Podcast App with .NET 7, Blazor, and .NET MAUI](https://devblogs.microsoft.com/dotnet/build-your-own-podcast-app-with-dotnet-blazor-and-dotnet-maui/) - December 19, 2022 - The .NET Podcast app was first introduced at .NET Conf 2021 and recently updated to highlight new features in .NET 7 at the .NET Conf 2022 keynote. The podcast app is ready to use sample application that showcases .NET, ASP.NET Core, Blazor, .NET MAUI, Azure Container Apps, Orleans, Power Platform, Playwright, and more. This post explains all the new features and show how we upgraded the .NET Podcast app to take advantage of them.
+
+## [13. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Introduction
 
 *   [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
 *   [Why Web Components?](https://www.fast.design/docs/resources/why-web-components/)
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### File Explorer / Diagnostics
 
 *   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
-## [12. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
+## [15. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 

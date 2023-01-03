@@ -2,9 +2,15 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 822 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 845 · 🏷️ Front-End Development
 
 [ [Daily](/content/lvwzhen/tools/README.md) / Weekly / [Overview](/content/lvwzhen/tools/readme/README.md) ]
+
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### Color
+
+*   [Branding Colors](https://branition.com/colors)
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
@@ -369,7 +375,7 @@ Tools Online
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.1k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.2k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 ### Font
@@ -380,7 +386,7 @@ Tools Online
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐356)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐357)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 

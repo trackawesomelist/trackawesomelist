@@ -155,6 +155,7 @@ A collection of awesome Qubes OS links
 ### Social media
 
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
+*   `#qubes-os` channel on irc.anonops.com via traditional IRC clients
 
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 

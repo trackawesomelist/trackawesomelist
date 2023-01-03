@@ -910,6 +910,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [loremipsum (⭐0)](https://github.com/pfahlr/zsh_plugin_loremipsum) - Generate lorem ipsum text on the command line. Gets its data from [lipsum.com](https://www.lipsum.com).
 *   [ls (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-ls) - Adds some more aliases for `ls`.
 *   [ls (zpm-zsh) (⭐73)](https://github.com/zpm-zsh/ls) - Colorizes the output of `ls`.
+*   [lsd (⭐0)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐8.9k)](https://github.com/Peltoche/lsd).
 *   [lumberjack (⭐37)](https://github.com/molovo/lumberjack) - Lumberjack is a logging interface for shell scripts.
 *   [lux (⭐24)](https://github.com/pndurette/zsh-lux) - ZSH plugin to toggle the light & dark modes of macOS and other items and applications via the `lux` command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a `macos_is_dark` helper function to determine if the macOS dark mode is active for use in theming.
 *   [mac-packaging (⭐1)](https://github.com/Temikus/mac-packaging) - A set of common functions used for enterprise Mac packaging with [Munki](https://www.munki.org/munki/).
@@ -1303,7 +1304,6 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [zsh-z (ptavares) (⭐0)](https://github.com/ptavares/zsh-z) - Installs and loads [z](https://github.com/rupa/z.git).
 *   [zshange\_directory\_recent (⭐0)](https://github.com/Kjeldgaard/zshange_directory_recent) - Change to a recent directory. Requires [fzf (⭐49k)](https://github.com/junegunn/fzf).
 *   [zshmarks (⭐254)](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for [oh-my-zsh](https://ohmyz.sh).
-*   [zshmux (⭐9)](https://github.com/huboles/zshmux) - When a new shell is launched, quickly checks if there are any `tmux` sessions, or if the current shell is already in a `tmux` instance. If you are not already in a `tmux` session it will list all currently active sessions, and ask if you want to attach a currently running session, or make a new session in the shell.
 *   [zshrc (⭐5)](https://github.com/freak2geek/zshrc) - Load local `.zshrc` files from your project scopes.
 *   [zsnapac (⭐2)](https://github.com/johnramsden/zsh-zsnapac) - Plugin for taking ZFS pre/post upgrade snapshots on Arch Linux.
 *   [zsnapshot (⭐1)](https://github.com/zdharma-continuum/zsnapshot) - Adds command to dump the current ZSH state into a file, for later restoration by sourcing the snapshot file.

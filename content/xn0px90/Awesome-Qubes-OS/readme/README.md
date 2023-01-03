@@ -225,4 +225,5 @@ The Qubes OS Project has a presence on the following social media platforms:
 *   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
 *   `#qubes` channel on libera.chat via traditional IRC clients
+*   `#qubes-os` channel on irc.anonops.com via traditional IRC clients
 
