@@ -1,12 +1,12 @@
-# Awesome List Updates on Jan 02 - Jan 08, 2023
+# Awesome List Updates on Jan 03, 2023
 
-17 awesome lists updated this week.
+12 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [1. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -16,13 +16,13 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [2. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
 ### Runtimes/Frontends
 
 *   [JupyterLab Desktop (⭐2.1k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
 
-## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [3. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### System Requirements
 
@@ -172,45 +172,57 @@
 
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [4. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+
+### Templates / TikZ
+
+*   [LaTeX Beamer Theme Overview (⭐9)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
+
+## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Miscellaneous
 
 *   [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. [Source Code](https://gitlab.com/fdroid/fdroidserver) `AGPL-3.0` `Python/Docker`
 
-## [5. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [6. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 
 ### Querying / Symfony2
 
 *   [RestQA (⭐55)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
-## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Interactive Experiences
 
 *   [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 *   [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 
-## [7. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [8. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### 3D / Godot 3.2+
 
 *   [Boom (⭐2)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### ToDos
 
 *   [ididit! (⭐68)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
 
-## [9. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Introduction
 
 *   [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
 *   [Why Web Components?](https://www.fast.design/docs/resources/why-web-components/)
 
-## [10. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### File Explorer / Diagnostics
+
+*   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+
+## [12. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
 ### External Services
 
@@ -228,67 +240,6 @@
     *   [waka-box (⭐1.2k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
     *   [waka-box-go (⭐150)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 
-## [11. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
-
-### Other OS:
-
-*   [AtlasOS](https://atlasos.net/) - An open-source modification of Windows 10, designed to optimize performance, and latency. Atlas removes all types of tracking embedded within Windows and implements numerous group policies to minimize data collection.
-
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
-
-### Videos
-
-*   [Caleb Curry's C Programming Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) - An all-in-one playlist of tutorials for C programming.
-
-## [13. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
-
-### Virtualisation / Newsletters
-
-*   [extra-container (⭐109)](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
-*   [microvm (⭐335)](https://github.com/astro/microvm.nix) - NixOS-based MicroVMs.
-
-### Command-Line Tools / Newsletters
-
-*   [nurl (⭐58)](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
-
-### Development / Newsletters
-
-*   [nil (⭐327)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
-*   [nix-update (⭐158)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
-
-## [14. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
-
-### Templates / TikZ
-
-*   [LaTeX Beamer Theme Overview (⭐9)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
-
-### Social media / TikZ
-
-*   [TopAnswers TeX](https://topanswers.xyz/tex) - a free and open source Q\&A site for TeX and friends
-
-## [15. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### UI Libraries, Components & Templates
-
-*   📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
-
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### File Explorer / Diagnostics
-
-*   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
-
-### Editing Support / Diagnostics
-
-*   [XXiaoA/ns-textobject.nvim (⭐10)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
-
-## [17. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
-
-### Libraries / New Libraries
-
-*   [SPU (⭐68)](https://github.com/secretflow/spu) - A domain-specific compiler and runtime suite to run JAX code with MPC(Secure Multi-Party Computation). <img src="https://img.shields.io/github/stars/secretflow/spu?style=social" align="center">
-
 ---
 
-- Prev: [Sep 10 - Sep 16, 2012](/content/2012/37/README.md)
-- Next: [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
+- Next: [Jan 02, 2023](/content/2023/01/02/README.md)

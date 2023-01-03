@@ -87,6 +87,7 @@ See [Vivraan/godot-lang-support (⭐209)](https://github.com/Vivraan/godot-lang-
 
 #### Godot 3.2+
 
+*   [Boom (⭐2)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 *   [Broken Seals (⭐287)](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
 *   [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
 *   [Thrive (⭐1.9k)](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).

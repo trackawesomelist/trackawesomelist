@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 03, 2023](/content/2023/01/03/README.md)
+
+### File Explorer / Diagnostics
+
+*   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+
 ## [Jan 02, 2023](/content/2023/01/02/README.md)
 
 ### Editing Support / Diagnostics

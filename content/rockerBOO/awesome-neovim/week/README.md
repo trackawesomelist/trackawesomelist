@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
+### File Explorer / Diagnostics
+
+*   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
+
 ### Editing Support / Diagnostics
 
 *   [XXiaoA/ns-textobject.nvim (⭐10)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.

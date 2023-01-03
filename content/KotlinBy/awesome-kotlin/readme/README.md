@@ -138,67 +138,62 @@ Here is the awesome badge for your project:
 
 ### <a name="github-trending-monthly"></a>Monthly <sup>[Back ⇈](#github-trending-monthly-subcategory)</sup>
 
+*   [jing332/tts-server-android (⭐282)](https://github.com/jing332/tts-server-android) - 在安卓本地搭建服务器以转发微软TTS，用于在阅读APP中网络朗读。(现已支持系统TTS 可被其他APP调用)
 *   [PurpurMC/Purpur (⭐1.3k)](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 *   [MatsuriDayo/Matsuri (⭐1.4k)](https://github.com/MatsuriDayo/Matsuri) - Matsuri (茉莉) / V2Ray / universal proxy toolchain for Android / Fork of SagerNet
-*   [JetBrains/intellij-platform-plugin-template (⭐1.9k)](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
+*   [Ashinch/ReadYou (⭐1.5k)](https://github.com/Ashinch/ReadYou) - This is a copy of Reeder, in order to give Android an RSS reader similar to Reeder, combines the interaction logic of Reeder with the design style of Material Design 3 (You).
 *   [JunkFood02/Seal (⭐2k)](https://github.com/JunkFood02/Seal) - Video/Audio downloader for Android, based on yt-dlp, designed and themed with Material You
 *   [recloudstream/cloudstream (⭐2.1k)](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 *   [revanced/revanced-patches (⭐2.3k)](https://github.com/revanced/revanced-patches) - 🧩 Patches for ReVanced
 *   [vfsfitvnm/ViMusic (⭐2.3k)](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 *   [RetroMusicPlayer/RetroMusicPlayer (⭐2.7k)](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 *   [saikou-app/saikou (⭐2.9k)](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
-*   [RikkaApps/Shizuku (⭐3k)](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 *   [florisboard/florisboard (⭐3.7k)](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 *   [android/user-interface-samples (⭐3.7k)](https://github.com/android/user-interface-samples) - Multiple samples showing the best practices in the user interface on Android.
 *   [libre-tube/LibreTube (⭐4k)](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
-*   [ethereum-lists/chains (⭐4k)](https://github.com/ethereum-lists/chains) - provides metadata for networkIDs and chainIDs
 *   [yairm210/Unciv (⭐4.6k)](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+*   [facebook/facebook-android-sdk (⭐5.8k)](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
 *   [google/accompanist (⭐5.9k)](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
 *   [thundernest/k-9 (⭐7.5k)](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 *   [android/nowinandroid (⭐9k)](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
 *   [ktorio/ktor (⭐11k)](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
 *   [mamoe/mirai (⭐11k)](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 *   [android/compose-samples (⭐14k)](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-*   [Kr328/ClashForAndroid (⭐19k)](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
-*   [bannedbook/fanqiang (⭐28k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
+*   [2dust/v2rayNG (⭐18k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+*   [shadowsocks/shadowsocks-android (⭐33k)](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 *   [android/architecture-samples (⭐42k)](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 *   [JetBrains/kotlin (⭐43k)](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 
 ### <a name="github-trending-weekly"></a>Weekly <sup>[Back ⇈](#github-trending-weekly-subcategory)</sup>
 
-*   [aaa1115910/bv (⭐103)](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用
-*   [jellyfin/jellyfin-android (⭐593)](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
-*   [android/wear-os-samples (⭐699)](https://github.com/android/wear-os-samples) - Multiple samples showing best practices in app and watch face development on Wear OS.
-*   [Ivy-Apps/ivy-wallet (⭐699)](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
-*   [z-huang/InnerTune (⭐834)](https://github.com/z-huang/InnerTune) - A material design YouTube Music client
-*   [cuynu/ytvanced (⭐1.3k)](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial APK Download
-*   [hectorqin/reader (⭐3.7k)](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+*   [chenxiaolong/BCR (⭐404)](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
+*   [Ivy-Apps/ivy-wallet (⭐762)](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for android that you can either build or download from Google Play.
+*   [tytydraco/LADB (⭐1.1k)](https://github.com/tytydraco/LADB) - A local ADB shell for Android!
+*   [cuynu/ytvanced (⭐1.4k)](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG & YouTube Music Vanced Unofficial APK Download
+*   [vinaygaba/Learn-Jetpack-Compose-By-Example (⭐2.6k)](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) - 🚀 This project contains various examples that show how you would do things the "Jetpack Compose" way
+*   [duckduckgo/Android (⭐2.9k)](https://github.com/duckduckgo/Android) - DuckDuckGo Android App
+*   [Gurupreet/ComposeCookBook (⭐4.8k)](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential
+*   [iSoron/uhabits (⭐5.8k)](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 *   [ankidroid/Anki-Android (⭐5.8k)](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-*   [mozilla-mobile/fenix (⭐6.5k)](https://github.com/mozilla-mobile/fenix) - Firefox for Android
 *   [Shabinder/SpotiFlyer (⭐7.1k)](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.                                                                                          NOTE:   BEING REWRITTEN,  SO  STAY TUNED.
 *   [JetBrains/compose-jb (⭐10k)](https://github.com/JetBrains/compose-jb) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 *   [gedoor/legado (⭐12k)](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-*   [2dust/v2rayNG (⭐18k)](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 *   [tachiyomiorg/tachiyomi (⭐20k)](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
-*   [alibaba/p3c (⭐29k)](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
 ### <a name="github-trending-daily"></a>Daily <sup>[Back ⇈](#github-trending-daily-subcategory)</sup>
 
-*   [bitfireAT/davx5-ose (⭐483)](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
+*   [LineageOS/android\_packages\_apps\_Aperture (⭐31)](https://github.com/LineageOS/android_packages_apps_Aperture)
+*   [hexated/cloudstream-extensions-hexated (⭐57)](https://github.com/hexated/cloudstream-extensions-hexated)
+*   [aaa1115910/bv (⭐221)](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用
+*   [tiann/KernelSU (⭐557)](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android GKI
+*   [KieronQuinn/AmbientMusicMod (⭐870)](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices
 *   [NeoApplications/Neo-Store (⭐1.4k)](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
-*   [wordpress-mobile/WordPress-Android (⭐2.8k)](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
-*   [mobile-dev-inc/maestro (⭐2.9k)](https://github.com/mobile-dev-inc/maestro) - Painless Mobile UI Automation
-*   [streetcomplete/StreetComplete (⭐3k)](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
-*   [android/camera-samples (⭐4.1k)](https://github.com/android/camera-samples) - Multiple samples showing the best practices in camera APIs on Android.
-*   [androidx/androidx (⭐4.2k)](https://github.com/androidx/androidx) - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
-*   [detekt/detekt (⭐5.1k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
-*   [iSoron/uhabits (⭐5.8k)](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-*   [facebook/facebook-android-sdk (⭐5.8k)](https://github.com/facebook/facebook-android-sdk) - Used to integrate Android apps with Facebook Platform.
-*   [javalin/javalin (⭐6.2k)](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
-*   [InsertKoinIO/koin (⭐7.8k)](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
-*   [coil-kt/coil (⭐8.8k)](https://github.com/coil-kt/coil) - Image loading for Android backed by Kotlin Coroutines.
-*   [Kotlin/kotlinx.coroutines (⭐12k)](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-*   [square/okhttp (⭐43k)](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
+*   [revanced/revanced-patcher (⭐1.8k)](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
+*   [tachiyomiorg/tachiyomi-extensions (⭐2.2k)](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
+*   [ethereum-lists/chains (⭐4k)](https://github.com/ethereum-lists/chains) - provides metadata for networkIDs and chainIDs
+*   [yujincheng08/BiliRoaming (⭐5.8k)](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+*   [Kr328/ClashForAndroid (⭐19k)](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
+*   [bannedbook/fanqiang (⭐28k)](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 
@@ -851,6 +846,7 @@ Here is the awesome badge for your project:
 ### <a name="projects-idea-plugins"></a>Idea Plugins <sup>[Back ⇈](#projects-idea-plugins-subcategory)</sup>
 
 *   [Vektah/CodeGlance (⭐1.1k)](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
+*   [intellij-rust/intellij-rust (⭐4.2k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
 *   [dkandalov/activity-tracker (⭐59)](https://github.com/dkandalov/activity-tracker) - Plugin for IntelliJ IDEs to track and record user activity.
 *   [dkandalov/limited-wip (⭐102)](https://github.com/dkandalov/limited-wip) - Plugin to limit your work-in-progress.
 *   [dkandalov/pomodoro-tm (⭐126)](https://github.com/dkandalov/pomodoro-tm) - Pomodoro timer.
@@ -863,7 +859,6 @@ Here is the awesome badge for your project:
 *   [emedinaa/kotlin-viewmodel (⭐3)](https://github.com/emedinaa/kotlin-viewmodel) - Basic samples about ViewModel component
 *   [wuseal/JsonToKotlinClass (⭐2.8k)](https://github.com/wuseal/JsonToKotlinClass) - Plugin for IntelliJ IDEs to generate Kotlin data class code from JSON text
 *   [csense-oss/idea-kotlin-checked-exceptions (⭐13)](https://github.com/csense-oss/idea-kotlin-checked-exceptions) - Plugin to help integrate with java and exceptions (highlights, warns when not catching exceptions and a lot more)
-*   [intellij-rust/intellij-rust (⭐4.2k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
 
 ### <a name="projects-playground"></a>Playground <sup>[Back ⇈](#projects-playground-subcategory)</sup>
 
@@ -875,12 +870,12 @@ Here is the awesome badge for your project:
 *   [skydoves/githubfollows (⭐288)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
 *   [deva666/NewsReader (⭐22)](https://github.com/deva666/NewsReader) - Android app for reading news
+*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
 *   [SimonSchubert/LinuxCommandBibliotheca (⭐253)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
 *   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
 *   [pranayairan/CoinBit (⭐50)](https://github.com/pranayairan/CoinBit) - CoinBit is completely free Bitcoin & cryptocurrency portfolio tracker app. It helps you over 4000+ cryptocurrencies on 150+ platforms including Binance, GDAX, Kraken etc
 *   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
 *   [zt64/Hyperion (⭐383)](https://github.com/zt64/Hyperion) - An alternative YouTube front-end using modern Android architecture and Material 3
-*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
 
 ## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
 
@@ -952,7 +947,6 @@ Here is the awesome badge for your project:
 *   [evilthreads669966/EvadeMe (⭐29)](https://github.com/evilthreads669966/EvadeMe) - A heuristics evasion library that prevents your code from being analyzed or tested.
 *   [evilthreads669966/BootLaces (⭐35)](https://github.com/evilthreads669966/BootLaces) - Turns your background service persistent.
 *   [evilthreads669966/WakeService](https://github.com/evilthreads669966/WakeService) - An IntentService that keeps your processor awake while doing work.
-*   [evilthreads669966/Pickpocket (⭐27)](https://github.com/evilthreads669966/Pickpocket) - An asynchronous Android library for content providers and more.
 *   [evilthreads669966/EasyShells (⭐6)](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
 *   [mr-wizman/Consent (⭐4)](https://github.com/mr-wizman/Consent) - Easy Android permissions. Powered by Kotlin.
 *   [matteocrippa/Parrot (⭐22)](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
@@ -962,6 +956,7 @@ Here is the awesome badge for your project:
 *   [developingdeveloper-tech/toaster-android (⭐22)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 *   [heart-switch (⭐30)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
 *   [OTPComposable (⭐2)](https://github.com/itmaginationdemos/OTPComposable) - A library dedicated to making OTP (One Time Password) components a breeze to implement
+*   [evilthreads669966/Pickpocket (⭐27)](https://github.com/evilthreads669966/Pickpocket) - An asynchronous Android library for content providers and more.
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 
@@ -1065,11 +1060,11 @@ Here is the awesome badge for your project:
 *   [danfma/kodando (⭐75)](https://github.com/danfma/kodando) - Kotlin JS bindings and libraries.
 *   [kengorab/kotlin-javascript-boilerplate (⭐9)](https://github.com/kengorab/kotlin-javascript-boilerplate) - An extremely barebones boilerplate project for compiling Kotlin to Javascript.
 *   [markaren/three-kt-wrapper (⭐49)](https://github.com/markaren/three-kt-wrapper) - Kotlin wrappers for three.js JavaScript 3D library
-*   [rjaros/kvision (⭐982)](https://github.com/rjaros/kvision) - Object oriented Web UI framework for Kotlin/JS
 *   [nosix/vue-kotlin (⭐184)](https://github.com/nosix/vue-kotlin) - Libraries and tools supporting the use of Vue.js in Kotlin
 *   [Kabbura/Kunafa (⭐159)](https://github.com/Kabbura/Kunafa) - Easy to use, high level framework in Kotlin for front-end web-development and creating web apps without using HTML, CSS, or JavaScript.
 *   [Foso/MpApt (⭐235)](https://github.com/Foso/MpApt) - Kotlin Native/JS/JVM Annotation Processor library
 *   [fortytwoapps/kstitch (⭐5)](https://github.com/fortytwoapps/kstitch) - An object oriented toolkit for MongoDB Stitch in KotlinJS.
+*   [rjaros/kvision (⭐982)](https://github.com/rjaros/kvision) - Object oriented Web UI framework for Kotlin/JS
 
 ### <a name="kotlin-javascript-frontend"></a>Frontend <sup>[Back ⇈](#kotlin-javascript-frontend-subcategory)</sup>
 

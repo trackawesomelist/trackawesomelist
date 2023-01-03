@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ [Daily](/content/godotengine/awesome-godot/README.md) / Weekly / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### 3D / Godot 3.2+
+
+*   [Boom (⭐2)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
+
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Plugins and scripts / Various Godot versions

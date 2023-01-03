@@ -1,10 +1,17 @@
 # Track Webcomponents the Right Way Updates Daily
 
-This is a guide intended to introduce to Web Components. Everyone can contribute here!
+A curated list of awesome Web Components resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mateusortiz/webcomponents-the-right-way/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mateusortiz/webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way) · ⭐ 2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mateusortiz/webcomponents-the-right-way/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mateusortiz/webcomponents-the-right-way](https://github.com/web-padawan/awesome-web-components) · ⭐ 2K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
+
+## [Jan 03, 2023](/content/2023/01/03/README.md)
+
+### Introduction
+
+*   [The Motivation For Using Web Components, an Introduction](https://www.thinktecture.com/web-components/introduction-and-motivation/)
+*   [Why Web Components?](https://www.fast.design/docs/resources/why-web-components/)
 
 ## [Dec 22, 2022](/content/2022/12/22/README.md)
 
@@ -189,33 +196,33 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 ### Component Libraries
 
 *   [AXA Pattern Library (⭐100)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with Web Components.
-*   [Curvenote (⭐139)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
-*   [Dile Components (⭐28)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
-*   [Furo Webcomponents (⭐10)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
-*   [Fusion Web Components (⭐2)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
+*   [Curvenote (⭐142)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
+*   [Dile Components (⭐31)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
+*   [Furo Webcomponents (⭐9)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
+*   [Fusion Web Components (⭐1)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
 *   [Ignite UI Web Components (⭐77)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
 *   [Medblocks UI (⭐32)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
-*   [Mutation testing elements (⭐17)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
-*   [One Platform Components (⭐23)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
-*   [Playground Elements (⭐338)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
-*   [Stripe Elements (⭐63)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
-*   [Titanium Elements (⭐7)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
-*   [Umbraco UI Components (⭐62)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
-*   [VSCode Webview Elements (⭐33)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
-*   [Webmarkets web components (⭐2)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
+*   [Mutation testing elements (⭐18)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
+*   [One Platform Components (⭐22)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
+*   [Playground Elements (⭐348)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
+*   [Stripe Elements (⭐65)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
+*   [Titanium Elements (⭐8)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
+*   [Umbraco UI Components (⭐63)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
+*   [VSCode Webview Elements (⭐34)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
+*   [Webmarkets web components (⭐1)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
 
 ### Design Systems
 
-*   [Carbon Web Components (⭐431)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-*   [Clarity Core Web Components (⭐89)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
+*   [Carbon Web Components (⭐432)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
+*   [Clarity Core Web Components (⭐90)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components from the Clarity Design System.
 *   [Forge Components (⭐12)](https://github.com/tyler-technologies-oss/forge) - Library of Web Components adhering to the Forge Design System.
 *   [Liquid (⭐30)](https://github.com/emdgroup-liquid/liquid) - UI component library based on the Liquid Design System.
-*   [Material Web Components (⭐4.5k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-*   [Momentum UI Web Components (⭐133)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
-*   [OutlineJS (⭐76)](https://github.com/phase2/outline) - Web component based design system starter kit.
-*   [Pharos Design System (⭐62)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+*   [Material Web Components (⭐4.6k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
+*   [Momentum UI Web Components (⭐137)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+*   [OutlineJS (⭐79)](https://github.com/phase2/outline) - Web component based design system starter kit.
+*   [Pharos Design System (⭐60)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
 *   [Red Hat Design System (⭐27)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
-*   [Siemens iX Web Components (⭐49)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
+*   [Siemens iX Web Components (⭐54)](https://github.com/siemens/ix/tree/main/packages/core) - Web Components implementing Siemens iX design system.
 
 ### Class Based
 
@@ -287,7 +294,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 ### Component Libraries
 
 *   [github-elements (⭐2.4k)](https://github.com/github/github-elements) - GitHub's Web Component collection.
-*   [Vaadin components (⭐272)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
+*   [Vaadin components (⭐278)](https://github.com/vaadin/web-components) - Evolving set of high-quality web components for building business web applications.
 
 ## [Feb 24, 2021](/content/2021/02/24/README.md)
 
@@ -366,7 +373,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Component Libraries
 
-*   [Joomla UI custom elements (⭐25)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
+*   [Joomla UI custom elements (⭐24)](https://github.com/joomla-projects/custom-elements) - Compilation of Joomla 4 Custom Elements.
 
 ## [Sep 02, 2020](/content/2020/09/02/README.md)
 
@@ -436,11 +443,11 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Design Systems
 
-*   [Lyne Components (⭐19)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
+*   [Lyne Components (⭐18)](https://github.com/lyne-design-system/lyne-components) - Building blocks of the Lyne Design System are based on Web Components.
 
 ### Class Based
 
-*   [Panel (⭐238)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
+*   [Panel (⭐239)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
 
 ## [Aug 20, 2020](/content/2020/08/20/README.md)
 
@@ -452,7 +459,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Component Libraries
 
-*   [Smart Web Components (⭐314)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
+*   [Smart Web Components (⭐317)](https://github.com/HTMLElements/smart-webcomponents) - Web components for business applications.
 
 ### Tools
 
@@ -462,7 +469,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Component Libraries
 
-*   [Shoelace (⭐7.7k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
+*   [Shoelace (⭐7.8k)](https://github.com/shoelace-style/shoelace) - A forward-thinking library of web components.
 
 ## [Jul 14, 2020](/content/2020/07/14/README.md)
 
@@ -486,7 +493,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Component Libraries
 
-*   [Immersive Custom Elements (⭐134)](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
+*   [Immersive Custom Elements (⭐135)](https://github.com/MozillaReality/immersive-custom-elements) - Set of web components for embedding immersive (VR & AR) content.
 *   [Open Business Application Platform Web Components (⭐12)](https://github.com/openbap/obap-elements) - Collection of web components designed for business applications.
 
 ## [Jul 08, 2020](/content/2020/07/08/README.md)
@@ -603,12 +610,12 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Component Libraries
 
-*   [TEI Publisher Components (⭐14)](https://github.com/eeditiones/tei-publisher-components) - Collection of web components used by TEI Publisher and apps generated by it.
+*   [TEI Publisher Components (⭐15)](https://github.com/eeditiones/tei-publisher-components) - Collection of web components used by TEI Publisher and apps generated by it.
 
 ### Integrations
 
 *   [ember-custom-elements (⭐15)](https://github.com/Ravenstine/ember-custom-elements) - Render Ember and Glimmer components using custom elements.
-*   [react-shadow (⭐1.1k)](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
+*   [react-shadow (⭐1.2k)](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
 
 ## [Jun 01, 2020](/content/2020/06/01/README.md)
 
@@ -628,7 +635,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Design Systems
 
-*   [Crayons (⭐121)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
+*   [Crayons (⭐125)](https://github.com/freshdesk/crayons) - Collection of web components that adheres to the Freshworks Design System.
 
 ### Podcasts
 
@@ -643,11 +650,11 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 ### Component Libraries
 
 *   [elements-sk (⭐27)](https://github.com/google/elements-sk) - Collection of custom elements for "a la carte" web development.
-*   [Lume (⭐881)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
+*   [Lume (⭐896)](https://github.com/lume/lume) - Custom elements for defining 2D or 3D scenes rendered with CSS3D or WebGL.
 
 ### Design Systems
 
-*   [Bolt Design System (⭐267)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
+*   [Bolt Design System (⭐269)](https://github.com/boltdesignsystem/bolt) - Twig and Web Component-powered UI components, reusable visual styles and tooling.
 
 ## [May 26, 2020](/content/2020/05/26/README.md)
 
@@ -662,10 +669,10 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Examples
 
-*   [generic-components (⭐477)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
-*   [howto-components (⭐839)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
+*   [generic-components (⭐478)](https://github.com/thepassle/generic-components) - Collection of generic web components with a focus on accessibility, and ease of use.
+*   [howto-components (⭐842)](https://github.com/GoogleChromeLabs/howto-components) - Collection of web components that implement common web UI patterns.
 *   [vanilla-retro-js (⭐10)](https://github.com/martine-dowden/vanilla-retro-js) - Vanilla JS UI component library of HTML deprecated tags.
-*   [web-components-examples (⭐2.4k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
+*   [web-components-examples (⭐2.5k)](https://github.com/mdn/web-components-examples) - Series of web components examples, related to the MDN web components documentation.
 
 ### Architecture
 
@@ -691,12 +698,12 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Component Libraries
 
-*   [Apollo Elements (⭐377)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
-*   [Blackstone UI (⭐54)](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
+*   [Apollo Elements (⭐378)](https://github.com/apollo-elements/apollo-elements) - Custom elements for using Apollo GraphQL with various web components libraries.
+*   [Blackstone UI (⭐56)](https://github.com/kjantzer/bui) - Web components for creating interfaces by Blackstone Publishing.
 
 ### Starter Kits
 
-*   [custom-element-boilerplate (⭐145)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
+*   [custom-element-boilerplate (⭐148)](https://github.com/github/custom-element-boilerplate) - Boilerplate for creating a custom element.
 *   [hello-web-components (⭐18)](https://github.com/fernandopasik/hello-web-components) - Simple starter hello world web component written in TypeScript.
 
 ## [May 23, 2020](/content/2020/05/23/README.md)
@@ -711,24 +718,24 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 *   [AMP (⭐15k)](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
 *   [Brightspace UI core (⭐41)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
-*   [Clever components (⭐149)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+*   [Clever components (⭐154)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 *   [DataFormsJS (⭐156)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.
-*   [Elix (⭐696)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+*   [Elix (⭐701)](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 *   [Lion Web Components (⭐1.5k)](https://github.com/ing-bank/lion) - Set of highly performant, accessible and flexible Web Components.
-*   [LRNWebComponents (⭐215)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
-*   [Microsoft Graph Toolkit (⭐749)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
-*   [Nuxeo Elements (⭐24)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
+*   [LRNWebComponents (⭐214)](https://github.com/elmsln/lrnwebcomponents/) - ELMS:LN produced web components for any project.
+*   [Microsoft Graph Toolkit (⭐758)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+*   [Nuxeo Elements (⭐23)](https://github.com/nuxeo/nuxeo-elements) - Components for building web applications with Nuxeo using Web Components.
 *   [Tradeshift Elements (⭐13)](https://github.com/Tradeshift/elements) - Reusable Tradeshift UI Components as Web Components.
 *   [Wired Elements (⭐9.2k)](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
-*   [Wokwi Elements (⭐113)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+*   [Wokwi Elements (⭐116)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
 ### Design Systems
 
 *   [Calcite Components (⭐188)](https://github.com/Esri/calcite-components) - Shared Web Components for Esri's Calcite design framework.
 *   [Helix UI (⭐52)](https://github.com/HelixDesignSystem/helix-ui) - Web Component library for the Helix Design System.
-*   [NuML | NUDE Elements (⭐311)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
-*   [PatternFly Elements (⭐311)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
-*   [Spectrum Web Components (⭐764)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
+*   [NuML | NUDE Elements (⭐313)](https://github.com/tenphi/numl) - HTML Framework and Design System based on Web Components and runtime CSS generation.
+*   [PatternFly Elements (⭐313)](https://github.com/patternfly/patternfly-elements) - Collection of flexible and lightweight Web Components based on the Unified Design Kit.
+*   [Spectrum Web Components (⭐771)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with Web Components.
 *   [UI5 Web Components (⭐1.2k)](https://github.com/SAP/ui5-webcomponents) - Set of reusable UI elements implementing SAP Fiori Design Guidelines.
 *   [Zooplus web components (⭐42)](https://github.com/zooplus/zoo-web-components) - Set of web components that implement Z+ shop style guide.
 
@@ -753,7 +760,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Integrations
 
-*   [preact-custom-element (⭐288)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
+*   [preact-custom-element (⭐290)](https://github.com/preactjs/preact-custom-element) - Generate/register a custom element from a preact component.
 
 ### Benchmarks
 
@@ -785,7 +792,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 ### Class Based
 
 *   [DNA (⭐27)](https://github.com/chialab/dna) - Progressive Web Components library.
-*   [Tonic (⭐710)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
+*   [Tonic (⭐722)](https://github.com/optoolco/tonic) - Minimalist, stable, audit friendly component framework.
 
 ## [May 17, 2020](/content/2020/05/17/README.md)
 
@@ -872,10 +879,6 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ## [May 05, 2020](/content/2020/05/05/README.md)
 
-### Introduction
-
-*   [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
-
 ### Custom Elements
 
 *   [MDN - Using Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
@@ -929,28 +932,28 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 *   [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 *   [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 *   [All about HTML Custom Elements (⭐196)](https://github.com/shawnbot/custom-elements)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
 ### Shadow DOM
 
 *   [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
 *   [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 *   [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
-*   [Shadow DOM in depth (⭐219)](https://github.com/praveenpuglia/shadow-dom-in-depth)
+*   [Shadow DOM in depth (⭐221)](https://github.com/praveenpuglia/shadow-dom-in-depth)
 *   [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 *   [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
 ### HTML Templates
 
 *   [HTML Living Standard: The `template` element](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/html/semantics/scripting-1/the-template-element)
 
 ### CSS Shadow Parts
 
 *   [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
 *   [CSS Shadow Parts are coming!](https://dev.to/webpadawan/css-shadow-parts-are-coming-mi5)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
 
 ### Interoperability
 
@@ -966,23 +969,23 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 *   [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) - Document by Google Chrome team.
 *   [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) - Feature in Chrome platform status.
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
-
-### Custom State Pseudo class
-
-*   [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
-*   [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
 ### Constructable Stylesheet Objects
 
 *   [Specification Draft](https://wicg.github.io/construct-stylesheets/)
-*   [web-platform-tests (⭐4.1k)](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
+*   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
 *   [Explainer (⭐136)](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 *   [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) - Feature in Chrome platform status.
 
+### Custom State Pseudo Class
+
+*   [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
+*   [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
+
 ### Polyfills / Custom Elements polyfills
 
-*   [@webcomponents/custom-elements (⭐994)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
+*   [@webcomponents/custom-elements (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - Custom Elements polyfill by Polymer team.
 *   [document-register-element (⭐1.1k)](https://github.com/WebReflection/document-register-element) - Custom Elements polyfill by Andrea Giammarchi.
 
 ### Polyfills / Customized Built-in Elements polyfills
@@ -992,13 +995,13 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Polyfills / Shadow DOM shims
 
-*   [@webcomponents/shadydom (⭐994)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
-*   [@webcomponents/shadycss (⭐994)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
+*   [@webcomponents/shadydom (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
+*   [@webcomponents/shadycss (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) - ShadowDOM style encapsulation shim.
 *   [@lwc/synthetic-shadow (⭐1.3k)](https://github.com/salesforce/lwc/blob/master/packages/@lwc/synthetic-shadow) - Shadow DOM polyfill by [LWC](https://lwc.dev).
 
 ### Polyfills / HTML Templates polyfills
 
-*   [@webcomponents/template (⭐994)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
+*   [@webcomponents/template (⭐1k)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
 *   [@ungap/import-node (⭐7)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
 
 ## [Apr 21, 2020](/content/2020/04/21/README.md)
@@ -1123,7 +1126,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Tools
 
-*   [web-component-analyzer (⭐408)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+*   [web-component-analyzer (⭐409)](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
 ## [Jul 09, 2019](/content/2019/07/09/README.md)
 
@@ -1141,7 +1144,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Functional
 
-*   [atomico (⭐888)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
+*   [atomico (⭐898)](https://github.com/atomicojs/atomico) - Small library for the creation of interfaces based on web components using functions and hooks.
 
 ## [Jun 12, 2019](/content/2019/06/12/README.md)
 
@@ -1181,7 +1184,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Integrations
 
-*   [remount (⭐618)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+*   [remount (⭐623)](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## [Mar 17, 2019](/content/2019/03/17/README.md)
 
@@ -1262,7 +1265,7 @@ This is a guide intended to introduce to Web Components. Everyone can contribute
 
 ### Class Based
 
-*   [slim.js (⭐937)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
+*   [slim.js (⭐942)](https://github.com/slimjs/slim.js) - Fast & Robust Front-End Micro-framework based on modern standards.
 
 ## [Dec 01, 2018](/content/2018/12/01/README.md)
 

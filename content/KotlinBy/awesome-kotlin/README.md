@@ -6,6 +6,16 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 [ Daily / [Weekly](/content/KotlinBy/awesome-kotlin/week/README.md) / [Overview](/content/KotlinBy/awesome-kotlin/readme/README.md) ]
 
+## [Jan 03, 2023](/content/2023/01/03/README.md)
+
+### Android / Libraries
+
+*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
+*   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
+*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
+*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
+*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
+
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
 ### Libraries/Frameworks / Database
@@ -15,16 +25,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Libraries/Frameworks / Multiplatform
 
 *   [ctripcorp/mmkv-kotlin (⭐65)](https://github.com/ctripcorp/mmkv-kotlin) - The Kotlin Multiplatform wrapper for MMKV
-
-## [Dec 29, 2022](/content/2022/12/29/README.md)
-
-### Android / Libraries
-
-*   [JakeWharton/kotterknife (⭐2.2k)](https://github.com/JakeWharton/kotterknife)
-*   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
-*   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
-*   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
-*   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
@@ -171,6 +171,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 ### Projects / Idea Plugins
 
 *   [Vektah/CodeGlance (⭐1.1k)](https://github.com/Vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime.
+*   [intellij-rust/intellij-rust (⭐4.2k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
 *   [izhangzhihao/intellij-rainbow-brackets (⭐3.8k)](https://github.com/izhangzhihao/intellij-rainbow-brackets) - Rainbow Brackets / Rainbow Parentheses for IntelliJ IDEA based IDEs.
 *   [roger-yh99/Readhub (⭐60)](https://github.com/roger-yh99/Readhub) - <a href="https://plugins.jetbrains.com/plugin/10539-readhub">Readhub</a> is a News Reader plugin for IntelliJ IDEs
 *   [roger-yh99/AwesomeKotlinPlugin (⭐11)](https://github.com/roger-yh99/AwesomeKotlinPlugin) - <a href="https://plugins.jetbrains.com/plugin/11357-awesome-kotlin">AwesomeKotlin</a> plugin for IntelliJ IDEs
@@ -178,7 +179,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [emedinaa/android-recyclerview (⭐2)](https://github.com/emedinaa/android-recyclerview) - Some samples about the RecyclerView and Adapters using kotlin
 *   [emedinaa/kotlin-viewmodel (⭐3)](https://github.com/emedinaa/kotlin-viewmodel) - Basic samples about ViewModel component
 *   [csense-oss/idea-kotlin-checked-exceptions (⭐13)](https://github.com/csense-oss/idea-kotlin-checked-exceptions) - Plugin to help integrate with java and exceptions (highlights, warns when not catching exceptions and a lot more)
-*   [intellij-rust/intellij-rust (⭐4.2k)](https://github.com/intellij-rust/intellij-rust) - Rust IDE built using the IntelliJ Platform.
 
 ### Projects / Playground
 
@@ -189,10 +189,10 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [skydoves/themovies (⭐420)](https://github.com/skydoves/themovies) - A simple project for The Movie DB based on Kotlin MVVM clean architecture and material design & animations.
 *   [skydoves/githubfollows (⭐288)](https://github.com/skydoves/githubfollows) - A demo project based on MVVM architecture and material design & animations.
 *   [enricocid/Music-Player-GO](https://play.google.com/store/apps/details?id=com.iven.musicplayergo) - Simple yet fully-featured local music player aiming at simplicity and performance.
+*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
 *   [SimonSchubert/LinuxCommandBibliotheca (⭐253)](https://github.com/SimonSchubert/LinuxCommandBibliotheca) - Android app which provides a bunch of useful Linux commands.
 *   [SimonSchubert/NewsOut (⭐118)](https://github.com/SimonSchubert/NewsOut) - Android and iOS mobile client for Nextcloud News app
 *   \[MohsinAli0899/Book Summary App]\(<https://github.com/MohsinAli0899/Book> Summary App) - BookHub is an Android application that helps users to view books and add them to favorites.
-*   [TonnyL/Mango (⭐657)](https://github.com/TonnyL/Mango) - An Android app for dribbble.com
 
 ### Android / Libraries
 
@@ -266,7 +266,6 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [evilthreads669966/EvadeMe (⭐29)](https://github.com/evilthreads669966/EvadeMe) - A heuristics evasion library that prevents your code from being analyzed or tested.
 *   [evilthreads669966/BootLaces (⭐35)](https://github.com/evilthreads669966/BootLaces) - Turns your background service persistent.
 *   [evilthreads669966/WakeService](https://github.com/evilthreads669966/WakeService) - An IntentService that keeps your processor awake while doing work.
-*   [evilthreads669966/Pickpocket (⭐27)](https://github.com/evilthreads669966/Pickpocket) - An asynchronous Android library for content providers and more.
 *   [evilthreads669966/EasyShells (⭐6)](https://github.com/evilthreads669966/EasyShells) - A simple shell for executing Linux commands with responses
 *   [mr-wizman/Consent (⭐4)](https://github.com/mr-wizman/Consent) - Easy Android permissions. Powered by Kotlin.
 *   [matteocrippa/Parrot (⭐22)](https://github.com/matteocrippa/Parrot) - A lightweight library to load remote image and handle caching in ImageView.
@@ -275,6 +274,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [MackHartley/RoundedProgressBar (⭐540)](https://github.com/MackHartley/RoundedProgressBar) - A customizable, animated progress bar that features rounded corners. This Android library is designed to look great and be simple to use
 *   [developingdeveloper-tech/toaster-android (⭐22)](https://github.com/developingdeveloper-tech/toaster-android) - A simple library to add custom toast to android applications.
 *   [heart-switch (⭐30)](https://github.com/popovanton0/heart-switch) - A heart-shaped toggle switch component for Jetpack Compose
+*   [evilthreads669966/Pickpocket (⭐27)](https://github.com/evilthreads669966/Pickpocket) - An asynchronous Android library for content providers and more.
 
 ### Android / Frameworks
 
@@ -335,9 +335,9 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 *   [stangls/kotlin-js-jquery (⭐20)](https://github.com/stangls/kotlin-js-jquery) - A small framework for writing client -side web -applications in Kotlin.
 *   [kengorab/kotlin-javascript-boilerplate (⭐9)](https://github.com/kengorab/kotlin-javascript-boilerplate) - An extremely barebones boilerplate project for compiling Kotlin to Javascript.
 *   [markaren/three-kt-wrapper (⭐49)](https://github.com/markaren/three-kt-wrapper) - Kotlin wrappers for three.js JavaScript 3D library
-*   [rjaros/kvision (⭐982)](https://github.com/rjaros/kvision) - Object oriented Web UI framework for Kotlin/JS
 *   [Kabbura/Kunafa (⭐159)](https://github.com/Kabbura/Kunafa) - Easy to use, high level framework in Kotlin for front-end web-development and creating web apps without using HTML, CSS, or JavaScript.
 *   [fortytwoapps/kstitch (⭐5)](https://github.com/fortytwoapps/kstitch) - An object oriented toolkit for MongoDB Stitch in KotlinJS.
+*   [rjaros/kvision (⭐982)](https://github.com/rjaros/kvision) - Object oriented Web UI framework for Kotlin/JS
 
 ### Kotlin JavaScript / Game Development
 

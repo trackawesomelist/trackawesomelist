@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ Daily / [Weekly](/content/AdrienTorris/awesome-blazor/week/README.md) / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jan 03, 2023](/content/2023/01/03/README.md)
+
+### ToDos
+
+*   [ididit! (⭐68)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
+
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
 ### Videos / Others

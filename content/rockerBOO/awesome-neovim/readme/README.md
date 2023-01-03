@@ -282,6 +282,7 @@ You can find them listed on the [Neovim wiki (⭐61k)](https://github.com/neovim
 *   [theblob42/drex.nvim (⭐50)](https://github.com/TheBlob42/drex.nvim) - A simple and configurable file explorer written in Lua.
 *   [SidOfc/carbon.nvim (⭐103)](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer written in Lua.
 *   [kiran94/s3edit.nvim (⭐26)](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
+*   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 
 ### Project
 

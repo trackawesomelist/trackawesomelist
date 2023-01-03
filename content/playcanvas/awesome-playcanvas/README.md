@@ -6,6 +6,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Jan 03, 2023](/content/2023/01/03/README.md)
+
+### Interactive Experiences
+
+*   [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
+*   [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
+
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
 
 ### Blockchain/Crypto/NFT
@@ -251,7 +258,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### PlayCanvas
 
-*   [Engine (⭐7.9k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
@@ -430,10 +437,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - First ever PBR demo from PlayCanvas.
 *   [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slots machine.
 
-### Interactive Experiences
-
-*   [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
-
 ### Browser Games
 
 *   [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
@@ -473,7 +476,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
 *   [playcanvas-node (⭐4)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [tween.js (⭐8.9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Interactive Experiences
 

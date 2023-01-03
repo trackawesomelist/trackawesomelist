@@ -145,6 +145,7 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 
 *   [TodoApi by David Fowler (⭐1.5k)](https://github.com/davidfowl/TodoApi) - ![stars](https://img.shields.io/github/stars/davidfowl/TodoApi?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidfowl/TodoApi?style=flat-square\&cacheSeconds=86400) Todo application by David Fowler in .NET 7 that features an ASP.NET Core hosted Blazor WASM front end application and an ASP.NET Core REST API backend using minimal APIs.
 *   [Bolero.TodoMVC (⭐39)](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square\&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fsbolero/TodoMVC?style=flat-square\&cacheSeconds=86400) A TodoMVC clone using Bolero.
+*   [ididit! (⭐68)](https://github.com/Jinjinov/Ididit) - ![stars](https://img.shields.io/github/stars/Jinjinov/Ididit?style=flat-square\&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Jinjinov/Ididit?style=flat-square\&cacheSeconds=86400) The procrastination friendly habit tracker. ake notes, manage tasks, track habits. [Demo](https://app.ididit.today/).
 
 ### Others
 

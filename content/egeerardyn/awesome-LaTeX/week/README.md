@@ -8,6 +8,10 @@ Curated list of LaTeX awesomeness
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
+### Templates / TikZ
+
+*   [LaTeX Beamer Theme Overview (⭐9)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
+
 ### Social media / TikZ
 
 *   [TopAnswers TeX](https://topanswers.xyz/tex) - a free and open source Q\&A site for TeX and friends

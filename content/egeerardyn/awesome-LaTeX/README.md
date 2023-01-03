@@ -6,6 +6,12 @@ Curated list of LaTeX awesomeness
 
 [ Daily / [Weekly](/content/egeerardyn/awesome-LaTeX/week/README.md) / [Overview](/content/egeerardyn/awesome-LaTeX/readme/README.md) ]
 
+## [Jan 03, 2023](/content/2023/01/03/README.md)
+
+### Templates / TikZ
+
+*   [LaTeX Beamer Theme Overview (⭐9)](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md) - Visual overview of beamer themes included in TeXLive
+
 ## [Jan 02, 2023](/content/2023/01/02/README.md)
 
 ### Social media / TikZ

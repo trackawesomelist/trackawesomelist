@@ -37,7 +37,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## PlayCanvas
 
 *   [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-*   [Engine (⭐7.9k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+*   [Engine (⭐8k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 *   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 *   [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
 *   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
@@ -77,7 +77,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [playcanvas-spine (⭐39)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 *   [playcanvas-tween (⭐46)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [playcanvas-vue (⭐37)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-*   [tween.js (⭐8.9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
+*   [tween.js (⭐9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 *   [Pirron One](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
 *   [Sublime Completions (⭐4)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
@@ -96,12 +96,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Adidas ZX Game](https://zx-game.de) - Branded rhythm action game (German).
 *   [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
 *   [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
+*   [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 *   [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 *   [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
 *   [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - Interactive opera experience created by Dumbworld from the Royal Opera House.
 *   [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
 *   [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
-*   [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
+*   [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 *   [Party Space](https://www.party.space/) - Virtual events platform.
 *   [Pocketverse](https://pocketverse.net/) - Procedurally generated star systems.
 *   [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
@@ -213,5 +214,5 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐178)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐183)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 
