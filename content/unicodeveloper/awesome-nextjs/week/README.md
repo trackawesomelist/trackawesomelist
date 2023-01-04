@@ -8,6 +8,10 @@
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
+### Articles
+
+*   [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
+
 ### Boilerplates
 
 *   [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Pretter, Eslint etc. configs. ✨

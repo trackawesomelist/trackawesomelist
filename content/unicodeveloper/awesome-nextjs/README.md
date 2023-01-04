@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-nextjs/week/README.md) / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Jan 04, 2023](/content/2023/01/04/README.md)
+
+### Articles
+
+*   [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
+
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 
 ### Boilerplates

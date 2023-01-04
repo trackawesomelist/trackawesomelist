@@ -1,24 +1,48 @@
 # Awesome List Updates on Jan 04, 2023
 
-11 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+## [1. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+
+### Projects / Puzzles and Games
+
+*   [Coqoban (⭐19)](https://github.com/coq-community/coqoban) - Coq implementation of Sokoban, the Japanese warehouse keepers' game.
+*   [Hanoi (⭐21)](https://github.com/thery/hanoi) - The Tower of Hanoi puzzle in Coq, including generalizations and theorems about configurations.
+*   [Mini-Rubik (⭐2)](https://github.com/thery/minirubik) - Coq formalization and solver of the 2x2x2 version of the Rubik's Cube puzzle.
+*   [Name the Biggest Number (⭐51)](https://github.com/codyroux/name-the-biggest-number) - Repository for submitting proven contenders for the title of biggest number in Coq.
+*   [Natural Number Game (⭐4)](https://github.com/uncomputable/natural-number-game) - Coq version of the natural number game developed for the Lean prover.
+*   [Sudoku (⭐18)](https://github.com/coq-community/sudoku) - Formalization and solver of the Sudoku number-placement puzzle in Coq.
+*   [T2048 (⭐21)](https://github.com/thery/T2048) - Coq version of the 2048 sliding tile game.
+
+## [2. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+### Articles
+
+*   [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
+
+## [3. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+
+### Security / Other
+
+*   [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+
+## [4. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
 ### ChatGPT API
 
 *   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐495)](https://github.com/terry3041/pyChatGPT)
 
-## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Vulnerability Databases / Social Engineering Tools
 
 *   [VulDB](https://vuldb.com) - Independent vulnerability database with user community, exploit details, and additional meta data (e.g. CPE, CVSS, CWE)
 
-## [3. Awesome V](/content/vlang/awesome-v/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Other / Editor plugins
 
@@ -34,7 +58,7 @@
 
 *   [Advent of Code 2022 (⭐21)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 
-## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / Ethernet
 
@@ -54,19 +78,19 @@
 
 *   [mpbridge (⭐11)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronise and manage files on a MicroPython running device.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### GraphQL
 
 *   [ZeroQL (⭐142)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
-## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - Another getting started article with modern pen plotters.
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [10. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Class Based
 
@@ -80,7 +104,7 @@
 *   [Web Components Compiler (⭐39)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
 *   [WebC (⭐1k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -98,19 +122,19 @@
 
 *   [idanarye/nvim-moonicipal (⭐4)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Data / Generators
 
 *   [Synthesized](https://www.synthesized.io) - Create, validate, and safely share high-quality data for software testing, model training, and data analysis without any manual configuration.
 
-## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
 *   [Speedster (⭐1.8k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. \[DEEP LEARNING]
 
-## [11. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### CI/CD
 

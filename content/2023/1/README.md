@@ -1,24 +1,42 @@
 # Awesome List Updates on Jan 02 - Jan 08, 2023
 
-29 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [1. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+
+### Projects / Puzzles and Games
+
+*   [Coqoban (⭐19)](https://github.com/coq-community/coqoban) - Coq implementation of Sokoban, the Japanese warehouse keepers' game.
+*   [Hanoi (⭐21)](https://github.com/thery/hanoi) - The Tower of Hanoi puzzle in Coq, including generalizations and theorems about configurations.
+*   [Mini-Rubik (⭐2)](https://github.com/thery/minirubik) - Coq formalization and solver of the 2x2x2 version of the Rubik's Cube puzzle.
+*   [Name the Biggest Number (⭐51)](https://github.com/codyroux/name-the-biggest-number) - Repository for submitting proven contenders for the title of biggest number in Coq.
+*   [Natural Number Game (⭐4)](https://github.com/uncomputable/natural-number-game) - Coq version of the natural number game developed for the Lean prover.
+*   [Sudoku (⭐18)](https://github.com/coq-community/sudoku) - Formalization and solver of the Sudoku number-placement puzzle in Coq.
+*   [T2048 (⭐21)](https://github.com/thery/T2048) - Coq version of the 2048 sliding tile game.
+
+## [2. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+
+### Security / Other
+
+*   [10 best practices to containerize Node.js web applications with Docker](https://snyk.io/blog/10-best-practices-to-containerize-nodejs-web-applications-with-docker/)
+
+## [3. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### ChatGPT API
 
 *   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐495)](https://github.com/terry3041/pyChatGPT)
 
-## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [4. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Vulnerability Databases / Social Engineering Tools
 
 *   [VulDB](https://vuldb.com) - Independent vulnerability database with user community, exploit details, and additional meta data (e.g. CPE, CVSS, CWE)
 
-## [3. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [5. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Other / Editor plugins
 
@@ -34,7 +52,7 @@
 
 *   [Advent of Code 2022 (⭐21)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 
-## [4. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [6. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / Ethernet
 
@@ -54,55 +72,59 @@
 
 *   [mpbridge (⭐11)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronise and manage files on a MicroPython running device.
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GraphQL
 
 *   [ZeroQL (⭐142)](https://github.com/byme8/ZeroQL) - high-performance C#-friendly GraphQL client. It supports Linq-like syntax. It doesn't require Reflection.Emit or expressions. As a result, the runtime provides performance very close to a raw HTTP call.
 
-## [6. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [8. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Inspiration, Instruction, and Research / Fonts
 
 *   [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - Another getting started article with modern pen plotters.
 
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Data / Generators
 
 *   [Synthesized](https://www.synthesized.io) - Create, validate, and safely share high-quality data for software testing, model training, and data analysis without any manual configuration.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
 *   [Speedster (⭐1.8k)](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) -Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware. \[DEEP LEARNING]
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### CI/CD
 
 *   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
 
-## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [12. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+
+### Articles
+
+*   [Build company's Website/App with our astonishing Next.js template](https://www.wrappixel.com/templates/category/nextjs-templates/)
 
 ### Boilerplates
 
 *   [Kaminari Template](https://kaminari.vercel.app/) - Power packed Next.js and Tailwind CSS template. Built with developer experience in mind. Contains Husky, CommitLint, Pretter, Eslint etc. configs. ✨
 
-## [11. Tools](/content/lvwzhen/tools/week/README.md)
+## [13. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Color
 
 *   [Branding Colors](https://branition.com/colors)
 
-## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [lsd (⭐0)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐8.9k)](https://github.com/Peltoche/lsd).
 
-## [13. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [15. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Android / Libraries
 
@@ -112,13 +134,13 @@
 *   [GlimpseFramework/glimpse-framework-android (⭐5)](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 *   [Jintin/MixAdapter (⭐19)](https://github.com/Jintin/MixAdapter) - Compose multiple Adapter for RecyclerView in Android.
 
-## [14. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [16. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Runtimes/Frontends
 
 *   [JupyterLab Desktop (⭐2.1k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
 
-## [15. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [17. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### System Requirements
 
@@ -270,32 +292,32 @@
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients
 
-## [16. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. [Source Code](https://gitlab.com/fdroid/fdroidserver) `AGPL-3.0` `Python/Docker`
 
-## [17. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Querying / Symfony2
 
 *   [RestQA (⭐55)](https://github.com/restqa/restqa) - A REST API testing Framework based on BDD / Gherkin to manage microservice local testing.
 
-## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
 *   [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 *   [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 
-## [19. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [21. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 3D / Godot 3.2+
 
 *   [Boom (⭐2)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 
-## [20. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [22. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### ToDos
 
@@ -305,7 +327,7 @@
 
 *   [Build Your Own Podcast App with .NET 7, Blazor, and .NET MAUI](https://devblogs.microsoft.com/dotnet/build-your-own-podcast-app-with-dotnet-blazor-and-dotnet-maui/) - December 19, 2022 - The .NET Podcast app was first introduced at .NET Conf 2021 and recently updated to highlight new features in .NET 7 at the .NET Conf 2022 keynote. The podcast app is ready to use sample application that showcases .NET, ASP.NET Core, Blazor, .NET MAUI, Azure Container Apps, Orleans, Power Platform, Playwright, and more. This post explains all the new features and show how we upgraded the .NET Podcast app to take advantage of them.
 
-## [21. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [23. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Introduction
 
@@ -324,7 +346,7 @@
 *   [Web Components Compiler (⭐39)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
 *   [WebC (⭐1k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
 
-## [22. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
+## [24. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 
 ### External Services
 
@@ -342,19 +364,19 @@
     *   [waka-box (⭐1.2k)](https://github.com/matchai/waka-box) - Update a pinned gist to contain your weekly WakaTime stats.
     *   [waka-box-go (⭐150)](https://github.com/YouEclipse/waka-box-go) - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
 
-## [23. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [25. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Other OS:
 
 *   [AtlasOS](https://atlasos.net/) - An open-source modification of Windows 10, designed to optimize performance, and latency. Atlas removes all types of tracking embedded within Windows and implements numerous group policies to minimize data collection.
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [26. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Videos
 
 *   [Caleb Curry's C Programming Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) - An all-in-one playlist of tutorials for C programming.
 
-## [25. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [27. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Virtualisation / Newsletters
 
@@ -370,7 +392,7 @@
 *   [nil (⭐327)](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 *   [nix-update (⭐158)](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 
-## [26. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [28. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Templates / TikZ
 
@@ -380,13 +402,13 @@
 
 *   [TopAnswers TeX](https://topanswers.xyz/tex) - a free and open source Q\&A site for TeX and friends
 
-## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [29. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Sailboat UI](https://sailboatui.com/) - Modern UI framework for Tailwind CSS.
 
-## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [30. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -412,7 +434,7 @@
 
 *   [XXiaoA/ns-textobject.nvim (⭐10)](https://github.com/XXiaoA/ns-textobject.nvim) - Awesome textobject plugin works with nvim-surround.
 
-## [29. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [31. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Libraries / New Libraries
 
