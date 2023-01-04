@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 320 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 336 · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -129,6 +129,7 @@ The definition of developer-first for this repo is:
 *   [Gitlab](https://gitlab.com/) - Open source CI and hosted solution with Github-like abilities.
 *   [Gitpod](https://www.gitpod.io/) - Automated cloud dev environments.
 *   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
+*   [Depot](https://depot.dev) - Drop-in replacement to build Docker images faster in CI.
 
 ## CMS (headless)
 
@@ -390,5 +391,5 @@ The definition of developer-first for this repo is:
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐327)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐336)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

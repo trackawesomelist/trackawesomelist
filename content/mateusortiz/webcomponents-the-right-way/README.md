@@ -6,6 +6,20 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Jan 04, 2023](/content/2023/01/04/README.md)
+
+### Class Based
+
+*   [element-js (⭐12)](https://github.com/webtides/element-js) - Simple and lightweight base classes for web components with a beautiful API.
+
+### Meta Frameworks
+
+*   [Enhance](https://enhance.dev/docs/) - Web standards-based HTML framework for building lightweight web applications.
+*   [luna-js (⭐5)](https://github.com/webtides/luna-js) - SSR framework that makes working with the WebComponents standard a breeze.
+*   [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
+*   [Web Components Compiler (⭐39)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
+*   [WebC (⭐1k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
+
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 
 ### Introduction
@@ -714,9 +728,12 @@ A curated list of awesome Web Components resources.
 
 ## [May 22, 2020](/content/2020/05/22/README.md)
 
+### Meta Frameworks
+
+*   [AMP (⭐15k)](https://github.com/ampproject/amphtml) - Web component framework to easily create user-first experiences for the web.
+
 ### Component Libraries
 
-*   [AMP (⭐15k)](https://github.com/ampproject/amphtml) - Web component framework for easily creating user-first websites, stories, ads, emails and more.
 *   [Brightspace UI core (⭐41)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
 *   [Clever components (⭐154)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 *   [DataFormsJS (⭐156)](https://github.com/dataformsjs/dataformsjs) - Standalone Components for SPA routing, displaying data from web services, and more.

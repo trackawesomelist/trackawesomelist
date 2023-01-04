@@ -6,6 +6,24 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 04, 2023](/content/2023/01/04/README.md)
+
+### (requires Neovim 0.5)
+
+*   [idanarye/nvim-buffls (⭐2)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
+
+### Note Taking / Diagnostics
+
+*   [RutaTang/quicknote.nvim (⭐3)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+
+### Terminal Integration / Diagnostics
+
+*   [idanarye/nvim-channelot (⭐2)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
+
+### Code Runner / Diagnostics
+
+*   [idanarye/nvim-moonicipal (⭐4)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
+
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 
 ### File Explorer / Diagnostics
@@ -64,7 +82,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [debugloop/telescope-undo.nvim (⭐42)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
+*   [debugloop/telescope-undo.nvim (⭐109)](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 
 ## [Dec 18, 2022](/content/2022/12/18/README.md)
 
