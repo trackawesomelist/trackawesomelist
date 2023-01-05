@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### Other Free Resources
+
+*   [regex101](https://regex101.com/) — Free this website allows you to test and debug regular expressions (regex). It provides a regex editor and tester, as well as helpful documentation and resources for learning regex.
+
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Tools for Teams and Collaboration
@@ -1133,7 +1139,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Visualime.com](https://www.visualime.com/) — Free and unlimited session recordings, no traffic limits
 *   [inspectlet.com](https://www.inspectlet.com/) — 2,500 sessions/month free for 1 website
-*   [livesession.io](https://livesession.io/) — 5,000 sessions/month free for 1 website
 *   [mouseflow.com](https://mouseflow.com/) — 500 sessions/month free for 1 website
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
@@ -3435,7 +3440,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Visitor Session Recording
 
-*   [hotjar.com](https://www.hotjar.com/) — Per site: 2,000 pages views/day, 3 heatmaps, data stored for 3 months,...
+*   [hotjar.com](https://www.hotjar.com/) — Per site: 1,050 pages views/month, unlimited heatmaps, data stored for 3 months,...
 *   [usersurge.com](https://www.usersurge.com/) — 250K sessions per month for individuals.
 
 ### Payment and Billing Integration

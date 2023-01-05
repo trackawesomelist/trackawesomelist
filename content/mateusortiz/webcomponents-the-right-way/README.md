@@ -6,6 +6,36 @@ A curated list of awesome Web Components resources.
 
 [ Daily / [Weekly](/content/mateusortiz/webcomponents-the-right-way/week/README.md) / [Overview](/content/mateusortiz/webcomponents-the-right-way/readme/README.md) ]
 
+## [Jan 05, 2023](/content/2023/01/05/README.md)
+
+### Introduction
+
+*   [Web Components: From the orbital height](https://javascript.info/webcomponents-intro)
+
+### Custom Elements
+
+*   [Custom elements](https://javascript.info/custom-elements)
+*   [Handling properties in custom element upgrades](https://nolanlawson.com/2021/08/03/handling-properties-in-custom-element-upgrades/)
+
+### Shadow DOM
+
+*   [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
+*   [Mind the document.activeElement!](https://dev.to/open-wc/mind-the-document-activeelement-2o9a)
+*   [Shadow DOM](https://javascript.info/shadow-dom)
+*   [Shadow DOM and events](https://javascript.info/shadow-dom-events)
+*   [Shadow DOM slots, composition](https://javascript.info/slots-composition)
+*   [Shadow DOM styling](https://javascript.info/shadow-dom-style)
+*   [Who doesn't love some slots?](https://dev.to/westbrook/who-doesnt-love-some-s-3de0)
+*   [Your Content in Shadow DOM Portals](https://dev.to/westbrook/your-content-in-shadow-dom-portals-3cdb)
+
+### HTML Templates
+
+*   [HTML templates with vanilla JavaScript](https://gomakethings.com/html-templates-with-vanilla-javascript/)
+*   [Template element](https://javascript.info/template-element)
+*   [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
+*   [The HTML5 template element](https://dev.to/ahferroin7/the-html5-template-element-26b6)
+*   [Understanding The Template Element In HTML](https://blog.openreplay.com/understanding-the-template-element-in-html/)
+
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
 ### Class Based
@@ -946,14 +976,13 @@ A curated list of awesome Web Components resources.
 
 ### Custom Elements
 
-*   [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 *   [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 *   [All about HTML Custom Elements (⭐196)](https://github.com/shawnbot/custom-elements)
+*   [HTML Living Standard: Custom elements](https://html.spec.whatwg.org/multipage/custom-elements.html)
 *   [web-platform-tests (⭐4.2k)](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
 ### Shadow DOM
 
-*   [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
 *   [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
 *   [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 *   [Shadow DOM in depth (⭐221)](https://github.com/praveenpuglia/shadow-dom-in-depth)
@@ -1039,17 +1068,6 @@ A curated list of awesome Web Components resources.
 *   [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 
 ## [Apr 17, 2020](/content/2020/04/17/README.md)
-
-### Tutorials
-
-*   "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
-    *   [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
-    *   [Part 2: Custom Elements](https://javascript.info/custom-elements)
-    *   [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
-    *   [Part 4: Template element](https://javascript.info/template-element)
-    *   [Part 5: Shadow DOM slots, composition](https://javascript.info/slots-composition)
-    *   [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
-    *   [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
 
 ### History / 2018
 

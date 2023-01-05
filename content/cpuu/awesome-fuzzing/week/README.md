@@ -2,9 +2,15 @@
 
 A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cpuu/awesome-fuzzing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) · ⭐ 598 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/cpuu/awesome-fuzzing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 cpuu/awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) · ⭐ 615 · 🏷️ Security
 
 [ [Daily](/content/cpuu/awesome-fuzzing/README.md) / Weekly / [Overview](/content/cpuu/awesome-fuzzing/readme/README.md) ]
+
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
+
+*   [SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities, 2022](https://compsec.snu.ac.kr/papers/jaewon-specdoctor.pdf)
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -19,7 +25,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 *   [PATA: Fuzzing with Path Aware Taint Analysis, 2022](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/sp22.pdf)
 *   [Jigsaw: Efficient and Scalable Path Constraints Fuzzing, 2022](https://www.cs.ucr.edu/\~csong/oakland22-jigsaw.pdf)
-*   [FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks, 2022 (⭐19)](https://github.com/purseclab/fuzzusb/blob/main/paper/fuzzusb.pdf)
+*   [FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks, 2022 (⭐20)](https://github.com/purseclab/fuzzusb/blob/main/paper/fuzzusb.pdf)
 *   [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, 2022](https://arxiv.org/pdf/2203.12064.pdf)
 *   [BEACON : Directed Grey-Box Fuzzing with Provable Path Pruning, 2022](https://qingkaishi.github.io/public_pdfs/SP22.pdf)
 
@@ -42,7 +48,6 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Papers / ACM Conference on Computer and Communications Security (ACM CCS)
 
-*   SpecDoctor: Differential Fuzz Testing to Find Transient Execution Vulnerabilities. 2022]\(<https://compsec.snu.ac.kr/papers/jaewon-specdoctor.pdf>)
 *   [SFuzz: Slice-based Fuzzing for Real-Time Operating Systems, 2022](https://huhong789.github.io/papers/chen:sfuzz.pdf)
 *   [MC^2: Rigorous and Efficient Directed Greybox Fuzzing, 2022](https://arxiv.org/pdf/2208.14530.pdf)
 *   [LibAFL: A Framework to Build Modular and Reusable Fuzzers, 2022](https://www.s3.eurecom.fr/docs/ccs22_fioraldi.pdf)
@@ -63,7 +68,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / Network protocol
 
-*   [Scapy (⭐8.2k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Can fuzz any protocol. See the `fuzz` function.
+*   [Scapy (⭐8.3k)](https://github.com/secdev/scapy) - Packet manipulation program & library. Can fuzz any protocol. See the `fuzz` function.
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
@@ -128,13 +133,13 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / General-purpose
 
-*   [FireCracker (⭐663)](https://github.com/blst-security/firecracker) - BLST CLI tool takes your HTTP logs, uses them to map your API flows and find risks.
+*   [FireCracker (⭐695)](https://github.com/blst-security/firecracker) - BLST CLI tool takes your HTTP logs, uses them to map your API flows and find risks.
 
 ## [Feb 08 - Feb 14, 2021](/content/2021/6/README.md)
 
 ### Tools / Binary
 
-*   [Jazzer (⭐683)](https://github.com/CodeIntelligenceTesting/jazzer) - A coverage-guided, in-process fuzzer for the Java Virtual Machine. It is based on libFuzzer and can be applied directly to compiled applications.
+*   [Jazzer (⭐694)](https://github.com/CodeIntelligenceTesting/jazzer) - A coverage-guided, in-process fuzzer for the Java Virtual Machine. It is based on libFuzzer and can be applied directly to compiled applications.
 
 ### Platform / Driver
 
@@ -163,7 +168,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / Network protocol
 
-*   [dtls-fuzzer (⭐19)](https://github.com/assist-project/dtls-fuzzer) - A Java tool which performs protocol state fuzzing of DTLS servers.
+*   [dtls-fuzzer (⭐20)](https://github.com/assist-project/dtls-fuzzer) - A Java tool which performs protocol state fuzzing of DTLS servers.
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
@@ -273,7 +278,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / Web, JavaScript
 
-*   [test-each (⭐100)](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
+*   [test-each (⭐99)](https://github.com/ehmicky/test-each) - Repeat tests using different inputs.
 
 ### Tools / Network protocol
 
@@ -287,7 +292,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / Network protocol
 
-*   [SPIKE (⭐68)](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - A fuzzer development framework like sulley, a predecessor of sulley.
+*   [SPIKE (⭐69)](https://github.com/guilhermeferreira/spikepp/tree/master/SPIKE) - A fuzzer development framework like sulley, a predecessor of sulley.
 *   [PROTOS](https://www.ee.oulu.fi/roles/ouspg/Protos) - Security testing of protocol implementations.
 
 ## [Apr 01 - Apr 07, 2019](/content/2019/13/README.md)
@@ -299,7 +304,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 ### Tools / Web, JavaScript
 
 *   [fuzzilli (⭐1.5k)](https://github.com/googleprojectzero/fuzzilli) - A (coverage-)guided Javascript engine fuzzer, written by Samuel Groß.
-*   [CodeAlchemist (⭐223)](https://github.com/SoftSec-KAIST/CodeAlchemist) - JavaScript engine fuzzer, written by KAIST SoftSec Lab.
+*   [CodeAlchemist (⭐225)](https://github.com/SoftSec-KAIST/CodeAlchemist) - JavaScript engine fuzzer, written by KAIST SoftSec Lab.
 
 ## [Mar 04 - Mar 10, 2019](/content/2019/9/README.md)
 
@@ -323,7 +328,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / Binary
 
-*   [shellphish fuzzer (⭐612)](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
+*   [shellphish fuzzer (⭐614)](https://github.com/shellphish/fuzzer) - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
 
 ## [Feb 25 - Mar 03, 2019](/content/2019/8/README.md)
 
@@ -333,13 +338,13 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Tools / Web, JavaScript
 
-*   [jsfunfuzz (⭐603)](https://github.com/MozillaSecurity/funfuzz) - JavaScript engine fuzzers.
+*   [jsfunfuzz (⭐604)](https://github.com/MozillaSecurity/funfuzz) - JavaScript engine fuzzers.
 *   [IFuzzer (⭐90)](https://github.com/vspandan/IFuzzer) - An Evolutionary Interpreter Fuzzer Using Genetic Programming.
 *   [domato (⭐1.5k)](https://github.com/googleprojectzero/domato) - DOM fuzzer from [Google Project Zero](https://github.com/googleprojectzero). [Blog Post.](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)
 
 ### Tools / Network protocol
 
-*   [TLS-Attacker (⭐675)](https://github.com/RUB-NDS/TLS-Attacker) - A Java-based framework for analyzing TLS libraries.
+*   [TLS-Attacker (⭐684)](https://github.com/RUB-NDS/TLS-Attacker) - A Java-based framework for analyzing TLS libraries.
 
 ### Platform / Driver
 
@@ -351,20 +356,20 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 ### Tools / General-purpose
 
 *   [radamsa](https://gitlab.com/akihe/radamsa) - A general-purpose fuzzer.
-*   [zzuf (⭐399)](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer.
+*   [zzuf (⭐401)](https://github.com/samhocevar/zzuf) - A transparent application input fuzzer.
 
 ### Tools / Binary
 
 *   [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - A security-oriented fuzzer that employs a novel type of compile-time instrumentation and genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary.
 *   [WinAFL (⭐2k)](https://github.com/googleprojectzero/winafl) - A fork of AFL for fuzzing Windows binaries.
-*   [Driller (⭐788)](https://github.com/shellphish/driller) - An implementation of the [driller paper](https://www.cs.ucsb.edu/\~vigna/publications/2016_NDSS_Driller.pdf). This implementation was built on top of AFL with angr being used as a symbolic tracer.
+*   [Driller (⭐790)](https://github.com/shellphish/driller) - An implementation of the [driller paper](https://www.cs.ucsb.edu/\~vigna/publications/2016_NDSS_Driller.pdf). This implementation was built on top of AFL with angr being used as a symbolic tracer.
 
 ### Tools / Network protocol
 
 *   [boofuzz (⭐1.7k)](https://github.com/jtpereyda/boofuzz) - Network Protocol Fuzzing for Humans. Documentation is available at <http://boofuzz.readthedocs.io/>, including nifty quickstart guides.
 *   [LL-Fuzzer (⭐126)](https://github.com/mit-ll/LL-Fuzzer) - An automated NFC fuzzing framework for Android devices.
-*   [tlsfuzzer (⭐439)](https://github.com/tomato42/tlsfuzzer) - A SSL and TLS protocol test suite and fuzzer.
-*   [TumbleRF (⭐144)](https://github.com/riverloopsec/tumblerf) - A framework that orchestrates the application of fuzzing techniques to RF systems.
+*   [tlsfuzzer (⭐441)](https://github.com/tomato42/tlsfuzzer) - A SSL and TLS protocol test suite and fuzzer.
+*   [TumbleRF (⭐145)](https://github.com/riverloopsec/tumblerf) - A framework that orchestrates the application of fuzzing techniques to RF systems.
 *   [PULSAR (⭐324)](https://github.com/hgascon/pulsar) - A method for stateful black-box fuzzing of proprietary network protocols.
 
 ### Tools / Driver
@@ -373,7 +378,7 @@ A curated list of awesome Fuzzing(or Fuzz Testing) for software security
 
 ### Platform / Driver
 
-*   [certfuzz (⭐251)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
+*   [certfuzz (⭐252)](https://github.com/CERTCC/certfuzz) - It contains the source code for the CMU CERT Basic Fuzzing Framework (BFF) and the CERT Failure Observation Engine (FOE).
 
 ## [Jan 28 - Feb 03, 2019](/content/2019/4/README.md)
 

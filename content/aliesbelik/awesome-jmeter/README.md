@@ -2,9 +2,15 @@
 
 A collection of resources covering different aspects of JMeter usage.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aliesbelik/awesome-jmeter/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aliesbelik/awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter) · ⭐ 572 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aliesbelik/awesome-jmeter/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aliesbelik/awesome-jmeter](https://github.com/aliesbelik/awesome-jmeter) · ⭐ 584 · 🏷️ Testing
 
 [ Daily / [Weekly](/content/aliesbelik/awesome-jmeter/week/README.md) / [Overview](/content/aliesbelik/awesome-jmeter/readme/README.md) ]
+
+## [Jan 05, 2023](/content/2023/01/05/README.md)
+
+### Tips & Tricks / Editors
+
+*   [JMeter tips](https://web.archive.org/web/20221126233834/https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
 
 ## [Oct 25, 2022](/content/2022/10/25/README.md)
 
@@ -21,10 +27,6 @@ A collection of resources covering different aspects of JMeter usage.
 
 *   [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 
-### Tips & Tricks / Editors
-
-*   [JMeter tips](https://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
-
 ### Community / Blogs
 
 *   [JMeter Tips](https://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
@@ -39,7 +41,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Automation / DSL
 
-*   [pymeter (⭐6)](https://github.com/eldaduzman/pymeter) - Simple JMeter performance tests API for Python.
+*   [pymeter (⭐17)](https://github.com/eldaduzman/pymeter) - Simple JMeter performance tests API for Python.
 
 ### CI / Tutorials & Demo
 
@@ -68,8 +70,8 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Automation / Conversion
 
-*   [postman2jmx (⭐128)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
-*   [convert-postman-jmeter (⭐6)](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
+*   [postman2jmx (⭐133)](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
+*   [convert-postman-jmeter (⭐9)](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
 
 ## [Jul 01, 2022](/content/2022/07/01/README.md)
 
@@ -108,8 +110,8 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Related / Other
 
-*   [How They Load Test (⭐17)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐70)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐23)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐80)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## [Jun 09, 2022](/content/2022/06/09/README.md)
 
@@ -127,7 +129,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Related / Awesome Lists
 
-*   [Awesome Locust (⭐38)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+*   [Awesome Locust (⭐43)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ## [Nov 05, 2021](/content/2021/11/05/README.md)
 
@@ -163,7 +165,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Automation / Frameworks
 
-*   [MeterSphere (⭐8.4k)](https://github.com/metersphere/metersphere/blob/master/README-EN.md) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
+*   [MeterSphere (⭐8.7k)](https://github.com/metersphere/metersphere/blob/master/README-EN.md) - One-stop open-source enterprise-class continuous testing platform, compatible with open-source standards such as JMeter :cn:.
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 
@@ -179,7 +181,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Related / Awesome Lists
 
-*   [Awesome k6 (⭐285)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome k6 (⭐314)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## [Jun 16, 2021](/content/2021/06/16/README.md)
 
@@ -191,7 +193,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Automation / Frameworks
 
-*   [JMeter Load Testing Center (⭐185)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
+*   [JMeter Load Testing Center (⭐186)](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
 
 ## [Mar 16, 2021](/content/2021/03/16/README.md)
 
@@ -265,8 +267,8 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Performance Testing / RPC Frameworks
 
-*   [JMeter gRPC Plugin (⭐38)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
-*   [JMeter gRPC Request (⭐126)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
+*   [JMeter gRPC Plugin (⭐40)](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
+*   [JMeter gRPC Request (⭐137)](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
 *   [JMeter Dubbo Plugin (⭐540)](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
 
 ### Tools / Plugins
@@ -290,7 +292,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Automation / DSL
 
-*   [jmeter-groovy-dsl (⭐10)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+*   [jmeter-groovy-dsl (⭐11)](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
 
 ## [Oct 26, 2020](/content/2020/10/26/README.md)
 
@@ -300,7 +302,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Results Processing / Results Analysis
 
-*   [JMeter SLA Report (⭐37)](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
+*   [JMeter SLA Report (⭐38)](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
 
 ### Performance Testing / Streaming Protocols
 
@@ -314,7 +316,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Automation / DSL
 
-*   [Ruby-JMeter (⭐744)](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
+*   [Ruby-JMeter (⭐745)](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
 
 ## [Sep 21, 2020](/content/2020/09/21/README.md)
 
@@ -334,13 +336,13 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Results Processing / Results Analysis
 
-*   [JtlReporter (⭐73)](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
+*   [JtlReporter (⭐80)](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
 
 ## [Aug 25, 2020](/content/2020/08/25/README.md)
 
 ### Automation / Conversion
 
-*   [swaggerjmx (⭐89)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
+*   [swaggerjmx (⭐92)](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
 
 ## [Aug 21, 2020](/content/2020/08/21/README.md)
 
@@ -387,14 +389,14 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Automation / Frameworks
 
-*   [Performance testing framework (⭐343)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
+*   [Performance testing framework (⭐347)](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 
 ## [Mar 05, 2020](/content/2020/03/05/README.md)
 
 ### Related / Awesome Lists
 
-*   [Awesome Tsung (⭐15)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-*   [Awesome Gatling (⭐41)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
+*   [Awesome Tsung (⭐16)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+*   [Awesome Gatling (⭐45)](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 
 ## [Mar 03, 2020](/content/2020/03/03/README.md)
 
@@ -409,12 +411,12 @@ A collection of resources covering different aspects of JMeter usage.
 
 *   Testing in Cloud
     *   Kubernetes
-        *   [jmeter-kubernetes (⭐315)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
-        *   [jmeter-k8s-starterkit (⭐47)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
-        *   [kangal (⭐132)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
-        *   [aks\_testing\_fwk (⭐32)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
+        *   [jmeter-kubernetes (⭐320)](https://github.com/kubernauts/jmeter-kubernetes) - JMeter cluster support for Kubernetes and OpenShift.
+        *   [jmeter-k8s-starterkit (⭐48)](https://github.com/Rbillon59/jmeter-k8s-starterkit) - JMeter k8s starter kit, with live test reporting, JMeter monitoring, k8s monitoring and mock as a service.
+        *   [kangal (⭐138)](https://github.com/hellofresh/kangal) - Kubernetes and Go Automatic Loader solution to run performance tests in Kubernetes cluster using multiple load generators.
+        *   [aks\_testing\_fwk (⭐34)](https://github.com/petegrimsdale/aks_testing_fwk) - AKS-based scalable JMeter test framework with Grafana reporting.
     *   Amazon Web Services
-        *   [jmeter-ec2 (⭐454)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
+        *   [jmeter-ec2 (⭐456)](https://github.com/oliverlloyd/jmeter-ec2/) - Automates running Apache JMeter on Amazon EC2.
         *   [gee (⭐16)](https://github.com/kowalcj0/gee) - A modified version of JMeter-EC2 project.
         *   [os-jmeter-aws (⭐1)](https://github.com/Aptimyze/os-jmeter-aws) - Run JMeter on multiple Amazon EC2 instances, view results in ELK.
         *   [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
@@ -423,7 +425,7 @@ A collection of resources covering different aspects of JMeter usage.
     *   DigitalOcean
         *   [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using DigitalOcean, JMeter and Docker.
     *   Microsoft Azure
-        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐116)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
+        *   [Load Testing Pipeline with JMeter, ACI and Terraform (⭐117)](https://github.com/Azure-Samples/jmeter-aci-terraform) - Scalable cloud load/stress testing pipeline solution with Apache JMeter and Terraform to dynamically provision and destroy the required infrastructure on Azure.
 
 ## [Feb 18, 2020](/content/2020/02/18/README.md)
 
@@ -554,7 +556,7 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### CI / Tools & Plugins
 
-*   [JMeter Maven Plugin (⭐398)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+*   [JMeter Maven Plugin (⭐402)](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 
 ### Distributed Testing / Tutorials & Demo
 
@@ -566,14 +568,14 @@ A collection of resources covering different aspects of JMeter usage.
 
 ### Related / Awesome Lists
 
-*   [Awesome Testing (⭐1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome Testing (⭐1.1k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
 
 ## [Oct 15, 2019](/content/2019/10/15/README.md)
 
 ### Official Resources
 
 *   [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
-*   [GitHub Repository (⭐6.5k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+*   [GitHub Repository (⭐6.7k)](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 *   [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
 *   [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
 

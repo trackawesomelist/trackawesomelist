@@ -6,6 +6,12 @@ A collection of awesome Qubes OS links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Jan 05, 2023](/content/2023/01/05/README.md)
+
+### Unikernels
+
+*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels)
+
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 
 ### System Requirements
@@ -140,6 +146,7 @@ A collection of awesome Qubes OS links
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek)
 *   [unman](https://github.com/unman?tab=repositories)
+    *   [templates](https://qubes.3isec.org/Templates_4.1/)
 *   [Core Team](https://www.qubes-os.org/team/#core-team)
 *   You can be one to! You got this! Keep Qubing!
 

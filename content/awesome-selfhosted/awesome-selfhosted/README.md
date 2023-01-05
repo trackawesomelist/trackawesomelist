@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jan 05, 2023](/content/2023/01/05/README.md)
+
+### Software / Automation
+
+*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐590)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
+
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 
 ### Software / Miscellaneous

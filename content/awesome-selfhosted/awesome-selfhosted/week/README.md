@@ -8,6 +8,10 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
+### Software / Automation
+
+*   [Automatisch](https://automatisch.io) - Business automation tool that lets you connect different services like Twitter, Slack, and more to automate your business processes (Open source Zapier alternative). ([Source Code (⭐590)](https://github.com/automatisch/automatisch)) `AGPL-3.0` `Docker`
+
 ### Software / Miscellaneous
 
 *   [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. [Source Code](https://gitlab.com/fdroid/fdroidserver) `AGPL-3.0` `Python/Docker`

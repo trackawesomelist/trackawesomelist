@@ -91,6 +91,10 @@ A collection of awesome Qubes OS links
 
 *   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 
+## Unikernels
+
+*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels)
+
 ## Video & Screen Sharing
 
 *   [qubes-video-companion (⭐44)](https://github.com/elliotkillick/qubes-video-companion)
@@ -199,6 +203,7 @@ A collection of awesome Qubes OS links
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek)
 *   [unman](https://github.com/unman?tab=repositories)
+    *   [templates](https://qubes.3isec.org/Templates_4.1/)
 *   [Core Team](https://www.qubes-os.org/team/#core-team)
 *   You can be one to! You got this! Keep Qubing!
 
