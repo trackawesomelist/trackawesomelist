@@ -113,6 +113,7 @@ A collection of awesome Qubes OS links
 ## TOR
 
 *   [Whonix](https://www.whonix.org/wiki/Qubes)
+*   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
 
 ## Videos
 

@@ -12,6 +12,10 @@ A collection of awesome Qubes OS links
 
 *   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels)
 
+### TOR
+
+*   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
+
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 
 ### System Requirements

@@ -6,6 +6,12 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 [ Daily / [Weekly](/content/coq-community/awesome-coq/week/README.md) / [Overview](/content/coq-community/awesome-coq/readme/README.md) ]
 
+## [Jan 05, 2023](/content/2023/01/05/README.md)
+
+### Projects / Frameworks
+
+*   [Hoare Type Theory (⭐56)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
+
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
 ### Projects / Puzzles and Games

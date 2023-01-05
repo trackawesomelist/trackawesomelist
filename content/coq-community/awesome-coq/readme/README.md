@@ -48,6 +48,7 @@ Contributions welcome! Read the [contribution guidelines (⭐196)](https://githu
 *   [FCF (⭐42)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
 *   [Fiat (⭐139)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
 *   [FreeSpec (⭐50)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
+*   [Hoare Type Theory (⭐56)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
 *   [Hybrid](https://www.site.uottawa.ca/\~afelty/HybridCoq/) - System for reasoning using higher-order abstract syntax representations of object logics.
 *   [Iris](https://iris-project.org) - Higher-order concurrent separation logic framework.
 *   [Q\*cert (⭐50)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.

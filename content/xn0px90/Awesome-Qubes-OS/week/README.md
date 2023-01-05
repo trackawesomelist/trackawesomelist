@@ -70,6 +70,10 @@ A collection of awesome Qubes OS links
 
 *   [qubes-video-companion (⭐44)](https://github.com/elliotkillick/qubes-video-companion)
 
+### TOR
+
+*   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
+
 ### Security
 
 *   [Firewall](https://www.qubes-os.org/doc/firewall/)

@@ -8,6 +8,10 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
+### Projects / Frameworks
+
+*   [Hoare Type Theory (⭐56)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
+
 ### Projects / Puzzles and Games
 
 *   [Coqoban (⭐19)](https://github.com/coq-community/coqoban) - Coq implementation of Sokoban, the Japanese warehouse keepers' game.
