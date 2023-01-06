@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### Vim / Angular
+
+*   [VimTricks](https://vimtricks.com/). Weekly tips and tricks.
+
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
 ### Security / Angular
@@ -617,7 +623,7 @@ A list of amazing Newsletters
 
 ### R / Angular
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐547)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐553)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Angular
 

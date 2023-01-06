@@ -8,13 +8,52 @@ A collection of awesome Qubes OS links
 
 ---
 
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~^^~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^::^^^^::^!YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P7^:::^^^^^^^^^^:::^75#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~:::^^^^^^^^^^^^^^^^^^:::~?P&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BJ!^::^^^^^^^^^^^^::^^^^^^^^^^^^::^~JG&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^:::^^^^^^^^^^^:::~77~^::^^^^^^^^^^^^::^!Y#@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@J^::^^^^^^^^^^^:::^7P#@@@@&P?~:::^^^^^^^^^^:::^Y@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!7!!~^^^^^^^::^!Y#@@@@@@@@@@@@#57^::^^^^^^~!?Y5YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777!~~^:~JB&@@@@@@@@@@@@@@@@@@&BY~^^!?J55555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!Y@@@@@@@@@@@@@@@@@@@@@@@@@@PY55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!B@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!G@@@@@@@@@@@@@@@@@@@@@@@@@@&Y55555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!77777777!?#@@@@@@@@@@@@@@@@@@@@@@@@&P555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@G!777777777!!7YB&@@@@@@@@@@@@@@@@@#GP55555555555YB@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@#!!7777777777!!!!?5#&@@@@@@@@@&BP5YY555555555555Y#@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@#J!!!!7777777777!!!7JP#&@&BP5YY5555555555555Y5P#@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!77777777777!!!7Y5Y5555555555555555G#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&GJ7!!!77777777777Y55555555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#PJ7!!!7777777Y555555555555555555Y5PG#@@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&B5?!!!!777Y5555Y55YY555555555555YY5&@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&BY?!!!Y555G#&@#GP555555555555P#@@@@@@@@@@@@@@@@@@@@@@@@@
+    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#GPB#&@@@@@@@@&BP55555PG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+                    _                                    ___      __                 ___  ___
+                   /_\__ __ _____ ___ ___ _ __  ___     /   \ _  _| |__  ___ ___    / _ \/ __|
+                  / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
+                 /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___/
+
 [![Build Status](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=main)](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)
 
-# Awesome-Qubes-OS
+# A collection of awesome Qubes OS links
 
-A collection of awesome Qubes OS links
+## QubesOS Websites
+
+*   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
+*   [Qubes OS.onion](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
+*   [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
+*   [Qubes OS github docs (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs.
+*   [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
+*   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
 
 ## System Requirements
 
@@ -23,13 +62,36 @@ A collection of awesome Qubes OS links
 *   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
 *   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
 
-## Downloading, installing, and upgrading
+## Downloading, Installing, Upgrading and Building
 
 *   [Downloading](https://www.qubes-os.org/downloads/)
 *   [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
 *   [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download
-*   [Installing)](https://www.qubes-os.org/doc/installation-guide/)
+*   [Installing](https://www.qubes-os.org/doc/installation-guide/)
 *   [Upgrading](https://www.qubes-os.org/doc/upgrade/)
+*   [Building (⭐3)](https://github.com/QubesOS/qubes-builderv2)
+
+## Exploit Developent
+
+*   [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine
+*   [microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library
+*   [awesome-virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
+*   [radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
+*   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
+*   [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
+*   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+
+    *   [MemProFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+
+    *   [LeechCore-pluins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+*   [memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+
+    *   [qemui\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+    *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - kvm memflow connector
+    *   [pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - access pcileech interface
+    *   [coredump (⭐7)](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
 ## How-to guides
 
@@ -68,15 +130,6 @@ A collection of awesome Qubes OS links
 *   [Tips for Using Linux in an HVM (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 *   [Creating a NetBSD VM (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
 
-## QubesOS Websites
-
-*   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
-*   [Qubes OS.onion](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
-*   [Qubes OS docs](https://www.qubes-os.org/doc/) - Qubes OS main docs
-*   [Qubes OS github docs (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest docs.
-*   [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
-*   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News
-
 ## VM-Hardening
 
 *   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
@@ -93,12 +146,16 @@ A collection of awesome Qubes OS links
 
 ## Unikernels
 
-*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels)
+*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
 
 ## Video & Screen Sharing
 
 *   [qubes-video-companion (⭐44)](https://github.com/elliotkillick/qubes-video-companion)
+
+## Custom Desktop
+
 *   [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
+*   [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
 
 ## Remote-Desktop
 
@@ -110,6 +167,10 @@ A collection of awesome Qubes OS links
 *   [Mullvad VPN](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy first VPN provider in Qubes OS.
 *   [qubes-tunnel (⭐15)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 *   [WireGuard (⭐196)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
+
+## Vitualization
+
+*   [Virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization)
 
 ## TOR
 
@@ -204,7 +265,7 @@ A collection of awesome Qubes OS links
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 *   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
 
-## Qubes-OS Legends
+## Qubes OS Legends
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek)
@@ -237,4 +298,21 @@ The Qubes OS Project has a presence on the following social media platforms:
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
 *   `#qubes` channel on libera.chat via traditional IRC clients
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients
+
+## Contributing
+
+Contribution guidelines can be found [here (⭐18)](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md)
+
+## Releases
+
+*   [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
+*   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
+*   [Release notes](https://www.qubes-os.org/doc/releases/notes/)
+*   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 

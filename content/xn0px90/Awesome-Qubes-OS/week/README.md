@@ -15,11 +15,34 @@ A collection of awesome Qubes OS links
 *   [Community-recommended hardware](https://www.qubes-os.org/doc/community-recommended-hardware/)
 *   [Hardware compatibility list (HCL)](https://www.qubes-os.org/hcl/)
 
-### Downloading, installing, and upgrading
+### Downloading, Installing, Upgrading and Building
 
 *   [Downloading](https://www.qubes-os.org/downloads/)
-*   [Installing)](https://www.qubes-os.org/doc/installation-guide/)
+*   [Installing](https://www.qubes-os.org/doc/installation-guide/)
 *   [Upgrading](https://www.qubes-os.org/doc/upgrade/)
+*   [Building (⭐3)](https://github.com/QubesOS/qubes-builderv2)
+
+### Exploit Developent
+
+*   [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine
+*   [microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library
+*   [awesome-virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
+*   [radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
+*   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
+*   [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
+*   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+
+    *   [MemProFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+
+    *   [LeechCore-pluins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+*   [memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+
+    *   [qemui\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+    *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - kvm memflow connector
+    *   [pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - access pcileech interface
+    *   [coredump (⭐7)](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
 ### How-to guides
 
@@ -64,12 +87,20 @@ A collection of awesome Qubes OS links
 
 ### Unikernels
 
-*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels)
+*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
 
 ### Video & Screen Sharing
 
 *   [qubes-video-companion (⭐44)](https://github.com/elliotkillick/qubes-video-companion)
+
+### Custom Desktop
+
 *   [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
+*   [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+
+### Vitualization
+
+*   [Virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization)
 
 ### TOR
 
@@ -148,7 +179,7 @@ A collection of awesome Qubes OS links
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/)
 *   [AwesomeWM (window manager)](https://www.qubes-os.org/doc/awesomewm/)
 
-### Qubes-OS Legends
+### Qubes OS Legends
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska)
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek)
@@ -171,6 +202,13 @@ A collection of awesome Qubes OS links
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients
 
+### Releases
+
+*   [Supported releases](https://www.qubes-os.org/doc/supported-releases/)
+*   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
+*   [Release notes](https://www.qubes-os.org/doc/releases/notes/)
+*   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
+
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### VM-Hardening
@@ -188,7 +226,7 @@ A collection of awesome Qubes OS links
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
-### Downloading, installing, and upgrading
+### Downloading, Installing, Upgrading and Building
 
 *   [Qubes OS 4.1](https://www.qubes-os.org/downloads/) - Qubes OS 4.1 Download
 *   [Qubes OS 4.1 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.1 Weekly Build Download

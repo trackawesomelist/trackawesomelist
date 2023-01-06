@@ -248,7 +248,7 @@ Thanks to all [contributors (⭐3.1k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐547)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐553)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -349,6 +349,7 @@ Thanks to all [contributors (⭐3.1k)](https://github.com/zudochkin/awesome-news
 ### Vim
 
 *   [Mastering Vim Quickly](https://masteringvim.com/). Best Vim stuff, once a week.
+*   [VimTricks](https://vimtricks.com/). Weekly tips and tricks.
 
 ### VSCode
 
