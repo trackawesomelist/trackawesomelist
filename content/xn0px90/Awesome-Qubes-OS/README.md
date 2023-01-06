@@ -6,6 +6,16 @@ A collection of awesome Qubes OS links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Jan 06, 2023](/content/2023/01/06/README.md)
+
+### Video & Screen Sharing
+
+*   [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
+
+### Window Manger
+
+*   [dwm-in-qubesos (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos)
+
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
 ### Unikernels

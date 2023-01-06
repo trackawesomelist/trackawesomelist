@@ -230,6 +230,7 @@ You can find them listed on the [Neovim wiki (⭐61k)](https://github.com/neovim
 *   [kylechui/nvim-surround (⭐1.1k)](https://github.com/kylechui/nvim-surround) - A plugin for adding/changing/deleting surrounding delimiter pairs.
 *   [echasnovski/mini.nvim#mini.surround (⭐1.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-surround.md) - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, "last"/"next" extended mappings, tree-sitter integration, and more.
 *   [m-demare/hlargs.nvim (⭐243)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Treesitter.
+*   [LhKipp/nvim-nu (⭐37)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
 
 ### Snippet
 
@@ -877,7 +878,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [cunderw/nvim (⭐9)](https://github.com/cunderw/nvim) - Neovim custom configuration, focused on JS/TS, Go, and Java development. Very IDE like.
 *   [otavioschwanck/mood-nvim (⭐30)](https://github.com/otavioschwanck/mood-nvim) - Ready to use configuration for Ruby on Rails, JavaScript and Typescript.
 *   [ldelossa/nvim-ide (⭐514)](https://github.com/ldelossa/nvim-ide) - A full featured IDE layer heavily inspired by VSCode.
-*   [jonathandion/web-dev.nvim (⭐27)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐34)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## External
 

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 06, 2023](/content/2023/01/06/README.md)
+
+### Syntax / Diagnostics
+
+*   [LhKipp/nvim-nu (⭐37)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
+
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
 ### (requires Neovim 0.5)
@@ -76,7 +82,7 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim (⭐27)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐34)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## [Dec 20, 2022](/content/2022/12/20/README.md)
 

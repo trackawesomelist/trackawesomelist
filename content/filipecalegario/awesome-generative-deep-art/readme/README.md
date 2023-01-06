@@ -63,6 +63,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Prompt Engineering | Prompt Design | Prompt Craft
 
+*   [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
 *   [Midjourney artist reference - Google Sheets](https://docs.google.com/spreadsheets/d/1e2MZ1K6WMTUuxlPAQ_2A0rz-H55NBykb66TY7DuerVg/edit#gid=2088669480)
 *   [Stable Diffusion Prompt Book — Stability.Ai](https://stability.ai/sdv2-prompt-book): prompt book for Stable Diffusion v2.0 and v2.1 released by Stability.AI
 *   [The Ultimate Stable Diffusion Prompt Guide by PromptHero](https://prompthero.com/stable-diffusion-prompt-guide)
@@ -145,6 +146,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Stable Diffusion Deployed Web Tools
 
+*   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
 *   [AITWO.CO](https://aitwo.co/): a AI-powered design platform with multiple features
 *   [aiimagegenerator.org](https://www.aiimagegenerator.org/): free AI art generator that supports Stable Diffusion txt2img and img2img generation, drawing and inpainting
 *   [Playground AI](https://playgroundai.com/): frontend for Stable Diffusion with 1000 image generations per day
@@ -220,7 +222,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Have I Been Trained?](https://haveibeentrained.com/): tool for searching 5.8 billion images used to train popular AI art models
 *   [laion-aesthetic-6pls](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images): exploring 12 million of the 2.3 billion images used to train Stable Diffusion's image generator
 
-## History and Mapping the Area
+## History and Mapping the Generative AI Area
 
 *   \[🔥🔥🔥] [Mapping the Generative AI landscape | Antler](https://www.antler.co/blog/generative-ai)
 *   \[🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
@@ -422,8 +424,9 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [THUDM/CogVideo (⭐2.2k)](https://github.com/THUDM/CogVideo): Text-to-video generation
 
-## Inbox: Music-and-Sound-related projects
+## Inbox: Music, Audio, and Text-to-speech (TTS) projects
 
+*   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 *   [neonbjb/tortoise-tts (⭐2.7k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 *   \[🔥🔥🔥] [Riffusion](https://www.riffusion.com/): an app for real-time music generation with stable diffusion
 *   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
@@ -440,6 +443,8 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Inbox: Text and Natural Language Processing
 
+*   [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
+*   [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
 *   [DetangleAI](https://detangle.ai): AI-generated summaries of provided legal docs
 *   [acheong08's list / Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): list of wrappers for accessing ChatGPT in platform such as Discord, Telegram, and languages such as Python, JS.
 *   \[🔥🔥🔥] [Awesome ChatGPT Prompts](https://prompts.chat/): repo that includes curated ChatGPT prompts to obtain better results from ChatGPT
@@ -557,6 +562,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## Other Related Awesome Lists
 
+*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐245)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
 *   [margaretmz/awesome-ai-art-design (⭐20)](https://github.com/margaretmz/awesome-ai-art-design): An awesome list: AI for art and design.
 *   [toxtli/awesome-machine-learning-jupyter-notebooks-for-colab (⭐244)](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab): A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory
 

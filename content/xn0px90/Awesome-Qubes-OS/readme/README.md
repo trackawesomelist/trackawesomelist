@@ -98,6 +98,7 @@ A collection of awesome Qubes OS links
 ## Video & Screen Sharing
 
 *   [qubes-video-companion (⭐44)](https://github.com/elliotkillick/qubes-video-companion)
+*   [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
 
 ## Remote-Desktop
 
@@ -114,6 +115,10 @@ A collection of awesome Qubes OS links
 
 *   [Whonix](https://www.whonix.org/wiki/Qubes)
 *   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
+
+## Window Manger
+
+*   [dwm-in-qubesos (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos)
 
 ## Videos
 

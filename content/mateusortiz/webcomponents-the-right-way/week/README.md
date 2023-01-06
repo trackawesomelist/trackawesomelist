@@ -32,11 +32,26 @@ A curated list of awesome Web Components resources.
 
 ### HTML Templates
 
+*   [Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
 *   [HTML templates with vanilla JavaScript](https://gomakethings.com/html-templates-with-vanilla-javascript/)
 *   [Template element](https://javascript.info/template-element)
 *   [Templating in HTML](https://kittygiraudel.com/2022/09/30/templating-in-html/)
 *   [The HTML5 template element](https://dev.to/ahferroin7/the-html5-template-element-26b6)
 *   [Understanding The Template Element In HTML](https://blog.openreplay.com/understanding-the-template-element-in-html/)
+
+### Codelabs
+
+*   [HowTo Components –`<howto-checkbox>`](https://web.dev/components-howto-checkbox/)
+*   [HowTo Components –`<howto-tabs>`](https://web.dev/components-howto-tabs/)
+*   [HowTo Components – `<howto-tooltip>`](https://web.dev/components-howto-tooltip/)
+*   [Lit: basics](https://open-wc.org/codelabs/basics/lit-html.html#0)
+*   [Lit: intermediate](https://open-wc.org/codelabs/intermediate/lit-html.html#0)
+*   [Lit for React Developers](https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs#0)
+*   [Web Components: basics](https://open-wc.org/codelabs/basics/web-components.html#0)
+
+### Interoperability
+
+*   [Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 
 ### Class Based
 
@@ -49,6 +64,20 @@ A curated list of awesome Web Components resources.
 *   [Rocket](https://rocket.modern-web.dev) - Modern web setup for static sites with a sprinkle of JavaScript.
 *   [Web Components Compiler (⭐39)](https://github.com/ProjectEvergreen/wcc) - Compiler to make server-side rendering of native web components easier.
 *   [WebC (⭐1k)](https://github.com/11ty/webc) - Framework-independent standalone HTML serializer for generating markup for web components.
+
+### Tutorials
+
+*   [Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch/)
+*   [Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
+*   [Web Components: from zero to hero](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
+*   [Deep Dive: Web Components & Dependency Injection – The Experiment](https://www.thinktecture.com/web-components/dependency-injection/)
+*   [Stencil – Web Components On Steroids](https://www.thinktecture.com/web-components/stenciljs-web-components-on-steroids/)
+*   [Using Modern Web Components](https://coryrylan.com/blog/using-modern-web-components)
+*   [Using Web Components in WordPress is Easier Than You Think](https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/)
+*   [Web Components 101: Framework Comparison](https://coderpad.io/blog/development/web-components-101-framework-comparison/)
+*   [Web Components 101: Lit Framework](https://coderpad.io/blog/development/web-components-101-lit-framework/)
+*   [Where to begin building Web Components? - The Basics](https://dev.to/alangdm/where-to-begin-building-web-components-the-basics-3b78)
+*   [Where to begin building Web Components? - Class-based Libraries](https://dev.to/alangdm/where-to-begin-building-web-components-class-based-libraries-18m6)
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
@@ -279,14 +308,6 @@ A curated list of awesome Web Components resources.
 *   [Building Interoperable Web Components That Even Work With React](https://css-tricks.com/building-interoperable-web-components-react/)
 *   [Using Web Components With Next (or Any SSR Framework)](https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/)
 
-### Tutorials
-
-*   "**HowTo: Components**" by [Web Fundamentals](https://web.dev)
-    *   [Overview](https://web.dev/components-examples-overview/)
-    *   [`<howto-checkbox>`](https://web.dev/components-howto-checkbox/)
-    *   [`<howto-tabs>`](https://web.dev/components-howto-tabs/)
-    *   [`<howto-tooltip>`](https://web.dev/components-howto-tooltip/)
-
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 
 ### Tools
@@ -298,10 +319,6 @@ A curated list of awesome Web Components resources.
 ### Accessibility
 
 *   [Web Components punch list](https://www.tpgi.com/web-components-punch-list/)
-
-### Codelabs
-
-*   [Open Web Components: Codelabs](https://open-wc.org/guides/developing-components/codelabs/)
 
 ### Examples
 
@@ -355,12 +372,6 @@ A curated list of awesome Web Components resources.
 
 *   [shadow-dom-utils (⭐10)](https://github.com/43081j/shadow-dom-utils) - Set of useful utilities for dealing with shadow DOM, primarily for test environment.
 
-## [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)
-
-### Codelabs
-
-*   [Introduction to Storybook for Web Components](https://sinhapiyush.hashnode.dev/introduction-to-storybook-for-web-components)
-
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
 ### Podcasts
@@ -373,16 +384,16 @@ A curated list of awesome Web Components resources.
 
 *   [Developing Components: Publishing](https://open-wc.org/guides/developing-components/publishing/)
 
-### Codelabs
+### Starter Kits
+
+*   [Create Open Web Components](https://open-wc.org/docs/development/generator/) - Web component project scaffolding.
+
+### Tutorials
 
 *   [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
 *   [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
 *   [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
 *   [Web Components Tools: A Comparison](https://www.nexmo.com/blog/2020/05/20/web-components-tools-a-comparison)
-
-### Starter Kits
-
-*   [Create Open Web Components](https://open-wc.org/docs/development/generator/) - Web component project scaffolding.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
@@ -427,10 +438,6 @@ A curated list of awesome Web Components resources.
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
-### Codelabs
-
-*   [Creating a Reusable Avatar Web Component](https://marcoslooten.com/blog/creating-a-reusable-avatar-web-component/)
-
 ### Case Studies
 
 *   [Web Development At Scale: Composable Applications With Web Components](https://medium.com/@jarrodek/composable-applications-with-web-components-ebe5158387be)
@@ -465,6 +472,10 @@ A curated list of awesome Web Components resources.
 ### Class Based
 
 *   [Panel (⭐239)](https://github.com/mixpanel/panel) - Web Components + Virtual DOM: web standards for powerful UIs.
+
+### Tutorials
+
+*   [Creating a Reusable Avatar Web Component](https://marcoslooten.com/blog/creating-a-reusable-avatar-web-component/)
 
 ## [Aug 24 - Aug 30, 2020](/content/2020/34/README.md)
 
@@ -676,12 +687,6 @@ A curated list of awesome Web Components resources.
 
 *   [::part and ::theme, an ::explainer](https://meowni.ca/posts/part-theme-explainer/)
 
-### Codelabs
-
-*   [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
-*   [How to use D3js with WebComponents](https://towardsdatascience.com/how-to-use-d3js-with-webcomponents-a75ae4f980de)
-*   [Storybook for web components on steroids](https://dev.to/open-wc/storybook-for-web-components-on-steroids-4h29)
-
 ### Interoperability
 
 *   [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
@@ -732,6 +737,11 @@ A curated list of awesome Web Components resources.
 *   [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - Benchmark Web Components technologies with various examples.
 *   [web-components-todo](https://wc-todo.firebaseapp.com/) - The same todo application built in different Web Components libraries for benchmark purpose.
 
+### Tutorials
+
+*   [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
+*   [How to use D3js with WebComponents](https://towardsdatascience.com/how-to-use-d3js-with-webcomponents-a75ae4f980de)
+
 ### Presentations
 
 *   [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) by [@lostinbrittany](https://twitter.com/lostinbrittany)
@@ -750,11 +760,6 @@ A curated list of awesome Web Components resources.
 ### Codelabs
 
 *   [Building Custom Elements with Web Components for the 2020 Elections](https://medium.com/stories-from-upstatement/building-custom-elements-with-web-components-for-the-2020-elections-f767ff9e9c6a)
-*   [Building Web Components with Vanilla JavaScript](https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho)
-*   [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
-*   [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
-*   [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
-*   [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
 
 ### Use Cases
 
@@ -771,6 +776,13 @@ A curated list of awesome Web Components resources.
 ### React
 
 *   [Rendering React Components With Custom Elements](https://guillaumebriday.fr/rendering-react-components-with-custom-elements)
+
+### Tutorials
+
+*   [Building Web Components with Vanilla JavaScript](https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho)
+*   [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
+*   [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
+*   [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
 
 ### History / 2018
 
@@ -956,15 +968,6 @@ A curated list of awesome Web Components resources.
 
 *   [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
 
-### Tutorials
-
-*   **Angular Elements** article series by [Manfred Steyer](https://www.angulararchitects.io/about/)
-    *   [Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-i/)
-    *   [Part II: Lazy and External Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-ii/)
-    *   [Part III: Angular Elements Without Zone.Js](https://www.angulararchitects.io/aktuelles/angular-elements-part-iii/)
-    *   [Part IV: Content Projection with Slots in Angular Elements (>=7)](https://www.angulararchitects.io/aktuelles/content-projection-with-slots-in-angular-elements-7/)
-    *   [Part V: Your Options for Building Angular Elements with the CLI](https://www.angulararchitects.io/aktuelles/your-options-for-building-angular-elements/)
-
 ### History / 2018
 
 *   [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
@@ -996,19 +999,6 @@ A curated list of awesome Web Components resources.
 *   [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
 *   [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
 *   [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
-
-## [Aug 12 - Aug 18, 2019](/content/2019/32/README.md)
-
-### Tutorials
-
-*   "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
-    *   [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
-    *   [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
-    *   [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
-    *   [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
-    *   [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
-    *   [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
-    *   [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
 
 ## [Aug 05 - Aug 11, 2019](/content/2019/31/README.md)
 
@@ -1057,15 +1047,6 @@ A curated list of awesome Web Components resources.
 
 ## [Apr 22 - Apr 28, 2019](/content/2019/16/README.md)
 
-### Tutorials
-
-*   **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
-    *   [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
-    *   [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
-    *   [Part 3: Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch)
-    *   [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
-    *   [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
-
 ### History / 2011
 
 *   [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
@@ -1081,15 +1062,6 @@ A curated list of awesome Web Components resources.
 ### Case Studies
 
 *   [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
-
-## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
-
-### Tutorials
-
-*   "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
-    *   [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
-    *   [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
-    *   [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
 ## [Jan 07 - Jan 13, 2019](/content/2019/1/README.md)
 

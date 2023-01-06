@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [idanarye/nvim-buffls (⭐2)](https://github.com/idanarye/nvim-buffls) - Add LSP functionality to specific Neovim buffers.
 
+### Syntax / Diagnostics
+
+*   [LhKipp/nvim-nu (⭐37)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
+
 ### File Explorer / Diagnostics
 
 *   [stevearc/oil.nvim (⭐51)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
@@ -67,7 +71,7 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [jonathandion/web-dev.nvim (⭐27)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
+*   [jonathandion/web-dev.nvim (⭐34)](https://github.com/jonathandion/web-dev.nvim) - Small, simple and flexible configuration for web development ✨.
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 

@@ -6,6 +6,29 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 06, 2023](/content/2023/01/06/README.md)
+
+### Prompt Engineering | Prompt Design | Prompt Craft
+
+*   [Prompt Box](https://www.promptbox.ai/): "organize and save your AI prompts"
+
+### Stable Diffusion Inbox / Stable Diffusion Deployed Web Tools
+
+*   [dreamlike.art](https://dreamlike.art/): image generator based on Stable Diffusion with fine-tuned models such as Dreamlike Photoreal 2.0. Users receive 1 credit per hour up to 50 credits
+
+### Inbox: Music, Audio, and Text-to-speech (TTS) projects / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
+
+### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [SlidesAI](https://www.slidesai.io/): "create presentation slides with AI in minutes"
+*   [Rationale](https://rationale.jina.ai/): decision-making tool powered by the latest GPT and in-context learning
+
+### Other Related Awesome Lists / OpenAI GPT-3
+
+*   \[🔥🔥🔥] [jonathandinu/awesome-ai-art (⭐245)](https://github.com/jonathandinu/awesome-ai-art): "A list of AI Art courses, tools, libraries, people, and places"
+
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
 ### Stable Diffusion Inbox
@@ -13,7 +36,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Stable Diffusion KLMC2 Animation.ipynb forked](https://colab.research.google.com/github/dmarx/notebooks/blob/main/Stable_Diffusion_KLMC2_Animation.ipynb): fork by [@DigThatData](https://twitter.com/DigThatData)
 *   [Stable Diffusion KLMC2 Animation.ipynb](https://colab.research.google.com/drive/1m8ovBpO2QilE2o4O-p2PONSwqGn4_x2G): notebook by [@RiversHaveWings](https://twitter.com/RiversHaveWings) to generate animation based on scripted prompts using a technique called KLMC2 discretization of underdamped Langevin dynamics
 
-### Inbox: Music-and-Sound-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music, Audio, and Text-to-speech (TTS) projects / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [neonbjb/tortoise-tts (⭐2.7k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 
@@ -36,7 +59,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
 
-### History and Mapping the Area / References Collection about Stable Diffusion
+### History and Mapping the Generative AI Area / References Collection about Stable Diffusion
 
 *   \[🔥🔥🔥] [Mapping the Generative AI landscape | Antler](https://www.antler.co/blog/generative-ai)
 
@@ -83,7 +106,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [Scenario AI](https://www.scenario.gg/): AI-generated game assets
 
-### Inbox: Music-and-Sound-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music, Audio, and Text-to-speech (TTS) projects / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   \[🔥🔥🔥] [Riffusion](https://www.riffusion.com/): an app for real-time music generation with stable diffusion
 
@@ -93,7 +116,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [THUDM/CogVideo (⭐2.2k)](https://github.com/THUDM/CogVideo): Text-to-video generation
 
-### Inbox: Music-and-Sound-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music, Audio, and Text-to-speech (TTS) projects / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [Harmonai's Dance Diffusion](https://wandb.ai/wandb_gen/audio/reports/Harmonai-s-Dance-Diffusion-Open-Source-AI-Audio-Generation-Tool-For-Music-Producers--VmlldzoyNjkwOTM1): Open-Source AI Audio Generation Tool For Music Producers – Weights & Biases
 *   [Dance Diffusion](https://huggingface.co/spaces/harmonai/dance-diffusion): the Hugging Face Space by harmonai
@@ -222,7 +245,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [AI art resources | Unlimited Dream Co.](https://www.unlimiteddreamco.xyz/resources): collection of AI art software, guides, inspiration, tools and other useful resources.
 
-### Inbox: Music-and-Sound-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music, Audio, and Text-to-speech (TTS) projects / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [MubertAI/Mubert-Text-to-Music (⭐2.2k)](https://github.com/MubertAI/Mubert-Text-to-Music): a simple notebook demonstrating prompt-based music generation via Mubert API
 
@@ -478,7 +501,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [LAION](https://laion.ai/): Large-scale Artificial Intelligence Open Network
 *   [DeCoDe Lab](http://decode.mit.edu/projects/creativegan/): CREATIVEGAN - Editing Generative Adversarial Networks for Creative Design Synthesis
 
-### Inbox: Music-and-Sound-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music, Audio, and Text-to-speech (TTS) projects / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [LOVO AI](https://www.lovo.ai/): AI Voiceover & Text to Speech Platform with human-like voices
 *   [AIVA](https://www.aiva.ai/): The AI composing emotional soundtrack music
@@ -533,7 +556,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [Dreamer's Guide to Getting Started w/ Stable Diffusion! | Reddit](https://www.reddit.com/r/StableDiffusion/comments/xcq819/dreamers_guide_to_getting_started_w_stable/)
 *   [A collection of sites using Stable Diffusion (and other handy links) | Reddit](https://www.reddit.com/r/StableDiffusion/comments/wzj8kk/a_collection_of_sites_using_stable_diffusion_and/)
 
-### History and Mapping the Area / References Collection about Stable Diffusion
+### History and Mapping the Generative AI Area / References Collection about Stable Diffusion
 
 *   [1 week of Stable Diffusion | multimodal.art](https://multimodal.art/news/1-week-of-stable-diffusion)
 *   \[🔥🔥🔥] [AI Timeline](https://www.fabianmosele.com/ai-timeline): A history of text-to-image ML models by Fabian Mosele
@@ -718,7 +741,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Mar 03, 2022](/content/2022/03/03/README.md)
 
-### Inbox: Music-and-Sound-related projects / Text-to-image Google Colab Notebooks (Multiple Models)
+### Inbox: Music, Audio, and Text-to-speech (TTS) projects / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   [AI Image to sound \[Melobytes.com\]](https://melobytes.com/en/app/ai_image2sound)
 
