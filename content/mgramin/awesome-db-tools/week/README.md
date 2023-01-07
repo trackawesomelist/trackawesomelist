@@ -8,6 +8,14 @@ Everything that makes working with databases easier
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
+### IDE
+
+*   [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with proweful script and grid functionality.
+
+### Monitoring/Statistics/Perfomance / Samples
+
+*   [Postgres Monitor](https://postgresmonitor.com) - An easy-to-use monitoring service for PostgreSQL providing alerts, dashboards, query stats and dynamic recommendations.
+
 ### Data / Generators
 
 *   [Synthesized](https://www.synthesized.io) - Create, validate, and safely share high-quality data for software testing, model training, and data analysis without any manual configuration.

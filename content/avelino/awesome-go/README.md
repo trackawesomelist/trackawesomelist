@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jan 07, 2023](/content/2023/01/07/README.md)
+
+### Goroutines
+
+*   [conc (⭐1.7k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
+
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 
 ### Geographic

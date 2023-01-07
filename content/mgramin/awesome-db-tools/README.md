@@ -6,6 +6,16 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Jan 07, 2023](/content/2023/01/07/README.md)
+
+### IDE
+
+*   [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with proweful script and grid functionality.
+
+### Monitoring/Statistics/Perfomance / Samples
+
+*   [Postgres Monitor](https://postgresmonitor.com) - An easy-to-use monitoring service for PostgreSQL providing alerts, dashboards, query stats and dynamic recommendations.
+
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
 ### Data / Generators

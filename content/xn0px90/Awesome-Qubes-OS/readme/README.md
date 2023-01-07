@@ -8,6 +8,8 @@ A collection of awesome Qubes OS links
 
 ---
 
+# Avesome Qubes OS [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G?~^^~?G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5!^::^^^^::^!YB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#P7^:::^^^^^^^^^^:::^75#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -40,11 +42,41 @@ A collection of awesome Qubes OS links
                   / _ \ V  V / -_|_-</ _ \ '  \/ -_)   | (_) | || | '_ \/ -_|_-<   | (_) \__ \
                  /_/ \_\_/\_/\___/__/\___/_|_|_\___|    \__\_\\_,_|_.__/\___/__/    \___/|___/
 
-[![Build Status](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS.svg?branch=main)](https://app.travis-ci.com/xn0px90/Awesome-Qubes-OS)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/xn0px90/Awesome-Qubes-OS)
+# A curated list of awesome Qubes OS links
 
-# A collection of awesome Qubes OS links
+## Table of Contents
+
+*   [QuibesOS Websites](#QubesOS-Website)
+*   [System Requirements](#System-Requirements)
+*   [Downloading, Installing, Upgrading and Building](#Downloading,-Installing,-Upgrading-and-Building)
+*   [How-to guides](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/How-to-guides)
+*   [Templates](#Templates)
+*   [Networking Server](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/Networking-Server)
+*   [Automation](#Automation)
+*   [Video & Screen Sharing](#Video-&-Screen-Sharing)
+*   [Remote-Desktop](#Remote-Desktop)
+*   [VPN](#VPN)
+*   [TOR](#TOR)
+*   [Videos](#Videos)
+*   [Security](#Security)
+*   [Kernels](#Kernels)
+*   [Unikernels](#Unikernels)
+*   [Unikernel-like](#Unikernel-like)
+*   [Exploitation Tools](#Exploitation-Tools)
+*   [Xen Exploitation](#Xen-Exploitation)
+*   [Attacking Hypervisors](#Attacking-Hypervisors)
+*   [VM-Hardening](#VM-Hardening)
+*   [System](#System)
+*   [Services](#Services)
+*   [Advanced Topics](#Advanced-Topics)
+*   [Qubes OS Legends](#Qubes-OS-Legends)
+*   [Training](#Training)
+*   [Companies using Qubes OS](#Companies-using-Qubes-OS)
+*   [Social media](#Social-media)
+*   [Contributing](#Contributing)
+*   [Releases](#Releases)
+*   [Adventure Further](#Adventure-Further)
+*   [License](#License)
 
 ## QubesOS Websites
 
@@ -70,28 +102,6 @@ A collection of awesome Qubes OS links
 *   [Installing](https://www.qubes-os.org/doc/installation-guide/)
 *   [Upgrading](https://www.qubes-os.org/doc/upgrade/)
 *   [Building (⭐3)](https://github.com/QubesOS/qubes-builderv2)
-
-## Exploit Developent
-
-*   [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine
-*   [microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library
-*   [awesome-virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
-*   [radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
-*   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
-*   [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
-*   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-*   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-
-    *   [MemProFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
-*   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
-
-    *   [LeechCore-pluins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
-*   [memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-
-    *   [qemui\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
-    *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - kvm memflow connector
-    *   [pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - access pcileech interface
-    *   [coredump (⭐7)](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
 
 ## How-to guides
 
@@ -130,12 +140,6 @@ A collection of awesome Qubes OS links
 *   [Tips for Using Linux in an HVM (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 *   [Creating a NetBSD VM (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
 
-## VM-Hardening
-
-*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
-*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
-*   [qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
-
 ## Networking Server
 
 *   [qubes-network-server (⭐78)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server
@@ -144,18 +148,15 @@ A collection of awesome Qubes OS links
 
 *   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible
 
-## Unikernels
-
-*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
-
 ## Video & Screen Sharing
 
-*   [qubes-video-companion (⭐44)](https://github.com/elliotkillick/qubes-video-companion)
+*   [qubes-video-companion (⭐44)](https://github.com/elliotkillick/qubes-video-companion) - Qubes Video Companion is a tool for securely streaming webcams and sharing screens across virtual machines.
 
 ## Custom Desktop
 
 *   [brightness-ajustment](https://forum.qubes-os.org/t/easy-brightness-adjustment/15902/2)
 *   [custom icons](https://forum.qubes-os.org/t/where-is-the-most-optimal-place-to-put-custom-folder-icons/15740/3)
+*   [suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
 
 ## Remote-Desktop
 
@@ -168,18 +169,10 @@ A collection of awesome Qubes OS links
 *   [qubes-tunnel (⭐15)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 *   [WireGuard (⭐196)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel
 
-## Vitualization
-
-*   [Virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization)
-
 ## TOR
 
 *   [Whonix](https://www.whonix.org/wiki/Qubes)
 *   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
-
-## Window Manger
-
-*   [dwm-in-qubesos (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos)
 
 ## Videos
 
@@ -216,6 +209,78 @@ A collection of awesome Qubes OS links
 *   [Anonymizing your MAC Address (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
 *   [Signal (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
 *   [Reducing the fingerprint of the text-based web browser w3m (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
+
+## Vitualization
+
+*   [awesome-virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
+
+## Kernels
+
+*   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
+*   [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
+*   [OPenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
+
+## Unikernels
+
+*   [Awesome-unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery
+*   [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
+*   [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
+*   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
+*   [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
+
+## Unikernel-like
+
+*   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
+*   [Graphene (⭐746)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+
+## Exploitation Tools
+
+*   [libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine
+*   [microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library
+*   [awesome-virtualization (⭐1.3k)](https://github.com/Wenzel/awesome-virtualization) - A curated list of awesome resources about virtualization.
+*   [radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
+*   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
+*   [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
+*   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+
+    *   [MemProFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+
+    *   [LeechCore-pluins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+*   [memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+
+    *   [qemui\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+    *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - kvm memflow connector
+    *   [pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - access pcileech interface
+    *   [coredump (⭐7)](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
+
+## Xen Exploitation
+
+*   [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM)
+*   [Subverting the Xen hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
+*   [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
+*   [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
+*   [XenPwn: Breaking paravirtualized devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
+*   [Advanced Exploitation: Xen Hypervisor VM Escape ](https://www.youtube.com/watch?v=6Ld5CiInrcI)
+*   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
+*   [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
+
+## Attacking Hypervisors
+
+*   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo\&t=3s)
+*   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+*   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
+*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+*   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+*   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
+*   [Hypervisor Vulnerability Research - State of the Art](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
+
+## VM-Hardening
+
+*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
+*   [qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
 
 ## System
 
@@ -283,6 +348,10 @@ A collection of awesome Qubes OS links
 *   [xn0px90](https://twitch.tv/xn0px90)
 *   [infosecstreams](https://infosecstreams.com/)
 
+## Companies using Qubes OS
+
+*   [Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners
+
 ## Social media
 
 The Qubes OS Project has a presence on the following social media platforms:
@@ -309,6 +378,10 @@ Contribution guidelines can be found [here (⭐18)](https://github.com/xn0px90/A
 *   [Testing new releases and updates](https://www.qubes-os.org/doc/testing/)
 *   [Release notes](https://www.qubes-os.org/doc/releases/notes/)
 *   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
+
+## Adventure Further
+
+*   [Adventures start here ---> (⭐231k)](https://github.com/sindresorhus/awesome) - All the awesome links :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|:
 
 ## License
 

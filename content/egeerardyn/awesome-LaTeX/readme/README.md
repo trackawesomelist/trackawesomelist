@@ -8,7 +8,7 @@ Curated list of LaTeX awesomeness
 
 ---
 
-# Awesome LaTeX [![awesome]](https://github.com/sindresorhus/awesome) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/README.md/LICENSE.md)
+# Awesome LaTeX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/README.md/LICENSE.md)
 
 [![LaTeX Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png)](https://www.latex-project.org/)
 
@@ -18,40 +18,39 @@ Curated list of LaTeX awesomeness
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-*   \[Awesome LaTeX [![awesome]](https://github.com/sindresorhus/awesome) ![License: CC BY-SA 4.0](https://github.com/egeerardyn/awesome-LaTeX/raw/master/LICENSE.md)]\(#awesome-latex-awesome-)
-    *   [Contents](#contents)
-    *   [Distributions](#distributions)
-    *   [Docker Images](#docker-images)
-    *   [Engines](#engines)
-        *   [LaTeX formulas on the web](#latex-formulas-on-the-web)
-    *   [Editors](#editors)
-        *   [LaTeX-focused](#latex-focused)
-        *   [General purpose text editors](#general-purpose-text-editors)
-        *   [Online editors](#online-editors)
-    *   [Bibliography tools](#bibliography-tools)
-    *   [Build Tools](#build-tools)
-        *   [GitHub Actions](#github-actions)
-    *   [Misc. Tools](#misc-tools)
-    *   [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
-    *   [Packages](#packages)
-        *   [References](#references)
-        *   [Tables](#tables)
-        *   [Graphics](#graphics)
-            *   [PSTricks](#pstricks)
-            *   [TikZ](#tikz)
-        *   [Source Code](#source-code)
-        *   [Typography](#typography)
-        *   [Presentations, Slides](#presentations-slides)
-    *   [Templates](#templates)
-    *   [Symbols](#symbols)
-    *   [Resources](#resources)
-    *   [Showcases](#showcases)
-    *   [Tutorials](#tutorials)
-    *   [Books](#books)
-    *   [Blogs](#blogs)
-    *   [Social media](#social-media)
-    *   [Meta Awesome-LaTeX](#meta-awesome-latex)
-    *   [Legend](#legend)
+*   [Contents](#contents)
+*   [Distributions](#distributions)
+*   [Docker Images](#docker-images)
+*   [Engines](#engines)
+    *   [LaTeX formulas on the web](#latex-formulas-on-the-web)
+*   [Editors](#editors)
+    *   [LaTeX-focused](#latex-focused)
+    *   [General purpose text editors](#general-purpose-text-editors)
+    *   [Online editors](#online-editors)
+*   [Bibliography tools](#bibliography-tools)
+*   [Build Tools](#build-tools)
+    *   [GitHub Actions](#github-actions)
+*   [Misc. Tools](#misc-tools)
+*   [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
+*   [Packages](#packages)
+    *   [References](#references)
+    *   [Tables](#tables)
+    *   [Graphics](#graphics)
+        *   [PSTricks](#pstricks)
+        *   [TikZ](#tikz)
+    *   [Source Code](#source-code)
+    *   [Typography](#typography)
+    *   [Presentations, Slides](#presentations-slides)
+*   [Templates](#templates)
+*   [Symbols](#symbols)
+*   [Resources](#resources)
+*   [Showcases](#showcases)
+*   [Tutorials](#tutorials)
+*   [Books](#books)
+*   [Blogs](#blogs)
+*   [Social media](#social-media)
+*   [Meta Awesome-LaTeX](#meta-awesome-latex)
+*   [Legend](#legend)
 
 <!-- /TOC -->
 
@@ -153,7 +152,7 @@ Online editors that allow you to edit documents collaboratively.
 
 ## Bibliography tools
 
-*   [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. The GUI looks quite dated, though. ![mac] ![windows] ![linux] ![foss]
+*   [JabRef](https://www.jabref.org) - Very powerful cross-platform (Java) bibtex editor. ![mac] ![windows] ![linux] ![foss]
 *   [Papis (⭐948)](https://github.com/papis/papis) - Extremely customizable,
     powerful and simple cross-platform (Python) library manager. It has a very
     complete Command-Line-Interface, several GUIs and scripting capability.
@@ -197,6 +196,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 *   [GeoGebra](https://www.geogebra.org/) - Cross-platform geometry tool with output to TikZ. ![foss]
 *   [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss]
 *   [TikZiT](https://tikzit.GitHub.io) - GUI tool for creating graphs and string diagrams using PGF/TikZ. ![windows] ![linux] ![mac] ![foss]
+*   [LaTeXDraw](https://latexdraw.sourceforge.net/) - Vector-based drawing tool having LaTeX as first-class citizen. ![windows] ![linux] ![mac] ![foss]
 
 ## Packages
 
@@ -277,6 +277,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 *   [Showcase of beautiful invitations in TeX](https://tex.stackexchange.com/q/281415/9075) - Showcase of invitations typeset using LaTeX.
 *   [Showcase of "programming your document" paradigm](https://tex.stackexchange.com/q/219774/9075) - Collection of LaTeX documents demonstrating how LaTeX can be used like a programming language.
 *   [TUG: TeX showcase](https://www.tug.org/texshowcase/) - Website from the TUG that shows some examples of what LaTeX can do.
+*   [Awesome LaTeX drawing (⭐949)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
 
 ## Tutorials
 

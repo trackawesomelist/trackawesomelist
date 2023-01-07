@@ -1211,6 +1211,7 @@ additional ordered map implementations.
 *   [async-job (⭐5)](https://github.com/lab210-dev/async-job) - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
 *   [breaker (⭐11)](https://github.com/kamilsk/breaker) - Flexible mechanism to make execution flow interruptible.
 *   [channelify (⭐25)](https://github.com/ddelizia/channelify) - Transform your function to return channels for easy and powerful parallel processing.
+*   [conc (⭐1.7k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
 *   [concurrency-limiter (⭐10)](https://github.com/vivek-ng/concurrency-limiter) - Concurrency limiter with support for timeouts , dynamic priority and context cancellation of goroutines.
 *   [conexec (⭐13)](https://github.com/ITcathyh/conexec) - A concurrent toolkit to help execute funcs concurrently in an efficient and safe way. It supports specifying the overall timeout to avoid blocking and uses goroutine pool to improve efficiency.
 *   [cyclicbarrier (⭐117)](https://github.com/marusama/cyclicbarrier) - CyclicBarrier for golang.
