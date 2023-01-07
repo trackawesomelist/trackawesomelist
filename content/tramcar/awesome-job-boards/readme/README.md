@@ -2,7 +2,7 @@
 
 null
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 691 · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 710 · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / Overview ]
 
@@ -20,6 +20,8 @@ A curated list of awesome niche job boards.
 *   [Customer Support](#customer-support)
 *   [Design](#design)
 *   [DevOps](#devops)
+*   \[eCommerce] (#ecommerce)
+*   [Finance](#finance)
 *   [Gaming](#gaming)
 *   [Growth Hacking](#growth-hacking)
 *   [InfoSec](#infosec)
@@ -34,6 +36,7 @@ A curated list of awesome niche job boards.
 
 *   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 *   [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+*   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
 
 ## Big Data
 
@@ -76,6 +79,14 @@ A curated list of awesome niche job boards.
 ## DevOps
 
 *   [Kube Careers](https://kube.careers) — Hand-picked Kubernetes jobs, clear salary ranges and apply directly to companies.
+
+## eCommerce
+
+*   \[eComPortal] (<https://ecomportal.co>) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
+
+## Finance
+
+*   [OpenQuant](https://openquant.co) - Find the best jobs in Quantitative Finance
 
 ## Gaming
 

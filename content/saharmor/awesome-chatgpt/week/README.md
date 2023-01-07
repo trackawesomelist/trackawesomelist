@@ -8,13 +8,17 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
+### Featured
+
+*   [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
+
 ### ChatGPT API
 
 *   [pyChatGPT - a Python client for the unofficial ChatGPT API (⭐495)](https://github.com/terry3041/pyChatGPT)
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
-### Other
+### Featured
 
 *   [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
 
@@ -26,6 +30,10 @@ Selected ChatGPT demos, tools, articles, and more ✨
 *   [GPT AI Assistant using LINE and Vercel (⭐552)](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
+
+### Featured
+
+*   [ChatGPT prompts](https://prompts.chat/)
 
 ### Using ChatGPT in other apps
 
@@ -43,7 +51,6 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Other
 
-*   [ChatGPT prompts](https://prompts.chat/)
 *   [Share your wildest ChatGPT conversations with one click (⭐221)](https://github.com/domeccleston/sharegpt)
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)

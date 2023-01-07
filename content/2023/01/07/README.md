@@ -1,12 +1,61 @@
 # Awesome List Updates on Jan 07, 2023
 
-8 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+
+### Featured
+
+*   [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
+
+## [2. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [thrive](https://thriveml.com) - Jobs at Top AI Companies and Startups
+
+### eCommerce
+
+*   \[eComPortal] (<https://ecomportal.co>) - Job board for the eCommerce Industry. Lots of front-end & full-stack developer job opportunities. Remote & Salary available.
+
+### Finance
+
+*   [OpenQuant](https://openquant.co) - Find the best jobs in Quantitative Finance
+
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+### Driver crates / Other
+
+*   [tb6612fng](https://crates.io/crates/tb6612fng) - A `no_std` driver for the TB6612FNG motor driver - ![Crates.io](https://img.shields.io/crates/v/tb6612fng.svg)
+*   [vl53l1x-uld](https://crates.io/crates/vl53l1x-uld) - I2C - A pure-rust driver for the [ST VL53L1X](https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html) - ![crates.io](https://img.shields.io/crates/v/vl53l1x-uld.svg)
+
+### no-std crates / WIP
+
+*   [adafruit-bluefruit-protocol](https://crates.io/crates/adafruit-bluefruit-protocol): A `no_std` parser for the [Adafruit Bluefruit LE Connect controller protocol](https://learn.adafruit.com/bluefruit-le-connect/controller). - ![crates.io](https://img.shields.io/crates/v/adafruit-bluefruit-protocol)
+
+## [4. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+
+### Boilerplates
+
+*   [Hydrogen](https://statichunt.com/themes/next-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
+
+## [5. GoBooks](/content/dariubs/GoBooks/README.md)
+
+### **Starter Books** / [Shipping Go](https://www.manning.com/books/shipping-go)
+
+*   Develop better software based on feedback from customers
+*   Create a development pipeline that turns feedback into features
+*   Reduce bugs with pipeline automation that validates code before it is deployed
+*   Establish continuous testing for exceptional code quality
+*   Serverless, container based, and server based deployments
+*   Scale your deployment in a cost-effective way
+*   Deliver a culture of continuous improvement
+
+## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :books: Literature / Scientific Research
 
@@ -34,20 +83,20 @@
 *   [Capa (⭐2.6k)](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
 *   [Oedipus (⭐8)](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Goroutines
 
 *   [conc (⭐1.7k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
 
-## [3. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
 *   [Armbian](https://www.armbian.com/rpi4b/) - A base operating system platform for single board computers (SBCs) that other projects can trust to build upon.
 *   [KonstaKANG](https://konstakang.com/devices/rpi4/) - Unofficial LineageOS and AOSP builds for Raspberry Pi. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-3.png)
 
-## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [9. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -88,11 +137,15 @@
 
 *   [JetBrains/kotlin-native (⭐7.1k)](https://github.com/JetBrains/kotlin-native) - Kotlin/Native is a LLVM backend for the Kotlin compiler, runtime implementation and native code generation facility using LLVM toolchain.
 
-## [5. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Custom Desktop
 
 *   [suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
+
+### TOR
+
+*   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
 ### Kernels
 
@@ -111,6 +164,11 @@
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
 *   [Graphene (⭐746)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+
+### Exploitation Tools
+
+*   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
 
 ### Xen Exploitation
 
@@ -135,13 +193,13 @@
 
 ### Companies using Qubes OS
 
-*   [Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners
+*   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners
 
 ### Adventure Further
 
 *   [Adventures start here ---> (⭐231k)](https://github.com/sindresorhus/awesome) - All the awesome links :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|:
 
-## [6. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [11. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### LaTeX-compatible GUI tools
 
@@ -151,7 +209,7 @@
 
 *   [Awesome LaTeX drawing (⭐949)](https://github.com/xinychen/awesome-latex-drawing) - Curated list of academic drawing examples for using LaTeX
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Testing Solutions
 
@@ -167,7 +225,7 @@
 *   [Test web components with Playwright](https://alexbilson.dev/plants/technology/test-web-components-with-playwright/) - So you’ve created a native web component or two. How do you test them in popular browsers?
 *   [W3C Webdriver conquering automation of Shadow DOM](https://staleelement.medium.com/w3c-webdriver-conquering-automation-of-shadow-dom-chapter-2-d92c7fe9e74c) - Shadow DOM tree and its interaction with the W3C Webdriver.
 
-## [8. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [13. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 

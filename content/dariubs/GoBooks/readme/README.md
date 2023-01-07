@@ -2,7 +2,7 @@
 
 List of Golang books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 13K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 14K · 🏷️ Books
 
 [ [Daily](/content/dariubs/GoBooks/README.md) / [Weekly](/content/dariubs/GoBooks/week/README.md) / Overview ]
 
@@ -46,7 +46,7 @@ This companion book contains material initially written specifically for this ev
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github (⭐504)](https://github.com/miekg/learninggo).
+The [markdown source is available on Github (⭐508)](https://github.com/miekg/learninggo).
 
 ### [Go for Javascript Developers (⭐1.1k)](https://github.com/pazams/go-for-javascript-developers) *Free*
 
@@ -89,6 +89,14 @@ It is suitable for anybody how wants to start programming with the Go language.
 It assumes no prior knowledge.
 Each chapter contains test questions with detailed answers.
 The HTML version is free. You can support the author by buying the PDF or Paper version.
+
+### [Go Programming Language Persian](https://book.gofarsi.ir/) *Free*
+
+<img src="https://book.gofarsi.ir/gofarsi-book-cover.jpg" width="120px"/>
+
+The first Persian open source book about golang deep dive.
+In this book, we discuss all deep topics related to the Go language,
+from the basics to the advanced, with the aim of increasing the Gopher community in Iran.
 
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
@@ -221,6 +229,30 @@ By the end of this Go for DevOps book, you'll understand how to apply developmen
 
 For the last decade, we have heard stories about Monolith to Microservice transitions and we might think that this transition solves the majority of the problems in the organizations. However, it might end up with mess if you are not aware about best practices of this transition, since Microservice Architecture comes with its challenges. In this book, we start covering production grade best practices of Microservices Architecture and explain when to use it. Then we talk about microservice communication patterns where gRPC comes to the stage. You will see complete examples written in Go with Hexagonal Architecture applied to project structure. You will not only learn how to implement microservices, you will see how to write tests, maintain quality with proper CI, deploy to Kubernetes environment and finally set up an observable system to have better monitoring for your application.
 
+### [Go Faster](https://leanpub.com/gofaster)
+
+<img src="https://golangatspeed.com/images/go-faster-w120.png" alt="Picture of book cover for Go Faster" width="120px"/>
+
+Some say Go is a simple language and with only 25 keywords it surely is. But, to work with Go effectively requires proficiency and understanding beyond simple syntax alone. It can take developers months or even years to acquire this experience, but this book sets out to short-circuit that process and get you there faster!
+
+With my book, Go Faster, you can shorten your learning curve and become a proficient Go programmer, going from beginner to expert in no time. Learn Go faster and join the thriving community of skilled Go developers!
+
+### [Shipping Go](https://www.manning.com/books/shipping-go)
+
+<img src="https://images.manning.com/264/352/resize/book/0/f58ed72-e728-44dc-8201-bc972aff8d76/Holmes-MEAP-HI.png" alt="Picture of book cover for Shipping Go" width="120px"/>
+
+You know how to build Go programs—now learn how to ship them to your customers efficiently! This practical guide to continuous delivery shows you how to rapidly establish an automated pipeline that will improve your testing, code quality, and final product.
+
+In Shipping Go you will learn how to:
+
+*   Develop better software based on feedback from customers
+*   Create a development pipeline that turns feedback into features
+*   Reduce bugs with pipeline automation that validates code before it is deployed
+*   Establish continuous testing for exceptional code quality
+*   Serverless, container based, and server based deployments
+*   Scale your deployment in a cost-effective way
+*   Deliver a culture of continuous improvement
+
 ## **Advanced Books**
 
 ### [Microservices with Go](https://www.packtpub.com/product/microservices-with-go/9781804617007)
@@ -268,7 +300,7 @@ The main goal of this book is to help developers avoid common mistakes while at 
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
-The book is based on a [real open source project (⭐3.4k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+The book is based on a [real open source project (⭐3.6k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ### [Network Programming with Go](https://link.springer.com/book/10.1007/978-1-4842-2692-6)
@@ -511,6 +543,14 @@ This book, Part 1 of the series, focuses on achieving high-performance code. You
 *   Be able to identify when code needs optimizing, what needs optimizing and how.
 *   Have a catalog of concurrency and performance patterns that you can quickly apply to your projects.
 
+### [Domain-Driven Design with Golang](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450)
+
+<a href="(https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450"><img src="https://static.packt-cdn.com/products/9781804613450/cover/smaller" width="120px"/></a>
+
+Use Golang to create simple, maintainable systems to solve complex business problems.
+
+Domain-driven design (DDD) is one of the most sought-after skills in the industry. This book provides you with step-by-step explanations of essential concepts and practical examples that will see you introducing DDD in your Go projects in no time. Domain-Driven Design with Golang starts by helping you gain a basic understanding of DDD, and then covers all the important patterns, such as bounded context, ubiquitous language, and aggregates. The latter half of the book deals with the real-world implementation of DDD patterns and teaches you how to build two systems while applying DDD principles, which will be a valuable addition to your portfolio. Finally, you’ll find out how to build a microservice, along with learning how DDD-based microservices can be part of a greater distributed system. Although the focus of this book is Golang, by the end of this book you’ll be able to confidently use DDD patterns outside of Go and apply them to other languages and even distributed systems.
+
 ## **Web Development**
 
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
@@ -621,7 +661,7 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
-The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐101)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
+The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐104)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
 ### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
 
@@ -669,7 +709,7 @@ This short book will introduce novice and experienced Go programmers to the beau
 
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki (⭐106k)](https://github.com/golang/go/wiki/Books)
+### [More Books on the Go Wiki (⭐107k)](https://github.com/golang/go/wiki/Books)
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -685,7 +725,7 @@ This short book will introduce novice and experienced Go programmers to the beau
 
 # Contributing
 
-Your contributions are always welcome, just follow [the rules (⭐13k)](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules (⭐14k)](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
 
 # License
 

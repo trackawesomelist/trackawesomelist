@@ -6,6 +6,12 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ Daily / [Weekly](/content/saharmor/awesome-chatgpt/week/README.md) / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Jan 07, 2023](/content/2023/01/07/README.md)
+
+### Featured
+
+*   [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
+
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
 ### ChatGPT API
@@ -14,7 +20,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ## [Dec 26, 2022](/content/2022/12/26/README.md)
 
-### Other
+### Featured
 
 *   [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
 
@@ -47,13 +53,13 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 
+### Featured
+
+*   [ChatGPT prompts](https://prompts.chat/)
+
 ### Conversational
 
 *   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
-
-### Other
-
-*   [ChatGPT prompts](https://prompts.chat/)
 
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 

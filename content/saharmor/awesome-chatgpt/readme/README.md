@@ -16,7 +16,13 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt\&left_color=green\&right_color=red)
 
-This list is up to date. Last update: 12/25/22
+This list is up to date. Last update: 01/07/22
+
+## Featured
+
+1.  [ChatGPT prompts](https://prompts.chat/)
+2.  [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
+3.  [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
 
 ## Using ChatGPT in other apps
 
@@ -90,16 +96,14 @@ This list is up to date. Last update: 12/25/22
 ## Other
 
 1.  [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-2.  [ChatGPT prompts](https://prompts.chat/)
-3.  [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
-4.  [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
-5.  [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
-6.  [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
-7.  [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
-8.  [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-9.  [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐707)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
-10. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
-11. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
-12. [Share your wildest ChatGPT conversations with one click (⭐221)](https://github.com/domeccleston/sharegpt)
-13. [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
+2.  [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
+3.  [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
+4.  [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
+5.  [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
+6.  [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
+7.  [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
+8.  [The Chinese version of AI dungeon using ChatGPT as the storytelling model (⭐707)](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
+9.  [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
+10. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
+11. [Share your wildest ChatGPT conversations with one click (⭐221)](https://github.com/domeccleston/sharegpt)
 

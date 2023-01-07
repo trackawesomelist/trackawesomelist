@@ -2,9 +2,21 @@
 
 List of Golang books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 13K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dariubs/GoBooks/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 dariubs/GoBooks](https://github.com/dariubs/GoBooks) · ⭐ 14K · 🏷️ Books
 
 [ [Daily](/content/dariubs/GoBooks/README.md) / Weekly / [Overview](/content/dariubs/GoBooks/readme/README.md) ]
+
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### **Starter Books** / [Shipping Go](https://www.manning.com/books/shipping-go)
+
+*   Develop better software based on feedback from customers
+*   Create a development pipeline that turns feedback into features
+*   Reduce bugs with pipeline automation that validates code before it is deployed
+*   Establish continuous testing for exceptional code quality
+*   Serverless, container based, and server based deployments
+*   Scale your deployment in a cost-effective way
+*   Deliver a culture of continuous improvement
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
