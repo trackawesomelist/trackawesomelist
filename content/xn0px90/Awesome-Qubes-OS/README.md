@@ -21,6 +21,10 @@ A collection of awesome Qubes OS links
 
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
 
+### Exploitation Tools
+
+*   [awesome-fuzzing (⭐611)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
 ### Custom Desktop
@@ -75,10 +79,6 @@ A collection of awesome Qubes OS links
 
 *   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners
 
-### Adventure Further
-
-*   [Adventures start here ---> (⭐231k)](https://github.com/sindresorhus/awesome) - All the awesome list.
-
 ## [Jan 06, 2023](/content/2023/01/06/README.md)
 
 ### Downloading, Installing, Upgrading and Building
@@ -108,7 +108,7 @@ A collection of awesome Qubes OS links
     *   [LeechCore-pluins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
 
-    *   [qemui\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+    *   [qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - kvm memflow connector
     *   [pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - access pcileech interface
     *   [coredump (⭐7)](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files

@@ -6,6 +6,12 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Jan 08, 2023](/content/2023/01/08/README.md)
+
+### Plugins
+
+*   [tmux-open-nvim (⭐2)](https://github.com/trevarj/tmux-open-nvim) - A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open.
+
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
 ### Themes

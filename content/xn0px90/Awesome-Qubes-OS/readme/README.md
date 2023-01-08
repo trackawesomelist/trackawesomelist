@@ -249,6 +249,7 @@ A collection of awesome Qubes OS links
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 *   [codeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
 *   [joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
+*   [awesome-fuzzing (⭐611)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 *   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
 
@@ -258,7 +259,7 @@ A collection of awesome Qubes OS links
     *   [LeechCore-pluins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
 
-    *   [qemui\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
+    *   [qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - access QEMU Physical memory
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - kvm memflow connector
     *   [pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - access pcileech interface
     *   [coredump (⭐7)](https://github.com/memflow/memflow-coredump) - access Microsoft Windows Coredump files
@@ -387,6 +388,7 @@ Contribution guidelines can be found [here (⭐18)](https://github.com/xn0px90/A
 ## Adventure Further
 
 *   [Adventures start here ---> (⭐231k)](https://github.com/sindresorhus/awesome) - All the awesome list.
+    **[⬆ back to top](#)**
 
 ## License
 

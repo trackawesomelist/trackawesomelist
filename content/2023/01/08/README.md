@@ -1,18 +1,37 @@
 # Awesome List Updates on Jan 08, 2023
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+
+### Misc
+
+*   [async\_property (⭐51)](https://github.com/ryananguiano/async_property) - Python decorator for async properties.
+*   [taskiq](https://taskiq-python.github.io/) - Asynchronous distributed task manager (like celery, but async).
+
+## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+
+### Plugins
+
+*   [tmux-open-nvim (⭐2)](https://github.com/trevarj/tmux-open-nvim) - A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open.
+
+## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+
+### Terraform Enterprise / Vendor supported providers
+
+*   [Terrateam](https://terrateam.io) - Terraform GitOps with cost estimation, static analysis, access controls, drift detection, and custom workflows. :heavy\_dollar\_sign:
+
+## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Standard CLI
 
 *   [survey (⭐3.5k)](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
@@ -35,13 +54,13 @@
 
 *   [rust-bakery/nom (⭐7.6k)](https://github.com/rust-bakery/nom) — parser combinator library [![build badge](https://api.travis-ci.org/rust-bakery/nom.svg?branch=master)](https://travis-ci.org/rust-bakery/nom)
 
-## [3. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deployment / NLP
 
 *   [gradio (⭐12k)](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
 
-## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Darknet
 
@@ -56,13 +75,17 @@
 
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
 
-## [5. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+### Exploitation Tools
+
+*   [awesome-fuzzing (⭐611)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+
+## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Testing
 
 *   [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 

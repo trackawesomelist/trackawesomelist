@@ -6,6 +6,13 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 [ Daily / [Weekly](/content/timofurrer/awesome-asyncio/week/README.md) / [Overview](/content/timofurrer/awesome-asyncio/readme/README.md) ]
 
+## [Jan 08, 2023](/content/2023/01/08/README.md)
+
+### Misc
+
+*   [async\_property (⭐51)](https://github.com/ryananguiano/async_property) - Python decorator for async properties.
+*   [taskiq](https://taskiq-python.github.io/) - Asynchronous distributed task manager (like celery, but async).
+
 ## [Dec 23, 2022](/content/2022/12/23/README.md)
 
 ### Web Frameworks
@@ -26,9 +33,9 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
-*   [redis-py (⭐11k)](https://github.com/redis/redis-py) - Redis Python Client (which includes [aioreadis (⭐2.2k)](https://github.com/aio-libs/aioredis) now).
-*   [Prisma Client Python (⭐908)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
-*   [Piccolo (⭐910)](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
+*   [redis-py (⭐11k)](https://github.com/redis/redis-py) - Redis Python Client (which includes [aioreadis (⭐2.3k)](https://github.com/aio-libs/aioredis) now).
+*   [Prisma Client Python (⭐930)](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
+*   [Piccolo (⭐925)](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
 
 ### Networking
 
@@ -41,10 +48,10 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 ### Misc
 
 *   [aiochan (⭐127)](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
-*   [aiopath (⭐68)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
+*   [aiopath (⭐70)](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
 *   [aiosc (⭐26)](https://github.com/artfwo/aiosc) -  Lightweight Open Sound Control implementation.
-*   [kubernetes\_asyncio (⭐249)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
-*   [aiomisc (⭐293)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
+*   [kubernetes\_asyncio (⭐253)](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
+*   [aiomisc (⭐294)](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 
 ### Alternatives to asyncio
 
@@ -66,7 +73,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Misc
 
-*   [aiocache (⭐760)](https://github.com/argaen/aiocache) - Cache manager for different backends.
+*   [aiocache (⭐769)](https://github.com/argaen/aiocache) - Cache manager for different backends.
 
 ## [Jan 21, 2020](/content/2020/01/21/README.md)
 
@@ -122,7 +129,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 ### Message Queues
 
 *   [pyzmq (⭐3.2k)](https://github.com/zeromq/pyzmq) - Python bindings for ZeroMQ.
-*   [aiozmq (⭐393)](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
+*   [aiozmq (⭐394)](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
 
 ### Writings
 
@@ -138,20 +145,20 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Web Frameworks
 
-*   [FastAPI (⭐52k)](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
+*   [FastAPI (⭐53k)](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
 
 ## [Nov 11, 2018](/content/2018/11/11/README.md)
 
 ### Testing
 
 *   [aresponses (⭐93)](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses (⭐3.8k)](https://github.com/getsentry/responses) library used for [requests (⭐49k)](https://github.com/requests/requests).
-*   [aioresponses (⭐398)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
+*   [aioresponses (⭐402)](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
 
 ## [Oct 31, 2018](/content/2018/10/31/README.md)
 
 ### Web Frameworks
 
-*   [uvicorn (⭐5.9k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+*   [uvicorn (⭐6k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
 
 ## [Oct 23, 2018](/content/2018/10/23/README.md)
 
@@ -163,26 +170,26 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Web Frameworks
 
-*   [Starlette (⭐7.7k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
+*   [Starlette (⭐7.8k)](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 
 ## [Oct 17, 2018](/content/2018/10/17/README.md)
 
 ### Networking
 
-*   [aiodns (⭐470)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
+*   [aiodns (⭐472)](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
 
 ## [Sep 29, 2018](/content/2018/09/29/README.md)
 
 ### Misc
 
-*   [aioserial (⭐109)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.7k)](https://github.com/pyserial/pyserial).
+*   [aioserial (⭐109)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.8k)](https://github.com/pyserial/pyserial).
 
 ## [Aug 23, 2018](/content/2018/08/23/README.md)
 
 ### Message Queues
 
-*   [asyncio-nats (⭐606)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
-*   [aiokafka (⭐814)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
+*   [asyncio-nats (⭐608)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
+*   [aiokafka (⭐820)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
 
 ## [Jul 19, 2018](/content/2018/07/19/README.md)
 
@@ -207,7 +214,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
-*   [aioinflux (⭐158)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
+*   [aioinflux (⭐159)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 
 ## [Mar 08, 2018](/content/2018/03/08/README.md)
 
@@ -237,7 +244,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Misc
 
-*   [aiorun (⭐345)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+*   [aiorun (⭐349)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 
 ## [Aug 11, 2017](/content/2017/08/11/README.md)
 
@@ -261,7 +268,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ### Database Drivers
 
-*   [peewee-async (⭐665)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.6k)](https://github.com/coleifer/peewee) and aiopg.
+*   [peewee-async (⭐667)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.7k)](https://github.com/coleifer/peewee) and aiopg.
 
 ## [Dec 17, 2016](/content/2016/12/17/README.md)
 
