@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jan 08, 2023](/content/2023/01/08/README.md)
+
+### Standard CLI
+
+*   [survey (⭐3.5k)](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals.
+
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
 ### Goroutines

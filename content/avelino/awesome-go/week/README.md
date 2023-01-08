@@ -8,6 +8,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
+### Standard CLI
+
+*   [survey (⭐3.5k)](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals.
+
 ### Goroutines
 
 *   [conc (⭐1.7k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.

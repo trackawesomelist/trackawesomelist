@@ -62,7 +62,7 @@
 *   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
 *   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐680)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐681)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
 *   [Grunt Email Boilerplate (⭐286)](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
@@ -93,7 +93,7 @@
 *   [HTML Crush](https://htmlcrush.com/) - Email-friendly HTML minifier: limits lines to 500 chars. (best practice), respects Outlook conditional tags and accepts mixed sources, including ESP templating tags. Optionally, can only remove indentations (not touching line breaks).
 *   [Tabifier](https://tools.arantius.com/tabifier) - Opposite of HTML Crush - a tool to beautify the indentation in HTML files. Works with mixed input sources, including your ESP templating tags.
 *   [Email Link Builder](https://email-link-builder.samcarlton.com/) - Make mailto links that open email drafts with prefilled Recipients, Subject, Body and more.
-*   [email-verifier (⭐592)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+*   [email-verifier (⭐599)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 
 ## Services
 
@@ -161,7 +161,7 @@
 
 ## Resources
 
-*   [Email marketing regulations (⭐289)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐290)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 *   [Email toolbox](http://email-toolbox.com/) - Hand-picked resources for email marketers and designers.
 *   [Mailchimp](http://mailchimp.com/resources/) - Super awesome resources from Mailchimp
 *   [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
@@ -200,6 +200,7 @@
 *   [Email Privacy Tester](https://www.emailprivacytester.com/) - A tool to test your email client's priacy features (loading remote content)
 *   [Mail Tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
 *   [Sendtest.email](https://sendtest.email/) - Test your HTML email, ⚡4email, or text version before sending. Privacy-focused, no sign-up required!
+*   [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers
 
 ## Learning
 
@@ -217,7 +218,7 @@ If you want to contribute, please read the [contribution guidelines (⭐1.9k)](h
 
 ### More Awesome
 
-*   📚 [Awesome JS Books (⭐53)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   📚 [Awesome JS Books (⭐54)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
 ### License
 

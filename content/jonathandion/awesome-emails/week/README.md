@@ -6,6 +6,12 @@
 
 [ [Daily](/content/jonathandion/awesome-emails/README.md) / Weekly / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
 
+## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
+
+### Testing
+
+*   [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Frameworks
@@ -43,7 +49,7 @@
 
 ### Resources
 
-*   [Email marketing regulations (⭐289)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
+*   [Email marketing regulations (⭐290)](https://github.com/threeheartsdigital/email-marketing-regulations) - A guide to email marketing regulations around the world.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
@@ -81,7 +87,7 @@
 
 ### Tools
 
-*   [email-verifier (⭐592)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+*   [email-verifier (⭐599)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 
 ## [Nov 16 - Nov 22, 2020](/content/2020/46/README.md)
 
@@ -300,7 +306,7 @@
 
 ### Learning / More Awesome
 
-*   📚 [Awesome JS Books (⭐53)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
+*   📚 [Awesome JS Books (⭐54)](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
 ## [Jun 12 - Jun 18, 2017](/content/2017/24/README.md)
 
@@ -460,7 +466,7 @@
 *   [Responsive Transactional HTML Email Templates (⭐6.8k)](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
 *   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-*   [Responsive HTML Template (⭐680)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+*   [Responsive HTML Template (⭐681)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 *   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
 
 ### Tools

@@ -71,6 +71,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
     *   [zpm](#zpm)
     *   [zr](#zr)
     *   [zshing](#zshing)
+    *   [zshPlug](#zshplug)
     *   [ztanesh](#ztanesh)
     *   [ztheme](#ztheme)
     *   [ztupide](#ztupide)
@@ -384,6 +385,10 @@ The minuscule ZSH package manager. No frills, no bloat, just 2 kB of 100% ZSH co
 *   Run the above actions in a *single command*
 *   Manages the **Source Plugins** of your installed Plugins
 
+### [zshPlug (⭐0)](https://github.com/Atlas34/zshPlug)
+
+**zshPlug** is a minimalist plugin manager heavily based on [zap (⭐210)](https://github.com/zap-zsh/zap).
+
 ### [ztanesh (⭐263)](https://github.com/miohtama/ztanesh)
 
 **Ztanesh** aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project: the tools will make your shell more powerful and easier to use.
@@ -623,6 +628,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [chgo (⭐0)](https://github.com/sbfaulkner/chgo-plugin-zsh) - Clone of `chruby` modified to make it easy to switch between multiple Go versions.
 *   [clean-project (⭐9)](https://github.com/wwilsman/zsh-clean-project) - Remove files from projects (automatically by default). Useful for keeping `.DS_Store` and `Thumbs.db` files from cluttering your directories.
 *   [clipboard (⭐31)](https://github.com/zpm-zsh/clipboard) - Adds a cross-platform helper function to access the system clipboard. Works on macOS, X11 (and Wayland) and Cygwin.
+*   [cmaker (⭐4)](https://github.com/apalkk/Cmaker) - Makes using `cmake` easier.
 *   [cmd-status (⭐1)](https://github.com/BlaineEXE/zsh-cmd-status) - Reports the status of commands including return code and duration.
 *   [cmdtime (⭐9)](https://github.com/tom-auger/cmdtime) - Displays the duration of a command to the terminal forked from the [timer (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/timer) plugin.
 *   [code-review (⭐2)](https://github.com/xorkevin/code-review-zsh) - Launches `git difftool` on `git merge-base target_branch base_branch` and `target_branch`.
@@ -749,6 +755,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [fzf-it (⭐2)](https://github.com/micakce/fzf-it) - Make any command interactive wrapping it with [fzf (⭐49k)](https://github.com/junegunn/fzf) functionality.
 *   [fzf-marks (⭐425)](https://github.com/urbainvaes/fzf-marks) - Little script to create, navigate and delete bookmarks in `bash` and `zsh`, using the fuzzy finder [fzf (⭐49k)](https://github.com/junegunn/fzf).
 *   [fzf-pass (⭐4)](https://github.com/smeagol74/zsh-fzf-pass) - Better handling of passwords using [fzf (⭐49k)](https://github.com/junegunn/fzf) and [pass](https://www.passwordstore.org/).
+*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 *   [fzf-prezto (⭐2)](https://github.com/lildude/fzf-prezto) - Prezto plugin that finds where [fzf (⭐49k)](https://github.com/junegunn/fzf) has been installed and enables its auto-completion and key-bindings. This plugin works as a Prezto `zstyle` configuration option.
 *   [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab) - Replace ZSH's default completion selection menu with [fzf (⭐49k)](https://github.com/junegunn/fzf).
 *   [fzf-tab-widgets (⭐1)](https://github.com/tom-power/fzf-tab-widgets) - Adds widgets for [fzf-tab (⭐1.9k)](https://github.com/Aloxaf/fzf-tab).
@@ -1723,6 +1730,7 @@ If you're using [Antigen (⭐7.4k)](https://github.com/zsh-users/antigen), you c
 *   [fall (⭐27)](https://github.com/jottenlips/seasonal-zshthemes) - Minimalist theme with fall icons. Includes `git` status decorations.
 *   [fattyarrow (⭐0)](https://github.com/sohnryang/fattyarrow) - Minimal ZSH prompt that works better on dark backgrounds.
 *   [fdT2K (⭐0)](https://github.com/FDT2k/FDT2K-theme)- Based on [agnoster (⭐3.6k)](https://github.com/agnoster/agnoster-zsh-theme), preset to include virtualenv, last command status, `nvm`, `docker machine` and `git`, `hg` and `bzr` status decorations.
+*   [fe80 (⭐0)](https://github.com/fe80/fe80.zsh-theme) - Includes decorators for `git` information, current directory, user\@hostname, time, and the return code of last command when it is nonzero.
 *   [feder (⭐0)](https://github.com/samfeder/mac-themes/blob/master/feder.zsh-theme) - Clean, simple, compatible and meaningful. Tested on Linux, Unix and Windows under ANSI colors.
 *   [filthy (⭐38)](https://github.com/molovo/filthy) - A disgustingly clean ZSH prompt.
 *   [fish (⭐8)](https://github.com/Raniconduh/zshfish) - ZSH theme reminiscent of the default `fish` shell theme. Includes `git` status decorations.
@@ -2103,6 +2111,7 @@ If you're using [Antigen (⭐7.4k)](https://github.com/zsh-users/antigen), you c
 *   [purify (kyoz) (⭐285)](https://github.com/kyoz/purify) - A clean and vibrant theme, best on dark backgrounds. Includes `git` status decorations.
 *   [purity (⭐14)](https://github.com/petermbenjamin/purity) - Inspired by the [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) theme and the [pure (⭐12k)](https://github.com/sindresorhus/pure) prompt.
 *   [purpleblood (⭐0)](https://github.com/HFMorais/oh-my-zsh-purpleblood-theme/) - Based on [darkblood (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/darkblood.zsh-theme). Includes decorators for `username@host`, `git` status, and current directory.
+*   [purr (⭐0)](https://github.com/mubinben/purr-zsh-theme) - Includes decorators for username, current directory and `git` information.
 *   [purs (⭐227)](https://github.com/xcambar/purs) - A fast [pure (⭐12k)](https://github.com/sindresorhus/pure)-inspired prompt written in [Rust](https://www.rust-lang.org/).
 *   [pustelto (⭐0)](https://github.com/Pustelto/shell_theme) - Colorful theme inspired by the [Spaceship (⭐18k)](https://github.com/denysdovhan/spaceship-prompt) theme, includes `git` decorations.
 *   [pwn (⭐0)](https://github.com/gh05t-4/pwn-theme) - Includes decorators for user\@host, `git` & `hg` status, ruby version, python virtualenv and current working directory.

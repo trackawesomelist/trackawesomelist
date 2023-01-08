@@ -6,13 +6,28 @@ A collection of awesome Qubes OS links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Jan 08, 2023](/content/2023/01/08/README.md)
+
+### Darknet
+
+*   [ipfs (⭐22k)](https://github.com/ipfs/ipfs) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
+
+### Crypto
+
+*   [awesome-desci (⭐17)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
+*   [Split Bitcoin Wallet (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md)
+
+### Kernels
+
+*   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
+
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
 ### Custom Desktop
 
 *   [suckless dwm (⭐4)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in qubesos
 
-### TOR
+### Darknet
 
 *   [Lokinet (⭐1.3k)](https://github.com/oxen-io/lokinet) - Lokinet is the reference implementation of LLARP (low latency anonymous routing protocol), a layer 3 onion routing protocol.
 
@@ -20,7 +35,6 @@ A collection of awesome Qubes OS links
 
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 *   [sel4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
-*   [OPenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration
 
 ### Unikernels
 
@@ -49,9 +63,6 @@ A collection of awesome Qubes OS links
 *   [Advanced Exploitation: Xen Hypervisor VM Escape ](https://www.youtube.com/watch?v=6Ld5CiInrcI)
 *   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 *   [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
-
-### Attacking Hypervisors
-
 *   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo\&t=3s)
 *   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
 *   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
@@ -66,7 +77,7 @@ A collection of awesome Qubes OS links
 
 ### Adventure Further
 
-*   [Adventures start here ---> (⭐231k)](https://github.com/sindresorhus/awesome) - All the awesome links :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|:
+*   [Adventures start here ---> (⭐231k)](https://github.com/sindresorhus/awesome) - All the awesome list.
 
 ## [Jan 06, 2023](/content/2023/01/06/README.md)
 
@@ -111,7 +122,7 @@ A collection of awesome Qubes OS links
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
-### TOR
+### Darknet
 
 *   [i2p-whonix](https://forum.qubes-os.org/t/temporary-way-to-run-i2p-on-qubes-whonix/15861)
 
@@ -185,7 +196,6 @@ A collection of awesome Qubes OS links
 *   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
 *   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 *   [Using Multi-Factor Authentication with Qubes (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
-*   [How to Set Up a Split Bitcoin Wallet in Qubes (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md)
 *   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt)
 *   [Split SSH (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
 *   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
@@ -262,8 +272,8 @@ A collection of awesome Qubes OS links
 
 ### Streamers
 
-*   [xn0px90](https://twitch.tv/xn0px90)
-*   [infosecstreams](https://infosecstreams.com/)
+*   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::streamer!
+*   [infosecstreams](https://infosecstreams.com/) -A (hopefully) actively maintained activity-based-autosorted list of InfoSec Streamers
 
 ### Social media
 
@@ -272,7 +282,7 @@ A collection of awesome Qubes OS links
 
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 
-### TOR
+### Darknet
 
 *   [Whonix](https://www.whonix.org/wiki/Qubes)
 
@@ -311,7 +321,7 @@ A collection of awesome Qubes OS links
 
 ## [Sep 04, 2021](/content/2021/09/04/README.md)
 
-### QubesOS Websites
+### Qubes OS Websites
 
 *   [Qubes OS dev docs](https://dev.qubes-os.org/en/latest/) - Qubes OS dev Docs
 
@@ -329,7 +339,7 @@ A collection of awesome Qubes OS links
 
 ## [Aug 16, 2021](/content/2021/08/16/README.md)
 
-### QubesOS Websites
+### Qubes OS Websites
 
 *   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
 *   [Qubes OS.onion](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address.
@@ -360,7 +370,7 @@ A collection of awesome Qubes OS links
 *   [ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer
     *   [UX Jackie](https://vimeo.com/541946756) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
     *   [UX Bessie](https://vimeo.com/542041258) - Qubes OS AppMenu Design Direction. Part of 2020/21 MOSS funded UX work.
-        \-[GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
+    *   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
 
 ### Social media
 
