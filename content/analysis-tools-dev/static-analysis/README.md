@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Jan 09, 2023](/content/2023/01/09/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER.
+
 ## [Dec 29, 2022](/content/2022/12/29/README.md)
 
 ### Multiple languages / [Other](#other-1)

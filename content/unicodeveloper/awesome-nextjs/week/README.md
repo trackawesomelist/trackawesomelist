@@ -6,6 +6,12 @@
 
 [ [Daily](/content/unicodeveloper/awesome-nextjs/README.md) / Weekly / [Overview](/content/unicodeveloper/awesome-nextjs/readme/README.md) ]
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### Boilerplates
+
+*   [Next-Fire-Auth (⭐0)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Articles

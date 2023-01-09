@@ -74,33 +74,33 @@ Official projects and resources of Ant Design.
 
 These are tools and utilities to help build apps using Ant Design,
 
-*   [Antd Init (⭐819)](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
-*   [Dva Cli (⭐970)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
+*   [Antd Init (⭐820)](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
+*   [Dva Cli (⭐971)](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js (⭐16k)](https://github.com/dvajs/dva), a
     lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo (⭐6.7k)](https://github.com/yoshuawuyts/choo).
 *   [Antd Tools](https://github.com/ant-tool) - Very useful list of tools for Ant Design to create documentation, create new components, build tools and many more.
 *   [Antd Tools Docs](http://ant-tool.github.io/) - Documentations for Ant Tools.
 *   [iConfig Ant Design (⭐7)](https://github.com/hutxs/iconfig-antd) - Boilerplate for quickly getting a new project up and running with a few useful transforms.
-*   [vscode-antd-rush (⭐108)](https://github.com/fi3ework/vscode-antd-rush) - Rush to Ant Design in VS Code
+*   [vscode-antd-rush (⭐111)](https://github.com/fi3ework/vscode-antd-rush) - Rush to Ant Design in VS Code
 *   [Antd Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=bang.antd-snippets)
 *   [Generator Antd Pro (⭐33)](https://github.com/codetrial/generator-antd-pro) - An easy way to build your Ant Design Pro application.
-*   [formik-antd (⭐551)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
-*   [Zaku (⭐73)](https://github.com/limichange/zaku) - JSX-based UI editor, easy way to build page and generate antd code.
+*   [formik-antd (⭐563)](https://github.com/jannikbuschke/formik-antd) - Declarative bindings for the popular form state management library Formik.
+*   [Zaku (⭐75)](https://github.com/limichange/zaku) - JSX-based UI editor, easy way to build page and generate antd code.
 *   [Antd-Pro-Generator for VS Code (⭐11)](https://github.com/garrett12138/antd-pro-generator) Generate Service/Mock/Model from Swagger2.0 or OpenApi3.x docs for Ant Design Pro.
 
 ## Theming
 
 Here are utilities that can help you customize your theme and ability to change it in browser
 
-*   [antd-theme-webpack-plugin (⭐365)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
+*   [antd-theme-webpack-plugin (⭐364)](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - A webpack plugin to generate your custom theme file.
 *   [antd-theme-generator (⭐358)](https://github.com/mzohaibqc/antd-theme-generator) - A simple script to generate theme specific less file which can be used in any environment.
-*   [dynamic-antd-theme (⭐249)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
-*   [storybook-addon-customize-antd-theme (⭐25)](https://github.com/letshare/storybook-addon-customize-antd-theme) - a Storybook addon help you visually customize an ant design theme.
+*   [dynamic-antd-theme (⭐254)](https://github.com/luffyZh/dynamic-antd-theme) - A simple plugin to dynamic change ant-design theme whether less or css.
+*   [storybook-addon-customize-antd-theme (⭐26)](https://github.com/letshare/storybook-addon-customize-antd-theme) - a Storybook addon help you visually customize an ant design theme.
 
 ### Themes
 
-*   [ant-design-dark-theme (⭐470)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
-*   [ant-design-aliyun-theme (⭐301)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
-*   [ant-dark-theme (⭐14)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-design-dark-theme (⭐466)](https://github.com/ant-design/ant-design-dark-theme) - Dark theme variables of Ant Design.
+*   [ant-design-aliyun-theme (⭐302)](https://github.com/ant-design/ant-design-aliyun-theme) - Aliyun console theme variables of Ant Design.
+*   [ant-dark-theme (⭐13)](https://github.com/Kuechlin/ant-dark-theme) - Dark theme variables of Ant Design.
 
 ## Related Projects
 
@@ -116,14 +116,14 @@ Ant Design family of projects.
 Projects that are built with Angular and Ant Design.
 
 *   [NG-ZORRO (⭐8.3k)](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
-*   [NG-ZORRO-Mobile (⭐768)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
+*   [NG-ZORRO-Mobile (⭐772)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - Ant Design Mobile of Angular
 *   [ng-alain](https://ng-alain.com/) - ng-zorro-antd admin panel front-end framework.
 
 ## Vue.js
 
 Projects that are built with Vue.js and Ant Design.
 
-*   [ant-design-vue (⭐17k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
+*   [ant-design-vue (⭐18k)](https://github.com/vueComponent/ant-design-vue) - Ant Design of Vue.js 2.5.0+.
 *   [Vue.js Beauty (⭐2.1k)](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design.
 *   [Vue.js Ant UI (⭐34)](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
 *   [Ant Design Vue (⭐9)](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design.
@@ -134,8 +134,8 @@ Projects that are built with Vue.js and Ant Design.
 
 Projects that are built with Blazor WebAssembly and Ant Design.
 
-*   [ant-design-blazor (⭐10)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
-*   [Blazorise (⭐2.5k)](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
+*   [ant-design-blazor (⭐13)](https://github.com/ElderJames/ant-design-blazor) - Ant Design of Blazor(both Server-side and WebAssembly).
+*   [Blazorise (⭐2.6k)](https://github.com/stsrki/Blazorise) - AntDesign support for Blazorise and Blazor [Demo](https://antdesigndemo.blazorise.com/)
 
 ## Components
 
@@ -143,25 +143,25 @@ A list of UI components built with Ant Design.
 
 *   [antd-group-slider (⭐3)](https://github.com/huyennbl/antd-group-slider) - A group of sliders that help input data with multiple ranges & description. Have data sync between sliders to improve UX, avoid accidental missing range during inputing range data.
 *   [antd-table-infinity (⭐277)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
-*   [react-lz-editor (⭐935)](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
+*   [react-lz-editor (⭐939)](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 *   [React Grid (⭐10)](https://github.com/kagawagao/react-grid) **\[Deprecated]** - Grid React UI Component based on Ant Design.
 *   [Antd Kit (⭐38)](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
-*   [antd-data-table (⭐124)](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
-*   [ngx-recursive-form (⭐37)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
-*   [antd-amplify-react (⭐57)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
-*   [antd-password-input-strength (⭐86)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
-*   [antd-amiya (⭐89)](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
+*   [antd-data-table (⭐125)](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
+*   [ngx-recursive-form (⭐36)](https://github.com/hsbalar/ngx-recursive-form) - Angular recursive form based on json input built with Ant Design.
+*   [antd-amplify-react (⭐55)](https://github.com/mzohaibqc/antd-amplify-react) - A collection of Ant Design component for Aws Amplify for Authentication
+*   [antd-password-input-strength (⭐83)](https://github.com/Kombustor/antd-password-input-strength) - AntD Input component with password-strength indicator.
+*   [antd-amiya (⭐100)](https://github.com/viewweiwu/amiya) - Page level components and with table and form.
 
 ## React Hooks
 
-*   [Sunflower(🌻) (⭐480)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
+*   [Sunflower(🌻) (⭐484)](https://github.com/ant-design/sunflower) Collection of React Hooks returning component of antd.
 
 ## Applications
 
 A list of mature apps built with Ant Design.
 
 *   [Eevee (⭐174)](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
-*   [Productivity Application (⭐243)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
+*   [Productivity Application (⭐244)](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ## Boilerplates
 
@@ -169,13 +169,13 @@ A list of starter projects and boilerplates built with Ant Design.
 
 *   [Ant Design Pro](http://pro.ant.design/) - An out-of-box UI solution for enterprise applications :fire::fire::fire:
 *   [Scaffold Market](http://scaffold.ant.design/) - scaffolds and boilerplates using Ant Design
-*   [Antd Admin (⭐9.1k)](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
+*   [Antd Admin (⭐9.2k)](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
 *   [Meteor Antd Boilerplate (⭐9)](https://github.com/elmarti/meteor-antd-boilerplate) - A basic social network built using Antd and Meteor. [Example](https://antdmeteor.herokuapp.com/login)
 *   [React SPA (⭐515)](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
-*   [React Admin (⭐594)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
+*   [React Admin (⭐597)](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
 *   [React Redux (⭐410)](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-*   [React Antd Starter (⭐103)](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
-*   [Webbf (⭐365)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
+*   [React Antd Starter (⭐102)](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
+*   [Webbf (⭐370)](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 *   [React Redux Antd Starter (⭐89)](https://github.com/BetaRabbit/react-redux-antd-starter) - Front-end boilerplate built with React, Redux and Ant Design.
 *   [Koa (⭐65)](https://github.com/yukrain/koa-antd-admin) - Example app to build Admin UI built with React, Ant Design and Koa.
 *   [Star Admin (⭐76)](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel.
@@ -185,35 +185,36 @@ A list of starter projects and boilerplates built with Ant Design.
 *   [TODO MVC (⭐10)](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 *   [React Boilerplate (⭐19)](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
 *   [Dva Antd Starter (⭐27)](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
-*   [Dva Antd Mobile Starter (⭐118)](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
+*   [Dva Antd Mobile Starter (⭐117)](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
 *   [Dva Ant Admin](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
 *   [Aspnet Core Antd Boilerplate (⭐19)](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 *   [React Redux Universal (⭐18)](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
-*   [CRA-TS-Antd (⭐109)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+*   [CRA-TS-Antd (⭐108)](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 *   [Ng-Alain (⭐4.4k)](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
-*   [Typescript React With Mobx Starter (⭐349)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
+*   [Typescript React With Mobx Starter (⭐353)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 *   [React-PWA, PawJS and AntDesign (⭐15)](https://github.com/Atyantik/example-pawjs-ant-design) - A pluggable boilerplate with SEO, PWA, SSR, Skeleton, Placeholders, etc. as some of its many features.
-*   [Create React App + Ant Design (⭐579)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
+*   [Create React App + Ant Design (⭐580)](https://github.com/ant-design/create-react-app-antd) - Use antd in create-react-app without ejecting
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack React + Ant Design applications with MongoDB, SQL or Firebase Firestore.
-*   [The Green Meal (⭐84)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
+*   [The Green Meal (⭐83)](https://github.com/VincentCordobes/the-green-meal) - Next.js, PostgreSQL demo app written in TypeScript.
+*   [react-vite-admin (⭐151)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
 
 ## Non-JavaScript Libraries
 
 A list of libraries that are written for non-JavaScript languages.
 
-*   [Antizer (⭐255)](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
-*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.5k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
+*   [Antizer (⭐256)](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
+*   [syn-antd](https://gitlab.com/synqrinus/syn-antd) - Ant Design wrapper for [ClojureScript](https://clojurescript.org/) and [Reagent (⭐4.6k)](https://github.com/reagent-project/reagent) using [shadow-cljs](http://shadow-cljs.org/) with tree-shaking support. As with other ClojureScript libraries, it cross-compiles to JavaScript.
 
 ## Electron
 
-*   [StarCabinet (⭐407)](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
-*   [Nowa (⭐203)](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
+*   [StarCabinet (⭐408)](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
+*   [Nowa (⭐202)](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
 
 ## Icons
 
-*   [Official Ant Design Icons (⭐745)](http://github.com/ant-design/ant-design-icons)
-*   [Ant Design Icons (⭐55)](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
-*   [Material Design Icons (⭐19)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
+*   [Official Ant Design Icons (⭐772)](http://github.com/ant-design/ant-design-icons)
+*   [Ant Design Icons (⭐56)](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
+*   [Material Design Icons (⭐21)](https://github.com/2fd/ant-design-icons) Material Design Icons for Ant Design
 
 ## Design Tools and Resources
 

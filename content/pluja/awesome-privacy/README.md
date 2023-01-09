@@ -15,6 +15,10 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Commento](https://commento.io/) - Commento is a fast, privacy-focused commenting platform. Can be selfhosted or use their SaaS.
 *   [Remark42](https://remark42.com) - Self-hosted, lightweight, and simple (yet functional) comment engine, which doesn't spy on users.
 
+### Notes and Tasks
+
+*   [Trilium Notes (⭐19k)](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+
 ### Desktop
 
 *   [BusKill](https://www.buskill.in/) - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.

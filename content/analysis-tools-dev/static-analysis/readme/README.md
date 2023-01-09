@@ -752,6 +752,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐644)](https://g
 
 <h2 id="perl">Perl</h2>
 
+*   [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER.
+
 *   [Perl::Critic](https://metacpan.org/pod/Perl::Critic) — Critique Perl source code for best-practices.
 
 <h2 id="python">Python</h2>
