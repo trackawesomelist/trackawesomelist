@@ -2,7 +2,7 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 316 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 324 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / Overview ]
 
@@ -210,6 +210,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ## Lecture Notes<a name=algorithms_lecture_notes></a>
 
+*   [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 *   [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 
 ## Books<a name=algorithms_books></a>
@@ -518,5 +519,5 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 *   [Mathematics (⭐6.7k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
 *   [Cryptography (⭐4.3k)](https://github.com/sobolevn/awesome-cryptography) - Awesome list for cryptography
 *   [Quantum Computing (⭐1.9k)](https://github.com/desireevl/awesome-quantum-computing) - Awesome list for quantum computing
-*   P.S. See also [Math (⭐1.9k)](https://github.com/ossu/math) and [CS (⭐130k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐130k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 

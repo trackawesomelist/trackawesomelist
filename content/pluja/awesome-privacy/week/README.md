@@ -6,6 +6,19 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### Commenting Engines
+
+*   **Disqus** - Many trackers are in their sites. Disqus collects (as per their Privacy Policy):  IP address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
+*   [Isso (⭐4.7k)](https://github.com/posativ/isso) - A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
+*   [Commento](https://commento.io/) - Commento is a fast, privacy-focused commenting platform. Can be selfhosted or use their SaaS.
+*   [Remark42](https://remark42.com) - Self-hosted, lightweight, and simple (yet functional) comment engine, which doesn't spy on users.
+
+### Desktop
+
+*   [BusKill](https://www.buskill.in/) - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Other OS:
@@ -718,7 +731,6 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Captchas
 
-*   [DoomCaptcha (⭐801)](https://github.com/vivirenremoto/doomcaptcha) - Captchas don't have to be boring [READ THE DISCLAIMER ON PROJECT'S WEBSITE](https://vivirenremoto.github.io/doomcaptcha/).
 *   [hCaptcha](https://www.hcaptcha.com/) - Privacy-first CAPTCHA for web, mobile, and more.
 
 ### Images
@@ -1147,7 +1159,9 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   \_insertBigTechHere\_Pay
 *   [Monero](https://www.getmonero.org/) - Monero is cash for a connected world. It's fast, private, untraceable and secure.
 *   Cash - Use person-to-person payments using physical notes and coins.
-*   [Bitcoin](https://bitcoin.org) - Bitcoin is not anonymous nor private. Bitcoin is traceable, transparent and pseudonymous. You need to be really careful when using Bitcoin so you don't leave any traces that can later be used against you to harm your privacy. [See aantonop's video](https://yewtu.be/watch?v=JN1Bowgcle8).
+*   [Bitcoin](https://bitcoin.org) - Bitcoin is not anonymous nor private. Bitcoin is traceable, transparent and pseudonymous. For a basic introduction, [see aantonop's video](https://yewtu.be/watch?v=JN1Bowgcle8). More advanced users can watch this [Bitcoin privacy series](https://yewtu.be/watch?v=QEnL5k0R08w).
+    *   [Samourai Wallet](https://www.samouraiwallet.com/) - An open source, privacy-focused Bitcoin wallet available on Android.
+    *   [Sparrow Wallet](https://www.sparrowwallet.com/) - An open source, cross-platform desktop wallet that gives you many of the privacy-preserving spending tools available in Samourai Wallet.
 
 ### FIAT
 

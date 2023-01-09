@@ -37,6 +37,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 *   [Bookmarking](#bookmarking)
     *   [Book and web annotations](#book-and-web-annotationshighlights-management)
 *   [Captchas](#captchas)
+*   [Commenting Engines (disqus)](#commenting-engines)
 *   [Cloaking](#cloaking)
 *   [Cloud Storage](#cloud-storage)
 *   [Databases](#databases)
@@ -246,8 +247,19 @@ Google captchas use cookies to track users and rank their IPs.
 
 <img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
 
-*   [DoomCaptcha (⭐801)](https://github.com/vivirenremoto/doomcaptcha) - Captchas don't have to be boring [READ THE DISCLAIMER ON PROJECT'S WEBSITE](https://vivirenremoto.github.io/doomcaptcha/).
 *   [hCaptcha](https://www.hcaptcha.com/) - Privacy-first CAPTCHA for web, mobile, and more.
+
+## Commenting Engines
+
+<img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/forbidden.png"> </img> **Avoid**
+
+*   **Disqus** - Many trackers are in their sites. Disqus collects (as per their Privacy Policy):  IP address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
+
+<img width="16" src="https://github.com/pluja/awesome-privacy/raw/main/misc/check.png"> </img>  **Instead use**
+
+*   [Isso (⭐4.7k)](https://github.com/posativ/isso) - A lightweight, self hosted, commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
+*   [Commento](https://commento.io/) - Commento is a fast, privacy-focused commenting platform. Can be selfhosted or use their SaaS.
+*   [Remark42](https://remark42.com) - Self-hosted, lightweight, and simple (yet functional) comment engine, which doesn't spy on users.
 
 ## Cloaking
 
@@ -884,7 +896,9 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 
 **USE WITH CAUTION**
 
-*   [Bitcoin](https://bitcoin.org) - Bitcoin is not anonymous nor private. Bitcoin is traceable, transparent and pseudonymous. You need to be really careful when using Bitcoin so you don't leave any traces that can later be used against you to harm your privacy. [See aantonop's video](https://yewtu.be/watch?v=JN1Bowgcle8).
+*   [Bitcoin](https://bitcoin.org) - Bitcoin is not anonymous nor private. Bitcoin is traceable, transparent and pseudonymous. For a basic introduction, [see aantonop's video](https://yewtu.be/watch?v=JN1Bowgcle8). More advanced users can watch this [Bitcoin privacy series](https://yewtu.be/watch?v=QEnL5k0R08w).
+    *   [Samourai Wallet](https://www.samouraiwallet.com/) - An open source, privacy-focused Bitcoin wallet available on Android.
+    *   [Sparrow Wallet](https://www.sparrowwallet.com/) - An open source, cross-platform desktop wallet that gives you many of the privacy-preserving spending tools available in Samourai Wallet.
 
 ## Personal Finances
 
@@ -974,6 +988,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
 ### Desktop
 
 *   [Whoami Project (⭐1.5k)](https://github.com/owerdogan/whoami-project) - Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions.
+*   [BusKill](https://www.buskill.in/) - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.
 
 ### Android
 

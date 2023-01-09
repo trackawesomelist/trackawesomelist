@@ -833,7 +833,7 @@ Where to discover new Ruby libraries, projects and trends.
 *   [PredictionIO Ruby SDK (⭐191)](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
 *   [rb-libsvm (⭐276)](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 *   [ruby-fann (⭐454)](https://github.com/tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
-*   [rumale (⭐620)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐623)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 *   [TensorFlow (⭐336)](https://github.com/ankane/tensorflow) - The end-to-end machine learning platform for Ruby.
 *   [Torch.rb (⭐470)](https://github.com/ankane/torch.rb) - Deep learning for Ruby, powered by LibTorch.
 *   [weka (⭐66)](https://github.com/paulgoetze/weka-jruby) - Machine learning and data mining algorithms for JRuby.
@@ -873,7 +873,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐977)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
+*   [Awesome NLP with Ruby (⭐980)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
 *   [pocketsphinx-ruby (⭐254)](https://github.com/watsonbox/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 *   [Pragmatic Segmenter (⭐506)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
@@ -1160,6 +1160,7 @@ Where to discover new Ruby libraries, projects and trends.
 *   [Pipal (⭐557)](https://github.com/digininja/pipal) - Password analyser and statistics generator
 *   [Rack::Attack (⭐5.2k)](https://github.com/kickstarter/rack-attack) - Rack middleware for blocking & throttling abusive requests.
 *   [Rack::Protection (⭐12k)](https://github.com/sinatra/sinatra/tree/master/rack-protection) - Rack middleware for protecting against typical Web attacks.
+*   [Ronin (⭐315)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 *   [SecureHeaders (⭐3k)](https://github.com/twitter/secureheaders) - Automatically apply several headers that are related to security, including: Content Security Policy (CSP), HTTP Strict Transport Security (HSTS), X-Frame-Options (XFO), X-XSS-Protection, X-Content-Type-Options, X-Download-Options & X-Permitted-Cross-Domain-Policies.
 *   [WhatWeb (⭐4.3k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
@@ -1336,7 +1337,7 @@ Online tools, services and APIs to simplify development.
 
 *   [Cells (⭐3k)](https://github.com/trailblazer/cells) - View Components for Rails.
 *   [Komponent (⭐425)](https://github.com/komposable/komponent) - An opinionated way of organizing front-end code in Rails, based on components.
-*   [Phlex (⭐637)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐648)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 *   [ViewComponent (⭐2.8k)](https://github.com/github/view_component) - View components for Rails.
 
 ## View helpers

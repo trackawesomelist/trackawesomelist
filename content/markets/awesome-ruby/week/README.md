@@ -6,6 +6,12 @@
 
 [ [Daily](/content/markets/awesome-ruby/README.md) / Weekly / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### Security
+
+*   [Ronin (⭐315)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Queues and Messaging
@@ -28,7 +34,7 @@
 
 ### View components
 
-*   [Phlex (⭐637)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
+*   [Phlex (⭐648)](https://github.com/joeldrapper/phlex) - A framework for building object-oriented views in Ruby.
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -431,7 +437,7 @@
 
 ### Machine Learning
 
-*   [rumale (⭐620)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
+*   [rumale (⭐623)](https://github.com/yoshoku/rumale) - A machine learning library with interfaces similar to Scikit-Learn.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -1383,7 +1389,7 @@
 
 ### Natural Language Processing
 
-*   [Awesome NLP with Ruby (⭐977)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
+*   [Awesome NLP with Ruby (⭐980)](https://github.com/arbox/nlp-with-ruby) - Awesome List for Practical Natural Language Processing done in Ruby.
 *   [Ruby Natural Language Processing Resources (⭐1.2k)](https://github.com/diasks2/ruby-nlp) - Collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software.
 
 ## [Jan 02 - Jan 08, 2017](/content/2017/1/README.md)

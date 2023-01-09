@@ -2,9 +2,15 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 316 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 324 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
+
+## [Jan 09, 2023](/content/2023/01/09/README.md)
+
+### Lecture Notes / Monograph
+
+*   [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 
 ## [Dec 27, 2022](/content/2022/12/27/README.md)
 
@@ -72,7 +78,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Network Groups / Monograph
 
 *   [Mathematics (⭐6.7k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐1.9k)](https://github.com/ossu/math) and [CS (⭐130k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐130k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [Jun 06, 2022](/content/2022/06/06/README.md)
 

@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 09, 2023](/content/2023/01/09/README.md)
+
+### System 1 & System 2 / Neural-Symbolic AI
+
+*   [Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework](https://link.springer.com/article/10.1007/s10994-022-06142-7) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10321228117236432485\&hl=en\&as_sdt=0,5)]. A neuro-symbolic framework that integrates meta-policy learning in inductive logic programming.
+
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
 ### Embodied Intelligence / Explainable Deep Learning

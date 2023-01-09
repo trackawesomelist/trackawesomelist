@@ -2,7 +2,7 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 255K · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md) · ⭐ 260K · 🏷️ Books
 
 [ [Daily](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/README.md) / [Weekly](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md) / Overview ]
 
@@ -247,6 +247,7 @@
 *   [Clean Code Lessons by Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM\&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu) - Robert C. Martin
 *   [CodeNewbie](https://www.codenewbie.org/podcast) - CodeNewbie Team (podcast)
 *   [CodePen Radio](https://blog.codepen.io/radio/) - CodePen Team (podcast)
+*   [Coder Radio](https://coder.show) - Chris Fisher, Michael Dominick, Wes Payne (podcast)
 *   [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
 *   [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Saron Yitbarek, Red Hat (podcast)
 *   [CTRL+CLICK CAST](https://ctrlclickcast.com) - Lea Alcantara, Emily Lewis, Bright Umbrella (podcast)
@@ -269,6 +270,7 @@
 *   [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
 *   [Ladybug Podcast](https://www.ladybug.dev) - Kelly Vaughn, Ali Spittel, Emma Bostian, Sidney Buckner (podcast)
 *   [Learn to Code with Me](https://learntocodewith.me/podcast/) - Laurence Bradford (podcast)
+*   [Lex Fridman Podcast](https://lexfridman.com/podcast) - Lex Fridman (podcast)
 *   [Loosely Coupled](https://looselycoupled.info) - Jeff Carouth, Matt Frost (podcast)
 *   [Merge Conflict](https://www.mergeconflict.fm) - Frank Krueger, James Montemagno (podcast)
 *   [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
@@ -387,4 +389,5 @@
 ### Swift
 
 *   [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
+*   [Swift Unwrapped](https://swiftunwrapped.github.io) - Jesse Squires, JP Simard (podcast)
 
