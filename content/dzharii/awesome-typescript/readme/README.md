@@ -194,7 +194,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [typescript-is (⭐904)](https://github.com/woutervh-/typescript-is) - TypeScript transformer that generates run-time type-checks.
 *   [type-plus (⭐193)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 *   [Agent Framework (⭐109)](https://github.com/agentframework/agentframework) Create interceptor for your class and method using decorators
-*   [typescript-json (⭐2.1k)](https://github.com/samchon/typescript-json) - Super-fast runtime type checkers (validators) and 5x faster `JSON.stringify()` function, with only line. For reference, only `typscript-json` can validate complicate union type.
 *   [SunTori (⭐3)](https://github.com/LancerComet/SunTori) - A JSON de/serializer to ensure everything is safe at runtime.
 
 ## Validation
@@ -208,6 +207,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [computed-types (⭐338)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 *   [json-schema-to-ts (⭐960)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 *   [Yunomix (⭐3)](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
+*   [typia (⭐2.1k)](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
 
 ## Built with TypeScript
 
@@ -256,14 +256,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :stars: [Crisp React (⭐157)](https://github.com/winwiz1/crisp-react) Boilerplate with React client and Express backend. Offers performance and extended functionality. Helps to avoid frequent React-Express pitfalls.
 *   :book: [React by Example](https://reactbyexample.github.io/) Code-oriented React tutorial for programmers
 *   :octocat: [Materio Free MUI React NextJS Typescript Admin Template (⭐586)](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Most Powerful & Comprehensive Free MUI React NextJS Admin Dashboard Template built for developers. Made With Typecript & JavaScript.
-*   :octocat: [Flowbite React (⭐593)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
+*   :octocat: [Flowbite React (⭐635)](https://github.com/themesberg/flowbite-react) - Open-source component library based on React, TypeScript, and Tailwind CSS
 
 ### Back-end API
 
 *   :octocat: [design-first](https://adam-hanna.github.io/design-first-docs/) - A REST Api templating engine for Typescript
 *   :octocat: [Nest (⭐53k)](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript 🚀 (see also: <https://nestjs.com/>)
-    *   :octocat: [nestia (⭐457)](https://github.com/samchon/nestia) - Automatic SDK and Swagger generator for the `NestJS`, evoled than ever. It does not require any swagger or DTO class decorator, therefore using pure interface typed DTO is possible.
-    *   :octocat: [nestia-helper (⭐33)](https://github.com/samchon/nestia-helper) - Helper library of `NestJS`, which boosts up `JSON.stringify()` functions about 5x times faster, of the API responses. Also, converts `TypeGuardError` of [`TSON.assertType`](https://github.com/samchon/typescript-json#runtime-type-checkers) to 400 status error automatically, therefore you can easily validate client request with only one line.
+    *   :octocat: [nestia (⭐457)](https://github.com/samchon/nestia) - 15,000x faster validation decorators than `class-validator` and Swagger/SDK generators.
 *   :octocat: [LoopBack 4 (⭐4.4k)](https://github.com/strongloop/loopback-next) - A highly extensible Node.js and TypeScript framework for building APIs and microservices. :rocket: (see also: <https://loopback.io/>)
 *   :octocat: [FoalTS (⭐1.7k)](https://github.com/FoalTS/foal) - A simple, intuitive and complete framework for building enterprise-grade Node.JS applications :boom: :rocket: (see also: <https://foalts.org>)
 *   :octocat: [Enso](http://ensojs.netlify.com) - Typescript first Node.JS framework inspired by Domain Driven Design principles with a focus on composition and Developer Experience

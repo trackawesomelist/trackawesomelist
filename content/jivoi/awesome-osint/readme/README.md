@@ -34,7 +34,7 @@ In the intelligence community (IC), the term "open" refers to overt, publicly av
     *   [Twitter](#-twitter)
     *   [Facebook](#-facebook)
     *   [Instagram](#-instagram)
-    *   [Pinterest](#-pinterest) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
+    *   [Pinterest](#-pinterest)
     *   [Reddit](#-reddit)
     *   [VKontakte](#-vkontakte)
     *   [Tumblr](#-tumblr)
@@ -124,6 +124,7 @@ Thanks to our main contributors
 *   [Aol](http://search.aol.com)
 *   [Ask](http://www.ask.com)
 *   [Bing](http://www.bing.com)
+*   [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
 *   [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
 *   [Gigablast](http://gigablast.com) - provides large-scale, high-performance, real-time information retrieval technology and services for partner sites.
 *   [Goodsearch](http://www.goodsearch.com) - a search engine for shopping deals online.
@@ -181,6 +182,7 @@ Thanks to our main contributors
 *   [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 *   [Biznar](http://biznar.com)
 *   [CiteSeerX](http://citeseer.ist.psu.edu)
+*   [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
 *   [Google Custom Search](http://www.google.com/cse)
 *   [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 *   [Internet Archive](https://archive.org/)
@@ -269,6 +271,7 @@ Thanks to our main contributors
 *   [AnalyzeID](https://analyzeid.com/) - Find Other Websites Owned By The Same Person
 *   [NerdyData](https://nerdydata.com) - Search engine for source code.
 *   [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
+*   [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 *   [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 *   [Reposearch](http://codefinder.org/)
 *   [PublicWWW](https://publicwww.com/)
@@ -282,7 +285,7 @@ Thanks to our main contributors
 *   [Linkedin](https://www.linkedin.com)
 *   [Mixi (Japan)](https://mixi.jp)
 *   [Odnoklassniki (Russia)](http://ok.ru)
-*   [Pinterest](http://www.pinterest.com)
+*   [Pinterest](http://www.pinterest.com) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
 *   [Qzone (China)](http://qzone.qq.com)
 *   [Reddit](https://www.reddit.com)
 *   [Taringa (Latin America)](http://www.taringa.net)
@@ -322,7 +325,7 @@ Thanks to our main contributors
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐356)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐362)](https://github.com/loseys/Oblivion)
 
 ## Social Media Tools
 
@@ -394,7 +397,7 @@ Thanks to our main contributors
 *   [Agora Pulse](http://barometer.agorapulse.com)
 *   [Commun.it](http://commun.it)
 *   [Fanpage Karma](http://www.fanpagekarma.com)
-*   [Facebook Friend List Scraper (⭐103)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+*   [Facebook Friend List Scraper (⭐121)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 *   [Facebook Search](http://search.fb.com/)
 *   [Facebook Search Tool](http://netbootcamp.org/facebook.html)
 *   [Fb-sleep-stats (⭐1.5k)](https://github.com/sqren/fb-sleep-stats)
@@ -408,12 +411,12 @@ Thanks to our main contributors
 
 *   [Hashtagify](http://hashtagify.me)
 *   [Iconosquare](http://iconosquare.com)
-*   [Osintgram (⭐5.3k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+*   [Osintgram (⭐5.8k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 *   [Picodash](https://www.picodash.com)
 *   [SnapMap](https://snapmap.knightlab.com/)
 *   [Social Rank](https://www.socialrank.com)
-*   [Sterra (⭐278)](https://github.com/novitae/sterraxcyl)
-*   [Toutatis (⭐803)](https://github.com/megadose/toutatis)
+*   [Sterra (⭐318)](https://github.com/novitae/sterraxcyl)
+*   [Toutatis (⭐985)](https://github.com/megadose/toutatis)
 
 ### [↑](#-Table-of-Contents) Pinterest
 
@@ -458,7 +461,7 @@ Thanks to our main contributors
 ### [↑](#-Table-of-Contents) Telegram
 
 *   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
-*   [Telegram Nearby Map (⭐429)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+*   [Telegram Nearby Map (⭐470)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 ## [↑](#-Table-of-Contents) Blog Search
 
@@ -489,12 +492,14 @@ Thanks to our main contributors
 *   [Name Chk](http://www.namechk.com)
 *   [Name Checkr](http://www.namecheckr.com)
 *   [Name Checkup](https://namecheckup.com) - is a search tool that allows you to check the avilability of a givrn username from all over the social media. Inaddition it also sllows you to check the avilability of a given domain name.
-*   [Sherlock (⭐37k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
-*   [Snoop (⭐1.6k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
+*   [Sherlock (⭐39k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Snoop (⭐1.7k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 *   [User Search](http://www.usersearch.org)
 *   [WhatsMyName](https://whatsmyname.app/)
 *   [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
-*   [Maigret (⭐7.1k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐7.9k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Blackbird (⭐1.4k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 
 ## [↑](#-Table-of-Contents) People Investigations
 
@@ -505,6 +510,7 @@ Thanks to our main contributors
 *   [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 *   [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 *   [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+*   [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 *   [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
 *   [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
 *   [Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc) - Search federal inmates incarcerated from 1982 to the present.
@@ -534,35 +540,37 @@ Thanks to our main contributors
 *   [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
 *   [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
 *   [Email Permutator](https://www.polished.app/email-permutator/)
-*   [h8mail (⭐2.8k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-*   [Holehe (⭐3.5k)](https://github.com/megadose/holehe)
+*   [h8mail (⭐3k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐3.8k)](https://github.com/megadose/holehe)
 *   [Have I Been Pwned](https://haveibeenpwned.com) - Search across multiple data breaches to see if your email address has been compromised.
 *   [Hunter](https://hunter.io) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+*   [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 *   [MailTester](http://mailtester.com)
+*   [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
 *   [Peepmail](http://www.samy.pl/peepmail)
 *   [Pipl](https://pipl.com)
 *   [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
-*   [ReverseGenie](http://www.reversegenie.com/email.php) - a website used to look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates.
 *   [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 *   [Toofr](https://www.toofr.com)
 *   [Verify Email](http://verify-email.org)
 *   [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
-*   [Ghunt (⭐12k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+*   [Ghunt (⭐13k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [↑](#-Table-of-Contents) Phone Number Research
 
+*   [EmobileTracker.com](https://www.emobiletracker.com/)
+*   [FreeCarrierLookup](https://freecarrierlookup.com/)
+*   [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
+*   [PhoneInfoga (⭐8.8k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+*   [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
 *   [Reverse Phone Lookup](http://www.reversephonelookup.com/) - Detailed information about phone carrier, region, service provider, and switch information.
 *   [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
-*   [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
-*   [Phone Validator](https://www.phonevalidator.com/index.aspx) - Pretty accurate phone lookup service, particularly good against Google Voice numbers.
-*   [PhoneInfoga (⭐7.7k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
-*   [FreeCarrierLookup](https://freecarrierlookup.com/)
 *   [Sync.ME](https://sync.me/)
-*   [EmobileTracker.com](https://www.emobiletracker.com/)
+*   [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.
 
 ## [↑](#-Table-of-Contents) Expert Search
 
-*   [Academia](http://academia.edu)
+*   [Academia](http://academia.edu) - is a platform for sharing academic research.
 *   [CanLaw](http://www.canlaw.com)
 *   [ExpertiseFinder](http://www.expertisefinder.com)
 *   [ExpertPages](http://expertpages.com)
@@ -776,7 +784,7 @@ Thanks to our main contributors
 *   [stored.website](https://stored.website)
 *   [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 *   [Wayback Machine Archiver (⭐2.5k)](https://github.com/jsvine/waybackpack)
-*   [waybackpy (⭐227)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+*   [waybackpy (⭐262)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ## [↑](#-Table-of-Contents) Language Tools
 
@@ -784,7 +792,7 @@ Thanks to our main contributors
 *   [Apertium](https://www.apertium.org)
 *   [Babelfish](https://www.babelfish.com)
 *   [Bablic](https://www.bablic.com)
-*   [Bing Translator](http://www.bing.com/translator)
+*   [Bing Translator](http://www.bing.com/translator) - is a user facing translation portal provided by Microsoft as part of its Bing services to translate texts or entire web pages into different languages.
 *   [Dict.cn](http://dict.cn)
 *   [Dictionary.com: Translation](http://translate.reference.com)
 *   [Free Translator](http://www.free-translator.com)
@@ -818,6 +826,7 @@ Thanks to our main contributors
 *   [WorldReference.com](http://www.wordreference.com)
 *   [Yamli (Arabic Search Engine)](http://www.yamli.com)
 *   [Yandex Translate](https://translate.yandex.ru)
+*   [Lesan](https://lesan.ai)
 
 ## [↑](#-Table-of-Contents) Image Search
 
@@ -825,6 +834,7 @@ Thanks to our main contributors
 *   [Baidu Images](http://image.baidu.com)
 *   [Bing Images](http://www.bing.com/images)
 *   [Clarify](http://clarify.io)
+*   [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 *   [Flickr](https://secure.flickr.com)
 *   [GoodSearch Image Search](http://www.goodsearch.com/search-image)
 *   [Google Image](https://images.google.com)
@@ -835,7 +845,6 @@ Thanks to our main contributors
 *   [Lycos Image Search](http://search.lycos.com)
 *   [MyPicsMap](http://www.mypicsmap.com)
 *   [PhotoBucket](http://photobucket.com)
-*   [Picsearch](http://www.picsearch.com)
 *   [PicTriev](http://www.pictriev.com)
 *   [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 *   [TinEye](https://tineye.com) - Reverse image search engine.
@@ -848,7 +857,7 @@ Thanks to our main contributors
 
 ## [↑](#-Table-of-Contents) Image Analysis
 
-*   [ExifLooter (⭐288)](https://github.com/aydinnyunus/exiflooter)
+*   [ExifLooter (⭐303)](https://github.com/aydinnyunus/exiflooter)
 *   [ExifTool](http://www.sno.phy.queensu.ca/\~phil/exiftool)
 *   [Exif Search](http://www.exif-search.com)
 *   [FotoForensics](http://www.fotoforensics.com)
@@ -908,7 +917,7 @@ Thanks to our main contributors
 *   [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐167)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐181)](https://github.com/yaochih/awesome-video-stabilization)
 *   [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
 
 ## [↑](#-Table-of-Contents) Radio and Podcasts Tools
@@ -917,14 +926,14 @@ Thanks to our main contributors
 *   [Listelive](http://www.listenlive.eu)
 *   [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
 *   [Podcast Chart](http://www.podcastchart.com)
-*   [Podgrab (⭐869)](https://github.com/akhilrex/podgrab)
+*   [Podgrab (⭐944)](https://github.com/akhilrex/podgrab)
 *   [Podkicker](https://play.google.com/store/apps/details?id=ait.podka\&hl=en)
 
 ## [↑](#-Table-of-Contents) Academic Resources and Grey Literature
 
 *   [Academia](https://www.academia.edu)
 *   [Academic Journals](http://www.academicjournals.org)
-*   [African Journal Online](http://www.ajol.info)
+*   [African Journal Online](http://www.ajol.info) -  is the world's largest and preeminent platform of African-published scholarly journals
 *   [American Society of Civil Engineers](http://ascelibrary.org)
 *   [Base](http://www.base-search.net)
 *   [Bibsonomy](http://www.bibsonomy.org)
@@ -947,6 +956,7 @@ Thanks to our main contributors
 *   [Microsoft Academic](http://academic.research.microsoft.com)
 *   [NRC Research Press](http://www.nrcresearchpress.com)
 *   [Open Access Scientific Journals](http://www.pagepress.org)
+*   [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (\~ 40 million)
 *   [Open Grey](http://www.opengrey.eu)
 *   [The Open Syllabus Project](http://opensyllabusproject.org/)
 *   [Oxford Journals](http://www.oxfordjournals.org)
@@ -1364,11 +1374,11 @@ Thanks to our main contributors
 ## [↑](#-Table-of-Contents) Offline Browsing
 
 *   [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
-*   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy)
-*   [gmapcatcher (⭐185)](https://github.com/heldersepu/gmapcatcher)
+*   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
+*   [gmapcatcher (⭐190)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
-*   [Offliberty](http://offliberty.com)
+*   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
 *   [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html)
 *   [WebAssistant](http://www.proxy-offline-browser.com/download.html)
@@ -1537,7 +1547,7 @@ Thanks to our main contributors
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.2k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.3k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [D3js](https://d3js.org) - is a powerful data visualization javascript library.
 *   [Datawrapper](https://datawrapper.de)
@@ -1724,7 +1734,7 @@ Thanks to our main contributors
 
 *   [I2OCR](http://www.i2ocr.com)
 *   [Free Online OCR](https://www.newocr.com)
-*   [OCRmyPDF (⭐7.5k)](https://github.com/jbarlow83/OCRmyPDF/)
+*   [OCRmyPDF (⭐8k)](https://github.com/jbarlow83/OCRmyPDF/)
 *   [Online OCR](http://www.onlineocr.net)
 
 ## [↑](#-Table-of-Contents) Cloud Storage and File Sharing
@@ -1892,7 +1902,7 @@ Thanks to our main contributors
 *   [Team Pad](https://www.team-pad.com)
 *   [TeamWork](https://www.teamwork.com)
 *   [TeamWorklive](http://www.teamworklive.com)
-*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐13)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
+*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐15)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
 *   [Transparent Business](http://transparentbusiness.com)
 *   [Trello](https://trello.com)
 *   [Tuzzit](https://www.tuzzit.com)
@@ -2108,7 +2118,7 @@ Thanks to our main contributors
 *   [Tails](https://tails.boum.org)
 *   [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
 *   [Tor Project](https://www.torproject.org)
-*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐34k)](https://github.com/gorhill/uBlock)
 *   [Wickr](https://wickr.com)
 *   [WOT](https://www.mywot.com)
 *   [ZMail](http://zmail.sourceforge.net)
@@ -2125,45 +2135,48 @@ Thanks to our main contributors
 ## [↑](#-Table-of-Contents) Other Tools
 
 *   [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
-*   [Belati (⭐474)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
-*   [BeVigil-CLI (⭐53)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [Belati (⭐482)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [BeVigil-CLI (⭐60)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 *   [CantHide](https://canthide.me) - CantHide finds previous locations by looking at a given social media account.
-*   [CrowdSec (⭐5.7k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐5.9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 *   [Datasploit (⭐2.7k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
-*   [DuckDuckGo URL scraper (⭐11)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐13)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [Glit (⭐1)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.
     *   [pygreynoise (⭐134)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
-*   [The Harvester (⭐7.5k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐7.9k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 *   [Intrigue Core (⭐1.2k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
-    *   [LinkScope Client (⭐100)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
+    *   [LinkScope Client (⭐109)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 *   [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 *   [Hunchly](https://www.hunch.ly/) - Hunchly is a web capture tool designed specifically for online investigations.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
-*   [Orbit (⭐424)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐435)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐522)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐537)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 *   [eScraper](https://escraper.emagicone.com/) - Grab product descriptions, prices, image
     urls and other data effortlessly
-*   [Photon (⭐9.1k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-*   [Pown Recon (⭐411)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [Photon (⭐9.3k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+*   [Pown Recon (⭐412)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
-*   [sn0int (⭐1.3k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 *   [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
-    *   [SpiderFoot (⭐8.6k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
-*   [Zen (⭐430)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+    *   [SpiderFoot (⭐9k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
+*   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
+*   [SerpScan (⭐47)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
+*   [Zen (⭐468)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.1k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
-*   [Sub3 Suite (⭐305)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [FOCA (⭐2.2k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [Sub3 Suite (⭐319)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [↑](#-Table-of-Contents) Threat Intelligence
 
 *   [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 *   [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 *   [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
-*   [OnionScan (⭐2.4k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+*   [OnionScan (⭐2.5k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
 ## [↑](#-Table-of-Contents) OSINT Videos
 

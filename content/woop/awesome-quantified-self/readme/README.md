@@ -2,7 +2,7 @@
 
 :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 1.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 1.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / [Weekly](/content/woop/awesome-quantified-self/week/README.md) / Overview ]
 
@@ -52,6 +52,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
 *   [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 *   [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
+*   [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
 
 ## Books
 
@@ -91,6 +92,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web, iOS, & Android).
 *   [Exist](https://exist.io/) - Track everything in one place (web, iOS & Android).
 *   [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
+*   [Vital](https://tryvital.io/) - Plaid like widget that joins together all your fitness data, wearables data and at home lab tests.
 *   [Validic](https://validic.com/) - Cloud-based platform that connects patient-recorded data from digital health applications, devices, and wearables.
 *   [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 *   [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
@@ -225,6 +227,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 *   [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 *   [Actual](https://actualbudget.com/) - Personal home budget software.
 *   [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
+*   [Firefly III (⭐9.5k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## Devices and Wearables
 
@@ -266,13 +269,13 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 ## Open Source Projects
 
 *   [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-*   [Heedy (⭐355)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐357)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 *   [Quantifier (⭐39)](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
 *   [Fluxtream (⭐143)](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
 *   [Flow Dashboard (⭐1.6k)](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 *   [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
-*   [QS Ledger (⭐822)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
-*   [Awesome Biomarkers (⭐226)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [QS Ledger (⭐833)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [Awesome Biomarkers (⭐230)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 *   [health-records (⭐14)](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 ## License

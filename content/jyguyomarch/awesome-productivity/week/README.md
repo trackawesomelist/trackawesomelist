@@ -2,9 +2,15 @@
 
 A curated list of delightful productivity resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jyguyomarch/awesome-productivity/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) · ⭐ 1.7K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jyguyomarch/awesome-productivity/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity) · ⭐ 1.8K · 🏷️ Work
 
 [ [Daily](/content/jyguyomarch/awesome-productivity/README.md) / Weekly / [Overview](/content/jyguyomarch/awesome-productivity/readme/README.md) ]
+
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### Tools and Apps / Task Management
+
+*   [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -139,7 +145,7 @@ A curated list of delightful productivity resources.
 *   [Tinido](https://tinido.com/) - A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
 *   [Todo.txt](http://todotxt.com/) - Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
 *   [Todoist](https://todoist.com/) - Powerful and cross-platform productivity tool.
-*   [Topydo (⭐638)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
+*   [Topydo (⭐643)](https://github.com/topydo/topydo) - A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
 *   [Trello](https://trello.com) - Kanban method task board.
 *   [VivifyScrum](https://www.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
@@ -150,7 +156,7 @@ A curated list of delightful productivity resources.
 
 ### Tools and Apps / Task Automation
 
-*   [Awesome AutoHotKey (⭐2.1k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
+*   [Awesome AutoHotKey (⭐2.2k)](https://github.com/ahkscript/awesome-AutoHotkey) - AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 *   [IFTTT](https://ifttt.com) - Allows you to create chains of conditional statements (called *recipes*) between web services in order to make the web work for you and boost your productivity.
 *   [Tasker](http://tasker.dinglisch.net/) - Android application that can perform context sensitive custom tasks (*e.g.* automatically turn on wifi when you arrive home).
 *   [Zapier](https://zapier.com/) - Automation tool that allows you to connect hundreds of web services and create automations between the processes.
@@ -198,13 +204,13 @@ A curated list of delightful productivity resources.
 
 ### Tools and Apps / Task Management
 
-*   [Pomolectron (⭐566)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
+*   [Pomolectron (⭐568)](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app for your menubar/tray.
 
 ## [Nov 13 - Nov 19, 2017](/content/2017/46/README.md)
 
 ### Tools and Apps / Habit Trackers
 
-*   [Loop Habit Tracker (⭐5.7k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
+*   [Loop Habit Tracker (⭐5.8k)](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 
 ## [Nov 06 - Nov 12, 2017](/content/2017/45/README.md)
 

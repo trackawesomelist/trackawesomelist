@@ -4,6 +4,12 @@
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / Weekly / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### Remote / WebAssembly
+
+*   [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Artificial Intelligence (AI)

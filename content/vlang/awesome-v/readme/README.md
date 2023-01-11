@@ -247,6 +247,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [cjson (⭐10)](https://github.com/lydiandy/cjson) - Wrap cJSON for vlang.
 *   [crayon (⭐45)](https://github.com/thecodrr/crayon) - Paint your terminal output like Picasso. 🖍️🎨
 *   [iconv (⭐3)](https://github.com/fanlia/iconv) - Wrap iconv for vlang.
+*   [pcre2 (⭐1)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 *   [Rosie-RPL (⭐3)](https://github.com/jdonnerstag/vlang-rosie) - A Rosie Pattern Language (RPL) implementation.
 *   [strfmt (⭐4)](https://github.com/BenStigsen/strfmt) - Tiny and fast string formatting library ideal for templating.
 *   [v-regex (⭐14)](https://github.com/spytheman/v-regex) - A simple regex library for V.
@@ -257,7 +258,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [mui (⭐40)](https://github.com/malisipi/mui) - A Cross-Platform UI library for Windows, Linux, Android and Web.
 *   [vgtk3 (⭐50)](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
-*   [vig (⭐39)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐44k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐39)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐38)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 *   [V UI (⭐1.9k)](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 

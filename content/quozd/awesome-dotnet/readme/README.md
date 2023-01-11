@@ -16,7 +16,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by [awesome-ruby (⭐13k)](https://github.com/markets/awesome-ruby), [awesome-php (⭐28k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐151k)](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks (⭐36k)](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks (⭐2.1k)](https://github.com/dreikanter/ruby-bookmarks).
+Inspired by [awesome-ruby (⭐13k)](https://github.com/markets/awesome-ruby), [awesome-php (⭐28k)](https://github.com/ziadoz/awesome-php), [awesome-python (⭐153k)](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks (⭐37k)](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks (⭐2.1k)](https://github.com/dreikanter/ruby-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard (⭐16k)](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
 
@@ -287,6 +287,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Cashew (⭐78)](https://github.com/joakimskoog/Cashew) - a .NET library for caching responses easily with an `HttpClient` through an API that is simple and elegant yet powerful.
 *   [Cache Tower (⭐401)](https://github.com/TurnerSoftware/CacheTower) - An efficient multi-layered caching system for .NET (In-Memory, Redis, Database, File etc)
 *   [FusionCache (⭐389)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - An easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features, like a fail-safe mechanism and advanced timeouts management
+*   [LazyCache (⭐1.5k)](https://github.com/alastairtree/LazyCache) - A simple, developer friendly, in-memory thread-safe caching service. It leverages Microsoft.Extensions.Caching and Lazy to provide performance and reliability in heavy load scenarios.
 
 ## Calendar
 
@@ -1169,6 +1170,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [NUnit (⭐2.3k)](https://github.com/nunit/nunit) - A unit-testing framework for all .NET languages
 *   [Rhino Mocks (⭐253)](https://github.com/ayende/rhino-mocks) - Dynamic Mocking Framework for .NET
 *   [Testcontainers (⭐2.4k)](https://github.com/testcontainers/testcontainers-dotnet) - A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
+*   [SecTester (⭐0)](https://github.com/NeuraLegion/sectester-net) - SecTester is a new tool that integrates [Bright](https://brightsec.com/) enterprise-grade scan engine directly into your integration or e2e tests. **\[Proprietary]** **\[Free]**
 *   [Shouldly (⭐1.8k)](https://github.com/shouldly/shouldly) - Shouldly is an assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.
 *   [Snapshooter (⭐209)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 *   [SpecFlow (⭐2k)](https://github.com/SpecFlowOSS/SpecFlow) - Binding business requirements to .Net code
@@ -1306,7 +1308,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [awesome-ddd (⭐9.5k)](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 *   [Awesome Unity (⭐5.5k)](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
 *   [Awesome Xamarin (⭐1.8k)](https://github.com/XamSome/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
-*   [Awesome Roslyn (⭐532)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
+*   [Awesome Roslyn (⭐538)](https://github.com/ironcev/awesome-roslyn) - A curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings.
 *   [.NET Open Source Developer Projects (⭐13k)](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 *   [Awesome Microservices .NET Core (⭐2.1k)](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 *   [dotnet-console-games (⭐427)](https://github.com/ZacharyPatten/dotnet-console-games) - Game examples implemented in .NET console applications.

@@ -6,6 +6,44 @@ A collection of awesome Qubes OS links
 
 [ Daily / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
 
+## [Jan 11, 2023](/content/2023/01/11/README.md)
+
+### Kernels
+
+*   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel
+
+### Training and Materials / Web articles
+
+*   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS
+*   [TGubes-diagrams (⭐13)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams
+*   [Tubes-artwork (⭐8)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS
+*   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
+
+## [Jan 10, 2023](/content/2023/01/10/README.md)
+
+### Qubes OS Websites
+
+*   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
+
+### Xen Exploitation / Video Presentations
+
+*   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo)
+
+### Xen Exploitation / PDF Papers
+
+*   [Bluepilling the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part3.pdf)
+*   [Hypervisor Vulnerability Research - State of the Art \[PDF\]](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
+*   [Preventing and Detecting Xen Hypervisor Subversions \[PDF\]](https://invisiblethingslab.com/resources/bh08/part2.pdf)
+*   [Subverting the Xen Hypervisor \[PDF\]](https://invisiblethingslab.com/resources/bh08/part1.pdf)
+
+### Social media / Web articles
+
+*   [Reddit Qubes OS](https://www.reddit.com/r/Qubes/)
+*   [Reddit hacking\_qubes\_os](https://www.reddit.com/r/hacking_qubes_os)
+*   [Reddit hack\_with\_qubes\_os](https://www.reddit.com/r/hack_with_qubes_os)
+*   `#xen`      channel on irc.oftc.net via traditional IRC clients.
+*   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
+
 ## [Jan 09, 2023](/content/2023/01/09/README.md)
 
 ### Qubes OS Websites
@@ -13,7 +51,6 @@ A collection of awesome Qubes OS links
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
 *   [Qubes OS Github Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest documentation.
-*   [Qubes OS Onion](https://github.com/xn0px90/Awesome-Qubes-OS/blob/main/README.md/www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ### Downloading, Installing, Upgrading, and Building
 
@@ -53,7 +90,6 @@ A collection of awesome Qubes OS links
 ### Videos
 
 *   [GPU Virtual Machine (GVM) - An OpenMdev Project (Qubes OS Summit 2022)](https://www.youtube.com/watch?v=YllX-ud70Nk)
-*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Qubes OS summit 2022: Day 1](https://www.youtube.com/watch?v=hkWWz3xGqS8)
 *   [Qubes OS summit 2022: Day 2](https://www.youtube.com/watch?v=A9GrlQsQc7Q)
 *   [Qubes OS-3mdeb mini-summit 2021: Day 1](https://www.youtube.com/watch?v=y3V_V0Vllas)
@@ -80,11 +116,13 @@ A collection of awesome Qubes OS links
 
 ### Exploitation Tools
 
-*   [Awesome-Fuzzing (⭐611)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [Awesome-Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
 *   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 *   [Memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+    *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
+    *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
     *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
     *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
@@ -92,26 +130,26 @@ A collection of awesome Qubes OS links
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
 *   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
 
-### Xen Exploitation
+### Xen Exploitation / Video Presentations
 
 *   [Advanced Exploitation: Xen Hypervisor VM Escape](https://www.youtube.com/watch?v=6Ld5CiInrcI)
-*   [Subverting the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part1.pdf)
-*   [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
+*   [XenPwn: Breaking Paravirtualized Devices](https://www.youtube.com/watch?v=qxz8MzE3QME) - [\[PDF Slide\]](https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf)
 
-### VM-Hardening
+### VM-Hardening / Web articles
 
 *   [Qcrypt (⭐12)](https://github.com/3hhh/qcrypt)
 
-### Qubes OS Legends
+### Qubes OS Legends / Web articles
 
+*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories)
     *   [templates](https://qubes.3isec.org/Templates_4.1/)
+    *   [Core Team](https://www.qubes-os.org/team/#core-team)
 *   You can be one too! You've got this! Keep Qubing!
 
-### Social media
+### Social media / Web articles
 
 *   [Mastodon](https://mastodon.social/@QubesOS)
-*   `#qubes` channel on libera.chat via traditional IRC clients.
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
 ## [Jan 08, 2023](/content/2023/01/08/README.md)
@@ -154,22 +192,21 @@ A collection of awesome Qubes OS links
 
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 
-### Xen Exploitation
+### Xen Exploitation / Video Presentations
 
-*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
-*   [Blackhat 2010 - Hacking the Hypervisor](https://www.youtube.com/watch?v=sTC9x5hYYFo\&t=3s)
-*   [Bluepilling the Xen Hypervisor](https://invisiblethingslab.com/resources/bh08/part3.pdf)
-*   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
-*   [Hypervisor Vulnerability Research - State of the Art](https://alisa.sh/slides/HypervisorVulnerabilityResearch2020.pdf)
-*   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
+*   [Attacking Hypervisors Using Firmware And Hardware](https://www.youtube.com/watch?v=nyW3eTobXAI) - [\[PDF Slides\]](http://c7zero.info/stuff/AttackingHypervisorsViaFirmware_bhusa15_dc23.pdf)
+*   [Lessons Learned from Eight Years of Breaking Hypervisors](https://www.youtube.com/watch?v=PJWJjb0uxXE) - [\[Website Slides\]](https://www.blackhat.com/docs/eu-14/materials/eu-14-Wojtczuk-Lessons-Learned-From-Eight-Years-Of-Breaking-Hypervisors.pdf)
 *   [Ouroboros: Tearing Xen Hypervisor With the Snake](https://www.youtube.com/watch?v=kt3kX94kWcM)
-*   [Preventing and Detecting Xen Hypervisor Subversions](https://invisiblethingslab.com/resources/bh08/part2.pdf)
-*   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
-*   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+*   [Software Attacks on Hypervisor Emulation of Hardware](https://www.youtube.com/watch?v=c4DnlP88D2Y) - [\[PDF Slides\]](https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf)
+*   [The Arms Race Over Virtualization](https://www.youtube.com/watch?v=nWvg7NKwOjg) - [\[PDF Slides\]](https://www.blackhat.com/docs/us-16/materials/us-16-Luan-Ouroboros-Tearing-Xen-Hypervisor-With-The-Snake.pdf)
+
+### Xen Exploitation / Web articles
+
+*   [Glitches in the Matrix – Escape via NMI](https://www.cpl0.com/blog/?p=46)
 *   [Xen exploitation part 1: XSA-105, from nobody to root](https://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html)
 *   [Xen exploitation part 2: XSA-148, from guest to host](https://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html)
 
-### Companies using Qubes OS
+### Companies using Qubes OS / Web articles
 
 *   [Qubes Partners](https://www.qubes-os.org/partners/) - The Qubes Project relies greatly on the generous support of the organizations, companies, and individuals who have become Qubes Partners.
 
@@ -189,7 +226,7 @@ A collection of awesome Qubes OS links
     *   [MemProcFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 *   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
-### Releases
+### Releases / Web articles
 
 *   [Release notes](https://www.qubes-os.org/doc/releases/notes/)
 *   [Release schedules](https://www.qubes-os.org/doc/releases/schedules/)
@@ -277,7 +314,7 @@ A collection of awesome Qubes OS links
 *   [Whonix for Privacy & Anonymity (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
 *   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
-### System
+### System / Web articles
 
 *   [Architecture](https://www.qubes-os.org/doc/architecture/)
 *   [Audio virtualization](https://www.qubes-os.org/doc/audio-virtualization/)
@@ -291,7 +328,7 @@ A collection of awesome Qubes OS links
 *   [Template implementation](https://www.qubes-os.org/doc/template-implementation/)
 *   [Template manager](https://www.qubes-os.org/doc/template-manager/)
 
-### Services
+### Services / Web articles
 
 *   [Admin API](https://www.qubes-os.org/doc/admin-api/)
 *   [Dom0 secure updates](https://www.qubes-os.org/doc/dom0-secure-updates/)
@@ -301,7 +338,7 @@ A collection of awesome Qubes OS links
 *   [Qrexec: socket-based services](https://www.qubes-os.org/doc/qrexec-socket-services/)
 *   [Qubes memory manager (qmemman)](https://www.qubes-os.org/doc/qmemman/)
 
-### Advanced Topics
+### Advanced Topics / Web articles
 
 *   [Config files](https://www.qubes-os.org/doc/config-files/)
 *   [Disposable customization](https://www.qubes-os.org/doc/disposable-customization/)
@@ -320,22 +357,22 @@ A collection of awesome Qubes OS links
 *   [Volume backup and revert](https://www.qubes-os.org/doc/volume-backup-revert/)
 *   [Windows qubes](https://www.qubes-os.org/doc/windows/)
 
-### Qubes OS Legends
+### Qubes OS Legends / Web articles
 
-*   [Core Team](https://www.qubes-os.org/team/#core-team)
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
+    \-[Blog](https://blog.invisiblethings.org/) - Personal Blog
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 
-### Training
+### Training and Materials / Web articles
 
 *   [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
-### Streamers
+### Streamers / Web articles
 
 *   [infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers.
 *   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
 
-### Social media
+### Social media / Web articles
 
 *   [ClubHouse](https://www.clubhouse.com/house/qubes-os)
 
@@ -345,14 +382,14 @@ A collection of awesome Qubes OS links
 
 *   [Whonix](https://www.whonix.org/wiki/Qubes) - Qubes-Whonix ™ is the seamless combination of Qubes OS and Whonix™ for advanced security and anonymity.
 
-### VM-Hardening
+### VM-Hardening / Web articles
 
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
 *   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
 
 ## [Dec 28, 2022](/content/2022/12/28/README.md)
 
-### Social media
+### Social media / Web articles
 
 *   [Matrix Discord Bridge](https://matrix.to/#/#qubes-os-discord-bridge-v2:matrix.org)
 
@@ -370,7 +407,7 @@ A collection of awesome Qubes OS links
 
 ## [Sep 01, 2021](/content/2021/09/01/README.md)
 
-### Social media
+### Social media / Web articles
 
 *   [Forum](https://forum.qubes-os.org/)
 
@@ -392,11 +429,10 @@ A collection of awesome Qubes OS links
 *   [Explaining Computers presents “Qubes OS: Security Oriented Operating System”](https://www.youtube.com/watch?v=hWDvS_Mp6gc)
 *   [Micah Lee presents “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”](https://livestream.com/accounts/9197973/events/8286152/videos/178431606)
 
-### Social media
+### Social media / Web articles
 
 *   [Discord](https://discord.gg/YMUbTt7ZRG)
 *   [Facebook](https://www.facebook.com/QubesOS/)
 *   [LinkedIn](https://www.linkedin.com/company/qubes-os/)
 *   [Matrix:Qubes OS](https://matrix.to/#/#cybersec-qubes_os:matrix.org)
-*   [Reddit](https://www.reddit.com/r/Qubes/)
 *   [Twitter](https://twitter.com/QubesOS)

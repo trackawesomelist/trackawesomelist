@@ -6,6 +6,16 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Jan 10, 2023](/content/2023/01/10/README.md)
+
+### GUI
+
+*   [MyGUI (⭐631)](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. \[MIT]
+
+### Serialization
+
+*   [zpp\_bits (⭐378)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
+
 ## [Jan 02, 2023](/content/2023/01/02/README.md)
 
 ### Videos
@@ -3597,7 +3607,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### GUI
 
-*   [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. \[MIT]
 *   [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. \[GPLv3]
 
 ### Graphics

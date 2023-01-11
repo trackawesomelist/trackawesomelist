@@ -8,9 +8,17 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
+### Knowledge Management
+
+*   [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA.
+
 ### System 1 & System 2 / Neural-Symbolic AI
 
 *   [Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework](https://link.springer.com/article/10.1007/s10994-022-06142-7) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10321228117236432485\&hl=en\&as_sdt=0,5)]. A neuro-symbolic framework that integrates meta-policy learning in inductive logic programming.
+
+### Metascience / Literature Mining
+
+*   [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679\&hl=en\&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 

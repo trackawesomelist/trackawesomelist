@@ -2,9 +2,23 @@
 
 :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 1.7K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/woop/awesome-quantified-self/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) · ⭐ 1.8K · 🏷️ Miscellaneous
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / Weekly / [Overview](/content/woop/awesome-quantified-self/readme/README.md) ]
+
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### Articles & Blogs
+
+*   [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
+
+### Applications and Platforms / Aggregators & Dashboards
+
+*   [Vital](https://tryvital.io/) - Plaid like widget that joins together all your fitness data, wearables data and at home lab tests.
+
+### Applications and Platforms / Wealth
+
+*   [Firefly III (⭐9.5k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -114,7 +128,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Awesome Biomarkers (⭐226)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+*   [Awesome Biomarkers (⭐230)](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
@@ -133,7 +147,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Heedy (⭐355)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
+*   [Heedy (⭐357)](https://github.com/heedy/heedy) - A repository for all of your quantified-self data.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -167,7 +181,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [QS Ledger (⭐822)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
+*   [QS Ledger (⭐833)](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 
 ## [Jun 03 - Jun 09, 2019](/content/2019/22/README.md)
 

@@ -16,7 +16,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Crystal code and resources. Inspired by [awesome (⭐231k)](https://github.com/sindresorhus/awesome) and [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome Crystal code and resources. Inspired by [awesome (⭐234k)](https://github.com/sindresorhus/awesome) and [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects mostly stable and useful for the community.
 
 Search [Crystal Shards](https://crystalshards.xyz) or follow announcements [Crystal \[ANN\]](https://crystal-ann.com) for more.
@@ -302,14 +302,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 *   [CrSFML (⭐327)](https://github.com/oprypin/crsfml) - Bindings to [SFML](https://www.sfml-dev.org/) multimedia/game library
 *   [crystal-chipmunk (⭐39)](https://github.com/oprypin/crystal-chipmunk) - Bindings to [Chipmunk](http://chipmunk-physics.net/), a fast and lightweight 2D game physics library
-*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐44k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
+*   [crystal-imgui-sfml (⭐14)](https://github.com/oprypin/crystal-imgui-sfml) - Bindings to integrate [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) into an [SFML](https://www.sfml-dev.org/) project
 *   [entitas.cr (⭐35)](https://github.com/spoved/entitas.cr) - A Entity Component System Framework for Crystal
 *   [MyECS (⭐11)](https://github.com/konovod/myecs) - A Sparse Entity Component System Framework for Crystal
 *   [SDL-Crystal-Bindings (⭐0)](https://github.com/Hadeweka/SDL-Crystal-Bindings) - Direct (unsafe) bindings to [SDL2](https://www.libsdl.org/), intended for writing own game libraries
 
 ## GUI Development
 
-*   [crystal-imgui (⭐52)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐44k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
+*   [crystal-imgui (⭐52)](https://github.com/oprypin/crystal-imgui) - Bindings to [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui), an immediate-mode graphical UI library
 *   [GTK4.cr (⭐61)](https://github.com/hugopl/gtk4.cr) - Bindings for [GTK4](https://docs.gtk.org/gtk4/overview.html) with Crystalized API
 *   [Iu (⭐60)](https://github.com/grkek/iu) - UI framework based on the [Fusion/libui.cr (⭐176)](https://github.com/Fusion/libui.cr) library, with custom elements and modified bindings from [hedron-crystal/hedron (⭐83)](https://github.com/hedron-crystal/hedron)
 
@@ -592,11 +592,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 *   [Chicago Crystal Podcast](https://podcast.chicagocrystal.org)
 *   [Chicago Crystal YouTube](https://www.youtube.com/channel/UCI1RvHPG6S9mw4eRoJfH2kA)
+*   [Crystal Forum](https://forum.crystal-lang.org/)
 *   [Crystal weekly newsletters](http://crystalweekly.com/)
 *   [Gitter](https://gitter.im/crystal-lang/crystal)
 *   [Google Group](https://groups.google.com/forum/?fromgroups#!forum/crystal-lang)
 *   [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
-*   [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
 *   [Reddit](https://www.reddit.com/r/crystal_programming/)
 *   [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
@@ -635,7 +635,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 *   [Crystular](http://www.crystular.org) - Regular expression tester
 *   [DeBot (⭐36)](https://github.com/jhass/DeBot) - IRC bot written in Crystal
 *   [icr (⭐485)](https://github.com/crystal-community/icr) - Interactive console for Crystal (like IRB for Ruby)
-*   [Invidious (⭐9.1k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [Invidious (⭐9.2k)](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 *   [mpngin (⭐31)](https://github.com/thewalkingtoast/mpngin) - A URL shortener with simple stats
 *   [quicktype](https://quicktype.io/) - Generate models and serializers from JSON, JSON Schema, GraphQL, and TypeScript
 *   [shards.info](http://shards.info/) - Web service that lists all repositories on GitHub that have Crystal code in them. The sources are available on [GitHub (⭐35)](https://github.com/mamantoha/shards-info)

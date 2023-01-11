@@ -6,6 +6,12 @@ Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in 
 
 [ [Daily](/content/AdrienTorris/awesome-blazor/README.md) / Weekly / [Overview](/content/AdrienTorris/awesome-blazor/readme/README.md) ]
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### Videos / Others
+
+*   [ASP.NET Community Standup - Exploring new and experimental features in Blazor](https://www.youtube.com/watch?v=fQ1Bg-u_YLw\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-73%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 10, 2023 - It show what it's like to build a .NET 7 Blazor app using both new and currently experimental features. Featuring: Daniel Roth, Jon Galloway, Mackinnon Buck. [Community links](https://www.theurlist.com/aspnet-community-standup-2023-01).
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### ToDos

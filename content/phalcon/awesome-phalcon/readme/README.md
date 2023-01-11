@@ -2,7 +2,7 @@
 
 A curated list of awesome Phalcon libraries and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 603 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 602 · 🏷️ Back-End Development
 
 [ [Daily](/content/phalcon/awesome-phalcon/README.md) / [Weekly](/content/phalcon/awesome-phalcon/week/README.md) / Overview ]
 
@@ -13,11 +13,11 @@ A curated list of awesome Phalcon libraries and resources
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go (⭐90k)](https://github.com/avelino/awesome-go).
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go (⭐93k)](https://github.com/avelino/awesome-go).
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/phalcon/awesome-phalcon/blob/master/README.md/CONTRIBUTING.md) first. Thanks to all [contributors (⭐605)](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/phalcon/awesome-phalcon/blob/master/README.md/CONTRIBUTING.md) first. Thanks to all [contributors (⭐602)](https://github.com/phalcon/awesome-phalcon/graphs/contributors); you rock!
 
 Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awesome-phalcon maintainers!
 
@@ -63,27 +63,27 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Access control list.*
 
-*   [PhalconUserPlugin (⭐187)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
+*   [PhalconUserPlugin (⭐186)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 ## Application Skeleton
 
 *Various application skeletons.*
 
 *   [Album O'Rama (⭐84)](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
-*   [Base App (⭐64)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+*   [Base App (⭐63)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
 *   [INVO Application (⭐344)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
-*   [MVC (⭐801)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
-*   [Phalcon Composer (⭐34)](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
+*   [MVC (⭐804)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [Phalcon Composer (⭐35)](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
 *   [Vökuró (⭐368)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 *   [Webird (⭐101)](https://github.com/perchlabs/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack
-*   [NovaMOOC (⭐16)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
+*   [NovaMOOC (⭐19)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
 *   [Sakura Panel](https://github.com/yassinrais/sakura-panel) - A Phalcon Panel created to install plugins Without Editing the Panel Source Code (Auth, ACL, Lite Bootstrap Template, And more...).
 
 ## Authentication & OAuth
 
 *Libraries for implementing authentications schemes.*
 
-*   [Padlock (⭐21)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
+*   [Padlock (⭐22)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
 *   [phalcon-authmiddleware (⭐27)](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
 *   [Phalcon Auth (⭐6)](https://github.com/sinbadxiii/phalcon-auth) - Out-of-the-box authentication component based on guards and providers.
 
@@ -94,8 +94,8 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *   [giada-www (⭐14)](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 *   [KikCMS (⭐51)](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
 *   [Skopy Blog Engine (⭐9)](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
-*   [Yona CMS (⭐372)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
-*   [PhalconCMS (⭐150)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
+*   [Yona CMS (⭐369)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [PhalconCMS (⭐151)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 *   [Hummingbird CMS (⭐5)](https://github.com/mvanvu/hummingbird-cms) - A CMS based on Phalcon 4 with many powerful features
 
 ## Command Line
@@ -103,7 +103,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Command line applications & tools.*
 
 *   [phalcon-console (⭐9)](https://github.com/viebig/phalcon-console) - Sample bootstraping application for command line applications using the outstanding Phalcon Framework
-*   [phalcon-cron (⭐75)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
+*   [phalcon-cron (⭐76)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
 ## Config
 
@@ -146,9 +146,10 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *These libraries were placed here because none of the other categories seemed to fit*
 
-*   [Breadcrumbs (⭐41)](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
+*   [Breadcrumbs (⭐40)](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 *   [Feedback](https://quasipickle.github.io/feedback/) - Is intended to be used as a replacement for Phalcon's built-in Flash and Message functionality
-*   [Incubator (⭐737)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+*   [Incubator (⭐735)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+*   [Upgrade Adviser (⭐7)](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
 *   [yarak (⭐27)](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools
 *   [phalcon-data-table (⭐1)](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
 
@@ -179,14 +180,14 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 *Representational state transfer.*
 
 *   [phalcon-json-api-package (⭐36)](https://github.com/gte451f/phalcon-json-api-package) - A composer package designed to help you create a JSON:API in Phalcon
-*   [PhREST API (⭐30)](https://github.com/phrest/api) - Phalcon Framework REST API Package
-*   [REST API (⭐80)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [PhREST API (⭐29)](https://github.com/phrest/api) - Phalcon Framework REST API Package
+*   [REST API (⭐81)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ## Routing
 
 *Various routing libraries & extensions.*
 
-*   [Phalcon-autorouter (⭐29)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+*   [Phalcon-autorouter (⭐28)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 *   [Phalcon Routing for Yaml (⭐4)](https://github.com/ienaga/PhalconRouter) - Routing can be easily configured with yaml
 
 ## Searching
@@ -209,7 +210,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *Conferences, Chats, Forums, etc..*
 
-*   [Phanbook (⭐301)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+*   [Phanbook (⭐302)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 *   [Phosphorum (⭐361)](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 
 ## Templating
@@ -228,7 +229,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *   [packagecloud (⭐26)](https://github.com/phalcongelist/packagecloud) - Phalcon distribution hosted on PackageCloud
 *   [phalcon-docker-nginx (⭐25)](https://github.com/viebig/phalcon-docker-nginx) - Phalcon 3, PHP7, Docker sample starter application
-*   [phalcon-vm (⭐43)](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
+*   [phalcon-vm (⭐42)](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 *   [phalcon3-compose (⭐3)](https://github.com/linxlad/phalcon3-compose) - Docker Phalcon 3 development environment
 
 # Resources
@@ -270,7 +271,7 @@ Join us on [Discord](https://discord.com/invite/kRc2N2M) to chat with other awes
 
 *   [Built With](https://builtwith.phalcon.io/) - Gallery of applications, demos and projects built with Phalcon Framework
 *   [Phalcon Blog](https://blog.phalcon.io/) - Phalcon Blog
-*   [Phalconist (⭐29)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
+*   [Phalconist (⭐28)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
 ### Tutorials
 

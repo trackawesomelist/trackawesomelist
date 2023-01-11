@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jan 11, 2023](/content/2023/01/11/README.md)
+
+### Libraries / Text processing
+
+*   [pcre2 (⭐1)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
+
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
 ### Other / Editor plugins
@@ -431,5 +437,5 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Libraries / User Interface toolkits
 
-*   [vig (⭐39)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐44k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vig (⭐39)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐45k)](https://github.com/ocornut/imgui) GUI toolkit.
 *   [vnk (⭐38)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.

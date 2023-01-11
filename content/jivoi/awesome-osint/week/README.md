@@ -6,6 +6,52 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### General Search
+
+*   [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
+
+### Specialty Search Engines
+
+*   [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
+
+### Code Search
+
+*   [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
+
+### Username Check / Telegram
+
+*   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
+*   [Blackbird (⭐1.4k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
+
+### Image Search / Telegram
+
+*   [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
+
+### E-mail Search / E-mail Check / Telegram
+
+*   [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
+*   [mxtoolbox](https://mxtoolbox.com/) - Free online tools to investigate/troubleshoot email server issues.
+
+### Phone Number Research / Telegram
+
+*   [Reverse Phone Check](https://www.reversephonecheck.com) - Look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates. Powered by infotracer.com
+
+### Language Tools / Telegram
+
+*   [Lesan](https://lesan.ai)
+
+### Academic Resources and Grey Literature / Telegram
+
+*   [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (\~ 40 million)
+
+### Other Tools / Telegram
+
+*   [Glit (⭐1)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
+*   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
+*   [SerpScan (⭐47)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
+
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
 ### Social Media Tools / Twitter
@@ -50,7 +96,6 @@
 
 *   [Email Format](http://email-format.com) - is a website that allows you to find email address formats used by different companies.
 *   [EmailHippo](https://tools.verifyemailaddress.io) - is an email address verification platform that will check whether a given email address exist or not.
-*   [ReverseGenie](http://www.reversegenie.com/email.php) - a website used to look up names, addresses, phone numbers, or emails and anonymously discover information about yourself, family, friends, or old schoolmates.
 
 ### Job Search Resources / Telegram
 
@@ -128,7 +173,7 @@
 
 ### Image Analysis / Telegram
 
-*   [ExifLooter (⭐288)](https://github.com/aydinnyunus/exiflooter)
+*   [ExifLooter (⭐303)](https://github.com/aydinnyunus/exiflooter)
 
 ### Note-taking / Telegram
 
@@ -146,7 +191,7 @@
 
 ### Other Tools / Telegram
 
-*   [BeVigil-CLI (⭐53)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
+*   [BeVigil-CLI (⭐60)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
@@ -164,13 +209,13 @@
 
 ### Other Tools / Telegram
 
-*   [CrowdSec (⭐5.7k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐5.9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
 ### Username Check / Telegram
 
-*   [Maigret (⭐7.1k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
+*   [Maigret (⭐7.9k)](https://github.com/soxoj/maigret) - Collect a dossier on a person by username.
 
 ### Language Tools / Telegram
 
@@ -185,9 +230,9 @@
 ### Other Tools / Telegram
 
 *   [LinkScope](https://accentusoft.com/) - LinkScope is an open source intelligence (OSINT) graphical link analysis tool and automation platform for gathering and connecting information for investigative tasks.
-    *   [LinkScope Client (⭐100)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
+    *   [LinkScope Client (⭐109)](https://github.com/AccentuSoft/LinkScope_Client) - LinkScope Client Github repository.
 *   [SpiderFoot](https://www.spiderfoot.net) - SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
-    *   [SpiderFoot (⭐8.6k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
+    *   [SpiderFoot (⭐9k)](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
@@ -224,7 +269,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Osintgram (⭐5.3k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
+*   [Osintgram (⭐5.8k)](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 
 ### Social Media Tools / Telegram
 
@@ -317,17 +362,17 @@
 
 ### Other Tools / Telegram
 
-*   [Sub3 Suite (⭐305)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
+*   [Sub3 Suite (⭐319)](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
 ### Social Media Tools / Facebook
 
-*   [Facebook Friend List Scraper (⭐103)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
+*   [Facebook Friend List Scraper (⭐121)](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 
 ### Web History and Website Capture / Telegram
 
-*   [waybackpy (⭐227)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+*   [waybackpy (⭐262)](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
@@ -351,7 +396,7 @@
 
 ### Other Tools / Telegram
 
-*   [DuckDuckGo URL scraper (⭐11)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [DuckDuckGo URL scraper (⭐13)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -391,7 +436,7 @@
 
 ### Social Media Tools / Instagram
 
-*   [Sterra (⭐278)](https://github.com/novitae/sterraxcyl)
+*   [Sterra (⭐318)](https://github.com/novitae/sterraxcyl)
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -411,7 +456,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Telegram Nearby Map (⭐429)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
+*   [Telegram Nearby Map (⭐470)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
 ### Username Check / Telegram
 
@@ -449,13 +494,13 @@
 
 ### Username Check / Telegram
 
-*   [Snoop (⭐1.6k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
+*   [Snoop (⭐1.7k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [Ghunt (⭐12k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
+*   [Ghunt (⭐13k)](https://github.com/mxrch/GHunt) - Investigate Google emails and documents.
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
@@ -512,7 +557,7 @@
 *   [Kribrum](https://kribrum.io/)
 *   [WATools](https://watools.io/)
 *   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
-*   [Oblivion (⭐356)](https://github.com/loseys/Oblivion)
+*   [Oblivion (⭐362)](https://github.com/loseys/Oblivion)
 
 ### Social Media Tools / VKontakte
 
@@ -572,7 +617,7 @@
 *   [Insecam](http://insecam.org/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
-*   [Video Stabilization Methods (⭐167)](https://github.com/yaochih/awesome-video-stabilization)
+*   [Video Stabilization Methods (⭐181)](https://github.com/yaochih/awesome-video-stabilization)
 
 ### Geospatial Research and Mapping Tools / Telegram
 
@@ -597,7 +642,7 @@
 ### Other Tools / Telegram
 
 *   [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-*   [FOCA (⭐2.1k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+*   [FOCA (⭐2.2k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 
 ### OSINT Videos / Telegram
 
@@ -635,8 +680,8 @@
 
 ### E-mail Search / E-mail Check / Telegram
 
-*   [h8mail (⭐2.8k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
-*   [Holehe (⭐3.5k)](https://github.com/megadose/holehe)
+*   [h8mail (⭐3k)](https://github.com/khast3x/h8mail) - Password Breach Hunting and Email OSINT, locally or using premium services. Supports chasing down related email.
+*   [Holehe (⭐3.8k)](https://github.com/megadose/holehe)
 
 ### Video Search and Other Video Tools / Telegram
 
@@ -717,13 +762,13 @@
 
 ### Radio and Podcasts Tools / Telegram
 
-*   [Podgrab (⭐869)](https://github.com/akhilrex/podgrab)
+*   [Podgrab (⭐944)](https://github.com/akhilrex/podgrab)
 
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
 ### Phone Number Research / Telegram
 
-*   [PhoneInfoga (⭐7.7k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
+*   [PhoneInfoga (⭐8.8k)](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
 
@@ -778,7 +823,7 @@
 
 ### Username Check / Telegram
 
-*   [Sherlock (⭐37k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
+*   [Sherlock (⭐39k)](https://github.com/sherlock-project/sherlock) - Search for a username in multiple platforms/websites.
 
 ### Browsers / Telegram
 
@@ -823,7 +868,7 @@
 
 ### Threat Intelligence / Telegram
 
-*   [OnionScan (⭐2.4k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
+*   [OnionScan (⭐2.5k)](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 
@@ -853,13 +898,13 @@
 
 ### Social Media Tools / Instagram
 
-*   [Toutatis (⭐803)](https://github.com/megadose/toutatis)
+*   [Toutatis (⭐985)](https://github.com/megadose/toutatis)
 
 ## [Mar 30 - Apr 05, 2020](/content/2020/13/README.md)
 
 ### Privacy and Encryption Tools / Telegram
 
-*   [uBlock Origin (⭐33k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐34k)](https://github.com/gorhill/uBlock)
 
 ## [Mar 09 - Mar 15, 2020](/content/2020/10/README.md)
 
@@ -936,9 +981,9 @@
 
 ### Other Tools / Telegram
 
-*   [Belati (⭐474)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
+*   [Belati (⭐482)](https://github.com/aancw/Belati) - Belati - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
-*   [Pown Recon (⭐411)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
+*   [Pown Recon (⭐412)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 
 ## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
@@ -996,7 +1041,7 @@
 
 ### Other Tools / Telegram
 
-*   [sn0int (⭐1.3k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐1.4k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [Oct 15 - Oct 21, 2018](/content/2018/42/README.md)
 
@@ -1006,8 +1051,8 @@
 
 ### Other Tools / Telegram
 
-*   [Photon (⭐9.1k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
-*   [Zen (⭐430)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
+*   [Photon (⭐9.3k)](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
+*   [Zen (⭐468)](https://github.com/s0md3v/Zen) - Find email addresses of Github users
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
 
@@ -1019,13 +1064,13 @@
 
 ### Collaboration and Project Management / Telegram
 
-*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐13)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
+*   [~~Todoyu~~](http://www.todoyu.com) - Original project discontinued - now maintained at [Todoyu-PHP7.x (⭐15)](https://github.com/AlexEdimensionz/Todoyu-PHP7.x)
 
 ## [Jul 09 - Jul 15, 2018](/content/2018/28/README.md)
 
 ### Other Tools / Telegram
 
-*   [Orbit (⭐424)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
+*   [Orbit (⭐435)](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 
 ## [Jul 02 - Jul 08, 2018](/content/2018/27/README.md)
 
@@ -1049,7 +1094,7 @@
 
 ### Other Tools / Telegram
 
-*   [The Harvester (⭐7.5k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
+*   [The Harvester (⭐7.9k)](https://github.com/laramies/theHarvester) - Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
 ## [May 28 - Jun 03, 2018](/content/2018/22/README.md)
 
@@ -1081,7 +1126,7 @@
 
 ### OCR Tools / Telegram
 
-*   [OCRmyPDF (⭐7.5k)](https://github.com/jbarlow83/OCRmyPDF/)
+*   [OCRmyPDF (⭐8k)](https://github.com/jbarlow83/OCRmyPDF/)
 
 ## [Jan 29 - Feb 04, 2018](/content/2018/5/README.md)
 
@@ -1235,7 +1280,7 @@
 *   [Intrigue Core (⭐1.2k)](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
-*   [OsintStalker (⭐522)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
+*   [OsintStalker (⭐537)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
@@ -1420,7 +1465,7 @@
 *   [Instagram](https://www.instagram.com)
 *   [Mixi (Japan)](https://mixi.jp)
 *   [Odnoklassniki (Russia)](http://ok.ru)
-*   [Pinterest](http://www.pinterest.com)
+*   [Pinterest](http://www.pinterest.com) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
 *   [Qzone (China)](http://qzone.qq.com)
 *   [Reddit](https://www.reddit.com)
 *   [Taringa (Latin America)](http://www.taringa.net)
@@ -1645,7 +1690,7 @@
 
 ### Expert Search / Telegram
 
-*   [Academia](http://academia.edu)
+*   [Academia](http://academia.edu) - is a platform for sharing academic research.
 *   [CanLaw](http://www.canlaw.com)
 *   [ExpertiseFinder](http://www.expertisefinder.com)
 *   [ExpertPages](http://expertpages.com)
@@ -1773,7 +1818,7 @@
 *   [Apertium](https://www.apertium.org)
 *   [Babelfish](https://www.babelfish.com)
 *   [Bablic](https://www.bablic.com)
-*   [Bing Translator](http://www.bing.com/translator)
+*   [Bing Translator](http://www.bing.com/translator) - is a user facing translation portal provided by Microsoft as part of its Bing services to translate texts or entire web pages into different languages.
 *   [Dict.cn](http://dict.cn)
 *   [Dictionary.com: Translation](http://translate.reference.com)
 *   [Free Translator](http://www.free-translator.com)
@@ -1817,7 +1862,6 @@
 *   [KarmaDecay](http://karmadecay.com)
 *   [MyPicsMap](http://www.mypicsmap.com)
 *   [PhotoBucket](http://photobucket.com)
-*   [Picsearch](http://www.picsearch.com)
 *   [PicTriev](http://www.pictriev.com)
 *   [StolenCameraFinder](http://www.stolencamerafinder.co.uk)
 *   [Websta](http://websta.me)
@@ -1888,7 +1932,7 @@
 
 *   [Academia](https://www.academia.edu)
 *   [Academic Journals](http://www.academicjournals.org)
-*   [African Journal Online](http://www.ajol.info)
+*   [African Journal Online](http://www.ajol.info) -  is the world's largest and preeminent platform of African-published scholarly journals
 *   [American Society of Civil Engineers](http://ascelibrary.org)
 *   [Base](http://www.base-search.net)
 *   [Cambridge Journals](http://journals.cambridge.org)
@@ -2066,7 +2110,7 @@
 *   [Circos](http://circos.ca)
 *   [creately](http://creately.com)
 *   [Crossfilter](http://square.github.io/crossfilter)
-*   [csvkit (⭐5.2k)](https://github.com/wireservice/csvkit)
+*   [csvkit (⭐5.3k)](https://github.com/wireservice/csvkit)
 *   [Data Visualization Catalogue](http://datavizcatalogue.com)
 *   [Datawrapper](https://datawrapper.de)
 *   [dygraphs](http://dygraphs.com)
@@ -2233,10 +2277,10 @@
 
 ### Offline Browsing / Telegram
 
-*   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy)
-*   [gmapcatcher (⭐185)](https://github.com/heldersepu/gmapcatcher)
+*   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
+*   [gmapcatcher (⭐190)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
-*   [Offliberty](http://offliberty.com)
+*   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)
 *   [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html)
 *   [WebAssistant](http://www.proxy-offline-browser.com/download.html)

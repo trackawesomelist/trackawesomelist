@@ -2,9 +2,15 @@
 
 A curated list of awesome Phalcon libraries and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 603 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/phalcon/awesome-phalcon/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) · ⭐ 602 · 🏷️ Back-End Development
 
 [ Daily / [Weekly](/content/phalcon/awesome-phalcon/week/README.md) / [Overview](/content/phalcon/awesome-phalcon/readme/README.md) ]
+
+## [Jan 10, 2023](/content/2023/01/10/README.md)
+
+### Miscellaneous
+
+*   [Upgrade Adviser (⭐7)](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
 
 ## [Aug 06, 2021](/content/2021/08/06/README.md)
 
@@ -16,7 +22,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Routing
 
-*   [Phalcon-autorouter (⭐29)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
+*   [Phalcon-autorouter (⭐28)](https://github.com/kahur/Phalcon-autorouter) - Simple way to auto load modules without complicate definition of routes
 
 ### Magazines / Slides
 
@@ -47,7 +53,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Application Skeleton
 
-*   [NovaMOOC (⭐16)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
+*   [NovaMOOC (⭐19)](https://github.com/les-enovateurs/phalcon-nova-mooc) - Sample application with API/BackEnd and FrontEnd + Authentication with JWT + Cypress tests with GitHub Actions + Docker compose.
 
 ### Books / Slides
 
@@ -81,13 +87,13 @@ A curated list of awesome Phalcon libraries and resources
 
 ### RESTful
 
-*   [REST API (⭐80)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
+*   [REST API (⭐81)](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon
 
 ## [Sep 28, 2019](/content/2019/09/28/README.md)
 
 ### Miscellaneous
 
-*   [Breadcrumbs (⭐41)](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
+*   [Breadcrumbs (⭐40)](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 
 ## [Sep 10, 2019](/content/2019/09/10/README.md)
 
@@ -126,7 +132,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### CMS & Blogs
 
-*   [Yona CMS (⭐372)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
+*   [Yona CMS (⭐369)](https://github.com/alexander-torosh/yona-cms) - CMS based on Phalcon Framework with modular structure
 
 ### Config
 
@@ -168,26 +174,26 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Websites / Slides
 
-*   [Phalconist (⭐29)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
+*   [Phalconist (⭐28)](https://github.com/phalcon/phalconist) - Resources catalog for Phalcon Framework on Phalconist
 
 ## [Aug 02, 2018](/content/2018/08/02/README.md)
 
 ### Authentication & OAuth
 
-*   [Padlock (⭐21)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
+*   [Padlock (⭐22)](https://github.com/tegaphilip/padlock) - A docker-based phalcon authentication server built on top of the PHP OAuth 2.0 Server
 
 ## [Jul 18, 2018](/content/2018/07/18/README.md)
 
 ### Application Skeleton
 
 *   [Album O'Rama (⭐84)](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon Framework
-*   [Base App (⭐64)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
+*   [Base App (⭐63)](https://github.com/mruz/base-app) - The base application in Phalcon Framework
 *   [INVO Application (⭐344)](https://github.com/phalcon/invo) - Sample application for the Phalcon Framework
 *   [Vökuró (⭐368)](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security)
 
 ### CMS & Blogs
 
-*   [PhalconCMS (⭐150)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
+*   [PhalconCMS (⭐151)](https://github.com/KevinJay/PhalconCMS) - A blog built on Phalcon Framework
 
 ### Command Line
 
@@ -199,11 +205,11 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Miscellaneous
 
-*   [Incubator (⭐737)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
+*   [Incubator (⭐735)](https://github.com/phalcon/incubator) - Repository to publish/share/experiment with new adapters, prototypes or functionality that can potentially be incorporated into the Phalcon Framework
 
 ### RESTful
 
-*   [PhREST API (⭐30)](https://github.com/phrest/api) - Phalcon Framework REST API Package
+*   [PhREST API (⭐29)](https://github.com/phrest/api) - Phalcon Framework REST API Package
 
 ### Templating
 
@@ -219,7 +225,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Talks
 
-*   [Phanbook (⭐301)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
+*   [Phanbook (⭐302)](https://github.com/phanbook/phanbook/) - The source for code phanbook.com website
 
 ### Conferences / Communities
 
@@ -231,7 +237,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Application Skeleton
 
-*   [Phalcon Composer (⭐34)](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
+*   [Phalcon Composer (⭐35)](https://github.com/xxtime/phalcon) - Phalcon with Composer support MySql MongoDb Redis, clean + beauty
 
 ## [Sep 26, 2017](/content/2017/09/26/README.md)
 
@@ -277,7 +283,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Testing
 
-*   [phalcon-vm (⭐43)](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
+*   [phalcon-vm (⭐42)](https://github.com/eugene-manuilov/phalcon-vm) - Vagrant configuration for Phalcon 3.x and PHP7.0 development + MySQL/PostgreSQL/MongoDB, Redis/Memcached, Gearman/RabbitMQ, Elasticsearch/Sphinxsearch on your choice
 
 ## [Nov 24, 2016](/content/2016/11/24/README.md)
 
@@ -289,7 +295,7 @@ A curated list of awesome Phalcon libraries and resources
 
 ### ACL
 
-*   [PhalconUserPlugin (⭐187)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
+*   [PhalconUserPlugin (⭐186)](https://github.com/calinrada/PhalconUserPlugin) - Plugin based on Vökuró ACL idea
 
 ## [Oct 04, 2016](/content/2016/10/04/README.md)
 
@@ -341,11 +347,11 @@ A curated list of awesome Phalcon libraries and resources
 
 ### Application Skeleton
 
-*   [MVC (⭐801)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
+*   [MVC (⭐804)](https://github.com/phalcon/mvc) - Examples of Phalcon MVC file structures
 
 ### Command Line
 
-*   [phalcon-cron (⭐75)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
+*   [phalcon-cron (⭐76)](https://github.com/SidRoberts/phalcon-cron) - Cron component for Phalcon
 
 ## [Aug 30, 2015](/content/2015/08/30/README.md)
 
