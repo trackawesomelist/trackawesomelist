@@ -510,6 +510,7 @@ Thanks to our main contributors
 *   [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 *   [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 *   [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
+*   [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
 *   [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
 *   [facesearch](http://facesaerch.com) - Handy proxy to search Google face-only image search results.
 *   [Family Search](https://familysearch.org) - Popular genealogy site. Free, but registration requried. Funded by The Church Of Jesus Christ of Latter-day Saints.
@@ -1577,6 +1578,7 @@ Thanks to our main contributors
 *   [Nodebox](https://www.nodebox.net)
 *   [OpenLayers](http://openlayers.org)
 *   [Palladio](http://hdlab.stanford.edu/palladio)
+*   [Perspective (⭐5.1k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 *   [Piktochart](https://piktochart.com)
 *   [Pixcone](http://www.pixcone.com)
 *   [Pixxa](http://www.pixxa.com)

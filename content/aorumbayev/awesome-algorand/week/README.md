@@ -8,6 +8,10 @@
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
+### Wallets
+
+*   [Daffi Wallet](https://www.daffi.me/) - Daffi is a mobile wallet for Algorand with integrated access to Daffi platform.
+
 ### Blockchain Explorers
 
 *   [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)

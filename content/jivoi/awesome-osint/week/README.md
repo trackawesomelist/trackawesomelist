@@ -25,6 +25,10 @@
 *   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 *   [Blackbird (⭐1.4k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
 
+### People Investigations / Telegram
+
+*   [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
+
 ### Image Search / Telegram
 
 *   [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
@@ -45,6 +49,10 @@
 ### Academic Resources and Grey Literature / Telegram
 
 *   [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (\~ 40 million)
+
+### Infographics and Data Visualization / Telegram
+
+*   [Perspective (⭐5.1k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
 
 ### Other Tools / Telegram
 

@@ -194,8 +194,8 @@
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [GitHub Repo (⭐201k)](https://github.com/vuejs/vue)
-*   [Release Notes (⭐201k)](https://github.com/vuejs/vue/releases)
+*   [GitHub Repo (⭐202k)](https://github.com/vuejs/vue)
+*   [Release Notes (⭐202k)](https://github.com/vuejs/vue/releases)
 *   [Style Guide](https://vuejs.org/v2/style-guide/)
 *   [Vue.js News](https://news.vuejs.org/)
 
@@ -308,7 +308,7 @@
 
 ### Official Examples
 
-*   [Vue.js TodoMVC (⭐201k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐202k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
 *   [CoffeeScript Version (⭐21)](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 *   [**Vue.js HackerNews Clone**](https://github.com/vuejs/vue-hackernews)
 *   [**Vue.js 2.0 HackerNews Clone**](https://github.com/vuejs/vue-hackernews-2.0)
@@ -636,7 +636,7 @@
 *   [**Vue 3 example without Webpack**](https://github.com/arijs/vue-next-example) - An example of how to build a Vue app with Vue-Router without the need for Webpack or any other build tool. Includes the ability to prerender components and pages with Vue Server Renderer.
 *   [COVID19 Live Data Component (⭐10)](https://github.com/snturk/covid19-vue-component) - Simple component that shows live covid19 data across the world.
 *   [vue-stack-cesium (⭐14)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
-*   [Shopify Theme Lab (⭐627)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐632)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 *   [Peer to Peer game of telephone (⭐63)](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
 *   [vue3-webpack (⭐23)](https://github.com/boussadjra/vue3-webpack) vue 3 + webpack 4 starter.
 *   [laravel-vue-3-starter (⭐62)](https://github.com/boussadjra/laravel-vue-3-starter) a pre-configured project using Laravel 8 and Vue 3.
@@ -899,7 +899,7 @@
 *   [Vue Pivottable (⭐103)](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
 *   [Vue Datamaps (⭐14)](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 *   [Marked.cc (⭐38)](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
-*   [LeagueStats (⭐335)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐341)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 *   [Veniqa (⭐1k)](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue.
 *   [tato music player (⭐62)](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 *   [Sheiley Shop (⭐45)](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
@@ -1179,6 +1179,7 @@
 *   [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs
 *   [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive.
 *   [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
+*   [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
 
 ### Interactive Experiences
 
@@ -2552,7 +2553,7 @@ Tooltips / popovers
 *   [Materio-vuetify-vuejs-admin-template-free (⭐443)](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 *   [Tailmin (⭐43)](https://github.com/otezz/tailmin) - Admin dashboard built with Vue.js and Tailwind CSS. [Live demo](https://tailmin.vercel.app/)
 *   [Vue-Admin-Template (⭐8)](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
-*   [Admin One Vue 3 Tailwind dashboard (⭐1k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
+*   [Admin One Vue 3 Tailwind dashboard (⭐1.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 *   [Mosaic - Vue Admin TailwindCSS template (⭐155)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 *   [vue-admin-box (⭐1.1k)](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
 *   [argon-dashboard-vue3 (⭐127)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
@@ -3113,7 +3114,7 @@ Tooltips / popovers
 *   [vue-kindergarten (⭐309)](https://github.com/JiriChara/vue-kindergarten)
 *   [vue-authenticate (⭐1.4k)](https://github.com/dgrubelic/vue-authenticate) - Simple Vue.js authentication library for login/register and OAuth (1.0/2.0) authentication
 *   [vue-facebook-account-kit (⭐13)](https://github.com/biessek/vue-facebook-account-kit) - Simple vue wrapper to the fb account kit library.
-*   [casl-vue (⭐4.5k)](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - Restricts what resources a given user is allowed to access
+*   [casl-vue (⭐4.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - Restricts what resources a given user is allowed to access
 *   [vue-google-api (⭐37)](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
 *   [vue-auth (⭐2.3k)](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 *   [vue-auth-plugin (⭐57)](https://github.com/d0whc3r/vue-auth-plugin) - A simple authentication and authorization library for Vue.js using typescript

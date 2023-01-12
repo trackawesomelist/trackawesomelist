@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jan 12, 2023](/content/2023/01/12/README.md)
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
+
 ## [Jan 10, 2023](/content/2023/01/10/README.md)
 
 ### Components & Libraries / UI Layout
@@ -832,7 +838,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [Admin One Vue 3 Tailwind dashboard (⭐1k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
+*   [Admin One Vue 3 Tailwind dashboard (⭐1.1k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 
 ## [Dec 07, 2021](/content/2021/12/07/README.md)
 
@@ -1558,7 +1564,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue3-signature (⭐29)](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
-*   [vue-signature](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
+*   [vue-signature (⭐185)](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 
 ## [Mar 21, 2021](/content/2021/03/21/README.md)
 
@@ -1862,7 +1868,7 @@
 
 ### Resources / Examples
 
-*   [Shopify Theme Lab (⭐627)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
+*   [Shopify Theme Lab (⭐632)](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 
 ### Projects Using Vue.js / Open Source
 
@@ -3878,8 +3884,8 @@
 *   [vue-container-component (⭐2)](https://github.com/kavalcante/vue-container-component) - Simple container component inspired on Bootstrap Container
 *   [vue-colcade (⭐19)](https://github.com/alexiscolin/vue-colcade) - A small wrapper for integrating Colcade grid layout to Vuejs.
 *   [vue-ads-layout (⭐28)](https://github.com/arnedesmedt/vue-ads-layout) - A small library of Vue components to quickly generate a responsive web application layout with toolbar, left/right drawers and a footer. All components can be positioned fixed or relative.
-*   [vue-magic-grid](https://github.com/imlinus/Vue-Magic-Grid) - A tiny port of Magic Grid for Vue.js 2.
-*   [splitpanes](https://github.com/antoniandre/splitpanes) - A Vue JS reliable, simple and touch-ready panes splitter / resizer.
+*   [vue-magic-grid (⭐172)](https://github.com/imlinus/Vue-Magic-Grid) - A tiny port of Magic Grid for Vue.js 2.
+*   [splitpanes (⭐1.2k)](https://github.com/antoniandre/splitpanes) - A Vue JS reliable, simple and touch-ready panes splitter / resizer.
 *   [vue-mock-layout (⭐7)](https://github.com/promosis/vue-mock-layout) - Easily mock the layout of your Vue apps.
 *   [vue-simple-drawer (⭐58)](https://github.com/dreambo8563/vue-simple-drawer) - A tiny drawer panel with bounced animation, nest supported and theme customized. directions: left/right/up/down
 *   [vue-grd (⭐42)](https://github.com/1000ch/vue-grd) - Simple, Light-weight and Flexible Vue.js component for grid layout.
@@ -3904,9 +3910,9 @@
 *   [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
 *   [BootstrapVue (⭐14k)](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap v4 components and grid system for Vue.js.
 *   [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
-*   [zircle-ui](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces.
+*   [zircle-ui (⭐911)](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces.
 *   [Material Components Vue (⭐307)](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web (⭐17k)](https://github.com/material-components/material-components-web) for Vue.js
-*   [VueFace](https://github.com/sudheerj/vueface) - A Vue.js 2.0 UI Component library for Web
+*   [VueFace (⭐77)](https://github.com/sudheerj/vueface) - A Vue.js 2.0 UI Component library for Web
 *   [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
 *   [heyui (⭐2.5k)](https://github.com/heyui/heyui) - (<https://www.heyui.top/en>) - A Vue.js 2.0 UI Toolkit for Web.
 *   [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
@@ -4244,7 +4250,7 @@
 *   [vue-kindergarten (⭐309)](https://github.com/JiriChara/vue-kindergarten)
 *   [vue-authenticate (⭐1.4k)](https://github.com/dgrubelic/vue-authenticate) - Simple Vue.js authentication library for login/register and OAuth (1.0/2.0) authentication
 *   [vue-facebook-account-kit (⭐13)](https://github.com/biessek/vue-facebook-account-kit) - Simple vue wrapper to the fb account kit library.
-*   [casl-vue (⭐4.5k)](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - Restricts what resources a given user is allowed to access
+*   [casl-vue (⭐4.6k)](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - Restricts what resources a given user is allowed to access
 *   [vue-google-api (⭐37)](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
 *   [vue-auth (⭐2.3k)](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 *   [vue-auth-plugin (⭐57)](https://github.com/d0whc3r/vue-auth-plugin) - A simple authentication and authorization library for Vue.js using typescript
@@ -4655,7 +4661,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐335)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐341)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ## [Mar 27, 2020](/content/2020/03/27/README.md)
 
@@ -6917,7 +6923,7 @@
 
 ### Resources / Official Resources
 
-*   [GitHub Repo (⭐201k)](https://github.com/vuejs/vue)
+*   [GitHub Repo (⭐202k)](https://github.com/vuejs/vue)
 
 ## [Oct 06, 2016](/content/2016/10/06/README.md)
 
@@ -7010,7 +7016,7 @@
 
 *   [Official Guide](http://vuejs.org/guide/)
 *   [API Reference](http://vuejs.org/api/)
-*   [Release Notes (⭐201k)](https://github.com/vuejs/vue/releases)
+*   [Release Notes (⭐202k)](https://github.com/vuejs/vue/releases)
 
 ### Resources / Community
 
@@ -7019,4 +7025,4 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐201k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐202k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)

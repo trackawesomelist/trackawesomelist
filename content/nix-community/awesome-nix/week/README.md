@@ -6,6 +6,12 @@
 
 [ [Daily](/content/nix-community/awesome-nix/README.md) / Weekly / [Overview](/content/nix-community/awesome-nix/readme/README.md) ]
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### Resources / Discovery
+
+*   [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Virtualisation / Newsletters

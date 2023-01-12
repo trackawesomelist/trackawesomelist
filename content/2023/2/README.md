@@ -1,12 +1,34 @@
 # Awesome List Updates on Jan 09 - Jan 15, 2023
 
-39 awesome lists updated this week.
+42 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [1. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+
+### Resources / Discovery
+
+*   [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Reading and Writing Tools / Writing
+
+*   [THORN](https://thorn.so) - A smooth, practical and beautiful cross-platform writing software.
+
+### Design and Product / Prototyping and Mind-Mapping Tools
+
+*   [Lighten](https://lighten-test.xmind.net) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
+
+## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+
+### Software Engineering
+
+*   [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) - YAML is full of obscure complexity like accidental numbers and non-string keys.
+
+## [4. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
 
 ### Assistants
 
@@ -20,44 +42,44 @@
 
 *   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
-## [2. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [5. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### General
 
 *   [Statichunt](https://statichunt.com/) - Jamstack Themes and Resources directory.
 
-## [3. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [6. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Drag and Drop
 
 *   [neodrag (⭐889)](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same 🔥
 
-## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [rigel (⭐0)](https://github.com/othiagos/rigel-zsh-theme/) - Includes decorators for `git` information, user\@hostname and current directory.
 *   [starship (wintermi) (⭐4)](https://github.com/wintermi/zsh-starship) - A simple plugin to use the Starship prompt, along with a powerline theme.
 
-## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Playgrounds
 
 *   [ChainQuery Bitcoin RPC](https://chainquery.com) - Run select bitcoin RPC API calls and read full RPC docs in your browser.
 
-## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Remote / WebAssembly
 
 *   [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 
-## [7. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [10. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Task Management
 
 *   [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 
-## [8. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -75,6 +97,10 @@
 
 *   [NameKetchup](https://nameketchup.com) - checks domain name and username in popular social media sites and platforms.
 *   [Blackbird (⭐1.4k)](https://github.com/p1ngul1n0/blackbird) - Search a username across over 500+ websites.
+
+### People Investigations / Telegram
+
+*   [Digital Footprint Check](https://www.cyberoneintel.com/digitalfootprint) - Search the internet including social media accounts, employment history, dating profiles, gaming profiles, dark web credential breaches, indexed search engine occurrences, and more.
 
 ### Image Search / Telegram
 
@@ -97,31 +123,35 @@
 
 *   [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (\~ 40 million)
 
+### Infographics and Data Visualization / Telegram
+
+*   [Perspective (⭐5.1k)](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
+
 ### Other Tools / Telegram
 
 *   [Glit (⭐1)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
 *   [SerpScan (⭐47)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
 *   [Crystal Forum](https://forum.crystal-lang.org/)
 
-## [10. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
 *   [ASP.NET Community Standup - Exploring new and experimental features in Blazor](https://www.youtube.com/watch?v=fQ1Bg-u_YLw\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-73%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 10, 2023 - It show what it's like to build a .NET 7 Blazor app using both new and currently experimental features. Featuring: Daniel Roth, Jon Galloway, Mackinnon Buck. [Community links](https://www.theurlist.com/aspnet-community-standup-2023-01).
 
-## [11. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Libraries / Text processing
 
 *   [pcre2 (⭐1)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history and maps
 
@@ -135,7 +165,7 @@
 
 *   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Search / Diagnostics
 
@@ -159,7 +189,7 @@
 
 *   [LucasTavaresA/simpleIndentGuides.nvim (⭐4)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
 
-## [14. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [17. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Game tools and libraries
 
@@ -179,13 +209,13 @@
 
 *   [zig.pm](https://zig.pm/) - A community-maintained repository of Zig packages.
 
-## [15. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [18. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Databases / Data Sources
 
 *   [MyAnimeList APIv2](https://myanimelist.net/apiconfig/references/api/v2) - Official API for [MyAnimeList](https://myanimelist.net/). \[English]
 
-## [16. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [19. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Articles & Blogs
 
@@ -199,13 +229,17 @@
 
 *   [Firefly III (⭐9.5k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
-## [17. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Automotive
 
 *   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG022) - Kia configurator (Korean).
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
 
 ### Components & Libraries / UI Layout
 
@@ -219,7 +253,7 @@
 
 *   [vue-web-otp (⭐1)](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
 
-## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
@@ -229,7 +263,12 @@
 
 *   [zpp\_bits (⭐378)](https://github.com/eyalz800/zpp_bits) - Actually, the fastest modern **S**erialization library. Just check [this video](https://www.youtube.com/watch?v=G7-GQhCw8eE\&ab_channel=CppCon).
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+### Other Awesome Projects
+
+*   This list is currently empty, but you can add to it by opening a merge request.
+*   Please reach out if you are interested in sponsoring this repo. Your company's name and logo will be prominently displayed here.
+
+## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -244,7 +283,7 @@
 *   Serial Port
     *   [serialport/serialport-rs (⭐129)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
 
-## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Caching
 
@@ -254,13 +293,13 @@
 
 *   [SecTester (⭐0)](https://github.com/NeuraLegion/sectester-net) - SecTester is a new tool that integrates [Bright](https://brightsec.com/) enterprise-grade scan engine directly into your integration or e2e tests. **\[Proprietary]** **\[Free]**
 
-## [22. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [25. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / eunomia-bpf
 
 *   [eunomia-bpf (⭐161)](https://github.com/eunomia-bpf/eunomia-bpf) - A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.
 
-## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Misc
 
@@ -278,7 +317,7 @@
 
 *   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
 
-## [24. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [27. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines / Awesome Collections
 
@@ -1399,13 +1438,17 @@
 *   📚 [Retro3DGraphicsCollection (⭐794)](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro style 3D graphic assets (think PS1).
 *   💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
 
-## [25. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Validation / Playground
 
 *   [typia (⭐2.1k)](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
 
-## [26. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [29. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+
+### Wallets
+
+*   [Daffi Wallet](https://www.daffi.me/) - Daffi is a mobile wallet for Algorand with integrated access to Daffi platform.
 
 ### Blockchain Explorers
 
@@ -1420,25 +1463,25 @@
 *   [SliceSwap](https://app.sliceswap.com) - One place to trade your assets across major Dex's. All swaps are powered by @deflexfi.
 *   [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
 
-## [27. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [30. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Miscellaneous
 
 *   [Upgrade Adviser (⭐7)](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
 
-## [28. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [31. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Other
 
 *   [GILT Forum (⭐30)](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - A Guide for Localization and Globalization Professionals.
 
-## [29. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [32. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
 *   [magento2docker (⭐0)](https://github.com/aliuosio/magento2docker) - MariaDB, PHP , Redis, ElasticSearch in one dockerfile for fast demo and deveopment enviroment
 
-## [30. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [33. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Qubes OS Websites
 
@@ -1568,7 +1611,7 @@
 *   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
-## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -1586,26 +1629,26 @@
 
 *   [Kody Tools](https://www.kodytools.com/dev-tools) — 100+ dev tools including formatter, minifier, and converter.
 
-## [32. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
 *   [Next-Fire-Auth (⭐0)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
 
-## [33. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [36. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [react-vite-admin (⭐151)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
 
-## [34. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [37. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER.
 
-## [35. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Knowledge Management
 
@@ -1619,7 +1662,7 @@
 
 *   [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679\&hl=en\&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
 
-## [36. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [39. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Commenting Engines
 
@@ -1636,19 +1679,19 @@
 
 *   [BusKill](https://www.buskill.in/) - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.
 
-## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Security
 
 *   [Ronin (⭐315)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 
-## [38. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [41. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
 *   [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 
-## [39. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [42. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Open Source Ecosystem
 
