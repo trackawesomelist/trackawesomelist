@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Jan 12, 2023](/content/2023/01/12/README.md)
+
+### Blockchain Explorers
+
+*   [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
+
+### Projects / Wallets
+
+*   [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
+
 ## [Jan 11, 2023](/content/2023/01/11/README.md)
 
 ### CLI

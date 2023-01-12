@@ -6,6 +6,12 @@ Carefully curated list of awesome Jamstack resources
 
 [ [Daily](/content/automata/awesome-jamstack/README.md) / Weekly / [Overview](/content/automata/awesome-jamstack/readme/README.md) ]
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### General
+
+*   [Statichunt](https://statichunt.com/) - Jamstack Themes and Resources directory.
+
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
 ### Serverless / Automation
@@ -22,7 +28,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Astro Snipcart (⭐30)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐39)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
 ## [Aug 01 - Aug 07, 2022](/content/2022/31/README.md)
 
@@ -424,7 +430,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Automation
 
-*   [DataFire (⭐564)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐567)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [Mar 25 - Mar 31, 2019](/content/2019/12/README.md)
 
@@ -527,7 +533,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Flatmarket (⭐984)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Flatmarket (⭐985)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
 

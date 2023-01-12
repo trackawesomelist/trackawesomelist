@@ -86,6 +86,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [AlgoExplorer](https://www.algoexplorer.io/) - Algorand blockchain explorer built by [RandLabs](https://randlabs.io/).
 *   [Goalseeker](https://goalseeker.purestake.io/algorand/mainnet) - Algorand blockchain explorer built by [PureStake](https://www.purestake.com/).
 *   [NFTExplorer](https://www.nftexplorer.app/) - Algorand Standard Asset (ASA) explorer built by [@TomassoAE](https://twitter.com/TommasoAE) and [JoshLmao](https://twitter.com/JoshLmao).
+*   [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
 *   [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 *   [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 *   [Algoscan](https://algoscan.app/) - Algoscan is a Blockchain Explorer and Analytics Platform. Built on top of the Algorand Network.
@@ -340,7 +341,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 ### Projects
 
-> A list of open source projects that are built on top of Algorand.
+> A list of open source projects, blogs, websites that are built on top of Algorand.
 
 *   [arc3.xyz (⭐19)](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
 *   [Auction Demo (⭐55)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
@@ -372,6 +373,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [AlgoTables (⭐5)](https://github.com/algotables/algotables.github.io) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 *   [AlgoPing (⭐3)](https://github.com/aorumbayev/algoping) - A tiny cron job that issues a [tweet](https://twitter.com/algoping) if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.
 *   [SliceSwap](https://app.sliceswap.com) - One place to trade your assets across major Dex's. All swaps are powered by @deflexfi.
+*   [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
 
 ## Algorand Request for Comments
 

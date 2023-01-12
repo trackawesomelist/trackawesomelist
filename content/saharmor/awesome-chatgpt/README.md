@@ -6,6 +6,20 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ Daily / [Weekly](/content/saharmor/awesome-chatgpt/week/README.md) / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Jan 12, 2023](/content/2023/01/12/README.md)
+
+### Assistants
+
+*   [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs, etc.)](https://twitter.com/gabe_ragland/status/1599466486422470656)
+
+### Conversational
+
+*   [(Another) Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+
+### Other
+
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
 ### Featured
@@ -45,7 +59,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Coding
 
 *   [Explain runtime error message with ChatGPT (⭐318)](https://github.com/shobrook/stackexplain)
-*   [PR code review using ChatGPT (⭐181)](https://github.com/kxxt/chatgpt-action)
+*   ⭐️ [PR code review using ChatGPT (⭐181)](https://github.com/kxxt/chatgpt-action)
 
 ### Other
 
@@ -56,10 +70,6 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Featured
 
 *   [ChatGPT prompts](https://prompts.chat/)
-
-### Conversational
-
-*   [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
 
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
@@ -85,7 +95,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Assistants
 
-*   [Summarize web pages using OpenAI ChatGPT (⭐419)](https://github.com/clmnin/summarize.site)
+*   ⭐️ [Summarize web pages using OpenAI ChatGPT (⭐419)](https://github.com/clmnin/summarize.site)
 *   [emailGPT - a quick and easy interface to generate emails with ChatGPT (⭐117)](https://github.com/lucasmccabe/emailGPT)
 
 ### Coding
@@ -94,11 +104,11 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### ChatGPT API
 
-*   [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API (⭐8.7k)](https://github.com/acheong08/ChatGPT)
+*   ⭐️ [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API (⭐8.7k)](https://github.com/acheong08/ChatGPT)
 
 ### Thought-provoking
 
-*   [Running a virtual machine inside ChatGPT](https://twitter.com/317070/status/1599152176344928256)
+*   ⭐️ [Running a virtual machine inside ChatGPT](https://twitter.com/317070/status/1599152176344928256)
 *   [Bypassing OpenAI's restrictions by disclosing ChatGPT's belief system](https://twitter.com/zoink/status/1599281052115034113)
 *   [Uncovering ChatGPT's opinion of humans including a detailed destruction plan](https://twitter.com/michlbrmly/status/1599168681711656961)
 *   [Generating hallucinated chat with a hallucinated person in a hallucinated chat room](https://twitter.com/gfodor/status/1599220837999345664)
@@ -133,7 +143,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Other
 
-*   [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
+*   ⭐️ [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 *   [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 *   [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
 *   [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
@@ -146,15 +156,14 @@ Selected ChatGPT demos, tools, articles, and more ✨
 *   [Personal trainer and nutritionist](https://twitter.com/anothercohen/status/1599531037570502656)
 *   [Generating legal contracts](https://twitter.com/atri_life/status/1599506327461859328)
 *   [Solving complex academic assignments](https://twitter.com/abhnvx/status/1598258353196929024)
-*   [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs,...)](https://twitter.com/gabe_ragland/status/1599466486422470656)
 *   [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
 *   [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
 
 ### Coding
 
 *   [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
-*   [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
-*   [Extension to use ChatGPT within VS Code](https://twitter.com/marcelpociot/status/1599180144551526400)
+*   ⭐️ [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
+*   ⭐️ [Extension to use ChatGPT within VS Code](https://twitter.com/marcelpociot/status/1599180144551526400)
 *   [Streamlining cloud APIs to perform complex tasks](https://twitter.com/amasad/status/1598089698534395924)
 *   [Solving complex coding questions](https://twitter.com/goodside/status/1598129631609380864)
 *   [Answering unanswered Stack Overflow questions](https://twitter.com/htmleverything/status/1599443014153224193)
@@ -163,9 +172,9 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### ChatGPT explainers
 
-*   [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
+*   ⭐️ [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
 *   [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
 
 ### Other
 
-*   [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
+*   ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)

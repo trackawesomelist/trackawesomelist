@@ -12,7 +12,7 @@ A collection of awesome Qubes OS links
 
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-*   [Qubes OS Github Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest documentation.
+*   [Qubes OS GitHub Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 *   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ### Downloading, Installing, Upgrading, and Building
@@ -70,7 +70,7 @@ A collection of awesome Qubes OS links
 
 ### Kernels
 
-*   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel
+*   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
 
 ### Unikernels
@@ -81,18 +81,18 @@ A collection of awesome Qubes OS links
 ### Exploitation Tools
 
 *   [Awesome-Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
-*   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
-*   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
+*   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
+*   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 *   [Memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-    *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
     *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
-    *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+    *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
     *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-    *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files
+    *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+    *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
-*   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
+*   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 
 ### Xen Exploitation / Video Presentations
 
@@ -121,9 +121,9 @@ A collection of awesome Qubes OS links
 
 ### Training and Materials / Web articles
 
-*   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS
-*   [TGubes-diagrams (⭐13)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams
-*   [Tubes-artwork (⭐8)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS
+*   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
+*   [Qubes-diagrams (⭐13)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
+*   [Qubes-artwork (⭐8)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 
 ### Social media / Web articles
@@ -310,7 +310,7 @@ A collection of awesome Qubes OS links
 ### Qubes OS Legends / Web articles
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
-    \-[Blog](https://blog.invisiblethings.org/) - Personal Blog
+    *   [Blog](https://blog.invisiblethings.org/) - Personal Blog.
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
 
 ### Training and Materials / Web articles
@@ -319,7 +319,7 @@ A collection of awesome Qubes OS links
 
 ### Streamers / Web articles
 
-*   [infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers.
+*   [infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 *   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
 
 ### Companies using Qubes OS / Web articles
@@ -372,7 +372,7 @@ A collection of awesome Qubes OS links
 
 ### Qubes OS Websites
 
-*   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
+*   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called Qubes.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 
 ### VPN

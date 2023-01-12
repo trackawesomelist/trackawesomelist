@@ -68,6 +68,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Jamstack](https://jamstack.org/)
 *   [Jamstack resources](https://jamstack.org/resources/) - Videos and articles about Jamstack.
 *   [the New Dynamic](https://www.thenewdynamic.org/) - Pick up tools in our Directory to work with the Jamstack. Browse our showcase and get inspired.
+*   [Statichunt](https://statichunt.com/) - Jamstack Themes and Resources directory.
 
 ## Chats
 
@@ -86,7 +87,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 *   [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 
-*For more resources about Static Web Apps see (Awesome Static Web Apps)\[[https://github.com/staticwebdev/awesome-azure-static-web-apps (⭐68)](https://github.com/staticwebdev/awesome-azure-static-web-apps)].*
+*For more resources about Static Web Apps see (Awesome Static Web Apps)\[[https://github.com/staticwebdev/awesome-azure-static-web-apps (⭐69)](https://github.com/staticwebdev/awesome-azure-static-web-apps)].*
 
 ## No-Code Platforms
 
@@ -184,8 +185,8 @@ Carefully curated list of awesome Jamstack resources
 
 ### E-commerce
 
-*   [Astro Snipcart (⭐30)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
-*   [Flatmarket (⭐984)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
+*   [Astro Snipcart (⭐39)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Flatmarket (⭐985)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
 *   [Moltin](https://moltin.com/) - eCommerce API for developers.
@@ -216,7 +217,7 @@ Carefully curated list of awesome Jamstack resources
 ### Automation
 
 *   [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-*   [DataFire (⭐564)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐567)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## Serverless
 

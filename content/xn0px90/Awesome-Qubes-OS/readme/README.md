@@ -85,10 +85,10 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Qubes OS Websites
 
-*   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called qubes.
+*   [Qubes OS](https://www.qubes-os.org) - Qubes OS is an operating system built out of securely-isolated compartments called Qubes.
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-*   [Qubes OS Github Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS github latest documentation.
+*   [Qubes OS GitHub Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 *   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
@@ -229,9 +229,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Kernels
 
-*   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel
 *   [eBPF](https://ebpf.io) - eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel.
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
+*   [Qubes-linux-kernel (⭐75)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
 
 ## Unikernels
@@ -253,22 +253,22 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [American Fuzzy Lop (⭐3k)](https://github.com/google/AFL) - Fuzzing is one of the most powerful and proven strategies for identifying security issues in real-world software
 *   [Awesome-Fuzzing (⭐617)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
 *   [Bonzai (⭐111)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
-*   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL
-*   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis
+*   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
+*   [Joern (⭐1.2k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
 *   [LeechCore (⭐274)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
     *   [LeechCore-Plugins (⭐21)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 *   [Memflow (⭐409)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
-    *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
     *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
-    *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+    *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
     *   [Kvm (⭐16)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
     *   [Pcileech (⭐13)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-    *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files
+    *   [Qemu\_procfs (⭐21)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+    *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
 *   [MemProFS (⭐1.7k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
     *   [MemProcFS (⭐29)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
 *   [Microlibvmi (⭐138)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
-*   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks
+*   [Radare2 (⭐17k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
 *   [Volatility3 (⭐1.2k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
 ## Xen Exploitation
@@ -349,9 +349,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ## Qubes OS Legends
 
 *   [Joanna Rutkowska](https://en.wikipedia.org/wiki/Joanna_Rutkowska) - Founder of Qubes OS.
-    \-[Blog](https://blog.invisiblethings.org/) - Personal Blog
-*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
+    *   [Blog](https://blog.invisiblethings.org/) - Personal Blog.
 *   [Marek Marczykowski-Górecki](https://github.com/marmarek) - Lead developer at Qubes OS.
+*   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories)
     *   [templates](https://qubes.3isec.org/Templates_4.1/)
     *   [Core Team](https://www.qubes-os.org/team/#core-team)
@@ -359,15 +359,15 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Training and Materials
 
-*   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS
-*   [TGubes-diagrams (⭐13)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams
-*   [Tubes-artwork (⭐8)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS
+*   [Training-materials (⭐3)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
+*   [Qubes-diagrams (⭐13)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
+*   [Qubes-artwork (⭐8)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 *   [xn0px90](https://patreon.com/xn0px90) - Qubes training every second and fourth weekends of every month, from Friday to Monday, covering beginner, intermediate, and advanced levels.
 
 ## Streamers
 
-*   [infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers.
+*   [infosecstreams](https://infosecstreams.com/) - An actively maintained activity-based-autosorted list of InfoSec Streamers
 *   [xn0px90](https://twitch.tv/xn0px90) - Your's::Trully!::First::Full::Time::Info::Sec::Qubes::OS::Streamer!
 
 ## Companies using Qubes OS

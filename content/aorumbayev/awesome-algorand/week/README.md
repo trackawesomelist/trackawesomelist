@@ -8,6 +8,10 @@
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
+### Blockchain Explorers
+
+*   [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
+
 ### CLI
 
 *   [AlgoKit CLI (⭐9)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
@@ -15,6 +19,7 @@
 ### Projects / Wallets
 
 *   [SliceSwap](https://app.sliceswap.com) - One place to trade your assets across major Dex's. All swaps are powered by @deflexfi.
+*   [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
