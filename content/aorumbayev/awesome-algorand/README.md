@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Jan 14, 2023](/content/2023/01/14/README.md)
+
+### CLI
+
+*   [tealinspector (⭐6)](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
+
+### Other Development Tools / Smart Contracts
+
+*   [beaker-ts (⭐9)](https://github.com/algorand-devrel/beaker-ts) - Generate typescript clients for your beaker applications.
+
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
 
 ### Wallets
@@ -177,7 +187,7 @@
 
 ## [Jul 07, 2022](/content/2022/07/07/README.md)
 
-### Languages / Python
+### Other Development Tools / Smart Contracts
 
 *   [beaker (⭐64)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 
@@ -521,10 +531,6 @@
 *   [php-algorand-sdk (⭐18)](https://github.com/ffsolutions/php-algorand-sdk) - Algorand PHP SDK created by [@ffsolutions](https://github.com/ffsolutions).
 *   [algorand-php (⭐40)](https://github.com/RootSoft/algorand-php) - Algorand PHP SDK created by [@RootSoft](https://github.com/RootSoft).
 
-### Languages / Python
-
-*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
-
 ### IDEs / vim
 
 *   [vim-algorand-teal (⭐5)](https://github.com/aldur/vim-algorand-teal) - Minimalistic syntax highlight for Algorand's TEAL Smart Contract language to vim.
@@ -532,6 +538,10 @@
 ### IDEs / IntelliJ
 
 *   [algoDEA](https://algodea-docs.bloxbean.com/) - Algorand IntelliJ Plugin.
+
+### Other Development Tools / Smart Contracts
+
+*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
 
 ### Other Development Tools / Docker
 
@@ -588,7 +598,6 @@
 ### Languages / Python
 
 *   [py-algorand-sdk (⭐224)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
-*   [pyteal (⭐242)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 
 ### Languages / Java
 
@@ -601,6 +610,10 @@
 ### Languages / Swift
 
 *   [algorand-wallet (⭐160)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
+
+### Other Development Tools / Smart Contracts
+
+*   [pyteal (⭐242)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 
 ### NFT Marketplaces / Wallets
 

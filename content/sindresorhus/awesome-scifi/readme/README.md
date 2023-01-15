@@ -2,7 +2,7 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.5K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.6K · 🏷️ Entertainment
 
 [ [Daily](/content/sindresorhus/awesome-scifi/README.md) / [Weekly](/content/sindresorhus/awesome-scifi/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ Sci-Fi worth consuming
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy (⭐966)](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy (⭐999)](https://github.com/RichardLitt/awesome-fantasy).*
 
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
@@ -974,6 +974,26 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
 > Felix is an Earth soldier, encased in special body armor designed to withstand Earth's most implacable enemy-a bioengineered, insectoid alien horde. But Felix is also equipped with internal mechanisms that enable him, and his fellow soldiers, to survive battle situations that would destroy a man's mind. This is a remarkable novel of the horror, the courage, and the aftermath of combat--and how the strength of the human spirit can be the greatest armor of all.
 
+#### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle) (2019-2021) *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)* \[4.2]
+
+This novel starts as a simple rescue by a cadet that led to the entire universe fighting an epic battle they have no hope of winning.
+
+What makes this novel awesome is the build up to the final epic battle. It starts as a small team of ragtags who were framed for a crime and later find out that the least of their worry is the intergalactic military but rather an incomprehensible galaxy ending force whose sole existence is to added all living things to its hive. - [@sammy4gh](https://github.com/sammy4gh)
+
+> The year is 2380, and the graduating cadets of Aurora Academy are being assigned their first missions. Star pupil Tyler Jones is ready to recruit the squad of his dreams, but his own boneheaded heroism sees him stuck with the dregs nobody else in the Academy would touch…
+>
+> A cocky diplomat with a black belt in sarcasm, A sociopath scientist with a fondness for shooting her bunkmates ,A smart-ass techwiz with the galaxy’s biggest chip on his shoulder, An alien warrior with anger management issues ,A tomboy pilot who’s totally not into him, in case you were wondering
+>
+> And Ty’s squad isn’t even his biggest problem—that’d be Aurora Jie-Lin O’Malley, the girl he’s just rescued from interdimensional space. Trapped in cryo-sleep for two centuries, Auri is a girl out of time and out of her depth. But she could be the catalyst that starts a war millions of years in the making, and Tyler’s squad of losers, discipline-cases and misfits might just be the last hope for the entire galaxy.
+>
+> They're not the heroes we deserve. They're just the ones we could find. Nobody panic.
+
+Books:
+
+*   [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) \[4.1]
+*   [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) \[4.3]
+*   [Aurora's End](https://www.goodreads.com/book/show/40516976-aurora-s-end) \[4.2]
+
 #### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* \[4.3] 🌟 🔥
 
 This is a quick read, but it has a slow burn; the more times I read this book, and the more I think of it, the better it becomes. This book is one of the most strategically interesting books I have read. At every turn, you can feel Orson Scott Card manipulating you into seeing how brilliant Ender is. A masterpiece. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1066,7 +1086,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐966)](https://github.com/RichardLitt/awesome-fantasy).*
+*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐999)](https://github.com/RichardLitt/awesome-fantasy).*
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* \[4.0]
 
@@ -2189,5 +2209,5 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
 
 ## Credit
 
-Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐3.5k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐3.6k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
 

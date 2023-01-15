@@ -6,7 +6,17 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 [ Daily / [Weekly](/content/saharmor/awesome-chatgpt/week/README.md) / [Overview](/content/saharmor/awesome-chatgpt/readme/README.md) ]
 
+## [Jan 15, 2023](/content/2023/01/15/README.md)
+
+### Prompting
+
+*   [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
+
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
+
+### Prompting
+
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ### Assistants
 
@@ -15,10 +25,6 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Conversational
 
 *   [(Another) Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
-
-### Other
-
-*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
@@ -67,7 +73,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 
-### Featured
+### Prompting
 
 *   [ChatGPT prompts](https://prompts.chat/)
 
@@ -151,6 +157,10 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ## [Dec 06, 2022](/content/2022/12/06/README.md)
 
+### Prompting
+
+*   ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
+
 ### Assistants
 
 *   [Personal trainer and nutritionist](https://twitter.com/anothercohen/status/1599531037570502656)
@@ -174,7 +184,3 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 *   ⭐️ [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
 *   [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
-
-### Other
-
-*   ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)

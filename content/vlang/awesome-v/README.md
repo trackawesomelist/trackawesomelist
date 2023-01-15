@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Jan 15, 2023](/content/2023/01/15/README.md)
+
+### Applications / Command-line
+
+*   [vcli (⭐0)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
+
 ## [Jan 11, 2023](/content/2023/01/11/README.md)
 
 ### Libraries / Text processing

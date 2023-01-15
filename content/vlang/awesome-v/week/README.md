@@ -8,6 +8,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
+### Applications / Command-line
+
+*   [vcli (⭐0)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
+
 ### Libraries / Text processing
 
 *   [pcre2 (⭐1)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.

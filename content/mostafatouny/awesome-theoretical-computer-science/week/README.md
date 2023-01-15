@@ -12,6 +12,10 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 *   [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 
+### Books / Monograph
+
+*   [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
+
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Transition To Pure Rigour Math / Monograph
@@ -73,7 +77,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Network Groups / Monograph
 
 *   [Mathematics (⭐6.7k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐130k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐131k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 

@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Jan 13, 2023](/content/2023/01/13/README.md)
+
+### Projects / Godot 3.5+
+
+*   [GATT - Godot Autotile Texture Templater (⭐11)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
+
 ## [Jan 03, 2023](/content/2023/01/03/README.md)
 
 ### 3D / Godot 3.2+

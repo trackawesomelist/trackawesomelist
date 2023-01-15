@@ -16,6 +16,14 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Emailvalidation.io](https://emailvalidation.io) - 150 free email verifications per month
 
+### Web Hosting
+
+*   [DuckDocs](https://duckdocs.com) - Markdown-powered documentation hosting, sort of like a hosted Docusaurus. Free for 10 pages per site.
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
+
 ### Issue Tracking and Project Management
 
 *   [Sflow](https://sflow.io) — sflow\.io is a project management tool that is built for software agile development, marketing, sales, and customer support, especially for outsourcing project and cross-organization collaboration project. Free plan up to 3 projects and 5 members.
@@ -1284,7 +1292,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Design Inspiration
 
 *   [awwwards.](https://www.awwwards.com/) - \[Top websites] A showcases of all the best designed websites (voted on by designers).
-*   [Behance](https://www.behance.net/) - \[Desing showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.
+*   [Behance](https://www.behance.net/) - \[Design showcase] A place where designers showcase their work. Filterable with categories for UI/UX projects.
 *   [dribbble](https://dribbble.com/) - \[Design showcase] Unique design inspiration, generally not from real applications.
 *   [Mobbin](https://mobbin.design/) - \[Mobile screenshots] Save hours of UI & UX research with our library of 50,000+ fully searchable mobile app screenshots.
 *   [Mobile Patterns](https://www.mobile-patterns.com/) - \[Mobile screenshots] A design inspirational library featuring finest UI UX Patterns (iOS and Android) for designers, developers, and product makers to reference.
@@ -1545,7 +1553,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Storage and Media Processing
 
 *   [uploadcare.com](https://uploadcare.com/hub/developers/) — Uploadcare provides media pipeline  with ultimate toolkit based on cutting-edge algorithms. All features are available for developers absolutely for free: File Uploading API and UI, Image CDN and Origin Services, Adaptive Delivery and Smart Compression. Limit free tier has 3000 uploads, 3 GB traffic and 3 GB storage.
-*   [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 100 Gb, 5 devices, 500 Gb referral bonus (365 days account inactivity).
+*   [degoo.com](https://degoo.com/) – AI based cloud storage with free up to 20 Gb, 3 devices, 5 Gb referral bonus (90 days account inactivity).
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 
@@ -2229,10 +2237,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [darklang.com](https://darklang.com/) - Hosted language combined with editor and infrastructure. Free during the beta, generous free tier planned after beta.
 
-### Web Hosting
-
-*   [hostman.com](https://hostman.com) — Deploy up to 3 static sites from your GitHub repository for free.
-
 ### DBaaS
 
 *   [Upstash](https://upstash.com/) — Serverless Redis with free tier up to 10,000 requests per day, 256MB max database size, and 20 concurrent connections
@@ -2488,7 +2492,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage and 10000 request per month
     *   [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
     *   [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
-    *   [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo)
+    *   [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month
     *   [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
     *   [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
     *   [RDS](https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups

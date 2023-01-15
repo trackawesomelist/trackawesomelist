@@ -8,6 +8,11 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
+### Prompting
+
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+*   [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
+
 ### Assistants
 
 *   [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs, etc.)](https://twitter.com/gabe_ragland/status/1599466486422470656)
@@ -15,10 +20,6 @@ Selected ChatGPT demos, tools, articles, and more ✨
 ### Conversational
 
 *   [(Another) Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
-
-### Other
-
-*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -45,7 +46,7 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
-### Featured
+### Prompting
 
 *   [ChatGPT prompts](https://prompts.chat/)
 
@@ -64,6 +65,10 @@ Selected ChatGPT demos, tools, articles, and more ✨
 *   [Share your wildest ChatGPT conversations with one click (⭐221)](https://github.com/domeccleston/sharegpt)
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
+
+### Prompting
+
+*   ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
 
 ### Using ChatGPT in other apps
 
@@ -127,7 +132,6 @@ Selected ChatGPT demos, tools, articles, and more ✨
 
 ### Other
 
-*   ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
 *   ⭐️ [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 *   [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 *   [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)

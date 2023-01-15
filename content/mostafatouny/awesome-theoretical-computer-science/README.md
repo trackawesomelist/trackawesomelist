@@ -6,6 +6,12 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 [ Daily / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
 
+## [Jan 14, 2023](/content/2023/01/14/README.md)
+
+### Books / Monograph
+
+*   [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
+
 ## [Jan 09, 2023](/content/2023/01/09/README.md)
 
 ### Lecture Notes / Monograph
@@ -78,7 +84,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Network Groups / Monograph
 
 *   [Mathematics (⭐6.7k)](https://github.com/rossant/awesome-math) - Awesome list for freely available lecture notes on mathematics
-*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐130k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
+*   P.S. See also [Math (⭐2k)](https://github.com/ossu/math) and [CS (⭐131k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu)
 
 ## [Jun 06, 2022](/content/2022/06/06/README.md)
 

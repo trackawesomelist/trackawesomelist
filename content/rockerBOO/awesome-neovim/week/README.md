@@ -13,6 +13,10 @@ Collections of awesome neovim plugins.
 *   [s1n7ax/nvim-search-and-replace (⭐26)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
 *   [roobert/search-replace.nvim (⭐66)](https://github.com/roobert/search-replace.nvim) - Brings better features to the native search and replace experience.
 
+### Fuzzy Finder / Diagnostics
+
+*   [axkirillov/easypick.nvim (⭐183)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
+
 ### File Explorer / Diagnostics
 
 *   [dinhhuy258/sfm.nvim (⭐5)](https://github.com/dinhhuy258/sfm.nvim) - An alternative to Nvim-tree designed to be extensible and minimalist.
@@ -24,11 +28,15 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [tmillr/sos.nvim (⭐5)](https://github.com/tmillr/sos.nvim) -  Automatically save all your modified buffers according to a predefined timeout value.
+*   [tmillr/sos.nvim (⭐5)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
 
 ### Indent / Diagnostics
 
 *   [LucasTavaresA/simpleIndentGuides.nvim (⭐4)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
+
+### Session / Diagnostics
+
+*   [gennaro-tedesco/nvim-possession (⭐8)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -73,7 +81,7 @@ Collections of awesome neovim plugins.
 ### Project / Diagnostics
 
 *   [pluffie/neoproj (⭐3)](https://github.com/pluffie/neoproj) - Small yet powerful project (and session) manager.
-*   [natecraddock/workspaces.nvim (⭐115)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
+*   [natecraddock/workspaces.nvim (⭐117)](https://github.com/natecraddock/workspaces.nvim) - Manage workspace directories.
 
 ### Keybinding / Diagnostics
 
@@ -101,7 +109,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [cbochs/grapple.nvim (⭐105)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
+*   [cbochs/grapple.nvim (⭐113)](https://github.com/cbochs/grapple.nvim) - Provides tagging, cursor tracking, and immediate navigation to important project files.
 
 ### Project / Diagnostics
 
@@ -132,7 +140,7 @@ Collections of awesome neovim plugins.
 
 ### Motion / Diagnostics
 
-*   [cbochs/portal.nvim (⭐106)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
+*   [cbochs/portal.nvim (⭐115)](https://github.com/cbochs/portal.nvim) - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
 
 ### Editing Support / Diagnostics
 
@@ -140,7 +148,7 @@ Collections of awesome neovim plugins.
 
 ### Formatting / Diagnostics
 
-*   [emileferreira/nvim-strict (⭐21)](https://github.com/emileferreira/nvim-strict) - Strictly enforce configurable, best-practice code style by exposing deep nesting, overlong lines, trailing whitespace, trailing empty lines and inconsistent indentation.
+*   [emileferreira/nvim-strict (⭐21)](https://github.com/emileferreira/nvim-strict) - Strict, native code style formatting which exposes deep nesting, overlong lines, trailing whitespace, trailing empty lines, todos and inconsistent indentation.
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 

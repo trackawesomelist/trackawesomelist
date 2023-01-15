@@ -19,6 +19,11 @@
 ### CLI
 
 *   [AlgoKit CLI (⭐9)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
+*   [tealinspector (⭐6)](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
+
+### Other Development Tools / Smart Contracts
+
+*   [beaker-ts (⭐9)](https://github.com/algorand-devrel/beaker-ts) - Generate typescript clients for your beaker applications.
 
 ### Projects / Wallets
 
@@ -160,7 +165,7 @@
 
 ## [Jul 04 - Jul 10, 2022](/content/2022/27/README.md)
 
-### Languages / Python
+### Other Development Tools / Smart Contracts
 
 *   [beaker (⭐64)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
 
@@ -433,8 +438,6 @@
 ### Languages / Python
 
 *   [py-algorand-sdk (⭐224)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
-*   [pyteal (⭐242)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
-*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
 *   [tinyman-py-sdk (⭐113)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 *   [algofi-py-sdk (⭐41)](https://github.com/Algofiorg/algofi-py-sdk) - Algofi Python SDK.
 
@@ -466,6 +469,11 @@
 ### IDEs / VSCode
 
 *   [Obsidian Labs/vscode-algorand (⭐13)](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS Code Extension.
+
+### Other Development Tools / Smart Contracts
+
+*   [pyteal (⭐242)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
+*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilites library.
 
 ### Other Development Tools / Docker
 

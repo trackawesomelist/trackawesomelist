@@ -1,18 +1,152 @@
 # Awesome List Updates on Jan 09 - Jan 15, 2023
 
-42 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [1. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+
+### IR Tools Collection / All-In-One Tools
+
+*   [SOC Multi-tool (⭐99)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
+
+## [2. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+
+### Models and Projects / Flax
+
+*   [GNNs for Solving Combinatorial Optimization Problems (⭐1)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [Algorithms Design (in C)](https://www.ime.usp.br/\~pf/algorithms/) - Paulo Feofiloff (HTML)
+
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Communication - Custom Communication Systems
+
+*   [Apprise (⭐7.3k)](https://github.com/caronc/apprise) - Apprise allows you to send a notification to almost all of the most popular notification services available to us today such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc. `MIT` `Python/Docker`
+
+### Software / Communication - Social Networks and Forums
+
+*   [Retrospring (⭐122)](https://github.com/retrospring/retrospring) - A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+
+### Software / Games
+
+*   [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare. ([Source Code (⭐2.3k)](https://github.com/0ad/0ad)) `MIT/GPL-2.0/Zlib` `C++/C`
+*   [Veloren](https://veloren.net/) - Multiplayer RPG. Open-source game inspired by Cube World, Legend of Zelda, Dwarf Fortress and Minecraft. ([Source Code (⭐3.2k)](https://github.com/veloren/veloren)) `GPL-3.0` `Rust`
+
+### Software / Miscellaneous
+
+*   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐294)](https://github.com/magicbug/cloudlog)) `MIT` `PHP`
+
+### Software / Note-taking & Editors
+
+*   [Benotes](https://benotes.org/) - An open source self hosted notes and bookmarks taking web app. ([Souce Code (⭐305)](https://github.com/fr0tt/benotes)) `MIT` `PHP`
+
+### Software / Wikis
+
+*   [PukiWiki](https://pukiwiki.osdn.jp/) - PukiWiki is a free, simple, open-source wiki management system. Minimalistic and simple design with many tools for collaborative work. Created in Japanese, so translator needed. ([Source Code](https://ja.osdn.net/projects/pukiwiki/scm/git/pukiwiki/)) `GPL-2.0` `PHP`
+
+## [5. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+
+### Software / Programming languages
+
+*   [PikaPython (⭐913)](https://github.com/pikastech/pikapython) - Python runs with only 4KB of RAM, zero dependencies, easy to bind with C.
+
+## [6. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+
+### Charts / Third Party
+
+*   [Layer Cake (⭐735)](https://github.com/mhkeller/layercake) - A graphics framework built on top of Svelte.
+*   [semiotic (⭐2.3k)](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3 \[scatter, line, area]
+
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+
+### Misc
+
+*   [xc (⭐16)](https://github.com/s2mr/xc) - A tool to open the Xcode project file by the specified version.
+
+### Alert / Barcode
+
+*   [Kamagari (⭐78)](https://github.com/tasanobu-zz/Kamagari) - Simple UIAlertController builder class.
+
+## [8. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+
+### Tools
+
+*   [Automation Controller](https://www.ansible.com/products/controller) - Automation Controller (formally Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
+*   [Packer Ansible Provisioner](https://www.packer.io/plugins/provisioners/ansible/ansible-local) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
+
+## [9. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+
+### Templates / Vue 3
+
+*   [vite-vue-h5-app (⭐2)](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
+*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia,  APIs\&Mock, ESLint, Prettier, auto-importing.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [vite-plugin-qiniu-oss (⭐3)](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
+*   [vite-plugin-stylelint (⭐12)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
+
+### Framework-agnostic Plugins / Loaders
+
+*   [vite-plugin-remark-rehype (⭐0)](https://github.com/y-nk/vite-plugin-remark-rehype) - Loads and transform markdown files using the unified ecosystem.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [unplugin-imagemin (⭐43)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-entry-shaking (⭐12)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+
+## [10. Awesome Decentralized](/content/croqaz/awesome-decentralized/week/README.md)
+
+### Applications
+
+*   [DB3 Network (⭐78)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+
+## [11. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+
+### [Transistor Software plugins](https://www.transistorsoft.com//)
+
+*   [Background Geolocation (⭐48)](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
+*   [Background Fetch (⭐45)](https://github.com/transistorsoft/capacitor-background-fetch) - Periodic callbacks in the background for both IOS and Android.
+*   [Background Geolocation Firebase (⭐6)](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
+
+## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+
+### Game Boy Color / Opcodes
+
+*   [Boot ROM Disassembly](https://gist.github.com/drhelius/6063265)
+*   [GBC Hicolour notes](https://romhack.github.io/doc/gbcHiColour/) - A technical note regarding Hicolour mode trick for Game Boy Color and its realization in the GBC game “Crystalis”.
+
+## [13. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+
+### Projects / Godot 3.5+
+
+*   [GATT - Godot Autotile Texture Templater (⭐11)](https://github.com/sesopenko/gatt) - A tool for generating 2x2 and 3x3 autotile tilesets in whichever size and colour needed.
+
+## [14. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+
+### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle)   (2019-2021)   *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)*   \[4.2] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+
+*   [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) \[4.1]
+*   [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) \[4.3]
+*   [Aurora's End](https://www.goodreads.com/book/show/40516976-aurora-s-end) \[4.2]
+
+## [15. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Discovery
 
 *   [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Writing
 
@@ -22,13 +156,18 @@
 
 *   [Lighten](https://lighten-test.xmind.net) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
 
-## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [17. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Software Engineering
 
 *   [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell) - YAML is full of obscure complexity like accidental numbers and non-string keys.
 
-## [4. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+## [18. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/week/README.md)
+
+### Prompting
+
+*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+*   [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
 ### Assistants
 
@@ -38,48 +177,48 @@
 
 *   [(Another) Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
 
-### Other
-
-*   ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
-
-## [5. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [19. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### General
 
 *   [Statichunt](https://statichunt.com/) - Jamstack Themes and Resources directory.
 
-## [6. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [20. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Form Components / Drag and Drop
 
 *   [neodrag (⭐889)](https://github.com/PuruVJ/neodrag) - Multi-framework libraries for dragging. Choose your framework, the dragging API behavior will stay the same 🔥
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [xcode (⭐44)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [rigel (⭐0)](https://github.com/othiagos/rigel-zsh-theme/) - Includes decorators for `git` information, user\@hostname and current directory.
 *   [starship (wintermi) (⭐4)](https://github.com/wintermi/zsh-starship) - A simple plugin to use the Starship prompt, along with a powerline theme.
 
-## [8. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [22. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Playgrounds
 
 *   [ChainQuery Bitcoin RPC](https://chainquery.com) - Run select bitcoin RPC API calls and read full RPC docs in your browser.
 
-## [9. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [23. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Remote / WebAssembly
 
 *   [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 
-## [10. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
+## [24. Awesome Productivity](/content/jyguyomarch/awesome-productivity/week/README.md)
 
 ### Tools and Apps / Task Management
 
 *   [OpenProject](https://www.openproject.org/) - An on premise open source project management solution that comes with a free community version as well as an enterprise version.
 
-## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [25. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### General Search
 
@@ -133,44 +272,92 @@
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
 *   [SerpScan (⭐47)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
 
-## [12. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [26. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Web Frameworks
 
 *   [Crystal Forum](https://forum.crystal-lang.org/)
 
-## [13. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [27. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
 *   [ASP.NET Community Standup - Exploring new and experimental features in Blazor](https://www.youtube.com/watch?v=fQ1Bg-u_YLw\&list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t\&index=2) - ![duration](https://img.shields.io/badge/Duration:%20-73%20min-%230094FF?style=flat-square\&cacheSeconds=maxAge\&logo=youtube) January 10, 2023 - It show what it's like to build a .NET 7 Blazor app using both new and currently experimental features. Featuring: Daniel Roth, Jon Galloway, Mackinnon Buck. [Community links](https://www.theurlist.com/aspnet-community-standup-2023-01).
 
-## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [28. Awesome V](/content/vlang/awesome-v/week/README.md)
+
+### Applications / Command-line
+
+*   [vcli (⭐0)](https://github.com/changhz/vcli) - A CLI tool to generate folder structure according to the [guideline](https://blog.vlang.io/the-complete-beginners-guide-to-cli-apps-in-v/)
 
 ### Libraries / Text processing
 
 *   [pcre2 (⭐1)](https://github.com/srackham/pcre2) - Library for processing PCRE regular expressions.
 
-## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [29. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+
+### Libraries/Frameworks / Misc
+
+*   [KotUniL (⭐27)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
+
+### Kotlin JavaScript / Integration
+
+*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
+
+## [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history and maps
 
+*   \[🔥🔥🔥] [AI Depot - Discover New AI Tools](https://aidepot.co/): collection of AI tools organized by tags and presented in a card format
+*   [AI exploded on the scene at the end of 2022 / Twitter](https://twitter.com/RamaswmySridhar/status/1613271413020037120): categories for analyzing tools of Generative AI
 *   \[🔥🔥🔥] [Generative AI Database](https://aaronsim.notion.site/Generative-AI-Database-Types-Models-Sector-URL-API-more-b5196c870594498fb1e0d979428add2d): a database in Notion with types, models, sectors, URLs, and APIs
 
 ### Prompt Engineering | Prompt Design | Prompt Craft / For text-to-text
 
+*   [How to write an effective GPT-3 prompt | Zapier](https://zapier.com/blog/gpt-3-prompt/): a list of 6 GPT-3 tips for getting the desired output
 *   [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://fka.gumroad.com/l/art-of-chatgpt-prompting): e-book by Fatih Kadir Akın ([@fkadev](http://twitter.com/fkadev))
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [The Dark Risk of Large Language Models | WIRED UK](https://www.wired.co.uk/article/artificial-intelligence-language)
+*   [ChatGPT, DALL-E 2 and the collapse of the creative process](https://theconversation.com/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-196461)
+*   [Forecasting Potential Misuses of Language Models for Disinformation Campaigns—and How to Reduce Risk](https://openai.com/blog/forecasting-misuse/)
+*   [The Dark Side of AI Art: 4 Potential Issues With the Growing Trend](https://www.makeuseof.com/dark-side-of-ai-art-potential-issues/)
+*   [Armed With ChatGPT, Cybercriminals Build Malware And Plot Fake Girl Bots](https://www.forbes.com/sites/thomasbrewster/2023/01/06/chatgpt-cybercriminal-malware-female-chatbots/?sh=6019f4315534)
+*   [ChatGPT And The Mass Production Of Office Work - Farsight](https://farsight.cifs.dk/chatgpt-and-the-mass-production-of-office-work/)
+*   [The Danger Of ChatGPT Nobody Talks About | by Jacob Ferus | Dec, 2022 | Medium](https://medium.com/@dreamferus/the-danger-of-chatgpt-nobody-talks-about-9aff94e5dea6)
+*   [Mind Control in the Metaverse. If we’ve learned anything about… | by Louis Rosenberg | Predict | Dec, 2022 | Medium](https://medium.com/predict/mind-control-in-the-metaverse-48dfbd88c2ae)
+*   [The Brilliance and Weirdness of ChatGPT - The New York Times](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
+*   [Como o texto gerado por Inteligência Artificial está envenenando a Internet - MIT Technology Review](https://mittechreview.com.br/como-o-texto-gerado-por-inteligencia-artificial-esta-envenenando-a-internet/)
+*   [O ChatGPT é o momento “Jurassic Park” da inteligência artificial - NeoFeed](https://neofeed.com.br/blog/home/o-chatgpt-e-o-momento-jurassic-park-da-inteligencia-artificial/)
+*   [Por favor, mais racionalidade e menos frenesi em relação ao chatGPT (Parte 1 de 2) | by Cezar Taurion | Dec, 2022 | Medium](https://c-taurion.medium.com/por-favor-mais-racionalidade-e-menos-frenesi-em-rela%C3%A7%C3%A3o-ao-chatgpt-parte-1-de-2-1d7637e2a854)
+*   [E se estivermos usando uma IA pseudocientífica? - Diogo Cortiz](https://diogocortiz.com.br/computacao-afetiva-e-os-desafios-das-ias-pseudocientificas/)
+*   [As limitações da sensação tecnológica de 2023: o ChatGPT | IAgora? | Época NEGÓCIOS](https://epocanegocios.globo.com/colunas/iagora/coluna/2023/01/as-limitacoes-da-sensacao-tecnologica-de-2023-o-chatgpt.ghtml)
+
+### Image Synthesis / Promptism
+
+*   [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io/)
+
+### Inbox: Text-to-speech (TTS) tools / Text-to-image Google Colab Notebooks (Multiple Models)
+
+*   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
+*   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
+*   [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
 ### Inbox: Text and Natural Language Processing / Text-to-image Google Colab Notebooks (Multiple Models)
 
 *   \[🔥] [104 Growth Hacking Swipe (ChatGPT)](https://doc.clickup.com/25598832/p/h/rd6vg-11110/502bfba03b21bad): set of ChatGPT prompts for design, products and marketing
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Search / Diagnostics
 
 *   [s1n7ax/nvim-search-and-replace (⭐26)](https://github.com/s1n7ax/nvim-search-and-replace) - Search and replace in multiple files at the same time from the current working directory.
 *   [roobert/search-replace.nvim (⭐66)](https://github.com/roobert/search-replace.nvim) - Brings better features to the native search and replace experience.
+
+### Fuzzy Finder / Diagnostics
+
+*   [axkirillov/easypick.nvim (⭐183)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 
 ### File Explorer / Diagnostics
 
@@ -183,13 +370,17 @@
 
 ### Editing Support / Diagnostics
 
-*   [tmillr/sos.nvim (⭐5)](https://github.com/tmillr/sos.nvim) -  Automatically save all your modified buffers according to a predefined timeout value.
+*   [tmillr/sos.nvim (⭐5)](https://github.com/tmillr/sos.nvim) - Automatically save all your modified buffers according to a predefined timeout value.
 
 ### Indent / Diagnostics
 
 *   [LucasTavaresA/simpleIndentGuides.nvim (⭐4)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the builtin variables.
 
-## [17. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+### Session / Diagnostics
+
+*   [gennaro-tedesco/nvim-possession (⭐8)](https://github.com/gennaro-tedesco/nvim-possession) - The no-nonsense session manager.
+
+## [32. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Game tools and libraries
 
@@ -209,13 +400,13 @@
 
 *   [zig.pm](https://zig.pm/) - A community-maintained repository of Zig packages.
 
-## [18. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [33. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Databases / Data Sources
 
 *   [MyAnimeList APIv2](https://myanimelist.net/apiconfig/references/api/v2) - Official API for [MyAnimeList](https://myanimelist.net/). \[English]
 
-## [19. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [34. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Articles & Blogs
 
@@ -229,13 +420,17 @@
 
 *   [Firefly III (⭐9.5k)](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
-## [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [35. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Automotive
 
 *   [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG022) - Kia configurator (Korean).
 
-## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [ZuiOJ (⭐30)](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
 
 ### Projects Using Vue.js / Apps/Websites
 
@@ -253,7 +448,7 @@
 
 *   [vue-web-otp (⭐1)](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
 
-## [22. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
@@ -268,7 +463,7 @@
 *   This list is currently empty, but you can add to it by opening a merge request.
 *   Please reach out if you are interested in sponsoring this repo. Your company's name and logo will be prominently displayed here.
 
-## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Cryptocurrencies
 
@@ -278,12 +473,18 @@
 
 *   [Atomic-Server (⭐200)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
 
+### Applications / Security tools
+
+*   [cargo-audit](https://crates.io/crates/cargo-audit) - Audit Cargo.lock for crates with security vulnerabilities
+*   [cargo-auditable](https://crates.io/crates/cargo-auditable) - Make production Rust binaries auditable
+*   [cargo-deny](https://crates.io/crates/cargo-deny) - Cargo plugin to help you manage large dependency graphs
+
 ### Libraries / Peripherals
 
 *   Serial Port
     *   [serialport/serialport-rs (⭐129)](https://github.com/serialport/serialport-rs) \[[serialport](https://crates.io/crates/serialport)] — A cross-platform library that provides access to a serial port
 
-## [24. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [39. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Caching
 
@@ -293,31 +494,13 @@
 
 *   [SecTester (⭐0)](https://github.com/NeuraLegion/sectester-net) - SecTester is a new tool that integrates [Bright](https://brightsec.com/) enterprise-grade scan engine directly into your integration or e2e tests. **\[Proprietary]** **\[Free]**
 
-## [25. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [40. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### eBPF Workflow: Tools and Utilities / eunomia-bpf
 
 *   [eunomia-bpf (⭐161)](https://github.com/eunomia-bpf/eunomia-bpf) - A compilation framework and runtime library to build, distribute, dynamically load, and run CO-RE eBPF applications in multiple languages and WebAssembly. It supports writing eBPF kernel code only (to build simple CO-RE libbpf eBPF applications), writing the kernel part in both BCC and libbpf styles, and writing userspace in multiple languages in a WASM module and distributing it with simple JSON data or WASM OCI images. The runtime is based on libbpf only and provides CO-RE to BCC-style eBPF programs without depending on the LLVM library.
 
-## [26. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Misc
-
-*   [KotUniL (⭐27)](https://github.com/vsirotin/si-units) - KotUniL: Kotlin function and objects for working with SI units like meter, second, as well as currencies and general units like percent.
-
-### Projects / Desktop
-
-*   [hazae41/Kotlin-Compiler-GUI (⭐0)](https://github.com/hazae41/Kotlin-Compiler-GUI) - Easily compile Kotlin classes (.kt) and run Kotlin scripts (.kts)
-
-### Projects / Examples
-
-*   [Kotlin/kotlin-koans (⭐2.6k)](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
-
-### Kotlin JavaScript / Integration
-
-*   [kotlin/ts2kt (⭐324)](https://github.com/kotlin/ts2kt) - Converter of TypeScript definition files to Kotlin declarations (stubs).
-
-## [27. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [41. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Game Engines / Awesome Collections
 
@@ -1438,13 +1621,13 @@
 *   📚 [Retro3DGraphicsCollection (⭐794)](https://github.com/Miziziziz/Retro3DGraphicsCollection) - No attribution, retro style 3D graphic assets (think PS1).
 *   💸 [Sketchfab](https://sketchfab.com) - Huge library of 3D assets.
 
-## [28. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [42. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Validation / Playground
 
 *   [typia (⭐2.1k)](https://github.com/samchon/typia) - Superfast runtime validator 15,000x faster than `class-validator`. Also, supports faster JSON and Protocol Buffer functions even type safe. Those features can be performed by only one line.
 
-## [29. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [43. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Wallets
 
@@ -1457,37 +1640,42 @@
 ### CLI
 
 *   [AlgoKit CLI (⭐9)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network. Official tooling maintained by the Algorand Foundation.
+*   [tealinspector (⭐6)](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
+
+### Other Development Tools / Smart Contracts
+
+*   [beaker-ts (⭐9)](https://github.com/algorand-devrel/beaker-ts) - Generate typescript clients for your beaker applications.
 
 ### Projects / Wallets
 
 *   [SliceSwap](https://app.sliceswap.com) - One place to trade your assets across major Dex's. All swaps are powered by @deflexfi.
 *   [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
 
-## [30. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [44. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### Miscellaneous
 
 *   [Upgrade Adviser (⭐7)](https://github.com/diplopito/Phalcon-Upgrade-Adviser) - Command line tool to help upgrading Phalcon Applications from 3.4.x to 4.1.3, 3.4.x to 5.1.3, 4.1.3 to 5.1.3.
 
-## [31. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [45. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Other
 
 *   [GILT Forum (⭐30)](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - A Guide for Localization and Globalization Professionals.
 
-## [32. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [46. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Tools
 
 *   [magento2docker (⭐0)](https://github.com/aliuosio/magento2docker) - MariaDB, PHP , Redis, ElasticSearch in one dockerfile for fast demo and deveopment enviroment
 
-## [33. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
+## [47. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
 ### Qubes OS Websites
 
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-*   [Qubes OS GitHub Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
+*   [Qubes OS GitHub Documentation (⭐287)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 *   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ### Downloading, Installing, Upgrading, and Building
@@ -1507,9 +1695,9 @@
 *   [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
 *   [GUI-virtualization](https://www.qubes-os.org/doc/gui/)
 *   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-*   [Install-nvidia-driver (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
-*   [Nvidia-troubleshooting (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
-*   [Windows-gaming-hvm (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
+*   [Install-nvidia-driver (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
+*   [Nvidia-troubleshooting (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
+*   [Windows-gaming-hvm (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
 ### Desktop Customization
 
@@ -1519,7 +1707,7 @@
 
 ### VPN
 
-*   [Qubes-Tunnel (⭐15)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+*   [Qubes-Tunnel (⭐16)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 
 ### Crypto
 
@@ -1611,7 +1799,7 @@
 *   `#qubes`    channel on irc.libera.chat via traditional IRC clients.
 *   `#qubes-os` channel on irc.anonops.com via traditional IRC clients.
 
-## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [48. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data and ML
 
@@ -1621,6 +1809,14 @@
 
 *   [Emailvalidation.io](https://emailvalidation.io) - 150 free email verifications per month
 
+### Web Hosting
+
+*   [DuckDocs](https://duckdocs.com) - Markdown-powered documentation hosting, sort of like a hosted Docusaurus. Free for 10 pages per site.
+
+### Tunneling, WebRTC, Web Socket Servers and Other Routers
+
+*   [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
+
 ### Issue Tracking and Project Management
 
 *   [Sflow](https://sflow.io) — sflow\.io is a project management tool that is built for software agile development, marketing, sales, and customer support, especially for outsourcing project and cross-organization collaboration project. Free plan up to 3 projects and 5 members.
@@ -1629,30 +1825,41 @@
 
 *   [Kody Tools](https://www.kodytools.com/dev-tools) — 100+ dev tools including formatter, minifier, and converter.
 
-## [35. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [49. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Hydrogen](https://statichunt.com/themes/nextjs-hydrogen) - Hydrogen is a Nextjs blog starter template build with tailwindCss and MDX supports. It has all necessary MDX shortcodes out of the box.
 *   [Next-Fire-Auth (⭐0)](https://github.com/hrushikedar33/next-fire-auth) - A awesome boilerplate for startup application with authentication using Next.js + Typescript + Tailwind CSS + Firebase-auth + React-Firebase-Hooks
+*   [NextJS Chargebee Subscription (⭐0)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
-## [36. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [50. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [react-vite-admin (⭐151)](https://github.com/ychengcloud/react-vite-admin) - React, Recoil, React Query, React Hooks, Typescript, Axios.
 
-## [37. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [51. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [Perl::Analyzer](https://technix.github.io/Perl-Analyzer/) — Perl-Analyzer is a set of programs and modules that allow users to analyze and visualize Perl  codebases by providing information about namespaces and their relations, dependencies,  inheritance, and methods implemented, inherited, and redefined in packages,  as well as calls to methods from parent packages via SUPER.
 
-## [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [52. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Knowledge Management
 
-*   [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA.
+*   [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA (PDF only).
+*   [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). \[[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
+*   [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html) - ***National Diet Library of Japan***. Classification system of Japan (PDF only).
+
+### Bayesian Modeling / Bayesian Induction
+
+*   [Rules and Similarity in Concept Learning](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
+
+### Concepts / Human Concept Representation
+
+*   [Navigating cognition: Spatial codes for human thinking](https://pure.mpg.de/rest/items/item_3007836/component/file_3379059/content) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1407237757770081862\&hl=en\&as_sdt=0,5)]. A framework that operates across information domains to support a wide spectrum of cognitive functions, where place and grid cell population codes provide a representational format to map variable dimensions of cognitive spaces.
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
@@ -1662,7 +1869,7 @@
 
 *   [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679\&hl=en\&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
 
-## [39. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [53. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Commenting Engines
 
@@ -1679,27 +1886,25 @@
 
 *   [BusKill](https://www.buskill.in/) - BusKill is a Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.
 
-## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+### Video Editing / Alternative clients/modifications of Discord:
+
+*   [LosslessCut (⭐15k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
+
+## [54. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Security
 
 *   [Ronin (⭐315)](https://github.com/ronin-rb/ronin) - A Ruby platform for vulnerability research and exploit development.
 
-## [41. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [55. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
 *   [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
 
-## [42. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+### Books / Monograph
 
-### Open Source Ecosystem
-
-*   [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Nadia Eghbal
-
-### Professional Development
-
-*   [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
+*   [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
 
 ---
 

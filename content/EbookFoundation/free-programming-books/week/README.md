@@ -13,6 +13,12 @@
 - [Free Programming Books (Spanish)](/content/EbookFoundation/free-programming-books/books/free-programming-books-es/week/README.md)
 - [Free Podcasts/Screencasts (English)](/content/EbookFoundation/free-programming-books/casts/free-podcasts-screencasts-en/week/README.md)
 
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### C / Non-X86
+
+*   [Algorithms Design (in C)](https://www.ime.usp.br/\~pf/algorithms/) - Paulo Feofiloff (HTML)
+
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### C / Non-X86
@@ -3406,7 +3412,7 @@
 
 ### Objective-C / PicoLisp
 
-*   [Google's Objective-C Style Guide (⭐32k)](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
+*   [Google's Objective-C Style Guide (⭐33k)](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
 
 ### PowerShell / Zend
 

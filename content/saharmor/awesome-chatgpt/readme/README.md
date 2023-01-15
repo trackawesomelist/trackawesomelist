@@ -20,9 +20,15 @@ This list is up to date. Last update: 01/11/22
 
 ## Featured
 
+1.  [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
+2.  [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
+
+## Prompting
+
 1.  [ChatGPT prompts](https://prompts.chat/)
-2.  [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
-3.  [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
+2.  ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
+3.  ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+4.  [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
 ## Using ChatGPT in other apps
 
@@ -95,7 +101,6 @@ This list is up to date. Last update: 01/11/22
 
 ## Other
 
-1.  ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
 2.  ⭐️ [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 3.  [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 4.  [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
@@ -106,5 +111,4 @@ This list is up to date. Last update: 01/11/22
 9.  [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 10. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
 11. [Share your wildest ChatGPT conversations with one click (⭐221)](https://github.com/domeccleston/sharegpt)
-12. ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included (⭐1.1k)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 

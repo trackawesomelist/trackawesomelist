@@ -2,9 +2,17 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.5K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 3.6K · 🏷️ Entertainment
 
 [ [Daily](/content/sindresorhus/awesome-scifi/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-scifi/readme/README.md) ]
+
+## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
+
+### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle)   (2019-2021)   *by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)*   \[4.2] / [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength)   (1945)   *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)*   \[3.9]
+
+*   [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) \[4.1]
+*   [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) \[4.3]
+*   [Aurora's End](https://www.goodreads.com/book/show/40516976-aurora-s-end) \[4.2]
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
