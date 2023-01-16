@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/thibmaek/awesome-raspberry-pi/week/README.md) / [Overview](/content/thibmaek/awesome-raspberry-pi/readme/README.md) ]
 
+## [Jan 16, 2023](/content/2023/01/16/README.md)
+
+### OS Images
+
+*   [FreedomBox](https://www.freedombox.org) - FreedomBox is a private home server for non-experts. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/master/media/badges/rpi-2+.png)
+
+### Community / iOS
+
+*   [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
+
 ## [Jan 07, 2023](/content/2023/01/07/README.md)
 
 ### OS Images

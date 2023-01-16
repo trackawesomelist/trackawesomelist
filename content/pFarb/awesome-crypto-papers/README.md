@@ -6,6 +6,12 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 
 [ Daily / [Weekly](/content/pFarb/awesome-crypto-papers/week/README.md) / [Overview](/content/pFarb/awesome-crypto-papers/readme/README.md) ]
 
+## [Jan 16, 2023](/content/2023/01/16/README.md)
+
+### Specific topics / Zero Knowledge Proofs
+
+*   [Information Theoretic Reductions among Disclosure Problems](https://web.archive.org/http://crypto.cs.mcgill.ca/\~crepeau/BCR86.pdf) - Brassau et al.
+
 ## [Oct 23, 2022](/content/2022/10/23/README.md)
 
 ### Specific topics / Secret key cryptography
@@ -78,7 +84,7 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 ### Specific topics / Zero Knowledge Proofs
 
 *   [Proofs of knowledge](https://cseweb.ucsd.edu/\~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
-*   [Knowledge complexity of interactive proof systems (⭐1)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
+*   [Knowledge complexity of interactive proof systems (⭐2)](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs.
 
 ### Books / Post-quantum cryptography
 
@@ -289,10 +295,6 @@ A curated list of cryptography papers, articles, tutorials and howtos.
 ### Specific topics / Public key cryptography: Elliptic-curve crypto
 
 *   [Explain me like I'm 5: How digital signatures actually work](http://blog.oleganza.com/post/162861219668/eli5-how-digital-signatures-actually-work) - EdDSA explained with ease and elegance.
-
-### Specific topics / Zero Knowledge Proofs
-
-*   [Information Theoretic Reductions among Disclosure Problems](http://crypto.cs.mcgill.ca/\~crepeau/BCR86.pdf) - Brassau et al.
 
 ### Lectures and educational courses / Post-quantum cryptography
 

@@ -6,6 +6,15 @@
 
 [ Daily / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / [Overview](/content/aorumbayev/awesome-algorand/readme/README.md) ]
 
+## [Jan 16, 2023](/content/2023/01/16/README.md)
+
+### Languages / .NET
+
+*   [dotnet-alogrand-sdk (2) (⭐21)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) - Algorand .NET SDK maintained by [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
+*   [dotnet-tinyman-sdk (⭐7)](https://github.com/geoffodonnell/dotnet-tinyman-sdk) - Tinyman .NET SDK.
+*   [dotnet-yieldly-sdk (⭐11)](https://github.com/geoffodonnell/dotnet-yieldly-sdk) - Yieldly .NET SDK.
+*   [powershell-algorand-module (⭐2)](https://github.com/geoffodonnell/powershell-algorand-module) - Algorand PowerShell Module.
+
 ## [Jan 14, 2023](/content/2023/01/14/README.md)
 
 ### CLI

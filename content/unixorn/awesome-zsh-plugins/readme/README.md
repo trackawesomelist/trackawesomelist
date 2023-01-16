@@ -1192,6 +1192,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [tmuxrepl (⭐21)](https://github.com/csurfer/tmuxrepl) - Simple ZSH plugin to have a R-EP-L [tmux](https://tmux.github.io) session.
 *   [toggl (⭐5)](https://github.com/natterstefan/toggl-zsh-plugin) - Adds a `toggl-week` command to display the total working hours tracked on [toggl.com](https://toggl.com)
 *   [toggle-command-prefix (⭐14)](https://github.com/xPMo/zsh-toggle-command-prefix) - Add a widget to toggle a prefix to a command. Binds Alt+s to prefix a command with `sudo` by default.
+*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins.
 *   [traista (⭐0)](https://github.com/odgon/traista) - Includes `git` status decorations and color-coded exit status of the last command run. Better with dark terminal themes.
 *   [travis (⭐4)](https://github.com/denolfe/zsh-travis) - Opens the [Travis CI](https://www.travis-ci.com/) page for the current repo if one exists.
 *   [tre (⭐0)](https://github.com/redxtech/zsh-tre) - Makes using [tre (⭐371)](https://github.com/dduan/tre#editor-aliasing) easier.
@@ -1675,6 +1676,7 @@ If you're using [Antigen (⭐7.4k)](https://github.com/zsh-users/antigen), you c
 *   [czsh (⭐2)](https://github.com/Cellophan/czsh) - [ZSH](https://en.wikipedia.org/wiki/Z_shell) with [oh-my-zsh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh) and the [agnoster (⭐3.6k)](https://github.com/agnoster/agnoster-zsh-theme) theme in a container.
 *   [daily-emoji (⭐1)](https://github.com/huytran-wq/zsh-daily-emoji-theme/) - Shows random emoji at the beginning of each command depending on the day of the week.
 *   [daily (⭐0)](https://github.com/ghlin/zsh-theme-daily) - Includes `git` and `ssh` status decorations.
+*   [daivasmara (⭐52)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 *   [damino (⭐0)](https://github.com/njdom24/Damino-Zsh-Theme) - Minimal powerline-esque theme with `git` decorations.
 *   [dangerroom (⭐0)](https://github.com/abbreviatedman/dangerroom) - Informative, minimal, and, above all, X-Men themed. Includes decorators for `git` status, working directory, parent directory and `vim` mode.
 *   [dango (⭐1)](https://github.com/ann-kilzer/annkilzer.zsh-theme) - Includes decorations for current directory and `git` status.

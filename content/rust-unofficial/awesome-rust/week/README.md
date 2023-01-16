@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### Libraries / Configuration
+
+*   [softprops/envy (⭐647)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Applications / Cryptocurrencies
