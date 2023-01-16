@@ -1,18 +1,54 @@
 # Awesome List Updates on Jan 16, 2023
 
-10 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Commonsense / Commonsense Knowledgebase
+
+*   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [Mattermost](https://mattermost.com/) — Secure collaboration for technical teams. Free plan with unlimited channels, playbooks, boards, users, 10GB storage and more.
+
+## [3. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [Insurance-system (⭐19)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
+
+## [4. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Templates / Vue 3
+
+*   [vue3-ts-compositionAPI-i18n-fetchData (⭐0)](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
+
+### Templates / React
+
+*   [vite-mui-ts (⭐2)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [Vite-plugin-graphiql (⭐0)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-image-optimizer (⭐6)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
+
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Configuration
 
 *   [softprops/envy (⭐647)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
-## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ### OS Images
 
@@ -22,7 +58,7 @@
 
 *   [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
 
-## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Android / Libraries
 
@@ -30,7 +66,7 @@
 *   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -77,17 +113,22 @@
 
 *   [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 
-## [5. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+## [9. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 
 ### Contents / EHR
 
-*   [Ozone HIS](http://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
+*   [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
+
+### Contents / Imaging
+
+*   [Slim (⭐48)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
 
 ### Contents / Libraries
 
 *   [ehrapy (⭐28)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
+*   [Hermes (⭐104)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -97,7 +138,7 @@
 
 *   [daivasmara (⭐52)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 
-## [7. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
+## [11. Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md)
 
 ### Articles / Tutorials
 
@@ -127,7 +168,7 @@
 *   [dotstow (⭐92)](https://github.com/clayrisser/dotstow)
 *   [YADR](http://skwp.github.io/dotfiles/)
 
-## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / .NET
 
@@ -136,13 +177,13 @@
 *   [dotnet-yieldly-sdk (⭐11)](https://github.com/geoffodonnell/dotnet-yieldly-sdk) - Yieldly .NET SDK.
 *   [powershell-algorand-module (⭐2)](https://github.com/geoffodonnell/powershell-algorand-module) - Algorand PowerShell Module.
 
-## [9. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [13. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Zero Knowledge Proofs
 
 *   [Information Theoretic Reductions among Disclosure Problems](https://web.archive.org/http://crypto.cs.mcgill.ca/\~crepeau/BCR86.pdf) - Brassau et al.
 
-## [10. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [14. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 

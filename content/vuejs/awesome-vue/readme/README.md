@@ -936,6 +936,7 @@
 *   [Snippets.Ninja (⭐72)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 *   [lishuuro.org (⭐5)](https://github.com/uros-5/ui-lishuuro) - Small chess variant app that uses Vue3 for UI and Pinia for managing state in app.
 *   [ZuiOJ (⭐30)](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
+*   [Insurance-system (⭐19)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 
 ### Commercial Products
 
@@ -2584,7 +2585,7 @@ Tooltips / popovers
 *   [Basys (⭐117)](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
 *   [CabloyJS (⭐709)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 *   [vue-service-model (⭐19)](https://github.com/freakzlike/vue-service-model) - Vue.js library for handling REST service requests with caching, aggregation and model definitions.
-*   [DataFormsJS (⭐156)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐157)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 *   [V-Craft (⭐238)](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
 *   [Vue-Low-Code (⭐288)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
 *   [Figma-Low-Code (⭐624)](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.

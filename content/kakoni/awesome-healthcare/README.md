@@ -10,17 +10,21 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Contents / EHR
 
-*   [Ozone HIS](http://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
+*   [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
+
+### Contents / Imaging
+
+*   [Slim (⭐48)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
 
 ### Contents / Libraries
 
 *   [ehrapy (⭐28)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
+*   [Hermes (⭐104)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Contents / EHR
 
-*   [EtherCIS](https://ethercis.org) - Enterprise Clinical Data Repository.
 *   [Medplum (⭐537)](https://github.com/medplum/medplum) - Developer platform that enables flexible and rapid development of healthcare apps.
 
 ### Contents / Specifications
@@ -31,7 +35,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 *   [Omero (⭐169)](https://github.com/ome/openmicroscopy) - open source client/server system written in Java for visualizing, managing, and annotating microscope images and metadata
 *   [OpenSlide (⭐310)](https://github.com/openslide/openslide) - is a C library for reading whole slide image files.
-*   [Slim (⭐48)](https://github.com/herrmannlab/slim) - Interoperable web viewer and annotation tool for computational pathology.
 *   [Viv (⭐189)](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
 
 ### Contents / Libraries

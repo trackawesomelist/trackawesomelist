@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 16, 2023](/content/2023/01/16/README.md)
+
+### Commonsense / Commonsense Knowledgebase
+
+*   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
+
 ## [Jan 15, 2023](/content/2023/01/15/README.md)
 
 ### Knowledge Management

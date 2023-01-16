@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Jan 16, 2023](/content/2023/01/16/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [Insurance-system (⭐19)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
+
 ## [Jan 13, 2023](/content/2023/01/13/README.md)
 
 ### Projects Using Vue.js / Open Source
@@ -4801,7 +4807,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐156)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐157)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [Mar 02, 2020](/content/2020/03/02/README.md)
 

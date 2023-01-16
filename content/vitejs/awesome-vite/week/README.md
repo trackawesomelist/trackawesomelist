@@ -6,12 +6,30 @@
 
 [ [Daily](/content/vitejs/awesome-vite/README.md) / Weekly / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### Templates / Vue 3
+
+*   [vue3-ts-compositionAPI-i18n-fetchData (⭐0)](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
+
+### Templates / React
+
+*   [vite-mui-ts (⭐2)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
+
+### Framework-agnostic Plugins / Integrations
+
+*   [Vite-plugin-graphiql (⭐0)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+
+### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-image-optimizer (⭐6)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Templates / Vue 3
 
 *   [vite-vue-h5-app (⭐2)](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
-*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia,  APIs\&Mock, ESLint, Prettier, auto-importing.
+*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
 
 ### Framework-agnostic Plugins / Integrations
 

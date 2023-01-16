@@ -47,7 +47,6 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [EHRBase](https://ehrbase.org) OpenEHR Clinical Data Repository.
 *   [EHRServer (⭐146)](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer.
 *   [ERPNext](https://erpnext.com/open-source-healthcare) - Modules that help manage patients, appointments, consultations, lab tests, and billing.
-*   [EtherCIS](https://ethercis.org) - Enterprise Clinical Data Repository.
 *   [FreeMedForms EMR](https://freemedforms.com/fr/start) - Electronic Medical Record software.
 *   [HospitalRun](https://hospitalrun.io) - Helps provide the most modern Hospital Information System possible to the least resourced environments.
 *   [HOSxP](https://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
@@ -62,7 +61,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [openMAXIMS (⭐55)](https://github.com/IMS-MAXIMS/openMAXIMS) - Full Patient Administration System designed for the NHS.
 *   [OpenMRS](https://openmrs.org) - Enterprise Electronic Medical Record System platform.
 *   [OSCAR EMR](https://bitbucket.org/oscaremr/oscar) - OSCAR McMaster Project.
-*   [Ozone HIS](http://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
+*   [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
 *   [Ripple](https://www.ripple.foundation) -  NHS-funded, community led initiative working towards an integrated Digital Care Record Platform.
 
 ### Specifications
@@ -111,7 +110,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [OpenSlide (⭐310)](https://github.com/openslide/openslide) - is a C library for reading whole slide image files.
 *   [Orthanc](https://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
 *   [Papaya (⭐473)](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
-*   [Slim (⭐48)](https://github.com/herrmannlab/slim) - Interoperable web viewer and annotation tool for computational pathology.
+*   [Slim (⭐48)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
 *   [Viv (⭐189)](https://github.com/hms-dbmi/viv) - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
 *   [VTK](https://vtk.org) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
@@ -163,6 +162,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 *   [HAPI FHIR (⭐1.6k)](https://github.com/hapifhir/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
 *   [Hearth (⭐26)](https://github.com/jembi/hearth) - A fast FHIR-compliant server focused on longitudinal data stores.
 *   [Health data standards (⭐0)](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
+*   [Hermes (⭐104)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 *   [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_\(MITK\)) - The Medical Imaging Interaction Toolkit.
 *   [Node HL7 (⭐48)](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
 *   [Node-hl7-parser (⭐31)](https://github.com/RedoxEngine/redox-hl7-v2) - Open source version of Redox's HL7 v2 to schema-fied JSON parser.

@@ -79,17 +79,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [daivasmara (⭐52)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 
-#### [6. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
-
-##### Contents / EHR
-
-*   [Ozone HIS](http://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
-
-##### Contents / Libraries
-
-*   [ehrapy (⭐28)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
-
-#### [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### The Generative AI Area: history, maps, and definitions
 
@@ -136,7 +126,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 
-#### [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+#### [7. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ##### Android / Libraries
 
@@ -144,7 +134,58 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 
-#### [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
+#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Libraries / Configuration
+
+*   [softprops/envy (⭐647)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+
+#### [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+##### Templates / Vue 3
+
+*   [vue3-ts-compositionAPI-i18n-fetchData (⭐0)](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
+
+##### Templates / React
+
+*   [vite-mui-ts (⭐2)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
+
+##### Framework-agnostic Plugins / Integrations
+
+*   [Vite-plugin-graphiql (⭐0)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+
+##### Framework-agnostic Plugins / Bundling
+
+*   [vite-plugin-image-optimizer (⭐6)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
+
+#### [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+##### Projects Using Vue.js / Open Source
+
+*   [Insurance-system (⭐19)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
+
+#### [11. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
+
+##### Contents / EHR
+
+*   [Ozone HIS](https://www.ozone-his.com) - The entreprise-grade integrated health information system built with OpenMRS 3
+
+##### Contents / Imaging
+
+*   [Slim (⭐48)](https://github.com/ImagingDataCommons/slim) - Interoperable web viewer and annotation tool for computational pathology.
+
+##### Contents / Libraries
+
+*   [ehrapy (⭐28)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
+*   [Hermes (⭐104)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
+
+#### [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Tools for Teams and Collaboration
+
+*   [Mattermost](https://mattermost.com/) — Secure collaboration for technical teams. Free plan with unlimited channels, playbooks, boards, users, 10GB storage and more.
+
+#### [13. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 
 ##### OS Images
 
@@ -154,11 +195,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
 
-#### [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-##### Libraries / Configuration
+##### Commonsense / Commonsense Knowledgebase
 
-*   [softprops/envy (⭐647)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+*   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
 
 ### [Jan 15, 2023](/content/2023/01/15/README.md)
 
@@ -200,34 +241,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SOC Multi-tool (⭐99)](https://github.com/zdhenard42/SOC-Multitool) - A powerful and user-friendly browser extension that streamlines investigations for security professionals.
 
-#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Knowledge Management
-
-*   [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). \[[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
-*   [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html) - ***National Diet Library of Japan***. Classification system of Japan (PDF only).
-
-##### Bayesian Modeling / Bayesian Induction
-
-*   [Rules and Similarity in Concept Learning](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
-
-##### Concepts / Human Concept Representation
-
-*   [Navigating cognition: Spatial codes for human thinking](https://pure.mpg.de/rest/items/item_3007836/component/file_3379059/content) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1407237757770081862\&hl=en\&as_sdt=0,5)]. A framework that operates across information domains to support a wide spectrum of cognitive functions, where place and grid cell population codes provide a representational format to map variable dimensions of cognitive spaces.
-
-#### [8. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
+#### [7. Awesome Chatgpt](/content/saharmor/awesome-chatgpt/README.md)
 
 ##### Prompting
 
 *   [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
-#### [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [xcode (⭐44)](https://github.com/keith/zsh-xcode-completions) - Completions for some Xcode command line tools - `genstrings`, `nm`, `plutil`, `xcode-select`, `xcodebuild`, `xcrun`, `simctl`, `strings`, `swift-demangle`, `swift` and `lipo`.
 
-#### [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### The Generative AI Area: history, maps, and definitions
 
@@ -248,13 +274,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
 *   [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
-#### [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Security tools
 
 *   [cargo-audit](https://crates.io/crates/cargo-audit) - Audit Cargo.lock for crates with security vulnerabilities
 *   [cargo-auditable](https://crates.io/crates/cargo-auditable) - Make production Rust binaries auditable
 *   [cargo-deny](https://crates.io/crates/cargo-deny) - Cargo plugin to help you manage large dependency graphs
+
+#### [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Knowledge Management
+
+*   [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). \[[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
+*   [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html) - ***National Diet Library of Japan***. Classification system of Japan (PDF only).
+
+##### Bayesian Modeling / Bayesian Induction
+
+*   [Rules and Similarity in Concept Learning](http://web.mit.edu/cocosci/archive/Papers/nips99preprint.pdf) - ***NeurIPS'99***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=10968021160883668417\&hl=en\&as_sdt=0,5)]. Unifying rule-based and similarity-based generalization via Bayesian generalization.
+
+##### Concepts / Human Concept Representation
+
+*   [Navigating cognition: Spatial codes for human thinking](https://pure.mpg.de/rest/items/item_3007836/component/file_3379059/content) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1407237757770081862\&hl=en\&as_sdt=0,5)]. A framework that operates across information domains to support a wide spectrum of cognitive functions, where place and grid cell population codes provide a representational format to map variable dimensions of cognitive spaces.
 
 ### [Jan 14, 2023](/content/2023/01/14/README.md)
 
@@ -324,8 +365,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 260K 📝 01&#x2F;15 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 114K 📝 01&#x2F;14 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-3. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K 📝 01&#x2F;13 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 65K 📝 01&#x2F;13 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+3. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K 📝 01&#x2F;16 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 65K 📝 01&#x2F;16 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 95K 📝 01&#x2F;08 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 6. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 57K 📝 01&#x2F;12 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 31K 📝 01&#x2F;16 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
@@ -340,12 +381,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 16. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 11K 📝 01&#x2F;16 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 17. [Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md) - ([Source ⭐ 10K 📝 01&#x2F;16 ](https://github.com/KotlinBy/awesome-kotlin)) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 18. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 16K 📝 01&#x2F;10 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-19. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 24K 📝 01&#x2F;05 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-20. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 11K 📝 01&#x2F;12 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
-21. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 8.2K 📝 01&#x2F;15 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-22. [Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md) - ([Source ⭐ 7.5K 📝 01&#x2F;16 ](https://github.com/webpro/awesome-dotfiles)) - A curated list of dotfiles resources.
-23. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.6K 📝 01&#x2F;15 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-24. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 8.5K 📝 01&#x2F;13 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+19. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 8.5K 📝 01&#x2F;16 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+20. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 24K 📝 01&#x2F;05 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
+21. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 11K 📝 01&#x2F;12 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
+22. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 8.2K 📝 01&#x2F;15 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
+23. [Awesome Dotfiles](/content/webpro/awesome-dotfiles/README.md) - ([Source ⭐ 7.5K 📝 01&#x2F;16 ](https://github.com/webpro/awesome-dotfiles)) - A curated list of dotfiles resources.
+24. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 7.6K 📝 01&#x2F;15 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 25. [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 13K 📝 01&#x2F;09 ](https://github.com/markets/awesome-ruby)) - :gem: A collection of awesome Ruby libraries, tools, frameworks and software
 26. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 8.4K 📝 01&#x2F;13 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 27. [GoBooks](/content/dariubs/GoBooks/README.md) - ([Source ⭐ 14K 📝 01&#x2F;07 ](https://github.com/dariubs/GoBooks)) - List of Golang books
@@ -643,8 +684,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 10K, 📝 01&#x2F;02 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 - [Awesome Text Editing](/content/dok/awesome-text-editing/README.md) - ([Source ⭐ 245, 📝 20&#x2F;06&#x2F;18 ](https://github.com/dok/awesome-text-editing)) - Collection of text editing resources and libraries for the web
 - [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 3.4K, 📝 01&#x2F;10 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-- [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 8.5K, 📝 01&#x2F;13 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
-- [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K, 📝 01&#x2F;13 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+- [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 8.5K, 📝 01&#x2F;16 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
+- [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 67K, 📝 01&#x2F;16 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 - [Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md) - ([Source ⭐ 1.1K, 📝 21&#x2F;09&#x2F;16 ](https://github.com/sergey-pimenov/awesome-web-animation)) - A list of awesome web animation libraries, books, apps etc.
 - [Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md) - ([Source ⭐ 76, 📝 22&#x2F;02&#x2F;19 ](https://github.com/pajaydev/awesome-web-performance-budget)) - ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)
 - [Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md) - ([Source ⭐ 878, 📝 22&#x2F;06&#x2F;25 ](https://github.com/notthetup/awesome-webaudio)) - A curated list of awesome WebAudio packages and resources.
@@ -887,7 +928,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 857, 📝 22&#x2F;10&#x2F;18 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.4K, 📝 22&#x2F;07&#x2F;14 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 22K, 📝 22&#x2F;07&#x2F;29 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 65K, 📝 01&#x2F;13 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 65K, 📝 01&#x2F;16 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2K, 📝 22&#x2F;07&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 9.4K, 📝 22&#x2F;08&#x2F;07 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Books everyone should read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 2.6K, 📝 22&#x2F;12&#x2F;31 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1075,7 +1116,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 112, 📝 01&#x2F;15 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 112, 📝 01&#x2F;16 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;05&#x2F;09 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 7.1K, 📝 22&#x2F;08&#x2F;12 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 49, 📝 22&#x2F;10&#x2F;11 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

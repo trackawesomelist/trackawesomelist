@@ -121,7 +121,8 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [ionic-vue-capacitor (⭐1)](https://github.com/reslear/ionic-vue-capacitor) - Vue 3 + Vue Router + Vite + Ionic + Capacitor + pnpm monorepo.
 *   [ultimate-vite-ts-less-template (⭐1)](https://github.com/alireza0sfr/vue3-vite-ts-base) - Vue 3, TypeScript, Less, i18n, Vitest, Vitepress, lodash, Axios, Pinia, Built-in logger, Built-in Input Validators, env files.
 *   [vite-vue-h5-app (⭐2)](https://github.com/l-x-f/vite-vue-h5-app) - Vite 3 + Vue 3.2 + TypeScript + Vant mobile applications.
-*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia,  APIs\&Mock, ESLint, Prettier, auto-importing.
+*   [vulcan (⭐2)](https://github.com/pengzhanbo/vulcan) - The template for mobile application. Vite, Vue 3, TypeScript, Sass, i18n, Vitest\&Cypress, Pinia, APIs\&Mock, ESLint, Prettier, auto-importing.
+*   [vue3-ts-compositionAPI-i18n-fetchData (⭐0)](https://github.com/alivadjid/vite-plugin-ssr-i18n-vue3) - Vue3 + Typescript + CompositionAPI + i18n + fetchData.
 
 #### Vue 2
 
@@ -179,6 +180,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-react-views (⭐4)](https://github.com/KAROTT7/vite-plugin-react-views) - Create routes automatically based on File System.
 *   [react-vite-template (⭐11)](https://github.com/985563349/react-vite-template) - A react project template.
 *   [react-xs-admin (⭐1)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
+*   [vite-mui-ts (⭐2)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
 
 #### Svelte
 
@@ -278,6 +280,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-solid-markdown (⭐4)](https://github.com/xbmlz/vite-plugin-solid-markdown) - A vite plugin for compiling markdown files to solid components.
 *   [vite-plugin-qiniu-oss (⭐3)](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 *   [vite-plugin-stylelint (⭐12)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
+*   [Vite-plugin-graphiql (⭐0)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
 
 #### Loaders
 
@@ -311,6 +314,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-cp (⭐24)](https://github.com/fengxinming/vite-plugins/tree/main/packages/vite-plugin-cp) - Copy files after building bundles.
 *   [unplugin-compression (⭐3)](https://github.com/KeJunMao/unplugin-compression) - Compress dist to zip, tar, taz.
 *   [unplugin-imagemin (⭐43)](https://github.com/ErKeLost/unplugin-imagemin) - High performance compressed Picture based on squoosh and sharp.
+*   [vite-plugin-image-optimizer (⭐6)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 
 #### Transformers
 
