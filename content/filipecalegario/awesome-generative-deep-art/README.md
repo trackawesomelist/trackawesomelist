@@ -6,6 +6,24 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 17, 2023](/content/2023/01/17/README.md)
+
+### Papers and References / AI Tools for Paper Reading
+
+*   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
+
+### Image Synthesis / Generative Adversarial Networks (GANs)
+
+*   \[🔥] [weihaox/awesome-gan-inversion (⭐875)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+
+### Inbox: Video tools / Text-related Generative Tools
+
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐78)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
+
+### People and works / Artists and Artworks
+
+*   [Ai Generated Music Video - Deltron 3030 - Virus - YouTube](https://www.youtube.com/watch?v=WJaxFbdjm8c)
+
 ## [Jan 16, 2023](/content/2023/01/16/README.md)
 
 ### The Generative AI Area: history, maps, and definitions

@@ -22,6 +22,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Papers and References / AI Tools for Paper Reading
 
+*   [Paper Brain](https://www.paperbrain.study/): summarizer for paper parts. The user needs to copy and paste into their interface.
 *   [Explainpaper](https://www.explainpaper.com/): "Upload a paper, highlight confusing text, get an explanation"
 *   [Paper Player](https://paperplayerapp.com/): A new way for busy scientists and technologists to consume open science
 *   [TalkToPapers - namuan/dr-doc-search: Converse with book - Built with GPT-3 (⭐122)](https://github.com/namuan/dr-doc-search): a github util where AI will do the paper reading for you instead
@@ -40,12 +41,18 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [DreamFusion / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w\&s=33): Text-to-3D using 2D Diffusion paper
 
+### Image Synthesis / Generative Adversarial Networks (GANs)
+
+*   \[🔥] [weihaox/awesome-gan-inversion (⭐875)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
+
 ### Inbox: Video tools / Text-related Generative Tools
 
+*   \[🔥] [dmarx/video-killed-the-radio-star (⭐78)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 
 ### People and works / Artists and Artworks
 
+*   [Ai Generated Music Video - Deltron 3030 - Virus - YouTube](https://www.youtube.com/watch?v=WJaxFbdjm8c)
 *   [Artificial Realities: Coral / Twitter](https://twitter.com/refikanadol/status/1613927561939099650): artwork by [@refikanadol](https://twitter.com/refikanadol) commissioned by World Economic Forum
 *   [35 Artists Using AI With Under 1000 Followers That You Need To Follow Today / Twitter](https://twitter.com/infiniteyay/status/1583465675166609408?s=43\&t=XvooFiMyC-YPv0i98HmjVQ)
 
