@@ -125,9 +125,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Game tools and libraries
 
-*   [hexops/mach (⭐1.4k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
-*   [michal-z/zig-gamedev (⭐1.2k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐150)](https://github.com/floooh/sokol-zig) - [Sokol (⭐4.1k)](https://github.com/floooh/sokol) bindings.
+*   [hexops/mach (⭐1.5k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [michal-z/zig-gamedev (⭐1.3k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
+*   [floooh/sokol-zig (⭐150)](https://github.com/floooh/sokol-zig) - [Sokol (⭐4.2k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐33)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐8)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig (⭐4)](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -176,12 +176,14 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 *   [emekoi/log.zig (⭐10)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐312)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [mlarouche/zigimg (⭐201)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐136)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐142)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 *   [SasLuca/zig-nanoid (⭐18)](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 *   [kassane/libvlc-zig (⭐5)](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
 
 ## Network
 
+*   [MasterQ32/zig-network (⭐237)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
+*   [dantecatalfamo/zig-dns (⭐50)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
 *   [euantorano/ip.zig (⭐12)](https://github.com/euantorano/ip.zig) - Library for working with IP Addresses.
 *   [lun-4/zigdig (⭐27)](https://github.com/lun-4/zigdig) - Naive DNS client library.
 *   [marler8997/netpunch (⭐9)](https://github.com/marler8997/netpunch) - Outbound proxy protocol.

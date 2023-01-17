@@ -586,6 +586,7 @@ Any comments, suggestions? [Let us know! (⭐57k)](https://github.com/jaywcjlove
 *   [Teampaper Snap](http://teampaper.me/snap/) - Let your screenshots speak up. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/monosnap/id1199502670)
 *   [Xnip](http://xnipapp.com/) - Handy Screenshot App. [![App Store][app-store Icon]](https://itunes.apple.com/app/xnip-handy-screenshot-app/id1221250572) ![Freeware][Freeware Icon]
 *   [Dropbox](https://www.dropbox.com/) - Dropbox app offers easy screenshot capturing and sharing ![Freeware][Freeware Icon]
+*   [Snagit](https://www.techsmith.com/screen-capture.html) - Screen Capture and Recording Software. Simple and Powerful.
 
 #### Other Tools
 
@@ -784,6 +785,7 @@ Any comments, suggestions? [Let us know! (⭐57k)](https://github.com/jaywcjlove
 *   [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/) ![Freeware][Freeware Icon]
 *   [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
 *   [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+*   [ungoogled-chromium (⭐16k)](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. \[![Open-Source Software](https://github.com/ungoogled-software/ungoogled-chromium)[OSS Icon] ![Freeware][Freeware Icon]
 *   [LibreWolf](https://librewolf.net) - A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
 *   [Microsoft Edge](https://www.microsoft.com/edge) - Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
 *   [Min](https://minbrowser.org/) -  Fast, minimal browser that protects your privacy. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) ![Freeware][Freeware Icon]
@@ -1136,6 +1138,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 
 *   AppKed：~~`http://www.macbed.com`~~
 *   Softasm：~~`https://softasm.com/`~~
+*   Appstorrent：~~`http://appstorrent.ru/`~~
 
 ## Podcasts
 

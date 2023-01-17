@@ -12,6 +12,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Keploy](https://keploy.io/) - Keploy is a functional testing toolkit for developers. It generates E2E tests for APIs (KTests) along with mocks or stubs(KMocks) by recording real API calls. It is free for Open Source.
 
+### CDN and Protection
+
+*   [Stellate](https://stellate.co/) - Stellate is blazing fast, reliable CDN for your GraphQL API and Free for 2 services.
+
 ## [Jan 16, 2023](/content/2023/01/16/README.md)
 
 ### Tools for Teams and Collaboration
@@ -1931,10 +1935,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Font
 
 *   [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
-
-### CDN and Protection
-
-*   [GraphCDN](https://graphcdn.io/) - Scale, inspect & protect your GraphQL API. 5m requests per month for free.
 
 ## [Sep 06, 2021](/content/2021/09/06/README.md)
 
@@ -4265,10 +4265,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [ReqBin](https://www.reqbin.com/) — Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
 *   [superfeedr.com](https://superfeedr.com/) — Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
 *   [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
-
-### Other Free Resources
-
-*   [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
 
 ## [Dec 27, 2019](/content/2019/12/27/README.md)
 

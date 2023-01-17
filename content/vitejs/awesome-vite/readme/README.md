@@ -181,6 +181,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [react-vite-template (⭐11)](https://github.com/985563349/react-vite-template) - A react project template.
 *   [react-xs-admin (⭐1)](https://github.com/jsxiaosi/react-xs-admin) - The background management system template developed based on React18 + ReactRouteV6 + Vite + And Design + ReactIntl + ReactRedux + Emulation.
 *   [vite-mui-ts (⭐2)](https://github.com/emre-cil/vite-mui-ts) - React + TypeScript + Redux + Material UI + RRD + ESLint + Prettier.
+*   [leo-react-app (⭐0)](https://github.com/Leo-Henrique/leo-react-app) - React + SASS | Template for React applications with SASS boilerplate for consistent interfaces.
 
 #### Svelte
 
@@ -281,6 +282,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-qiniu-oss (⭐3)](https://github.com/th-come/vite-plugin-qiniu-oss) - Upload the production files bundled in the project to qiniu OSS, except for HTML.
 *   [vite-plugin-stylelint (⭐12)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 *   [Vite-plugin-graphiql (⭐0)](https://github.com/mammadataei/vite-plugin-graphiql) - Integrattion for GraphiQL IDE.
+*   [vite-plugin-graphql-server (⭐0)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
 
 #### Loaders
 
@@ -398,6 +400,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-externals-extension (⭐2)](https://github.com/XiSenao/vite-plugin-externals-extension) - External links plugin which supports ESM and UMD.
 *   [vite-plugin-api (⭐1)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 *   [vite-plugin-entry-shaking (⭐12)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+*   [vite-plugin-auto-alias (⭐0)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 
 #### Testing
 
@@ -716,6 +719,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [Ladle (⭐1.9k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐229)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐107)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
+*   [Compiiile (⭐43)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 
 ### Apps/Websites
 

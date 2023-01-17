@@ -6,11 +6,18 @@ A list of awesome projects related to Zig
 
 [ [Daily](/content/catdevnull/awesome-zig/README.md) / Weekly / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### Network
+
+*   [MasterQ32/zig-network (⭐237)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
+*   [dantecatalfamo/zig-dns (⭐50)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Game tools and libraries
 
-*   [hexops/mach (⭐1.4k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
+*   [hexops/mach (⭐1.5k)](https://github.com/hexops/mach) - Game engine and graphics toolkit.
 
 ### GUI
 
@@ -266,8 +273,8 @@ A list of awesome projects related to Zig
 
 ### Game tools and libraries
 
-*   [michal-z/zig-gamedev (⭐1.2k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
-*   [floooh/sokol-zig (⭐150)](https://github.com/floooh/sokol-zig) - [Sokol (⭐4.1k)](https://github.com/floooh/sokol) bindings.
+*   [michal-z/zig-gamedev (⭐1.3k)](https://github.com/michal-z/zig-gamedev) - DirectX 12 game development ecosystem.
+*   [floooh/sokol-zig (⭐150)](https://github.com/floooh/sokol-zig) - [Sokol (⭐4.2k)](https://github.com/floooh/sokol) bindings.
 *   [TM35-Metronome/metronome (⭐33)](https://github.com/TM35-Metronome/metronome) - A set of tools for modifying and randomizing Pokémon games.
 *   [TM35-Metronome/tm35-nds (⭐8)](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms.
 *   [user00e00/sudokuinzig (⭐4)](https://github.com/user00e00/sudokuinzig) - Simple and robust sudoku solver.
@@ -305,7 +312,7 @@ A list of awesome projects related to Zig
 *   [emekoi/log.zig (⭐10)](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 *   [kprotty/zap (⭐312)](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 *   [mlarouche/zigimg (⭐201)](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
-*   [ziglibs/known-folders (⭐136)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
+*   [ziglibs/known-folders (⭐142)](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 
 ### Network
 

@@ -8,6 +8,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
+### Knowledge Management
+
+*   [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[\[Wikipedia-EN]\(<https://en.wikipedia.org/wiki/Chinese_Library_Classification#:~:text=The%20Chinese%20Library%20Classification%20(CLC,as%20well%20as%20public%20libraries.)>].
+
 ### Commonsense / Commonsense Knowledgebase
 
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
@@ -32,7 +36,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Detect, Understand, Act: A Neuro-symbolic Hierarchical Reinforcement Learning Framework](https://link.springer.com/article/10.1007/s10994-022-06142-7) - ***Machine Learning***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10321228117236432485\&hl=en\&as_sdt=0,5)]. A neuro-symbolic framework that integrates meta-policy learning in inductive logic programming.
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679\&hl=en\&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
 
@@ -44,7 +48,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://www.scienceopen.com/document_file/e37c7746-02db-481e-b6f5-8b2bf44728df/PubMedCentral/e37c7746-02db-481e-b6f5-8b2bf44728df.pdf) - ***Bioinformatics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=2783127196632783403\&hl=en\&as_sdt=0,5)].
 
@@ -94,7 +98,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Theory-based Bayesian models of inductive learning and reasoning](https://cocosci.princeton.edu/tom/papers/theoriestics.pdf) - ***Trends in Cognitive Sciences***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=6741344960992898446\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian theory induction.
 *   [How to Grow a Mind: Statistics, Structure, and Abstraction](https://cocosci.princeton.edu/tom/papers/growamind.pdf) - ***Science***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097\&hl=en\&as_sdt=0,5)]. Josh Tenenbaum's review on Bayesian theory induction.
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926\&hl=en\&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
 
@@ -109,13 +113,13 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [A computational model of scientific insight](https://escholarship.org/uc/item/54x8v354) - ***The nature of creativity: Contemporary psychological perspectives***, 1988. \[[All Versions](https://scholar.google.com/scholar?cluster=13633357571064621019\&hl=en\&as_sdt=0,5)]. A computational account on insights for scientific discovery.
 *   [What Makes an Insight Problem? The Roles of Heuristics, Goal Conception, and Solution Recoding in Knowledge-Lean Problems](https://www.researchgate.net/profile/Thomas-Ormerod/publication/8909475_What_Makes_an_Insight_Problem_The_Roles_of_Heuristics_Goal_Conception_and_Solution_Recoding_in_Knowledge-Lean_Problems/links/00b7d5159f3c057eb5000000/What-Makes-an-Insight-Problem-The-Roles-of-Heuristics-Goal-Conception-and-Solution-Recoding-in-Knowledge-Lean-Problems.pdf) - ***Journal of Experimental Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=17529631069707671285\&hl=en\&as_sdt=0,5)]. \[[APA](https://psycnet.apa.org/record/2003-10949-002)].
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [The Meaning of "Theory"](https://jamacoartney.net/Abend%20\(2008\).pdf) - ***Sociological Theory***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=4876642889050563131\&hl=en\&as_sdt=0,5)]. A philosophical account on the definition of "theory" in social science (also can be generalized to natural science).
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [The structure of scientific revolutions](https://www-inst.eecs.berkeley.edu/\~cs298-7/fa20/readings/kuhn.pdf) - ***University of Chicago Press: Chicago***, 1970. \[[All Versions](https://scholar.google.com/scholar?cluster=8909475038284903063\&hl=en\&as_sdt=0,5)]. Thomas Kuhn's original book on the shift of scientific paradigms.
 
@@ -130,7 +134,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Insight](https://en.wikipedia.org/wiki/Insight) - ***Wikipedia***. Wikipedia on insight.
 *   [Epiphany](https://en.wikipedia.org/wiki/Epiphany_\(feeling\)) - ***Wikipedia***. Wikipedia on epiphany, the "feeling" when the Aha! moment comes.
 
-### Metascience / Scientific Writing
+### Science Logology / Scientific Writing
 
 *   [The uses of argument](http://library.lol/main/8036CBB1CCC448CA7E036774D810EBC0) - ***Cambridge University Press***, 1958. \[[All Versions](https://scholar.google.com/scholar?cluster=12052408655432810103\&hl=en\&as_sdt=0,5)]. Stephen Toulmin's introduction to the Toulmin argument pattern, which is generally consist of a claim, a justification, and a rebuttal.
 *   [A tagmemic approach to paragraph analysis](https://www.jstor.org/stable/355200) - ***College Composition and Communication***, 1965. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=A+Tagmemic+Approach+to+Paragraph+Analysis+AL+Becker\&btnG=)]. The original paper on analyzing the structure of expository paragraphs, with the two patterns---the Topic-Restriction-Illustration pattern and the Problem-Solution pattern.
@@ -144,7 +148,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [The blind men and the elephant: A metaphor to illuminate the role of researchers and reviewers in social science](https://journals.sagepub.com/doi/pdf/10.4256/mio.2013.015) - ***Methodological Innovations Online***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=1654629562068006152\&hl=en\&as_sdt=0,5)].
 
@@ -154,27 +158,30 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654\&hl=en\&as_sdt=0,5)]. Proposing a domain-general method to extract context-dependent relationships from word embeddings: ‘semantic projection’ of word-vectors onto lines that represent multiple dimensions of features, which recovers human judgements across various object categories and properties.
 
-### Metascience / Literature Visualization
+### Science Logology / Literature Visualization
 
 *   [cite2vec: Citation-Driven Document Exploration via Word Embeddings](https://matthewberger.github.io/papers/cite2vec.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6949650208780085923\&hl=en\&as_sdt=0,5)].
 *   [Galex: Exploring the evolution and intersection of disciplines](http://cic.tju.edu.cn/faculty/zhangjiawan/Jiawan_Zhang_files/paper/zeyuli2020.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=13313104491218225635\&hl=en\&as_sdt=0,5)].
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
-### Metascience / Literature Mining
+### Science Logology / Literature Mining
 
 *   [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454\&hl=en\&as_sdt=0,5)].
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [Science of Science](http://ctbergstrom.com/publications/pdfs/2018Science.pdf) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6471468823556848055\&hl=en\&as_sdt=0,5)]. A comprehensive large-scale review on the science of science.
-*   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education.
+
+### Science Logology / Science Education
+
+*   [Cognitive Science and Science Education](https://www.harvardlds.org/wp-content/uploads/2018/05/Carey-Cognitive-science-and-science-education.-American-Psychologist.pdf) - ***American Psychologist***, 1986. \[[All Versions](https://scholar.google.com/scholar?cluster=6627805813997387166\&hl=en\&as_sdt=0,5)]. Susan Carey's review on cognitive-science-based methodologies for science education research.
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
-### Metascience / Science of Science
+### Science Logology / Science of Science
 
 *   [Metascience](https://en.wikipedia.org/wiki/Metascience) - ***Wikipedia***.
 *   [Finding Scientific Topics](https://www.pnas.org/doi/abs/10.1073/pnas.0307752101) - ***Proceedings of the National Academy of Sciences***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=17382767110929995134\&hl=zh-CN\&as_sdt=0,5)]. Thomas L. Griffiths's analysis of scientific topics using Bayesian model.
@@ -221,7 +228,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Visual Analogy: Deep Learning Versus Compositional Models](https://www.cs.jhu.edu/\~alanlab/Pubs21/ichien2021visual.pdf) - ***CogSci'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=1187822306970312749\&hl=en\&as_sdt=0,5)]. A human-deep-learning comparison on similarity judgement.
 *   [Similarity involving attributes and relations: Judgments of similarity and difference are not inverses](https://pcl.sitehost.iu.edu/rgoldsto/pdfs/simdiff.pdf) - ***Psychological Science***, 1990. \[[All Versions](https://scholar.google.com/scholar?cluster=13205938250772079784\&hl=en\&as_sdt=0,5)].
@@ -274,7 +281,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. \[[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450\&hl=en\&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Predictive and Diagnostic Learning Within Causal Models: Asymmetries in Cue Competition](https://www.psych.uni-goettingen.de/de/cognition/publikationen-dateien-waldmann/1992_predictive_vs_diagnostic.pdf) - ***Journal of Experimental Psychology***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=9614241045842043939\&hl=en\&as_sdt=0,5)]. Experimental evidences for distincting causality and association.
 
@@ -313,7 +320,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Reasoning with cause and effect](https://ftp.cs.ucla.edu/pub/stat_ser/R265.pdf) - 1998. Judea Pearl's tutorials on causal reasoning with operations on Bayesian networks.
 
@@ -622,7 +629,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Pareto optimality in multiobjective problems](https://link.springer.com/article/10.1007/BF01442131) - ***Applied Mathematics and Optimization***, 1977. \[[All Versions](https://scholar.google.com/scholar?cluster=11305142600366783354\&hl=en\&as_sdt=0,5)]. The original paper on the pareto optimality in multiobjective problems.
 *   [Pareto-Based Multiobjective Machine Learning: An Overview and Case Studies](http://www.soft-computing.de/SMC0805.pdf) - ***IEEE Transactions on Systems, Man, and Cybernetics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=11308312498510305429\&hl=en\&as_sdt=0,5)]. A comprehensive review on the application of pareto optimality to multiobjective machine learning.
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Identification of Causal Effects Using Instrumental Variables](http://www.jakebowers.org/ITVExperiments/angristimbensrubin96.pdf) - ***Journal of the American Statistical Association***, 1996. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17166265099721941605)].
 *   [Causality](https://en.wikipedia.org/wiki/Causality) - ***Wikipedia***. Wikipedia on causality, which is influence by which one event, process, state, or object (a cause) contributes to the production of another event, process, state, or object (an effect) where the cause is partly responsible for the effect, and the effect is partly dependent on the cause.
@@ -694,7 +701,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Is human cognition adaptive?](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2013/09/Anderson91.pdf) - ***Behavioral and Brain Sciences***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=3639936076538071052\&hl=en\&as_sdt=0,5)]. The original paper introducing the adaptation perspective of human intelligence, the theoretical basis of the ACT cognitive architecture.
 *   [What is consciousness, and could machines have it?](https://doi.org/10.1126/SCIENCE.AAN8871) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=6932714857132107942\&hl=en\&as_sdt=0,5)]. A perspective on the two levels of consciousness in machine intelligence.
 
-### Theory of Mind / Scientific Writing
+### Theory of Mind / Science Education
 
 *   [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
 *   [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM.
@@ -712,7 +719,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Intentonomy: a Dataset and Study towards Human Intent Understanding](https://arxiv.org/pdf/2011.05558.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=5268870345003195142\&hl=en\&as_sdt=0,5)]. A large-scale database on human intentionally-posted images on social media.
 *   [Adventures in Flatland: Perceiving Social Interactions Under Physical Dynamics](https://www.tshu.io/HeiderSimmel/CogSci20/Flatland_CogSci20.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1928005249823745390\&hl=en\&as_sdt=0,5)].
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Metaphor](https://plato.stanford.edu/entries/metaphor/) - ***Plato Stanford***. A computational philosophy account on Metaphor, a poetically or rhetorically ambitious use of words, a figurative as opposed to literal use.
 *   [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/) - ***Plato Stanford***. A computational philosophy account on Analogy, a comparison between two objects, or systems of objects, that highlights respects in which they are thought to be similar.
@@ -939,7 +946,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [A Mathematical Theory of Communication](http://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf) - ***The Bell System Technical Journal***, 1948. \[[All Versions](https://scholar.google.com/scholar?cluster=8313213127749369813\&hl=en\&as_sdt=0,5)]. Shannon's original paper on Information Theory.
 *   [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NeurIPS'03***, 2003. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=14721764738308036578)].
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Skip-Gram − Zipf + Uniform = Vector Additivity](https://aclanthology.org/P17-1007/) - ***ACL'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=11732363456979525246\&hl=en\&as_sdt=0,5)].
 
@@ -1114,7 +1121,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Grounded Language Learning Fast and Slow](https://arxiv.org/pdf/2009.01719.pdf) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=17735027444431750346\&hl=en\&as_sdt=0,5)]. \[[Project (⭐48)](https://github.com/deepmind/dm_fast_mapping?s=05)].
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Do six-month-old infants perceive causality?](http://fitelson.org/woodward/leslie.pdf) - ***Cognition***, 1987. \[[All Versions](https://scholar.google.com/scholar?cluster=14270905342434182186\&hl=en\&as_sdt=0,5)].
 
@@ -1164,11 +1171,11 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/\~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444\&hl=en\&as_sdt=0,5)].
 
-### Theory of Mind / Scientific Writing
+### Theory of Mind / Science Education
 
 *   [PHASE: PHysically-grounded Abstract Social Events for Machine Social Perception](https://ojs.aaai.org/index.php/AAAI/article/view/16167) - ***AAAI'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=15536873427310696150\&hl=en\&as_sdt=0,5)]. \[[Project](https://tshu.io/PHASE/)].
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Eye-tracking causality](http://cocolab.stanford.edu/papers/GerstenbergEtAl17_PsychScience.pdf) - ***Psychological Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=17518200401109470519)].
 
@@ -1178,7 +1185,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Hybrid computing using a neural network with dynamic external memory](http://clgiles.ist.psu.edu/IST597/materials/slides/papers-memory/2016-graves.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=8100274942961380405\&hl=en\&as_sdt=0,5)].
 
-### Theory of Mind / Scientific Writing
+### Theory of Mind / Science Education
 
 *   [Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration](https://openreview.net/forum?id=w_7JMpGZRh0) - ***ICLR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cluster=16340001407726295133)].
 
@@ -1450,7 +1457,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Basic functional trade-offs in cognition: An integrative framework](https://www.sciencedirect.com/science/article/pii/S0010027718301604) - ***Cognition***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=11475742130443069967\&hl=en\&as_sdt=0,5)].
 *   [A Theoretical Computer Science Perspective on Consciousness](https://www.worldscientific.com/doi/abs/10.1142/S2705078521500028) - ***Journal of Artificial Intelligence and Consciousness***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16430561748075101972\&hl=en\&as_sdt=0,5)].
 
-### Theory of Mind / Scientific Writing
+### Theory of Mind / Science Education
 
 *   [The Signature of All Things: Children Infer Knowledge States from Static Images](https://psyarxiv.com/f692k/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=12380982112592086477\&hl=en\&as_sdt=0,5\&as_ylo=2017)].
 *   [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835\&hl=en\&as_sdt=0,5)].
@@ -1466,7 +1473,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [The logic of universalization guides moral judgment](https://www.pnas.org/content/117/42/26158.short) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=13482051983012049752\&hl=en\&as_sdt=0,5)].
 *   [Origins of the concepts cause, cost, and goal in prereaching infants](https://www.pnas.org/content/116/36/17747) - ***Proceedings of National Academy of Sciences***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=15973074852436355789\&hl=en\&as_sdt=0,5)].
 
-### Analogy / Scientific Writing
+### Analogy / Science Education
 
 *   [Generalize and Blend: Concept Blending Based on Generalization, Analogy, and Amalgams](https://www.iiia.csic.es/\~enric/papers/generalize_and_blend.pdf) - ***ICCC'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11073359237116879862\&hl=en\&as_sdt=0,5)].
 *   [VISALOGY: Answering Visual Analogy Questions](https://proceedings.neurips.cc/paper/2015/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf) - ***NeurIPS'15***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=7665427758655324654\&hl=en\&as_sdt=0,5)].
@@ -1475,7 +1482,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Sky + Fire = Sunset. Exploring Parallels between Visually Grounded Metaphors and Image Classifiers](https://aclanthology.org/2020.figlang-1.pdf#page=140) - ***ACL'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5747285277687442001\&hl=en\&as_sdt=0,5)].
 *   [Analogy as Nonparametric Bayesian Inference over Relational Systems](https://arxiv.org/pdf/2006.04156.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1798148167130120057\&hl=en\&as_sdt=0,5)].
 
-### Causality / Scientific Writing
+### Causality / Science Education
 
 *   [Causal Reasoning](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195376746.001.0001/oxfordhb-9780195376746-e-46) - ***The Oxford Handbook of Cognitive Psychology***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=11361740093816709089\&hl=en\&as_sdt=0,5)].
 *   [Inferring causal networks from observations and interventions](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6) - ***Cognitive Science***, 2010. \[[All Versions](https://scholar.google.com/scholar?cluster=12050301037347772984\&hl=en\&as_sdt=2005\&sciodt=0,5)].

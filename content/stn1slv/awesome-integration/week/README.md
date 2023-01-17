@@ -2,15 +2,21 @@
 
 A curated list of awesome system integration software and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stn1slv/awesome-integration/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) · ⭐ 104 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stn1slv/awesome-integration/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) · ⭐ 116 · 🏷️ Platforms
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
+
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### Projects / Managed File Transfer
+
+*   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - Securely support all file transfer use cases from a single, centrally managed MFT platform.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Projects / API Gateway
 
-*   [Apinto (⭐348)](https://github.com/eolinker/goku) - Golang-based microservice gateway that enables high-performance dynamic routing,service orchestration, multi-tenancy management, API access control, etc.
+*   [Apinto (⭐393)](https://github.com/eolinker/goku) - Golang-based microservice gateway that enables high-performance dynamic routing,service orchestration, multi-tenancy management, API access control, etc.
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
 
@@ -21,8 +27,8 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Documentation
 
 *   [APITree](https://www.apitree.com/) - The central place for managing and sharing API specifications.
-*   [OpenAPI Explorer (⭐163)](https://github.com/Rhosys/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
-*   [RapiDoc (⭐1.1k)](https://github.com/rapi-doc/RapiDoc) - Create beautiful, customizable, interactive API documentation from OpenAPI Specification.
+*   [OpenAPI Explorer (⭐172)](https://github.com/Rhosys/openapi-explorer) - OpenAPI Web component to generate a UI from the spec.
+*   [RapiDoc (⭐1.2k)](https://github.com/rapi-doc/RapiDoc) - Create beautiful, customizable, interactive API documentation from OpenAPI Specification.
 *   [Redoc (⭐19k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions.
 *   [Slate (⭐35k)](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
 *   [SwaggerHub](https://swagger.io/tools/swaggerhub/) - An integrated API design and documentation platform, built for teams to drive consistency and discipline across the API development workflow.
@@ -44,10 +50,10 @@ A curated list of awesome system integration software and resources.
 
 *   Testing tools and frameworks
     *   [Apache JMeter](https://jmeter.apache.org/) - An open source java based load testing tool.
-    *   [Karate (⭐6.4k)](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
+    *   [Karate (⭐6.6k)](https://github.com/intuit/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework.
     *   [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - A REST testing and API microbenchmarking tool.
-    *   [REST Assured (⭐6.1k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐1.5k)](https://github.com/schemathesis/schemathesis) - Property-based testing for API schemas.
+    *   [REST Assured (⭐6.2k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
+    *   [Schemathesis (⭐1.6k)](https://github.com/schemathesis/schemathesis) - Property-based testing for API schemas.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
@@ -90,13 +96,13 @@ A curated list of awesome system integration software and resources.
 ### Projects / Data Mapping Solution
 
 *   [JOLT (⭐1.3k)](https://github.com/bazaarvoice/jolt) - JSON to JSON transformation library written in Java where the "specification" for the transform is itself a JSON document.
-*   [JSLT (⭐499)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
+*   [JSLT (⭐512)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON. The language design is inspired by jq, XPath, and XQuery.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
 ### Projects / Messaging
 
-*   [Redpanda (⭐5.4k)](https://github.com/vectorizedio/redpanda) - A streaming platform for mission critical workloads. Kafka® compatible, No Zookeeper®, no JVM, and no code changes required.
+*   [Redpanda (⭐5.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform for mission critical workloads. Kafka® compatible, No Zookeeper®, no JVM, and no code changes required.
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 
@@ -122,8 +128,8 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Testing
 
 *   MQ clients
-    *   [JMSToolBox (⭐152)](https://github.com/jmstoolbox/jmstoolbox) - An universal JMS Client able to interact with the greatest number of JMS based message brokers.
-    *   [kcat (⭐4.5k)](https://github.com/edenhill/kcat) - A generic non-JVM producer and consumer for Apache Kafka, think of it as a netcat for Kafka. Formerly known as kafkacat.
+    *   [JMSToolBox (⭐160)](https://github.com/jmstoolbox/jmstoolbox) - An universal JMS Client able to interact with the greatest number of JMS based message brokers.
+    *   [kcat (⭐4.6k)](https://github.com/edenhill/kcat) - A generic non-JVM producer and consumer for Apache Kafka, think of it as a netcat for Kafka. Formerly known as kafkacat.
     *   [Offset Explorer](https://www.kafkatool.com) - A GUI application for managing and using Apache Kafka clusters. Formerly known as Kafka Tool.
 
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
@@ -170,38 +176,38 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐486)](https://github.com/OpenAPITools/openapi-diff) - Compare two OpenAPI specifications (3.x) and render the difference to HTML plaintext, or Markdown files.
-*   [OpenAPI Generator (⭐14k)](https://github.com/OpenAPITools/openapi-generator) - Allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (both 2.0 and 3.0 are supported).
-*   [OpenAPI Style Validator (⭐145)](https://github.com/OpenAPITools/openapi-style-validator) - A customizable style validator to make sure your OpenAPI spec follows your organization's standards.
+*   [OpenAPI Diff (⭐514)](https://github.com/OpenAPITools/openapi-diff) - Compare two OpenAPI specifications (3.x) and render the difference to HTML plaintext, or Markdown files.
+*   [OpenAPI Generator (⭐15k)](https://github.com/OpenAPITools/openapi-generator) - Allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (both 2.0 and 3.0 are supported).
+*   [OpenAPI Style Validator (⭐152)](https://github.com/OpenAPITools/openapi-style-validator) - A customizable style validator to make sure your OpenAPI spec follows your organization's standards.
 *   [Swagger Editor](https://swagger.io/tools/swagger-editor/) - Design, describe, and document your API on the first open source editor fully dedicated to OpenAPI-based APIs.
-*   [Zally (⭐739)](https://github.com/zalando/zally) - A linter for OpenAPI specifications.
+*   [Zally (⭐766)](https://github.com/zalando/zally) - A linter for OpenAPI specifications.
 
 ### Projects / API Gateway
 
-*   [Tyk API Gateway (⭐7.9k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
+*   [Tyk API Gateway (⭐8k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway, supporting REST, GraphQL, TCP and gRPC protocols.
 
 ### Projects / API Testing
 
 *   API clients
     *   [Advanced REST Client (⭐1.2k)](https://github.com/advanced-rest-client/arc-electron) - An open-source and free for everyone API tool out of a passion for giving the developer community tools they need.
-    *   [curl (⭐27k)](https://github.com/curl/curl) - Command line tool and library for transferring data with URLs.
+    *   [curl (⭐28k)](https://github.com/curl/curl) - Command line tool and library for transferring data with URLs.
     *   [curlie](https://curlie.io) - A frontend to curl that adds the ease of use of httpie, without compromising on features and performance.
     *   [HTTPie](https://httpie.io) - Command line HTTP client, far more dev-friendly than curl.
     *   [Insomnia](https://insomnia.rest/products/insomnia) - Cross-platform HTTP and GraphQL Client.
     *   [Postman](https://www.postman.com/product/api-client/) - A tool to make HTTP requests, generate mock servers and make API documentation.
     *   [SoapUI](https://www.soapui.org/tools/soapui) - An open-source web service testing application for SOAP and REST.
 *   Mocking tools
-    *   [Microcks (⭐705)](https://github.com/microcks/microcks) - Open source Kubernetes Native tool for API Mocking and Testing. Supports AsyncAPI, OpenAPI, Postman Collections etc.
+    *   [Microcks (⭐739)](https://github.com/microcks/microcks) - Open source Kubernetes Native tool for API Mocking and Testing. Supports AsyncAPI, OpenAPI, Postman Collections etc.
     *   [Mockable](https://www.mockable.io/) - A simple configurable service to mock out RESTful API or SOAP web-services.
     *   [Mockoon](https://mockoon.com/) - The easiest and quickest way to design and run mock REST APIs.
-    *   [MockServer (⭐3.9k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
+    *   [MockServer (⭐4k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
     *   [Mocky](https://designer.mocky.io/) - A free and unlimited online service which allows to generate custom HTTP responses.
-    *   [Prism (⭐3.2k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that can mimic your API\`s behavior as if you already built it.
-    *   [WireMock (⭐5.2k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust and comprehensive testing.
+    *   [Prism (⭐3.3k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that can mimic your API\`s behavior as if you already built it.
+    *   [WireMock (⭐5.3k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust and comprehensive testing.
 
 ### Projects / BRE
 
-*   [Easy Rules (⭐4.1k)](https://github.com/j-easy/easy-rules) - A simple Java rules engine.
+*   [Easy Rules (⭐4.3k)](https://github.com/j-easy/easy-rules) - A simple Java rules engine.
 
 ### Projects / BPM
 
@@ -235,7 +241,7 @@ A curated list of awesome system integration software and resources.
 *   [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - Delivers enterprise data integration and management software powering analytics for big data and cloud.
 *   [Microsoft SSIS](https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - SQL Server Integration Services is a platform for building enterprise-level data integration and data transformations solutions.
 *   [Oracle Data Integrator](https://www.oracle.com/middleware/technologies/data-integrator.html) - A comprehensive data integration platform that covers all data integration requirements, including batch loads, integration processes, and SOA-enabled data services.
-*   [Pentaho Data Integration (⭐6.2k)](https://github.com/pentaho/pentaho-kettle) - Enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools to eliminate coding and complexity.
+*   [Pentaho Data Integration (⭐6.3k)](https://github.com/pentaho/pentaho-kettle) - Enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools to eliminate coding and complexity.
 *   [SAS Data Management](https://www.sas.com/en_us/software/data-management.html) - Helps transform, integrate, govern, and secure data while improving its overall quality and reliability.
 *   [Stitch](https://www.stitchdata.com/) - A simple, powerful ETL service for businesses of all sizes, up to and including the enterprise. Running on a scalable, fault-tolerant cloud platform, Stitch integrates data from dozens of different sources.
 *   [Talend Data Integration](https://www.talend.com/products/integrate-data/) - Bring data together from multiple sources to power all your business decisions.
@@ -283,14 +289,14 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐28k)](https://github.com/apache/airflow) - A platform to programmatically author, schedule, and monitor workflows.
+*   [Apache Airflow (⭐29k)](https://github.com/apache/airflow) - A platform to programmatically author, schedule, and monitor workflows.
 *   [Argo Workflows (⭐12k)](https://github.com/argoproj/argo-workflows) -  An open source container-native workflow engine for orchestrating parallel jobs on Kubernetes.
 *   [Azkaban (⭐4.2k)](https://github.com/azkaban/azkaban) - A distributed Workflow Manager, implemented at LinkedIn to solve the problem of Hadoop job dependencies.
-*   [Bonita (⭐126)](https://github.com/bonitasoft/bonita-engine) - BPMN engine that comes with an optional development environment, a designer, an optional user interface and administrative tools.
-*   [Conductor (⭐5.7k)](https://github.com/Netflix/conductor) - Netflix Conductor is an orchestration engine that runs in the cloud.
-*   [Elsa Core (⭐3.9k)](https://github.com/elsa-workflows/elsa-core) -  A workflows library that enables workflow execution in any .NET Core application.
-*   [Flowable (⭐5.8k)](https://github.com/flowable/flowable-engine) - Provides a core set of open source business process engines that are compact and highly efficient.
-*   [StackStorm (⭐5k)](https://github.com/StackStorm/st2) - Robust Automation Engine providing Sensors, Triggers, Rules, Workflows, and Actions. StackStorm is how you “glue” your applications together.
+*   [Bonita (⭐128)](https://github.com/bonitasoft/bonita-engine) - BPMN engine that comes with an optional development environment, a designer, an optional user interface and administrative tools.
+*   [Conductor (⭐7.6k)](https://github.com/Netflix/conductor) - Netflix Conductor is an orchestration engine that runs in the cloud.
+*   [Elsa Core (⭐4.1k)](https://github.com/elsa-workflows/elsa-core) -  A workflows library that enables workflow execution in any .NET Core application.
+*   [Flowable (⭐6k)](https://github.com/flowable/flowable-engine) - Provides a core set of open source business process engines that are compact and highly efficient.
+*   [StackStorm (⭐5.3k)](https://github.com/StackStorm/st2) - Robust Automation Engine providing Sensors, Triggers, Rules, Workflows, and Actions. StackStorm is how you “glue” your applications together.
 
 ### Resources / API Specification
 
@@ -312,11 +318,11 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [Apache Avro (⭐2.3k)](https://github.com/apache/avro) - Data serialization system.
+*   [Apache Avro (⭐2.4k)](https://github.com/apache/avro) - Data serialization system.
 *   [BSON](https://bsonspec.org/) - Short for Binary JSON, is a binary-encoded serialization of JSON-like documents.
 *   [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A comma-separated values (CSV) file is a delimited text file that uses a comma to separate values.
 *   [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - The JavaScript Object Notation (JSON) Data Interchange Format.
-*   [NDJSON (⭐499)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON in stream protocols.
+*   [NDJSON (⭐513)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON in stream protocols.
 *   [Protocol Buffers](https://developers.google.com/protocol-buffers) - A language-neutral, platform-neutral extensible mechanism for serializing structured data.
 *   [XML](https://www.w3.org/TR/2006/REC-xml11-20060816/) - Extensible Markup Language (XML).
 *   [YAML](https://yaml.org/) - YAML is a human friendly data serialization standard for all programming languages.
@@ -378,9 +384,9 @@ A curated list of awesome system integration software and resources.
 
 *   [Apache APISIX](https://apisix.apache.org) - Dynamic, real-time, high-performance API gateway.
 *   [Gloo Edge](https://www.solo.io/products/gloo-edge/) - An Envoy Proxy-based API Gateway.
-*   [Kong API Gateway (⭐33k)](https://github.com/Kong/kong) - Cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.
-*   [KrakenD API Gateway (⭐992)](https://github.com/devopsfaith/krakend-ce) - Ultra-High performance API Gateway with middlewares.
-*   [Ocelot (⭐7.3k)](https://github.com/ThreeMammals/Ocelot) - .NET API Gateway.
+*   [Kong API Gateway (⭐34k)](https://github.com/Kong/kong) - Cloud-native, platform-agnostic, scalable API Gateway distinguished for its high performance and extensibility via plugins.
+*   [KrakenD API Gateway (⭐1.1k)](https://github.com/devopsfaith/krakend-ce) - Ultra-High performance API Gateway with middlewares.
+*   [Ocelot (⭐7.4k)](https://github.com/ThreeMammals/Ocelot) - .NET API Gateway.
 *   [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) -  API Gateway built on top of the Spring Ecosystem, including: Spring 5, Spring Boot 2 and Project Reactor.
 
 ### Projects / BRE
@@ -436,9 +442,9 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Workflow engine
 
-*   [Activiti (⭐9.1k)](https://github.com/Activiti/Activiti) - A lightweight and java-centric open-source BPMN engine.
-*   [Cadence (⭐6.4k)](https://github.com/uber/cadence) - Fault-Tolerant Stateful Code Platform.
-*   [Camunda (⭐3k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform.
+*   [Activiti (⭐9.2k)](https://github.com/Activiti/Activiti) - A lightweight and java-centric open-source BPMN engine.
+*   [Cadence (⭐6.5k)](https://github.com/uber/cadence) - Fault-Tolerant Stateful Code Platform.
+*   [Camunda (⭐3.1k)](https://github.com/camunda/camunda-bpm-platform) - An open-source workflow and decision automation platform.
 *   [jBPM](https://www.jbpm.org/) - A toolkit for building business applications to help automate business processes and decisions.
 
 ### Resources / Enterprise Integration Patterns
