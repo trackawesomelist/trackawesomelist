@@ -6,6 +6,12 @@ Curated List of React Components & Libraries.
 
 [ Daily / [Weekly](/content/brillout/awesome-react-components/week/README.md) / [Overview](/content/brillout/awesome-react-components/readme/README.md) ]
 
+## [Jan 18, 2023](/content/2023/01/18/README.md)
+
+### Photo / Image
+
+*   [yet-another-react-lightbox (⭐94)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
+
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
 
 ### Form Components / Drag and Drop
@@ -165,7 +171,7 @@ Curated List of React Components & Libraries.
 
 *   [ant-design (⭐84k)](https://github.com/ant-design/ant-design) - [demo/docs](https://ant.design/docs/react/introduce) - A UI Design Language from China. Individual [components](http://react-component.github.io/) available.
 *   [ChatUI (⭐1.6k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
-*   [fluentui (⭐14k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
+*   [fluentui (⭐15k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
 *   [geist-ui (⭐3.6k)](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 *   [grommet (⭐8.1k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
 *   [Mantine (⭐17k)](https://github.com/mantinedev/mantine) - [demo/docs](https://mantine.dev/) - A fully featured library with 100+ hooks and components with native dark theme support
@@ -909,7 +915,7 @@ Curated List of React Components & Libraries.
 
 ### Miscellaneous / Lazy Load
 
-*   [DataFormsJS JSX Loader (⭐156)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+*   [DataFormsJS JSX Loader (⭐157)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 
 ## [Feb 28, 2020](/content/2020/02/28/README.md)
 
@@ -1559,7 +1565,6 @@ Curated List of React Components & Libraries.
 
 *   [react-compare-image (⭐248)](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 *   [react-image-gallery (⭐3.3k)](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
-*   [react-image-lightbox (⭐1.3k)](https://github.com/fritz-c/react-image-lightbox) - React lightbox component.
 *   [react-intense (⭐169)](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close.
 *   [react-svg-pan-zoom (⭐642)](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
 

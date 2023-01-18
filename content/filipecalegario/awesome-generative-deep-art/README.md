@@ -6,6 +6,20 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 18, 2023](/content/2023/01/18/README.md)
+
+### Discussions and Philosophy / Critical Views about Generative AI
+
+*   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
+
+### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
+
+*   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
+
+### Inbox: Games and AI / Text-related Generative Tools
+
+*   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
+
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 
 ### Papers and References / AI Tools for Paper Reading
@@ -14,15 +28,15 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
-*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
 *   [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
+*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
 *   [What AI-Generated Art Really Means for Human Creativity | WIRED](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
 
 ### Image Synthesis / Generative Adversarial Networks (GANs)
 
 *   \[🔥] [weihaox/awesome-gan-inversion (⭐875)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
-### Inbox: Video tools / Text-related Generative Tools
+### Inbox: Video AI tools / Text-related Generative Tools
 
 *   \[🔥] [dmarx/video-killed-the-radio-star (⭐78)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 
@@ -64,7 +78,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [DreamFusion / Twitter](https://twitter.com/_akhaliq/status/1575541930905243652?t=m17X6zyC0c8-VvIWjICc1w\&s=33): Text-to-3D using 2D Diffusion paper
 
-### Inbox: Video tools / Text-related Generative Tools
+### Inbox: Video AI tools / Text-related Generative Tools
 
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 
@@ -259,7 +273,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 *   [magenta/magenta (⭐18k)](https://github.com/magenta/magenta): Magenta's official GitHub repository
 *   [archinetai/audio-diffusion-pytorch (⭐575)](https://github.com/archinetai/audio-diffusion-pytorch): Audio generation using diffusion models, in PyTorch
 
-### Inbox: Video tools / Text-related Generative Tools
+### Inbox: Video AI tools / Text-related Generative Tools
 
 *   [THUDM/CogVideo (⭐2.3k)](https://github.com/THUDM/CogVideo): text-to-video generation
 
@@ -858,7 +872,7 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ## [Aug 06, 2022](/content/2022/08/06/README.md)
 
-### Inbox: Video tools / Text-related Generative Tools
+### Inbox: Video AI tools / Text-related Generative Tools
 
 *   [baowenbo/DAIN (⭐7.7k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 *   [Dain-App 1.0 \[Nvidia Only\] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)

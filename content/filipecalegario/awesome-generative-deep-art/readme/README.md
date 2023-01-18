@@ -301,8 +301,9 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 ### Critical Views about Generative AI
 
-*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
+*   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
 *   [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
+*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
 *   [Abstracts written by ChatGPT fool scientists](https://www.nature.com/articles/d41586-023-00056-7)
 *   [When Machines Change Art | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html)
 *   [The Dark Risk of Large Language Models | WIRED UK](https://www.wired.co.uk/article/artificial-intelligence-language)
@@ -556,19 +557,24 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   [Play.ht](https://play.ht/): "AI voice generator and realistic text to speech online"
 *   [Murf AI | AI Voice Generator](https://murf.ai/): versatile text to tpeech software
+*   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
 *   \[🔥] [Eleven Labs Beta](https://blog.elevenlabs.io/the_first_ai_that_can_laugh/): a TTS service that adds emotion to the generated voice
 *   [neonbjb/tortoise-tts (⭐2.7k)](https://github.com/neonbjb/tortoise-tts#voice-customization-guide): "A multi-voice TTS system trained with an emphasis on quality"
 *   [Studio D-ID](https://studio.d-id.com/): create video with still images synced with text-to-speech tool \[#avatar]
 *   [Synthesia](https://www.synthesia.io/): AI Video Generation Platform \[#avatar]
 *   [Speech Studio - Microsoft Azure](https://speech.microsoft.com/portal): Microsoft's cloud cognitive services
 
-## Inbox: Video tools
+## Inbox: Video AI tools
 
 *   \[🔥] [dmarx/video-killed-the-radio-star (⭐78)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
 *   [THUDM/CogVideo (⭐2.3k)](https://github.com/THUDM/CogVideo): text-to-video generation
 *   [baowenbo/DAIN (⭐7.7k)](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 *   [Dain-App 1.0 \[Nvidia Only\] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
+
+## Inbox: Games and AI
+
+*   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
 
 ## People and works
 

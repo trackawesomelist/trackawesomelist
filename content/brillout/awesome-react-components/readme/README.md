@@ -345,7 +345,7 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 *   [lightGallery (⭐5.6k)](https://github.com/sachinchoolur/lightGallery) - [demo](https://www.lightgalleryjs.com/) - [docs](https://www.lightgalleryjs.com/docs/react/) - Full-featured lightbox gallery component.
 *   [react-compare-image (⭐248)](https://github.com/junkboy0315/react-compare-image) - [demo](https://react-compare-image.yuuniworks.com/) - React component to compare two images using a slider.
 *   [react-image-gallery (⭐3.3k)](https://github.com/xiaolin/react-image-gallery) - Responsive image gallery, carousel, image slider react component.
-*   [react-image-lightbox (⭐1.3k)](https://github.com/fritz-c/react-image-lightbox) - React lightbox component.
+*   [yet-another-react-lightbox (⭐94)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
 *   [react-intense (⭐169)](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close.
 *   [react-photo-album (⭐114)](https://github.com/igordanchenko/react-photo-album) - [demo](https://react-photo-album.com/examples) - [docs](https://react-photo-album.com/documentation) - Responsive React Photo Gallery.
 *   [react-svg-pan-zoom (⭐642)](https://github.com/chrvadala/react-svg-pan-zoom) - A React component that adds pan and zoom features to SVG.
@@ -673,7 +673,7 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 *   [ChatUI (⭐1.6k)](https://github.com/alibaba/ChatUI) - [demo/docs](https://chatui.io/) - The UI design language and React library for Conversational UI
 *   [CoreUI for React (⭐519)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 *   [evergreen (⭐12k)](https://github.com/segmentio/evergreen) - [demo/docs](https://evergreen.segment.com) - Evergreen React UI Framework by Segment.
-*   [fluentui (⭐14k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
+*   [fluentui (⭐15k)](https://github.com/microsoft/fluentui) - UX frameworks for creating beautiful, cross-platform apps that share code, design, and interaction behavior.
 *   [geist-ui (⭐3.6k)](https://github.com/geist-org/geist-ui) - Modern and minimalist React UI library.
 *   [gestalt (⭐4.1k)](https://github.com/pinterest/gestalt) - [demo/docs](https://pinterest.github.io/gestalt/#/) - A set of components that supports Pinterest’s design language.
 *   [grommet (⭐8.1k)](https://github.com/grommet/grommet) - The most advanced UX framework for enterprise applications.
@@ -1075,7 +1075,7 @@ Please review our [contributing guidelines (⭐34k)](https://github.com/brillout
 
 **[`Back to top ⬆️`](#table-of-contents)**
 
-*   [DataFormsJS JSX Loader (⭐156)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
+*   [DataFormsJS JSX Loader (⭐157)](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) - Small JavaScript Compiler for quickly converting JSX to JS directly on a web page.
 *   [html-to-react-components (⭐2.1k)](https://github.com/roman01la/html-to-react-components) - Extract annotated portions of HTML into React components as separate modules.
 *   [htmltojsx (⭐923)](https://github.com/reactjs/react-magic) - Automatically AJAXify plain HTML with the power of React. It's magic!.
 *   [jsonx (⭐144)](https://github.com/repetere/jsonx) - React JSON Syntax.

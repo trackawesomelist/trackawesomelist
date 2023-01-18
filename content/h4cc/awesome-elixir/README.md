@@ -6,6 +6,16 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Jan 18, 2023](/content/2023/01/18/README.md)
+
+### Static Page Generation
+
+*   [NimblePublisher (⭐313)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
+
+### Third Party APIs
+
+*   [omise (⭐10)](https://github.com/omise/omise-elixir) - Omise client library for Elixir.
+
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
 ### Testing
@@ -241,7 +251,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ### Networking
 
-*   [Firezone (⭐3.5k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐3.6k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 
 ### Protocols
 
@@ -2537,7 +2547,6 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 *   [bandwidth (⭐4)](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
 *   [kane (⭐93)](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
-*   [omise](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
 
 ### Utilities
 

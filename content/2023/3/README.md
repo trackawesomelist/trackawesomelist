@@ -1,31 +1,82 @@
 # Awesome List Updates on Jan 16 - Jan 22, 2023
 
-23 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [1. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Static Page Generation
+
+*   [NimblePublisher (⭐313)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
+
+### Third Party APIs
+
+*   [omise (⭐10)](https://github.com/omise/omise-elixir) - Omise client library for Elixir.
+
+## [2. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+
+### Specifications
+
+*   [GraphQXL](https://gabotechs.github.io/graphqxl/) - GraphQXL is an extension of the GraphQL language with some additional features that help creating big and scalable server-side schemas.
+*   [GraphQL Scalars](https://www.graphql-scalars.com/) - hosts community defined custom Scalar specifications for use with @specifiedBy.
+
+### Communities
+
+*   [Discord - GraphQL](https://discord.graphql.org/) - Official GraphQL.org discord channel.
+*   [Apollo GraphQL Community](https://community.apollographql.com/) - Connect with other developers and share knowledge about every part of the Apollo GraphQL platform.
+*   [Discord - Reactiflux](http://join.reactiflux.com/) - Join `#help-graphql` on the Reactiflux Discord server.
+
+### Tutorials / React
+
+*   [GraphQL Roadmap](https://roadmap.sh/graphql/) - Step by step guide to learn GraphQL.
+
+## [3. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### operations
+
+*   [geojson-indoor-tools (⭐0)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
+
+## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### Strategy
+
+*   [VanillaConquer (⭐209)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
+
+## [5. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+
+### Photo / Image
+
+*   [yet-another-react-lightbox (⭐94)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
+
+## [6. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### Other Awesome Lists / Book Deals (Affiliated) 🛍
+
+*   [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
+
+## [7. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Network
 
 *   [MasterQ32/zig-network (⭐237)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
 *   [dantecatalfamo/zig-dns (⭐50)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
 
-## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Security
 
 *   [teler-waf (⭐93)](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Managed File Transfer
 
 *   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - Securely support all file transfer use cases from a single, centrally managed MFT platform.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Screencapturing Software
 
@@ -39,13 +90,13 @@
 
 *   Appstorrent：~~`http://appstorrent.ru/`~~
 
-## [5. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [11. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Other
 
 *   [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
 
-## [6. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -61,25 +112,25 @@
 
 *   [TailwindUI theme (⭐4)](https://github.com/santiblanko/tailwind-keycloak-theme)
 
-## [7. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
 *   [hu.dwim.walker (⭐4)](https://github.com/hu-dwim/hu.dwim.walker) - a code walker and unwalker (aka AST parser and unparser). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
-## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Matcha - Daily RSS Digest (⭐72)](https://github.com/piqoni/matcha) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.move (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Knowledge Management
 
@@ -89,7 +140,7 @@
 
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -99,17 +150,25 @@
 
 *   [Keploy](https://keploy.io/) - Keploy is a functional testing toolkit for developers. It generates E2E tests for APIs (KTests) along with mocks or stubs(KMocks) by recording real API calls. It is free for Open Source.
 
+### Monitoring
+
+*   [downtimemonkey.com](https://downtimemonkey.com/) — 60 uptime monitors, 5 minute interval. Email, Slack alerts.
+
 ### CDN and Protection
 
 *   [Stellate](https://stellate.co/) - Stellate is blazing fast, reliable CDN for your GraphQL API and Free for 2 services.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+### Analytics, Events and Statistics
+
+*   [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
+
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Insurance-system (⭐19)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 
-## [13. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [19. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -137,13 +196,13 @@
 
 *   [Compiiile (⭐43)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Configuration
 
 *   [softprops/envy (⭐647)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
-## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -153,15 +212,7 @@
 
 *   [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
 
-## [16. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
-
-### Libraries/Frameworks / Logging
-
-*   [Foso/Cabret-Log (⭐187)](https://github.com/Foso/Cabret-Log) - Method call logging for Kotlin Multiplatform
-
-### Libraries/Frameworks / Mail
-
-*   [bluefireoly/SimpleKotlinMail (⭐54)](https://github.com/bluefireoly/SimpleKotlinMail) - A simple, modern and coroutine based Kotlin Email API, supporting both clientside and serverside projects.
+## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Web
 
@@ -186,7 +237,7 @@
 *   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 
-## [17. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -214,8 +265,9 @@
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
-*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
+*   [Stable Diffusion Frivolous · Because lawsuits based on ignorance deserve a response.](http://www.stablediffusionfrivolous.com/): a community response for the "Stable Diffusion litigation"
 *   [Stable Diffusion litigation · Joseph Saveri Law Firm & Matthew Butterick](https://stablediffusionlitigation.com/)
+*   [Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations | OpenAI](https://cdn.openai.com/papers/forecasting-misuse.pdf)
 *   [Abstracts written by ChatGPT fool scientists](https://www.nature.com/articles/d41586-023-00056-7)
 *   [When Machines Change Art | Aaron Hertzmann’s blog](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html)
 *   [What AI-Generated Art Really Means for Human Creativity | WIRED](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
@@ -228,10 +280,18 @@
 
 *   \[🔥] [weihaox/awesome-gan-inversion (⭐875)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
-### Inbox: Video tools / Text-related Generative Tools
+### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
+
+*   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples
+
+### Inbox: Video AI tools / Text-related Generative Tools
 
 *   \[🔥] [dmarx/video-killed-the-radio-star (⭐78)](https://github.com/dmarx/video-killed-the-radio-star): Notebook and tools for end-to-end automation of music video production with generative AI
 *   \[🔥🔥🔥] [Phenaki – Google Research](https://phenaki.research.google/): realistic video generation from open-domain textual descriptions
+
+### Inbox: Games and AI / Text-related Generative Tools
+
+*   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
 
 ### People and works / Artists and Artworks
 
@@ -243,7 +303,7 @@
 
 *   [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 
-## [18. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [24. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -258,17 +318,17 @@
 *   [ehrapy (⭐28)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
 *   [Hermes (⭐104)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 
-## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins.
+*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [daivasmara (⭐52)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 
-## [20. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [26. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Tutorials
 
@@ -298,7 +358,7 @@
 *   [dotstow (⭐92)](https://github.com/clayrisser/dotstow)
 *   [YADR](http://skwp.github.io/dotfiles/)
 
-## [21. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [27. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / .NET
 
@@ -307,13 +367,13 @@
 *   [dotnet-yieldly-sdk (⭐11)](https://github.com/geoffodonnell/dotnet-yieldly-sdk) - Yieldly .NET SDK.
 *   [powershell-algorand-module (⭐2)](https://github.com/geoffodonnell/powershell-algorand-module) - Algorand PowerShell Module.
 
-## [22. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [28. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Zero Knowledge Proofs
 
 *   [Information Theoretic Reductions among Disclosure Problems](https://web.archive.org/http://crypto.cs.mcgill.ca/\~crepeau/BCR86.pdf) - Brassau et al.
 
-## [23. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [29. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 

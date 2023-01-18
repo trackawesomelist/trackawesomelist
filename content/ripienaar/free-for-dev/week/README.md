@@ -16,9 +16,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Keploy](https://keploy.io/) - Keploy is a functional testing toolkit for developers. It generates E2E tests for APIs (KTests) along with mocks or stubs(KMocks) by recording real API calls. It is free for Open Source.
 
+### Monitoring
+
+*   [downtimemonkey.com](https://downtimemonkey.com/) — 60 uptime monitors, 5 minute interval. Email, Slack alerts.
+
 ### CDN and Protection
 
 *   [Stellate](https://stellate.co/) - Stellate is blazing fast, reliable CDN for your GraphQL API and Free for 2 services.
+
+### Analytics, Events and Statistics
+
+*   [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -792,7 +800,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### DBaaS
 
-*   [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgresSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.
+*   [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgreSQL. The cloud free tier is a 2 vCPU, 4GB RAM, 10GB Disk.
 
 ### IDE and Code Editing
 
@@ -2579,7 +2587,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Monitoring
 
-*   [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10 minutes interval. monitor SSH, HTTP, HTTPS, and any custom TCP ports.
+*   [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10 minutes interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
 
 ### CDN and Protection
 

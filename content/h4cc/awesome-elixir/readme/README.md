@@ -1221,7 +1221,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [download (⭐32)](https://github.com/asiniy/download) - Download files from the internet easily.
 *   [eio (⭐12)](https://github.com/falood/eio) - Elixir server of engine.io.
 *   [ExPcap (⭐26)](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
-*   [Firezone (⭐3.5k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+*   [Firezone (⭐3.6k)](https://github.com/firezone/firezone) - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 *   [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - A dyndns server written in elixir.
 *   [hades (⭐23)](https://github.com/fklement/hades) - A wrapper for NMAP written in Elixir.
 *   [mac (⭐5)](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
@@ -1505,6 +1505,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [coil (⭐66)](https://github.com/badosu/coil) - Minimalistic static content engine.
 *   [glayu (⭐73)](https://github.com/pablomartinezalvarez/glayu) - A static site generator for mid-sized sites.
 *   [medusa (⭐3)](https://github.com/Vesuvium/medusa) - Elixir static site generator that supports Pug.
+*   [NimblePublisher (⭐313)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
 *   [pardall\_markdown (⭐95)](https://github.com/alfredbaudisch/pardall_markdown) - Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding.
 *   [obelisk (⭐383)](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 *   [serum (⭐292)](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
@@ -1771,7 +1772,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [mmExchangeRate (⭐0)](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 *   [nacha (⭐13)](https://github.com/RiverFinancial/nacha) - Elixir library for generating and parsing NACHA files for US ACH transfers.
 *   [nadia (⭐359)](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
-*   [omise](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
+*   [omise (⭐10)](https://github.com/omise/omise-elixir) - Omise client library for Elixir.
 *   [opbeat (⭐7)](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 *   [pagexduty (⭐6)](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
 *   [parse\_client (⭐4)](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
@@ -2010,7 +2011,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 
 ## Other Awesome Lists
 
-*Other amazingly awesome lists can be found at [jnv/lists (⭐8.6k)](https://github.com/jnv/lists#lists-of-lists) or [bayandin/awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness).*
+*Other amazingly awesome lists can be found at [jnv/lists (⭐8.7k)](https://github.com/jnv/lists#lists-of-lists) or [bayandin/awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness).*
 
 *   [Awesome Elixir and CQRS (⭐633)](https://github.com/slashdotdash/awesome-elixir-cqrs) - A curated list of awesome Elixir and Command Query Responsibility Segregation (CQRS) and event sourcing resources.
 *   [Awesome Elixir by LibHunt](https://elixir.libhunt.com) - A curated list of awesome Elixir and Erlang packages and resources.
