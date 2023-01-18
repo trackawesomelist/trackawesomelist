@@ -12,6 +12,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[\[Wikipedia-EN]\(<https://en.wikipedia.org/wiki/Chinese_Library_Classification#:~:text=The%20Chinese%20Library%20Classification%20(CLC,as%20well%20as%20public%20libraries.)>].
 
+### Problem Solving / Human-Level Problem Solving
+
+*   [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***Trends in Cognitive Sciences***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A review that outlines the computational and biological principles that enable the brain to compute the usefulness of an option or action by creating abstractions that flexibly adapt to changing goals.
+
 ### Commonsense / Commonsense Knowledgebase
 
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.

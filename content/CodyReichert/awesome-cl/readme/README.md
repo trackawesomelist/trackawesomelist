@@ -127,7 +127,6 @@ sellers who aren't evil for physical resources.
         *   [User login and password management](#user-login-and-password-management)
         *   [Web project skeletons and generators](#web-project-skeletons-and-generators)
     *   [Others](#others)
-        *   [Authentication](#authentication)
         *   [Email](#email)
         *   [OpenAPI, OData, OpenRPC](#openapi-odata-openrpc)
         *   [Static site generators](#static-site-generators)
@@ -157,6 +156,7 @@ sellers who aren't evil for physical resources.
     *   [Atom](#atom)
     *   [Sublime Text](#sublime-text)
     *   [VSCode](#vscode)
+    *   [JetBrains](#jetbrains)
     *   [Geany (experimental)](#geany-experimental)
     *   [Notebooks](#notebooks)
     *   [REPLs](#repls)
@@ -1279,6 +1279,11 @@ This contains plugins and other goodies for various text editors.
 *   [alive (⭐131)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 *   [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) - structural editing and navigation like Emacs.
+
+## JetBrains
+
+*   [SLT (⭐96)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
+    *   🎉 NEW! Released in Jan, 2023.
 
 ## Geany (experimental)
 

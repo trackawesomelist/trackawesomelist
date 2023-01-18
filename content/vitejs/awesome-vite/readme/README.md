@@ -358,6 +358,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 *   [vite-plugin-version-mark (⭐2)](https://github.com/ZhongxuYang/vite-plugin-version-mark) - Automatically use `package version` / `git commit` / `custom` to be inserted into your project as a unique identifier for the project version.
 *   [vite-plugin-css-export (⭐11)](https://github.com/shixuanhong/vite-plugin-css-export) - Export variables from CSS to JS, and support nested rules.
 *   [vite-plugin-optimize-css-modules (⭐4)](https://github.com/Simonwep/vite-plugin-optimize-css-modules) - Generate the smallest possible CSS-Classes when CSS-Modules are used.
+*   [Vite-plugin-haxe (⭐0)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
 
 #### Helpers
 
@@ -715,7 +716,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [îles (⭐874)](https://github.com/ElMassimo/iles) - Islands of Interactivity with Vue3, multi-framework.
 *   [Astro (⭐25k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 *   [Hathora (⭐492)](https://github.com/hathora/hathora) - Multiplayer game framework.
-*   [Nhost (⭐5.5k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐5.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 *   [Ladle (⭐1.9k)](https://github.com/tajo/ladle) - Tool for developing and testing component stories powered by Vite and React.
 *   [IslandJS (⭐229)](https://github.com/sanyuan0704/island.js) - Static site generator base on islands architecture.
 *   [Vituum (⭐107)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.

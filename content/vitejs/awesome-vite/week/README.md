@@ -26,6 +26,10 @@
 
 *   [vite-plugin-image-optimizer (⭐6)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 
+### Framework-agnostic Plugins / Transformers
+
+*   [Vite-plugin-haxe (⭐0)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
+
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-auto-alias (⭐0)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
@@ -541,7 +545,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐5.5k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐5.7k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 

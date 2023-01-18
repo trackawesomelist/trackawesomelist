@@ -155,6 +155,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 *   [DreeRally (⭐68)](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
 *   [OpenNFS (⭐457)](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 *   [Vangers (⭐563)](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
+*   [Vange-rs (⭐356)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 
 ## Simulator
 

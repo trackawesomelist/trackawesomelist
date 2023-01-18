@@ -8,6 +8,10 @@ Actively maintained open-source game remakes.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
+### Racing
+
+*   [Vange-rs (⭐356)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
+
 ### Strategy
 
 *   [VanillaConquer (⭐209)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.

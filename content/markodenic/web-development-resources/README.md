@@ -2,9 +2,17 @@
 
 Awesome Web Development Resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.1K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/markodenic/web-development-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) · ⭐ 5.4K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/markodenic/web-development-resources/week/README.md) / [Overview](/content/markodenic/web-development-resources/readme/README.md) ]
+
+## [Jan 18, 2023](/content/2023/01/18/README.md)
+
+### Remote Jobs:
+
+- Website: <https://jobstache.com>
+
+
 
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
@@ -208,11 +216,6 @@ Awesome Web Development Resources.
 - Website: <https://aws.amazon.com>
 
   Description: **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.
-
-
-- Website: <https://heroku.com>
-
-  Description: **Heroku** is the platform for building with modern architectures, innovating quickly, and scaling precisely to meet demand. It helps you focus and invest in your apps and not ops.
 
 
 - Website: <https://pages.github.com>

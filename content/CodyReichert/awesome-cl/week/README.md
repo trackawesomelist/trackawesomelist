@@ -12,6 +12,11 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [hu.dwim.walker (⭐4)](https://github.com/hu-dwim/hu.dwim.walker) - a code walker and unwalker (aka AST parser and unparser). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
+### JetBrains / Third-party APIs
+
+*   [SLT (⭐96)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
+    *   🎉 NEW! Released in Jan, 2023.
+
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Community / Interfaces to other package managers

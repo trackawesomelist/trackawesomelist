@@ -6,6 +6,13 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Jan 18, 2023](/content/2023/01/18/README.md)
+
+### JetBrains / Third-party APIs
+
+*   [SLT (⭐96)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
+    *   🎉 NEW! Released in Jan, 2023.
+
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 
 ### Mobile

@@ -711,6 +711,8 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789\&hl=en\&as_sdt=0,5)]. A computational account on rational problem representation in human planning.
 
+*   [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***Trends in Cognitive Sciences***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A review that outlines the computational and biological principles that enable the brain to compute the usefulness of an option or action by creating abstractions that flexibly adapt to changing goals.
+
 *   [Human Performance on Insight Problem Solving: A Review](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1094\&context=jps) - ***The Journal of Problem Solving***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=15913242870565808883\&hl=en\&as_sdt=0,5)].
 
 *   [Learning to perceive and act by trial and error](https://link.springer.com/article/10.1007/BF00058926) - ***Machine Learning***, 1991. \[[All Versions](https://scholar.google.com/scholar?cluster=1987606770603964473\&hl=en\&as_sdt=0,5)].

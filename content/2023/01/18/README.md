@@ -1,12 +1,51 @@
 # Awesome List Updates on Jan 18, 2023
 
-8 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Problem Solving / Human-Level Problem Solving
+
+*   [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***Trends in Cognitive Sciences***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A review that outlines the computational and biological principles that enable the brain to compute the usefulness of an option or action by creating abstractions that flexibly adapt to changing goals.
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### JetBrains / Third-party APIs
+
+*   [SLT (⭐96)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
+    *   🎉 NEW! Released in Jan, 2023.
+
+## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📁 [Flowbite Admin Dashboard (⭐43)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+
+## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+
+### Articles / Others
+
+*   [Reducing Blazor WASM size by providing custom ICU data](https://www.meziantou.net/reducing-blazor-application-size-by-providing-custom-icu-data.htm) - January 16, 2023 - Reducing Blazor WASM size by providing custom ICU data.
+
+## [5. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+
+### Framework-agnostic Plugins / Transformers
+
+*   [Vite-plugin-haxe (⭐0)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
+
+## [6. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+
+### Remote Jobs:
+
+- Website: <https://jobstache.com>
+
+
+
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Static Page Generation
 
@@ -16,7 +55,7 @@
 
 *   [omise (⭐10)](https://github.com/omise/omise-elixir) - Omise client library for Elixir.
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI
 
@@ -30,7 +69,7 @@
 
 *   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
 
-## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+## [9. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ### Specifications
 
@@ -47,7 +86,7 @@
 
 *   [GraphQL Roadmap](https://roadmap.sh/graphql/) - Step by step guide to learn GraphQL.
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Monitoring
 
@@ -57,25 +96,29 @@
 
 *   [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
 
-## [5. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [11. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### operations
 
 *   [geojson-indoor-tools (⭐0)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 
-## [6. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+## [12. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+
+### Racing
+
+*   [Vange-rs (⭐356)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 
 ### Strategy
 
 *   [VanillaConquer (⭐209)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 
-## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Photo / Image
 
 *   [yet-another-react-lightbox (⭐94)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
 
-## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [14. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 

@@ -1,12 +1,32 @@
 # Awesome List Updates on Jan 16 - Jan 22, 2023
 
-29 awesome lists updated this week.
+32 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c)
 
 
 
-## [1. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+
+### UI Libraries, Components & Templates
+
+*   📁 [Flowbite Admin Dashboard (⭐43)](https://github.com/themesberg/flowbite-admin-dashboard) - Open-source admin dashboard template built with Tailwind CSS and Flowbite.
+
+## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+
+### Articles / Others
+
+*   [Reducing Blazor WASM size by providing custom ICU data](https://www.meziantou.net/reducing-blazor-application-size-by-providing-custom-icu-data.htm) - January 16, 2023 - Reducing Blazor WASM size by providing custom ICU data.
+
+## [3. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+
+### Remote Jobs:
+
+- Website: <https://jobstache.com>
+
+
+
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Static Page Generation
 
@@ -16,7 +36,7 @@
 
 *   [omise (⭐10)](https://github.com/omise/omise-elixir) - Omise client library for Elixir.
 
-## [2. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Specifications
 
@@ -33,50 +53,54 @@
 
 *   [GraphQL Roadmap](https://roadmap.sh/graphql/) - Step by step guide to learn GraphQL.
 
-## [3. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [6. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
 *   [geojson-indoor-tools (⭐0)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 
-## [4. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [7. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+
+### Racing
+
+*   [Vange-rs (⭐356)](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 
 ### Strategy
 
 *   [VanillaConquer (⭐209)](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 
-## [5. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [8. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Photo / Image
 
 *   [yet-another-react-lightbox (⭐94)](https://github.com/igordanchenko/yet-another-react-lightbox) - [demo](https://yet-another-react-lightbox.com/examples) - [docs](https://yet-another-react-lightbox.com/documentation) - React lightbox component.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated) 🛍
 
 *   [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
 
-## [7. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [10. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Network
 
 *   [MasterQ32/zig-network (⭐237)](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
 *   [dantecatalfamo/zig-dns (⭐50)](https://github.com/dantecatalfamo/zig-dns) - Experimental DNS library implemented in zig.
 
-## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Security
 
 *   [teler-waf (⭐93)](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / Managed File Transfer
 
 *   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - Securely support all file transfer use cases from a single, centrally managed MFT platform.
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Screencapturing Software
 
@@ -90,13 +114,13 @@
 
 *   Appstorrent：~~`http://appstorrent.ru/`~~
 
-## [11. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
+## [14. Awesome Inertiajs](/content/innocenzi/awesome-inertiajs/week/README.md)
 
 ### Resources / Other
 
 *   [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
 
-## [12. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [15. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
@@ -112,35 +136,44 @@
 
 *   [TailwindUI theme (⭐4)](https://github.com/santiblanko/tailwind-keycloak-theme)
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Mobile
 
 *   [hu.dwim.walker (⭐4)](https://github.com/hu-dwim/hu.dwim.walker) - a code walker and unwalker (aka AST parser and unparser). [BSD](https://directory.fsf.org/wiki/License:BSD_3Clause). See also [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
-## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+### JetBrains / Third-party APIs
+
+*   [SLT (⭐96)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
+    *   🎉 NEW! Released in Jan, 2023.
+
+## [17. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Self Hosted Readers / Outline Processor Markup Language
 
 *   [Matcha - Daily RSS Digest (⭐72)](https://github.com/piqoni/matcha) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piqoni/matcha)
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [echasnovski/mini.nvim#mini.move (⭐1.4k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-move.md) - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
 
-## [16. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [19. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Knowledge Management
 
 *   [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). \[[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. \[\[Wikipedia-EN]\(<https://en.wikipedia.org/wiki/Chinese_Library_Classification#:~:text=The%20Chinese%20Library%20Classification%20(CLC,as%20well%20as%20public%20libraries.)>].
 
+### Problem Solving / Human-Level Problem Solving
+
+*   [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***Trends in Cognitive Sciences***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A review that outlines the computational and biological principles that enable the brain to compute the usefulness of an option or action by creating abstractions that flexibly adapt to changing goals.
+
 ### Commonsense / Commonsense Knowledgebase
 
 *   [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701\&hl=en\&as_sdt=0,5)]. Latest version of ConceptNet.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -162,13 +195,13 @@
 
 *   [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [Insurance-system (⭐19)](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 
-## [19. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [22. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -188,6 +221,10 @@
 
 *   [vite-plugin-image-optimizer (⭐6)](https://github.com/FatehAK/vite-plugin-image-optimizer) - Optimize (compress) your image assets using Sharp.js and SVGO at build time.
 
+### Framework-agnostic Plugins / Transformers
+
+*   [Vite-plugin-haxe (⭐0)](https://github.com/ciscoheat/vite-plugin-haxe) - Use Haxe when targeting JS, transforming `.hxml`.
+
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-auto-alias (⭐0)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
@@ -196,13 +233,13 @@
 
 *   [Compiiile (⭐43)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Configuration
 
 *   [softprops/envy (⭐647)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
 
-## [21. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [24. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### OS Images
 
@@ -212,7 +249,7 @@
 
 *   [`@Raspberry_Pi@raspberrypi.social` on Mastodon](https://raspberrypi.social/@Raspberry_Pi)
 
-## [22. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [25. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Projects / Web
 
@@ -237,7 +274,7 @@
 *   [nsk-mironov/kotlin-jetpack (⭐187)](https://github.com/nsk-mironov/kotlin-jetpack)
 *   [ragunathjawahar/kaffeine (⭐156)](https://github.com/ragunathjawahar/kaffeine)
 
-## [23. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### The Generative AI Area: history, maps, and definitions
 
@@ -303,7 +340,7 @@
 
 *   [BIRME](https://www.birme.net/): Bulk Image Resizing Made Easy 2.0 (Online & Free)
 
-## [24. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [27. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -318,7 +355,7 @@
 *   [ehrapy (⭐28)](https://github.com/theislab/ehrapy/) - Electronic Health Record analysis in Python.
 *   [Hermes (⭐104)](https://github.com/wardle/hermes) - a SNOMED CT terminology server.
 
-## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -328,7 +365,7 @@
 
 *   [daivasmara (⭐52)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
 
-## [26. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
+## [29. Awesome Dotfiles](/content/webpro/awesome-dotfiles/week/README.md)
 
 ### Articles / Tutorials
 
@@ -358,7 +395,7 @@
 *   [dotstow (⭐92)](https://github.com/clayrisser/dotstow)
 *   [YADR](http://skwp.github.io/dotfiles/)
 
-## [27. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [30. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Languages / .NET
 
@@ -367,13 +404,13 @@
 *   [dotnet-yieldly-sdk (⭐11)](https://github.com/geoffodonnell/dotnet-yieldly-sdk) - Yieldly .NET SDK.
 *   [powershell-algorand-module (⭐2)](https://github.com/geoffodonnell/powershell-algorand-module) - Algorand PowerShell Module.
 
-## [28. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [31. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Zero Knowledge Proofs
 
 *   [Information Theoretic Reductions among Disclosure Problems](https://web.archive.org/http://crypto.cs.mcgill.ca/\~crepeau/BCR86.pdf) - Brassau et al.
 
-## [29. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [32. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
