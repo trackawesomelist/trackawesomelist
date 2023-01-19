@@ -2,15 +2,25 @@
 
 A curated list of awesome resources for electronic engineers and hobbyists
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 4.4K · 🏷️ Hardware
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kitspace/awesome-electronics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics) · ⭐ 4.5K · 🏷️ Hardware
 
 [ [Daily](/content/kitspace/awesome-electronics/README.md) / Weekly / [Overview](/content/kitspace/awesome-electronics/readme/README.md) ]
+
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### Free EDA Packages / Installable
+
+*   [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
+
+### PCB Batching Services / Eagle
+
+*   [PCBWay](https://www.pcbway.com/) - Low cost PCB batching service with PCBA, CNC and 3D-Printing services.
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐25)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐31)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [Jul 04 - Jul 10, 2022](/content/2022/27/README.md)
 
@@ -26,19 +36,19 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [delftopenhardware/awesome-open-hardware (⭐112)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+*   [delftopenhardware/awesome-open-hardware (⭐155)](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
 ### Simulators / Analog and Mixed Signal Circuit Simulators
 
-*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐19)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+*   [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project (⭐24)](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
 ### Documentation / University Course Archives
 
-*   [Inkscape Electric Symbols (⭐90)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+*   [Inkscape Electric Symbols (⭐105)](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
 
 ## [Nov 01 - Nov 07, 2021](/content/2021/44/README.md)
 
@@ -54,8 +64,8 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [Awesome Lattice FPGAs (⭐212)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
-*   [TM90/awesome-hwd-tools (⭐35)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+*   [Awesome Lattice FPGAs (⭐222)](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+*   [TM90/awesome-hwd-tools (⭐38)](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
 
 ## [Jun 21 - Jun 27, 2021](/content/2021/25/README.md)
 
@@ -79,7 +89,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### CAD Specific / KiCad
 
-*   [kicad-exports (⭐72)](https://github.com/nerdyscout/kicad-exports) - Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every `git push` with a CI like Github Actions.
+*   [kicad-exports (⭐73)](https://github.com/nerdyscout/kicad-exports) - Auto generate files (schematics, gerbers, BoM, plots, 3D model) for any KiCAD project. Run it locally or on every `git push` with a CI like Github Actions.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -116,9 +126,9 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### CAD Specific / KiCad
 
-*   [Xesscorp's list of KiCad 3rd party tools (⭐609)](https://github.com/xesscorp/kicad-3rd-party-tools)
+*   [Xesscorp's list of KiCad 3rd party tools (⭐625)](https://github.com/xesscorp/kicad-3rd-party-tools)
 *   [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
-*   [Footprint Collection (⭐276)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
+*   [Footprint Collection (⭐285)](https://github.com/kitspace/kicad_footprints) - Collection of all the KiCad footprints available online and some scripts to manage them.
 
 ### PCB Batching Services / Eagle
 
@@ -165,11 +175,11 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Other Lists / Help
 
-*   [PwnKitteh/InsanelyCheapElectronics (⭐271)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
-*   [intajay/open-electronics (⭐370)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-*   [Vitorian/awesome-fpga (⭐243)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
-*   [cajt/list\_of\_robot\_electronics (⭐233)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
-*   [embedded-boston/awesome-embedded-systems (⭐580)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
+*   [PwnKitteh/InsanelyCheapElectronics (⭐279)](https://github.com/PwnKitteh/InsanelyCheapElectronics) - A list of cheap electronics from China, that you can use in your projects.
+*   [intajay/open-electronics (⭐399)](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+*   [Vitorian/awesome-fpga (⭐251)](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources.
+*   [cajt/list\_of\_robot\_electronics (⭐244)](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
+*   [embedded-boston/awesome-embedded-systems (⭐598)](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 *   [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
@@ -237,11 +247,11 @@ A curated list of awesome resources for electronic engineers and hobbyists
 ### Free EDA Packages / Installable
 
 *   [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
-*   [Horizon EDA (⭐774)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+*   [Horizon EDA (⭐849)](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
 
 ### CAD Specific / KiCad
 
-*   [InteractiveHtmlBom (⭐2.6k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+*   [InteractiveHtmlBom (⭐2.8k)](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### PCB Batching Services / Eagle
 
@@ -315,7 +325,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### Inventory Management and Purchasing / Eagle
 
-*   [Part-DB (⭐146)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
+*   [Part-DB (⭐155)](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
 ## [Nov 13 - Nov 19, 2017](/content/2017/46/README.md)
 
@@ -356,8 +366,8 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### CAD Specific / Eagle
 
-*   [Adafruit Eagle Library (⭐996)](https://github.com/adafruit/Adafruit-Eagle-Library)
-*   [SparkFun Electronics Eagle Libraries (⭐1.6k)](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+*   [Adafruit Eagle Library (⭐999)](https://github.com/adafruit/Adafruit-Eagle-Library)
+*   [SparkFun Electronics Eagle Libraries (⭐1.7k)](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
 ### PCB Batching Services / Eagle
 
@@ -392,7 +402,7 @@ A curated list of awesome resources for electronic engineers and hobbyists
 
 ### CAD Specific / KiCad
 
-*   [Keyboard PCB Guide (⭐3.5k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+*   [Keyboard PCB Guide (⭐3.6k)](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 
 ### Blogs / Eagle
 

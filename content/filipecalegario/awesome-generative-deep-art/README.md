@@ -6,6 +6,12 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jan 19, 2023](/content/2023/01/19/README.md)
+
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+
+*   [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
+
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
 ### Discussions and Philosophy / Critical Views about Generative AI

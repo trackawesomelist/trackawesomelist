@@ -2,7 +2,7 @@
 
 🚀 Awesome (free) web apps that work without login
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 1.9K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/aviaryan/awesome-no-login-web-apps/README.md) / [Weekly](/content/aviaryan/awesome-no-login-web-apps/week/README.md) / Overview ]
 
@@ -266,6 +266,7 @@ To save the world from creating user accounts and installing software applicatio
 *   [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
 *   [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 *   [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
+*   [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 
 ### Search Engines
 

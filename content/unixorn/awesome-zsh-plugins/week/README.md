@@ -10,11 +10,12 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins.
+*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
 *   [daivasmara (⭐52)](https://github.com/Daivasmara/daivasmara.zsh-theme) - Chill theme with decorators for current directory (truncated if necessary) and `git` information, including time since last commit.
+*   [gianu-alternative (⭐0)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -35,7 +36,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [cmaker (⭐4)](https://github.com/apalkk/Cmaker) - Makes using `cmake` easier.
 *   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐154k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 *   [golang (⭐0)](https://github.com/wintermi/zsh-golang) - Adds tooling for the Go programming language toolchain.
-*   [lsd (⭐0)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9k)](https://github.com/Peltoche/lsd).
+*   [lsd (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9k)](https://github.com/Peltoche/lsd).
 *   [rust (cowboyd) (⭐0)](https://github.com/cowboyd/zsh-rust) - Configure your [rust](https://www.rust-lang.org/) toolchain, installing [rustup](https://rustup.rs) if it is not currently installed already.
 *   [rust (wintermi) (⭐0)](https://github.com/wintermi/zsh-rust) - Plugin for the [rust](https://www.rust-lang.org/) toolchain.
 
@@ -78,7 +79,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [aguiar (⭐0)](https://github.com/aguiar-us/aguiar.zsh-theme) - Includes decorators for user\@hostname and current working directory.
 *   [gitneko (⭐1)](https://github.com/gynamics/zsh-gitneko/) - Has a neko `(^>ω<^)` prompt with `git` status information.
 *   [gus (⭐0)](https://github.com/gusye1234/Gus-zsh-theme/) - Hackable transient theme. Includes decorators for conda, `git` information and current directory.
 

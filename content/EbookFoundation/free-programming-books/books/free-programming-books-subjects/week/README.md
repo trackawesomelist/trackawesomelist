@@ -6,6 +6,12 @@
 
 [ [Daily](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md) / Weekly / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### Mathematics For Computer Science
+
+*   [Graph Theory Exercises](https://www.ime.usp.br/\~pf/graph-exercises/) - Paulo Feofiloff (PDF)
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Open Source Ecosystem

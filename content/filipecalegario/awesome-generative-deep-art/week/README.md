@@ -49,6 +49,10 @@ A curated list of generative deep learning tools, works, models, etc. for artist
 
 *   \[🔥] [weihaox/awesome-gan-inversion (⭐875)](https://github.com/weihaox/awesome-gan-inversion): A collection of resources on GAN inversion
 
+### Inbox: Text and Natural Language Processing / Text-related Generative Tools
+
+*   [Character.AI](https://beta.character.ai/): platform for creating and talking to advanced AI Characters
+
 ### Inbox: Text-to-speech (TTS) tools / Text-related Generative Tools
 
 *   [VALL-E](https://valle-demo.github.io/): synthesize high-quality personalized speech with only a 3-second samples

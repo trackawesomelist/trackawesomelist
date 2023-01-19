@@ -2,9 +2,15 @@
 
 🚀 Awesome (free) web apps that work without login
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 1.9K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/aviaryan/awesome-no-login-web-apps/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) · ⭐ 2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/aviaryan/awesome-no-login-web-apps/README.md) / Weekly / [Overview](/content/aviaryan/awesome-no-login-web-apps/readme/README.md) ]
+
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### Programming Tools / Others
+
+*   [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 
 ## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
 

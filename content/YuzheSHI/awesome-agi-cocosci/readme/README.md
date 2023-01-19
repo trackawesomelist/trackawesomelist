@@ -709,6 +709,10 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608\&hl=en\&as_sdt=0,5)]. A piece of evidence on hierarchical human planning.
 
+*   [Hierarchical reasoning by neural circuits in the frontal cortex](https://www.cnbc.cmu.edu/braingroup/papers/sarafyazd_jazayeri_2019.pdf) - ***Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=9875733886908769773\&hl=en\&as_sdt=0,5)]. Neuroscience evidence supporting rule switch.
+
+*   [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***Nature***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220\&hl=en\&as_sdt=0,5)]. The original paper introducing mixed selectivity with high-dimensional neural representations.
+
 *   [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789\&hl=en\&as_sdt=0,5)]. A computational account on rational problem representation in human planning.
 
 *   [Goals, usefulness and abstraction in value-based choice](https://www.sciencedirect.com/science/article/pii/S1364661322002819) - ***Trends in Cognitive Sciences***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6256990098976657651\&hl=en\&as_sdt=2005\&sciodt=0,5)]. A review that outlines the computational and biological principles that enable the brain to compute the usefulness of an option or action by creating abstractions that flexibly adapt to changing goals.
@@ -723,7 +727,7 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 
 *   [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/virtualtoolsgame/home)]. \[[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]. A computational account on rapid trail-and-error problem solving with a noisy prior model.
 
-*   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
+*   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
 
 *   [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893\&hl=en\&as_sdt=0,5)].
 
@@ -1340,6 +1344,10 @@ Contributing is greatly welcomed! Please read the [Contribution Guidelines](http
 * [Memory](https://plato.stanford.edu/entries/memory/) - ***Plato Stanford***.-->
 
 *   [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/) - ***Plato Stanford***. A computational philosophy account on ToM.
+
+*   [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763\&hl=en\&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
+
+*   [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047\&hl=en\&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions.
 
 *   [Action Understanding as Inverse Planning](https://www.sciencedirect.com/science/article/pii/S0010027709001607) - ***Cognition***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=11478704181983566675\&hl=en\&as_sdt=0,5)]. \[[Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0010027709001607-mmc1.pdf)]. The original paper on Inverse Planning, a computational implementation of ToM.
 

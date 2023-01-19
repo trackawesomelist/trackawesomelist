@@ -924,7 +924,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [loremipsum (⭐0)](https://github.com/pfahlr/zsh_plugin_loremipsum) - Generate lorem ipsum text on the command line. Gets its data from [lipsum.com](https://www.lipsum.com).
 *   [ls (twopizza9621536) (⭐0)](https://github.com/TwoPizza9621536/zsh-ls) - Adds some more aliases for `ls`.
 *   [ls (zpm-zsh) (⭐75)](https://github.com/zpm-zsh/ls) - Colorizes the output of `ls`.
-*   [lsd (⭐0)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9k)](https://github.com/Peltoche/lsd).
+*   [lsd (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9k)](https://github.com/Peltoche/lsd).
 *   [lumberjack (⭐37)](https://github.com/molovo/lumberjack) - Lumberjack is a logging interface for shell scripts.
 *   [lux (⭐24)](https://github.com/pndurette/zsh-lux) - ZSH plugin to toggle the light & dark modes of macOS and other items and applications via the `lux` command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a `macos_is_dark` helper function to determine if the macOS dark mode is active for use in theming.
 *   [mac-packaging (⭐1)](https://github.com/Temikus/mac-packaging) - A set of common functions used for enterprise Mac packaging with [Munki](https://www.munki.org/munki/).
@@ -1192,7 +1192,7 @@ This section is for full setup dropins - they aren't frameworks, but they're not
 *   [tmuxrepl (⭐21)](https://github.com/csurfer/tmuxrepl) - Simple ZSH plugin to have a R-EP-L [tmux](https://tmux.github.io) session.
 *   [toggl (⭐5)](https://github.com/natterstefan/toggl-zsh-plugin) - Adds a `toggl-week` command to display the total working hours tracked on [toggl.com](https://toggl.com)
 *   [toggle-command-prefix (⭐14)](https://github.com/xPMo/zsh-toggle-command-prefix) - Add a widget to toggle a prefix to a command. Binds Alt+s to prefix a command with `sudo` by default.
-*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins.
+*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 *   [traista (⭐0)](https://github.com/odgon/traista) - Includes `git` status decorations and color-coded exit status of the last command run. Better with dark terminal themes.
 *   [travis (⭐4)](https://github.com/denolfe/zsh-travis) - Opens the [Travis CI](https://www.travis-ci.com/) page for the current repo if one exists.
 *   [tre (⭐0)](https://github.com/redxtech/zsh-tre) - Makes using [tre (⭐371)](https://github.com/dduan/tre#editor-aliasing) easier.
@@ -1528,7 +1528,6 @@ If you're using [Antigen (⭐7.4k)](https://github.com/zsh-users/antigen), you c
 *   [agnosterAfro (⭐6)](https://github.com/afrozalm/agnosterAfro) - Based on [Powerline (⭐2.9k)](https://github.com/Lokaltog/vim-powerline) and [Agnoster](https://gist.github.com/agnoster/3712874) themes and inspired by the [agnosterzak (⭐369)](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme).
 *   [agnoster](https://gist.github.com/agnoster/3712874) - Optimized for solarized terminal color schemes, shows `git` decorations, user\@host, working directory, the previous command's exit status and whether you are running with root privileges. Requires a Powerline-compatible font.
 *   [agnosterzak (⭐369)](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme) - Based on [Agnoster](https://gist.github.com/agnoster/3712874), shows battery life, date & time, `git` status, current directory and user & host information.
-*   [aguiar (⭐0)](https://github.com/aguiar-us/aguiar.zsh-theme) - Includes decorators for user\@hostname and current working directory.
 *   [air (⭐0)](https://github.com/Ivan-Kuzmichev/air) - Minimalist theme with `git` status decorations.
 *   [akzsh (⭐1)](https://github.com/awkimball/akzsh) - Works best with a dark terminal theme, includes `git` decorations.
 *   [al-magic (⭐0)](https://github.com/Alustrat/al-magic/) - Clone of the oh-my-zsh [af-magic (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/af-magic.zsh-theme) theme with the time added at the right of the prompt.
@@ -1767,6 +1766,7 @@ If you're using [Antigen (⭐7.4k)](https://github.com/zsh-users/antigen), you c
 *   [geometry (⭐859)](https://github.com/geometry-zsh/geometry) - A minimal ZSH theme where any function can be added to the left prompt or (async) right prompt on the fly.
 *   [gerry (⭐0)](https://github.com/GerryLarios/gerry-prompt) - Based on [bureau (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/wiki/themes#bureau), includes decorations for `git` status, current time, username, hostname and current directory.
 *   [ghoti (⭐0)](https://github.com/lonr/ghoti) - Mimics the `fish-shell` default prompt. Includes `git` decorations.
+*   [gianu-alternative (⭐0)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
 *   [gideon (⭐0)](https://github.com/userhiren/oh-my-zsh-gideon-theme) - Inspired by [avit (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/avit.zsh-theme), includes `git` decorations, IP address, host and path.
 *   [gimbo (⭐2)](https://github.com/gimbo/gimbo.zsh-theme) - A variant of [purepower (⭐249)](https://github.com/romkatv/dotfiles-public/blob/master/.purepower) with more features, a little eye candy and context-sensitive extra lines. Includes `git` status decorations, history number, username/hostname context, directory status, status of last command if it failed, and the Python virtualenv name if present.
 *   [gimme (⭐0)](https://github.com/nralbrecht/gimmezsh) - A simplistic theme for ZSH with `git` integration. Inspired by the [gitsome (⭐55)](https://github.com/mtully/gitsome) theme.

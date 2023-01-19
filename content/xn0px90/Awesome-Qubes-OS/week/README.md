@@ -2,9 +2,15 @@
 
 A collection of awesome Qubes OS links
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 14 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) · ⭐ 26 · 🏷️ Miscellaneous
 
 [ [Daily](/content/xn0px90/Awesome-Qubes-OS/README.md) / Weekly / [Overview](/content/xn0px90/Awesome-Qubes-OS/readme/README.md) ]
+
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### Training and Materials / Web articles
+
+*   [anonymous planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -12,7 +18,7 @@ A collection of awesome Qubes OS links
 
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-*   [Qubes OS GitHub Documentation (⭐286)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
+*   [Qubes OS GitHub Documentation (⭐287)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 *   [Qubes OS Onion](http://www.qubesosfasa4zl44o4tws22di6kepyzfeqv3tg4e3ztknltfxqrymdad.onion) - Qubes OS onion address on the Tor network.
 
 ### Downloading, Installing, Upgrading, and Building
@@ -32,9 +38,9 @@ A collection of awesome Qubes OS links
 *   [GUI-troubleshooting](https://www.qubes-os.org/doc/gui-troubleshooting/)
 *   [GUI-virtualization](https://www.qubes-os.org/doc/gui/)
 *   [How-to-use-pci-devices](https://www.qubes-os.org/doc/how-to-use-pci-devices/)
-*   [Install-nvidia-driver (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
-*   [Nvidia-troubleshooting (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
-*   [Windows-gaming-hvm (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
+*   [Install-nvidia-driver (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/install-nvidia-driver.md)
+*   [Nvidia-troubleshooting (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/troubleshooting/nvidia-troubleshooting.md)
+*   [Windows-gaming-hvm (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-gaming-hvm.md)
 
 ### Desktop Customization
 
@@ -44,7 +50,7 @@ A collection of awesome Qubes OS links
 
 ### VPN
 
-*   [Qubes-Tunnel (⭐15)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+*   [Qubes-Tunnel (⭐16)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 
 ### Crypto
 
@@ -169,23 +175,23 @@ A collection of awesome Qubes OS links
 
 ### Templates
 
-*   [Creating a NetBSD VM (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
-*   [Customizing Fedora minimal templates (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md)
-*   [Customizing Windows 7 templates (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md)
+*   [Creating a NetBSD VM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/netbsd.md)
+*   [Customizing Fedora minimal templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/fedora-minimal-template-customization.md)
+*   [Customizing Windows 7 templates (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/customization/windows-template-customization.md)
 *   [Debian templates](https://www.qubes-os.org/doc/templates/debian/)
 *   [Fedora templates](https://www.qubes-os.org/doc/templates/fedora/)
 *   [Minimal templates](https://www.qubes-os.org/doc/templates/minimal/)
-*   [Pentesting: BlackArch (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md)
-*   [Pentesting: Kali (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md)
-*   [Pentesting: PTF (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md)
+*   [Pentesting: BlackArch (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/blackarch.md)
+*   [Pentesting: Kali (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/kali.md)
+*   [Pentesting: PTF (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/pentesting/ptf.md)
 *   [Pentesting: Parrot](https://www.parrotsec.org/docs/parrot-on-qubesos.html)
-*   [Template: CentOS (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
-*   [Template: Gentoo (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
-*   [Template: Ubuntu (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
-*   [Template: Whonix (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
-*   [Template: Windows (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
+*   [Template: CentOS (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/centos.md)
+*   [Template: Gentoo (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/gentoo.md)
+*   [Template: Ubuntu (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/ubuntu.md)
+*   [Template: Whonix (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
+*   [Template: Windows (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/windows/windows-vm.md)
 *   [Templates](https://www.qubes-os.org/doc/templates/)
-*   [Tips for Using Linux in an HVM (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
+*   [Tips for Using Linux in an HVM (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/os/linux-hvm-tips.md)
 *   [Xfce templates](https://www.qubes-os.org/doc/templates/xfce/)
 
 ### Desktop Customization
@@ -202,25 +208,25 @@ A collection of awesome Qubes OS links
 
 ### Crypto
 
-*   [Split Bitcoin Wallet (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
+*   [Split Bitcoin Wallet (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 
 ### Security
 
-*   [Anonymizing your MAC Address (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
+*   [Anonymizing your MAC Address (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md)
 *   [Anti evil maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)
 *   [Data leaks](https://www.qubes-os.org/doc/data-leaks/)
 *   [Device handling security](https://www.qubes-os.org/doc/device-handling-security/)
 *   [Firewall](https://www.qubes-os.org/doc/firewall/)
-*   [Reducing the fingerprint of the text-based web browser w3m (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
-*   [Running Tails in Qubes (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
-*   [Signal (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
+*   [Reducing the fingerprint of the text-based web browser w3m (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/w3m.md)
+*   [Running Tails in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/tails.md)
+*   [Signal (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/signal.md)
 *   [Split GPG](https://www.qubes-os.org/doc/split-gpg/)
-*   [Split SSH (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
+*   [Split SSH (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/split-ssh.md)
 *   [Split dm-crypt (⭐24)](https://github.com/rustybird/qubes-split-dm-crypt)
 *   [U2F proxy](https://www.qubes-os.org/doc/u2f-proxy/)
-*   [Using Multi-Factor Authentication with Qubes (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
+*   [Using Multi-Factor Authentication with Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/multifactor-authentication.md)
 *   [Using OnlyKey with Qubes OS](https://docs.crp.to/qubes.html)
-*   [Whonix for Privacy & Anonymity (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
+*   [Whonix for Privacy & Anonymity (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/whonix.md)
 *   [YubiKey](https://www.qubes-os.org/doc/yubikey/)
 
 ### Kernels
@@ -346,7 +352,7 @@ A collection of awesome Qubes OS links
 ### VM-Hardening / Web articles
 
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security)
-*   [Qubes-VM-hardening (⭐61)](https://github.com/tasket/Qubes-VM-hardening)
+*   [Qubes-VM-hardening (⭐63)](https://github.com/tasket/Qubes-VM-hardening)
 
 ### Social media / Web articles
 
@@ -377,8 +383,8 @@ A collection of awesome Qubes OS links
 
 ### VPN
 
-*   [How To make a VPN Gateway in Qubes (⭐196)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
-*   [WireGuard (⭐196)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
+*   [How To make a VPN Gateway in Qubes (⭐201)](https://github.com/Qubes-Community/Contents/blob/master/docs/configuration/vpn.md) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
+*   [WireGuard (⭐201)](https://github.com/Qubes-Community/Contents/tree/master/docs/wireguard) - WireGuard: fast, modern, secure VPN tunnel.
 
 ### Videos
 

@@ -209,7 +209,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 
 ### Database
 
-*   [Atomic-Server (⭐200)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐222)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
 *   [Databend (⭐5.1k)](https://github.com/datafuselabs/databend) - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture [![Release](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml/badge.svg)](https://github.com/datafuselabs/databend/actions/workflows/databend-release.yml)
 *   [DB3 Network (⭐78)](https://github.com/dbpunk-labs/db3) — DB3 is a community-driven blockchain layer2 decentralized database network ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/dbpunk-labs/db3/ci.yml?branch=main\&style=flat-square)
 *   [indradb](https://crates.io/crates/indradb) — Rust based graph database [![build badge](https://api.travis-ci.org/indradb/indradb.svg?branch=master)](https://travis-ci.org/indradb/indradb)
@@ -404,14 +404,14 @@ See also [A comparison of operating systems written in Rust (⭐491)](https://gi
 ### Text editors
 
 *   [amp](https://amp.rs) — Inspired by Vi/Vim. [![build badge](https://api.travis-ci.org/jmacdonald/amp.svg?branch=master)](https://travis-ci.org/jmacdonald/amp)
+*   [emacs-ng (⭐1.3k)](https://github.com/emacs-ng/emacs-ng) — Complementing the C codebase with rust code to introduce new features.
 *   [gchp/iota (⭐1.6k)](https://github.com/gchp/iota) — A simple text editor [![build badge](https://api.travis-ci.org/gchp/iota.svg?branch=master)](https://travis-ci.org/gchp/iota)
 *   [helix (⭐18k)](https://github.com/helix-editor/helix) — A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
 *   [ilai-deutel/kibi (⭐893)](https://github.com/ilai-deutel/kibi) — A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/workflows/CI/badge.svg?branch=master)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+*   [Lapce (⭐22k)](https://github.com/lapce/lapce) — A modern editor with a backend written in Rust. Taking inspiration from the discontinued [xi-editory (⭐20k)](https://github.com/xi-editor/xi-editor).
 *   [mathall/rim (⭐557)](https://github.com/mathall/rim) — Vim-like text editor written in Rust
 *   [ox (⭐2.9k)](https://github.com/curlpipe/ox) — An independent Rust text editor that runs in your terminal!
-*   [Remacs (⭐4.5k)](https://github.com/remacs/remacs) — A community-driven port of Emacs to Rust. [![build badge](https://api.travis-ci.org/remacs/remacs.svg?branch=master)](https://travis-ci.org/remacs/remacs)
 *   [vamolessa/pepper (⭐285)](https://github.com/vamolessa/pepper) \[[pepper](https://crates.io/crates/pepper)] — An opinionated modal editor to simplify code editing from the terminal [![build badge](https://github.com/vamolessa/pepper/workflows/rust/badge.svg?branch=master)](https://github.com/vamolessa/pepper)
-*   [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
 
 ### Text processing
 
@@ -439,7 +439,7 @@ See also [A comparison of operating systems written in Rust (⭐491)](https://gi
 *   [fcsonline/tmux-thumbs (⭐606)](https://github.com/fcsonline/tmux-thumbs) — A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 *   [guoxbin/dtool (⭐314)](https://github.com/guoxbin/dtool) — A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 *   [mprocs (⭐594)](https://github.com/pvolok/mprocs) — TUI for running multiple processes
-*   [nix-community/nurl (⭐58)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐96)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 *   [nomino (⭐470)](https://github.com/yaa110/nomino) — Batch rename utility for developers [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
 *   [raftario/licensor (⭐163)](https://github.com/raftario/licensor) — write licenses to stdout [![GitHub Actions](https://github.com/raftario/licensor/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/raftario/licensor/actions/workflows/build.yml)
 *   [rustdesk/rustdesk (⭐36k)](https://github.com/rustdesk/rustdesk) — A remote desktop software, great alternative to TeamViewer and AnyDesk.
@@ -543,7 +543,7 @@ See also [A comparison of operating systems written in Rust (⭐491)](https://gi
     *   [icepuma/rust-action (⭐76)](https://github.com/icepuma/rust-action) — rust github action
     *   [peaceiris/actions-mdbook (⭐232)](https://github.com/peaceiris/actions-mdbook) — GitHub Actions for mdBook
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐218)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐221)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Debugging
 
@@ -1297,7 +1297,6 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   Cocoa
     *   [servo/core-foundation-rs (⭐686)](https://github.com/servo/core-foundation-rs) — [![build badge](https://api.travis-ci.com/servo/core-foundation-rs.svg?branch=master)](https://travis-ci.org/servo/core-foundation-rs)
 *   [DioxusLabs/dioxus (⭐6.7k)](https://github.com/dioxuslabs/dioxus) - a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. ![rust ci](https://github.com/dioxuslabs/dioxus/actions/workflows/main.yml/badge.svg)
-*   [Druid (⭐8.3k)](https://github.com/linebender/druid) \[[druid](https://crates.io/crates/druid)] — [Druid](https://linebender.org/druid/), a data-first Rust-native UI design toolkit. [![build badge](https://github.com/linebender/druid/workflows/.github/workflows/ci.yml/badge.svg)](https://github.com/linebender/druid/actions)
 *   [emilk/egui (⭐13k)](https://github.com/emilk/egui) - Simple, fast, and highly portable immediate mode GUI library for Rust. egui runs on the web, natively, and in your favorite game engine. [![Build Status](https://github.com/emilk/egui/workflows/CI/badge.svg)](https://github.com/emilk/egui/actions?workflow=CI)
 *   [emoon/rust\_minifb (⭐778)](https://github.com/emoon/rust_minifb) — minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
 *   [FLTK](https://www.fltk.org/)
@@ -1332,6 +1331,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [slint-ui/slint (⭐5.5k)](https://github.com/slint-ui/slint) \[[slint](https://crates.io/crates/slint)] — [Slint](https://slint-ui.com) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [![Build Status](https://github.com/slint-ui/slint/workflows/CI/badge.svg?branch=master)](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 *   [tauri-apps/tauri (⭐57k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY (⭐2.2k)](https://github.com/tauri-apps/wry). [![test library](https://img.shields.io/github/workflow/status/tauri-apps/tauri/test%20library?label=test%20library)](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 *   [tauri-apps/wry (⭐2.2k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [xilem (⭐597)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐8.3k)](https://github.com/linebender/druid).
 
 ### Image processing
 

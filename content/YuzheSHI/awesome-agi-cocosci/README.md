@@ -6,6 +6,19 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Jan 19, 2023](/content/2023/01/19/README.md)
+
+### Problem Solving / Human-Level Problem Solving
+
+*   [Hierarchical reasoning by neural circuits in the frontal cortex](https://www.cnbc.cmu.edu/braingroup/papers/sarafyazd_jazayeri_2019.pdf) - ***Science***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=9875733886908769773\&hl=en\&as_sdt=0,5)]. Neuroscience evidence supporting rule switch.
+*   [The importance of mixed selectivity in complex cognitive tasks](https://oar.princeton.edu/rt4ds/file/11875/2161) - ***Nature***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=2707751672275136220\&hl=en\&as_sdt=0,5)]. The original paper introducing mixed selectivity with high-dimensional neural representations.
+*   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cognitivesciencesociety.org/cogsci20/papers/0765/0765.pdf) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
+
+### Theory of Mind / Science Education
+
+*   [The naïve utility calculus: Computational principles underlying commonsense psychology](http://sll.stanford.edu/docs/2016_JaraEttinger_Gweon_Schulz_Tenenbaum_TiCS.pdf) - ***Trends in Cognitive Sciences***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=6894095575934067763\&hl=en\&as_sdt=0,5)]. A perspective on understanding social interactions through the naïve utility calculus framework.
+*   [Planning with theory of mind](https://saxelab.mit.edu/sites/default/files/publications/HoSaxeCushman2022.pdf) - ***Trends in Cognitive Sciences***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8461125353366208047\&hl=en\&as_sdt=0,5)]. A perspective on understanding Theory of Mind through planning that consists of abstract structured causal representations and supports efficient search and selection from innumerable possible actions.
+
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
 ### Problem Solving / Human-Level Problem Solving
@@ -1430,7 +1443,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Problem Solving / Human-Level Problem Solving
 
-*   [Abstract strategy learning underlies flexible transfer in physical problem solving](https://cogsci.mindmodeling.org/2020/papers/0764/) - ***CogSci'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?hl=en\&as_sdt=0%2C5\&q=Abstract+strategy+learning+underlies+flexible+transfer+in+physical+problem+solving.\&btnG=)].
 *   [Physion: Evaluating Physical Prediction from Vision in Humans and Machines](https://openreview.net/forum?id=CXyZrKPz4CU) - ***NeurIPS'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=8733318111076645893\&hl=en\&as_sdt=0,5)].
 
 ## [Jan 22, 2022](/content/2022/01/22/README.md)

@@ -8,9 +8,18 @@ A curated list of Rust code and resources.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
+### Applications / Text editors
+
+*   [emacs-ng (⭐1.3k)](https://github.com/emacs-ng/emacs-ng) — Complementing the C codebase with rust code to introduce new features.
+*   [Lapce (⭐22k)](https://github.com/lapce/lapce) — A modern editor with a backend written in Rust. Taking inspiration from the discontinued [xi-editory (⭐20k)](https://github.com/xi-editor/xi-editor).
+
 ### Libraries / Configuration
 
 *   [softprops/envy (⭐647)](https://github.com/softprops/envy) - deserialize env vars into typesafe structs [![Main](https://github.com/softprops/envy/actions/workflows/main.yml/badge.svg)](https://github.com/softprops/envy/actions/workflows/main.yml)
+
+### Libraries / GUI
+
+*   [xilem (⭐597)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐8.3k)](https://github.com/linebender/druid).
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -20,7 +29,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
-*   [Atomic-Server (⭐200)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
+*   [Atomic-Server (⭐222)](https://github.com/atomicdata-dev/atomic-data-rust/) \[[atomic-server](https://crates.io/crates/atomic_server)] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes. [![Release](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml/badge.svg)](https://github.com/atomicdata-dev/atomic-data-rust/actions/workflows/docker.yml)
 
 ### Applications / Security tools
 
@@ -41,12 +50,12 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [nix-community/nurl (⭐58)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
+*   [nix-community/nurl (⭐96)](https://github.com/nix-community/nurl) \[[nurl](https://crates.io/crates/nurl)] — Generate Nix fetcher calls from repository URLs [![build-badge](https://github.com/nix-community/nurl/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/nurl/actions/workflows/ci.yml)
 
 ### Development tools / Build system
 
 *   [Nix](https://nixos.org/)
-    *   [nix-community/fenix (⭐218)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
+    *   [nix-community/fenix (⭐221)](https://github.com/nix-community/fenix) — Rust toolchains and rust analyzer nightly for nix [![build-badge](https://github.com/nix-community/fenix/actions/workflows/ci.yml/badge.svg)](https://github.com/nix-community/fenix/actions/workflows/ci.yml)
 
 ### Libraries / Cryptography
 
@@ -1439,7 +1448,6 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [Druid (⭐8.3k)](https://github.com/linebender/druid) \[[druid](https://crates.io/crates/druid)] — [Druid](https://linebender.org/druid/), a data-first Rust-native UI design toolkit. [![build badge](https://github.com/linebender/druid/workflows/.github/workflows/ci.yml/badge.svg)](https://github.com/linebender/druid/actions)
 *   [OrbTk (⭐3.7k)](https://github.com/redox-os/orbtk) — The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions)
 *   [PistonDevelopers/conrod (⭐3.3k)](https://github.com/PistonDevelopers/conrod/) — An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust [![build badge](https://api.travis-ci.org/PistonDevelopers/conrod.svg?branch=master)](https://travis-ci.org/PistonDevelopers/conrod)
 
@@ -1803,7 +1811,6 @@ A curated list of Rust code and resources.
 
 *   [amp](https://amp.rs) — Inspired by Vi/Vim. [![build badge](https://api.travis-ci.org/jmacdonald/amp.svg?branch=master)](https://travis-ci.org/jmacdonald/amp)
 *   [gchp/iota (⭐1.6k)](https://github.com/gchp/iota) — A simple text editor [![build badge](https://api.travis-ci.org/gchp/iota.svg?branch=master)](https://travis-ci.org/gchp/iota)
-*   [Remacs (⭐4.5k)](https://github.com/remacs/remacs) — A community-driven port of Emacs to Rust. [![build badge](https://api.travis-ci.org/remacs/remacs.svg?branch=master)](https://travis-ci.org/remacs/remacs)
 
 ### Applications / Text processing
 
@@ -2570,10 +2577,6 @@ A curated list of Rust code and resources.
 
 *   [Pijul](https://pijul.org) — A patch-based distributed version control system
 *   [Servo (⭐22k)](https://github.com/servo/servo) — A prototype web browser engine
-
-### Applications / Text editors
-
-*   [xi-editor (⭐20k)](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
 
 ### Applications / Utilities
 

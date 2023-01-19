@@ -6,11 +6,17 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Jan 19, 2023](/content/2023/01/19/README.md)
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
+
+*   [gianu-alternative (⭐0)](https://github.com/zbentzinger/gianu-alternative-theme) - An alternative to [OMZ Gianu (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/blob/61dd3682e69aa990a8a3589c5c61ea2e1edf8312/themes/gianu.zsh-theme) that changes prompt based on privilege. Includes `git` status and current directory decorators.
+
 ## [Jan 16, 2023](/content/2023/01/16/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins.
+*   [toolbox (⭐0)](https://github.com/paxcoder/zsh-toolbox) - Automagically updates [homebrew](https://brew.sh) plugins. Allows enabling/disabling notice during startup and alias setup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
@@ -68,7 +74,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
 
-*   [lsd (⭐0)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9k)](https://github.com/Peltoche/lsd).
+*   [lsd (⭐1)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐9k)](https://github.com/Peltoche/lsd).
 
 ## [Dec 31, 2022](/content/2022/12/31/README.md)
 
@@ -101,12 +107,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 *   [aws (⭐0)](https://github.com/chiemerieezechukwu/aws-zsh-theme) - Based on [robbyrussell (⭐154k)](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#robbyrussell), with an extra decorator to show your `$AWS_PROFILE` when it is set.
 *   [pico (⭐0)](https://github.com/PicoGeyer/zsh-pico-prompt) - Simple prompt modified from [zap-prompt (⭐13)](https://github.com/zap-zsh/zap-prompt) with decorators for `git` information, user\@hostname and working directory.
-
-## [Dec 17, 2022](/content/2022/12/17/README.md)
-
-### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole)   \- Windows-only.
-
-*   [aguiar (⭐0)](https://github.com/aguiar-us/aguiar.zsh-theme) - Includes decorators for user\@hostname and current working directory.
 
 ## [Dec 15, 2022](/content/2022/12/15/README.md)
 
