@@ -8,6 +8,10 @@ A collection of awesome Qubes OS links
 
 ## [Jan 20, 2023](/content/2023/01/20/README.md)
 
+### Desktop Customization
+
+*   [qubes-gui-rust (⭐5)](https://github.com/QubesOS/qubes-gui-rust)
+
 ### Training and Materials / Web articles
 
 *   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.

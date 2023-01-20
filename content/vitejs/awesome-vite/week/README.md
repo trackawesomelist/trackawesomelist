@@ -32,6 +32,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
+*   [vite-plugin-shortcuts (⭐2)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
 *   [vite-plugin-auto-alias (⭐0)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 
 ### Open Source / Community

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
+## [Jan 20, 2023](/content/2023/01/20/README.md)
+
+### Framework-agnostic Plugins / Helpers
+
+*   [vite-plugin-shortcuts (⭐2)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
+
 ## [Jan 18, 2023](/content/2023/01/18/README.md)
 
 ### Framework-agnostic Plugins / Transformers

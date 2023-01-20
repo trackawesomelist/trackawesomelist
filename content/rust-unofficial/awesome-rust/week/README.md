@@ -21,6 +21,13 @@ A curated list of Rust code and resources.
 
 *   [xilem (⭐597)](https://github.com/linebender/xilem) — Successor of the data-first Rust-native UI design toolkit [druid (⭐8.3k)](https://github.com/linebender/druid).
 
+### Libraries / Platform specific
+
+*   Linux
+    *   [hannobraun/inotify-rs (⭐220)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
+    *   [pop-os/distinst (⭐200)](https://github.com/pop-os/distinst/) — Linux distribution installer
+    *   [yaa110/rust-iptables (⭐66)](https://github.com/yaa110/rust-iptables) \[[iptables](https://crates.io/crates/iptables)] — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings [![build badge](https://api.travis-ci.org/yaa110/rust-iptables.svg?branch=master)](https://travis-ci.org/yaa110/rust-iptables)
+
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
 ### Applications / Cryptocurrencies
@@ -1098,11 +1105,6 @@ A curated list of Rust code and resources.
 
 *   FreeBSD
     *   [fubarnetes/libjail-rs (⭐38)](https://github.com/fubarnetes/libjail-rs/) \[[jail](https://crates.io/crates/jail)] — Rust implementation of a FreeBSD jail library
-*   Linux
-    *   [arvancloud/nginx-rs (⭐104)](https://github.com/arvancloud/nginx-rs) — [Nginx](https://www.nginx.com) bindings [![build badge](https://api.travis-ci.org/arvancloud/nginx-rs.svg?branch=master)](https://travis-ci.org/arvancloud/nginx-rs)
-    *   [hannobraun/inotify-rs (⭐220)](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [![Rust](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/hannobraun/inotify-rs/actions/workflows/rust.yml)
-    *   [pop-os/distinst (⭐200)](https://github.com/pop-os/distinst/) — Linux distribution installer
-    *   [yaa110/rust-iptables (⭐66)](https://github.com/yaa110/rust-iptables) \[[iptables](https://crates.io/crates/iptables)] — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings [![build badge](https://api.travis-ci.org/yaa110/rust-iptables.svg?branch=master)](https://travis-ci.org/yaa110/rust-iptables)
 
 ### Libraries / Scripting
 
@@ -1789,7 +1791,6 @@ A curated list of Rust code and resources.
 
 ### Applications / Security tools
 
-*   [arvancloud/libinjection-rs (⭐35)](https://github.com/arvancloud/libinjection-rs) — Rust bindings for [libinjection (⭐931)](https://github.com/client9/libinjection) [![build badge](https://api.travis-ci.org/arvancloud/libinjection-rs.svg?branch=master)](https://travis-ci.org/arvancloud/libinjection-rs)
 *   [kpcyrd/rshijack (⭐378)](https://github.com/kpcyrd/rshijack) — A TCP connection hijacker, rust rewrite of shijack [![build badge](https://api.travis-ci.org/kpcyrd/rshijack.svg?branch=master)](https://travis-ci.org/kpcyrd/rshijack)
 *   [kpcyrd/sn0int (⭐1.4k)](https://github.com/kpcyrd/sn0int) — A semi-automatic OSINT framework and package manager [![build badge](https://api.travis-ci.org/kpcyrd/sn0int.svg?branch=master)](https://travis-ci.org/kpcyrd/sn0int)
 
