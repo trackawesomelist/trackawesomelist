@@ -10,7 +10,9 @@ A collection of awesome Qubes OS links
 
 ### Training and Materials / Web articles
 
-*   [anonymous planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity
+*   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
+    *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
+    *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -81,7 +83,7 @@ A collection of awesome Qubes OS links
 
 ### Unikernels
 
-*   [Awesome-Unikernels (⭐20)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
+*   [Awesome-Unikernels (⭐22)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
 *   [Qubes-Mirage-Firewall (⭐184)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 
 ### Exploitation Tools

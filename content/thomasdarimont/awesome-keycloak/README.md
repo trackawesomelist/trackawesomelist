@@ -6,6 +6,12 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [Jan 20, 2023](/content/2023/01/20/README.md)
+
+### Community Extensions
+
+*   [2FA with Code sent via Email (⭐8)](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
+
 ## [Jan 17, 2023](/content/2023/01/17/README.md)
 
 ### Community Extensions

@@ -8,6 +8,14 @@
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
+### File Converters / Others
+
+*   [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
+
+### Privacy, Security and Cryptography / Others
+
+*   [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.
+
 ### Programming Tools / Others
 
 *   [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.

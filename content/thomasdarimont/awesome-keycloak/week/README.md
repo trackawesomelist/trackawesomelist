@@ -11,6 +11,7 @@ A curated list of resources for learning about http://www.keycloak.org
 ### Community Extensions
 
 *   [Flexible IdP mapper for OIDC and SAML providers (⭐7)](https://github.com/LucaFilipozzi/keycloak-regex-mapper)
+*   [2FA with Code sent via Email (⭐8)](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)
 
 ### Integrations
 

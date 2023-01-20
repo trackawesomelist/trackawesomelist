@@ -2,7 +2,7 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 845 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 861 · 🏷️ Front-End Development
 
 [ [Daily](/content/lvwzhen/tools/README.md) / [Weekly](/content/lvwzhen/tools/week/README.md) / Overview ]
 
@@ -106,6 +106,7 @@ Tools Online
 *   [jsbin](http://jsbin.com/)
 *   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 *   [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
+*   [Flatlogic CRUD Apps Generator](https://flatlogic)
 
 ### Pagespeed
 

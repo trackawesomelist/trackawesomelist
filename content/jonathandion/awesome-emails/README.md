@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jonathandion/awesome-emails/week/README.md) / [Overview](/content/jonathandion/awesome-emails/readme/README.md) ]
 
+## [Jan 20, 2023](/content/2023/01/20/README.md)
+
+### Services
+
+*   [Mailscribe Mailmaker](https://mailscribe.com/page/mailmaker) - AI-powered email marketing platform that allows to design email with built-in components.
+
 ## [Jan 08, 2023](/content/2023/01/08/README.md)
 
 ### Testing
@@ -59,9 +65,9 @@
 
 ## [Jun 30, 2022](/content/2022/06/30/README.md)
 
-### Workflows
+### Articles
 
-*   [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails by Josh W. Comeau
+*   [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/) - My Wonderful HTML Email Workflow, using MJML and MDX for responsive emails.
 
 ## [May 17, 2022](/content/2022/05/17/README.md)
 
@@ -87,7 +93,7 @@
 
 ### Tools
 
-*   [email-verifier (⭐599)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
+*   [email-verifier (⭐611)](https://github.com/AfterShip/email-verifier) - A tool for email verification without sending any emails.
 
 ## [Nov 11, 2020](/content/2020/11/11/README.md)
 
@@ -113,7 +119,7 @@
 
 ### Self-Hosted Services
 
-*   [SimpleLogin (⭐3.2k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
+*   [SimpleLogin (⭐3.3k)](https://github.com/simple-login/app) - Self-hosted email alias solution.
 
 ## [Mar 29, 2020](/content/2020/03/29/README.md)
 
@@ -162,7 +168,7 @@
 
 ### Services
 
-*   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time
+*   [Postmark](https://postmarkapp.com) - Lightning fast delivery for your application emails. Postmark delivers your transactional email to customers on time, every time.
 
 ## [Sep 23, 2019](/content/2019/09/23/README.md)
 
@@ -192,7 +198,7 @@
 
 ### Articles
 
-*   [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails
+*   [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for writing effective emails.
 
 ## [Jun 26, 2019](/content/2019/06/26/README.md)
 
@@ -230,7 +236,7 @@
 
 ### Self-Hosted Services
 
-*   [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution
+*   [iRedMail](https://iredmail.org/) - Easy to install open source mail server solution.
 
 ### Resources
 
@@ -397,7 +403,7 @@
 
 ## [Sep 24, 2015](/content/2015/09/24/README.md)
 
-### Workflows
+### Articles
 
 *   [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
@@ -422,7 +428,7 @@
 
 ### Templates
 
-*   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
+*   [Sendwithus](https://www.sendwithus.com/resources/templates) - Open source email templates.
 
 ## [Sep 11, 2015](/content/2015/09/11/README.md)
 
@@ -487,15 +493,15 @@
 *   [Cerberus (⭐4.6k)](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 *   [Antwort (⭐3.6k)](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 *   [Responsive HTML Template (⭐681)](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
-*   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
+*   [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service.
+*   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 
 ### Tools
 
 *   [Bulletproof Email Buttons](http://buttons.cm/) - Design gorgeous buttons using progressively enhanced VML and CSS.
 
-### Workflows
+### Articles
 
-*   [Lee Munroe's Grunt Email Design (⭐3k)](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
 *   [Darylldoyle Gulp workflow (⭐166)](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 
 ### Resources

@@ -2,9 +2,15 @@
 
 Tools Online
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 845 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lvwzhen/tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [😺 lvwzhen/tools](https://github.com/lvwzhen/tools) · ⭐ 861 · 🏷️ Front-End Development
 
 [ [Daily](/content/lvwzhen/tools/README.md) / Weekly / [Overview](/content/lvwzhen/tools/readme/README.md) ]
+
+## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
+
+### JavaScript
+
+*   [Flatlogic CRUD Apps Generator](https://flatlogic)
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
