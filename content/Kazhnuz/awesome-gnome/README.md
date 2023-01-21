@@ -6,6 +6,87 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 [ Daily / [Weekly](/content/Kazhnuz/awesome-gnome/week/README.md) / [Overview](/content/Kazhnuz/awesome-gnome/readme/README.md) ]
 
+## [Jan 21, 2023](/content/2023/01/21/README.md)
+
+### Internet and Networking
+
+*   [Polari](https://apps.gnome.org/app/org.gnome.Polari/) - Talk to people on IRC. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Wrap](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
+### Office
+
+*   [Citations](https://apps.gnome.org/app/org.gnome.World.Citations/) - Manage your bibliography. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
+### Productivity and Time
+
+*   [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
+
+### Multimedia
+
+*   [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/) - Plays music, and nothing else. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Identify any songs in seconds. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Podcasts](https://apps.gnome.org/app/org.gnome.Podcasts/) - Listen to your favourite podcasts. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Zap](https://apps.gnome.org/app/fr.romainvigier.zap/) - Play sounds from a soundboard. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
+### Scientific Tooling
+
+*   [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/) - Simple graph plotting. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
+### Utilities
+
+*   [Audio Sharing](https://apps.gnome.org/app/de.haeckerfelix.AudioSharing/) - Share your computer audio. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/) - Control your Elgato Stream Decks. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Scan and Generate QR Codes. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Junction](https://apps.gnome.org/app/re.sonny.Junction/) - Junction lets you choose the application to open files and links. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
+### Security and Privacy
+
+*   [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
+### Development and Design
+
+*   [Lorem](https://apps.gnome.org/app/org.gnome.design.Lorem/) - Generate placeholder text. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Share Preview](https://apps.gnome.org/app/com.rafaelmardojai.SharePreview/) - Test social media cards locally. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+
+### Development and Design / Design Tooling
+
+*   [Emblem](https://apps.gnome.org/app/org.gnome.design.Emblem/) - Generate project avatars.
+
+### Docks and Panels / Design Tooling
+
+*   [Dash-to-Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - A fully-featured dock.
+*   [Dock-from-Dash](https://extensions.gnome.org/extension/4703/dock-from-dash/) - Simply transform your Dash into a Dock.
+
+### Customization and Tweaks / Design Tooling
+
+*   [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
+*   [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - Tweak your quick settings menu.
+
+### Menus / Design Tooling
+
+*   [Arc Menu](https://extensions.gnome.org/extension/3628/arcmenu/) - Windows7-like application menu inspired by the one in Zorin OS.
+*   [Fly-Pie](https://extensions.gnome.org/extension/3433/fly-pie/) - Mouse-based menu.
+
+### Applets / Design Tooling
+
+*   [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/) - Simple clipboard applet.
+*   [Desk Changer](https://extensions.gnome.org/extension/1131/desk-changer/) - Wallpaper slideshow applet.
+*   [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) - Emoji picker applet.
+*   [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation.
+
+### Visual Changes / Design Tooling
+
+*   [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - Adds wobbly effects to windows.
+*   [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
+*   [Desktop Cube (⭐452)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+*   [Burn My Windows (⭐2.1k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
+
 ## [Jan 20, 2023](/content/2023/01/20/README.md)
 
 ### Internet and Networking
@@ -13,8 +94,8 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [GNOME Web](https://apps.gnome.org/app/org.gnome.Epiphany/) - Official web browser project of GNOME. ![GNOME Core](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg)
 *   [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - BitTorrent client. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 *   [Newsflash](https://apps.gnome.org/app/com.gitlab.newsflash/) - RSS feeds reader. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Get fonts from Google Font. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Group your webapps into a single application. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Install fonts from online sources. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
+*   [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Browser for your pinned tabs. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ### Office
 
@@ -27,7 +108,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Well Being
 
 *   [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Listen to different sounds. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-*   [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking.
+*   [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
 ### Multimedia
 
@@ -75,30 +156,16 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ## [Dec 17, 2022](/content/2022/12/17/README.md)
 
-### Visual Changes / Design Tooling
-
-*   [Useless Gaps (⭐32)](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
-
 ### Libraries / Skeumorphic Icons
 
 *   [Relm4](https://relm4.org/) - Building native applications with Rust and GTK4
 
-## [Dec 21, 2021](/content/2021/12/21/README.md)
-
-### Utilities
-
-*   [Junction](https://junction.sonny.re/) - Junction lets you choose the application to open files and links. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
-
 ## [Sep 25, 2021](/content/2021/09/25/README.md)
 
-### Menus / Design Tooling
+### Customization and Tweaks / Design Tooling
 
-*   [Fly-Pie (⭐868)](https://github.com/Schneegans/Fly-Pie) - Mouse-based menu.
-
-### Usage Experience / Design Tooling
-
-*   [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
 *   [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
+*   [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
 
 ### Visual Changes / Design Tooling
 
@@ -160,12 +227,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [GTK Documentation](https://docs.gtk.org) - Official GTK documentation.
 *   [GJS Guide](https://gjs.guide/) - Guide for GJS.
 
-## [Mar 15, 2021](/content/2021/03/15/README.md)
-
-### Utilities
-
-*   [Kooha (⭐1.2k)](https://github.com/SeaDve/Kooha) - A simple screen recorder.
-
 ## [Feb 25, 2021](/content/2021/02/25/README.md)
 
 ### Multimedia
@@ -196,16 +257,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Gaphor](https://gaphor.org) - The simple modeling tool for UML and SysML. ![GNOME Circle](https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-circle.png)
 
-### Menus / Design Tooling
-
-*   [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
-
-## [Nov 27, 2020](/content/2020/11/27/README.md)
-
-### Applets / Design Tooling
-
-*   [Extensions Sync (⭐235)](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
-
 ## [Nov 25, 2020](/content/2020/11/25/README.md)
 
 ### Applets / Design Tooling
@@ -224,20 +275,17 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Nautilus Terminal (⭐294)](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
+### Windows / Design Tooling
+
+*   [Coverflow Alt-Tab (⭐307)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
+
 ### Audio / Design Tooling
 
 *   [Application Volume Mixer (⭐86)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
-*   [Sound Input & Output Device Chooser (⭐698)](https://github.com/kgshank/gse-sound-output-device-chooser) - Quickly switch between different input and output devices.
-
-### Usage Experience / Design Tooling
-
-*   [Simple Off Menu](https://gitlab.com/K3rcus/simpler-off-menu) - Removes selected power options from system menu.
-*   [Coverflow Alt-Tab (⭐307)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Visual Changes / Design Tooling
 
 *   [Transparent Shell (⭐13)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
-*   [Compiz alike windows effect (⭐92)](https://github.com/hermes83/compiz-alike-windows-effect) - Adds wobbly effects to windows.
 
 ## [Sep 15, 2020](/content/2020/09/15/README.md)
 
@@ -256,12 +304,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Documentations / Skeumorphic Icons
 
 *   [GJS Documentation](https://gjs-docs.gnome.org/) - Documentation for the JavaScript GTK bindings.
-
-## [May 29, 2020](/content/2020/05/29/README.md)
-
-### Multimedia
-
-*   [Podcasts](https://wiki.gnome.org/Apps/Podcasts) - Listen to your favourite podcasts.
 
 ## [Jan 10, 2020](/content/2020/01/10/README.md)
 
@@ -327,7 +369,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Detwinner](https://neatdecisions.com/products/detwinner-linux/) - Simple and fast tool for removing duplicate files.
 *   [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 
-### Complete overhaul / Design Tooling
+### Docks and Panels / Design Tooling
 
 *   [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
 
@@ -339,16 +381,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Applets / Design Tooling
 
 *   [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
-*   [GSConnect (⭐2.6k)](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
 *   [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
 
 ### Windows / Design Tooling
 
 *   [PaperWM (⭐2k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Docks and Panels / Design Tooling
-
-*   [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
 
 ### Services integration / Design Tooling
 
@@ -403,10 +440,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Dynamic Wallpaper Editor (⭐189)](https://github.com/maoschanz/dynamic-wallpaper-editor) - Utility for editing GNOME's XML wallpapers
 
-### Applets / Design Tooling
-
-*   [Emoji Selector (⭐426)](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
-
 ## [Jun 25, 2018](/content/2018/06/25/README.md)
 
 ### Internet and Networking
@@ -431,12 +464,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Bibata (⭐1k)](https://github.com/KaizIqbal/Bibata_Cursor) - Silm material-based cursor theme.
 *   [Capitaine Cursors (⭐929)](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to be paired with La Capitaine icons.
-
-## [Dec 20, 2017](/content/2017/12/20/README.md)
-
-### Applets / Design Tooling
-
-*   [Docker Integration (⭐149)](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
 
 ## [Sep 25, 2017](/content/2017/09/25/README.md)
 
@@ -490,9 +517,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 *   [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
-*   [Focusli (⭐78)](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet.
-*   [Clipboard Indicator (⭐624)](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet.
-*   [Desk Changer (⭐73)](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
 
 ### Icons / Material Icons
 

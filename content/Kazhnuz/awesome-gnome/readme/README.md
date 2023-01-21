@@ -37,12 +37,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
     *   [Others](#others)
 *   [Third-party Apps Plugins](#third-party-apps-plugins)
 *   [Extensions](#extensions)
-    *   [Complete Overhaul](#complete-overhaul)
+    *   [Docks and Panels](#docks-and-panels)
+    *   [Customization and Tweaks](#customization-and-tweaks)
     *   [Menus](#menus)
     *   [Applets](#applets)
     *   [Windows](#windows)
-    *   [Docks and Panels](#docks-and-panels)
-    *   [Usage Experience](#usage-experience)
     *   [Visual Changes](#visual-changes)
     *   [Services Integration](#services-integration)
 *   [Look and Feel](#look-and-feel)
@@ -63,8 +62,11 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [GNOME Web](https://apps.gnome.org/app/org.gnome.Epiphany/) - Official web browser project of GNOME. ![GNOME Core][GNOME Core]
 *   [Fragments](https://apps.gnome.org/app/de.haeckerfelix.Fragments/) - BitTorrent client. ![GNOME Circle][GNOME Circle]
 *   [Newsflash](https://apps.gnome.org/app/com.gitlab.newsflash/) - RSS feeds reader. ![GNOME Circle][GNOME Circle]
-*   [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Get fonts from Google Font. ![GNOME Circle][GNOME Circle]
-*   [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Group your webapps into a single application. ![GNOME Circle][GNOME Circle]
+*   [Font Downloader](https://apps.gnome.org/app/org.gustavoperedo.FontDownloader/) - Install fonts from online sources. ![GNOME Circle][GNOME Circle]
+*   [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Browser for your pinned tabs. ![GNOME Circle][GNOME Circle]
+*   [Polari](https://apps.gnome.org/app/org.gnome.Polari/) - Talk to people on IRC. ![GNOME Circle][GNOME Circle]
+*   [Wrap](https://apps.gnome.org/app/app.drey.Warp/) - Fast and secure file transfer. ![GNOME Circle][GNOME Circle]
+*   [Wike](https://apps.gnome.org/app/com.github.hugolabe.Wike/) - Search and read Wikipedia articles. ![GNOME Circle][GNOME Circle]
 *   [Eolie](https://gitlab.gnome.org/World/eolie) - Web browser that uses vertical tabs.
 *   [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client, created originally by Yorba.
 *   [Feeds](https://gitlab.gnome.org/World/gfeeds) - An RSS/Atom feed reader.
@@ -75,6 +77,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Office
 
 *   [Apostrophe](https://apps.gnome.org/app/org.gnome.gitlab.somas.Apostrophe/) - Distraction-free Markdown editor. ![GNOME Circle][GNOME Circle]
+*   [Citations](https://apps.gnome.org/app/org.gnome.World.Citations/) - Manage your bibliography. ![GNOME Circle][GNOME Circle]
 *   [NFO Viewer (⭐114)](https://github.com/otsaloma/nfoview) - Simple viewer for NFO files, beating text editors with preset font and encoding settings and clickable hyperlink support.
 *   [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 *   [Foliate (⭐3.9k)](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
@@ -86,6 +89,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [GNOME Todo](https://wiki.gnome.org/Apps/Todo) - Minimal task manager. ![GNOME Core][GNOME Core]
 *   [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
+*   [Khronos](https://apps.gnome.org/app/io.github.lainsce.Khronos/) - Log the time it took to do tasks. ![GNOME Core][GNOME Core]
 *   [GTimeLog (⭐225)](https://github.com/gtimelog/gtimelog) - Simple app for keeping track of time.
 *   [Gnome Pomodoro](http://gnomepomodoro.org/) - Simple pomodoro timer.
 *   [Timetrack](https://gitlab.gnome.org/danigm/timetrack) - Time tracker.
@@ -93,13 +97,17 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 ### Well Being
 
 *   [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Listen to different sounds. ![GNOME Circle][GNOME Circle]
-*   [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking.
+*   [Health](https://apps.gnome.org/app/dev.Cogitri.Health/) - Health tracking. ![GNOME Circle][GNOME Circle]
 
 ### Multimedia
 
 *   [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Client for web-based radio. ![GNOME Circle][GNOME Circle]
 *   [Cozy](https://apps.gnome.org/app/com.github.geigi.cozy/) - Audiobook player. ![GNOME Circle][GNOME Circle]
 *   [Video Trimer](https://apps.gnome.org/app/org.gnome.gitlab.YaLTeR.VideoTrimmer/) - Trim video quickly. ![GNOME Circle][GNOME Circle]
+*   [Amberol](https://apps.gnome.org/app/io.bassi.Amberol/) - Plays music, and nothing else. ![GNOME Circle][GNOME Circle]
+*   [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Identify any songs in seconds. ![GNOME Circle][GNOME Circle]
+*   [Podcasts](https://apps.gnome.org/app/org.gnome.Podcasts/) - Listen to your favourite podcasts. ![GNOME Circle][GNOME Circle]
+*   [Zap](https://apps.gnome.org/app/fr.romainvigier.zap/) - Play sounds from a soundboard. ![GNOME Circle][GNOME Circle]
 *   [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 *   [Vocal (⭐335)](https://github.com/needle-and-thread/vocal) - Powerful, beautiful, and simple podcast client for the modern free desktop.
 *   [Celluloid (⭐861)](https://github.com/celluloid-player/celluloid) - Simple frontend for mpv.
@@ -108,7 +116,6 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Pulseeffect (⭐4.4k)](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 *   [Curlew](https://curlew.sourceforge.io/) - Multimedia converter.
 *   [Pitivi](http://www.pitivi.org/) - Beautiful and powerful video editor.
-*   [Podcasts](https://wiki.gnome.org/Apps/Podcasts) - Listen to your favourite podcasts.
 *   [Spot (⭐1.7k)](https://github.com/xou816/spot) - Spotify Client.
 *   [Clapper (⭐515)](https://github.com/Rafostar/clapper) - Simple and modern media player.
 
@@ -120,6 +127,10 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Coulr (⭐25)](https://github.com/Huluti/Coulr) - Convert between RGB and hexadecimal codes for colours.
 *   [Color Picker](https://gitlab.gnome.org/World/gcolor3/) - Color pickle, working on both X11 and Wayland.
 *   [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
+
+### Scientific Tooling
+
+*   [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/) - Simple graph plotting. ![GNOME Circle][GNOME Circle]
 
 ### Gaming
 
@@ -142,6 +153,12 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 *   [Dialect](https://apps.gnome.org/app/app.drey.Dialect/) - Translate text. ![GNOME Circle][GNOME Circle]
 *   [Markets](https://apps.gnome.org/app/com.bitstower.Markets/) - Keep track of your investments. ![GNOME Circle][GNOME Circle]
+*   [Audio Sharing](https://apps.gnome.org/app/de.haeckerfelix.AudioSharing/) - Share your computer audio. ![GNOME Circle][GNOME Circle]
+*   [Boatswain](https://apps.gnome.org/app/com.feaneron.Boatswain/) - Control your Elgato Stream Decks. ![GNOME Circle][GNOME Circle]
+*   [Decoder](https://apps.gnome.org/app/com.belmoussaoui.Decoder/) - Scan and Generate QR Codes. ![GNOME Circle][GNOME Circle]
+*   [Junction](https://apps.gnome.org/app/re.sonny.Junction/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
+*   [Kooha](https://apps.gnome.org/app/io.github.seadve.Kooha/) - Elegantly record your screen. ![GNOME Circle][GNOME Circle]
+*   [Metronome](https://apps.gnome.org/app/com.adrienplazas.Metronome/) - Keep the tempo. ![GNOME Circle][GNOME Circle]
 *   [GPaste (⭐628)](https://github.com/Keruspe/GPaste) - Clipboard manager (composed of an application and a gnome-shell extension).
 *   [Peek (⭐9.5k)](https://github.com/phw/peek) - Simple screen recorder that saves your recording as a GIF.
 *   [Catfish](https://launchpad.net/catfish-search) - Simple search application.
@@ -149,14 +166,15 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Recipes](https://gitlab.gnome.org/GNOME/recipes/) - Cooking application.
 *   [RecApp (⭐101)](https://github.com/amikha1lov/RecApp) - User friendly Open Source screencaster.
 *   [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
-*   [Kooha (⭐1.2k)](https://github.com/SeaDve/Kooha) - A simple screen recorder.
-*   [Junction](https://junction.sonny.re/) - Junction lets you choose the application to open files and links. ![GNOME Circle][GNOME Circle]
 
 ### Security and Privacy
 
 *   [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/) - Censor private information. ![GNOME Circle][GNOME Circle]
 *   [Metadata Cleaner](https://apps.gnome.org/app/fr.romainvigier.MetadataCleaner/) - View and clean metadata in files. ![GNOME Circle][GNOME Circle]
 *   [Secrets](https://apps.gnome.org/app/org.gnome.World.Secrets/) - Keepass-compatible password manager. ![GNOME Circle][GNOME Circle]
+*   [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
+*   [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
+*   [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
 *   [Passbook](https://gitlab.gnome.org/gnumdk/passbook) - Password manager compatible with freedesktop secrets.
 
 ### Development and Design
@@ -166,6 +184,9 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Webfont Kit Generator](https://apps.gnome.org/app/com.rafaelmardojai.WebfontKitGenerator/) - Create @font-face kits easily. ![GNOME Circle][GNOME Circle]
 *   [Commit](https://apps.gnome.org/app/re.sonny.Commit/) - Commit message editor. ![GNOME Circle][GNOME Circle]
 *   [Workbench](https://apps.gnome.org/app/re.sonny.Workbench/) - Learn and prototype with GNOME technologies. ![GNOME Circle][GNOME Circle]
+*   [Lorem](https://apps.gnome.org/app/org.gnome.design.Lorem/) - Generate placeholder text. ![GNOME Circle][GNOME Circle]
+*   [Share Preview](https://apps.gnome.org/app/com.rafaelmardojai.SharePreview/) - Test social media cards locally. ![GNOME Circle][GNOME Circle]
+*   [Text Pieces](https://apps.gnome.org/app/com.github.liferooter.textpieces/) - Transform text without using random websites. ![GNOME Circle][GNOME Circle]
 *   [Sysprof](https://apps.gnome.org/app/org.gnome.Sysprof/) - Profile an application or entire system.
 *   [DevHelp](https://apps.gnome.org/app/org.gnome.Devhelp/) - Developer tool for browsing and searching API documentation.
 
@@ -176,6 +197,7 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 *   [Contrast](https://apps.gnome.org/app/org.gnome.design.Contrast/) - Check the contrast between two colors.
 *   [Icon Library](https://apps.gnome.org/app/org.gnome.design.IconLibrary/) - Symbolic icons for your apps.
 *   [Symbolic Preview](https://apps.gnome.org/app/org.gnome.design.SymbolicPreview/) - Symbolics Made Easy.
+*   [Emblem](https://apps.gnome.org/app/org.gnome.design.Emblem/) - Generate project avatars.
 
 ### Others
 
@@ -188,59 +210,56 @@ A curated list of awesome apps, extensions, modules, themes and tools for the Gn
 
 ## Extensions
 
-### Complete overhaul
+### Docks and Panels
 
+*   [Dash-to-Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - A fully-featured dock.
 *   [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
+*   [Dock-from-Dash](https://extensions.gnome.org/extension/4703/dock-from-dash/) - Simply transform your Dash into a Dock.
+
+### Customization and Tweaks
+
+*   [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
+*   [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
+*   [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
+*   [Quick Settings Tweaker](https://extensions.gnome.org/extension/5446/quick-settings-tweaker/) - Tweak your quick settings menu.
 
 ### Menus
 
 *   [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/) - Category-based menu for applications. ![GNOME Classic][GNOME Core]
 *   [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Menu that provides fast access to your folders. ![GNOME Classic][GNOME Core]
-*   [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) - Windows7-like application menu inspired by the one in Zorin OS.
-*   [Fly-Pie (⭐868)](https://github.com/Schneegans/Fly-Pie) - Mouse-based menu.
+*   [Arc Menu](https://extensions.gnome.org/extension/3628/arcmenu/) - Windows7-like application menu inspired by the one in Zorin OS.
+*   [Fly-Pie](https://extensions.gnome.org/extension/3433/fly-pie/) - Mouse-based menu.
 
 ### Applets
 
 *   [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
 *   [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Status menu to show your removable drives.
 *   [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Weather applet.
-*   [Focusli (⭐78)](https://github.com/felipeborges/gnome-shell-extension-focusli) - Ambient noise applet.
-*   [Clipboard Indicator (⭐624)](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Simple clipboard applet.
-*   [Desk Changer (⭐73)](https://github.com/BigE/desk-changer/) - Wallpaper slideshow applet.
-*   [Emoji Selector (⭐426)](https://github.com/maoschanz/emoji-selector-for-gnome) - Emoji picker applet.
+*   [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/) - Simple clipboard applet.
+*   [Desk Changer](https://extensions.gnome.org/extension/1131/desk-changer/) - Wallpaper slideshow applet.
+*   [Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) - Emoji picker applet.
 *   [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Interface for todo.txt.
 *   [Time ++](https://extensions.gnome.org/extension/1238/time/) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarm clock.
-*   [GSConnect (⭐2.6k)](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
-*   [Docker Integration (⭐149)](https://github.com/gpouilloux/gnome-shell-extension-docker) - An extension for managing docker containers
+*   [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - KDE Connect implementation.
 *   [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) - Appindicator systray.
-*   [Extensions Sync (⭐235)](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations.
 
 ### Windows
 
 *   [PaperWM (⭐2k)](https://github.com/paperwm/PaperWM) - Tiled scrollable window management.
-
-### Docks and Panels
-
-*   [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - A fully-featured dock.
+*   [Coverflow Alt-Tab (⭐307)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
 
 ### Audio
 
 *   [Application Volume Mixer (⭐86)](https://github.com/mymindstorm/gnome-volume-mixer) - Control volume output per-application.
-*   [Sound Input & Output Device Chooser (⭐698)](https://github.com/kgshank/gse-sound-output-device-chooser) - Quickly switch between different input and output devices.
-
-### Usage Experience
-
-*   [Custom Hot Corners - Extended](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Customize hot corners.
-*   [Simple Off Menu](https://gitlab.com/K3rcus/simpler-off-menu) - Removes selected power options from system menu.
-*   [Coverflow Alt-Tab (⭐307)](https://github.com/dmo60/CoverflowAltTab) - Advanced fullscreen app switcher.
-*   [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/) - Customize GNOME Shell.
 
 ### Visual Changes
 
 *   [Blur-my-shell (⭐886)](https://github.com/aunetx/blur-my-shell) - Apply a blur effect to the overview and top panel background.
 *   [Transparent Shell (⭐13)](https://github.com/Siroj42/gnome-extension-transparent-shell) - Makes some UI elements transparent.
-*   [Compiz alike windows effect (⭐92)](https://github.com/hermes83/compiz-alike-windows-effect) - Adds wobbly effects to windows.
-*   [Useless Gaps (⭐32)](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
+*   [Compiz windows effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/) - Adds wobbly effects to windows.
+*   [Useless Gaps](https://extensions.gnome.org/extension/4684/useless-gaps/) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
+*   [Desktop Cube (⭐452)](https://github.com/Schneegans/Desktop-Cube) - A Desktop Cube for GNOME Shell
+*   [Burn My Windows (⭐2.1k)](https://github.com/Schneegans/Burn-My-Windows/) - Open/Close your windows with style.
 
 ### Services integration
 
